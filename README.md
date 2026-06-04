@@ -6,6 +6,7 @@ case, with the **prompt (what the candidate sees) split from the solution (answe
 and exhibits/charts rendered to PNG.
 
 > **Want to practice with it (get an AI to interview you)?** See **[HOW_TO_USE.md](HOW_TO_USE.md)**.
+> **Want the patterns mined from all 2,141 cases** (trigger→action heuristics, per-type frameworks, the math/exhibit playbook, grounded with counts)? See **[PATTERNS.md](PATTERNS.md)**.
 > Note: case interviews have **no single right answer** — the `solution` blocks are a reference, not a grading key.
 
 Source corpus: `C:\Users\guowenjie\Desktop\Prep\Top Business School Casebook_2023 Version`

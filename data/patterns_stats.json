@@ -1,0 +1,1641 @@
+{
+  "n_cases": 2141,
+  "by_type": {
+    "Profitability": 626,
+    "Market Entry": 386,
+    "Investment": 354,
+    "Growth": 238,
+    "M&A": 149,
+    "Other": 147,
+    "Market Sizing": 94,
+    "Pricing": 71,
+    "Opportunity Assessment": 35,
+    "Strategy": 27,
+    "New Product": 10,
+    "Brain Teaser": 4
+  },
+  "by_industry_top25": {
+    "Healthcare": 96,
+    "Food & Beverage": 92,
+    "Consumer Goods": 87,
+    "Manufacturing": 84,
+    "Financial Services": 76,
+    "Retail": 72,
+    "Technology": 60,
+    "Transportation": 45,
+    "Automotive": 40,
+    "Pharmaceuticals": 40,
+    "Telecommunications": 33,
+    "Consumer Products": 29,
+    "Airlines": 27,
+    "Energy": 25,
+    "Media": 23,
+    "Industrial Goods": 23,
+    "Other": 22,
+    "Chemicals": 22,
+    "Education": 20,
+    "General": 18,
+    "Hospitality": 18,
+    "Entertainment": 17,
+    "CPG/Retail": 17,
+    "Insurance": 15,
+    "Media & Entertainment": 14
+  },
+  "by_math_intensity": {
+    "medium": 1241,
+    "low": 455,
+    "high": 430,
+    "n/a": 15
+  },
+  "by_round": {
+    "n/a": 1514,
+    "1": 282,
+    "2": 153,
+    "Round 1": 15,
+    "BCG Round 1": 12,
+    "Round I": 12,
+    "McKinsey Round 1": 9,
+    "Bain Round 1": 8,
+    "2007 Summer, First": 7,
+    "Unknown": 7,
+    "2005 Summer, First": 6,
+    "2006 FT, First": 6,
+    "McKinsey Round 2": 6,
+    "null": 5,
+    "First Round": 4,
+    "2006 FT, Final": 4,
+    "2007 Summer, Second": 4,
+    "Round II": 4,
+    "Unknown Round": 3,
+    "Deloitte Round 2": 3,
+    "Deloitte Round 1": 3,
+    "2006 FT": 2,
+    "2008 Summer, First Round": 2,
+    "2008 Summer Internship, First Round": 2,
+    "2007 Full-Time, First Round": 2,
+    "2008 Summer, First": 2,
+    "2008 Summer, Second": 2,
+    "2007 Full-Time, First": 2,
+    "Round 2": 2,
+    "BCG Second Round": 2,
+    "All": 2,
+    "1/2": 2,
+    "3": 2,
+    "McKinsey & Company, Round II": 2,
+    "Round I (BCG)": 2,
+    "BCG Round I": 2,
+    "BCG Round 2": 2,
+    "Final Round": 2,
+    "Final": 2,
+    "BCG Round 1 (Interviewer Led)": 2,
+    "BCG First Round": 2,
+    "1st Round – Full Time": 1,
+    "2005 Summer, Final": 1,
+    "McKinsey 2005 Summer, First Round": 1,
+    "2005 Summer, First Round": 1,
+    "2007 Summer": 1,
+    "First Round, Full-Time": 1,
+    "Second Round, Full-Time": 1,
+    "Full-Time, First Round": 1,
+    "2008 Summer, Second Round": 1,
+    "2007 Full-Time, Second Round": 1,
+    "2007 Part-Time, First Round": 1,
+    "Bain Round 2": 1,
+    "1, 2": 1,
+    "BCG / Bain Round 1/2": 1,
+    "McKinsey Style, Round 2": 1,
+    "DiamondCluster Round I": 1,
+    "Round II (BCG)": 1,
+    "BCG Round II": 1,
+    "McKinsey Round I": 1,
+    "McKinsey & Company, Round I": 1,
+    "Bain Round II": 1,
+    "Opera Solutions, Round 1": 1,
+    "Bain, Round 1": 1,
+    "AT Kearney China, Round 1": 1,
+    "McKinsey Germany, Round 2": 1,
+    "Opera Solutions, Round 2": 1,
+    "BCG, Round 2": 1,
+    "EY – Superday": 1,
+    "BCG Round 1 (Interviewer-led)": 1,
+    "McKinsey First Round": 1,
+    "McKinsey First Round (Interviewer-Led)": 1,
+    "Round 1 and Final": 1,
+    "Round 1, practice mock case": 1,
+    "Oliver Wyman Round 1": 1
+  },
+  "structure": {
+    "framework_bullets": {
+      "avg": 5.2,
+      "median": 5,
+      "min": 2,
+      "max": 14
+    },
+    "clarifying_questions": {
+      "avg": 5.2,
+      "median": 5,
+      "min": 0,
+      "max": 20
+    },
+    "brainstorm_categories": {
+      "avg": 4.2,
+      "median": 4,
+      "min": 1,
+      "max": 9,
+      "distribution": {
+        "4": 696,
+        "5": 532,
+        "3": 312,
+        "2": 163,
+        "6": 134,
+        "7": 31,
+        "8": 8,
+        "9": 1,
+        "1": 1
+      }
+    },
+    "solution_questions": {
+      "avg": 3.6,
+      "median": 3,
+      "min": 0,
+      "max": 12
+    },
+    "pct_with_math": 87.5,
+    "pct_with_exhibits": 55.8
+  },
+  "clarifying_buckets": {
+    "competition / competitors": {
+      "cases": 715,
+      "pct_cases": 33.4,
+      "questions": 942
+    },
+    "cost / price structure": {
+      "cases": 598,
+      "pct_cases": 27.9,
+      "questions": 826
+    },
+    "objective / target / goal": {
+      "cases": 541,
+      "pct_cases": 25.3,
+      "questions": 640
+    },
+    "geography / scope": {
+      "cases": 499,
+      "pct_cases": 23.3,
+      "questions": 585
+    },
+    "time horizon": {
+      "cases": 303,
+      "pct_cases": 14.2,
+      "questions": 367
+    },
+    "capabilities / resources": {
+      "cases": 211,
+      "pct_cases": 9.9,
+      "questions": 236
+    },
+    "market size / growth": {
+      "cases": 138,
+      "pct_cases": 6.4,
+      "questions": 142
+    },
+    "customers / segments": {
+      "cases": 136,
+      "pct_cases": 6.4,
+      "questions": 141
+    },
+    "budget / capital available": {
+      "cases": 121,
+      "pct_cases": 5.7,
+      "questions": 135
+    },
+    "product / offering details": {
+      "cases": 112,
+      "pct_cases": 5.2,
+      "questions": 118
+    },
+    "competitive response / regulation": {
+      "cases": 106,
+      "pct_cases": 5.0,
+      "questions": 119
+    },
+    "client core business / how they make money": {
+      "cases": 92,
+      "pct_cases": 4.3,
+      "questions": 93
+    },
+    "why now / context of the ask": {
+      "cases": 68,
+      "pct_cases": 3.2,
+      "questions": 69
+    }
+  },
+  "clarifying_total_questions": 11215,
+  "framework_vocab_by_type": {
+    "Profitability": {
+      "n_bullets": 3359,
+      "top_terms": [
+        "costs",
+        "revenue",
+        "cost",
+        "market",
+        "identify",
+        "price",
+        "assess",
+        "product",
+        "profitability",
+        "volume",
+        "customer",
+        "profit",
+        "fixed",
+        "sales",
+        "mix",
+        "variable",
+        "pricing",
+        "competitive",
+        "growth",
+        "structure",
+        "whether",
+        "share",
+        "evaluate",
+        "analyze",
+        "customers",
+        "analysis",
+        "trends",
+        "drivers",
+        "labor",
+        "competitors"
+      ]
+    },
+    "Investment": {
+      "n_bullets": 1887,
+      "top_terms": [
+        "cost",
+        "costs",
+        "revenue",
+        "market",
+        "identify",
+        "assess",
+        "profit",
+        "price",
+        "current",
+        "evaluate",
+        "total",
+        "analysis",
+        "customer",
+        "value",
+        "competitive",
+        "calculate",
+        "growth",
+        "labor",
+        "capacity",
+        "investment",
+        "demand",
+        "product",
+        "risks",
+        "compare",
+        "profitability",
+        "structure",
+        "risk",
+        "potential",
+        "size",
+        "share"
+      ]
+    },
+    "Market Entry": {
+      "n_bullets": 2011,
+      "top_terms": [
+        "market",
+        "costs",
+        "cost",
+        "revenue",
+        "assess",
+        "size",
+        "competitive",
+        "identify",
+        "growth",
+        "customer",
+        "price",
+        "analysis",
+        "risks",
+        "pricing",
+        "evaluate",
+        "entry",
+        "existing",
+        "profitability",
+        "product",
+        "segment",
+        "share",
+        "market size",
+        "investment",
+        "sales",
+        "current",
+        "whether",
+        "customers",
+        "potential",
+        "determine",
+        "distribution"
+      ]
+    },
+    "Other": {
+      "n_bullets": 715,
+      "top_terms": [
+        "cost",
+        "revenue",
+        "identify",
+        "assess",
+        "costs",
+        "market",
+        "analysis",
+        "customer",
+        "current",
+        "price",
+        "competitive",
+        "structure",
+        "demand",
+        "evaluate",
+        "impact",
+        "risks",
+        "product",
+        "strategy",
+        "business",
+        "industry",
+        "factors",
+        "financial",
+        "labor",
+        "change",
+        "growth",
+        "competitors",
+        "supply",
+        "pricing",
+        "existing",
+        "number"
+      ]
+    },
+    "M&A": {
+      "n_bullets": 776,
+      "top_terms": [
+        "market",
+        "synergies",
+        "revenue",
+        "cost",
+        "growth",
+        "assess",
+        "costs",
+        "identify",
+        "acquisition",
+        "value",
+        "price",
+        "evaluate",
+        "competitive",
+        "fit",
+        "risks",
+        "analysis",
+        "sales",
+        "profitability",
+        "management",
+        "product",
+        "structure",
+        "strategic",
+        "customer",
+        "size",
+        "risk",
+        "whether",
+        "integration",
+        "target",
+        "potential",
+        "profit"
+      ]
+    },
+    "Market Sizing": {
+      "n_bullets": 493,
+      "top_terms": [
+        "market",
+        "estimate",
+        "total",
+        "revenue",
+        "size",
+        "number",
+        "population",
+        "price",
+        "annual",
+        "costs",
+        "identify",
+        "segment",
+        "cost",
+        "average",
+        "calculate",
+        "share",
+        "assess",
+        "get",
+        "demand",
+        "year",
+        "apply",
+        "rate",
+        "market size",
+        "volume",
+        "determine",
+        "day",
+        "market share",
+        "competitive",
+        "compare",
+        "customer"
+      ]
+    },
+    "Growth": {
+      "n_bullets": 1223,
+      "top_terms": [
+        "revenue",
+        "market",
+        "growth",
+        "product",
+        "customer",
+        "identify",
+        "assess",
+        "cost",
+        "price",
+        "current",
+        "costs",
+        "share",
+        "pricing",
+        "existing",
+        "customers",
+        "competitive",
+        "evaluate",
+        "sales",
+        "segments",
+        "products",
+        "volume",
+        "mix",
+        "size",
+        "analyze",
+        "understand",
+        "analysis",
+        "segment",
+        "whether",
+        "profitability",
+        "increase"
+      ]
+    },
+    "Pricing": {
+      "n_bullets": 385,
+      "top_terms": [
+        "revenue",
+        "price",
+        "market",
+        "pricing",
+        "cost",
+        "costs",
+        "assess",
+        "profit",
+        "competitive",
+        "identify",
+        "value",
+        "analysis",
+        "customer",
+        "volume",
+        "product",
+        "total",
+        "model",
+        "size",
+        "calculate",
+        "variable",
+        "estimate",
+        "evaluate",
+        "profitability",
+        "share",
+        "fixed",
+        "current",
+        "competitors",
+        "strategy",
+        "demand",
+        "determine"
+      ]
+    },
+    "Opportunity Assessment": {
+      "n_bullets": 170,
+      "top_terms": [
+        "costs",
+        "revenue",
+        "cost",
+        "wine",
+        "market",
+        "identify",
+        "land",
+        "time",
+        "total",
+        "juice",
+        "npv",
+        "manufacturing",
+        "student",
+        "risks",
+        "value",
+        "qualitative",
+        "options",
+        "cash",
+        "bid",
+        "opportunity",
+        "competitive",
+        "sell",
+        "chilled",
+        "structure",
+        "year",
+        "evaluate",
+        "changes",
+        "profit",
+        "chicago",
+        "potential"
+      ]
+    },
+    "New Product": {
+      "n_bullets": 46,
+      "top_terms": [
+        "market",
+        "revenue",
+        "pricing",
+        "brand",
+        "size",
+        "competition",
+        "assess",
+        "costs",
+        "existing",
+        "customers",
+        "risks",
+        "attractive",
+        "market attractive",
+        "insuraco",
+        "impact",
+        "value",
+        "customer",
+        "cost",
+        "product",
+        "competitive",
+        "evaluate",
+        "determine",
+        "recommendation",
+        "launch",
+        "airchief",
+        "price",
+        "estimate",
+        "enter",
+        "effectively",
+        "insuraco enter"
+      ]
+    },
+    "Strategy": {
+      "n_bullets": 138,
+      "top_terms": [
+        "cost",
+        "market",
+        "assess",
+        "revenue",
+        "identify",
+        "customers",
+        "customer",
+        "evaluate",
+        "costs",
+        "segment",
+        "competitors",
+        "price",
+        "profit",
+        "whether",
+        "pricing",
+        "growth",
+        "competitive",
+        "understand",
+        "competition",
+        "service",
+        "capabilities",
+        "school",
+        "potential",
+        "risks",
+        "analysis",
+        "analyze",
+        "trends",
+        "level",
+        "business",
+        "determine"
+      ]
+    }
+  },
+  "brainstorm_label_top_words": {
+    "revenue": 442,
+    "cost": 392,
+    "market": 360,
+    "risks": 349,
+    "competitive": 321,
+    "operational": 317,
+    "risk": 278,
+    "pricing": 276,
+    "product": 268,
+    "customer": 256,
+    "strategic": 232,
+    "costs": 220,
+    "financial": 201,
+    "distribution": 158,
+    "marketing": 154,
+    "regulatory": 152,
+    "reduction": 148,
+    "growth": 144,
+    "demand": 144,
+    "strategy": 129,
+    "operations": 127,
+    "brand": 127,
+    "expansion": 120,
+    "increase": 106,
+    "factors": 103,
+    "dynamics": 101,
+    "channel": 100,
+    "considerations": 94,
+    "management": 94,
+    "sales": 90
+  },
+  "brainstorm_common_labels": {
+    "cost reduction": 70,
+    "competitive dynamics": 62,
+    "pricing": 50,
+    "distribution": 40,
+    "operational": 39,
+    "financial": 39,
+    "risks": 31,
+    "strategic fit": 31,
+    "geographic expansion": 30,
+    "operations": 28,
+    "competition": 28,
+    "pricing strategy": 28,
+    "competitive response": 27,
+    "product": 27,
+    "operational considerations": 23,
+    "competitive landscape": 23,
+    "revenue growth": 22,
+    "operational efficiency": 21,
+    "competitive risks": 21,
+    "cost structure": 20,
+    "operational improvements": 19,
+    "market attractiveness": 19,
+    "regulatory": 19,
+    "labor": 18,
+    "revenue enhancement": 18,
+    "revenue synergies": 18,
+    "price": 16,
+    "cost synergies": 16,
+    "inorganic growth": 15,
+    "competitive positioning": 15
+  },
+  "math_signatures": {
+    "ratio / per-unit": {
+      "cases": 986,
+      "pct_of_math_cases": 52.6
+    },
+    "margin / profit calc": {
+      "cases": 938,
+      "pct_of_math_cases": 50.1
+    },
+    "breakeven / payback period": {
+      "cases": 361,
+      "pct_of_math_cases": 19.3
+    },
+    "NPV / discounting / cash flow": {
+      "cases": 350,
+      "pct_of_math_cases": 18.7
+    },
+    "market sizing (population/segment build-up)": {
+      "cases": 336,
+      "pct_of_math_cases": 17.9
+    },
+    "percentage change / growth rate": {
+      "cases": 284,
+      "pct_of_math_cases": 15.2
+    },
+    "market share math": {
+      "cases": 161,
+      "pct_of_math_cases": 8.6
+    },
+    "ROI / return": {
+      "cases": 64,
+      "pct_of_math_cases": 3.4
+    },
+    "price x quantity (revenue)": {
+      "cases": 26,
+      "pct_of_math_cases": 1.4
+    }
+  },
+  "exhibits": {
+    "n_exhibits": 2466,
+    "chart_types": {
+      "table of data": 1112,
+      "bar / column chart": 528,
+      "pie / share chart": 214,
+      "line / trend chart": 98,
+      "scatter / bubble": 88
+    },
+    "theme_top_words": {
+      "showing": 1177,
+      "table": 1114,
+      "market": 972,
+      "chart": 934,
+      "cost": 837,
+      "revenue": 655,
+      "sales": 561,
+      "bar": 553,
+      "total": 552,
+      "costs": 517,
+      "share": 429,
+      "average": 416,
+      "price": 396,
+      "annual": 379,
+      "comparing": 371,
+      "product": 355,
+      "number": 339,
+      "year": 325,
+      "data": 312,
+      "four": 285,
+      "customer": 281,
+      "percentage": 276,
+      "breakdown": 261,
+      "margin": 258,
+      "segment": 257,
+      "size": 255,
+      "line": 248,
+      "profit": 220,
+      "broken": 209,
+      "income": 202
+    }
+  },
+  "risk_themes": {
+    "competitor / competitive response": {
+      "cases": 914,
+      "pct_of_risk_cases": 42.8
+    },
+    "execution / operational risk": {
+      "cases": 826,
+      "pct_of_risk_cases": 38.7
+    },
+    "regulation / legal": {
+      "cases": 467,
+      "pct_of_risk_cases": 21.9
+    },
+    "brand / reputation": {
+      "cases": 416,
+      "pct_of_risk_cases": 19.5
+    },
+    "cost overrun / capital": {
+      "cases": 340,
+      "pct_of_risk_cases": 15.9
+    },
+    "customer churn / acceptance": {
+      "cases": 166,
+      "pct_of_risk_cases": 7.8
+    },
+    "cannibalization": {
+      "cases": 164,
+      "pct_of_risk_cases": 7.7
+    },
+    "cannibalize-vs-margin / price": {
+      "cases": 93,
+      "pct_of_risk_cases": 4.4
+    },
+    "market / demand contraction": {
+      "cases": 67,
+      "pct_of_risk_cases": 3.1
+    }
+  },
+  "next_step_top_words": {
+    "conduct": 1037,
+    "assess": 830,
+    "model": 766,
+    "market": 707,
+    "cost": 701,
+    "evaluate": 627,
+    "identify": 606,
+    "develop": 603,
+    "whether": 537,
+    "revenue": 529,
+    "before": 526,
+    "analysis": 523,
+    "price": 472,
+    "plan": 427,
+    "pilot": 423,
+    "explore": 409,
+    "customer": 408,
+    "detailed": 399,
+    "validate": 396,
+    "quantify": 354,
+    "pricing": 336,
+    "full": 326,
+    "product": 302,
+    "competitive": 297,
+    "acquisition": 290,
+    "research": 284,
+    "potential": 281,
+    "costs": 278,
+    "determine": 276,
+    "monitor": 264
+  },
+  "outcome_baseline_pct": {
+    "decompose revenue = price x volume (or segments)": 41.9,
+    "decompose cost into fixed vs variable": 42.9,
+    "isolate the driver (internal vs external)": 7.2,
+    "examine the broader market / industry / macro": 50.4,
+    "discuss competitive dynamics / response": 82.3,
+    "build a market-sizing estimate": 74.6,
+    "evaluate financials (NPV/payback/breakeven)": 52.0,
+    "assess capabilities / fit / synergies": 41.4,
+    "list risks + recommendation + next steps": 84.6,
+    "consider cannibalization / customer willingness": 51.2
+  },
+  "trigger_to_action": {
+    "revenue is declining/falling": {
+      "trigger_cases": 79,
+      "pct_of_corpus": 3.7,
+      "then_usually": {
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 72.2,
+          "baseline_pct": 41.9,
+          "lift": 1.72,
+          "cases": 57
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 63.3,
+          "baseline_pct": 51.2,
+          "lift": 1.24,
+          "cases": 50
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 93.7,
+          "baseline_pct": 82.3,
+          "lift": 1.14,
+          "cases": 74
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 79.7,
+          "baseline_pct": 74.6,
+          "lift": 1.07,
+          "cases": 63
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 7.6,
+          "baseline_pct": 7.2,
+          "lift": 1.06,
+          "cases": 6
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 51.9,
+          "baseline_pct": 50.4,
+          "lift": 1.03,
+          "cases": 41
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 78.5,
+          "baseline_pct": 84.6,
+          "lift": 0.93,
+          "cases": 62
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 46.8,
+          "baseline_pct": 52.0,
+          "lift": 0.9,
+          "cases": 37
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 38.0,
+          "baseline_pct": 42.9,
+          "lift": 0.89,
+          "cases": 30
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 31.6,
+          "baseline_pct": 41.4,
+          "lift": 0.76,
+          "cases": 25
+        }
+      }
+    },
+    "profit/margin is declining": {
+      "trigger_cases": 187,
+      "pct_of_corpus": 8.7,
+      "then_usually": {
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 71.7,
+          "baseline_pct": 41.9,
+          "lift": 1.71,
+          "cases": 134
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 64.7,
+          "baseline_pct": 42.9,
+          "lift": 1.51,
+          "cases": 121
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 84.5,
+          "baseline_pct": 74.6,
+          "lift": 1.13,
+          "cases": 158
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 88.8,
+          "baseline_pct": 82.3,
+          "lift": 1.08,
+          "cases": 166
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 52.9,
+          "baseline_pct": 50.4,
+          "lift": 1.05,
+          "cases": 99
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 7.0,
+          "baseline_pct": 7.2,
+          "lift": 0.97,
+          "cases": 13
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 47.1,
+          "baseline_pct": 51.2,
+          "lift": 0.92,
+          "cases": 88
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 75.4,
+          "baseline_pct": 84.6,
+          "lift": 0.89,
+          "cases": 141
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 44.9,
+          "baseline_pct": 52.0,
+          "lift": 0.86,
+          "cases": 84
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 33.2,
+          "baseline_pct": 41.4,
+          "lift": 0.8,
+          "cases": 62
+        }
+      }
+    },
+    "should we enter a market": {
+      "trigger_cases": 331,
+      "pct_of_corpus": 15.5,
+      "then_usually": {
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 51.4,
+          "baseline_pct": 41.4,
+          "lift": 1.24,
+          "cases": 170
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 55.3,
+          "baseline_pct": 50.4,
+          "lift": 1.1,
+          "cases": 183
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 55.0,
+          "baseline_pct": 52.0,
+          "lift": 1.06,
+          "cases": 182
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 86.4,
+          "baseline_pct": 82.3,
+          "lift": 1.05,
+          "cases": 286
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 77.9,
+          "baseline_pct": 74.6,
+          "lift": 1.04,
+          "cases": 258
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 52.9,
+          "baseline_pct": 51.2,
+          "lift": 1.03,
+          "cases": 175
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 86.4,
+          "baseline_pct": 84.6,
+          "lift": 1.02,
+          "cases": 286
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 40.2,
+          "baseline_pct": 42.9,
+          "lift": 0.94,
+          "cases": 133
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 32.6,
+          "baseline_pct": 41.9,
+          "lift": 0.78,
+          "cases": 108
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 3.0,
+          "baseline_pct": 7.2,
+          "lift": 0.42,
+          "cases": 10
+        }
+      }
+    },
+    "competitor mentioned": {
+      "trigger_cases": 321,
+      "pct_of_corpus": 15.0,
+      "then_usually": {
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 9.7,
+          "baseline_pct": 7.2,
+          "lift": 1.35,
+          "cases": 31
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 57.9,
+          "baseline_pct": 50.4,
+          "lift": 1.15,
+          "cases": 186
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 49.5,
+          "baseline_pct": 42.9,
+          "lift": 1.15,
+          "cases": 159
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 94.1,
+          "baseline_pct": 82.3,
+          "lift": 1.14,
+          "cases": 302
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 46.1,
+          "baseline_pct": 41.9,
+          "lift": 1.1,
+          "cases": 148
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 43.9,
+          "baseline_pct": 41.4,
+          "lift": 1.06,
+          "cases": 141
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 53.3,
+          "baseline_pct": 51.2,
+          "lift": 1.04,
+          "cases": 171
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 76.6,
+          "baseline_pct": 74.6,
+          "lift": 1.03,
+          "cases": 246
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 86.0,
+          "baseline_pct": 84.6,
+          "lift": 1.02,
+          "cases": 276
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 49.2,
+          "baseline_pct": 52.0,
+          "lift": 0.95,
+          "cases": 158
+        }
+      }
+    },
+    "new product / launch": {
+      "trigger_cases": 240,
+      "pct_of_corpus": 11.2,
+      "then_usually": {
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 82.9,
+          "baseline_pct": 74.6,
+          "lift": 1.11,
+          "cases": 199
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 90.4,
+          "baseline_pct": 82.3,
+          "lift": 1.1,
+          "cases": 217
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 55.0,
+          "baseline_pct": 50.4,
+          "lift": 1.09,
+          "cases": 132
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 87.5,
+          "baseline_pct": 84.6,
+          "lift": 1.03,
+          "cases": 210
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 42.1,
+          "baseline_pct": 41.4,
+          "lift": 1.02,
+          "cases": 101
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 51.7,
+          "baseline_pct": 52.0,
+          "lift": 0.99,
+          "cases": 124
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 50.4,
+          "baseline_pct": 51.2,
+          "lift": 0.98,
+          "cases": 121
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 37.1,
+          "baseline_pct": 41.9,
+          "lift": 0.89,
+          "cases": 89
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 35.4,
+          "baseline_pct": 42.9,
+          "lift": 0.83,
+          "cases": 85
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 3.8,
+          "baseline_pct": 7.2,
+          "lift": 0.53,
+          "cases": 9
+        }
+      }
+    },
+    "acquisition / merger / M&A": {
+      "trigger_cases": 309,
+      "pct_of_corpus": 14.4,
+      "then_usually": {
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 64.4,
+          "baseline_pct": 41.4,
+          "lift": 1.56,
+          "cases": 199
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 9.1,
+          "baseline_pct": 7.2,
+          "lift": 1.26,
+          "cases": 28
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 57.0,
+          "baseline_pct": 52.0,
+          "lift": 1.1,
+          "cases": 176
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 91.6,
+          "baseline_pct": 84.6,
+          "lift": 1.08,
+          "cases": 283
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 53.4,
+          "baseline_pct": 50.4,
+          "lift": 1.06,
+          "cases": 165
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 83.5,
+          "baseline_pct": 82.3,
+          "lift": 1.01,
+          "cases": 258
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 50.2,
+          "baseline_pct": 51.2,
+          "lift": 0.98,
+          "cases": 155
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 70.9,
+          "baseline_pct": 74.6,
+          "lift": 0.95,
+          "cases": 219
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 38.8,
+          "baseline_pct": 42.9,
+          "lift": 0.9,
+          "cases": 120
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 36.6,
+          "baseline_pct": 41.9,
+          "lift": 0.87,
+          "cases": 113
+        }
+      }
+    },
+    "pricing decision": {
+      "trigger_cases": 188,
+      "pct_of_corpus": 8.8,
+      "then_usually": {
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 54.3,
+          "baseline_pct": 42.9,
+          "lift": 1.27,
+          "cases": 102
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 47.9,
+          "baseline_pct": 41.9,
+          "lift": 1.14,
+          "cases": 90
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 56.9,
+          "baseline_pct": 50.4,
+          "lift": 1.13,
+          "cases": 107
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 90.4,
+          "baseline_pct": 82.3,
+          "lift": 1.1,
+          "cases": 170
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 80.3,
+          "baseline_pct": 74.6,
+          "lift": 1.08,
+          "cases": 151
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 54.8,
+          "baseline_pct": 51.2,
+          "lift": 1.07,
+          "cases": 103
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 55.3,
+          "baseline_pct": 52.0,
+          "lift": 1.06,
+          "cases": 104
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 88.3,
+          "baseline_pct": 84.6,
+          "lift": 1.04,
+          "cases": 166
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 36.7,
+          "baseline_pct": 41.4,
+          "lift": 0.89,
+          "cases": 69
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 2.7,
+          "baseline_pct": 7.2,
+          "lift": 0.38,
+          "cases": 5
+        }
+      }
+    },
+    "should we invest / build a facility": {
+      "trigger_cases": 347,
+      "pct_of_corpus": 16.2,
+      "then_usually": {
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 69.5,
+          "baseline_pct": 52.0,
+          "lift": 1.34,
+          "cases": 241
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 47.8,
+          "baseline_pct": 42.9,
+          "lift": 1.11,
+          "cases": 166
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 7.8,
+          "baseline_pct": 7.2,
+          "lift": 1.08,
+          "cases": 27
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 90.5,
+          "baseline_pct": 84.6,
+          "lift": 1.07,
+          "cases": 314
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 42.1,
+          "baseline_pct": 41.4,
+          "lift": 1.02,
+          "cases": 146
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 51.3,
+          "baseline_pct": 51.2,
+          "lift": 1.0,
+          "cases": 178
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 50.4,
+          "baseline_pct": 50.4,
+          "lift": 1.0,
+          "cases": 175
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 76.1,
+          "baseline_pct": 82.3,
+          "lift": 0.92,
+          "cases": 264
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 67.7,
+          "baseline_pct": 74.6,
+          "lift": 0.91,
+          "cases": 235
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 38.3,
+          "baseline_pct": 41.9,
+          "lift": 0.91,
+          "cases": 133
+        }
+      }
+    },
+    "market sizing asked": {
+      "trigger_cases": 149,
+      "pct_of_corpus": 7.0,
+      "then_usually": {
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 85.2,
+          "baseline_pct": 74.6,
+          "lift": 1.14,
+          "cases": 127
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 51.7,
+          "baseline_pct": 50.4,
+          "lift": 1.03,
+          "cases": 77
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 47.0,
+          "baseline_pct": 51.2,
+          "lift": 0.92,
+          "cases": 70
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 75.2,
+          "baseline_pct": 82.3,
+          "lift": 0.91,
+          "cases": 112
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 75.8,
+          "baseline_pct": 84.6,
+          "lift": 0.9,
+          "cases": 113
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 47.0,
+          "baseline_pct": 52.0,
+          "lift": 0.9,
+          "cases": 70
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 34.9,
+          "baseline_pct": 41.4,
+          "lift": 0.84,
+          "cases": 52
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 6.0,
+          "baseline_pct": 7.2,
+          "lift": 0.83,
+          "cases": 9
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 32.9,
+          "baseline_pct": 41.9,
+          "lift": 0.79,
+          "cases": 49
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 30.2,
+          "baseline_pct": 42.9,
+          "lift": 0.7,
+          "cases": 45
+        }
+      }
+    },
+    "costs are rising/high": {
+      "trigger_cases": 66,
+      "pct_of_corpus": 3.1,
+      "then_usually": {
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 54.5,
+          "baseline_pct": 41.4,
+          "lift": 1.32,
+          "cases": 36
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 48.5,
+          "baseline_pct": 42.9,
+          "lift": 1.13,
+          "cases": 32
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 53.0,
+          "baseline_pct": 51.2,
+          "lift": 1.04,
+          "cases": 35
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 53.0,
+          "baseline_pct": 52.0,
+          "lift": 1.02,
+          "cases": 35
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 51.5,
+          "baseline_pct": 50.4,
+          "lift": 1.02,
+          "cases": 34
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 84.8,
+          "baseline_pct": 84.6,
+          "lift": 1.0,
+          "cases": 56
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 72.7,
+          "baseline_pct": 74.6,
+          "lift": 0.97,
+          "cases": 48
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 75.8,
+          "baseline_pct": 82.3,
+          "lift": 0.92,
+          "cases": 50
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 30.3,
+          "baseline_pct": 41.9,
+          "lift": 0.72,
+          "cases": 20
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 1.5,
+          "baseline_pct": 7.2,
+          "lift": 0.21,
+          "cases": 1
+        }
+      }
+    },
+    "customer/demand issue": {
+      "trigger_cases": 4,
+      "pct_of_corpus": 0.2,
+      "then_usually": {
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 75.0,
+          "baseline_pct": 50.4,
+          "lift": 1.49,
+          "cases": 3
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 75.0,
+          "baseline_pct": 51.2,
+          "lift": 1.46,
+          "cases": 3
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 100.0,
+          "baseline_pct": 82.3,
+          "lift": 1.22,
+          "cases": 4
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 50.0,
+          "baseline_pct": 41.4,
+          "lift": 1.21,
+          "cases": 2
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 100.0,
+          "baseline_pct": 84.6,
+          "lift": 1.18,
+          "cases": 4
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 75.0,
+          "baseline_pct": 74.6,
+          "lift": 1.01,
+          "cases": 3
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 50.0,
+          "baseline_pct": 52.0,
+          "lift": 0.96,
+          "cases": 2
+        },
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 25.0,
+          "baseline_pct": 41.9,
+          "lift": 0.6,
+          "cases": 1
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 25.0,
+          "baseline_pct": 42.9,
+          "lift": 0.58,
+          "cases": 1
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 0.0,
+          "baseline_pct": 7.2,
+          "lift": 0.0,
+          "cases": 0
+        }
+      }
+    },
+    "client wants to grow": {
+      "trigger_cases": 587,
+      "pct_of_corpus": 27.4,
+      "then_usually": {
+        "decompose revenue = price x volume (or segments)": {
+          "pct_when_triggered": 49.9,
+          "baseline_pct": 41.9,
+          "lift": 1.19,
+          "cases": 293
+        },
+        "assess capabilities / fit / synergies": {
+          "pct_when_triggered": 46.5,
+          "baseline_pct": 41.4,
+          "lift": 1.12,
+          "cases": 273
+        },
+        "isolate the driver (internal vs external)": {
+          "pct_when_triggered": 8.0,
+          "baseline_pct": 7.2,
+          "lift": 1.11,
+          "cases": 47
+        },
+        "build a market-sizing estimate": {
+          "pct_when_triggered": 78.7,
+          "baseline_pct": 74.6,
+          "lift": 1.05,
+          "cases": 462
+        },
+        "discuss competitive dynamics / response": {
+          "pct_when_triggered": 86.0,
+          "baseline_pct": 82.3,
+          "lift": 1.04,
+          "cases": 505
+        },
+        "examine the broader market / industry / macro": {
+          "pct_when_triggered": 52.6,
+          "baseline_pct": 50.4,
+          "lift": 1.04,
+          "cases": 309
+        },
+        "list risks + recommendation + next steps": {
+          "pct_when_triggered": 84.7,
+          "baseline_pct": 84.6,
+          "lift": 1.0,
+          "cases": 497
+        },
+        "consider cannibalization / customer willingness": {
+          "pct_when_triggered": 50.3,
+          "baseline_pct": 51.2,
+          "lift": 0.98,
+          "cases": 295
+        },
+        "decompose cost into fixed vs variable": {
+          "pct_when_triggered": 38.7,
+          "baseline_pct": 42.9,
+          "lift": 0.9,
+          "cases": 227
+        },
+        "evaluate financials (NPV/payback/breakeven)": {
+          "pct_when_triggered": 46.3,
+          "baseline_pct": 52.0,
+          "lift": 0.89,
+          "cases": 272
+        }
+      }
+    }
+  }
+}
