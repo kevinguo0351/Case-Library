@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2016_32_activist-action",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 32,
+  "case_name": "Activist Action",
+  "case_type": "Other",
+  "round": null,
+  "industry": "CPG",
+  "difficulty": "Medium",
+  "pdf_page_start": 333,
+  "pdf_page_end": 342,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    336,
+    337,
+    338,
+    339,
+    340,
+    341
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p336.png",
+    "exhibits/exhibit_p337.png",
+    "exhibits/exhibit_p338.png",
+    "exhibits/exhibit_p339.png",
+    "exhibits/exhibit_p340.png",
+    "exhibits/exhibit_p341.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\32_activist-action"
+}

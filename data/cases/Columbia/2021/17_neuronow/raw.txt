@@ -1,0 +1,412 @@
+===== PDF p165 =====
+NeuroNow
+Our client, NeuroNow, is a mid-market biopharma company having 2 products in the US market. They have developed a 
+new oral medicine to treat multiple sclerosis (MS) which has successfully passed phase 2 of clinical trials. Before deciding 
+on further investments in phase 3 and commercialization, our client is looking to project revenues for the drug in 2021 and 
+would like to know how soon can they breakeven on their investment from phase 3 trials onwards
+Problem Statement Narrative
+Difficulty: Hard
+Industry: Pharmaceuticals 
+Case Type: Market Entry
+Written by Vishesh Jain ‘21
+• Market entry
+• Market sizing
+• Breakeven analysis
+Concepts Tested
+Case #17 : NeuroNow
+Case Notes
+This case consists of 3 main components: 
+1) Setting up market sizing calculations and identifying relevant haircuts to be considered in the patient population
+2) Recommending ways to estimate market share
+3) Identifying risks and benefits of going ahead with further investment on phase 3 trials
+161
+
+
+===== PDF p166 =====
+NeuroNow
+Sample Framework
+Guidance for Interviewer
+•
+It is estimated that 0.1% of Americans will suffer from 
+MS in 2021 (out of a total population of 300mn in 2020)
+•
+However, according to estimates, only 80% of the cases 
+will be diagnosed and only 90% of the diagnosed 
+population will receive treatment
+•
+Patients undergo gradual degradation of spinal cord and 
+brain cells and symptoms include impaired movement, 
+speaking and other senses
+•
+No full cure exists but injectable medicines are used for 
+management of symptoms
+•
+1st oral medication to manage symptoms was introduced in 
+2016 and has gained popularity quickly over incumbent 
+injectables due to obvious reasons. 2 more oral drugs have 
+entered the market since
+•
+Price of NeuroNow therapy would be $1000/month for 
+12 months/patient
+Clarification Answers if  Asked 
+Question #1/ Framework
+What factors would you consider when deciding whether to proceed with launching the drug?
+Guide the candidate towards sizing up the market for potential 
+number of patients for the new drug. A good candidate will 
+identify the necessary ‘haircuts’ required to arrive at the target 
+market
+1.
+Market Size = No. of patients * Price 
+a.
+Incidence
+b.
+Diagnosis and treatment rate
+c.
+Treatment share and competition
+Price/dose
+d.
+Number of annual doses/patient
+e.
+Growth rate
+2.
+Profitability: 
+a.
+Revenue:
+i.
+Price
+ii.
+Duration
+iii.
+Market share
+b.
+Cost:
+i.
+Clinical trial & launch costs
+ii.
+Salesforce and admin costs
+iii.
+Marketing costs
+iv.
+Manufacturing, distribution, etc.
+3.
+Other risks:
+a.
+Trial success
+b.
+Insurance coverage
+c.
+Other competitors
+d.
+Regulatory changes affecting price, etc.
+162
+
+
+===== PDF p167 =====
+What is the potential number of MS patients that will be treated with oral drugs in the next 5 years? 
+NeuroNow
+Question #2
+Question
+•
+Guide the candidate towards estimating number of patients treated for MS in a year: US Population * Incidence rate * 
+Diagnosis rate * Treatment rate; For 2020: 300mn * 1/1000 incidence * 80% diagnosis rate * 90% treatment rate = 
+216,000 treated patients in 2020
+•
+Hand out exhibit 1. A good candidate will note that the oral medicine market is expected to grow at an attractive pace 
+and adoption was driven through launch of competitors and was accelerated by COVID-19 pandemic in 2020
+•
+Assuming no change in total population, incidence, diagnosis and treatment rates, we can expect ~900k MS patients to 
+be treated with oral medication
+•
+A good candidate will recognize that a market research study to estimate NeuroNow’s expected market share within 
+the oral medicine market is the ideal next step
+Solution
+Year
+Incidence
+Diagnosed
+Treated
+Oral medication share % Target patients
+2021
+300000
+240000
+216000
+75%
+162000
+2022
+300000
+240000
+216000
+80%
+172800
+2023
+300000
+240000
+216000
+85%
+183600
+2024
+300000
+240000
+216000
+85%
+183600
+2025
+300000
+240000
+216000
+90%
+194400
+Total:
+1500000
+1200000
+1080000
+896400
+163
+
+
+===== PDF p168 =====
+What is the expected patient share of NeuroNow within oral MS market? Subsequently, can the client breakeven in 5 
+years?
+NeuroNow
+Question #3
+Question
+•
+Hand exhibit 2. Candidate should note that based on both qualitative and quantitative assessment we can expect 
+NeuroNow to capture significant market share right after launch in 2021. Candidate should be able to back his/her 
+assumptions up with clear rationale. For example, it is valid to assume that peak market share could be expected a 
+couple of years after launch as returns on marketing investments materialize. Current assumptions are taken for ease 
+of calculation
+•
+Hand exhibit 3 for costs analysis. Push the candidate to try and come up with cost heads and schedules on their own.
+•
+Breakeven expected in just over 1 year of launch. Total profit of $1.9Bn (44%)
+Solution
+Year
+Patients on 
+oral drugs
+NeuroNow
+share
+NeuroNow
+patients
+Price/year 
+($)
+Total 
+revenue 
+(bn $)
+Total cost 
+($ bn)
+Profit (bn)
+Cumulative 
+profit (bn)
+2020
+151200
+0%
+0
+12000
+0
+0.3
+-0.3
+-0.3
+2021
+162000
+40%
+64800
+12000
+0.8
+0.5
+0.3
+0
+2022
+172800
+40%
+69120
+12000
+0.8
+0.4
+0.4
+0.4
+2023
+183600
+40%
+73440
+12000
+0.9
+0.4
+0.5
+0.9
+2024
+183600
+40%
+73440
+12000
+0.9
+0.4
+0.5
+1.4
+2025
+194400
+40%
+77760
+12000
+0.9
+0.4
+0.5
+1.9
+Total
+896400
+358560
+4.3
+2.4
+1.9
+164
+
+
+===== PDF p169 =====
+What are some other risks that our client could face?
+NeuroNow
+Question #4
+Question
+•
+Clinical trial failure: Profitability calculations need to be adjusted by the probability of success in the trial
+•
+Competitor response: A fast-growing oral MS drug market would attract existing injectable competitor to develop 
+new oral products and new players to entire this market; Our position can be swayed if new competition arises which 
+provides one or many of better clinical utility, economic value or ease to various relevant stakeholders
+•
+Regulatory risks: Industry is very exposed to such changes
+•
+Supply: Manufacturing and/or distribution related issues either internally or with partners
+Solution
+165
+
+
+===== PDF p170 =====
+NeuroNow
+Conclusion
+•
+Client should proceed with phase 3 trials and further 
+investments on NeuroNow
+Recommendation
+•
+Client can expect to breakeven in 1 year (vs 5) and can 
+expect a profit of $1.9Bn (44%) across 5 years from 
+launch. They will be entering a growing market with 
+unmet needs
+Rationale
+•
+Failure of clinical trial; Emergence of new innovative 
+competitors/products 
+Risks
+•
+Set up clinical trial design with representative 
+population
+•
+Maintain market awareness for oral MS drugs and 
+NeuroNow
+•
+Work on salesforce recruitment and organization 
+structure plans
+•
+Curate marketing campaigns and messaging
+Next Steps
+166
+
+
+===== PDF p171 =====
+NeuroNow
+Exhibit #1 : MS Treatment Paradigm
+95%
+75%
+70%
+70%
+70%
+30%
+25%
+20%
+15%
+15%
+10%
+5%
+25%
+30%
+30%
+30%
+70%
+75%
+80%
+85%
+85%
+90%
+2015
+2016
+2017
+2018
+2019
+2020
+2021E 2022E 2023E 2024E 2025E
+Share of treatment regime amongst treated population
+Injectables
+Orals
+167
+
+
+===== PDF p172 =====
+NeuroNow
+Exhibit #2 : Market Research Study
+60%
+20%
+20%
+Oral MS drug patient share 2020
+Oral Drug 1
+Oral Drug 2
+Oral Drug 3
+Key stakeholders:
+•
+“Oral drugs have really transformed how I manage my 
+patients. They are more compliant towards their 
+schedules and hence sometimes show better results 
+than injectables. I can’t wait for NeuroNow to be 
+launched as its’ early clinical trials show that it has 
+fewer cases of serious side effects than the leading 
+incumbents” 
+– Leading Neurologist, Columbia Medical
+•
+“Oral MS drugs have proven to be an economic boom 
+to the healthcare costs for a MS patient as 100s of 
+thousands of monthly hospital visits for injections are 
+being replaced by those patients stayinjg at home and 
+taking their own pills. With NeuroNow, we expect a 
+greater benefit as fewer patients will be buying 
+additional drugs to manage common side-effects that 
+come from the currently available oral MS drugs in the 
+market” 
+– USA’s top private insurer
+•
+“I am on Oral Drug 1 and it is really helping me with 
+my symptoms however the resultant side-effects are 
+getting tougher to manage by the day. “ 
+– 70-year-old MS patient
+168
+
+
+===== PDF p173 =====
+NeuroNow
+Exhibit #3 : Estimated Costs
+Cost head
+Schedule
+Amount
+Phase 3 Clinical trial
+2020
+$100mn
+Launch costs
+2021
+$100mn
+Salesforce costs
+Every year from 2020
+$70mn/year
+Marketing costs
+Every year from 2020
+$130mn/year
+Manufacturing, distribution etc. 
+Every year from 2021
+$200mn/year
+169

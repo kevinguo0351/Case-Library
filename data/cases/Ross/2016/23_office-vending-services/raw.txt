@@ -1,0 +1,284 @@
+===== PDF p265 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 23: Office Vending Services, Bain (Mock Case)
+Office Vending Services Inc. (OVS) is the market leader in office vending machine services. The 
+business services provided include sales and delivery of product, restocking of machines, and 
+repair of faulty equipment. Profits are substantially down in the business. 
+The CEO of Office Vending Services needs Bain to assess the root causes of the profitability 
+decline.
+ Industry: Retail
+ Difficulty: Hard
+ Format: Profitability
+ Concepts Tested: Profitability 
+decline, competitive advantage
+This is a great case for a candidate to display structured 
+thinking. Candidate is expected to start with the problem on a 
+high level and each exhibit further provides more details to the 
+problem.
+
+
+===== PDF p266 =====
+262
+Possible Framework
+Framework
+Profit
+•
+Revenue
+•
+Price
+•
+Volume of product
+•
+Product mix (unprofitable products) 
+•
+Costs
+•
+Fixed costs (e.g., SG&A, PP&E)
+•
+Variable costs (e.g., COGS (costs of products in vending machines from suppliers), labor, delivery, maintenance)
+Competition
+•
+Competitive prices
+•
+Better sales and marketing 
+•
+Better products
+•
+Better delivery and repair services
+Customer
+•
+Price sensitivity
+Market
+•
+No. of players and share
+•
+Industry growth
+Other
+
+
+===== PDF p267 =====
+263
+Exhibit 1
+•
+OVS revenue decreased over the past 2-years
+•
+Rate of decrease is increasing - Down 8% from ’96 –’97; down 13% ’97 – ’98. 
+•
+Interviewee should begin to think about what the drivers of the revenue (e.g., lower volume of sales, lower prices of products) 
+decrease are and may ask for if a revenue breakout is available.
+Exhibit 2 
+•
+OVS costs decreased over past 2 years
+•
+Rate of cost decrease is increasing, but is not keeping pace with the rate of revenue decline - Down 4% from ’96 - ’97; down 7.5% 
+’97 – ’98
+•
+Interviewee should begin to think about where the cost reductions are coming from (e.g., lower costs of raw materials, decrease in 
+units manufactured) and what the drivers are. Interviewee may ask for a cost breakout for OVS. 
+Exhibit 3 - Volume of deliveries are dropping over past few years. Brainstorm for reasons (e.g., better product/prices by competitors)
+Exhibit 4 - Average price per delivery has remained stable; so revenue per delivery has not dropped. 
+Exhibit 5
+•
+OVS is dominant player in market but has been losing market share – 20% over the past 2-years. Interviewee should be able to 
+estimate the competitors’ market size(Direct them to the correct revenue numbers in the bullet below as it is not very clear in the 
+graph) as well as the percentage of the market OVS currently has. 
+•
+Revenue figures: OVS: $200M (40% of market) ; Vend Int.: $130M (26% of market) ; Candy & Pop: $110M (22% of market) ; $60M 
+(12% of market). 
+•
+It is also important for the interviewee to see that Vend has grown the fastest at 40% and explore the possible reasons.
+Exhibit 1 - 5 insights
+Office Vending Services – Exhibit Key Takeaways
+
+
+===== PDF p268 =====
+264
+Exhibit 6
+•
+The top two attribute of importance for customers (Price and Delivery Reliability) are where OVS scores the lowest. Conversely, 
+Vend scores the highest in these two categories. 
+•
+OVS scores very well in Product Variety and Machine Service/Repair, yet these are not nearly as important to customers. 
+•
+Interviewee should begin to make links between what has allowed Vend to grow (meeting customer needs) while OVS loses 
+market share. 
+Exhibit 7 – Same as Exhibit 6, just in graphical format; same key information should be obtained. 
+Exhibit 8 
+•
+Firstly, interviewee should see that OVS’s COGS, SGA and Repair costs are higher (roughly 100%) than the competition. This can 
+correspond to the higher market share. However, OVS’s costs for delivery are in line with their competitors, despite higher market 
+share – which would correlate to the poor customer satisfaction when it comes to delivery. 
+•
+This may begin to suggest that OVS could reduce costs in COGS (reduce product variety since it isn’t as important to customers 
+and get better prices for larger volumes of fewer product types from suppliers and provide customers better prices in return)
+•
+OVS could also reduce repair costs (again, not as important to customers) and reallocate some of this to delivery to increase
+customer satisfaction. 
+•
+SGA may also see a slight reduction as complexity in ordering, labor and other line items as fewer products are ordered and 
+repairs are reduced. 
+•
+Also, interviewee can calculate each firm’s profit margin in order to compare them in a more direct manner: OVS: 200/200 = 0%; 
+Vend: 117/130 = 10% ; Candy: 98/110 = 11%. This clearly shows that OVS’s profit margin is non-existent and that their competitors 
+are running a more efficient operation. 
+Exhibit 6 – 8 insights
+Office Vending Services – Exhibit Key Takeaways
+
+
+===== PDF p269 =====
+265
+Exhibit 9
+•
+OVS’s cost per delivery is 9.5% higher than the competition. Also, the breakout of the overall costs within each delivery differs: 
+•
+OVS’s COGS and SGA per delivery are higher (roughly 70% of total delivery cost versus 50%) 
+•
+OVS’s delivery bucket of the overall cost per delivery is roughly half the cost of the competition – again, not meeting customers’ 
+need and spending less than other vendors. 
+Exhibit 10
+•
+OVS has been reducing costs across the board, but the largest reduction has come from deliveries – which is clearly impacting the 
+overall business. 
+•
+The small decreases in the other large buckets, has not significantly impacted overall costs. 
+Exhibit 9 – 10 insights
+Office Vending Services – Exhibit Key Takeaways
+
+
+===== PDF p270 =====
+266
+Recommendations
+•
+Find the product types with most demand and discontinue the product 
+types with lesser demand
+•
+Look to reduce COGS, SGA and repair costs. A reduction in product 
+variety could decrease COGS through economies of scale – OVS would 
+purchase higher volumes of fewer products, lower cost/unit 
+• Reduction in variety may also reduce costs of delivery as there 
+would be fewer products to carry in vehicles (more deliveries 
+possible) and may reduce the time/complexity of refilling a machine 
+•
+Reduce costs spent on repairing (e.g., modify maintenance clauses)
+Risks
+•
+Supplier existing contracts for large number of product types on vending 
+machines might make decreasing product types difficult
+•
+Changing the distribution network for delivery might be a slower change 
+and initial investment would be high
+Recommendation
+Conclusion
+•
+Increase spend on delivery to improve customer 
+satisfaction (more research needed) 
+• More drivers 
+• Better vehicles 
+• More efficient delivery routes 
+•
+Work with suppliers of products in vending 
+machines to discontinue contracts for products with 
+less demand
+•
+Train sales force to get new clients and position 
+OVS as a player with reliable delivery and better 
+prices
+Next Steps
+Candidate would identify how reducing product types could reduce delivery costs and SGA expenses.  
+Excellent case answers
+
+
+===== PDF p271 =====
+267
+Exhibit 1: Office Vending Services revenue ($M) 
+250
+230
+200
+0
+50
+100
+150
+200
+250
+300
+1996
+1997
+1998
+
+
+===== PDF p272 =====
+268
+Exhibit 2: Office Vending Services cost ($M)
+225
+216
+200
+185
+190
+195
+200
+205
+210
+215
+220
+225
+230
+1996
+1997
+1998
+
+
+===== PDF p273 =====
+269
+Exhibit 3: Office Vending Services volume sold 
+
+
+===== PDF p274 =====
+270
+Exhibit 4: Office Vending Services historical pricing
+
+
+===== PDF p275 =====
+271
+Exhibit 5: Office Vending Services market trend
+Percentage change in 
+market sales
+3% (Total)
+17%
+22%
+44%
+(20%)
+
+
+===== PDF p276 =====
+272
+Exhibit 6: Customer satisfaction
+
+
+===== PDF p277 =====
+273
+Exhibit 7: Customer satisfaction
+
+
+===== PDF p278 =====
+274
+Exhibit 8: Competitor comparison (1998)
+
+
+===== PDF p279 =====
+275
+Exhibit 9: Office Vending Services cost per delivery (versus competitors) 
+
+
+===== PDF p280 =====
+276
+Exhibit 10: Office Vending Services cost structure(historical trend)
+Percentage 
+decrease in costs
+(11%)
+0%
+(14%)
+(25%)
+(8%)
+(7%)

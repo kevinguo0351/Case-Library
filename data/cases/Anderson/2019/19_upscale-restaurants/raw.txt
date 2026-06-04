@@ -1,0 +1,205 @@
+===== PDF p163 =====
+19 / Upscale Restaurants
+• Our client is an upscale restaurant in TianJin, China. It serves government officials and high-level business customers. Its monthly
+revenue is 1.2M Yuan. The CEO recently hired us to help them increase their profitability.
+Overview for Interviewer
+Industry:
+Restaurant/Hospitality
+Case Format:
+Improving Profitability
+Concepts Tested:
+• Core business
+• Revenue drivers
+• Product mixes
+• Cultural awareness
+Notes
+• The interviewee should lead the case, but interviewer should use
+structured question prompts.
+• This is a profitability case where the candidate is required to evaluate the
+revenue side of the equation. Candidates should dive deeper than just R
+& C and think about revenue drivers, product mixes, etc.
+• Question 1 is all about framework.
+• Major challenge is getting all the information up front - the monthly
+revenue given in the very first sentence becomes integral later. If they
+ask later in the case about revenue, challenge them to find it in their
+existing notes.
+
+
+===== PDF p164 =====
+Interviewer Guidance
+Information to Share if Asked
+• Exchange Rate: 8Y:1USD
+• As China’s economy is booming, the 
+upscale dining market is growing 20% 
+every year. 
+• Customers for high-end dining are 
+generally price insensitive 
+• All competitors are earning money. 
+(Price and value proposition are 
+similar) 
+• Variable costs across industry are 50% 
+of revenue. Assume no fixed costs. 
+• On weekdays, there is always a line for 
+individual rooms As a result the
+Interviewer Guide to Case and Handouts
+Case Structure
+Candidate will begin with a deep dive into their structure and approach. When 
+candidate arrives at product mix/variability in revenue, give Exhibit 1. 
+Candidates throughout the case should be working toward solving the two key 
+issues - raising prices and turning big room tables into individual rooms. 
+Question 2 will focus on brainstorming, after which you will pursue the 
+quantitative portion. Candidates should identify demand capacity and profit. 
+Question 4 will require the candidate to look back to the initial prompt. 
+
+
+===== PDF p165 =====
+Core Case Question 1 & 2
+1 / Structure & Product Mix
+After structure, push candidate to identify variability in
+customer value. Once achieved, provide Exhibit 1.
+Notes to Interviewer
+Candidate should recognize that government officials and
+business customers prefer individual rooms to big rooms
+because of their requirement for privacy. Currently our
+client is not meeting customer demand.
+Additional information to be provided on previous page at
+this stage.
+Notes to Interviewer
+There are two approaches that could (and should) be taken.
+Exceptional candidates will easily identify the first, and the
+interviewer can move straight to the second approach if
+desired.
+1. Raising prices. This is to see if they listened to the critical
+information “there is always a line for individual rooms”
+and customers are generally price insensitive.
+1. Converting the big table rooms into individual rooms
+which generate significantly higher income.
+2 / Potential Solutions
+What are potential solutions for this situation?
+
+
+===== PDF p166 =====
+Exhibit 1 / Reference for Interviewer 
+
+
+===== PDF p167 =====
+Core Case Question 3 & 4
+3 / The Quant
+Through market research, we have determined that if we raise weekday individual
+room price by 33%, we will lose 10% of customers. How will it change our
+profitability?
+Analysis 3 
+Analysis 4
+The observant candidate will quickly calculate this from the initial
+revenue information given at the beginning of the case rather than
+making heavy calculations using the table.
+• Capital Investment = Y100,000
+• Opportunity Cost = Y1.2M *.50*.50 = Y300,000
+• Total Cost = Y400,000
+Weekday Lunch
+Previous
+Now
+Customer
+4*20*.80 = 64
+64*(1-.10) = 58
+Price
+150
+150*(1+.33) = 200
+Revenue
+64*150 = 9600
+58*200 = 11600
+Profit
+9600 *.50 = 4800
+11600*.50 = 5800
+Incremental Profit
+-
+5800-4800 = 1000
+Weekday Dinner
+Previous
+Now
+Customer
+6*20 = 120
+120
+Price
+300
+300*(1+.33) = 400
+Revenue
+120*300 = 36000
+120*400 = 48000
+Profit
+36000*.50 = 18000
+48000*.50 = 24000
+Incremental Profit
+-
+24000-18000 = 6000
+Changing Price will result in 10% customer loss
+Underlying demand is 200% capacity, price increase won't reduce
+volume
+Daily Incremental Profit = 7k * 20 days/mo = 140k / mo profit
+4 / Alternate Solution
+A second solution is converting half of big room tables into 5 individual rooms. It
+will take two weeks to renovate, during which the entire restaurant will close. The
+conversion will cost 100k Yuan. What’s the total project cost?
+
+
+===== PDF p168 =====
+Final Thoughts
+Final Recommendation 
+Please provide an overview of your findings and recommendations for how the client should best proceed.
+Notes to Interviewer
+Final recommendations in this case should focus on the value of targeting the appropriate audience, and doing so at the profit
+maximizing price. Good candidates will explore both price increases and restaurant renovation, with exceptional candidates
+recognizing that the next steps should include evaluating both options together, and separately, to estimate long-term profit
+benefits moving ahed.
+Note: This case provides a relatively easy opportunity for the candidate to properly deliver a case closing. This should be crafted
+as if it’s actually being delivered to a client. That is, it should remain positive, definitive, and lay out a clear path for how the
+candidate/firm would approach this problem moving ahead. (Demonstrating continued/future value is vital in any service
+industry.)
+
+
+===== PDF p169 =====
+Potential Structure
+Customers
+• Time of Day
+• Down times? 
+• Size of Party 
+• Type of customer 
+• govt
+• family
+• business
+• Alcohol?
+• Happy hour? 
+• Location
+• Near what? 
+Profit Tree
+• Revenue
+• Primary Source?
+• (80/20)
+• Product 
+Mix/Profitability?
+• Food/Bev
+• Customer elasticity
+• Pricing 
+• Capacity? 
+• Costs
+• Lost business 
+• Staff 
+• Ingredients
+• Facilities
+• Variability of product 
+mix 
+• Vendors
+Competition
+• How are we priced 
+comparatively? 
+• What is the reputation 
+compared to competitors?
+• How are we located relative to 
+comparable restaurants? 
+• Do we have a distinct 
+advantage compared to other 
+options? 
+
+
+===== PDF p170 =====
+Exhibit 1 

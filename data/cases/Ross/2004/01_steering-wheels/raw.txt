@@ -1,0 +1,112 @@
+===== PDF p8 =====
+Table of Contents 
+ 
+4
+Practice Case 1: Steering wheels  
+(A. T. Kearney - Round 1) 
+ 
+I. Case scope provided by interviewer: 
+ 
+The CEO of General Motors attended the Detroit car show recently. 
+He was surprised to see that all the models of Volkswagens seemed 
+to have the same steering wheel. They seemed similar in all respects 
+ñ shape, size, and materials. General Motors, on the other hand, has 
+many different steering wheels for its many cars. The CEO feels there 
+was merit in reducing the steering wheels on GM cars to one model. 
+He wants you to find out how that can be done. 
+ 
+ 
+II. Additional information provided after relevant questions:  
+ 
+Manufacturing process 
+• 
+The steering wheel manufacturing process has three distinct stages ñ 
+Design, Sourcing/Manufacturing, and Assembling. 
+• 
+There is virtually no difference in material requirement for each type of 
+steering wheel. 
+• 
+The same injection molding manufacturing process is currently used to 
+make the different steering wheels. 
+• 
+There is virtually no difference in the engineering design requirements 
+for each steering wheel. Therefore, from engineering perspective, the 
+same wheel could be used on all cars. 
+• 
+There is no difference in assembly process for the different types of 
+steering wheels. 
+ 
+Customer needs 
+• 
+There is no market requirement (customer driven or company 
+promoted) to have different steering wheels on different cars. Steering 
+wheels do not serve as product differentiators. 
+ 
+Cost 
+• 
+GM has 10 lines of cars, each with a different type of steering wheel. 
+• 
+GM purchases all of the 10 types of steering wheels from the same 
+supplier. 
+• 
+Each year 100,000 steering wheels are bought for each line. 
+• 
+The steering wheels cost $10 each. 
+• 
+The supplier gives a 5% discount for every doubling of an order size. 
+• 
+They also think that by consolidating the steering wheels to one type, 
+they can buy all wheels from one vendor. In that case, the vendor will 
+give us a 20% discount on the steering wheel.  
+ 
+ 
+ 
+
+
+===== PDF p9 =====
+Table of Contents 
+ 
+5
+ 
+III. Sample solution: 
+ 
+Since GMís business is making and selling cars not steering wheels, they 
+were probably looking at this to save costs. So that covered the companyís 
+point of view. However, I wanted to make sure that steering wheel types 
+donít give GM a competitive advantage or effect consumer demand. That 
+took care of competitors and customer part of the picture. The final piece 
+was financial cost savings. My approach was to verify these thoughts and put 
+together a plan to realize maximum cost savings. 
+ 
+I recommended that the client consolidate the steering wheel types to one 
+type and source the steering wheels from one vendor only. This will help the 
+client realize cost savings of at least 32%. However, before executing this 
+plan the client must make sure that: 
+ 
+• 
+There are no peculiar engineering requirements that make the steering 
+wheel unfit for a car type. 
+• 
+The steering wheel type does not adversely affect sale of cars. 
+• 
+The vendor has sufficient capacity to make at least 10MM steering 
+wheels and more as per predicted growth in demand. 
+ 
+There may be other areas like headlights and tail lights, moon roofs, and 
+dash board components that could also be consolidated across the different 
+cars types. Our team will be willing to explore those areas of cost savings for 
+the client as well. 
+ 
+The interviewer was looking to see how well I could gauge a business I knew 
+nothing about. He said that he knew I didnít have prior auto industry 
+experience and that was why he gave me this case. He wanted to assess if I 
+could: 
+ 
+1. identify the key issues 
+2. structure the problem in the context of the overall business 
+3. make necessary recommendations.  
+ 
+Arriving at the answers was easy. He wanted to see how I arrived at my 
+recommendations, and then apply the lessons learnt to other parts of the 
+business. 
+ 

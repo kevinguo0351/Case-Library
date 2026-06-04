@@ -1,0 +1,303 @@
+===== PDF p89 =====
+Case 8: Candy Manufacturing
+Introduction
+Introduction
+P
+bl
+St t
+t N
+ti
+85
+Problem Statement Narrative
+Your client is a candy manufacturing company that has been facing declining profit margins. The CEO has reached out to 
+us to figure out why and what they should do about it.
+Overview for interviewer
+This is a relatively straight-forward case, which includes the following: discussing profitability drivers, calculating profitability of the 
+client versus competitors, discussing opportunities to increase revenues and decrease costs, and a conclusion. If they ask as a follow-up 
+to the question to the problem statement whether declining profitability is an industry specific issue or a company-specific issue,
+to the question to the problem statement whether declining profitability is an industry specific issue or a company specific issue, 
+highlight that the company has been facing issues. 
+
+
+===== PDF p90 =====
+Case 8: Candy Manufacturing
+Potential Issue Tree and Approach to Solving the Case
+Potential Issue Tree and Approach to Solving the Case
+86
+•Industry drivers of profitability: 
+•
+Market size and growth, 
+•
+Customer trends
+Solution
+•
+Competitors
+•Profitability of the company: 
+•
+Revenues (price and volume), 
+•
+Costs (fixed and variable), 
+h k f
+d
+b
+d
+•
+Think of revenue and cost by customer segment or product type
+•Profitability of competitors: 
+•
+Revenues (price and volume)
+•
+Costs (fixed and variable)
+•
+Think of revenue and cost by customer segment or product type
+Think of revenue and cost by customer segment or product type
+
+
+===== PDF p91 =====
+Case 8: Candy Manufacturing 
+Follow up and Guidance to the Interviewer
+Follow-up and Guidance to the Interviewer
+87
+Industry drivers of profitability
+Q: What do you think are the general 
+trends in the industry? 
+Answer guidelines: 
+Profitability of the company
+Q: What do you think are the main drivers of 
+revenues in this industry?
+Answer guidelines: Again test for  general 
+Profitability of competitors
+Q: We will look into costs in a moment. 
+However, we have an interim meeting 
+with the client and he has asked us a very 
+specific question. Our client’s profit 
+swe gu de
+es:
+•General brainstorming to test business 
+intuition of the interviewer, i.e., candy 
+manufacturer probably steadily growing at 
+inflation, if anything probably declining due 
+to more health conscious players;
+brainstorming skills and business intuition
+•Provide details about our clients’ revenues:
+•
+Pricing has been relatively steady 
+and so has been sales
+•
+Our client plays in a more niche 
+part of the candy segment that 
+margins are 10%. He believes the 
+competitors’ profit margins are higher and 
+wants us to calculate the difference in 
+profit margins. How would you go about 
+doing that? (Transition to the competitor 
+profitability section)
+•There are a lot of big players like Hershey 
+in this space so it is likely a highly 
+competitive market
+•At the end of the discussion (if they haven’t 
+asked already), clarify that the industry 
+itself has sustained higher profit margins
+they have not been impacted by 
+the rise in the more health-conscious 
+consumer as it is particularly liked 
+by children
+•
+Our client actually commands a 
+price premium, most of our 
+Answer guidelines: 
+•On the revenues side you have already 
+mentioned that our client commands a price 
+premium, as competitors’ prices are 10% 
+lower. If the interviewee asks again, give it 
+itself has sustained higher profit margins 
+than our client. 
+p
+p
+,
+competitors have prices that our 
+10% lower than our client. 
+Q: (When the interviewee moves onto the cost 
+side, ask:) What do you think are the main 
+drivers of cost?
+g
+, g
+to them. 
+•Costs side: Competitors’ costs are 20% 
+lower
+•Calculate the profit margins of competitors 
+relative to our client
+Answer guidelines: Again test for  general 
+brainstorming skills and business intuition.  
+Keep in mind amount of time left and 
+transition to next question appropriately.
+
+
+===== PDF p92 =====
+Case 8: Candy Manufacturing 
+Basic calculation
+Basic calculation
+O
+ll
+h
+d h
+t
+t &
+l ti
+88
+Overall approach, good shortcuts & solution
+Question 1: Compare profit margins of client versus competition
+Profitability of our client: 
+•Assume our client’s price is $1.00. 
+•Hence, our client’s profitability is: $1.00 times 0.10 (10%)= $0.10. 
+•This means that our client’s cost is: $0.90
+Profitability of our competitor: 
+•Competitor’s price is 10% lower than our client: $1.00 * 0.90 = $0.90. 
+•Competitors cost is 20% lower than our client $0 90 * 0 80= $0 72
+•Competitors cost is 20% lower than our client: $0.90 * 0.80= $0.72
+•Competitors profit is: $0.90 – $0.72= $0.18
+•Competitors profit margin: $0.18/ $0.90= 20% 
+Instructions for interviewer:
+If your interviewee is struggling, propose the trick to assume the price is $1.00. This will make the math simpler. 
+The answer should be: the competitor’s profit margin is 20%, 2X higher than our client
+
+
+===== PDF p93 =====
+Case 8: Candy Manufacturing 
+Identifying issue
+Identifying issue
+O
+ll
+h
+d h
+t
+t &
+l ti
+89
+Overall approach, good shortcuts & solution
+Question 2: What do you think the main reason is that competitors are more profitable? 
+It is a difference in costs as their revenues are lower. 
+Follow up question: interviewer should move towards understanding the major cost drivers that could be driving the difference. 
+I
+f
+Instructions for interviewer:
+•First ask the interviewee, what they think the main reason is? 
+•
+It is a difference in costs as their revenues are lower. 
+•
+However, guide them to this if they do not initially say this. 
+•Follow-up question to interviewee: What would you want to know to understand the difference between competition and our client’s costs? 
+•
+Guide the conversation to say they would want to understand the major cost drivers that could be driving the difference. 
+•
+Once the conversation comes to the point show them the Exhibit on the next page and ask them: What do you see based on 
+this graph: 
+
+
+===== PDF p94 =====
+Case 8: Candy Manufacturing 
+Exhibit
+Exhibit
+90
+Breakdown of costs for the client: 
+Instructions for interviewer:
+Key things the interviewer should notice from the graph:
+•Raw materials are the highest percent of costs; this could be 
+l
+h
+d
+h d ff
+b
+h
+l
+d
+R
+t i l
+70%
+70%
+80%
+90%
+100%
+primarily what is driving the difference between the client and its 
+competitors; also, this would be where there is most leverage for 
+our client to reduce costs.
+•Equipment is the next highest; unless there are significant 
+differences between the client and its competitors’ equipment this
+Raw materials, 70%
+30%
+40%
+50%
+60%
+differences between the client and its competitors  equipment this 
+won’t drive down our client’s costs.
+•Labor costs are the smallest part of our client’s cost; even if the 
+client could reduce it impact would be limited
+Labor costs, 10%
+Equipment, 20%
+0%
+10%
+20%
+30%
+Client costs
+•Hence, raw materials would be where the client has the biggest 
+opportunity to reduce costs and increase profit margins vis-à-vis 
+competition (Make sure the interview reaches to this point either 
+by themselves or by guiding them)
+
+
+===== PDF p95 =====
+Case 8: Candy Manufacturing 
+Analyzing cause
+Analyzing cause
+O
+ll
+h
+d h
+t
+t &
+l ti
+91
+Overall approach, good shortcuts & solution
+Question: What could be the reasons why raw material costs could be higher for our client than its competition? 
+Instructions for interviewer:
+Pose this as a general brainstorming question. Continue the
+Provide information if asked
+•Competitors are slightly larger than our client
+Pose this as a general brainstorming question. Continue the 
+discussion until these key points are addressed:
+•Supplier bargaining power: Function of supplier concentration 
+relevant to number of customers
+Competitors are slightly larger than our client
+•There are a lot of supplier options for a given raw material
+•Given our client is the result of a lot of mergers, they have a lot 
+of local suppliers for the same raw materials 
+•Volume purchased per given supplier: Function of total costs and 
+the number of aggregate suppliers client uses for a particular 
+product
+Interviewee should dive further into these points to extract the 
+information on the right hand side Interviewer ask for
+information on the right hand side.  Interviewer ask for 
+interviewee’s perspective  based on the additional information 
+
+
+===== PDF p96 =====
+Case 8: Candy Manufacturing 
+Bonus question: Financial analysis
+Bonus question: Financial analysis
+O
+ll
+h
+d h
+t
+t &
+l ti
+92
+Overall approach, good shortcuts & solution
+Question: By approximately what percentage would raw materials cost have to be decreased to match our  clients’ 
+competitors’ profit margins? 
+Our competitors’ profit margins are 20%. For our clients’ sales price of $1.00, that means that the new profits needs to be 
+$0.20 and hence, costs $0.80. Current costs are $0.90. So we need to reduce costs by $0.10. 
+Raw materials cost is 70% of total current costs. $0.90 * 0.70= $0.63. So, we need to reduce this by $0.10 so that would be 
+a $0.10/0.63= ~16% decrease. 
+A stand out candidate should say They would need to reduce raw materials costs by 16% which seems a reasonable target
+A stand-out candidate should say: They would need to reduce raw materials costs by 16%, which seems a reasonable target. 

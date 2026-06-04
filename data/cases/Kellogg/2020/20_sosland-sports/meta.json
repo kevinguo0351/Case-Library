@@ -1,0 +1,24 @@
+{
+  "case_id": "Kellogg_2020_20_sosland-sports",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 20,
+  "case_name": "Sosland Sports",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Hospitality & Leisure",
+  "difficulty": null,
+  "pdf_page_start": 213,
+  "pdf_page_end": 220,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    216,
+    218
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p216.png",
+    "exhibits/exhibit_p218.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\20_sosland-sports"
+}

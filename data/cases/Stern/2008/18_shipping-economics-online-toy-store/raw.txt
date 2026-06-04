@@ -1,0 +1,458 @@
+===== PDF p53 =====
+Torch the Case 2008 
+ 
+48 
+18. Shipping Economics @ Online Toy Store    
+ 
+Type of Case: Profitability / Data Analysis 
+Difficulty: High 
+ 
+Opening 
+Your client today is a global specialty retailer of children’s toys and baby products with annual 
+worldwide revenues totaling over $11 BN. After a recent buyout by Private Equity, the firm 
+has been pursuing aggressive growth targets across all three of its divisions. The e-commerce 
+division has about $400 MM in total revenue and a major area of growth has been identified 
+within Shipping & Handling (S&H) of customer orders. 
+ 
+Your client offers its customer’s two S&H options; “2nd Day Expedited” or “Ground”, and 
+each of those are further divided into “Lower 48 States” or “Alaska & Hawaii” depending on 
+the order destination zip code. Annual S&H revenue from each product offering is as follows: 
+ 
+o Ground to Lower 48:  
+$ 32 MM 
+o Ground to AK & HI:  
+$ 180 K 
+o Expedited to Lower 48: 
+$ 3.73 MM 
+o Expedited to AK & HI: 
+$ 90 K 
+ 
+The e-commerce division hopes to increase S&H profits by ~115%. You are part of the team 
+studying their S&H economics and are asked to make a recommendation to impact immediate 
+growth and meet their goals. 
+ 
+Background (Provide the following information if requested by interviewee.) 
+• Total revenue of ecommerce division during previous year = $400 MM. Divided as 
+follows: 
+o S&H Revenue = 9% ($36 MM) 
+o Merchandize Sales Revenue = 91% ($364 MM) 
+• Your client ships customer orders from a single distribution center in Groveport, OH. 
+• Your client ships products in 8 different box sizes. 
+•  Total Annual S&H revenue from each product offering 
+ 
+o Ground to Lower 48:  
+$ 32 MM 
+o Ground to AK & HI:  
+$ 180 K 
+o Expedited to Lower 48: 
+$ 3.73 MM 
+o Expedited to AK & HI: 
+$ 90 K 
+ 
+• Your client is currently priced on par with competitors. 
+ 
+
+
+===== PDF p54 =====
+Torch the Case 2008 
+ 
+49 
+18. Shipping Economics @ Online Toy Store cont… 
+ 
+Areas of Discussion 
+• Explore the revenue and pricing structure: 
+1. Select SKU’s (items) in inventory have fixed S&H prices for each of the four delivery 
+options regardless of delivery destination.  
+2. 21% of all orders include SKU’s using these fixed prices.  
+3. The majority of inventory is priced according to the weight of the order against a 
+“weight table”. Weight table pricing is as such: 
+- 
+Ground shipments to the Lower 48 states begin at $ 4.84 for the first 1 lb and increases 
+at $0.85 for each additional pound. 
+- 
+Ground shipments to AK & HI begin at $ 6.84 for the first 1 lb and increases at $0.85 
+for each additional pound. 
+- 
+2nd Day shipments to the Lower 48 states begin at $ 10.98 for the first 1 lb and 
+increases at $0.99 for each additional pound. 
+- 
+2nd Day shipments to AK & HI begin at $ 20.98 for the first 1 lb and increases at $0.99 
+for each additional pound. 
+- 
+This weight table is a blended price that aggregates the zone-based cost table that the 
+carrier charges and adds a 25% markup.  
+4. 73% of all orders are priced against the weight table. Another 6% of orders include a 
+mix of items with fixed price S&H and weight table pricing. 
+ 
+• Guide the Interviewee to explore items with Fixed Pricing: 
+Further analysis into the SKU’s that have fixed shipping prices shows that 44 items 
+represent 10% of merchandize revenue of all fixed price items and represent 59% of the 
+losses in that segment. 
+ 
+• Explore the cost structure: 
+Your client uses a single package delivery vendor to ship all orders. The vendor charges 
+your client for each order based on the following factors: 
+- 
+Distance. The lower 48 states are categorized into 8 zone distances, with 1 being the 
+closest and 8 the furthest. Alaska & Hawaii are divided into 2 zones; Metro and 
+Remote. 
+- 
+Size. Small packages (less than 3 cubic feet) are billed based on its weight. Large items 
+are billed based on volumetric dimensions. 
+ 
+• Have the interviewee brainstorm about other shipping cost drivers per order: 
+- 
+Number of Shipments. A large order with smaller items is likely to be more 
+“combinable” and may ship in fewer boxes than one with larger items. 
+- 
+“Over-boxed” items. Manufacture’s packaging of some items is not durable for cargo 
+shipping and therefore needs to be put in another box, or “over-boxed”. 
+
+
+===== PDF p55 =====
+Torch the Case 2008 
+ 
+50 
+18. Shipping Economics @ Online Toy Store cont… 
+ 
+• Explore the following after graphs have been shared with the interviewee: 
+1. The largest loss bucket in S&H is Ground shipments to the Lower 48 states. Why 
+should your client not increase its S&H prices for this group? Why should they 
+increase prices on the other three S&H offerings? 
+- 
+Ground shipping also constitutes the largest portion of your clients business and 
+increasing prices could negatively affect demand for items and orders.  
+- 
+Expedited shipping is a premium product and the customer is likely to be less elastic to 
+an increase in price. Therefore an increase in price might not impact demand too much. 
+- 
+Alaska and Hawaii constitutes a small fraction (less than 1%) of your client’s total 
+business while contributing to ~5% of losses. Unless it is a business decision to 
+maintain a presence in that region at such a cost, there is no reason to do so. 
+ 
+2. Your client’s shipping prices are on average 25% more than their vendor’s price 
+table. Why do you think your client is seeing egregious losses in certain categories? 
+How can they tackle this? 
+- 
+The egregious loses are primarily due to “over-boxing” of items due to the limited 
+number shipping boxes. The client would need to better understand the demand on 
+various items, their dimensions, what items are most frequently combined and then 
+determine the optimal assortment (number and dimensions) of shipment cartons they 
+use. This would be a longer-term solution. 
+ 
+3. If you were to recommend a new pricing strategy that raises prices, how much 
+would your business be at risk? How much of you estimated losses can you save? 
+- 
+The percentage of business at risk is the ratio of the total merchandise dollars shipped 
+through the segments that the candidate is recommending a price change to over the 
+total business. If the interviewee recommends raising prices to Alaska & Hawaii, 
+Expedited shipments and the 44 fixed price items the interview should identify 
+approximately 11% of the business at risk (calculations below). 
+- 
+Percentage of loss saved for the segments to AK & HI, Expedited shipments and the 44 
+fixed price items is approximately 30% (calculations below). 
+ 
+4. Should raising prices be a long-term solution? Why or why not? 
+- 
+Raising prices is not a long-term solution because it leaves your client at a competitive 
+disadvantage. The long-term goals should be to reduce costs by further analyzing each 
+of the cost drivers.  
+- 
+Some longer-term solutions are: 
+- 
+Conducting a “carton-size study” to determine the optimal assortment of boxes used 
+- 
+Look to expand the distribution network to also ship items from distribution centers on 
+the east and west coast 
+- 
+Negotiate lower shipping costs with the vendor 
+ 
+
+
+===== PDF p56 =====
+Torch the Case 2008 
+ 
+51 
+18. Shipping Economics @ Online Toy Store cont… 
+ 
+Analysis (Calculations to be completed by interviewee.) 
+ 
+• Margin on each product is calculated with the following formula: 
+ 
+ 
+ 
+ 
+ 
+egory
+venueInCat
+Total
+inOnLosses
+M
+inOnWins
+M
+Re
+arg
+arg
++
+ 
+ 
+ 
+Margin on Ground to Lower 48: 
+ 
+13% 
+ 
+Margin on Ground to Alaska & Hawaii: 
+-142% 
+ 
+Margin on Expedited to Lower 48: 
+ 
+-17% 
+ 
+Margin on Expedited to Alaska & Hawaii:  - 39% 
+ 
+• Percentage of business at risk: 
+ 
+%
+89
+.
+10
+364
+)
+440
+,
+76
+%
+10
+(
+800
+,1
+000
+,
+30
+200
+)
+Pr
+%
+10
+(
+&
+=
+×
++
++
++
+=
+×
++
++
+MM
+K
+K
+K
+K
+rs
+ndizeDolla
+TotalMecha
+ice
+WithFixed
+TotalMerch
+edited
+MerchToExp
+HI
+eToAK
+Merchandis
+ 
+ 
+• Percentage of Loss Saved: 
+ 
+%
+68
+.
+29
+2.
+172
+,6
+)
+6.
+892
+%
+59
+(
+18
+.
+38
+010
+,1
+2.
+257
+)
+Pr
+arg
+%
+59
+(
+arg
+&
+arg
+=
+×
++
++
++
+=
+×
++
++
+K
+K
+K
+K
+K
+rs
+ndizeDolla
+TotalMecha
+ice
+d
+inWithFixe
+LossM
+ted
+inToExpedi
+LossM
+HI
+inToAK
+LossM
+ 
+Handouts/Figures 
+1. Business Shipped to Various Segments. (See Below) 
+2. Gross Margin on Category Wins and Losses. (See Below) 
+ 
+Key Takeaways (What interviewee should glean from handouts/figures. There may be 
+some calculations here as well.) 
+ 
+1. Business Shipped to Various Segments. 
+- 
+Approximately 1/3 (~28%) of the business is shipped to customers at a loss 
+- 
+Approximately 2/3 (~78%) of all business to Alaska and Hawaii (Ground & 2nd Day) 
+are shipped at a loss 
+- 
+Approximately 1/3 (~34%) of all orders that have items with a fixed price are shipped 
+to customers at a loss 
+
+
+===== PDF p57 =====
+Torch the Case 2008 
+ 
+52 
+18. Shipping Economics @ Online Toy Store cont… 
+ 
+2. Gross Margin on Category Wins and Losses. 
+- 
+Orders shipped by Ground to the Lower 48 states (which is ~91% of the business) 
+accounts for ~79% of Losses 
+- 
+Orders with only items with fixed S&H pricing (which is 21% of the business) accounts 
+for ~14% of Losses 
+- 
+Orders shipped Expedited to the Lower 48 states (which is ~8% of the business) 
+accounts for ~16% of Losses 
+- 
+Orders shipped by Ground to Alaska and Hawaii (which is ~0.5% of the business) 
+accounts for ~4% of Losses 
+- 
+Orders shipped Expedited to Alaska and Hawaii (which is ~0.05% of the business) 
+accounts for ~0.6% of Losses 
+ 
+Recommended Conclusion 
+ 
+In the short-term the client can save ~30% of losses by: 
+• Increasing fixed S&H prices on 44 SKU’s. 
+• Raise weight table prices for Ground orders to AK & HI and Expedited orders to both 
+the Lower 48 states and AK & HI. 
+ 
+The higher prices might leave the client at a competitive disadvantage and therefore the long-
+term goal should be to reduce costs and return prices to normal. The client can look to reduce 
+costs by: 
+• Conducting a “carton-size study” to determine the optimal assortment of boxes used 
+• Look to expand the distribution network to also ship items from locations in the east 
+and west coast 
+• Negotiate lower shipping costs with the vendor 
+
+
+===== PDF p58 =====
+Torch the Case 2008 
+ 
+53 
+Business Shipped to Various Segments
+$332,000
+$1,800
+$30,000
+$200
+$265,720
+$76,440
+$21,840
+$90,308
+$1,456
+$13,577
+$109
+$51,702
+$38,205
+$15,543
+$-
+$50,000
+$100,000
+$150,000
+$200,000
+$250,000
+$300,000
+$350,000
+Ground - L48
+Ground - AK & HI
+2nd Day - L48
+2nd Day - AK & HI
+Weight Table
+Fixed Pricing
+Weight & Fixed Price
+Merchandize value in 000
+Merchandize Shipped at Loss
+Total Merchandize Shipped
+
+
+===== PDF p59 =====
+Torch the Case 2008 
+ 
+54 
+Gross Margin on Category Wins and Losses
+$8,958.00
+$2.20
+$387.00
+$3.18
+$4,198.21
+$3,779.72
+$1,372.45
+$(4,905.00)
+$(257.20)
+$(1,010.00)
+$(38.18)
+$(3,928.14)
+$(892.60)
+$(1,389.64)
+$(6,000.00)
+$(4,000.00)
+$(2,000.00)
+$-
+$2,000.00
+$4,000.00
+$6,000.00
+$8,000.00
+$10,000.00
+Ground - L48
+Ground - AK & HI
+2nd Day - L48
+2nd Day - AK & HI
+Weight Table
+Fixed Pricing
+Weight & Fixed Price
+Gross Margin in 000
+Gross Margin on Losses
+Gross Margin on Winners

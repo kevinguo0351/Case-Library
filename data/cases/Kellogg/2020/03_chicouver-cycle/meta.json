@@ -1,0 +1,34 @@
+{
+  "case_id": "Kellogg_2020_03_chicouver-cycle",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 3,
+  "case_name": "Chicouver Cycle",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Transportation & Logistics",
+  "difficulty": null,
+  "pdf_page_start": 47,
+  "pdf_page_end": 58,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    56,
+    57
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p056.png",
+    "exhibits/exhibit_p057.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\03_chicouver-cycle"
+}

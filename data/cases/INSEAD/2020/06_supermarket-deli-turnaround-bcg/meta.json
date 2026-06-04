@@ -1,0 +1,24 @@
+{
+  "case_id": "INSEAD_2020_06_supermarket-deli-turnaround-bcg",
+  "school": "INSEAD",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Hand Book_2020.pdf",
+  "idx": 6,
+  "case_name": "Supermarket Deli Turnaround (BCG)",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail / Food",
+  "difficulty": "Medium",
+  "pdf_page_start": 40,
+  "pdf_page_end": 41,
+  "n_pages": 2,
+  "exhibit_pdf_pages": [
+    40,
+    41
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p040.png",
+    "exhibits/exhibit_p041.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2020\\06_supermarket-deli-turnaround-bcg"
+}

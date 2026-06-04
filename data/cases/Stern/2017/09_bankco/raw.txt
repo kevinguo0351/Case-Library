@@ -1,0 +1,320 @@
+===== PDF p116 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+112 
+Author: Wayne Atwell (Stern ‘15) 
+Case Style: Interviewer Led  
+ 
+Difficulty: Hard 
+Case Overview: 
+Industry: Financial Services 
+ 
+Case Type: Profitability 
+ 
+Concepts Tested: 
+•
+Math 
+•
+Strategy 
+ 
+ 
+ 
+Overview Information for Interviewer: 
+•
+This is a interviewer led case. It is important to do the case in the 
+proper order. 
+•
+State the information above and allow the candidate to design a 
+framework. 
+•
+Next ask the candidate brainstorming questions.  
+•
+Finally, the candidate should calculate the account level profitability 
+and market size. 
+Case Prompt: 
+Our client is BankCoCard, a US credit card subsidiary of the major international bank BankCo. They 
+have a rapidly growing $16 billion dollar credit card portfolio. BankCoCard is interested in lowering 
+their cost of funds for their credit card program by starting an online bank. 
+ 
+BankCoCard would like to know if they should start an online bank and if so, should they launch a 
+savings or a checking account for their new online bank. 
+ 
+BankCo 
+
+
+===== PDF p117 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+113 
+Clarifying Information: 
+ 
+•
+BankCoCard wants to launch both a 
+savings and checking account, but 
+their budget only allows for the IT 
+team to build one product this year 
+ 
+•
+Whichever product is not selected 
+will be launched the following year 
+ 
+•
+The savings and checking accounts 
+are expected to take the same time 
+to build and will cost the same 
+amount to build: $10 million 
+ 
+•
+The current cost of funds is 4% for 
+the credit card portfolio 
+ 
+•
+Interest rates are not expected to 
+change for the next several years 
+ 
+•
+Assume all deposits can be lent, no 
+reserves are required 
+ 
+•
+The online bank will only operate 
+within the US 
+ 
+  
+Interviewer Guide: 
+ 
+Brainstorming 
+•
+Ask all of the questions in the “Key elements to analyze” section.  
+•
+These questions are a brainstorming exercise covering product 
+launch, revenues & costs, and account acquisition 
+ 
+Math Question 1: 
+•
+The online bank will lend the deposits to the credit card portfolio 
+at a 3% interest rate.  
+•
+What is the lifetime profit of a single checking account verses a 
+savings account? 
+•
+Provide the candidate Exhibit #1. 
+ 
+Math Question 2: 
+•
+Calculate the total lifetime profit of accounts opened in the first 
+year. 
+•
+Provide the candidate Exhibit #2. 
+•
+After total profit is calculated, ask the candidate if they are 
+suspicious of any of the assumptions/data. 
+ 
+  
+BankCo: Case Guide 
+
+
+===== PDF p118 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+114 
+Question #1: 
+What upfront costs will there be to launch an online banking product?  
+  
+Notes to Interviewer: 
+•
+Infrastructure  
+•
+Website 
+•
+Servers 
+•
+Call center 
+•
+Designing the product 
+•
+Training call center employees 
+•
+Marketing 
+•
+Etc. 
+ 
+BankCo: Question 1 
+
+
+===== PDF p119 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+115 
+Question #2: 
+What are the ongoing revenues and costs of a savings account? 
+ 
+Additional revenues and costs of a checking account not mention in the savings list? 
+  
+  
+Notes to Interviewer: 
+Savings 
+Revenues: Interest from credit card portfolio 
+Costs: Interest paid to customer, call center, fraud, marketing, statement mailing 
+ 
+Checking 
+Revenues: Overdraft fee, account fees, interchange, ATM fee 
+Costs: Debit card transaction processing, ACH transaction processing, ATM reimbursement 
+ 
+BankCo: Question 2 
+
+
+===== PDF p120 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+116 
+Question #3: 
+What are possible ways of acquiring new accounts for online banking products? (Keep asking for more 
+until candidate has gotten 4)  
+  
+Notes to Interviewer: 
+•
+Online advertisements 
+•
+Search engine optimization 
+•
+Partnerships 
+•
+Affiliate marketing 
+•
+Cross-Sell current credit card customers 
+•
+Billboards 
+•
+Sponsor events 
+•
+Tabling at major events 
+•
+Etc. 
+ 
+BankCo: Question 3 
+
+
+===== PDF p121 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+117 
+Question #4: 
+The online bank will lend the deposits to the credit card portfolio at a 3% annual interest rate. What is the 
+lifetime profit of a single checking account verses a savings account? 
+Provide the candidate Exhibit #1.  
+Notes to Interviewer: 
+A strong candidate will try to discount the future cash flows and ask for a discount rate. Tell them that it 
+is not necessary. 
+ 
+Savings: 
+Revenue = $5,000 * 3% * 5 years = $750 
+Costs =( $5,000 * 2% + $1.50 * 12) * 5 years + $50 = $640 
+ 
+Savings Lifetime profit = $750 - $640 = $110 
+ 
+Checking: 
+Revenue = ($2,000 * 3% + $20 * 10%) * 10 years = $620 
+Costs = $2,000 * 0% + $2.00 * 12 * 10 years + $100 = $340 
+ 
+Checking Lifetime profit = $620 - $340 = $280 
+ 
+BankCo: Question 4 
+
+
+===== PDF p122 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+118 
+Question #5: 
+Calculate the total lifetime profit of all accounts opened in the first year for both the savings and checking 
+products. BankCo expects to capture 10% of the market for online accounts of whichever product they launch. 
+Provide the candidate Exhibit #2. 
+After total profit is calculated, ask the candidate if they are suspicious of any of the assumptions/data 
+from the case. 
+Notes to Interviewer: 
+Savings: 
+Accounts in First Year = 20,000,000 * 10% = 2,000,000 
+Savings Lifetime profit: 2,000,000 * $110 = $220,000,000 
+ 
+Checking: 
+Accounts in First Year = 15,000,000 * 10% = 1,500,000 
+Checking Lifetime profit: 1,500,000 * $280 = $420,000,000 
+ 
+Suspicious Assumptions: Anything that sounds reasonable and is supported by the candidate is 
+acceptable including, capturing 10% of market in the first year, the average deposits, life of the account, 
+account acquisition cost, etc. 
+ 
+BankCo: Question 5 
+
+
+===== PDF p123 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+119 
+Recommendation: 
+•
+BankCoCard should start an 
+online bank, launching the 
+checking account in the first 
+year and savings account in 
+the following year 
+ 
+•
+Launch the checking product 
+because it will generate almost 
+twice as much lifetime profit 
+ 
+•
+The market for online checking 
+accounts is growing faster than 
+the market for online savings 
+accounts 
+Bonus: Guide to an excellent case 
+•
+A strong candidate will mention competitive response and time value of money / discount rate. 
+•
+A strong candidate will not only note that the checking market is growing faster, but will also attempt to calculate the CAGR. 
+Checking CAGR is 20%, Savings CAGR is 10%. 
+•
+An especially talented candidate will recall that the objective of BankCoCard is to lower cost of funds for the credit card portfolio. 
+They will calculate that the savings account will generate $10 billion in deposits, while the checking account will only generate $3 
+billion. Using that as supporting evidence, they would recommend the savings product over the checking product. 
+Risks: 
+•
+BankCoCard could capture 
+less than 10% of the market 
+ 
+•
+Reputation risk 
+ 
+•
+Acquisition cost could be 
+higher than expected 
+ 
+•
+Product is not differentiated 
+from competitors 
+ 
+•
+Regulatory risk associated 
+with online banking 
+ 
+Next Steps: 
+•
+Meet with regulators 
+•
+Survey potential customers 
+to aid in product 
+development 
+•
+Collect industry reports to 
+confirm assumptions 
+•
+Interview industry experts 
+•
+Host focus groups 
+•
+Hire IT staff 
+•
+Design website 
+•
+Request additional budget 
+for both products 
+•
+Build call center 
+ 
+ 
+BankCo: Recommendation 

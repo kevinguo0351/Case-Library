@@ -1,0 +1,171 @@
+===== PDF p108 =====
+ Practice Cases – Case 20: Cleaning Supplies Manufacturer ZS Associates 
+ 
+ 
+104
+(Source: Interview case from ZS Associates Round I, RSB 2006 Casebook Case#20) 
+ 
+Context 
+Your client is a Cleaning Supplies Manufacturer. They are trying to redesign their 
+Sales Force and have approached you for advice. 
+ 
+A good clarifying question to ask in the beginning: 
+What is the reason behind the redesign initiative? Is it because the sales force is not meeting 
+sales goals or because of some other reasons? 
+ 
+Interviewer: Good question. The client has found out that its sales force performance is below 
+industry average and wants to improve sales force effectiveness through the redesign. 
+ 
+Interviewee should first structure the analysis. A sample approach:  
+ 
+First, I’d like to find out how the sales force is currently structured. Does each salesperson sell 
+multiple products or each salesperson is specialized in selling certain products?  
+ 
+Then, I’d like to assess sales force performance by product category to identify areas to focus 
+on first. I would use metrics such as annual sales per salesperson to assess the performance.  
+ 
+Third, I’d like to understand the selling process such as how sales people reach customers and 
+how much time is spent on what tasks to identify where the inefficiency exists. We could do a 
+benchmark analysis if data is available. I will also look into the resources/tools used by sales 
+force to see if resource allocation might have affected sales force effectiveness. It’s also 
+important to check the incentive system to see how sales people are compensated. We need 
+to make sure that the incentive system is in line with the company’s financial objectives.  
+ 
+Once I identify the problem, I will explore ways to increase the sales force effectiveness and 
+analyze possible impact and risks should we implement any changes.  
+ 
+Interviewer: show the following exhibit upon request and ask what products the 
+client should focus on first to improve sales. 
+ 
+ 
+Four product lines A, B, C, D 
+ 
+ 
+ 
+ 
+A good answer would lay down a few scenarios: 
+ 
+There are a few ways we can use to determine priority.  
+• 
+If the client is concerned with declining sales, we should start with B because its 
+revenue has dropped.  
+• 
+If the client is concerned with maximizing revenue per customer, then we should focus 
+on products that have lowest revenue per customer. However, the comparison in such 
+a way might not make sense because products are different and customer segments 
+are different. 
+• 
+If the client is concerned with revenue performance relative to competitors, then we 
+can benchmark sales data against competition if data available and focus on the ones 
+with the worst revenue performance.  
+ 
+ 
+# 
+Customers  
+Current 
+Revenue 
+12,000 
+24,000 
+  6,000 
+  3,000 
+A 
+B 
+C 
+D 
+$24M 
+$30M 
+$24M 
+$30M 
+Prior Year 
+Revenue 
+$18M 
+$35M 
+$20M 
+   $18.5M 
+%Change 
+33% 
+-14% 
+20% 
+62% 
+
+
+===== PDF p109 =====
+ Practice Cases – Case 20: Cleaning Supplies Manufacturer ZS Associates 
+ 
+ 
+105
+• 
+If we have data on sales force, we can find out how much sales each salesperson 
+brought in by product and focus on products with the lowest sales force effectiveness. 
+ 
+Interviewer: Suppose a sales person can make 3,000 calls per year, and on average 
+a customer must be called 10 times to make a sale. How many sales people should 
+you hire?  
+ 
+Answer: Assuming there is no overlap in customers of each product, there are 45,000 
+customers in total. If we want to make a sale from each customer, we need to make 450,000 
+calls and that means we need 450,000/3000 = 1,500 sales persons.  
+ 
+Interviewer: Show the following exhibit. “The Research Team has provided us the 
+following revenues and costs data associated with the sales force. What would be 
+the optimal number of sales people by eyeballing it?” 
+ 
+Answer: The optimal number of sales people is the number that maximizes the profit, i.e. the 
+biggest gap between the Revenue curve and the Cost curve if a vertical line is drawn. 
+ 
+Interviewer: Using the same slide, if you are given the following: 
+Revenue = 3,000,000*sqrt(N) + 10,000,000 (N = number of Sales People) 
+Gross Margin = 80% 
+Fixed Costs = 8,000,000 
+Assume each sales person makes $100,000 in salary and benefits 
+ 
+Now what’s the optimal number of sales people?  
+ 
+Answer:  
+Profit = 80%*(3,000,000*sqrt(N)+10,000,000)-100,000N-8,000,000 
+          = 2,400,000*sqrt(N)-100,000N 
+To maximize profit, first derivative should be zero and second derivative should be negative. 
+• 
+First Derivative: 1,200,000/sqrt(N)-100,000 = 0 Æ sqrt(N) = 12 Æ N = 144 
+• 
+Second Derivative: -600,000/sqrt(N^3) Æ Negative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+50
+100
+150
+200
+Number of Sales People
+Millions of $
+Revenue
+Costs

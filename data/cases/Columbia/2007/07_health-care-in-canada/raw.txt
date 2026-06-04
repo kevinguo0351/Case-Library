@@ -1,0 +1,190 @@
+===== PDF p29 =====
+ 
+Management Consulting Association Case Book 2007 
+- 25 - 
+Case
+Case
+Case
+Case 7
+ 7
+ 7
+ 7: Health Care
+Health Care
+Health Care
+Health Care in Canada
+ in Canada
+ in Canada
+ in Canada 
+ 
+ 
+BACKGROUND 
+ 
+Firm: McKinsey and Company 
+Round:  2007 Summer, First 
+Content: Qualitative and quantitative  
+ 
+ 
+CASE QUESTION 
+ 
+Our client is a Canadian pharmaceutical company.  Their first drug has just been 
+approved by what is equivalent to the United States’ FDA and is an asthma treatment.  
+The client has hired McKinsey to help them assess what is the right price for this new 
+treatment and they will also need McKinsey’s help with completing an application to the 
+government for price approval.  The second step is necessary because, as you may know, 
+Canada’s government subsidizes healthcare costs and we will discuss this in greater detail 
+later in the case. 
+ 
+ 
+INTERVIEWER BRIEFING 
+   
+Interviewees should consider what information will be necessary to address this case and 
+ask for data as they see fit. 
+• Research and Development costs for this drug are estimated to be $5 billion. 
+• Beyond R&D, marketing is the largest cost for a pharmaceutical.  The 
+interviewer, however, will ask the interviewee to assume that marketing costs are 
+$0 and there are no variable costs. 
+• There are three segments to this market: 
+1. Basic – 2% of the population – have a periodic asthma attack, use 1 
+inhaler/month 
+2. Serious – 2% of the population – use 1 inhaler/week 
+3. Acute – 1% of the population – use 1 inhaler/week, but attack sometimes 
+results in hospitalization and death. 
+• The client’s new treatment is classified as preventative. It is a pill that must be 
+taken every day. 
+• Regular inhalers cost $10 each.  This is the common treatment for asthma.  
+• Acute patients that result in hospitalization spend 1 night/year in the hospital at 
+$1000 and the rate of death is 1%. 
+ 
+ 
+ 
+
+
+===== PDF p30 =====
+ 
+Management Consulting Association Case Book 2007 
+- 26 - 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: First, let’s discuss the possible ways of framing the client’s first question – 
+how should it price this new drug? 
+ 
+Interviewee: Well, there are three different methods I can think of: 
+• Cost based pricing – set the drug price at cost and add a percentage markup 
+• Value based pricing – set it at what customers are willing to pay 
+• Determine Minimum and Maximum prices 
+ 
+Interviewer: Great, now, go through the steps to solve this problem and provide a price 
+to the client. 
+ 
+Interviewee: Okay, so let’s try cost based pricing.  I would assume that the company has 
+both fixed costs and variable costs.  Have we gathered any information from the client 
+about its cost structure?  
+ 
+Interviewer: Well, what do you think would be its largest costs? 
+ 
+Interviewee: Given what I know about the pharma industry and the extensive R&D for 
+drugs, I would guess Research and Development. 
+ 
+Interviewer: Good, R&D costs are $5 billion.  What would you guess are some other key 
+categories of costs? 
+ 
+Interviewee: Marketing is usually a big cost. 
+ 
+Interviewer: Right.  For this case, let’s assume marketing is $0 and there are no variable 
+costs. [Where possible, the interviewee could have tried to anticipate this chain of 
+questions and suggested, without being asked, the key categories of costs that might be 
+relevant]. 
+ 
+Interviewee: Next I would want to size the Canadian market for this drug, assuming that 
+we will only sell in Canada.  To do this, the population of Canada is approximately 30 
+million people.  We would now need to estimate the percentage that is asthmatics? 
+ 
+Interviewer: There are 3 segments to this market: 
+Basic – 2% of the population – have a periodic asthma attack, use 1 
+inhaler/month. 
+Serious – 2% of the population – use 1 inhaler/week. 
+Acute – 1% of the population – use 1 inhaler/week, but attack sometimes results 
+in hospitalization and death. 
+Also, the treatment is preventative. It is a pill that must be taken every day. 
+ 
+
+
+===== PDF p31 =====
+ 
+Management Consulting Association Case Book 2007 
+- 27 - 
+ 
+Interviewee: Okay, so let’s assume every segment will use this drug.  30 million * 5% = 
+1.5 million people.  However, I would expect that there would be some barriers to 
+switching and not all potential users will switch from inhalers. 
+ 
+Interviewer: Okay, so now how do you set the price? 
+ 
+Interviewee: I want to determine the price to break-even.  For a pharma, I think 5 years 
+is acceptable. 
+ 
+To break even in 5 years: 1.5 million * Revenue = 5 billion (R&D) 
+ 
+ 
+ 
+ 
+Revenue = $3,300 
+ 
+Use 350 days/year for simplicity, one pill every day over 5 years = 350*5= 1,750 pills 
+ 
+$3,300/1,750 pills = approximately $2/pill 
+ 
+Interviewer: So do you think this price should be the minimum or the maximum? 
+ 
+Interviewee: This is the minimum because it is the break-even price. 
+ 
+Interviewer: Okay, let’s consider the second half of the question.  As I mentioned, the 
+Canadian government subsidized medical costs, let’s for the sake of this case say that it 
+pays back its citizens for medical treatments.  How do you determine how to set the price 
+so that the government will agree to pay it? 
+ 
+Interviewee: Assuming that the government is paying for the current treatment, I would 
+want to know their current spend and determine what the difference is between that and 
+the new drug.  Do you know how much the government is currently paying patients for 
+their inhalers? 
+ 
+Interviewer: The cost of inhalers is $10 each. Also, acute patients that result in 
+hospitalization spend 1 night/year in the hospital at $1,000 and the rate of death is 1%. 
+ 
+ 
+Interviewee: So I want to determine how much the government is currently spending on 
+inhalers. 
+Basic: $120/year (1 inhaler a month), 600,000 people, $72 million total 
+Serious: $520/year (1 inhaler a week), 600,000 people, $312 million total 
+Acute: $520/year (1 inhaler a week), 300,000 people, $156 million total 
+ 
+Total government is spending on inhalers: $540 million/year. 
+ 
+Now I want to determine how much government is spending on hospitalizations. 
+ 
+
+
+===== PDF p32 =====
+ 
+Management Consulting Association Case Book 2007 
+- 28 - 
+$1,000 * 300,000 people = $300 million/year 
+ 
+Total government spend = $540 million + $300 million = $840 million 
+ 
+Over five years: $840 million * 5 = $4.2 billion 
+ 
+So with the new drug, we calculated the break-even at five years to cover $5 billion in 
+R&D.  With inhalers, in five years, the government is spending $4.2 billion. 
+ 
+Interviewer: Good, so with this information, summarize for me the minimum and 
+maximum price. 
+ 
+Interviewee: Summarize results to interviewer and state what you think the minimum and 
+maximum prices should be.  Make sure to note that the new pill is a preventative 
+measure, as opposed to the current method of using inhalers as treatment.  A good 
+summary will be structured and go back through the steps used in solving the case.  At 
+this point you can also bring in other parameters that may not have been discussed in the 
+case such as the price on-patent versus off-patent, or the potential larger international 
+market for this drug.   
+ 

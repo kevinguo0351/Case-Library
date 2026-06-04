@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2014_01_purple-pill-company",
+  "school": "Fuqua",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2014.pdf",
+  "idx": 1,
+  "case_name": "Purple Pill Company",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Pharmaceuticals",
+  "difficulty": null,
+  "pdf_page_start": 19,
+  "pdf_page_end": 26,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    20,
+    21,
+    22
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p020.png",
+    "exhibits/exhibit_p021.png",
+    "exhibits/exhibit_p022.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2014\\01_purple-pill-company"
+}

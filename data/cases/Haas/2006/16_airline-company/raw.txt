@@ -1,0 +1,95 @@
+===== PDF p56 =====
+ 
+Haas Consulting Club Case Book 
+ 
+52  
+5.16. Airline Company  
+Length: Medium (30 Minutes) 
+ 
+Problem: 
+Our client is a major airline company and the CEO contacts you (a BCG partner) and said 
+that he wanted to put one more passenger on each of his company’s flights. We will go to 
+a meeting with him now and we need to prepare two things: 
+• The financial return of one more passenger per flight. Is it worthwhile to do so? 
+• The marketing strategy to attract these new passengers. 
+ 
+Solution: 
+First element of the solution: The financial return 
+To calculate the financial return, the candidate should look that the revenue and cost side 
+of bringing one more passenger per flight. 
+One the revenue side, we need: 
+• Average cost of a ticket; 
+• Number of new passengers. 
+The candidate should also briefly ask about if he can assume that there is enough capacity 
+to put one more passenger onboard. 
+Second element of the solution: The average cost of a ticket 
+The candidate should ask about the kind of routes, the market share, and then price of 
+each of them. 
+In this case, we were talking about the Brazilian market and this airline has only domestic 
+flights. The interviewer simplified the numbers a lot the make the calculations easier. 
+You should adapt the numbers to US domestic airline market or any other you would 
+like. For Brazil, the interviewer gave the following information: 
+• 60% of the flights are between two major cities (Sao Paulo and Rio de Janeiro), 
+which are 45 minutes apart and the ticket costs US$100.00; 
+• 20% between other major capitals which are 1 hour and a half apart from each 
+other and the ticket also costs US100.00; 
+• 20% between other cities which are 3 hours apart and cost US$ 300.00. 
+So the average ticket price is: (80% * 100 + 20% * 300) / 100 = $ 140.00 
+Third Element of Solution: Number of new passengers 
+There are several ways to come up with the number of new passengers. I proposed two: 
+1. Calculate the number of flights: estimate the number of airplanes that the 
+company owns and then estimate the number of flights each airplane does. 
+2. Calculate the number of cities (average) in which the company makes flights 
+and the average number of flights per city. 
+The interviewer said that I should use the first approach since he had looked at the 
+company’s website and he found out that they have 100 airplanes. 
+I asked if I could assume that 80% of the planes were used for the 1 hour flights and 20% 
+for 3 hour flights. He answered that this was not 100% true in practice because depending 
+
+
+===== PDF p57 =====
+ 
+Haas Consulting Club Case Book 
+ 
+53  
+on the city, we could have more frequent flights than others, but he agreed that I could do 
+this approximation. The interviewee can come up with other reasonable assumptions. 
+ 
+The candidate should also notice that normally the company spends a lot of money and 
+time performing maintenance on its airplanes. If the candidate forgets to mention this and 
+starts using all 110 airplanes, you should ask what assumptions he made to use the all the 
+planes at once. For this company, the interviewer mentioned that this company had a little 
+less than 10% of its airplane in maintenance. 
+ 
+So, assuming 100 airplanes available, we have: 
+• 100 × 80% = 80 airplanes doing 1 hour flights 
+• 100 × 20% = 20 airplanes doing 3 hours flights 
+To estimate the number of flights per airplane per day, we need the range of hours of 
+flights during a day and the interval of time in which an airplane stays on the ground.  
+What the interviewer wants to hear is not the right number, but what are your 
+assumptions to get to the numbers, for example: 
+Fourth Element of Solution: Flight time 
+• The first airplane departs at 6:00 am because the executives must arrive at its 
+client’s at 8:00 am, for example. 
+• There will be no flights after 10:00 pm, so we will assume that the last flight will 
+arrive at midnight. 
+So, there is no flight between midnight and 6:00 am.  
+Fifth Element of Solution: On the ground time: 
+• Taxing – 10 minutes 
+• Passengers going out – 15 minutes 
+• Cleaning / food supply – 10 minutes 
+• Passenger going in – 15 minutes 
+• Taxing – 10 minutes 
+Total: 60 minutes  1 hour. 
+Therefore, based on the above we have: 
+• 18h / 2h = 9 short flights per day  
+• 18/h / 4h ~ 4 long flights per day 
+• 80 × 9 short flights per day = 720 flights  
+• 20 × 4 long flights per day = 80 flight 
+• Total = 800 flights per day 
+So, the extra revenue in one month is 800 flights / day * 30 days * $140 = $ 3,360,000 
+On the cost side, the candidate should realize that the cost of one extra passenger is only 
+the marginal cost, which can be ignored.  Therefore, the extra profit is the extra revenue. 
+The interviewer asked why was it important to have this row estimation about the extra 
+profit before going to meet the client. I said that it was important to have a sense of the 
+size of the clients’ issue and the interviewer agreed. 

@@ -1,0 +1,340 @@
+===== PDF p52 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+48
+Reinvigorating Paterno Mutual 
+ 
+Opening 
+Your client is the distribution department of The Paterno Mutual, a major 
+diversified financial services provider. Paterno Mutual has been in business 
+for over 150 years and is generally recognized as the most respected 
+provider of whole life insurance in the United States. Paterno Mutual has 
+approximately 10% market share in the whole and term life insurance 
+businesses, two highly fragmented industries. In the last five years, Paterno 
+Mutual has also begun to sell limited investment products including mutual 
+funds and annuities.  
+ 
+Originally incorporated in Dayton, Ohio, Paterno Mutual began as a regional 
+company serving the American Midwest. Although the company now has 
+offices across the country, over 60% of its business is still derived from 
+Middle America. 
+ 
+Paterno Mutual, like many insurance companies, is divided into two parts – 
+production and distribution. The production department is responsible for 
+pricing policies (accomplished by actuaries), designing new insurance 
+products, investing accumulated funds, and distributing benefits. The 
+distribution department is responsible for selling new policies. Paterno 
+Mutual employs a “captive agent model” which means that insurance agents 
+(called Field Representatives) by contract can only sell Paterno Mutual 
+products. All agents are independent contractors who are organized into 100 
+regional network offices. Each network office is headed by a Managing 
+Director who is also an independent contractor, contractually tied to the 
+corporate head quarters. Each network office has approximately 100 Field 
+Representative attached to it. Managing Directors are all former successful 
+Field Representatives. 
+ 
+Paterno Mutual enjoyed steady growth over the first 140 years of its 
+existence however over the last ten years management has seen profits and 
+market share stagnate. It has hired your team in an attempt to reverse this 
+trend. On the plane ride to your initial team meeting in Dayton, you take a 
+few minutes to brainstorm your new client’s situation in preparation for the 
+initial team problem solving session. 
+ 
+
+
+===== PDF p53 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+49
+Answer 
+This case, like most cases, starts with a very broad question and asks the 
+interviewee to suggest a basic framework and start to analyze the client’s 
+situation. One approach is to utilize the three Cs: 
+ 
+Company 
+Is our product mix changing to meet customer needs? 
+Is our pricing strategy optimized and consistent with market demands? 
+Are we marketing our product appropriately? Has our advertising budget 
+changed? 
+Is a captive agent model still appropriate? 
+How 
+has 
+the 
+introduction 
+of 
+investment 
+products 
+affected 
+agent 
+productivity? 
+ 
+Customer 
+How can we better segment our customers to maximize service and 
+profitability? 
+Why hasn’t our business grown faster on the coasts? What about 
+international opportunities? 
+How are customer preferences changing with respect to insurance? 
+ 
+Competition 
+How has the competitive landscape changed? Is the industry expanding or 
+consolidating? 
+What new services are our competitors offering? 
+How has our competitors’ message changed? How are customers 
+responding? 
+ 
+
+
+===== PDF p54 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+50
+ 
+Analysis 2 
+After your initial brainstorming session with the client it is clear to you that 
+the Field Representatives are the key to profitability at Paterno Mutual. You 
+are convinced that if Paterno Mutual can just hire more Field Representatives 
+or boost Field Representative effectiveness (e.g. profit per FR), Paterno 
+Mutual will begin growing again. Furthermore you are surprised to learn how 
+different each of the Network Offices operates and wonder if these 
+differences are affecting performance. You identify three dimensions that 
+may affect Office performance: Time Spent Recruiting, Density of Middle 
+Management, and Time Spent Training. You run a quick analysis to compare 
+average Office performance against Offices that are strong in each 
+dimension. You use three metrics to evaluate performance: Profit/FR, 
+Recruitment Rate, and 5yr retention rate of FRs. 
+ 
+The results of this analysis are contained on Figure 1. Excited with your 
+results you rush to your engagement manager to share with him your 
+findings. 
+ 
+Note to interviewer: This is a complex chart so make sure you 
+understand it before presenting it to your interviewee.  
+ 
+Answer 
+The interviewee should begin by analyzing the chart. The first column is the 
+benchmark (the average network office) it should be compared to the next 
+three columns (high performing network offices). For example, offices that 
+spend a lot of time recruiting seem to be less profitable than the average 
+network office; offices with a high density of middle management seen to be 
+more profitable. The candidate should continue this way in order to 
+understand all data. Once the candidate understands the chart, they should 
+synthesize the data. Two major trends emerge: 
+ 
+1) Offices with a high density of middle managers seem to outperform in 
+all categories 
+2) Offices that spend a lot of time recruiting seem to underperform in all 
+categories 
+ 
+Note: In the real situation on which this case was based, the reason time 
+spent recruiting was low was actually due to bad data; press the candidate 
+to focus on the density of middle management finding. Ask them to 
+speculate on why this effect is being observed. 
+ 
+
+
+===== PDF p55 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+51
+ 
+Analysis 3 
+Having reviewed your results, your engagement manager declares you a 
+rock star, but presses you to dig deeper. At his suggestion you decide to 
+compare Middle Management Density across all Network Offices to see how 
+it affects FR profitability. 
+ 
+The results of this analysis are contained on Figure 2. Again you eagerly 
+rush to your EM to share your results. 
+ 
+Answer 
+This graph compares profitability (normalized by number of FRs) to number 
+of middle managers per field representative. The candidate should recognize 
+that the optimal number of FRs to have per middle manager seems to be 5 
+because at that level FRs are the most profitable. When the density of 
+middle management is lower (i.e. FR/MM>5), representatives are less 
+productive. Also, when density of middle management is too high (i.e. 
+FR/MM<5) there seems to be a management overkill effect and FRs become 
+less productive. 
+ 
+Ask the candidate to summarize the graph. They should conclude that if all 
+Network offices shifted to the optimal FR/MM ratio then system-wide 
+performance should increase. For most offices this implies hiring more 
+middle managers; for a few offices it implies we need to cut middle 
+managers. 
+ 
+ 
+Analysis 4 
+Much to your dismay your EM seems unimpressed with your findings. He 
+finds the idea that hiring more middle management may boost system-wide 
+profitability to be a long shot and states that even if we could elevate all NOs 
+to the high performing level, any boost in profitability would barely offset the 
+additional costs of hiring more managers. 
+ 
+You disagree and decide to calculate the upside potential if all NOs were 
+migrated to the level of the top performing offices. In order to simplify your 
+calculations you look at figure 2 and break all network offices in four groups 
+as shown in figure 3. 
+ 
+
+
+===== PDF p56 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+52
+Answer 
+Revenue from migrate NOs to GP3 performance level: 
+GP I: 20 NOs * (100 FR/NO) * ($400,000/FR) = $800M 
+GP 2: 25 NOs * (100 FR/NO) * ($200,000/FR) = $500M 
+GP 4: 25 NOs * (100 FR/NO) * ($200,000/FR) = $500M 
+GP 1 + GP 2 + GP 4 = $1.8B 
+ 
+Cost of additional Middle Managers: 
+GP 1: 20 NOs * (15 MM/NO) * ($100, 000/MM) = $30M 
+GP 2: 25 NOs * (10 MM/NO) * ($100,000/MM) = $25M 
+GP 4: 25 NOs * (-5 MM/NO) * ($100,000/MM) = ($12.5M) 
+GP 1 + GP2 + GP4 = $42.5M 
+ 
+Increase in Profits to Paterno Mutual: 
+$1.8B - $42.5M = $1.375B 
+ 
+ 
+Conclusion 
+Happy with the way your first day on the study has gone, you pack up your 
+things and head for the hotel. As you enter the elevator, you run into 
+Paterno Mutual’s CEO who asks how the study is going so far. 
+ 
+Answer 
+Push the candidate to give a strong but concise conclusion. Here is one 
+example: 
+ 
+We are working to reinvigorate growth for your company. So far we have 
+focused on elevating field representative performance. It seems that middle 
+management density is the biggest driver of representative profitability. If 
+we can migrate all network offices to the optimal field representative to 
+middle manager ratio we can boost corporate profitability by 1.4 billion 
+dollars. Next we plan to look at the cultural impact of such a switch as well a 
+start to build a roll-out plan.  
+ 
+ 
+
+
+===== PDF p57 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+53
+350
+325
+500
+365
+5
+4.5
+5.4
+3
+35%
+28%
+40%
+32%
+Profit/FR
+x $1000
+Recruitment Rate
+(New FRs/yr)
+5 yr retention rate
+Average 
+NO
+Time 
+Spent 
+Recruiting*
+Density of 
+Middle 
+Management*
+Time 
+Spent 
+Training*
+*Indicates Average of Top 10 performing NOs in category
+Figure 1: Comparison of Top Performing NOs Across Performance Dimensions
+ 
+
+
+===== PDF p58 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+54
+ 
+Figure 2: Middle Manager Density by Network Office
+0
+1
+2
+3
+4
+5
+6
+0
+5
+10
+15
+20
+25
+FRs/MM
+Profit/FR (x$100,000)
+ 
+
+
+===== PDF p59 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+55
+ 
+Figure 3: Middle Manager Density by Network Office Simplifying Assumptions
+300,000
+4
+25
+IV
+500,000
+5
+30
+III
+300,000
+10
+25
+II
+100,000
+20
+20
+I
+Profit/FR
+FR/MM
+# of NOs
+Group #
+Note: Average Middle Manager Salary is $100,000/yr

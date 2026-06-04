@@ -1,0 +1,203 @@
+===== PDF p114 =====
+Your client is a lubricant manufacturer with a total revenue of $50M. The client sells a special “Type 3” 
+lubricant to power and utility companies. The lubricant is used for items such as pumps, machines, and fans. 
+The client has not had any revenue growth in 3 years and has come to us to find ways to achieve revenue 
+growth.
+Problem Statement Narrative
+Case # 13: Lubricant Manufacturer
+Additional information will be given during questions. 
+Case Notes
+Industry: 
+Manufacturing
+Case Type: 
+Profitability
+Firm:
+Parthenon EY
+• Breakeven Analysis
+• Revenue Analysis
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Easy
+Medium
+110
+Case # 13 - Lubricant Manufacturer
+
+
+===== PDF p115 =====
+Sample Framework
+Sample Framework
+•
+Interviewee should drive the case and suggest 
+ways to increase revenue.
+•
+Additional information will be given during the 
+framework / clarification phase and during the 
+questions.
+Guidance for Interviewer
+•
+Type 3 lubricant is the only product your client 
+sells.
+•
+It is a B2B company, selling directly to power 
+and utility companies; it has no it has no client 
+in other business types.
+Clarification Answers if Asked 
+Current Customers
+New Customers
+Current Products
+New Products
+•
+Offer volume 
+discounts
+•
+Institute loyalty 
+programs
+•
+Utilize long-term 
+contracts
+•
+Raise prices
+•
+R&D for new 
+products
+•
+Complementary 
+services
+•
+Automotive?
+•
+Defense?
+•
+Construction?
+•
+New Distribution 
+Channel?
+• Increase 
+advertising
+• Institute 
+partnerships
+• R&D for new 
+products
+• B2C route with 
+drivers
+Case # 13 - Lubricant Manufacturer
+111
+
+
+===== PDF p116 =====
+Question #1
+Referring to interviewee’s framework: What do you want to explore first?
+Additional information to be given during discussion:
+•
+Client doesn’t believe they can sell more to their current customers
+•
+Client prefers not to increase R&D (therefore prefers using current product over developing new 
+product)
+Guide candidate to explore “new customers + current product” and give Exhibit 1; have candidate comment 
+on information in the exhibit
+Question #1
+Candidate should identify the automotive industry as most attractive market and be able to explain why:
+•
+Slowest growing but 3x as much revenue as the next closest industry (Medical)
+•
+The market already has high demand for Type 3 lubricant
+Solution
+112
+Case # 13 - Lubricant Manufacturer
+
+
+===== PDF p117 =====
+Question #2
+To produce Type 3 lubricant for the automotive industry, the client would need to invest in a new production 
+facility:
+•
+Fixed cost of the new production facility: $10M
+•
+Variable costs: $10 / lb
+•
+Market price of the lubricant: $50 / lb
+•
+Average purchase by barrel: 1 barrel = 5 gallons
+•
+4 lbs = 1 gallon
+How many barrels would the client need to sell to break even within 2 years?
+Question #2
+Unit profit: $50 - $10 = $40/lb
+Fixed cost / Unit profit = $10M / $40 = 250,000 lbs
+Converting from lbs to gallons: 250,000 lbs / 4 = 62,500 gallons
+Converting from gallons to barrels: 62,500 gallons / 5 = 12,500 barrels
+Per year: 12,500 barrels / 2 = 6,250 barrels per year to break even
+Candidate should comment on this number – is that a reasonable number of barrels to sell? (no data given, 
+so this would be a guesstimate)
+Solution
+113
+Case # 13 - Lubricant Manufacturer
+
+
+===== PDF p118 =====
+Conclusion
+• Automotive industry has a high demand for Type 
+3 lubricant (hence there is no need to develop 
+new product)
+• 3X as much revenue as the next industry
+Rationale
+• Client should focus expansion on the automotive 
+industry
+• Client should build a new plant to focus on the 
+automotive industry, pending industry analysis 
+and # of barrel sales projection
+Recommendation
+• Begin analysis for investing in new plant
+• Map automotive industry for potential new 
+clients 
+Next Steps
+• Automotive industry has slow growth
+• Continued focus on single product maintains a 
+risk of becoming obsolete if the product is no 
+longer in use/ in demand
+Risks
+114
+Case # 13 - Lubricant Manufacturer
+
+
+===== PDF p119 =====
+Exhibit #1
+115
+Automotive
+Medical
+Semiconductor
+Aerospace
+Annual Rev
+$600M
+$200M
+$80M
+$50M
+Growth Rate
+3%
+4%
+6%
+4%
+Type 3 lubricant
+60%
+20%
+25%
+30%
+Type 4 lubricant
+30%
+20%
+25%
+30%
+Type 5 lubricant
+5%
+40%
+25%
+30%
+Type 6 lubricant
+5%
+20%
+25%
+10%
+Case # 13 - Lubricant Manufacturer

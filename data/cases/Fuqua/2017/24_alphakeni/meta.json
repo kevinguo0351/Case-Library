@@ -1,0 +1,34 @@
+{
+  "case_id": "Fuqua_2017_24_alphakeni",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 24,
+  "case_name": "AlphaKeni",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Information Technology/BPO",
+  "difficulty": null,
+  "pdf_page_start": 272,
+  "pdf_page_end": 282,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p275.png",
+    "exhibits/exhibit_p276.png",
+    "exhibits/exhibit_p277.png",
+    "exhibits/exhibit_p278.png",
+    "exhibits/exhibit_p279.png",
+    "exhibits/exhibit_p280.png",
+    "exhibits/exhibit_p281.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\24_alphakeni"
+}

@@ -1,0 +1,275 @@
+===== PDF p143 =====
+139
+PharmaCo
+Round 2 | Healthcare
+
+
+===== PDF p144 =====
+140
+Round 2 | Healthcare
+1 2  |  C A S E :  P HA R M A C O
+PHARMACO
+B E HAVIO R A L  
+INT E R VIE W  
+Q UE S T IO N:
+1 .  Te ll m e  a b o u t  
+a  t im e  y o u  
+wo r k e d  wit h  a  
+d if f ic u lt  t e a m  
+m e m b e r  a n d  h o w 
+y o u  r e s o lv e d  it .
+UVA Darden School of Business 2021-22 Casebook
+Clarifying Information:
+1. What is PharmaCo’s core business? GP has a long, successful tradition in researching, developing, and selling 
+“small molecule” drugs. This class of drugs represents the vast majority of drugs today, including aspirin and most 
+blood-pressure or cholesterol medications.
+2. Is entry-by-acquisition the only approach we should consider? R&D for biologicals is vastly different from 
+small-molecule R&D. Since its competitors are already several years ahead of PharmaCo in the biologicals market, 
+PharmaCo wants to jumpstart its biologicals program via acquisition.
+Prompt: PharmaCo is a pharmaceutical company with $10 billion in annual 
+revenue. It’s corporate HQ and primary R&D centers are in Switzerland, with 
+regional sales offices worldwide. PharmaCo is interested in entering a new, 
+rapidly growing segment of drugs called “biologicals.” To gain the R&D 
+capabilities requisite for biologicals, PharmaCo is considering acquiring 
+BioLead, a biologicals start-up in Austin. BioLead is privately owned and has 
+an estimated valuation of $1 billion. Our firm has been hired to evaluate the 
+BioLead acquisition and to advise on its strategic fit with PharmaCo’s
+biologicals strategy. What factors should the team consider when evaluating 
+whether PharmaCo should acquire BioLead?
+
+
+===== PDF p145 =====
+141
+Question 1
+•
+What factors should the team consider when evaluating whether PharmaCo should acquire BioLead?
+1 2  |  C A S E :  P HA R M A C O
+Exhibit or Question Guidance:
+A good answer would include the following:
+•
+The value of BioLead’s drug pipeline, number of drugs currently in development, likelihood of success, estimated revenues and profits
+•
+BioLead’s R&D capabilities (future drug pipeline), scientific talent, intellectual property (for example, patents, proprietary processes or 
+know-how for biologicals research), and buildings, equipment, and other items that allow BioLead’s R&D to operate.
+•
+BioLead’s marketing or sales capabilities. Especially how promotional messages will be delivered, for example, relationships with key 
+opinion leaders that can promote biologicals; key opinion leaders can come from the academic arena, like prominent medical school 
+professors, or from the public arena, like heads of regulatory bodies or prominent telejournalists.
+•
+Acquisition price
+A very good answer might also include:
+•
+BioLead’s existing partnerships or other relationships with pharmaceutical companies.
+•
+PharmaCo’s capability gaps in biologicals, R&D, sales and marketing, etc.
+•
+PharmaCo’s alternatives to this acquisition. Alternative companies PharmaCo could acquire. Other strategies for entering biological 
+segment, for example, entering partnerships rather than acquiring, and pursuing other strategies than entering the biological segment
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p146 =====
+142
+Research
+•
+Highly skilled labor (scientists)
+•
+Specialized equipment and labs
+•
+Materials
+•
+Phase I, II, III testing – proper 
+testing and documentation
+•
+Cost of failed drugs
+1 2  |  C A S E :  P HA R M A C O
+Best candidates display:
+The best candidates will apply a customized structure and will brainstorm cost items specific to pharmaceuticals. Push candidate to produce a 
+comprehensive list by asking “What else?” one or two times.
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should push candidates to be specific and comprehensive.
+Regulatory approval
+•
+Regulatory fees paid to governing 
+bodies
+•
+Salary / wages for in-house council 
+to file patents, trademarks, and 
+other legal documentation
+Commercialization
+•
+Promotional materials
+•
+Marketing campaigns
+•
+Production costs (materials, quality, 
+sourcing)
+•
+Adding personnel (sales, marketing, 
+administrative, regulatory)
+•
+New facilities
+•
+Packaging materials
+•
+Distribution and shipment (logistics)
+•
+Taxes
+•
+Patent infringement
+BRAINSTORMING
+The team wants to explore the value of BioLead’scurrent drug pipeline. Based on market research, BioLead’sonly promising drug, SM1, is 
+estimated to generate $10B in sales if brought to market. That said, whatcosts should be considered throughout the entirety of a drug’s 
+lifetime?
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p147 =====
+143
+Question 3
+•
+The team has pulled together the following data (show Exhibit 1). What is the value of BioLead’s drug, SM1?
+Supply the following information only when asked:
+-
+Costs by phase: Phase I $160M, Phase II $125M, Phase III $75M, Filing $5M. Costs are incurred only if the drug reaches a particular 
+phase.
+-
+Costs of production: Manufacturing 5% of sales, Logistics 5% of sales, Other 10% of sales
+-
+Lifetime revenue: $10B – great candidates will recall that this information was previously provided
+1 2  |  C A S E :  P HA R M A C O
+Question Guidance:
+•
+Revenue (discounted by chance of success): $10B x 70% x 40% x 50% x 90% = $1,260MM
+•
+Production costs: $10B x (5% + 5% + 10%) = $2B, then discounted by chance of success = $252MM
+•
+Phase 1 has a 100% chance of completion = $160MM
+•
+Phase 2 achieved 70% of the time (probability a drug completes Phase 1) = $125M x 70% = $87.5M
+•
+Phase 3 achieved 70% x 40% of the time = $75M x 70% x 40% = $21M
+•
+Filing achieved 70% x 40% x 50% of the time = $5M x 70% x 40% x 50% = $0.7M
+•
+Revenue ($1,260MM) – Production costs ($252MM) – R&D costs ($269.2MM) = $738.8MM SM1 drug valuation
+This drug valuation essentially represents known future cash flows of the business. Great candidates will compare this figure against the 
+$1B BioLead company valuation mentioned in the prompt and hypothesis why the figures are different.
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p148 =====
+144
+EXHIBIT 1
+1 2  |  C A S E :  P HA R M A C O
+Expected probability of success, by stage of research and development, %
+UVA Darden School of Business 2021-22 Casebook
+Fail
+Phase I 
+trial
+70
+30
+Fail
+Phase II 
+trial
+40
+60
+Fail
+Phase III 
+trial
+50
+50
+Fail
+Filing
+90
+10
+Successful 
+marketing 
+and sales
+Candidate 
+drug
+Note: “Filing” is the process of submitting all of the clinical and safety evidence from Phase I, II, and III trials, and asking for regulatory approval 
+to actually sell the drug.
+
+
+===== PDF p149 =====
+145
+Question 3
+•
+What are your hypotheses on the major risks of integrating the R&D functions of BioLead and PharmaCo?
+1 2  |  C A S E :  P HA R M A C O
+A very good answer would include the following:
+•
+Little to no overlap in research or expertise leading to minimal collaboration
+•
+Culture clash. PharmaCo is an established, mature business while BioLead is a young, entrepreneurial business
+•
+Language barriers hinder communication and sharing of information
+•
+Physical distance and time difference may lead to a poor sense of community
+•
+Talent may leave BioLead after the acquisition – either as a result of newfound wealth from the sale of the business or 
+because they don’t want to be a part of a large corporation
+The best candidates will recognize the human element of organizational change
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p150 =====
+146
+INT E R VIE W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

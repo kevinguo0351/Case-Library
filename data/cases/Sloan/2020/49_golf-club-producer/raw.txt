@@ -1,0 +1,182 @@
+===== PDF p194 =====
+Casebook | 2019-20 Edition 
+190 
+ 
+49. Golf Club Producer (McKinsey R1, Other, New Product, 
+Quantitative) 
+Stem: Our client is the CEO of a family owned business called GCP, which produces golf clubs in the 
+United States. They used to produce clubs that were easy to use, so most of their customers are 
+beginner players. They recently received a patent for a new club that would enhance the performance of 
+amateurs and professionals alike. Product innovation is paramount in this industry and they want help 
+capitalizing on this development with a strong product launch. 
+ 
+The interviewer did not give the candidate time to come up with a structure and instead presented to chart 
+right away. 
+ 
+1st phase: Analyzing the market 
+ 
+Interviewer: There are two main ways to produce clubs: liquid and solid production. GCP currently uses 
+liquid production only, but some competitors use solid production. The chart below represents the number 
+of golf club sets sold in each year. We have historical data from 2007 and 2008, and estimates for 2009 
+and the next two years. What do you see? 
+ 
+ 
+ 
+ 
+ 
+Give the candidate 20 seconds to look at the chart. He/she should begin to share insights. If candidate 
+doesn’t answer questions 1 and 2 below, push for it. 
+ 
+1) What do you think of this market? 
+ 
+2) Does being one of the top producers matter? Why do you think so? 
+ 
+Candidate: The market has been growing rapidly: more than 100% in two years, which certainly makes it 
+attractive. The top 10 liquid producers have a huge market share, so being at the top is clearly important. 
+I would imagine they enjoy economies of scale in production, distribution, and advertising. They are 
+probably also better able to invest in product innovation. 
+
+
+===== PDF p195 =====
+Casebook | 2019-20 Edition 
+191 
+ 
+2nd phase: Should we build a new plant or expand ours? 
+ 
+Interviewer: OK. I have some more information for you. We estimate demand for our new club to be 
+60,000 sets next year. Given the following information, do you think we should build a new, additional 
+plant or expand the current plant? (All machines are equally durable) 
+ 
+You can give all information at once, rather than waiting for questions. The intent is to give all information 
+quickly and let the candidate work with it. 
+ 
+Building a new, additional plant: 
+ 
+Initial one-time investment of $2M. 
+Two types of machines are available: 
+Machine line I: 2000 sets/month, costs $12.5M 
+Machine line II: 1250 sets/month, costs $8M 
+Restriction: Can only have total of 3 lines operating there. 
+ 
+Expanding the current plant: 
+ 
+Initial one-time investment of $2M 
+Two types of machines are available: 
+Machine line I: 1250 sets/month, costs $8M 
+Machine line II: 7500 sets/year, costs $5.5M 
+*All machines last for exactly the same time. 
+ 
+Candidate: Ok, let’s compare the total costs in each case. The one-time investment is the same in either 
+case so we can ignore it when comparing: 
+ 
+For building a new plant: 
+ 
+Machine line I produces 2,000 sets/month which is 24,000 sets/year 
+Machine line II produces 1,250 sets/month which is 15,000 sets/year 
+Since we can only have 3 total lines, in order to hit demand and produce at least 60,000 sets/year, we 
+can either have: 
+a) two type I and one type II (for a total of 24k + 24k + 15k = 63k sets/year) 
+i. 
+cost of 12.5 + 12.5 + 8 = $33M 
+b) three type II (for a total of 24k * 3 = 72k sets/year) 
+i. 
+cost of 12.5 * 3 = $37.5M 
+ 
+Option a) at $33M is the most cost effective. 
+For Expanding the existing plant: 
+Machine line I produces 1,250 sets/month which is 15,000 sets/year 
+ 
+Machine line II produces 7,500 sets/year 
+
+
+===== PDF p196 =====
+Casebook | 2019-20 Edition 
+192 
+ 
+Type I is doing twice the output at much less than twice the cost. We should use all type I machines. In 
+order to hit target, we need 4 machines (15,000 * 4 = 60,000). This will cost $32M ($8M * 4). 
+ 
+Candidate: Costs are roughly the same (the extra million for a new plant could be offset by future 
+capacity needs), so we need to include further considerations to decide what to do. 
+ 
+3rd phase: Other issues in deciding which project to pursue 
+ 
+Interviewer: Given that the calculated costs are roughly the same, what other issues would you want to 
+analyze? What are the pros & cons of each of them? Which would you choose? 
+ 
+This is a brainstorm session. Keep asking “what else” to get the most out of the candidate. If candidate 
+runs out of ideas, you can help by saying “what about … how do you think that impacts the decision?”, 
+but that clearly hurts candidate overall performance in the case. 
+ 
+Candidate: 
+ 
+● 
+Management/Admin: Lower labor and G&A costs if you only have one plant 
+● 
+Product quality: easier to have a standard if you only have one plant 
+● 
+Distribution: might be cheaper if you can distribute from two different locations 
+● 
+Event risks: insurance would be cheaper with 2 plants (diversifying event risk) 
+● 
+Capacity for future: new plant has higher capacity (3k club sets per year more) 
+● 
+Impact of implementation on current production capacity for other club lines 
+● 
+Time to implement 
+4th phase: Possible problems: 
+Interviewer: So, the CEO actually decided to expand, and there are two main issues regarding the 
+expansion project that don’t allow him to sleep at night. Assuming our market estimates are 100% right, 
+what do you think these issues are? 
+ 
+This is, again, a brainstorm session. If candidate is stuck, ask something like “have you ever remodeled 
+your house? What were your main concerns?”. 
+ 
+Candidate: 
+ 
+● 
+Timing: We said product innovation is important and the market is quickly expanding, so it’s 
+important to launch the product on time. 
+● 
+Costs: It’s important to guarantee that construction costs won’t raise after he decides to go for 
+the expansion project. 
+ 
+Interviewer: And how might the CEO protect himself against these things? 
+Candidate: The CEO could protect himself by buying an insurance policy. 
+5th phase: Insurance Price 
+Interviewer: OK, what do you think the insurance price will be? What information do you need in order to 
+calculate that? 
+ 
+There is more than one way to come up with a price, so let the candidate ask for information first, but 
+guide the candidate to calculate it through the data we provide. 
+
+
+===== PDF p197 =====
+Casebook | 2019-20 Edition 
+193 
+ 
+Interviewer: 
+ 
+● 
+GCP has contracts to sell 60,000 sets for $500 each. 
+● 
+If GCP can’t produce more than 90% of the 60 thousand in the next eight months, they lose 10% 
+of the contracts. This happens with probability 20%. 
+● 
+If GCP produce 90% or more in the next eight months, they don’t lose anything. 
+● 
+The insurer operates with 10% margin. 
+ 
+If candidate asks whether he/she can simplify the calculations, the answer is no. 
+ 
+Candidate: From the insurer perspective: with probability 80% they have zero loss, and with probability 
+20% they have a loss of 10%*$60,000*500 = $3M. 
+ 
+Therefore, the expected expense is 20%*$3M = $600,000 
+ 
+Since they operate with 10% margin, this expense should represent 90% of their price. 
+Therefore, the price charged is $600,000 / 0.90 = $666,667. 
+Wrap-Up 
+ 
+There is no need to do a wrap-up in this case, but it doesn’t hurt if the candidate proactively comes up 
+with a conclusion/summary. 

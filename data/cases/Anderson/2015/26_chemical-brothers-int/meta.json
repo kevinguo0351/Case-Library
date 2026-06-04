@@ -1,0 +1,24 @@
+{
+  "case_id": "Anderson_2015_26_chemical-brothers-int",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 26,
+  "case_name": "Chemical Brothers Int.",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Chemicals",
+  "difficulty": "medium",
+  "pdf_page_start": 143,
+  "pdf_page_end": 147,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    145,
+    147
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p145.png",
+    "exhibits/exhibit_p147.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\26_chemical-brothers-int"
+}

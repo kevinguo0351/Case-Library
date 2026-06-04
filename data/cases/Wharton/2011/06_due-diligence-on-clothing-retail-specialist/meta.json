@@ -1,0 +1,28 @@
+{
+  "case_id": "Wharton_2011_06_due-diligence-on-clothing-retail-specialist",
+  "school": "Wharton",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2011.pdf",
+  "idx": 6,
+  "case_name": "Due Diligence on Clothing Retail Specialist",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Retail / Apparel",
+  "difficulty": null,
+  "pdf_page_start": 55,
+  "pdf_page_end": 61,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    57,
+    58,
+    59,
+    60
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p057.png",
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p059.png",
+    "exhibits/exhibit_p060.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2011\\06_due-diligence-on-clothing-retail-specialist"
+}

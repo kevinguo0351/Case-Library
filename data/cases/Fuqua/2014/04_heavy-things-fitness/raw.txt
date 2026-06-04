@@ -1,0 +1,296 @@
+===== PDF p46 =====
+CASE 4 – HEAVY THINGS FITNESS
+42
+
+
+===== PDF p47 =====
+Case 4: Heavy Things Fitness
+Behavioral Questions
+• Tell us a time when you had a conflict with your manager or peers. How did you resolve it? 
+• When was the last time you were creative in solving a problem?
+Prompt
+Your client is Heavy Things Fitness, a small fitness center chain with 15 locations in a minor metropolitan area in the US, established 
+during the fitness boom in the late 70s.  After decades of continual growth, Heavy Things has seen membership decline by alarming 
+rates.  Over the past 5 years, it has seen total membership numbers decrease an average of 6% annually.  The client has asked us to 
+determine what is causing this trend and how they can reverse this trend to begin growing again.  Based on what you know about this 
+industry, what do you believe is causing this membership attrition?
+43
+
+
+===== PDF p48 =====
+Case 4: Heavy Things Fitness
+Interviewer Guidance
+The focus of this case is on market segmentation and determining/targeting the optimal segment. The candidate should demonstrate
+an understanding that profit is the ultimate goal.  Various strategies will have different implementation costs and potential revenues, 
+and the candidate should return to these numbers at every step.
+If they ask for more information on the city, tell them it has a population of about 1-1.5M, similar to Providence, RI; Milwaukee, WI; or 
+Jacksonville, FL.  No other information is relevant (such as location within the US), as this is not the focal point of the case.
+Relevant additional information:
+• Gym memberships in this city have been growing 3% each year, both in this city and in all regions of the country
+• Heavy Things Fitness gyms offer cardio rooms, free weights, and weight machines
+• Membership prices and payment plans are in line with their closest competitors
+• Heavy Things Fitness targets serious fitness enthusiasts, believing that these are the most loyal customers
+When interviewee asks for industry or client customer demographic information, provide Exhibit 1 and 2, respectively.
+Potential Causes:
+• Changing fitness trends, such as towards class-based fitness or high intensity training
+• Negative attributes of Heavy Things, such as poor customer service or deteriorating facilities
+• Competitors offer better services, such as personal trainers or basketball courts
+• Shifts in city or industry demographics, away from Heavy Things’ target demographic
+Unlikely Causes:
+• Decreasing city population (as the rest of the city’s gyms are seeing increasing memberships)
+• Competitors offer lower cost (already established that Heavy Things’ costs are comparable to competitors
+44
+
+
+===== PDF p49 =====
+Case 4: Heavy Things Fitness
+Exhibit 1: Local Interest in Gym Memberships, Demographic Segmentation
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1994
+1998
+2002
+2006
+2010
+2014
+Local Interest in Gym Memberships, by Age
+65+
+50-65
+40-50
+30-40
+18-30
+45
+
+
+===== PDF p50 =====
+Case 4: Heavy Things Fitness
+Exhibit 2: Client Customers, Demographic Segmentation
+Millenials (18-30), 
+62%
+Generation Y 
+(30-40), 16%
+Generation X 
+(40-50), 13%
+Baby Boomers 
+(50-65), 6%
+Seniors (65+), 
+3%
+Client Customers by Generation
+46
+
+
+===== PDF p51 =====
+Case 4: Heavy Things Fitness
+Prompt 2
+Given the information in Exhibits 1 and 2, what do you believe is the source of Heavy Thing’s declining membership?
+Guidance
+Clarifying Note: The legend order corresponds with the Generation graphic in Exhibit 1.  In other words, the top portion of the chart 
+represents Seniors, and the bottom represents Millennials.
+Extractable Facts: 
+• Local gym memberships are trending towards Gen X and Y and away from Millenials, Baby Boomers and Seniors
+• Genders seem to have shifted towards men, then back to women
+• Heavy Things’ membership is heavily concentrated in the Millennial generation
+• Heavy Things’ membership is evenly split between men and women
+Key Takeaways:
+• Heavy Things’ membership gender profile parallels local industry gender profile
+• Heavy Things’ membership generation profile is focused on the declining Millennial population rather than the growing Gen X and Y 
+populations
+Potential Conclusions: 
+• Target Gen X and Y customers
+• Become more of a niche gym for declining millennial customer segment
+47
+
+
+===== PDF p52 =====
+Case 4: Heavy Things Fitness
+Prompt 3
+After reviewing this data, Heavy Things leadership agrees that they should target Gen X and Y customers.  What are some possible
+ways that Heavy Things Fitness can target these growing demographics?  What would be the risks of each of these solutions?
+Guidance
+Good Potential Solutions:
+• Marketing campaign targeting consumers aged 30-50
+o Spokesperson in that age range
+o Ads run in areas of interest for these consumers
+o Explanation that this gym is for these consumers (a la Planet Fitness ads)
+• Offer new services more to the liking of middle aged customers
+• Make prices more appealing to middle aged customers
+o If price is believed to be a primary concern, lower prices
+o If not, raising prices would help offer more services and prevent younger customers with less disposable income from joining
+• Make the gym an exclusive club where only those members can join
+Top level candidates will address the inherent risk of cannibalization when switching from one target demographic to another, and 
+include solutions that will minimize such cannibalization.  If the candidate does not mention cannibalization, lead them to it. Some 
+such solutions would be:
+• Convert some existing locations to more Gen X and Gen Y-friendly establishments, while keeping the rest the same, enabling current 
+customers to go to another Heavy Things if theirs gets shut down
+• Develop a brand extension in brand new clubs that target these customers
+• Divide the physical space of each gym into two distinct gyms (like a combination Pizza Hut and Taco Bell)
+48
+
+
+===== PDF p53 =====
+Case 4: Heavy Things Fitness
+Prompt 4
+We presented your findings to the client at a recent status meeting, and Heavy Things leadership liked the idea of a brand extension of 
+5 facilities targeted at Gen X and Y customers, called “Fast Class Fitness”, which will focus on the class-based fitness programs that our 
+client’s research has shown appeals to Gen X and Y customers.  They want us to determine whether it is more profitable to convert 
+existing Heavy Things properties into Fast Class properties, or to expand into new properties in which to open Fast Class centers.
+Guidance
+Pertinent Information (let candidate brainstorm what information is necessary to calculate revenues and costs before providing):
+Revenues
+• Membership Dues at Heavy Things Facilities = $50 per month
+• Membership Dues at Fast Class Facilities = $75 per month
+• Average Memberships at Heavy Things Facilities = 300
+• Average Memberships at Fast Class Facilities = 400
+Costs
+• Rent of All Facilities (Including Cost of Fitness Equipment), Heavy Things and Fast Class = $10K per month
+• Labor at Heavy Things Facilities = 2 Employees at $36K per year each
+• Labor at Fast Class Facilities = 4 Employees at $48K per year each
+• Retention of Members from Converted Heavy Things Gyms= 33% of Each Gym’s Membership
+o This is a small city, so when a club is converted, members can simply move to a neighboring location
+o In other words, when a gym is closed, 1/3 of the members will join a different Heavy Things gym, but 2/3 of the members 
+will leave Heavy Things for a competitor
+• Assume Heavy Things Can Maintain These Membership Levels
+49
+
+
+===== PDF p54 =====
+Case 4: Heavy Things Fitness
+Analysis
+Sample Calculations:
+However, the fastest way to calculate this is to realize that the revenues and costs from Fast Classes are constant, so the only necessary 
+calculation is subtracting the additional cost to maintain the 5 heavy things locations ($80K) from the revenue gained by keeping all 15 
+Heavy Things locations ($50K).
+Either way, the correct conclusion is that it is more profitable to convert the 5 locations rather than expand.
+Costs (Monthly, in $K)
+Heavy Things Rent
+10 locations, $10K each
+$100 15 locations @ $10K each
+$150
+Heavy Things Labor
+10 locations, 2 employees per location, 
+$3K per employee
+$60 15 locations, 2 employees per location, 
+$3K per employee
+$90
+Fast Class Rent
+5 locations, $10K each
+$50 5 locations, $10K each
+$50
+Fast Class Labor
+5 locations, 4 employees per location, 
+$4K per employee
+$80 5 locations, 4 employees per location, 
+$4K per employee
+$80
+Revenues (Monthly, in $K)
+Heavy Things (current members)
+10 locations, 300 members per location, 
+$50 per member
+$150 15 locations, 300 members per location, 
+$50 per member
+$225
+Heavy Things (retained members)
+5 locations, 33% of 300 members per 
+location, $50 per member
+$25 N/A
+$0
+Fast Class
+5 locations, 400 members per location, 
+$75 per member
+$150 5 locations, 400 members per location, 
+$75 per member
+$150
+Total Corporate Income (Monthly, in $K)
+$35
+$5
+Convert
+Expand
+50
+
+
+===== PDF p55 =====
+Case 4: Heavy Things Fitness
+Prompt 5
+Olaf Dungren, the CEO of Heavy Things Fitness, is about to walk into this office, and he’d like to hear our recommendation.  How would 
+you summarize our findings?
+Guidance
+Answers may vary, but should include:
+• Recommendation to convert five Heavy Things fitness centers to Fast Classes fitness centers
+• Justification based on the ability to attract new members and increase profitability at a more efficient rate than by expanding to new 
+properties
+• Potential risks to this suggestion that include five not being the optimal number to convert, increasing properties serving as 
+advertising that would generate additional memberships, the 33% estimate of retention being inaccurate
+• Next steps, such as hiring class teachers for the new gyms, developing an advertising campaign to build the Fast Class brand, and 
+hiring contractors to convert the Heavy Things gyms to Fast Class centers
+51
+
+
+===== PDF p56 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

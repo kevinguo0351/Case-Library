@@ -1,0 +1,401 @@
+===== PDF p166 =====
+© 2020 NYU Stern MCA 
+Royal Cinema
+162
+Authors: Maxine Rusbasan and Sabrina Yudelson Firm Style & Round: Bain Round 1
+[Interviewee-Led]
+Quant: 7
+Structure: 6
+Case Overview:
+Industry: Entertainment 
+Case Structure: Market Entry
+Concepts Tested:
+•
+Revenue calculation
+•
+Chart reading
+•
+Breakeven calculation
+•
+Creative brainstorming
+Overview Information 
+for Interviewer:
+Key case steps:
+•
+Evaluate luxury cinema market 
+opportunities
+•
+Breakeven calculation
+•
+Discussion of entry strategy
+•
+Recommendation (yes/no, risks, 
+next steps)
+Case Prompt: 
+Your client is Royal Cinemas, a NYC theater chain. Their revenue has been badly hurt by decreasing ticket sales, 
+which are at their lowest point since 1996 for both the chain and the industry at large. Royal Cinemas is 
+interested converting their theaters into luxury cinemas. Should they do it?
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+Exhibit Instructions:
+Exhibit 1: Show when candidate 
+asks about luxury market 
+size/growth
+Exhibit 2: Show when candidate 
+asks about financial implications of 
+entry into luxury market
+
+
+===== PDF p167 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Case Guide
+163
+Clarifying Information: 
+Timeframe: If they choose to enter the market, 
+they intend to enter immediately
+Pricing: Currently prices tickets and concessions 
+the same as competitors
+Competitors: There are fewer than 5 major 
+players in NYC
+Financials: Revenue has been steadily declining 
+for 5 years
+Luxury Market Growth: Should candidate ask, tell 
+them you do have information on this that you will 
+be glad to share after you see how they’d like to 
+approach the problem from a high level
+Locations: Currently 10 locations in NYC
+Other: They have not previously attempted to 
+enter luxury space
+Interviewer Guide: 
+A good framework will include:
+•
+Financial Implications
+o
+Costs
+▪
+Renovations
+▪
+Shutdown costs if location not profitable
+▪
+Equipment
+o
+Revenues
+▪
+Pricing (tickets, concessions)
+▪
+Quantity (# customers, # of items purchased)
+o
+Break even point
+•
+Market Attractiveness
+o
+Growth & Size of luxury market
+o
+Consumers
+▪
+Tastes/preferences
+▪
+Same consumers as before, or entirely different?
+•
+Competitive analysis
+o
+Key players; mkt share, change over time
+o
+Differentiating factors
+o
+Competitor response to our entry
+
+
+===== PDF p168 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Exhibit 1
+164
+
+
+===== PDF p169 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Question 1 
+165
+Question:
+Royal Cinema is continuing to explore the luxury cinema market. Based on their initial research, they created the 
+following exhibit (show Exhibit 2) detailing impacts should they undergo a conversion. How does this exhibit influence 
+your opinion about whether RC should enter the luxury cinema market?
+Notes to Interviewer: 
+A good candidate will calculate expected revenue for current vs. luxury state, correctly identifying that the revenue potential for luxury 
+cinemas supports the argument for entering this market. An excellent candidate may offer reasons why this is the case (increased “actual 
+capacity” and higher prices appears to offset the decrease in number of seats per theater).
+An excellent candidate might also reference some qualitative details, such as:
+•
+Current (“Standard”) State
+○
+Pros: Consumers are familiar with the existing brand and quality of cinema
+○
+Cons: Current state may not be convincing enough draw with growing competition from streaming services, etc.
+•
+Luxury State
+○
+Pros: Higher quality in viewing experience and concessions offerings
+○
+Cons: Actual capacity projections are assumptions that are not yet proven - risk overstating opportunity.
+Additional information to provide to help candidate:
+•
+Assume operational costs will remain the same in either scenario
+•
+Population of NYC 19.5M (optional; not necessary for calculation)
+
+
+===== PDF p170 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Exhibit 2
+166
+Current “Standard” 
+State
+Luxury State
+# Theatre Locations
+10
+10
+# Screens/theatre
+10
+10
+# Seats/screen
+150
+65
+# Showings/week
+Peak
+Off-Peak
+20
+40
+20
+40
+Ticket Price
+$10
+$15
+Avg Concession Spend/person
+$10
+$35
+Capacity
+Peak
+Off-Peak
+80%
+20%
+90%
+30%
+
+
+===== PDF p171 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Question 2
+167
+Math Question 2: 
+Royal Cinemas would like to know how long it will take to recoup their conversion/renovation costs.
+Math Solution: 
+Math Information: 
+Payback Period:
+○
+100M/(9.75M*0.5) = 20.51 weeks or ~5 months
+Good interviewee should:
+•
+Calculate payback period.
+•
+Note that payback period is quite short -- candidate may question whether this time 
+frame is too good to be realistic.
+Great interviewee will:
+•
+Discuss potential reasons that payback period may be too optimistic.
+Additional Notes
+-
+Assume RC has sufficient financing to invest the $100M
+-
+Candidate may ask whether the theater will need to be closed for the 
+renovations, because that would be additional revenue loss. Interviewer can 
+share that this will not have meaningful impact on financials.
+Give to interviewee if asked:
+•
+Initial conversion/renovation costs: 
+$100M
+•
+Projected Luxury Weekly variable 
+costs: 50% of weekly revenue (for 
+interviewer reference: ~$5M)
+--------
+Calculated from Exhibit 2
+•
+Projected Luxury revenue per week: 
+$9.75M
+
+
+===== PDF p172 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Question 3
+168
+Question 3: 
+Royal Cinemas is aware that it will need to compete with other successful luxury cinemas in New York City. It would 
+like your help brainstorming how it might differentiate itself in this space.
+Notes to Interviewer: 
+●
+There are many directions candidate could take. The goal of this question is to see how creative and specific they can be while still 
+remaining structured in their thinking.
+●
+Some examples include:
+○
+Concessions
+■
+Partnership with well-known food market or restaurant? Celebrity chef?
+■
+In theater waiter service (consider food/drink minimum to ensure revenue captured from concessions)
+■
+Full bar with signature cocktails
+■
+Digital ordering from seat
+○
+Environment
+■
+Premium, comfortable seating
+■
+Work cafe with wifi outside theater (gets people hanging out + spending money)
+■
+Aromatherapy in theater
+○
+Added Content
+■
+Regular talk backs with film crew
+■
+Special film shorts before each movie
+○
+Other
+■
+Partnerships: Luxury hotel chains, Gyms ...
+
+
+===== PDF p173 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Recommendation
+169
+Recommendation:
+•
+The client should proceed with plan to 
+convert their non-luxury cinemas into 
+luxury cinemas, for reasons such as:
+- Luxury cinema market is 
+projected to steadily increase
+- Luxury cinemas would result in 
+higher revenue without 
+significant increases to variable 
+costs.
+- Plentiful opportunity for RC to 
+differentiate itself in the space
+Bonus: Guide to an excellent case
+•
+A good candidate will correctly come to the conclusion that RC should enter the luxury cinema space, and will cite market growth, 
+acceptable breakeven, and differentiation opportunities as support.
+•
+An excellent candidate will also demonstrate exceptional creativity during the differentiation brainstorm while staying structured 
+(rather than list off ideas ad nauseum, they will bucket their ideas into several categories, for instance).
+Risks:
+●
+Competition with other NYC luxury cinemas
+●
+Hits to revenue of closed cinemas/screens for 
+renovations
+●
+“Actual capacity” projections are assumptions; 
+if they are incorrect, revenue increases may 
+be overblown
+●
+Reliance on concessions for revenue: 
+consider minimum item spend/purchase?
+●
+Brand confusion if they keep some regular 
+cinemas and some luxury
+●
+Threat of streaming services - what if in-
+person movie attendance totally drops out?
+Next Steps:
+•
+Ensure organizational structure is 
+sound and that RC is well-staffed 
+for venture
+•
+Devise marketing strategy to 
+attract luxury consumers and 
+maintain loyal customers
+•
+Evaluate cost-effective and on-
+brand potential partnerships for 
+concessions, etc.
+
+
+===== PDF p174 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Exhibit 1 Notes 
+170
+Key Insights Interviewer Should Look For:
+-
+The goal of this exhibit is for the candidate to demonstrate their understanding of the general trend. An 
+excellent candidate will quantify their response, but this is not necessary to move the case forward.
+-
+Luxury theaters are seen here to gain market share as standard theaters lose market share
+-
+This should lead candidate to infer that luxury market is promising prospect
+-
+Excellent candidate should recognize that the U.S. market may not be representative of NYC market
+
+
+===== PDF p175 =====
+© 2020 NYU Stern MCA 
+Royal Cinema: Exhibit 2 Notes
+171
+Royal Cinema Methodology
+Current State
+Luxury State
+Peak
+Off-Peak
+Peak
+Off-Peak
+# Theater Locations
+10
+10
+10
+10
+x
+# Screens/theater
+10
+10
+10
+10
+x
+# seats/screen
+150
+150
+65
+65
+x
+# Showings/week
+20
+40
+20
+40
+x
+Ticket price + Concessions
+$20.00
+$20.00
+$50.00
+$50.00
+"="
+Potential Revenue/Week
+$6,000,000
+$12,000,000
+$6,500,000
+$13,000,000
+Theatre capacity (avg % of seats filled)
+80%
+20%
+90%
+30%
+Expected Revenue
+$4,800,000
+$2,400,000
+$5,850,000
+$3,900,000
+$7,200,000
+$9,750,000

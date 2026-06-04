@@ -1,0 +1,143 @@
+===== PDF p95 =====
+ 
+Practice Case 17 (British Times) 
+ 
+Case Background: 
+ 
+You're a new senior strategy associate and have just finished your orientation training. You are immediately assigned to our British Times team. 
+ 
+The British Times is an upscale, highly respected newspaper. It is the most widely read newspaper in Great Britain, especially its very strong 
+business and financial section. The paper is a cross between the Wall Street Journal and the New York Times, both in content as well as in 
+reputation. 
+ 
+The team has already had one meeting with the newspaper's online spin-off: BritishTimes.com. You are going to join the team for the second 
+meeting, which will be held with only the CEO of the BritishTimes.com. Currently, their web site is nothing more than an online version of the 
+newspaper, otherwise called brochureware. 
+ 
+The newspaper's and the web spin-off’s single biggest asset is the highly respected brand name: British Times. The purpose of this second meeting 
+is for the consulting team to present its response to the CEO's current predicament: how to realize greater revenues from their current online 
+spin-off (BritishTimes.com). 
+ 
+Company Background: 
+ 
+Your team has provided you with the following information as background about BritishTimes.com: 
+• 
+BritishTimes.com conducted a viewer survey, receiving a high enough number of responses to be statistically significant, allowing them to 
+feel comfortable using the following information for planning purposes. 
+o Their web site has a large number of hits, only 30% fewer unique visitors than the number 1 site in the UK. 
+o Their hits are from viewers in the 75th percentile of customer income. 
+o Their viewers are also highly educated: 60% have a university education and 30% of whom have graduate degrees. 
+HBS Case Interview Guide, Page 87 
+
+
+===== PDF p96 =====
+ 
+• 
+BritishTimes.com is a spin-off from the newspaper. 
+o However, the same parent corporation owns both. 
+o The CEO of the dot-com does not report to the CEO of the newspaper. 
+o The dot-com CEO has worked for the newspaper for a long time and knows its operations well. 
+• 
+The brand name is very strong in the UK, but not outside. 
+o The newspaper's content is primarily focused on the UK, but it does have an international section. 
+o The CEO wants the dot-com to use the newspaper's content and brand, but otherwise has no need to connect to the newspaper. 
+ 
+Your Challenge:  
+Create 3 or more ideas for the BritishTimes.com company to increase their revenue through their Internet strategy. 
+ 
+Possible Solution: 
+ 
+Candidate: In general, it's fair to say that the bulk of Internet revenues comes from three sources: advertising, subscriptions, and transactions. I 
+think that the key to helping the CEO is to tailor these initiatives to British Times.com core assets. 
+ 
+[Great way to start. The candidate did not try to use an ill-fitting framework such as 3Cs or 5 forces to approach this case. Instead he's showing a 
+good understanding of the Internet's major sources of revenues. He also acknowledges that further discussion of the company's core assets is 
+critical to formulating a robust solution.] 
+ 
+Interviewer: Good points. Can you give me more details on each of these sources of revenues? 
+ 
+Candidate: Well let's look at advertising first. We could suggest two avenues: banner ads and corporate sponsorship. Upscale or corporate banner 
+ads such as insurance companies, banks, or brokerage firms would make a lot of sense with our audience. They are highly educated and more 
+importantly, have the highest level of disposable income. In addition to banner ads, we should look into corporate sponsorship. We should take full 
+advantage of the fact that the strong business section can obtain corporate sponsorships; for example, banks or e-trade companies pay for their 
+section of the site. 
+ 
+[Well-structured answer. The candidate is using the case facts to support his answer.] 
+ 
+HBS Case Interview Guide, Page 88 
+
+
+===== PDF p97 =====
+ 
+Interviewer: Good. They do some of that already but probably not as much as they could. You also mentioned other sources of revenues. Could 
+you explain your subscription model? 
+ 
+Candidate: We could imagine a three-tier approach. For example, in tier 1, readers could have access to today's news for free. For a small fee, 
+Tier 2 subscribers could research up to one-week-old articles in the archive. Finally, in the last tier, subscribers could have access to the entire 
+archive. 
+ 
+Interviewer: Coming from a traditional publishing company, they are fairly familiar with these two models. I would be interested in hearing more 
+about your third option. 
+ 
+Candidate: One way to "monetize" their attractive audience would be by offering targeted products and services. Some examples could be a 
+tollbooth model similar to Amazon Z shop concept or selling tabs on their site. This would clearly require a deep analysis of the competitive 
+landscape and of the company's capability (technical, people...) to start a completely new line of business. 
+ 
+These products or services would have to be: 
+• 
+High margin, 
+• 
+Upscale, 
+• 
+Highly profitable vertical businesses; for instance: golf store, tax advice, investment advice, upscale travel (cruises, etc.) 
+ 
+Interviewer: Golf equipment? This is interesting. How would you go about sizing the market for golf equipment in the UK? 
+ 
+[The interviewer decides to test the candidate’s ability to do some real time analysis, to articulate a methodology, and to make reasonable and 
+explicit assumptions in order to arrive at a ballpark estimate. Here the interviewer could have chosen to discuss more in detail how the candidate 
+would have thought about launching a completely new line of service.] 
+ 
+Candidate: To determine the golf store's (equipment only) first year total revenue, we would have to figure out the following: 
+• 
+The population of the UK 
+• 
+The percentage connected to the Internet in the UK 
+• 
+The number who browse this site 
+• 
+The number who browse the golf store 
+• 
+The number who buy from this site: the buy to browse ratio 
+• 
+The average amount spent per transaction 
+• 
+The number of times they buy per year 
+• 
+The commission received by BritishTimes.com 
+ 
+HBS Case Interview Guide, Page 89 
+
+
+===== PDF p98 =====
+ 
+There are approximately 60 million people living in the UK. If we assume that a third of them are connected to the Internet, we have: 
+60M x 1/3 = 20M 
+ 
+[It's always a good idea to take numbers that are easy to manipulate. Do not hesitate to round up the number to help your calculations. The 
+examiner is not looking for an accurate answer.] 
+ 
+If we assume that 20% of the people connected will visit the British Times site, we now have: 
+20M x 20% = 4 million visitors 
+ 
+Not all of them will click on the golf site. Probably about 20% will do. We can now estimate the number of people browsing the golf site: 
+4M x 20% = 800,000 visitors 
+ 
+If we assume that only 10% of them will actually purchase on the site, we now have: 
+800,000 x 10% = 80,000 buyers. 
+ 
+Each buyer may spend on average $100 each time they visit and they may visit the site 2 times each year. 
+ 
+If we assume a 5% margin, we now have a rough idea of the golf equipment first year revenues: 
+80,000 x $100 x 2 x 5%= $800,000 
+ 
+HBS Case Interview Guide, Page 90 

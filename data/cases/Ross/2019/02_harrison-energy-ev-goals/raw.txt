@@ -1,0 +1,606 @@
+===== PDF p44 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+40
+
+
+===== PDF p45 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Case Prompt
+Our client, Harrison Energy, is one of the largest power & utilities companies in the US. You 
+are in the year 2018, and the CEO sees electric vehicles as an attractive market and wants to 
+enter the space. She needs help understanding how and when to enter the market, and the 
+associated ROI. She has hired your firm to help formulate a strategy.
+Interviewer Guidance
+This is an interviewee led case. Brainstorm with interviewee to answer the following questions:
+1.
+What factors will you consider to formulate a market entry strategy? (framework)
+2.
+When should we enter the market? (Hand Exhibit 1).
+3.
+Which parts of the value chain should we enter and how? (Hand Exhibit 2). Brainstorm to 
+lead interviewee to ask for Exhibit 3.
+4.
+What other considerations should the client have to prioritize market entry?
+Concepts Tested
+Problem structuring, Brainstorming, Graph reading
+41
+
+
+===== PDF p46 =====
+Clarifying Information
+•
+Goal/objective is to be present in a new market and 
+add more sources of revenue and eventually profits.
+•
+Scope limited to the US market only
+•
+Client is not currently involved in the EV market
+•
+Client wants to know when to enter the market
+•
+Harrison Energy does not know where in the EV 
+value chain it wants to play
+•
+Harrison Energy wants to break-even on any 
+investment in 5 years
+Possible Framework
+Problem: Enter electric vehicle market
+•
+Market –
+-
+Market size across EV components
+-
+Growth rate
+-
+Maturity of EV market (Is tech still developing?)
+-
+Competitors and market share
+-
+Regulations / policies in EV space
+•
+Financials –
+-
+Potential revenue (market size, share)
+-
+Potential costs (set up, operations)
+•
+Proposition –
+-
+Value chain components of EV
+-
+Synergies with current business
+-
+Customer segments – individual vehicle owners 
+/ business owners
+-
+Supplier concentration (how difficult is it to 
+provide product/services?)
+•
+Entry strategy (for different value chain elements) –
+-
+Merge/Acquire smaller players
+-
+Build from scratch (in-house/outsourced)
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+42
+
+
+===== PDF p47 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Brainstorm when to enter the EV Market
+The EV market will be best to enter when:
+A. Internal Readiness
+i.
+Harrison Energy has developed capabilities in the segments it wants to enter
+ii.
+Harrison Energy has been able to raise the capital needed to enter the market (internal 
+cash or external debt or equity)
+B.
+External Readiness
+i.
+The costs of owning EV vehicles is lower than that of regular (ICE1) vehicles
+ii.
+There is adequate infrastructure such as charging stations, maintenance services for 
+electric vehicle models
+iii.
+Large companies such as Harrison Energy would prefer to enter in the growth phase 
+vs. introduction phase (in the market maturity curve)
+Once the interviewee arrives at these points, say that external readiness is the bottleneck and 
+hand Exhibit 1 to calculate the right time to enter the market.
+1. ICE vehicle = Internal Combustion Engine vehicle (most commonly found type of vehicle today)
+43
+
+
+===== PDF p48 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Exhibit 1 – Market maturity and Total Cost of  Ownership
+2010
+2020
+2030
+2040
+2050
+EV Market Maturity Curve
+Introduction
+Growth
+Maturity
+Saturation
+$50,000
+$40,000
+2,000,000
+4,000,000
+Price ($ TCO) to demand (#) correlation
+$100,000
+$92,500
+$85,000
+$77,500
+$75,000
+$90,0002
+$0
+$20,000
+$40,000
+$60,000
+$80,000
+$100,000
+$120,000
+2010
+2020
+2030
+2040
+2050
+Total Cost of  Ownership (TCO1) of EV 
+vehicle for 10 years
+Vehicles
+Batteries
+Maintenance
+Electricity
+Total
+ICE Vehicle
+1. Total Cost of Ownership (TCO) includes all costs of owning, running and maintaining a vehicle (includes vehicle cost, fuel/electricity cost, maintenance)
+2. ICE vehicle = Internal Combustion Engine vehicle (most commonly found type of vehicle today)
+44
+
+
+===== PDF p49 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Calculations / Working for when to enter EV Market
+Time of  entry:
+Exhibit 1: TCO of ICE vehicle - $90,000. TCO of EV in 2020 is $92,500 and in 2030 is $85,000.
+The demand will spike when total cost of owning an EV is less than the total cost of  owning an ICE vehicle.
+Doing a quick linear regression, TCO of EV = $90,000 in 2023, and goes further down after that.
+Calculation:
+2020 + ($92,500 - $90,000)/($92,500 - $85,000) * (2030 - 2020)
+2020 + ($2,500 / $7,500) * 10
+2020 + 10/3
+2023
+This is when demand will spike and is the best time for entry. 2023 is 5 years from current date (2018).
+Comparing with maturity curve, we see that 2023 lies in the growth phase and is the best time to enter the market.
+The TCO – demand correlation curve also supports a high price elasticity, implying that it is best to enter when the price is 
+lower and the demand is high.
+45
+
+
+===== PDF p50 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Interviewer Guidance for segment / proposition selection
+•
+Brainstorm with interviewee on next steps -> drive interviewee to think about which 
+segment of the market should Harrison Energy enter. Hand Exhibit 2.
+•
+After calculations on Exhibit 2, ask interviewee about other options for non-feasible value 
+chain elements. Once interviewee arrives at the conclusion that Harrison Energy could 
+acquire other players, hand Exhibit 3.
+46
+
+
+===== PDF p51 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Exhibit 2 – Harrison Energy Capability Analysis
+$3
+$4
+$5
+$3
+$25
+$0
+$10
+$2
+$3
+$80
+$3
+$0
+$12
+$10
+$400
+Software/Mgmt Services
+Power Generation
+Charging Stations
+Batteries
+Vehicles
+Market Size $B (2023)
+Build
+Sell
+Operate
+Harrison Energy Capability Analysis
+Capability Level
+Time to build inhouse
+Cost to build
+15 years
+10 years
+10 years
+10 years
+2 years
+4 years
+2 years
+Capable
+3 years
+N/A
+Capable
+Capable
+1 year
+Capable
+1 year
+$30B
+$5B
+$1B
+$600M
+$50M
+$100M
+$500M
+$0
+$300M
+N/A
+$0
+$0
+$300M
+$0
+$200M
+Note: Assume that in the best-case scenario, Harrison Energy can capture 10% market share and make 10% EBITDA margins on each value chain item. 
+Harrison Energy wants a 5 year payback period on any investment. Assume stagnant market from entry to 5-year period for calculations.
+47
+
+
+===== PDF p52 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Exhibit 3 – Options for acquisition
+Component
+Value 
+Chain
+Brand 
+Alignment
+Option #1 (cheaper)
+Option #2 (faster)
+Cost ($)
+Time (years)
+Cost ($)
+Time (years)
+Vehicles
+Build
+●
+$20B
+10
+$40B
+5
+Sell
+$6B
+8
+$8B
+6
+Operate
+$1.1B
+7
+$1.2B
+5
+Batteries
+Build
+●
+$400M
+8
+$550M
+5
+Sell
+$100M
+3
+$150M
+1
+Operate
+$50M
+7
+$150M
+2
+Charging Stations
+Build
+●
+$400M
+4
+$800M
+1
+Sell
+Operate
+$200M
+4
+$400M
+2
+Power Generation
+Build
+●
+Sell
+Operate
+Software / Mgmt. 
+Services
+Build
+●
+$100M
+3
+$200M
+2
+Sell
+Operate
+$100M
+3
+$200M
+2
+Note: Assume that in the best-case scenario, Harrison Energy can capture 10% market share and make 10% EBITDA margins on each value chain item. 
+Harrison Energy wants a 5 year payback period on any investment. Assume stagnant market from entry to 5-year period for calculations.
+●Low | ●Medium | ●High
+48
+
+
+===== PDF p53 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Calculations / Working for where and how to enter the EV Market
+1.
+First, calculate the expected annual profits from each value chain element (Mkt size * 10% * 10%)
+2.
+Calculate maximum cost budget considering 5 year payback period (Expected profits * 5)
+3.
+Next, filter value chain elements where we can build capabilities in less than 5 years (time of market entry)
+4.
+Finally, decide mode of entry [own vs acquire (Option 1 vs 2)] that satisfies all criteria. 
+5.
+Recognize that vehicles have poor brand alignment and are not a good entry option. Also, it could be a good idea to 
+enter Batteries – Build even though it slightly exceeds the cost budget, to provide a holistic Batteries service
+Component
+Value Chain 
+Element
+Market size 
+2023 ($)
+Exp. Profit 
+2023 ($)
+Budget 
+[Profit*5] ($)
+Best cost with 
+<=5 year
+Time
+(years)
+Mode of entry
+Brand 
+Alignment
+Enter?
+Vehicles
+Build
+$400B
+$4B
+$20B
+$40B
+5
+Acquire (Op#2)
+Low
+No
+Sell
+$80B
+$800M
+$4B
+-
+-
+-
+Low
+No
+Operate
+$25B
+$250M
+$1.3B
+$1.2B
+5
+Acquire (Op#2)
+Low
+No
+Batteries
+Build
+$10B
+$100M
+$500M
+$550M
+5
+Acquire (Op#2)
+Medium
+Yes
+Sell
+$3B
+$30M
+$150M
+$50M
+3
+Build
+Medium
+Yes
+Operate
+$3B
+$30M
+$150M
+$100M
+4
+Build
+Medium
+Yes
+Charging 
+Stations
+Build
+$12B
+$120M
+$600M
+$400M
+4
+Acquire (Op#1)
+High
+Yes
+Sell
+$2B
+$20M
+$100M
+Already Capable
+High
+Yes
+Operate
+$5B
+$50M
+$250M
+Already Capable
+High
+Yes
+Power 
+Generation
+Build
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Sell
+$10B
+$100M
+$500M
+Already Capable
+High
+Yes
+Operate
+$4B
+$40M
+$200M
+Already Capable
+High
+Yes
+Software / 
+Mgmt. 
+Services
+Build
+$3B
+$30M
+$150M
+$100M
+3
+Acquire (Op#1)
+Medium
+Yes
+Sell
+$0.0B
+$0M
+$0M
+Already capable
+Medium
+Yes
+Operate
+$3B
+$30M
+$150M
+$100M
+3
+Acquire (Op#1)
+Medium
+Yes
+Total (for Yes’s)
+$55B
+$550M
+$2750M
+$1300M
+Holistic service
+49
+
+
+===== PDF p54 =====
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+Brainstorm other considerations/prioritizations to enter the EV market
+1.
+Target customer segments – go after business/industrial customers who are working towards electrifying their fleets 
+(for sustainability) first (e.g.: UPS, PepsiCo, etc.)
+2.
+Geographies to enter – Power & utility companies typically operate as monopolies in few states. Entering their own 
+states first makes most sense.
+3.
+Regulations – Tax incentives, rebates by government to encourage switch to electric vehicles (govt. promoting 
+sustainability)
+4.
+Competition – Cost/Product advantage of Harrison Energy over specialized players in each value chain element
+•
+Established customer base (easier marketing / lower marketing costs)
+•
+Leverage existing manufacturing and distribution network to scale easily (easier scaling)
+•
+Better supplier relations (higher bargaining power)
+•
+Better customer usage understanding (more targeted propositions)
+•
+Better government relations (can work with government authorities to leverage incentives in EV market)
+50
+
+
+===== PDF p55 =====
+Recommendations
+Risks
+Next Steps
+Recommendation:
+Harrison Energy should enter the 
+EV market after 5 years in all 
+value chains except vehicles 
+because of poor ROI and brand 
+alignment.
+Expected annual profit w/o 
+capability building costs = $550M 
+(in 2023 dollars)
+Harrison has existing capabilities 
+in 5 value chain elements, can 
+build in 2 and acquire competitors 
+in 6 (3 op#1 and 3 op#2) with <5 
+year payback period
+Risks include:
+1.
+Outsourcing may not add the 
+right amount of capabilities 
+needed (little scope for 
+further innovation)
+2.
+Suppliers / acquisition targets 
+may have high bargaining 
+power which may result in 
+longer timelines and costs 
+than expected
+3.
+Overlooking vehicles, which 
+is the largest value chain 
+element
+Harrison Energy should:
+1.
+Start negotiations with 
+suppliers / acquisition targets
+2.
+Identify customer segments 
+to pilot existing capabilities
+3.
+Create new organization 
+structure / hire consultants 
+to execute EV project
+Case 2: Harrison Energy EV Goals
+Power & Utilities | Market Entry
+51

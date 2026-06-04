@@ -1,0 +1,208 @@
+===== PDF p64 =====
+60
+Money Bank Call Center
+Case tracker
+▪Industry: Operations / financial services
+▪Case format: Cost optimization
+▪Concepts being tested:
+- Financial analysis
+- Organizational fit
+- Option evaluation
+Case question
+▪Our client is a large financial services firm with multiple locations around the world. Part of their service offering includes
+a 24-hour helpline. The client has their call centers in New York and Paris
+▪The client has recently acquired a small firm (Firm B) in order to expand its reach in a particular geography. Firm B
+provides a subset of the services and has its call center located in the Philippines
+▪The client has asked us to determine its strategy going forward for handling customer calls. In particular they want us to
+look into the call center operations
+Guide to interviewer
+▪This is an outsourcing case with the following elements:
+▪Use a framework that covers the most important
+areas of M&A and cost cutting
+▪Read the exhibits to assess the cost effectiveness
+and efficiency of the 3 locations
+▪Discuss qualitative information on the acquired
+company – products, culture, customers etc
+▪There is no right or wrong recommendation, as it will
+depend on the interviewees assessment of the
+qualitative concerns
+▪Key case steps:
+1. Evaluate existing and potential cost structure
+2. Explore alternatives / ideas for implementation
+3. Make a recommendation based on the data
+By: Guruprasad Sankaranarayanan (Kellogg Class’12); edited by Nikola Jakić (Kellogg Class ’16)
+Quant: 8
+Structure: 9 
+Industry: Call Center
+Framework: Cost / M&A
+
+
+===== PDF p65 =====
+61
+Clarifying answers and case guide
+Guide to case / Guide to handouts
+Case structure – The interviewee should draft in a couple of minutes a
+framework that covers the most important areas in this case
+▪
+Options
+▪
+No changes – maintain all 3 call centers
+▪
+Close Firm B’s call center and route calls to one of the exiting 
+locations
+▪
+Consolidate to a single location
+▪
+Company
+▪
+Comparison of services offered at the 3 call centers / product
+mix
+▪
+Metrics for evaluating call center performance (cost / call,
+calls / rep, etc.)
+Specifics to outsourcing – The interviewee should include specific
+concerns to the industry such as employment regulations, quality of call,
+infrastructure capabilities, etc.
+Client goals – the client wants any proposed solution to be cash neutral
+by the end of year 2, and is not flexible on this requirement
+Clarifying answers to provide
+The following information can be provided
+to the interviewee if asked:
+Client Characteristics
+-
+Provides full range of financial services
+for individuals and small organizations
+-
+Acquired firm was started 5 years ago
+and is still run by the original founders
+Nature of call center
+-
+New employees are college graduates
+with basic knowledge of financial
+services and products
+-
+Fluency and English and several
+European languages required
+Regulatory environment
+-
+Very difficult to lay off employees in the
+Paris location – significant costs will be
+incurred
+-
+Philippines government encourages
+investment in the country – significant
+tax advantage possible
+
+
+===== PDF p66 =====
+62
+Key elements to analyze
+Outsourcing
+▪Compare the efficiency of the 3 locations – possible explanations for variance
+▪Identify the cost effective option – how is this impacted by integration cost
+Note to interviewer
+▪When asked, the interviewer should provide data from Exhibit 1. Key takeaways from the exhibit are:
+▪Total cost incurred by the 2 firms is $9.6M
+▪Philippines currently processes calls at half the efficiency of NY (per employee)
+▪Interviewee could ask about available slack at any of the call centers but should be advised that all call centers are currently
+operating at capacity
+▪If asked, state that currently, we have space, infrastructure necessary to expand. Assume overhead is variable in this case. The
+candidate should be able to calculate that to process total call volume Philippines will need an additional 250 employees to
+handle the traffic (1.3M total calls/ 4000 calls/employee in Philippines). Operating cost after the change will be $7.8M; net savings
+of $1.8M.
+▪The interviewee should realize that this does not account for all the costs, including hiring and training costs. When prompted
+inform the interviewee about a 1 time cost of $5M (includes severance for NY and Paris, expanding the Philippines facility)
+implying that the move is not profitable
+Calls / employee / year
+Cost / call ($)
+New York
+8,000
+7.00
+Paris
+6,667
+9.00
+Philippines
+4,000
+6.00 
+
+
+===== PDF p67 =====
+63
+Key elements to analyze (cont.)
+Outsourcing
+▪Prompt the interviewee to explore ways to make outsourcing to Philippines feasible
+▪Client will not budge on two-year breakeven
+▪Other options include decrease $5M investment cost and increase efficiency of Philippines employees (guide the interviewee to
+the latter)
+Note to interviewer
+▪The interviewee needs to identify the difference in calls / employee between the New York and Philippines locations
+▪Ask the interviewee to assume that the best practices can be transferred and implemented within 3-6 months
+▪Potential cost savings if Philippines achieves same effectiveness as New York
+▪# employees required = 1.3M calls / 8,000 calls / employee / year = 162.5 (allow rounding to 160)
+▪New employee cost = 160 * $20,000 = $3.2M
+▪Ask interviewee to assume overheads double with the need for better equipment. Before the efficiency improvement, OH
+= $1.3M for 1.3M call. New OH = $2.6M
+▪New total cost = $3.2M + $2.6 = $5.8M ($3.8M savings from status quo and $2M better than pre-efficiency improved
+option)
+▪Other questions interviewee needs to consider
+▪Will the client be able to acquire sufficient talented personnel within the short time frame?
+▪How will customer satisfaction by impacted with the new labor base?
+▪Legal constraints / requirements in NY and Paris – how quickly can we lay off the staff?
+▪How will public opinion be impacted by the news of massive outsourcing?
+
+
+===== PDF p68 =====
+64
+Solution and recommendations
+Solution & Recommendations
+▪This is an open ended case. The interviewee needs to justify the recommendation based on the qualitative
+considerations
+▪A good recommendation would include 3 sections:
+1. Recommendations: if the recommendation is to outsource the interviewee needs to highlight the risks
+associated with outsourcing and nature of the acquired firm. If the recommendation uses any other approach
+sufficient justification needs to be given to overcome the cost savings
+2. Risks:
+•
+Risks associated with increasing capacity by more than 200% in the Philippines – people,
+infrastructure, service quality, gaps in knowledge transfer, organizational changes, etc.
+•
+Reputational impact – do customers notice a difference in service, can the competitor leverage this to
+steal customers?
+3. Next steps: If outsourcing, some of the next steps would be to analyze the infrastructure requirements and
+capabilities, find the right talent, ensure smooth transfer and implementation of best practices, etc.
+Bonus/Guide to an Excellent Case
+▪Excellent interviewees need to address the qualitative information provided in the case: nature of merger, nature of
+markets being served, etc.
+▪The interviewee should explore the option of improving effectiveness of the Philippines location without being
+prompted to do so
+
+
+===== PDF p69 =====
+65
+Exhibit 1
+Center
+Calls / year
+Employee 
+cost / year 
+($)
+Overhead 
+cost / year
+($)
+# 
+Employees
+New York
+600,000
+50,000
+450,000
+75
+Paris
+400,000
+50,000
+600,000
+60
+Philippines
+300,000
+20,000
+300,000
+75
+Call center performance – FY2010

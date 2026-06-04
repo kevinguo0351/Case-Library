@@ -1,0 +1,269 @@
+===== PDF p140 =====
+16 / Rock Energy
+Rock Energy, an Oil & Gas company, is evaluating buying one of three oil fields in South America. They plan to outsource all drilling
+activities after purchasing the rights to extract oil from one of the fields. Your job is to identify the best potential investment for Rock
+Energy. How would you evaluate the three oil fields, and which oil field should Rock Energy purchase?
+Overview for Interviewer
+Industry: Energy
+Case Format: Opportunity Assessment
+Concepts Tested:
+• Investments
+• Creativity
+Notes
+• This case is interviewee guided/lead.
+• Interviewee should follow these broad steps:
+1. ID how long it takes to drill 1 well in each region, using provided
+depth/penetration rate
+2. Quantify cost of 1 well
+3. Price and barrels extracted per day should lead to revenue/profit by well.
+Need to understand that you can produce a different number of wells by
+region, and only have a limited number of rigs
+4. After calculations, interviewee should consider other factors or risks that
+
+
+===== PDF p141 =====
+Interviewer Guidance
+Clarifying Answers to Provide if Asked
+• The rights offered to Rock Energy
+give the right to drill for 1 year and
+produce oil for 20 years. No oil
+production until beginning of year 2.
+• Can deploy max of 10 rigs in each
+region
+• Cost
+of
+rig
+day
+includes
+crew,
+consumables, services, etc.
+• Any extracted oil will be sold at spot
+market price
+• Assume oil wells will produce the
+same amount of oil for the next 20
+years with no ongoing maintenance
+costs
+Interviewer Guide to Case and Handouts
+Question 1 (Exhibit 1): Hand out exhibit 1 after introduction of the case. 
+Interviewee should conclude that each region’s characteristics will affect Rock 
+Energy’s drilling time, production, revenues/costs
+Question 2 (Profitability): Give out current spot price and ask interviewee to 
+work out each field’s profitability, not just each well’s. Answer will be a 
+function of investment, variable costs, and quantity of oil extracted per field, 
+which in turn depends on the number of wells drilled in one year
+Question 3 (Conclusion): Buy the rights to Region 2 because it is the highest 
+profitability, but interviewee should acknowledge other factors that could 
+impact that decision in their recommendation:
+•
+Insurance costs
+•
+Political stability
+•
+Labor unions/contracts
+•
+Oil price volatility
+•
+Quality of oil extracted
+
+
+===== PDF p142 =====
+Core Case Question 1 and 2
+Exhibit 1 
+Analysis 
+This exhibit should give the interview enough information to identify (a) the number of wells and (b) amount of total oil that could
+be extracted from each field, as well as (c) per well yearly production. At this point, reveal to the interviewee that the missing spot
+price is $50. (Ask math question on following page after interviewee has walked you through Ex 1)
+Notes to Interviewer
+Three major points to identify as interviewee walks
+through profitability analysis:
+1.
+Average well production in Region 3 is the largest of
+all regions, but you can only drill 33% or 50% the
+wells, respectively, vs. Regions 1 and 2.
+2.
+Region 1 is the most profitable on a per well basis (as
+variable costs show)
+3.
+But different numbers of wells can be drilled in each
+region in year 1 and there are fixed costs, making
+Region 2 the most profitable for Rock Energy
+Math 
+Summary
+Yearly profits per region (see next page for math):
+•
+Region 1 - $50M
+•
+Region 2 - $68M
+•
+Region 3 - -$4M
+Follow-up: What qualitative issues would you consider
+when making an investment like this? (interviewee should
+mention at least 2)
+•
+Insurance
+costs
+–
+different
+country
+regulations
+and
+coverage required, etc
+•
+Political stability – political instability could create
+additional risks
+•
+Oil price volatility – all regions have a negative return
+below $27/barrel
+•
+Oil quality – lower quality oil could result in lower than
+spot market sales price
+
+
+===== PDF p143 =====
+Detailed Math Answer
+Ask this question after the interviewee has walked you through 
+exhibit 1
+What are the profits during year one of production in each region? (e.g., first year after drilling or year 2)
+Math Solution – allow rounding to 360 
+days/yr
+•
+Time to complete well (Depth / penetration rate): Region 1: 60 days, Region 2: 90 days, Region 3: 180 days
+•
+Production per well (Daily production* 360 days): Region 1: 36K barrels, Region 2: 72K, Region 3: 108K
+•
+Formulas: Cost per well (Days to complete well*Cost per rig per day), Annual revenue per well (Price* # barrels per year),
+# of wells per year (360/[well completion time]) * (# rigs)), Profit margin (profit per well/cost per well), Total Revenue
+(annual revenue/well * #wells/year), Total Cost (Cost/well*# of wells + oil extraction rights), Profit (Total Revenue – Total
+Cost)
+Region 1
+Region 2
+Region 3
+Investment cost (oil extraction rights)
+$40M
+$40M
+$40M
+Cost per well
+$0.3M
+$0.9M
+$3.6M
+Annual revenue per well
+$1.8M
+$3.6M
+$5.4M
+Profit per well
+$1.5M
+$2.7M
+$1.8M
+Profit margin per well
+500%
+300%
+50%
+# wells per year
+6 wells/rig * 10 rigs = 60
+40
+20
+Total Revenue 
+$108M
+$144M
+$108M
+Total Cost
+$58M
+$76M
+$112M
+Profit 
+$50M
+$68M
+$ -4M
+
+
+===== PDF p144 =====
+Recommendation and Next Steps
+Example 
+Answer 
+•
+Rock Energy should invest in buying the rights for Region 2
+•
+Even though the profit margin on Region 1 is much higher per well, return on investment depends on total wells that can be
+drilled in year 1 and the upfront cost of extraction rights in that region
+•
+Interviewee should touch on other qualitative reasons that might affect the investment decision
+Notes to Interviewer
+•
+An excellent interviewee might also discuss the impact of an expected value analysis as a potential next step, including how
+different probabilities could be assigned for number of barrels extracted per day
+
+
+===== PDF p145 =====
+Exhibit 1 – Oil field profiles (2018)
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+Region 1
+Region 2
+Region 3
+Meters per day
+Drilling rates by Region
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+Region 1
+Region 2
+Region 3
+Avg. depth ( in meters)
+Average well depth by Region
+Region 1
+Region 2
+Region 3
+# Operating Rigs
+10
+10
+10
+Average well production (barrels/day)
+100
+200
+300
+Cost per rig/day ($US)
+$5,000 
+$10,000 
+$20,000
+Note: Wells are continuously dug for one year only, with oil extracted going forward. Wells are dug by rigs. Once a well is
+completed, a rig can move on to dig another well.
+
+
+===== PDF p146 =====
+Potential Structure
+Revenu
+es
+• Oil spot market price
+• Daily oil field production per 
+region 
+• Nature of extraction rights? 
+Costs
+•
+Drilling costs
+•
+Rig costs
+•
+Labor costs
+•
+Extraction rights costs 
+Qualitative 
+Considerations
+• Insurance Costs
+• Political stability of the region
+• Labor contracts and unions
+• Oil price volatility
+• Oil quality differences
+• Other macroeconomic factors

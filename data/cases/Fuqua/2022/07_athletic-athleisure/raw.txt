@@ -1,0 +1,305 @@
+===== PDF p93 =====
+Athletic Athleisure
+78
+Industry:                  Consumer & Retail
+Case Type:     
+M&A
+Led by:            
+Interviewee
+Case Level: 
+Medium
+
+
+===== PDF p94 =====
+Behavioral Questions
+79
+• Tell me about a time you made a decision with incomplete information.
+– What information did you have?
+– What was the result?
+Question 1:
+• Tell me about a time you overcame a challenge to build an important relationship.
+– What were the challenges to the relationship?
+– How did you establish/improve the relationship through the challenge?
+– What did you do to overcome the challenge?
+Question 2:
+
+
+===== PDF p95 =====
+Athletic Athleisure
+80
+• Athletic Athleisure (AA) is a boutique, high-end athletic apparel brand that is 
+considering acquiring Vinyasapp, an app-based yoga and Pilates platform. The app 
+has been performing very well over the past two years, so the management team at 
+Vinyasapp is willing to sell for $50M. Should Athletic Athleisure purchase this 
+company?
+Prompt #1:
+–
+Client/Company information: AA has strong brand recognition and enjoys a positive reputation in its industry.
+–
+Industry/Competition information: The wellness industry has grown exponentially in recent years, as 
+individuals have become more concerned about their health and are exploring more convenient ways to 
+exercise.
+–
+Product information: AA’s customers are very loyal to its brand and its main customers are individuals who 
+practice yoga and Pilates regularly. Their products include compression and moisture-wicking workout attire 
+and accessories. Their customers are generally technologically savvy and would be interested in taking 
+virtual workout classes.
+–
+Value Chain/Revenue information: In recent quarters, AA has experienced a decline in profitability due to 
+supply chain constraints and an increase in fixed operating costs from keeping large stores open. They are 
+considering closing down some of their brick-and-mortar locations in favor of selling more of their products 
+online.
+–
+Any constraints on the case: AA’s CEO wants to reverse the trend in profitability and hopes to add $8M in 
+annual EBITDA over the next 3 years
+Case Background:
+
+
+===== PDF p96 =====
+Athletic Athleisure 
+81
+a
+Framework Buckets:
+Market
+Target Market
+• Target company
+• Projected 
+revenue
+• Projected 
+profit
+• Product
+• Customers
+• Competitive 
+landscape
+Synergies
+• Branding
+• Revenue growth
+• Cost reduction
+Capabilities & 
+Risks
+• Labor attrition r/t 
+store closures
+• Management
+• Technical 
+expertise
+• Marketing
+Synergies
+Capabilities 
+& Risks
+Financing
+Financing/Deal 
+Economics
+• Cash, debt or 
+equity financing
+• Impact on 
+EBITDA target
+Push candidate towards Market size, Competitor landscape
+
+
+===== PDF p97 =====
+Exhibit #1
+Yoga App Market Size, $M
+82
+17
+18
+16
+16
+15
+18
+Pigeon Pose Pros
+Warrior II Guru
+Vinyasapp
+Other Apps
+Cat Cow Coach
+Downward Dog 
+for Dummies
+182
+209
+234
+253
+278
+2018
+2019
+2020
+2021
+2022
++11%
+Yoga App Market Share in 2022, %
+
+
+===== PDF p98 =====
+Exhibit #2
+83
+Vinyasapp 2022 Operating Expenses, $M
+9
+18
+6
+11
+0
+5
+10
+15
+20
+Cost of Revenue
+App Development
+General & Administrative
+Marketing & Sales
+
+
+===== PDF p99 =====
+Interviewer guidance on Exhibits
+• Interviewee should notice that the market 
+is growing and that Vinyasapp is the 
+largest player in the market
+• Interviewee should be able to calculate 
+revenue from the information given:
+–
+18% x $278M = $50M
+• After calculating revenues, candidate 
+should transition towards identifying costs 
+and calculating the EBITDA
+• Interviewee should identify that App 
+Development costs are the largest 
+expense (represent over 40% of 
+operating costs – there is potential to cut 
+costs here in order to improve EBITDA; 
+however, it might be unwise to cut given 
+the competitive nature of the yoga app 
+market)
+• Interviewee should calculate total 
+operating expenses: 
+–
+$11 + $6 + $18 + $9 = $44M
+• Interviewee should then use revenue from 
+Exhibit 1 to calculate EBITDA:
+–
+$50M - $44M = $6M
+84
+Exhibit #1 Guidance:
+Exhibit #2 Guidance:
+Post EBITDA calculations, the candidate should start estimating the enterprise value of Vinyasapp. If 
+candidate asks for DCF info, nudge towards multiples method of valuation and show Exhibit #3
+
+
+===== PDF p100 =====
+Exhibit #3
+85
+Company Name
+Description
+EBITDA
+Selling Price
+ABC Athlete
+Personalized fitness app to connect people new to 
+fitness with activities (HIIT, Powerlifting, endurance 
+sports, etc.) that fits their interests, goals, and 
+schedule.
+$31M
+$217M
+PostPros Fitness
+An app that connects newly retired athletes with 
+trainers that can take revamp their training plans to 
+focus on long-term health and longevity.
+$15M
+$135M
+Expansion 
+Equipment
+Marketplace for parents to exchange used youth 
+sports gear as their children grow.
+$23M
+$253M
+Flawless Form
+Advanced fitness app that uses a smartphone’s 
+camera and AI to provide real-time feedback on an 
+athlete’s form through complex movements 
+(Olympic lifts, plyometrics, etc.).
+$20M
+$160M
+Slim Down 
+Countdown
+Guided diet and exercise app for people trimming 
+down for a big event (weddings, vacations, blind 
+dates, etc.).  Set a target improvement area (gain 
+muscle, lose fat, etc.) and date.  The app will 
+develop a customized diet and exercise plan for 
+users to meet their goals.
+$18M
+$144M
+Recent Sports & Recreation App Acquisitions
+
+
+===== PDF p101 =====
+Interviewer guidance on Exhibits
+• Interviewee should use comparable deals to calculate EBITDA multiples (EBITDA 
+divided by Selling Price):
+– ABC Athlete – 7x
+– PostPros Fitness – 9x
+– Expansion Equipment – 11x
+– Flawless Form – 8x
+– Slim Down Countdown – 8x
+• Interviewee should realize that Expansion Equipment is not comparable and should 
+exclude this from the comparable set. They should average the rest (8x) to arrive at their 
+target multiple.
+• Interviewee should arrive at valuation: $6 x 8 = $48M
+Analysis: 
+• Vinyasapp’s $50M sticker price is comparable to recent acquisitions, but the additional 
+EBITDA does not entirely satisfy the CEO’s goal in year 1. AA should identify cost 
+cutting initiatives and synergies to increase EBITDA to $8M in the next 2 years
+86
+Exhibit #3 Guidance:
+
+
+===== PDF p102 =====
+Brainstorming
+• What should the client consider about 
+expanding into the wellness app space? 
+What are some possible advantages or 
+disadvantages of this expansion strategy? 
+Frame the brainstorm as follows:
+• Opportunities
+–
+This acquisition could represent an entry point into 
+a lucrative and growing wellness app industry
+–
+Vinyasapp would diversify AA’s business and help 
+kickstart a move away from traditional brick and 
+mortar retail
+–
+AA’s current customers would make natural 
+additions to Vinyasapp’s user base
+• Challenges/risks
+–
+AA does not have expertise in app development
+–
+It will likely take significant marketing spend to 
+grow Vinyasapp’s user base, which could 
+jeopardize AA’s EBITDA targets
+87
+Prompt:
+Analysis:
+
+
+===== PDF p103 =====
+Athletic Athleisure
+88
+As you’re getting a coffee, you run into the CEO of Athletic Athleisure who asks you for 
+an update on the acquisition due diligence. 
+Recommendation 
+The candidate should recommend that AA move forward with the acquisition of Vinyassapp and highlight the 
+following points: 
+-
+Vinyasapp represents an entry point into the growing online wellness industry
+-
+Vinyasapp generates ~$6M in EBITDA, which represents an 8.3x multiple
+-
+Acquiring Vinyasapp helps AA build towards its goal of adding $8M in annual EBITDA over the next 3 years; 
+however, synergies or cost-cutting opportunities should be identified in order to offset financing costs and reach 
+the company’s EBITDA target
+The candidate should also highlight the following risks: 
+-
+AA’s lack of expertise in app development
+-
+There is little overlap between the two operating profiles, which could make achieving synergies more difficult
+-
+While AA’s customers are willing to take virtual yoga classes, they may already be loyal to other platforms, which 
+could increase customer acquisition costs and hurt AA’s EBITDA goals
+Risks and Next Steps:

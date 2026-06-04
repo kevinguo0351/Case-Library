@@ -1,0 +1,34 @@
+{
+  "case_id": "INSEAD_2021_06_goodwind-technologies",
+  "school": "INSEAD",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2021.pdf",
+  "idx": 6,
+  "case_name": "GoodWind Technologies",
+  "case_type": "Market Sizing",
+  "round": null,
+  "industry": "Industrial Goods",
+  "difficulty": null,
+  "pdf_page_start": 63,
+  "pdf_page_end": 72,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    65,
+    66,
+    67,
+    68,
+    70,
+    71,
+    72
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p068.png",
+    "exhibits/exhibit_p070.png",
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2021\\06_goodwind-technologies"
+}

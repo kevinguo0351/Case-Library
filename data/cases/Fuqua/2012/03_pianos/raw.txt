@@ -1,0 +1,186 @@
+===== PDF p34 =====
+Market Sizing 
+Case 3: Pianos 
+Prompt 
+What is the 2012 market size of acoustic pianos in the state of New Hampshire? 
+	  
+Guidance 
+This is a market estimation case. The suggested analysis is one way that it could be solved, and the 
+information may be provided if requested. It is also acceptable for the candidate to make many of 
+these assumptions for his/herself , as long as you find them reasonable. 
+ 
+Either way, ask the candidate to walk you through his/her thought process for solving the problem 
+before embarking on the calculations. Once you are comfortable with his/her approach, ask him/her 
+to find the answer, explaining as he/she goes.   
+ 
+In this case, it is safe to estimate the residential market size for acoustic pianos (i.e. ignoring concert 
+halls, inventory in retail stores, etc.). 
+ 
+Definition: Acoustic piano – includes upright, grand, and baby grand pianos. Digital keyboards are 
+out of scope. 
+ 
+The candidate should generate the following calculation. If he/she is stuck, assist him/her in arriving 
+at this equation. 
+ 
+Market size = (Population of NH / Average Household size) *% Owning Piano *Average Piano Price 
+*Replacement Rate of Pianos 
+Population of NH 
+#  Population of the United States:  300 million  
+#  The US has 50 states; therefore, the average population per state is 6 million. The candidate 
+should reason that NH is one of the smallest states.  A reasonable population estimate is 1-2M.  
+ 
+30 
+
+
+===== PDF p35 =====
+Guidance 
+Average Household Size: 
+•  Reasonable estimate = US average of ~2.5 is acceptable (or 2-3 if candidate chooses to round) 
+% of Households with an acoustic piano: 
+•  Here you should have the candidate talk through what the factors are in piano ownership: 
+−  Average wealth of households in NH (relatively higher than other states in the US) 
+−  Mix of electric keyboards vs. acoustic pianos 
+−  Macroeconomic impacts on piano purchases (e.g. elastic demand for pianos) 
+•  Reasonable estimate: likely under 5% of all US households. Acceptable answers from candidates 
+range from 3-10% of households, given reasons listed above 
+Average price of piano: 
+•  Prices of pianos vary by piano type (i.e. upright pianos are less expensive than grand pianos) 
+•  Reasonable estimate: $5,000-$10,000 
+ 
+Replacement rate of pianos: 
+•  Candidate should reason that  households will not purchase a piano each year and should divide 
+the number they have arrived at thus far by the average life of a piano (or multiply by the 
+replacement rate) 
+•  Candidate should further reason that pianos are on the more durable side of musical instruments 
+•  Reasonable estimate: pianos should last 30-50 years 
+Calculation: 
+(1.5 Million People / 2.5 People per HH) = 600,000 HH * 5% Piano Ownership =  
+30,000 Piano HH * $7,500 per piano = $225,000,000 Total Market Size / 40 years =  
+$5.6 MM / Year 
+Market Sizing 
+Case 3: Pianos 
+31 
+
+
+===== PDF p36 =====
+Performance 
+Evaluation 
+Expected: 
+•  Candidate develops a structured approach to finding a solution 
+•  Clarifies assumptions that he/she makes based on reasonable logic 
+ 
+Good: 
+•  Completes all “Expected” requirements 
+•  Picks easy numbers or rounds appropriately to simplify calculations 
+•  Clearly walk the interviewer through the calculations 
+ 
+Excellent: 
+•  Completes all “Excellent” requirements 
+•  Arrives confidently at the final number 
+•  Provides an explanation as to how changes to assumptions would affect the estimation 
+Market Sizing 
+Case 3: Pianos 
+32 
+
+
+===== PDF p37 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+33 

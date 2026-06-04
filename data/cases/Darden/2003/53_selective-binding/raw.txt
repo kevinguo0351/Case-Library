@@ -1,0 +1,107 @@
+===== PDF p69 =====
+EXAMPLE CASES BY TYPE 
+NEW PRODUCT 
+ 
+SELECTIVE BINDING 
+ 
+ 
+Question: 
+ 
+Your client is a major fashion magazine that has been offered by its printer a proprietary new process called 
+selective binding, which enables publishers to customize the pages included in magazines based on demographic 
+data known about the reader. For example, an ad in Better Homes & Gardens for lawn chemical services could be 
+placed only in those issues going to subscribers who live in houses and not to those living in condominiums or 
+apartments.  In this way, advertisers can focus their communications on the demographic segment they are targeting.  
+Would you advise your client to take advantage of this new process and offer selective binding to its advertisers? 
+ 
+ 
+Approach: 
+ 
+This is a pretty straightforward cost/benefit analysis.  The magazine would want to consider offering the service to 
+its advertisers if it would be able to enhance its earnings by being able to charge its advertisers a premium for being 
+able to more exactly and efficiently target the demographic segment they want to reach.  Of course the increased 
+revenue from the any premium must be able to offset any revenue lost as advertisers stopped having to pay for 
+advertising for the segment they are not targeting.  The interviewee could start the analysis by obtaining the 
+following information from the interviewer: 
+ 
+The only breakdown possible on your database is between subscribers who make under $50,000 and those who 
+make over $50,000. 
+ 
+There are 1 million readers, 80% of who are subscribers.  Twenty-five percent of subscribers make under $50,000.  
+The same mix applies to the newsstand buyers according to readership audits. 
+ 
+Most advertisers are selling high-end fashion products, so 75% of them are targeting the high-income group. 
+ 
+The service is being offered to your client free for 3 years since the printer wants to promote the client’s use by 
+getting a major magazine to start using it.  The client charges $50 per thousand per full-page and (selective binding 
+can be offered on full-page ads).  Therefore revenue associated with a single inserted page (front and back) in an 
+issue is $100 per thousand. 
+ 
+The client’s closest direct competitor has 500,000 readers, 100% of who are subscribers.  Effectively, all of their 
+readers make over $50,000.  They charge $70,000 for their full one-page ads. 
+ 
+Since the printing cost to the client of selective binding is zero, the client simply needs to evaluate cost on the basis 
+of revenue per thousand gained or lost as their advertiser base uses the service to better target their ads to their 
+desired segment.  Presumably, instead of 100% of advertisers paying the full $50/thousand per page, the 25% of 
+advertisers targeting the lower income segment will choose to advertise only to the 25% of subscribers falling into 
+that segment and the 75% of the advertisers targeting the high-income segment will advertise only to the high-
+income subscribers (75% of subscribers).  Assume that all advertisers continue to advertise in 100% of the 
+newsstand copies.  The revenue effect of this change can be calculated by looking at the impact the change would 
+have on average ad rate per thousand on subscription readership: 
+ 
+New ad revenue per page = Old ad revenue per page X [(% low income subscribers X % low income target 
+advertisers) + (% high income subscribers X % high income advertisers)] 
+ 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 95 
+ 
+
+
+===== PDF p70 =====
+EXAMPLE CASES BY TYPE 
+NEW PRODUCT 
+ 
+Thus, 
+ 
+New ad revenue per page at old rate 
+= 
+$50 X [(25% X 25%) + (75% X 75%)] 
+ 
+= 
+$31.25 < $50 
+ 
+Now the question is, can ad rates per thousand on the selective binding portion of ads sold be increased sufficiently 
+to increase average revenue per thousand over what it is today?  To answer this question, your client’s ad rates must 
+be looked at from the perspective of their advertisers.  If you consider the advertisers targeting the high-income 
+group, their alternative to advertising in your client’s magazine is to put their ad dollars toward the 100% high-
+income readership competitor.  The cost per thousand high-income readers with the competitor magazine is: 
+ 
+(Page rate X total readership) / (portion of readers who are high income) =  ($70 X 500,000) / 500,000 = $70 
+ 
+Thus $70 is the maximum price per thousand the client can charge its advertisers for selectively bound ads before 
+the advertisers would switch to their competitor.  Note that currently, the client is cheaper buy for these high-income 
+advertisers even though they are paying to reach readers they do not want: 
+ 
+($50 X 1 million) / 750,000 = $66.67 
+ 
+If the client charged $70/thousand for selectively bound ads, average revenue per thousand to the client would be: 
+ 
+$70  X  [($25 X $25)  + ($75 X $75)] = $43.75 
+ 
+Since $43.75 is less than the $50 that advertisers are currently paying, the magazine should not be offering 
+advertisers the selective binding service. 
+ 
+Of course, there are other issues which interviewees might want to mention such as the possibility of price 
+discriminating between high- and low-income advertisers, the potential for and cost of expanding the advertising 
+base using selective binding as a selling tool, etc.  However, it is important by the end of the interview to have 
+reached a recommendation regarding the initial regarding the initial question posed by the interviewer.  To mention 
+these other possibilities and areas for further investigation is certainly worthwhile, but it is also important not to get 
+too far off track or to complicate the issue so much that a final recommendation is never reached. 
+ 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 96 
+ 

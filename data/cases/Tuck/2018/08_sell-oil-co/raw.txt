@@ -1,0 +1,346 @@
+===== PDF p73 =====
+Tuck Consulting Club
+69
+Sell Oil & Co
+Sell Oil is an oil & gas major with over $100B in revenue.  It’s present across the industry value chain: exploration, pipelines, 
+refining, and trading. Sell Oil is interested in an acreage in Tanzania licensed by EP, a regional mid sized player. EP just 
+finished the initial geological and seismic surveys and, encouraged by the results, has decided to drill a test (exploratory) well 
+to confirm the presence of oil and gas. Sell Oil is planning to approach EP to gain 20% interest in the field and has hired you 
+to evaluate the opportunity. 
+Part 1: Problem Structuring 
+How should Sell Oil think about how much to offer EP?
+A seismic survey is a technique similar to an ultrasound that is used to develop images of the rock layers below ground.
+An exploratory well is a deep hole that a petroleum or natural gas company drills in the hopes of locating a new source of 
+fossil fuel. These wells are drilled in locations that have already undergone seismic testing.
+This is a interviewer led case. The case is divided into 5 parts:
+Part 1: Structuring
+Part 2: Expected Value
+Part 3: Chart Interpretation
+Part 4: Sensitivity
+Part 5: Wrap-up
+Overall, this is a quant heavy case. Interviewer should evaluate candidates on their problem structuring and solving skills, and
+not on their industry knowledge. A good candidate would not get overwhelmed with jargon but would focus on solving the 
+problem.   
+Notes to Interviewer
+Type: Valuation
+Author: Ravi Darda T’17 & 
+Nancy Yang T’17
+Case Prompt
+Clarifying Information
+
+
+===== PDF p74 =====
+70
+Part 1: Structure the Problem
+Sample Framework
+Must have: The candidate should 
+understand basic cost and revenue drivers 
+in oil and gas exploration (quantity of oil 
+and gas, price of oil and gas, chance of 
+success, etc.) and primary components of 
+NPV valuation
+Nice to have: The candidate realizes that 
+this is not an acquisition but only taking 
+minority interest and hence customizing 
+the framework accordingly (0.2x)
+Differentiators: Finally, the candidate 
+recognizes that this opportunity can lead 
+to multiple outcomes and requires 
+quantitative assessment of uncertainty to 
+yield a risk adjusted valuation/decision
+Behind the Framework
+Revenue (0.2x)
+• Quantity of Oil & 
+Gas
+• Price of Oil & 
+Gas, and volatility 
+of price
+• % uptime
+• Chances of 
+success 
+• Quality/type of Oil 
+& Gas
+Costs (0.2x)
+• Evaluation –
+confirming the 
+presence
+• Capital expense
+• Facilities and 
+equipment
+• Drilling 
+• Operational
+expense
+• Utilities
+• Materials 
+(chemicals)
+• Labor and 
+personnel 
+• Shipping
+• Abandonment
+• Taxes / Royalties
+Other 
+considerations
+• Past deals and 
+benchmarks
+• Control - voting 
+rights, 
+management 
+positions
+• Cost synergies-
+extending Sell’s 
+negotiated 
+contracts
+• Differential in 
+technical 
+capability
+• EP’s financial 
+stability
+• Regulatory 
+hurdles
+• Opportunity cost
+Tuck Consulting Club
+
+
+===== PDF p75 =====
+Tuck Consulting Club
+71
+Part 2: Expected Value
+Using the model in Exhibit A, calculate how much Sell Oil should offer.  One more piece of information: EP has already spent 
+$20M in license fee and initial surveys. 
+Question
+An appraisal well is a well drilled to determine the physical extent, reserves, and likely 
+production rate of a field.  If the candidate asks, exploration well and appraisal drilling costs 
+should be included in expected value calculation.  If the candidate is unsure where to start, 
+direct the candidate to work backwards (i.e. first find expected value post appraisal drilling).
+Clarifying Information & Guidance
+Calculation:
+- Expected value post-appraisal: 75% * [50% * $1000M + 50% * $600M] = $600M
+- Subtract appraisal well cost: $600M - $100M = $500M
+- Apply 30% probability and subtract cost of exploratory well: $500M * 30% - $50M = $100M
+Nice to have:
+- Sell Oil is interested in just 20%, therefore 20% of 100 million = 20 million.  Sell Oil should offer EP $20M
+- The $20M already spent by EP is sunk cost, and hence would have no bearing on the valuation 
+- Field potentially holds both crude oil and natural gas reserves, as indicated by the exhibit
+Differentiators:
+- Valuation depend on oil and gas prices which are generally very volatile
+- Investment of $20M (exact value would depend on negotiations) is quite feasible given the size of Sell Oil
+Candidate Insights
+
+
+===== PDF p76 =====
+Tuck Consulting Club
+72
+Part 3: Chart Interpretation 
+Analyze Exhibit B. How does this impact the analysis we just did?
+Question
+Interviewer can speed through this section if the candidate took much time 
+in the previous section. Here, we are interested in how well the candidate 
+processes information quickly, draws meaningful conclusions, and 
+communicate his/her findings.
+Clarifying Information & Guidance
+Must have: Given that we just completed a valuation of a gas/oil asset, the candidate should realize that oil and gas prices are 
+a major factor in the value of the acre in Tanzania.  Specifically:
+- Oil prices have fluctuated a great deal in the past 5 years
+- Due to the government’s gas pricing formula, gas prices in Tanzania are positively correlated to oil prices
+- $ 100/barrel for NPV computation could be aggressive unless there is a strong basis for this assumption
+Nice to have: Given the above, the candidate should arrive at the conclusion that a reasonable value of the asset could be 
+below 100 million (Sell’s share below 20 million)
+Differentiators:
+- Gas price@100$/barrel= $ 8/mcf (this is the gas price used for NPV calculations)
+- Gas prices are less volatile than oil prices (the way current formula is designed)
+Candidate Insights
+
+
+===== PDF p77 =====
+Tuck Consulting Club
+73
+Part 4: Sensitivity Analysis
+A project manager at Sell tells you, “During bad times, we shift our focus from developing new projects to improving 
+operations of existing assets. Therefore, the negative impact on NPV from low hydrocarbon prices is offset by the reduction in 
+operational expenditures, preserving our project NPV.” Use exhibit C, a simplified NPV equation, to find the percent reduction 
+in operational expense needed to maintain project NPV if oil prices were to drop to $80/barrel.  
+Question
+This question tests basic algebraic skills as well as the candidate’s 
+presence-of-mind when presented with Exhibit C.  
+Interviewer should provide Exhibit B again if the candidate requests it.
+Clarifying Information & Guidance
+Must have:
+- CapEx would remain unchanged and gets cancelled out in the equation
+- If candidate calculates OpEx without considering change in gas price, s/he should arrive OpEx=66.67  (33.3% reduction)
+Nice to have:
+- Gas price would change when oil prices changes
+- Using $6.4/mcf for gas price, the equation then yields OpEx = 50, which represents a 50% reduction
+Differentiators:
+- A reduction in operating expense of 50% is not very realistic. Hence, mostly likely NPV would drop should oil prices reduce 
+by 20%
+Candidate Insights
+
+
+===== PDF p78 =====
+Good: candidates must identify basic 
+risks relevant to this context such as 
+uncertainty of quantity and price 
+Better: a solid candidate would think 
+wide and bring structure to this exercise 
+by bucketing the risks into categories
+Best: identification of ideas to mitigate 
+some of these risk (next steps) 
+Venture
+- Legal complications
+- EP retains operational control and unwilling to share information with Sell 
+Technical
+- Geological risks (how difficult is it to squeeze out the resource)
+- Quality/type of hydrocarbon (sweet vs sour)
+- Lack of qualified engineers in Tanzania
+Commercial
+- Size/quantity of oil and gas reserves
+- Oil prices and its volatility
+- Gas pricing formula and likelihood of revision towards less favorable terms 
+- Stability of taxation, royalties 
+Political
+- Government relations and change in regimes
+- Nationalization of assets
+Environmental and compliance 
+- Protests by locals/environmental groups
+- Revision of compliance requirements
+- Re-confirm the hydrocarbon price 
+assumption and run scenarios based 
+on different prices 
+- Evaluate this opportunity in context of 
+Sell’s current portfolio 
+- Explore possibilities to hedge price 
+volatility risk through financial 
+derivatives
+- Identify other assets in the region if 
+this deal doesn’t go through
+Tuck Consulting Club
+74
+Part 5: Wrap-Up
+Candidate Evaluation
+Risks
+Next Steps
+
+
+===== PDF p79 =====
+Commercial NPVs do not include exploration well and appraisal drilling costs
+75
+Exhibit A: Decision Tree Model
+Exploration 
+Well 
+Appraisal 
+Drilling
+Dry
+Medium
+Too small
+High
+Cost = 50m
+Cost = 100m
+NPV = 1000m  
+Oil = 500m barrels
+Gas = 3 trillion cf 
+NPV = 600m
+Oil = 300m barrels
+Gas = 2 trillion cf  
+50%
+Success
+Failure
+70%
+30%
+75%
+25%
+50%
+cf: cubic feet
+
+
+===== PDF p80 =====
+76
+Exhibit B: Crude Oil and Natural Gas Prices
+2
+4
+6
+8
+10
+12
+14
+16
+20
+40
+60
+80
+100
+120
+140
+160
+2004
+2005
+2006
+2007
+2008
+2009
+NATURAL GAS PRICE ($/MCF)
+CRUDE OIL PRICE ($/BARREL)
+Crude Oil
+Natural Gas (Tanzania)
+2.4 2.8 3.2 3.6 4.0 4.4 4.8
+5.6
+6.4
+7.2
+8.0 8.4 8.8 9.2 9.6 10.0
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+NATURAL GAS PRICE ($/MCF)
+CRUDE OIL PRICE ($/BARREL)
+Tanzania sets the Natural Gas price as a function 
+of Crude Oil price
+Crude Oil (past 5 years):
+Mean- $ 66.2/barrel
+Maximum- $ 142.5/barrel
+Minimum- $ 32.7/barrel
+Standard Deviation- $ 23.0/barrel
+Price assumed for NPV calculations-$ 100/barrel
+Tanzania has a regulated gas market i.e. the prices are 
+determined by the government. The prices are pegged to 
+crude oil prices (see graph above)
+Tuck Consulting Club
+
+
+===== PDF p81 =====
+77
+Exhibit C: Simplistic NPV equation for High Scenario
+𝑁𝑃𝑉= 1000 × 2 𝑂𝑖𝑙𝑃𝑟𝑖𝑐𝑒
+100
++ 𝐺𝑎𝑠𝑃𝑟𝑖𝑐𝑒
+8
+−1.2 𝑂𝑝𝐸𝑥
+100
+−0.8 𝐶𝑎𝑝𝐸𝑥
+2000
+High Scenario:
+Oil Price= 100 $/barrel,
+OpEx (PV of yearly Operating Expenditure)= 100 million
+Tuck Consulting Club

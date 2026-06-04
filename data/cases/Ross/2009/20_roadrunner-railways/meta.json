@@ -1,0 +1,28 @@
+{
+  "case_id": "Ross_2009_20_roadrunner-railways",
+  "school": "Ross",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2009.pdf",
+  "idx": 20,
+  "case_name": "Roadrunner Railways",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Transportation / Rail",
+  "difficulty": null,
+  "pdf_page_start": 101,
+  "pdf_page_end": 107,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    102,
+    104,
+    106,
+    107
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p102.png",
+    "exhibits/exhibit_p104.png",
+    "exhibits/exhibit_p106.png",
+    "exhibits/exhibit_p107.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2009\\20_roadrunner-railways"
+}

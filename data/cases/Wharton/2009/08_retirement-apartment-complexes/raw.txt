@@ -1,0 +1,225 @@
+===== PDF p91 =====
+Case: Retirement Apartment Complexes
+BCG, Round 1
+The client owns and operates 25 retirement apartment complexes for the 55-75 year old demographic in the south-east and 
+south-west states of FL, CA, NM and AZ. By and large the apartment complexes have a similar design and amenities. Should the 
+client company’s CEO consider expanding to other Northern cities or continue to focus on the South?
+Problem statement narrative
+87
+Even though this case starts out with a market entry problem 
+question, the candidate should eventually realize (with or 
+without guidance) that the case is about profitability, 
+specifically costs as there is clearly an unmet market in the 
+North and hence revenues wouldn’t be an issue. 
+Ultimately, the candidate should use some math to determine 
+that the financial justification for expanding in the North vs. 
+South is roughly equivalent, so strategic benefits and risks 
+should guide the client’s focus.
+Case Type: Profitability/ Market Entry
+Overview for interviewer
+candidate should probe deeper to understand the market in 
+the North and why the client wants to consider expanding.
+•
+Any specific financial goals? – maximizing profitability 
+through new apartment existing properties.
+•
+What makes the client think that there is demand in the 
+North? – Survey conducted 2-3 years ago in states 
+such as NY, NJ, MA and IL revealed that the pre-
+retirees /retirees want similar facilities in those 
+underserved (hence no competition exits) markets so 
+that they can stay closer to their families and friends.
+•
+A pilot apartment complex was erected in downtown 
+Chicago 2 years ago with more amenities than its sister 
+properties in the south.
+Information to be provided upon request
+
+
+===== PDF p92 =====
+Case: Retirement Apartment Complexes
+Potential Categories of Candidate’s Framework
+Notable comments / potential discussion points
+Most candidates will tend to examine revenues and costs once they realize this case is about maximizing profitability. While this is 
+the eventual course of action it is important for the candidate to understand the current markets that the client operates in and glean 
+key learnings. Remember – if the candidate had asked the financial goal question, the client wants to maximize profitability through 
+new or EXISTING properties.
+Potential points include, but are not limited to: 
+88
+Industry analysis
+• firm position / market share
+• trends
+• competition
+Profit drivers
+• revenue
+• costs 
+
+
+===== PDF p93 =====
+Case: Retirement Apartment Complexes
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+When dealing with apartment 
+complexes, examine the following:
+• Number of properties
+• Number of units per property
+Market Size
+Identify sources of revenue from 
+apartment complexes:
+• Rent
+• Utilities, if managed by building co.
+Revenue
+Identify cost buckets and distinguish fixed 
+from variable components
+• Maintenance
+• Amenities
+Cost
+89
+Number of units per property
+• Occupancy Rates
+Utilities, if managed by building co.
+• Premium for amenities, if any
+• Retail revenue, if any
+• Maintenance or other fees
+Amenities
+• Leasing/Marketing 
+• Utilities
+• Property Taxes
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+If the candidate has not yet asked for 
+the current apartment complexes in the 
+Southern states, give her/him details:
+• Competition is strong in the south; 
+easy to build new apartments.
+• Occupancy rates typically start out at 
+90%+ but eventually settle at  80% as 
+new complexes are built.
+• 3-5% growth every year fed by new 
+people who migrate to the south
+Recall that the Chicago property pilot 
+provides residents with additional 
+amenities compared to properties in the 
+south. The candidate should examine this 
+aspect to accurately compare costs. 
+
+
+===== PDF p94 =====
+Case: Retirement Apartment Complexes
+Question 1 – Math
+Math Question: Which is more profitable – north or south?
+1. First compute occupancy levels and revenue.  For this discussion all apartments in a given region can be considered equivalent.
+South: 800 units/bldg * 0.8 occupancy rate * $500 rent/mo = $320,000 per mo (let candidate know that rent includes 
+maintenance, amenities, utilities; each property generates identical revenue so leave calculations on an individual property basis)
+North: 400 units * 0.9 occupancy rate * $1,000 rent/mo = $360,000 per mo
+Rent includes amenities charges for a 24 hr. on-site medical facility that residents benefit from in a huge way
+90
+2. Next compare costs (per month)
+Cost Item
+North
+South
+Maintenance
+400 units * $200 = $80,000
+800 units * $125 = $100,000
+Amenities
+$54,000
+$48,000
+Utilities
+$45,000
+$38,000
+SG&A
+$60,000
+$80,000
+Medical Facility
+$60,000
+$0
+Total Cost per mo
+$299,000
+$266,000
+Total Revenue per mo
+$360,000
+$320,000
+Profit per mo per bldg
+$61,000
+$54,000
+
+
+===== PDF p95 =====
+Case: Retirement Apartment Complexes
+Question 1 – Math, cont’d
+Math Question cont’d…
+3.
+Next calculate profitability for both locations by using the formula 
+Profit per mo per building
+÷
+Total Revenue per mo
+4. Turns out that the south and north are equally profitable at 16.8% approx.
+91
+The key to this question is not to stop at calculating profit and 
+jump to a conclusion then. A good candidate will take the next 
+step to calculate profitability and realize that the South and 
+the North are equally profitable relative to revenue 
+generated.  
+Now the candidate should consider the profitability relative to 
+the cost to implement various initiatives.  Is it more expensive to 
+open in the North or South?  What is the incremental cost of 
+constructing medical facilities in the south (relative to increased 
+earnings)?  What is the cost of enhancing some amenities in the 
+South to generate higher rent?  Higher NPV is the goal.  
+We will not explore the capital cost in this case, but a return on 
+cost analysis should be part of next steps.
+Overall approach, good shortcuts & solution
+N/A
+Information to provide up front
+At this point the candidate may ask about the market 
+size in the North or the cost to open new facilities in the 
+North (or the cost to renovate / alter facilities in the 
+South). There is no additional data available, but for the 
+purposes of this discussion we can assume that the return 
+relative to cost is also comparable in North vs. South.
+Provide information if asked
+
+
+===== PDF p96 =====
+Case: Retirement Apartment Complexes
+Sample Recommendation
+To improve shareholder return and maximize profitability, the CEO of the Retirement Homes should 
+consider expanding in the north to capture unmet demand and be the first mover in this area. To increase 
+profitability in the South the following could be considered:
+1. Increase revenues by opening medical centers in all apartment complexes and increase the rent. We 
+have seen that people will pay for the convenience of such an amenity.
+2. Decrease costs using best practices with the Chicago site, re-negotiate contracts, etc.
+The key here is that the candidate should make a strategic argument for the recommendations he makes.  
+Gi
+h
+h fi
+i l
+hl
+i
+l
+h
+(
+fi
+i
+i
+fi
+l
+i
+Recommendation
+92
+Given that the financial measures are roughly equivalent here (profit margin per region, profit relative to 
+capital investment (NPV) per region, strategic intuition will drive the client’s decision.
+candidate should mention risks such as cost of expansion in the North, the commercial real estate issues 
+facing the industry however, pulling this business insight from the information provided during the case 
+interview will distinguish a good response from an insightful one - 90% occupancy is not sustainable in the 
+long run given what happens in the South.
+Risks
+Evaluate cost to open new buildings in the North and cost to renovate in the South.
+Size demand in major Northern cities and, cost of expansion notwithstanding, consider expanding rapidly 
+to secure demand.
+Examine how best practices can be applied to existing properties North to South and vice versa.
+Next Steps

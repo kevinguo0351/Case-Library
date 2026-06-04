@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2018_27_chic-cosmetology-university",
+  "school": "Kellogg",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2018.pdf",
+  "idx": 27,
+  "case_name": "Chic Cosmetology University",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Education",
+  "difficulty": null,
+  "pdf_page_start": 197,
+  "pdf_page_end": 203,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    198,
+    199,
+    202,
+    203
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p198.png",
+    "exhibits/exhibit_p199.png",
+    "exhibits/exhibit_p202.png",
+    "exhibits/exhibit_p203.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2018\\27_chic-cosmetology-university"
+}

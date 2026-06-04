@@ -1,0 +1,24 @@
+{
+  "case_id": "Stern_2019_15_skin-care-market",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 15,
+  "case_name": "Skin Care Market",
+  "case_type": "Market Entry",
+  "round": "2",
+  "industry": "Consumer Packaged Goods",
+  "difficulty": null,
+  "pdf_page_start": 161,
+  "pdf_page_end": 166,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    163,
+    166
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p166.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\15_skin-care-market"
+}

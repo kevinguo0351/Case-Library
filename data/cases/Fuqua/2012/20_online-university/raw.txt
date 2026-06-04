@@ -1,0 +1,354 @@
+===== PDF p166 =====
+Case 20: Online University 
+Prompt 
+Your client is a reputed top 10 private university in the U.S. The school’s management have 
+determined that they need to start introducing online courses in their portfolio of offerings but the 
+board of directors are skeptical of providing education in this format. Your firm has been hired the 
+answer the following questions: 
+• 
+What are the drivers of online education? 
+• 
+What is the market size of online courses in the U.S. today? Could you show how this has 
+grown in the last decade (2002-2012)? 
+• 
+Should the university introduce online courses? Please advise the client on opportunities, 
+risks and the strategy they should adopt. 
+Guidance 
+This is a part strategy and part market estimation case. The analysis  below is one way that it could 
+be solved, and the information may be provided if requested. It is also acceptable for the candidate to 
+make many of these assumptions for his/herself, as long as you find them reasonable. Either way, ask 
+the candidate to walk you through his/her thought process for solving the problem before embarking 
+on the calculations and final conclusion. 
+ 
+The following details may be provided upon request: 
+# 
+Undergraduate program (6,500 students) and graduate programs, ranging from business, 
+medicine, to law, public policy (8,200 students) – the candidate may ask for this but is expected to 
+recognize that it is not necessary to solve the case 
+# 
+If the candidate asks anything else, feel free to provide information you see fit but note that the 
+profile of the university itself is not very relevant to the case 
+ 
+Strategy 
+162 
+Deloitte 
+
+
+===== PDF p167 =====
+Case 20: Online University 
+Guidance 
+The candidate should list some, if not all the following drivers of online education growth:  
+•  the rising cost of traditional education 
+•  greater trust and credibility associated with online learning 
+•  internet adoption and streaming capability 
+•  increased accreditation 
+•  increased acceptable of qualifications earned through online education by employers 
+•  attractive technology-based tools that enhance learning 
+•  recent involvement by brand name universities 
+ 
+Strategy 
+163 
+Deloitte 
+
+
+===== PDF p168 =====
+164 
+Guidance 
+ 
+The candidate should ask for the following information about the market to do the sizing exercise: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The candidate is expected to calculate the number of online courses (which is not the same as 
+calculating the number of students doing one or more online courses) for 2002 and 2012 by 
+assuming a reasonable split among students who are doing full programs online (e.g. Phoenix 
+University) vs. some course (average of 4) vs. few (average of 1.5). Allow the student to provide a 
+rationale for the split he/she assumes. Then provide this table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 20: Online University 
+Strategy 
+Deloitte 
+ 	  
+2002	  
+2012	  
+Total number of post secondary students in the U.S.	  
+         
+1,916,000 	  
+         
+2,628,000 	  
+Percentage taking one or more online courses	  
+3%	  
+20%	  
+Number of students doing online courses (to be 
+calculated)	  
+               
+57,480 	  
+             
+525,600 	  
+ 	  
+ 	  
+2002	  
+2012	  
+A	  % of online students doing full programs (12 courses p.a.)	  
+10%	  
+20%	  
+B	  % of online students doing 4 courses average	  
+20%	  
+30%	  
+C	  % of online students doing 1.5 courses average	  
+70%	  
+50%	  
+
+
+===== PDF p169 =====
+165 
+Guidance 
+This will allow the candidate to make the following calculations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eventually, the candidate is supposed to compare ~1% in 2002 vs. ~7% in 2012 of online courses 
+taken as a percentage of total courses taken and recommend whether this is significant enough for 
+the client to consider introducing online courses. There is no clear answer but the candidate is 
+expected to take a side and support it confidently.  
+ 
+Case 20: Online University 
+Strategy 
+Deloitte 
+ 	    	  
+2002	  
+2012	  
+ 	  
+A (No. of students doing online course*% doing full programs*12)  
+=	  57,480*10%*12	  
+               
+68,976 	  
+         
+1,261,440 	  
+ 	  
+B (No. of students doing online course*% doing some courses*4) 
+=	  57,480*20%*4	  
+               
+45,984 	  
+             
+630,720 	  
+ 	  
+C (No. of students doing online course*% doing few courses*1.5) 
+=	  57,480*10%*1.5	  
+               
+60,354 	  
+             
+394,200 	  
+D	   Total online courses taken (A+B+C)	  
+             
+175,314 	  
+         
+2,286,360 	  
+E	  
+Total traditional courses taken (total number of post secondary 
+students*12 courses p.a.) 
+=	  1,916,000*12	  
+       22,992,000   
+       
+31,536,000 	  
+ 	   Online courses as a percentage of total courses taken (D/(D+E))	  
+0.76%	  
+6.76%	  
+
+
+===== PDF p170 =====
+166 
+Guidance 
+Possible reasons for introducing online courses:  
+• 
+Absolute number of online courses taken increasing from less than 200,000 to about 2M in 
+decade 
+• 
+Rise of accreditation (number of universities accredited as well as agencies providing 
+accreditation) 
+• 
+Global reach in terms of students for the client 
+• 
+Limited infrastructure costs (no buildings required; part-time teaching staff can be employed) 
+• 
+Major brand names also joining the online education game (Harvard, MIT, Purdue) 
+Possible reasons to not introduce online courses:  
+• 
+1% to 7% of total courses taken being online over a ten year period during which society has 
+become hugely dependent on online means to communicate and function is not significant 
+• 
+Most students (80%) doing online courses are only doing a few or some courses online (not full 
+programs) 
+• 
+There is no data yet to show that individuals with online degrees have similar learning outcomes 
+and/or employment prospects 
+• 
+There is no one major, reliable accreditation agency 
+• 
+The client is a top 10 private university that caters to the most sought after employers in al fields. 
+They do not accept online qualifications 
+ 
+Case 20: Online University 
+Strategy 
+Deloitte 
+
+
+===== PDF p171 =====
+167 
+Performance 
+Evaluation 
+Expected: 
+•  Recognizes first that a brainstorming of factors driving online education growth is necessary 
+before embarking on the market sizing part of the case 
+•  Lists some of the factors contributing to the growth of online education 
+•  Comes up with a reasonable approach to the market sizing and completes the calculations 
+competently 
+•  Arrives at some conclusion 
+ 
+Good: 
+•  Completes all “Expected” requirements 
+•  Recognizes most strategic drivers of growth for online education and can articulate the 
+relationship among them 
+•  Can explain his/her plans at the start and provides reasoning behind the approach to the market 
+sizing  
+•  Assumptions are realistic and he/she reaches a conclusion without much help 
+•  Can make a final recommendation for the client without prompting and with confidence. 
+ 
+Excellent: 
+•  Completes all “Good” requirements 
+•  Reaches a very sound conclusion based on the data and calculations 
+•  Assumptions and estimations are very realistic and the candidate is quick in identifying all the 
+elements of the problem 
+•  Proceeds with the assumptions in the right direction and estimates the market size without any 
+prompts from the interviewer 
+•  Delves into other avenues that the company might explore if the ideal plan fails 
+Case 20: Online University 
+Strategy 
+Deloitte 
+
+
+===== PDF p172 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+168 

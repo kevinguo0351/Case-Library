@@ -1,0 +1,26 @@
+{
+  "case_id": "Anderson_2016_19_molds-r-us",
+  "school": "Anderson",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2016.pdf",
+  "idx": 19,
+  "case_name": "Molds R Us",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 94,
+  "pdf_page_end": 97,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    94,
+    96,
+    97
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p097.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2016\\19_molds-r-us"
+}

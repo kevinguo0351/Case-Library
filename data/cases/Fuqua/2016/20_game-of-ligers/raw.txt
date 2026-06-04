@@ -1,0 +1,306 @@
+===== PDF p214 =====
+Game of Ligers
+210
+Industry: Media & Entertainment
+Quantitative Level: Difficult
+Qualitative Level: Medium
+
+
+===== PDF p215 =====
+Behavioral Questions
+211
+• What type of activities have you engaged in so far and what type of impact have you 
+had?
+Question 1:
+• Describe a time when you had to undertake a project you were less than enthusiastic 
+about? How did you handle it?
+Question 2:
+
+
+===== PDF p216 =====
+Game of Ligers
+212
+• Your client, Daenerys Targaryen, is the owner of a zoo. Daenerys has always been 
+interested in exotic animals and is interested in buying a Liger to showcase at her 
+zoo and has hired you to help her determine what to do.
+Prompt #1:
+Given the prompt, the candidate should structure this as an investments question. The 
+candidate should develop a framework that addresses whether the investment in a Liger is 
+advisable (NPV Positive).  In other words, what will adding a Liger do to ticket sales, 
+merchandise sales, and show sales and do these outweigh the costs? To solve this case, the 
+NPV of the incremental profit needs to be solved for.
+Sample Framework 
+Interviewer Guidance:
+Internal
+External
+Incremental rev 
+from Liger
+Costs from 
+buying Liger
+•
+Increased tickets?
+•
+Increased merchandise?
+•
+Increased shows?
+•
+Purchase price
+•
+Enclosure
+•
+Food
+•
+Trainers
+•
+Insurance
+NPV Analysis on this
+Competition
+Financing
+Strategy
+Risks
+•
+What are other 
+Zoos doing?
+•
+Do they have 
+Ligers?
+•
+Can I afford 
+this?
+•
+Will I need 
+financing?
+•
+Why a Liger?
+•
+Why not another 
+animal?
+•
+If not a Liger, 
+how else can I 
+achieve the 
+objective?
+•
+Safety risks?
+•
+How long does it 
+live?
+•
+Backlash against 
+genetically 
+crossed animal?
+
+
+===== PDF p217 =====
+Game of Ligers
+213
+Interviewer Guidance (continued) :
+The following information can be provided only if requested.
+Objectives/Targets: 
+• Return on Investment of >14%.  ROI Can be defined here as NPV of total Profit / NPV of Total 
+Investment
+Zoo Specifics:
+• Location – New York City
+• Products & Services – Ticket sales, merchandise sales, shows.  Most animals that you see at a 
+zoo are already present
+• Competition – No other zoos in the immediate area
+• What is a Liger – a cross between a lion and a tiger (this is a real animal)
+Zoo Profit Metrics
+• Visitors per year – 600,000 (50% Adults, 50% children)
+• Ticket Prices – Adult: $17, Children: $11
+–
+Ticket Revenue = $8.4M
+• Merchandise Sales – 10% of total ticket revenue ($840k)
+• Shows Sales – 5% of total ticket revenue ($420k)
+• Total Revenue: $9.66M
+• Current Costs: ~$8.7M
+• Current Profit Margin: 10%
+
+
+===== PDF p218 =====
+Interviewer guidance on Exhibits
+1.
+Before handing the candidate Exhibit 1, 
+have him/her brainstorm and list out how 
+having a Liger would impact total revenue 
+and potential costs associated with the 
+purchase and upkeep of a Liger.
+2.
+Present Exhibit 1. The Candidate should be 
+performing an NPV analysis.
+DO NOT LET THE CANDIDATE ROUND 
+NUMBERS FOR THIS EXERCISE
+The following information can be provided only if 
+requested.
+•
+Ticket prices will remain the same (Adults $17, Children 
+$11)
+•
+Merchandise and shows revenue will still be 10% and 5% 
+of total ticket revenue, respectively
+•
+Other upkeep costs consists of items such as food, 
+medical, etc. Assume the Liger lives 100 years, therefore 
+we can use a perpetuity
+•
+Liger purchase price, transportation cost, and enclosure 
+construction are one-time costs (total = $4M)
+•
+Discount rate of 10%
+•
+Assume it takes one year to build the enclosure (t=0), 
+revenue begins after 1 year (t=1). Perpetuity formula 
+(CF/Disc Rate) is PV of cash flows in one years time.
+•
+Objective Target ROI of 14%
+• Of the total costs, purchase, transportation, and 
+enclosure are one-time costs (Investment costs)
+–
+Total one-time costs = 1,350k + 675k, + 1,975k = $4M
+• After buying a Liger, the zoo increases visitors by 10% 
+(and maintains this number indefinitely)
+• Therefore, incremental increased revenue is as follows:
+–
+30,000 Adult tickets @17 = $510k
+–
+30,000 Adult tickets @11 = $330k
+–
+Total Incremental ticket revenue = $840k
+–
+Incremental Merch. revenue = $840k *10% = $84k
+–
+Incremental Show revenue = $840k * 5% = $42k
+–
+Total Incremental Revenue = $966k
+• Recurring Annual Costs: Maintenance, Salaries, 
+Other
+–
+$110.10k + $235.15K + $170.75k = $516k
+• Annual Profit = Incremental Rev – Annual Cost:
+–
+$966k - $516k = $450k
+• PV of Annual Profit = perpetuity = CF/Discount rate
+–
+$450k / 10% = $4.5M
+• NPV Positive? = Perp. of CF – Investment Costs: 
+–
+$4.5M - $4M = $500k
+• Return on Investment: NPV / Investment cost
+–
+$500k / $4M = 12.5%
+214
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p219 =====
+Exhibit #1
+215
+600,000
+330,000
+330,000
+Current 
+Ticket Sales
+Projected 
+Ticket Sales w/ 
+Liger Exhibit
+660,000
+Children
+Adults
+300,000
+300,000
+Projected Increase in Ticket Sales
+Maintenance Cost
+170,750
+Salaries Other Upkeep Costs
+235,150
+110,100
+*Purchase of Liger
+*Transportation
+675,000
+1,975,000
+*Enclosure Construction
+1,350,000
+Costs if Liger is purchased
+*One-time costs
+Recurring costs are annualized.
+* Figures are annual
+
+
+===== PDF p220 =====
+Game of Ligers
+216
+• What if the zoo decides to buy two Ligers, a male and a female? Would this be a 
+good idea? 
+Prompt #2:
+Given the prompt, the candidate should begin to ask about procreation, increased ticket 
+sales, etc. Guide the candidate until he/she asks about procreation and incremental revenue, 
+then provide the following information.
+The following information can be provided if requested.
+• If the Ligers reproduce, the baby cubs can be sold
+• 90% chance the Ligers will reproduce immediately (once purchased at t=0), assume gestation 
+period is 1 year.
+–
+This cub could be sold immediately (at T=1) for $1M.
+See following page for further guidance & numbers.
+Interviewer Guidance:
+
+
+===== PDF p221 =====
+Game of Ligers
+217
+Interviewer Guidance (continued) :
+Additional Costs
+• Purchase of additional Liger: $1.35M
+• Transportation of additional Liger: $675k
+• Total cost of additional Liger: $2.025M
+• Total cost of two Ligers: $4M + $2.025M = $6.025M
+Additional Revenue
+• Expected value of baby Liger = [(prob. of baby) * (revenue from sale)] / Discount Factor
+–
+90% * $1M = $900k (This is the value in T = 1)
+–
+$900k discounted by 10% = $900k / (1+0.1) = $818.1k (Guide them with the formula, once they have 
+written out the formula, provide the number, this number can be rounded)
+• Total Profit = NPV Profit of a Liger + NPV Expected Value of baby Liger
+–
+NPV Profit of a Liger is on page 5 
+–
+$500k + $818.1k = ~$1.32M
+Return on Investment
+• Total Profit / Total Cost = $1.32M / $6.03M = ~21.88% (Ok to round these numbers to 1.2 and 
+6.0 for 20%)
+
+
+===== PDF p222 =====
+Game of Ligers
+218
+• Daenerys Targaryen, the owner, is walking into the room in a few minutes.  Please 
+wrap up your thoughts and provide a recommendation.
+Recommendation 
+• The candidate should provide a conclusion that clearly identifies the recommendation, the 
+rationale behind the recommendation, and the risks associated with the strategy. An excellent 
+candidate will identify that although the purchase of one Liger will result in a ROI that is below the 
+target, the ROI is still greater than the current profit margins of the zoo overall.
+• Risks: 
+–
+Not procreating
+–
+Life expectancy: biggest risk, significant value of the PV is driven by the assumption of perpetuity
+–
+Concurrency (other zoos’ actions)
+–
+Not reaching target of incremental revenues (amount of tickets)
+• Next Steps: the zoo should also explore other revenue sources to the acquisition of the Liger to 
+mitigate the risk.
+–
+Increase the price of tickets (price sensitivity analysis)
+–
+2-part tariff (to see the Ligers)
+–
+Memberships
+–
+Rent the Ligers
+–
+Why a Liger?
+Interviewer Guidance:

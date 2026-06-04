@@ -1,0 +1,358 @@
+===== PDF p45 =====
+Salt of the Earth
+41
+Industry: Mining & Metals  
+Quantitative Level: Easy
+Qualitative Level: Medium
+
+
+===== PDF p46 =====
+Behavioral Questions
+42
+• Tell me about a time you had to convince someone, either in your organization or a 
+client. 
+Question 1:
+• Tell me about a time an idea of yours was rejected. 
+Question 2:
+
+
+===== PDF p47 =====
+Salt of the Earth
+43
+• Your client is Salt of the Earth Group, an Australian mining company with $40B in 
+revenue. Salt of the Earth prides itself on mining and producing materials essential to 
+drive economic progress and operates across 5 decentralized Product Groups: Iron 
+Ore, Copper, Aluminum, Petroleum, and Coal. The company operates globally using 
+a combination of wholly owned assets and Joint Ventures. 
+• Recently, commodities have experienced macro pressures: prices have fallen as 
+global GDP underperforms, global demand for metals is plateauing as developing 
+economies mature, and resources companies are having trouble attracting and 
+retaining young talent. Despite this difficult environment, your client is a global leader 
+and is committed to sustaining its competitive advantage. In its most recent earnings 
+report, it promised shareholders an incremental $5B in cumulative net income over 5 
+years through a series of initiatives designed to unlock “whole of system” value. 
+• Your team has been brought in to perform an analysis for the client’s Executive 
+Committee to identify whether $5B is even possible, and what will drive value. 
+Prompt #1:
+
+
+===== PDF p48 =====
+Salt of the Earth
+44
+• If asked, our client’s goal is $5B in cumulative net benefit over a 5 year horizon, measured in USD. 
+Additionally, we are focused on the whole company, not a specific product group.  
+• Define whole of system if asked: Delivering value across the value chain. Currently in mining, there is 
+a focus on maximizing value for given nodes within the value chain (e.g. the mine itself, as part of 
+processing, etc.) There isn’t really a view that connects what’s happening in the mine to how and 
+when the product is being sold, etc-this project seeks to make these connections to deliver value 
+across the system. 
+• If asked more about the “initiatives,” explain that the primary initiatives are investments in a “way of 
+working” (e.g. items like integrated org/process design) and an investment in cutting edge IT.
+• The interviewee should recognize that at its core, this is profitability: the project will deliver value by 
+increasing revenue and decreasing costs, but will come at a price (the investment). However, this 
+case is designed to push profitability beyond Revenue-Costs and the interviewer should tease out 
+how a profitability framework manifests itself in mining specifically. Additionally, the candidate should 
+recognize that there are non-financial reasons (this will be addressed in brainstorming). 
+• In our case, we will focus on: physical product, opex, and capex. Candidates should identify at least a 
+couple of these specifics, noting that mining companies sell physical products, and are capital 
+intensive. For this case, we will assume that price cannot be impacted as it is dictated by the market. 
+• Excellent candidates will also recognize that delivering value will require investment and will include 
+investment/capabilities in their framework. 
+• Once a mining-specific framework has been started, guide the interviewee to ask for information 
+about the incremental benefit/value that can be delivered and provide Exhibit 1a/1b. Push the 
+candidate to identify how they would obtain the information before providing (answer: a combination 
+of external benchmarking and reviewing production plans with product groups). 
+Interviewer Guidance:
+
+
+===== PDF p49 =====
+Exhibit #1a: Salt of the Earth Value Tree
+45
+Salt of the 
+Earth Value
++2.5% Product
+-4% Opex
+-10% Capex
+Value Lever
+Full Potential 
+Annual Value
+Physical 
+Product
+Opex
+Capex
+How
+Enhanced Planning 
+Improved Ore Recovery
+Improved Throughput
+Labor Efficiency
+Increased equipment life 
+Decreased Total Cost of 
+Ownership 
+
+
+===== PDF p50 =====
+Exhibit #1b: Group Financial Statement
+46
+2018 (Current)
+Physical Product
+8,000,000 tons
+Market Price*
+$5,000/ton
+Sales Revenue
+$40B
+Opex
+$25B
+Capex
+$5B
+Earnings Before Taxes
+$10B
+Taxes (@40%)
+$4B
+Underlying Earnings**
+$6B
+*Price is dictated by the market and remains constant
+**Note that underlying earnings is used as a measure of performance and differs from 
+traditional GAAP/IFRS treatment of net income. We will use it as our performance 
+metric. 
+
+
+===== PDF p51 =====
+Interviewer guidance on Exhibits 1a/b
+• Candidate should make the connection between 
+the value tree in 1a and the financial statement 
+in 1b to identify the impact on earnings (see 
+Exhibit 1a/b solution). 
+• After identifying impact on earnings, candidate 
+should recognize that investment is required to 
+realize benefits and drive towards net benefit. 
+Many candidates will have investment in their 
+framework; however, if candidate struggles to 
+identify the need for investment, discuss 
+whether it is realistic for the company to achieve 
+this value without investing in capabilities.
+• Candidates should also recognize that Exhibit 1 
+benefits are “full potential annual value” and 
+question whether benefits can all be delivered in 
+year 1, and how long it will take to realize value. 
+If candidate fails to identify the need for ramp-
+up, ask whether it is realistic for these benefits 
+to be achieved immediately.
+• Once candidate identifies both of these, provide 
+Exhibit 2a/b. 
+• See “Exhibit 1a/b solution” for recommended 
+exhibit analysis.  
+47
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p52 =====
+Interviewer guidance on Exhibits 1a/b
+48
+2018 (Current)
+Increment
+Benefits
+Full Potential
+Physical 
+Product
+8,000,000 tons
++2.5%
++200,000 tons
+8,200,000 tons
+Market Price
+$5,000/ton
+$5,000/ton
+Sales Revenue
+$40B
+$41B
+Opex
+$25B
+-4%
+-$1B
+$24B
+Capex
+$5B
+-10%
+-$500M
+$4.5B
+Earnings 
+Before Taxes
+$10B
+$12.5B
+Taxes (@40%)
+$4B
+$5B
+Underlying 
+Earnings
+$6B
+$7.5B
+Annual Full Potential Incremental Benefit
+$1.5B
+
+
+===== PDF p53 =====
+Exhibit #2a: Program Investment Profile
+49
+(Investment in $M)
+2019
+2020
+2021
+2022
+2023
+Total IT Investment
+$250
+$250
+$170
+$85
+$85
+Project 1: 
+Cloud Analytics
+$100 
+$50 
+$20 
+$10 
+$10 
+Project 2: 
+Autonomous Vehicles
+$75 
+$100 
+$20 
+$10 
+$10 
+Project 3: 
+Safety Geofencing
+$75 
+$25 
+$10 
+$10 
+$10 
+Project 4: 
+Machine Learning
+$-
+$75 
+$120 
+$55 
+$55 
+Transparent Op Model, 
+Org and Process Design
+$30 
+$30 
+$10 
+$5 
+$5 
+Change Strategy and 
+Implementation 
+$20 
+$20 
+$20 
+$10 
+$10 
+Total, Annual 
+$300
+$300
+$200
+$100
+$100
+
+
+===== PDF p54 =====
+Exhibit #2b: Value/Investment Ramp-Up
+50
+1,500
+1,400
+1,300
+1,200
+100
+100
+200
+300
+300
+2019
+2020
+2021
+2022
+2023
+$M (Annual)*
+800
+Investment
+Value
+*Figures represent value/investment delivered in year indicated and are not cumulative
+
+
+===== PDF p55 =====
+Interviewer guidance on Exhibit 2
+• There isn’t any work to be done on 2a: simply 
+recognize that investment in cutting-edge IT will 
+drive the bulk of the cost. The project examples 
+will be useful during the brainstorming exercise. 
+• On exhibit 2b, it is important to recognize that 
+these figures are provided annually, whereas 
+the prompt asks for a 5 year cumulative figure. 
+The candidate should calculate a cumulative 
+figure and conclude that the initiative will meet 
+the client’s goal of $5B net value in 5 years. 
+• Candidates should drive towards an ROI, NPV, 
+or IRR calculation to demonstrate awareness for 
+how a high-level client will think. If candidate 
+identifies the need for any of these, let them 
+know that client prefers ROI. 
+• Once financials have been cleared, progress to 
+prompt 2. 
+• If the candidate asks, tell them that for this 
+exercise, we can ignore the time value of money
+• Candidate should develop a table which 
+identifies the following (YoY is not required, but 
+is a clear/helpful view for the table):
+– Total 5 Year Value: $6.2B 
+– Total 5 Year Cost: $1B
+– Total 5 Year Net Benefit: $5.2B
+– Yes, the initiative will meet the client’s goal 
+of $5B in 5 years. 
+• 5 Year ROI: 
+– (Benefit-Cost)/Cost
+– ($6.2B-$1B)/$1B = $5.2B/$1B = 520%
+51
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p56 =====
+Salt of the Earth
+52
+• In the past week, the discussion has gone beyond financials and the client has been 
+focused on narrative. Specifically, the client wants the Executive Committee to be 
+aware of the non-financial benefits that might be realized. What non-financial benefits 
+do you want to highlight for the Executive Committee? 
+Prompt #2:
+• The purpose of including the investment profile in exhibit 2a is to highlight some of 
+the non-financial benefits. Potential benefits include, but are not limited to:
+– Employee Engagement: The prompt mentions that mining companies are having 
+difficulty attracting and retaining young talent. By investing in cutting-edge IT, the 
+client is creating a digital workforce and may be able to attract and retain new 
+employees. 
+– Safety: Mining is inherently dangerous. By investing in the safety initiatives 
+described in exhibit 2a, the client will be able to create a safer work environment. 
+– Environmental: The transformation may reduce the client’s operational footprint, 
+or improve the client’s ability to reclaim land that has been mined.
+Interviewer Guidance:
+
+
+===== PDF p57 =====
+Salt of the Earth
+53
+• You have just been flown to Australia to prepare and support the global head of the 
+project for his presentation to the Executive Committee. What do you tell him? 
+Recommendation: 
+• Recommendation should answer the prompt, highlight risks/mitigation, and describe 
+next steps. 
+• Recommendation should include: The transformation will deliver $5.2B in net value 
+over a 5 year horizon, meeting the promise made to shareholders. Value will be 
+delivered through increased product/reduced costs, and support by a large 
+investment in IT. 
+• Potential risks include: Sensitivity of value to market prices, sufficient demand for 
+increased product, capabilities and culture necessary to deliver such a large-scale IT 
+investment, labor union resistance. Good candidates should have a mitigation 
+strategy for each. 
+• Potential next steps include: Align investment with value and prioritize investment, 
+align internal capabilities into a program team, secure external support. 
+Interviewer Guidance:

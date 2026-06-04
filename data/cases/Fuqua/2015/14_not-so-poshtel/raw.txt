@@ -1,0 +1,215 @@
+===== PDF p155 =====
+Case #14: Not-So-Poshtel
+Industry: Travel
+Quantitative Level: 3
+Qualitative Level: 3
+Quantitative level: Medium
+Qualitative level: Easy
+150
+
+
+===== PDF p156 =====
+Behavioral Questions
+152
+• Tell me about a time that you were given an assignment at work that you were less than 
+enthusiastic about. How did you handle it?
+• How would you describe your relationship with your last manager?
+Question 1:
+Question 2:
+
+
+===== PDF p157 =====
+Not-So-Poshtel
+153
+• Your client is the owner of Not-So-Poshtel; a chain of hostels located in major European cities. 
+Growth for Not-So-Poshtel has been stagnant over the past several years. The new owner of Not-
+So-Poshtel has seen a lot of press about significant growth in poshtels (or luxury hostels) and 
+wants to know if she should consider transforming her hostels into the luxury variety.
+Prompt #1:
+Background Information:
+• Luxury hostels are a cross between hostels and boutique hotels. They can include perks such as 
+more private bunks or rooms, trendy amenities, regular maid service, tech savvy features, etc.
+• All hostel locations perform at the same level financially.
+• The owner’s goal is to increase profitability.
+Framework Guidance:
+• The candidate should convey that they need to understand current financial performance of the 
+hostels, cost to upgrade to a poshtel, and expected financial performance of the poshtels. They 
+should also highlight qualitative factors that need to be considered.
+• An NPV analysis will be required
+Interviewer Guidance:
+
+
+===== PDF p158 =====
+Not-So-Poshtel
+154
+• What type of revenue and cost information would you need for a hostel?
+• How do you think a Poshtel would compare on these metrics (e.g. higher / lower) and why?
+Prompt #2
+• Once the candidate finishes brainstorming, provide the below information on revenue / costs for 
+hostels only.
+• The candidate should also ask for the revenue / costs for Poshtels; guide them in that direction.
+Interviewer Guidance:
+Hostel
+Poshtel
+Key
+Revenue:
+Do Not Provide
+Price per night
+$20
+50% more
+$30
+Number of beds
+50
+20% less
+40
+Average occupancy rate
+60%
+25% more
+75%
+Costs (monthly)
+Rent
+$4,000
+Same
+$4,000
+Utilities
+$1,000
+100% more
+$2,000
+Employees
+$5,000
+20% more
+$6,000
+
+
+===== PDF p159 =====
+Not-So-Poshtel
+155
+Interviewer Guidance (Continued):
+The candidate should calculate annual profit for hostels and poshtels. They can ignore the number 
+of hostels owned by Not-So-Poshtel and calculate profit per location.
+Profit Calculations Required:
+-------------------
+Revenue = Cost per night * Number of Beds * 30 Days in a Month * 12 Months * Average 
+Occupancy Rate
+•
+Hostel = $20 * 50 * 30 * 12 * 60% = $216K
+•
+Poshtel = $30 * 40 * 30 * 12 * 75% = $324K
+Costs = Rent * Utilities * Employees * 12 months
+•
+Hostel = $4K + $1K + $5K *12 = $120K
+•
+Poshtel = $4K + $2K + $6K * 12 = $144K
+Profit = Revenue – Costs
+•
+Hostel = $216K - $120K = $96K
+•
+Poshtel = $324K - $144K = $180K
+Profit Differential = Poshtel Profit – Hostel Profit
+•
+$180K - $96K = $84K
+--------------------
+Calculations can also be done monthly then calculated out annually at the end
+The candidate should summarize their findings, noting that poshtels appear to be more profitable 
+than hostels. They should note that they need to understand the cost to upgrade to a poshtel
+before they can determine whether the transformation is a good idea for Not-So-Poshtel.
+
+
+===== PDF p160 =====
+Not-So-Poshtel
+156
+Interviewer Guidance (Continued):
+The candidate should ask for the cost to upgrade one hostel to a Poshtel and then complete an 
+NPV analysis. They should assume that this is a perpetuity and that profit = free cash flow.
+Provide the following information to the candidate:
+Discount Rate = 10%
+Upgrade Investment = $200K per hostel 
+NPV Info and Calculations Required:
+-------------------
+Free Cash Flow = Annual Poshtel Profit – Annual Hostel Profit
+•
+Hostel = $180K - $96K = $84K
+NPV (Perpetuity) = (FCF / Discount Rate) – Upgrade Investment
+•
+($84K/10%) - $200K = $840K - $200K = $640K
+--------------------
+The candidate should summarize their findings thus far and ideally note that there are non-
+financial factors that need to be considered.
+
+
+===== PDF p161 =====
+Not-So-Poshtel
+157
+• What else should the owner of Not-So-Poshtel consider aside from financial factors?
+Prompt #3
+• The interviewee has flexibility in how they brainstorm this question, options could include:
+– Internal:
+•
+Staff – Would new staff members with different skill sets be needed?
+•
+Customers – Do poshtels have the same customer base as hostels? Is there overlap or 
+would Not-So-Poshtel need to target a different demographic.
+•
+Not-So-Poshtel Brand – Will customers be willing to pay a premium for a poshtel from the 
+same name or is re-branding required?
+– External:
+•
+Poshtel Industry – Is this a fad or will it stick?
+•
+Locations – Are poshtels more popular in certain cities?
+Interviewer Guidance:
+
+
+===== PDF p162 =====
+Not-So-Poshtel
+158
+• The owner will be here in 1 minute, what is your recommendation?
+Recommendation 
+• Recommendation
+– Not-So-Poshtel should pursue a transformation from hostel to poshtel given NPV of $640K 
+per hostel
+– A pilot approach could be beneficial – transform one hostel and test assumptions before 
+transforming others
+• Risks
+– Different clientele – Would Not-So-Poshtel be able to attract the right guests?
+– Branding – Does Not-So-Poshtel need to rebrand?
+– Industry – Are Poshtels just a fad?
+• Next Steps
+– Select which hostel to transform first
+– Prepare for transformation (financing, architect/contractors, etc.)
+– Monitor impact of transformation and determine if other hostels should be transformed
+Interviewer Guidance (Sample):
+
+
+===== PDF p163 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+•
+Identifies the need to compare profitability for hostels and 
+poshtels
+•
+Completes each prompt, but does not drive case forward
+Good Candidate
+•
+Identifies that an NPV analysis is needed
+•
+Proactively comes up with revenue / cost categories for a 
+hostel / poshtel and provides insight on why there are 
+differences
+•
+Proactively identifies that there are other non-financial 
+factors to consider
+Excellent Candidate
+•
+Good candidate assessment + below
+•
+Moves through calculations in a clear and thoughtful way
+•
+Drives case by proactively asking for information that is 
+needed
+•
+Engages interviewer, is conversational, and enjoys the 
+process
+159

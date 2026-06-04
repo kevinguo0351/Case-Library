@@ -1,0 +1,186 @@
+===== PDF p16 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+12 
+ 
+Case 3: Health Insurance 
+ 
+BACKGROUND 
+Firm: Booz Allen Hamilton 
+Round: 2005 Summer, First 
+Content: Qualitative and quantitative 
+ 
+CASE QUESTION 
+ 
+A health insurance company experienced a loss of $40M this year, after recording a $40M profit 
+last year. They have hired us to determine the cause(s) of this decline and identify potential 
+solutions. 
+ 
+The company is in only one line of business, Commercial Risk Insurance, in only one region. 
+They have several direct competitors.   
+ 
+Their cash flows originate from premiums, which are paid in on a periodic (e.g. monthly, semi-
+annually, annually) basis by its customers, and claims are paid out to the customers’ caregivers 
+as appropriate.  
+ 
+For the sake of simplicity, the company’s Profit = Premiums – Claims. 
+ 
+Currently this company has 4 million members, which equates to a 40% market share. 
+ 
+All revenue, cost and profit figures are measured on a per-member basis. 
+ 
+How would you go about identifying potential solutions for their decline in profitability? 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach:  This is a typical profitability case, with the addition of a problem-
+solving section to discuss the area that is hurting profitability. First, you should hone in on what 
+is causing the company to lose money. Look at revenues (price X quantity) and costs (fixed + 
+variable costs). This will lead you to the crux of the problem. At that point, you should ask 
+questions that explore the problem and identify ways to address it. 
+ 
+Key facts: 
+• Revenues have been stable from last year to this year.  Premiums charged per member 
+have been stable at an average of $200/year, and membership has been flat at 4 million 
+members. 
+• The company has made no large recent capital expenditures 
+• Per member variable costs are rising by $20/year.  This is largely the result of a decline in 
+utilization of resources due to poor management 
+• Within the company’s structure, there are several functional groups: 
+
+
+===== PDF p17 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+13 
+ 
+o New Admits 
+o Pre-authorizations 
+o Case management 
+• These groups are staffed with MDs and RNs that used to be in the field treating patients. 
+They are now responsible for managing hundreds of doctors and nurses that are currently 
+treating patients.  They are more used to working in practices of 5-10 professionals and 
+unaccustomed to managing such a large staff, causing problems in controlling referrals 
+and unnecessary testing/procedures. 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: Since we’re dealing with a profitability issue here, I’d like to explore both the 
+revenue and the cost side of the business. Starting with the revenue side, have the premiums 
+charged changed over the last year? 
+ 
+Interviewer: No, they have been stable. Incidentally, premiums are charged at an average of 
+$200/year/member. 
+ 
+Interviewee: Has the member base been stable? The reason I’m asking this is to understand 
+whether revenue as a whole has been stable. 
+ 
+Interviewer: The member base has been stable, so revenues have as well. 
+ 
+Interviewee: OK. Since revenue is stable, I’d like to explore the cost side of the business. First, 
+let’s take fixed costs. Have they made any large capital investments to spur growth? 
+ 
+Interviewer: No. They aren’t in a growth stage and haven’t made any large capital expenditures 
+except for a new claims payment system two years ago. In general, this is not a capital intensive 
+business. 
+ 
+Interviewee: That makes sense since it is a service company. So let’s look at variable costs. Has 
+the cost of servicing members been growing? 
+ 
+Interviewer: Yes. Per member costs are rising to the tune of $20/member/year. Why do you think 
+this is happening? 
+ 
+Interviewee: The cost of care may be going up – on the doctor, equipment or medicine front. 
+ 
+Interviewer: The biggest cost driver is actually utilization, i.e. how frequently the doctors use 
+other sources for a patient’s care. So now I’d like you to derive the total variable costs that the 
+company had last year versus this year. 
+ 
+Interviewee: 
+Profit = Revenue – Costs 
+$40M (last year) = (4M members * $200/year/member) – Costs 
+
+
+===== PDF p18 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+14 
+ 
+$40M = $800M – Costs 
+Costs = $760M last year 
+ 
+Profit = Revenue – Costs 
+-$40M (current year) = (4M members * $200/year/member) – Costs 
+-$40M = $800M – Costs 
+Costs = $840M current year 
+ 
+Interviewer: What were the variable costs on a per member basis for each year? 
+ 
+Interviewee: 
+Per Member Variable Costs = $760M last year / 4M members = $190/member/year 
+Per Member Variable Costs = $840M current year / 4M members = $210/member/year 
+ 
+Interviewer: Good. Let’s talk about utilization now. What might affect this measure? 
+ 
+Interviewee: It could be a change in what MDs want to prescribe. For instance, maybe they are 
+more risk-averse because of a rise in malpractice cases, so they are more frequently seeking 
+second opinions. Another thing that might affect utilization is how well the company manages 
+the MDs. 
+ 
+Interviewer: To your second point, what would you look for within the company to see where the 
+problem resides? 
+ 
+Interviewee: I would look at several things, including strategy, skills of the MDs, shared values, 
+staffing, technology used, leadership system and functional organizational structure, to name a 
+few. 
+ 
+Interviewer: OK. What would you want to know about the organizational structure? 
+ 
+Interviewee: I’d like to know how the company is structured. 
+ 
+Interviewer: Within the company’s structure, there are several functional groups: 
+• 
+New Admits 
+• 
+Pre-authorizations 
+• 
+Case management 
+ 
+These groups are staffed with MDs and RNs that used to be in the field treating patients. They 
+are now responsible for managing hundreds of doctors and nurses that are currently treating 
+patients. 
+ 
+Interviewee: Are those MDs and RNs used to managing large groups of people (i.e., many 
+doctors in the field)? 
+ 
+Interviewer: No, they are more accustomed to working in practices of 5-10 professionals. 
+
+
+===== PDF p19 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+15 
+ 
+ 
+Interviewee: Makes sense. What types of people compose the upper management of the 
+company?  
+ 
+Interviewer: They are also MDs that used to be in the field. What’s your hypothesis about this 
+problem and potential solutions at this stage? 
+ 
+Interviewee: The problem seems to be in the management of the doctors and nurses that are 
+treating the patients. Due to the difficulty in getting all necessary data, and the fact that the staff 
+managing those doctors/nurses is not used to managing a large, remote organization, variable 
+costs (specifically the costs associated with utilization) have risen. I would recommend 
+reviewing the current information systems for a way to consolidate the view of data for each job 
+function so that everyone has all the necessary information to manage their cases. They should 
+also consider providing leadership/management training for those who are responsible for case 
+management. 

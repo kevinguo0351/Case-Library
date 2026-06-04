@@ -1,0 +1,215 @@
+===== PDF p98 =====
+94
+Case author(s): David Wellner (Kellogg 2011)
+Edited By: Craig DePriester (Kellogg 2012), Rohan Maini (Kellogg 2020)
+Case 08
+Health Coaches
+Primary sector(s)
+• X08 Healthcare
+Concepts tested
+• Z10 Customer strategy (2)
+• Z08 Market sizing (3)
+• Z12 Creativity (4)
+Similar cases
+• Mustard Clinic        
+(Kellogg 2020)
+• TV Screens          (Wharton 
+2017)
+• Vitality Insurance     
+(Kellogg 2020)
+Case type
+• Y05 Operations
+• Y06 Opportunity assessment
+
+
+===== PDF p99 =====
+95
+Health Coaches
+Interviewer guide
+Case prompt
+• Our client is a large national healthcare payer (health insurance company, think Aetna) exploring the launch of a new disease
+management (‘DM’) program to better serve its 5 million members.
+• The idea is to hire and train a team of ‘Health Coaches’ to manage a portfolio of patients to reduce the costs of overall health
+expenditures (eg. reminders to take drugs, provide limited medical advice, suggested diet, exercise etc). Studies show that once a 
+month contact with each patient reduces health spending by 5% on average.
+• Should our client launch the program? If so, what steps should it take?
+Interviewer guide
+• Problem: Are the costs associated with the DM program justified by the savings?
+• Problem solving steps
+1. Develop a structure to address the problem
+2. Explore market segmentation
+3. Calculate program profitability
+4. Brainstorm other ideas to boost profitability
+5. Provide client recommendation
+
+
+===== PDF p100 =====
+96
+Health Coaches
+Case prompt
+• Our client is a large national healthcare payer (health insurance company, think Aetna) exploring the launch of a new disease
+management (‘DM’) program to better serve its 5 million members.
+• The idea is to hire and train a team of ‘Health Coaches’ to manage a portfolio of patients to reduce the costs of overall health
+expenditures (eg. reminders to take drugs, provide limited medical advice, suggested diet, exercise etc). Studies show that once a 
+month contact with each patient reduces health spending by 5% on average.
+• Should our client launch the program? If so, what steps should it take?
+Clarifying information
+• Industry: The whole industry is under pressure to innovate new products that will control spending
+• Company: Assume client is first to market
+• Operations: Past attempts to purely automate DM have yielded minimal savings
+• Health Coaches: All activity conducted remotely via phone/email, typically by a nurse that wants to work from home
+• Patients: It’s difficult to actually reach patients, so Coaches can contact 8 members per day (assume 25 days per month)
+• Costs: Annual costs per Coach: $60K salary +20% other (training, benefits, laptop, etc.). There are no other program costs
+Fit: Tell me about a project where you used your problem solving skills.
+
+
+===== PDF p101 =====
+97
+Health Coaches
+Exhibit A – Client’s member segmentation by disease type
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Individual
+Group
+65+
+Other
+Degenerative
+Hereditary
+Lifestyle
+Healthy
+Segment
+Individual
+Group
+65+
+Segment size
+15%
+65%
+20%
+
+
+===== PDF p102 =====
+98
+Health Coaches
+Exhibit B – Average cost data
+Average cost PMPM*
+Segment
+Lifestyle
+Hereditary
+Degenerative
+Individual
+$600
+$150
+$150
+Group
+$400
+$100
+$100
+65+
+$1,200
+$300
+$300
+*Notes:
+• PMPM = Per Member Per Month
+
+
+===== PDF p103 =====
+99
+Health Coaches
+Part 1
+1. Develop a structure to address the problem
+• The interviewee should drive towards quantifying the savings
+• Consideration of qualitative issues is ideal.
+Program Savings
+Program Costs
+Risks
+• Customer segmentation by 
+disease area and cost per 
+member
+• Communication systems
+• Health Coach Salary
+• Training
+• Assumption accuracy
+• Competitive response
+• Regulatory, liabilities
+
+
+===== PDF p104 =====
+100
+Health Coaches
+Part 2
+2. Explore market segmentation
+• Group are employee sponsored plans (e.g. ,if you work for our consultancy, you are in a group plan), Individual are non-groups (eg.
+private contractors, unemployed, etc). 65+ (see note below chart).
+• Which disease area should we look at first?
+• Interviewee should choose to focus on the 65+ segment
+• 65+ patients are the sickest,
+• Sicker patients are likely to drive higher costs
+• Higher costs provides greatest benefit for DM
+• Interviewee should choose to focus on lifestyle diseases
+• Lifestyle diseases make up the largest portion of sick members
+• As diseases primarily brought on by behavior, this segment is likely to benefit from DM
+• Number of 65+ lifestyle = 20% segment x 40% lifestyle x 5m members = 400,000
+Provide Exhibit A when the interviewee asks about segments or disease areas
+
+
+===== PDF p105 =====
+101
+Health Coaches
+Part 3
+3. Calculate program profitability
+• Note: lead with Exhibit A. If the interviewee leads with profitability, steer him/her to first think about customer segmentation.
+• What can we do with this information?
+• Cost per Coach = $60k base + 20% = $72k
+• Size of Portfolio = 8 patients per day x 25 days per month = 200 patients per year
+• Savings for one portfolio = $1,200 cost per month x 12 months per year x 5% average savings x 200 patients = $144k
+• Overall savings =  ($144k savings - $72k costs) x 2,000 coaches = $144m profit per year
+• Takeaway: Profit is $72K per Health Coach (double the cost of a coach)
+• Based on PMPM lifestyle cost data, Individual segment is break-even (50% less savings), Group segment is a loss
+Provide Exhibit B when the interviewee asks about medical costs
+
+
+===== PDF p106 =====
+102
+Health Coaches
+Part 4
+4. Brainstorm other ideas to boost profitability
+• There are 650,000 Group members with lifestyle diseases left ‘uncoached.’ Is there a way to make the segment profitable?
+More efficient DM program 
+Seek additional revenue sources 
+Client selection
+• Coaching at work
+• Bi-monthly contact
+• Automated correspondence
+• Better training for Health Coaches
+• Employers might be willing to pay a 
+fee to enroll in service
+• Government support as a state-
+approved or sponsored program
+• Target members who will respond 
+with savings well above 5%
+
+
+===== PDF p107 =====
+103
+Health Coaches
+Part 5
+5. Provide client recommendation
+• Client should launch the Health Coaching program, and first focus on lifestyle diseases in the 65+ segment
+• Launch a pilot program to prove out assumptions (eg. 5% cost reduction, Coach portfolio capacity, etc.)
+• First expand to entire 65+ lifestyle segment ($144M per year savings per coach, a 2x return on each Health Coach)
+• Consider introducing to Individual lifestyle segment despite break-even (customer retention, moral rationale, etc.)
+As first to the market, client plans to expand Health Coach program externally. Who should they target?
+• The program yields the greatest savings in the 65+ lifestyle disease segment. However, the client should keep in mind that more 
+lifestyle members will increase overall health care costs, considerably (still almost 4x after savings).
+• As an alternative, the client could sell its Health Coach service to other payers.
+• Excellent interviewees should use common sense to make reasonable assumptions before you provide required inputs.
+• Outstanding interviewees are able to keep track of all units from a math perspective.

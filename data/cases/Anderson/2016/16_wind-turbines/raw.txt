@@ -1,0 +1,248 @@
+===== PDF p78 =====
+UCLA Anderson Casebook 2016
+74
+Case 16: Wind Turbines
+Business Problem Statement
+Our client is the largest European manufacturer of wind turbines (used to generate electricity by harnessing 
+wind power). The client currently has production capability in the US and has elicited your help to determine:
+1.
+Where to build its manufacturing plant? 
+2.
+How many plants to build?
+This problem only concerns North American Operations: wind energy is currently growing in China and the US, 
+but by 2018, there will be capacity issues in the US.
+Interviewer Guidance: Information to be shared upon request
+•
+Importing turbines to the US or Asia is impractical because each weights 80 tons and there are import tariﬀs 
+that add additional costs
+•
+The plant will be online by 2017 and the expected demand for our client’s products is 1,500 units
+o If prompted this is 40% of the market
+•
+Market growth for the next 5 years is 10% by volume
+•
+There are 2 existing US manufacturers of wind turbines with one being the dominant player
+o There is no diﬀerentiation between the diﬀerent products
+Sample Initial Response/Framework
+We ﬁrst need to understand the demand for wind turbines and the market share that our customer can 
+achieve. Being a growing market I would also want to assess the market growth. This will help us understand if 
+we need additional capacity.
+Then I would continue by assessing if we actually need a plant in the US. Maybe we can import wind turbines 
+from other locations at cheaper cost that opening a plant.
+In order to try to suggest a location for the plant we need to understand some of the factors that will 
+inﬂuence this location:
+-
+Where the supply will be coming form, taking into account infrastructure, labor, taxes, competition, 
+shipping costs
+-
+Where the customers are located
+-
+What level of service we need to provide to these customers
+-
+Is it possible to outsource manufacturing
+-
+Where are manufacturing costs cheapest
+The last component that cannot be ignored is competition. We need to know how segmented the market 
+is and how the competition is doing.
+Taking into account that China is the second growing market I would also like to assess the possibility of 
+exporting turbines to China.
+
+
+===== PDF p79 =====
+Key 
+Areas
+Part & 
+Material 
+Supply
+Manufacturing
+Transport
+Installation
+Service
+Guidance for 
+each area 
+(do not    
+read 
+verbatim)
+Factors: 
+Infrastructure, labor, 
+tax, competition, etc
+Candidate should 
+realize that the 
+competition is 
+competent and seek 
+to understand from 
+where they currently 
+source.
+Competition sources 
+from the Midwest 
+(heavy auto supply 
+base)
+Shipping costs and an 
+integrated supplier 
+network are most 
+important drivers
+Assembly is not 
+terribly complex 
+(low tech).
+Once the diﬀerent 
+subassemblies are in 
+house, the mfg is a
+simple mechanical 
+assembly ( very little 
+welding or complex 
+processes)
+All engineering 
+design is done in 
+Europe.
+Product mix – only 
+one type of turbine is 
+currently slated for 
+production in the US.
+Transport the 
+ﬁnished turbines 
+must be by rail to 
+achieve any 
+eﬃciency. Need to 
+understand where 
+the demand is.
+Building the plant 
+closer to the areas of 
+heavy demand will 
+reduce 
+transportation costs.
+Customers will 
+be required to 
+perform their 
+own 
+installation.
+Our client 
+provides 
+nominal 
+support when 
+required but 
+installation is 
+not diﬃcult.
+Our client is interested 
+primarily in making and 
+selling turbines
+Routine maintenance 
+can be performed fairly 
+easily by any trained 
+technician.
+There are numerous 
+independent contractors 
+that are licensed to 
+repair the turbines 
+(fragmented market, low 
+barrier to entry –
+unattractive market)
+UCLA Anderson Casebook 2016
+75
+Case 16: Wind Turbines
+Interviewer Guidance
+See the potential solution below. Use to guide interviewee.
+Interviewer Guidance
+Communicate market share information (25% West, 50% Central, 25% East) from map below to interviewee. 
+Do not communicate proposed manufacturing site – this is for the interviewee to figure out. 
+
+
+===== PDF p80 =====
+UCLA Anderson Casebook 2016
+76
+Case 16: Wind Turbines
+Part 1: Economies of Scale Discussion
+Interviewer Note: Interviewee should ask how economies of scale aﬀect the production costs of each turbine.
+Prompt the interviewee if necessary.
+Chart to be given only upon request:
+Other information given upon request:
+•
+A 1,500 units plant would cost $40 million dollars investment ($30 million being the building). Each 
+additional 500 units in capacity will increase the costs by $15M
+•
+If 2 plants were built, the additional operations costs would be 15M/ year. 
+o The transportation savings would be 7M per year.
+•
+Note that we cannot build a plant with a lower than 1,500 units capacity
+0
+1000
+4000
+5000
+2000
+3000
+Annual Plant Capacity
+Cost Per Unit
+Relative eﬀect of plant scale on costs
+Part 2: Calculation of Future Demand
+Interviewer Note: Interviewee should calculate future demand and realize that the company’s market share 
+won’t reach 3,000 units for 7 years, suggesting that only one plant is needed.
+*10% market growth with constant 40% market share
+For 3,000 units capacity (the capacity that the client will need to have by 2025):
+If only one plant built:
+Cost = $40M + $15M*3 = $85M
+Note that the capacity does not have to be added from the beginning and the high capacity will decrease the 
+cost per unit
+If 2 plants built:
+Cost = $40M*2 + ($15M-$7M)*8 years= $144M
+Year
+40% share
+Market
+2018
+1,500
+3,750
+2019
+1,650
+4,125
+2020
+1,815
+4,538
+2021
+1,997
+4,991
+2022
+2,196
+5,490
+2023
+2,416
+6,039
+2024
+2,657
+6,643
+2025
+2,923
+7,308
+
+
+===== PDF p81 =====
+UCLA Anderson Casebook 2016
+77
+Case 16: Wind Turbines
+Sample Recommendation
+With all this information my recommendation is for them to build 1 plant that should be located near but to the 
+southwest of the mid west supply base. I suggest only one plant because the costs associated with building and 
+operating 2 plants are higher than for only one plant. However this plant needs to be sized to accommodate the 
+future growth (approx. 100% increase by 2017 given no increase in share).
+Even in this case, the costs are a lot higher for having two plants over one plant. There are some other risk 
+associated that were not taken into account here, like competition. We would need to assess the
+competitive response and the eﬀect it will have on the market share.
+
+
+===== PDF p82 =====
+UCLA Anderson Casebook 2016
+78
+0
+1000
+4000
+5000
+2000
+3000
+Annual Plant Capacity
+Cost Per Unit
+Case 16: Wind Turbines
+Exhibit 1
+
+
+===== PDF p83 =====
+UCLA Anderson Casebook 2016
+79
+Case 16: Wind Turbines
+Sample Framework

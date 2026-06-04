@@ -1,0 +1,202 @@
+===== PDF p110 =====
+CASE 10:
+Railroad Budget Blowout
+Firm Style
+Interview Round
+BCG
+2
+Clarifying information (provide only if corresponding questions are asked) 
+Q: What is the total budget for the project?
+A: The total budget is $100M
+Q: Do we know how far over budget they are?
+A: It varies by installment but they have been over by an average of 15%
+Q: Is there a reason why costs have increased? 
+A: The client is unsure and has asked us to help them figure out the cause of increases.
+Q: How many more installments do they have?
+A: 10 left
+Case Question
+Our client is an Eastern U.S. railroad that is required to implement a new technology 
+mandated by the government. The new technology involves installing signal readers at 
+various points along the tracks to communicate train locations and improve safety 
+measures over the next 12 months. They have exceeded their budget on the first 3 
+installments and have asked us to help them solve the problem.
+
+
+===== PDF p111 =====
+Railroad Budget Blowout
+Clarifying information (provide only if corresponding questions are asked) 
+Q: What is the process to install the new technology?
+A: For each location, the installation team travels to the site daily, works 8AM-5PM, Monday-Friday. They are each 
+assigned a task once they arrive and have the tools to get started.
+Q. Has the same team done each of the installations?
+A. It’s a core team of installers for each region who travel to various sites. They are the only ones with this type of
+experience in the regional areas.
+
+
+===== PDF p112 =====
+Railroad Budget Blowout
+Framework / Structure
+This interviewer is looking for (i) identification of whether this is a company-specific or industry-wide 
+problem and (ii) breadth and creativity of thinking in identifying the cost buckets for the projects and 
+potential opportunities to reduce costs, which can be done by reducing the labor or increasing 
+efficiency. Below is an example of a strong MECE framework. 
+Reasons for Cost Increases
+• Labor
+• Wages
+•
+Taking longer than expected (Overtime)
+•
+Union Involvement
+•
+Higher minimum wage than budgeted
+• Process
+•
+Requiring more people to complete task
+•
+Composition of workers - skilled vs. unskilled
+• Materials
+• Cost of inputs
+• Transportation of materials
+• Development / Infrastructure costs
+• Inventory Control
+External:
+• Competitors experiencing the same thing
+• Weather interference – causing longer project times
+• Supplier Issues
+• Technology Failures
+
+
+===== PDF p113 =====
+Railroad Budget Blowout
+Interviewer Tips
+• Amongst several other issues / opportunities, the candidate should identify the main factors to be 
+considered as the labor and materials for the project.
+• If they do not identify these buckets, push them to brainstorm.
+• Once asked for specific costs/budget-to-actual info, provide Exhibit 1
+• After review, candidate should identify that labor is the main source of increased costs
+• Encourage the candidate to brainstorm ways to investigate labor costs
+• After some discussion, mention that a study was done to observe workers in the field and provide 
+Exhibit 2
+• Candidate should look for opportunities to reduce non-value add activities
+• If needed, prompt candidate to consider which activities add value and which do not
+• Candidate should use this data to calculate savings opportunity per worker
+• Reference “Calculation” slide for additional information
+• If needed, prompt candidate to quantify the savings by reducing non-value add activities
+• The rest of the case should focus on identifying specific actions to increase efficiency and reduce 
+costs
+• Candidate should make assumptions and do calculations to determine amount of cost 
+savings that can be realized by implementing solutions
+
+
+===== PDF p114 =====
+Railroad Budget Blowout
+$0
+$20
+$40
+$60
+$80
+$100
+$120
+$140
+Budget
+Actual
+Exhibit 1
+Materials
+Labor
+Misc
+
+
+===== PDF p115 =====
+Railroad Budget Blowout
+Exhibit 2
+Observed Daily Activity
+Average Time (per worker)
+Arrival and daily set up
+20 mins
+Gather materials
+20 mins
+Team meeting
+30 mins
+Signal installation 
+5 hours
+Breaks (smoking, bathroom)
+40 mins
+Lunch
+1 hour
+Quitting early*
+40 mins
+Waiting for new task
+30 mins
+*Sometimes workers don’t start a new task if its nearly the end of the day
+
+
+===== PDF p116 =====
+Railroad Budget Blowout
+Candidate should immediately drive to insights
+•
+There are many non-value add activities that can be eliminated
+•
+By reducing non-value add activities, we can increase productivity by 33%
+Interviewer Guidance
+•
+Company policy includes 2x10 minute breaks per shift & 1 hour of unpaid lunch
+•
+Team meetings are mandatory
+•
+Arrival & gathering materials can be reduced by 75%
+•
+Non-value add activities to eliminate – push candidate to reduce these categories by amounts below
+•
+Quitting Early (40 mins)
+•
+Half of breaks (20 mins)
+•
+Waiting for new tasks (30 mins)
+•
+Reduce Arrival & Gathering Materials (30 mins)
+•
+Total Non-value add time to eliminate is 2 hours
+•
+Assume all non-salary workers make the same hourly wage & that salaried workers are not causing the increase
+Calculations
+•
+Total non-value add time per worker: 2 hours (120 mins) per day
+•
+Total non-value add time per worker (%): 25% of the day
+
+
+===== PDF p117 =====
+Railroad Budget Blowout
+Brainstorm Solutions
+Candidate should naturally make suggestions to improve areas they identify as 
+needing improvement  – interviewer may need to prompt the candidate to 
+brainstorm solutions. Some possible solutions include: 
+• Operational Improvements
+• Work site management & organization to improve setup time & gathering 
+material
+• Streamline task communication to reduce early quit times
+• Training
+• Supervisor training to allocate work correctly to minimize wait time
+• Policy training and reinforcement
+
+
+===== PDF p118 =====
+Railroad Budget Blowout
+Recommendation
+The candidate’s recommendation should include a discussion of: (i) a clear explanation for the 
+increased costs, (ii) the opportunities for increasing efficiency in the field and the savings that can be 
+realized, and (iii) a return to the original framework and the specific recommendations for achieving 
+the opportunities listed. 
+“Go Recommendation” 
+• Weak: 
+• The client should try to get more efficient labor to reduce costs. They should be more strict 
+about lunch breaks and working hours to help not exceed their labor budget. They should 
+also try to get a discount on the supplies.
+• Strong: 
+• The client should conduct training and implement new operational strategies to reduce non-
+value add time and increase productivity to get the project budget back on track. By 
+reducing non-value add activities such as excessive breaks and quitting early, they can realize 
+25% reduction in labor costs. Additionally, they can streamline task assignments and 
+inventory control methods to improve efficiency. Some risks could be downtime during 
+training and maintain employee morale while managing pushback. Next steps would be 
+schedule implementation based on priority and ease of implementation.

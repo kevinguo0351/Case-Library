@@ -1,0 +1,337 @@
+===== PDF p124 =====
+Case #11: Mission Eternity
+Industry: Aerospace/Government
+Quantitative Level: Medium
+Qualitative Level: Difficult
+Quantitative level: Medium
+Qualitative level: Difficult
+119
+
+
+===== PDF p125 =====
+Behavioral Questions
+121
+• If your life was turned into a movie, what would be the title?
+– Tests the candidate’s ability to think on their feet and be creative.
+– What’s important is a quick but thoughtful response and that the candidate is not thrown off 
+by an out-of-the-box question.
+• Provide an example of when you had to change direction on a project and how you 
+handled it.
+Question 1:
+Question 2:
+
+
+===== PDF p126 =====
+Mission Eternity
+122
+• Your client, NASA, has recently learned of a giant asteroid heading towards the 
+Earth. Scientists at NASA have determined that there is a 10 percent probability that 
+this asteroid makes landfall. If it hits, the asteroid will create a large dust storm 
+blocking out sunlight and preventing photosynthesis in plants. This will ultimately 
+destroy the rest of the earth’s ecosystem for the next 100 years. NASA needs help 
+determining whether they should launch the Eternity Mission, a space exploration 
+mission to find a suitable planet for the human population to live on in the event of 
+the catastrophic asteroid impact. 
+Prompt #1:
+Additional information to be provided to the candidate if requested:
+• NASA’s goal is to safely evacuate at least 20% of the world’s population in the event 
+of impact. 
+• The Asteroid would hit earth in 25 years. NASA estimates it will require 15 years to 
+build enough space vehicles and safely evacuate 20% of the world’s population. 
+Therefore, Mission Eternity needs to be completed within 10 years.
+Interviewer Guidance:
+
+
+===== PDF p127 =====
+Mission Eternity
+123
+(continued)
+• Assume NASA has had major breakthroughs in space travel and spacecraft can now 
+travel at the speed of light.
+• Other international space agencies are looking to NASA to make a decision. Their 
+budgets are unavailable to aid this mission. 
+• NASA has already weighed other options to salvage the earth’s population, such as 
+hitting the asteroid to break it into smaller pieces, and determined that is not possible. 
+Additionally, other efforts to live underground are being researched separately. 
+• Cost of the Eternity Mission will vary by planet(s) selected for exploration, we do not 
+have specific figures.
+• Assume NASA has figured out a way to use therapeutic hypothermia hibernation to 
+enable humans to travel very long distance in space.
+Interviewer Guidance:
+
+
+===== PDF p128 =====
+Mission Eternity
+124
+• Budget Issues
+– Cost of spacecraft
+– Cost of fuel – renewable technology, fuel 
+– Astronauts – salary, life insurance, family support, training
+– Staff on ground
+– Upkeep of tracking devices
+– Cost of test runs
+– Outside fundraising possible: Business, nonprofit, donation support
+• Timing Issues
+– Distance to potential planet
+– Duration of the project affects cost
+– Timing of receiving planet data to make plans prior to asteroid impact
+• Public Relations Issues/Liability
+– Public response to expense
+– Public reaction to disaster if an accident with the mission occurs
+– Loss of credibility for future missions and existing projects if there is a failure
+• Available Planet Data
+– Accuracy of currently available data regarding potential planets
+– Determining which metrics to prioritize
+Interviewer Guidance: Potential Framework
+
+
+===== PDF p129 =====
+Mission Eternity
+If not already provided to the candidate, inform them that the asteroid is set to hit earth 
+in 25 years. At least 15 years is needed to build enough space vehicles and to safely 
+evacuate 20% of the world’s population. Therefore, Mission Eternity can only take 10 
+years from start to finish. 
+Additionally, NASA’s Eternity spacecraft can travel at the speed of light. 
+The closest four potentially habitable planets are Planet W, Planet X, Planet Y, and 
+Planet Z. Once the Eternity spacecraft arrives to a planet, it will take on average 18 
+earth months to collect data sufficient to determine if the planet can support human life. 
+NASA has also discovered a way to send signals carrying the data back to earth faster 
+than the speed of light. It will take three months per light year in distance for signals to 
+reach earth. [Assume one month is 30 days.] 
+125
+Prompt #2:
+
+
+===== PDF p130 =====
+Exhibit #1
+Note: A light-year is how astronomers measure distance in space. It is defined by 
+how far a beam of light travels in one earth year – a distance of six trillion miles. 
+126
+24 trillion miles
+33 trillion miles
+36 trillion miles
+48 trillion miles
+Earth
+X
+Z
+W
+Y
+
+
+===== PDF p131 =====
+Interviewer Guidance on Exhibit #1
+• The candidate should realize that distance is related to timing and will impact the 
+decision to explore certain planets within the allotted 10 year timeframe. The 
+candidate should convert distances in Exhibit 1 into light years and add the additional 
+time for data collection and receipt of the data signal to determine the total time it will 
+take to make a decision about whether a planet is suitable for human life.
+• Candidate should determine that Planet W will not return information in time for NASA 
+to build evacuation spacecraft, and therefore should be eliminated from consideration.
+• Candidate should drive the case and ask for additional metrics regarding water, 
+atmospheric conditions, etc. to determine which planet would be most suitable to 
+sustain life. 
+127
+Exhibit #1 Guidance/Prompt #1 Analysis
+Planet
+Distance 
+from Earth 
+(trillion 
+miles)
+Distance 
+from Earth 
+(Light Years)
+Data 
+Collection 
+(Years)
+Data Signal 
+(Light Years)
+Total Time 
+(Light Years)
+W
+48
+8
+1.5
+2
+11.5
+X
+24
+4
+1.5
+1
+6.5
+Y
+36
+6
+1.5
+1.5
+9
+Z
+33
+5.5
+1.5
+1.375
+8.375
+
+
+===== PDF p132 =====
+Mission Eternity
+128
+• Brainstorm: How should NASA determine which planet to explore first? What metrics 
+would you want to look at when comparing Planets X, Y and Z?
+Prompt #2:
+Qualities/metrics of a suitable planet:
+• Distance from earth:
+– Feasibility of transferring population with 
+less risk
+– Space travel timing issues
+• Food/Water:
+– Farming capabilities
+– Water purity and quantity
+– Ability to raise livestock, sources of protein
+• Atmospheric Conditions
+– Air Quality - Breathable? Does it require a 
+head mask?
+– Presence of harmful gases
+• Natural resources
+– Energy resources – light, fuel sources, etc.
+– Geography - Buildable terrain, Safety of 
+terrain 
+– Gravitational pull
+• Climate
+– Temperature 
+– Natural weather forces
+– Length of days/nights
+Interviewer Guidance:
+
+
+===== PDF p133 =====
+Interviewer Guidance on Exhibit #2
+• Candidate should drive case and focus on 
+prioritizing one or two key metrics and ask 
+for available data, then provide Exhibit 2.
+• NASA only has the manpower and 
+financial resources to visit one planet. 
+Prior robot missions returned the following 
+results. 
+• In astronomy, the habitable zone is the 
+region around a star within which 
+planetary-mass objects with sufficient 
+atmospheric pressure can support liquid 
+water at their surfaces. In other words, 
+this indicates the likelihood of water. 
+• Earth Similarity Index, ESI, is a measure 
+of how physically similar a planetary-mass 
+object is to Earth. It is a scale from zero to 
+one, with Earth having a value of one.
+• The candidate should determine that 
+Planet Y has the best indicators for 
+supporting human life. 
+• Additionally, NASA’s goal is to safely 
+evacuate at least 20% of the world’s 
+population in the event of impact. Planet 
+Y provides the best option for safely 
+sustaining life.
+129
+Prompt #3:
+Guidance for Exhibit #2:
+
+
+===== PDF p134 =====
+Exhibit #2
+130
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+Planet X
+Planet Z
+Planet Y
+Earth Similarity Index (ESI)
+Percentile Location in Habitable Zone
+
+
+===== PDF p135 =====
+Mission Eternity
+131
+Example of a good recommendation:
+• NASA should launch the Eternity Mission to Planet Y because it will return data 
+before the 10 year deadline and has the highest indicators to sustain human life –
+with an ESI of 0.8 and a location in the 80th percentile of a habitable zone.  
+• Risks: Planet Y is the furthest away from earth, making the trip and hibernation 
+riskier. It is also more costly, and a higher proportion of NASA’s annual budget.
+• Next steps: Prepare the mission to Planet Y, and (depending on costs) consider 
+launching another mission to Planet Z since it would still return data in enough time.
+Recommendation 
+
+
+===== PDF p136 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+•
+Has two or fewer math mistakes. 
+•
+Provides risks and next steps in recommendation.
+•
+Buckets the brainstorm in prompt #2.
+Good Candidate
+•
+Creates a table for exhibit #1’s calculations.
+•
+Drives case and asks for the appropriate 
+information.
+•
+Asks for explanation if they do not understand 
+habitable zone and ESI.
+Excellent Candidate
+•
+Pulls in data from the initial prompt that with 10% 
+probability of impact, there’s more need to be 
+budget conscious. 
+•
+Takes shortcuts when calculating Exhibit #1: without 
+calculating realizes Planet W will be outside of the 
+10 year deadline and Planet X will safely fall inside 
+the deadline.
+132

@@ -1,0 +1,165 @@
+===== PDF p38 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+34 
+ 
+Case 10: Heartcorp 
+ 
+BACKGROUND 
+Firm:        McKinsey & Company 
+Round:     2005 Summer, First 
+Content:  Qualitative and quantitative 
+ 
+CASE TOPIC 
+ 
+Heartcorp is a medical devices company.  They produce cardiovascular stents. 
+They have developed a revolutionary product that is positioned to replace the current products in 
+the market.  The product, called Device X, is the first of its kind 
+ 
+Heartcorp wants to launch Device X in Europe in the near future and then bring it to the U.S. in 6 
+months.  They are 1 year ahead of its competition (with regard to R&D of the product). 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: 
+This case is representative of many of the prepared, McKinsey round 1 cases, in which the 
+interviewer actively walks the interviewee through a set of qualitative and quantitative questions.  
+The interviewer should “stick to the script” of questions.  To the effect that the interviewee 
+struggles, the interviewer can assist the interviewee to get back on track. 
+ 
+The interviewee should be structured in answering qualitative questions and crunch through any 
+numbers thrown his or her way, always keeping in mind how they tie back to the larger issues. 
+ 
+CASE QUESTIONS 
+ 
+Q: How do you determine what price to charge for Device X?  What are the issues that 
+need to be considered? 
+ 
+A: Three areas should be explored to determine the price: 
+1. Current price and rationale for current price (value-based or cost-based) 
+2. Benefits of new drug vs. old drug in terms of decreased side effects or repeat procedures 
+3. Buyer’s willingness to pay 
+ 
+Additional items that could be considered: 
+• 
+Cost of Device X 
+• 
+Total R&D cost (if not considered sunk) 
+• 
+Any customer acquisition cost 
+• 
+Cost of overhead and sales force 
+ 
+
+
+===== PDF p39 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+35 
+ 
+Q:  What is the “Cost Neutral Point”- the point at which the cost of the new product equals 
+that of the old product- given the following data: 
+• 
+Hospital Cost of an operation = $2500 per patient 
+• 
+Old product cost = $500/unit 
+• 
+Number of units needed per operation = 2 
+• 
+Frequency of repeat procedure (using existing product) = 50% 
+• 
+Frequency of severe complication resulting in open heart surgery = 30% 
+ 
+Is there any more information that you would need to calculate this? 
+ 
+A:  Need more information: 
+• What is the cost of open heart surgery operation?  $15,000 
+• What is the frequency of repeat procedure using Device X?  0% 
+• What is the frequency of severe complication using Device X?  5% 
+• How many units of Device X will be necessary per operation?  2 
+ 
+ 
+To determine how much is the new device is worth: 
+ 
+ 
+Item 
+Old 
+New 
+ 
+Hospital cost 
+$2500 
+$2500 
+ 
+Product cost per operation 
+$500*2=$1000 
+2*X 
+ 
+Subtotal 
+$3500 
+$2500+2X 
+ 
+Repeat procedures 
+50%*$3500=$1750 
+$0 
+ 
+Severe complication 
+30%*$15K=$4500 
+5%*$15K=$750 
+ 
+Total 
+$9750 
+$3250 + 2X 
+ 
+ 
+Value of Device X = ($9750 - $3250) / 2 = $3250 (cost neutral point) 
+ 
+Q:  What might factors might allow Heartcorp to price the new product above cost neutral 
+point)?  What needs to be considered? 
+ 
+A:  
+• Risk / Malpractice Insurance costs,  
+• Value of reduction in pain (to patients),  
+• Higher success ratio (without repeat procedure and/or severe complication),  
+• Cost savings of keeping fewer Device X’s in inventory, etc.   
+ 
+These and other factors might allow us to price Device X above the Cost Neutral Point.   
+ 
+Q:  The company has decided that it wants to sell Device X at a premium above the cost 
+neutral point, but a survey of potential customers (Hospital Purchasing Departments) 
+showed that they are only willing to pay $2000/unit.  Now what would you recommend?   
+ 
+
+
+===== PDF p40 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+36 
+ 
+A:  Is the $2000/unit figure a single data point or an average?  Average across many customers 
+surveyed 
+One of two things: 
+1. Manage Heartcorp’s expectations that they should really expect something close to 
+$2000/unit 
+2. Increase potential customers’ “willingness to pay” 
+ 
+Q: How can we increase “willingness to pay”? 
+ 
+A:  Two thoughts: 
+• 
+Communicate the benefits (both “soft” (e.g., decreased pain or frequency of re-operation) 
+and “hard” (financial)) to the additional stakeholders (i.e., patient advocate groups and 
+insurance payers) in the decision.  Work with them to “pressure” the potential buyers of 
+Device X to spend the additional money to realize the added benefits of the new 
+hardware. 
+• 
+Publish articles about the efficacy of the new device in reputable journals (e.g., JAMA, 
+New England Journal of Medicine, etc.) and use those to convince doctors to pressure 
+hospital administration to increase “willingness to pay” for Device X.  
+ 
+ 

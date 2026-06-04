@@ -1,0 +1,478 @@
+===== PDF p106 =====
+© 2020 NYU Stern MCA 
+Uranus Co.
+102
+Authors: Krithik Tirupapuliyur, Avik Banerjee, Steve Mendoza (Stern ‘21) Firm Style & Round: BCG Round 1
+[Interviewee-Led]
+Quant: 9
+Structure: 7
+Case Overview:
+Industry: Travel/Hospitality
+Case Structure: Market Entry
+Concepts Tested:
+•
+Market Sizing
+•
+Market Penetration
+•
+Capacity
+•
+Breakeven Time
+Overview Information for Interviewer:
+1.
+Provide case specific framework for evaluating launching the travel service
+2.
+Estimate market size of tickets from market research data
+3.
+Assess competitive landscape and customer preferences to project Uranus Co.’s 
+market share
+4.
+Use revenue, cost, and operations data to determine if they can capture projected 
+market share and determine breakeven time
+Case Prompt: 
+Uranus Co., founded in 1969 by Jack Kanof, is an established aerospace company looking to penetrate the 
+luxury space travel market. It is looking for advice on the global launch of its new travel service, which will be a 2-
+week cruise experience on a spaceship orbiting earth. Uranus is trying to determine whether they should enter 
+the market and if they can be profitable. How would you advise Uranus Co.?
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+
+
+===== PDF p107 =====
+© 2020 NYU Stern MCA 
+Uranus Co: Case Guide
+103
+Clarifying Information: 
+Business Model: Uranus works with both 
+governments and other private companies to 
+provide aerospace equipment and assets
+Competitors:
+Space X and MoonShine are Uranus's biggest 
+competitors
+Objective
+Uranus Co. wants to assess whether the space 
+travel market is lucrative and large enough to 
+enter. They also want to breakeven in 2 years
+Timeline:
+ASAP
+Geography:
+Uranus Co. operates globally and is 
+headquartered in Bangkok
+Product/Service:
+Similar to cruise ship experience
+Interviewer Guide:
+Framework could include the following
+•
+Revenues:
+o
+Tickets
+o
+Food, Drinks, Merchandise
+o
+Onboard Activities
+o
+Broadcasting (Live Stream)
+•
+Costs:
+o
+Fixed
+•
+Spaceships
+•
+Marketing
+•
+Insurance
+•
+Launch Pad Permit/Lease
+o
+Variable
+•
+Fuel
+•
+Maintenance
+•
+Food/Drink and Activities
+•
+Wages
+•
+Internal
+•
+IP
+•
+Capabilities (Operational, 
+•
+Financial)
+•
+Brand Image
+•
+Market
+o
+Competition
+o
+Strengths/Weakness
+o
+Market shares
+o
+Customers
+•
+Demographics
+•
+Preferences for features 
+for the trip
+o
+Regulatory
+•
+Product
+•
+Price
+•
+Length of trip
+•
+Safety
+•
+Experiences onboard
+•
+Go-to-Market
+•
+Organic
+•
+Partnership
+•
+M&A
+
+
+===== PDF p108 =====
+© 2020 NYU Stern MCA 
+Uranus Co: Market Sizing
+104
+Question:
+•
+What factors would you consider is estimating the market size for this service? 
+[wait for list of factors]
+•
+Due to the high price of the tickets, we will only be able to sell them to millionaires around the globe. Could you please estimate the total 
+market size of space travel tickets based on what our market research team has put together? (provide Exhibit 1)
+Notes to Interviewer: 
+Factors:
+•
+Global Population
+•
+% that are wealthy (millionaires)
+•
+Meet health and age requirements for space travel
+•
+How many tickets they would buy each year (family Size if they bring families with them)
+•
+Willing to travel to space
+Math:
+8 B x 0.1% x 5/8 = 5 M  are eligible
+[Asthma, age, and live in city are red herrings]
+5 M x 60% = 3 M would want to travel
+[Yes and Maybe is part of market, guide candidate if they ask about this]
+3 M x 2.3 = 6.9 M tickets
+•
+Great candidate notes that survey responses could be skewed (only looking at opinions of American millionaires, they could lie about 
+health)
+
+
+===== PDF p109 =====
+© 2020 NYU Stern MCA 
+Uranus Co: Customers and Competitors
+105
+Question:
+•
+How much of the market do you think Uranus can penetrate? (provide Exhibit 2 and 3)
+Notes to Interviewer: 
+Key Insights:
+•
+Market is fragmented outside of the top two players
+•
+Uranus is industry leading in all metrics except for cost
+•
+Cost is not a major factor and should not detract from Uranus' offering
+A good candidate should be able to provide a market share estimate with reasonable defense. They should notice that Uranus is in a strong 
+position to capture share from the fragmented 20%, while also siphoning market share from its top two competitors due to its superior 
+offering.
+A great candidate should note that market share capture will be gradual, and that Uranus will need some time to prove itself as an 
+established player before capturing share from SpaceX and MoonShine.
+Allow interviewer to choose their own market share estimate before informing them that Uranus believes it can penetrate 20% of the market.
+
+
+===== PDF p110 =====
+© 2020 NYU Stern MCA 
+Uranus Co: Financials and Breakeven
+106
+Question:
+Uranus Co. would like to penetrate at least 20% of the market each year and breakeven within two years. (provide Exhibit 4 & 5)
+•
+Does Uranus Co. have the operational capacity to meet this 20% target?
+•
+If it runs at capacity, will Uranus Co. be able to breakeven within two years?
+Notes to Interviewer: 
+Market Penetration:
+•
+# of trips/ship/month (2) x # of months (12) x # of ships (150) = 
+3,600 trips/year
+•
+# of tickets/trip (400) x 3,600 trips/year = 1.44M tickets/year
+•
+Candidate should recognize that Uranus Co. will have the 
+capacity to satisfy over 20% of the market each year (1.44M 
+/ 6.9M = 20.87%)
+Start-up cost to build each ship:
+•
+$1.5B/ship x 150 ships = $225B (this is an UPFRONT COST)
+Annual fixed costs:
+•
+Fuel: gallons/trip (500k) x # of trips/year (3,600) x price/gallon 
+($5) = $9B
+•
+Maintenance: cost/trip ($100,000) x # of trips/year (3,600) = 
+$360M
+•
+Launch pads: # of launch pads (10) x annual lease ($10M) = 
+$100M
+•
+Other fixed costs: insurance ($450M) + payroll ($40M) + 
+marketing ($50M) = $540M
+•
+Total annual fixed costs: $9B + $360M + $100M + $540M = $10B
+Contribution margin:
+•
+Revenue per customer: ticket price ($400k) + other revenue 
+($100k) = $500k
+•
+Variable cost per customer: $400k
+•
+Contribution margin: $500k - $400k = $100k
+Breakeven calculation
+•
+Start-up cost = [ (contribution margin x tickets/year) - annual fixed 
+costs ] x number of years
+•
+$225B = [ ($100k x 1.44M) - $10B ] x number of years
+•
+Number of years = 1.68
+•
+Candidate should recognize that Uranus Co. will break even 
+in less than two years!
+
+
+===== PDF p111 =====
+© 2020 NYU Stern MCA 
+Uranus Co: Recommendation
+107
+Recommendation:
+•
+The interviewee should recommend 
+that Uranus Co enter the luxury space 
+travel market
+•
+Interviewee should acknowledge that 
+the size of the market along with 
+Uranus' competitive advantages make 
+this a profitable long-term venture
+•
+Other recommendations are fine if 
+they are justified
+Bonus: Guide to an excellent case
+•
+Works through math with minimal guidance
+•
+Stays structured throughout the case
+•
+Recognizes that only a few of the market sizing metrics are relevant and ignores red herrings
+•
+Creates an exhaustive framework
+•
+Enjoys all the puns along the way
+Risks:
+•
+Regulatory risks could change in 
+short notice
+•
+Safety and liability concerns are an 
+important consideration
+•
+Current data has a small sample size 
+and may not be fully representative 
+of greater population
+•
+Setup time and complexity as well as 
+competitor actions during that 
+timeframe
+Next Steps:
+•
+Uranus Co should conduct additional 
+market surveys to better understand 
+the demand for this service
+•
+Uranus should consider hiring pilots, 
+flight attendants, maintenance, and 
+construction personnel to put 
+together a workforce and begin 
+building these ships
+•
+Begin marketing blitz and start taking 
+pre-orders in preparation for maiden 
+voyage
+
+
+===== PDF p112 =====
+© 2020 NYU Stern MCA 
+Exhibit 1: Market Research
+108
+Metric
+Value
+Global Population
+8 Billion
+Millionaires Globally (%)
+0.1%
+Millionaires above the age of 50
+40%
+Millionaires living in major cities
+65%
+Survey of 200 American Millionaires
+Questions
+Responses
+Would you want to travel to space 
+for leisure?
+Yes
+90
+No
+80
+Maybe
+30
+If so, how many tickets would you 
+buy each year?
+Average: 2.3
+Do you suffer from any heart 
+conditions?
+Yes
+75
+No
+125
+Do you suffer from asthma?
+Yes
+50
+No
+150
+*The only requirement for travel is that travelers must not have any 
+heart conditions
+Researched Metrics
+Millionaire Density
+
+
+===== PDF p113 =====
+© 2020 NYU Stern MCA 
+Exhibit 2: Competitive Landscape
+109
+Market Share (# of Tickets)
+SpaceX
+MoonShine
+Rest of Market*
+50%
+*no other company has more than 6% market share
+30%
+20%
+0
+2
+4
+6
+8
+10
+12
+Cost
+Distance
+from
+Earth
+Length of
+Voyage
+Amenities
+Safety
+Strength of Offering
+Comparison of Offerings
+SpaceX
+Moonshine
+Uranus
+*
+*shorter bar indicates higher cost
+
+
+===== PDF p114 =====
+© 2020 NYU Stern MCA 
+Exhibit 3: Customer Surveys
+110
+0
+2
+4
+6
+8
+10
+Cost
+Distance from
+             Earth
+Length of Trip
+Amenities
+Safety
+Customer Insights
+Level of Importance
+“I’m paying a lot of money for this trip. I want the 
+voyage to be longer so I can get relax and get my 
+money’s worth”
+“The higher we are, the better the view. If I’m 
+paying this much, we should be as high as 
+possible to ensure we’re getting a full planet view.”
+“Cost does not matter to me. I’ll pay extra for the 
+best experience.”
+Customer Quotes
+
+
+===== PDF p115 =====
+© 2020 NYU Stern MCA 
+Exhibit 4: Operations Information
+111
+Information Pertaining to Operations
+Amount
+Spaceship capacity
+400
+Number of spaceships in fleet
+150
+Number of trips/month (for each ship)
+2
+Number of launch pads (globally)
+10
+Gallons of fuel per trip
+500,000
+
+
+===== PDF p116 =====
+© 2020 NYU Stern MCA 
+Exhibit 5: Revenue and Cost Data
+112
+Revenue Information
+Amount
+Price of ticket
+$400,000
+Other revenue per customer
+$100,000
+Fixed Cost Information
+Amount
+Cost to build each ship
+$1,500,000,000
+Fuel (price per gallon)
+$5.00
+Maintenance cost per trip
+$100,000
+Annual payroll
+$40,000,000
+Annual launch pad lease (per pad)
+$10,000,000
+Annual insurance cost
+$450,000,000
+Annual marketing expenses
+$50,000,000
+Variable Cost Information
+Amount
+Cost per customer
+$400,000

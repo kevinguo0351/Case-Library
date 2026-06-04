@@ -1,0 +1,235 @@
+===== PDF p138 =====
+41.) MVNO Market Entry (BeG, Round 2) 
+Stem: In 2003, a client asked us to evaluate whether or not they should enter the US wireless 
+market. Our client was an international wireless carrier that successfully operates in Asia and 
+was looking for international growth opportunities. They came to us to understand 1) whether or 
+not they should enter and 2) what key challenges they might face upon entry_ 
+Our client intends to enter the market using an arrangement known as an MVNO (Mobile Virtual 
+Network Operator), in which they will lease network capacity from an existing wireless network 
+operator in the US, referred to as an MNO (mobile network operator) or Host Operator. 
+Phase 1: Big Picture Analysis 
+Behind the Scenes: Give out information as the Candidate asks for it. He or she should ask 
+detailed questions about the market, growth, competition (you can give the entire competition 
+block at one time), and marketing 
+Market: 
+• 
+Forecast for 2004: 180M wireless subscribers in the US with an annual growth rate of 
+10% 
+Competition: 
+• 
+The market can be divided into three main categories: 
+o National carriers 
+o 
+This includes larger network operators, such as Verizon (25% market share), 
+AT&T/Cingular (25%), SprintlNextel (20%) and T-Mobile (15%) 
+o Regional carriers 
+o 
+Includes smaller network operators, such as Alltel and Dobson 
+o 
+Represent 10% of the market in total 
+a Other MVNOs 
+o 
+Includes Virgin Mobile, Tracfone, etc. 
+o 
+Represent 5% of the market in total 
+........ Management 
+1111111111 Consulting 
+~~:~!~,a~ Club 
+2010-2011 1st Year Case Book 
+184 
+
+
+===== PDF p139 =====
+Value Proposition I Target Customers: 
+• 
+Other MVNOs have focused on targeting niche segments, such as low-credit consumers, 
+teens, and ethnic groups, using no-frills prepaid services 
+o Virgin Mobile was able to capture 4M subscribers 
+• 
+Our client intends to leverage its existing assets and experience, specifically next-
+generation handsets from Asia and a platform for mobile applications, to target high-end 
+consumers 
+o These exclusive technologies are several years ahead of the competition 
+o They already have a successful wireless application platform they can replicate in US 
+o Although US wireless data is under-penetrated relative to Europe and Asia, new 3G 
+networks and entertainment services are expected to accelerate adoption 
+• 
+Between 10 and 20% of US subscribers would be willing to pay for a premium mobile 
+handset with wireless data services 
+Phase 2: Profitability and Breakeven Analysis 
+Interviewer: How can we calculate the number of subscribers needed to cover the initial 
+investment and the annual fixed costs? 
+Candidate: First, we would need to determine the contribution margin of each individual 
+subscriber 
+Interviewer: Here are some points that can help simplify this complex problem. First, you don't 
+have to discount the cash flows. Also, you can ignore the $10/nl0nth for data services (with 60% 
+gross margins). Finally, you can assume that you get all subscribers during first year of service 
+due to pent up demand for this business. Now, knowing these facts, what data would you like me 
+to provide in order do this calculation? 
+Behind the scenes: Let the Candidate ask for as many of these as they can think of. After they 
+have exhausted the list, prompt questions that willIet you give the rest. For example, make sure 
+the Candidate asks about margins, fixed costs, investment costs, administrative costs, and 
+customer statistics (such as tenure and minute usage). 
+• 
+Average customer tenure = 4 years (48 months) 
+• 
+Revenue 
+-..iiIiiIIIIr.. 
+Management 
+1111111111 Consulting 
+~~;~I~~.~ Club 
+2010-2011 1
+st Year Case Book 
+185 
+
+
+===== PDF p140 =====
+o Price per minute = $0.06 
+o Average monthly minutes of use (MODs) = 900 
+• 
+Costs 
+o Initial investment = $25m (it will take one full year to develop and integrate new 
+platforms with MNO before launching) 
+o Annual fixed costs after launch = $25m 
+o Per customer costs 
+• 
+Marketing and advertising cost per customer = $100 
+• 
+Sales commission per contract = $50 (for 24 nl0nth contract) 
+• 
+Subsidy per handset = $200 
+• 
+Average handsets purchased / contract period (every 24 months) = 1 (so 2 
+for 48 months) 
+• 
+Cost per minute = $0.04 (based on contract with mobile network 
+operator) 
+Interviewer: Ok, now I think you're ready to make some calculations. We're looking for how 
+many subscribers we need to get us to the breakeven point. 
+Candidate: These don't necessarily have to be done in this order; just as long as they get to the 
+answer. 
+• 
+Customer Lifetime Value = (average monthly revenue - average monthly costs)* tenure-
+acquisition costs 
+• 
+Revenue per month per customer = (0.06 - 0.04) * 900 * 48 = $864 
+• 
+Customer acquisition/maintenance costs = (200 + 50) * 2 + 100 = $600 
+• 
+Lifetime value = $864 - $600 = $264 
+• 
+Subscriber breakeven volume = Total Costs (initial investment + annual fixed costs) / 
+subscriber lifetime value 
+• 
+Total fixed costs = 5 x 25 = $125m (5 comes from 4 years of customer tenure and 1 year 
+of development) 
+• 
+Breakeven volume = $125m / $264 = 473K subscribers 
+Key Insight: The company will need to sell close to 500K subscriptions in order to break even. 
+Given that this is only 1 % - 3% of the premium market (36-18M) and Virgin Mobile was able to 
+achieve ~ lOx that number, this seems reasonable. Bonus point; if you remember the additional 
+data services we ignored ($6/month GM), you need less than half that number. 
+...-... Management 
+1111111111 Consulting 
+~~~~I~,~~ Club 
+2010-2011 1st Year Case Book 
+186 
+
+
+===== PDF p141 =====
+Phase 3: Critical Success Factors / Execution Challenges 
+Behind the scenes: Have a conversation about the potential challenges and other issues the 
+company will face in this endeavor. Ask questions, and let the Candidate brainstorm. A variety 
+of answers are acceptable, but make sure he or she is thinking about this specific market", and not 
+just saying generic things. 
+Interviewer: What kind of branding is necessary for this service? 
+Possible answers: 
+• 
+The company will need to invest heavily in marketing and advertising campaigns to 
+develop a new brand in the US 
+• 
+Need to reward loyal customers and encourage refelTals 
+• 
+Will need to be powerful enough to overcome switching costs of changing carriers, 
+including the loss of free in-network mobile to mobile calling 
+Interviewer: The company has no existing relationships with customers and will likely have to 
+rely on a 3rd party to sell on their behalf. Evaluate some of the trade -offs between different 
+options 
+Possible answers: 
+• 
+Online: While an important, low cost channel, most customers will still want to 
+experience the new handsets and data services in person 
+• 
+Build Your Own: Maximizes brand control and customer experience, but requires 
+significant capital investment, trained sales force, and locations in urban markets 
+• 
+CalTier owned stores: Strong distribution capabilities, geographic footprint, and sales 
+skills, but incentives may not be aligned to promote your devices/services over their own 
+• 
+Big box retailers (e.g., Bestbuy): While they have expertise in selling electronic 
+equipment and data services, it may be challenging to stand out from all of the other 
+electronic devices sold in their channel 
+• 
+Non-traditional (e.g., high-end department stores, jewelry stores ): Although these 
+channels may help differentiate as a luxury good and target premium consumers, they 
+may not have the technical expertise to sell wireless services 
+Interviewer: How do you think the company should go about developing content? 
+Possible answers: 
+• 
+Must understand the entertainment needs / preferences / habits of US consumers, which 
+are likely different than current Asian customers 
+~-~ 
+-~ 
+-
+~ 
+~ 
+~--
+........ Management 
+1111111111 Consulting 
+~~;~I~:.~ Club 
+2010-2011 1st Year Case Book 
+187 
+
+
+===== PDF p142 =====
+• 
+Need to develop digital content for data services that is appropriate for US: 
+o 
+Localizing existing content (e.g., translate into English) 
+o Licensing existing/new content from external developers 
+o Developing new content in-house 
+Interviewer: Are there any other issues you think need to be looked at? 
+Possible answers: 
+• 
+Customer service / billing 
+• 
+Handset logistics / maintenance 
+• 
+Extra charges for roaming, directory assistance 
+• 
+Regulatory environment must remain friendly 
+Interviewer: What do you think are some issues to consider when partnering with an MVNO? 
+Possible answers: 
+• 
+Requires the ability to differentiate MYNO services from the network owner to avoid 
+cannibalization 
+• 
+Must target customer segments where network operator is less profitable (either through 
+lower acquisition costs, longer tenure, or higher margin / nl0nth) 
+• 
+MYNO arrangement avoids capital requirements for spectrum and network rollout, but 
+requires excess capacity of partner's network 
+• 
+Host network operator must be willing to accept some loss of customer control and offer 
+competitive rate in exchange for improved network utilization 
+• 
+Must also be willing to ensure network quality and customer support 
+Recommendations 
+Behind the scenes: This looks like an attractive market, and the potential for profit is high. The 
+recommendation should also include some of the biggest issues/challenges to come out of the 
+brainstorming phase, but overall, this seems like a good investment. 
+....... Management 
+1111111111 Consulting 
+~~'!?!~,~~ Club 
+2010-2011 1st Year Case Book 
+188 

@@ -1,0 +1,209 @@
+===== PDF p142 =====
+138
+Vindaloo Corporation
+Case tracker
+▪Industry: Consumer products
+▪Case format: Developing a new product
+▪Concepts being tested:
+- Basic NPV
+- Marketing Strategy
+- Operations
+Case Question
+▪Our client, Vindaloo Corporation, is a small biotechnology company that has developed a new seed for sugar beets, which
+produces twice as much sugar as the seeds that are currently in use. Currently 100 beets produce 100 lbs of sugar or
+1lb/beet while the new seeds will produce 200 lbs of sugar, or 2 lbs/beet.
+▪Vindaloo now wants to sell the company, how would you think about pricing Vindaloo?
+Guide to interviewer
+▪This is a valuation case and, as such, has a lot of number
+crunching. To calculate the NPV, the interviewee will have
+to size its impact up and down the value chain and
+determine its value using assumptions about market
+penetration and growth rates.
+▪There are also several important qualitative insights for
+the candidate to make, the main one of which is that the
+new technology will halve the land rather than doubling
+production, which would cause an immediate worldwide
+sugar glut and rapidly falling prices.
+By: Ben Walter (Kellogg Class of ‘03), Edited By: Ameed Mallick (Kellogg Class of ‘12)
+Quant: 8
+Structure: 4 
+Industry: CPG
+Framework: New Product/ 
+Market Entry
+
+
+===== PDF p143 =====
+139
+Clarifying answers and case guide 
+Interviewer Guide to Case
+A sample case structure would include the following:
+1)
+Start with an understanding of the sugar
+industry and market economics
+2)
+Analyze the product benefits and potential
+impacts for farmers
+3)
+Identify the channel structure and assess the
+opportunities to minimize costs within the value
+chain
+4)
+Calculate NPV of cost savings to value the
+company
+Clarifying answers to provide if Asked
+Industry Characteristics/Market Economics
+- The market has grown at GDP over the past few years and is predicted
+to grow at 2% annually.
+- Sugar is a mature commodity, in other words, there is enough supply
+to meet demand. The wholesale market is $2 billion worldwide per
+year.
+- Farmland that is not used for sugar can be repurposed to grow
+cabbage, which is currently 1/5 as profitable as sugar.
+Competitive Dynamics
+- We can assume a 100% market penetration, since there are no
+competing products, and the efficacy of the product is proven.
+- There is no imminent threat of competition and a patent would
+protect the investment for a number of years.
+
+
+===== PDF p144 =====
+140
+Calculations
+Math solution 1 – 10%
+• Solution - Farming
+• The product allows farmers to grow the same amount of sugar on half of the land. So we can assume that farmers
+will keep half of their land for sugar and repurpose the rest of the land for growing cabbage. Previously, one acre of
+land produced “X” profits of sugar - now half an acre can produce profits of “X” while the other half produces 
+profits of “.1X” of profits from cabbage. Recall that cabbage is a fifth (20%) as profitable as sugar currently –
+accounting for the 2x yield from the new sugar beets, cabbage would only be 10% as profitable as the “new” 
+sugar. Since profits per acre go from X to 1.1X, there is a 10% increase in profits from farming.
+• Common mistakes:
+• Candidates who think that farmers will just use the same amount of land and produce twice as much sugar have
+not thought the question through. Sugar is a mature commodity and if everyone produced twice as much sugar,
+there would be far more supply than demand, causing global prices to crash. Additionally, some candidates will try
+to calculate the costs savings of the entire value chain here (make sure to remind them in the debrief to answer
+the question that is asked.)
+Math question 1 – Cost Savings from Farming
+▪What are the cost savings/increase in profits from farming with the new seeds?
+▪If interviewee has not already asked about what else farmers can do with the land, point out that since the market
+is saturated, there is no need for additional corn, farmers will instead use the land to grow cabbage.
+▪Remind interviewee that cabbage is 1/5 as profitable as sugar.
+
+
+===== PDF p145 =====
+141
+Calculations (cont.)
+Math solution 2
+• Solution - Trucking
+• Variable trucking costs, which represent 95% of the total cost structure, will decrease by 50%, leading to an overall
+costs savings of 95% x 50% = 47.5%.
+• Solution - Refining
+• Refining costs have two components. Initially the costs will drop by 50% because only half as many sugar beets
+need to be refined. However, the variable cost/beat increases by 25% for the new sugar beets. In step the costs go
+from “X” to “.5X” to “.625X”, an overall cost savings of 37.5%.
+• Solution – Distribution
+• There are no cost savings in distribution.
+Math question 2 – Value Chain
+▪What do you think the value chain process looks like for Vindaloo?
+▪Hand interviewee Exhibit 1 and have them walk through their initial thoughts.
+▪What are the cost savings from Trucking, Refining, and Distribution using the new seeds?
+
+
+===== PDF p146 =====
+142
+Exhibit 1: Vindaloo Value Chain
+Vindaloo Value Chain Processes
+40%
+10%
+30%
+Percent of total cost
+Fixed
+5%
+Variable*
+95%
+Variable
+100%
+Variable cost is directly
+related to weight
+Cost changes with
+new seeds
+25% additional
+cost/beet with new
+seeds
+10% increase with
+new seeds
+20%
+No change
+Farming
+Trucking
+Refining
+Distribution
+
+
+===== PDF p147 =====
+143
+Calculations (cont.)
+Math solution 3 – 20%
+Math question 3 – Total cost savings
+▪What are the total cost savings in the value chain?
+Step
+A – Cost Portion
+B – Cost Savings
+Weighted Cost
+Savings (A x B)
+Farming
+40%
+10%
+4%
+Trucking
+10%
+47.5%
+4.75%
+Refining
+30%
+37.5%
+11.25%
+Distribution
+20%
+0%
+0%
+Total
+100%
+20%
+
+
+===== PDF p148 =====
+144
+Calculations (cont.)
+Math solution - $4 Billion
+• Solution – Net present value of cost savings
+• Our client’s  product will save 20% a year in sugar costs - multiplied by the $2 billion market size, that cost savings comes
+out to $400 million per year.
+• Therefore the company can be valued at:
+• Value = $400M / (12% - 2%)
+= $4 Billion
+Math question - NPV
+▪How would you price Vindaloo to potential buyers?
+▪Remind the interviewee that the market size is $2 billion; the growth rate is 2%; assume a 12% discount rate
+▪If the interviewee cannot recall the perpetuity formula, provide it for them
+▪Value = annual cash savings / (discount rate – growth rate)
+
+
+===== PDF p149 =====
+145
+Solution and recommendations
+Solution & Recommendations
+▪This product will only allow our client’s clients (sugar growers) to produce sugar more efficiently. It won’t cause the 
+sugar to taste any better or cause consumers to demand more of it. Therefore the product cannot be expected to
+grow revenue, but it will reduce costs. The value of Vindaloo Corporation is directly related to cost savings.
+▪After running the NPV analysis, Vindaloo Corporation should be valued at $4B.
+▪The interviewee should also identify a number of risks and potential benefits along the way (i.e. adoption rates
+given the required change to farmland and likely capex for equipment, competitive response, other uses for sugar in
+adjacent or completely separate markets, other uses for newly acquired farmland, potential buyers, government
+intervention, etc.) before making their final recommendation.
+Bonus/Guide to an Excellent Case
+▪This is a quantitatively heavy case. A excellent interviewee can quickly identify the important drivers of cost and can
+crunch the numbers easily and with little error. Additionally, they will organize the data in a tabular form for ease of
+calculation and presentation.
+▪Additionally, an good interviewee will synthesize each relevant cost savings, the final valuation, and next steps/risks
+as part of their final presentation.

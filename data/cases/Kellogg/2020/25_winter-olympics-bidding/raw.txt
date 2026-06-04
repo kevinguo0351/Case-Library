@@ -1,0 +1,187 @@
+===== PDF p267 =====
+263
+Case author(s): Chris Dupre (Kellogg 2003)
+Edited By: Uri Kalir (Kellogg 2012), Rohan Maini (Kellogg 2020)
+Case 25
+Winter Olympics Bidding
+Primary sector(s)
+• X05 Entertainment & Media
+Concepts tested
+• Z02 Net Present Value (2) 
+• Z12 Creativity (3)
+Similar cases
+• World View             
+(Harvard 2015)
+• Mobilizing Your World 
+(Fuqua 2015)
+• Footloose                   (LBS 
+2012)
+Case type
+• Y06 Opportunity assessment
+
+
+===== PDF p268 =====
+264
+Winter Olympics Bidding
+Interviewer guide
+Case prompt
+• Our client, a major US television network, is trying to figure out how much to bid for the exclusive right to broadcast the Winter 
+Olympics Games in four years time
+• The Winter Olympics are a huge deal and will require a significant amount of capital to secure the rights, so our client has brought 
+us in to help them figure out the right bid amount after considering all relevant factors.
+Interviewer guide
+• This is a very quantitative case that requires the interviewee to run the numbers on an Olympics bid. The candidate will have to
+decide potential ad revenue/cost information, as well as the NPV, to determine bid size.
+• The candidate will need to ask for additional information to solve the problem, rather than relying on the interviewer to dispense it. 
+After getting the initial calculations right, there are a lot of implications that may change the level of the bid.
+• Especially for less finance-minded interviewees, you may have to help nudge candidates through the math.
+1. Develop a structure to address the problem
+2. Calculate NPV
+3. Brainstorm intangible benefits and risks
+4. Provide client recommendation
+
+
+===== PDF p269 =====
+265
+Winter Olympics Bidding
+Case prompt
+• Our client, a major US television network, is trying to figure out how much to bid for the exclusive right to broadcast the Winter 
+Olympics Games in four years time
+• The Winter Olympics are a huge deal and will require a significant amount of capital to secure the rights, so our client has brought 
+us in to help them figure out the right bid amount after considering all relevant factors.
+Clarifying information
+Revenues
+• No subscription revenue, but can keep 100% of advertising revenue
+• Ad rates are $400k per 30 second ad for prime time (weekends, weekdays 1900 - 2300) and $200k non-prime time
+• Market research has shown that you can include no more than 10 minutes of advertising per hour.
+Costs
+• $482m of total production costs
+• Opportunity cost: $1m/hour
+• Time value of money: 4 year lag for receipt of revenue
+Fit: Why do you want to join our consultancy in particular?
+
+
+===== PDF p270 =====
+266
+Winter Olympics Bidding
+Exhibit A – Winter Olympics Schedule
+Day 1
+Opening Ceremony
+Day 2 – 15
+Main events
+Day 16
+Closing Ceremony
+Friday
+Weekday
+Weekend
+Saturday
+0800 – 0900
+0900 – 1000
+Biathlon
+1000 – 1100
+Bobsleigh
+1100 – 1200
+Skating / Skiing
+Biathlon
+1200 – 1300
+Skiing
+1300 – 1400
+Skating
+1400 – 1500
+Curling
+Bobsleigh
+1500 – 1600
+Ice Hockey
+Skating
+1600 – 1700
+Luge
+Skiing
+1700 – 1800
+Ice Hockey
+1800 – 1900
+Skiing
+1900 – 2000
+Skating
+Luge
+2000 – 2100
+Opening commentary
+Luge
+Skiing
+Closing commentary
+2100 – 2200
+Opening ceremony
+Skiing
+Closing speeches
+2200 – 2300
+Opening speeches
+Luge
+Closing ceremony
+
+
+===== PDF p271 =====
+267
+Winter Olympics Bidding
+Part 1
+1. Develop a structure to address the problem
+• Candidate should determine that this is a cost-benefit / NPV analysis.
+• Candidate should identify potential revenue streams from hosting the Olympics, i.e. ad revenue, product placements, etc.
+• Then, the candidate will have to figure out if this is a good investment. They should identify 3 costs (production costs, opportunity 
+costs, and time value of money). By factoring in these costs, the candidate will find out if the Olympics are worth the investment.
+• Some of the numbers and assumptions here are difficult, so nudge the candidate along if necessary.
+Provide Exhibit A if the interviewee asks for TV schedules or identifies ad revenues in their structure
+
+
+===== PDF p272 =====
+268
+Winter Olympics Bidding
+Part 2
+2. Calculate NPV
+• Total revenues should be equal to $928M for the project. 
+• Primetime: Weekdays (M-F): 10 weekdays x 4 hrs/day x 10 min/hr x 2 slots/min  x $400,000/ad = $320M
+• Non-prime: Weekdays (M-F): 10 weekdays x 6 hrs/day x 10 min/hr x 2 slots/min  x $200K/ad = $240M
+• Weekend: 4 days x 10 hrs/day x 10 min/hr x 2 slots/min x 400K/ad = $320M
+• Opening/Closing: 2 days x 3 hrs/day x 10 min/hr x 2 slots/min x 400K/ad=$48M
+• Total profit should be equal to $300M.
+• Profit: Revenues $928m - $482m of total costs - $146m of opportunity cost (2 days x 3 hours  x  $1m/hr + 14 days x 10 hours 
+x $1m/hr) = $300m
+• NPV should be equal to $200m.
+• Discount rate: 1.104 = 1.4641 (ask candidate to round to 1.50)
+• $300m/1.5 = $200m
+Revenues
+• $400k/ad for prime time (M-F 7-11 PM, all 
+weekend) and $200k/ad for non-prime time
+• 10 minutes/hour of advertisements
+Costs
+• $482M of production costs
+• Opportunity: $1m/hr
+• WACC: 10%
+
+
+===== PDF p273 =====
+269
+Winter Olympics Bidding
+Part 3
+3. Brainstorm intangible benefits and risks
+• Might give network access to new viewers
+• There is prestige associated with hosting this event
+• We can use the air time to promote other programming
+• Opportunities for product tie-ins, supplemental revenue
+• After finishing the discussion, ask the candidate for a recommendation
+
+
+===== PDF p274 =====
+270
+Winter Olympics Bidding
+Part 4
+4. Provide client recommendation
+• While the NPV of the project is $200m, the fact that there are other intangibles (new viewers, plugging our programs, and prestige) 
+the bid should just be $200m. 
+• While there is no one correct answer, most answers should be in the range of $200m. If there is significant fluctuation from $200m, 
+the candidate will have to provide in-depth justifications and make a concrete argument.
+• This case tests the interviewee’s comfort with numbers and understanding of how intangible factors may influence financial value. 
+The bid process requires another level of understanding around game theory and what dynamics will ultimately determine the value
+of the bid beyond NPV.
+• Ultimately, the best interviewees will make a very strong argument using the facts provided and support their bid and explain why 
+they moved their bid from the NPV figure.
+• There is also a lot of room for creativity for the interviewee to discuss other factors, including supplemental streams of revenue, 
+intangible factors, and things to consider during the bid process. 

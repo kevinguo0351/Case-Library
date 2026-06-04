@@ -1,0 +1,135 @@
+===== PDF p75 =====
+8 / Car Leasing
+Our client is a large car manufacturer that has been facing financial stress for the past few years. To overcome this crisis, they bought
+a small bank and started offering a lease at a lower rate than the other car manufacturers. This move has positioned our client
+strategically in the market and has helped them regain market share. However, the problem they are facing now is that the costumers
+are complaining of poor customer service in the banking division. The client reached us to help them improve their banking division
+customer service. In particular, they want to create a call center to provide support to all lease customers, but they don’t know how big
+this call center should be. How many employees do they need to hire for this call center?
+Overview for Interviewer
+Industry: Labor planning
+Case Format: Interviewee Led
+Concepts Tested:
+• Sizing
+• Calculations
+Notes
+• The goal of this case is to calculate how many employees the call center
+must have. To do so, the candidate will have to calculate:
+• # of cars sold in the US
+• the client’s market share
+• The % of customers who sign lease
+• Average length of lease
+• Service demanded of and provided by call center
+• First ask for a general framework to attach the problem then go into
+calculations
+
+
+===== PDF p76 =====
+Calculation part 1
+Information to Share if Asked
+• Company: the bank offers the lease only for cars from its parent 
+company. 
+• Call center: the call center is focused only on clients that have 
+already signed the lease contract. It does not attend to 
+prospective customers. 
+• Drive the candidate to calculate the number of cars the client 
+sells per year and how many customers uses the lease. The other 
+points of his/her framework will be touched upon later. 
+• Population in USA: 300 Million
+• Age range that buys new cars: from 20 to 60 years 
+• The life expectancy in US is 80 years and the population is 
+uniformly distributed among all ages. 
+• With the current crisis, only 50% of the population is willing to 
+buy new cars. The remainder prefers to buy used cars 
+• Average lifetime of a car: 5 years 
+• The client has 10% of Market Share 
+• 40% of the clients customers uses the lease to acquire the car. 
+•
+Length of the lease: 3 years. 
+Calculation
+Calculation: Number of cars sold in US: (Population x People in the 
+Age Range x People that buy new cars) / Lifetime of a car 
+Number of cars sold in US = (300 M x 50% x 50%) / 5 = 15 M cars per 
+year Client’s Market Share: 10%
+Cars sold by the client = 15 M x 10% = 1.5 M cars per year 
+Customers who sign  lease = 1.5 M x 40% = 0.6 M customers per year
+
+
+===== PDF p77 =====
+Calculation part 2
+Information to Share if Asked
+Calculation
+•
+Calls per year = Customers per Year x Length of the Contract = 0.6 M x 
+3 = 1.8 M calls 
+•
+Calls per day = 1.8 M calls / 360 days/year = 5,000 calls/day 
+•
+Demand per day (in minutes) = 5,000 calls x 5 minutes = 25,000 
+minutes 
+•
+# of employees to answer all calls on a day = demand per day / minutes 
+worked per day per employee = (25,000 / (6 hours * 60 min/hr)) ≈ 70 
+employees (exactly 69.44 employees) 
+•
+Remember that the employees work only 6 days per week, but the call 
+center is open for 7 days and that adjusting the number of employees: 70 
++ 70 x 1/6 ≈ 82 employees 
+•
+Since the employees can work only for 6 days per week, the client will 
+need to hire an additional 1/6 to compensate the day-offs
+•
+The client expects that the customers will call 
+the call center only once a year until the end of 
+the lease contract
+•
+The candidate can assume that all calls will be 
+uniformly distributed throughout the year and 
+during the day (there will be no peak of calls) 
+•
+Union contract states that employees can only 
+work 6 hours per day, 6 days per week 
+•
+The call center will receive calls only from 8am 
+to 8pm, Monday to Sunday
+•
+On average, each call will be 5 minutes long 
+•
+Days in a year = 360 days 
+•
+Holidays can be ignored 
+
+
+===== PDF p78 =====
+Brainstorming Question
+1 / Analysis 
+Notes to Interviewer
+This is a regular brainstorming question. To reduce the number of employees, the client will have to reduce the number of
+calls they receive and/or decrease the average length of each call. Some ideas:
+Reducing the number of calls:
+• Develop a customer website that easily provides information directly
+• Map the most common questions and provide a FAQ on the customer’s website
+• Offer another communication channel (e.g. chat)
+Reducing the length of the calls:
+• Invest in technology such as voice recognition to faster identify the customer’s problem before he/she is directed to an
+operator
+• Train the employees to faster solve the customer’s problem
+Push the candidate beyond their comfort zone to come up with another novel idea, even if they have already been thorough.
+The client does not have enough money in their budget to hire all the 82 employees. What would you suggest to reduce the
+number of employees?
+
+
+===== PDF p79 =====
+Framework Example
+Candidate should start by providing a framework to analyze the town…
+Call Center 
+Reps
+• Efficiency (e.g. call/hr)
+• Utilization
+• Average hours worked
+• Hours of operations
+Car Leases
+• Client share of car market
+• Fraction that lease vs buy
+• Length of lease
+• Type and frequency of call

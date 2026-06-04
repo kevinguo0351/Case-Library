@@ -1,0 +1,469 @@
+===== PDF p236 =====
+Peaceful Energy
+232
+Industry: Energy
+Quantitative Level: Difficult
+Qualitative Level:   Difficult
+
+
+===== PDF p237 =====
+Behavioral Questions
+233
+• Tell me about a time you were thrown into an unfamiliar situation and had to learn 
+quickly.
+Question 1:
+• Tell me about a time you burned a bridge
+Question 2:
+
+
+===== PDF p238 =====
+Peaceful Energy
+234
+• In July,2011, the German government vowed to shut down all its nuclear capacity 
+within 10 years. Besides that, the government’s goal is to replace it with renewable 
+energy, cut greenhouse-gas (GHG) emissions by 40% by 2020 and 80% by 2050, 
+ensure renewables contribute 80% of Germany's energy by 2050, and ensure energy 
+consumption drops by 20% by 2020 and by 50% by 2050 (statistics from The 
+Guardian). Bremen is a city in northwestern Germany. Its population as of 2016 is 
+640,000 people. Bremen is a major cultural and economic hub in the northern region 
+of Germany. As a result, the city is home to a large number of multinational 
+companies and manufacturing centers. Bremen was included in the federal anti-
+nuclear program. The mayor of Bremen needs a new energy strategy. You are hired 
+to help him.
+Prompt #1:
+• The first question comes out from the story on the previous slide. Candidate should 
+build a basic framework around key areas of   Bremen energy policy. Don’t go too 
+deep into details because next two questions will cover energy deficit and plant 
+replacement. A sample framework is on the next page. 
+Interviewer Guidance:
+
+
+===== PDF p239 =====
+Interviewer guidance on Framework 
+(optional)
+235
+Demand
+• What is daily/ 
+annual energy 
+consumption?
+• What is the 
+structure of 
+energy 
+consumption 
+(main energy 
+consumers by 
+sector)? 
+• Are there any 
+changes 
+forecasted in 
+energy 
+consumption?
+• Who are the 
+most crucial 
+consumers? 
+(hospitals and 
+etc.)
+Supply
+• How big is 
+nuclear energy 
+supply?
+• Are there any 
+other energy 
+facilities in the 
+region?
+• Is there any 
+opportunity to  
+boost current 
+energy 
+production 
+(other 
+sources)?
+• Can we 
+borrow energy 
+from other 
+regions?
+• What 
+renewables we 
+can use?
+Legal/other 
+issues
+• Who will deal 
+with nuclear 
+power plant 
+owners?
+• Can we help 
+them find new 
+investment 
+opportunities in 
+the region or 
+provide 
+necessary 
+compensation?
+• Should we 
+provide 
+additional 
+subsidies for 
+new energy 
+projects in the 
+region?
+Financing
+• Who will 
+finance plant 
+shutdown and 
+energy 
+restructuring?
+• Should we 
+attract private 
+investors?
+• Can we rely on 
+international 
+development 
+or federal 
+funds?
+• Are there any 
+tax credits for 
+renewable 
+energy 
+production?
+• Should we 
+expect positive 
+NPV?
+Old nuclear 
+plant
+• What are 
+we going to 
+do with 
+nuclear 
+wastes?
+• How much 
+does the 
+shutdown 
+cost?
+• How can 
+we use 
+power 
+plant’s 
+facilities 
+after 
+shutdown?
+• What 
+should we 
+do with 
+former 
+plant 
+employees
+?
+
+
+===== PDF p240 =====
+Peaceful Energy
+236
+Mayor wants you to define potential shortage in energy supply after nuclear power 
+plant shutdown. 
+Prompt #2:
+• Hand over Exhibit 1
+Interviewer Guidance:
+
+
+===== PDF p241 =====
+Exhibit #1
+237
+25%
+20%
+25%
+20%
+25%
+20%
+25%
+20%
+50%
+40%
+25%
+20%
+0%
+20%
+25%
+40%
+Nord District, 292
+Sud District, 547.5
+West District, 584
+0
+100
+200
+300
+400
+500
+600
+700
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Nord District
+Sud District
+West District
+Ost District
+Annual Bremen energy consumption by district
+Production
+Business
+Households
+Social
+Total Consumption (000 of MWh)
+Data lost
+160,000 
+240,000 
+160,000 
+80,000 
+Bremen population by district
+Average household consumption in Germany 9.95 kWh per day
+1 MWh = 1,000 kWh
+Energy losses for every 1 mile of the transmission: 0.05%
+Solar farm 
+(existing facility)
+Total production per year: 300,000 
+MWh
+Location: 20 miles NW
+Natural gas power plant 
+(existing facility)
+Total production per year: 800,000 
+MWh
+Location: 20 miles SE
+Nuclear power plant 
+(existing facility)
+Total production per year: 900,000 
+MWh
+Location: 80 miles N
+237
+OST District
+West District
+Sud District
+Nord District
+
+
+===== PDF p242 =====
+Interviewer guidance on Exhibit 1(1 of 2)
+238
+Energy Supply
+First, the interviewee should realize that this question is about matching demand and supply in Bremen. Without a nuclear 
+power plant, Bremen will not be able to sustain its current consumption. Supply can be estimated in MWh (per 1 year): 
+* Assumption for the average energy losses per 1 mile of transmission: 0.05%.
+1.Solar farms:
+Energy losses*: 0.05%/mile * 20 miles = 1.00%
+Energy delivered: 300,000 MWh * (100% - 1%) = 297,000 MWh
+2. Natural gas power plant:
+Energy losses: 0.05%/mile * 20 miles = 1.00%
+Energy delivered: 800,000 MWh * (100% - 1.00%) = 792,000 MWh
+3. Nuclear power plant:
+Energy losses: 0.05%/mile * 80 miles = 4.00%
+Energy delivered: 900,000 MWh * (100% - 4.00 %) = 864,000 MWh
+Total supply: 1,953,000 MWh
+Energy Demand
+Second, candidate should calculate demand using households’ consumption. The assumption for the average size of 
+household: 4 people per household. To ease the calculations interviewee is allowed to round household consumption to 10 
+kWh
+Help candidate to come up with the idea that energy use is calculated annually, and he/she needs to multiply this 
+number by 365 days.
+Total household consumption = N of households * 10 kWh * 365 days
+Dictrict
+Population
+N of households
+Total household 
+consumption (kWh)
+Ost
+80,000 
+20,000 
+73,000,000 
+West
+160,000 
+40,000 
+146,000,000 
+Sud
+240,000 
+60,000 
+219,000,000 
+Nord
+160,000 
+40,000 
+146,000,000 
+
+
+===== PDF p243 =====
+Interviewer guidance on Exhibit 1(2 of 2)
+239
+Defining consumption of other consumers in Ost District:
+Households consumption: 73,000MWh -> 20% of Total
+Business ( 20%): 73,000MWh / 20% * 20% = 73,000MWh
+Production (20%): 73,000MWh / 20% * 20% = 73,000MWh 
+Social (40%): 73,000MWh / 20% * 40% = 146,000 MWh
+Total for Ost District: 73,000MWh + 73,000MWh + 73,000MWh + 146,000 MWh  = 365,000 MWh
+Dictrict
+Production
+Business
+Households
+Social
+Total
+Ost
+73,000.00 
+73,000.00 
+73,000.00 
+146,000.00 
+365,000.00 
+West
+146,000.00 
+146,000.00 
+146,000.00 
+146,000.00 
+584,000.00 
+Sud
+109,500.00 
+109,500.00 
+219,000.00 
+109,500.00 
+547,500.00 
+Nord
+73,000.00 
+73,000.00 
+146,000.00 
+-
+292,000.00 
+Total for the city
+1,788,500.00 
+Third, projected energy undersupply equals: 1,953,000 MWh – 864,000,000 MWh - 1,788,500 MWh =  - 699,500 MWh ~ -
+700,000 MWh  
+
+
+===== PDF p244 =====
+Peaceful Energy
+240
+To secure 700,000 mWh* energy supply per year for Bremen, the local project team 
+has identified several options. Mayor asked you to review them, define total energy 
+units needed (for each source of energy), and recommend the most viable project. All 
+facilities will be operated free of charge by Federal Energy Agency. The local budget 
+will pay only initial investments. Energy transmission losses can be neglected.
+Prompt #3:
+• Hand over Exhibit 2
+Interviewer Guidance:
+
+
+===== PDF p245 =====
+Exhibit #2
+241
+CAPEX per unit, $M
+Capacity factor
+Capacity per 
+unit**,mW
+Number of units
+Solar plant
+Wind farm 
+onshore
+Wind farm 
+offshore
+Gas power 
+plant
+Useful service, years
+25%
+50%
+25%
+50%
+?
+?
+?
+1
+8
+8
+200
+0.4
+0.5
+20
+8
+320
+15
+15
+15
+15
+Project
+*Number of hours per year = 8760
+** Nameplate capacity (potential)
+The capacity factor of a power plant is the ratio of its actual output over a 
+period of time, to its potential output if it were possible for it to operate at full 
+nameplate capacity continuously over the same period of time [Wikipedia]
+
+
+===== PDF p246 =====
+Interviewer guidance on Exhibit 2
+242
+The solution of this part relies mainly on CAPEX calculation for each of the projects. Projects timeline and revenues will be
+the same for all types of energy facilities. Federal Energy Agency will take care of operational expenses and maintenance, 
+so there is no need for complete NPV calculation
+First, interviewee needs to define net capacity that can provide 700,000 mWh per year to Bremen: 700,000/8,760 ~ 80 mWh
+(actual output)
+Second, interviewee should estimate number of energy generation units for each of the projects:
+Solar farm
+Actual output of one 
+PV solar panel equals: 
+0.4*25%=0.1mW
+One panel produces 
+0.1*8,760 =876 mWh 
+per year
+You need 
+700,000/876=800 
+panels to reach the 
+target
+CAPEX=800*0.5=$400
+M
+Wind farm offshore
+Actual output of one 
+offshore turbine equals: 
+8*50%=4 mW
+One turbine produces 
+4*8,760= 35,040 mWh 
+per year
+You need 
+700,000/35,040~20 
+turbines to reach the 
+target
+CAPEX=20*20=$400M
+Wind farm onshore
+Actual output of one 
+onshore turbine equals: 
+8*25%=2 mW
+One turbine produces 
+2*8,760= 17,520 mWh 
+per year
+You need 
+700,000/17,520~40 
+turbine to reach the 
+target
+CAPEX=8*40=$320M  
+Gas power plant
+Actual output of plant 
+equals: 200*50%=100 
+mW
+Plant produces 
+100*8,760= 876,000 
+mWh per year
+CAPEX=1*320=$320M
+However, candidate 
+should remember that 
+gas plant emits CO2 
+(see slide 1)   
+Best option
+
+
+===== PDF p247 =====
+Peaceful Energy
+243
+• The Mayor wants to have a quick meeting with you to determine the way forward. 
+What is your story for the presentation going to be?
+Recommendation 
+• Onshore windfarm is the best option considering lower CAPEX of 320 M and its 
+ability to meet the dual objective of meeting closing the gap between demand and 
+supply while eliminating CO2 emissions. 
+• Interviewee should be able to quantify the findings from the previous prompts, while 
+also enumerating risks with onshore wind-farming and the opportunity cost of 
+forgoing the other sources of energy.
+• Interviewee should be able to lay out a very high level implementation plan
+Interviewer Guidance:

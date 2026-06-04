@@ -1,0 +1,147 @@
+===== PDF p246 =====
+Case #23 Surfboard Wax
+(provided by Accenture)
+Industry: Products
+Quantitative Level:
+Qualitative Level:
+241
+
+
+===== PDF p247 =====
+Accenture: Surfboard Wax 
+243
+Your client, Big Island surfboards is a surfboard manufacturer based in Hawaii. The CEO wants to expand the company’s product 
+line and revenues and is thinking of entering the market for surfboard wax. It hired you to calculate the market size for wax, and 
+your firm determined that the market size for surfboard wax is about $6m a year with about 3 million bars sold annually. Your firm 
+also found that the market was fairly competitive with three large global players all based outside of Hawaii controlling about 70% 
+of the market smaller niche companies including a few based in Hawaii accounting for the remaining 30%.
+The client was impressed with our work and believes that its unique brand and connection to Hawaii will it enable it to succeed in 
+capturing a piece of the pie. It wants to move forward with entering the market and has now asked us to determine how they 
+should enter the market for surfboard wax. How would you think about this problem?
+Prompt #1:
+The candidate should recognize that this is a market entry case and confirm this with the interviewer. If the candidate asks what surfboard 
+wax is, you can tell them that the wax comes in a bar form (similar to soap) and is used to coat the top of the surfboard in order to provide 
+surfers with a surface that their feet can grip.
+The Framework:
+A strong candidate’s framework should list several options for entering the market: 1) building the capability to manufacture the wax by itself, 
+2) acquiring another company that manufacturers wax, 3) partnering with another company in a joint venture, 4) contracting out production 
+and then reselling or 5) licensing its brand to another company. The candidate will then link these options to a profitability tree to estimate 
+whether the company can earn a return on its investment.
+The candidate’s profitability tree should have:
+1)Price: Candidate should show that the average price obtained by calculating $6 million/3 million bars sold = $2; or some number around this that is 
+justified. The candidate can also make the case that by leveraging our client’s name in surfboards, we can command a higher price ($3 because it is 
+brand name and can command a premium, etc.)
+Interviewer Guidance:
+
+
+===== PDF p248 =====
+Accenture: Surfboard Wax 
+244
+2) Quantity: A savvy candidate will recognize that quantity will hinge upon the strategy pursued. If the candidate discusses organic growth
+within the framework, the candidate should recognize that this is likely a competitive market and estimate a reasonable market share that 
+company can obtain. Reasonable estimates range from 5%-15% which translates into 150,000 to 450,000 bars sold. (Note: calculations do 
+not need to be in the framework; this is guidance to measure how a candidate might think about this.)
+3) Variable costs: Candidate should list out some of the components of variable cost such as materials (wax, scent, etc.) (Note: Candidate is 
+not expected to know materials in wax but a strong candidate will list a few to demonstrate that he/she is thinking about how to calculate 
+costs), packaging and shipping costs. In the case of a contract arrangement, it is assumed that variable costs are absorbed by the contractor 
+who will then charge the company a price per unit. 
+4) Fixed costs: Candidate should some costs such as rent, labor, SG&A, and marketing costs in order to generate sales. (Note: the 
+candidate should not list “costs” related to any of the options such as acquiring PPE or another company as these are fixed assets rather 
+than fixed costs.)
+After the candidate has reviewed their framework with you, ask them to discuss qualitatively the potential up and downside of each of the 
+options. If the candidate is missing more than two of these options, push the candidate to think about additional market entry strategies 
+before you begin this discussion. It is critical that they identify at the very least, acquiring another company and contracting out production. If 
+they are unable to come up with both of these scenarios, you can offer it to them as a suggestion.
+A strong candidate will be able to succinctly articulate the costs and potential rewards associated with each option and drive the client 
+towards exploring an option with a hypothesis lead approach. An example might look something like: “Option 1 would involve significant 
+investment in R&D and manufacturing capabilities but could earn the company the greatest return, Option 2 would be costly and logistically 
+complicated but gives the company access to an established product line and distribution channels, Option 3 would spread cost and risk to 
+two companies but would tie the company up with a partner in a potentially costly and complicated venture, Option 4 would enable quick 
+production but would open up the company to risk should its contractor be unable or unwilling to meet demand in the future and Option 5 
+would provide the company with a steady revenue stream but place control of its brand into another company’s hands. Based upon my 
+reading of the data, I recommend that we start with Option 5 as it seems to be the lowest risk 
+After the candidate has discussed the pros and cons of each option, go to the next prompt.
+Interviewer Guidance:
+
+
+===== PDF p249 =====
+Accenture: Surfboard Wax 
+245
+Upon reviewing the options, the client decides that organic growth and a joint venture is too complicated and doesn’t feel 
+comfortable taking the risk associated with building such capabilities. Additionally, the client doesn’t’ feel comfortable licensing 
+out its brand name because it wants control over how the product is marketed and sold. The CEO is interested in either acquiring 
+a company or contracting out production. It has identified a candidate for each of these and wants us to perform some due 
+diligence on whether it can earn a return on its investment within 5 years. The candidate doesn’t need to worry about discounting.
+Acquisition:
+Information to be shared with the candidate: The company it wants to acquire, Aloha Surf Wax sells its bars for $2.50 a piece to 
+retailers who then retail it for $3. Its cost of goods sold is $.50 and annual fixed costs for things like marketing, sales, SG&A is 
+$300,000 a year. The company’s product is popular and it has 10% of the total market in Hawaii. The owner wants to sell the 
+company and has set a firm price of $1 million. 
+Prompt #2:
+The candidate should calculate:
+Annual revenue: $750k (10% x 3m x $2.50)
+COGS: $150k (10% x 3m x$.50)
+SG&A: $300k
+Total Annual Profit: $300k
+After 5 years, the company would earn $300k x 5 = $1.5 m - $1m price = $500k
+Interviewer Guidance:
+
+
+===== PDF p250 =====
+Accenture: Surfboard Wax 
+246
+Contracting Out Production:
+The client has identified another wax manufacturer, Maui Surf Wax, that has agreed to use its excess capacity to produce 300k
+bars a year. Maui wax will charge our client, $1.50 a bar. Our client projects that it can then sell to its retailers for $3.00 a bar and 
+sell out of its entire inventory. Maui wax will also charge our client a one time fee of $100k to reconfigure its equipment to produce 
+our clients packaging and reformulate its wax to our clients specifications. Additionally, annual fixed costs for things like 
+marketing, sales, SG&A is $300,000 a year. 
+Prompt #3:
+The candidate should calculate:
+Revenue: 300k x $3.00 = $900k
+COGS: 300k x $1.50 = $450k
+SG&A: $300k
+Total Annual Profit: $150k
+After 5 years, the company would earn $150k x 5 -$100k = $650k
+Interviewer Guidance:
+
+
+===== PDF p251 =====
+Accenture: Surfboard Wax 
+247
+After the candidate has finished his/her calculations, prompt them to provide a recommendation to the CEO. 
+Recommendation 
+A strong candidate will start with the recommendation, support with analysis and end with next steps. An example of this might look 
+something like:
+I recommend that Big Island Surfboards enter the market for surfboards by contracting production of wax out to Maui Surf Wax and reselling 
+the product under Big Island Surfboards’ brand. By doing so, Big Island Surfboards would earn a $650k return on its initial investment of 
+$100k after 5 years. This would enable Big Island Surfboards to quickly enter the market and ramp up production. Some risks of this 
+approach include Maui Surf wax reducing excess capacity devoted to production of Big Island Surfboard wax in the future or having quality 
+control issues with production. 
+As the next step, I would recommend that we conduct due diligence on other potential targets to see if we can get an even better deal or 
+explore some of the other options that the CEO had initially ruled out. 
+Interviewer Guidance:
+
+
+===== PDF p252 =====
+Evaluation Criteria
+248
+Candidate Level
+Assessment
+Average Candidate
+Lists some basic market entry strategies with some 
+prompting and offers a basic profitability tree. Is able to 
+calculate the numbers with one or two errors and offers 
+a recommendation.
+Good Candidate
+Identifies most of the market entry strategies and is 
+able to discuss them with some prompting. Profitability 
+tree shows some complexity. Is able to calculate the 
+numbers correctly and offers a recommendation.
+Excellent Candidate
+Identifies all of the market entry strategies and is able 
+to discuss them in some detail. Profitability tree shows 
+complexity and nuance depending on the market entry 
+strategy. Drives the case with little prompting. Is able to 
+calculate the numbers correctly and offers a qualified 
+recommendation supported by analysis and next steps.

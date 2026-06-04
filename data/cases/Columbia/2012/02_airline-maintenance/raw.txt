@@ -1,0 +1,266 @@
+===== PDF p17 =====
+12 
+Airline Maintenance 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+Our client is a large international airline based in a major hub airport.  For the last few years, our client has 
+sold its spare maintenance capacity to other airlines in an ad hoc way.  Our client’s CEO wants to review this 
+behavior in a  strategic way to make a strategic decision. 
+• Provide an exhibit only when the subject asks for 
+information contained in the exhibit. 
+ 
+• The general flow of the case is to use Exhibit 1 to 
+compare the client’s P&L units and decide 
+Maintenance is one of the better units.  Then use 
+Exhibit 2 to compare Maintenance division’s 
+departments and conclude something along the 
+lines that Engines and Avionics are superior to 
+Hydraulics.  A correct answer is any answer that is 
+MECE and internally sound. 
+•Interviewee can provide MECE list of options for 
+strategic decision and evaluate options, or ask for 
+info needed for decision 
+ 
+•Can discuss strategic and economic  concepts 
+such as competitive tactics, barriers to entry, and 
+operational interdependency.  But, lead discussion 
+to opportunity cost of resources 
+ 
+• The key learning points for the graphs are 
+recognizing ambiguous units (is profit in $ or %?) 
+and reading a dual-axis graph 
+Case: Airline Maintenance 
+
+
+===== PDF p18 =====
+13 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+Airline Maintenance 
+Sample Framework 
+1.
+Demand 
+A. Market size and growth   B. Segments 
+1.
+Price sensitivity/income, usage/needs, purchase decisions/venues 
+C. Complements/substitutes: buy new planes 
+ 
+2.
+Supply 
+A.
+#, share, and ∆        B. Financial benchmarks: R, C, ∏, and ∆s 
+C. Differentiation 
+ 
+i. Type: avionics only, between-flight check-up only, etc.  ii. Warranties, quality, etc. 
+D. Barriers: location, skills shortage, location (only so much tarmac) 
+ 
+3.
+Company 
+A. Objective: profit, revenue, mkt share, etc         B. Financials: R, C, ∏, and ∆s 
+C. Maint Offering: which segment do we target.  What is our competitive advantage 
+D. Main Div: service metrics, a profit center?, how balance internal and external demand? 
+ 
+4.
+Options: Halt, No ∆, Increase, Spin-off 
+
+
+===== PDF p19 =====
+14 
+Airline Maintenance 
+How should we evaluate the Maintenance division? 
+Question #1: How should we evaluate the Maintenance division? (Give Exhibit #1) 
+•Clarification: the prompt is deliberately open-ended to test the interviewee’s ability to create MECE options. 
+A correct answer is any answer that is MECE and internally sound. 
+ 
+•Assumption: Client is focused on between-flight maintenance not less frequent, overhaul maintenance, 
+which the CEO feels is beyond firm’s scope.  Do not reveal this assumption until the interviewee asks. 
+ 
+•Take-away: The interviewee could conclude that Maintenance generates a lot of revenue and profit for our 
+client, which should rule out the option of halting the “in-sourcing.” 
+ 
+•BONUS: 2 business insights that limited tarmac real estate can be a barrier to entry and that there is a big 
+difference between flight check-ups and annual overhauls. 
+ 
+•BONUS: Business is more complicated than chasing the highest marginal return.   The interviewee could 
+mention interdependency of divisions or denying competitors’ opportunities. 
+Question #1 Solution:  
+Question 1 
+
+
+===== PDF p20 =====
+15 
+Airline Maintenance 
+How does information in Exhibit 2 affect your thinking? 
+Question #2: How does Exhibit 2 affect your thinking? (Give Exhibit #2) 
+Question #2 Solution:  
+•Assumption: Like question 1, question 2 deals with opportunity cost of resources.  A correct answer is any 
+hypothesis supported with sound evidence and analysis 
+ 
+•Take-away: The business insight is that additional capital should be devoted to the highest marginal return, 
+which is Engines or Avionics and certainly not Hydraulics. 
+ 
+•BONUS: Shutting down Hydraulics has strategic implications to the rest of the firm’s operations.  Is 
+hydraulics a loss-leader or part of an indivisible maintenance package?  These things should be considered. 
+Question 2 
+
+
+===== PDF p21 =====
+16 
+Airline Maintenance 
+Recommendation 
+o Airlines updating their fleets will reduce demand for our client’s maintenance services. 
+o Plane manufacturers increasing their warranties will reduce demand for our client’s maintenance services. 
+Risks 
+o Investigate how to increase revenue and profitability of our client’s other divisions. 
+Next Steps 
+o We recommend increasing Maintenance “in-sourcing” activities even at the cost of shifting resources from 
+less profitable divisions like Staffing to Maintenance, specifically Engines and Avionics.  Within the 
+Maintenance division, resources should be shifted from Hydraulics to Engines and Avionics for the same 
+reasoning. 
+ 
+Conclusion 
+
+
+===== PDF p22 =====
+17 
+Airline Maintenance 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Maintenance
+Passenger
+Cargo
+Staffing
+Private Jets
+Re-Supply
+Airline's Divisions 
+Revenue
+Profit
+Exhibit 1 
+
+
+===== PDF p23 =====
+18 
+Airline Maintenance 
+The trick w/Exhibit 1 is that revenue is billions of dollars and profit is a percent of revenue.  The graph is 
+purposely unclear.  50% of Maintenance revenue and profit comes from in-house. 
+ 
+Some math may help shed light on the situation but is not required to conclude that the Maintenance 
+Division generates a lot of revenue and is the most profitable division 
+ 
+The graph tests one’s ability to recognize ambiguous information and ask for clarification and to read a dual-
+axis graph 
+ 
+Knowledge of airline industry is irrelevant to cracking the case 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Airline's Divisions 
+Revenue
+Profit
+Exhibit 1: Answer Key 
+
+
+===== PDF p24 =====
+19 
+Airline Maintenance 
+0
+5
+10
+15
+20
+25
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+Hydraulics
+Engine
+Avionics
+Fuselage
+Electrical
+Maintenance Division 
+Revenue
+Profit
+Exhibit 2 
+
+
+===== PDF p25 =====
+20 
+Airline Maintenance 
+The trick w/Exhibit 2 is similar to the trick w/Exhibit 1.  Revenue is in millions of dollars and profit is a percent 
+of revenue.  50% of each division’s revenue and profit comes from in-house 
+ 
+Some math may help shed light on the situation but is not required to conclude that Engine and Avionics 
+generate more revenue at a higher margin than Hydraulics, which allows interviewee to suggest client shift 
+resources from less profitable Hydraulics to more profitable Engine and Avionics. 
+ 
+The graph tests one’s ability to recognize ambiguous information, ask for clarification, read a dual-axis graph 
+ 
+Knowledge of airline industry is irrelevant to cracking the case 
+0
+5
+10
+15
+20
+25
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+Hydraulics
+Engine
+Avionics
+Fuselage
+Electrical
+Maintenance Division 
+Revenue
+Profit
+Exhibit 2: Answer Key 

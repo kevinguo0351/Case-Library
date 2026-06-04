@@ -1,0 +1,253 @@
+===== PDF p197 =====
+Specialty Steel
+193
+Industry: Industrial Goods
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p198 =====
+Behavioral Questions
+194
+• What are you most proud of outside of your professional pursuits?
+Question 1:
+• Tell me about a time you used quantitative analysis to change someone's mind?
+Question 2:
+
+
+===== PDF p199 =====
+Specialty Steel
+195
+Your client is a mid-sized specialty steel manufacturer with a portfolio of alloys that 
+span across multiple industries.  The majority of sales are in the aerospace market to 
+one jet engine original equipment manufacturer (OEM).  Your client's contract with this 
+OEM is set to expire next week, and the OEM will be opening bidding to the public.  
+The OEM has traditionally demanded a total of 180,000 tons/year from the whole 
+market, but analysts expect this number to sharply rise.  Our client has identified this as 
+a must-win scenario and wants to know if it should change its price.
+Prompt #1:
+The candidate should come up with a framework that covers the product and the pricing strategy 
+(differentiation, top-down vs. bottom-up, comparison w. competitors)
+Additional information (to be provided if asked):
+• Client's primary goal is to win the contract, secondary goal is to maximize revenue
+• Gross profit margin is over 90%
+• The OEM buys "718", a high-nickel, temperature-resistant alloy that is made in an expensive 
+Vacuum Induction Melting (VIM) furnace
+– 718 is "specked in", meaning the product cannot be changed without a costly process to 
+recertify the jet engine
+– There are two other suppliers of 718.  We don't know what they will bid.
+• We charge $7/ton of “718” (1 ton = 2,000 lbs)
+Interviewer Guidance:
+
+
+===== PDF p200 =====
+Interviewer guidance on Exhibits
+Prompt the candidate to evaluate market 
+competitiveness by calculating total 
+Aerospace capacity
+• Key Insights:
+– The market already doesn't meet demand.  
+When demand increases, nobody will be able 
+to accommodate.
+– We can increase capacity
+– We can increase price since demand is 
+higher than capacity
+• Math:
+– (# of Aero VIMs) * (tons/batch) * (batches/hr) 
+* (hr/week) * (week/year) = annual capacity
+– Client:
+•
+(3) * (25) * (1/5) * (100) * (50) = 75,000
+– Steel Co:      
+•
+(1) * (35) * (1/5) * (150) * (50) = 52,500
+– Metals R Us: 
+•
+(4) * (12.5) * (1/5) * (100) * (50) = 50,000
+Total Aero Capacity: 177,500 tons/year
+196
+Exhibit #1 Guidance:
+Analysis
+
+
+===== PDF p201 =====
+Exhibit #1: Competitive Production
+197
+Client
+Steel Co
+Metals R Us
+Aerospace VIM = 5 hours/batch
+Automotive VIM = 8 hours/batch
+Consumer VIM = 4 hours/batch
+Total
+Number 
+of VIMs
+VIM Batch 
+Size
+Average 
+Temperature
+Planned
+Overhaul
+(not available)
+Weekly 
+Operational 
+Hours
+5
+25 tons/VIM
+2500º F
+2 weeks/yr
+100 hrs/week
+Total
+Number 
+of VIMs
+VIM Batch 
+Size
+Average 
+Temperature
+Planned
+Overhaul
+(not available)
+Weekly 
+Operational 
+Hours
+4
+35 tons/VIM
+2500º F
+2 weeks/yr
+150 hrs/week
+Total
+Number 
+of VIMs
+VIM Batch
+Size
+Average 
+Temperature
+Planned
+Overhaul
+(not available)
+Weekly 
+Operational 
+Hours
+6
+12.5 tons/VIM
+3000º F
+2 weeks/yr
+100 hrs/week
+Note: Each circle = 1 VIM
+
+
+===== PDF p202 =====
+Interviewer guidance on Exhibits
+Present the exhibit to the candidate. Explain 
+that it is an analysis our team previously ran to 
+assess capacity and demand. 
+Questions:
+1.
+What is our client’s current revenue?
+2.
+Why does the supply curve look like this?
+3.
+Our client is considering three pricing 
+options (see below). Prompt the candidate 
+to determine the best option to bid for the 
+contract. 
+A.
+Price at $14/lb
+B.
+Price at $12/lb
+C.
+Price at $10/lb
+4.
+What effect will this have on revenue?
+5.
+(brainstorm) If we go with option C, hence 
+raising the price on a critical customer, 
+what services or offerings could our client 
+consider to help smooth the relationship 
+with the OEM over the price increase?
+• Math:
+– Current Revenue = 75,000 * $7/lb = $525k
+– Revenue = New Quantity * New Price
+•
+Option 1: 75,000 * $14/lb = $1.05M
+•
+Option 2: 100,000 * $12/lb = $1.20M
+•
+Option 3: 125,000 * $10/lb = $1.25M
+– Revenue Increase:
+•
+$1.25M - $525k = +$725k
+•
+$725k / $525k = +138%
+198
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p203 =====
+Exhibit #2: Client’s Capacity and Demand
+199
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+140,000
+160,000
+180,000
+200,000
+220,000
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Quantity (tons)
+Price per ton ($)
+*  Each step is 1 VIM
+Note: Our client owns additional furnaces that are not in use
+Current capacity
+Anticipated Demand
+Historical Demand
+Capacity in standby
+75,000
+1 VIM*
+3 VIMs
+4 VIMs
+5 VIMs
+6 VIMs
+2 VIMs
+A
+C
+CURRENT
+100,000
+125,000
+150,000
+B
+
+
+===== PDF p204 =====
+Recommendation
+200
+Our client has pushed up our follow-up to tomorrow morning. What would you 
+recommend?  
+Recommendation 
+• Would recommend not letting the candidate take a break and answer on the 
+spot to practice responding under pressure. 
+• Increase price to $10/pound
+• Make sure to touch on risk of upsetting a key customer over a price increase and 
+implementation next steps. 

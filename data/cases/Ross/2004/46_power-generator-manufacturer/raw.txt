@@ -1,0 +1,86 @@
+===== PDF p111 =====
+Table of Contents 
+ 
+107
+Practice Case 46: Power generator manufacturer 
+(Mckinsey - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+The client is manufacturer of power generators for recreational 
+vehicles. They are the dominant player with close to 90% market 
+share. They attribute their market share to their high quality 
+products. Of late, the smaller players, who have between them close 
+to 10% of the market share, have improved their quality over the 
+years. This is posing a strong threat to the client. Our client has a 
+strong brand and is a trusted name in the market. 
+ 
+Our client sells only to OEMS. There are two types of OEM suppliers: 
+sole source and the dual source. The dual source implies that the 
+customer makes the choice of the generator. 
+ 
+Of the markets they service, close to 95% of their sales comes from 
+the North American region and the rest from Europe. 
+ 
+The client is worried about profitability in the coming years.  How do 
+you address the profitability? 
+ 
+II. Additional information provided after relevant questions:    
+For the profitability question ñ  
+Current revenues: $200M 
+Current Gross Margins: 15% 
+ 
+I was asked to assume two scenarios ñ  
+Best Case ñ Elasticity is 0 and price goes up by 5%; costs remain the same. 
+Worst Case  - Gross margins remains same but there is a 25% drop in 
+revenues. Quantity remains same. 
+ 
+Ask the interviewee to draw up the prices, costs and gross margins for each 
+case. The entire grid has to be made from the above information only. It 
+would look like this ñ  
+ 
+Current 
+Possible - Best 
+Possible ñ Worse 
+Revenues 
+200 
+210 
+150 (25% drop) 
+Costs 
+170  
+170 
+120 
+Gross Margins 
+30 
+40 
+30 
+Gross Margins % 
+15% 
+~20% 
+20% 
+ 
+ 
+III. Sample Solution:    
+ 
+
+
+===== PDF p112 =====
+Table of Contents 
+ 
+108
+I was first asked to describe a framework to analyze the case. There was no 
+further information provided at this stage. 
+Profitability equation.  
+Consider the Revenues side. Analyze the price, quantity, Gross margins. 
+Analyze the channels 
+Consider the cost side ñ both fixed and variable to see if there is any 
+optimization possible. 
+Competition ñ how they could involve.  
+Market ñ growth rates, alternate uses, new markets 
+Product ñ any ways of differentiating the product 
+Product drivers ñ what determines a customer purchase and choice of 
+product. 
+ 
+For the profitability, I actually drew the grid in the interview. It helped to 
+make the data look neat and was easy to work through. 

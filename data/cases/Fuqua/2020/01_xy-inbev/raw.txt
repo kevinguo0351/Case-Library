@@ -1,0 +1,363 @@
+===== PDF p26 =====
+XY Inbev
+22
+Industry:                  Food & Beverage
+Case Type:     
+M&A
+Led by:            
+Interviewee
+Quantitative Level: Easy
+Qualitative Level:   Easy
+
+
+===== PDF p27 =====
+Behavioral Questions
+23
+• Tell me about a time you disagreed with your manager. What did you do? 
+– Be specific
+– Use linear structure to tell story
+– Clearly articulate YOUR contributions
+– Prove strong performance via results
+Question 1:
+• Tell me about a time you had to persuade people under challenging circumstances. 
+– Use the CAR Framework: Challenge – Action – Results
+Question 2:
+
+
+===== PDF p28 =====
+XY Inbev
+24
+• Your client, XY Inbev, is a multinational drink and brewing company. About a decade 
+ago, XY acquired a large competitor that made the company the market leader, but 
+also left it with a massive debt. Today, XY’s growth strategy of acquiring competitors 
+is nearing its limits as no large rivals remain to be taken over without goading 
+competition authorities. The CEO has asked you to brainstorm some new strategies 
+for the company.
+Prompt #1:
+• Company information:
+–
+Headquartered in Belgium. XY has extremely established brands in developed markets, but less established 
+brands in emerging markets.
+–
+Owns entire supply chain for all products.
+–
+Debt from the acquisition is estimated to be $90M. Investors’ concerns about debt have caused company 
+shares to steadily decrease over the past three years.
+• Industry/Competition information:
+–
+XY is the market leader by a long shot and generates half the industry’s global profits.
+• Product information:
+–
+XY’s beverages include both alcoholic drinks (beer, cider, hard seltzer ONLY) and non-alcoholic drinks 
+(energy drinks, sodas ONLY).
+–
+XY’s most popular beverage line is beer; it sells ~650 beer brands in 150 countries.
+Case Background:
+
+
+===== PDF p29 =====
+XY Inbev
+25
+Framework Example Buckets:
+Internal 
+Improvements
+External 
+Growth
+Risks / Other 
+Considerations
+- Government 
+regulation blocks 
+(federal/international)
+- New Dis-synergies 
+(ex. lost customers)
+- Brand fit
+- Competitor response 
+to change
+- Value chain review 
+of key strengths & 
+weaknesses (ex. 
+marketing, sales, HR)
+- Operating model 
+review (cost savings, 
+operational 
+efficiencies)
+- Minimize Debt (ex. 
+adjust dividend 
+payments, divest 
+assets)
+- New beverages (ex. 
+tea)
+- New industry (ex. 
+food)
+- New customer 
+segments or channels 
+(B2B, B2C, online)
+- Partner with another 
+company to expand 
+into Emerging Markets
+- Acquire small startups 
+entering the space
+
+
+===== PDF p30 =====
+Exhibit #1
+26
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+Hard Seltzer
+Cider
+Soda
+Beer
+Percentage of XY Total Profit
+Energy
+Projected Annual Growth Rate (%)
+Note: Bubble size corresponds to percentage of global consumption of beverage.
+XY Inbev Beverage Lines
+
+
+===== PDF p31 =====
+Interviewer guidance on Exhibit #1
+• The CEO has decided to prioritize reducing the 
+company’s debt and wants to divest some 
+brands within one of the five main beverage 
+lines.
+• Exhibit #1 represents each of the beverage 
+lines’ percentage of total profit, projected annual 
+growth rate (in revenues), and percentage of 
+global consumption.
+• If the candidate asks, XY has many brands 
+within each of these beverage lines. The actual 
+numbers are irrelevant here.
+• If the candidate asks, the CEO is mainly 
+focused on the $90M debt from the prompt.
+• Candidate should recognize general trends can 
+be realized without calculations but may ask if 
+calculations are necessary.
+• Ideally move on when candidate asks for more 
+information on the breakdown of beers by profits
+•
+Basic:
+–
+Although beer makes up the greatest % of XY’s 
+profits, it has the lowest projected growth rates. 
+–
+Hard seltzer has the highest projected annual 
+growth rate and decent global consumption, so XY 
+should not consider divesting here.
+–
+Soda makes up the least of XY’s profits, but has a 
+relatively decent amount of global consumption, so 
+it could be another area to continue exploring.
+•
+Second Order Insights:
+–
+There is a sizable gap between beer’s projected 
+annual growth rate and the rest of the beverage 
+lines. From the prompt, we know the CEO is 
+concerned about future growth strategies, so the 
+beer beverage line is worth exploring.
+–
+Even though beer makes up the greatest % of 
+profits, we should explore divesting some non-core 
+brands that are underperforming. Candidate may 
+ask for profit margins by beer brand to determine 
+underperformers.
+–
+Candidate may tie trends together by hypothesizing 
+that slower beer growth rate could be in part due to 
+consumers replacing beer with substitutes like hard 
+seltzer.
+27
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p32 =====
+Exhibit #2
+28
+36
+24
+24
+7
+3
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+0
+5
+10
+15
+20
+25
+30
+35
+40
+.95
+.1
+.2
+.9
+.2
+Brand 3
+Brand 4
+Brand 2
+Brand 5
+Brand 1
+Acquisition Premium
+Current Value of Brand
+Current Value of Brand ($M)
+Acquisition Premium
+XY Inbev Beer Brand Valuations
+
+
+===== PDF p33 =====
+Interviewer guidance on Exhibit #2
+• Once candidate has asked for more 
+information on XY’s beer line, provide 
+Exhibit #2.
+• XY’s internal strategy team has identified 
+five beer brands they are open to 
+divesting. The CEO wants to divest as few 
+brands as possible.
+• Exhibit #2 provides a deeper dive into 
+XY’s beer line. It shows the five identified 
+beer brands’ current value and acquisition 
+premium.
+• If candidate is unsure, tell them that the 
+acquisition premium represents the 
+increased cost of buying the brand. 
+29
+Exhibit #2 Guidance:
+Analysis:
+• Basic:
+–
+This exhibit requires the candidate to calculate the 
+expected value of each brand.
+–
+Allow candidate to round.
+–
+To calculate, multiply the current value by 
+acquisition premium + 1:
+1: $36M * 1.1 = $39.6M 
+2: $24M * 1.2 = $28.8M
+3: $24M * 1.2 = $28.8M
+4: $7M
+* 1.9 = $13.3M
+5: $3M
+* 1.95 = $5.85M
+• Second Order Insights:
+–
+If candidate is not careful, he or she might try to 
+multiply the current value and the acquisition 
+premium. This is incorrect because this would 
+mean that the brands are discounted.
+–
+Brands 2 and 3 are worth the same, do NOT re-
+calculate.
+
+
+===== PDF p34 =====
+Brainstorming
+• What are some risks that XY faces in 
+divesting?
+Ideas may include:
+• Internal Strategy
+–
+Change in cost structure (ex. stranded costs)
+–
+Additional administrative costs
+–
+Loss of talent
+–
+Negative impact on employee morale
+• External Strategy
+–
+Loss of strategic business
+–
+Loss of scale/scope
+–
+Loss of market share / position in market
+–
+Negative market reaction
+–
+Negative press coverage
+–
+Regulatory constraints
+30
+Prompt:
+Analysis:
+
+
+===== PDF p35 =====
+XY Inbev
+31
+• The CEO needs your recommendation for her meeting with the Board now. What are 
+your findings? 
+Recommendation 
+• Recommendation: XY Inbev can resolve the $90M outstanding debt from a major 
+acquisition by divesting Beer Brands 1, 2, and 3 for ~$100M. 
+• Risks include stranded costs, failed deals, loss of scope, market reaction (clients, 
+customers, etc.)
+• Next Steps include establishing a sell-side team to strategize timing and 
+implementation steps needed to maximize value, meeting with investment banking 
+team to find the best buyers and planning for de-integration.
+Risks and Next Steps:
+
+
+===== PDF p36 =====
+Evaluation Criteria
+32
+Candidate Level
+Assessment
+Average Candidate
+Candidate forgot to address CEO’s debt concern in 
+framework and needed interviewer prompting 
+throughout each exhibit to get to key insights.
+Candidate may need coaching to determine the 
+appropriate calculation. This is good practice to make 
+sure candidate is coachable and doesn’t become 
+flustered.
+Good Candidate
+Candidate addressed CEO’s debt concern in 
+framework. Candidate multiplied numbers in Exhibit 2 
+or needed prompting to get through Exhibit 2. 
+Gets to most second-level insights. Structures the 
+brainstorm similar to framework.
+Excellent Candidate
+Candidate addressed CEO’s debt concern in 
+framework, quickly drove to beer as a beverage line to 
+investigate, and solved Exhibit 2 without prompting.
+Quickly gets to second-level insights. Introduced 
+creativity and personal experience in both framework 
+and brainstorm. 

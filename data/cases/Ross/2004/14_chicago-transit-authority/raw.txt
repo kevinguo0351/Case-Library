@@ -1,0 +1,75 @@
+===== PDF p35 =====
+Table of Contents 
+ 
+31
+Practice Case 14: Chicago transit Authority  
+(Diamond Cluster - Round 1) 
+ 
+I. Case scope provided by interviewer  
+ 
+Our client is the Chicago Transit Authority (CTA). They have received 
+$300MM and want us to identify which of the 20 different technology 
+projects should be implement and in which order. Currently, they 
+have a 30 year old Mainframe system. They have written 
+bridge/translation code to interface with some of their newer 
+systems. However, everything is controlled by this mainframe. How 
+would you advise them? 
+ 
+ 
+II. Additional information provided after relevant questions:  
+• 
+CTA is a public service. They may take on negative NPV projects if it 
+serves the public. They may also prioritize based on public, not 
+financial, needs. 
+• 
+CTA does not want to fire its employees. 
+• 
+Almost all CTA technology employees know only old mainframe 
+systems. 
+• 
+No one knows the original code for the mainframe system. Bug fixes 
+are being done by people who only know bits and pieces of the 
+system. 
+• 
+CTA has enough money to do all 20 projects. 
+• 
+The mainframe system in use is from 1970s and there are not many 
+people who can support it. However, almost all systems are controlled 
+by this system. 
+• 
+There are two high profile projects ñ ERP system, and Smartcard for 
+toll booths. 
+ 
+III. Sample solution: 
+First I analyzed the mainframe core. I would first assess the impact of each 
+project on three areas of CTAís technology infrastructure: 
+1. Impact on the core mainframe system. 
+2. Impact on translation/bridge software. 
+3. Impact/requirement for new system. 
+ 
+I would then assess the person hours needed to implement the project. I 
+would then organize the projects using the following criteria: 
+1. How critical is the project to public needs? 
+2. Does the project impact critical systems of existing infrastructure? 
+3. Economic impact of project ñ measured in dollars and person hours. 
+4. Personnel training required for new system. 
+ 
+
+
+===== PDF p36 =====
+Table of Contents 
+ 
+32
+I looked briefly into the two high profile projects, using the criteria above. I 
+guessed that the Smartcard project is more critical and I would choose that 
+over an ERP implementation. 
+ 
+This case was really about keeping the business goals of the client in mind. 
+The most important issue was to realize that CTAís goal is NOT to cut costs 
+but to provide service. I was later told that CTA had enough money to do all 
+the projects. They were required to implement some money losing projects 
+as well because they were legally obligated to implement them. The 
+interviewer also wanted to see what criteria I would use to prioritize different 
+projects. He wanted to see if I could logically structure my approach, and 
+assess the impact of my recommendations on the technology infrastructure 
+and business goals of the client. 

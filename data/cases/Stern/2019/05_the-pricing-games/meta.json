@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2019_05_the-pricing-games",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 5,
+  "case_name": "The Pricing Games",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Sports",
+  "difficulty": null,
+  "pdf_page_start": 72,
+  "pdf_page_end": 81,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    75,
+    77,
+    79,
+    80,
+    81
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p075.png",
+    "exhibits/exhibit_p077.png",
+    "exhibits/exhibit_p079.png",
+    "exhibits/exhibit_p080.png",
+    "exhibits/exhibit_p081.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\05_the-pricing-games"
+}

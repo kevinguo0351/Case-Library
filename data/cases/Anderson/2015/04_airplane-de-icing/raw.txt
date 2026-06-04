@@ -1,0 +1,146 @@
+===== PDF p26 =====
+Problem statement narrative 
+ 
+Your client is AirCo, a U.S. airline that has  
+significant operations at on the of Chicago  
+airports. 
+ 
+ 
+Due the cold weather, the client’s place often  
+have to be de-iced, but because the need de-icing  
+is very unpredictable, the client decided to  
+outsource the de-icing to IceCo last year. 
+However, IceCo’s performance has not been  
+satisfactory. 
+ 
+ 
+The client is considering in-sourcing airplane de-  
+icing, but currently does not have enough  
+resources do the de-icing in-house. 
+ 
+ 
+The client requires a 4-year payback on  
+investments and wants to know if they should in-  
+source or outsource the de-icing? 
+Guidance for interviewer and  
+information provided upon request(1) 
+•  Cost comparison on in-sourcing vs. outsourcing 
+– see Handout 1, but first have candidate outline  
+what the major cost bucket are. 
+ 
+•  If the client in-sources the de-icing, they will need  
+to hire 150 people for the whole icy season, but  
+the actual number of workers per month  
+fluctuates and can get as high as 60. We have to  
+pay workers for the whole month, even if we only  
+need them for one week 
+•  Each worker costs $4,000 / month 
+•  There are 5 months in the icy season 
+•  The performance problems result from IceCo  
+taking too long to de-icy the planes, leading to  
+delays.  We cannot quantify the impact of this. 
+Case 4: Airplane De-Icing (I of IV) 
+Bain, Round 1 
+
+
+===== PDF p27 =====
+Case 4: Airplane De-Icing 
+Sample Framework 
+
+
+===== PDF p28 =====
+Candidate: Please complete and explain the 2nd column 
+Candidate: Please complete and explain the 2nd column 
+Comparison of Outsourced vs. Insourced De-Icing Costs 
+Comparison of Outsourced vs. Insourced De-Icing Costs 
+IceCo 
+Client 
+Number of Events 
+3000 
+3000 
+Fee per Event 
+$300 
+NA 
+Labor Costs 
+N/A 
+? 
+ 
+Cost per Gallon of Chemicals 
+ 
+$5 
+ 
+$5 
+# of Gallons of Chemical per Event 
+40 
+40 
+Cost per Event 
+? 
+? 
+Case 4: Airplane De-Icing (II of IV) 
+Bain, Round 1 
+
+
+===== PDF p29 =====
+1 
+0.5 
+0 
+1.5 
+2 
+2.5 
+3 
+Investment 
+Cost 
+($M) 
+Case 4: Airplane De-Icing (III of VI) 
+Bain, Round 1 
+De-Icing Investment Costs 
+3.5 
+$3M 
+Training 
+Supplies 
+Equipment 
+
+
+===== PDF p30 =====
+Calculate in-sourced labor costs  
+per event 
+3000 events/season x 5  months/
+event = 600 events/month 
+150 workers/season / 5  months/
+season = 30 workers/month 
+30 workers/month x 
+$4000/worker/month = $120K/month 
+Labor cost/event = $120K/600 = 
+$200 per event 
+To decrease payback period… 
+To improve IceCo’s performance… 
+Reduce investment costs – lease equipment instead  
+of purchasing it. 
+Decrease labor costs to increase savings per event:  
+re-negotiate labor contracts; explore more flexible  
+options instead of hiring by month. 
+Try to quantify impact of performance problems so  
+these benefits can be monetized and added to the  
+payback calculation. 
+Implement SLAs that require IceCo to meet pre-  
+determined performance metrics. 
+Tie IceCo fees to meeting SLAs. 
+Case 4: Airplane De-Icing (IV of IV) 
+Bain, Round 1 
+Calculate in-sourced labor  
+costs per event 
+Outsourced cost: 
+$300 + $5 x 40 = $500/event 
+In-sourced cost: 
+$200 + $4 x 40 = $360 
+Savings = $140/event 
+Calculate payback period for  
+the investment 
+Savings per year: 
+$140/event x 3000 events/yr = 
+$420K 
+Payback: 
+$3M/$420K = 7 years > than 4  
+year payback requirement 
+- 26 - 
+Xxxxx-xx/Footer 

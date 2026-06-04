@@ -1,0 +1,173 @@
+===== PDF p168 =====
+Retire on the House
+164
+Industry:  Financial Services
+Quantitative Level: Easy
+Qualitative Level: Difficult
+
+
+===== PDF p169 =====
+Behavioral Questions
+165
+• Pick any trend in any industry right now and talk about it. 
+Question 1:
+• Pretend you are talking with my 5 year old son and explain what a management 
+consultant does. 
+Question 2:
+
+
+===== PDF p170 =====
+Retire on the House
+166
+• Your client is a large, private financial services company. They are the largest 401k 
+provider in the US with over $5T assets under management. However, they are 
+seeing tightening margins on their financial products and have approached your firm 
+for help. The majority of their customers are aged 55+ and are fearing their ability to 
+afford rising retirement costs. With this in mind, what are some potential avenues for 
+revenue growth?  
+Prompt #1:
+•
+This is a revenue growth case and not profitability so will focus on revenue. The key here is having a structured 
+approach to identifying new opportunity spaces leveraging the clients current customer base
+•
+Geography: Headquartered in Boston, the client serves its customers through 10 regional offices and more than 
+190 Investor Centers in the United States. With 40,000-plus associates, their global presence spans eight other 
+countries across North America, Europe, Asia, and Australia.
+•
+Products: Client currently provides financial planning and retirement options such as IRAs, annuities, and 
+managed accounts; brokerage and cash management products; college savings accounts; and other financial 
+services for millions of individual investors. Client works with employers to build benefit programs for their 
+employees. Offers clearing, custody, investment products, brokerage, and trading services to a wide range of 
+financial firms. The client is not a bank and does not offer any loan products. 
+•
+Competition: Market share leader and competitor financial information is not available. 
+•
+Business model: Earn basis point fees on assets under management. Current margins down due to roboadvisors
+•
+Customers: Majority of customers are 55+ and the general population trend of 10,000 retiring American’s daily 
+has prompted the client to review new products targeting this customer base
+Interviewer Guidance:
+
+
+===== PDF p171 =====
+167
+• This case is meant to be driven along by the interviewee so wait for 
+him/her to do so after each prompt
+• Interviewee should develop a MECE framework that covers most or 
+all of the following examples: existing/new customers, existing/new 
+products (can be illustrated in a 2x2 grid), competitive landscape, 
+entry strategy (build/borrow/buy), market size, risks, regulations, 
+among others.
+• If the interviewee does not mention anything about new products, 
+probe further in order to guide him/her towards this direction
+Interviewer Guidance:
+Retire on the House
+
+
+===== PDF p172 =====
+Retire on the House
+168
+• The client is primarily interested in entering the mortgage lending market. The loans 
+would be targeted to the client’s retired customers aged 55+ to help them extract 
+equity from their homes to use the cash to pay for everyday living expenses in 
+retirement. Tell me what the client should consider when evaluating entering this 
+market. 
+Prompt #2:
+• Candidate should discuss things like: How the client can win (competitive 
+advantage), how the solutions to the needs can be scaled, a revenue model behind 
+the needs solution, market size, market complexity to reach the customer, customer 
+willingness to pay, competition, regulatory restrictions, etc. 
+Interviewer Guidance:
+
+
+===== PDF p173 =====
+Exhibit #1
+169
+
+
+===== PDF p174 =====
+Interviewer guidance on Exhibits
+• Here is data on the existing products to 
+help retiree’s extract equity from their 
+homes. What are your insights? 
+• Market sizes if prompted:
+–
+Refinance: $900B
+–
+Home Equity Loan: $300B
+–
+Home Equity Line of Credit: $150B
+–
+Reverse Mortgages: $10B
+• High cost and low cost is the cost to the 
+customer
+• These are current solutions for retirees to 
+pull out cash from their homes
+• Most home loan products are not focused 
+on the retiree market
+–
+This is because these products all require a debt to 
+income ratio to be approved (with pension plans 
+disappearing, retirees without income cannot 
+approve for these products)
+• Reverse mortgages are predatory and 
+client would never offer these for brand 
+protection reasons
+• Interviewee should identify a large 
+opportunity space in a retiree focused 
+product below reverse mortgages
+• Interviewee should notice home equity 
+line of credits and loans are growing. 
+170
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p175 =====
+Retire on the House
+171
+• How would you go about sizing the market for this opportunity? 
+Prompt #3:
+• The candidate should not dive into numbers, rather should explain the process and 
+data needed to collect in order to size the market
+• Candidate should look to understand the revenue model of mortgage lending. If 
+prompted, provide that the lender makes a small percentage (1-2%) on the total loan 
+value called origination fees. 
+• Important data to collect could include: population of those over 60 years old that 
+own a home, % of those homeowners with extractable equity, % of those 
+homeowners that need cash
+Interviewer Guidance:
+
+
+===== PDF p176 =====
+Retire on the House
+172
+• The client’s chief innovation officer is about to come in. What is your final 
+recommendation? 
+Recommendation 
+• The analysis shows an opportunity space to create a new product to help retirees 
+unlock equity in their home to cover rising retirement costs
+Interviewer Guidance:
+
+
+===== PDF p177 =====
+Evaluation Criteria
+173
+Candidate Level
+Assessment
+Average Candidate
+Will consider profitability of current products instead of 
+evaluation strategy of new products, fail to drive the 
+case, make arithmetic mistakes, forget details, and fail 
+to put numbers into context
+Good Candidate
+Will develop a custom and complete framework, make 
+accurate but slow calculations, will remember details 
+and put everything into context
+Excellent Candidate
+Will develop a structured MECE framework, understand 
+the clients business model, remember to ask for 
+industry avg. origination fees, put numbers into a 
+perspective, and will drive the case forward at each 
+step, recognize that accessing liquidity is more 
+adjacent to current business than other needs

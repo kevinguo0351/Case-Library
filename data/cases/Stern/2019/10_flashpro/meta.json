@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2019_10_flashpro",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 10,
+  "case_name": "FlashPro",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 118,
+  "pdf_page_end": 127,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    121,
+    122,
+    124,
+    125,
+    126,
+    127
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p121.png",
+    "exhibits/exhibit_p122.png",
+    "exhibits/exhibit_p124.png",
+    "exhibits/exhibit_p125.png",
+    "exhibits/exhibit_p126.png",
+    "exhibits/exhibit_p127.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\10_flashpro"
+}

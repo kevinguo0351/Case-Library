@@ -1,0 +1,344 @@
+===== PDF p28 =====
+23 
+Case: Smartphone Acquisition 
+Case Type: PE / Market Entry. Difficulty: Medium to hard. 
+ 
+ 
+Smartphone Acquisition 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+It‟s late 2006, and our client is a PE firm looking to acquire a company in the emerging smartphone industry.  
+There are currently only two firms in the market: SmartCo and PhoneCo. Our client has decided to definitely 
+purchase one of the firms, but they‟ve hired us to help them figure out which one. How would you approach 
+this problem? 
+-The iPhone was announced in January 2007 and 
+launched in June 2007, so it shouldn‟t be a factor in 
+the initial decision. 
+ 
+-In the real world, there were more than two firms 
+in the market. This is a simplified case, so what you 
+know about RIM, Motorola, Nokia, etc. doesn‟t 
+necessarily apply. 
+ 
+- Our client cares about the value of the firm at an 
+exit in 5 years, so a DCF won‟t be necessary. 
+ 
+ 
+- This is an exhibits-heavy case. After the 
+framework, guide the candidate to Question #1 
+(market size) as  
+ 
+ 
+
+
+===== PDF p29 =====
+24 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+Smartphone Acquisition 
+Sample Candidate Framework 
+Valuation Economics 
+Revenues (Price and 
+Quantity [Market Size and 
+Share]) 
+Costs (Fixed and 
+Variable) 
+Discount Rate  
+Smartphone  
+Companies 
+Smartphone  
+Customers 
+Segmentation 
+(behavioral? 
+demographic? income-
+based?) 
+Needs by Segment 
+(keyboard? security? fast 
+connectivity? etc.) 
+ 
+The discount rate isn‟t necessary here, but is a good thing to include in the framework. A great framework 
+will address not only the economics of the deal (revenues and costs), but also discuss other reasons our 
+client might want to purchase a particular company, including advantages with customer segments, 
+technology and patents, capabilities (design, R&D, marketing)., etc. 
+ 
+Products (SmartCo vs. 
+PhoneCo) 
+Technology (patents or other 
+technological advantage) 
+Barriers to Entry (how easy 
+is each company to copy?) 
+
+
+===== PDF p30 =====
+25 
+Potential Areas for Analysis 
+Smartphone Acquisition 
+Hand the candidate Exhibit #2 (see slide for notes). 
+Customers and Products 
+Revenues and Costs 
+Market Size 
+Variable costs are $150 per unit for SmartCo, $200 
+per unit for PhoneCo 
+- Price is $250 per unit for SmartCo, $300 per unit 
+for PhoneCo 
+-Ignore fixed costs (but more sales mean fixed 
+costs are less of an issue) 
+Hand the candidate Exhibit #1 (see 
+slide for notes). 
+
+
+===== PDF p31 =====
+26 
+ 
+Exhibit #1 and Math 
+ 
+Smartphone Acquisition 
+Questions 
+Solution:  
+Question #1: Hand candidate Exhibit #1.  
+Our client expects the mobile phone market as a whole to grow 5% over the next 5 years.  
+Our client also expects smartphones‟ share of the mobile market to grow 50% for businesses, 100% for 
+prosumers, and 200% for  consumers over the next 5 years. 
+What will the smartphone market be in Year 5 for each segment? What does that mean for us? 
+Note: Approximation is fine for this question. (In fact, getting the exact numbers would take too long.) 
+  
+Business 
+Prosumer 
+Consumer 
+Total Market (Year 1) 
+$60b 
+$80b  
+$300b  
+Smartphone Market (Year 1) 
+$30b 
+$20b 
+$15b 
+Total Market (Year 5) 
+$63b  
+$84b 
+$315b  
+Smartphone Market (Year 5) 
+$47.25b  
+$40b  
+$45b 
+Smartphone Growth ($) 
+$15.75b  
+$21b 
+$29.25b 
+Smartphone Share of Mobile Market 
+75% 
+50% 
+15% 
+Solution: While all segments are approximately equal in Year 5, most businesses and half of prosumers are 
+using smartphones. Meanwhile, only 15% of customers are using smartphones, which means the consumer 
+market has much more room for growth. We should acquire the company that appeals to consumers. 
+
+
+===== PDF p32 =====
+27 
+ 
+Exhibits #2 and #3 
+ 
+Smartphone Acquisition 
+Questions 
+Solution:  
+Question #1: Hand candidate Exhibit #2.  
+Here‟s some data from a survey of all smartphone customers. What does this mean for our client? Is there 
+any other information you‟d want to know? 
+Question #2: Hand candidate Exhibit #3.  (Ideally, the candidate should ask for this data in the previous 
+question.) Here‟s that same survey broken out into two segments. What does this mean for our client? 
+ 
+ 
+Question #1: This is a red herring; there isn‟t much information here that is helpful to our client.  A bad 
+response tries to draw too much meaning from these numbers. A good response identifies that the phones 
+are more or less equal to all customers. A great response identifies that this data might be different for each 
+customer segment and asks whether there‟s any additional information on how each segment sees the two 
+products. 
+Question #2: A good response identifies that SmartCo appeals to consumers and PhoneCo appeals to 
+businesses. (If asked, prosumers are a mix, but lean slightly toward SmartCo.) A great response ties this 
+information together with the market size for consumers from the previous question and recommends that 
+our client purchase SmartCo unprompted. 
+
+
+===== PDF p33 =====
+28 
+ 
+Conclusion 
+ 
+ 
+Smartphone Acquisition 
+ 
+Recommendation 
+ 
+o Risk #1: Competitive entry. What if another player enters the market and tries to go after consumers? 
+ 
+o Risk #2: PhoneCo. What if PhoneCo sees the consumer growth numbers and comes after our market? 
+ 
+o Risk #3: Customer preferences. What if consumers value different attributes as the market grows? 
+ 
+Risks 
+Our client should purchase SmartCo because they produce a phone that appeals to consumers. Consumers 
+will be roughly a third of the market in five years, but since smartphones will only be 15% of the mobile 
+phone  market, the consumer segment will have enormous room for growth (whereas businesses and 
+prosumers will not).  
+ 
+
+
+===== PDF p34 =====
+29 
+ 
+Bonus Question 
+ 
+Smartphone Acquisition 
+Questions 
+Solution:  
+Give this bonus question of the candidate has extra time and has correctly identified SmartCo as the 
+most attractive acquisition option. 
+ 
+Based on your recommendation, our client has decided to purchase SmartCo. But before they sign the deal, 
+Apple announces that they‟re releasing the iPhone. Does your recommendation change? 
+ 
+ 
+ 
+The candidate can answer this question in three ways. 
+ 
+SmartCo is still the best bet. Potential reasoning: 
+-The consumer market is big enough for multiple players 
+- We‟re a 4.7/5 on style and a 4.8/5 on price – can Apple really beat that? 
+- The iPhone may be just as appealing to businesses and prosumers; PhoneCo won‟t be safe. 
+ 
+PhoneCo is a better bet. Potential reasoning: 
+-Why compete with Apple when we can have a niche to ourselves? 
+- Customers rank SmartCo highly now, but that might change when the iPhone is released. 
+ 
+Our client shouldn‟t acquire either player. Potential reasoning: 
+-There‟s too much uncertainty in the market. 
+-This is a very new industry, and anything can change; we should wait a few years to get a better picture. 
+--  
+
+
+===== PDF p35 =====
+30 
+Exhibit 1: Mobile Phone Market (2007 est.) 
+ 
+Smartphone Acquisition 
+Business 
+(total market: $60b) 
+Current 
+Smartphone 
+Market:  
+50% 
+Prosumer 
+(total market: $80b) 
+Consumer 
+(total market: $300b) 
+Current 
+Smartphone 
+Market:  
+25% 
+Current Smartphone Market:  
+5% 
+
+
+===== PDF p36 =====
+31 
+Exhibit 2: Customer Survey 
+(scale of 1 to 5) 
+ 
+Smartphone Acquisition 
+Survey Question 1:  
+How important are the following attributes in a smartphone? 
+ 
+Survey Question 2:  
+How would you rate [SmartCo / PhoneCo]‟s performance on each attribute? 
+ 
+Scale: 
+5 = highest 
+1 = lowest 
+Attribute 
+Web 
+Style 
+Price 
+Screen 
+Apps 
+E-mail 
+Importance 
+4.7 
+4.6 
+4.2 
+3.9 
+3.7 
+3.4 
+SmartCo 
+3.9 
+4.7 
+4.4 
+3.6 
+4.2 
+3.4 
+PhoneCo 
+4.5 
+4.2 
+3.6 
+3.7 
+3.0 
+4.4 
+Sample: 
+All customer segments 
+
+
+===== PDF p37 =====
+32 
+Exhibit 3: Customer Survey by Segment 
+(scale of 1 to 5) 
+ 
+Smartphone Acquisition 
+Survey Question 1:  
+How important are the following attributes in a smartphone? 
+ 
+Survey Question 2:  
+How would you rate [SmartCo / PhoneCo]‟s performance on each attribute? 
+ 
+Scale: 
+5 = highest 
+1 = lowest 
+Attribute 
+E-mail 
+Web 
+Screen 
+Importance 
+5.0 
+4.8 
+4.4 
+SmartCo 
+3.2 
+3.7 
+3.9 
+PhoneCo 
+4.7 
+4.5 
+4.0 
+Sample: 
+Business segment customers 
+Consumer segment customers 
+Attribute 
+Style 
+Price 
+Apps 
+Importance 
+4.7 
+4.6 
+4.2 
+SmartCo 
+4.9 
+4.8 
+4.4 
+PhoneCo 
+2.8 
+3.2 
+2.6 
+Businesses 
+Consumers 

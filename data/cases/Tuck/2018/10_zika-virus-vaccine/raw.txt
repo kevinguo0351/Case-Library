@@ -1,0 +1,281 @@
+===== PDF p88 =====
+Tuck Consulting Club
+84
+Zika Virus Vaccine
+Good: They should understand this 
+is a go/no go investment decision 
+and create a framework to analyze 
+such a question
+Better:  They should clarify that the 
+market is the Americas
+Best:  They will learn about the 
+patent issues and competitors with 
+no prompting but through their 
+own questions.
+Candidate Evaluation
+Your client is a large pharmaceutical drug company. They started researching the 
+Zika virus years ago when it was discovered in Africa and are now close to a vaccine. 
+The vaccine needs to pass a final phase of testing to be approved by the FDA, 
+however, the client is nearly 100% certain it will pass. Your client needs to decide if 
+they should fund the final phase, which would last 1 year and cost $2 billion. Mass 
+production of the vaccine could start immediately following approval.
+Case Prompt
+Clarifying Information
+• Vaccine is administered as a one-time shot
+• Market is North, South, and Central America
+• Patent protection is questionable. Given the global importance of a vaccine, a US 
+senator is writing a bill would make patenting this vaccine impossible but a 
+decision by Congress probably won’t be reached for at least a year. The bill 
+appears to have high levels of public and congressional support.
+• Nearest competitors are about 4 years from developing a vaccine. However, if 
+there is no patent protection it will only take competitors 2 years from the time the 
+vaccine is released to copy it, complete FDA testing, and bring their own version 
+to the market (e.g. two years of protection).  It will cost competitors $1 billion to 
+copy, test, and build facilities to produce the vaccine.
+Zika in Africa hasn’t been linked with microcephaly (abnormally small head), hence 
+there is very limited demand, which is why it’s not in the market scope
+Case Commentary (Notes to Interview)
+Type: Go/No Go, Profitability, Market Entry
+Author: Michael Alemany T’16
+
+
+===== PDF p89 =====
+85
+Framework
+Sample Framework(s)
+When thinking about an approach to 
+solving the case prompt, what are the 
+components a candidate should absolutely 
+include vs. the ideas that differentiate an 
+interviewee?
+Must-haves: Market and profitability 
+analysis
+Nice to haves:  Competition analysis
+Differentiators:  Separates the Americas 
+into developed and developing nations or 
+some other meaningful way that 
+recognizes different willingness to pay
+Behind the Framework
+Fund final 
+phase
+Market
+Americas 
+Population
+Developed 
+nations
+Developing 
+nations
+Growth
+Birth rate
+Profitability
+Revenues
+Price
+Volume
+Costs
+Variable
+Fixed
+Initial 
+investment
+Competition
+Patent 
+protection
+Other pharma 
+companies
+
+
+===== PDF p90 =====
+Tuck Consulting Club
+86
+Market Sizing
+Candidate should quickly focus on sizing the market for the vaccine. They should begin by identifying the relevant market and
+then estimating the addressable population that will pay for the vaccine.
+Question 1
+Market – North & South America
+• Developed Countries – 400 million
+• Developing Countries – 600 million
+• Americas Average Birth rate – 15 births/1000 population
+Price / % of population willing to pay – Exhibit 1 (wait 
+for candidate to ask about data before providing) 
+• Developed Countries - $20 price / 75% willing to pay
+• Developing Countries - $10 price / 50% willing to pay
+Guidance
+The candidate should be able to understand the exhibit and draw accurate conclusions regarding price and willingness to pay 
+in developed and developing countries respectively.  They should also accurately calculate market size.  
+Insightful candidates will quickly realize there are two market segments: the existing population and future births. 
+An inquisitive candidate may question why there are individuals who wouldn’t pay for the vaccine at any price (possible 
+explanations - anti-vaccine stance, live in extremely remote or cold locations, etc.).  
+Candidate Insights
+Market Sizing
+Amounts in millions
+Developed 
+Countries
+Developing 
+Countries
+Total 
+Market
+Existing Population
+400
+600
+1,000
+% willing to pay
+75%
+50%
+60%
+Addressable Market
+300
+300
+600
+Annual Births
+6
+9
+15
+% parents willing to pay
+75%
+50%
+60%
+Addressable Market
+4.5
+4.5
+9
+
+
+===== PDF p91 =====
+Tuck Consulting Club
+87
+Profitability
+Candidate should next move onto valuing the profitability of the drug 
+Question 2
+Wait for them to ask for the following data:
+• Variable cost per dose = $9
+• Annual Production capacity = 300 mil doses
+• Discount rate = 10% (not essential)
+Calculation set up:
+• Assume that in years 1 & 2 (a) new births are 
+included in the 300 million & (b) sales are split 
+evenly between developed & developing 
+nations
+Guidance
+• Candidate should recognize that the client will recoup investment in year 2 so this is an attractive investment despite the 
+patent concerns
+• Further, an insightful candidate will realize that the economics don’t work for competitors to enter the market in year 3. 
+Essentially, in year 3 there is a profit perpetuity of $450 million ($45m/10%=$450m), which is insufficient to recover a 
+competitors $1 billion investment, even with 100% market share.  Adding a modest population growth rate won’t radically 
+change the economics either.  Therefore, your client has a monopoly position in this drug with or without a patent. If the 
+candidate comes to this conclusion without calculating a perpetuity that is still a fantastic answer.
+Candidate Insights
+Financials
+Year 0
+Year 1
+Year 2
+Year 3+
+Sales Volume ('000,000)
+300
+300
+9
+Weighted Average Unit Price
+$15
+$15
+$15
+Revenue
+$4,500 
+$4,500 
+$135 
+Cost
+($2,000)
+($2,700)
+($2,700)
+($81)
+Profit
+($2,000)
+$1,800 
+$1,800 
+$54 
+Below not required! Proof that discounting CFs is a large positive NPV
+PV
+($2,000)
+$1,636 
+$1,488 
+$406*
+NPV
+$1,529.68 
+*PV of $540m perpetuity ($54m/10%)
+
+
+===== PDF p92 =====
+The client should proceed with the $2 billion investment and the final round of testing 
+to launch the vaccine
+• Attractive market size
+• Recoup investment in 2 years
+• Because of first mover advantage client will have a monopoly position in the Zika
+virus vaccine market
+Good:  Concludes that the 
+company should proceed with 
+funding the final round of testing 
+and launch the drug
+Better:  Recognizes that patent 
+protection is not necessary for this 
+to still be attractive.
+Best:  Recognizes that competitors 
+are extremely unlikely to enter the 
+market since they can’t recoup 
+investment costs. If Zika spreads 
+outside the Americas this might 
+lead to competitor entrants but 
+that still wouldn’t change the 
+decision to fund this project.
+• Assumes Zika virus stays contained in the Americas
+• Assumes clients understanding that all other competitors are 4 years out from a 
+vaccine is correct so no one else can capture part of the existing population 
+market 
+• Assumes competitors would have a similar variable cost and wouldn’t be able to 
+significantly reduce prices
+Move forward with vaccine testing and development but continue to monitor 
+competitor progress and whether the disease becomes a significant concern outside 
+the Americas 
+Tuck Consulting Club
+88
+Zika Virus Vaccine Wrap-Up
+Recommendation
+Candidate Evaluation
+Risks
+Next Steps
+
+
+===== PDF p93 =====
+Exhibit A
+89
+0
+5
+10
+15
+20
+25
+30
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+95%
+100%
+Price ($)
+% of Population Willing to Pay
+Willingness to Pay
+Developed Countries
+Developing Countries
+Footnote: Pricing and willingness to pay is the same for both the adult population as well as parents considering the 
+vaccine for their children.

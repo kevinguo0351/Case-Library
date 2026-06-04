@@ -1,0 +1,103 @@
+===== PDF p48 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 45 
+ 
+Case 20: Clicks Photography 
+Company: Bain and Co 
+ 
+Our client, a photography company, currently makes money by selling film and photo paper. They 
+have experienced declining profits over the past five years. We have determined that our client’s 
+declining profitability due to volume declines resulting from digital substitution. As a result, the client 
+is now considering a few new business ideas to enter digital photography. Our client has been 
+approached by Kmart in order to place “kiosks” within each of their stores. Kiosks are self-serve 
+stations that allow users to print their digital photos on the client’s paper. How do we evaluate the 
+attractiveness of this opportunity?  
+ 
+Suggested structure: Any new opportunity has to be profitable at least in the medium and long run. 
+The following questions should be answered to get there 
+ 
+Demand – What is the market demand for the digital photography printing services at K-Mart? 
+Profits – Even if there is good demand can the client turn profits? 
+Capabilities – What capabilities and resources does the client have to be successful in this business? 
+Risks – What are the potential risks of this agreement with K-Mart? 
+ 
+Step 1: Size the market opportunity - Estimate the potential demand for digital prints per year within 
+a single Kmart store as an example 
+Top down calculation: 
+• 1M people in Boston  
+- *10% are Kmart customers= 100K 
+- *10% of customers go to Kmart to do photo finishing = 10K 
+- *5% of these customers use a digital camera = 500 people 
+- *average person prints 100 digital photos per year = 50K prints 
+Bottom Up calculation: 
+• How many people go to a single Kmart per year? 
+- 2500 customers per day 
+- *350 days/yr = 875000 visits per year = 0.9 million approximately 
+• How many digital prints will this translate into? 
+- Average customer goes to Kmart ten times a year (0.9M/10) = 90K unique customers 
+- *10% of customers go to Kmart to do photo finishing = 9K 
+- *5% of these customers use a digital camera = 450 people 
+- *average person prints 100 digital photos per year = 45K prints 
+The market opportunity per K-Mart store per year is about 45-50K prints.  
+ 
+Step 2: Is the business profitable – Will it generate a good return on investment? 
+ 
+One of the simple ways to determine this is to calculate the break-even demand and compare it with 
+the potential market opportunity 
+ 
+ 
+
+
+===== PDF p49 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 46 
+ 
+Provide data to candidate: 
+ 
+- Initial investment per kiosk is $6000 
+- Average price per digital print is $0.50 
+ 
+- Fixed cost per kiosk per year is $5,000 
+ 
+- Average cost of photo paper per digital print is $0.10 
+ 
+- Cost of printing ink per 500 prints = $75 
+ 
+Breakeven calculations:  
+Revenue = Cost 
+0.5*Q = 5,000+ (0.25*Q) 
+ 
+ 
+0.25*Q = 5,000 
+Q = 20,000 prints 
+ 
+Payback calculations: 
+Assume the demand is 50000 prints per kiosk. Of that only 30,000 prints contribute to the profits 
+(20,000 breaks even). The margin per print is $0.25. The total profits per year per store are $7500. 
+The payback is less than 1 year 
+ 
+The client would have to believe that it could sell at least 20,000 prints in order to take this action. 
+Here the potential opportunity per year is greater than the breakeven quantity.  
+ 
+Step 3: Capabilities and resources 
+ 
+The candidate should think of what kind of resources and capabilities they need to be successful in 
+this business. Some questions to ask could be 
+- Client has to invest in photo printing machines at Kiosks. Do they have funds? 
+- Do they have enough production capacity to manufacture photo paper? 
+- Client will have to manage inventory of printing paper and ink at these Kiosks 
+- Client has to manage if any machine breaks down (or at least they are responsible for revenue loss) 
+- They need to work out the cash flow mechanism. Will the customers directly use their credit cards  
+   when using the self-service kiosk or will use the kiosk and later pay to K-mart 
+ 
+ 
+Step 4: Potential risks and issues – Some examples 
+ 
+• What if the demand is not as high as expected? Should they do a pilot launch? 
+• What if the present printing technology becomes obsolete in the next few years?  
+• Will our alliance will KMART prevent us from partnering with other major retailers? 
+• What if the price per print crashes because of competition from other retailers? 
+• We are assuming average numbers to decide on this initiative. Should we be focusing only on 
+stores that have more than average customers? 
+• What if the customers use the Kiosk machine in an incorrect way resulting in machine 
+damage? 
+ 
+ 

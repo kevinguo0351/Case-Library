@@ -1,0 +1,134 @@
+===== PDF p19 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+15
+Cutting Costs at To-Dye-For Fabrics  
+ 
+Opening 
+Our client is a fabric producer called To-Dye-For Fabrics. The company 
+purchases fabric in bulk from overseas and then dyes batches of fabric in 
+colors ordered by clients. It produces 1.4 million square meters of product 
+each month and its average variable cost is $0.60 per square meter.  
+ 
+Processed batches have the following distribution: 
+- 40% of the batches are greater than 5,000 square meters 
+- 30% of the batches are between 3,000 and 5,000 square meters 
+- 30% of the batches are less than 3,000 square meters 
+ 
+To-Dye-For uses two different processes to dye its fabrics: 
+Continuous Dyeing: where washing and dyeing are integrated in a 
+continuous process. This process is used for 70% of the company’s 
+production and is cheaper for batches of over 5,000 square meters. 
+Batch Processing: in which the washing and dyeing machines are 
+independent. The machines in this line need to be set up prior to each batch 
+being processed. Batch processing is used with the remaining production and 
+is cheaper for batches under 5,000 square meters. 
+If a batch has to be processed using a more expensive process, the cost is 
+$0.05 per square meter. 
+ 
+Our client has asked us to recommend how it might reduce its total costs. 
+How would you approach this problem? 
+ 
+Background 
+Provide the following information if requested: 
+ 
+Client orders  
+Clients usually make one or two orders during a month. Those orders are 
+aggregated and usually fulfilled within 15 days. 
+(If the interviewee wants to progress this issue, advise him/her that the 15 
+day fill time is not crucial to customers …they are okay with having orders 
+filled within a month) 
+ 
+Processes 
+The set-up time for the Batch process machine is one hour and the installed 
+capacity for that process is 700,000 square meters/month (assuming no set-
+up downtime). 
+ 
+
+
+===== PDF p20 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+16
+Answer 
+The variable cost curve for the two processes can be represented as follows: 
+ 
+ 
+ 
+In other words, it is more expensive for the company to process batches 
+under 5,000 square meters in size via the continuous dyeing.  
+ 
+The interviewee should calculate the monthly production of 1.4 million 
+square meters is currently being split into batches as follows: 
+- batches less than 3,000 m2= 30% of 1.4m = 420,000 m2 
+- batches between 3,000 m2and 5,000 m2= 30% of 1.4m =  420,000 m2 
+- batches greater than 5,000 m2= 40% of 1.4m =  560,000 m2 
+ 
+He/she should also calculate that currently the company is processing 70% x 
+1.4million = 980,000 m2 of fabric using the continuous dyeing process.  
+ 
+This means that the company is incurring an over-cost of $0.05 x (980,000 - 
+560,000) = $21,000 per month by having to use the continuous dyeing 
+process for batches smaller than 5,000m2. 
+  
+The interviewee should be able to infer that this means that the Batch 
+Processing machines are working at full capacity. Given the total capacity of 
+the Batch processing process is 700,000 m2/month and only 420,000 
+m2/month (1,400,000 - 980,000) are produced, that means that part of the 
+time the machine is not producing because of set-up time. In fact we can 
+calculate that 60% (700,000 / 420,000) of the time the machine is 
+producing and 40% of the time it’s being set-up.  
+ 
+Batch Size
+5,000
+Batch Process
+Continuous dyeing
+Variable Cost 
+
+
+===== PDF p21 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+17
+Recommendation to reduce costs: 
+Having identified the nature of the problem, the interviewee should turn to 
+recommending a solution.  
+ 
+One option is to buy another Batch Process machine. Even optimizing 
+production, the 40% non-producing time won’t be enough to accommodate 
+the additional 420,000 m2/month that should be produced via Batch 
+Processing. Only one machine is needed since the larger orders would need 
+less set-ups than the <3,000m2 batches. 
+ 
+ 
+If the interviewee reaches this point, you might ask them following 
+question: 
+What would be the maximum price to pay for the new Batch process 
+machine, knowing that the discount rate for the company is 10%?  
+Answer: 
+Assuming perpetual life for the new machine, the maximum price is 
+$2,520,000 ($21,000 * 12 / 10%). 
+ 
+A second option involves considering client needs and in particular their 
+willingness to accept longer order fulfillment time. If that is possible, order 
+aggregation is possible and thus, larger batches can be processed. This is 
+likely to avoid the need to purchase an extra machine. Larger batches will be 
+processed using the continuous dyeing technology that seems to be the 
+most cost efficient. 
+ 
+Further recommendations for creating larger batches include integrating 
+planning processes with clients; training the sales force to encourage order 
+optimization; and designing incentives for both clients and the sales force. 
+ 

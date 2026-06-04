@@ -1,0 +1,124 @@
+===== PDF p8 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+4
+Acquisition Panda-monium  
+ 
+Opening 
+A large national zoo is considering the acquisition of a rare giant panda. How 
+would you help the zoo’s management decide whether this is a worthwhile 
+venture? 
+ 
+Answer 
+The interviewee should take a few moments to brainstorm the impact of the 
+acquisition. He/she should consider the aspects of the actual acquisition, as 
+well as the support of the panda. He/she should also think about the 
+possible impact on revenue of a new attraction. If he/she wishes to progress 
+the financial impact in detail ask him/her to consider other factors first.  
+ 
+Issues to consider for an acquisition: 
+- 
+Space / Capacity / Facilities 
+- 
+Food / Diet 
+- 
+Trainers / Expertise 
+- 
+Environment / Temperature / Climate 
+- 
+Mating arrangements / additions of more pandas 
+Impact on Cost: 
+- 
+Facilities 
+- 
+Training 
+- 
+Food / Diet 
+- 
+Maintenance 
+Impact on Revenue: 
+- 
+Increase in attendance (volume of visitors) 
+- 
+Extra admission fee? 
+- 
+Programs / Events / Shows 
+ 
+ 
+Analysis 2 
+As you identified, one of the issues that the zoo must consider is the 
+financial impact of the acquisition. Calculate whether the acquisition is 
+financially viable. 
+ 
+Background 
+Provide the following information if requested: 
+ 
+Currently, 600,000 people visit the zoo each year. Half are adults, half are 
+children. 
+ 
+Admission is currently $15 for adults, $10 for children 
+
+
+===== PDF p9 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+5
+Other zoos have acquired pandas, and have seen increases in overall 
+attendance at the zoo. San Diego, for example, saw a 12% increase in the 
+first year, an increase which it maintained into the future.  
+ 
+Costs of acquiring the panda are as follows: 
+• 
+Consultants fees already incurred to identify available pandas in other 
+zoos and to advise on transportation requirements of $200,000 
+• 
+Acquisition fee of $590,000 payable immediately 
+• 
+Costs of building new enclosure is $1,475,000 payable immediately 
+• 
+Transportation costs of $335,000 payable immediately 
+• 
+Annual panda expenditure and maintenance on the enclosure is 
+$300,000 paid at the end of each year 
+ 
+Applicable discount rate = 20% 
+ 
+Assume the gain experienced in the first year will be maintained in 
+perpetuity. For simplicity, ignore any capital maintenance or growth.  
+ 
+Answer 
+The interviewee should calculate the NPV of the project.  
+The immediate cost of acquiring the panda is $2.4 million (the 
+consultant’s fee is a sunk cost and should not be considered in this analysis). 
+Assuming the zoo will have a similar increased attendance as San 
+Diego, it is likely to see an increase in attendance of 12% on 600,000 people 
+= 72,000, or 36,000 adults and 36,000 children at the 50/50 ratio. This 
+translates into an increase in revenue of (36,000 * $15) + (36,000 * $10) = 
+$900,000. The maintenance each year is $300,000 and so the net impact on 
+earnings each year is a gain of $600,000. 
+ 
+Present value calculation: 
+ 
+Year 0 
+Year 1 onwards in perpetuity 
+Impact on 
+Income 
+($2.4 million) 
+Annual gain= $600,000 
+Perpetuity = $600,000/20% = $3 million 
+Present Value ($2.4 million) 
+$3 million/(1.2)= $2.5 million 
+ 
+So the NPV is just positive by $100,000. This provides evidence in favor of 
+acquiring the panda. The interviewee should summarize the case by 
+committing to a position and backing it up with evidence. Given a positive 
+NPV there exist strong grounds to acquire the panda.  
+ 

@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2012_26_plastic-world",
+  "school": "Kellogg",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2012.pdf",
+  "idx": 26,
+  "case_name": "Plastic World",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 197,
+  "pdf_page_end": 203,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    198,
+    199,
+    201,
+    202,
+    203
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p198.png",
+    "exhibits/exhibit_p199.png",
+    "exhibits/exhibit_p201.png",
+    "exhibits/exhibit_p202.png",
+    "exhibits/exhibit_p203.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2012\\26_plastic-world"
+}

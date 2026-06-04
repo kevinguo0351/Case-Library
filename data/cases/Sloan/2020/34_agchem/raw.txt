@@ -1,0 +1,189 @@
+===== PDF p157 =====
+Casebook | 2019-20 Edition 
+153 
+ 
+34. AgChem (Deloitte R2, Industrial Goods, Profitability, Quantitative) 
+(Note that this interview was an hour long) 
+ 
+Stem: Our client is AgChem, a private company in the U.S. with $5B in revenue in 2009 that 
+manufactures and distributes crop protection products. They sell products in two ways: proprietary 
+branded and vended manufacturer branded. Their revenues have seen strong growth but margins are 
+falling. The company has 10% market share in both segments. The CEO called in Deloitte to ask why 
+profits are falling and to develop a strategy. 
+ 
+Interviewer: What factors should we consider? 
+ 
+Note: if there is confusion over the term “vended manufacturer branded,” explain that it is branded with 
+the vendor’s brand. 
+ 
+A structure should include the following: Market effects (size, share, competition, growth/trends, and 
+barriers to entry/new entrants); Revenues (product mix, customers, geographies, etc.); and Costs (FC 
+and VC – Candidate should brainstorm some for each). 
+ 
+Interviewer: What do you think of this data? 
+ 
+Show the candidate the below table only: 
+ 
+Revenues 
+Profit 
+Proprietary 
+$1B 
+$80M 
+Total 
+$5B 
+$200M 
+ 
+Candidate should use the data to calculate the overall margin and margin on each of the proprietary and 
+vended products. Upon noticing that proprietary products have a substantially higher profit margin, 
+candidate should ask about trends by category over time or move into brainstorming ideas on how to 
+grow the proprietary share of the mix. Otherwise, prompt them for this information. 
+ 
+Candidate should end up with the following information: 
+ 
+Revenues 
+Profit 
+Margin 
+Proprietary 
+$1B 
+$80M 
+$80M/$1B = 8% 
+Vendor 
+$4B 
+$120M 
+$120M/$4B = 3% 
+Total 
+$5B 
+$200M 
+$200M/$5B = 4% 
+ 
+Interviewer: OK, let’s brainstorm some ideas on how to grow the proprietary share of the mix. 
+ 
+Candidate: Sure, this could be done by looking at customers, distribution, and products. 
+ 
+Customers: Evaluate customers and determine whether they are segmented and targeted 
+appropriately. Does this match the sales force strategy/resources? 
+
+
+===== PDF p158 =====
+Casebook | 2019-20 Edition 
+154 
+ 
+Distribution: Look at distribution channels and determine whether existing partnerships could be 
+revamped, new partnerships could be made, and whether the internet is an appropriate 
+distribution tool. 
+ 
+Products: Is the proprietary product differentiated enough from the vendor-branded product? Is 
+the price of the products in line with those of competitors? Invest in a new marketing campaign to 
+promote the proprietary products. 
+ 
+Interviewer: OK, I have another table for you. Estimate the profit (in $) for FY09-11 if the client is able to 
+obtain this revenue structure. 
+ 
+Provide the following data: 
+ 
+Revenue from Vendor ($B) 
+Revenue from Proprietary ($B) 
+Total Revenue ($B) 
+FY09 
+4 
+1 
+5 
+FY10 
+4.34 
+1.86 
+6.2 
+FY11 
+4.2 
+2.8 
+7 
+ 
+Candidate should notice that the proprietary products are going up as a percentage of total sales (20% in 
+2009, 30% in 2010, 40% in 2011) and therefore the overall profit margin is increasing. 
+ 
+Candidate should recall that vendor margins are 3% and proprietary margins are 8% and should therefore 
+be able to calculate the following profit numbers: 
+ 
+Vendor Profits 
+($M) = 3% of 
+Revenues 
+Proprietary 
+Profits ($M) = 
+8% of Revenues 
+Total Profits 
+($M) 
+Total Profit Margin 
+FY09 
+120 
+80 
+200 
+4% 
+FY10 
+130.2 
+148.8 
+279 
+4.5% 
+FY11 
+126 
+224 
+350 
+5% 
+ 
+ 
+Interviewer: Please calculate the incremental profit that AgChem will receive if they are able to 
+successfully shift their product mix so that it reflects the FY11 numbers. 
+ 
+• 
+2011 without changed mix: $7B in profit with initial 4% margin = $280M 
+• 
+2011 with changed mix: $7B in profit with 5% margin = $350M 
+• 
+The difference (incremental profit) is $70M 
+ 
+Candidate should discuss the significance of the $70M; i.e., this represents 35% percent of the 2009 
+profit of $200M and this is the amount that AgChem should be willing to spend to shift the product mix 
+(depending on their time horizon). 
+ 
+Interviewer: If instead they choose to expand geographically, how would this change marginal profit? 
+ 
+Provide the following data table to the candidate. 
+
+
+===== PDF p159 =====
+Casebook | 2019-20 Edition 
+155 
+ 
+Market size 
+AgChem share of market 
+Canada 
+$10B 
+2% 
+Brazil 
+$8B 
+2% 
+California 
+$5B 
+3% 
+Minnesota 
+$5B 
+1% 
+ 
+Candidate should calculate expected revenues from each new market and multiply by the original 4% 
+profit margin: 
+ 
+(200M + 160M + 150M + 50M) * .04 = $22.4M 
+ 
+Candidate should reflect on the difference between the $22.4M earned by geographic expansion 
+compared with the $70M earned by shifting the product mix. Additionally, there may be risks associated 
+with geographic expansion such as uncertainties surrounding new markets or industry growth trends by 
+region which are relevant. 
+ 
+Interviewer: What other factors would affect their ability to change product mix? 
+ 
+Candidate should brainstorm factors such as: competitive response, customer satisfaction, speed to 
+market for new products/promotions, ability to finance different options, geographical/cultural barriers, and 
+operational capacity. The best brainstorms are done categorically (internal vs. external, etc) 
+ 
+Interviewer: What is your final recommendation? 
+ 
+Candidate’s response should be in line with prior analysis but will likely include a recommendation to shift 
+product mix toward proprietary products. 

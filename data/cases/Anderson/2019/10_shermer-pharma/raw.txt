@@ -1,0 +1,238 @@
+===== PDF p89 =====
+10 / Shermer Pharma
+Our client, Shermer Pharma, is a venture-backed start-up Pharmaceutical company. Over the past 15 years, Shermer has been
+developing a molecule that has been approved by the FDA to cure Alzheimer’s with 90% efficacy. We have to determine:
+•
+How should we sell our product?
+•
+Is our product going to be profitable?
+Overview for Interviewer
+Industry: Pharmaceuticals
+Case Format: Market Entry
+Concepts Tested:
+• Market Entry
+• Market Sizing
+• Breakeven
+• Risk Evaluation
+Notes
+This case focuses on 2 questions: can the interviewee determine what it 
+takes to launch a new product profitably through a cost-benefit analysis, 
+and can the interviewee think through the implications of starting a sales & 
+marketing organization from scratch?
+The case is driven by the interviewee.
+There are two primary options for the sales & marketing question: 
+•
+Start your own sales force
+•
+Contract sales
+Another high-quality option is to sell Shermer to a larger firm.
+Profitability opportunity will center on the interviewee’s ability to read 
+tables and data on the market and Shermer’s market share.
+Case structure:
+Interviewee should focus on the questions separately. First, they should 
+brainstorm how they would sell the product and ask questions to get after 
+the costs of a sales force (Exhibit 1). An optional middle step is a brain 
+teaser to determine the size of the Alzheimer’s market (provide answer of 5 
+million at the end of the exercise.) They then need to ask about the costs 
+and revenues from the new product (Exhibit 2).
+
+
+===== PDF p90 =====
+Interviewer Guidance
+Clarifying Answers to Provide if Asked
+Industry definitions:
+•
+Our product is a pill that cures 
+Alzheimer’s, an illness that 
+currently has no treatment that 
+cures or stops the progress of 
+this disease
+•
+Alzheimer’s is a degenerative, 
+terminal disease that causes 
+senility and dementia. 
+•
+30 million people suffer 
+worldwide
+•
+Sales would be focused on 
+Neurologists and Psychiatrists 
+(not the consumer or product)
+Client Characteristics
+•
+Shermer doesn’t have a Sales or 
+Marketing organization, the 
+company has purely been a 
+research firm to this point. FDA 
+approval, etc. has been granted
+Competitive Dynamics
+•
+We will not focus on 
+competitive response during this 
+case as we are the only firm that 
+has a cure for this illness and 
+will be for the next 5 years due 
+to the barriers to entry of 
+competition.
+Guidance on 
+Exhibits
+•
+After the interviewee walks through their structure, they should ask questions about 
+the costs of sales and then ultimately the profit equation.
+•
+Let the interviewee drive the case. When you feel that they have asked enough 
+information about the following topics, give them the exhibit that shoes this 
+information:
+o
+Sales force options 🡪
+Exhibit 1
+o
+Revenues vs. costs 🡪
+Exhibit 2
+•
+If the interviewee isn’t getting to the question on the three sales force options, guide 
+them back toward this and provide Exhibit 1.
+•
+Have a conversation with the interviewee to force them to talk through the essential 
+components of the profit equation that are needed to answer the question. 
+•
+The numbers reveal that the product will be profitable. However a critical question 
+will be the sales channel, which is why they need to determine to use contract sales in 
+order to be profitable. It is also correct to state that Shermer should sell the product to 
+a larger firm, but the second half of the case should be under the assumption that the 
+owners decide to do contract sales. 
+
+
+===== PDF p91 =====
+Exhibit Guidance-Interviewer’s Eyes Only
+Clarifying Answers to Provide if Asked
+Guidance on 
+Exhibits
+This page possesses all the 
+“missing pieces” for the case – it 
+is your discretion to provide the 
+right answers/plugs when needed 
+for the candidate
+1
+2
+
+
+===== PDF p92 =====
+Key Elements to Analyze
+Market 
+Entry
+Using Exhibit 1, the interviewee should be able to      
+determine that contract sales is the best financial 
+option.
+Notes to the 
+interviewer
+•
+The question boils down to realizing that the client’s 
+competencies are rooted in developing a product, not sales and 
+marketing. The correct approach is therefore to contract sales 
+or sell the company.
+•
+The qualitative approach to the answer is appropriate, but once 
+the interviewee has discussed enough of the inputs, share 
+exhibit 1.
+o
+There is missing data in the chart that should be calculated.
+•
+A third option with no attached data would be to sell the 
+company to a larger firm, this is a good discussion to have and 
+if prompted the interviewee should discuss the tradeoffs 
+qualitatively.
+•
+A contract sales organization is typically less effective than 
+internal sales, though most interviewers won’t pick up on this 
+and simply giving the financial answer is appropriate.
+•
+You should let them try to size the market as a first step, 
+but then provide the actual number of 5 million.
+•
+The firm requires that R&D costs be recovered by Year 5 
+of the product (a window before which there will be no 
+competitive response)
+o
+We can ignore NPV for this question and just assume   
+a straight line amortization. The interviewee 
+should come to this conclusion on their own but correcting 
+is 
+okay if they get stuck.
+•
+Critical information on the exhibit should be provided as 
+the interviewee asks, though should only be volunteered if 
+they are stuck
+•
+We can ignore tax, however a good interviewee will ask 
+about it, and doing so would realize we will still hit profit 
+targets by year 5
+•
+Manufacturing and packaging costs are included in the 
+gross margin
+Using exhibit 2, the interviewee should determine that our
+product will be profitable utilizing either type of sales force
+Profitability
+Notes to the 
+interviewer
+
+
+===== PDF p93 =====
+Solutions and Recommendations
+Wrap it Up
+Please provide an overview of the issue at hand, and a concise recommendation as to how we should proceed.
+Notes to Interviewer
+•
+Shermer Pharma’s core competency is their research focus. The plausible argument can be made that they should sell the 
+company to a larger firm that has the appropriate capabilities that it takes to market and sell a product. Though this might be 
+the right answer, the client isn’t always going to take the optimal approach, particularly when it comes to ownership of the 
+firm. We need to be flexible to account management’s wishes.
+•
+Assuming the owners decide not to sell the company, contract sales is the next best option, that gives us the best scenario 
+when determining overall profitability of our product.
+•
+The latter half of the case is simple math, determining a P&L for our product and coming up with the correct answer that 
+Shermer can be profitable.
+•
+Ask for high level analysis at the end of the case. What else?
+•
+There is an option to sell the company even though there is no data provided to support this. 
+•
+Challenging the interviewer on the effectiveness of a contract sales organization is a bonus. A qualitative argument can be 
+made that for an additional 5 Million per year, we can realize the benefit of a more effective sales force. 
+•
+$1,000 per year for a life-saving cure for a currently incurable ailment may be under priced.
+
+
+===== PDF p94 =====
+Exhibit 1-Sales Force Options
+Present Exhibit 1 
+Notes to Interviewer
+
+
+===== PDF p95 =====
+Exhibit 2-Annual Net Income
+Present Exhibit 1 
+Notes to Interviewer
+
+
+===== PDF p96 =====
+Potential Structure
+Market Size
+• Competition
+o
+Number of players
+o
+Market share
+• Alzheimer’s prevalence 
+• Growth & Trends
+• Price Sensitivity/Elasticity
+Go to Market
+• Pricing/Revenue Model 
+• Launch Strategy
+• Funding
+Product
+• Barriers to Entry
+• FDA & Regulatory
+• Capital Investment 
+• Economic Risk 

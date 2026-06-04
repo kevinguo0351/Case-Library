@@ -1,0 +1,406 @@
+===== PDF p47 =====
+42 
+Pill Pushers 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+Our client, Pill Pushers, sells generic  prescription drugs in the US.  It has been relatively successful over 
+the past several years and has products in most of the chain retail pharmacies.  Pill Pushers just received a 
+proposed price schedule for various drugs from its Indian manufacturing partner and has asked for our 
+recommendation on which 1 or 2 drugs to produce.  How do we arrive at a recommendation? 
+-Type of Case: Profitability and Market Entry Case 
+-If asked, client’s sales are US only.  Mostly, client 
+outsources manufacturing, but keeps everything 
+else, like marketing and distribution, in house. 
+-If asked, our client focuses on generic prescription 
+drugs, so no over-the-table things like aspirin or 
+ibuprofen and no patented branded things like 
+Viagra or Lipitor.  This means doctors are 
+important, either as collaborators or customers (the 
+industry considers them customers). 
+-Provide an exhibit only when the subject asks for 
+information contained in the exhibit. 
+-The general flow of the case is to use Exhibit 1 to 
+eliminate Dermatology and Cardiology drugs, then 
+use Exhibit 2 to eliminate Psychiatry drugs, leaving 
+only Oncology drugs. 
+Case: Pill Pushers 
+
+
+===== PDF p48 =====
+43 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+Pill Pushers 
+Sample Framework 
+1.
+Customers by Pill 
+1.
+Mkt size and ∆ mkt size 
+1.
+Frequency of usage (i.e. 2 pills 2x/day, or 1 pill 1x/day) 
+2.
+Duration of illness (life-long problem or the flu) 
+2.
+Role of Non-users (doctors, pharmacies, insurers) 
+1.
+Tastes and preferences (price sensitive insurers, results-oriented doctors) 
+2.
+Decision power (prescription writing, paying) and process (which media, what info) 
+2.
+Competitors by Pill 
+1. Objective: profit, mkt share, diversification             2. #, R, ∏, and ∆s 
+3. Products: a) pills, patches, liquids, lifestyle ∆  b) Brands v generics  c)Loss leader or flagship pill 
+4. Positioning/Differentiation/Pricing 
+       5. Barriers to Entry/Exit     6. Distribution/access 
+7. Competitive Response 
+3.
+Collaborators by Pill 
+1.
+ID: pharmacies?, doctors?, Indian Manufacturer 
+2.
+Objective of each: profit, mkt share, diversification, etc 
+4.
+Company 
+1.
+Objective: profit, mkt share, diversification 
+2.
+Product Mix a) what do we already sell?  Which new product is easiest to add? 
+3.
+Big Picture: exit strategy, long-term plan, contingencies, next steps 
+
+
+===== PDF p49 =====
+44 
+Pill Pushers 
+How should we evaluate the pricing schedule?  
+Question #1: How should we evaluate the pricing schedule? (Give Exhibit #1) 
+•Trick: One can see in the Answer Key to Exhibit 1 that the trick is to realize that the schedule must be in 
+standard units, for example price per pill. 
+•Assumption: This case assumes that usage frequencies and volumes are equal across pills.  Really, there’s 
+a huge difference in pill usage between chronic diseases and the common cold.  The interviewer can be 
+really mean and add this dynamic. 
+•Key Facts: An important fact is that profits for all Oncology and Psychiatry drugs > $ 0.10/pill, while profits 
+for Dermatology and Cardiology drugs are < $0.10/pill. 
+•Take-away: The interviewee should conclude that Oncology and Psychiatry drugs are more profitable than 
+Dermatology and Cardiology drugs. 
+ 
+•BONUS: The business insight that not all pills are equal in volume or usage.  Some are taken twice a day 
+every day forever.  Others are taken five times for the cold and then never again. 
+Question #1 Solution:  
+Question 1 
+
+
+===== PDF p50 =====
+45 
+Pill Pushers 
+How do features of the Sales Division affect our recommendation? 
+Question #2: How do features of the Sales Division affect our recommendation?(Give Exhibit #2) 
+•Trick: Capacity utilization of a salesman’s brain comes into play.  A human can only remember so many 
+things.  The “Product Per Salesman” row gives a clue. 
+•Key Facts: An important fact is that Oncology salesmen’s brains have “room” for 2 more drugs, while 
+Psychiatry salesmen’s brains are “full.” 
+•Take-away: The interviewee should conclude that Oncology drugs have zero fixed costs, while Psychiatry 
+drugs have fixed costs of $2.52mn (42 psychiatry salesmen X $60k training/salesmen = $2.52mn). 
+ 
+•If the interviewee doesn’t hit on salesman brain capacity by looking at Exhibit 2, provide Exhibit 3. 
+ 
+•BONUS: The business insights that not all salesmen are created equal or there may be ways to re-do the 
+Sales Division are useful for the Next Steps section of the recommendation. 
+•BONUS: figuring out the capacity issue without Exhibit 3. 
+Question #2 Solution:  
+Question 2 
+
+
+===== PDF p51 =====
+46 
+ 
+Conclusion 
+ 
+ 
+Pill Pushers 
+Recommendation 
+o Other manufacturers may offer better price schedules. 
+o Sales Division’s training could be more efficient, which would increase “capacity” of salesmen’s  
+Brains. 
+ 
+Risks 
+o Look for manufacturers that offer better price schedules. 
+o Look at the Sales training program. 
+ 
+Next Steps 
+o We recommend adding Drugs #4 and #8 to the current product mix, because they have the highest 
+revenue and lowest cost.  From our analysis, we conclude that Oncology and Psychiatry drugs produce 
+higher revenue than Cardiology and Dermatology drugs.  Furthermore, we found that Psychiatry drug 
+salesman are at capacity utilization, so adding more drugs requires adding more salesmen, which 
+increases fixed costs.  However, Oncology salesmen are below capacity by 2 drugs, so we can add 2 
+drugs without increasing fixed costs. 
+ 
+
+
+===== PDF p52 =====
+47 
+Pill Pushers 
+Table 1: Proposed Price Schedule 
+Drug 
+Practice 
+Retail Price/Bottle 
+# Pills/bottle 
+% Dist. Cost/ 
+ per pill 
+1 
+Psychiatry 
+$9.00  
+45 
+50% 
+2 
+Dermetology 
+$19.50  
+65 
+70% 
+3 
+Cardiology 
+$6.40  
+40 
+50% 
+4 
+Oncology 
+$15.00  
+60 
+40% 
+5 
+Psychiatry 
+$8.00  
+40 
+25% 
+6 
+Dermetology 
+$8.25  
+55 
+60% 
+7 
+Cardiology 
+$14.00  
+70 
+70% 
+8 
+Oncology 
+$10.00  
+50 
+30% 
+9 
+Psychiatry 
+$12.50  
+50 
+40% 
+10 
+Oncology 
+$8.00  
+40 
+50% 
+Exhibit 1 
+
+
+===== PDF p53 =====
+48 
+Pill Pushers 
+Answer Key to Table 1: Proposed Price Schedule 
+Drug 
+Practice 
+Retail Price/Bottle # Pills/bottle [Price/Pill] % Dist. [pill] [Rev/pill] 
+1 
+Psychiatry 
+$9.00  
+45 
+$0.20  
+50% 
+$0.10  
+2 
+Dermetology 
+$19.50  
+65 
+$0.30  
+70% 
+$0.09  
+3 
+Cardiology 
+$6.40  
+40 
+$0.16  
+50% 
+$0.08  
+4 
+Oncology 
+$15.00  
+60 
+$0.25  
+40% 
+$0.15  
+5 
+Psychiatry 
+$8.00  
+40 
+$0.20  
+25% 
+$0.15  
+6 
+Dermetology 
+$8.25  
+55 
+$0.15  
+60% 
+$0.06  
+7 
+Cardiology 
+$14.00  
+70 
+$0.20  
+70% 
+$0.06  
+8 
+Oncology 
+$10.00  
+50 
+$0.20  
+30% 
+$0.14  
+9 
+Psychiatry 
+$12.50  
+50 
+$0.25  
+40% 
+$0.15  
+10 
+Oncology 
+$8.00  
+40 
+$0.20  
+50% 
+$0.10  
+•If interviewee asks, volumes are equal across pills, not bottles, which means that the highest per-unit profit 
+pill is the most profitable pill 
+ 
+•The trick w/Exhibit 1 is to realize that the table shows prices in apples and oranges (pills and bottles), and 
+the interviewee needs to convert. 
+ 
+•While a break-even analysis is a good idea, it’s not needed for this case. 
+Exhibit 1: Answer Key 
+
+
+===== PDF p54 =====
+49 
+Pill Pushers 
+Table 2: Sales Division 
+Psychiatry Dermatology Cardiology Oncology 
+# Sales people 
+42 
+34 
+29 
+47 
+Products/Sales person 
+5 
+4 
+2 
+3 
+Fixed Costs/Employee 
+60,000 
+70,000 
+50,000 
+50,000 
+Exhibit 2 
+
+
+===== PDF p55 =====
+50 
+Pill Pushers 
+Table 2: Sales Division 
+Psychiatry Dermatology Cardiology Oncology 
+# Sales people 
+42 
+34 
+29 
+47 
+Products/Sales person 
+5 
+4 
+2 
+3 
+Fixed Costs/Employee 
+60,000 
+70,000 
+50,000 
+50,000 
+•If interviewee asks, a salesman's memory capacity is 5 drugs.  In other words, a salesman can 
+talk about, at most, 5 drugs.  If a 6th drug is added to a product category, then a new salesman 
+must also be added. 
+ 
+•If the interviewee asks, a customer (doctor, hospital, etc) sees only 1 salesman.   1 salesman 
+sees many customers, but 1 customer sees 1 salesman.  
+ 
+•A key insight to this exhibit is salesman capacity.  A second key insight is the fact that adding a 
+drug to Psychiatry adds a salesman to Psychiatry, whereas adding a drug to Oncology does not 
+add a salesman to Oncology. 
+ 
+•The interviewee is supposed to use Exhibit 1 to rule out Dermatology and Cardiology  and use 
+Exhibit 2 to rule out Psychiatry, leaving Oncology as the best drug. 
+Exhibit 2: Answer Key 
+
+
+===== PDF p56 =====
+51 
+Table 3: Salesman's Performance 
+# Products 
+Sell volume 
+1 
+100 
+2 
+170 
+3 
+220 
+4 
+260 
+5 
+290 
+6 
+260 
+Exhibit 3 
+
+
+===== PDF p57 =====
+52 
+Pill Pushers 
+Answer Key Table 3: Salesman's Performance 
+# Products 
+Sales volume 
+Marginal Volume 
+1 
+100 
+100 
+2 
+170 
+70 
+3 
+220 
+50 
+4 
+260 
+40 
+5 
+290 
+30 
+6 
+260 
+-30 
+•The key to exhibit 3 is to recognize that a salesman can only remember stuff 
+about 5 products 
+ 
+•Only provide Exhibit 3 if the interviewee leads the discussion anywhere along 
+the lines of the observation that a human can only remember so many things. 
+ 
+•If the interviewee asks, 1 customer sees 1 salesman, but 1 salesman sees 
+many customers.  This denies the option of hiring 5 salesman, who each know a 
+different drug and 1 drug each, and earning a total sales volume of 500. 
+Exhibit 3: Answer Key 

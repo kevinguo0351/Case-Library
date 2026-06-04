@@ -1,0 +1,427 @@
+===== PDF p94 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+90 
+Case tracker 
+Fit Questions 
+Industry:  
+Tech/Telecom 
+Level of Difficulty: 
+Hard 
+Case Format: 
+Improving profitability 
++ Reducing Costs 
+Concepts Tested: 
+- Marketing Strategy 
+- Competitive 
+Analysis 
+- Supply/value chain 
+Case Question 
+Our client, Bell Computer Inc., is the second largest PC manufacturer, by unit sales, in the United States.  Over the past 5 
+years, Bell has been gaining market share and growing revenue, but at the same time, their net income is eroding. 
+The founder of Bell has returned to the company and taken over as CEO.  He has hired us to determine: 
+Why have our profit margins declined? 
+What can we do to improve our profitability and reach our “Full Potential”? 
+Spend  first 15 min on fit 
+What skills can you bring 
+to this position? 
+Give me an example of a 
+business problem your 
+company faced and tell 
+me how you solved it.  
+What other types of jobs 
+are you considering? 
+Why and how did you 
+choose the companies? 
+How do they compare to 
+consulting? 
+ 
+Guide to interviewer 
+This case is primarily about product mix changes in the 
+PC industry combined with Average Selling Price (ASP) 
+Declines resulting in lower overall revenues for the 
+industry.  Competitors that did not keep up with cost 
+reductions are faced with tighter margins 
+The interviewee should recognize that this is a “Profit 
+Equation” style question and use a version of the 
+following equation in their “Framework”: 
+Profit/Unit = Price/Unit – Variable Cost/Unit – 
+Fixed Costs/Unit 
+Various terms from the PC industry are used throughout 
+the case and it is not expected that the interviewee 
+knows these terms.  Help as needed. 
+Case 11: Bell Computer Inc. 
+Quants. 
+8 
+Structure 
+10 
+Mkt. Stgy 
+Comp. Als 
+Sup Chain 
+By:  Adam J. Louras (Kellogg Class of ‘11) 
+
+
+===== PDF p95 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Clarifying answers and case guide  
+Interviewer Guide to case and handouts 
+Case Structure – Interviewee’s structure should be structured as a comparison of Bell 
+Computer’s  financials from Before, i.e. 2005, and After, i.e. 2010.  The interviewee 
+should note the “Profit Equation” and they should make the following inferences from 
+the question setup: 
+- Revenues are going up and Market Share is Increasing AND Net Income is going down 
+- Thus: Prices (ASPs) are being reduced to buy market share.  This is causing more units 
+to be sold, but, with Net Income going down, it is clear that costs have not reduced to 
+keep up with the reduction in ASPs. 
+Exhibit 1-3 – After Interviewee walks through structure, they should ask questions about  
+the components of Net Income, i.e. Revenue and Costs.   
+- Have a conversation with the Interviewee to force them to talk through the essential 
+components of the Profit Equation that are needed to answer the question.   
+- Let the Interviewee drive the case.  When you feel that they have asked enough 
+information about the following topics, give them the exhibit that shows this 
+information: 
+- Sales  Units    
+  
+Exhibit 1 
+- Prices    
+  
+Exhibit 2 
+- Costs  
+  
+Exhibit 3 
+Answer – The interviewee cannot solve this case without all three exhibits.  Once they 
+have given you sufficient reason to hand them each exhibit, they should drive through 
+the case to answer both questions. 
+ 
+ 
+ 
+Clarifying answers to provide if 
+Asked 
+Industry Definitions 
+- ASP: ASP or Average Selling Price is the 
+term used  for the average price sold by 
+the company for a computer.  
+Multiplying units sold by ASP will give 
+you total revenue. 
+- Client Segment: PCs designed for, and 
+sold to, retail consumers either direct or 
+through a retailer like Best Buy. 
+Client Characteristics 
+- Items Sold: Assume that only hardware 
+is sold as shown in Exhibit 1.  
+Interviewee could suggest selling 
+additional items such as printers, 
+software, warranty service, etc. to 
+improve profit 
+- Locations: This is a US Domestic 
+decision only.  Ignore international. 
+Competitive Dynamics 
+- All competitors face the same ASPs and 
+sell comparable products. 
+91 
+
+
+===== PDF p96 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Key elements to analyze 
+92 
+Marketing Strategy 
+Using Exhibits 1-3, the interviewee should be able to 
+determine that margins are falling due to product mix 
+shifting and price declines 
+ 
+Competitive Analysis + Supply Chain 
+Using Exhibit 3, the interviewee should identify a “Full Potential” 
+improvement for Bell to improve its margins by copying the 
+strategy of its direct competitors. 
+Notes to interviewer 
+• The Interviewee should be able to answer the question, “Why have our 
+profit margins declined?” with the following rationale: 
+• Exhibit 1: Shift in Client preference towards Laptops & Netbooks 
+• Exhibit 2: Declining ASPs for Laptops and Low ASPs for Netbooks 
+• Exhibit 3: Cost position has remained unchanged  
+• The interviewee could answer the question qualitatively by interpreting 
+Exhibits 1-3.  To make this case more quantitatively focused, ask the 
+interviewee to calculate various metrics for 2005 and 2010. 
+• The interviewee should be able to calculate the following using Exhibits 
+1-3 (Math calculations on following page): 
+• Net Income per Unit by product type 
+• Revenue by product type and Total Revenue  
+• Cost by product type and Total Cost 
+• Net Income by product type and Total Net Income 
+Notes to interviewer 
+
+The interviewee should be able to answer the question, “What can we do to 
+improve our profitability and reach our “Full Potential”?” with the following 
+COST REDUCTION strategy: 
+• Copy Haysus' strategy for part procurement to reduce the build cost of PCs 
+• Copy Racer's strategy for Direct Labor to reduce the labor cost of producing 
+PCs 
+• Copy HC's strategy for G&A to reduce the total company overhead 
+• The interviewee could answer the question qualitatively by interpreting 
+Exhibits 3.  To make this case more quantitatively focused, ask the 
+interviewee to calculate various metrics for “Full Potential”. 
+• The interviewee should be able to calculate Bell’s “Full Potential” using 
+Exhibits 1-3 (Math calculations on following page): 
+• Net Income per Unit by product type 
+• Revenue by product type and Total Revenue  
+• Cost by product type and Total Cost 
+• Net Income by product type and Total Net Income 
+ 
+92 
+
+
+===== PDF p97 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+ 
+Math Solutions 
+Math Part I 
+ 
+BELL FY2005 
+Desktop 
+PCs 
+Laptop 
+PCs 
+Netbook 
+PCs 
+Servers Other 
+TOTAL 
+Units Sold (K) 
+20.0 
+10.0 
+0.0 
+5.0 
+5.0 
+40.0  
+ASP 
+$1,000.0 $2,000.0 
+$0.0 $3,000.0 $250.0 
+CPU 
+800.0 
+800.0 
+0.0 
+800.0 200.0 
+NI/Unit 
+$200.0 $1,200.0 
+$0.0 $2,200.0 $50.0 
+Revenue ($M) 
+$20.0 
+$20.0 
+$0.0 
+$15.0 
+$1.3 
+$56.3  
+Total Cost ($M) 
+16.0 
+8.0 
+0.0 
+4.0 
+1.0 
+$29.0  
+NI ($M) 
+$4.0 
+$12.0 
+$0.0 
+$11.0 
+$0.3 
+$27.3  
+Profit Margin 
+20.0% 
+60.0% 
+73.3% 20.0% 
+48.4%  
+BELL FY2010 
+Desktop 
+PCs 
+Laptop 
+PCs 
+Netbook 
+PCs Servers Other 
+TOTAL 
+Units Sold (K) 
+30.0 
+30.0 
+5.0 
+10.0 
+5.0 
+80.0  
+ASP 
+$1,000.0 
+$750.0 
+$500.0 $3,000.0 $250.0 
+CPU 
+800.0 
+800.0 
+800.0 
+800.0 200.0 
+NI/Unit 
+$200.0 
+($50.0) 
+($300.0) $2,200.0 $50.0 
+Revenue ($M) 
+$30.0 
+$22.5 
+$2.5 
+$30.0 
+$1.3 
+$86.3  
+Total Cost ($M) 
+24.0 
+24.0 
+4.0 
+8.0 
+1.0 
+$61.0  
+NI ($M) 
+$6.0 
+($1.5) 
+($1.5) 
+$22.0 
+$0.3 
+$25.3  
+Profit Margin 
+20.0% 
+(6.7%) 
+(60.0%) 
+73.3% 20.0% 
+29.3%  
+BELL Full Potential 
+Desktop 
+PCs 
+Laptop 
+PCs 
+Netbook 
+PCs 
+Servers Other 
+TOTAL 
+Units Sold (K) 
+30.0 
+30.0 
+5.0 
+10.0 
+5.0 
+80.0  
+ASP 
+$1,000.0 
+$750.0 
+$500.0 $3,000.0 $250.0 
+CPU 
+350.0 
+350.0 
+350.0 
+350.0 200.0 
+NI/Unit 
+$650.0 
+$400.0 
+$150.0 $2,650.0 $50.0 
+Revenue ($M) 
+$30.0 
+$22.5 
+$2.5 
+$30.0 
+$1.3 
+$86.3  
+Total Cost ($M) 
+10.5 
+10.5 
+1.8 
+3.5 
+1.0 
+$27.3  
+NI ($M) 
+$19.5 
+$12.0 
+$0.8 
+$26.5 
+$0.3 
+$59.0  
+Profit Margin 
+65.0% 
+53.3% 
+30.0% 
+88.3% 20.0% 
+68.4%  
+Math Part II 
+Results: 
+Desktop 
+PCs 
+Laptop 
+PCs 
+Netbook 
+PCs 
+Servers Other 
+TOTAL 
+NI ($M) Improved 
+$13.5  
+$13.5  
+$2.3  
+$4.5  
+$0.0  
+$33.8  
+Cost Per Box 
+Reduced 
+$450.0  
+$450.0  
+$450.0  
+$450.0  
+$0.0  
+93 
+
+
+===== PDF p98 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Solution and recommendations 
+Solution & Recommendations 
+Bell Computer Inc., and the PC industry, have faced five years of Average Price declines in the Laptop product 
+segment.  At the same time, “Client” or retail consumers have shifted their preferences towards Laptops, and a new 
+product segment called Netbooks.  Because Bell Computer has not reduced their costs over this same timeframe, 
+profit margins and net income have deteriorated despite increases in Revenue. 
+In order for Bell Computer Inc. to return to profitability, they must reduce their cost per unit sold.  The best 
+approach we identified was through an analysis of our competitors.  Using our competitors line-item costs as a 
+benchmark, we could potentially reduce our cost per box by $450.  This amounts to a total Net Income 
+improvement of roughly $34M. 
+Bonus/Guide to an Excellent Case 
+An excellent interviewee will note: 
+
+Additional ways to improve net income by selling complimentary, high margin products such as: 
+
+Printers 
+
+Software 
+
+Parts upgrades 
+
+Warranties 
+
+Additional ways to cut costs, such as: 
+
+SKU Rationalization (Reducing the number of product models)  
+ 
+94 
+
+
+===== PDF p99 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+95 
+PC Units(K) Sold in 2005 
+PC Units(K) Sold in 2010 
+*Note: Netbook PCs did not exist in 2005; “Other” products include Pocket PCs and 
+Calculators  
+Exhibit 1: Product Mix breakdown by Business 
+Segment for 2005 and 2010 
+
+
+===== PDF p100 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Exhibit #2: ASPs by Business Segment 2005 and 2010 
+96 
+*Note: Netbook PCs did not exist in 2005 
+
+
+===== PDF p101 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Exhibit 3: Avg. Per Unit Cost Breakdown of a Desktop PC for Bell 
+(05’,10’) and Top 3 Competitors 
+97 
+*Note: Servers, Laptops, and Netbook Product types have the same costs per unit; 
+however, Net Income will vary based on ASP. 
+“Other” products have a total CPU of $200 

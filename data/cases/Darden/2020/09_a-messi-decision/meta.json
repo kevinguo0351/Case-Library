@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2020_09_a-messi-decision",
+  "school": "Darden",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2020.pdf",
+  "idx": 9,
+  "case_name": "A Messi Decision",
+  "case_type": "Investment",
+  "round": "1",
+  "industry": "Sports",
+  "difficulty": null,
+  "pdf_page_start": 144,
+  "pdf_page_end": 154,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    146,
+    147,
+    148,
+    154
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p146.png",
+    "exhibits/exhibit_p147.png",
+    "exhibits/exhibit_p148.png",
+    "exhibits/exhibit_p154.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2020\\09_a-messi-decision"
+}

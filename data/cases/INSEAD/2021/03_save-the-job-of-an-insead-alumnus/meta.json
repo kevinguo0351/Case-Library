@@ -1,0 +1,32 @@
+{
+  "case_id": "INSEAD_2021_03_save-the-job-of-an-insead-alumnus",
+  "school": "INSEAD",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2021.pdf",
+  "idx": 3,
+  "case_name": "Save the job of an INSEAD alumnus!",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Public sector",
+  "difficulty": null,
+  "pdf_page_start": 28,
+  "pdf_page_end": 37,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    30,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p030.png",
+    "exhibits/exhibit_p033.png",
+    "exhibits/exhibit_p034.png",
+    "exhibits/exhibit_p035.png",
+    "exhibits/exhibit_p036.png",
+    "exhibits/exhibit_p037.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2021\\03_save-the-job-of-an-insead-alumnus"
+}

@@ -1,0 +1,198 @@
+===== PDF p51 =====
+47
+Case 4: Retailco.com
+E-Commerce | Profitability
+Case Prompt
+Your client is a large online retailer, Retailco.com. They sell a wide range of products online 
+from electronics to apparel, etc. They have witnessed strong growth and profitability, however 
+over the last 12 months their operating margins have been thinning. The TV business accounts 
+for a large share of the business and company managers think there is an issue in this division. 
+The CEO has engaged us to identify the cause and make suggestions to improve profitability.
+Interviewer Guidance
+The case will be focused on identifying that costs have increased over the time horizon. The 
+case focuses on shipping costs in particular.
+Once candidate identifies the main driver, the case moves towards identifying the reason behind 
+increase in ship costs and making suggestions/ recommendation on the path forward.
+Concepts Tested
+General industry knowledge, brainstorming, quant skills, etc.
+
+
+===== PDF p52 =====
+48
+Case 4: Retailco.com
+E-Commerce | Profitability
+Clarifying Information
+•
+Retailco.com is a major online retailer that sells all 
+types of products (think like Amazon.com) directly 
+to consumers in the United States.
+•
+No particular target ROI/ profitability or time frame 
+for goal. ASAP action needed
+•
+Various retail-specific terms will be used throughout 
+the case. Interviewer should provide guidance upon 
+request with definitions
+•
+In-region shipping: Shipping product from 
+warehouse in the same region in which the order was 
+placed (e.g. servicing a Mid-West customer order 
+from a Mid-West warehouse)
+•
+Out-region shipping: Shipping product from 
+warehouse in a different region  (e.g. servicing a Mid-
+West customer order from a West Coast warehouse)
+Guide to case
+•
+As it is a profitability case, the interviewee should 
+note that revenue and costs drive profits
+•
+Revenue is not an issue in this case, but costs are: 
+interviewee should be able to brainstorm the major 
+costs for an online retailer. Only provide Exhibit 1 
+after comprehensive brainstorming
+•
+Interviewee should identify increase in shipping costs 
+as the major driver behind cost increases. As next 
+steps, interviewee should identify that we need to 
+dive into deeper analysis of shipping costs
+•
+Brainstorm reasons behind increase in shipping costs 
+(FedEx, etc. have increased rates, larger packages 
+shipped, packages shipped longer distances)
+•
+Longer distance shipping is the key reason behind 
+the increase in shipping cost. Provide Exhibit 2 only 
+after sufficient brainstorming
+
+
+===== PDF p53 =====
+49
+Case 4: Retailco.com
+E-Commerce | Profitability
+Exhibit 1 – Average cost structure of  a TV sold by Retailco ($)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2015
+2016
+2017
+2018
+COGS
+Shipping
+Holding
+Other
+
+
+===== PDF p54 =====
+50
+Case 4: Retailco.com
+E-Commerce | Profitability
+Exhibit 2 – TV units shipped by region type (%)
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2017
+2018
+In-region
+Out-region
+Total TVs shipped = 100k
+
+
+===== PDF p55 =====
+51
+Case 4: Retailco.com
+E-Commerce | Profitability
+Exhibit 1 – Interview Guidance
+•
+Share after sufficient brainstorming on various types 
+of costs for an online retailer
+•
+All costs provided are for 1 standard TV
+•
+Interviewee should identify that all other costs are 
+relatively stable, except shipping costs (increases 
+from $15 to $20 in 1 year)
+•
+Holding cost is the cost of holding 1 unit of TV 
+inventory in the warehouse for 1 week ($5/ week in 
+this case)
+•
+Other costs include miscellaneous items, returns, 
+damages, etc. 
+Exhibit 2 – Interview Guidance
+•
+Before providing data, brainstorm with the candidate 
+on possible reasons for increase in shipping cost over 
+the last one year
+•
+Only after candidate identifies that longer distance 
+shipping is a reason, then provide the information
+•
+2017 = 80K in-region and 20K out-region
+•
+2018 = 60K in-region and 40K out-region
+•
+Candidate should identify that out-region shipping 
+has increased and move towards individual shipping 
+rates for the two types of regions
+
+
+===== PDF p56 =====
+52
+Case 4: Retailco.com
+E-Commerce | Profitability
+Solution after Exhibit 2
+•
+Upon request, provide in-region and out-region 
+shipping rates to the candidate
+-
+$10/TV for in-region
+-
+$35/TV for out-region
+•
+Changing mix is increasing shipping cost on avg.
+•
+Ask candidate to brainstorm ideas for moving 
+towards more in-region shipping as compared to out-
+region shipping
+-
+(improving product placement, forecasting 
+demand, holding more inventory, etc.)
+•
+Push candidate towards the idea of holding more 
+inventory to solve this problem
+•
+Difference of $25 (35-10) for each TV that is 
+shipped out-region
+•
+Candidate should recall holding cost of $5/week 
+from Exhibit 1
+•
+Calculation = $25/$5 = 5 (the retailer can hold up to  
+5 addl. weeks of inventory vs shipped out-region)
+Recommendation
+•
+Shipping costs have increased due to more out-
+region shipping as it is more expensive
+•
+Client should hold more inventory (up to 5 weeks 
+worth of demand) in warehouses to avoid issue of 
+out-region shipping
+•
+Also brainstorm on various risks and next steps

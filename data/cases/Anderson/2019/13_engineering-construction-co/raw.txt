@@ -1,0 +1,191 @@
+===== PDF p113 =====
+13 / Engineering & Construction Co
+A large engineering, procurement, and construction company has seen its valuation drop recently. It builds large refineries and
+industrial plants. It is global in nature and operates in four main regions. This company is a recent roll-up of three smaller companies
+that operate independently. They have $1B in revenue. How would you approach the problem?
+Overview for Interviewer
+Industry: Industrial Goods
+Case Format: M&A
+Concepts Tested:
+• Market valuation
+• Structured problem solving
+• Mathematical analysis
+Notes
+• This case is interviewer guided/lead.
+• This is an M&A case where the candidate is required to evaluate why a
+recently-created conglomerate has dropped in market valuation in the
+industrial goods space.
+• The candidate should use a comprehensive framework, walk the
+interviewer through it, and be prepared for analytical detours throughout
+the flow of the case.
+• Major Buckets Include:
+• Revenue trends
+• Cost trends
+• The engineering and construction market
+
+
+===== PDF p114 =====
+Interviewer Guidance
+Clarifying Answers to Provide if Asked
+Revenue growth
+• Is strong organically and from 
+acquisitions
+Margins
+• Have been shrinking
+Additional Points
+• There is a backlog of work – lots of
+business
+Interviewer Guide to Case and Handouts
+Case Structure
+The case should start with the candidate hypothesizing the reasons that could 
+lead to a declining valuation. This is a simple test of idea generation. Ask the 
+candidate to list a structure with which they will approach the problem. Does it 
+seem reasonable and comprehensive?
+The remainder of the case should follow a “call and response” in which the 
+interviewer is asking direct questions, and is looking for thorough and 
+structured thought from candidates in each answer. 
+
+
+===== PDF p115 =====
+Core Case Question 1
+1 / Shrinking Margins
+What do you think the main potential causes for shrinking margins could be?
+Notes to Interviewer
+Potential answers:
+• Lack of integration of the three units
+• Poor reporting
+• Competing business units
+• Multiple procurement units
+• Lack of cross-selling over the units
+• Lack of knowledge sharing across units
+• High-revenue but unprofitable clients
+• No prioritization of backlog
+• Sales force compensation structure
+• Declining business need for their services – long-term
+Exceptional Candidates Will Mention…
+• The answers themselves will not be the indicator of
+excellence here. What is really important is that the
+candidate approaches this brainstorming problem with some
+sort of structured analysis.
+• For instance, following along with their framework, the
+candidate could bucket potential reasons into revenue, cost,
+and market or some other combination.
+
+
+===== PDF p116 =====
+Core Case Question 2
+2 / Increasing Margins & Man Hours 
+The Company thinks they have an idea as to where they could improve their costs after integrating.
+The goal is to increase their margins by 10%. (Note: candidate has already been told company has $1B in revenues.)
+Notes to Interviewer
+Data to be provided:
+•
+Question Continued:
+• The industry benchmark for optimal utilization is 80%
+and engineers make $100k each.
+• Assuming constant man-hours, how many engineers will
+be needed post-integration?
+Will h
+k
+h i
+i
+l ? I
+hi
+i
+ifi
+Solutio
+n
+Calculation of Effective Man-Hours:
+•
+Calculation:
+Business Unit
+# of Engineers
+Utilization
+1
+1,800
+50%
+2
+3,000
+90%
+3
+1,200
+50%
+Business 
+Unit
+# of 
+Engineers
+Utilization
+Effective 
+Man-Hours
+1
+1,800
+50%
+900
+2
+3,000
+90%
+2,700
+3
+1,200
+50%
+600
+Total
+6,000
+4,200
+
+
+===== PDF p117 =====
+Core Case Question 3
+3  /Concerns?
+What would you think are some possible concerns with
+integrating the three units?
+Notes to Interviewer
+Possible Answers:
+•
+Different corporate cultures
+•
+Different global areas of operations
+•
+Do they operate in fundamentally different businesses?
+•
+Lack of a sufficient reporting system
+•
+Will the dynamics of the integration be communicated
+clearly?
+•
+Time frame of integration – 3 months versus 3 years
+• Candidate should provide a succinct but comprehensive
+recommendation with risks and next steps.
+• Exceptional candidates will mention other future areas of
+synergy from the merger, e.g. CapEx, admin costs, PP&E,
+etc.
+Can
+you
+please summarize and
+give us
+your
+final
+recommendation?
+4 / Recommendation
+Notes to Interviewer
+
+
+===== PDF p118 =====
+Potential Structure
+Revenue 
+Trends
+• By business unit & region
+• By product mix
+• Ability to achieve cross-sell 
+opportunities
+Cost Trends
+• By business unit & region
+• By product mix
+• Fixed cost synergies
+• Variable cost synergies
+Eng. & Constr. Market
+• Growing or shrinking?
+• Revenue & cost benchmarks
+• Regulatory trends
+Revenue 
+Trends

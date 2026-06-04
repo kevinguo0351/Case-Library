@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2016_26_consumer-products-strategy",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 26,
+  "case_name": "Consumer Products Strategy",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer Products",
+  "difficulty": "Medium",
+  "pdf_page_start": 277,
+  "pdf_page_end": 283,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    278,
+    279,
+    281,
+    282
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p278.png",
+    "exhibits/exhibit_p279.png",
+    "exhibits/exhibit_p281.png",
+    "exhibits/exhibit_p282.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\26_consumer-products-strategy"
+}

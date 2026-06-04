@@ -1,0 +1,28 @@
+{
+  "case_id": "INSEAD_2020_07_starbus-australia",
+  "school": "INSEAD",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2020.pdf",
+  "idx": 7,
+  "case_name": "StarBus Australia",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Manufacturing / Transportation",
+  "difficulty": null,
+  "pdf_page_start": 67,
+  "pdf_page_end": 78,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    72,
+    73,
+    74,
+    75
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p072.png",
+    "exhibits/exhibit_p073.png",
+    "exhibits/exhibit_p074.png",
+    "exhibits/exhibit_p075.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2020\\07_starbus-australia"
+}

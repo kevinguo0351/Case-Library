@@ -1,0 +1,216 @@
+===== PDF p87 =====
+CASE #: 7
+SuperTech Electronics
+Firm Style
+Interview Round
+Deloitte
+1
+Clarifying information (provide only if corresponding questions are asked) 
+‐
+This is not an industry‐wide issue
+‐
+The company only operates in India
+‐
+There’s been no change in their mix of product offerings
+‐
+SuperTech is not vertically integrated, they are a retailer of third party products
+Case Question
+SuperTech is an electronics retailer in India. Over the past few years, SuperTech has 
+experienced a decrease in profitability  and has engaged us to identify the causes and 
+possible solutions.
+
+
+===== PDF p88 =====
+SuperTech Electronics
+• Question 1: What are some potential causes of the issue that 
+you’d want to explore? 
+(In the first round, Deloitte typically does not give you time to create frameworks. This is typically 
+brainstorming aloud. Be as structured and thorough as possible.)
+• Answer: A good answer will cover:
+• Profitability
+•
+Revenue ‐ Changes in price or volume
+•
+Traffic in stores, purchases by category and related margin on products
+•
+Costs – Fixed and variable
+•
+Store locations, overhead, inventory, staff
+• New competitors in marketplace; competitors altering their strategy
+• Change in customer preferences
+• Change in market demographics
+• Product obsolescence 
+• Brand/reputation/promotion issues
+
+
+===== PDF p89 =====
+SuperTech Electronics
+• Question 2: Let’s take a dive into the numbers. What can you 
+infer from Exhibit 1?
+• A good answer will cover:
+• Revenue is increasing yearly
+• Costs are increasing at a faster rate than revenue, particularly COGS
+• Can you calculate the gross margin for each year? (If candidate 
+has already correctly calculated gross margins, move to Question 
+3)
+• Answer: 
+2011
+2012
+2013
+Revenue
+$ 500,000
+$ 525,000
+$ 550,000
+Costs
+$ 300,000
+330,000
+$ 360,000
+SG&A
+$ 45,000
+$ 48,000
+$ 50,000
+Margin
+$ 155,000
+$ 147,000
+$ 140,000
+Margin/Rev
+31%
+28%
+25.5%
+
+
+===== PDF p90 =====
+SuperTech Electronics
+• Question 3: What do you think is driving this increase in 
+costs?
+• A good answer will brainstorm several reasons for increasing costs 
+relative to growing revenues:
+• Increasing labor costs in a developing country
+• Increased gas prices makes transportation more expensive
+• Warehousing and other inventory‐related costs
+• Loss of negotiating power with suppliers
+• Increase in raw material costs of products
+If the candidate doesn’t mention inventory costs as a potential driver, 
+probe for more ideas. Once the candidate finishes brainstorming and/or 
+identifies inventory as a driver, move to Question 4.
+
+
+===== PDF p91 =====
+SuperTech Electronics
+• Question 4: I’m glad you mentioned inventory. Here’s some data we collected from the 
+Client (see Exhibit 2)
+•
+Candidate should mention we are looking at one product category and seeing several months of the year where 
+the client stocks out of the product. It looks somewhat seasonal. 
+•
+A good candidate should recognize that, with this information they would want to get a sense of the financial 
+implications of this stock out. They need to ask the case reader for annual revenue or contribution figures to 
+assess the financial impact of the stock outs.
+• Provide candidate with Exhibit 3
+•
+A good candidate will notice cell phones have the highest contribution margin and comments on the risk of such 
+frequent stock outs in the product category
+•
+Candidate should recognize that on average there are 5 stock out days per month; tell them to assume a 360‐day 
+year that is equivalent to 1/6‐year lost contribution.
+• Candidate should quantify this loss of margin as follows:
+•
+Total Revenue ($240M) / (5/6 year) = $288M Total Revenue w/o stock outs
+•
+$48M * 60% Contribution Margin = $28.8M in lost contribution (2013)
+•
+($140M+ $28.8M)/$550M = 30.69% (may round to 31) ($140M margin is from completed exhibit 1)
+•
+30.69% ‐ 25.5% represents a loss of 5.19% on the margin
+
+
+===== PDF p92 =====
+SuperTech Electronics
+• Question 5: What would you tell the client? Are the rising 
+costs due to the stock out issue only? What else would you 
+want to know?
+• Candidate should comment that there are other things to 
+investigate– for example, is this stock out issue with cell phones 
+also an issue with the other product categories? How significant?
+• The loss from cell phones is a ~5% loss on the margin. The client should want to explore 
+options to prevent these stock outs either by optimizing order quantities or fixing other 
+supply chain issues
+• What are some initial recommendations you have for the client if they want to 
+reduce the number of cell phone stock outs?
+• Candidate should be structure in their brainstorming. Potential recommendations include:
+• Alter supplier contracts: Add option for rushed additional orders from suppliers OR 
+increase inventory on hand going into summer and end of year months
+• Reassess their sales demand forecasting in the summer and end of year months
+• Adjust their cell phone promotions to align to months when inventory is most likely on 
+hand
+• Keep asking “what else” until they have exhausted ideas
+
+
+===== PDF p93 =====
+SuperTech Electronics – Exhibit 1
+($000’s)
+2011
+2012
+2013
+Revenue
+$ 500,000
+$ 525,000
+$ 550,000
+Costs
+$ 300,000
+330,000
+$ 360,000
+SG&A
+$ 45,000
+$ 48,000
+$ 50,000
+Margin
+Margin/Rev (%)
+
+
+===== PDF p94 =====
+SuperTech Electronics – Exhibit 2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Cell Phone Stock Out Days 2013
+
+
+===== PDF p95 =====
+SuperTech Electronics – Exhibit 3
+0
+10
+20
+30
+40
+50
+60
+70
+Cell Phones
+Cameras
+Televisions
+Computers
+Unit Contribution Margins (%)
+Total Rev:
+$240M
+$120M
+$90M
+$100M

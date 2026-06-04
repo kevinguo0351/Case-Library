@@ -1,0 +1,184 @@
+===== PDF p310 =====
+Swedish Death Metal
+Your client is a record producer looking to bring a new music act to the United States. While traveling through Scandinavia 
+he came across a Swedish Death Metal band he thinks would be a perfect fit for his label. There are currently no Swedish 
+Death Metal bands on US labels and all of their music must be imported from Europe. Your job is to advise the client 
+whether this is a good idea and give him some launch process suggestions
+Problem Statement Narrative
+Difficulty: Hard
+Industry: Entertainment
+Case Type: Market Entry
+Written by Ross Freilich ‘14
+• Market Sizing
+• Market Segmentation
+• Algebra
+Concepts Tested
+Case #35 : Swedish Death Metal
+Case Notes
+If candidate asks what the difference between an import versus domestic is, inform him that imports eat into the margin
+of the album for the record company and there is no way to price higher
+This case will deal extensively with albums sold - if candidate requires clarification indicate that this metric includes digital 
+sales
+306
+
+
+===== PDF p311 =====
+Sample Framework
+Guidance for Interviewer
+•
+If interviewer asks for size of Swedish Death Metal 
+market advise that there are no reliable metrics in the 
+US as this is a relatively new market. The larger Death 
+Metal market will serve as a proxy
+Clarification Answers if  Asked 
+Swedish Death Metal
+Guide candidate away from alternative revenue 
+opportunities as this case is primarily about album sales
+1.
+How to introduce SDM band to US market
+a.
+Album sales
+b.
+Touring as either opening act or headlining 
+act
+c.
+Late night television appearances
+d.
+Music Blogs
+2.
+Market size
+a.
+Total Albums Sold in US
+b.
+Size of Death metal market
+c.
+Share of the market the SDM band can 
+capture
+3.
+Customer
+a.
+Willing to make transition from Death 
+Metal to SDM?
+4.
+Financials
+a.
+Will record label be able to charge 
+standard
+b.
+pricing for a new album?
+5.
+Risks
+a.
+Band breaks up
+b.
+Drugs/alcohol abuse
+Question #1 / Framework 
+How does the client improve profitability quickly?
+307
+
+
+===== PDF p312 =====
+Last year 150 million albums were sold in the United States. 13% of them were Death Metal. How many Death Metal 
+Albums were sold?
+Question #2
+Question
+Solution
+Swedish Death Metal
+150m * 13% = 19.5m
+Candidates can round this to 20m 
+308
+
+
+===== PDF p313 =====
+The Death Metal market is segmented into three groups: hardcore, average and casual fans. They comprise 20%, 30% and 
+50% of the population, respectively. Each group buys 4, 2 and 1.2 albums per person per year. Solve for the size of each 
+group and the amount of albums purchased by each group
+Question #3
+Question
+Solution
+Swedish Death Metal
+Candidates often confuse the size of the population with the 20 million albums sold per year. If the candidate multiplies 
+the 20 million albums by the 20%, 30%, and 50% guide them towards the proper path
+To solve the case:
+Let x be the size of the population
+4 * (20% + x) + 2 * (30% + x) + 1.2 * (50% * x) = 20m 
+X = 10 million people, therefore there are 2 million hardcore fans, 3 million average fans, and 5 million casual fans who 
+buy 8 million, 6 million, and 6 million albums respectively per year
+309
+
+
+===== PDF p314 =====
+We’d like to know the breakeven volume of albums for three marketing programs. Each album is priced at
+$12. The three marketing options are: Internet - $300k, Internet & Radio - $1m and Internet Radio & TV
+- $2m
+Question #4
+Question
+Solution
+Swedish Death Metal
+The candidate should ask if there are any additional variable or fixed costs. Variable costs are:
+•
+CD Manufacturing - $2/CD
+•
+CD Distribution - $3/CD
+•
+Royalties - $3/CD
+There are no other fixed costs
+Contribution Margin = $12 – ($2 + $3 + $3) = $4
+Breakeven volume for Internet only: 
+($300k/$4) = 75k units
+Breakeven volume for Internet & Radio
+($1m/$4) = 250k units
+Breakeven volume for Internet & Radio & Television
+($2m/$4) = 500k units
+310
+
+
+===== PDF p315 =====
+Which marketing option would you choose?
+Question #5
+Question
+Solution
+Swedish Death Metal
+Candidate should ask if any of the marketing plans target any of the specific segments as there are 3 fan bases and 3 
+marketing plans. Provide info when asked:
+Hardcore = Internet, Average = Radio, Casual = TV
+Referring back to Question 2, we see that there are 10mm potential customers in the market. To break even with the 
+internet plan you require 3.75% market share, 5% with internet and radio and 5% for internet, radio and television, 
+based on the populations of each fan segment. (Note: Candidate should not be expected to calculate market share, but 
+should be given credit if he takes initiative)
+Candidate should recognize that capturing significant for a sub-genre entirely new to the US is very unlikely, especially 
+considering that either of the more expensive fans will be targeting average and casual fans
+Therefore, Internet is the correcting marketing option
+311
+
+
+===== PDF p316 =====
+Conclusion
+•
+Client should bring the SDM Act to the US using the 
+internet only plan
+Recommendation
+•
+This is the first Swedish Death Metal Act to be based 
+in the US. Death Metal is a relatively niche market and 
+attracting hardcore fans are the best path towards 
+gaining market share and expanding into other groups 
+of fans
+Rationale
+•
+Band could be a complete flop, break up or have 
+issues like drug addiction
+•
+Musical taste is very subjective
+Risks
+•
+Explore options for pilot launches i.e. singles before 
+signing longer-term contract
+•
+Explore other offerings like touring as opener for 
+established act
+•
+Appearances on late night television
+Next Steps
+Swedish Death Metal
+312

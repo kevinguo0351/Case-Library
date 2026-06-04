@@ -1,0 +1,26 @@
+{
+  "case_id": "Sloan_2010_33_compresscorp",
+  "school": "Sloan",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2010.pdf",
+  "idx": 33,
+  "case_name": "CompressCorp",
+  "case_type": "M&A",
+  "round": "1",
+  "industry": "Technology / Industrial",
+  "difficulty": null,
+  "pdf_page_start": 106,
+  "pdf_page_end": 112,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    109,
+    110,
+    112
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p109.png",
+    "exhibits/exhibit_p110.png",
+    "exhibits/exhibit_p112.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2010\\33_compresscorp"
+}

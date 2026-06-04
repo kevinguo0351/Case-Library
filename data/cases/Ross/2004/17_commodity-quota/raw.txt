@@ -1,0 +1,125 @@
+===== PDF p40 =====
+Table of Contents 
+ 
+36
+ 
+Practice Case 17: Commodity Quota  
+(Booz Allen - Round 1) 
+ 
+I. Case scope provided by interviewer:  
+ 
+Your client sells a commodity product in Europe.  Currently, this 
+commodity is sold using a quota system and European markets are 
+protected.  The quota allows a company to sell a certain number of 
+units in a particular European market.  Eastern Europe will be joining 
+the western part of Europe and the total volume of the commodity 
+sold will be the combination of the two markets.  However, the price 
+in Eastern Europe is less than in the west.  What will happen once 
+the two markets join. 
+ 
+II. Additional information provided after relevant questions:  
+ 
+• 
+Essentially, a company has the right to sell a certain quota of this 
+commodity and the market is protected. 
+• 
+Note, I didnít ask for elasticity of demand until later, I asked for 
+everything else upfront. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Q(max quota) is the total sold in the markets before they become a 
+single market, Q (company) is the total units the company can sell in 
+the market.  The company has 30% of the Eastern Europe market 
+which amounts to 150,000 units.  The variable cost per unit is $9 per 
+unit. 
+ 
+III. Sample solution 
+ 
+The company pays no fee to sell in this market so the company makes profits 
+beyond what would be expected because Q is restricted. 
+ 
+In Eastern Europe the price is lower, therefore, goods will flow from the East 
+to the West where people will pay more until the markets reach equilibrium.   
+ 
+After you draw the graph you can start to speculate as to what will happen 
+when the two markets merge.  The price must move up for the East and 
+down for the West.  I was asked, ìHow would you find out what the price 
+would be?î after I had told the interviewer the direction of the price 
+movements. 
+Eastern Europe
+10
+500,000
+30%
+150,000
+Elasticity of Demand
+0.5
+1
+Price
+Q (max quota)
+Q (company)
+Profits
+European Union
+17.5
+2,000,000
+ 
+ 
+400,000
+ 
+3.4 Million
+ 
+ 
+
+
+===== PDF p41 =====
+Table of Contents 
+ 
+37
+ 
+Thatís when I said I would need to know the elasticity of demand. Using the 
+elasticity of demand = %∆Q/%∆P:  
+• 
+If the price in the west decreased 10% (1.75) then Q would increase 
+to 2.1M. 
+• 
+If 100k units went from East to West the Q in the East would decrease 
+by 20% (100K/500K) 
+• 
+Price in the East would increase by 20%. 
+ 
+These calculations could be repeated until the price was solved for. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2M 
+ 
+ 
+ 
+ 
+ 
+500K 
+ 
+$17.
+$1
+European Union 
+(West) 
+Europe (East) 

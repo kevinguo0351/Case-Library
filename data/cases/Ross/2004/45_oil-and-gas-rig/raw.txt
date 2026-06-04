@@ -1,0 +1,212 @@
+===== PDF p107 =====
+Table of Contents 
+ 
+103
+Practice Case 45: Oil and Gas Rig   
+(Mckinsey - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+Your client is an oil and gas company. They own the rights to explore 
+a offshore oil reserve in Venezuela. The oil reserve is good to exploit 
+for 20 years. The production from a single cell will go up in the 
+beginning, reach its peak, and then decline in its useful life. So in 
+order to keep the production level stable, they need to drill new wells 
+during the reserve exploration process. This makes their return on 
+capital goes down. The client currently spend $100M per year on rig 
+(every well needs a rig). They purchase rig from USA. USA has higher 
+labor cost than Venezuela. So the client is thinking should they take 
+this opportunity to build their own rigs use of the opportunity, and if 
+it is proper to do, how should they utilize the opportunity? 
+ 
+ 
+II. Additional information provided after relevant questions 
+ 
+• 
+A Rig is a piece of very heavy equipment, weighing thousands of tons. 
+Besides USA, currently there is no other place to purchase rig. 
+• 
+The market demand of rig is around $1000M annually, and USA rig 
+manufactures are able to satisfy the needs. 
+• 
+Rig companies in USA are making a profit margin around 5%. 
+• 
+50% cost of rig manufacturing is labor related, including wages, benefits, 
+and overhead. It takes US manufactures 1M man hour to produce one rig. 
+Labor related costs in USA are $50 per hour. It includes three 
+components: (1) wage: $25 per hour (2) benefit: $10 per hour (3) 
+Overhead $15 per hour.  
+• 
+Labor related cost in Venezuela is (1) wage: $5 per hour (2) benefit: $2 
+per hour (3) Overhead $13 per hour.  
+• 
+Initial investment required to manufacture in Venezuela is $50M 
+• 
+In order to evaluate how much it costs to manufacture rig locally, we 
+asked three local companies to bid. They all come up with the same 
+proposal, in which labor related cost is charged as $25 per hour. 
+• 
+Material costs are the same in both countries 
+ 
+Key information to reveal when questioned: 
+ 
+• 
+The rig manufacturers will experience a learning curve.  In the first year, 
+it takes 3M man hours, and in the second year it takes 2M man hours. 
+After that, the learning curve goes flat at 1M man hours. 
+ 
+ 
+ 
+
+
+===== PDF p108 =====
+Table of Contents 
+ 
+104
+III. Sample Solution:   
+ 
+I will look at how attractive the business of producing rig is. Then I will look 
+capability to manufacture rig locally. Finally, I will look at how to purse the 
+opportunity, if appropriate. 
+ 
+First I will explore whether the low labor cost in Venezuela is a proper 
+opportunity to pursue.  The ultimate standard is whether pursuing the 
+opportunity will bring our client cost saving so that they improve their return 
+on capital.   
+ 
+Projected cash flows from producing rigs locally are: 
+ 
+Year 
+0 
+1 
+2 
+3 
+4 
+Ö 
+Savings 
+(50) 
+(25) 
+0 
+25 
+25 
+Ö 
+  
+I want to do a NPV analysis. What is the cost of capital? 
+ 
+INTERVIEWER: Well, letís just look at pay back. How many years are needed 
+to pay the investment back? 
+ 
+INTERVIEWEE: The minimum payback time is that the selling price still 
+maintains at the current market price level, so the manufacturer harvest all 
+labor related cost savings and pass none to their customers.  In this scenario 
+the cost savings is the profit cash flow the company can achieve. (Notice US 
+manufacturer profit margin is 0%). The payback time is 5 years. 
+ 
+INTERVIEWER: Well, 5 years pay back sounds like a risky business to get 
+into. Local companies may not have enough incentive to get into the 
+business. How do you shorten the pay back time? 
+ 
+INTERVIEWEE: (1) Since this will benefit local labor market, we can get 
+government involved, ask them to provide fund or provide debt guarantee to 
+lower the cost of borrowing. (2) Since we will benefit from the cost saving, 
+we can sign long term contract, for example, 20 years with local supplier. (3) 
+We can use our network in oil and gas business world and help them supply 
+rig to other oil and gas companies. 
+ 
+INTERVIEWER: Is there anything you can think of to accelerate the payback 
+time by lowering labor cost? 
+ 
+INTERVIEWEE: What we can do is to introduce expertise, such as senior 
+engineers, project management, from USA manufactures. This will also 
+accelerate their learning curve. 
+ 
+INTERVIEWER: Anything else? (The interviewer pushed me hard on the cost 
+issue) 
+
+
+===== PDF p109 =====
+Table of Contents 
+ 
+105
+INTERVIEWEE: Well, I can look more detailed into labor related cost. Since 
+the cost we used in our estimation is from bidding. I want to get my own 
+estimation to compare. As you said, labor related cost includes wages, 
+benefits and overhead. I will go to labor market and look at the average 
+wages and benefits. I assume overhead cost doesnít change compared to 
+USA. I will look at the rig manufactures in USA to get their labor cost break 
+down to get the figure. 
+ 
+INTERVIEWER: The cost structure in USA is (hourly rate) 
+Wages 
+Benefits 
+Overhead 
+$25 
+$10 
+$15 
+ 
+ The cost in Venezuela is 
+Wages 
+Benefits 
+Overhead 
+$5 
+$2 
+$13 
+ 
+INTERVIEWEE: This adds up only $20, $5 bucks less than what local 
+suppliers bid. 
+ 
+INTERVIEWER: Why do you think it is less from bidding? 
+ 
+INTERVIEWEE: Bidders may consider training cost and get expat from USA to 
+build up competence, etc. They may also accelerate equipment depreciation 
+since we only ask them to bid on one rig. This will make overhead cost 
+higher. 
+ 
+With this new labor cost, the savings manufactures can achieve will be: 
+ 
+Year 
+0 
+1 
+2 
+3 
+4 
+Ö 
+Savings 
+(50) 
+(10) 
+10 
+30 
+30 
+Ö 
+  
+They only need less than four years to pay back. 
+ 
+INTERVIEWER:  Good. We are running out of time. Why donít you wrap up? 
+ 
+INTERVIEWEE:   
+ 
+1) Our client should pursue the opportunity of low cost labor in Venezuela.  
+This will help them achieve cost savings and improve return on capital. 
+Besides, this will also help them achieve a better government relationship, 
+which further helps them in their oil and gas business; 
+ 
+2) Our client should help local suppliers to get into rig manufacture business. 
+They can help them by signing a 20 year contract with local suppliers. They 
+should work together with local government to seeks funds for local 
+suppliers, and to organize some cooperation activity with USA to build up 
+local competence 
+
+
+===== PDF p110 =====
+Table of Contents 
+ 
+106
+3) Rig is expensive and quality is important for this product. Local suppliers 
+may be able to produce high quality rig. This is a risk factor to our client. Get 
+good understanding of general manufacturing quality level in this country will 
+allow our client make proper judgment. If quality is a concern, our client will 
+want to form joint venture with local suppliers so that they can have more 
+control on quality. Doing so will also help them further saving cost as well. 
+ 
+ 

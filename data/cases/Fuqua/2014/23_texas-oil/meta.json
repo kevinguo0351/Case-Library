@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2014_23_texas-oil",
+  "school": "Fuqua",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2014.pdf",
+  "idx": 23,
+  "case_name": "Texas Oil",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Oil and Gas",
+  "difficulty": null,
+  "pdf_page_start": 230,
+  "pdf_page_end": 239,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    234,
+    235,
+    237,
+    238
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p234.png",
+    "exhibits/exhibit_p235.png",
+    "exhibits/exhibit_p237.png",
+    "exhibits/exhibit_p238.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2014\\23_texas-oil"
+}

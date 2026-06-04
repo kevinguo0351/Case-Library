@@ -1,0 +1,96 @@
+===== PDF p29 =====
+Table of Contents 
+ 
+25
+Practice Case 11: Pick-up truck market  
+(Booz Allen Hamilton - Round 1) 
+ 
+I. Case scope provided by interviewer: 
+ 
+A company is considering entering into the pick-up truck market.  An 
+investment of 1 billion dollars is required to build a plant, should 
+they enter?  Currently, 750,000 pick-up trucks are sold in this 
+market. 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+Market and company data 
+ 
+ 
+ 
+ 
+ 
+Variable cost = 20K 
+Our cost of capital is 10% 
+ 
+III. Sample Solution:   
+ 
+First estimate the impact of the entry on the price: 
+• 
+The percentage  change in Q=200/750=30% (approx.) 
+• 
+Using Elasticity of demand =  %∆Q/%∆P;  
+• 
+%∆P=  (30%)/3  = 10%  
+• 
+Therefore, the new price will be 30K less 10% which is 27K 
+ 
+Demand curve for pick up trucks in this market 
+ 
+ 
+ 
+ 
+ 
+ 
+30K 
+ 
+27K 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     750K       200K 
+Current Price
+30K
+Plant Capacity
+200K
+Elasticity of demand
+3
+
+
+===== PDF p30 =====
+Table of Contents 
+ 
+26
+ 
+ 
+Second look into whether they can make money at this price. 
+ 
+• 
+Variable cost = 20K 
+• 
+Therefore contribution margin = 7K; we can sell 200K so contribution 
+per year is 1.4 billion dollars.  The plant has a life of ten years so a 
+total of 14 billion dollars will be made. 
+• 
+Our cost of capital was 10%, therefore there is a capital charge of 
+100M dollars per year for a total of 1 billion dollars. 
+• 
+The $1 billion must be returned at the end. 
+• 
+Thus, total profit is 12 billion dollars. 
+ 
+ 
+The interviewer asked about the Cournout equilibrium and whether it is 
+surprising, based on the case, that Toyota had entered the truck market. 
+ 
+This is a basic Booz Allen profitability case.  New entrants reduce the price in 
+the market and must make a careful assessment of whether they can be 
+profitable give the demand elasticity. 

@@ -1,0 +1,34 @@
+{
+  "case_id": "Fuqua_2020_13_queen-bae",
+  "school": "Fuqua",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2020.pdf",
+  "idx": 13,
+  "case_name": "Queen Bae",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Consumer Products (CPG)",
+  "difficulty": "Medium/Medium",
+  "pdf_page_start": 171,
+  "pdf_page_end": 182,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p175.png",
+    "exhibits/exhibit_p176.png",
+    "exhibits/exhibit_p177.png",
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png",
+    "exhibits/exhibit_p181.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2020\\13_queen-bae"
+}

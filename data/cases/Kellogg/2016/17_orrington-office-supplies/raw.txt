@@ -1,0 +1,218 @@
+===== PDF p128 =====
+124
+Orrington Office Supplies (OOS)
+Case tracker
+ Industry:  Consumer Products
+ Case format: Improving profitability
+ Concepts being tested:
+- Capacity expansion /contraction
+Case Question
+ Our client, OOS is a leading manufacturer of office products in 1992, with sales of $275M in 1991. They have strong 
+brands, invest heavily in marketing / advertising, and have grown through product line extensions and 4 key acquisitions.
+ OOS is organized into 5 autonomous divisions, but shares manufacturing and marketing functions. Shared costs (45% of 
+total) are allocated on a % of sales method. There are three plants running at a current capacity utilization of 50%.
+ Analysts predict OOS is a potential acquisition target given its strong balance sheet but weakening earnings. They are 
+publicly traded and have little long-term debt. As a potential investor, how would you improve its profitability.
+Guide to interviewer
+ This case combines public math with key qualitative 
+insights. At its core, this is a case about rapidly declining 
+profitability and finding ways (i.e. plant consolidation) to 
+improve its future performance. 
+ The interviewee should recognize that this is a 
+performance improvement case and will look for ways to 
+improve profitability. They will have to use the 
+information provided up front to determine that capacity 
+contraction is the prime means to improve profitability.
+ Because there are many potential avenues to explore, 
+the interviewer may need to nudge along the 
+interviewee.
+By: Andy Grieve (Kellogg Class of ‘01), Edited By: Peter Manoogian (Kellogg Class of ‘12)
+Quant: 6
+Structure: 7 
+Industry: CPG
+Framework: Profitability
+
+
+===== PDF p129 =====
+125
+Clarifying answers and case guide
+Guide to case / Guide to handouts
+A sample case structure would include the following:
+1)
+Examination of OOS’s recent performance to deep-dive into 
+declining profits.
+2)
+Discussion of potential for plant consolidation.
+3)
+A profitability analysis of plant consolidation.
+Exhibit 1– Hand out after interviewee asks about profitability
+Exhibit 2– Hand out after interviewee concludes that plant consolidation 
+is a worthy area for a “deep-dive.” This should be evident from the 
+case introduction, but provide hints if necessary.
+Exhibit 3– Following the discussion of plant closures, the interviewee 
+should ask about the cost structures about the various plants.
+- If interviewee asks about revenues, gently suggest to calculate on a 
+per SKU basis (e.g., total sales / total SKUs = $22K / SKU).
+Clarifying answers to provide
+Industry trends
+- U.S. Office supplies market grew at 5% 
+CAGR historically. In 1990 and 1991, the 
+market declined at 5%/yr.
+- Superstore channel is becoming 
+increasingly critical
+- Gained 10 share pts in past 2 yrs
+- Typically discount products 30% 
+to small retailers/dealers
+- Superstores are aggressively 
+substituting private label products for 
+traditional brand names
+Client Characteristics
+- Broader product line than competitors 
+(12.5K SKUs vs. 4-5K for competitors)
+- Distribution: 75% wholesalers, 15% 
+superstores, 10% end customers
+- Highest selling product is a high-end 
+branded stapler
+- Staples, Inc. is OOS’s largest customer
+
+
+===== PDF p130 =====
+126
+Key elements to analyze
+Profitability
+ Using Exhibit 1, have a discussion 
+about why the slopes for sales and 
+profits differ as time elapses
+Capacity utilization
+ Using Exhibit 2, qualitatively 
+discuss the potential options for 
+plant consolidation.
+Notes to interviewer
+ Exhibit 1 - interviewee should not 
+only be able to interpret the data on 
+this slide, but also come up with two 
+insights: 
+1) the fact profits have been declining 
+more steeply than sales reflects the 
+fixed-cost nature of this business, and 
+2) the reason that sales did not grow 
+at a faster clip than profitability during 
+the 1980s likely reflects a strategy to 
+grow through acquisitions, which 
+prevented OOS from seeing the gains 
+through economies of scale that one 
+would normally expect in a business 
+such as this
+Notes to interviewer
+ Interviewee should recognize the 
+Chihuahua plant is close to having 
+capacity to produce OOS’s 12.5K 
+SKUs. Either OOS can close that 
+plant and move all production to 
+the US, or it could close the US 
+plants, discontinue 500 SKUs and 
+move production to Chihuahua.
+ Insightful interviewees will note 
+that Chihuahua is the most feasible 
+strategy, but will ask to see fixed 
+and variable cost data; if so, then 
+produce Exhibit 3. 
+Plant closures
+ Using Exhibit 3, crunch the 
+numbers on the profitability of a 
+possible plant closure?
+Notes to interviewer
+ They should have identified that 
+the Chihuahua plant is the most 
+feasible, but there are some key 
+considerations.
+ Key questions to ask:
+How would this change revenues? 
+(currently $275M / year)
+How would this change production 
+costs? What are they now?
+How would this change pre-tax 
+profits (currently $25M /year?)
+
+
+===== PDF p131 =====
+127
+Calculations
+Math questions
+1.
+How would consolidating to Chihuahua change revenues? (currently $275M / year)
+2.
+How would this change production costs? What are they now?
+3.
+How would this change pre-tax profits? (currently $25M /year)
+Calculations
+1.
+Revenues: Each SKU earns annual revenues of $22K ($275M divided by 12,500 SKUs) therefore, eliminating 500 
+SKUs will decrease annual revenue by $11M, or 4%
+2. Prod. costs: 
+Consolidating revenues to Chihuahua will reduce annual costs by 50% to:
+Chihuahua: $20M + ($4K * 12K SKUs) = $20M + $48M = $68.0M
+3. Profits:  We have reduced costs by $68M and lowered revenues by $11M, thus increasing profits by $57M, to a total 
+of $82M, which more than triples them. 
+Each plant has the following variable cost per sku:
+Chihuahua: $18M / 4.5K SKUs = $4K per sku
+Michigan:  $39.5M / 5K SKUs = $7.9K per sku
+New Jersey: $25.5M / 3K SKUs = $8.5K per sku
+$136M
+Each plant currently has the following annual costs:
+Chihuahua: $20M + $18M = $38.0M
+Michigan:  $15M + $39.5M = $54.5M
+New Jersey: $18M + $25.5M = $43.5M
+
+
+===== PDF p132 =====
+128
+Solution and recommendations
+Solution & Recommendations
+ Overall, our client should eliminate 500 SKUs and consolidate all production to the Chihuahua plant to raise annual 
+profits from $25M to $82M. 
+ The client should also consider several qualitative issues:
+— Implementation Timeframe: Will not be done tomorrow.
+— Relationships with Union: If organized labor is part of our production employee pool in the two plants that we 
+are going to close, we will need to address that situation.
+— Changes in Distribution and Warehousing: We will need a carefully-developed transition plan.
+— Purchasing: We will need to transition to a strong central purchasing department, rather than smaller local 
+ones.
+— Culture: Communicating the change properly is key, and we will need to ensure that morale does not take a 
+nosedive.
+Bonus/Guide to an Excellent Case
+ Excellent interviewees need to recognize what macroeconomic issues are beyond the scope of the client’s control 
+and then quickly dive into the plant consolidation, then analyze the cost structures
+ Additionally, common sense and basic familiarity with manufacturing operations should guide the successful 
+interviewee to some or all of the qualitative issues provided
+
+
+===== PDF p133 =====
+129
+Exhibit 1: OOS Sales / profit trend
+
+
+===== PDF p134 =====
+130
+Exhibit 2: Overview of OOS production plants
+
+
+===== PDF p135 =====
+131
+Exhibit 3: Plant operating costs
+18.0
+15.0
+20.0
+25.5
+39.5
+18.0
+$20M
+$30M
+$40M
+$10M
+$0M
+Chihuahua
+Michigan
+New Jersey
+Fixed Annual Plant Operating Costs
+Variable Annual Plant Cost

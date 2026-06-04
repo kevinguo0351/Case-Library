@@ -1,0 +1,47 @@
+===== PDF p56 =====
+ICC Handbook 2020 
+52 
+ 
+ 
+CASE LIBRARY 
+Difficulty: Easy 
+Quant: Easy 
+Company: Delta Partners 
+ 
+9.14 Project Prioritization for IT Department 
+ 
+ 
+Project prioritisation for IT department 
+Initial Information 
+• You are doing a project for a mobile virtual network provider (MVNO), entering the market. IT team 
+is overloaded with the requirements and CIO asked you to help with prioritisation of two critical 
+projects, which he received from Marketing and Sales team. How will you help him to solve this 
+challenge? 
+Additional Information 
+• Information given when requested: 
+- Projects do not have any influence on each other 
+- Projects can be done at any period of time 
+Key Areas of Discussion 
+Expected Answer 
+Interview flow 
+• Interviewer should identify the way of project assessment: potential impact and/or resources required 
+• Assuming that both projects are critical for owners (one is a new tech for the new offer and another 
+technology to improve channels performance), the interviewer should focus on cost assessment 
+• Ideally, candidate should propose several dimensions for cost assessment such as time, budget 
+and manpower 
+• Both projects are long-term (>1 year) and don’t require any extra budget. 
+• The key difference between the project is a manpower requirement: 
+- Project 1 needs 40 hours of project manager time and 100 hours of analyst time per week 
+- Project 2 needs 20 hours of project manager time and 20 hours of analyst time per week 
+• Candidate should change the focus from demand part to supply and request the following 
+information: 
+- Available resources - IT department has 3 project manager and 4 analysts 
+- Current utilization - project managers are utilized by 50% and analysts are by 40% 
+• Making the assumption that each person has 8 hours working day and 5 days a week, candidate 
+should estimate the bottleneck (1 analyst resource) and say that IT department has resources 
+only for project 2 
+Final solution 
+• Interviewer should ask the candidate to summarize the all available information and give the 
+recommendation 
+• The exceptional candidate will remember that both projects are long-term and recommend the 
+company to hire one extra analyst to do both projects. 

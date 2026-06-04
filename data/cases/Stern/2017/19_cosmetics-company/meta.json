@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2017_19_cosmetics-company",
+  "school": "Stern",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2017.pdf",
+  "idx": 19,
+  "case_name": "Cosmetics Company",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Cosmetics",
+  "difficulty": "Medium",
+  "pdf_page_start": 191,
+  "pdf_page_end": 200,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    193,
+    194,
+    195,
+    198,
+    199,
+    200
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p193.png",
+    "exhibits/exhibit_p194.png",
+    "exhibits/exhibit_p195.png",
+    "exhibits/exhibit_p198.png",
+    "exhibits/exhibit_p199.png",
+    "exhibits/exhibit_p200.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2017\\19_cosmetics-company"
+}

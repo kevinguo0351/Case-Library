@@ -1,0 +1,227 @@
+===== PDF p44 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Case 5: A Sticky Paper Situation 
+Your client is PaperCo, a manufacturer of specialty papers which are sold to commercial printers in the US.  PaperCo produces self-adhesive 
+sheeted papers that are ultimately used in a variety of labeling applications – often, eventually, to service CPG firms and for billboards. 
+PaperCo’s operations are profitable, but the business has failed to grow over the past few years.  The client would like to invest in the 
+business to restore growth and you have been asked to identify opportunities. 
+For most candidates this case will be primarily focused on reaching and working through the math, leaving little time for high-level strategy. The 
+difficulty of this case lies in feeling comfortable with the relatively obscure product/industry and in obtaining the right information to make the 
+necessary profitability and ROI (return on investment) calculations. There are some key pieces of information which the candidate will need to 
+obtain in order to head in the right direction. If they struggle to ask the right questions to get that information then you can guide them to the 
+right place. Your choice about how strict to be in giving up this information will make a big difference to the difficulty of the case. 
+ 
+The candidate may choose to clarify objectives upfront (this would be wise on his/her part). If so, to make the case easier you can specify that the 
+primary objective is ROI, or to test the candidate you can ask them to choose a suitable objective instead, or simply say that it is not specified, 
+encouraging them to use their judgment. 
+ 
+For the ROI calculation the candidate will be comparing a fixed cost to an annual return. They therefore need to choose a time horizon. If asked, 
+tell them to calculate ROI over 1 year. 
+Case Prompt 
+(to be read to the candidate) 
+40 
+Interviewer Guide 
+• Candidate Led  
+• Strategy/Reinvestment 
+• Paper and Pulp 
+Easy  
+Normal 
+Hard 
+
+
+===== PDF p45 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+• PaperCo sells to 24,000 commercial printers in the US (20,000 
+are small, 3,000 medium and 1,000 large) 
+• The company has 30% market share in the small printer segment 
+and 10% in the medium and large printer segments 
+• Your team-mates recently completed a study that showed that if 
+PaperCo expanded production it could increase sales to the 
+medium-sized or large-sized printer segments by 20% (Note to 
+interviewer: The candidate should be clear about the difference 
+between increasing sales by 20% and increasing market share by 
+20 percentage points. The former is correct. The latter would 
+constitute a 200% increase in sales) 
+• Printers (the customers) prefer to receive the product in different 
+forms according to the size of the customer: 
+• Small prefer boxes 
+• Medium prefer cartons 
+• Large prefer pallets 
+• The client’s current sales volumes to each customer segment are 
+given in the next section 
+41 
+Continued… (page 2 of 6) 
+Background Information 
+(to be provided when requested by candidate) 
+Market / Customers 
+Products and Pricing 
+• Raw materials for the products include rolls of paper, adhesives, 
+and a non-stick coating. They are then layered. Finally, they are 
+cut to specification for the customers – this process is called 
+“sheeting” 
+• The client has a range of products that is broadly the same for 
+all customers and that it does not wish to change 
+• Margins are acceptable, but management is averse to price-
+cutting because of a fear of initiating a war with competitors 
+that would leave everyone worse off 
+• Unit price differs according to customer segment (given in next 
+section) 
+Case 5: A Sticky Paper Situation 
+
+
+===== PDF p46 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+• This is a mature industry, with low growth across the board 
+• There are no significant competitive or regulatory trends in the 
+industry to be aware of 
+42 
+Continued… (page 3 of 6) 
+Background Information (Continued) 
+(to be provided when requested by candidate) 
+Industry 
+Company/Costs 
+• The company has the capability to expand production 
+• Any additional production would require an increase in the 
+client’s fixed costs (e.g. new packaging equipment, expanded 
+facilities, increase in permanent labor force). The amount of the 
+increase differs according to distribution method: 
+• An expansion in carton distribution capacity would 
+constitute a one-off cost of $675K (for medium printer 
+segment) 
+• An expansion in pallet distribution capacity would 
+constitute a one-off cost of $2.3M (for large printer 
+segment) 
+• Variable costs consist of materials, sheeting, coating and 
+packaging.  
+• Unit costs differ according to customer segment (given on the 
+following page) 
+Case 5: A Sticky Paper Situation 
+
+
+===== PDF p47 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+43 
+Sample Analysis 
+(not to be shown to candidate) 
+Case 5: A Sticky Paper Situation 
+Continued… (page 4 of 6) 
+Profitability for each customer segment: 
+• The case requires the candidate to choose the best investment. To do this they need to compare the cost of the investment to the potential 
+return. In order to calculate the return (i.e. the additional profit generated by the investment) they need to know current profitability, which 
+they can deduce using the information below 
+• N.B. if the candidate has already identified that the growth opportunities lie in the medium and large printer segments they should not waste 
+time determining the profitability of the small printer segment 
+Variables  
+Source (given in case unless stated) 
+Small 
+Medium 
+Large 
+Unit price 
+$20 
+$18 
+$15 
+Materials cost 
+$5.5 
+$5.5 
+$5.5 
+Coating cost 
+$1 
+$1 
+$1 
+Sheeting cost 
+$0.5 
+$0.5 
+$0.5 
+Packaging cost 
+$3 
+$2 
+$1 
+Profit per unit 
+(unit price) – (all costs) 
+$10 
+$9 
+$7 
+Number of customers 
+20,000 
+3,000 
+1,000 
+Annual unit usage per customer 
+100 
+500 
+3,000 
+Total annual profit 
+(unit profit) x (# of customers) x (annual 
+usage) 
+$20M 
+$13.5M 
+$21M 
+
+
+===== PDF p48 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+44 
+Sample Analysis 
+(not to be shown to candidate) 
+Case 5: A Sticky Paper Situation 
+Continued… (page 5 of 6) 
+ROI for medium and large segments: 
+• Get the total available profit in the market (previous slide) and consider the additional profit from the production expansion 
+• Finally, account for the cost of getting the extra capacity to supply the additional customers 
+Variables 
+Source (given in case unless stated) 
+Medium 
+Large 
+Total annual profit 
+Calculated on the previous page 
+$13.5M 
+$21M 
+Additional annual sales with expansion 
+20% 
+20% 
+Additional annual profit 
+(total profit) x (additional sales %) 
+$2.7M 
+$4.2M 
+Cost of capacity expansion (one-off) 
+$675K 
+$1.3M 
+Additional profit net of expansion (year 1) 
+(additional profit) – (cost of capacity expansion) 
+$2.025M 
+$2.9M 
+Return on investment (1-year horizon) 
+(net additional profit) / (cost of investment) 
+3 
+2.23 
+• Stronger candidates will note that over a longer time horizon the large printer segment generates a bigger ROI. Candidates may even choose 
+to calculate the exact time period over which  the large segment starts to have a greater ROI, although this is definitely not required) 
+Key Takeaway:  1-year ROI is greater for the medium sized printer segment 
+
+
+===== PDF p49 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+• The client should expand production in the medium size printer segment, as this generates 
+the largest ROI over the client’s preferred time horizon (1-year); the ROI available is very 
+attractive from an investment standpoint 
+• Additionally, the smaller cost of expansion in the medium printer segment means a reduced 
+financing need and a resulting diminished risk from the investment 
+• The client can also consider expansion into the large size printer segment at a later date 
+(depending on capacity) 
+• If the client considers a longer time horizon for its ROI calculation the large printer segment 
+may become more attractive 
+• These recommendations are based on no growth on the markets, expansion in one or the 
+other could tip the balance 
+• There is no information regarding competitive response, but given the aggressive 
+assumptions  regarding increased sales it is reasonable to assume there would be one 
+45 
+Sample Conclusions & Recommendations 
+Case 5: A Sticky Paper Situation 
+Continued… (page 6 of 6) 
+Recommendations 
+Risks 
+Other 
+• This segment of the specialty paper market seems to be fairly stable and mature, thus the 
+assumption of no growth, hence it would probably be wise to look for opportunities outside 
+its core products 
+• Producing products downstream in the paper industry could reveal attractive opportunities 
+as well 

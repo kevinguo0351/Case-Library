@@ -1,0 +1,30 @@
+{
+  "case_id": "Darden_2019_03_smiles4life",
+  "school": "Darden",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2019.pdf",
+  "idx": 3,
+  "case_name": "Smiles4Life",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 59,
+  "pdf_page_end": 69,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    63,
+    64,
+    65,
+    66,
+    67
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p063.png",
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2019\\03_smiles4life"
+}

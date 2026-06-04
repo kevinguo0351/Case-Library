@@ -1,0 +1,322 @@
+===== PDF p11 =====
+ 
+Management Consulting Association Case Book 2007 
+- 7 - 
+Case 2: Mine in Chile
+Case 2: Mine in Chile
+Case 2: Mine in Chile
+Case 2: Mine in Chile 
+ 
+ 
+BACKGROUND 
+ 
+Firm: Boston Consulting Group 
+Round: 2007 Summer, First 
+Content: Operations 
+ 
+CASE QUESTION 
+ 
+Our client is a company which is going to exploit a mine that is expected to be full of a 
+very unique ore, and has asked us in which order his company should extract the ore from 
+the field.  The ore will then be sent to a factory that his company already owns.   
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: The interviewer is testing whether the candidate can identify 
+a useful algorithm to determine the best way to extract ore from this field.  The candidate 
+should not initially waste any time developing one idea too fully; instead he/she should 
+come up with a few reasonable suggestions and test them for validity with the 
+interviewer.  The candidate should, like in most cases, be aware that he/she is missing 
+critical information and should identify what he/she needs to solve the case and then ask 
+the interviewer for this data.  
+ 
+Key facts: 
+ The field is divided in cells of equal size. Once you blow one cell there is no way the 
+truck can pass through it to go to the factory. 
+ This is a plan of the plant: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Factory 
+Trucks enter here with rocks 
+containing 1% of ore.  
+The output is 100% ore 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p12 =====
+ 
+Management Consulting Association Case Book 2007 
+- 8 - 
+ Each cell has different ore content and therefore each cell has a different cost of 
+extraction. 
+ No growth in population (for sake of simplicity). 
+ 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: So, tell me how we might approach this problem for our client? 
+ 
+Interviewee: First, I would like make sure that I fully understand our client’s needs.  Let 
+me repeat the key issues…  Our client wants us to provide him with a recommendation 
+on what approach his team should take to extract the ore in order to maximize profits.   
+ 
+Interviewer: Yes, that pretty much sums it up.  So, what’s next? 
+ 
+Interviewee: I can imagine a number of different ways of prioritizing which cells to take 
+out first, such as: 
+ 
+ Profit: Price – Cost. 
+ Demand:  Outlook of the price of the different types of ore.  If the price is low 
+(perhaps because demand today is lower), but we believe that this same ore will be 
+sold for much more in the future (perhaps due to an increase in demand), it could 
+make sense to begin extracting lower concentration cells.   
+I am imagining that this could be similar to the oil industry.  Think for example about 
+the price of oil.  The oil is in the field anyway so it’s better to exploit the places which 
+the least of it when the price in the market is at a low level.  Unless, of course, we can 
+store the ore for long periods of time without a large opportunity cost by tying up 
+capital and space.  
+ Capacity of the plant: Maybe there is a minimum level we need to provide to the plant 
+as input.  Maybe there is a maximum… this could determine how much we want to 
+extract in any given time period, especially, if there are penalties for operating outside 
+of this min-max range.  
+ Operational issues: For example, if I dig a hole in the ground and the truck cannot 
+pass through that cell, it may be wise to start at the cells that are further from the 
+factory so that I do not block off routes. 
+ 
+Interviewer: Ok, let’s assume that the points that you have raised are all reasonable.  
+This is a complex business and I was pleased to hear you touch on many of the important 
+points.  But, first, let’s focus on profits.  How would you define profit? 
+ 
+Interviewee: Ok, in this case profits would be (price of a ton of ore) * (expected content 
+of ore in cell) – (the cost of extraction for that cell). I will then rank each of the cells 
+based on its overall profit contribution and determine my extraction path from there. Of 
+course, we need to consider that if we extract from one highly profitable cell, but it cuts 
+
+
+===== PDF p13 =====
+ 
+Management Consulting Association Case Book 2007 
+- 9 - 
+off access to a lesser, but still profitable, cell, this is a cost of doing business under this 
+assumption and should reduce my overall expected profits.  
+ 
+Interviewer: Let’s assume that we map the field and this is what we get: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x = tons of ore in that cell 
+C = cost of extracting in that cell 
+ 
+Interviewee: Do we have any information on today's price of ore? 
+ 
+Interviewer: Yes, our client expects to get $10 dollars per ton of ore. 
+ 
+Interviewee: So, for Cell 1 the profit will be: 1*10 – 3 = 7. For Cell 2 would be: 1.3*10 
+– 10 = 3.  For Cell 3 would be: 1.1*10 – 5 = 6.  So I will start for Cell 1, then Cell 3 and 
+finally exploit Cell 2. 
+ 
+Interviewer: Ok.  What if price changes?  Does it change your decision? 
+ 
+Interviewee: Yes. 
+  
+Interviewer: Why? 
+ 
+Interviewee: Let’s say price is now $30 per ton.  For Cell 1 the profit will be: 1*30 – 3 = 
+27. For Cell 2: 1.3*39 – 10 = 29.  For Cell 3: 1.1*30 – 5 = 28.  So I would recommend 
+extracting Cell 2, then Cell 3 and finally Cell 1.  This is based on the fact that the costs 
+appear to be fixed and do not change despite the overall price fluctuations that we are 
+discussing.   
+ 
+ 
+ 
+ 
+ 
+Cell 1 
+x = 1.0 
+C = 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cell 2 
+x = 1.3 
+C = 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cell 3 
+x = 1.1 
+C = 5 
+ 
+ 
+ 
+ 
+ 
+ 
+Factory 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p14 =====
+ 
+Management Consulting Association Case Book 2007 
+- 10 - 
+ 
+Interviewer: Let’s move on.  Our client has told us that per ton P&L statement is as 
+follows…wait, perhaps you could tell me how you would construct it? 
+ 
+Interviewee: I would try to find out the average price, the average cost of goods sold and 
+then assign some part of the SG&A costs.   
+ 
+Interviewer: Ok.  Here are the figures that our client provided.  What is the company’s 
+break-even point? 
+ 
+ 
+Item 
+$ per ton 
+Revenues 
+1.0 
+COGS 
+0.8 
+SG&A 
+0.6 
+Profit 
+-0.4 
+ 
+ 
+Interviewee: Ok.  The company has $0.2 gross margin per ton of ore, before we factor in 
+SG&A costs.  So, if I divide SG&A by the gross margin I will find how much they have 
+to produce.  In this case, $0.6 / $0.2 = 3, which means they have to produce 3 times more 
+to cover fixed costs. 
+ 
+Interviewer: How the same P&L would look like? 
+ 
+Interviewee: Basically, we have to divide the SG&A by 3.  We are in essence spreading 
+the fixed SG&A costs across more units.  However, we would need to make sure that 
+SG&A does not increase with volume of ore extracted.   
+ 
+Item 
+$ per ton 
+Revenues 
+1.0 
+COGS 
+0.8 
+SG&A 
+0.2 
+Profit 
+0.0 
+ 
+ 
+Interviewer: Okay, can you summarize what we have identified? 
+ 
+Interviewee: Sure.  Our client was looking for a framework to identify the order in which 
+he should extract cells of ore from a field.  We chose to focus on profitability as the main 
+driver.  As mentioned, but not discussed in depth, profitability includes the core 
+components of price per ton of ore, cost to extract the cell (which appears to be fixed), 
+but also the cost of not being able to access a cell for extraction.  Once we have 
+
+
+===== PDF p15 =====
+ 
+Management Consulting Association Case Book 2007 
+- 11 - 
+calculated the profits per cell our client can draw out a map to understand which cells to 
+extract and when in order to maximize his P&L.  Next we discussed the company’s P&L 
+and identified that SF&A costs are relatively significant and appear to be fixed.  This 
+means that we would want to extract more ore in order to spread these costs across 
+production and increase overall profitability.  

@@ -1,0 +1,97 @@
+===== PDF p37 =====
+Case 2: Investment in PTA plant 
+Introduction 
+Problem Statement Narrative 
+Our client is a large producer of PET. PET is a type of plastic that is used mainly for producing bottles, such as the ones 
+you find in grocery stores. The main component of PET is PTA. Our client has a PET plant in the US and serves clients 
+both in the US and Europe. They have made the decision to build a PET plant in Europe to be closer to the clients. They 
+have asked you to evaluate whether they should also backward integrate and purchase a PTA plant and locate both plants 
+next to each other. 
+Overview for Interviewer 
+This is a relatively difficult case to structure. Leave it up to the interviewee to structure as he/she wishes and give him/her 
+information as requested. If the interviewee gets stuck, feel free to direct them towards what needs to be evaluated. 
+Information to be Given throughout the Case 
+33 
+Plant stand-alone evaluation 
+Cost of purchasing PTA plant of $750MM 
+No taxes 
+Plant producing at capacity (capacity of 1million metric tons per year) 
+Current price of $920 / metric ton 
+Plant cost of $800 MM which stays for 50 years 
+Raw Material cost of $690 / metric ton 
+Energy cost of $30 / metric ton 
+Overhead and logistics cost of $80MM per year 
+  
+Synergies evaluation 
+Overhead savings of $20MM per year 
+Logistics savings of $20 / metric ton 
+Market Assessment 
+Prices declining, expected  to reach 
+$800  / metric ton in 3 years 
+  
+33 
+
+
+===== PDF p38 =====
+Potential Approach to Solving the Case 
+Evaluate the:  
+a)  Plant on a stand-alone basis 
+b)  Synergies achieved from backward integration 
+c)  Market evaluation and risks 
+a) Plant on a Stand-alone Basis 
+Things to consider: 
+-  Capacity 
+-  Revenue 
+-  Fixed costs (plant) 
+-  Variable costs (Raw materials, energy, overhead and logistics) 
+ 
+Calculations: 
+Plant producing at capacity of 1million metric ton 
+PTA price of $920 / metric ton 
+Plant cost of $800MM, which can be used  for 50 years => Assuming straight line depreciation of $16MM / year 
+Raw Material cost of $690 / metric ton 
+Energy cost of $30 / metric ton 
+Overhead and logistics cost of $80MM => At capacity $80 / metric ton 
+=> Marginal profit of $120 / metric ton 
+Annual profit of $120*1 million - $16MM = $104MM (stand-alone) 
+ 
+ 
+Case 2: Investment in PTA plant (cont’d) 
+Analysis 
+34 
+34 
+
+
+===== PDF p39 =====
+b) Synergies Achieved from Backward integration 
+Overhead savings of $20MM by co-locating the plants next to each other 
+Logistics savings of $20 / metric ton => At capacity saving of $20MM 
+Total synergies achieved = $20MM + $20MM = $40MM 
+=> Annual profit of plant (after co-locating) is $104MM + $40MM = $144MM 
+c) Market Evaluation and Risks 
+Main risk being prices declining due to: 
+- Imports from cheaper manufacturing countries (e.g., China) 
+-  Decline in demand due to increased recycling of plastic bottles 
+-  Decline in demand due to increased ‘green’ movement in Europe 
+-  Decline in demand due to innovation in product design (bottles requiring less plastic) 
+In an outside assessment, it is expected that prices will be approx. $800 / metric ton in 3 years 
+=> Annual profit = $144MM – ($920 - $800)*1 million = $24MM 
+ 
+ 
+Case 2: Investment in PTA plant (cont’d) 
+Analysis (cont’d) and Recommendation 
+35 
+Other benefits from purchasing PTA plant: 
+- Guaranteed supply (however PTA is a 
+commodity and there is no real impact) 
+ 
+ 
+It seems that the decreasing demand and increasing competition will be driving down  
+prices.  
+The expected annual profit of the plant will be $24MM, out of which $40MM of 
+synergies from cost savings. 
+Given that the cost of the plant is $750MM, it seems like a very high price to pay. 
+ 
+ 
+Recommendation 
+35 

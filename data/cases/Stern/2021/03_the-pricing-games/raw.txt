@@ -1,0 +1,350 @@
+===== PDF p62 =====
+© 2021 NYU Stern MCA
+The Pricing Games
+Authors: Will Wang (Stern ‘19), Di Mo (Stern ‘19) Firm Round & Case Style: BCG Round 1
+[Interviewer-led]
+Case Overview:
+Industry: Technology
+Case Type: Product Pricing
+Concepts Tested:
+•
+Market Sizing
+•
+Revenue & Profitability Forecast
+Overview Information for Interviewer:
+•
+The case will test the candidate on 3 concepts:
+o Market sizing. The case starts by asking the candidate to estimate 
+addressable market size in # of players
+o Profitability calculations. Candidate will be asked to calculate profitability
+under each of the 3 business models
+o Brainstorming. The case concludes by asking for qualitative factors to 
+determine the optimal launch strategy
+Case Prompt:
+Your client is Next Level Gaming (NLG), a start-up in the E-sports and computer gaming industry based in Los Angeles, California. NLG is 
+planning to launch its first game – an online, multiplayer role playing game that is unlike any existing franchise. Being a new player in the 
+industry, NLG’s CEO, Bobby Beck, has asked for your help in deciding its business model. The company is considering 3 alternatives: a 
+subscription model where players pay a monthly fee; a retail model where players pay full price at initial purchase, and a free-to-play model 
+where the game is free to play but charges players for in-game merchandise. How would you advise NLG to proceed?
+Quant: 5
+Structure: 7
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+58
+© 2021 NYU Stern MCA
+
+
+===== PDF p63 =====
+The Pricing Games: Case guide
+Clarifying Information:
+•
+Time frame: NLG is looking to launch immediately.
+•
+Competition: The online gaming industry is dominated by 3 
+major players who control 35%, 25%, and 20% share 
+respectively. There is a long tail of smaller gaming companies.
+•
+Target Market: Based on preliminary market research, NLG 
+expects the majority of players to be between the ages of 21 to 
+40.
+•
+Geography: NLG is planning to launch its game in the US
+only.
+•
+Platform: NLG’s game is compatible for both Apple and 
+Windows computers
+•
+R&D Cost: NLG spent 10 million USD to develop its first game 
+(the candidate should recognize this as a sunk cost and not 
+factor it into the decision)
+Interviewer Guide:
+•
+A Good Framework Will Mention:
+o
+Break down drivers of profitability for each of the 3 business 
+models
+•
+Consider # of players acquired and $ revenue per player
+•
+Consider fixed and variable costs including infrastructure 
+(fixed) and customer acquisition (variable)
+o
+Factor in qualitative factors for each business model
+•
+Consider potential competitive responses
+•
+Consider customer acquisition costs and long-term 
+retention rate of player base
+•
+Explore other sources of income such as merchandising
+•
+A Great Framework Will Incorporate:
+o
+Potential for future expansion
+•
+Launch 2nd generation game
+•
+Expand to other platforms including mobile and console
+•
+Expand to geographies outside of US
+•
+Host E-sports tournaments
+59
+© 2021 NYU Stern MCA
+
+
+===== PDF p64 =====
+The Pricing Games: Market Sizing
+Question #1: Addressable Market Size
+•
+What factors would you consider to estimate the number of players NLG can target with its first game? How large is this player base in
+the US?
+Notes to Interviewer:
+•
+This is an example response. Good answers may vary as there are several ways to approach the addressable market size. If
+candidate estimates a market size that is significantly different from 10M, gently guide candidate to pressure test assumptions
+60
+© 2021 NYU Stern MCA
+
+
+===== PDF p65 =====
+The Pricing Games: Profitability
+Question #2: Profitability Calculations
+•
+What is NLG’s expected first year profitability with each of the 3 pricing models?
+•
+Show candidate exhibits 1 and 2
+Math Solution:
+Revenues:
+Subscription:
+10M * 10% * $10/mon * 12mon/yr = $120 M
+Retail:
+10M * 12% * $60 = $72 M
+Free-To-Play:
+10M * 50% * 30% * $100 = $150 M
+Math Information:
+•
+All information required for calculations 
+can be found on Exhibits 1 & 2
+•
+Guide the candidate towards the 
+footnote in Exhibit 2 if he/she misses it 
+as it contains critical information
+•
+Interviewee should note that the 
+absolute profit amounts for subscription 
+and free-to-play are identical
+•
+Strong candidates will calculate profit 
+margins
+10M * 10% * ($50 + $35) + $5M + $10M = $100 M
+10M * 12% * ($22 + $18) + $5M + $10M = $63 M
+10M * 50% * ($13 + $7) + 10M * 50% * 30% * $10 + 5M
++ 10M =
+Costs: 
+Subscription: 
+Retail:
+Free-To-Play:
+$130M
+Profits (Margin):
+Subscription:
+$120 M - $100 M = 
+Retail:
+$72 M - $63 M = 
+Free-To-Play:
+$150 M - $130 M =
+$20 M
+(16.67%)
+$9.0 M (12.50%)
+$20 M (13.33%)
+61
+© 2021 NYU Stern MCA
+
+
+===== PDF p66 =====
+The Pricing Games: Brainstorm
+Question #3: Qualitative Brainstorm
+•
+What non-financial factors would you consider in the subscription vs. free-to-play business models?
+Notes to Interviewer:
+•
+A strong candidate should display an organized structure while brainstorming. For example, grouping thoughts into mutually-
+exclusive buckets is a recommended practice. A strong candidate should mention, among other considerations:
+o
+Competitive response: what if a new competitor launches a game in the same genre? How sticky is NLG’s player base 
+when faced with competition?
+o
+Growth potential: is there an opportunity for NLG to expand its product offering to attract more players? Potential paths for 
+growth include:
+•
+New platform: expanding from PC to mobile or console
+•
+New geography: expanding outside of US
+•
+New game: launching 2nd generation game to create new content for players
+o
+Alternate revenue streams: can NLG explore alternate revenue streams such as merchandising? Can NLG participate in 
+E-sports tournaments (contingent on reaching a large enough player base)
+o
+Consumer preference changes: will more players migrate to non-PC platforms such as mobile? Will a new generation of 
+players lose interest in our game genre?
+62
+© 2021 NYU Stern MCA
+
+
+===== PDF p67 =====
+The Pricing Games: Chart Interpretation
+Question #4: Qualitative Brainstorm
+How does this information impact your outlook on the 3 different business models? [Show Exhibit 3].
+After the candidate has processed the chart, push for a final recommendation.
+Notes to Interviewer:
+•
+Exhibit 3 contains qualitative information that candidates can use to guide their final recommendation.
+•
+If the interviewee is unfamiliar with “Beta tests” in the video games industry, inform them that it is part of NLG’s market research to offer early trial 
+experience to a select group of players
+•
+Interviewee should realize that a higher value is not favorable for the last survey question
+•
+Interviewee should note that the retail model would have low customer loyalty and low potential for additional revenue. The free-to-play and 
+subscription responses indicate high levels of customer loyalty.
+•
+A strong interviewee would comment on the statistical relevance of the survey as it has 100 responses, a statistically significant amount
+63
+© 2021 NYU Stern MCA
+
+
+===== PDF p68 =====
+The Pricing Games: Recommendation
+Recommendation, Risks & Next Steps
+•
+NLG’s CEO, Bobby Beck, wants to meet for lunch to discuss your findings. How would you summarize your recommendation?
+Recommendation:
+•
+The candidate may recommend either the subscription or the free-to-play business model. A strong candidate will display 
+consistency based on his or her brainstorm from Q3 and cite relevant insights to support the recommendation, along with 
+mentioning profit margins (if calculated) A strong candidate should also recognize short and intermediate-term risks and suggest 
+tangible methods for mitigation.
+•
+An example recommendation:
+o
+“I recommend for NLG to pursue the free-to-play business model. This model captures the largest player base which puts 
+NLG in a strong position against competitive threats. It also allows NLG to launch future games, expand to new 
+geographies, or move into other platforms such as console or mobile. Even though short-term financial benefits are 
+equivalent to that of subscription, the free-to-play model puts NLG in a more competitive position long-term.”
+o
+“Key risks associated with free-to-play model is generating a sufficient percent of paying players and growing revenue per 
+player. To mitigate this risk, I recommend designing two types of in-game purchases. Players can either pay to “beautify” in-
+game characters to improve aesthetic appeal; or, players can pay to expedite the levelling journey and save time from 
+“grinding” through stages. These efforts will help NLG capture a sufficient segment of paying customers based on two 
+sustainable value propositions.”
+64
+© 2021 NYU Stern MCA
+
+
+===== PDF p69 =====
+The Pricing Games: Exhibit 1
+Subscription
+Retail
+Free-To-Play*
+Target Audience
+10M
+10M
+10M
+Predicted Market Share
+10%
+12%
+50%
+% Buy In-Game Content
+-
+-
+30%
+Monthly Subscription Fees
+$10
+-
+-
+Retail Price
+-
+$60
+-
+Annual In-Game Purchases
+-
+-
+$100
+Predicted Revenues
+65
+© 2021 NYU Stern MCA
+
+
+===== PDF p70 =====
+The Pricing Games: Exhibit 2
+Subscription
+Retail
+Free-To-Play*
+Annual Variable Cost
+$50
+$22
+$13
+Customer Acquisition Cost
+$35
+$18
+$7
+Annual Product Dev
+$5 M
+$5 M
+$5 M
+Server Costs
+$7 M
+$7 M
+$7 M
+Other Fixed Costs
+$3 M
+$3 M
+$3 M
+Cost Structure
+*Per customer costs in the table are for all customers, including non-paying customers. 
+Paying customers incur an additional average variable cost of $10
+66
+© 2021 NYU Stern MCA
+
+
+===== PDF p71 =====
+The Pricing Games: Exhibit 3
+4.2
+1.2
+4
+1.5
+1.2
+1.8
+4.1
+2.3
+4.8
+3.6
+4.2
+1.9
+0.5
+0
+2.5
+2
+1.5
+1
+3
+4.5
+4
+3.5
+5
+Continue playing this 
+game after first year?
+Purchase add-ons to 
+the base game?
+Recommend to 
+friends?
+Switch to a new game 
+in the same genre?
+Survey Response (5 = most likely, 1 = least likely)
+Survey Info From Beta Test (n=100)
+Subscription
+Upfront Purchase
+Free to Play
+67
+© 2021 NYU Stern MCA

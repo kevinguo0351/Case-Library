@@ -1,0 +1,26 @@
+{
+  "case_id": "Wharton_2022_06_carco-autoparts",
+  "school": "Wharton",
+  "year": "2022",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2022.pdf",
+  "idx": 6,
+  "case_name": "CarCo Autoparts",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Automotive / Retail",
+  "difficulty": "Easy",
+  "pdf_page_start": 63,
+  "pdf_page_end": 70,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    66,
+    67,
+    68
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p068.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2022\\06_carco-autoparts"
+}

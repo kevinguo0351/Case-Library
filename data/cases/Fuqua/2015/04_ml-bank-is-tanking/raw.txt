@@ -1,0 +1,383 @@
+===== PDF p54 =====
+Case #4: ML Bank is Tanking
+Industry: Finance/Technology
+Quantitative Level: Medium
+Qualitative Level: Medium
+Quantitative level: Easy
+Qualitative level: Medium
+
+
+===== PDF p55 =====
+Behavioral Questions
+51
+• Tell me about a time you had to overcome an obstacle.
+• Tell me about a time you had to work with a difficult teammate, client, or customer. 
+How did you overcome this?
+Question 1:
+Question 2:
+
+
+===== PDF p56 =====
+ML Bank is Tanking
+52
+• Our client, ML Bank, is the 5th largest bank in North America in terms of number of branch 
+locations, with over $20B in revenue in 2015. They’ve grown to this size through years of 
+inorganic growth, with several acquisitions within the past few years. They’ve recently engaged a 
+consulting firm to conduct a benchmarking study which revealed their costs are over-market by 
+$400M. They’ve hired you to identify and fix the underlying cause of this discrepancy.
+Prompt #1:
+• The interviewee should quickly realize this is a cost problem, and not a revenue or profit problem. 
+They should focus on building a MECE approach for potential cost drivers at a large financial 
+institution, including, but not limited to: salaries & benefits, interest expense, branches and 
+equipment, provision for credit losses (or bad debt expense), compliance, taxes, technology, 
+marketing, etc. A great framework will tie increases in costs to the recent acquisitions. 
+• Information to be given if asked: 
+–
+ML Bank focuses on retail banking and has over 1,000 locations throughout the Northeastern US and 
+Canada
+–
+Most of their acquisitions have been mid-size banks in the Northeastern US and regional credit card 
+portfolios
+–
+Profits have remained steady despite the cost discrepancy
+–
+Assume there are no other goals that the bank has at this time other than to reduce costs
+• After presenting their framework, push the interviewee for a theory on why the banks’ costs are 
+off-market, and hand over Exhibit #1
+Interviewer Guidance:
+
+
+===== PDF p57 =====
+Exhibit #1: Costs 
+53
+5,100
+2014
+600
+2,100
+760
+4,600
+500
+750
+900
+2,200
+14,450
+1,375
+875
+4,500
+605
+2015
+15,415
+5,000
+Interest Expense
+Salaries & Benefits
+Provision for Credit Losses
+Other Expenses
+Technology
+Compliance, Taxes & Levies
+Branches & Equipment
+ML Bank (in $ millions)
+Industry Average
+15%
+30%
+35%
+8%
+5%
+5%
+2%
+2015
+Legend
+
+
+===== PDF p58 =====
+Interviewer guidance on Exhibit #1
+•
+Exhibit 1 displays the cost breakdown at ML Bank over 2014 and 2015, and shows the industry average for costs in 2015. The 
+interviewee should be able to quickly synthesize analysis to compare costs at ML Bank over 2014 and 2015 and compare their 
+relative percentages to the industry average. The conclusion should be that Technology costs are what is driving costs being over-
+market. 
+•
+It is OK for the interviewee to round numbers in their approach. 
+•
+After completing the analysis, the interviewee should begin to theorize possible reasons for increased technology costs. If not, ask 
+the interviewee to come up with a list of reasons for why technology costs could have increased so much over the prior 
+year.
+•
+Identifying that Technology is the major problem area 
+is not complicated. If the interviewee gets there quickly 
+without the analysis, push them to see if they are sure.
+•
+A complete analysis should compare relative 
+percentage of costs in 2015 to the 2015 industry 
+average. In addition, a good candidate will perform the 
+math to show that between 2014 and 2015, 
+Technology costs went from 3% of total costs to 10% 
+of total costs, despite the industry average being 2%. 
+•
+An advanced analysis would highlight both of the 
+above, while also identifying potential reasons for the 
+increased technology costs. 
+54
+Exhibit #1 Guidance:
+Analysis:
+ML Bank 
+YoY % 
+Change
+2014 % 
+of Costs
+2015 % 
+of Costs
+Industry 
+Avg.
+Salaries & Benefits
+2%
+35%
+35%
+35%
+Interest Expense
+2%
+31%
+32%
+30%
+Branches & Equipment
+(5%)
+15%
+15%
+15%
+Provision for Credit 
+Losses
+(3%)
+6%
+6%
+8%
+Compliance, Taxes & 
+Levies
+1%
+5%
+5%
+5%
+Technology 
+175%
+3%
+10%
+2%
+Other Expenses
+1%
+4%
+4%
+5%
+
+
+===== PDF p59 =====
+ML Bank is Tanking
+55
+•
+What are some potential reasons for the large increase in technology expenditures?
+•
+Push the interviewee to list a few reasons for the increase. Afterwards, hand them Exhibit #2, and say the 
+following: “The CTO has identified several IT systems that are high cost-drivers and prime for removal. The goal 
+is a 17.5% reduction in technology costs over the next two years. Given this information, which option do you 
+recommend the bank proceed with?”
+•
+Do not provide the current technology costs number, as this information is in Exhibit #1. 
+Prompt #2: Brainstorming
+•
+A good answer would highlight the increase in technology expenditures due to ML Bank’s recent acquisitions. As 
+indicated in the initial prompt, ML Bank has recently undergone acquisitions of mid-size banks in the Northeastern 
+US as well as regional credit card portfolios. Along with these acquisitions comes merging entire technology 
+portfolios: IT applications, software licenses, IT staff, data centers, servers, and customer-facing IT channels such 
+as websites, web applications, and call centers. Mergers create bloated IT portfolios and thus costs over the 
+industry benchmark.
+•
+A great answer will go into potential ways to reduce these costs, including eliminating and streamlining redundant 
+applications. 
+Optional Tech Case Question:
+Interviews for Technology Consulting positions will push further and ask for recommendations on how to reduce 
+technology costs at ML Bank
+•
+This could include: Application Rationalization and Standardization, ERP Implementation, Storage Optimization 
+(including Cloud storage), Server Optimization, Data Center Optimization, Mainframe consolidation, 
+LAN/WAN/Voice and Data Network Optimization, PC Management, Maintenance and Help Desk Outsourcing, etc.
+•
+The Technology Consulting interviewee should ensure that the technology strategy is aligned with overall 
+business strategy, and that all changes should have an impact analysis across a People, Processes, and 
+Technology framework
+Interviewer Guidance:
+
+
+===== PDF p60 =====
+Exhibit #2: High-Cost Systems
+56
+System 
+Name
+System 
+Function
+Age of 
+System 
+(Years)
+System
+Business 
+Need*
+Customers 
+Supported
+Annual Cost 
+(Millions)
+Time to 
+Transition** (yrs)
+PRS-1
+Payroll Reporting
+9
+Medium
+0
+$10
+0.5
+BHRIMS
+Human Resources 
+Management
+5
+High
+0
+$50
+1.0
+CIMS
+Customer 
+Relationship 
+Management
+7
+High
+20,000
+$150
+0.5
+AIMS
+Internal Accounting
+3
+Low
+0
+$100
+1.0
+PIDS
+Customer Product 
+Information
+11
+Medium
+35,000
+$50
+0.5
+HRIS-1
+Human Resources 
+Management
+10
+Medium
+0
+$150
+1.5
+*System Business Need is a rough determination of how the system aligns with overall future business strategy.
+**Time to Transition is an estimate of how long it would take to transition from this system to a new one.
+
+
+===== PDF p61 =====
+Interviewer Guidance on Exhibit #2
+57
+•
+A 17.5% reduction in Technology costs entails a reduction of ~$240M (=$1.375B * 17.5%; let the candidate become 
+comfortable in the calculation). To achieve this reduction, ML Bank would have to eliminate systems that are duplicative, 
+expensive, severely aged and/or have low business need. A good interviewee will be able to talk qualitatively about each 
+column as an important factor in the decision making process, and use those factors to select the right systems to retire.
+•
+The recommended approach would be to eliminate AIMS and HRIS-1. AIMS has a low business need and is expensive; 
+HRIS-1 is a duplicate system to BHRIMS (both do Human Resources Management), has a medium business need 
+(compared to high with BHRIMS), and yet more expensive. The combined savings by eliminating these two systems is 
+$250M, which more than meets the 17.5% reduction goal, and brings total bank costs closer to the industry benchmark 
+(ML Bank was found to be $400M over-market in costs). 
+Recommendation 
+System 
+Name
+System 
+Function
+Age of 
+System 
+(Years)
+System
+Business 
+Need*
+Customers 
+Supported
+Annual Cost 
+(Millions)
+Time to 
+Transition** (yrs)
+PRS-1
+Payroll Reporting
+9
+Medium
+0
+$10
+0.5
+BHRIMS
+Human Resources 
+Management
+5
+High
+0
+$50
+1.0
+CIMS
+Customer 
+Relationship 
+Management
+7
+High
+20,000
+$150
+0.5
+AIMS
+Internal Accounting
+3
+Low
+0
+$150
+1.0
+PIDS
+Customer Product 
+Information
+11
+Medium
+35,000
+$50
+0.5
+HRIS-1
+Human Resources 
+Management
+10
+Medium
+0
+$100
+1.5
+
+
+
+
+===== PDF p62 =====
+ML Bank’s Costs are Too Damn High
+58
+Thomas Drake, the CTO for ML Bank, wants to meet for lunch and discuss your recommendation. How would you 
+summarize your findings?
+Recommendation Prompt 
+•
+A good interviewee should highlight that by eliminating AIMS and HRIS-1, ML Bank will meet the CTO’s goals of 
+17.5% reduction in technology costs over the next two years. 
+•
+A great interviewer will tie this back to the initial problem, that their costs are $400M over-market, and that this 
+reduction will get them closer to the market benchmark, and yet there is room to further cover the gap . 
+•
+Potential risks include the threat of losing business continuity by eliminating these systems, the costs to eliminate 
+the system - migrating data from one system over to the other, the potential for contractual system license costs 
+perpetuating over the next two years, etc.
+•
+Mitigations include outlining a roadmap to get to the desired end state – identifying a target state IT application 
+portfolio, and mapping out the required steps (migration, platform standardization, ERP system implementation) to 
+get from the current state to the target state. (NOTE: This sort of answer is required for Technology Consulting 
+interviews). 
+•
+Next steps include identifying the scope of the systems, the determined steps to ensure business continuity, and 
+outlining a roadmap to system end-date (sunset date) to achieve these cost synergies. 
+Interviewer Guidance:

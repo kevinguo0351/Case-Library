@@ -1,0 +1,42 @@
+{
+  "case_id": "Darden_2008_07_contact-lens-manufacturer-growth",
+  "school": "Darden",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2008.pdf",
+  "idx": 7,
+  "case_name": "Contact Lens Manufacturer Growth",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Healthcare/Medical Devices",
+  "difficulty": null,
+  "pdf_page_start": 48,
+  "pdf_page_end": 61,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    50,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p055.png",
+    "exhibits/exhibit_p056.png",
+    "exhibits/exhibit_p057.png",
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p059.png",
+    "exhibits/exhibit_p060.png",
+    "exhibits/exhibit_p061.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2008\\07_contact-lens-manufacturer-growth"
+}

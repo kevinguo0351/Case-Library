@@ -1,0 +1,664 @@
+===== PDF p38 =====
+34
+Alpha Aviation
+McKinsey | Round 2 | Aviation
+
+
+===== PDF p39 =====
+35
+McKinsey | Round 2 | Aviation
+0 1  |  C A S E :  A L P H A AV I AT I O N
+ALPHA AVIATION
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  W h y  
+M c K i n s e y ?
+2 .  W h a t ’s  y o u r  
+p r o u d e s t  
+a c h i e v e m e n t ?
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. What is the timeline for the project? ASAP – financial investments for the airline typically warrant a payback 
+period of 3 years.
+2. How is the rest of the airline industry performing? Our client’s profitability is declining slightly faster than the 
+industry – but is in line with other airlines within its class of service.
+3. Any specific goals? Take operating margin positive.
+Prompt:
+Your client is a large US-based commercial airline that has lost profitability 
+and market share. The company is under pressure to regain its foothold in 
+the industry and grow its balance sheet. Can you brainstorm some areas you 
+would like to investigate on behalf of the airline?
+
+
+===== PDF p40 =====
+36
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 1  |  C A S E :  A L P H A AV I AT I O N
+How to Move Forward:
+The interviewer should identify key revenue and cost considerations for route planning and highlight other potential strategic considerations. 
+To move forward, the interviewee should call out the existing financial forecasts or market research provided.
+Revenue Opportunities
+•
+Ticket Fares
+•
+Upselling Opportunities
+•
+Cargo Fees
+•
+Airline partnerships
+•
+Credit Card sponsors
+Cost Management
+• Upfront Investment
+• Airport Investment
+• Equipment 
+• Initial Training
+• Marketing & Advertising
+• Variable Costs
+• Fuel Costs
+• SG&A
+• Maintenance
+Other Considerations
+• Creation of a new domestic 
+hub
+• Seasonal Risk
+• Competitive Response
+• Fuel Efficiency + Prices
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p41 =====
+37
+Question 1
+The airline has evaluated your options and decided to re-examine and add additional routes. The flight 
+dispatch office has presented three routes and would like your guidance on which to choose.
+0 1  |  C A S E :  A L P H A AV I AT I O N
+Exhibit or Question Guidance:
+Show candidate Exhibits 1 and 2 and ask for key strategic takeaways or pros/cons. Interviewer guidance below.
+UVA Darden School of Business 2019-20 case book
+Route 1
+Route 2
+Route 3
+SEA - MINN
+FAY - DALL
+NYC - DC
+PRO
+Potential for Growth
+PRO
+Risk of Disruption
+PRO
+Competition for Route
+PRO
+Time to Establish Operations
+PRO
+PRO
+CON
+Potential for Growth
+CON
+Risk of Disruption
+CON
+Competition for Route
+CON
+CON
+Time to Establish Operations
+CON
+Key: there is no automatic choice – each route 
+has major tradeoffs. You can urge the interviewer 
+to pick a route and rationalize their choice, OR ask 
+about any additional data they would want/need to 
+make the best decision. At that point, provide 
+Exhibits 3 and 4.
+
+
+===== PDF p42 =====
+38
+EXHIBIT 1
+0 1  |  C A S E :  A L P H A AV I AT I O N
+Route Map
+UVA Darden School of Business 2019-20 case book
+Route 1
+Seattle Minneapolis
+1,400 mi
+1 roundtrip/day
+240 passenger capacity
+Route 2
+Fayetteville Dallas
+550 mi
+1 roundtrip/day
+120 passenger capacity
+Route 3
+New York DC
+200 mi
+3 roundtrips/day
+120 passenger capacity
+
+
+===== PDF p43 =====
+39
+EXHIBIT 2
+0 1  |  C A S E :  A L P H A AV I AT I O N
+Route Research
+UVA Darden School of Business 2019-20 case book
+Route 1
+Seattle 
+Minneapolis
+Route 2
+Fayetteville 
+Dallas
+Route 3
+NYC 
+DC
+Potential for Growth*
+Low
+High
+Medium
+Risk of Flight Disruption**
+Low
+High
+Medium
+Competition for Route***
+High
+Low
+High
+Time to Establish Operations
+3 months
+2 months
+12 months
+* Projected 5-year increase in passenger volume
+** Historical data on flight cancellations due to weather and operations
+*** Current competitors flying the same route
+
+
+===== PDF p44 =====
+40
+Question 2
+Keeping in mind your strategic analysis, the airline has provided financial projections and for each route. 
+What are your initial reactions to their data? And can you quantify each route’s profitability?
+0 1  |  C A S E :  A L P H A AV I AT I O N
+Exhibit or Question Guidance:
+Show candidate Exhibits 3 and 4 and guide them toward creating a financial forecast. Interviewer guidance below.
+Exhibit 3 – If time allows, have the interviewer brainstorm potential upfront costs. 
+Exhibit 4 – Best practice is to combine revenue and cost to get CM/ASM for each route. Interviewee can either weight the 
+CM based on the projected fill rate OR reference the passenger capacity in Exhibit 1 to get average passengers per route.
+Note: ASM stands for Available Seat Miles; standard aviation practice to denote financial metrics.
+Forecast calculations on next page.
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p45 =====
+41
+CALCULATIONS FOR INTERVIEWER
+0 1  |  C A S E :  A L P H A AV I AT I O N
+UVA Darden School of Business 2019-20 case book
+Route 1
+Route 2
+Route 3
+SEA - MINN
+FAY - DALL
+NYC - DC
+# of Seats per Plane
+240
+120
+120
+x Average % Filled
+90%
+60%
+80%
+Average # of Passengers
+216
+                
+72
+                   
+96
+                   
+x Average Flight Distance (mi)
+1,400
+             
+550
+                
+200
+                
+A
+Available Seat Miles (ASM)
+302,400
+         
+39,600
+           
+19,200
+           
+Revenue/ASM
+0.12
+$             
+0.22
+$             
+0.18
+$             
+- Cost/ASM
+0.11
+$             
+0.09
+$             
+0.12
+$             
+B
+CM/ASM
+0.01
+$             
+0.13
+$             
+0.06
+$             
+ASM
+302,400
+         
+39,600
+           
+19,200
+           
+x CM/ASM
+0.01
+$             
+0.13
+$             
+0.06
+$             
+A x B CM/flight
+3,024
+$           
+5,148
+$           
+1,152
+$           
+x Flights per day
+2
+2
+6
+x Flying days per year
+300
+300
+300
+C
+Annual CM/route
+1,814,400
+$   
+3,088,800
+$   
+2,073,600
+$   
+What is the CM potential of each route?
+Route 1
+Route 2
+Route 3
+SEA - MINN
+FAY - DALL
+NYC - DC
+Terminal Construction
+100,000
+$       
+2,500,000
+$   
+5,000,000
+$   
++ Equipment Purchase
+1,000,000
+$   
+3,000,000
+$   
+1,000,000
+$   
++ Additional Staff Required
+10.00
+             
+100.00
+           
+50.00
+             
+* Training per Staff Member
+100,000
+$       
+1,000,000
+$   
+500,000
+$       
+D
+Total Upfront Cost
+1,200,000
+$   
+6,500,000
+$   
+6,500,000
+$   
+Total Upfront Cost
+1,200,000
+$   
+6,500,000
+$   
+6,500,000
+$   
+/ Annual CM/route
+1,814,400
+$   
+3,088,800
+$   
+2,073,600
+$   
+D / C Payback (Years)
+0.7
+2.1
+3.1
+Payback (Months)
+8
+25
+38
+What is the payback period?
+Key: weigh the shorter payback period with the 
+riskiness of the investment (passenger availability, 
+competition, start-up time, operational considerations)
+
+
+===== PDF p46 =====
+42
+EXHIBIT 3
+0 1  |  C A S E :  A L P H A AV I AT I O N
+Upfront Costs 
+UVA Darden School of Business 2019-20 case book
+Route 1
+Seattle 
+Minneapolis
+Route 2
+Fayetteville 
+Dallas
+Route 3
+NYC 
+DC
+Terminal Construction
+100k
+2.5M
+5M
+Equipment Purchase
+1M
+3M
+1M
+Additional Staff Required*
+10
+100
+50
+* 10k/person will be required for training
+
+
+===== PDF p47 =====
+43
+EXHIBIT 4
+0 1  |  C A S E :  A L P H A AV I AT I O N
+Route Financials (Per ASM)
+UVA Darden School of Business 2019-20 case book
+$0.12 
+$0.22 
+$0.18 
+$0.11 
+$0.09 
+$0.12 
+Route 1
+Route 2
+Route 3
+Route Financials per Filled Seat
+Revenue
+Cost
+Route’s Average 
+% Seat Fill Rate
+90%
+60%
+80%
+Seattle – Minneapolis
+Fayetteville – Dallas
+NYC - DC
+
+
+===== PDF p48 =====
+44
+In-flight amenities
+•
+Upgraded WiFi
+•
+Extra legroom and business class 
+cabins (lower price sensitivity)
+•
+Priority boarding for business 
+travelers
+0 1  |  C A S E :  A L P H A AV I AT I O N
+UVA Darden School of Business 2019-20 case book
+Best candidates display:
+Ability to integrate disparate data on route mapping with brainstorming ideas – i.e. how can the client best design the selected route to appeal 
+to business travelers in that destination. If time allows, the interviewer should ask the candidate why an airline would grow its base of business 
+travelers.
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+External partnerships
+•
+Preferred status with Concur and 
+other corporate booking sites
+•
+Alliance networks with smaller, 
+regional airlines (continuous 
+service)
+Flight structure
+•
+Early morning and late afternoon 
+time slots to accommodate 
+business schedule
+•
+No penalty rebook or cancellation
+Misc.
+•
+Revenue-based loyalty program
+•
+Perks for Elite Status
+BRAINSTORMING
+Your client has identified that attracting business travelers will be key to long-term growth and 
+profitability. Please brainstorm some ideas on how your client can increase business travelers in the 
+next 3 years.
+
+
+===== PDF p49 =====
+45
+CONCLUSION
+0 1  |  C A S E :  A L P H A AV I AT I O N
+UVA Darden School of Business 2010-20 case book
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+No clear “right answer” – the case is meant to test a candidate’s ability to deal with ambiguity. A good answer will consider 
+both the quantitative and qualitative advantages of the three routes, and how each aligns with the client’s long-term goals. 
+The information in the case is purposely spread out and difficult to interpret, so candidates should maintain composure 
+and organization when providing their final recommendation.
+Risks:
+•
+Competitive activity at destination airport – possibility of a price war
+•
+Pending local legislation at destination city – could prevent or hinder monopolistic activity or make airline travel 
+prohibitively expensive for carriers and passengers
+•
+Decrease in passenger interest in destination cities
+Next Steps:
+•
+Regulatory and operational planning schedule to implement route.
+
+
+===== PDF p50 =====
+46
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p51 =====
+47
+EXHIBIT 1
+0 1  |  C A S E :  A L P H A AV I AT I O N  - A P P E N D I X
+Route Map
+UVA Darden School of Business 2019-20 case book
+Route 1
+Seattle Minneapolis
+1,400 mi
+1 roundtrip/day
+240 passenger capacity
+Route 2
+Fayetteville Dallas
+550 mi
+1 roundtrip/day
+120 passenger capacity
+Route 3
+New York DC
+200 mi
+3 roundtrips/day
+120 passenger capacity
+
+
+===== PDF p52 =====
+48
+EXHIBIT 2
+0 1  |  C A S E :  A L P H A AV I AT I O N  - A P P E N D I X
+Route Research
+UVA Darden School of Business 2019-20 case book
+Route 1
+Seattle 
+Minneapolis
+Route 2
+Fayetteville 
+Dallas
+Route 3
+NYC 
+DC
+Potential for Growth*
+Low
+High
+Medium
+Risk of Flight Disruption**
+Low
+High
+Medium
+Competition for Route***
+High
+Low
+High
+Time to Establish Operations
+3 months
+2 months
+12 months
+* Projected 5-year increase in passenger volume
+** Historical data on flight cancellations due to weather and operations
+*** Current competitors flying the same route
+
+
+===== PDF p53 =====
+49
+EXHIBIT 3
+0 1  |  C A S E :  A L P H A AV I AT I O N  - A P P E N D I X
+Upfront Costs 
+UVA Darden School of Business 2019-20 case book
+Route 1
+Seattle 
+Minneapolis
+Route 2
+Fayetteville 
+Dallas
+Route 3
+NYC 
+DC
+Terminal Construction
+100k
+2.5M
+5M
+Equipment Purchase
+1M
+3M
+1M
+Additional Staff Required*
+10
+100
+50
+* 10k/person will be required for training
+
+
+===== PDF p54 =====
+50
+EXHIBIT 4
+0 1  |  C A S E :  A L P H A AV I AT I O N  - A P P E N D I X
+Route Financials (Per ASM)
+UVA Darden School of Business 2019-20 case book
+$0.12 
+$0.22 
+$0.18 
+$0.11 
+$0.09 
+$0.12 
+Route 1
+Route 2
+Route 3
+Route Financials per Filled Seat
+Revenue
+Cost
+Route’s Average 
+% Seat Fill Rate
+90%
+60%
+80%
+Seattle – Minneapolis
+Fayetteville – Dallas
+NYC - DC

@@ -1,0 +1,28 @@
+{
+  "case_id": "Stern_2020_02_fungicide",
+  "school": "Stern",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2020.pdf",
+  "idx": 2,
+  "case_name": "Fungicide",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Agriculture/Life Sciences",
+  "difficulty": null,
+  "pdf_page_start": 57,
+  "pdf_page_end": 66,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    59,
+    63,
+    64,
+    65
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p059.png",
+    "exhibits/exhibit_p063.png",
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2020\\02_fungicide"
+}

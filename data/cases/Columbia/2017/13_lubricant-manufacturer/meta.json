@@ -1,0 +1,24 @@
+{
+  "case_id": "Columbia_2017_13_lubricant-manufacturer",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 13,
+  "case_name": "Lubricant Manufacturer",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Industrials / Chemicals",
+  "difficulty": null,
+  "pdf_page_start": 114,
+  "pdf_page_end": 119,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    116,
+    119
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p116.png",
+    "exhibits/exhibit_p119.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\13_lubricant-manufacturer"
+}

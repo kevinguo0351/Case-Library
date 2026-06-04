@@ -1,0 +1,424 @@
+===== PDF p183 =====
+CASE 18 – PHARMA CO.
+179
+
+
+===== PDF p184 =====
+Case 18: Pharma Co.
+Prompt
+Pharma Co. has developed a new AML drug X (type of cancer). Preliminary Phase I trials indicate tremendous potential, but the costs 
+to get the drug FDA approved and to market are extremely high. A private equity firm has approached Pharma Co. offering to pay 
+$150M for 50% of all future drug X profits. Pharma Co. wants you to tell it what to do. 
+Interviewer Guidance
+Information that can be provided to the interviewee / used to direct the interviewee during case:
+• The only known objective is to determine how Pharma Co. should proceed
+• Pharma Co. has no experience taking a drug to market
+• Cancer drugs tend to be extremely expensive ($100k+) for the patient
+• ONLY U.S. insurance will reimburse the cost of the drug, thus Pharma Co. only wants to consider the U.S. market 
+• Pharma Co. does have other drugs in the pipeline
+• This new drug has not completed U.S. FDA Phase I, Phase II, or Phase III trials 
+• Assume patent life of 10 years
+• Side effects are consistent with similar drugs so a non-factor
+• There will be competition  (will be explored later)
+Behavioral Questions
+• What are three traits that your former colleagues would use to describe you? Briefly explain each.
+• Tell me about something not on your resume that you are proud of.
+180
+
+
+===== PDF p185 =====
+Case 18: Pharma Co.
+Analysis
+The interviewee should quickly recognize that market opportunity needs to be evaluated against the total costs - a good framework will 
+include these two points as its primary pillars. Other points that would likely be included within the framework include patent expiration, 
+insurance reimbursement, current experience / capability set, probability of FDA trial success, and competition. 
+Guide interviewee towards total market opportunity if not initiated. Begin by asking interviewee what inputs should be used to determine 
+total opportunity and how these inputs could be collected (sample answers - push interviewee to explore and defend new inputs): 
+•
+Interviews with experts in the field (doctors, insurance experts, pharmaceutical business experts, healthcare experts)
+•
+Review of government census data for population / demographic data
+•
+Review of medical journals for cancer incidence trends
+•
+Review of FDA records of trials of competitive drugs to see if competition could cut into market share
+•
+Review of the ramp of adoption of similar drugs
+•
+Survey / interview with potential patients and their willingness to try drug X 
+•
+Review of the price points of similar drugs
+•
+Financial reports for competitors’ drug performance / drug pipeline information (competition)
+•
+Review of negotiated blanket contracts similar drugs have in place with the government (think Medicare) 
+Fortunately, for the interviewee a lot of that information has already been collected. Provide Exhibit 1 to the interviewee. Ask interviewee 
+to provide total market opportunity for drug X.  
+181
+
+
+===== PDF p186 =====
+Case 18: Pharma Co.
+Exhibit 1
+(1) Drug X goes off patent after 10 years
+Competitor market share
+•
+Annual patients afflicted with 
+AML are 3,300  
+•
+Estimated cost of drug X is 
+$125,000 per patient per year
+•
+Interviews indicate that 
+doctors are willing to 
+prescribe drug X to 70% of 
+their patients
+•
+Assume drug X achieves 100% 
+of its projected market share 
+after Yr 3
+Year (Yr)
+YR1
+YR2
+YR3
+YR4
+YR5
+YR6
+YR7
+YR8
+YR9
+YR10 (1)
+YR11
+Competitor Market Share
+0%
+0%
+0%
+0%
+25%
+25%
+25%
+25%
+25%
+25%
+100%
+182
+
+
+===== PDF p187 =====
+Case 18: Pharma Co.
+Total market opportunity calculation (for interviewer only)
+YR1
+YR2
+YR3
+YR4
+YR5
+YR6
+YR7
+YR8
+YR9
+YR10
+Number afflicted 
+3300
+3300
+3300
+3300
+3300
+3300
+3300
+3300
+3300
+3300
+Willingness to prescribe
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+Patients (pre-ramp)
+2310
+2310
+2310
+2310
+2310
+2310
+2310
+2310
+2310
+2310
+Share of market
+100%
+100%
+100%
+100%
+75%
+75%
+75%
+75%
+75%
+75%
+Patients (after competitor cut)
+2310
+2310
+2310
+2310
+1733
+1733
+1733
+1733
+1733
+1733
+Ramp
+11%
+55%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+Patients (after ramp)
+254
+1271
+2310
+2310
+1733
+1733
+1733
+1733
+1733
+1733
+Total patients (after ramp)
+16,543
+                   
+Price
+125,000
+$              
+Total Market Opportunity
+2,067,875,000
+$  
+183
+
+
+===== PDF p188 =====
+Case 18: Pharma Co.
+Analysis
+Great! That is a lot of money! But we need to take into consideration the probability that drug X receives FDA approval. 
+This probability is applied to the total market opportunity to determine the “risk-adjusted” market opportunity. 
+An internal team has developed percentages of failure at each phase. The percentages that drug X completes each stage are (TOTAL
+PROBABILITY AND RISK-ADJUSTED MARKET OPPORTUNITY TO BE CALCULATED BY INTERVIEWEE):
+•
+Phase I probability - 90% (already begun and results are promising resulting in high %)
+•
+Phase II probability - 30%
+•
+Phase III probability - 50%
+How should these probabilities be applied to the total market opportunity that was just calculated? 
+•
+Total probability that drug X receives FDA approval - 13.50% (FOR INTERVIEWER ONLY)
+•
+Risk-adjusted market opportunity for drug X is ~$280M (FOR INTERVIEWER ONLY)
+184
+
+
+===== PDF p189 =====
+Case 18: Pharma Co. 
+Analysis
+With the risk adjusted market opportunities in hand, costs should now be calculated. Ask the interviewee what costs should be
+considered (sample answers - difficulty can be increased by eliminating time to structure thoughts):
+• Regulatory fees
+• Promotional materials
+• Marketing campaigns 
+• Production costs (e.g. materials, quality, sourcing)
+• Adding personnel (e.g. sales, marketing, administrative, regulatory)
+• New facilities
+• Packaging materials
+• Shipment (e.g. logistics)
+• Distribution costs (e.g. McKesson)
+• Taxes
+Fortunately, Exhibit 2 outlines these costs and should be provided to the interviewee. Using Exhibit 2 and the market opportunity 
+numbers calculated in the first half of the case the interviewee should be prompted to begin calculating the EBITA for the “risk-
+adjusted” scenario (FOR RISK ADJUSTED KEY THAT INTERVIEWEE RISK ADJUSTS COSTS AS THEY ALIGN WITH THE FDA PHASES - HINT IF 
+NECESSARY). Total EBITA is $38M (FOR INTERVIEWER ONLY). If interviewee initiates NPV discussion, redirect to total EBITA noting 
+management has specifically requested a total EBITA number as part of the analysis and that NPV will follow.
+Interviewee should ask for discount rate to calculate NPV of the 50% profit stream that the private equity company has offered $150M 
+for. Provide a discount rate of 5% BUT BEFORE interviewee begins to calculate ASK HOW they would structure the NPV calculation. 
+Once explained, note that the NPV will likely be negative (or ask interviewee based on information provided where they think it would 
+fall without doing any calculations), and that time is running short so you need to move on…
+With a negative NPV estimate (approximate NPV is -$25M) for the 50% profit stream, total EBITA, and the total assuming the private 
+equity firm’s offer is accepted of $181M ($150M offer + $31M profit split), ask for the recommendation.
+185
+
+
+===== PDF p190 =====
+Exhibit 2
+Case 18: Pharma Co. 
+Phase I
+Phase II
+Phase III
+Production
+•
+$160M (1)
+•
+$125M
+•
+$75M
+•
+Manufacturing costs: 5% 
+of price
+•
+Logistics: 5% of price
+•
+All other costs: 10% of 
+price 
+(1) The $160M includes both what has been invested AND the projected amount required to complete Phase I trails
+186
+
+
+===== PDF p191 =====
+Exhibit 1 (“RISK ADJUSTED” ANSWERS - FOR INTERVIEWER)
+Case 18: Pharma Co.
+Phase I
+Phase II
+Phase III
+Production
+•
+$160M
+•
+$125M
+•
+$75M
+•
+Phase I: $160M x 90% = ~$144M
+•
+Phase II: $125M x (90% x 30%) = ~$34M
+•
+Phase III: $75M x (90% x 30% x 50%) = ~$10M
+•
+Total for production: 
+•
+~2B x (5% x 5% x 10%) = $400M
+•
+$400M x (90% x 30% x 50%) = ~$54M
+•
+EBIDTA is: $280M - $242M = ~$38M 
+•
+Manufacturing costs: 5% 
+of price
+•
+Logistics: 5% of price
+•
+All other costs: 10% of 
+price 
+187
+
+
+===== PDF p192 =====
+Case 18: Pharma Co.
+Performance Evaluation
+The case evaluates the interviewees ability to recognize a profit case, thinking logically and quickly through a long-term strategic problem, and 
+perform simple math. An exceptional interviewee will do the following:
+•
+Recognize that there is risk that the drug will not make it through all FDA approvals (and appropriately apply to the total market 
+opportunity and costs)
+•
+Able to quickly and logically identify reasonable means for collecting inputs required to determine market opportunity
+•
+Understand that there are both non-recurring costs (R&D, trials, etc.) and recurring costs (manufacturing, staffing, selling, etc.)
+•
+Note that the market will be cut or end because of generic competition once the patent ends
+•
+Identify other geographies and other uses as key channels to push total profits higher
+•
+Able to quickly and logically identify key costs 
+•
+Note that competition is likely and needs to be considered
+Recommendation
+An argument can be made to both accept and turn down the private equity firm’s offer, though most will suggest that it be accepted based on the 
+numbers. But an argument could be made that because other drugs are in the pipeline this could serve as a foundation drug, that the risk 
+adjustment numbers are too conservative, etc. Either recommendation should mention risk tolerance of Pharma Co., need for capital, validation of 
+the risk adjustment percentages, risks because Pharma Co. has never taken a drug to market, possible exploration of alternative paths forward 
+(partner, license, or sell the technology). Additional questions to probe / challenge recommendation:
+•
+Probe for alternative solutions?
+•
+What additional analysis would the interviewee like to perform?
+•
+Would it make sense for Pharma Co. to revaluate after Phase I approval? Phase II and III approvals?
+•
+What data would be required to further explore / validate alternative solutions?
+•
+What are the non-financial risks to pushing forward with development? 
+•
+How can the risk adjusted numbers be validated?
+•
+What are logical next steps for Pharma Co.?
+188
+
+
+===== PDF p193 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

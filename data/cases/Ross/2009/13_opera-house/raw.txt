@@ -1,0 +1,111 @@
+===== PDF p64 =====
+Our client, an Opera house located in a large 
+metropolitan city, has been struggling with declining 
+profitability recently. They’ve hired McKinsey to help 
+them understand the source of declining profits and 
+provide recommendations on how to turn the situation 
+d
+-Opera house only does opera performances
+-Opera house does 6 unique performances (repeated for 
+a few weeks each) throughout the year
+Opera house has been around for 50+ years
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+Opera House (1 of 4)
+McKinsey, Round 1
+around.
+-Opera house has been around for 50+ years
+-Customers are typically 45+ years old, highly educated , 
+coming in from suburbs
+Substitutes
+-If they ask this question turn it around on them. Ask 
+what they think substitutes would be? Push them to list 
+at least 4 things. Then say “That sounds about right, 
+unfortunately I don’t have any information in this area”
+
+
+===== PDF p65 =====
+Products & Prices
+-Single show tickets: Night shows priced at $100, Sunday matinee priced at $70
+-Club member ticket (all 6 shows of the year): Night package for $480, Matinee packaged for $300
+-Group discounts (10 or more single shows):  Night tickets for $80, Matinee tickets for $60
+*Night shows are Thursday, Friday & Saturday.
+*Memberships are for single nights (i.e. Wednesday night membership)
+At this point, the Candidate should have developed a framework including the following buckets.  The information can be 
+given in any order.   
+Opera House (2 of 4)
+McKinsey, Round 1
+Traffic/Volume
+Thursday nights: average of 300 customers
+Friday nights: average of 450 customers
+Saturday nights: average of 450 customers
+Sunday matinee: average of 500 customers
+*Capacity is 500 seats
+Costs
+When the student asks about costs, force them to state what they think the core costs of an opera 
+house should be. They should name things like:
+Fixed (Management / Utilities / Rent or Mortgage / Marketing)
+Variable (Talent / Labor / Costumes / Equipment & Lights)
+Tell them that the client has done some calculations that attribute fixed and variable costs on a per 
+show basis. They feel good about this figure as a proxy for the real costs of running each show –
+this figure is $30,000.
+
+
+===== PDF p66 =====
+Ticket Mix & 
+Single ticket: 70%, Group ticket: 10% , Club members: 20%
+-Thursday = 100*(.7*300) + 80*(.3*300) = $28,200
+-Friday = $42,300
+-Saturday = $42,300
+-Sunday = $33,500
+The student should do calculations to see if  there are any unprofitable days. But they can‘t do that without knowing what 
+the mix of tickets is in each event. Tell them on average you see the following mix regardless of day of the week.
+Opera House (3 of 4)
+McKinsey, Round 1
+Profit/Day 
+Calculations
+The student should quickly see that Thursday nights are unprofitable.  Next they should move on 
+to question #2 – What do we do about it now? 
+Before they start brainstorming ideas, interject with a few facts:
+- The client doesn’t want to let go of Thursday nights (and we shouldn’t because it still brings in 
+revenue, we should fix it)
+- The client thinks the most opportunity is in the club tickets because it brings traffic to multiple 
+shows at once so we’ve decided to focus here, “How do we raise club ticket sales?”
+Ideas to Raise 
+Ticket Sales
+Let the student brainstorm ways to raise club ticket sales, then stop them and say:
+“An idea the client has is to allow customers to sign up for the club membership after viewing one 
+show via a single ticket. The idea is to attract more people after they’ve had a good experience.” 
+(the client will give the customer their retroactive discount for the show they’ve already seen if they sign up, 
+but ignore this for purposes of the case). “The client has asked us to tell them what % of Thursday 
+single ticket purchases they would need to convert to increase Thursday night traffic enough to 
+break even?”
+
+
+===== PDF p67 =====
+Solution
+The student should then solve for break even point first:
+!Money needed to break even = $30,000 - ~$28,000 = ~$2,000
+Then they should find how many tickets it would take to break even:
+!Each club ticket is worth $80 in revenue, so $2,000/80 = ~ 25 tickets
+The student should then find what % of the traffic that day is
+!25/300 = About 8 or 9% (ok answer)
+Prompt the student to wrap upP
+Opera House (4 of 4)
+McKinsey, Round 1
+Prompt the student to wrap upP
+Conclusion
+Answer:
+- Opera house is losing money/declining profitability because they don’t generate enough traffic on 
+their Thursday nights. In fact they are losing money on Thursdays. Sunday is also not very 
+profitable, but does still generate profit for the client.
+- The opera house can consider several strategies to turn this situation around. Possible ideas:
+Discounting: discount tickets to maximize volume 
+Expand customer base: target local people who can make it on a Saturday night or professionals 
+coming for a “treat after work”
+Reduce variable costs: reduce staff or use only a portion of theater
+Bundle tickets: Provide incentives for those buying Saturday tickets to one show to also pick up 
+Thursday night tickets to another show through bundling
+Add or expand concessions: To further grow revenue
+Risks/Next Steps: (answers can vary, but should be logical)

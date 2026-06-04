@@ -1,0 +1,26 @@
+{
+  "case_id": "Columbia_2021_10_explorer-bank",
+  "school": "Columbia",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2021.pdf",
+  "idx": 10,
+  "case_name": "Explorer Bank",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": "Medium",
+  "pdf_page_start": 104,
+  "pdf_page_end": 111,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    105,
+    108,
+    111
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p105.png",
+    "exhibits/exhibit_p108.png",
+    "exhibits/exhibit_p111.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2021\\10_explorer-bank"
+}

@@ -1,0 +1,234 @@
+===== PDF p177 =====
+173
+Case author(s): Andy Grieve (Kellogg 2001)
+Edited By: Peter Manoogian (Kellogg 2012), Rohan Maini (Kellogg 2020)
+Case 16
+Orrington Office Supplies
+Primary sector(s)
+• X04 Engineering & Construction
+Concepts tested
+• Z04 Capacity
+Similar cases
+• Alkaline Ash        
+(Columbia 2017)
+• Garthwaite Healthcare 
+(Kellogg 2020)
+• Princeton-Plainsboro  
+(Wharton 2012)
+• Mustard Clinic         
+(Kellogg 2020)
+Case type
+• Y05 Operations
+• Y07 Profitability
+
+
+===== PDF p178 =====
+174
+Orrington Office Supplies
+Interviewer guide
+Case prompt
+• Our client, Orrington Office Supplies (OOS) is a leading manufacturer of office products in 1992, with sales of $275m in 1991. They 
+have strong brands, invest heavily in marketing and advertising, and have grown through product line extensions and 4 key 
+acquisitions.
+• OOS is organized into 5 autonomous divisions, but shares manufacturing and marketing functions. Shared costs (45% of total) are 
+allocated on a percentage share of sales method. There are three plants running at a current capacity utilization of 50%.
+• Analysts predict OOS is a potential acquisition target given its strong balance sheet but weakening earnings. They are publicly 
+traded and have little long-term debt. As a potential investor, how would you improve its profitability?
+Interviewer guide
+• Problem: How can OOS increase profits?
+• Problem solving steps:
+1. Identify trends in sales and profit
+2. Analyze plant production operations
+3. Determine financial impact of plant consolidation
+4. Provide client recommendation
+
+
+===== PDF p179 =====
+175
+Orrington Office Supplies
+Case prompt
+• Our client, Orrington Office Supplies (OOS) is a leading manufacturer of office products in 1992, with sales of $275m in 1991. They 
+have strong brands, invest heavily in marketing and advertising, and have grown through product line extensions and 4 key 
+acquisitions.
+• OOS is organized into 5 autonomous divisions, but shares manufacturing and marketing functions. Shared costs (45% of total) are 
+allocated on a percentage share of sales method. There are three plants running at a current capacity utilization of 50%.
+• Analysts predict OOS is a potential acquisition target given its strong balance sheet but weakening earnings. They are publicly 
+traded and have little long-term debt. As a potential investor, how would you improve its profitability?
+Clarifying information
+Industry
+• U.S. Office supplies market grew at 5% CAGR historically. In 
+1990 and 1991, the market declined at 5% per year.
+• Superstore channel is becoming increasingly critical
+• Gained 10 share pts in past 2 years
+• Typically discount products 30% to small retailers/dealers
+• Superstores are aggressively substituting private label 
+products for traditional brand names
+Client Characteristics
+• Broader product line than competitors (12.5k SKUs vs. 4-5k 
+for competitors)
+• Distribution: 75% wholesalers, 15% superstores, 10% end 
+customers
+• Highest selling product is a high-end branded stapler
+• Staples, Inc. is OOS’s largest customer
+Fit: What role do you typically play in a team? Give me an example of this.
+
+
+===== PDF p180 =====
+176
+Orrington Office Supplies
+Exhibit A – Historical revenues and profits
+ $-
+ $50
+ $100
+ $150
+ $200
+ $250
+ $300
+ $350
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+Millions
+Sales
+Pre-tax Profit
+1980 to 1989
+1989 to 1991
+Sales CAGR
+15%
+-8%
+Pre-tax Profit CAGR
+15%
+-40%
+
+
+===== PDF p181 =====
+4,500
+5,000
+3,000
+7,500
+3,500
+2,500
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+Chihuahua, MEX
+Grand Rapids, MI
+Sayreville, NJ
+Units
+Unused capacity
+SKU capacity utilization
+177
+Orrington Office Supplies
+Exhibit B – Production plants
+
+
+===== PDF p182 =====
+178
+Orrington Office Supplies
+Exhibit C – Plant operating costs
+20
+15
+18
+18
+39.5
+25.5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Chihuahua, MEX
+Grand Rapids, MI
+Sayreville, NJ
+Costs ($m)
+Fixed Costs
+Variable Costs
+
+
+===== PDF p183 =====
+179
+Orrington Office Supplies
+Part 1
+1. Identify trends in sales and profit
+• Why do the slopes for sales and profits differ as time elapses?
+• The interviewee should not only be able to interpret the data on this slide, but also come up with two insights: 
+1. The fact profits have been declining more steeply than sales reflects the fixed-cost nature of this business, and;
+2. The reason that sales did not grow at a faster clip than profitability during the 1980s likely reflects a strategy to grow through 
+acquisitions, which prevented OOS from seeing the gains through economies of scale that one would normally expect in a 
+business such as this
+Provide Exhibit A after the candidate asks about profitability
+
+
+===== PDF p184 =====
+180
+Orrington Office Supplies
+Part 2
+2. Analyze plant production operations
+• Qualitatively discuss the potential options for plant consolidation with the interviewee.
+• The interviewee should recognize the Chihuahua plant is close to having capacity to produce OOS’s 12.5k SKUs. Either OOS can 
+close that plant and move all production to the US, or it could close the US plants, discontinue 500 SKUs and move production to
+Chihuahua.
+• Strong interviewees will note that Chihuahua is the most feasible strategy, but will ask to see fixed and variable cost data.
+Provide Exhibit B after the candidate asks about plant consolidation
+
+
+===== PDF p185 =====
+181
+Orrington Office Supplies
+Part 3
+3. Determine financial impact of plant consolidation
+• How would this change revenues? (currently $275m/year)
+• How would this change production costs? What are they now?
+• How would this change pre-tax profits (currently $25m/year?)
+• Revenues: Each SKU earns annual revenues of $22k ($275m divided by 12,500 SKUs) therefore, eliminating 500 SKUs will 
+decrease annual revenue by $11m, or 4%
+• Costs: 
+• Consolidating revenues to Chihuahua will reduce annual costs by 50% to:
+• Chihuahua: $20m + ($4k * 12k SKUs) = $20m + $48m = $68.0m
+• Profits:  We increased profits by $57m ($68m - $11m) to $82m, which more than triples them. 
+Provide Exhibit C after the candidate asks about Costs
+Each plant has the following variable cost per SLU:
+Chihuahua: $18m / 4.5k SKUs = $4k per SKU
+Michigan:  $39.5m / 5k SKUs = $7.9k per SKU
+New Jersey: $25.5m / 3k SKUs = $8.5k per SKU
+Each plant currently has the following annual costs:
+Chihuahua: $20m + $18m = $38.0m
+Michigan:  $15m + $39.5m = $54.5m
+New Jersey: $18m + $25.5m = $43.5m
+$136m
+
+
+===== PDF p186 =====
+182
+Orrington Office Supplies
+Part 4
+4. Provide client recommendation
+• Overall, our client should eliminate 500 SKUs and consolidate all production to the Chihuahua plant to raise annual profits from
+$25m to $82m. 
+• The client should also consider several qualitative issues:
+• Implementation: Long-term timeframe.
+• Unionized labor: Whether organized labor exists at closing plants and the impact of that 
+• Distribution and Warehousing: We will need a carefully-developed transition plan.
+• Purchasing: We will need to transition to a strong central purchasing department, rather than smaller local ones.
+• Culture: Communicating the change properly is key, and we will need to ensure that morale does not take a nosedive.
+• Excellent interviewees need to recognize what macroeconomic issues are beyond the scope of the client’s control and then quickly 
+dive into the plant consolidation, then analyze the cost structures

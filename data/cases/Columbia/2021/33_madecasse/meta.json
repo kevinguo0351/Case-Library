@@ -1,0 +1,26 @@
+{
+  "case_id": "Columbia_2021_33_madecasse",
+  "school": "Columbia",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2021.pdf",
+  "idx": 33,
+  "case_name": "Madecasse",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Non-Profit",
+  "difficulty": "Hard",
+  "pdf_page_start": 295,
+  "pdf_page_end": 302,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    298,
+    301,
+    302
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p298.png",
+    "exhibits/exhibit_p301.png",
+    "exhibits/exhibit_p302.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2021\\33_madecasse"
+}

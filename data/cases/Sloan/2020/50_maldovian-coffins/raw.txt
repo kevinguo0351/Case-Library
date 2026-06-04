@@ -1,0 +1,224 @@
+===== PDF p198 =====
+Casebook | 2019-20 Edition 
+194 
+ 
+50. Maldovian Coffins (McKinsey R1, Other, M&A, Balanced) 
+Note: this case is on the longer side - so you may want to allow extra time or stop the interview after 30 
+minutes has elapsed. Also note, this case is not recommended to be given as a candidate's first 
+few cases. 
+ 
+Stem: Our client is a coffin maker in the Eastern European country of Maldovia. He has seen substantial 
+change in his market in recent years and is contemplating the future of his business. Up until now, he has 
+been in the business of building high-quality, hand- crafted coffins largely by hand with a skilled labor 
+force. Recently, however, he has become aware of technology that would allow him to build machine- 
+made coffins with much less labor. Should he invest in this new technology, and should he even remain in 
+the coffin business in the first place? What strategic alternatives should the owner consider? 
+ 
+Most candidates will want to dive into the industry and the market – ensure that they spend time at the 
+beginning outlining a sound structure. 
+ 
+Candidate: We need to decide firstly whether to stay in business at all and if so, whether he uses the 
+new technology: 
+ 
+ 
+Continue Operating 
+Do not invest in new technology 
+Invest in new technology 
+ 
+Exit the business 
+Potential Stem might include: 
+Sell the business to a third party 
+Sell the assets of the company and shut it down 
+● 
+Market: industry trends (e.g. declining profitability), competition (e.g. entering or exiting the 
+market), total market size, market share, we know technology has begun to disrupt the market 
+● 
+Our client: competitive advantages (e.g. skilled labor), profitability (e.g. margins compared to 
+competition, declining or increasing, etc.), total assets (e.g. property, equipment, buildings, etc.) 
+ 
+Interviewer: First, let’s go ahead and calculated the market size. What would you need to know? 
+ 
+Provide the following information when asked, ensuring that eventually the candidate gets all the facts. 
+● 
+Population of Maldovia: 4M 
+● 
+Population Growth: 0% 
+● 
+Life Expectancy: 75 years 
+● 
+Age Distribution: Assume a flat distribution (i.e. the same number of people at all ages) 
+● 
+Burial Customs: 75% of deaths are buried in coffins 
+ 
+Candidate: 4,000,000 people x 1/75 people * 75% of people = 40,000 coffins purchased / year. 
+The candidate needs to realize that every year, 1/75th of the population will turn 76 and therefore (on 
+average) will die. 
+ 
+Interviewer: What would you like to know about the industry? (Interviewer can also choose to let the 
+candidate guide the conversation to the next step) 
+● 
+Competition – Maldovian Coffins has a 10% market share and a relative market share of about 1 
+(if asked, you may explain that relative market share is the ratio of the company’s market share to 
+that of its nearest competitor) 
+● 
+Market Trends, Regulation, etc. – If asked about any exogenous factors, simply tell the candidate 
+to assume that the market is expected to continue as it currently is. 
+
+
+===== PDF p199 =====
+Casebook | 2019-20 Edition 
+195 
+ 
+Interviewer: Would you mind telling me what the value of the business is both with and without the new 
+technology? 
+ 
+Provide the following: 
+ 
+● 
+Price – Coffins are priced at $5,000 for a hand-made coffin. 
+● 
+Current Costs – Material accounts for 10% of the direct cost, while labor accounts for the other 
+90%. COGS is $4,800 per coffin. Fixed costs for the business are $700,000 per year. Assume all 
+assets are fully depreciated and ignore taxes. 
+● 
+Investing in the new technology will cost $1M. Material costs will remain the same, but labor 
+costs will be reduced by 50%. 
+ 
+Provide the following when asked about the investment: 
+ 
+● 
+Proprietary Nature of Technology – The new coffin-making technology is currently offered for 
+sale by a machine tool company, who holds the patent. They are not offering exclusivity to any 
+customers (i.e. they will sell to Maldovian Coffin’s competitors if possible). 
+● 
+Competitive Threat – It is not known whether the competitors have acquired or are planning to 
+acquire this technology. 
+● 
+Customer Preferences – While the machine-made coffins are not “hand-made”, the quality 
+perceived by the customer is the same or better. It is believed that the customer will be indifferent 
+between the quality and appearance of a hand-made and a machine- made coffin. 
+ 
+Before the candidate begins diving into the calculations for the new technology… 
+Interviewer: How might competitors react if our client adopts the new technology? 
+ 
+Candidate: Since Maldovian Coffins has no proprietary control over the technology, it is likely that 
+competitors will also acquire it, resulting in an overall lowering of the industry cost structure. If 
+this is the case, price will also fall as competition cuts price in an attempt to gain share. 
+If need be provide guidance on the following. 
+
+
+===== PDF p200 =====
+Casebook | 2019-20 Edition 
+196 
+ 
+Interviewer: Let’s assume that the pricing for the coffins in an industry with new technology conforms to 
+the same gross margin as in the current case (e.g., 4%). 
+ 
+Gross Margin = $200 / $5,000 = 4% Labor Cost = (4800 x 90%) x 50% = $2,160 Material Cost = $480 
+COGS = $2,160 + $480 = $2,640, Price = $2,640 / (1 - 4%) = $2,750 
+ 
+ 
+Current 
+With new 
+technology 
+Price 
+5,000 
+2,750 
+COGS 
+4,800 
+2,640 
+Labor Costs 
+4,320 
+2,160 
+ 
+Material Costs 
+480 
+480  
+ Contibution Margin 
+200 
+110  
+Gross Margin 
+4% 
+4% 
+Units Sold 
+4,000 
+4,000 
+Market Size 
+40,000 
+40,000 
+Market Share 
+10% 
+10% 
+Contribution 
+800,000 
+440,000 
+Less Fixed costs 
+700000 
+700,000 
+Profit 
+100,000 
+-260,000 
+Discount Rate 
+10% 
+10% 
+Perpetuity 
+1,000,000 
+-2,600,000 
+Less Investment Cost 
+0 
+-1,000,000 
+Value of Option 
+1,000,000 
+-3,600,000 
+ 
+ 
+Assuming a discount rate of 10%, a perpetuity with cash flows of $100k / year has a PV of 
+$100,000 / .1 = $1M. So, the current business is worth $1M whether they keep it or sell it. 
+It clearly does not make sense to implement the new technology. 
+ 
+Brownie Points for candidates who realize that: The introduction of the technology to the market might be 
+expected to reduce industry profits, making this entire business completely unprofitable. Therefore the 
+$1M is likely untenable going forward. 
+ 
+Interviewer: So now what would be the value of the company if it were shut down and its assets sold? 
+(Interviewer can also choose to let the candidate guide the conversation to the next step) 
+Information to give if asked: 
+● 
+Assets – Since the firm has been building coffins by hand, the fixed assets are essentially only 
+the land and improvements. The company owns assets outright. 
+ 
+When the candidate asks for the value of the land, have them brainstorm ways that they might determine 
+this. They should come up with at least 3 good ways, such as: 
+
+
+===== PDF p201 =====
+Casebook | 2019-20 Edition 
+197 
+ 
+● 
+Look for comparable real estate and determine recent selling price 
+● 
+Find comparable commercial real estate and determine the rent per square foot, then discount 
+the cash flows generated by renting the property 
+● 
+Determine rate of appreciation for property in the area and then apply to book value of current 
+land and improvements 
+ 
+Give the candidate the following information and have them calculate the value of the property: 
+ 
+● 
+Book Value of Land: $20,000 
+● 
+Book Value of Improvements: $80,000 
+● 
+Years Owned: 48 
+● 
+Avg. Real Estate Appreciation: 6% / year 
+ 
+Candidate: Using the “rule of 72,” a 6% growth rate will double the investment every 72/6 = 12 years. 
+Since the property was held for 48 years, the current value will be $100k * (2 ^ 4) = $1.6M. 
+ 
+Since the assets ($1.6M) are higher than the value of the discounted cash flows ($1M), then it would 
+make more sense to liquidate the business and sell the assets. 
+ 
+Interviewer: What is your final recommendation for our client? (Liquidate the business) 

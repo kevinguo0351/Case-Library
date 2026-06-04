@@ -1,0 +1,201 @@
+===== PDF p123 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+119
+
+
+===== PDF p124 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+Case Prompt
+Our client, Mike Apparel, is a large apparel and sporting goods company. The client is interested 
+in entering the women’s golf apparel market and is looking for guidance on whether this is a 
+good idea. 
+Information provided upon request:
+•
+Mike makes both produces and retails the goods in its own stores
+•
+The objective is to invest extra cash (amount undefined) in a profitable project
+•
+Scope of the launch is the United States
+Concepts Tested
+Brainstorming, Structure, Basic Quant & Financials
+120
+
+
+===== PDF p125 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+Framework
+1.
+Market Size
+•
+Population of the United States
+•
+Ratio of women
+•
+Percentage of golf players
+•
+Achievable market share
+•
+Customer $ purchases/year
+2.
+Costs
+•
+R&D 
+•
+Fixed Costs
+•
+Variable Costs
+•
+Marketing & Advertising
+3.
+Risks
+•
+Cannibalization of existing 
+products/shelf space
+A strong framework will hinge on two factors: 
+Market Size or Revenue Potential, and the costs of 
+the launch and ongoing operations.
+Basic cost numbers available are as follows:
+•
+R&D (one-time): $255M
+•
+Fixed Costs (yearly): $5M
+121
+
+
+===== PDF p126 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+Questions
+1.
+What does the market size and revenue potential look like?
+2.
+When can breakeven be achieved?
+Data Available
+•
+Buying Frequency, Selling Price
+•
+Variable Cost to produce
+Item
+Buying Frequency
+Selling Price
+Shirt
+2 / year
+$60
+Hat
+1 / year
+$80
+Item
+Variable Cost
+Shirt
+$15
+Hat
+$20
+122
+
+
+===== PDF p127 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+Interviewer Guidance and Solution: Question 1
+Market Sizing (nudge the interviewee towards the following numbers)
+•
+Population of US 300M
+•
+Women (50%) – 150M
+•
+~80% people in age ranges that play golf: 80% * 150M = 120M
+•
+Golf is an affluent sport, only rich can play. Rich = 10%. 10% * 120M = 12M
+•
+Percentage of people who actually play Golf 25% (a fourth of affluent people is a 
+reasonable assumption) = 3M 
+•
+Market Penetration (20%) = 600K
+123
+
+
+===== PDF p128 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+Interviewer Guidance and Solution: Question 2
+Profit potential depends on two factors – numbers of items bought and profit on each item. We 
+already know we have 600,000 potential customers. 
+Therefore, profit per customer per year:
+•
+Shirt: 2 * ($60 - $15) = $90
+•
+Hat: $80 - $20 = $60
+•
+Total: $150
+Total Revenue Potential = $150 * 600K = $90M
+(-) Fixed Cost = $90M - $5M = $85M
+Breakeven = $255M / $85M = 3 years
+124
+
+
+===== PDF p129 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+Interviewer Guidance: Recommendation
+Recommendation: Enter Market – 3 year breakeven
+•
+$85M annual profit, quick breakeven
+•
+Tap new customer base – women, may have been untapped by industry before
+•
+Women-focused product promotes diversity in sporting, also good for branding/PR
+Risks
+•
+Bad launch may affect other products
+•
+Some cannibalizing of standard products (e.g. non-golf specific shirts and hats)
+Next Steps
+•
+Setup manufacturing
+•
+Sign brand ambassador: a professional woman golfer
+•
+Research which products to replace on shelves
+125
+
+
+===== PDF p130 =====
+Case 11: Mike Apparel
+Consumer Goods| Market Entry
+126
+Recommendations
+Risks
+Next Steps
+Recommendation:
+Enter Market – 3 year breakeven
+•
+$85M annual profit, quick 
+breakeven
+•
+Tap new customer base –
+women, may have been 
+untapped by industry before
+•
+Women-focused product 
+promotes diversity in sporting, 
+also good for branding/PR
+Risks include:
+1.
+Bad launch may affect other 
+products
+2.
+Some cannibalizing of 
+standard products (e.g. non-
+golf specific shirts and hats)
+Mike Apparel should:
+1.
+Setup a manufacturing facility
+2.
+Sign brand ambassador: a 
+professional woman golfer
+3.
+Research which products to 
+replace on shelves

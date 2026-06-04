@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2016_16_galactica-s-epic-struggle",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 16,
+  "case_name": "Galactica's Epic Struggle",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": "Medium",
+  "pdf_page_start": 173,
+  "pdf_page_end": 183,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    176,
+    177,
+    178,
+    179,
+    180
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p176.png",
+    "exhibits/exhibit_p177.png",
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\16_galactica-s-epic-struggle"
+}

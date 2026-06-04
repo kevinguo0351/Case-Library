@@ -1,0 +1,307 @@
+===== PDF p184 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+By CB16
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+180
+
+
+===== PDF p185 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+PROMPT
+Your client is a leading retail bank in a South
+American country, with over 3,000 branches
+across the country. In addition to the retail
+business, the bank also has an Investment
+Banking
+(IB)
+unit,
+which
+acts
+as
+an
+intermediary
+and/or
+advisor
+when
+corporations want to engage in complex
+financial transactions (for example M&A,
+raising capital, initial public offering (IPO),
+etc.).
+The IB unit of this bank is headed by a Vice
+President who reports to the bank’s CEO.
+This IB VP hired you to evaluate whether the
+IB should spin off from the retail bank,
+becoming
+fully
+independent
+from
+the
+conglomerate.
+CLARIFYING POINTS (if asked)
+• The main reason behind the VP’s request is financial – i.e. end goal is additional profits for the IB
+• IBs operate on a fee-based model. They are remunerated as a percentage of the total transaction in which
+they facilitated for the company (e.g. 2% fee of a USD 100M transaction means USD 2M in revenues for the IB)
+• She suspects that even though being attached to the retail bank provides benefits (e.g. shared systems and
+services, access to clients), the IB unit is unable to tap additional sources of revenues (e.g. through Joint
+Ventures with other Investment Banks)
+• She is also worried about the bureaucracy imposed by the conglomerate, which slows down relevant (and
+sometimes urgent) decisions for the IB unit
+• For simplicity, you can assume that there is no discount rate, time value of money and required NPV
+calculations for the case
+• Considerations regarding the momentum of the Investment Banking industry are not relevant for this case
+CASE GUIDANCE
+• This is an interviewee-led case and the candidate should always drive the case and suggest the next
+course of action
+• This is a profitability case on its essence, nevertheless it touches significantly on qualitative aspects of the
+Investment Bank spin off
+• It is not expected any prior knowledge of the Investment Bank industry, due to the sector’s specificity,
+and candidates with previous knowledge should not benefit from it in this case
+181
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+
+
+===== PDF p186 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+STRUCTURE GUIDANCE
+182
+SAMPLE STRUCTURE
+A good structure would touch on:
+• The financials of the spin off: (i) additional revenues (ii) expected higher costs and (iii) potential lost revenues due to previous cross-sold customers from the retail bank
+• Considering break even period, NPV and other metrics related to the financial return of the spin off is a nice plus of the structure (although not used for case’s calculations)
+• Consideration of several qualitative aspects regarding the newly created IB is crucial: new IB strategy, legal entity, culture, organizational structure, operational model,
+governance, positioning against competitors, etc.
+• Revenues impact: impact on transaction volume and average fee by business line (M&A and Advisory, Sales, etc.). When the candidate asks for data on revenues, please
+show them Exhibit 1
+• The candidate is not expected to know that revenues for an Investment Bank are generated, in general, based on a fee of the total transaction. The information
+should be given to the candidate if he/she does not mention this aspect
+• Cost impact: in general, costs are expected to grow because the Investment Bank benefitted from sharing structure and services with the retail bank conglomerate. When
+the candidate asks for data on costs, please show them Exhibit 2
+• Qualitative aspects of the spin off:
+• IB Strategy
+• Governance
+• Organizational structure
+• Operational model
+• Capabilities to become standalone
+• Competitive landscape
+• …
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+
+
+===== PDF p187 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+QUANTITATIVE ANALYSIS
+183
+SOLUTION
+Revenues: when the candidate asks for data on revenues, show them Exhibit 1 and ask for insights. It will be then expected that the candidate starts the revenue calculation
+• The fastest way of calculating is to compute the revenue differential by the difference of market share between the current and expected scenario.
+• A slower calculation would be to calculate the current revenues, expected revenues and subtract one from the other. One benefit of using this approach is that the expected
+revenues will be used for the Costs calculations
+Costs: likewise for revenues, show Exhibit 2 and ask for insights. Then, the candidate should be prompted for starting the calculation (please refer to Exhibit 2)
+• It is expected that the current cost structure of the IB will change because it benefitted from shared services with the retail bank (e.g. IT, rent, etc.). The IB would now have
+to, for example, rent a building, hire an IT provider and other extra expenditures that were not previously needed
+• Here the candidate should make fair assumptions on what is the fair share of cost items (as % of revenues) based on benchmarks of Investment Banks similar to our client,
+shown in Exhibit 2 (which are separated standalone Investment Banks)
+Revenues:
+• Current revenues: Transaction market * Average fee * Current market share = 500M * 5% * 10% + 600M * 4% * 35% + 400M * 8% * 20% + 1,500M * 2% * 5% = USD 18.8 M
+• Expected revenues: : Transaction market * Average fee * Expected market share = 500M * 5% * 20% + 600M * 4% * 25% + 400M * 8% * 30% + 1,500M * 2% * 15% = USD 25.1 M
+• Thus, incremental revenues of USD 25.1 – 18.8 = 6.3 M - One good insight is that the USD 6.3M revenue increase is precisely a 1/3 increase in total revenues
+Costs: the items that the client, when associated with the Retail Bank, paid apparently less than peers were IT and systems, and Rent & Maintenance (likely due to shared services,
+premises and systems). For IT, the cost representativeness will increase from 1% to 5% of total revenues and Rent from 2% to 6%
+• Current IT Costs: USD 200k ; current Rent & Maintenance costs: USD 400k
+• New IT Costs = 5% * 25M = 1.25M ; New Rent & Maintenance costs = 6% * 25M = 1.5M Incremental costs of USD 2.75M – 600k = 2.15M
+Profit: in summary, the new bank will have a greater profit of USD 6.3 – 2.15 M = USD 4.15 M (meaning that financially speaking, it makes sense to spin off)
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+
+
+===== PDF p188 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+EXHIBIT 1 – CURRENT AND EXPECTED REVENUES BY BUSINESS LINE
+184
+Business Line
+Total transaction 
+market
+Average fee1
+Current market 
+share
+Expected market 
+share2
+Equity Capital Market (ECM)
+USD 500 M
+5%
+10%
+20%
+Debt Capital Market (DCM)3
+USD 600 M
+4%
+35%
+25%
+M&A and advisory
+USD 400 M
+8%
+20%
+30%
+Sales and trading
+USD 1,500 M
+2%
+5%
+15%
+1. Revenues of Investment Banks are generally calculated as a standard fee that is a percentage of the total value of a determined transaction (e.g. an IPO)
+2. After the spin off from the retail bank. Estimates provided by the client
+3. The market share in DCM is expected to drop because the Retail Bank cross-sells DCM deals to the Investment Bank, which will not happen if they are separate
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+
+
+===== PDF p189 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+EXHIBIT 2 – INVESTMENT BANKS COST STRUCTURE BENCHMARK (P&L)
+185
+The two benchmarked banks are comparable to our client’s bank in
+operations, sales mix, geography and other aspects relevant to the P&L
+Both banks are purely standalone IBs, with no Retail Bank unit
+Our client understands that front office and back office staff will not
+change their representativeness on total costs with the spin-off
+Sales (USD M):
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+Other expenses
+Front office staff
+Back office staff
+Rent & maintenance
+IT & systems
+Operating profit
+P&L Summary
+USD’000
+% sales
+(+) Sales
+18,800
+100%
+(-) Personnel - Front office
+7,300
+39%
+(-) Personnel - Back office
+1,500
+8%
+(-) IT and systems
+200
+1%
+(-) Rent & Maintenance
+400
+2%
+(-) Other expenses
+150
+1%
+Operating profit
+9,250
+49%
+6%
+6%
+5%
+4%
+8%
+6%
+7%
+39%
+35%
+37%
+19
+45%
+Our client’s bank
+Benchmark bank 2
+49%
+2%
+1%
+55
+40
+Benchmark bank 1
+47%
+
+
+===== PDF p190 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+BRAINSTORMING QUESTION
+186
+SAMPLE ANSWERS
+Aside from financial considerations, what are other pros and cons of spinning off the Investment Banking unit from the rest of the conglomerate?
+Here there is no right answer, but the idea is rather to test the candidate’s creativity on this type of business situation
+Pros
+• Reduced bureaucracy with no formal ties with conglomerate
+• Greater organizational “identity” - new IB culture
+• Possibility of more flexible work arrangements typical of Investment Banks
+• Openness for engaging with other institutions (for example establishing a Joint Venture with another Investment Bank)
+Cons
+• Increased costs (IT & systems, Rent & maintenance) end up higher than expected
+• Cross sell with retail bank is significantly reduced or clients leave the IB bank after spin off non mapped reasons
+• In the future, the Retail Bank may create another IB unit (new competitors)
+• Lack of strategic perspective previously provided by other areas of the bank
+• Limitation on talent transfer between bank areas
+• Legal aspects not considered
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard
+
+
+===== PDF p191 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Investment Bank Spin-off
+RECOMMENDATION QUESTION
+187
+SAMPLE RECOMMENDATION
+Our client just messaged you saying that she is now free and would like to hear your current viewpoint on the project. What is your recommendation?
+Being concise, structured, and mentioning only relevant points mentioned in the case are crucial for a good recommendation.
+Based on the financial calculation, the recommendation should be to pursue the spin off. When explaining the reasoning, the candidate should bring critical numbers calculated
+during the case
+It is also important that the candidate mentions the pros, cons and risks associated with the recommended spin off
+A great plus from the recommendation would be to suggest potential next steps for implementing the spin off
+Financial Services
+Profitability
+Investment Bank
+Easy
+Medium
+Hard

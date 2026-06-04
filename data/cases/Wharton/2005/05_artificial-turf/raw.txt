@@ -1,0 +1,95 @@
+===== PDF p33 =====
+Case 5: Artificial Turf 
+1st Round 
+ 
+The Problem 
+ 
+Our client would like us to estimate the market for artificial turf.  How would you 
+approach this question? 
+ 
+Information Gathering  
+ 
+Read this information well before you give the case. Share this information in each bullet 
+only if the candidate asks for it in a clear and deliberate way.  
+ 
+This is a market sizing problem, so rarely is any more information provided. It tests the 
+candidates comfort with ambiguity. The candidate should lead the discussion and start 
+brainstorming on the uses of artificial turf: 
+ 
+• Sports fields 
+o Football 
+o Soccer 
+o Rugby 
+o Golf 
+• Commercial businesses 
+• Residential 
+• Airports 
+• Schools 
+o High schools 
+o colleges 
+ 
+After the candidate has identified some uses for artificial turf, prompt him to estimate the 
+number of schools in the US. (or any of the places where artificial turf is used) 
+ 
+Analysis 
+ 
+To estimate the market size of turf in high schools in the US we have to estimate the 
+following: 
+• Number of schools 
+• Number of sq feet of turf that is bought each year / high school 
+• Price of turf / sq foot 
+ 
+We start by estimating the number of schools: 
+Number of schools in the US = Number of high schools + number of colleges + number 
+of community colleges 
+ 
+Number of High schools: 
+
+
+===== PDF p34 =====
+ 
+Population of US = 300 M (M=million) 
+Percent of population age 18 = 1% (assuming population is equally distributed) 
+Number of people age 18 = 300M x 1% = 3M 
+ 
+Assume 80% go to high school, then the number of people age 18 who go to high school 
+= 3M x 80% = 2.4M 
+Assume that on average there are 250 18-year-olds in a high school. Then the number of 
+high schools = 2.4M / 250 = 9,600 high schools 
+ 
+Number of Colleges – bachelors colleges: 
+ 
+Population of US = 300M 
+Percent of population age 19 = 1% 
+Number of people age 19 = 300M x 1% = 3M 
+ 
+Assume 25% of people go to college, then the number of 19-year-olds who go to college 
+= 3M x 25% = 750,000 
+Assume that the average size of graduating class is 400 students, then the number of 
+colleges is = 750,000 / 400 = 1875 colleges  
+ 
+Number of Colleges – community colleges: 
+ 
+Assume 10% of people go to community college, then the number of 19-year-olds who 
+go to community college = 3M x 10% = 300,000 
+ 
+Assume average graduating class is 200 students, then the number of community colleges 
+is = 300,000 / 200 = 1500 community colleges 
+ 
+Total amount of artificial turf: 
+ 
+Make the following assumptions: 
+• price of turf = $10 / sq feet 
+• lifetime of turf = 10 years 
+• athletic field = 60 yards x 120 yards = 60 x 3 feet x 120 x 3 feet = 64,800 sq ft 
+• adoption of turf = 50% 
+Now we can calculate the market size for turf: 
+• Number of schools = 9,600 + 1,875 + 1,500 = 13,000 
+• Number of sq feet of turf that is bought each year / high school = 1/10 x 50% x 
+64,800 = 3,240 sq feet 
+• Price of turf / sq foot = $10 
+Market size = 13,000 x 3,240 x $10 = $420 Million 
+ 
+Conclusion 
+ 
+The market size for artificial turf in schools in the US is about $420 Million. 

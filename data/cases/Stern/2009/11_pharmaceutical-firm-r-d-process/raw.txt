@@ -1,0 +1,60 @@
+===== PDF p31 =====
+ 
+ 
+Torch the Case 2009 
+Copyright © 2009 by the Stern School of Business Management Consulting Association (Stern MCA).  
+This edition is for exclusive use of members of the Stern MCA. No part of this publication may be reproduced, 
+stored in a retrieval library, or transmitted in any form or by any means – electronic or physical – without expressed 
+permission by the Stern MCA 
+27
+11. Pharmaceutical Firm - R&D process _________________  
+Type of Case: Operation  
+Difficulty: Moderate 
+ 
+Opening:  
+Satellite research labs send compounds to centralized analysis center. Analysis center draws 
+blood from animals, analyzes the results, and then sends results back to research lab – iterative 
+process for each compound (5 to 15 reviews per compound). 15 year patent begins after the 
+1st review/iteration if compound passes initial tests during 1st review/iteration. There tends to be 
+a long queue of compounds waiting to be analyzed  
+Background:  
+Questions from interviewer: Objective is to reduce the cycle time.What are ways to reduce the 
+cycle time and what are the benefits to the company of doing so?  
+Provide the following information if requested by interviewee.  
+• The research center recently hired more people (can also think about increasing capacity 
+at the analysis center), but cycle time did not change.  
+• The scientists heard that more people were hired, so they sent more compounds.  
+• Number of compounds that passed the 1st review did not increase.  
+• Scientists starting sending low quality compounds (likelihood of going to market is very 
+low) and queue remained long.  
+• Scientists can usually predict the likelihood of each compound passing the 1st review.  
+• There was no prioritization of the queue – it was first come, first serve.  
+Interviewer should come up with the idea of Prioritizing Compounds  
+Prioritize compounds: by using previous results or scientist’s confidence of passing review a 
+compounds with highest likelihood of going to market should jump the queue.  
+This discouraged scientists from sending low quality compounds.  
+<method of prioritization is less important than understanding the need to prioritize>  
+<Once interviewee determines that prioritization is needed, interviewer should provide the 
+following information, and ask interviewee to quantify cycle time decrease>  
+Currently:  
+30% of compounds require 15 cycles  
+70% of compounds require 5 cycles  
+
+
+===== PDF p32 =====
+ 
+ 
+Torch the Case 2009 
+Copyright © 2009 by the Stern School of Business Management Consulting Association (Stern MCA).  
+This edition is for exclusive use of members of the Stern MCA. No part of this publication may be reproduced, 
+stored in a retrieval library, or transmitted in any form or by any means – electronic or physical – without expressed 
+permission by the Stern MCA 
+28
+After the prioritization:  
+Cycle time was 3.5 weeks per iteration, went down to 2 weeks.  How many weeks on average 
+this save per compound?  
+Recommendation <Interviewee should translate cycle time decrease into business 
+implications>  
+Saved 12 weeks for an average compound.  If a drug ever goes to market, 12 weeks of revenue is 
+captured.  The key issue is that revenue for a drug has a short life, based on the 15 year patent.  
+Adding 12 weeks of revenue is a significant increase to the companies’ revenue stream.

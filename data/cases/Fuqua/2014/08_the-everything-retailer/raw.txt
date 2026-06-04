@@ -1,0 +1,301 @@
+===== PDF p85 =====
+CASE 8 – THE EVERYTHING RETAILER
+81
+
+
+===== PDF p86 =====
+Case 8: The Everything Retailer
+Prompt
+A mass retailer Everything Retailer is seeing stagnating growth in its year-over-year sales.  You were brought in to identify the issue and 
+propose ways to boost sales growth.  
+Interviewer Guidance
+This starts as a broad case on strategy – there are many different ways the interviewee may want to proceed.  Quantitative analysis 
+begins when the interviewee identifies the need for a new store format.  Bonus points if, at the end, the interviewee mentions other 
+risks and ways to mitigate them.  
+Additional information:
+• Large US retailer (think Walmart) with an extensive network of big-box discount stores across the US.
+• Sales growth slowed to 1-2%, while industry is growing at 3%.  Client’s target: double-digit “comp sales” growth.
+• If asked about any increases in costs, say no.  This is irrelevant. 
+Behavioral Questions
+• Describe a time you were confronted with a failure or an obstacle at your job, and how you handled it.
+• Describe a time you exercise creativity or outside-the-box thinking.
+82
+Deloitte Case Writing 
+Competition Finalist
+
+
+===== PDF p87 =====
+Case 8: The Everything Retailer
+Analysis
+1) Ask the interviewee to identify the source of Everything Retailer’s problem by presenting data on sales from Everything Retailer
+•
+Show Exhibit 1
+Recommendation
+Some potential sources of flat growth that the interviewee may mention are: 
+• New competitors, especially e-commerce as consumers shift away from big-box stores to shopping online – tell him/her that this is 
+an interesting additional consideration, but steer him/her away from delving into this.
+• Big-box stores’ product assortment – no longer as relevant to the customers shopping in those stores.  
+• Macroeconomic factors – recession and decrease in consumers’ disposable income.
+Exhibit 1 shows that stores are now opening faster than the sales are increasing.  Thus, the current store format has reached its 
+maximum penetration, and sales are flat.
+• Need to tap into a new customer segment.
+83
+
+
+===== PDF p88 =====
+Exhibit 1
+Case 8: The Everything Retailer
+ -
+ 500
+ 1,000
+ 1,500
+ 2,000
+ 2,500
+ 3,000
+ 3,500
+ 4,000
+ 4,500
+ 5,000
+1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014
+Everything Retailer's Historical Sales ($M) and 
+Number of Stores
+# of Stores
+Sales ($M)
+84
+
+
+===== PDF p89 =====
+Case 8: The Everything Retailer
+Analysis
+2) In proposing ways to grow sales, interviewee may have (MECE): 
+• International – expand overseas (build stores or M&A or Joint Venture) – steer interviewee away.
+• Domestic 
+o Grow current big-box store sales – steer interviewee away – current stores have the optimal product mix and 
+locations for big-box retailer.
+o Reach new customer:
+- Product – go up-market or down-market to target more affluent or less affluent shoppers.  Good point, but 
+steer interviewee away.
+- Format – say that the client has piloted 3 formats and show Exhibit 2
+Recommendation
+Entering the grocery market with “Local Market” stores represent the biggest revenue opportunity.
+Ask the interviewee what analysis he/she would need to do next.  What analysis and factors should Everything Retailer consider in 
+deciding whether to go ahead with opening Local Markets? 
+85
+
+
+===== PDF p90 =====
+Exhibit 2
+Case 8: The Everything Retailer
+Format
+Description 
+Competitors
+Market 
+(FY2015)
+Expected 
+market share
+Local Market
+Grocery store + 
+pharmacy
+Kroger, Safeway, 
+regional grocers
+$620B
+30%
+MiniBox
+Same product 
+assortment as big-
+box stores, but much 
+smaller size 
+Dollar stores, 
+convenience stores
+$106B
+60%
+Campus 
+Companion
+Big-box stores on 
+college campuses, 
+with some 
+assortment tailored 
+to students’ 
+shopping habits
+Depends on location 
+(urban vs. college 
+town)
+N/A
+N/A
+86
+
+
+===== PDF p91 =====
+Exhibit 3 Guidance
+* Acceptable for Interviewee to round numbers
+Case 8: The Everything Retailer
+Analysis
+3) Use a simple NPV analysis to determine whether Everything Retailer should go ahead with opening Local Markets.  
+Show Exhibit 3 and ask to calculate NPV.  Give formula, if needed:  NPV = ∑ (FCFt)/(1+WACC)^t
+Assume market growth rate of 0% annually
+Recommendation
+Ask the interviewee whether the client should undertake this venture.  The answer should be “Yes” since it is NPV-positive.
+Year 0
+Year 1
+Year 2
+Year 3
+Market share
+10%
+20%
+30%
+Revenue
+$62,000,000,000 
+$124,000,000,000 
+$186,000,000,000 
+Costs
+$6.25M *1,000 stores = 
+$6.25B
+$1,000,000,000 
+$4,000,000,000 
+$8,000,000,000 
+Discount rate (WACC)
+10%
+10%
+10%
+FCF
+($6,250,000,000)
+$61,000,000,000 
+$120,000,000,000 
+$178,000,000,000 
+FCFt/(1+WACC)t
+($6,250,000,000)
+$55,454,545,455 
+$99,173,553,719 
+$133,734,034,560 
+NPV
+$282,112,133,734 
+87
+
+
+===== PDF p92 =====
+Exhibit 3
+Case 8: The Everything Retailer
+NPV of building 1,000 Local Market stores
+Year 0
+Year 1
+Year 2
+Year 3
+Market share
+10%
+20%
+30%
+Revenue
+?
+?
+?
+Costs
+$6.25M per store 
+to build
+$1M per store to 
+maintain
+$4M per store to 
+maintain
+$8M per store to 
+maintain
+Discount rate (WACC)
+10%
+10%
+10%
+(1+WACC)t
+1.10
+1.21
+1.33
+FCF
+?
+?
+?
+?
+FCFt/(1+WACC)t
+?
+?
+?
+?
+NPV
+?
+88
+
+
+===== PDF p93 =====
+Case 8: The Everything Retailer
+Performance Evaluation
+• This case tests the interviewee's ability to consider the client (which is a huge and mature big-box retailer), and hone in on the fact 
+that the current store format has reached its optimal penetration, and that a new format strategy is needed.  
+• Interviewee will also suggest a basic NPV analysis as a way to evaluate whether Everything Retailer should build Local Market stores.
+• A good interviewee will have a MECE approach for exploring the levers to grow sales growth, and in his/her Recommendation and
+Next Steps slide, will also include risks such as: 
+o Competitors – other brick-and-mortar grocers – can be mitigated if Everything Retailer leverages its economies of scale to 
+maintain a price leadership position on the products in in its Local Markets, thus differentiating itself from other grocery 
+chains.
+o Competitors – e-commerce, like Fresh Direct or AmazonFresh – can be mitigated by a move into e-commerce.
+o Cannibalization of grocery sales from existing big-box stores, which also carry groceries.  Can be offset by offering a different 
+grocery assortment in its big-box stores versus its Local Markets.
+o Overcoming a brand perception of quality that can be an obstacle to winning grocery customers’ trust – can be mitigated by 
+spinning off Local Markets as a separate brand.
+89
+
+
+===== PDF p94 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

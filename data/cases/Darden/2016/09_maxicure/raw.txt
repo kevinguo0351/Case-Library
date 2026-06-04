@@ -1,0 +1,104 @@
+===== PDF p104 =====
+CASE 9:
+Maxicure
+Firm Style
+Interview Round
+McKinsey
+1
+Clarifying information (provide only if corresponding questions are asked) 
+•
+There are 2-3 large players in this over-the-counter business who have distribution 
+across the country. Maxicure is one of them.
+•
+Maxicure sells all of its products in the US
+•
+Objective is to reduce production costs while maintaining product quality (cost, 
+quality and brand image all matter to customers)
+Case Question
+Your client Maxicure manufactures and sells an over-the-counter cough and cold 
+medicine. Their sole plant in Kentucky is aging, and it’s increasing maintenance costs are 
+leading to low margins on their products. How would you advise Maxicure proceed to 
+solve this problem?
+
+
+===== PDF p105 =====
+Maxicure
+Question 1: What options does Maxicure have for purposes of 
+tackling this problem, and what factors would you consider in 
+deciding which option(s) to choose?
+• A good answer would include the options:
+• Refurbish old plant
+• Rebuild plant at the same site
+• Rebuild plant at a different location (different city/state/country)
+• Outsource manufacturing
+• Factors to consider:
+• Investment cost of each option
+• New per unit cost of medicine for each option
+• Potential financial/non-financial benefits of relocation (e.g. tax breaks, 
+labor rates, etc.)
+• Effect of each option on the quality of medicine
+• Opportunity for improvement of capacity/technology if new plan option 
+chosen
+• Proximity of plant to distribution centers
+
+
+===== PDF p106 =====
+Maxicure
+Question 2: Maxicure has narrowed down it’s decision to 2 
+options:(1) build a new facility next to the old plant, or (2) 
+outsource the manufacturing to a competitor. With the 
+information given below, how many bottles of medicine would 
+Maxicure need to sell for the in-house option to be more 
+profitable than the outsourcing option?
+Note: After the calculation, push the candidate to select an option and give 
+reasons why.
+• Selling price per bottle: $4.50
+• In-house:
+• Initial Investment: $50M
+• Total cost per bottle: $2.00
+• Outsource:
+• Total cost per bottle (<20M bottles): $2.25
+• Total cost per bottle above 20M bottles: $2.50
+
+
+===== PDF p107 =====
+Maxicure
+Question 2 Solution:
+• Margin in-house : $2.5
+• Margin outsourced: $2.25 <20M and $2 >20M
+• Let’s say Maxicure needs to sell ‘x’ bottles to make the 
+two options have equal margins. 
+• In-house margin = 2.5x -50M
+• Outsource margin= (x-20M)*2 + 2.25*20M
+• Equaling the profits gives: 2.5x-50M=((x-20M)*2)+(2.25 
+*20M)
+• Or x= 110M units
+
+
+===== PDF p108 =====
+Maxicure
+• Question 3: Maxicure has decided to build a new 
+production facility, but it wants to build the plant in 
+Indiana instead to be closer to a major distribution 
+center. How should it convince the Governor of Indiana 
+to offer Maxicure the necessary tax breaks to make the 
+move more profitable for the firm?
+• Good responses may include:
+• More tax collection for the state, stimulating the economy
+• More job creation
+• Good press for the Governor
+• Might attract other manufacturers
+• Suggestions to conduct community-building initiatives like 
+building schools, parks etc.
+
+
+===== PDF p109 =====
+Maxicure
+• Question 4: What is your final recommendation to the 
+client?
+• Good responses should include: 
+• Answer first 
+• 2-3 pieces of supporting, data-driven evidence
+• Key risks
+• Next steps
+• Re-state answer

@@ -1,0 +1,38 @@
+{
+  "case_id": "Haas_2019_11_alpha-auto",
+  "school": "Haas",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Haas\\HAAS_Case Book_2019.pdf",
+  "idx": 11,
+  "case_name": "Alpha Auto",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Automotive",
+  "difficulty": null,
+  "pdf_page_start": 127,
+  "pdf_page_end": 140,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    136,
+    139
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p128.png",
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p130.png",
+    "exhibits/exhibit_p131.png",
+    "exhibits/exhibit_p132.png",
+    "exhibits/exhibit_p133.png",
+    "exhibits/exhibit_p134.png",
+    "exhibits/exhibit_p136.png",
+    "exhibits/exhibit_p139.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Haas\\2019\\11_alpha-auto"
+}

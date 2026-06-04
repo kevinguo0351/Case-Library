@@ -1,0 +1,38 @@
+{
+  "case_id": "Fuqua_2015_19_walter-black-industries",
+  "school": "Fuqua",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2015.pdf",
+  "idx": 19,
+  "case_name": "Walter Black Industries",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Industrial Goods",
+  "difficulty": null,
+  "pdf_page_start": 205,
+  "pdf_page_end": 218,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    208,
+    209,
+    210,
+    211,
+    213,
+    214,
+    215,
+    216,
+    218
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p208.png",
+    "exhibits/exhibit_p209.png",
+    "exhibits/exhibit_p210.png",
+    "exhibits/exhibit_p211.png",
+    "exhibits/exhibit_p213.png",
+    "exhibits/exhibit_p214.png",
+    "exhibits/exhibit_p215.png",
+    "exhibits/exhibit_p216.png",
+    "exhibits/exhibit_p218.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2015\\19_walter-black-industries"
+}

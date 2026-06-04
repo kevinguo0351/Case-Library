@@ -1,0 +1,34 @@
+{
+  "case_id": "Fuqua_2016_08_the-run-of-the-mill-nowoco",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 8,
+  "case_name": "The Run of the Mill NOWOCO",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Industrial Goods",
+  "difficulty": "Medium",
+  "pdf_page_start": 91,
+  "pdf_page_end": 103,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p098.png",
+    "exhibits/exhibit_p099.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\08_the-run-of-the-mill-nowoco"
+}

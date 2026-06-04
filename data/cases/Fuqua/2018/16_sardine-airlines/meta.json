@@ -1,0 +1,36 @@
+{
+  "case_id": "Fuqua_2018_16_sardine-airlines",
+  "school": "Fuqua",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2018.pdf",
+  "idx": 16,
+  "case_name": "Sardine Airlines",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Transportation/Airlines",
+  "difficulty": "Medium",
+  "pdf_page_start": 172,
+  "pdf_page_end": 183,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p174.png",
+    "exhibits/exhibit_p175.png",
+    "exhibits/exhibit_p176.png",
+    "exhibits/exhibit_p177.png",
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png",
+    "exhibits/exhibit_p181.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2018\\16_sardine-airlines"
+}

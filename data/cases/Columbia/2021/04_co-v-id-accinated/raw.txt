@@ -1,0 +1,646 @@
+===== PDF p48 =====
+Happy New Years Eve! Thank you for coming in to help with this emergency deliverable. 5 Pharma companies have developed 5 
+COVID vaccines and are now beginning to deliver them. Our client is the government of New York State and we will be providing
+ongoing support to the vaccine distribution until the end of the pandemic. The federal government is controlling distribution
+nationally and our client has been given extremely limited lots as New York’s illustrious leader, Governor Drew Commo, disputed 
+the efficacy of the vaccines. The vaccines lots begin arriving to NYC in specially-outfitted refrigerated trucks tonight. You're here to 
+help New York State make their final decision on how to distribute the initial vaccine lots that arrive this week in the manner that is 
+best for the state. We have a call in 40 minutes with Governor Commo and his team. If approved, the distribution and administering 
+of the available vaccines will begin tomorrow morning. If your recommendations are denied, we will lose the project and the 
+distribution of the vaccines will be delayed. Your recommendations will have life and death effects on New Yorkers. How do we
+approach distribution?
+Problem Statement Narrative
+Difficulty: Very Hard
+Industry: Public Sector
+Case Type: Optimization
+Written by Daniel Krimowski ’21 and Anthony Villamagna ‘21
+• Balancing competing priorities
+• Creativity and confidence
+• Focusing through extra, unessential information
+Concepts Tested
+To effectively give this case, Coach must be intimately familiar with this case. Do NOT provide any information unless the candidate 
+explicitly requests it. This a Candidate-led case and should be driven entirely by the candidate with a clarification questions asked 
+throughout the sections. This case is designed to be extremely difficult to navigate with large amounts of excess information that the 
+candidate must sort through and identify what is important. This case tests the candidate’s mental math, structure, time management, 
+and focus. 
+Case Notes
+Case #4 : CO-V(id)accinated
+CO-V(id)accinated
+44
+
+
+===== PDF p49 =====
+•
+What do you mean by best for the state? 
+“We want to save as many lives as possible and get our economy back up and running as soon as possible with the 
+vaccines arriving this week. New York is facing a $10 billion shortfall on next year's budget. They have cut every 
+extraneous item out of their budget that is viable. Governor Commo will reject any plan that does not cover the 
+costs of the vaccines. A vaccinated person will immediately return to work in person.”
+•
+How does the vaccine work and how effective is it?
+“The vaccines have varying degrees of effectiveness and are all administered by a series of or individual injections. 
+An effectively vaccinated person cannot carry or spread the disease”
+•
+How many doses do we have? or How many lots of vaccines do we have?
+“We will address this later in the case. However, if you prefer, we can jump right into it.” If they say, yes, skip the 
+framework and go directly to Exhibit 1.
+•
+How many people can we inoculate?
+“We will address this later in the case. That is what you are here to help figure out.”
+•
+How many people live in New York State?
+“19.5 million”
+•
+What about Antibodies?
+“Recent studies show antibodies do not prevent reinfection or the spread of COVID and are ignored.”
+•
+How many people need to be inoculated?
+“Current research indicates 90% of the US pop needs to be inoculated before we can return to normal”
+•
+What support can we expect from the Federal Government?
+“Governor Commo believes asking for help is a sign of weakness and he will not directly admit his failure and ask 
+the President for help as it would hurt his ego. We can expect no aid from the Federal Government.”
+Clarification Answers if  Asked 
+Clarifying Questions
+CO-V(id)accinated
+45
+
+
+===== PDF p50 =====
+Sample Framework
+CO-V(id)accinated
+1.
+Vaccine Details
+a.
+# Doses for each Vaccine
+i.
+# Doses for inoculation
+b.
+Vaccine efficacy
+c.
+Spoilage
+2.
+Who is Getting the Vaccine
+a.
+Population Details
+i.
+Population size
+1)
+Age
+2)
+Wealth
+3)
+Race
+4)
+Geography
+b.
+Risk Level
+i.
+Frontline Workers
+ii.
+Healthcare Heroes
+3.
+Paying for Vaccines
+a.
+Cost of Vaccines
+i.
+Per vaccine cost
+1)
+Negotiation opportunities
+ii.
+Transport Costs
+1)
+Refrigerated Trucks
+2)
+Drivers
+3)
+Security Escorts
+iii.
+Storage Costs
+iv.
+Delivery/Administering Costs
+b.
+Additional $ (Revenues)
+i.
+Taxes
+ii.
+Subsidies
+iii.
+Non-Profit support
+iv.
+Federal Government Aid
+4.
+Risks
+a.
+PR
+b.
+Vaccine failure
+c.
+Bad reactions to Vaccine
+d.
+Inability to pay/Budget insolvency
+e.
+Anit-vaxxers
+f.
+Federal Gov’t intervention
+46
+Question #1 / Framework 
+How do we approach distribution of  the vaccine?
+
+
+===== PDF p51 =====
+Question #2
+Question
+•
+Lot Size
+Vaccines are delivered in lots. These are the total doses being delivered
+•
+Doses Needed to Inoculate 
+Each vaccine requires a different number of doses, follow-on doses are known as “boosters”, to complete 
+inoculation. A person is considered immune once they receive their initial dose so long as they receive their boosters. 
+By federal decree, the state must hold in reserve enough doses so that every person who receives an initial vaccine, 
+can complete the series. (Case Coach Note: Candidate can’t game the system and use shots on a larger group relying 
+on additional vaccines coming later. If 5 shots are needed for 1 complete inoculation, then need to store 4 shots for 
+that person and are not allowed to use them on anyone else) 
+•
+Spoilage %
+With inefficient and new production processes and transportation practices, we are expecting to lose a small 
+percentage of vaccines between shipment and administration of the vaccine. These vaccines are never issued as they 
+render the entire vaccine series ineffective. Assume we can identify spoiled vaccines before issue
+•
+Vaccine Effectiveness
+The effectiveness of each vaccine is defined as the percentage of recipients who can no longer contract or spread 
+COVID after receiving the vaccine. This is based upon a person’s individual immune system and is spread evenly 
+throughout the population. There is no way to tell how the vaccine will react within each person and if it will be 
+effective or not beforehand. The only way to check this is with an antibody test 3 weeks after inoculation
+Further Information (if  requested)
+CO-V(id)accinated
+Share Exhibit #1: We just received these details on the vaccines being delivered to our client
+47
+
+
+===== PDF p52 =====
+Question #3
+Question
+•
+Cost of  spoiled vaccines 
+New York State is responsible for paying for all vaccines issued from the manufacturer, including those that end up 
+spoiled. Any negotiations or legal proceedings on this will not be resolved until post-pandemic
+•
+Spoilage (If not asked earlier)
+With inefficient and new production processes and transportation practices, we are expecting to lose a small 
+percentage of vaccines between shipment and administration of the vaccine. These vaccines are never issued as they 
+render the entire vaccine series ineffective. Assume we can identify spoiled vaccines before issue
+•
+Cost per series
+This is the cost for each inoculation series of each vaccine
+•
+Cost of  administering vaccines 
+This is the per-dose cost of giving the vaccine out including all overhead, labor, and safety costs
+•
+Cost of transport of vaccine
+Total cost to transport each full lot of vaccines to New York City, the hub, and aggregated cost to send vaccines to 
+all parts of New York State
+•
+Arrival date
+This is when the vaccine lots arrive in New York City and into the custody of New York State Health officials
+Further Information (if  requested)
+CO-V(id)accinated
+Share Exhibit #2: We compiled the vaccine cost breakdowns sent to our client by the pharmaceutical companies 
+48
+
+
+===== PDF p53 =====
+•
+Population size
+This is total number of people in each population group. Recent studies show antibodies do not prevent reinfection 
+or the spread of COVID and people who have previously contracted COVID are included as they MUST get the 
+vaccine
+•
+High-Risk and Low-Risk
+High-risk people will die or be hospitalized if they contract COVID. Low-risk people will not die or be hospitalized 
+if they contract COVID. Our client cannot identify who is in what risk level
+•
+Medium-Risk
+The remaining people who are not high- or low-risk are medium risk. Medium-risk people will die or or be 
+hospitalized at a 5% rate if they are infected with COVID. Our client cannot identify who is in what risk level
+•
+Average taxable income
+Total average annual taxable income of members of each group including those who are not actively working
+•
+Return to work Income Effect
+The 12 month increase to average taxable income upon returning to work in-person after receiving the vaccine
+•
+Tax rate
+The effective tax rate for New York is 10%
+Question #4
+Question
+Further Information (if  requested)
+CO-V(id)accinated
+Share Exhibit #3: Here we have the population data for New York State
+49
+
+
+===== PDF p54 =====
+Question #5
+Question
+Candidate should include Economic implications and one/both of Health and Moral.
+Solution
+Economic
+•
+The more high-risk people 
+inoculated, the worse off the 
+economy as people aren’t 
+working/as productive
+•
+Economic Trade-offs
+Health
+•
+Lockdown has been almost 9 
+months at this point, incalculable 
+damage to mental health 
+•
+We will be issuing vaccines with 
+less than 100% effectiveness to 
+high-risk citizens
+Moral
+•
+Asking our most vulnerable to 
+continue their isolation while 
+others go back to their normal 
+lives
+•
+Politicians and bankers getting 
+vaccines before people in nursing 
+homes and those with disabilities 
+would create significant concerns
+CO-V(id)accinated
+Brainstorm. If prompt is needed: What are the implications of this approach? 
+50
+
+
+===== PDF p55 =====
+Conclusion
+•
+Preferred Recommendation: I recommend that we 
+give 43k Hamilkas vaccines to Segment C to earn 
+taxes to pay for the vaccines and remaining 656k 
+vaccines distributed to Segments D and E with a 
+preference towards those in urban areas
+Recommendation
+•
+We should do this because this will save allow 43k 
+people to comfortably return to work with 100% 
+efficacy which pays for these vaccines and protects 
+the lives of 656k more elderly and higher risk NYS 
+residents as we begin inoculation of the greater 
+population
+Rationale
+•
+We are giving vaccines to low-risk individuals for the 
+money to pay for the vaccines which risks the lives 
+and health of our high-risk, elderly residents
+•
+We are issuing vaccines that are not 100% effective to 
+high-risk citizens and risk increasing the death toll 
+even more by giving false confidence
+•
+We are giving vaccines to non-healthcare/frontline 
+workers in pursuit of economic gain
+•
+We can expect heavy PR resistance to the decision no 
+matter how we choose to allocate the vaccines
+Risks
+•
+Considering these risks, our next steps are to 
+immediately begin scheduling the administering of the 
+vaccines arriving this week while sculpting the PR 
+response so Governor Commi can continue to stay on 
+the good side of the press. Our client must continue 
+to stress the populace taking safety measures
+Next Steps
+CO-V(id)accinated
+51
+
+
+===== PDF p56 =====
+Exhibit #1 : COVID Vaccines Details
+CO-V(id)accinated
+52
+Vaccine Name
+Company
+Lot Size
+Doses Needed
+Vaccine 
+Effectiveness
+Spoilage %
+Hermes
+Panzer
+0.6m
+3
+90%
+5%
+Apate
+Voderna
+0.5m
+1
+90%
+10%
+Mercurius
+Lonson
+1.5m
+5
+95%
+0%
+Hamilkas
+Terck
+0.25m
+1
+100%
+10%
+Dolos
+Covartis
+2m
+1
+100%
+10%
+
+
+===== PDF p57 =====
+Exhibit #2 : COVID Vaccines Costs
+CO-V(id)accinated
+53
+Vaccine Name
+Cost per 
+Series
+Cost to 
+Administer
+Cost to 
+Transport Lot
+Arrival Date
+Hermes
+$10
+$4
+$1.72m
+Jan. 1st
+Apate
+$5
+$4
+$1.20m
+Jan. 28th
+Mercurius
+$8
+$4
+$2.10m
+Jan. 3rd
+Hamilkas
+$12
+$4
+$1.10m
+Jan. 5th
+Dolos
+$2
+$4
+$2.80m
+Apr. 1st
+
+
+===== PDF p58 =====
+Exhibit #3 : Population Data
+CO-V(id)accinated
+54
+Age Range
+Size of  
+Segment
+High Risk
+Low Risk
+Average 
+Income
+Income Effect 
+of  In-person
+<25
+5.4m
+1%
+95%
+$25k
+15%
+25-35
+2.4m
+4%
+86%
+$35k
+12%
+36-59
+5.2m
+12%
+63%
+$50k
+10%
+60-70
+2.4m
+35%
+30%
+$30k
+0%
+>70
+4.1m
+60%
+5%
+$8k
+0%
+
+
+===== PDF p59 =====
+Exhibit #1 Solutions
+Step 1: Take Spoiled vaccines out. Multiply total vaccines by remaining % after spoilage
+Hermes: 
+600k
+*   (1-.05) 
+=570k
+Apate: 
+500k
+*   (1-.10)
+=450k
+Total: 305k spoiled vaccines-Exact #
+Mercurius:
+1.5m
+*   (1-.00)
+=1.5m
+and
+Hamilkas:
+250k
+*   (1-.10)
+=225k
+4.545m unspoiled vaccines-Exact #
+Delos:
+2m
+*   (1-.10)
+=1.8m
+~6% spoil rate-Can round
+Step 2: Calculate Total # People who can receive vaccines by dividing remaining vaccines by # doses needed.
+Hermes: 
+570k
+/   3
+=190k
+Apate: 
+450k
+/   1
+=450k
+Mercurius:
+1.5m
+/   5
+=300k
+Hamilkas:
+225k
+/   1
+=225k
+Delos:
+1.8m
+/   1
+=1.8m
+Step 3: Calculate Total # People vaccine is effective for
+Total: 2,965,000-Exact #
+Hermes: 
+190k
+*   90% 
+=171k
+people receiving vaccines
+Apate: 
+450k
+*   90%
+=405k
+Total: 2,886,000-# people
+Mercurius:
+300k
+*   95%
+=285k
+receiving effective vaccines
+Hamilkas:
+225k
+*   100%
+=225k
+Delos:
+1.8m
+*   100%
+=1.8m
+79k citizens will be back to work with ineffective vaccines 
+Note: Total vaccinated people from vaccines coming this week = 715k (Next Exhibit)
+Math Answers
+CO-V(id)accinated
+55
+
+
+===== PDF p60 =====
+Exhibit #2 Solutions
+Step 1: Calculate number of series’ and multiply by cost per series
+Hermes: 
+600k
+/   3   *   10   =$2m
+Apate: 
+500k
+/   1   *   5    =$2.5m
+Mercurius:
+1.5m
+/   5   *   8    =$2.4m
+Hamilkas:
+250k
+/   1   *   12   =$3m
+Delos:
+2m
+/   1   *   2    =$4m
+Step 2: Calculate Total Cost of administering vaccines by multiplying non-spoiled vaccines from Ex 1 by cost to give.
+Hermes: 
+570k
+*   4
+=$2.28m
+Apate: 
+450k
+*   4
+=$1.8m
+Total Cost is $41m or approximately $14
+Mercurius:
+1.5m
+*   4
+=$6m
+/pp inoculated. However, Apate and Delos
+Hamilkas:
+225k
+*   4
+=$900k
+are NOT being delivered this week. 
+Delos:
+1.8m
+*   4
+=$7.2m
+Step 3: Add Transportation costs to previous 2 totals to get Total Cost for each vaccine. (Optional: Solve for cost/vaccine)
+Hermes: 
+2m   +   2.28m
++   1.72m   =$6m      /   600k   =$10
+Apate: 
+2.5m  +   1.8m
++   1.2m    =$5.5m    /   500k   =$11
+Mercurius:
+2.4m  +   6m+   2.1m    =$10.5m   /   1.5m   =$7
+Hamilkas:
+3m   +   900k
++   1.1m    =$5m      /   250k   =$20
+Delos:
+4m   +   7.2m
++   2.8m    =$14m     /   2m    =$7
+For vaccines arriving this week, $21.5m of vaccines for 715k people ~$30 /person, but only 681k are effective, leaving 34k 
+people going back to normal life with ineffective vaccines
+Math Answers
+CO-V(id)accinated
+56
+
+
+===== PDF p61 =====
+Exhibit #3 Solutions
+Candidate should immediately notice that there are nowhere near enough available vaccines to inoculate a meaningful 
+percentage of the population (681k / 19.5m = ~3.5% NYS pop.) So long as candidate accounts for paying for the 
+vaccines, any answer is acceptable. Candidate should not calculate all the information as it is unessential to solving the case 
+question of what to do with the initial batch of vaccines.
+Step 1: Calculate total revenue needed to pay for vaccine from Segment C. .
+50k (Income)   *   10% (Increase)   *   10% (Taxes)   =$500
+Step 2: Calculate number vaccines need to give to Segment C to pay for vaccines
+21.5m (Total Cost)   /   500   =43k
+To pay for $21.5m in vaccines delivered this week, 43k Hamilkas vaccines (100% efficacy) should be given to Segment C 
+population currently working and the remaining should be distributed to Segments D & E. While the cost looks large at 
+first, the vaccines are easy to pay for under this model and are getting cheaper with the follow-on lots.
+Math Answers
+CO-V(id)accinated
+57
+
+
+===== PDF p62 =====
+Keys to the Case and Feedback
+1.
+Effective Vaccines- We will administer the vaccine to 715k people, however only 681k of them are effectively 
+inoculated. The 34k who did not generate antibodies can still contract and spread COVID. This is the key to the case
+2.
+Empathy- Be careful turning human lives into revenues and costs. This is a calculation that all the states are doing, 
+but it is better to lean towards empathy and saving lives. Balancing the budget is important, but don’t focus entirely on 
+the financials. The primary focus should be the people
+3.
+Math- Including the interviewer in the math is essential. The takeaways for the candidate should be to not get lost in 
+the math and to solve the problem with the interviewer. Have a goal
+4.
+Case Progression- “Limited supply of vaccines” indicates that in the supply and demand calculation, candidate 
+should look at supply first as that will be the choke point/bottleneck 
+5.
+Spoilage- Note that we are losing 305k doses that would inoculate 285k people (279k effectively)!! How can we 
+improve this? Mercurius has 0% spoilage rate, how can we match that?
+6.
+Paying for the Vaccine- The government doesn’t get all of their additional income when they return to work Karl 
+Marx , they get a % of it. Keep in mind the “So What” of the math 
+7.
+Driving the Case- Candidate-driven cases are hard. If your intuition is incorrect and you’re not asking the right 
+questions, you can easily go off track. This case is much harder than anything you will see in an interview, but if you 
+were permitted to drive the case, you can identify where you went wrong
+8.
+Efficiency- There is a lot of information in this case. It is important to know where you are going with the math to 
+ensure you aren’t bogged down in an exhibit. Try doing the case again from scratch. You’ll find that when you have it 
+mapped out, the case moves quite rapidly
+Takeaways
+CO-V(id)accinated
+58

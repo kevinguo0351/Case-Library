@@ -1,0 +1,219 @@
+===== PDF p39 =====
+34 
+Barracuda Server Co. 
+None. 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+Barracuda Server Co is a technology company that sells both computer servers and support services in 
+the United States. Barracuda began as a small company in Virginia, but expanded organically and through 
+a series of small acquisitions. The Company now covers the Central and Eastern United States. Barracuda 
+is a profitable company, but it’s margins consistently lag peers in the industry. Barracuda hired us to 
+identify what is causing their lower profit margins and identify possible solutions. 
+Sales: Barracuda and peers typically earn 70% 
+of revenues from products and 30% from 
+support services. The services segment is more 
+profitable. 
+ 
+Typical Sale: Customers negotiate 3-5 year 
+exclusive contracts. The customer buys new 
+products at this time. The server company then 
+provides support and maintenance services 
+based on a set rate for the contract’s duration. 
+Case: Barracuda Server Co. 
+
+
+===== PDF p40 =====
+35 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+Cheapo Coffee 
+Sample Candidate Framework 
+Financials: Sales price or volume difference vs. peers. 
+Cost structure difference with fixed vs. variable costs 
+ 
+Company: Capability and expertise to manage a larger 
+company and integrate roll-up acquisitions. Sales force 
+structure and incentives. Labor structure (union or non-
+union). Organizational structure mismatch with 
+customers? 
+ 
+Product: Lost edge in technology leading to better 
+differentiation for competitors, Bundling ineffective 
+relative to peers (product-service mix). These are 
+largely comparable goods that are not differentiated 
+Customer: Barracuda serves different 
+customer segments that are less profitable. 
+ 
+Industry: New entrants, Change in competitor 
+behavior (on gaining share), Concentration of 
+suppliers. Best practices-did they find a better 
+way of providing service that Barracuda lacks? 
+
+
+===== PDF p41 =====
+36 
+Barracuda Server Co. 
+Product 
+Customer 
+Industry 
+Company Structure 
+-When the locations of an acquired company 
+overlapped with Barracuda’s offices, the two 
+offices were combined and staff sizing matched 
+to market conditions. Overlapping functions 
+(legal, HR) were also integrated. 
+-Barracuda nonetheless senses a cost 
+disadvantage relative to peers. 
+-A profitability analysis of Barracuda’s offices is 
+in Exhibit 1. 
+-Barracuda and its peers target similar clients. 
+-Renewals of existing contracts for Barracuda 
+are comparable to their peers. 
+-The product offering by all of the top firms in the 
+industry is relatively similar. 
+-The ongoing service contract sets a fixed fee that 
+server companies receive each year. The company 
+then provides maintenance and tech support to the 
+client. 
+-Staff pay particular attention to clients at the start 
+of a contract during set up and toward the end of a 
+contract in an attempt to keep the business. 
+-Barracuda is the third largest company in the 
+industry, with an 8% share of the market. The 
+top five firms hold a combined 40% market 
+share. 
+-Barracuda’s product offering has kept up with 
+peers in terms of technology and price. 
+ -Barracuda wins contracts with terms and 
+pricing that are comparable to peers. 
+Potential Areas for Analysis 
+
+
+===== PDF p42 =====
+37 
+Barracuda Server Co. 
+Question #1:  
+Question #1 Solution:  
+(Hand interviewee Exhibit 1.)  
+How do Barracuda’s customers compare to those of its peers? 
+Do you have a hypothesis for what is causing their decreased profit margins? Why would this cause 
+margins to be lower? 
+What additional information would you need to confirm this hypothesis? 
+ 
+ 
+My hypothesis is that Barracuda’s profit margins are lower because they focus disproportionately on 
+smaller offices. This focus hurts Barracuda because they cannot take advantage of economies of scale by 
+spreading fixed costs for each office over a large customer base. 
+ 
+To validate this hypothesis, I would want to compare the financial statements of one of Barracuda’s urban 
+and rural offices. 
+Question 1 
+
+
+===== PDF p43 =====
+38 
+Bicycle Parts Manufacturer 
+Question #2:  
+Question #2 Solution:  
+Barracuda does in fact have many small offices in rural locations. (Hand interviewee Exhibit 2.) Here is a 
+financial snapshot comparing results from one of Barracuda’s smaller offices in Chattanooga with a larger 
+office in Atlanta. 
+ 
+Does this confirm or change your hypothesis? What can Barracuda do to improve profit margins? 
+ 
+ 
+This exhibit confirms my hypothesis that Barracuda’s focus on rural areas is causing its lower profitability. 
+Even though Barracuda actually earns a higher profit margin on each individual customer in rural areas, 
+the fixed costs cannot be spread over as many customers. This results in profit margins of only 12% in 
+smaller offices relative to 20% for larger offices. 
+ 
+Barracuda can expand its presence in densely populated areas. To do this, Barracuda can build it’s 
+capacity in cities and bid more aggressively on upcoming contracts. The company can also seek to 
+differentiate itself in cities more by adding services or increasing the training of its staff. Barracuda can also 
+attempt to lower fixed costs in their rural offices. This could potentially be done by centralizing common 
+functions into a regional hub. 
+Question 2 
+
+
+===== PDF p44 =====
+39 
+Barracuda Server Co. 
+ 
+o Barracuda should increase its focus on high-revenue offices in larger cities. 
+o Bid aggressively to gain share in large markets. Expand capacity in these markets and consider 
+ staff training to improve service offering relative to peers. 
+o Restructure smaller offices to reduce fixed costs. 
+ 
+Recommendation 
+ 
+ 
+o Barracuda’s gain in share depends on competitor responses. If competitors match Barracuda’s 
+  prices, Barracuda does not capture more profit. 
+o Decreasing fixed costs in small offices may cause a loss of customers, further decreasing  
+  economies of scale. 
+ 
+ 
+Risks 
+ 
+o Analyze 
+ 
+o Purchase coal on the open market to fulfill the New Charleston Mine’s contract (or use production  
+   from another MC mine, or sell the profitable contract to another mining company). 
+ 
+Next Steps 
+Conclusion 
+
+
+===== PDF p45 =====
+40 
+Barracuda Server Co. 
+0
+5
+10
+15
+20
+25
+30
+0
+20
+40
+60
+80
+100
+Profit Margin 
+Office Revenues 
+Profit Margin by Office 
+Industry Average 
+20% 
+East-Coast Office 
+ 
+Midwest Office 
+ 
+Southeast Office 
+Exhibit 1: Office Profitability 
+
+
+===== PDF p46 =====
+41 
+Barracuda Server Co. 
+Atlanta  
+Chattanooga 
+Customers Served 
+25 
+3 
+Revenues 
+90,000 
+12,000 
+Variable Costs 
+50,000 
+5,000 
+Fixed Costs 
+22,000 
+5,200 
+Profit 
+18,000 
+1,800 
+Exhibit 2: Financial Snapshot 

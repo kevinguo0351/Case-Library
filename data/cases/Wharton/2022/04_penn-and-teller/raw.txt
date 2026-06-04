@@ -1,0 +1,327 @@
+===== PDF p41 =====
+Case 4: Penn and Teller
+Case Type: Profitability
+Difficulty Level: Medium
+
+
+===== PDF p42 =====
+Penn and Teller
+Problem Statement
+Additional Information (Provide Upon Request)
+Our client is Caesars, one of the largest gaming and resort companies in the world. Penn and Teller have been the 
+headlining show at the Rio Hotel since 2001, and they are currently the longest-running headlining show in Vegas 
+history. Caesars, who owns the Rio Hotel where the duo performs in the 1,500 seat P&T Theater, is wondering if their 
+act has become stale. Penn & Teller's annual contract is about to expire, and before Caesars has a meeting with the 
+duo, they have asked our company's advice on whether or not to re-sign the act for another year. 
+What goal does Caesars have? As one of the largest entertainment companies on the Strip and around the world, 
+Caesars solely cares about the company’s bottom line profitability.
+How long is a contract for Penn & Teller? As is the Vegas standard, all contracts are for a one-year time period.
+Why does Caesars think the show is stale? The show has plateaued with no change in bottom line profitability in the past 
+five years.
+Who are Caesars’/P&T’s biggest competitors? Caesars’ biggest competitor is MGM Resorts, which also operates about 
+33% of the Strip. P&T compete against a whole bevy of nighttime entertainment, such as other shows, nightclubs, and 
+gaming.
+
+
+===== PDF p43 =====
+Penn and Teller
+1. Revenue from P&T 
+show
+A. Price
+●
+Types of tickets
+●
+Price of tickets
+B. Volume
+●
+Capacity of the theatre
+●
+Sell through of said 
+capacity by ticket type
+2. Costs
+3. Impact on other 
+revenue
+4. Alternatives
+A. Variable
+●
+Consumables (props, 
+handbills, etc.)
+●
+Labor (cleaning, ushers, 
+stagehands, etc.)
+●
+Utilities (electricity, etc.)
+B. Fixed 
+●
+Marketing
+●
+SG&A
+●
+Annual contracts
+●
+Insurance
+●
+Room fees
+●
+Gambling
+●
+Dining
+●
+Replacement acts and 
+cost/benefit
+●
+Alternate use of the 
+space (more casino 
+space, buffet, etc.)
+Sample Framework
+Business insights
+-
+“Beyond just the direct P&L impact to Caesars, I also want to understand what other benefits the show provides. Good word of 
+mouth, additional revenue etc.”
+
+
+===== PDF p44 =====
+How profitable is the Penn and Teller show? Only provide the information below when 
+asked.
+How many seats? The theater has 1500 seats.
+Are all the seats the same? No, there are three categories, A, B, and C. There are 300 Category A seats (best 
+seats in the house), 800 Category B seats, and 400 Category C seats (balcony, or in the back of the theater).
+Do the seats always sell out? No. On average, 100% of the A, 80% of the B, and 50% of the C are sold.
+What are the prices? Category A costs $120, B costs $75, C costs $55.
+How many shows do P&T perform? They perform at Vegas’ standard 6 shows per week, 40 weeks per year (they 
+have 1 day off per week and three months per year when they work on other endeavors like TV appearances and 
+book deals).
+How has revenue changed? These numbers have been static over the past 5+ years, hence why Caesars thinks 
+the show has become stale.
+Penn and Teller - Profit (Revenue)
+Q1: Revenue
+
+
+===== PDF p45 =====
+Penn and Teller - Revenue Calculations
+Category
+Number of 
+Seats
+% Sold
+Attendance 
+per show
+Price per 
+Ticket
+Ticket 
+Revenue
+CAT A
+300
+100%
+300
+$120.00
+$36,000
+CAT B
+800
+80%
+640
+$75.00
+$48,000
+CAT C
+400
+50%
+200
+$55.00
+$11,000
+Revenue per 
+Show
+Shows per 
+Week
+Weeks per Year
+Revenue per 
+Year
+$95,000
+6
+40
+$22.8M
+Calculation
+
+
+===== PDF p46 =====
+What are the costs of the Penn and Teller show? Only provide the information below when 
+asked.
+What are the costs to putting on the show? Costs are broken into six main buckets 
+1)
+Both Penn and Teller each make $2,000,000 per year 
+2)
+The Crew (showgirls, ushers) in total costs $2,000 per show 
+3)
+Housekeeping costs $1,000 per week 
+4)
+The Props (the doves, playing cards, etc) costs $200 per show 
+5)
+Utilities(the lights) cost $52,000 per year 
+6)
+SG&A ( box office staff, etc) costs $15,000 per month
+Does housekeeping clean year round? No, they are only needed the 40 weeks the show is live
+Is SG&A paid year round? Yes, that is a 12 month per year expense
+How have costs changed? These costs have been static over the past 5 years
+Penn and Teller - Profit (Cost)
+Q1: Cost
+
+
+===== PDF p47 =====
+Penn and Teller - Cost Calculations
+Expense
+Formula
+Total
+Penn and Teller (2 of them)
+$2,000,000 * 2 =
+$4,000,000 
+Crew (6 shows, 40 weeks)
+$2,000 * 6 * 40 = 
+$480,000 
+Housekeeping (40 weeks)
+$1,000 * 40 = 
+$40,000
+Props (6 shows, 40 weeks)
+$200 * 6 * 40 = 
+$48,000
+Utilities (1 year)
+$52,000 * 1 = 
+$52,000
+SG&A (12 months)
+$15,000 * 12 = 
+$180,000
+Total Cost per Year
+$4,800,000
+Calculation
+
+
+===== PDF p48 =====
+Penn and Teller - Profit and Margin
+Line Item
+Amount
+Revenue
+$22,800,000
+Cost
+$4,800,00
+Profit
+$18,000,000
+Margin (Profit/Revenue)
+~80%
+Calculation
+
+
+===== PDF p49 =====
+What can Caesars do to make the current show more profitable?
+Penn and Teller - Brainstorm
+Question
+Sample Answer
+Revenue
+●
+Ticket Prices 
+○
+Increase prices?
+●
+Quantity Sold
+○
+Switch some B seats into A’s, C’s into B’s (higher margin seats)
+○
+Offer bundle discounts
+○
+Put on more shows
+●
+Other 
+○
+Retool concession stand 
+○
+Add gift shop with better Souvenirs
+○
+Shorten the show so viewers gamble more (higher margin activity)
+○
+Bundle tickets with dinner or other activities (like an overnight stay)
+Costs
+●
+Revisit contract with P&T  
+●
+Check union vs non union labor
+
+
+===== PDF p50 =====
+Caesars has the opportunity to switch the P&T show for one featuring the recent winner of 
+America’s Got Talent. Should they?
+Penn and Teller - Question
+Question
+Clarifying Questions and Answers
+What goal does Caesars have? As one of the largest entertainment companies on the Strip and around the 
+world, Caesars solely cares about the company’s total bottom line profitability
+How long is a contract for the AGT? As is the Vegas standard, all contracts are for a one year time period
+Are there any costs to making the switch? Putting in a new show will require a reconfiguration of the theater 
+and a one time marketing blitz This would cost $24,000,000 to do and would occur before the first show
+What are the revenues of the new show? The new show would bring in only $90,000 in ticket sales per show 
+(compared to P&T of 95 All other sources of revenue ( concessions, etc are insignificant)
+What are the costs of the new show? The new show would cost significantly less than the P&T, costing 3 M per 
+year as opposed to $48,000,000
+
+
+===== PDF p51 =====
+Penn and Teller - Profit for New Act
+Change in Profits
+Sample Answers
+YES:
+Penn & Teller is stale, and the new America’s Got Talent 
+act is fresh
+America’s Got Talent is $600,000 more profitable each 
+year
+NO:
+4 year is a long time in such a competitive market 
+America’s Got Talent winner might not have long - lasting 
+appeal
+What happened
+Formula
+Total
+Less Revenue per show (-$5,000)
+-$5,000 * 240 shows =
+-$1,200,000 per year
+Lower show costs per year
+$1,800,000 per year 
+$1,800,000 per year
+New Annual Profit
+-$1,200,000 - $1,800,000 =
+$600,000 per year
+Payback Period ($2,400,000 upfront)
+$2,400,000 / $600,000 =
+4 years
+
+
+===== PDF p52 =====
+The SVP of Entertainment wants to know what we discussed. What recommendation do you
+have for Caesars?
+Penn and Teller - Recommendation (Resign Penn & Teller)
+Final Recommendation
+Sample Answer
+Recommendation
+I recommend that Caesar’s resign Penn and Teller. The show remains very profitable 
+generating $18,000,000 profit on $22,800,000 of revenues. The current America’s Got 
+Talent Alternative is more profitable, however it will take 4 years to recoup the initial 
+investment. 
+Risks
+●Assumption that Penn and Teller will maintain their popularity
+●Assuming that costs will not continue to rise (e.g. Penn and Teller wanting more)
+Next Steps
+●Moving forward, we can look at how to further increase revenues by doing XXXX 
+●Or minimize costs by doing XXXX and further look into XXXX
+
+
+===== PDF p53 =====
+The SVP of Entertainment wants to know what we discussed. What recommendation do you
+have for Caesars?
+Penn and Teller - Recommendation (Do not resign Penn & Teller)
+Final Recommendation
+Sample Answer
+Recommendation
+I recommend that Caesar’s does not resign Penn and Teller. The show has become 
+stagnant with no growth, and while still profitable, the new America’s Got Talent show is 
+fresher and would bring in an additional $600,000 in profits.
+Risks
+●4 year payback period for the initial upfront costs is long in a competitive market
+●No guarantee that the America’s Got Talent has lasting popularity
+Next Steps
+●Conduct additional market research to see how popular and resilient an America’s Got 
+Talent act would be
+●See if there are alternatives that more profitable with lower payback periods.

@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2014_21_health-coaches",
+  "school": "Kellogg",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2014.pdf",
+  "idx": 21,
+  "case_name": "Health Coaches",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Health Care",
+  "difficulty": null,
+  "pdf_page_start": 148,
+  "pdf_page_end": 153,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    149,
+    150,
+    152,
+    153
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png",
+    "exhibits/exhibit_p152.png",
+    "exhibits/exhibit_p153.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2014\\21_health-coaches"
+}

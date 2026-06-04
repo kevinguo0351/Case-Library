@@ -1,0 +1,254 @@
+===== PDF p130 =====
+15 / Brazilian Road Concessions
+Our client is a Brazilian road concessions company looking to expand internationally. Economic growth in Brazil is stagnant, and the
+client wants to diversify its portfolio to keep growing revenues and profitability. What factors should the client consider as it thinks
+through its options to expand internationally?
+Overview for Interviewer
+Industry: Government
+Case Format: Investment Valuation
+Concepts Tested:
+• International expansion
+• Interpreting graphs
+• Market entry
+• Math
+Notes
+• This case is interviewer guided/lead.
+• This case is meant to emulate a McKinsey final round.
+
+
+===== PDF p131 =====
+Interviewer Guidance
+Clarifying Answers to Provide if Asked
+• Client operates in Brazil, has scouted
+opportunities in South America. Its
+staff mostly speaks Portuguese
+• Client
+only
+focuses
+on
+road
+concessions (building and operating
+public roads)
+• Client’s
+customers
+are
+municipal,
+state, or national governments. Bids
+usually through competitive requests
+for proposal (RFPs)
+• Client is open to all geographies with
+South American bias
+Interviewer Guide to Case and Handouts
+Question 1: Graph analysis. Client has decided not to pursue opportunities 
+outside South America because of cultural differences and complexity of 
+management. (Show Exhibit 1)
+Question 2: There are no viable joint venture opportunities. Client wants to 
+decide primary investment vs. M&A. What inputs to compare the value of 
+each investment? (Show Exhibit 2)
+Question 3: Final Recommendation and Next Steps
+
+
+===== PDF p132 =====
+Core Case Question 1
+1 / Which Markets?
+We’ve decided not to pursue opportunities outside South America because of culture differences and managerial complexity.
+Based on this graph, which market should our client focus on in South America? (Present Exhibit 1)
+Notes to Interviewer
+Correct Answers:
+• Upper-right countries (Mexico, Colombia, Chile, and
+Peru) and could maybe argue for Argentina
+• For Argentina, ease of doing business is not high but the
+pipeline is strong
+Follow up 
+Question
+Assuming the client chooses to enter one (or more)
+markets, how should it approach market entry?
+Correct answers:
+•
+Greenfield/primary investment
+•
+Joint venture (JV)
+•
+Acquisition (M&A)
+Follow-up: What are the pros/cons of each?
+Example answers:
+•
+Primary investment – pro: greater control, con: limited
+market knowledge
+•
+Joint venture – pro: some market knowledge, con: less
+control
+•
+M&A – pro: local market knowledge, con: more expensive
+
+
+===== PDF p133 =====
+Core Case Question 2
+2 / M+A Options
+The client’s decided there are no viable joint venture opportunities, and wants you to evaluate primary investment and M&A as
+potential options. To evaluate the opportunities side by side, what inputs are needed to compare the value of each investment?
+Notes to Interviewer – provide Exhibit 2 after interviewee walks through major inputs 
+below
+Primary Investment:
+•
+Annual profit = [KM * $/KM * vehicles] * [1 –
+OpEx]
+•
+Payback period = initial investment / annual profit
+•
+Investment Value = annual profit / discount rate
+(*assume perpetuity)
+R t
+I
+t d C
+it l (ROIC)
+[I
+t
+t
+M&A:
+•
+Annual profit = Revenue * [1 – OpEx] + [Revenue *
+Synergies]
+•
+Payback period = initial investment / annual profit
+•
+Investment Value = annual profit / discount rate
+(*assume perpetuity)
+ROIC
+[I
+t
+t V l
+/ I iti l I
+t
+t]
+1
+Note: interviewee may ask here how revenue is earned for the client. Client is paid by kilometer for each vehicle which travels
+over their roads (see in annual profit below and in exhibit 2).
+
+
+===== PDF p134 =====
+Closing Thoughts 
+Recommendation – ask for conclusion after ROIC calculation in 
+exhibit 2
+What should the client do? What next steps do you recommend?
+Notes to Interviewer
+Answer
+Client should enter a South American market (e.g., Columbia, Chile, Mexico) via primary investment:
+•
+High levels of cultural similarity, low levels of managerial complexity in South American markets
+•
+Above countries and Peru all have big pipelines are relatively easy to do business in vs. other S. American markets
+•
+Primary investment has a higher ROIC and shorter payback period vs. M&A route
+Example Next Steps
+•
+See if you can negotiate lower M&A price
+•
+Sensitivity analysis of investment comparison to macroeconomic factors
+•
+Client’s ability to win deals as the primary investor in a new country
+
+
+===== PDF p135 =====
+Exhibit 1 
+
+
+===== PDF p136 =====
+Exhibit 2
+Input
+Primary Investment
+M&A
+KM
+$300
+N/A
+$/KM
+$5
+N/A
+Expected Traffic 
+(vehicles/year)
+20K
+N/A
+Annual Revenue
+KM * $/KM * Expected Traffic
+$120M
+OpEx
+30%
+40%
+Investment
+$150M
+$750M
+Contract Term
+Perpetual
+N/A
+Discount Rate
+10%
+10%
+Synergies
+N/A
+15% (of rev.)
+
+
+===== PDF p137 =====
+Exhibit 2 Solution 
+Note: $138M annual revenue under M&A scenario includes $120M base revenue plus synergies of $18M (15% of rev.)
+Input
+Primary Investment
+M&A
+Annual Revenue
+$30M
+(300*$5*20K)
+$120M
+Annual OpEx
+$9M
+($30M*30%)
+$48M
+($120M*40%)
+Annual Profit
+$21M
+($30M - $9M)
+$90M
+($138M - $48M)
+Payback Period
+7 Years
+$150M/$21M
+8.3 years
+($750M/$90M)
+NPV
+$210M
+($21M/10%)
+$900M
+($90M/10%)
+ROIC
+40%
+($210M/$150M) - 1
+20%
+($900M/$750M) - 1
+
+
+===== PDF p138 =====
+Potential Structure
+Bucket 
+1
+• Language/culture barriers
+• Countries with similar 
+working and management 
+culture
+• Geographical distance
+Economic 
+Prospects
+• Project Pipeline
+• Future Project Value
+• Target Country 
+growth/infrastructure
+Politics
+• Regulatory environment
+• Political climate
+• Target Country business 
+climate
+Culture/management
+Competition
+• Current/multinational 
+players
+• Industry 
+concentration/nature
+• Bid competitiveness

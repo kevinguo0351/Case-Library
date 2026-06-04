@@ -1,0 +1,311 @@
+===== PDF p25 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 3: Regional Jet Market 
+While the market for long-haul jet manufacturers is a duopoly between Boeing and Airbus, the market for regional jet manufacturers is 
+currently a duopoly between Bombardier of Canada and Embraer of Brazil. However, the market appears to be in for a period of 
+transition due to at least two new entrants, Competitor “R” of Russia and Competitor “C” of China. What do you think will happen to the 
+international market for regional jet manufacturers in the next five years? 
+This case is an interviewer led current and future “state of the industry” case. The interviewer should take charge with the questions that follow 
+once the candidate relays his or her framework. The interviewer should provide the candidate with all the charts at once. The candidate should 
+pick and choose the charts that are relevant to answer each question. This case ends with the final question and there is no need to ask for a final 
+recommendation. 
+ 
+A strong candidate will be able to swiftly pick the information from charts that is required to respond to the various questions. If the candidate is 
+taking too long the interviewer can refer the candidate to the specific chart that contains the required information. 
+Case Prompt 
+(to be read to the candidate) 
+21 
+Interviewer Guide 
+• Interviewer Led   
+• Industry Analysis 
+• Airlines 
+Easy  
+Normal 
+Hard 
+
+
+===== PDF p26 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Response can include the following. Interviewer should probe the candidate to go beyond these lists. Interviewer should be looking for the 
+candidate’s ability to draw on his/her general business acumen to develop these lists. Additionally the candidate should put some structure to 
+the response. A basic structure is to talk through advantages first, and then move to disadvantages.     
+• Poorer reputation for safety 
+• Trouble with certification in developed countries 
+• Lack of R & D strength 
+ 
+22 
+Continued… (page 2 of 8) 
+Sample Response 
+Disadvantages 
+Advantages 
+• State backing 
+• Lower cost of production 
+• Access to home markets which may be growing faster than 
+developed markets 
+What advantages and disadvantages would you expect Russian and Chinese jet manufacturers to have compared to their competitors?  
+Case 3: Regional Jet Market 
+Question #1 
+
+
+===== PDF p27 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+23 
+Continued… (page 3 of 8) 
+Case 3: Regional Jet Market 
+Chart 1: Capacity (# of jets) 
+(to be handed to the candidate) 
+2013 
+2014 
+2015 
+2016 
+2017 
+Bombardier 
+100 
+100 
+100 
+100 
+100 
+Embraer 
+90 
+90 
+90 
+90 
+90 
+R 
+60 
+60 
+60 
+60 
+60 
+C 
+100 
+100 
+100 
+100 
+100 
+Chart 2: Projected Annual Demand (# of jets) 
+(to be handed to the candidate) 
+2013 
+2014 
+2015 
+2016 
+2017 
+Bombardier 
+100 
+105 
+105 
+100 
+100 
+Embraer 
+70 
+75 
+85 
+75 
+90 
+R 
+5 
+40 
+50 
+50 
+50 
+C 
+10 
+20 
+30 
+35 
+50 
+
+
+===== PDF p28 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+24 
+Continued… (page 4 of 8) 
+Case 3: Regional Jet Market 
+Chart 3: Cost Breakdown ($B) 
+(to be handed to the candidate) 
+Cost breakdown at full capacity 
+Bombardier 
+Embraer 
+R 
+C 
+Labor 
+1 
+0.6 
+0.9 
+0.75 
+Parts 
+1.5 
+1.2 
+0.6 
+0.5 
+SG&A 
+1.2 
+1.2 
+0.5 
+0.75 
+Advertising 
+1.3 
+1.05 
+0.9 
+1 
+Total 
+5 
+4.05 
+2.4 
+3 
+
+
+===== PDF p29 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+25 
+Continued… (page 5 of 8) 
+Sample Response 
+What is the CAGR for demand in the overall market between 2013 and 2016? 
+ 
+Case 3: Regional Jet Market 
+Question #2 
+• Candidate should use Chart 1 
+• Candidate does not need to do out the math but interviewer should make sure the problem is set up correctly by candidate 
+• CAGR is ((Ending Value/ Beginning Value)^(1/# of years)) - 1 
+• Calculation 
+• 260/185 = 1.405 
+• 1.405 ^ .333 =  1.12 
+• 1.12 – 1 = 0.12 
+• CAGR is approximately 12% 
+ 
+
+
+===== PDF p30 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+26 
+Continued… (page 6 of 8) 
+Sample Response 
+What is the expected cost per plane for each of the manufacturers in 2014? 
+Case 3: Regional Jet Market 
+Question #3 
+• Candidate should use Charts #1 and #2 
+• Candidate should recognize that labor and parts are variable costs and should be allocated as a percentage of full capacity 
+• SG&A and Advertising should be fully allocated 
+ 
+• Candidate should recognize that a manufacturer cannot produce more than it’s capacity 
+ 
+ Variables  
+Source (given in case unless stated) 
+Bombardier 
+Embraer 
+R 
+C 
+Labor 
+(demand)/(capacity) x (Cost) 
+1 
+0.5 
+0.6 
+0.15 
+Parts 
+(demand/capacity) x (Cost) 
+1.5 
+1 
+0.4 
+0.1 
+SG&A 
+1.2 
+1.2 
+0.5 
+0.75 
+Advertising 
+1.3 
+1.05 
+0.9 
+1 
+Total ($B) 
+(labor) + (parts) + (SG&A) + (advertising) 
+5 
+3.75 
+2.4 
+2 
+Cost per plane ($B) 
+(total cost)/(annual demand) 
+0.05 
+0.05 
+0.06 
+0.1 
+
+
+===== PDF p31 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+27 
+Continued… (page 7 of 8) 
+Sample Response 
+What is the expected cost per plane for each manufacturer in 2017?  
+Case 3: Regional Jet Market 
+Question #4 
+• Candidate should use Charts 1 and 3 
+• The candidate should sum up cost at full capacity for each manufacturer (chart 3)  
+• The candidate should then divide this by the number of planes at capacity (chart 1) to obtain cost per plane 
+ 
+Variables 
+Source (given in case unless stated) 
+Bombardier 
+Embraer 
+R 
+C 
+Labor 
+(demand)/(capacity) x (Cost) 
+1 
+0.6 
+0.75 
+0.375 
+Parts 
+(demand/capacity) x (Cost) 
+1.5 
+1.2 
+0.5 
+0.25 
+SG&A 
+1.2 
+1.2 
+0.5 
+0.75 
+Advertising 
+1.3 
+1.05 
+0.9 
+1 
+Total ($B) 
+(labor) + (parts) + (SG&A) + (advertising) 
+5 
+4.05 
+2.65 
+2.375 
+Cost per plane ($B) 
+(total cost)/(annual demand) 
+0.05 
+0.045 
+0.053 
+0.0475 
+
+
+===== PDF p32 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+28 
+Continued… (page 8 of 8) 
+Sample Response 
+What can you interpret from the current and future cost per plane of the Chinese and Russian competitors?  
+Case 3: Regional Jet Market 
+Question #5 
+• Currently, the new entrants cannot compete on a cost per plane basis due to a lock of demand necessary to sufficiently amortize fixed 
+costs 
+• It may be possible that their governments are providing subsidies and tax breaks that are not being taken into account 
+• By 2017, their cost per plane is much more in line with the current market conditions 
+ 
+ 
+Sample Response 
+Assume you are advising Bombardier. They are considering entering the larger long-haul jet market to fuel bottom-line growth. What are the 
+risks with this strategy? 
+Question #6 
+• Saturated market 
+• Need to develop different technology 
+• Competitive response (perhaps Airbus or Boeing enter regional jet market) 
+• Capacity constraints 
+ 
+ 

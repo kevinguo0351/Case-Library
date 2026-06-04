@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2020_05_digibooks",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 5,
+  "case_name": "DigiBooks",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Retail & CPG",
+  "difficulty": null,
+  "pdf_page_start": 70,
+  "pdf_page_end": 79,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    73,
+    74,
+    76,
+    78,
+    79
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p073.png",
+    "exhibits/exhibit_p074.png",
+    "exhibits/exhibit_p076.png",
+    "exhibits/exhibit_p078.png",
+    "exhibits/exhibit_p079.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\05_digibooks"
+}

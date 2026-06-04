@@ -1,0 +1,26 @@
+{
+  "case_id": "Columbia_2017_03_california-parking-lot",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 3,
+  "case_name": "California Parking Lot",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Municipal / Real Estate",
+  "difficulty": null,
+  "pdf_page_start": 46,
+  "pdf_page_end": 54,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    47,
+    48,
+    54
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p047.png",
+    "exhibits/exhibit_p048.png",
+    "exhibits/exhibit_p054.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\03_california-parking-lot"
+}

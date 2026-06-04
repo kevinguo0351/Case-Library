@@ -1,0 +1,223 @@
+===== PDF p9 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+1. Customer Service @WebAds Inc. 
+ 
+    
+ 
+Type of Case: Strategy & Business Development 
+ 
+Opening 
+Your client WebAds Inc. is a technology company that is in the business of online advertising. 
+They generate revenue by placing ad links on websites of web content publishers such as the 
+Wall Street Journal’s WSJ.com. WebAds currently has 500,000 clients who are grouped into 
+three tiers. [Provide data in the box if asked.] 
+ 
+Tier 
+A
+B
+C
+% customers 
+5%
+15%
+80%
+Total Revenue 
+$500M
+$300M
+$200M
+ 
+WebAds recently implemented a program that optimized customer service for customers in Tier 
+A and resulted in increased revenue per publisher (customer) within that Tier by 20% (based 
+on initial data). The program involves a customer service representative looking at a customer 
+website and offering customized design recommendations for each publisher. How would you 
+think about rolling this out to the other two Tiers? 
+ 
+Areas of Discussion 
+ 
+• The return over the cost of capital should be similar across Tiers. 
+• Net and gross margins are similar across all Tiers 
+ 
+• How might the Customer Service models differ across the 3 Tiers? 
+Think about the revenue per customer generated at each Tier (See Analysis below for 
+calculation). Human customer service reps invest more time in high value customers of 
+Tier A. Reps will spend less time in Tiers B and C and more automation will be used 
+given the large number of customers and low revenue per customer. 
+ 
+• What budget would you estimate for the implementation to Tier B and Tier C? 
+ 
+The implementation budget for each Tier (since return on cost of capital is the same) 
+should be proportion to the total revenue in that segment. Implementation budgets 
+should be in a ratio as follows: 
+ 
+Tier B: 
+%
+60
+500
+$
+300
+$
+=
+M
+M
+ of A 
+ 
+Tier C: 
+%
+40
+500
+$
+200
+$
+=
+M
+M
+ of A 
+4 
+
+
+===== PDF p10 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+1. Customer Service @WebAds Inc. continued… 
+ 
+• Revenue per Customer in each Tier: 
+o Tier A:  
+  
+ 
+000
+,
+20
+$
+)
+000
+,
+500
+%
+5
+(
+500
+$
+=
+×
+M
+ 
+o Tier B:  
+  
+ 
+000
+,4
+$
+)
+000
+,
+500
+%
+15
+(
+300
+$
+=
+×
+M
+ 
+o Tier C:  
+  
+ 
+500
+$
+)
+000
+,
+500
+%
+80
+(
+200
+$
+=
+×
+M
+ 
+ 
+ 
+• How much (What proportion) does WebAds spend on servicing each customer in the 
+different Tiers? 
+The amount in time or dollars spent on the service upgrade should be in proportion to 
+the revenue generated per customer in each Tier (since a uniform margin is maintained 
+across all Tiers). See analysis below for calculation of revenue per customer. The cost 
+to service each customer should be as follows: 
+Tier B: 
+%
+20
+000
+,
+20
+000
+,4
+=
+ of A 
+ 
+Tier C: 
+%
+5.2
+000
+,
+20
+500
+=
+ of A 
+ 
+• Which Tier would you chose for the next implementation of the optimized customer 
+service model? Why? 
+ 
+The next implementation should be done within Tier B. Tier B together with Tier A 
+accounts for 80% of all revenue and will therefore result in the largest lift through the 
+optimized revenue model. Since Tier C represents only 20% of sales, WebAds could 
+take the time to leverage further learnings from the implementation in Tier B before 
+rolling it out to Tier C. This is critical if WebAds finds that the increase in revenue in 
+Tier B is lower than the expected 20%. 
+5 
+
+
+===== PDF p11 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+1. Customer Service @WebAds Inc. continued… 
+ 
+• How can WebAds implement the new program to improve performance in Tiers B & C 
+when service time/cost per customer in those Tiers is significantly less than in Tier A? 
+ 
+WebAds should identify a scalable service optimization solution by analyzing the 
+process used during the implementation in Tier A. The analysis should identify trends 
+along the vertical (up that customer Tier) and horizontal (similar customers across 
+Tiers) segments. Several opportunities for process improvement exist: 
+ 
+o Develop best practices for customer service representatives to more efficiently 
+identify the most common optimization opportunities in each vertical or horizontal 
+segment. This would help improve efficiency during the process. 
+ 
+o Identify optimization opportunities in Tier A that can be automated. Service in Tier 
+B is likely to be semi-automated and the service in Tier C is likely to be fully 
+automated. 
+ 
+o Outsource parts of the process (especially the labor-intensive portions). 
+ 
+o Charge a price for the program, if the redesign process increases traffic to the 
+publisher/customer website. 
+ 
+ 
+Recommended Conclusion 
+ 
+Summary of Findings for the CEO: 
+• The analysis showed that Revenue per Customer in Tier B is 1/5 of Tier A and Tier C is 
+1/40 of Tier A. 
+• Recommend finding ways to automate and leverage experience from Tier A 
+implementation to lower cost per customer in proportion with revenue per customer in 
+each Tier. 
+• Implement next in Tier B with a budget that is 60% of Tier A.  It’s very possible that 
+reducing cost to 1/40 for Tier A for Tier C is not feasible without relying on full 
+automation. 
+6 

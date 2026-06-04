@@ -1,0 +1,266 @@
+===== PDF p229 =====
+225
+Bell Computer Inc.
+Case tracker
+ Industry: Tech/Telecom
+ Case Format: Improving profitability + Reducing 
+Costs
+ Concepts Tested:
+- Marketing Strategy
+- Competitive Analysis
+- Supply/value chain
+Case Question
+ Our client, Bell Computer Inc., is the second largest PC manufacturer, by unit sales, in the United States. Over the past 5 
+years, Bell has been gaining market share and growing revenue, but at the same time, their net income is eroding.
+ The founder of Bell has returned to the company and taken over as CEO. He has hired us to determine:
+ Why have our profit margins declined?
+ What can we do to improve our profitability and reach our “Full Potential”?
+Guide to interviewer
+ This case is primarily about product mix changes in the 
+PC industry combined with Average Selling Price (ASP) 
+Declines resulting in lower overall revenues for the 
+industry. Competitors that did not keep up with cost 
+reductions are faced with tighter margins
+ The interviewee should recognize that this is a “Profit 
+Equation” style question and use a version of the 
+following equation in their “Framework”:
+ Profit/Unit = Price/Unit – Variable Cost/Unit –
+Fixed Costs/Unit
+ Various terms from the PC industry are used throughout 
+the case and it is not expected that the interviewee 
+knows these terms. Help as needed.
+By: Adam J. Louras (Kellogg Class of ‘11); Revised by Matthew English ( Kellogg Class of ’16)
+Quant: 8
+Structure: 10 
+Industry: Tech
+Framework: Profitability
+
+
+===== PDF p230 =====
+226
+Clarifying answers and case guide 
+Interviewer Guide to case and handouts
+Case Structure – Interviewee’s structure should be structured as a comparison of 
+Bell Computer’s financials from Before, i.e. 2005, and After, i.e. 2010. The 
+interviewee should note the “Profit Equation” and they should make the 
+following inferences from the question setup:
+- Revenues are going up and Market Share is Increasing AND Net Income is 
+going down
+- Thus: Prices (ASPs) are being reduced to buy market share. This is causing 
+more units to be sold, but, with Net Income going down, it is clear that costs 
+have not reduced to keep up with the reduction in ASPs.
+Exhibit 1-3 – After Interviewee walks through structure, they should ask questions 
+about the components of Net Income, i.e. Revenue and Costs. 
+- Have a conversation with the Interviewee to force them to talk through the 
+essential components of the Profit Equation that are needed to answer the 
+question. 
+- Let the Interviewee drive the case. When you feel that they have asked enough 
+information about the following topics, give them the exhibit that shows this 
+information:
+- Sales Units 
+Æ
+Exhibit 1
+- Prices 
+Æ
+Exhibit 2
+- Costs 
+Æ
+Exhibit 3
+Answer – The interviewee cannot solve this case without all three exhibits. Once 
+they have given you sufficient reason to hand them each exhibit, they should 
+drive through the case to answer both questions.
+Clarifying answers to provide if Asked
+Industry Definitions
+- ASP: ASP or Average Selling Price is the 
+term used for the average price sold by 
+the company for a computer. 
+Multiplying units sold by ASP will give 
+you total revenue.
+- Client Segment: PCs designed for, and 
+sold to, retail consumers either direct or 
+through a retailer like Best Buy.
+Client Characteristics
+- Items Sold: Assume that only hardware 
+is sold as shown in Exhibit 1. 
+Interviewee could suggest selling 
+additional items such as printers, 
+software, warranty service, etc. to 
+improve profit
+- Locations: This is a US Domestic 
+decision only. Ignore international.
+- “Full Potential” profitability can be 
+interpreted as market-leading 
+Competitive Dynamics
+- All competitors face the same ASPs and 
+sell comparable products.
+
+
+===== PDF p231 =====
+227
+Key elements to analyze
+Marketing Strategy
+ Using Exhibits 1-3, the interviewee should be able to determine 
+that margins are falling due to product mix shifting and price 
+declines, focusing on laptops
+Competitive Analysis + Supply Chain
+ Using Exhibit 3, the interviewee should identify a “Full Potential” 
+improvement for Bell to improve its laptop margins by copying the 
+strategy of its direct competitors.
+Notes to interviewer
+• The Interviewee should be able to answer the question, “Why 
+have our profit margins declined?” with the following rationale:
+ Exhibit 1: Shift in Consumer preference towards Laptops & 
+Netbooks
+ Exhibit 2: Declining ASPs for Laptops and Low ASPs for 
+Netbooks
+ Exhibit 3: Cost position has remained unchanged 
+• The interviewee could answer the question qualitatively by 
+interpreting Exhibits 1-3.  To make this case more quantitatively 
+focused, ask the interviewee to calculate various metrics for 2005 
+and 2010.
+• The interviewee should be able to calculate the negative margin 
+impact of the falling price of laptops – see following page for 
+calculations
+Notes to interviewer
+ The interviewee should be able to answer the question, “What can we 
+do to improve our profitability and reach our “Full Potential”?” with 
+the following COST REDUCTION strategy:
+ Copy Haysus' strategy for part procurement to reduce the build 
+cost of PCs
+ Copy Racer's strategy for Direct Labor to reduce the labor cost of 
+producing PCs
+ Copy HC's strategy for G&A to reduce the total company overhead
+ The interviewee could answer the question qualitatively by 
+interpreting Exhibit 3.  To make this case more quantitatively focused, 
+ask the interviewee to calculate various metrics for “Full Potential”.
+ The interviewee should be able to calculate Bell’s “Full Potential” 
+margin benefit in the laptops segment – see following page for 
+calculations
+
+
+===== PDF p232 =====
+228
+Math Solutions
+Math Part I
+BELL 
+FY2005
+Laptop 
+PCs
+Units Sold (K)
+10.0 
+ASP
+$2,000.0 
+Cost per unit
+800.0 
+Contribution/Unit $1,200.0 
+Revenue ($M)
+$20.0 
+Total Cost ($M)
+8.0 
+NI ($M)
+$12.0 
+Profit Margin
+60.0% 
+BELL 
+FY2010
+Laptop 
+PCs
+30.0 
+$750.0 
+800.0 
+($50.0)
+$22.5 
+24.0 
+($1.5)
+(6.7%)
+BELL Full 
+Potential
+Laptop PCs
+Units Sold (K)
+30.0 
+ASP
+$750.0 
+Cost per unit
+350.0 
+Contribution/Unit
+$400.0 
+Revenue ($M)
+$22.5 
+Total Cost ($M)
+10.5 
+NI ($M)
+$12.0 
+Profit Margin
+53.3% 
+Math Part II
+Results:
+Laptop 
+PCs
+Profit ($M) 
+Improved
+$13.5 
+Cost Per Box 
+Reduced
+$450.0 
+Net income from Laptops has 
+therefore decreased by $13.5M 
+as a result of the price drop
+Lowest possible cost 
+per unit, based on 
+achieving:
+•
+Parts in line with 
+Haysus ($200)
+•
+Labour in line with 
+Racer ($50)
+•
+G&A in line with 
+HC ($50)
+•
+Marketing as-is 
+($50)
+
+
+===== PDF p233 =====
+229
+Solution and recommendations
+Solution & Recommendations
+ Bell Computer Inc. and the PC industry have faced five years of Average Price declines in the Laptop product 
+segment.  At the same time, “Client” or retail consumers have shifted their preferences towards Laptops and a new 
+product segment called Netbooks.  Because Bell Computer has not reduced its costs over this same timeframe, 
+profit margins and net income have deteriorated despite increases in revenue.
+ In order for Bell Computer Inc. to return to profitability, they must reduce their cost per unit sold.  The best 
+approach we identified was through an analysis of our competitors.  Using our competitors line-item costs as a 
+benchmark, we could potentially reduce our cost per box by $450.  This amounts to a total Net Income 
+improvement for laptops of roughly $13.5M.
+Bonus/Guide to an Excellent Case
+ An excellent interviewee will note:
+ Additional ways to improve net income by selling complimentary, high margin products such as:
+ Printers
+ Software
+ Parts upgrades
+ Warranties
+ Additional ways to cut costs, such as:
+ SKU Rationalization (Reducing the number of product models) 
+
+
+===== PDF p234 =====
+230
+Exhibit 1: Product Mix breakdown by Business Segment for 
+2005 and 2010
+PC Units(K) Sold in 2005
+PC Units(K) Sold in 2010
+*Note: Netbook PCs did not exist in 2005; “Other” products include Pocket PCs and Calculators 
+0
+0
+Consumer
+CorporateGovernment
+Consumer
+CorporateGovernment
+
+
+===== PDF p235 =====
+231
+Exhibit #2: ASPs by Business Segment 2005 and 2010
+*Note: Netbook PCs did not exist in 2005

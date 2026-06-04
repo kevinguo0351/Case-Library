@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2017_29_going-green",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 29,
+  "case_name": "Going Green",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer Products/Cannabis",
+  "difficulty": "Medium",
+  "pdf_page_start": 333,
+  "pdf_page_end": 343,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    337,
+    338,
+    339
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p337.png",
+    "exhibits/exhibit_p338.png",
+    "exhibits/exhibit_p339.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\29_going-green"
+}

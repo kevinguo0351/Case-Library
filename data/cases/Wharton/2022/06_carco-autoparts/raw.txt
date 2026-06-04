@@ -1,0 +1,198 @@
+===== PDF p63 =====
+Case 6: CarCo Autoparts
+Case Type: Profitability
+Difficulty Level: Easy 
+
+
+===== PDF p64 =====
+CarCo Autoparts
+Your client is CarCo, a mechanics and auto parts company in the MidWest. CarCo provides 
+automotive services to customers (tires, oil changes, engine repair, etc.). The business is family 
+owned and operated, and has historically generated $25 million in profits annually. Recently, the 
+business has experienced far lower profits than usual, namely $10 million. While the business is still 
+profitable, a similar drop in profits would be catastrophic. You have been hired to assess the root 
+cause of decreased profits and help turn the business around.
+Problem Statement
+Additional Information (Provide Upon Request)
+●
+CarCo only operates in the MidWest and candidate can assume it’s a single location 
+●
+CarCo mainly offers three products/services: regular tires, oil change, and engine overhaul
+●
+The profit decline is only observed in the last few years 
+●
+No specific financial target or timeline. CarCo just want to identify root cause and find 
+solutions to these problems
+
+
+===== PDF p65 =====
+Problem Statement
+Sample Framework
+1. Market issues (Not specific 
+to any company)
+A.
+Overall market for mechanic 
+services is declining due to 
+renewable energy and fewer 
+vehicles in the market
+B.
+Number of cars left 
+unchanged, but cars need 
+fewer repairs than they used 
+to, thereby shrinking market
+C.
+People fix cars themselves
+2. Revenue Increase for CarCo
+A. Prices have fallen 
+●
+Willingness to pay has fallen
+●
+Price war with competitors 
+●
+Economic hardship 
+B. Quantity sold has dropped (for 
+reasons apart from market issues)
+●
+Competitors stole market share
+○
+Client’s quality has deteriorated
+○
+Turnaround time has increased, 
+etc.
+3. Cost Increase for CarCo
+A. Fixed costs
+●
+Garage/facility rental
+●
+Utilities
+●
+Equipment
+●
+SG&A
+B. Variable costs
+●
+Labor costs - recruiting / training 
+●
+Particular car parts (software?)
+●
+Timing costs for lengthy repairs
+Business insights
+-
+A very good answer would hypothesize regarding the root cause of declining profitability. Ex: I doubt a mechanic’s costs would be in 
+the $15 million range, thus we should focus more on revenue and/or market factors
+-
+A very good answer leverages personal experience regarding what is happening in the world when commenting on the automotive 
+industry (Ex. shift to electric cars)
+CarCo Autoparts
+
+
+===== PDF p66 =====
+The company’s cost structure has remained constant, and there are no external market factors that 
+are relevant here. What are the revenue streams you would expect this mechanic to have?  
+CarCo Autoparts
+Q1: Identify Revenue Streams
+Sample Response
+1. Product
+●Hardware - tires, engines, 
+brakes, alternators
+●Software - speakers, radios, 
+touchscreens, chargers
+●Miscellaneous - oil, coolant
+2. Services
+●Yearly inspections
+●Winterizing, oil change
+●Post-accident repair
+●Scrapping the car
+3. Passive Income
+●Investments 
+●Property 
+
+
+===== PDF p67 =====
+CarCo does sell a mix of products and services to customers. Historically the total quantity of 
+products/services sold has remained constant at 1 million. In addition the prices of these offerings 
+have not changed at all according to the chart below. Can you explain what has happened, and 
+how you would suggest the client to increase profits?
+CarCo Autoparts
+Q2: Product/Service Mix
+Regular Tire
+$10
+$5
+Oil Change
+$30
+$15
+Engine 
+Overhaul
+$200
+$100
+Product
+Price
+**Margins are 50% across all product/service lines
+Profit Margin 
+(@50%)
+
+
+===== PDF p68 =====
+Despite a constant total number of products sold, customers have purchased proportionally more 
+tires and oil change and proportionally fewer engine overhauls. Thus, the declining profitability is 
+due to a switch from higher-margin items to lower-margin items. 
+Sample Response: Cause of Profit Decline 
+CarCo Autoparts
+Sample Response: Cause of Profit Decline 
+Sample Response: Revenue Opportunities
+1.
+Increase customer base or expand number of shops - may be tough if population is roughly constant
+2.
+Increase product offering to incentivize customers to buy more; bundled packages to increase spend
+3.
+Reduce the price of engines, as current profits are $100 and our competitors may have undercut us
+4.
+If the market is moving towards “do it yourself”, CarCo could sell engines without the service component; 
+also expand into selling DIY kits in product category
+5. 
+Marketing campaign in the community, or other promotions
+
+
+===== PDF p69 =====
+CarCo approaches you and is convinced the right strategy moving forward is adding Star Tires to its 
+product line. These tires would sell for $25 with a profit margin of 60%. What are the risks of selling 
+star tires?
+CarCo Autoparts
+Q3: Strategy Risks
+Cannibalization
+People who buy star tires will buy them instead of regular tires
+Customers
+Will our customers want to buy more expensive tires? They are already shying away from our more 
+expensive products. Are star tire shoppers our current customers or new customers?
+Brand
+As a family-owned business, would selling star tires force us to increase the service quality and become 
+a more premium brand? Would we lose business this way?
+Permanence
+Are star tires a fad? If they last much longer than regular tires, will they need to be replaced less often 
+and require less maintenance? 
+Execution
+Do we have a stable supplier, and do we have the inventory to support this? Can our mechanics change 
+these tires? 
+Sample Response
+
+
+===== PDF p70 =====
+Please provide a recommendation for our client 
+CarCo Autoparts
+Sample Recommendation
+Recommendation
+1. We discovered profits have fallen 60% due to drop of engine repairs being sold. While 
+our other products have sold better, the increase has been insufficient to compensate the 
+loss from engines
+2. The mechanic could change the pricing of engine overhauls to better compete in the 
+market - we would want to see what other mechanics charge
+3. CarCo could also explore adding on star tires since it is expected the profit margin will 
+be 60% (higher than current product / service line)
+Risks
+●Lowering engine overhaul price might further reduce profits if there is limited demand 
+in general
+●Cannibalization could take customers away from regular tires 
+Next Step
+●Further analyze the market demand and competitor pricing for engineer overhauls 
+●Conduct in depth cost-benefit analysis of adding star tires before pursuing the 
+opportunity

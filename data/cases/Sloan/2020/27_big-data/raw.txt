@@ -1,0 +1,162 @@
+===== PDF p138 =====
+Casebook | 2019-20 Edition 
+134 
+ 
+27. Big Data (BCG R2, TMT, Profitability, Balanced) 
+Stem: Our client is a big data firm that maintains a comprehensive database of information relating to 
+consumer purchases linked by credit card numbers. The client creates profiles of consumers that are 
+highly accurate and sells the data on buying patterns to retailers, financial service firms, etc. The 
+company has seen its performance stagnate recently, and has approached BCG to help turn things 
+around in the next 2-3 years. 
+ 
+If the candidate asks, the company measures performance by improving profitability. It does not have a 
+specific target to reach. The client is US-based, and although they’re located in the South East, they 
+have a national client base. They are not considering international opportunities at this time. 
+ 
+Candidate should lay out a structure that discusses short-term strategies for improved profitability, and 
+addresses the following areas for further evaluation: 
+ 
+● 
+Revenues – 
+o 
+Prices by product/data sold 
+o 
+Volume of sales to repeat customers vs new customers 
+o 
+Volume of sales by size of client 
+● 
+Costs – 
+o 
+Fixed costs – data center facilities, servers for data storage, SG&A, etc. 
+o 
+Variable costs – Data collection costs, energy costs to power data centers, etc. 
+● 
+Changes in the marketplace – competitors, alternative product offerings, demand changes, etc. 
+ 
+Let the candidate drive the case, if they go into an area other than costs allow them to delve deeper with 
+the rationale behind their suggestion before redirecting them to think of another way to improve 
+profitability. When the candidate asks about costs … 
+ 
+Phase 1: Brainstorm 
+ 
+Candidate: I think this may be a scenario where we could improve near-term profits by lowering our 
+costs, do we have any information on the operating costs for this company? 
+ 
+Interviewer: Yes, that sounds like a good place to start, why don’t you brainstorm a few of the costs that 
+may be important for our client? 
+ 
+Candidate can refer back to their stem if they’ve already thought of some, but should create a structured 
+list of costs that the company may have. Make sure that they identify sales cost before moving on. Once 
+the candidate has listed at least 4-5 costs present them with the following chart. 
+
+
+===== PDF p139 =====
+Casebook | 2019-20 Edition 
+135 
+ 
+Phase 2: Analysis 
+ 
+Interviewer: This seems like a pretty comprehensive list, we were able to gather the following information 
+from the client, what do you think given this data? 
+ 
+Candidate: It looks like 60% of our costs are coming from sales, although this is a revenue generating 
+aspect of the business, I wonder if it isn’t an area we can cut some expenses from. Do we have more 
+information on our sales costs? Specifically, I’d like to know the size of the sales force so we can 
+determine the cost per employee and determine the impact and feasibility of any cuts. 
+ 
+Phase 3: Additional Brainstorm 
+ 
+Interviewer: Good point, we do in fact have some information from the client. They break their sales 
+force down by the size of the customers they sell to. They have three groupings: large, medium, and 
+small. The large clients have a sales force of 50 employees, medium have 175, and small have 375. 
+How should we go about prioritizing which area to look into? 
+ 
+Candidate can come up with multiple ways to gauge the value of each employee, let them brainstorm 
+until they come to analyzing revenue per sales person for each segment. 
+ 
+Phase 4: Additional Analysis 
+ 
+Candidate: I think I would like to look at how much revenue each of these groupings is responsible for, 
+and then I can calculate how much revenue each sales person generates for the company. 
+ 
+Interviewer: Yes, let’s do that. Large customers are responsible for $40M in revenue, medium for $40M, 
+and small for $20M. 
+ 
+Let the candidate structure this into a table, but before they calculate revenue per employee … 
+ 
+Interviewer: While we could calculate revenue per employee as it stands today, the client does have an 
+idea of what an optimal revenue per salesperson would be. They think for large customers they should 
+have $400K in revenue per employee, for medium $200K, and for small $80K. 
+
+
+===== PDF p140 =====
+Casebook | 2019-20 Edition 
+136 
+ 
+Candidate should come to the following table and derive the # of employees to add/remove 
+ 
+Sales Force 
+Revenue 
+Optimal 
+Rev/Employee 
+Optimal Sales 
+Force 
+Implied +/- 
+Large 
+50 
+$40M 
+$400K 
+100 
++50 
+Medium 
+175 
+$40M 
+$200K 
+200 
++25 
+Small 
+375 
+$20M 
+$80K 
+250 
+-125 
+ 
+Candidate: It looks like we can restructure where some of our sales force focuses their efforts in order to 
+improve customer service, and we can also reduce overall headcount by 50. 
+ 
+Interviewer: What would be our overall annual savings as a result of this? 
+ 
+Candidate: I would need to know the annual cost per employee, do you happen to have that information? 
+ 
+(Candidate could have solved this on their own given the chart, but if they did not notice this provide them 
+with the following) 
+ 
+Interviewer: Yes, we know that each person works 40 hrs/week and earns $12.50 an hour. You can 
+assume 50 weeks in a year. 
+ 
+Candidate: We would save $25K per employee, or $1.25M annually. We would also want to consider 
+any severance costs as well as morale on the rest of our sales force when looking into this option. 
+ 
+A strong candidate will refer back to the chart discussed earlier to provide context for how much savings 
+this represents. If there is time left prompt them to do so, otherwise continue on to the recommendation. 
+ 
+****************************************************************************** 
+(optional) 
+Interviewer: How much would this represent as a percentage of cost reduction? 
+ 
+Candidate: We had $25M in costs before, and we would eliminate $1.25M which represents 5%. 
+ 
+Interviewer: What about the impact on profitability? 
+ 
+Candidate: We had 75% margin prior to the reduction ($100M-$25M/$100M) and we now have a 76.25% 
+margin ($100M-$23.75M/$100M; or preferably solve for the difference $1.25M makes) thus a margin 
+improvement of 1.25%. We can see that the cost savings go right to the bottom line, which is meaningful. 
+ 
+(they could also solve that 76.25%/75% ~ 1.5% increase) 
+ 
+****************************************************************************** 
+Phase 5: Recommendation 
+Interviewer: Very good, what would be your recommendation to the client? 
+ 
+Candidate should state their recommendation concisely and up front, provide relevant supporting 
+information, and identify next steps. 

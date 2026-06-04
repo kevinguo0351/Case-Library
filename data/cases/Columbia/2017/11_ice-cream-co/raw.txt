@@ -1,0 +1,225 @@
+===== PDF p102 =====
+Case # 11 - Ice Cream Co.
+Our client is Ice Cream Co, a mid-size ice cream retailer in the Southeast region. You have been working 
+with the VP of Sales & Marketing to figure out why profitability is down 20% in the last year. She has hired 
+you to find out why this is happening and how to fix it.
+Problem Statement Narrative
+Industry: 
+Retail
+Case Type: 
+Profitability
+Firm:
+KPMG
+• Profitability
+• Cost Cutting
+• Creativity
+• Mental math
+Concepts Tested
+Case # 11: Ice Cream Co.
+This case is a mix of brainstorming with lighter quantitative analysis (mostly to identify glaring trends). The 
+interviewer asked additional qualitative questions along the way (i.e. why do you think that is? Why is that 
+number high?) and also acknowledged that the case was relatively vague.
+Case Notes
+Structure
+Creativity
+Math
+Easy
+Medium
+Medium
+98
+
+
+===== PDF p103 =====
+Sample Framework
+Profitability
+Revenue: # of units sold * price per unit
+Costs: Fixed Costs + Variable costs per unit
+Ice Cream Industry
+Competitive Landscape
+Customer Preferences
+Market Trends
+Internal Capabilities
+Distribution & Supply Networks
+Sales & Marketing
+Competitive Advantage
+Product Development
+Ways to Increase Profitability
+Introduce a new product
+Increase Sales & Marketing efforts
+Expand new distribution/supply channels
+Grow via a partnership (M&A, JV, Outsource)
+Cost cutting initiatives
+Sample Framework
+This case prompt is vague and the interviewee should 
+ask clarifying questions to get more information 
+upfront to complete the framework.
+This is a profitability case, but it is also important for 
+the interviewer to identify that a root cause of the issue 
+is a new competitor with an innovate new business 
+model (i.e. Uber-like delivery of ice cream). 
+Guidance for Interviewer
+• Profitability has decreased by 20% over the last year, 
+but costs have remained flat.
+• There are three main competitors in the market.  All 
+of them have experienced similar declines in 
+profitability and market share in the last 5 years.
+• This is because there is a new ice cream company in 
+town with similarly priced ice-cream products but a 
+new business model. They do not have retail 
+locations, but instead partner with a ride-sharing 
+service to distribute their product. The customer 
+pays an extra $1 delivery fee per product to use the 
+service (that goes to the ride-sharing partner but ask 
+the interviewee how they think it is split). 
+Clarification Answers if Asked 
+99
+Case # 11 - Ice Cream Co.
+
+
+===== PDF p104 =====
+• Major ice cream retailer in the Southeast region 
+that purchases their ice cream from a distributor 
+and sells pints at their store locations. 
+• They only sell pre-packaged pints (i.e. there are 
+not like a Baskin Robbins that scoops ice cream 
+cones/cups in the store). 
+Company
+•
+There are three main competitors in the market 
+and all of them have experienced similar 
+declines in market share over the last year. 
+•
+There is a new ice cream company in town with 
+similar prices/product but a new business 
+model. They do not have retail locations but 
+instead partner with a ride-sharing service to 
+distribute their product. The customer pays an 
+additional $1/pint for the delivery fee that goes 
+directly to the ride sharing partner. 
+Market
+• Costs have remained flat
+•
+Variable Costs: $1.45 / pint
+•
+On average, fixed costs per store are:
+•
+$5,000/month in labor
+•
+$2,000/month in rent
+•
+$1,000/month in utilities 
+•
+$1,500/month (other, including 
+insurance and security)
+Costs
+• Profitability has been down by 20% in the last 
+year in same store sales
+• On average, each store sells 2,000 pints/month 
+at a price of $6.25 each.
+Revenues
+Additional Info / Areas for Analysis
+100
+Case # 11 - Ice Cream Co.
+
+
+===== PDF p105 =====
+Question #1
+Calculate the average monthly profit for each store
+Follow up question – how can the client increase those margins?
+Question #1
+Contribution Margin: $6.25 - $1.45 = $4.80 per pint
+Monthly Revenue per Store: $4.80 per pint * 2,000 pints sold = $9,600 revenue
+Monthly profit = $9,600 - $9,500 in fixed costs = $100/month (1.04% profit margin)
+•
+The interviewee should proactively mention that this is a low figure.  If not, prompt them on 
+their thoughts to assess business judgment.  Bonus if they calculate profit margin % and use in 
+their argument.
+How can the client increase those margins?
+•
+Fixed costs are extremely high so look at ways to cut costs
+•
+Interviewee should notice that labor is almost 50% of costs – how can the client lower this? By 
+reducing hours, staffing less people in the stores, hire lower-skilled labor at lower wages, etc. 
+•
+Lower the price to increase volume 
+•
+However, do this if the client can cut costs first because the current margin is so small.  
+•
+Look at value-add opportunities and increase the price
+•
+Can the client bundle with other items or add any other features to increase consumer’s WTP 
+(customizable pints – ordered online, package in the distribution center, pickup in store)?
+Solution
+101
+Case # 11 - Ice Cream Co.
+
+
+===== PDF p106 =====
+Question #2
+Question #2
+The ride-sharing ice cream competitor charges $6.25 per pint but also adds a $1 delivery fee. They are 
+considerably more profitable than Ice Cream Co. Why do you think that is? 
+•
+The interviewee should hypothesize that the competitor has a significant cost advantage (as the products 
+are similar). Both companies charge the same price for a pint of ice cream so the difference comes down 
+to this hypothesis. 
+•
+The interviewee should highlight the need to compare the cost structure between the client and the new 
+competitor
+•
+Ice Cream Co. has very high fixed costs (rent, labor, etc.) because they operate out of retail 
+locations without much value-added services. 
+•
+Competitor has lower fixed costs because they do not have retail locations and only sell their ice    
+cream via the ride sharing service. Potential costs they might have are:
+•
+Distribution/transport 
+•
+Inventory management system
+•
+Rent and operating costs on their warehouse
+•
+Fees associated with the ride-sharing service partnership 
+•
+The $1 delivery fee is given 100% to the ride sharing partner (to incent the partnership) but ask the 
+interviewee for their opinion first to see how they respond before explaining that the $1 is to incent the 
+partner. 
+Solution
+102
+Case # 11 - Ice Cream Co.
+
+
+===== PDF p107 =====
+Conclusion
+• Currently each store only makes $100 monthly 
+profit (or 1%), so the client need to increase that 
+profit margin in order to invest in new ways to 
+drive company growth and gain back market 
+share from the competition.
+Rationale
+• In order to compete with the new competitor, Ice 
+Cream Co. must first increase its margins by 
+reducing costs and finding ways to increase sales 
+volume.  
+Recommendation
+• Meet with the client to dive deeper into their cost 
+structure to find ways to reduce both fixed and 
+variable costs. 
+• Gather store-specific cost data (as it was 
+presented in averages) to rationalize reductions 
+or shutdowns.  Consider reducing headcount in 
+higher cost labor stores, or close stores with 
+higher-than-average rent with lower-than-
+average sales. 
+Next Steps
+• The current fixed costs (rent, labor, etc.) might 
+be under long-term contracts and therefore the 
+client cannot implement short-term reductions.
+• There might be new entrants to the market with 
+other new business models, products, etc. that 
+might continue to steal into Ice Cream Co.’s 
+market share if they do not implement strategic 
+changes quickly. 
+Risks
+103
+Case # 11 - Ice Cream Co.

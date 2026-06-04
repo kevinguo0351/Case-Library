@@ -1,0 +1,105 @@
+===== PDF p217 =====
+Casebook | 2019-20 Edition 
+213 
+ 
+57. UK Banking (McKinsey R2, Fin Services, Profitability, Balanced) 
+Part 1: brainstorming 
+ 
+Interviewer: We are consulting for a UK consumer bank in 2010. The client offers products including 
+credit cards, debit cards, insurance, mutual funds, checking accounts, and mortgages. Its mutual fund 
+business, called Mutual Co., has experienced a decline in profitability over the past 5 years. It sells to new 
+accounts through both its direct channel of in-house tele-sales representatives and indirectly cross-selling 
+its mutual fund products through its insurance business. Mutual Co. earns revenue by charging an annual 
+fixed percentage management fee times each account balance. Mutual Co.’s new CEO has hired 
+McKinsey to identify why profitability has declined within the unit and to recommend specific actions to 
+improve it. 
+ 
+Candidate: Let’s identify what is causing the decline in profitability and then figure out what actions can 
+be taken to reverse the trend. 
+ 
+Note: Candidate should generate a MECE structure, such as internal/external or revenue/cost. If 
+candidate does not have a MECE structure, press the candidate. When the candidate is done ask for a 
+few more drivers! 
+ 
+Example MECE structure: 
+ 
+1) Revenue might be falling; this could be caused by a decline in assets managed or a reduction of 
+the fee % charged per asset. A decline in assets could be caused by a reduction in the number of 
+accounts or in the average balance per account. 
+ 
+2) Alternatively, costs could be increasing. Fixed costs that could be increasing could be compliance 
+costs caused by recent financial reform legislation including Dodd-Frank, or by general SG&A 
+increases. Variable costs could be increasing due to increase exchange fees/transaction, 
+paperwork costs/transaction, or customer service costs (which in turn could be caused by an 
+increase in the time spent per customer service call or the number of customer service calls). 
+Note: Only provide the following pieces of information in response to questions from the candidate: 
+ 
+- 
+Variable costs have not increased 
+- 
+Fixed costs have not increased 
+- 
+The number of accounts hasn’t decreased 
+- 
+Competitors have experienced a similar decline in profitability 
+Note: The candidate should identify that the only remaining factor is that the average balance per account 
+must have decreased. If after several minutes of brainstorming the candidate does not identify this is the 
+cause, guide him to this cause (or state it explicitly) and move on to the next section. 
+ 
+Part 2: account balance 
+ 
+Interviewer: Over the past five years, the average account balance has decreased. Why do think that 
+might be? 
+ 
+Candidate: One cause might be the financial crisis. On average, US equity prices are lower than they 
+were in 2007… it’s probably the same in the UK. 
+ 
+Interviewer: Yes, the client believes that is the primary cause and would like to know what the average 
+account balance would need to be to have a 10% profit margin. 
+ 
+Note: Only provide the following pieces of information in response to questions from the candidate: 
+ 
+- 
+Management Fees are 0.5% of the account balance 
+
+
+===== PDF p218 =====
+Casebook | 2019-20 Edition 
+214 
+ 
+- 
+There are 1,000,000 accounts 
+- 
+The average account balance is currently $5,000 
+- 
+The costs of managing each account are $20 (these are the variable costs) 
+- 
+All other costs are $35M in total (these are the fixed costs) 
+Candidate: First, I will calculate the costs per account. Then, I will multiply by 1.11 to calculate the 
+revenue necessary to achieve a 10% profit margin. Finally, I will divide that by the management fee 
+percentage to find the average account balance necessary to achieve that profit margin. 
+ 
+Interviewer: That seems like a logical approach. 
+ 
+Candidate: Fixed costs are $35M, supporting 1M accounts. Thus, each account has on average $35 of 
+fixed costs. Since variable costs are $20/account, total costs per account are $55. To achieve a profit 
+margin of 10%, there would therefore need to be an average of just over $61/account of management 
+fees. Since management fees are 0.5% of the account balance, that means the minimum average 
+account balance needs to be $61/0.005 = $12,200. 
+ 
+Part 3: profitability 
+ 
+Interviewer: Great job! Next, the client would like us to help them think of specific actions they can take 
+to increase profitability. Have any ideas? 
+ 
+Note: Candidate should generate a MECE structure, revenue/cost. If Candidate does not have a MECE 
+structure, press the candidate. When the Candidate is done ask for a few more ideas! Example ideas 
+include: Revenue: review/improve the incentives that the parent company’s indirect sales force have to 
+sell Mutual Co.’s products, have a new promotion, see whether the management fee percentage is below 
+industry average and can be safely raised depending on demand elasticity, and expanding 
+geographically. Variable Costs: ensuring the client is using electronic communications rather than paper 
+costs ($20/account seems like a lot of variable cost!) and using 3rd party mutual funds rather than those 
+managed in house (may be cheaper). Fixed Costs: consolidate support functions (HR, IT, Finance) with 
+the parent company, consolidate locations to save on rent expenses. 
+ 
+Interviewer: Wonderful. So, tell me about an achievement you are particularly proud of? 

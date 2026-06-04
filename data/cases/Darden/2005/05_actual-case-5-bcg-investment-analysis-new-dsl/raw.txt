@@ -1,0 +1,145 @@
+===== PDF p14 =====
+Actual Case #5 
+Company:  BCG  
+ 
+Case Description 
+An investment and profitability analysis case. 
+ 
+Question 
+Our client is a telecommunication company in Spain.  It has the possibility of offering a 
+new service called New-DSL.  
+ 
+Management is considering two options: 
+ 
+1) Offering it to both the retail division and competitors. 
+This option would increase the market size by 50%. 
+2) Offering it only to its retail division (and not to competition) 
+This option would increase the market size only by 20%, and the client’s retail 
+division would capture all the market. 
+ 
+The investment needed to go for this New-DSL technology would be 800€ millions. 
+ 
+You have been hired to recommend the client about whether pursue this New-DSL 
+technology or keep the current DSL system. In case of going for the New-DSL, you 
+should also suggest which option you think is better and why. 
+ 
+In addition to the financials, and regardless of the results, which option (between the two 
+in the New-DSL system) is strategically better? 
+ 
+Initial data to be given  
+The client currently offers an Internet connection service based on DSL technology. This 
+technology is mature and is in the fifth year after its launch. The company has two 
+divisions, wholesale and retail. 
+ 
+In the retail segment, our client only has 40% of the market share, whereas competition 
+has the remaining 60%. 
+In the distribution business, however, it has a monopoly, meaning that all retailers 
+(including its own division) have to buy from them: 
+ 
+Distribution ----------- Retail division (40%) ----------- Final Client 
+        -------------------- Competition    (60%) ----------- Final Client 
+ 
+The current market size is 5 million customers. 
+ 
+Both wholesale and retail price are fixed by the law in 12€/month and 20€/month 
+respectively. The wholesale cost is 10€/month, whereas the retail cost to provide the 
+service is 7€/month.  New-DSL technology would have the same cost/price structure as 
+that of its existing DSL technology. 
+ 
+ 
+Darden Casebook Supplement 2005 Version 1.0 
+9
+
+
+===== PDF p15 =====
+Additional data to be provided when asked 
+All the information has been provided at the beginning. 
+ 
+Frameworks that might be used 
+Profitability analysis, net present value (NPV) calculation. 
+ 
+Solution 
+The candidate should approach this case both from a financial and strategic perspective. 
+ 
+In order to proceed with the numbers, s/he has two possibilities: estimates either the 
+profit from each option or the changes in profit the new-DSL would trigger. 
+ 
+Although the latter approach is taken as shown in the solutions, both approaches should 
+yield the same results. 
+ 
+OPTION 1: 
+ 
+Offer New-DSL to both retail division and competition 
+50% of market increase (from 5M to 7.5M). 
+Since we have 40% of the market share, we already had 2M. Adding 40% of the new 
+2.5M, we would have 3M in total. The competition would capture 1.5M of the new 
+market. 
+ 
+New profit for the company: 
+ 
+    - Sale from wholesale division to competition. 
+          (12€ of revenue - 10€ of cost) x 1.5M = 3M € / month 
+           In 12 months Î 3x12 = 36M € / year 
+    - Sale from wholesale to retail division 
+          We should not take into consideration this part because it is a transaction 
+          between divisions of the same company 
+    - Sale from retail division to end user 
+          (20€ revenue - 17€ cost) x 1.0M users = 3.0M € / month 
+          In 12 months Î 3x12 = 36M € / year 
+ 
+TOTAL of 72M € per year 
+ 
+We can assume a 5 year lifetime (the same the old DSL technology had): 
+ 
+ 
+       Year     0     1    2     3    4     5 
+        CF   -800  72  72   72   72   72 
+ 
+Regardless of the discount rate, this is clearly not a profitable business.  
+ 
+ 
+ 
+ 
+Darden Casebook Supplement 2005 Version 1.0 
+10
+
+
+===== PDF p16 =====
+OPTION 2 
+ 
+Offer New-DSL only to our retail division 
+ 
+20% of market increase (from 5M to 6M) 
+Having 40% of the market share, we already had 2M. Since in this case, the company 
+would capture all the market the new customer base is 6M (no leftover to competitors) 
+New profit for the company: 
+ 
+     - Profit lost due to not selling to competition (we no longer sell 3M users to  
+competition) 
+       (12€ of revenue - 10€ of cost) x 3M = 6M € / month 
+        In 12 months Î 6x12 = 72M € 
+      - Sale from retail division to end user 
+       (20€ revenue - 17€ cost) x 4.0M users = 12.0M € / month 
+       In 12 months Î 14x12 = 144M € 
+ 
+TOTAL of 72M € per year 
+ 
+Assuming the same 5 years of lifetime: 
+ 
+    Year     0     1    2     3    4     5 
+    CF    -800  72  72   72   72   72 
+ 
+Clearly, this is not profitable either. 
+ 
+Conclusion: After showing that neither option is profitable, the client should stick with 
+its DSL technology as long as it manages the monopoly in the distribution business. 
+ 
+Strategically, however, and given the fact that the candidate has to choose between the 
+two options for the New-DSL, option 2 could be interesting because we would expand 
+our monopoly to the retail segment. However, it could imply legal implications. In 
+addition, it could be dangerous because retails might join and create a distributor business 
+and compete with us face-to-face in both segments. 
+Therefore, and given that both options are similar economically, option 1 would be more 
+recommendable for the long run. 
+Darden Casebook Supplement 2005 Version 1.0 
+11

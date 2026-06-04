@@ -1,0 +1,461 @@
+===== PDF p97 =====
+Case 9: Chickflix.com
+Introduction
+Introduction
+93
+P
+bl
+St t
+t
+ti
+The last period financial figures just came out, and Chickflix.com’s gross profit margin has decreased for two years in a row. The CEO has 
+hired you to recommend a solution.
+Problem Statement narrative
+Information to be provided upon request
+Chickflix.com is a online website similar to Netflix. What’s 
+unique about Chickflix is that it targets only women and carries 
+a majority of titles that could be described as ‘chick flicks’
+Overview for interviewer
+The unique feature about Chickflix is that its variable cost are not 
+a function of sales volume, but of other drivers (such as average 
+number of movies returned per month)
+j
+y
+Clients sign up online, order online, receive the movie and mail 
+it back
+More specifically, Chickflix.com offers 3 subscription models (1, 
+p
+)
+Interviewee should show understanding of the revenue and cost 
+structure, identify the increase in cost and recommend a course of 
+action
+2 or 3 movies at a time)
+Case type: profitability 
+
+
+===== PDF p98 =====
+Case 9: Chickflix.com
+Potential Issue Tree & Approach
+Potential Issue Tree & Approach
+94
+Wh h
+fit
+i d
+d? H
+thi b
+d?
+Why has gross profit margin decreased? How can this be reversed?
+Chi kfli R
+Chi kfli C
+Is it a revenue issue, cost issue or both?
+M
+k
+C
+i i
+What caused it? Systemic / Chickflix specific?
+
+Changes in key revenue 
+drivers:
+•
+Price
+•
+Subscription mix
+Chickflix Revenues
+
+Key cost drivers:
+•
+Fixed costs
+•
+Administrative
+•
+Variable costs:
+Chickflix Cost
+
+Changes in demand?
+•
+Market size
+•
+Demographics
+•
+Technology / new
+Market
+
+Changes in supply?
+•
+New competition
+•
+More rivalry
+•
+Less movies sold
+Competition
+•
+Number of 
+customers
+•
+Distribution
+•
+DVD amortization
+substitutes
+by studios
+Follow-up and guidance
+Follow-up and guidance
+Follow-up and guidance
+Follow-up and guidance
+•
+1 movie at a time 
+subscription model 
+introduced 1.5 yrs ago
+•
+Growing # of customers 
+and revenues
+•
+Insignificant fixed costs
+•
+DVD amortization 
+considered variable
+•
+Distribution cost flat on a 
+per unit basis
+•
+No changes in overall 
+demand or in demand from 
+target audience (women)
+•
+No changes in customer 
+preferences
+•
+No other competitor in 
+Chickflix’ niche
+•
+Margins for competitors 
+like Netflix are not 
+decreasing
+•
+Unchanged prices
+•
+Studios keep selling
+
+
+===== PDF p99 =====
+Case 9: Chickflix.com
+Exhibit A – Revenue growth and mix
+Exhibit A – Revenue growth and mix
+95
+
+Subscription 1:
+Revenues (M$)
+Subscription models
+
+1 movie at a time
+
+$9.99 / month
+
+Subscription 2:
+
+2 movies at a time
+
+$14.99 / month
+
+Subscription 3:
+
+3 movies at a time
+
+$19.99 / month
+
+
+===== PDF p100 =====
+Case 9: Chickflix.com
+Exhibit B – Variable cost per unit
+Exhibit B – Variable cost per unit
+96
+
+Distribution:
+
+Primarily Mailing cost
+Variable cost per unit ($)
+Components of variable cost
+
+Primarily Mailing cost
+
+Content amortization
+
+Straight line amortization of movies (30 rentals = 
+useful life)
+
+Considered variable because DVD library is a 
+function of rental volume
+function of rental volume
+
+Allowances
+
+Allowance for movies lost in mail
+
+Other
+
+DVD cases repair, etc..
+
+
+===== PDF p101 =====
+Case 9: Chickflix.com
+Interviewer guide
+Interviewer guide
+97
+Interviewee should identify takeaways from Exhibits A 
+& B
+Interviewer should then request analysis
+
+Evaluate gross profit margin for each Subscription type
+
+Calculate price required for subscription 1 and 2 to
+
+Revenues are growing for all subscriptions
+
+Variable costs are not a function of subscription volume, 
+
+Calculate price required for subscription 1 and 2 to 
+provide a gross profit margin equal to Subscription 3’s
+
+Data for interviewee:
+
+Provide Exhibit C
+but of number of movies returned per month
+
+Therefore, the 2 key gross profit drivers are:
+
+Subscription mix
+
+Average rentals per month
+
+
+===== PDF p102 =====
+Case 9: Chickflix.com
+Exhibit C – Revenue and rentals data
+Exhibit C – Revenue and rentals data
+98
+Revenues
+# Customers
+S1
+S2
+S3
+Total
+2008
+-
+$12M
+$8M
+$20M
+S1
+S2
+S3
+Total
+2008
+-
+67K
+33K
+100K
+2009
+$5M
+$16M
+$10M
+$31M
+2010
+$13M
+$18M
+$11M
+$42M
+2009
+42K
+89K
+42K
+172K
+2010
+108K
+100K
+46K
+254K
+Average rentals per customer per month
+S1
+S2
+S3
+2008
+-
+7.5
+8.2
+2009
+5.6
+7.3
+8.1
+2010
+6 0
+7 5
+8 0
+2010
+6.0
+7.5
+8.0
+
+
+===== PDF p103 =====
+Case 9: Chickflix.com
+Interviewer guide
+Calculating price
+Interviewer guide - Calculating price
+99
+Q2: Calculate gross profit margin for Subscription 3 
+(using 2010)
+Q3: Calculate required profit margin for S1 & S2 / 
+Identify S1 is at a loss
+
+Subscription 1:
+
+Average rentals per month
+
+Revenue per month per customer 
+= $20
+
+Average rentals per month
+= 6 movies
+
+Required subscription price:
+(P-1.85*6)/P = 30% Æ P=$15
+or: P = $2.5*6 = $15
+
+Subscription 2:
+ $20
+
+Average rentals per month 
+= 8 movies
+
+Revenue per rental 
+= $20/8=$2.5
+
+Required subscription price:
+P = $2.5*7.5 = $18.75
+
+Bonus: identify that Chickflix is selling S1 at a loss:
+
+Gross profit margin:
+= ($10-$1.85*6)/$10 = -5%
+
+Cost per rental 
+= $1.85
+
+Gross Profit margin
+= ($2.5 - $1.85) / $2.5 = 30%
+
+
+===== PDF p104 =====
+Case 9: Chickflix.com
+Interviewer guide
+Interviewer guide
+100
+Interviewee should identify takeaways from price 
+calculation
+Interviewer should then request analysis
+
+Challenge interviewee to critically evaluate the client’s 
+financial performance
+
+Subscription 3 is more profitable than the other models
+
+Subscription 2 is still profitable but Subscription 1 is not
+
+Revenues have grown but:
+
+Subscription 2 is less profitable than 3, and
+
+Subscription 1 is selling at a loss
+Æ Chickflix is subsidizing its own growth (selling at a 
+loss)
+
+Subscription 2 is still profitable, but Subscription 1 is not
+
+But, increasing prices may lead to a drop in customers
+loss)
+
+What recommendation would you give the client to 
+improve?
+
+
+===== PDF p105 =====
+Case 9: Chickflix.com
+Brainstorming solutions
+Brainstorming solutions
+101
+
+Re-evaluate the subscription models
+
+add maximum monthly returns
+
+Restructure S1 into a profitable model
+Healthy Revenue Growth
+
+Negotiate volume discounts to decrease distribution cost 
+
+E
+S2 & S3
+t
+t
+il
+th
+i
+Cost Rationalization
+Restructure S1 into a profitable model
+
+Test customers price elasticity between S1, S2 and S3. Use 
+findings to price each subscription correctly
+
+Targeted advertising to increase customer base
+
+E
+d i t
+th
+i h
+& hild
+i
+
+Encourage S2 & S3 customers to mail more than one movie 
+together
+
+Promote rentals of older movies (with a lower content 
+amortization cost)
+N
+i
+i h
+i
+di
+d
+DVD
+
+Expand into other niches: men & children movies
+
+Negotiate with movie studios to reduce DVD cost
+
+
+===== PDF p106 =====
+Case 9: Chickflix.com
+Final recommendation
+Final recommendation
+102
+R
+d ti
+ Chickflix has grown revenues by adding customers in S1 & S2. It has subsidized S1 with proceeds 
+from S2 & S3 as S1 earning negative margins.
+Chi kfli
+d
+S1
+i
+fi
+bili
+Recommendation
+ Chickflix needs to restructure S1 to return it to profitability. 
+ Adjusting price is an alternative. Chickflix should also rationalize cost and start by focusing on the 2 
+main cost components: distribution cost and content amortization. 
+ Moving forward, Chickflix should evaluate entering other market niches.
+Risks
+ Adjusting prices could lead to cannibalization with customers from S3 switching to S2 and those from 
+S2 to the newly restructured S1.
+ Chickflix needs to identify the premium offering that S2 and S3 have.
+ Chickflix should be cautious when restructuring S1, so that customers are not lost
+Next Steps
+ Analyze customers’ price elasticity for different subscription types
+ Renegotiate contracts with distributors and movie studios

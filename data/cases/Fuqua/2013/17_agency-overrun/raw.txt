@@ -1,0 +1,136 @@
+===== PDF p141 =====
+Case 19: Agency Overrun
+Prompt #1
+A federal agency has 160 offices and stores inventory in 40 warehouses across the country. 
+Each office has it’s own property management and inventory processes, allowing the offices 
+to access inventory from any of the 40 warehouses.  The agency has difficulty tracking 
+assets, and estimates that only 10% of all assets are tracked in it’s tracking system.  The 
+agency also estimates that 2% of all assets are now permanently lost.  
+What is a long-term strategy to improve the asset management process? 
+Guidance
+Candidate should ask clarifying questions about the issues and then form a framework to attack the 
+problem, including systems, offices and warehouses.
+Information to be given upon request:
+1) Inventory consists of assets such as cars, other motor vehicles, laptops, printers, and other 
+office equipment.
+2) Property management IT systems vary across offices, and project management systems are 
+inconsistently used from office to office
+3) Property management IT systems are inconsistent across warehouses
+4) There is no barcoding of assets (no tracking number is assigned to any assets that enter the 
+system). Assets are associated with an employee’s name and have no other identifiable marking
+5) Assets that are not currently in use are rarely entered into the property management system, 
+making it likely that an office will order a brand new assets when there are unused assets 
+elsewhere in the agency
+6) Equipment is occasionally traded and leased between offices.  It is unclear which office owns the 
+equipment (for accounting purposes) and which office currently has possession of the assets
+7) An individual office can order from any of the 40 warehouses regardless of whether it is the most 
+cost effective.
+8) Many warehouses are small in size and were created with little thought to the cost effectiveness 
+of the warehouse. Approximately 10 large warehouses exist and the remaining 30 are small
+Specialty 
+137
+
+
+===== PDF p142 =====
+Case 19: Agency Overrun
+Prompt #2
+What information do you want to gather to understand and analyze the current 
+organizational issues? 
+Guidance
+Candidate should come up what information to seek (underlined), & interview provides italicized info:
+1) Who has procurement authority
+• Procurement authority varies by office. Offices exist in silos and there is little 
+communication between offices. 
+• Offices have grown over the years, and many offices now have overlapping procurement 
+responsibilities. For example, one office has a designated Head of Procurement, but many 
+supervisors bypass the Head of Procurement
+2) What are current processes in place to obtain and track assets
+• The employee fills out a purchase order (in hard copy) and hands the it to the office’s 
+designated Head of Procurement or to their immediate supervisor.  
+• The purchase order is almost always approved for purchase and is rarely checked against 
+existing inventory.  When the asset arrives, it generally goes directly to the person who 
+ordered it without being entered into the office’s system by the Head of Procurement.  
+• Once the asset is delivered to the employee, it is rarely tracked and employees are not 
+held accountable for these assets when they leave the agency
+3) Process to trade assets within offices
+No process is in place and no guidelines exist
+4) Current IT systems in place across the different offices and warehouses to track the assets
+• The agency does not have a top-down communication system to coordinate the purchase 
+and tracking of assets throughout the agency
+• Some offices use a homegrown database to track assets
+5) Who has the ability to champion this project within the agency
+• The Chief of Procurement who resides at the agency level
+• Within individual offices, the champion and affect change varies
+6) Location of current records so the assets currently in use can be moved to an automated system
+• Varies by office and they will be difficult to locate
+Specialty 
+138
+
+
+===== PDF p143 =====
+Case 19: Agency Overrun
+Prompt #3
+How would you obtain the information you just outlined? 
+Guidance
+Possible answers include: 
+1) Review the existing procurement policy 
+2) Obtain an organizational chart to understand who has  procurement authority at the overall 
+agency level and within the individual offices
+3) Interview key stakeholders to understand their perspective of the process and the current 
+challenges the agency faces with the existing process
+4) Interview Head of Procurement within several offices to understand how process varies by office 
+(should also talk to employees who complete purchase orders and stakeholder in the 
+warehouse)
+5) Review existing purchase orders to understand redundancies in equipment ordered and to 
+understand which warehouse locations offices are receiving the assets from
+6) Review existing system with IT champion
+Specialty 
+139
+
+
+===== PDF p144 =====
+Case 19: Agency Overrun
+Prompt #4
+What is your recommendation? 
+Guidance
+Candidate should come up with one or two options (short term and long term).  Possible answers 
+include:
+1) Centralize purchase authority
+2) Improve coordination among offices and warehouses to reduce redundancies in personnel and 
+assets
+3) Revamp procurement guidelines and enforce those guidelines to track equipment throughout 
+agency
+4) Implement policy that equipment must be returned to procurement pool before it is loaned or 
+leased 
+5) Implement database that spans offices and warehouses so there is real time information 
+regarding inventory levels and asset location within agency
+6) Centralize the warehouses and reduce number of  warehouses from 40 to a more reasonable 
+number. Start by closing some of the 30 smaller warehouses and consolidating to the 10 main 
+warehouses. Understand which warehouses are centrally located and close any that are 
+redundant (based on location)
+7) Outsource procurement to a private entity to close warehouses altogether. If this is 
+recommended, candidate should mention that a centralized approval and tracking system is still 
+needed within the agency
+Specialty 
+140
+
+
+===== PDF p145 =====
+Performance 
+Evaluation
+Expected:
+• Candidate will ask about the current procurement process and the loaning of equipment
+• Candidate will quickly identify that the procurement process is done on a largely ad-hoc basis and 
+recommend structuring this process
+Good:
+• Candidate will consider not just the process and technology involved, but also the human capital 
+aspects and 
+• Candidate will understand that getting agency buy-in is key to executing a strategy within the 
+federal government. 
+Excellent:
+• Candidate may explore ideas involving the centralization of the warehouses to eliminate 
+redundancies.
+• Candidate may explore ideas involving the recovery of existing assets  and how to enter and track 
+those in the system. 
+Case 19: Agency Overrun
+141

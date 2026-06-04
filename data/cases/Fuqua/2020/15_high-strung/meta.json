@@ -1,0 +1,36 @@
+{
+  "case_id": "Fuqua_2020_15_high-strung",
+  "school": "Fuqua",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2020.pdf",
+  "idx": 15,
+  "case_name": "High Strung",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Non-profit/Arts",
+  "difficulty": "Medium/Hard",
+  "pdf_page_start": 194,
+  "pdf_page_end": 207,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    207
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p198.png",
+    "exhibits/exhibit_p199.png",
+    "exhibits/exhibit_p200.png",
+    "exhibits/exhibit_p201.png",
+    "exhibits/exhibit_p202.png",
+    "exhibits/exhibit_p203.png",
+    "exhibits/exhibit_p204.png",
+    "exhibits/exhibit_p207.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2020\\15_high-strung"
+}

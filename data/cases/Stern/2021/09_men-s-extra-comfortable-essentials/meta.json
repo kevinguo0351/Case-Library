@@ -1,0 +1,24 @@
+{
+  "case_id": "Stern_2021_09_men-s-extra-comfortable-essentials",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 9,
+  "case_name": "Men's Extra Comfortable Essentials",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 120,
+  "pdf_page_end": 129,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    125,
+    129
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p125.png",
+    "exhibits/exhibit_p129.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\09_men-s-extra-comfortable-essentials"
+}

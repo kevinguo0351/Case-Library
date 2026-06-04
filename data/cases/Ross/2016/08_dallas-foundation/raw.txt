@@ -1,0 +1,189 @@
+===== PDF p132 =====
+128
+ Our client is a private foundation operating in the Dallas Metro Area. 
+ Historic focus on health, education, economic development, arts and culture  
+ New Executive Director, Mary, needs help in refining strategy and identifying 1-2 focus 
+areas
+ Industry: Private Foundation
+ Difficulty: Easy
+ Format: Interviewer led
+ Concepts Tested: Strategy 
+development, Market sizing
+Case 8: Dallas Foundation, FSG (Round 1)
+Problem Statement
+Type of Case
+Interviewer Guidance
+ This case is focused on developing a strategy for a 
+Foundation and is testing the interviewee’s basic 
+understanding of how Foundations strive to create 
+impact as well as the interviewees ability to structure 
+ambiguous, open-ended questions in a logical 
+manner
+
+
+===== PDF p133 =====
+129
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+Clarifying Information and Case Guidance
+ Endowment of the foundation is $200 million 
+ Annual budget for making grants to 
+organizations is $10 million
+ Wide variety of work done currently among 
+impact areas with no specific focus 
+ If interviewee asks for this information provide it 
+after narrating the case prompt
+ If not, move ahead to brainstorming questions
+ If interviewee never asks for annual budget 
+during the case this is a red flag
+
+
+===== PDF p134 =====
+130
+ In preparing for our upcoming trip to Dallas, what broad areas would you explore to help Mary? What 
+questions would you ask and where would you get this information? 
+Brainstorming Question
+Brainstorming Questions and Solutions (1 of 4)
+ Interviewee should demonstrate structure and logic in answering this question. 
+Brainstorming Solution
+Social indicators
+Key indicators for health (BMI), 
+education (drop out rates), 
+employment etc.
+Source: City data, health centers
+Donor landscape
+Other foundations in Dallas, their 
+investment areas to assess 
+overlap/opportunities 
+Source: Secondary research
+Partner NGO landscape
+Quality and types of grantee org’s, 
+confidence in leadership, operations 
+and impact.  Source: Primary 
+interviews with non-profit leaders
+Internal capabilities
+Talent quality and expertise across 
+investment areas, Current 
+partnerships.  Source: Interviews 
+with Texas Foundation staff
+Government/Policy outlook
+Policy push, subsidy or service fee 
+awarded in certain impact areas
+Source: Secondary research, 
+interviews with Foundation staff
+
+
+===== PDF p135 =====
+131
+ Based on initial research, three areas of impact emerged as frontrunners – childhood obesity, high 
+school drop outs, and shortage of affordable housing
+ What factors or selection criteria could be applied to help assess which of the three areas to focus on?  
+Brainstorming Question
+Brainstorming Questions and Solutions (2 of 4)
+ Interviewee should be encouraged to discuss these investment areas and how they may differ from 
+each other, what kinds of investments they would require, what impact they could have 
+ One possible method is to rank order the options (Low, Medium, High) across key criteria and develop a 
+hypothesis for which investment area would be most viable 
+Brainstorming Solution
+Childhood obesity
+HS dropouts
+Affordable housing
+Investment requirement 
+M
+M
+H
+Time horizon to realize impact
+M
+L
+H
+Availability of good grantee org's
+M
+M
+M
+Internal capability 
+L
+M
+L
+Effort to develop internal capability 
+M
+L
+H
+xx
+xx
+Overall propensity for impact
+M
+H
+L
+
+
+===== PDF p136 =====
+132
+ While researching several indicators, one stakeholder provided us a 10 year longitudinal data set of 
+high school students in Dallas with the following information: Test scores, Lunch program status, Zip 
+code, Race, Attendance record
+ How could you use this data to identify sub-segments within the Dallas area to improve the high school 
+drop out rates
+Brainstorming Question
+Brainstorming Questions and Solutions (3 of 4)
+ One possible solution is to propose running a regression on this data
+ Dependent variable (Y) = Attendance 
+ Independent variables (X) = Test score, lunch program status, zip code, race
+ Results from the regression may show that attendance is significantly impacted by zip code – this could 
+help identify school districts that need most help. 
+Brainstorming Solution
+
+
+===== PDF p137 =====
+133
+ Assume that after further analyses and interviews childhood obesity came out as the frontrunner
+ Estimate the number of Hispanics born in 2016 in Dallas at risk for obesity when they turn 5 years old
+ Candidate should have sense for high Hispanic population in Texas (actual % is 38.2%)
+ Candidate should be able to identify sensitivity factors. e.g. % at risk for obesity
+Brainstorming Question
+Brainstorming Questions and Solutions (4 of 4)
+ There are several ways to approach this estimation question. One potential solution is outlined below
+Population of Dallas Metro Area = 10 million   Population Growth Rate = 1%
+Population Growth = 100,000
+What % of 100,000 are newborns (vs. older populations living longer due to higher life expectancy) Æ
+Assumed 90% are newborns 
+Number of Dallas newborns = 900,000     x  Percent of newborns that are Hispanic = 20%
+Number of Hispanic newborns = 18,000   x  Percent that live in low socio-economic neighborhoods = 50%
+Hispanic newborns in low socio-economic neighborhoods = 9,000
+Percentage at risk for obesity = 100%          Number at risk = 9,000
+Brainstorming Solution
+
+
+===== PDF p138 =====
+134
+¾
+Recommendation
+Focus investment portfolio to decrease childhood 
+obesity in the Dallas Metro Area because of a sizeable 
+potential for impact (9,000/year), moderate investment 
+requirements, and high quality grantee organizations 
+that have demonstrated their ability to make this impact
+¾
+Risks
+Reaction of current/future donors, negative impact on 
+other program areas due to budget reallocation
+Recommendation
+Conclusion
+¾
+An excellent case answer will go beyond providing recommendations and risks and discuss a 
+communication/internal buy-in strategy. Several impact consulting firms look for consensus building as 
+opposed to the conventional ‘answer-first’ approach
+¾
+The interviewee will also demonstrate ability to source data and information creatively since industry 
+reports and documented data not often available in impact consulting projects
+Excellent Case Answers
+¾
+Continue data collection to validate 
+hypothesis that childhood obesity is the 
+most impactful intervention area
+¾
+Develop communication strategy for 
+internal and external stakeholders
+¾
+Internal capability development plan to 
+implement this shift in focus 
+Next Steps

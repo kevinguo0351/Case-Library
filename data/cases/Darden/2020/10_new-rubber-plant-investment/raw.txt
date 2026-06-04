@@ -1,0 +1,317 @@
+===== PDF p155 =====
+151
+New Rubber Plant Investment
+BCG | Round 2 | Industrial
+
+
+===== PDF p156 =====
+152
+BCG | Round 2 | Industrial
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T
+NEW RUBBER PLANT INVESTMENT
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  D e s c r i b e  y o u r  
+w o r k i n g  s t y l e .
+2 .  W h y  
+c o n s u l t i n g ?
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. How is rubber made? Gum resin is refined. Need 3lbs of gum resin to produce 1 lb of rubber
+2. How do we get resin? By train from the capital. Up to 4 trains can be used for this purpose. 
+3. How much can we sell rubber for? $20 per pound. Gum resin costs $5 per pound. 
+4. How many suppliers are there? We have identified one gum supplier
+5. Who are our customers? Rubber is highly commoditized. We would sell on the global markets. 
+6. What is the government’s goal? Profitability, job creation, and economic development. 
+Prompt: 
+The federal government of a foreign country is investigating whether to 
+reopen a rubber factory in a western part of the country. The factory was 
+operational in the past, but has not been used for 7 years. The plant was 
+closed due to terrorism in the area. If rejuvenated, it may become a target for 
+the rebels. All the equipment is usable, but the government would need to 
+spend $12M on upgrades, which would allow the plant to produce 10M lbs of 
+rubber per month. The demand for rubber is strong, but rubber must be 
+transported by train to a port. Two trains a day can be used for this. 
+
+
+===== PDF p157 =====
+153
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T  I N V E S T M E N T
+How to Move Forward:
+• Push the candidate to calculate the ROI of the plant. 
+• If the candidate asks for demand, tell them that rubber demand worldwide is strong enough that all rubber produced by the plant can get sold. 
+Financials
+Revenue
+•
+Rubber pounds 
+•
+Rubber price 
+•
+Costs
+•
+Up front investment 
+•
+Variable costs
+•
+Gum resin 
+•
+Fixed costs 
+•
+Overhead
+•
+SG & A
+Operational Considerations
+• Can we ship and receive the 
+required amount of finished 
+goods and raw materials 
+Non-Financial Benefits
+• Job creation 
+• Economic development 
+• Community improvement
+• Positive PR 
+• Improved trade relations 
+Risks
+• Supply chain 
+• Labor shortage 
+• Terrorism
+• Commodity price changes
+
+
+===== PDF p158 =====
+154
+ROI Calculation Guidance:
+•
+Before the candidate starts calculating, encourage them to think about where the bottleneck lies. If they start to use the 10M pounds per 
+month figure, ask them about the trains. 
+•
+Once the candidate asks you how much rubber the train can carry, give them the following: 
+•
+25 operating days a month
+•
+2 trains / day
+•
+8 bogies / train 
+•
+25 cases / bogie 
+•
+500 lbs / case 
+•
+Expected calculation: 
+•
+2 * 8 * 25 * 500 = 200,000 lbs a day 
+•
+200,000 * 25 = 5 M lbs a month 
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T
+
+
+===== PDF p159 =====
+155
+ROI Calculation Guidance:
+•
+Before the candidate starts calculating, encourage them to think about where the bottleneck lies. If they start to use the 10M pounds per 
+month figure, ask them about the trains. 
+•
+Once the candidate asks you how much rubber the train can carry, give them the following: 
+•
+25 operating days a month
+•
+2 trains / day
+•
+8 bogies / train 
+•
+25 cases / bogie 
+•
+500 lbs / case 
+•
+Expected calculation: 
+•
+2 * 8 * 25 * 500 = 200,000 lbs a day 
+•
+200,000 * 25 = 5 M lbs a month 
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T
+
+
+===== PDF p160 =====
+156
+ROI Calculation Guidance (continued):
+•
+Now that the candidate has realized that there production is limited by the amount of rubber they can ship out – they should also realize 
+there is a limit to the raw material they can bring in. An astute candidate will ask about the capacity of the trains bringing resin in. 
+•
+Resin train information:
+•
+25 operating days a month
+•
+4 trains / day
+•
+10 bogies / train 
+•
+25 barrels / bogie 
+•
+640 lbs / barrel 
+•
+Expected calculation: 
+•
+4 * 10 * 25 * 640 = 6400,000 lbs a day 
+•
+640,000 * 25 = 16 M lbs of resin a month – since it takes 3 lbs of resin to produce 1 lb of rubber – they can produce 
+$5.3 M lbs of rubber from raw materials 
+•
+The candidate should realize that they can produce 5M barrels a month based on the limiting factor – the 
+outbound trains
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T
+
+
+===== PDF p161 =====
+157
+ROI Calculation Guidance (continued):
+•
+Other Financial Information: 
+-
+Labor - $8M per month 
+-
+Other overhead - $10M per month 
+-
+Trains - $40k per trip 
+•
+Expected calculation: 
+•
+Transport Cost: 
+•
+$40K * (4 + 2) [trains per day] * 25 [days per month] = $6M
+•
+Revenue 
+•
+5M lbs rubber * $20 per pound = $100M 
+•
+Material Cost 
+•
+15M lbs resin * $5 per pound = $75M  
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T
+
+
+===== PDF p162 =====
+158
+ROI Calculation Guidance (continued):
+•
+Final Income Statement (monthly)
+•
+Revenue - $100M 
+•
+COGS - $75M 
+•
+Labor - $8M 
+•
+Overhead - $10M 
+•
+Transport - $6M 
+•
+Operating Profit - $1M (or 1% margin) 
+•
+Given the above, a good candidate will recognize the plant has an operating profit of $1M monthly. Given an initial 
+investment of $12M, that would have a payback period of 1 year. 
+•
+A great candidate will notice that the margins are wafer thin at 1%. Given that rubber is a commodity, a small dip in price 
+could easily force this investment into the negative territory. 
+•
+Ask them what additional factors they should consider. 
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T
+
+
+===== PDF p163 =====
+159
+Cash Flow Improvements
+•
+Plant is at 50% capacity, if we improve 
+transportation – can we bolster profit
+•
+Can we lock in a long-term price or hedge on 
+resin prices 
+1 0  |  C A S E :  N E W  R U B B E R  P L A N T  
+Brainstorming Guidance: 
+Note: This is just one possible set of categories and answers. 
+Economic Development
+•
+Can we utilize an uptick in local wages to support 
+other development priorities 
+•
+Could be used to help with reelection message 
+Risks
+•
+Terrorism 
+•
+Fall in the rubber market price 
+•
+Scarcity of gum resin 
+•
+Mechanical failures on train tracks cause a shut down
+•
+Local pushback against the project 
+BRAINSTORMING
+“What other factors could we consider when making a decision with this investment? 
+How to Move Forward:
+Feel free to push the candidate on any of their brainstorming ideas. Make sure they at least touch on the fact that the government has multiple criteria for 
+success, including ROI, job creation, and economic developments. This could also be a good time to ask them to detail some of the risks involved. 
+
+
+===== PDF p164 =====
+160
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

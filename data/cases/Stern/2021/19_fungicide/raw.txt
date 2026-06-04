@@ -1,0 +1,324 @@
+===== PDF p216 =====
+© 2021 NYU Stern MCA
+Fungicide
+Author: Yuting Mao (Stern ‘21)
+[Interviewer Led]
+Quant: 7
+Structure: 9
+Case Overview:
+Industry: Industrial Products
+Case Type: Profitability and
+Operations
+Concepts Tested:
+•
+Conceptual Understanding
+•
+Operations
+Overview Information for Interviewer:
+The Interviewer is recommended to thoroughly review the case beforehand to understand all the nuances. 
+This case primarily tests an interviewee’s ability to quickly understand and utilize new concepts and 
+information. The fungicide industry was chosen due to it’s niche field. The first two questions will keep the 
+case in standard interview timing. The third and fourth questions are meant to critically test key 
+understanding.
+Key case steps:
+1.
+Framework
+2.
+Operations and Profitability (Quant) Analysis
+3.
+Brainstorming
+4.
+Recommendation
+Case Prompt:
+Funguy Corporation is a small producer and wholesaler of agricultural fungicides. After a yearly financial review, 
+they find one of their proprietary products, Formula X, is likely to be operating at a loss.
+They ask you to quantify the exact loss and find options on how to return Formula X to profitability.
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+212
+© 2021 NYU Stern MCA
+
+
+===== PDF p217 =====
+Fungicide
+Clarifying Information:
+Competitors:
+•
+Large international competitors for all 
+products
+Market Growth:
+•
+Market is mature and growing at the 
+inflation rate
+•
+Demand for Formula X is at a greater rate
+Product Benefits:
+•
+New product very effective since fungi have 
+not yet developed resistance (primarily 
+used on soybeans and other legumes)
+•
+Patented, with 10 years left on patent
+Client Characteristics:
+•
+Primarily producer and wholesaler
+•
+Owns a production plant and several 
+distribution centers
+•
+Business is conducted with several-year long 
+contracts with both suppliers and buyers
+Interviewer Guide:
+•
+A Good Framework Will consider factors affecting profitability:
+o
+Revenues
+o
+Price x Vol
+o
+Price of Formula X
+o
+Volume of sales
+o
+Licensing: Funguy Corp selling their design for $
+o
+Costs
+o
+Fixed Costs: Infrastructure, CapEx, Insurance
+o
+Variable Costs: Labor, COGS, Misc Operating Costs
+o
+Other considerations
+o
+Legal, Patent, and Compliance Considerations
+o
+Competition
+o
+Market growth and agricultural trends
+o
+Geography of operations and sales
+o
+Cannibalization of sales from other products
+o
+Interviewer can end the case for whatever reason they deem 
+appropriate (ex. timing, candidate is stuck, etc.) and ask for a 
+recommendation
+213
+© 2021 NYU Stern MCA
+
+
+===== PDF p218 =====
+Fungicide
+Question 1:
+Quantify our current profitability loss
+Notes to Interviewer:
+Candidate’s framework should ask about components of profitability and ultimately
+touch upon operations.
+Review and utilize interviewer copies of Exhibit A to present information to 
+candidate. [Interviewer Copy A] outlines the general process of the facility. 
+Interviewer may provide candidate with Exhibit A or simply read out the information 
+and allow interviewee to develop structure (far more difficult).
+[Interviewer Copy B] provides a visual guide to the quantitative analysis for
+profitability. For ease, ask the candidate to solve in daily or per-batch quantities.
+The purpose is to test their understanding of the information. Another key skill is 
+being able to structure all information in an accessible format. Interviewer should 
+nudge the candidate in the right direction for minor math errors.
+Key Result:
+Formula X operations is currently losing
+$5000 per batch or $10000 per day.
+214
+© 2021 NYU Stern MCA
+
+
+===== PDF p219 =====
+Fungicide
+Question 2:
+Brainstorm ways to increase profitability
+Notes to Interviewer:
+Candidate should go back to their original framework in conjunction with their new operations information/data to come up with solid
+ideas on profitability improvement. Below is an example where costs and revenues are specified as supplier and buyer.
+After brainstorming, help candidate narrow down their choices by noting that supplier and buyers are currently locked in 5-year 
+contracts. Lead them to [1]. State that [2] would currently require significant capital investments, which they don’t have.
+Operations
+1.
+Run three batches [1]
+2.
+Reuse rejects from screens [2]
+3.
+Increase operational efficiency
+a)
+Lower misc/labor cost
+b)
+Lower scrubber cost
+Supplier
+1.
+Renegotiate Pricing
+2.
+Find cheaper supplier
+3.
+Buy in bulk for discount
+4.
+Ingredients with lower unusable 
+content
+Buyer
+1.
+Renegotiate Pricing
+2.
+Sell to retail
+3.
+Adjust target market
+4.
+Advertise
+215
+© 2021 NYU Stern MCA
+
+
+===== PDF p220 =====
+Fungicide
+Question 3:
+What is the effect of running three batches on operating profit?
+1.
+Labor cost increase: Labor/Misc. costs increase $20K -> $25K for 3rd batch
+2.
+Important note: scrubber still only needs to operate twice.
+a)
+600kg/day -> 900kg/day waste, which is still less than 1000kg cleaned
+for two cycles of operation
+3.
+Total Cost for 3rd batch is $150K with same $160K in revenue.
+If candidate mentioned [2] from Question 2, move to next question. If not, probe on 
+alternate ways to improve operations further to move into the positive.
+Notes to Interviewer:
+Question candidate on what assumptions we are making:
+Key Result:
+1.
+Suppliers have enough ingredients
+2. Demand from buyers can support increase in product
+Because scrubber still only has to operate
+3. Operations can support running 24 hours
+twice, we improve marginal cost.
+Question candidate on how cost and revenue structure would change:
+Formula X operations is currently now 
+breaking even.
+216
+© 2021 NYU Stern MCA
+
+
+===== PDF p221 =====
+Fungicide
+Question 4:
+What is the effect of recycling the reject pile on long term operating profit?
+Notes to Interviewer:
+Note that client wants long term operating margin and is currently ignoring the capital costs of installing
+equipment necessary for recycle operations. Assume new infrastructure increases capacity just enough
+to run the total mass of the reject pile per batch (150kg).
+Question on where you could place the re-injection of reject pile. Correct answer is anywhere before the 
+granulator (best answer is Mixer). Note that Formula X turns from slurry to solid in granulator. Therefore, 
+re-injecting anywhere from granulator and downstream would keep the reject pellets at the same reject 
+size. They need to be placed somewhere where the process is still liquid.
+Key understanding that injecting at mixer would still result in losing 20% at granulator and screens.
+150kg * 80% * 80% = 96kg
+96kg * $200 = $19,200 per batch
+Question how many batches of reject piles you could do per day.
+•
+Note that each reject pile also results in an additional 36kg of waste to the scrubber.
+•
+The scrubber only has an additional 100kg of capacity at 3 batches/day and 2 cycles
+•
+A third reject pile results in another scrubber cycle and net incremental loss of $800
+•
+Candidate may suggest partial reject pile for 3rd batch. For ease, assume reject pile is all or nothing.
+Key Result:
+Reject recycle can be operated twice and 
+must be inserted somewhere before the 
+granulator.
+Formula X operations is currently now 
+netting $19,200/batch or $38,400/day.
+217
+© 2021 NYU Stern MCA
+
+
+===== PDF p222 =====
+Fungicide – Exhibit A – INTERVIEWER COPY A
+Guide to Formula X Process [Read to candidate]:
+Formula X is created by mixing Ingredients A and B and then turning them into pellets and sizing them. Formula X is currently run in 
+batches, with 2 batches a day (each an 8 hour shift). The site is not suitable for continuous operation and is currently at capacity.
+For technical people: mass is conserved throughout this process (all physical reactions). Below information is all per-batch.
+1.
+[Hoppers] are metal bins that hold ingredients A and B. Each batch uses 250kg of A @ $100/kg and 1000kg of B @ $100/kg. 
+Ingredients A and B enter the hopper as a slurry.
+2.
+[Mixer] is a large tank that mixes the ingredients together in a liquid slurry.
+3.
+[Granulator] is a drum which dries the mixture and forms them into pellets. 20% of the mass entering the granulator goes off to 
+a scrubber as unusable dust and water vapor.
+4.
+[Screens] allow the correct pellet sizes to collect as final product, which is sold @ $200/kg. 5% of mass entering screens goes
+off to scrubber as unusables. 15% are rejected based on size, but are otherwise identical to final product.
+5.
+[Scrubber] collects and cleans dust and water vapor. It only needs to operate once 500kg has accumulated and costs $20,000 
+to operate once. However, it must end a 24 hour period, completely clean. (ex. 500kg -> scrubber only needs to run once. 
+501kg -> needs to run twice)
+6.
+[MISC] costs include mainly labor and all other operational costs, totaling $20,000 per batch.
+218
+© 2021 NYU Stern MCA
+
+
+===== PDF p223 =====
+Fungicide: Exhibit A – INTERVIEWER COPY B
+219
+© 2021 NYU Stern MCA
+
+
+===== PDF p224 =====
+Fungicide – Exhibit A
+220
+© 2021 NYU Stern MCA
+
+
+===== PDF p225 =====
+Fungicide
+Recommendation:
+• Recommendations will depend 
+on how far candidate has gone.
+• Suggested recommendations 
+from the case below:
+1. Run three batches per day
+2. Introduce recycling of size-
+rejected pellets
+Bonus: Guide to an excellent case
+Overall, a strong candidate should deviate from ‘textbook answers’ and be able to provide distinctive analyses and recommendation:
+•
+Truly understands the nuances of the process and is able to capitalize on inefficiencies
+•
+Understands the significant limitations of Funguy (supplier and buyer) and provides innovative ways to disrupt the status quo
+•
+Structures their analysis and recommendations in the context of reaction from competitors and international market
+Risks:
+• Supplier negotiation power
+• Buyer negotiation power
+• 24 hour operation gives no 
+time for necessary 
+maintenance shutdowns
+• Patent expires in 10 years
+• Fungi developing resistances
+Next Steps:
+•
+Look for tactical next steps from 
+candidate depending on their 
+recommendations
+•
+Examples below:
+1.
+Hire additional personnel to run
+3rd batch
+2.
+Contact buyers and suppliers to
+ensure adequate purchase and
+sale
+3.
+Request quotes for retrofitting
+plant for reject recycling
+221
+© 2021 NYU Stern MCA

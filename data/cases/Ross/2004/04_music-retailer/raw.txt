@@ -1,0 +1,111 @@
+===== PDF p14 =====
+Table of Contents 
+ 
+10
+Practice Case 4: Music retailer  
+(Bain - Round 1) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is a large national retailer whose music segment has seen 
+declining profits over the last couple of years. You have been hired to 
+help deal with this problem. 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+Profits used to be $80M but are currently very low. 
+• 
+Suppliers sell directly to us. No logistics costs. 
+• 
+There are 4 big players in the market all similar size to us. We do not 
+know if they are making money. Two are similar large retailers and 
+two are specialized music suppliers. 
+• 
+Market has been shrinking over the last couple of years 
+• 
+We hold both new releases and catalog CDs. 
+• 
+Income Statement: 
+ 
+Revenues from New CDs  -$704M 
+Revenues from Catalogs -$444M 
+Total COGS ñ  
+ 
+$900M 
+Store rental overhead 
+$150M 
+Labor expense 
+ 
+$90M 
+Profit:  
+ 
+ 
+$8M 
+ 
+• 
+The price of a new CD is $12 and the price of a catalog CD is $15. 
+• 
+The cost to us of either type of CD is $10and is similar to other 
+playerís cost. We hold minimal inventory 
+• 
+90% of our space is catalogs and 10% is used for new CDs. 
+ 
+III. Sample solution 
+ 
+We can allocate the costs using Activity Based Costing. We have $704M 
+revenues of new releases. At a price of $15, this means we sell around 60M 
+new CDs and around (404/12) 30M catalog CDs. Hence: 
+ 
+ 
+ 
+ 
+NEW CDs 
+ 
+ 
+CATALOG CDs 
+Revenues 
+ 
+$704M 
+ 
+ 
+$444M 
+COGS  
+ 
+$600M 
+ 
+ 
+$300M 
+Space overhead 
+$15M  
+ 
+ 
+$135M 
+Labor   
+ 
+$60M  
+ 
+ 
+$30M 
+Profit  
+ 
+$30M  
+ 
+ 
+(-20M) 
+ 
+The new CD business is profitable for us, but the Catalog business is 
+unprofitable. 
+
+
+===== PDF p15 =====
+Table of Contents 
+ 
+11
+The reason we have low profitability is that the Catalog CDs are loosing 
+money.  
+The new CD business is still profitable and over the coming weeks my team 
+is going to look at: whether we can optimize the space used for catalog CDs, 
+whether we would lose any cross selling opportunities if we reduced/removed 
+the catalog CDs and what product we can best place in the space previously 
+occupied by catalog CDs. 

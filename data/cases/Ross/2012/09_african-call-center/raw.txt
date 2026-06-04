@@ -1,0 +1,290 @@
+===== PDF p109 =====
+- 104 - 
+African Call Center 
+McKinsey, Round 1 
+Your client is a large retail bank in the U.S. looking to 
+move it’s current outsourced call center from India to 
+Africa and is currently evaluating 3 possible countries as 
+a target location 
+ 
+How would you evaluate each of these sites? 
+•
+Call center is focused on two types of calls: 
+•
+Customer Service Calls (typical ones like 
+Account locked, password reset, etc.) 
+•
+Sales Calls (pushing new services to new and 
+existing clients e.g. credit cards) 
+•
+This is the Bank’s first time in Africa 
+•
+Candidate should recognize that this is a cost 
+reduction case primarily 
+•
+Bonus: Candidate should identify inherent upfront 
+risks of moving call center to brand new market and 
+should question rationale of the African market given 
+availability of infrastructure, political stability, etc. 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Hard      Quant, Graph Heavy Industry: Fin. Services, Outsourcing 
+       Type: Cost Reduction 
+
+
+===== PDF p110 =====
+- 105 - 
+• Question 1: What elements would you consider when evaluating the 3 countries? 
+Questions for the candidate 
+Discussion Questions & Solution 
+Financial 
+•
+All of the following should be focused on isolating the change from current to future to isolate the costs 
+savings 
+•
+Operating costs (Labor, Rent, Utilities, Transport for employees, Overhead) 
+•
+Investment Cost (Important that this can be recovered over a reasonable amount of time) 
+Other Considerations 
+•
+Firm 
+•
+Alignment with firm strategy 
+•
+Experience in Africa 
+•
+Opportunity Cost 
+•
+Risk to customers (quality) 
+•
+Market (Africa) 
+•
+Availability of Labor (English speaking, Banking knowledge) 
+•
+Political stability 
+•
+Availability of Infrastructure (Internet, Electricity, other basic needs) 
+•
+Competitors – have they already done this? 
+ 
+Solution Guide 
+
+
+===== PDF p111 =====
+- 106 - 
+• Question 2 (Focused on Costs): What are some typical costs associated with running a call center? Which 
+of these would be lower in Africa? 
+Questions for the candidate 
+Discussion Questions & Solution 
+•
+Successful candidate will leverage key operational costs from structure 
+•
+Key insight is to identify (push candidate to drive towards Exhibit 1) that labor will be the key savings 
+from the initiative (all other costs will remain the same) 
+•
+Share with candidate that existing cost is $60M per year 
+•
+Candidate should move towards recognizing the number of calls that are made by the call center per day 
+and use that to determine the number of employees required and use the new labor costs to isolate the 
+differences 
+•
+In order to be just as effective, the same number of calls, must be made by each call center (i.e. 
+Utilization) 
+•
+Strong candidate will recognize that new call centers will not be effective but interviewer should 
+push candidate in that direction and share Exhibit B 
+•
+Candidate should work through solution to determine that financially, Country B is the best option. A 
+strong candidate will note this immediately, as the effectiveness of A and B are the same, but the cost is 
+lower by $2/hr 
+•
+Strong candidate will recognize that Utilization should increase over time (ignore  during calculations) 
+•
+Bonus: Security may be an added cost given political environment in some countries – acknowledge but 
+inform candidate it is included 
+•
+Bonus: Cost of infrastructure may be higher – acknowledge but inform candidate it is included 
+ 
+Solution Guide 
+
+
+===== PDF p112 =====
+- 107 - 
+•
+Question 3: If the investment in each country is $36M, what is the payback period for the country the 
+candidate selected? 
+Questions for the candidate 
+Discussion Questions & Solution 
+•
+This question will test basic finance concepts of payback period 
+•
+Strong candidate will mention discount rate (candidate can ignore it in calculations) 
+•
+Are there ways the Call Center can generate revenue? 
+•
+Candidate should brainstorm possibilities for revenue generation from the call center: 
+•
+Cafeteria that sells food to employees 
+•
+Day Care facilities for working parents 
+•
+Alternate use of facilities as a training center 
+•
+Advertising revenue from posters, etc. 
+•
+Internet café (leverage infrastructure) 
+•
+On-site bank/ATM 
+•
+Vending machines 
+•
+Gym 
+ 
+Solution Guide 
+
+
+===== PDF p113 =====
+- 108 - 
+Math Solution 
+Call Demand 
+Current 
+Country A 
+Country B 
+Country C 
+Employees 
+400 
+600 
+600 
+1200 
+Avg. Call Duration (min/call) 
+4 
+4 
+4 
+4 
+Total Working time (hrs) 
+8 
+8 
+8 
+8 
+Utilization 
+75% 
+50% 
+50% 
+25% 
+Total Calls 
+36000 
+36000 
+36000 
+36000 
+Employee Cost 
+ $  24,000,000   $  14,400,000   $   11,520,000   $ 17,280,000  
+Difference 
+  
+ $  (9,600,000)  $ (12,480,000)  $ (6,720,000) 
+Cost/employee 
+ $  60,000 
+ $    24,000  
+ $       19,200 
+ $   14,400  
+Employee Cost/hour 
+$25  
+$10  
+$8  
+$6  
+Investment Cost 
+ $        36,000,000  
+Savings per year 
+ $        12,480,000  
+Payback period 
+2.88 
+
+
+===== PDF p114 =====
+- 109 - 
+Recommendation 
+•
+Work with local governments to gain support for 
+investment 
+•
+Consider pilot/phased approach to address service 
+quality 
+•
+Work towards identifying other revenue 
+opportunities and cost savings initiatives to offset 
+any rise in labor costs 
+•
+Implement measures to increase utilization of 
+Country B employees 
+Next Steps 
+Conclusion 
+•
+Client should move it’s call center to Country B as it 
+is the most cost effective based on employee rate and 
+productivity 
+•
+Risks: 
+•
+Political Stability in the region 
+•
+Quality of Service – will it remain the same? 
+•
+No experience in Country B 
+•
+Long term ability to ensure low hourly rates 
+
+
+===== PDF p115 =====
+- 110 - 
+Exhibit 1 
+30% 
+10% 
+40% 
+20% 
+100% 
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+Rent
+Utilities
+Labor
+Misc.
+Total
+Typical Cost Structure for Call Center 
+
+
+===== PDF p116 =====
+- 111 - 
+Exhibit 2 
+Call Demand 
+Current 
+Country A 
+Country B 
+Country C 
+Utilization Rate 
+75% 
+50% 
+50% 
+25% 
+Labor Rate 
+$25/hr 
+$10/hr 
+$8/hr 
+$6/hr 
+Avg. Call Duration (min/call) 
+4 
+4 
+4 
+4 
+Total Working time (hrs) 
+8 
+8 
+8 
+8 
+Current call center has 400 employees 
+ 
+Assume 300 days/yr. in calculating annual cost of labor 

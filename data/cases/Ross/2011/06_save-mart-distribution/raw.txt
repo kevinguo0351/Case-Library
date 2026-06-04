@@ -1,0 +1,139 @@
+===== PDF p65 =====
+- 60 - 
+SaveMart Distribution 
+Accenture, Round 1  
+ 
+ 
+Your client, SaveMart, is a discount superstore 
+similar to Wal-Mart.  They have 1000 retail stores 
+across the United States.  Each store receives one 
+delivery per day from a distribution center.   
+SaveMart has hired you to investigate if the costs 
+related to distribution can be reduced.   
+ 
+
+SaveMart owns multiple distribution centers 
+across the United States.   (Show figure) 
+
+The 4 primary distribution centers are 
+located in New York, Chicago, Dallas, and 
+San Francisco.   
+
+The 20 secondary distribution centers are 
+also spread out through the country.   
+
+All of SaveMart’s products are imported from 
+Asia and arrive daily at the San Francisco 
+distribution center.   
+
+Steer the candidate away from attempting 
+numerical calculations.   
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Medium 
+ 
+Industry: Retail  
+ 
+Type: Operations 
+
+
+===== PDF p66 =====
+- 61 - 
+Primary DC 
+Secondary DC 
+SaveMart Distribution 
+Accenture, Round 1  
+ 
+
+
+===== PDF p67 =====
+- 62 - 
+ 
+
+Every day, trucks transport products from the 
+San Francisco center to each of the primary and 
+secondary distribution centers.   
+
+Trucks from each of the primary DCs also make 
+daily deliveries to the nearby secondary DCs.   
+
+Each secondary DC makes one delivery per day 
+to its assigned stores.   
+
+All routes to and from the DCs are the same 
+each day regardless of demand (static routing).   
+
+Trucks are rented and are of uniform size.   
+Current Distribution Routes 
+ 
+
+Not all distribution centers (primary or secondary) 
+are at full capacity.  The three primary DCs 
+(excluding the West Coast DC) are well under 
+capacity.   
+
+Most trucks are NOT at full capacity.   
+
+Demand for products is not the same at all 
+stores.   
+Capacity 
+Wait for candidate to specifically ask about… 
+SaveMart Distribution 
+Accenture, Round 1  
+ 
+
+
+===== PDF p68 =====
+- 63 - 
+
+Deliver from the West Coast DC to the other 
+primary DCs and secondary DCs on the West 
+Coast.  Do not deliver from West Coast DC to 
+other secondary DCs.   
+
+Consolidate secondary DCs that are not at full 
+capacity.   
+
+Determine optimal routes to and from the 
+DCs.   
+
+Dynamic Routing – do not make daily 
+deliveries to stores/DCs if there is low 
+demand, or keep some extra inventory at the 
+stores.   
+
+Consolidate trucks: 
+
+Use smaller trucks if it decreases the 
+cost.   
+
+Buy trucks instead of renting.   
+ 
+ 
+Sample Recommendations 
+Risks 
+
+Other primary DCs may not have 
+enough capacity to hold the additional 
+inventory.   
+
+By consolidating secondary DCs, 
+capacity risks are magnified if demand 
+increases drastically.   
+Next Steps 
+
+Determine capacities of different DCs 
+to see which trucks to consolidate.   
+
+Determine differences in demand of 
+different stores.   
+
+Investigate trucking contracts and if 
+using different truck sizes or buying 
+trucks would save money.   
+ 
+Sample Risks/Next Steps 
+SaveMart Distribution 
+Accenture, Round 1  
+ 

@@ -1,0 +1,158 @@
+===== PDF p142 =====
+138
+Case author(s): Adam Borchert and Joep Knijn (Tuck 2004)
+Edited By: Peter Manoogian (Kellogg 2012), Rohan Maini (Kellogg 2020)
+Case 12
+Maine Apples
+Primary sector(s)
+• X02 Agriculture & Food
+Concepts tested
+• Z08 Market sizing (2)
+• Z14 Pricing strategy (3,4)
+• Z15 Supply/value chain (4)
+Similar cases
+• Antidepressant pricing 
+(Sloan 2011)
+• Jamaican Land Investment 
+(Haas 2015)
+• Mission Eternity        
+(Fuqua 2016)
+Case type
+• Y04 New product / Market entry
+• Y06 Opportunity assessment
+• Y07 Profitability
+
+
+===== PDF p143 =====
+139
+Maine Apples
+Interviewer guide
+Case prompt
+• Our client is a Korean conglomerate named Danut that has acquired a small Boston-based biotechnology firm
+• The biotech firm has developed a chemical that helps control the ripening of produce. After testing, this chemical appears to work 
+especially well with apples: it allows apple orchards to harvest earlier and it improves the overall quality of the harvest.
+• Danut traditionally uses a test market to determine commercialization. Given Danut’s proximity to Boston and average apple yields, 
+Maine has been chosen. 
+• Danut would like to know if they should attempt to commercialize this chemical.
+Interviewer guide
+• Problem: Is the market size large enough and the estimated profitability high enough for Danut to commercialize this chemical?
+• Key case steps:
+1. Confirm market attractiveness (size) 
+2. Quantify cost savings from earlier harvests
+3. Quantify revenue growth from improved yields
+4. Project farmers’ margins and pricing for Danut
+5. Provide a recommendation and highlight risks
+
+
+===== PDF p144 =====
+140
+Maine Apples
+Case prompt
+• Our client is a Korean conglomerate named Danut that has acquired a small Boston-based biotechnology firm
+• The biotech firm has developed a chemical that helps control the ripening of produce. After testing, this chemical appears to work 
+especially well with apples: it allows apple orchards to harvest earlier and it improves the overall quality of the harvest.
+• Danut traditionally uses a test market to determine commercialization. Given Danut’s proximity to Boston and average apple yields, 
+Maine has been chosen. 
+• Danut would like to know if they should attempt to commercialize this chemical.
+Clarifying information
+• Product Benefits: 
+• Reduced costs through earlier harvesting
+• Improved apple yields
+• Improved juice yields (with higher quality apples)
+• Client Characteristics: Only concerned about a “test-market” in the state of Maine
+• Competitive Dynamics: No other competitive products on the market currently
+• Industry: Growing at the rate of GDP
+Fit: Analysis is not always perfect. Tell me a time when the analysis wasn't perfect but you still had to use it.
+
+
+===== PDF p145 =====
+141
+Maine Apples
+Parts 1 - 3
+1. Confirm market attractiveness (size)
+2. Quantify cost savings from earlier 
+harvests
+3. Quantify revenue growth from 
+improved yields
+When asked, provide the following:
+• Maine has 200 orchards
+• Avg. annual orchard revenue is 
+$30K/acre
+• Avg. orchard has 100 acres of land
+• Only one apple harvest per year
+Interviewee should calculate the 
+market size based on info provided:
+• ($30K/acre x 200 orchards x 100 
+acres/orchard = $600M)
+This is a significant market and 
+warrants further investigation
+When asked to quantify the 
+improvements, provide the following:
+• It costs $1.5K/night to maintain 
+crops for 100 acre orchard
+• With the chemical, farmers are able 
+to harvest crop 10 days sooner
+Interviewee should calculate cost 
+savings per year using this information:
+• ($1.5K/day x 10 days / 100 acres = 
+$150/acre/year)
+When asked to quantify additional 
+revenue, provide the following:
+• Our client’s product improves the 
+consistency of red apples and 
+increases the selling price by 10%
+• The sweetness factor increases the 
+selling price of juice by 5%
+• 25% of revenue comes from whole 
+apple sales, 75% from juice sales
+Improved yield:
+• ($30K/acre x 25% x 10% = 
+$750/acre/year)
+Improved sweetness:
+• ($30K/acre x 75% x 5% = 
+$1,125/acre/year)
+Total improvement (with cost 
+reduction) = $2,025/acre/year
+
+
+===== PDF p146 =====
+142
+Maine Apples
+Part 4
+4. Project farmers’ margins and pricing for Danut
+When asked about product pricing, provide the following:
+• Danut’s product costs $100k per 200 acre farm
+Farmer’s incremental revenue/cost savings = $2,025/acre
+Product costs = $100K/200 acres = $500/acre 
+Profit margin = ($2025-$500)/$2025= 75% [$1,525 per acre]
+The interviewee should note that this is an extremely high profit margin for the farmer and realize that there is a significant opportunity 
+for profits with this product.
+• How much of this benefit can we capture in our pricing?
+• Interviewee should provide a percentage between 25% and 50%. Anything higher than 50% should be questioned due to the 
+novelty of the product and resulting lack of social proof.
+A 50% profit margin for our client would also realize a 50% profit margin for farmers. This is absolutely a realistic price to set, if not a 
+little low.
+• Given the costs provided, will we make a profit? Yes
+• Interviewee should calculate profit: ($100,000 / 200 acres = $500/acre). Assuming $1,000 price per acre, gross margin will be
+50%. [($1,000 - $500) / $1,000]
+
+
+===== PDF p147 =====
+143
+Maine Apples
+Part 5
+5. Provide a recommendation and highlight risks
+• Overall, our client should commercialize this chemical and price it at approximately $1,000 per acre to make a 50% margin. 
+Risks/Next steps:
+• Differentiation: What is our positioning? 
+• Environmental issues: Is there a risk of backlash and/or boycott from the general public? Could the U.S. government attempt to 
+regulate our product?
+• Operational reality check: Does the company have the resources to do this?
+• Patenting: Is the product already patented? If yes, then when does it expire? If no, then is it possible to patent? If not, then can we 
+patent the manufacturing process?
+•
+Representativeness of test market: Does it cost less to cover apples in other states?
+• Strategic fit: Is this opportunity too small relative to the size of the client?
+• Strong interviewees share several qualitative issues listed above to supplement the recommendation to enter the market.
+• Outstanding interviewees consider value-based pricing: the need to quantify added profits that our client’s product will make for its 
+clients and how much of that money our client can capture.

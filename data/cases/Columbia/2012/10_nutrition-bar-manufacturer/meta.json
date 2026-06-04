@@ -1,0 +1,28 @@
+{
+  "case_id": "Columbia_2012_10_nutrition-bar-manufacturer",
+  "school": "Columbia",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2012.pdf",
+  "idx": 10,
+  "case_name": "Nutrition Bar Manufacturer",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 81,
+  "pdf_page_end": 88,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    84,
+    85,
+    87,
+    88
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p084.png",
+    "exhibits/exhibit_p085.png",
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p088.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2012\\10_nutrition-bar-manufacturer"
+}

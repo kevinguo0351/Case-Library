@@ -1,0 +1,52 @@
+===== PDF p62 =====
+EXAMPLE CASES BY TYPE 
+MARKET EXPANSION 
+ 
+WIRELESS SERVICE IN MEXICO 
+ 
+Question: 
+ 
+Your client is a large diversified manufacturing company with global operations and is considering whether they 
+should participate in the closed envelope auction process for a license to give wireless service in Mexico. 
+ 
+Your client wants to know the issues to consider when deciding whether to bid or not and how much should they 
+bid? 
+ 
+Possible Approach: 
+ 
+The first things to ask here is how many subscribers could you service with this license, which regions are included, 
+and for how much time.  It is also important to consider how many licenses are being auctioned now and in the 
+future.  How many bidders are going to participate would be helpful to know too. 
+ 
+The other things to consider in this problem could be divided into 4 big sections: 
+1. Market attractiveness 
+a. 
+Size of market (can they afford this product, substitute products) 
+b. Number of established competitors and their power (locations they serve) 
+c. 
+New entrants (consider price wars, and differentiation) 
+2. Company operation 
+a. 
+Synergies with established divisions operating in Mexico 
+b. Suppliers 
+c. 
+Distribution 
+3. Risk/Reward 
+a. 
+NPV 
+b. Political and economic risk 
+c. 
+Exchange rates, inflation and other financial risks 
+d. Other projects (cost of opportunity) 
+4. Bidding process 
+a. 
+Competitive analysis of other bidders (game theory) 
+b. Access to information compared to other bidders (to make a better bid) 
+ 
+ 
+To practice numbers: estimate the size of the wireless market in Mexico. 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 88 
+ 

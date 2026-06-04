@@ -1,0 +1,370 @@
+===== PDF p121 =====
+CASE 12 – COYOTES
+117
+
+
+===== PDF p122 =====
+Case 12: Coyotes
+Prompt #1
+Your client is the American Southwest Preservation Trust (ASPT). The trust is a non-profit organization tasked with promoting 
+conservation & eco-tourism in the American Southwest. One of the biggest tourist draws is local fauna, particularly coyotes. The
+coyote population has declined significantly from historical levels. The Trust requests your help to figure out why & what it should do.
+Case Guidance
+This case is geared towards challenging brainstorming and frameworking skills, while at the same time honing public math and 
+analytical skills. It simulates cases which have uncommon or unanticipated structural elements, and may be especially appropriate for 
+individuals who need practice building creative frameworks.
+Behavioral Questions
+• If your C-LEAD teammates had to describe your biggest point for improvement, what would it be and why?
+• Can you tell me about a time when you handled an especially sensitive or high-risk assignment or project?
+Interviewer Guidance – Prompt Q&A
+Provide the additional information if requested:
+• Coyotes are medium size canine carnivores (between a fox and a wolf) native to the American Southwest.
+• Coyote populations were historically stable until recently. Only 10,000 coyotes exist today down from 25,000.
+• Geographically, only consider the area administered by the trust.
+• No other fauna or flora have been impacted as much.
+Deloitte Case Writing 
+Competition Winner
+118
+
+
+===== PDF p123 =====
+Case 12: Coyotes
+Interviewer Guidance: Framework
+Species loss is a not a common framework, and so be prepared to iterate by asking “what else.” Quality frameworks should include at 
+least the following “buckets” or “nodes” (for those who use trees):
+-
+Environmental factors (pollution, climate change, species migration)
+-
+Dietary factors (number of predators, number of prey, availability of water)
+-
+Human-generated factors (hunting, poaching, habitat loss)
+-
+Disease and Genetics
+Award brownie points for additional creative ideas.
+Steer the candidate gradually towards human-generated factors (habitat loss and hunting). Have the candidate brainstorm for a few 
+minutes how habitat loss would impact the species, especially given that other factors haven’t changed significantly with time (prey 
+availability, water, hunting, etc). 
+A strong candidate may immediately guess changing birth rates, fertility, and the availability of finding partners. Regardless of whether 
+the candidate gets to this or not, steer the candidate by issuing the next prompt (below). 
+Prompt #2 – For Analysis 
+The client is likewise concerned by the impact of development and interactions with man on the coyote population, and wants to 
+understand the expected impact on the population this year. ASPT has provided a few demographic details they have on the coyote 
+population in the area (Exhibits A and B).
+119
+
+
+===== PDF p124 =====
+Case 12: Coyotes
+Exhibit A: Habitat Loss
+The coyote population is currently split into three groups (shown by silver clouds) following the construction of highways (black 
+lines) and cities (yellow dots).
+Group A
+Group B
+Group C
+120
+
+
+===== PDF p125 =====
+Case 12: Coyotes
+Exhibit B: Group Statistics
+The following table shows estimated demographics by group
+Group
+Percent of
+Total Pop
+Percent Male
+Percent Female
+Hunting Licenses
+A
+40
+60
+40
+800
+B
+20
+35
+65
+200
+C
+40
+90
+10
+400
+121
+
+
+===== PDF p126 =====
+Case 12: Coyotes
+Analysis Part 1 – Solution
+The candidate should arrive at the following numbers (series of multiplications) needed for the second part.
+Interviewer Guidance: Exhibits and Analysis Part 1
+From the exhibits, the candidates should point out links between groups, unequal gender sizes, and different numbers of hunting 
+licenses for similarly sized territories.
+The candidate should grasp that the overall goal of the analysis is to find out how populations are changing. The first step is finding out 
+the current number of coyotes in each group by gender. 
+The total population should have been asked for during the Q&A portion. If the candidate did not get to it then, provide the number 
+now (10,000). 
+The first step is to break out the 10k by each group by gender. If the candidate doesn’t think of this, steer them towards it. Some 
+candidates may try to jump towards calculating births and deaths, in which case they guessed the missing steps (see next section), but 
+have them work out the calculations by gender and group first.
+Group
+Percent of
+Total Pop
+Number of Coyotes
+Number
+of Male
+Number 
+of Female
+A
+40
+4000
+2400
+1,600
+B
+20
+2000
+700
+1,300
+C
+40
+4000
+3600
+400
+122
+
+
+===== PDF p127 =====
+Case 12: Coyotes
+Interviewer Guidance: Analysis Part 2
+Let the candidate drive the continuation of the analysis. If the candidate is lost, ask them how they would calculate the change in 
+coyotes every year. The general equation they should arrive at:  
+Change in coyotes for this year = Number Born in this year – Number Died in this year. Focus them on calculating the change for this 
+year!
+Several pieces of information have been deliberately withheld from the candidate. A perceptive candidate will ask for them:
+• Litter size: This is the number of coyotes born to each pregnant female. Assume 2 pups/litter.
+• Gestation period: Assume coyotes breed once per year.
+• Partner fidelity: Assume that coyotes are monogamous (meaning that once a male coyote has impregnated one female coyote, he 
+will not impregnate another female coyote).
+• Availability or % Mate: Not all coyotes will breed each year. Assume that only 40% of potential pairs birth a litter each year.
+• The candidate should notice that hunting isn’t the only cause of death. Assume that all other deaths are natural and the death rate 
+is 10% (applies to adults only – use beginning population and don’t include pups). 
+• Assume that hunting deaths happen at the end of the year, and hence so is cumulative with the natural deaths.
+Other questions that the candidate could ask:
+• What are the frequency of hunting licenses? Answer: annual
+• How many coyotes does a license permit to be killed? Answer: one
+• Can both males and females be hunted? Answer: yes
+• Do all hunting licenses get used? Answer: assume yes
+Lastly, because of the monogamous nature of coyotes, the candidate should pick up on the fact that the lesser occurring gender in 
+each territory is the limiting factor on births.
+123
+
+
+===== PDF p128 =====
+Analysis Part 2 – Solution 
+The candidate should arrive at the following numbers.
+The equations for getting them are:
+# of Births: # of Pairs * % Mate * Birth Rate
+# of Deaths: (Beginning Population – Hunting Deaths) * Natural Death Rate
+Note that calculating Deaths as “(Beginning Population * Natural Death Rate) + Hunting Deaths” wrongfully assumes that none of the 
+hunted coyotes would have died naturally if they had not been hunted
+Case 12: Coyotes
+Group
+Beg. Population
+Hunting Deaths
+Natural Deaths
+# of Deaths
+A
+4,000
+800
+320
+1,120
+B
+2,000
+200
+180
+380
+C
+4,000
+400
+360
+760
+Group
+Limiting Gender
+# of Pairs
+% Mate
+Birth Rate
+# of Births
+A
+Female
+1600
+40%
+2
+1,280
+B
+Male
+700
+40%
+2
+560
+C
+Female
+400
+40%
+2
+320
+124
+
+
+===== PDF p129 =====
+Advanced Conclusions from Analysis
+A very perceptive candidate should notice:
+• The decline is gradual (only 100 coyotes per year). Hence the historical number of 25k must either imply a long time ago or a large 
+drop due to other circumstances.
+• The C population group will be gone in approximately 10 years, or even sooner if females are hunted or die disproportionately.
+• The other groups should grow if hunting and natural deaths affect both genders equally and at present rates.
+• Overall, coyotes are likely to remain in the Southwest.
+Case 12: Coyotes
+Group
+Total Births
+Total Deaths
+Total Change
+A
+1,280
+1,120
+160
+B
+560
+380
+180
+C
+320
+760
+-440
+Total
+2,160
+2,260
+-100
+125
+
+
+===== PDF p130 =====
+Case 12: Coyotes
+Prompt #3 (if time)
+ASPT is considering lobbying for a reduction in hunting licenses.  How would you design a proposed reduction, and what information 
+would you use to support it?
+Interviewer Guidance:
+The candidate should hopefully mention some of the bullet points under the advanced analysis section if they have gotten to this
+point. If not, spend some time with the analysis results and ask the candidate what they imply.
+Afterwards, redirect the candidate towards the topic of hunting licenses. Ask if hunting licenses are really the issue. If after the 
+candidate struggles for a few minutes, they are still lost, point out that more hunting licenses were issued for Group A rather than C, 
+even though the groups were the same size.
+This should mean that Group A should not be sustainable, while Group C should be growing. However, the reality is exactly the
+opposite. Ask the candidate why?
+The candidate should quickly zero in on two potential culprits:
+•
+The gender ratio in Group A v. Group C
+•
+The percentage that mate
+Since the percentage that mate (and other factors) are constant, the gender ratio must be the key. Once the candidate realizes this, 
+proceed to the recommendation portion of the case.
+126
+
+
+===== PDF p131 =====
+Case 12: Coyotes
+Recommendation
+Recommendations should include:
+• Overall, the population of coyotes is not at risk. 
+o One group of coyotes (Group C) will die out within 10 years, if no interventions are attempted.
+• ASPT can help rescue or foster coyote population growth by:
+o Evening out the gender ratio between populations by building wildlife bridges, transplanting coyotes, etc.
+o Helping coyotes locate each other and increasing the mating pair percentage.
+o Increasing fertility levels (# of pups/pair) using medical techniques.
+• (For those who made it to Prompt #3) The ASPT should not invest significant resources in a legislative battle against hunting licenses 
+if licenses are maintained at the current levels.
+o That said, a temporary hunting ban in Group C would likely help as an effort is made to stabilize the female population
+127
+
+
+===== PDF p132 =====
+Case 12: Coyotes
+Performance Evaluation
+• What does the case test?
+This case involves a non-traditional framework, extensive “public math,” and a logic puzzle with clearly identifiable missing pieces. This 
+makes this a fairly all-around good practice case. However, it is especially appropriate for individuals that need practice with being 
+creative with frameworks or figuring out withheld pieces of a puzzle.
+Expected: The candidate’s framework may have missing elements, but should be MECE. The candidate is able to brainstorm ideas for 
+species loss, and perhaps habitat loss. Once provided with the framework elements, the candidate is able to proceed to and solve
+Analysis – Part 1. The candidate may get stuck with Analysis Part 2 and will probably not get all the way through it and to Prompt #3. 
+Recommendations are likely to be primarily around the framework and exhibit observations.
+Good: The candidate creates a complete MECE framework, and is able to brainstorm ideas for habitat loss. The candidate does a good 
+job noticing the hunting licenses, gender ratios, and groups in the exhibits. With minimal direction, the candidate is able to solve 
+Analysis Part 1. The candidate makes it through Analysis Part 2 with minimal or moderate assistance and attempts to make advanced 
+observations. The candidate probably won’t get to the third prompt. Recommendations from the analyses #1 and #2 should be correct, 
+but are likely to be incomplete.
+Excellent: The candidate is undaunted by a uncommon framework, and comes up with a solid MECE framework. He or she is able to 
+identify habitat loss, and provides interesting and creative brainstorming ideas. Analyses #1 and #2 are solved with minimal direction, 
+and the candidate is able to make advanced observations. Analysis #3 is solved with minimal to moderate assistance, and 
+recommendations are complete, clear, and concise.
+128
+
+
+===== PDF p133 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

@@ -1,0 +1,120 @@
+===== PDF p40 =====
+36 
+Case Interview Study Guide © 
+ 
+ 
+GAMING CASE  
+Category: Profitability 
+ 
+ 
+Question (posed by interviewer): 
+ 
+A friend approaches you to invest in a software gaming company that he is starting.  He is a 
+programmer and has developed a computer game that he says “will sell like hotcakes.”  He 
+wants you to make an investment of $500K.  Your $500K will buy you a 50% stake in the 
+company.  (Assume he is taking a 50% stake in equity for his work in developing the game).  
+You consider investing, but have some other investment options that can potentially give you a 
+50% ROI over the next year with the same risk as this company.  Assume this investment is a 
+one-year investment and no money from the company will be reinvested for the following year.  
+Should you invest in your friend’s company or in the other investment options that you have?  
+ 
+The purpose of the case is to see how well the candidate can ask the right questions to get 
+important facts of the case and work through relatively simple, but detailed calculations.   
+ 
+Suggested Sample Response: 
+ 
+In order to decide which investment to pursue, I’m going to surmise the gaming company’s 
+potential profitability for this product over the next year.  In order to do so, I’m going to need 
+some more information about the company.  To start with, how many people will be running the 
+company and what will they earn this year? 
+ 
+Assume that your friend has recruited two friends from business school that will be handling all 
+the aspects of running the company and marketing the product. They have prior experience in 
+software sales. He is paying each of them $100,000 per year.  (The founder is not taking a 
+salary, just his 50% equity stake). 
+ 
+What about possible competitors?  Are there similar products in the market? 
+ 
+There are three companies that make similar games.  There are six titles in all in this space.  
+Each title currently has an equal share of the market.   
+ 
+Ok, now I will try to estimate what this company’s potential share of this market could be by 
+products sold per year.  In order to get to this number, I will estimate the target market size and 
+then multiply that by the number of games bought per person in that market per year.   
+ 
+That sounds like a reasonable approach.  How would you go about getting to those figures? 
+ 
+I’d start by assuming that the primary gamer demographic is male, and between the ages 15-35.  
+To figure out how many people fit that category, I’d start with the total US population.  Let’s 
+say it’s about 300 million for ease of calculation.  I would assume that the 15-35 age group 
+
+
+===== PDF p41 =====
+37 
+Case Interview Study Guide © 
+ 
+comprises about a third of the total population, or about 100 million people.  Males would 
+number half that population, so the market will be 50 million people.  Of these, I would assume 
+that about 20% are gamers, so that they number about 10 million.  Of these gamers, I would 
+assume only 20% will like this game, which equates to about 2 million people.  That’s my total 
+market size.  To get to the total number of potential unit sales of these types of games per year, 
+I’ll assume that the number of games purchased by this group per year is only 1.  As a result, I 
+would assume 2 million per year in unit sales of this type of product for the rest of the case. 
+ 
+That’s the total market for these types of games.  What about for this company? 
+ 
+Well, total games bought per year are about 2 million, and there are seven possible choices of 
+similar games.  I’ll assume that the company can get an equal market share at market saturation, 
+which equals about 14% of unit sales.  Since we are only looking at the first year, however, this 
+number is too aggressive.  It is more reasonable to assume they can reach 10% of the market 
+now, or sell 200K games. 
+ 
+(Note: The specific numbers are not as crucial as the thought process of getting to the final 
+number) 
+ 
+Ok, now you have a number for total unit sales.  What would you do next? 
+ 
+Based on this potential sales number, I would try to estimate the potential revenue from this 
+product per year.  Assuming that the company will charge the going rate for video games, which 
+usually cost about $30 to $50, I’m going to estimate that the company can charge $40 dollars per 
+game for the rest of the case.  To get to the profit margin, however, I will also need cost 
+information.  Does the company have an idea of what the manufacturing, packaging and 
+shipping costs per unit will be? 
+ 
+Unfortunately, the company does not yet have that information.  How would you estimate it? 
+ 
+Since this is not a capital intensive product, I would assume these costs per unit to be about 10-
+15% of revenue.  That would equal about $6 per unit.  However, I would also want to get a 
+better sense of their distribution costs.  Does the company have an estimate of what these may 
+be? 
+ 
+They do.  In their first year, they don’t want to develop a direct to consumer channel due to the 
+warehousing/distribution elements involved.  Instead, they must sell the software through retail 
+stores, such as Bestbuy. The retail stores take 30% margin on the selling price. There is also a 
+consumer marketing support charge from retailers that comes to 10% of selling price.  This 
+marketing fee covers all costs necessary to market the product.   
+ 
+Ok, so the fee to retail stores is 30% x $40, or $12.  The consumer marketing support charge is 
+another 10% x $40, or $4.  Are there any other variable costs? 
+No, these are all of the variable costs. 
+ 
+
+
+===== PDF p42 =====
+38 
+Case Interview Study Guide © 
+ 
+Are there any fixed costs associated with the company?  
+ 
+No, assume the fixed costs are zero. 
+ 
+Are there any taxes that need to be paid? 
+ 
+Assume there are no taxes. 
+ 
+Ok, with this information, I can calculate the expected profits for the first year.  The company 
+will expect to sell about 200,000 units at a contribution margin of $18 ($40-$12-$6-$4), which 
+yields a profit of $3.6 million.  Subtracting the salaries of $200,000, we are left with $3.4 
+million.  My share of this is 50%, or $1.7 million, which is more than three times the initial 
+investment of $500,000.  Based on these metrics, I would make the investment. 
+ 

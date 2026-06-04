@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2011_26_napoleon-s-pizza",
+  "school": "Fuqua",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2011.pdf",
+  "idx": 26,
+  "case_name": "Napoleon's Pizza",
+  "case_type": "Market Entry",
+  "round": "1",
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 126,
+  "pdf_page_end": 130,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    126,
+    127,
+    129,
+    130
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p126.png",
+    "exhibits/exhibit_p127.png",
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p130.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2011\\26_napoleon-s-pizza"
+}

@@ -1,0 +1,231 @@
+===== PDF p34 =====
+ICC Handbook 2020 
+30 
+ 
+ 
+Difficulty: Medium 
+Quant: Hard 
+Company: BCG 
+ 
+9.3 
+Gas Retail 
+Your client is the major operator (monopolist) in one of the largest 
+European gas market. His business includes two major activities: 
+Gas sales to households and firms (gas bought from large 
+producers in Russia, Norway, Algeria…), and Gas transportation 
+from the national border,  where it is delivered by the producer,  to 
+the end consumers. This implies the existence of a large 
+ensemble of infrastructures: transportation network, distribution 
+network, storage equipment, methane terminals… 
+ 
+Let’s discuss the challenges on the natural gas market after 
+market liberalization in Europe. 
+ 
+Situation 
+Concretely, the market’s deregulation means 
+• The end of the monopoly for the gas sales; the arrival of new 
+competitors 
+• The preservation of the monopoly on transportation, but under 
+the surveillance of an independent authority that guarantees 
+equal access to all competitors 
+ 
+Your  client is at the head of the purchases/sales department.  
+He is in the following situation: 
+• Today, company market share is 100% 
+• At a certain point in the next years the market will at once 
+be opened to competition 
+• (which is a simplified way of putting it since in reality there 
+will be stages) 
+ 
+Client’s question 
+About the gas sale activity that will be opened to competition: 
+What will be the level of competitive intensity at opening? What 
+actors are likely to become my competitors? 
+ 
+Evaluate the case 
+According to you, how many and what types of competitors are 
+likely to enter the market? (Structure) 
+ 
+I believe I would need to evaluate the market attractiveness 
+(market growth, profitability/margin, risks) and the entry barriers 
+(gas availability, brand). I would need to ask the following questions: 
+What are the rules of the game/key success factors (access      
+to suppliers, customer intimacy, cost advantages, branding…)? 
+How are other players positioned to enter the market? 
+What are their competitive advantages thanks to synergies with 
+other activities (electricity, services …)? 
+ 
+Let us focus on the gas retail sale activity’s attractiveness. There 
+are three dimensions you should consider: the natural gas 
+market’s growth potential, the profitability of this activity and the 
+risks associated with it. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Let us start with the market’s growth potential. What are the 
+market’s growth levers? (Structure) 
+ 
+I would differentiate between firms and households. The key 
+levers by client type would be: Households: network penetration, 
+share of gas vs. other energies; consumption of gas/household 
+(climate, isolation…) 
+Firms: same as households, plus industry growth, productivity, 
+competitiveness with other energy forms 
+ 
+Given the market’s main growth levers for the firms’ segment and 
+for the households’ segment, do you think that the market will 
+strongly grow, stagnate, or decrease? (Judgment) 
+ 
+For the households, I would estimate the rise of penetration 
+(network extension) but, overall, I think the consumption will 
+decrease due to global warming and to better built houses. For the 
+firms, I think it will decrease, especially in industries that consume 
+a lot of gas (general price and risk issues). 
+ 
+So what is your conclusion? (Synthesis, So what) 
+ 
+I think there will be weak or inexistent growth. A new entrant will 
+have to take clients from the major player. 
+ 
+Can you imagine what a gas retailer’s cost structure is? 
+(turnover = 100)? (Synthesis, Structure) 
+ 
+I believe it would include the energy itself (cost of goods – gas), 
+the infrastructure cost and sales and marketing costs (commercial). 
+ 
+Here is a simplified cost structure: gas – 50%, infrastructures – 
+40%, commercial costs – 7% and the margin is around 3%. What 
+cost advantage can a new entrant expect to build for each one  of 
+these costs? (Judgment) 
+ 
+Most probably, there is a small opportunity of differentiation 
+through costs: 
+• Gas is sourced at comparable prices 
+• Infrastructure prices are identical for all competitors 
+• New entrants have to invest rather more in marketing 
+• New entrants are not expected to have a productivity lever 
+and only have a small pricing lever. 
+ 
+I would have to check these assumptions. 
+ 
+Let us put ourselves in the shoes of a household client whose 
+yearly gas invoice amounts to € 500. What is the price reduction 
+potential for a new entrant? Can you give a rough estimate? 
+(Judgment, Rigor) 
+
+
+===== PDF p35 =====
+ICC Handbook 2020 
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If I assume I can reduce commercial/marketing costs by 33% (500 
+x 7% x 33% = 11.55)  and I allow a 50% lower margin    (500 x 3% 
+x 50% = 7.5), then a new competitor can reduce the gas price 
+around € 15–20/year (11.55+7.5=19). This might allow it to 
+compete with the established client. Marketing costs can be 
+reduced if the new entrant is already established in other energy 
+markets and benefits from scale and known brand name. 
+ 
+What can we conclude on a new entrant’s margin level? (Synthesis) 
+ 
+Margin will necessarily have to be weak or inexistent to attract 
+clients and draw away from established player. 
+ 
+Let us now consider the risks borne by our retailer. In order to 
+simplify, let us focus on what is called the climatic risk. The sales 
+volumes will vary a lot depending on the year, whether the winter 
+is cold or not. During a “warm” year, let’s suppose that the heating 
+volumes decrease by 10%, that the cost of supply/gas are totally 
+variable, that the commercial costs are totally fixed, that the 
+infrastructure costs are partly flexible, at 70%. What will be our 
+gas retailer’s margin? (Structure, Rigor) 
+ 
+I am basing my analysis on the sales and cost structure of a 
+normal year (turnover = 100). Then I calculate the value of each 
+cost block for a warm year, also the margin and compare with the 
+margin in a normal year. 
+ 
+Cold vs. warm 
+Sales: 
+100 vs. 90 (-10%) 
+ 
+Gas: 
+50 vs. 45 (-10%) 
+Infrastructure: 40 vs. 38.8 (30% of 40 is variable, makes 12, 
+10% reduction makes 1.2) Commercial: 7 stay 7 
+Total cost: 97 vs. 90.8 
+Margin: 
+3 vs. -0.8 
+In a warm year, it is more expensive to sell gas, so it is a high 
+risk business. 
+ 
+What can we deduce from this risk calculation? (Judgment) 
+ 
+The climatic risk is too high to justify the small margin in a normal year. 
+ 
+Your first meeting with your client is tomorrow morning. What can 
+you tell him/her to answer his/her question based on the analyses 
+that we have just done together? (Synthesis) 
+Well, the market  is  not  that  attractive  and  new  entrants  are a 
+weak threat. 
+ 
+Finally, it looks like our major player does not have to worry; the 
+gas retailer activity’s attractiveness is so weak that one would 
+have to be stupid to venture in it at its opening! But why would    it 
+be a big mistake to tell our client not to worry? (Creativity) 
+We are not working on the right strategic segment:  the  gas retail 
+sale segment in not independent of the electricity sale and 
+services, as soon as the monopoly disappears. We have been 
+influenced by the client’s historical view. 
+ 
+In fact there is a bias in our reasoning from the start. What is it? 
+(Creativity) 
+ 
+We have looked at the gas market on a  stand-alone basis.  But 
+we need to take into account that the rules of the game might 
+change and that other energy providers might enter the market. 
+Those providers might offer additional products to the gas client: 
+electricity, oil, services or other products. 
+ 
+Are there other levers that would enable a player to enter the gas 
+market in a profitable way? (Creativity) 
+ 
+By offering other energy products or services and products, there 
+can be synergies with the gas supply: 
+• Channel diffusion/delivery costs 
+• Margins from other services can cover production risk 
+ 
+On the other hand, there could be cost synergies on the 
+commercialization: 
+• Client back-offices could combine gas and electricity sales 
+• Brand and client acquisition 
+ 
+Who could the other new players in the gas market be? (Judgment) 
+ 
+Potential new players that bring additional value to the client could 
+be major electricity firms, major oil producers and/or major 
+retailers. For the electricity firms, synergies would be mainly based 
+on the commercialization cost synergies, also for retailers. For the 
+oil producers, there are synergies on the supply side. 
+ 
+What can we finally say to our client? (Judgment) 
+ 
+The threat is real; the firm’s traditional strategic vision must be 
+questioned due to the emergence of the new market conditions 
+and rules of the game. Examples of dangerous players are large 
+power firms, oil producers if they don’t have more profitable 
+investments to make and a partnership between a large European 
+energy player and a large retailer. 

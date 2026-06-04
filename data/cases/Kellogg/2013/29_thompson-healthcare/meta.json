@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2013_29_thompson-healthcare",
+  "school": "Kellogg",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2013.pdf",
+  "idx": 29,
+  "case_name": "Thompson Healthcare",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 237,
+  "pdf_page_end": 243,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    239,
+    240,
+    241,
+    242
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p239.png",
+    "exhibits/exhibit_p240.png",
+    "exhibits/exhibit_p241.png",
+    "exhibits/exhibit_p242.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2013\\29_thompson-healthcare"
+}

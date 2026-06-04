@@ -1,0 +1,24 @@
+{
+  "case_id": "Columbia_2006_01_bank-increasing-market-share",
+  "school": "Columbia",
+  "year": "2006",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2006.pdf",
+  "idx": 1,
+  "case_name": "Bank Increasing Market Share",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 7,
+  "pdf_page_end": 12,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    9,
+    10
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p009.png",
+    "exhibits/exhibit_p010.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2006\\01_bank-increasing-market-share"
+}

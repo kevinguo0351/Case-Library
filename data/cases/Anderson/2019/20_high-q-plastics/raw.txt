@@ -1,0 +1,201 @@
+===== PDF p172 =====
+20 / High Q Plastics
+• Our client, High Q Plastics, is an automotive parts supplier in the US. They primarily manufacture and sell plastic injection-molded
+parts, such as grills, door handles, decorative trim, etc. to automotive customers
+• The client has two primary revenue sources: large automotive OEMs, and aftermarket. The client has recently seen declining
+profits, primarily due to increased price competition from new overseas competitors in China. Annual profits have declined from
+$50M to $20M over the last few years.
+• What is the reason behind declining profitability? How can High Q improve profits? Can they reach $100M in profit by 2014?
+Overview for Interviewer
+Industry:
+Industrial Goods
+Case Format:
+Improving Profitability through cost reduction.
+Quant/Structure Score: 8/5
+Concepts Tested:
+• Competitive Analysis
+• Creativity
+• Operations
+Notes
+• The interviewee should examine the following MECE questions
+about the competitive dynamics of the industry.
+• Industry:What is the sales volume trend? What is the % of demand and
+growth of OEM vs. aftermarket segment? Is one of these segments more
+profitable than the other?
+• Competitors: Who are they? What is their relative market share? What
+are their prices vs. our clients’? What is their cost structure vs clients?
+Do they have the tech or quality competitive advantage relative to client?
+• Revenue: How have our clients prices changed in recent years? have they
+declined across all customers and products?
+• Costs: What trends is our client seeing in their cost structure? Increasing
+labor and material costs?
+
+
+===== PDF p173 =====
+Interviewer Guidance
+Clarifying Answers to Provide if Asked
+Industry Characteristics
+• Automotive sales overall still growing
+steadily, driven by emerging markets
+• Automotive manufacturing is leaving
+the United States
+Client Characteristics
+• Client is currently one of the leaders
+• Client has US based mfg
+• Revenues have slowly declined for the
+last fifteen years
+• Clients products are higher quality
+than Chinese competitors’
+Competitive Dynamics
+• Automotive
+OEM
+customers
+are
+looking
+to
+reduce
+cost,
+driving
+increased price competition among
+parts suppliers
+Questions & Hand Out Guide
+1. What key questions would you ask an industry expert in order to better 
+understand the reasons behind High Q’s declining profits? 
+2. The CEO of High Q wants to know if $100M in annual profit is achievable 
+by 2014. What would you need to know in order to determine this? 
+3. What ways can you think of to increase revenues? Reduce costs? 
+4. Our client is planning to implement lean manufacturing across all four of 
+its US plants in order to provide cost savings and increase profits. (EX1) 
+1. The client is expecting to produce 80% of 2010 volumes (this is a 
+frequently missed step in calculation) in 2014
+2. Planning to reduce prices by 10%
+3. Lean manufacturing across all plants will provide 20% savings in 
+raw materials and 30% savings in labor. 
+4. What is the change in profits the High Q CEO can expect from 
+2010 to 2014 based on this information? 
+5. High Q’s CEO has also asked us to take a look at competitive dynamics 
+among the automotive OEMs in order to predict any increase in profits 
+from increased sales. (Hand Exhibit 2 & 3) 
+6. Please summarize your findings to the CEO, including any other potential 
+opportunities to increase High Q profit in the next few years. 
+
+
+===== PDF p174 =====
+Core Case Question 1
+1 / Break Even & Market Potential 
+What key questions would you ask an industry expert in order to better
+understand the reasons behind High Q’s declining profits?
+Notes to Interviewer
+Interviewee should examine the following MECE questions about the competitive dynamics of the industry:
+1. Industry / What is the sales volume trend? What is the % of demand and growth of OEM vs aftermarket segment? Is one of
+these segments more profitable than another?
+1. Competitors / Who are they? What is their relative market share? What are their prices vs our clients’? What is their cost
+structure vs. our clients’/ Do they have a tech or quality competitive advantage relative to our clietn?
+1. Revenue / How have our clients prices changed in recent years? have they declined across all customers and products?
+1. Costs / What trends is our client seeing in their cost structure? Increasing labor and material costs?
+
+
+===== PDF p175 =====
+Core Case Question 2 & 3
+2 / Break Even & Market Potential 
+The CEO of High Q wants to know if $100M in annual profit 
+is achievable by 2014. What would you need to know in order 
+to determine this? 
+Notes to Interviewer
+In order to understand if $100M in profits by 2014 is
+achievable, the candidate will need to know the following:
+• Annual quantity sold
+• Selling price
+• Clients fixed & variable costs
+Profit = Q*(P-VC)-FC
+Interviewee should come up with 2-3 ways each for cost
+reduction and increasing revenues. A few examples include:
+Reduce Cost / find alternative material sources, invest in
+process automation to reduce labor, consolidate multiple
+manufacturing sites to reduce SG7A, relocate close to
+customers to reduce transportation costs
+Increase Revenue / segment customers to determine price
+sensitivity,
+increase
+marketing
+in
+aftermarket
+segment,
+negotiate long-term contracts with OEM customers.
+What ways can you think of to increase revenues? Reduce 
+costs? 
+3 / Brainstorming Increases in Profit
+Notes to Interviewer
+
+
+===== PDF p176 =====
+Core Case Question 4
+4 / Lean manufacturing and cost savings 
+Our client is planning to implement lean manufacturing across all four of its US plants in order to provide cost savings and 
+increase profits. (Exhibit 1) 
+1. The client is expecting to produce 80% of 2010 volumes in 2014
+2. Planning to reduce prices by 10%
+3. Lean manufacturing across all plants will provide 20% savings in raw materials and 30% savings in labor. 
+4. What is the change in profits the High Q CEO can expect from 2010 to 2014 based on this information? 
+The interviewee should use the information provided to 
+calculate the probability for each plant in 2014 (left). It is 
+important to note that revenues, labor, and material will 
+decrease by 20% due to the reduced quantity output, plus the 
+additional 20% savings in material and 30% in labor. 
+Overhead costs will not change. 
+From this calculation, the interviewee should reference question two. Even with lean manufacturing implementation, High Q is 
+still a long way from the CEO’s goal of $100M in annual profits, and is therefore likely unrealistic. A strong candidate will
+make note of this. If they do not, it may be worth asking them if they have any larger insights from this section. 
+
+
+===== PDF p177 =====
+Core Case Question 5 & 6
+Notes to Interviewer
+5. High Q’s CEO has also asked us to take a look at competitive dynamics among the automotive OEMs in order to predict any 
+increase in profits from increased sales. (Hand Exhibit 2 & 3) 
+Interviewee should be able to use the information provided in the exhibits to calculate the following 
+6. Please summarize your findings to the CEO. Include any potential opportunities to increase High Q profit in the next few years.
+Interviewee should concisely summarize overall goal of case (increase declining profits due to new, low cost competition, and
+main findings from each question, as well as a recommendation. (Yes, they should implement lean manufacturing). Interviewee 
+should also generate a list of additional opportunities not included. 
+a. consolidation of 4 major manufacturing plants 
+b. pursue growth in the aftermarket segment 
+c. diversify business into plastic injection-molded parts for other industries with less price competition 
+
+
+===== PDF p178 =====
+Exhibit 1 
+
+
+===== PDF p179 =====
+Exhibit 2
+
+
+===== PDF p180 =====
+Exhibit 3 
+
+
+===== PDF p181 =====
+Potential Structure
+Industry
+• Sales volume trends? 
+• % of demand for OEM
+• % demand for aftermarket
+• Is one better than others? 
+Competitors
+• Who? 
+• Relative market share
+• what are their prices? 
+• cost structure? 
+• technology? 
+• comp advantage? 
+Profit Tree
+• Revenue
+• how are clients prices? 
+• have competitors prices 
+dropped also? 
+• Costs
+• Trends? 
+• Labor costs? 
+• SG&A
+• Materials 

@@ -1,0 +1,142 @@
+===== PDF p137 =====
+133
+Winter Olympics Bidding
+Case tracker
+▪Industry: Media & Entertainment
+▪Case format: Opportunity Assessment
+▪Concepts being tested:
+- Basic NPV
+- Breakeven analysis
+Case Question
+▪Our client, a major US television network, is trying to figure out how much to bid for the exclusive right to broadcast the
+2022 Winter Olympics Games in the U.S.
+▪The Winter Olympics are a huge deal and will require a significant amount of capital to secure the rights, so our client has
+brought us in to help them figure out the right bid amount after considering all relevant factors.
+Guide to interviewer
+▪This is a very quantitative case that requires the
+interviewee to run the numbers on an Olympics bid. The
+candidate will have to decide potential ad revenue/cost
+information, as well as the NPV, to determine bid size.
+▪The candidate will need to ask for additional information
+that is necessary to solve the problem, rather than
+relying on the interviewer to dispense it. After getting the
+initial calculations right, there are a lot of implications
+that may change the level of the bid.
+▪Especially for less finance-minded interviewees, you may
+have to help nudge candidates through the math.
+By: Chris Dupre (Kellogg Class of ‘03), Edited By: Uri Kalir (Kellogg Class of ‘12)
+Quant: 8
+Structure: 4 
+Industry: Media
+Framework: Opportunity 
+Assessment
+
+
+===== PDF p138 =====
+134
+Clarifying answers and case guide 
+Guide to case
+Part 1 – Quantitative discussion
+- Candidate should determine that this is a cost-benefit / NPV analysis.
+- Candidate should identify potential revenue streams from hosting the
+Olympics, i.e. ad revenue, product placements, etc.
+- Then, the candidate will have to figure out if this is a good investment. They
+should identify 3 costs (production costs, opportunity costs, and time value of
+money). By factoring in these costs, the candidate will find out if the Olympics
+are worth the investment.
+- Some of the numbers and assumptions here are difficult, so nudge the
+candidate along if necessary.
+Exhibit 1 – Provide Winter Olympics schedule if asked
+- Give to candidate once he/she identifies ad revenues
+Part 2 – Qualitative discussion
+- After finding the NPV of $200M, ask the candidate about intangible factors,
+benefits, and risks. Some critical factors:
+- Might give network access to new viewers
+- There is prestige associated with hosting this event
+- We can use the air time to promote other programming
+- Opportunities for product tie-ins, supplemental revenue
+- After finishing the discussion, ask the candidate for a recommendation.
+Clarifying answers to provide
+Revenues
+- No subscription revenue, but can keep
+100% of advertising revenue
+- Ad rates are $400K/30 second ad for
+prime time (M-F 7-11 PM, all weekend)
+and $200K/ad for non-prime time
+- Market research has shown that you
+can include no more than 10 minutes of
+advertising per hour.
+Costs
+- $482M of total production costs
+- Opportunity cost: $1M/hour
+- Time value of money: 4 year lag for
+receipt of revenue
+
+
+===== PDF p139 =====
+135
+Math questions
+Math solution
+1) Total revenues should be equal to $928M for the project.
+• Primetime: Weekdays (M-F): 10 weekdays x 4 hrs/day x 10 min/hr x 2 slots/min x
+$400,000/ad = $320M
+• Non-prime: Weekdays (M-F): 10 weekdays x 6 hrs/day x 10 min/hr x 2 slots/min x $200K/ad
+= $240M
+• Weekend: 4 days x 10 hrs/day x 10 min/hr x 2 slots/min x 400K/ad = $320M
+• Opening/Closing: 2 days x 3 hrs/day x 10 min/hr x 2 slots/min x 400K/ad=$48M
+2) Total profit should be equal to $300M.
+• Profit: Revenues $928M - $482M of total costs - $146M of opportunity cost (2 days x 3 hours
+x $1M/hr + 14 days x 10 hours x $1M/hr) = $300M
+3) NPV should be equal to $200M.
+• Discount rate: 1.104 = 1.4641 (ask candidate to round to 1.50)
+• $300M/1.5 = $200M
+Math question
+1) Calculate the revenue from broadcasting the Winter Olympics.
+2) Factoring in costs, is this a good investment? Find the NPV.
+Math information
+Revenues
+- $400K/ad for prime
+time (M-F 7-11 PM, all
+weekend) and
+$200K/ad for non-
+prime time
+- 10 minutes/hour of
+advertisements
+Costs
+- $482M of production
+costs
+- Opportunity: $1M/hr
+- WACC: 10%
+
+
+===== PDF p140 =====
+136
+Solution and recommendations
+Solution & Recommendations
+▪While the NPV of the project is $200M, the fact that there are other intangibles (new viewers, plugging our
+programs, and prestige) the bid should just be $200M.
+▪While there is no one correct answer, most answers should be in the range of $200M. If there is significant
+fluctuation from $200M, the candidate will have to provide in-depth justifications and make a concrete argument.
+Bonus/Guide to an Excellent Case
+▪This case tests the interviewee’s comfort with numbers and understanding of how intangible factors may influence 
+financial value. The bid process requires another level of understanding around game theory and what dynamics will
+ultimately determine the value of the bid beyond NPV.
+▪Ultimately, the best interviewees will make a very strong argument using the facts provided and support their bid
+and explain why they moved their bid from the NPV figure.
+▪There is also a lot of room for creativity for the interviewee to discuss other factors, including supplemental streams
+of revenue, intangible factors, and things to consider during the bid process.
+
+
+===== PDF p141 =====
+Exhibit #1
+Day 1
+Opening Ceremonies (Friday)
+Day 2-15
+Day 16
+Closing Ceremonies (Saturday)
+8-11pm
+Weekday: 9am-12pm, 2-5pm, 7-
+11pm
+Weekend: 11am-9pm
+8-11pm
+Winter Olympics Schedule

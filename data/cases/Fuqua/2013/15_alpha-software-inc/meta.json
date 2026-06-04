@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2013_15_alpha-software-inc",
+  "school": "Fuqua",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2013.pdf",
+  "idx": 15,
+  "case_name": "Alpha Software, Inc.",
+  "case_type": "Profitability",
+  "round": "2",
+  "industry": "Software/Technology",
+  "difficulty": null,
+  "pdf_page_start": 123,
+  "pdf_page_end": 131,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p125.png",
+    "exhibits/exhibit_p126.png",
+    "exhibits/exhibit_p127.png",
+    "exhibits/exhibit_p128.png",
+    "exhibits/exhibit_p129.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2013\\15_alpha-software-inc"
+}

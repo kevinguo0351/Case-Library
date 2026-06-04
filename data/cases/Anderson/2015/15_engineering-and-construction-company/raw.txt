@@ -1,0 +1,126 @@
+===== PDF p84 =====
+Case 1: Engineering and Construc8on Company  
+Company: Booz & Co. 
+ 
+A large engineering, procurement, and construcPon company has seen their valuaPon drop recently.  
+They build large reﬁneries and large industrial plants. They are global in nature and operate in four  
+main regions. This company is a recent roll-up of three smaller companies that operate  
+independently.  They have $1bn in revenue. 
+ 
+Instruc8on to the interviewer: The objecPve of this case is 
+- 
+To see if the candidate can comprehensively explore the possible reasons and causes of  
+declining market valuaPon 
+- 
+To see if the candidate can structure and arPculate an intelligent structure with which to  
+approach the problem 
+- 
+To see if the candidate can complete simple mathemaPcal analysis 
+The case should start with the candidate hypothesizing the reasons that could lead to declining  
+valuaPon. This is a simple test of idea generaPon. Ask the candidate to list a structure with which  
+they will approach the problem.  Does it seem reasonable and comprehensive? 
+ 
+Case Facts: 
+- 
+Revenue growth has been strong organically and from acquisiPons 
+- 
+There is a backlog of work – lots of business 
+- 
+Margins have been shrinking 
+Ques8on: What would you think the main reasons for shrinking margins would be? 
+Possible Answers: 
+- 
+Lack of integraPon of the three units 
+- 
+Poor reporPng 
+- 
+CompePng business units 
+- 
+MulPple procurement units 
+- 
+Lack of cross-selling over the units 
+- 
+Lack of knowledge sharing across units 
+- 
+High-revenue but unproﬁtable clients 
+- 
+No prioriPzaPon of backlog 
+- 
+Sales force compensaPon structure 
+- 
+Declining business need for their services – long-term 
+ 
+Math Problem: The Company thinks they have an idea as to where they could improve their costs  
+awer integraPng. Their goal is to increase their margins by 10%. (Note: the candidate has already  
+been told the company has $1bn in revenues) 
+Business Unit 
+# of Engineers 
+Utilization 
+1 
+1,800 
+50% 
+2 
+3,000 
+90% 
+3 
+1,200 
+50% 
+3 
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of  
+Business 
+
+
+===== PDF p85 =====
+Case 1: Engineering and Construc8on Company  
+Company: Booz & Co. 
+Sample Framework 
+
+
+===== PDF p86 =====
+Ques8on: The industry benchmark for opPmal uPlizaPon is 80% and engineers make $100k each.  Will 
+they make their margin goal?  Is this a signiﬁcant savings? 
+ 
+Math Solu8on: 
+Business Unit 
+# of Engineers 
+Utilization 
+Effective Man-Hours 
+1 
+1,800 
+50% 
+900 
+2 
+3,000 
+90% 
+2,700 
+3 
+1,200 
+50% 
+600 
+Total 
+6,000 
+4,200 
+4,200 = # of Engineers * 80% 
+# of Engineers needed = 5,250 
+6,000 - 5,250 = 750 positions could be eliminated 
+750 * $100k = $75m 
+$75m / $1bn = 7.5% margin increase 
+Ques8on: What would you think are some possible concerns with integraPng the three units? 
+Possible Answers: 
+- 
+Diﬀerent corporate cultures 
+- 
+Diﬀerent global areas of operaPons 
+- 
+Do they operate in fundamentally diﬀerent businesses? 
+- 
+Lack of a suﬃcient reporPng system 
+- 
+Will the dynamics of the integraPon be communicated clearly 
+- 
+Time frame of integraPon – 3 months versus 3 years 
+ 
+Final:  Ask for a 30-second wrap-up 
+4 
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of  
+Business 

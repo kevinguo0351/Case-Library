@@ -1,0 +1,293 @@
+===== PDF p124 =====
+120 
+Case 18: DigiBooks Inc. 
+Case tracker 
+Fit Questions 
+ Industry: Tech/Telecom 
+ Level of Difficulty: Easy 
+ Case Format: 
+Developing a new 
+product 
+ Concepts Tested: 
+- Marketing Strategy 
+- Customer strategy 
+- Creativity 
+Case Question 
+ Our client, DigiBooks, is a manufacturer and seller of electronic book readers (tablets). DigiBooks also distributes e-books 
+for the tablets through their website. The tablet is only compatible with books sold through the DigiBooks site. 
+ DigiBooks is planning the launch of its tablets in a country where no electronic book readers are currently sold. Only 1% 
+of the population has ever used an electronic book readers , though 50% is aware of the concept. The Chief Marketing 
+Officer of DigiBooks has come to you to help determine: 
+ How should DigiBooks launch and market DigiBook tablets in this new country? 
+Spend first 15 min on fit 
+ Tell me about a time 
+when you failed. 
+ Share me a time when 
+you faced a difficult 
+situation in a team and 
+how you solved this . 
+Guide to interviewer 
+ The case primarily tests the understanding of marketing 
+concepts, specifically a new product launch.  
+ 
+ The case is written in McKinsey style format; the 
+interviewer is expected to guide the interviewer step by 
+step through each question. 
+ 
+ Begin by laying out the situation and case question, allow 
+the interviewee to layout their structure, and then jump 
+immediately to question 1. The interviewer is expected 
+to drive this case rather than the interviewee. 
+Quants. 
+4 
+Structure 
+7 
+MKT Stgy 
+Cust. 
+Stgy 
+Creativity 
+By: Shobhit Chugh (Kellogg Class of ’11), Edited By: Adam Louras (Kellogg Class of ’11) 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p125 =====
+121 
+Clarifying answers and case guide  
+Interviewer Guide to case and handouts 
+Case Structure – Interviewee’s structure should  cover the key areas needed to explore 
+in order to determine how DigiBooks should launch and market the tablets in this 
+country. 
+• The interviewee should take a few minutes to sketch out a framework for 
+analysis of the marketing plan 
+• Key elements expected to be included in this framework are: 
+• Segmentation, targeting and positioning: Are there particular 
+segments in the population that will be ideal customers for us? 
+• Product: What key capabilities are people looking for? Can we use our 
+existing products or do we need to develop a new one for this country? 
+• Price: What price should the tablets and books be sold at? What is 
+customers willingness to pay? Should we price the tablet at a low price 
+so as to capture most of the market, and make margin on e-books? 
+• Promotion: How should the tablets be marketed? What promotion 
+mechanisms should be used? 
+• Place/Distribution: Should the tablets be sold through retail channels, 
+internet or other alternative means? 
+• Selection of e-books: Is a wide selection of books available for this 
+country? 
+Prompts 1-3 – After the interviewee has laid our their structure, begin by asking the 
+question in Prompt 1.  Once each prompt has been sufficiently covered, move to the 
+next prompt.  After all prompts are complete, ask the interviewee to summarize their 
+findings.  NOTE: Prompt 2 allows for creativity, so use your judgment when evaluating. 
+ 
+Clarifying answers to provide if Asked 
+Industry Definitions 
+- Electronic book readers: Is a software, 
+hardware and network platform that 
+utilizes wireless connectivity to enable 
+users to shop for, download, browse, 
+and read e-books, newspapers, 
+magazines, blogs, and other digital 
+media. 
+Client Characteristics 
+- DigiBook’s Tablet: Uses an e-ink 
+electronic paper display that features 16 
+shades of grey. This allows for a 12 hour 
+long battery life and easy readability. 
+- Locations: DigiBook has never sold a 
+product outside of the US.  
+Competitive Dynamics 
+- No competitors in the e-book or tablet 
+space plan to enter this country 
+Market Characteristics 
+- Total population of the country 76MM, 
+high literacy level 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p126 =====
+
+If unclear, the interviewee should answer this with 
+a 1-year Gross Profitability calculation for each of 
+the Sales Channels and back out the Upfront 
+Investment.  They should ignore all other costs 
+such as SG&A. 
+
+There is no missing data; however, the Market Size 
+of 20M people in the OR segment is needed from 
+Exhibit 1 and the price per e-book of $10. 
+
+Using Exhibit 2, interviewee should calculate: 
+
+Retail Profit = [(10 Books x $10/book x 50%GM) 
++ ($100/tablet x  30%GM)] x (10M People x 40% 
+Penetration) = $320M - $20M II = $300M 
+
+Internet Profit = [(10 Books x $10/book x 
+50%GM) + ($100/tablet x 60%GM)] x (10M 
+People x 10% Penetration) = $110M - $10M II = 
+$100M 
+
+ANSWER: Sales Channel to Use = Retail with a 
+profit of $300M 
+122 
+Key elements to analyze 
+Prompt #1: Cust. Strategy 
+
+Through research, we found several 
+segments. (Hand out Exhibit 1). We are only 
+able to target one segment with our product. 
+
+Using a 3-year projection, which segment 
+should DigiBook target?  
+Prompt #2: MKT Strategy 
+
+DigiBooks is now considering how it should 
+sell its e-book readers: through retail stores or 
+through the internet.  
+
+How would you go about evaluating this 
+decision? 
+ 
+Prompt #3: MKT Strategy 
+
+Based on revised market estimates, we decided to 
+price the e-reader at $100 and target the 
+Occasional Reader segment. 
+
+Using this information and Exhibit 2, can you 
+estimate the profit potential of each of these sales 
+channels? Which should we choose? 
+
+What segment would you recommend to your 
+client? 
+ 
+Notes on Exhibit 1 
+
+If unclear, the interviewee should answer 
+based on Revenue Potential (i.e. Ignore 
+probability of purchase) assuming all tablet 
+sales happen immediately (Ignore TVM). 
+
+The missing data is that the average price of 
+an e-book is $10, for each of the segments, 
+and that e-books and tablets have the same 
+margin 
+
+Using Exhibit 1, interviewee should calculate: 
+
+SR Revenue = [(15 books x $10 X 3 Years) + 
+($200 x 1 tablet)] x 8M People = $5.2B 
+
+OR Revenue = [(10 books x $10 x 3 Years) 
++ ($125 x 1 tablet)] x 20M People = $8.5B 
+
+RR Revenue = [(5 books x $10 x 3 Years) + 
+($175 x 1 tablet)] x 10M People = $3.25B 
+
+ANSWER: Segment to be targeted = 
+occasional readers (OR) with a Revenue 
+Potential of $8.5B 
+Notes on Prompt #2 
+• Retail Channel Sample Responses: 
+
+ CONS: 
+
+Lower margin due to value chain 
+expansion 
+
+Will take time and money to set up 
+and adds training costs 
+
+PROS: 
+
+Should encourage Trial of the product 
+
+Retailers can help with joint marketing 
+campaigns 
+
+Retailers can help with  customer 
+service, returns 
+• Internet channel Sample Reponses: 
+
+PROS: Likely cheaper to establish, will 
+result in higher margins 
+
+CONS: Hard to encourage trial 
+Notes on Exhibit 2 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p127 =====
+123 
+Solution and recommendations 
+Solution & Recommendations 
+ Overall, DigiBooks should launch the e-book reader for the Occasional Reader segment through the Retail Sales 
+Channel. 
+  Based on our calculations, we expect to earn a $300MM return on an initial investment of $20MM 
+ Other items to consider: 
+ What advertising mechanisms do we use in this case? 
+ Do we setup a manufacturing facility in the country or do we source the products from our current 
+manufacturing facilities? 
+ Are there any prospects of competitors entering the market? 
+Bonus/Guide to an Excellent Case 
+ An better interviewee notices key nuances in the case such as: Time Value of Money impacts on Exhibit 1 and 
+Probability of Purchase or Penetration on Exhibit 1 
+ An excellent interviewee will detail various elements of marketing strategy of a new product launch 
+ A key element of this case is being able to do relatively complex calculations at a fast pace. Laying out the tables 
+appropriately for this case is essential to success 
+ 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p128 =====
+124 
+Exhibit #1: Market segments 
+Segment 
+Size 
+Super Readers (SR) 
+8M 
+Occasional Readers (OR) 
+20M 
+Rare readers (RR) 
+10M 
+$200 
+$125 
+$175 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p129 =====
+125 
+Exhibit #2: Channel decisions 
+Channel 
+Percent of 
+Total 
+potential 
+market 
+E book 
+Gross 
+Margin % 
+E-reader 
+Gross 
+Margin % 
+Penetration 
+Initial 
+investment 
+Retail 
+50% 
+50% 
+30% 
+40% 
+$20M 
+Internet 
+50% 
+50% 
+60% 
+10% 
+$10M 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 

@@ -1,0 +1,28 @@
+{
+  "case_id": "Tuck_2009_06_fine-china",
+  "school": "Tuck",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2009.pdf",
+  "idx": 6,
+  "case_name": "Fine China",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Goods / Retail",
+  "difficulty": null,
+  "pdf_page_start": 53,
+  "pdf_page_end": 57,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    53,
+    55,
+    56,
+    57
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p055.png",
+    "exhibits/exhibit_p056.png",
+    "exhibits/exhibit_p057.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2009\\06_fine-china"
+}

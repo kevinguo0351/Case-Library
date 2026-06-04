@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2013_13_wally-s-wire-factory",
+  "school": "Stern",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2013.pdf",
+  "idx": 13,
+  "case_name": "Wally's Wire Factory",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": "Normal",
+  "pdf_page_start": 93,
+  "pdf_page_end": 101,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    94,
+    95,
+    96,
+    98,
+    99,
+    100
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p098.png",
+    "exhibits/exhibit_p099.png",
+    "exhibits/exhibit_p100.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2013\\13_wally-s-wire-factory"
+}

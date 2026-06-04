@@ -1,0 +1,36 @@
+{
+  "case_id": "Fuqua_2017_03_salt-of-the-earth",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 3,
+  "case_name": "Salt of the Earth",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Mining & Metals",
+  "difficulty": null,
+  "pdf_page_start": 45,
+  "pdf_page_end": 57,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    48,
+    49,
+    50,
+    51,
+    53,
+    54,
+    55,
+    56
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p048.png",
+    "exhibits/exhibit_p049.png",
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p055.png",
+    "exhibits/exhibit_p056.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\03_salt-of-the-earth"
+}

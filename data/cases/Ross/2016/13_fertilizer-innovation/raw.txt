@@ -1,0 +1,113 @@
+===== PDF p179 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 13: Fertilizer Innovation, McKinsey (Round 1)
+ Your client is an agricultural products manufacturer. They invented a product called “Green Nutrient”. 
+This is going to help the farmers by allowing a variable fertilizer rate. The company is interested in a 
+pricing strategy and go-to-market options.
+ Industry: Industrial Goods
+ Difficulty: Medium
+ Format: Pricing
+ Concepts Tested: EVC, Price 
+Discrimination, Market 
+Segmentation
+ In this case the candidate should first focus on 
+understanding the product followed by a quantitative 
+assessment of the product’s benefits to various customer 
+segments
+ This should be followed by a qualitative discussion of the 
+various pricing mechanisms and other components of the 
+go-to-market strategy, such as placement and promotion
+
+
+===== PDF p180 =====
+176
+Interviewer Guidance to Case and Exhibits
+ “Green Nutrient” measures the amount of fertilizer 
+required, allowing for a “variable fertilizer rate”
+ Two main benefits: Reduces over-use (reduce costs) 
+and increase under-use (increase yield)
+ Benefit #1: 20% reduction in fertilizer cost per 
+acre. 1 bag / acre @ $15/ bag.
+ Benefit #2: Improve yield 2%. Current average 
+yield: 100 bundles/ acre @$ 2.5/ bundle
+ No competition
+ Farm size average about 400 acres
+ 1,000 Large farms: 1,000 acres
+ 3,000 Medium farms: 400 acres
+ 6,000 Small farms: 200 acres
+ Product lasts 10 years
+ Product production cost: $10K per unit
+ Unit works the same regardless of farm size
+ Discount rate: 0%
+Clarifying Information on Request
+ Provide information only when asked
+ Candidate should clarify if the product is a device or the 
+fertilizer itself
+Clarifying Information and Case Guidance
+
+
+===== PDF p181 =====
+177
+Possible Framework
+Framework
+Different pricing methods
+ Economic value to customer – savings from reduced fertilizer use, increased revenue form yield improvement
+ Cost plus – variable cost per unit, margin of similar product
+ Competitor based (market) – price of similar product, margin of similar product
+Go-to-market strategy 
+STP Analysis
+ Market size and segments by size of farm
+ Value proposition for each segment
+ Profitability analysis for each segment to decide targeting
+4P Analysis
+ Placement – Agriculture product retailers, direct to farmers, big box retailers, online etc.
+ Promotion – Trade journals, trade shows etc.
+Interviewer guidance: candidate should argue the pros and cons of each pricing method and decide that EVC is 
+the best way to go. 
+Give bonus points if candidate mentions price discrimination or price skimming. 
+
+
+===== PDF p182 =====
+178
+ Pricing analysis (Interviewee led)
+Math Question
+Math Questions and Solutions
+ EVC/Acre
+ $3.00 fertilizer savings per acre (20% * $15)
+ $5.00 yield increase ($2.5 * 100 * 2%)
+ Maximum WTP per acre: $8.00 per acre 
+ WTP for each farm type: Small - $16K ($8 * 200), Medium - $32K, Large - $80K
+ Customer segment analysis:
+ Large: If we price the product at $80k we sell 1000 profit $70M
+ Large & Medium: If we price the product at $32k we sell 4000; profit $88M Å BEST OPTION
+ All farms: If we price the product at $16k we sell 1000 profit $60M
+Math Solution
+
+
+===== PDF p183 =====
+179
+Recommendation
+ Our client should price the device at $32K/unit and target 
+the large and medium farm. This will allow our client to 
+maximize profits.
+Risks (Make sure interviewee mitigates)
+ New entrant comes to market in next 10 years who may 
+price more competitively
+ Customers may not be willing to pay EVC
+Recommendation
+Conclusion
+
+Skimming: start by pricing at $80k and then $32k and then $16k
+
+Offer a service to the farms at up to $8/acre that will achieve a price discrimination based on acreage 
+(perfect price discrimination)
+Excellent Case Answers
+
+Market analysis on actual WTP and 
+competitive response
+
+Research on channels and promotion 
+schemes
+Next Steps

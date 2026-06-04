@@ -1,0 +1,126 @@
+===== PDF p117 =====
+Table of Contents 
+ 
+113
+Practice Case 51: Office furniture  
+(Mckinsey - Round 2) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is an office furniture manufacturer. They are concerned 
+that their stock price is not growing as fast as their competitorsí. 
+Furthermore, the clientís annual growth is 1% per year, while that of 
+main competitorsí is 10% per year. Also, our clientís EBIT margin is 
+10% while competitorsí EBIT is 20%. What would be your 
+recommendations for our client? 
+ 
+II. Additional information provided after relevant questions:   
+ 
+Market information 
+• 
+Market grows 1% per year ( no size info) 
+• 
+We are the market leader with 20% market share. The other three 
+competitors have 10% each.  The rest is fragmented. 
+• 
+3 main competitors have prices that are 10% lower than ours. 
+• 
+Market is composed of two segments 
+o Segment 1 ñ Fortune 500 companies - 80% of our sales.  
+o Segment 2 ñ channel sales to small companies ñ 20% of our 
+sales. We donít own these channels. 
+• 
+Customers are looking for furniture that is hassle free (i.e., universal, will 
+fit in all offices, goes with each other etc.) 
+ 
+Product information 
+• 
+Our product is viewed as being superior and we have a strong brand 
+ 
+Cost information: 
+• 
+Ignore fixed costs. We assume that competitors material, other costs and 
+SGA for one product are the same as ours. Our COGS break down into 
+materials (40%), direct labor (40%), overhead (20%). We know that they 
+have probably the same material cost, overhead and SGA per product (in 
+dollars not as a percentage of price). However we donít know anything 
+about their labor cost. Can you calculate it? Assume that we sell our 
+typical product for $100. Calculate the labor cost of the competitors for 
+the same product.  
+o Competitor has an $18 labor cost advantage per typical product.  
+Answer calculated using table below, do not give table to 
+interviewee make them construct it. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p118 =====
+Table of Contents 
+ 
+114
+If our price is $100, their price will be $90. Our EBIT margin is 10% or $10, 
+their EBIT-margin is 20% or $18. I built the following table.  
+ 
+We 
+They 
+Price 
+100 
+90 
+COGS 
+ 
+ 
+- materials 
+40% ($36) 
+40% of our COGS ($36) 
+- labor 
+40% ($36) 
+? 
+- overhead 
+20% ($18) 
+20% ($18) 
+= EBIT 
+10% ($10) 
+20% ($18) 
+ 
+Labor costs are higher because this is the policy of our company.  We hire 
+the best people and pay them more. They produce higher quality products 
+and we charge premium for them. We donít want to pay less or lay people 
+off. We pay on per-unit base. But some people are more productive than 
+others, you know.  
+ 
+See sample solution for a brief discussion manufacturing process.  I 
+interviewee gets to this problem quickly feel free to make up some numbers 
+or an operations portion of the case.  See the sample solutions for some 
+ideas. 
+ 
+III. Sample Solution:   
+ 
+First, I decided to stick to the growth framework (market, customer, 
+company, competitors, ability to build competitive advantage).  
+ 
+I have a hypothesis that you have ineffective process because of different 
+throughput rates in you production processes. I have following suggestions: 
+" Train less efficient workers 
+" Resource pulling (see OMS552) 
+" Resource reallocation.  
+" If resource pulling impossible, build production lines based on 
+performance of workers: e.g. get more efficient works into one line 
+and less efficient works into other.  
+" Provide less efficient workers with more efficient tools. 
+However, if we arenít able to sell more, we will not be able to realize saving 
+from higher capacity utilization. In this case, we could change incentive 
+system to have more efficient workers produce less.  
+He: Thatís correct. However, we would like to realize these potential savings. 
+What could we do? 
+ 
+To realize savings, we have two broad possibilities. (1) Lay off people. (2) 
+Increase sales. (1) is not acceptable, so letís concentrate on (2).  
+" Go into service business providing integrated solutions to the Fortune 
+500 customers.  
+" Acquire one or two competitors to benefit from their higher growth 
+rate and realizing increased capacity utilization.  
+" Increase sales efforts.  

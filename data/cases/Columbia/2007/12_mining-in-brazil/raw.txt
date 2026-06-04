@@ -1,0 +1,232 @@
+===== PDF p48 =====
+ 
+Management Consulting Association Case Book 2007 
+44 
+ 
+Case
+Case
+Case
+Case 12
+ 12
+ 12
+ 12: : : : Mining
+Mining
+Mining
+Mining in Brazil
+ in Brazil
+ in Brazil
+ in Brazil 
+ 
+ 
+BACKGROUND 
+ 
+Firm: BCG 
+Round: 2007 Summer, Second 
+Content: Qualitative and quantitative 
+ 
+ 
+CASE QUESTION 
+ 
+Our client is a US industrial conglomerate, with major investments in South America, 
+India and China. One of these investments is a mining operation in Brazil. At this mining 
+operation, our client produces only one metal, which is considered to be an international 
+commodity product. This metal has hundreds of applications. In Brazil there are only two 
+other producers.  
+ 
+The CEO has hired BCG to help identify new opportunities for this business as well as 
+understand the market dynamics. He wants to know whether he should divest the mining 
+business or invest in an additional facility. This afternoon, the BCG team is going to meet 
+with the CEO to discuss our initial hypotheses.  We have been provided the following 
+information to assist us: 
+ 
+Sales 
+Local Players Plant capacity (tons) 
+Cost/ton 
+Local 
+Export 
+Client (A) 
+600,000 
+$450 
+600,000 
+- 
+Competitor B 
+4,500,000 
+$420 
+2,800,000 
+1,200,000 
+Competitor C 
+3,200,000 
+$420 
+2,000,000 
+700,000 
+ 
+The world-wide production (supply) of this product is estimated to be 100,000,000 tons.  
+Furthermore, it is known that demand for this product is greater than current supply. As a 
+commodity, the international price (export price) is $450/ton and the local price is 
+$600/ton. 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: This is a typical BCG case. BCG often (i) uses real life cases, 
+(ii) presents available data upfront in a table of during the case question, and (iii) drives 
+the interview to be a conversation between the interviewer and the interviewee. 
+Therefore, be sure to engage the interviewer as you approach the case.  
+ 
+ 
+
+
+===== PDF p49 =====
+ 
+Management Consulting Association Case Book 2007 
+45 
+ 
+ 
+ 
+ 
+The interviewer was expecting the interviewee to first provide a structure/framework, 
+which would look at the big picture and then start hypothesizing. A strong candidate 
+would: 
+- 
+Discuss market dynamics (local and international and supply/demand). 
+- 
+Discuss the expected competitive response to any action, e.g., a price war.  
+- 
+Summarize all findings in a presentation format.  
+ 
+Key facts: All given beforehand, but the following would help in the discussion: 
+o An efficient plant should have a 1,000,000 ton capacity (but, not all plants are 
+operating efficiently), however, from this information the interviewee should be 
+able to assume that therefore competitors are operating more than one plant each. 
+o Market grows with GDP. 
+o There is a strong demand for this product internationally. 
+o The competitors are probably located away from the coast, adding transportation 
+costs. 
+ 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: [Summarize the case and work on a framework]. In this case it is important 
+to look at the competition (specifically, understand the different cost structure of the 3 
+producers), estimate the market demand and discuss the international trade environment. 
+We should also discuss the specifics of a metal commercialization.  
+ 
+Interviewer: OK. Where should we start? 
+ 
+Interviewee: Clearly, our client is running on full capacity, but its competitors appear to 
+have some idle capacity. Furthermore, I note from the data provided that the competitors’ 
+cost structures allow them to sell in the international market while our client does not 
+currently export any of the products.  Our client would experience zero margin if it was 
+to export since the international price is given at $450 which is equal to our client’s cost 
+of production. Nevertheless, the local price is considerably higher than the international 
+price, so the producers would rather sell as much as possible in the local market. Given 
+this information, I would hypothesize that there is not enough demand in the local 
+market. 
+o Competitors would prefer to sell in the local market ($600/ton) instead of export 
+($450/ton) 
+o Competitors are running with idle capacity, but we know that demand exceeds 
+current supply 
+ 
+Interviewer: That is correct. But what about the international market? 
+ 
+
+
+===== PDF p50 =====
+ 
+Management Consulting Association Case Book 2007 
+46 
+ 
+ 
+Interviewee: This is a good point. You did mention that there is a strong demand 
+worldwide. Now we have to find out why the competitors are not selling their full 
+capacity. We can think of many possible reasons. Geographical distance, transaction 
+costs, transportation costs, export taxes, etc. 
+ 
+Interviewer: They all make sense, but as we see competitors are able to export some 
+metal, right? 
+ 
+Interviewee: Competitors might have operations abroad so it makes easier to export to 
+their international facilities. Or they might produce part of their capacity close to harbors. 
+Considering that the international price is much lower than the local one, I would expect 
+some barriers for international trade. 
+ 
+Interviewer:  That is correct, Brazil does have some taxes for foreign products and 
+producers struggle with transaction costs. Let’s look at the cost structure. Why do you 
+think there is a difference in costs? 
+ 
+Interviewee: I could consider geographic location, technology, economies of scale, 
+supply chain synergies, etc. 
+ 
+Interviewer:  You mentioned some important elements. Our client has only one location 
+and the competitors have multiple plants, each in the countryside. Our client was the first 
+player in this market, having built its facilities 10 years earlier than its competitors. The 
+industry has realized that a plant must have a minimum of 1,000,000 capacity in order to 
+be efficient. 
+ 
+Interviewee: But our client is still making a lot of money, right? 
+ 
+Interviewer:  Yes, enough to convince the CEO to invest in a new production facility. 
+This would be a $400M investment in year 0 for a capacity of 1,000,000 tons with a cost 
+of $420/ton. How would you evaluate this investment if this new production would be 
+traded in the international market? Would you recommend this investment? 
+ 
+Interviewee: Basically the margin will be $30/ton ($450-$420) * 1,000,000 equal to 
+$30M per year. By using a 10% discount rate this investment will generate $300M in 
+total. The $400M investment would not be worth it. 
+ 
+Interviewer:  That is true. So, are you going to advise him not to make the investment? 
+ 
+Interviewee: I would advise him against it unless he is willing to engage in a price war.  
+ 
+Interviewer:  That would be the minimum price he could go to turn this investment 
+profitable? 
+
+
+===== PDF p51 =====
+ 
+Management Consulting Association Case Book 2007 
+47 
+ 
+ 
+Interviewee: We should be cautious because a lower price would impact the current 
+profitability. The current margin is ($600 – $450) * 600,000 = $90M. For instance, if we 
+drop the price to $513/ton we would be losing $52.5M [($600-$513) * 600,000] from the 
+current 600,000 ton production but generating $93M [($513 - $420) * 1,000,000] from 
+the new production, a net gain of $40.5M. With the 10% discount the minimum profit 
+required from the new plant would be $40M ($400M*10%). Therefore, the minimum 
+price would be $513. 
+ 
+Interviewer:  But if you drop the price to $513/ton, what would the competitors’ reaction 
+be? Would they also increase production? Remember, they have idle capacity and you 
+don’t. 
+ 
+Interviewee: That is correct, but the competitor has a lot more to lose with a price 
+reduction. In our client’s case we found out that it would lose money as the margin of the 
+current production drops. However, the client only sells 600,000 tons right now while the 
+competitors sell 4,800,000 tons combined. They would probably reduce their production 
+to avoid a higher price reduction. 
+ 
+Interviewer:  Really? So you are recommending our client to invest $800M in a 
+2,000,000 tons capacity plant? 
+ 
+Interviewee: I haven’t done the math but I guess this would be too risky. I would 
+recommend our client to invest the $400M and see how the market reacts. 
+ 
+Interviewer:  That is a fair recommendation; after all they will be playing a game with no 
+real expected result. 
+ 
+The interviewee should now expect to summarize the findings from this discussion for the 
+client, highlighting the approach and key recommendations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THIS IS THE LAST PAGE 
+OF THE CASE BOOK 

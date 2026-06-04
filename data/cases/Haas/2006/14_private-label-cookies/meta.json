@@ -1,0 +1,24 @@
+{
+  "case_id": "Haas_2006_14_private-label-cookies",
+  "school": "Haas",
+  "year": "2006",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Haas\\HAAS_Case Book_2006.pdf",
+  "idx": 14,
+  "case_name": "Private-Label Cookies",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Goods",
+  "difficulty": null,
+  "pdf_page_start": 50,
+  "pdf_page_end": 53,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    51,
+    52
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p052.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Haas\\2006\\14_private-label-cookies"
+}

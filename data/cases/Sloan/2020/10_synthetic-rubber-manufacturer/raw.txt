@@ -1,0 +1,76 @@
+===== PDF p92 =====
+Casebook | 2019-20 Edition 
+88 
+ 
+10. Synthetic Rubber Manufacturer (Bain R1, Private Equity, 
+Profitability, Balanced) 
+Stem: Our client is a PE firm looking to acquire a synthetic rubber manufacturer. Synthetic rubber is the 
+petrochemical material used in most passenger car tires in the US. The target company only sells the 
+product to big tire manufacturers (think Goodyear, Michelin etc.). Should our client invest in the firm? 
+ 
+Phase 1: Market Analysis 
+ 
+Let the candidate make his/her structure. It should include sections on the firm’s profitability (revenue and 
+cost), the deal strategy, rubber market and exit strategy. 
+ 
+Candidate: I think the best place to start would be analyzing the market. Do we have any information on 
+the size and growth of the market? 
+ 
+Interviewer: That sounds right. Let’s just assume flat growth for the market. Can you help me figure out 
+the size? 
+ 
+Candidate: First, we should think about the number of passenger cars and from there we can figure out 
+how much synthetic rubber is needed to produce a tire and then the price of the tire itself. Does that 
+sound like a plan? 
+ 
+Interviewer: Sounds good, I can tell you that synthetic rubber price is $0.50 per pound and it takes 5 
+pounds to produce a tire. 
+ 
+Candidate: Let’s assume the US has a population of 300M and has an average household size of 3, 
+which gives us 100M households. An average household should have 1.5 cars and each car needs tire 
+servicing once every two years. That gives us 100M * 1.5 * 50% = 75M sets of tires sold in a year. Of 
+course, a car has 4 tires and not all of the people will care enough to replace the tires on time. Let’s say 
+80% of the people do follow the schedule. That gives us 75M * 4 * 80% = 240M tires. 
+ 
+I can convert that to the market size of the synthetic rubber using the information you have given me. So, 
+the total market size is 240M * 0.5 * 5 = $600M. Wow, that’s a big market. 
+ 
+Do we happen to have the target company’s market share? 
+ 
+Interviewer: Great question -- it’s 50%. 
+ 
+Candidate: The target firm’s revenue will then be $600M* 50% = $300M. That is a reasonable revenue 
+figure, but in order to know whether this is a good or a bad target, I would want to know the profitability of 
+the firm. Do you happen to have the cost structure? 
+ 
+Phase 2: Profitability 
+ 
+Interviewer: What do you think are the main cost components? 
+Candidate: Let’s break this down to Fixed Costs and Variable Costs. 
+Fixed Costs: PP&E, SG&A, R&D, Employee Salaries and Benefits 
+Variable Costs: Raw Materials, Utilities, Distribution, Marketing 
+Interviewer: That’s a great list. To simplify this, let’s assume the profit margin is 5%. 
+ 
+Candidate: Okay, so the target firm’s annual profit is $300M * 5% = $15M. That’s a decent amount, but in 
+order to know whether this is a good or a bad profit margin, I think we need to compare it to the 
+competitors or industry average. 
+
+
+===== PDF p93 =====
+Casebook | 2019-20 Edition 
+89 
+ 
+Interviewer: Everyone else is having 2-3% profit margin. What do you think are the target firm’s potential 
+growth strategies? 
+ 
+Candidate: That’s very interesting. They are currently the biggest player in the market (50%) and 
+enjoying the biggest profit margin. There are multiple ways to leverage that. (The list should have new 
+segment, promotion campaign, cost cutting, finding alternatives for rubber, etc) 
+ 
+Phase 3: Recommendation 
+ 
+Interviewer: So, the client’s calls and wants an update immediately, tell them whether you think this is an 
+attract target or not. 
+ 
+Summary should be direct and concise, touching on multiple data points as well as the growth strategies 
+that have been covered 

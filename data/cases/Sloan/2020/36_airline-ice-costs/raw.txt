@@ -1,0 +1,56 @@
+===== PDF p162 =====
+Casebook | 2019-20 Edition 
+158 
+ 
+36. Airline Ice Costs (Parthenon R1, Transportation, Operations, 
+Quantitative) 
+(Note: 30-minute case interview – actual case ended in 20 minutes) 
+ 
+Stem: Our client is a national airline looking to determine the total cost of ice it needs to purchase to 
+serve its customers onboard for the entire fiscal year. How would you think about this? 
+ 
+Candidate should brainstorm a MECE structure in order to thoroughly evaluate an accurate cost 
+calculation. At a minimum, this would include capacity, ice consumed per customer, and cost of ice 
+consumed per customer. Let the candidate drive the case. 
+ 
+Candidate: In order to determine the total annual cost of ice consumed by the airline, I would need to 
+know or assume a few things. First, I will need to determine the number of customers served by the 
+airline. Second, I will need to know how much ice is served in every drink. And lastly, I need to figure out 
+the cost of ice consumed per customer. 
+ 
+Interviewer: Ok. Where would you like to start? 
+ 
+Candidate: Let’s start with the number of customers served. How many flights does the airline have 
+daily? How many seats does each flight have and what is the occupancy rate? 
+ 
+Interviewer: The airline has 40 one-way flights daily, each flight has a maximum capacity of 120 
+passengers and the average occupancy rate is 80%. 
+ 
+Candidate: Assuming the airline operates 40 flights every day of the year, the annual number of flights is 
+40*365 = 14,600 flights. Average occupancy per flight = 0.8*120 = 96. Therefore, the total number of 
+customers served annually is 14,600*96 = (14,600*90) + (14,600*6) = 1,401,600. 
+ 
+Interviewer: Great – what next? 
+ 
+Candidate: In order to figure out how much ice is consumed per customer, I need to know how many 
+drinks are consumed by each customer and the amount of ice used per drink. 
+ 
+Interviewer: You can assume that on average, each customer consumes 1 drink. How would you go 
+about estimating the amount of ice used per drink? 
+ 
+Candidate: Hmmm, one drink usually has about 4-5 small ice cubes on planes. Do we have any 
+information on how much 1 ice cube weighs? 
+ 
+Interviewer: Well, what we do know is that a five-pound bag of ice can serve 25 customers. 
+ 
+Candidate: How much does this five-pound bag of ice cost? 
+ 
+Interviewer: $15.00 
+ 
+Candidate: Ok. So if each bag serves 25 passengers and there are 1.4M passengers flying in a year, 
+you need 56K bags of ice. 56K * $15 = $840K. 
+ 
+Note: Sometimes the interviewer may not require you to calculate the final answer as long as they are 
+satisfied with your thought process. 
+ 
+Interviewer: Great –thanks. Do you have any questions for me? 

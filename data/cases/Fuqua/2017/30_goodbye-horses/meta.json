@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2017_30_goodbye-horses",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 30,
+  "case_name": "Goodbye Horses",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 344,
+  "pdf_page_end": 352,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    346,
+    347,
+    348,
+    349,
+    350,
+    351
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p346.png",
+    "exhibits/exhibit_p347.png",
+    "exhibits/exhibit_p348.png",
+    "exhibits/exhibit_p349.png",
+    "exhibits/exhibit_p350.png",
+    "exhibits/exhibit_p351.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\30_goodbye-horses"
+}

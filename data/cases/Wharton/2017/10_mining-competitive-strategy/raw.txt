@@ -1,0 +1,242 @@
+===== PDF p115 =====
+KNOWLEDGE FOR ACTION
+Mining
+
+
+===== PDF p116 =====
+KNOWLEDGE FOR ACTION
+Competitive Strategy in Mining (Commodities)
+Level of Difficulty: Hard
+Case Similar to Cases at Firms: ex. BCG, Bain Final Round (MBA) Level
+Topics Tested: interpreting charts, brainstorming insights on competitive strategy, 
+payback period analysis, supply x demand.
+Prompt:  Our client is an Australian mining company, whose main product is Iron Ore, 
+which it sells exclusively to China. This company is the largest producer in volume 
+in this market with 230 million tons sold each year. It is also the lowest cost 
+producer at 27$ per ton of production costs. We estimate the total Chinese 
+demand for Iron Ore today to be around 980 million tons per year. Our client has 
+won a concession to mine a new site adjacent to its biggest mine, and 
+increases production to 360 million tons per year (i.e. 130 million additional 
+tons per year). Is this worth doing?
+Wharton Casebook 2017
+CASE 10
+112
+
+
+===== PDF p117 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample Clarifying Questions and Answers
+Are there are any company criteria to approve projects? 
+What typically constitutes success?
+Board typically approves projects with payback in less than 
+5 years. You can use payback with no discounting for your 
+math.
+How is the market expected to grow?
+Consider that the market will remain flat at 980 million 
+tons per year for the foreseeable future
+How much upfront investment will be required for this 
+project?
+$ 3 Billion upfront
+What is the cost of this new volume of production? Are 
+there cost synergies or is this a more expensive mine?
+Consider this new mine to have the same exact cost as its 
+current production (27$/ton)
+How does the competitive landscape look like?
+Show Exhibit A of China’s Cash-Cost curve for iron ore. 
+Should we consider the possibility of international 
+expansion or new minerals?
+For the purposes of this case, let’s limit analysis to iron ore 
+and China.
+CASE 10
+113
+
+
+===== PDF p118 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Sample of Strong Framework:
+Main discussion focuses on economics, and a profit tree analysis is suggested
+•
+Operating Costs: may be impacted in two ways: 
+o
+unit costs may go up (if site is more complex, if you need more people, etc.) or down (if 
+there are synergies of scale). Interviewer reveals it stays at 27$/ton for new production
+o
+volume increases, so total operating costs go up. 
+•
+Revenues: impacted in two ways. Price will likely decrease from increased supply, but volume 
+will go up. Winning effect will come out of the numbers.
+•
+Investment costs: likely need to invest in new machinery and other technology to get operation 
+started (when promted, interviewer reveals this will cost $3 Bn upfront, and company looks for 5 
+year non-discounted payback)
+Other important points to consider:
+•
+Competitive reaction: competitors will suffer from a price decrease due to my increased volume 
+too. How will they react?
+•
+Logistics: Does firm have the supply chain to absorb this new capacity?
+•
+Risks in assumptions:
+o
+Variation in Chinese demand will influence Price x Volume dynamics
+o
+New supply (new mine discoveries, or mergers) may influence competitive landscape
+CASE 10
+Wharton Casebook 2017
+114
+
+
+===== PDF p119 =====
+KNOWLEDGE FOR ACTION
+Exhibit A – China’s Cash Cost Curve
+Wharton Casebook 2017
+China’s 2015 Iron Ore Supply CFR Costs (including Royalties & Ocean Freight)
+US$ / ton
+A 
+(our client)
+Cumulative Supply MTY (as delivered)
+Competitor
+B
+CASE 10
+115
+
+
+===== PDF p120 =====
+KNOWLEDGE FOR ACTION
+Part 1: Evaluating chart and payback period
+Wharton Casebook 2017
+First part of the case will consist of evaluating if project has payback in less than 5 years. 
+•
+From exhibit A, interviewee should be able to extract that current equilibrium price of iron 
+ore is at 60$/ton (this is where the line x = 980 intersects the curve)
+•
+Explanation: since product is a commodity, and market is perfectly competitive, 
+price is defined by the market. Price therefore converges to the lowest possible 
+that allows 980 Mty demand to be met. From exhibit A, it’s clear that everyone 
+below 60 $/ton can service the market, and the rest is currently not playing.
+•
+Interviewee notes that by adding 130 Mty, price will drop. Referring to chart, the last 130 
+Mty to the left of the x = 980 line will be pushed to the right, and out of the market. The 
+new equilibrium price is where the curve meets x = 850 (980 -130), which corresponds 
+roughly to 50 $/ton.
+•
+Interviewee calculates pay-off per year and payback period:
+•
+New profit = 360 Mty * (50$ - 27$) = $ 8280 MM per year
+•
+Old profit = 230 Mty * (60$ - 27$) = $ 7590 MM per year
+•
+Delta profit = $8280 - $7590 = $690 MM per year
+•
+Payback = = $ 3 Bn / ($ 0.69 MM per year) = ~ 4 years  (under 5 year threshold)
+Estimated time: 10 - 15 mins
+CASE 10
+116
+
+
+===== PDF p121 =====
+KNOWLEDGE FOR ACTION
+Part 2: Competitor Reaction
+Wharton Casebook 2017
+If not proactively noted, interviewer prompts: how does competitor (example competitor B) 
+likely feel about your move?
+•
+Interviewee should assess that competitor B will lose $10 margin ($60 - $50 price drop), 
+and therefore a total of $10 * 190 Mty (production of B from chart) = $1.9 Bn per year.
+•
+Interviewee should consider a few options that competitor B has:
+•
+Competitor B can increase his production if he has access to new mines (price will 
+drop even further, but perhaps volume increase will compensate)
+•
+Competitor B can temporarily reduce production to make prices go up again
+•
+Competitor B can work to reduce costs
+•
+Competitor B can assess M&A options (e.g. Higher cost players that are looking to 
+sell, and can potentially have synergies with B’s current operations)
+Estimated time: < 5 mins
+CASE 10
+117
+
+
+===== PDF p122 =====
+KNOWLEDGE FOR ACTION
+Part 3: Assume you are now in B’s shoes
+Wharton Casebook 2017
+Assume B also has an opportunity to increase production from 190 Mty to 270 Mty (additional 
+80 Mty). Also assume this has positive pay-off which gives them a real chance at pursuing such 
+project. What should we do?
+•
+Interviewee should note that there are 3 additional scenarios to consider:
+o
+If we don’t react to their expansion (i.e. we don’t expand), prices will drop from their 
+expansion and our profits are negatively impacted. From the chart, new price is taken 
+from x = 980 – 80 = 900. New price = 55 $/ton. That is, we lose a total of 
+230 Mty * 5 $/ton = $ 1150 MM per year
+o
+If we do react to their expansion and also increase volume, prices will drop even 
+further. From their chart, new price is taken from x = 980 – 80 – 130 = 770. New price 
+= ~ $ 47 per ton. New profit = 360 Mty * (47$ - 27$) = $ 7200 MM per year. Pay-off 
+from this scenario is $ 7200 MM - $ 7590 MM = - $390 MM per year
+o
+If we neither company expands: delta profits are zero. 
+•
+Interviewee should be able to assess that given the four pay-off scenarios there is only one 
+dominant strategy for client A: expand. (see example of illustration in the next slide) 
+Estimated time: 10-15 mins
+CASE 10
+118
+
+
+===== PDF p123 =====
+KNOWLEDGE FOR ACTION
+Example illustration of part 3:
+Wharton Casebook 2017
+0
+Do Not Expand
+Expand
+Do Not Expand
+Expand
+0
+- $1.15B
+*
++ $0.69B
+- $1.9 B
+-$0.39B 
+*
+Client (Company A)
+* Calculation of competitor B pay-offs can be calculated from case data, but are not relevant 
+to decision
+Dominant strategy for A
+Competitor (Company B)
+CASE 10
+119
+
+
+===== PDF p124 =====
+KNOWLEDGE FOR ACTION
+Conclusion – final pitch
+Wharton Casebook 2017
+Summary to the CEO:
+•
+Our recommendation is that our client should expand.
+•
+Given our baseline projection, increased pay-off from expansion is ~ $700 MM per 
+year, which is enough to payback investment in less than 5 years
+•
+Larger scale gives us competitive advantage (flexibility to increase and reduce 
+production as market fluctuations may occur, better power with buyers and suppliers, 
+etc.) 
+•
+Even considering that our competition may react, expanding makes sense:
+•
+Regardless of what B chooses to do, we are better off expanding. If they expand, we 
+are minimizing our loss from - $1.15 Bn to - $0.39 Bn. If they don’t expand, we have 
+the potential to gain $0.69 Bn per year.
+Estimated time: 30 seconds
+CASE 10
+120

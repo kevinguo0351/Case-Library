@@ -1,0 +1,274 @@
+===== PDF p68 =====
+- 63 - 
+Our client, Little Bud Co, is a beer company in a small country in Latin America. Little Bud and its main competitor, 
+Geineken, are the only players in the market. Geineken is significantly bigger than Little Bud. 
+ 
+ 
+Situation 
+Key Question 
+Little Bud’s CEO asked us to provide him with strategic options for the company and a recommendation on what he 
+should do. 
+Little Bud Co - Beer Company 
+ Bain, Final Round 
+Comment 
+If interviewee asks  “What are the CEO goals?”, turn the question back: What are the goals of a company? Then 
+rapidly lead conversation to the goal of maximizing shareholder's value 
+Difficulty: Medium 
+Quant Heavy  
+Industry: Food + Beverages        Type: Growth Strategy 
+
+
+===== PDF p69 =====
+- 64 - 
+Guidance for interviewer and information provided upon request  
+• This case is focused on a discussion on how scale economies create competitive advantage and will touch on 
+valuation principles at the end 
+• It’s important for the candidate to rapidly start comparing the two companies 
+• For the purpose of this case, other competitors can be disregarded. The analysis should be focused on Little Bud 
+and Geineken 
+• Market characteristics: 
+• Market is mature (growth is low) 
+• 10% of sales are made through large retailers and 90% through bars, restaurants and small retailers 
+• Market of regular beer: market for small brewers/specialty beers should be disregarded (very small market) 
+• At the beginning of the case (after candidate presents his framework): 
+• What are the two most relevant information that you need to start this analysis? Suggested answer: market 
+size and P&L for Little Bud and main competitor 
+• Once the candidate asks for market size data, present exhibit 1 and ask for initial insights 
+• After presenting exhibit 1: 
+• What are the margins for each player? What are the possible reasons for the margin differences? 
+(suggested answer: Geineken could have higher margins due to higher prices, lower costs or both). When 
+candidate raises the price hypothesis, hand over exhibit 3. 
+• What are the strategies that Little Bud should consider? (suggested answer: go to niche market, go to 
+related markets, sell to competitor) 
+• After analyzing both companies (refer to next page for more details on this analysis), the interviewer should focus 
+on discussing the company valuation 
+Questions for the candidate 
+
+
+===== PDF p70 =====
+- 65 - 
+Calculation and Discussion: Comparative Analysis 
+   At this point, the candidate should try to compare the two players, in order to identify the possible sources of 
+competitive advantage. The table below presents information on Geineken costs as a percentage of sales (so the 
+candidate can calculate the P&L) and the rational behind the cost differences between Little Bud and Geineken. 
+The interviewer should ask the candidate to provide hypothesis on the rational before explaining Geineneken’s 
+competitive advantages 
+Comparative Analysis of Little Bud and Geineken 
+P&L Item 
+As % of 
+Revenues 
+Rational 
+G&A 
+10% 
+The assumption here is that Little Bud already operates in a scale in which there are no 
+more scale economies in G&A. The candidate might make the valid argument that "the 
+bigger, the better", but should recognize that scale economies have a limit 
+Sales 
+& 
+Distribution 
+25% 
+Info: Due to market regulations, there is a limit in the truck size. Both companies operate 
+with similar trucks and sell through the same point of sales (or through point of sales 
+located in the same regions) 
+Rational: The analysis here is about utilization: due to its larger share, Geineken achieves 
+higher asset utilization (consider one truck: at Little Bud, this truck would take a whole 
+day to delivery the products, given the low number of units per location. At Geineken, this 
+same truck can deliver the full load faster and go back to the distribution center, pick up 
+more products and get back to the road) 
+Marketing 
+18.1% 
+Rational: even with a lower percentage, the marketing expenses are much higher in 
+absolute terms. More advertising gives more brand recognition, reinforcing higher market 
+shares 
+
+
+===== PDF p71 =====
+- 66 - 
+Calculations and Discussion:  
+Conclusion of Comparative P&L 
+• After comparing both companies, the candidate should understand that scale economies are a major source of 
+competitive advantage in this market and propose some strategic alternatives to Little Bud. The interviewer should 
+rapidly move the discussion towards selling the company. Below are some arguments against other possible alternatives: 
+•
+Increase market share: 
+•
+Product innovation: consumer taste is already well defined. There is no room for new products 
+•
+Price war: it’s virtually impossible for Little Bud to enter a price war against Geineken. It’s more likely for the 
+opposite to happen 
+•
+Marketing: Geineken spends 5x more in marketing. Trying to compete against this big player on marketing 
+expenditures is not a good strategy 
+•
+Reduce costs: interviewer should state that different assessments on cost reductions have already been conducted. 
+There are no opportunities for further reducing costs 
+•
+Focus on niche market (e.g.: premium beers): interviewer should remind candidate that niche market for beer in this 
+country is very small. It’s not a good strategy for sustainable long term growth 
+•
+Move into related markets (e.g.: carbonated soda, juices, etc.): interviewer should say that the company has already 
+conducted analysis on these markets and decided it’s not a good alternative, due to intense competition 
+ 
+Options for Little Bud Business 
+
+
+===== PDF p72 =====
+- 67 - 
+Calculations and Discussion: Valuation 
+• The interviewer should propose to focus on the valuation of the business and ask the candidate to propose how to 
+value the company with the information given in the case 
+• The candidate should  be able to propose at least the two most common valuation methods: discounted cash flows 
+and multiples: multiples are use for quick assessments and we have EBITDA figures. Once asked for it, the 
+interviewer should give the multiple to be used: EV/EBITDA = 10x 
+• Going back to our initial questions regarding valuation. The goal now is to test the candidate business sense: 
+• What is the market value for Little Bud? Suggested answer: based on the multiple and EBITDA figures, 
+$50M 
+• What is Little Bud’s value to Geineken? Suggested answer: considering Geineken margins and Little Bud 
+revenues, Little Bud’s value to its competitor is $214 (potentially higher, due to the fact that Geineken 
+would become a monopoly and be able to increase price and further squeeze suppliers) 
+• How to “force” Geineken to pay more than $214? Suggested answer: Little Bud should open bid to other 
+companies. Geineken has the incentive to maintain its market dominance and doesn’t want a big 
+international player to enter the market 
+Valuation of Little Bud Business 
+
+
+===== PDF p73 =====
+- 68 - 
+ 
+ 
+ 
+Calculation for Comparative P&L 
+P&L Calculations 
+Little Bud
+% of Rev Geineken
+% of Rev
+Little Bud
+Geineken
+Revenues
+100
+700
+          
+Unit Price
+1,00
+            
+1,10
+            
+COGS
+30
+30,0%
+178
+          
+25,5%
+COGS
+0,30
+            
+0,28
+            
+Gross Profit
+70
+70,0%
+522
+          
+74,5%
+Gross Profit
+70%
+75%
+G&A
+10
+10,0%
+70
+            
+10,0%
+Sales & Distribution
+30
+30,0%
+175
+          
+25,0%
+Marketing
+25
+25,0%
+127
+          
+18,1%
+EBITDA
+5
+5,0%
+150
+          
+21,4%
+Pricing
+P&L Comparison
+
+
+===== PDF p74 =====
+- 69 - 
+• The candidate should recommend the CEO to sell Little Bud 
+• The company currently operates in a market in which it has no competitive advantage. Geineken has margins 
+high enough to enter a price war that would lead Little Bud to bankruptcy.  
+•Also, through an open bid to the market, Little Bud could force it main target buyer to increase a potential offer 
+Recommendation 
+Next Steps 
+• Hire an investment bank to structure the deal 
+• Evaluate risk of ruling from antitrust agencies 
+• Identify potential cost savings opportunities that could be pursued in case Geineken responds by reducing prices 
+ 
+Conclusion 
+
+
+===== PDF p75 =====
+- 70 - 
+Exhibit 1: 
+ Revenues per Channel 
+Figures in USD millions 
+
+
+===== PDF p76 =====
+- 71 - 
+ 
+ 
+ 
+Little Bud
+Geineken
+Revenues
+100
+700
+COGS
+30
+Gross Profit
+70
+G&A
+10
+Sales & Distribution
+30
+Marketing
+25
+EBITDA
+5
+150
+P&L Comparison
+Exhibit 2: 
+P&L for Little Bud and Geineken 
+
+
+===== PDF p77 =====
+- 72 - 
+ 
+ 
+ 
+Exhibit 3: 
+ Gross Profit Detail 
+Little Bud
+Geineken
+Unit Price
+1,00
+            
+1,10
+            
+COGS
+0,30
+            
+0,28
+            
+Gross Profit
+Average Price and Cost Per Unit

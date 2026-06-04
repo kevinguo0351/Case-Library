@@ -1,0 +1,169 @@
+===== PDF p113 =====
+34.) Golf Club Producer (McKinsey, Round 1) 
+Stem 
+Our client is the CEO of a family owned business called GCP, which produces golf clubs in the 
+United States. They used to produce clubs that were easy to use, so most of their customers are 
+beginner players. They recently received a patent for a new club that would enhance the 
+performance of amateurs and professionals alike. Product innovation is paramount in this 
+industry and they want help capitalizing on this development with a strong product launch. 
+Interviewer: (If the interviewee asks for time to come up with a structure, ask them to wait until 
+they hear the specific questions first.) 
+1 st phase: Analyzing the market 
+Behind the scenes: Start by showing the chart. Give the candidate 20 seconds, then wait for 
+insights. If candidate doesn't answer questions 1 and 2 by then, push for it. 
+Interviewer: There are two main ways to produce clubs: liquid and solid production. GCP 
+currently use liquid production only, but some competitors use solid production. The chart 
+below represents the number of golf club sets sold in each year. We have historical data from 
+2007 and 2008, and estimates for 2009 and the next two years. What do you see? 
+7000 ~-------------------------------
+6000 -j---------------
+5000 +-----------~ 
+4000 -f--------------
+3000 -l---------
+2000 
+1000 
+o 
+2007 
+2008 
+2009 
+2010 
+2011 
+1) What do you think of this market? 
+m Solid (for professionals) 
+~ Solid (for amateurs) 
+II Other Liquid 
+ill Top 10 Liquid 
+2) Does being one of the top producers matter? Why do you think so? 
+--....... Management 
+11II1II1U Consulting 
+~~~~I~;:.~ Club 
+-
+2010-2011 1st Year Case Book 
+159 
+
+
+===== PDF p114 =====
+Possible Answers: 
+1) The market has been growing rapidly: more than 100% in two years; it is definitely attractive. 
+2) The top 10 liquid producers have a huge market share, so being top is clearly important. Some 
+possible reasons are: 
+a) It's easier to invest in product innovation 
+b )There are economies of scale in production, distribution and advertising 
+2nd phase: Should we build a new plant or expand ours? 
+Behind the scenes: You can give all information at once, rather than waiting for questions. The 
+intent is to give all information quickly and let the candidate work with it. 
+Interviewer: We estimate demand for our new club to be 60,000 sets over the next few years. 
+Given the information below, do you think we should build a new, additional plant or expand the 
+current plant? (All machines are equally durable.) 
+Building a new, additional plant: 
+Initial one-time investment of $2M. 
+Two types of machines are available: 
+Machine line I: 2000 sets / month, 
+costs $12.5M 
+Machine line II: 1250 sets /month, 
+costs $8M 
+Restriction: Can only have total of 3 lines operating there. 
+Expanding the current plant: 
+Initial one-time investment of $2M 
+Two types of machines are available: 
+Machine line I: 1250 sets / month, 
+costs $8M 
+Machine line II: 7500 sets/ year, 
+costs $5.5M 
+Obs: All machines last for exactly the same time. 
+....... Management 
+!!!!!!!!l! Consulting 
+~~I~I~.~ Club 
+2010-2011 1
+st Year Case Book 
+160 
+
+
+===== PDF p115 =====
+Possible Answer: Ok, let's compare the total costs in each case. The one-time investment is the 
+same in either case so we can ignore it when comparing): 
+For building a new plant: 
+There are two possible alternatives, two type I machines or three type I machines), we conclude 
+that it would be optimal to have two type 1 and one type 2 machine, for a total cost of 2*12.5+8 
+= $33M and total production of 2000*12*2+1250* 12 = 63K 
+For Expanding the existing plant: 
+It's useful to notice that 1250/ month = 15,000 per year, thus type I is much less expensive than 
+type II. With 4 type I machines, we produce exactly 4*1250*12 = 60K sets, for a cost of 4*8 = 
+$32M. 
+Conclusion: Costs are roughly the same (the extra million for a new plant could be offset by 
+future capacity needs), so we need to include further considerations to decide whalto do. 
+3rd phase: Other issues in deciding which project to pursue 
+Behind the scenes: This is a brainstorm session. Keep asking "what else" to get the most of the 
+candidate. If candidate runs out of ideas, you can help by saying "what about ... how do you 
+think that impacts the decision?", but that clearly hurts candidate overall performance in the case. 
+Interviewer: Given that the calculated costs are roughly the same, what other issues would you 
+want to analyze? What are the pros & cons of each of them? Which would you choose? 
+Possible Answers: 
+Management/Admin: 
+Lower labor and G&A costs if you only have one plant 
+Product quality: 
+easier to have a standard if you only have one plant 
+Distribution: 
+might be cheaper if you can distribute from two different locations 
+Event risks: 
+insurance would be cheaper with 2 plants (diversifying event risk) 
+Capacity for future: 
+new plant has higher capacity (3k club sets per year more) 
+Time to implement 
+Impact of implementation on current production capacity for other club lines 
+Etc ... 
+4th phase: Possible problems: 
+Behind the scenes: This is, again, a brainstorm session. If candidate is stuck, ask something like 
+"have you ever remodeled your house? What were your main concerns?". 
+Interviewer: The CEO decided to expand, and there are two main issues regarding the expansion 
+project that don't allow him to sleep at night. Assuming our market estimates are 100% right, 
+what do you think these issues are? 
+~- --
+~ 
+-
+~~ 
+....... Management 
+1I111f1111 Consulting 
+~~;~I~~.~ Club. 
+2010-20111st YearCaseBook 
+161 
+
+
+===== PDF p116 =====
+Possible Answer: 
+Timing: 
+We said product innovation is important and the market is quickly 
+expanding, so it's important to launch the product on time. 
+Costs: 
+It's important to guarantee that construction costs won't raise after he 
+decides to go for the expansion project. 
+Interviewer [After candidate answers the above]: how could the CEO protect himself against it?) 
+Possible Answer: The CEO could protect himself by buying an insurance policy. 
+5th phase: Insurance Price 
+Behind the scenes: There is more than one way to co]ne up with a price, so guide the 
+interviewee to calculate it through the data we provide. 
+If interviewee asks whether he/she could simplify the calculations, the answer is no. If candidate 
+miss the last point and say instead that the answer is 660,000, ask him whether he is sure about 
+that before ending the interview. 
+Interviewer: What do you think the insurance price will be? What information do you need in 
+order to calculate that? 
+(after the answer): What would the price be if you assume the following: 
+GCP has contracts to sell 60,000 sets for $500 each. 
+If GCP can't produce more than 90% of the 60 thousand in the next eight months, 
+they lose 10% of the contracts. This happens with probability 20%. 
+If GCP produce 900/0 or more in the next eight months, they don't lose anything. 
+The insurer operates with 10% margin 
+Possible Answers: 
+From the insurer perspective: with probability 80% they have zero loss, and with probability 
+20% they have a loss of 10%*$60,000*500 = $3M. 
+Therefore, the expected expense is 20%*$3M = $600,000 
+Since they operate with 10% margin, this expense should represent 90% of their price. 
+Therefore, the price charged is $600,000/ 0.90 = $666,667. 
+Wrap-Up 
+Behind the scenes: There is no need to do a wrap-up in this case, but it doesn't hurt if the 
+candidate proactively comes up with a conclusion/summary. 
+......... Management 
+1111111111 Consulting 
+~~~~I~.~ Club 
+2010-2011 1st Year Case Book 
+162 

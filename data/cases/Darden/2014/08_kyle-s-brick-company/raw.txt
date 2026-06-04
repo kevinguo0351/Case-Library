@@ -1,0 +1,338 @@
+===== PDF p96 =====
+CASE #: 8
+Kyle’s Brick Company
+Firm Style
+Interview Round
+McKinsey (Operations)
+2
+Case Question
+Kyle’s Brick Company manufactures, distributes, and sells bricks to a wide variety of 
+clients in the southeastern United States. They have historically grown by approximately 
+7% per year. They have recently experienced flat growth and have asked for your 
+recommendations. 
+
+
+===== PDF p97 =====
+Kyle’s Brick Company
+Clarifying information (provide only if corresponding questions are asked) 
+Is this profit or revenue growth at 7%
+Their margins (as a percentage) have grown slightly 
+over the past 5 years. The growth they are seeking 
+to resume is revenue growth and not profitability. 
+Has there growth historically been through new 
+customers or same customers?
+Both. They have expanded conservatively through 
+geographic expansion as well as increasing same 
+customer sales.
+Have they changed anything about their selling 
+process?
+No. 
+Have they lost any major clients?
+No. The client portfolio has been expanding at 
+expected levels and no major clients have been lost 
+over the last year.
+Are competitors experiencing revenue declines?
+No. The overall market for bricks has grown at 5% 
+the past 2 years. 
+Have costs increased?
+Costs on a per unit basis have declined slightly over
+the past 2 years. 
+Are all ordered being filled?
+No. There is a large number of backlogged orders 
+due to insufficient factory production.
+Have our competitors or our client changed anything 
+about their processes?
+No. Bricks are a commodity and quality across 
+competitors is similar. 
+
+
+===== PDF p98 =====
+Kyle’s Brick Company
+• Question 1: Why have sales stayed flat? Where would you like to 
+investigate next?
+• Sample “Great” Answer: Revenue has flattened recently due to our 
+client’s inability to meet demand. This is likely due to an issue somewhere 
+in their supply chain. The problem could exist in distribution or 
+manufacturing, but my initial hypothesis is that our manufacturing 
+capabilities have not expanded in line with increasing sales. The recent 
+decline in cost per unit may reflect stable variable costs with decreased 
+fixed costs per unit. This would indicate a need for additional capital 
+expansion at the factory level to meet demand. I would also be interested 
+in exploring the capabilities of our distribution channels.
+• Sample “Good” Answer: Our client is experiencing flat sales because our 
+factories are unable to make enough bricks for our clients. We should 
+investigate the brick factory and consider capacity expansion. 
+• Acceptable answers should ignore irrelevant areas such as the changes 
+in the sales process, changes in demand for bricks, and competitive 
+pressure.
+
+
+===== PDF p99 =====
+Kyle’s Brick Company 
+• Question 2: Hand over exhibit 1 (revenue and profitability). What 
+conclusions can you reach about the data? Push the candidate to 
+figure out the fixed costs for 2012 and 2013 and ask for insights.
+• Sample “Great” Answer: Revenue has flattened while profitability has 
+increased. Our variable costs on a per ton basis are also flat. This likely 
+indicates that our distribution and labor costs are under control. I would 
+like to take a closer look at our fixed costs, particularly capital assets at the 
+factory level. My thought is that we may have been underinvesting in our 
+manufacturing capability to boost profits at the expense of capacity. 
+• Sample “Good” Answer: Profit margins have gone up while revenues have 
+remained flat. I suspect this is due to something in the brick factory 
+regarding costs. I would like to see a breakdown of costs within our 
+manufacturing facility. 
+• Acceptable answers will acknowledge that this issue is related to a lack 
+of investment in fixed costs. They will notice variable costs have been 
+stable on a per ton basis and recognize the components of the 
+profitability equation. 
+
+
+===== PDF p100 =====
+Kyle’s Brick Company
+• Question 3: The factory manager has informed you that maximum capacity of 
+the brick factory is 3700 tons per year (the current level). He attributes this 
+limitation to the baking process. We suspect that this machine may have 
+additional capacity. What would you want to know to figure out if purchasing 
+the machine is necessary? Once the candidate realizes this is a utilization issue 
+hand them Exhibit 2 and ask them to figure out the utilization rate. 
+• “Great” answers will recognize that the components of output are actual cycle time, 
+yield, and utilization. They will realize that the utilization of this particular asset is 
+low and can be improved upon. They will recognize the operator consistency is a 
+critical issue and the utilization could be increased if the root cause of the 
+inconsistent brick loading could be solved. 
+• “Good” Answers will acknowledge that utilization is the core issue and will 
+recommend further exploration to increase utilization
+• Acceptable answers will realize the potential capacity is high enough to meet 
+demand and that something within the manufacturing is the reason why demand 
+cannot be met and revenue is flat
+• Note that Exhibit 2 should only be provided if the candidate specifically asks about 
+utilization at the baking step. This requires the candidate to break down the value chain 
+first and then to ask specifically about the loading or utilization of the baking process 
+only. 
+
+
+===== PDF p101 =====
+Kyle’s Brick Company
+Clarifying information (provide only if corresponding questions are asked) 
+What does the value chain look like?
+Raw materials come in and are formed in a molding 
+machine, treated with chemicals at treating, and 
+then baked and packaged. The bottleneck has been 
+confirmed to be located at baking. 
+What is the cycle time of the baking machine?
+It can handle 16 batches per day.
+How many hours does the facility operate?
+The facility operates 24/7 – 365
+Does the baking machine experience downtime?
+Yes, the current utilization is around 60%. The 
+baking machine typically outputs 9.6 batches per 
+day against a potential output of 16 batches/day.
+Does the baking have significant yield loss?
+No, the machine yield is 99.9%
+Has the baking machine changed over time?
+No, the output has been consistent over the past 3 
+years. 
+Why is the machine utilization so low? 
+Machine utilization is at 60% because the machine 
+can handle 1000 bricks per batch, but is there is 
+tremendous variation in the loading amount due to 
+operator preference. (provide Exhibit 2)
+
+
+===== PDF p102 =====
+Kyle’s Brick Company 
+• Question 4: What recommendations would you make? 
+Should our client buy another brick baking machine?
+• Sample “Great” Answer: Inconsistent loading patterns on the 
+baking machines by operators have had in adverse impact on 
+utilization at the brick factory. I recommend further studies to 
+implement standardized work at the loading job to increase 
+utilization at the baking machine and subsequently increase output. 
+This should help solve the flat revenue issue. The main risk of this 
+recommendation is that there is a legitimate process reason for the 
+inconsistent loading patterns. I would recommend further 
+exploration of inconsistent loading with the operators and 
+engineers as the next step.
+• Sample “Good” Answer: Utilization needs to be increased at the 
+baking process to improve output and improve revenue. 
+• Acceptable answers will acknowledge that additional capital 
+expenditures are unnecessary and that there is an operations 
+solution to the revenue/ capacity problem
+
+
+===== PDF p103 =====
+Kyle’s Brick Company
+Exhibit 1: Revenue and Profitability
+Year
+Revenue ($Millions)
+Profit Margin
+Bricks Produced (tons) Variable Costs 
+($Millions)
+2011
+62
+20%
+3100
+31
+2012
+70
+22%
+3500
+35
+2013
+74
+25%
+3700
+37
+2014
+74
+25%
+3700
+37
+
+
+===== PDF p104 =====
+Kyle’s Brick Company
+Year
+Revenue 
+($Millions)
+Profit Margin
+Bricks Produced 
+(tons)
+Variable 
+Costs 
+($Millions) Profit
+Fixed 
+Costs 
+($Millions)
+Fixed 
+Costs/Unit
+2011
+62
+20%
+3100
+31
+12.4
+18.6
+0.006
+2012
+70
+22%
+3500
+35
+15.4
+19.6
+0.0056
+2013
+74
+25%
+3700
+37
+18.5
+18.5
+0.005
+2014
+74
+25%
+3700
+37
+18.5
+18.5
+0.005
+Exhibit 1 Interviewer Cheatsheet: Revenue and Profitability
+Key Calculation: Profit Margin * Revenue = Annual Profit
+Key Calculation: Annual Profit =  Revenue – Fixed Costs – Variable 
+Costs
+
+
+===== PDF p105 =====
+Kyle’s Brick Company
+Exhibit 2: Brick Load of Baking Machine Histogram
+Provide only if asked specifically about the loading process at the baking 
+machine
+5%
+10%
+15%
+10%
+5%
+5%
+5%
+20%
+15%
+10%
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Relative Frequency of Bricks Loaded per 
+Batch at Baking Machine
+
+
+===== PDF p106 =====
+Kyle’s Brick Company 
+Exhibit 2 Interviewer Cheatsheet: Brick Machine Utilization
+(Provide the data, but not the calculations, if asked)
+•
+Utilization = Load/1000 
+•
+Sumproduct of relative frequency and utilization = baking machine utilization of 59.5%
+•
+Theoretical Capacity * utilization = current volume
+•
+Theoretical capcity = current volume/ utilization 
+Load
+Utilization
+Relative %
+Relative % * Utilization
+100
+10%
+5%
+0.500%
+200
+20%
+10%
+2.000%
+300
+30%
+15%
+4.500%
+400
+40%
+10%
+4.000%
+500
+50%
+5%
+2.500%
+600
+60%
+5%
+3.000%
+700
+70%
+5%
+3.500%
+800
+80%
+20%
+16.000%
+900
+90%
+15%
+13.500%
+1000
+100%
+10%
+10.000%
+Utilization
+59.500%
+Current Volume
+3700
+Capacity 
+6218

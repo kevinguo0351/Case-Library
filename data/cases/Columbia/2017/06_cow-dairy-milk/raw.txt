@@ -1,0 +1,192 @@
+===== PDF p69 =====
+Case # 6 - Cow Dairy Milk
+Our client is a healthcare provider for animals. The client has recently developed a product that enables 
+cows to increase milk production by 20%. They have turned to you to figure out how to price this new 
+product in order to maximize profits. 
+Problem Statement Narrative
+Case # 6: Cow Dairy Milk
+This case is essentially a long discussion around the framework the interviewee will build to tackle the 
+prompt, without much math at all. Interviewer should guide interviewee towards discussion around pricing
+Case Notes
+Industry: 
+Healthcare
+Case Type: 
+Pricing 
+Strategy
+Firm:
+N/A
+• Pricing strategy
+• Competitive 
+landscape
+Concepts Tested
+Structure
+Creativity
+Math
+Easy
+Medium
+Easy
+65
+
+
+===== PDF p70 =====
+Sample Framework
+Sample Framework
+There is much additional information to be given 
+(see below). Interviewee should ask about these 
+issues, interviewer may “nudge” interviewee in the 
+right direction.
+Guidance for Interviewer
+•
+Company does not have patent for product
+•
+Company is operating in the US
+•
+The product is sold and administered in doses
+Interviewee should ask about competitive 
+landscape; additional information to be 
+given:
+•
+There is one competitor who has a similar 
+product that is as safe as the one our client has 
+but only increases milk production by 5%
+•
+Competitor is pricing product at $300 per dose
+•
+Cows need to be administered 2 doses per week 
+irrespective of which product is used
+•
+Customers (farmers in this case) are very price 
+sensitive
+•
+Total cost to client is $30 per dose
+Clarification Answers if Asked 
+Pricing 
+Strategies
+Profits
+Cost-based 
+pricing
+Price-based 
+costing
+Competitive 
+Analysis
+Revenues
+Costs
+No. of doses / 
+year
+Price/dose
+FC
+VC
+Equipment
+Plant
+Raw material
+Distribution
+Marketing & 
+Sales
+Production 
+Labor
+66
+Case # 6 - Cow Dairy Milk
+
+
+===== PDF p71 =====
+• Candidate should ask if there is any information 
+regarding costs. Caser should indicate that the 
+company can leverage existing knowledge and 
+operations to keep FC & VC at $30 per dose
+• Additionally, sales & marketing capabilities will 
+be required to capture market share. The caser 
+should let the candidate come up with an 
+estimation of how to calculate SG&A costs.
+Costs
+• At an early stage in the case the candidate should 
+ask about the competitive landscape. Then (s)he 
+will learn about the competitor and the price of $ 
+300. 
+• Ideally (s)he should also ask about the product 
+specifications. Then (s)he will know that the 
+competitor’s product only increases production 
+by 5%, and not by 20%.
+Competitive Analysis
+Potential Areas for Analysis
+• Revenue = price/dose * # of doses/cow * # of 
+cows
+• Market sizing calculations will be required. Caser 
+should check for proper business assumptions on 
+# of cows, both in terms of general cow 
+population, as well as the % our client expects to 
+capture (market share). It is safe to assume high 
+% of market share, given that our client’s product 
+is 4X more efficient than the competitor’s 
+product.
+• Communicate # of doses (2 per week).
+• Let the candidate assume that the price will be 
+$300 to do the revenue calculations.
+Revenues
+• Sales & marketing capabilities for the client to 
+acquire increased market share
+• Client should start the patent registration 
+process
+• Post sale customer support for ongoing 
+maintenance of the product
+Company capabilities
+67
+Case # 6 - Cow Dairy Milk
+
+
+===== PDF p72 =====
+Question #1
+How would you calculate the potential profit opportunity for this product?
+Question #1
+•
+Revenue = price/dose * # of doses/cow * # of cows
+•
+Market sizing calculations will be required. Caser should check for proper business assumptions on # of 
+cows, both in terms of general cow population, as well as the % our client expects to capture (market 
+share). It is safe to assume high % of market share, given that our client’s product is 4X more efficient 
+than the competitor’s product.
+•
+Communicate # of doses (2 per week).
+•
+Let the candidate assume that the price will be $300 to do the revenue calculations
+Example:
+Approximately 10M dairy cows in the US (as opposed to beef cows)
+Assume 20% market share (or any reasonable market share) = 2M cows
+2 doses per week * 52 weeks = 104 doses (can round to 100)
+Revenue: $300 * 100 doses * 2M cows = $60B ($62.4B if using 104 doses)
+Cost: $30 * 100 doses * 2M cows = $6B (10% of revenue)
+Profit potential: $54B – 90% margin at a price of $300
+Solution
+68
+Case # 6 - Cow Dairy Milk
+
+
+===== PDF p73 =====
+Conclusion
+• Pricing at $300 gives our client a hefty profit 
+(considering costs are low) with a 90% margin
+• Although our product is four times more 
+efficient, customers are price sensitive so we 
+can’t charge significantly higher.
+• We can leave room for promotion considering 
+the hefty margin
+• We expect customers will switch over to our 
+client’s product because it’s better quality for the 
+same price
+Rationale
+• Price product at $300 per dose
+Recommendation
+• Analyze competitive response
+• Start the patent registration process
+• Launch new product
+• In parallel continue to work on R&D. High 
+margins allow space for it. In the long run it will 
+help our client maintain innovation and 
+minimize threat of competitors.
+Next Steps
+• Competitive response:
+• No patents – product may be replicated
+• Threat of new players that come up with 
+better and more efficient products
+Risks
+69
+Case # 6 - Cow Dairy Milk

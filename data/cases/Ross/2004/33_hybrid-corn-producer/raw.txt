@@ -1,0 +1,89 @@
+===== PDF p79 =====
+Table of Contents 
+ 
+75
+Practice Case 33: Hybrid corn producer 
+(BCG - Round 2) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Corn farmers usually save a portion of the harvest to use as seed for 
+planting it next year.  However, in countries with high GDP, farmers 
+typically purchase and plant hybrid corn, which is bred for specific 
+characteristics, such as insect resistance.  Another important 
+characteristic is yieldóhow many bushels per acre can be grown 
+from the seed.   
+ 
+Our client has developed a new hybrid with higher yield and would 
+like to know how to price it. 
+ 
+II. Additional information provided after relevant questions:   
+• 
+This hybrid increases the yield from 80 bushels per acre (industry 
+average) to 90 bushels per acre. 
+• 
+Farmers sell corn at $10 per bushel. 
+• 
+2 bags of seed corn are needed per acre, regardless of whether regular 
+or hybrid seed corn is used.  
+• 
+Cost to farmer per bag is $80. 
+• 
+No additional costs (fertilizer, equipment, time, etc.) are incurred by 
+farmers when switching from regular seed corn to hybrid corn. 
+• 
+There is no cost to client to switch to producing this new hybrid.  The 
+development costs have been taken care of in the R&D budget.  (You 
+can make up these numbers when giving the case to make it more 
+interesting). 
+ 
+Complication:  
+ 
+The interviewer complicated matters by telling me that a weather event 
+occurred 30 times in the last 150 years, which caused the crop to be 
+completely wiped out.  Determine how this would impact pricing 
+ 
+III. Sample Solution:   
+I suggested determining the pricing strategy by looking at value to customer 
+and comparing that to our cost.  I asked questions related to this approach 
+(understanding the customerís business model) 
+ 
+Value to customer is: 
+ 
+Extra 10 bushels/acre*$10/bushel=$100/acre 
+• 
+This is pure profit, because the customer still only has to buy two bags 
+of seed corn.  The additional value to customer per bag is therefore 
+$50 (because 2 bags are needed per acre). 
+
+
+===== PDF p80 =====
+Table of Contents 
+ 
+76
+• 
+Based on these data and the current cost per bag, we can charge up to 
+$80+$50=$130/bag.  
+ 
+When I asked whether the value of this hybrid is apparent to the customer, I 
+was told that research has been published in a magazine that farmers trust, 
+so this shouldnít be hard to sell. 
+ 
+The cost to the client is the same, so we can charge up to $120 per bag (we 
+would want to leave some money on the table to induce purchase and gain 
+additional market share). 
+ 
+We should launch this as soon as possible to lock in contracts with farmers 
+before our competitors get to market with their version of this product. 
+ 
+Complication:  
+ 
+All of the above seemed pretty obvious.  The interviewer complicated matters 
+by telling me that a weather event occurred 30 times in the last 150 years, 
+which caused the crop to be completely wiped out.  I was asked whether and 
+how this would impact pricing. 
+ 
+As a result, the value to the farmer is reduced (the payoff is uncertain: 
+30/150=20%).  The value becomes 80%*$50=$40, so we can charge up to 
+$120 per bag. 
+ 

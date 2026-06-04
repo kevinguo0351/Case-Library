@@ -1,0 +1,262 @@
+===== PDF p46 =====
+Valuation 
+Case 5: Satellite Co. 
+Prompt 
+Your client is a U.S. telecom provider with $30B in revenues. The firm is considering moving into 
+the television business by acquiring a satellite television operator that operates in the U.S. They 
+have hired our firm to determine whether this is an attractive target. Your firm has determined that 
+the acquisition is attractive if the value of the company exceeds $3B.  
+ 
+The opportunity to bid on this target closes shortly, and you need to advise the client on 
+whether they should proceed with the acquisition. 
+ 
+Guidance 
+This case can be broken into 2 parts; a short market/competitive analysis and a valuation. Provide 
+the following information upon request: 
+ 
+Market/competitive analysis: 
+•  Customers are any residential household in the U.S 
+•  No option to expand internationally at this time 
+•  Target competes with 2 other satellite operators, national and regional cable companies, and 
+telecom providers that offer television services 
+•  The market is crowded and high barriers to entry means there is not threat of competitive entry 
+•  Target offers three tiers of service; basic, premium, ultra premium 
+Valuation: 
+•  Need to calculate total revenues and total costs 
+•  Revenues from three tiers of service and DVR box rental. All customers rent the DVR box 
+•  Costs include programming cost, service cost, and other costs 
+•  Utilize profitability to drive valuation 
+•  Profit is growing at 5% annually 
+•  U.S. population is 300 million and on average 3 people/household = 100 million households 
+•  The company has 2% penetration across all U.S. households = 2 million households 
+42 
+
+
+===== PDF p47 =====
+43 
+Guidance 
+ 
+ 	  
+Valuation 
+Tier 
+Basic 
+Premium 
+Ultra 
+Premium 
+Total 
+Customer % 
+20% 
+75% 
+5% 
+Customers (million) 
+0.4 
+1.5 
+0.1 
+Service 
+revenue 
+Monthly service price 
+$20 
+$50 
+$100 
+Annual service price 
+$240 
+$600 
+$1,200 
+Annual service revenue 
+(millions) 
+$96 
+$900 
+$120 
+$1,116 
+DVR 
+revenue 
+Monthly DVR price 
+$20 
+$30 
+$40 
+Annual DVR price 
+$240 
+$360 
+$480 
+Annual DVR revenue 
+$96 
+$540 
+$48 
+$684 
+Total annual 
+revenue 
+$192 
+$1,440 
+$168 
+$1,800 
+variable  
+costs 
+Monthly service cost/
+customer 
+$5 
+$10 
+$10 
+Annual service cost/customer 
+$60 
+$120 
+$120 
+Annual service costs  
+(millions) 
+$24 
+$180 
+$12 
+$216 
+Programming costs (% of 
+revenue) 
+50% 
+Total program costs (millions) 
+$900 
+Other costs (% of revenue) 
+20% 
+Total other costs (millions) 
+$360 
+Total costs 
+(millions) 
+$1,476 
+Total profit 
+(millions) 
+$324 
+Case 5: Satellite Co. 
+
+
+===== PDF p48 =====
+44 
+Guidance 
+For the valuation part, the candidate must estimate the cash flows from the business and discount 
+them back using a perpetuity formula. The discount rate that should be used is 15%. When the 
+candidate inquires about growth rates, say the company’s profit is growing at 5%, above the rate of 
+inflation. Therefore, whatever numerator the candidate arrives at should be divided by 0.15 - 0.05 = .
+10, an easy calculation. Use the CF / (r – g) formula for a perpetuity. In this case, the answer is 
+around $324m / 0.10, or $3.24 billion. 
+ 
+After the value of the company is obtained, ask the candidate what other types of analyses should be 
+done before giving the client the recommendation. 
+ 
+Performance 
+Evaluation 
+Expected: 
+•  Completes all math accurately 
+•  Proceeds through the process to the answer with some prompting 
+  
+Good: 
+•  Completes all “Expected” requirements 
+•  Is able to drive the process forward, covering the necessary points with minimal prompting 
+•  Walks the interviewer clearly through the math 
+ 
+Excellent: 
+•  Completes all “Good” requirements 
+•  Drives the process forward while recognizing that they need to figure out a stream of cash flows to 
+go forward 
+•  Performs an accurate valuation given assumptions 
+•  Thoughtfully discusses other types of analyses that should be completed before making a 
+recommendation to the client 
+Case 5: Satellite Co. 
+Valuation 
+
+
+===== PDF p49 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+45 

@@ -1,0 +1,210 @@
+===== PDF p98 =====
+11 / Thompson Healthcare
+• Our client is Thompson Healthcare, a health insurance firm located in the Midwest.
+• Customers pay Thompson a fixed monthly premium per person covered under the plan. In exchange, Thompson pays for all health
+services that each member requires (e.g. physician care, prescription medications, hospitalization).
+• In recent years, Thompson’s financial and competitive position has begun to erode, and the CEO has retained our firm to help them
+determine what is causing the problem and how to fix it.
+Overview for Interviewer
+Industry:
+Healthcare
+Case Format:
+Cost reduction
+Concepts Tested:
+• Cost management
+• Sales channel strategy
+• Economic value analysis
+Notes
+• This is a McKinsey style case. The interviewer should drive the case
+and converse with the interviewee
+• Say the following:
+• “Before asking you questions about the case, I will give you the
+background you will need. There are a number of issues that I would like
+to cover with you today; do not be surprised if I change topics abruptly.”
+
+
+===== PDF p99 =====
+Interviewer Guidance
+Information to Share (not just if 
+asked)
+Client Characteristics:
+• Thompson Healthcare is a mutual insurance company, 
+meaning all of its profits are returned to members in the form 
+of lower premiums the following year. As such, Thompson 
+does not seek to maximize profit – it seeks to minimize cost.
+• Thompson’s prices reflect underwriting of risk and the 
+underlying cost to serve a customer.
+Competitive Dynamics:
+• Market share is steady, despite presence of major national 
+health insurance company in the market (United Healthcare –
+UHC).
+• UHC has 30% market share
+• UHC typically expects to earn a 5% profit margin.
+Local industry characteristics/economics:
+•
+The national average rate of medical cost inflation is 10% 
+over the past five years. 
+•
+Thompson has seen medical cost inflation of 12% over the 
+past five years.
+•
+UHC has seen medical cost inflation of 10% over the past 
+five years.
+Interviewer 
+Guide
+State the information to the left after reading the initial prompt. 
+The interviewee should develop a variant of the following 
+question:
+How can Thompson Healthcare reduce its total cost to 
+serve its policy holders?
+Ideally, the interviewee should be able to break down the question 
+into two parts:
+1. Managing medical costs
+2. Managing administrative costs
+Ask the interviewee the questions on the following pages and move 
+on when they have answered the question sufficiently.
+
+
+===== PDF p100 =====
+Questions 1 & 2
+Problem 
+Structure
+What factors would you consider in order to 
+understand 
+Thompson’s eroding financial position?
+Notes to the 
+interviewer
+•
+The interviewee should lay out a structure for 
+analyzing the case.
+•
+They could have determined that revenue is not 
+relevant based on the information given in the initial 
+prompt on page 1 and 2, so the interviewee should 
+focus on cost.
+•
+Costs in the case break into fixed costs and variable 
+costs.
+o
+Variable Costs (medical costs – claims made 
+by 
+policyholders)
+o
+Fixed Costs (administrative costs (e.g. marketing 
+and sales, underwriting, finance)
+•
+Specifically, we will need to understand how these 
+costs have changed over recent years.
+•
+Medical cost = (number of claims) * (cost per claim)
+•
+Potential answers include:
+o
+Deductibles are low, leading members to see doctors for 
+minor medical issues🡪
+increasing deductibles will 
+make members more conscious of costs
+o
+Thompson pays more for procedures than average🡪
+conduct 
+benchmarking study to determine what competitors 
+charge for various procedures
+o
+Thompson insures an older population than average🡪
+increase marketing efforts toward younger consumers
+o
+Thompson insures a sicker population than average🡪
+enhance wellness programs
+Medical costs are the largest component of Thompson’s costs. Thompson’s medical 
+costs are increasing faster than the national average. What are some potential 
+reasons why this is taking place. What opportunities would you explore to reverse 
+this?
+Initial 
+Hypothesis
+Notes to the 
+interviewer
+
+
+===== PDF p101 =====
+Question 3
+Second 
+Hypothesis
+In addition to medical costs, administrative costs for Thompson are also higher than average. The biggest driver of this phenomenon is a high cost of sales.
+Thompson’s policies are sold through independent agents. All independent agents work with a ”General Agency” which acts as a sales support organization.
+How much does Thompson pay in commissions each year? What are some potential approaches Thompson could take to reduce its cost of sales? What
+strategic issues exist with these approaches?
+Notes to Interviewer
+Additional information to provide after interviewee explains how they would calculate commission expense:
+•
+Commission (10% of annual premiums) is paid to the General Agency, which passes a share to the independent agent. Total 
+commission paid is, on average, $25 per agent, per month
+•
+Interviewee should identify the need for # of agents. Give the number 500,000 if asked
+•
+Total commission expense = $25 * 500,000 * 12 = $150,000,000
+•
+Potential approaches to reduce cost of sales:
+o
+Reduce commission percentage
+o
+Cap commission to a certain level per year
+o
+Change commissions structure from percent of premium to flat fee (percent of premium increases at the rate of medical 
+cost of inflation every year)
+•
+Potential risks with these approaches:
+o
+Agents could shift business from Thompson to another carrier that pays higher commission
+o
+Agents would lose incentive to sell if commission is capped
+
+
+===== PDF p102 =====
+Question 4
+Next level of 
+analysis
+The team has decided to pay a flat commission directly to agents, and to pay the General Agencies a separate fee for the support services they provide
+to agents. If the total commission paid to both parties is set at $20 per member per month, what share should be given to the General Agencies?
+(If interviewee is unsure of “what share” means, explain they should find the maximum amount that should be allocated to the General Agencies)
+Notes to Interviewer
+Additional information
+•
+General Agencies performs three activities: training, application processing, and performance management.
+•
+If Thompson were to perform these activities internally, they would cost:
+o
+Training: $6,000,000
+o
+Application processing: $9,000,000
+o
+Performance management: $15,000,000
+•
+Potential approach
+•
+The total cost of the activities that General Agencies perform is $6,000,000 + $9,000,000 + $15,000,000 = $30,000,000
+•
+There are 500,000 members and 12 months in a year
+•
+The maximum amount of money Thompson should be willing to pay the GA for the activities performed is the per 
+member, per month cost of these activities ($30,000,000/(500,000 * 12) = $5   
+
+
+===== PDF p103 =====
+Conclusion
+Final 
+recommendations
+Taking into account what you’ve learned so far as well as your own hypothesis, what would you recommend to the CEO
+at this point?
+Notes to Interviewer
+Our client should take action to reduce both medical costs and administrative costs
+•
+At this point, the interviewee should synthesize the findings from the interview into several clear initiatives. For example:
+o
+Enhance marketing efforts to attract more young customers and bring down the average claims per member
+o
+Conduct a benchmarking study to determine opportunities for reductions in payments for medical services.
+o
+Change the commission structure to flat fee per member per month. This achieves the goal of reducing commission 
+expense, while at the same time keeping an agent’s incentive to sell more business.
+Strong interviewees will demonstrate the ability to analyze issues using a clear structure and will draw out implications of their 
+analysis. The quantitative calculations in this case are elementary, but the process to get to them is somewhat more complicated.

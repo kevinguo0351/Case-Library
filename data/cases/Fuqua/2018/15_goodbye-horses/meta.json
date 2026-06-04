@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2018_15_goodbye-horses",
+  "school": "Fuqua",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2018.pdf",
+  "idx": 15,
+  "case_name": "Goodbye Horses",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": "Medium",
+  "pdf_page_start": 163,
+  "pdf_page_end": 171,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    165,
+    166,
+    167,
+    168,
+    169,
+    170
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p165.png",
+    "exhibits/exhibit_p166.png",
+    "exhibits/exhibit_p167.png",
+    "exhibits/exhibit_p168.png",
+    "exhibits/exhibit_p169.png",
+    "exhibits/exhibit_p170.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2018\\15_goodbye-horses"
+}

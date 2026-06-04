@@ -1,0 +1,28 @@
+{
+  "case_id": "Stern_2021_11_all-night-long",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 11,
+  "case_name": "All Night Long",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Media & Entertainment",
+  "difficulty": null,
+  "pdf_page_start": 138,
+  "pdf_page_end": 145,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    140,
+    141,
+    142,
+    143
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p140.png",
+    "exhibits/exhibit_p141.png",
+    "exhibits/exhibit_p142.png",
+    "exhibits/exhibit_p143.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\11_all-night-long"
+}

@@ -1,0 +1,44 @@
+===== PDF p19 =====
+EXAMPLE CASES BY TYPE 
+PROFIT IMPROVEMENT  
+ 
+CANDY COMPANY 
+ 
+ 
+Question: 
+ 
+Your company is a rather successful producer of candy.  It originally started as a single product company and has 
+diversified its product line over the last few years. The production process consists of two basic activities: 
+manufacturing and packaging.  The firm has also expanded its sales through product line extensions.  Management 
+is concerned that sales are growing, but profits are not increasing at the same rate.  What can your company do? 
+ 
+ 
+Approach: 
+ 
+This is revenue vs. cost exercise.  Margins are shrinking. 
+ 
+Find out about the critical components of cost: raw material, labor and fixed cost.  Raw materials are commodities 
+with cyclical prices, which have fallen in recent years but are expected to swing up again (this, as you have guessed, 
+makes the problem worse.)  Labor and fixed capital has increased per unit over-proportionally compared with ten 
+years ago.  Find out that the company’s controlling system is still focusing on the manufacturing part of the 
+production and the cost explosion occurs in packaging (candy is candy, the product line extension is primarily an 
+issue of different packaging.)  Controlling schedules manufacturing which is rather efficient already, but not 
+packaging, thus causing slack in labor and fixed capital (small batch sizes, high setup times.) 
+ 
+ 
+Solution: 
+ 
+Possible solutions:  reduce product line, introduce controlling/scheduling measures for packaging. Qualifier: are the 
+company’s customers (i.e. retailers) willing to accept the reduced product line? 
+ 
+Find out about revenue killers:  concentration of retailers, trade brands, retailers demand large introductory discounts 
+for new products, high failure rate of new products. 
+ 
+Other good solutions:  streamline product line, reduce low margin trade brand production, emphasize pull 
+marketing, and reduce introduction rate for new products. 
+ 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 45 
+ 

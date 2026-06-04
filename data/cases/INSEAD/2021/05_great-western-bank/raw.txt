@@ -1,0 +1,293 @@
+===== PDF p51 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+Case Information
+Difficulty level ± Quantitative
+5
+Difficulty level ± Creativity
+4
+Difficulty level ± Structure
+2
+Case led by
+Interviewer-led
+Case type
+Profitability / Cost-Cutting
+Industry
+Financial Services
+47
+
+
+===== PDF p52 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Case Prompt
+Our client is a small retail bank in the United States called Great Western Bank (GWB). GWB has 50 branches across the Western United 
+States. In the past two years, the company has experienced a decline in profitability, and their CEO has sought our help to identify the root 
+cause for the decline and see if we can help GWB address the problem. How would you advise the CEO?
+Information to be used to answer clarifying questions
+y As a retail bank, GWB provides checking and savings accounts to members of the public, rather than companies. It then uses these deposits to make loans, also to 
+individuals. 
+y GWB generates revenue b\ making three t\pes of loans: mortgages, auto loans, and personal loans. The bank¶s assets are evenl\ allocated across these types of 
+loans and its Central Bank reserves (i.e. 25% in each of the four categories). 
+y Profitability has fallen by $34M over the last two years. 
+y GWB has approximately 300,000 customers and $4.4B in interest-bearing deposits
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+Guide to interviewer
+This case tests profitability (revenue and costs), brainstorming, and both qualitative and quantitative analysis
+48
+
+
+===== PDF p53 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Sample Framework
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+Profitability
+Revenue
+Costs
+
+Variable costs: interest on 
+deposits, labor, office 
+supplies, « 
+
+Fixed costs: rent, 
+depreciation,  technology 
+costs, electricity and 
+utilities, marketing 
+e[penses, « 
+49
+
+
+===== PDF p54 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Question 1
+y The client has given us the following information about its revenues (E[hibit 1). Based on the data, calculate GWB¶s revenue in 2018 and 2020. What can be said 
+about GWB¶s business positioning?
+Guide to interviewer
+A good candidate will cover these points:
+A great candidate will cover these points:
+a) Volume is increasing slowly but steadily while market share is constant, 
+indicating the market overall is experiencing slow growth
+b) Interest rates across the board have fallen by 20% over two years
+c) Revenue is $176M, down from roughly $200M, which is greater than a 10 
+percent decline. 
+Clarification Points
+ $4.4B refers to deposits at GWB, not the whole market
+ GWB earns interest on reserves at the rate specified in Exhibit 1
+a) Decreasing interest rates hasn¶t led to an increasing market share in the 
+lending market, suggesting the lending market is getting more competitive on 
+pricing (interest rates).
+b) The revenue figures can be calculated by averaging the interest rates and 
+multiplying by the total amount of deposits, rather than computing each 
+product¶s reYenue separatel\.
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+50
+
+
+===== PDF p55 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Question 2
+y What actions could the client consider to boost revenues in view of your analysis?
+Guide to interviewer
+Possible responses could include:
+a) Core Business Optimization
+i.
+Marketing strategy
+
+Partnerships with local businesses to give discounts to our customers 
+
+Advertising via TV, radio, etc..
+
+Online advertising
+
+Customer research to learn more about different customer segments and better target products
+ii.
+Customer research to see if there are opportunities to steal customers by adding new services/amenities
+iii.
+Improve use of data when making loans to reduce NPLs
+iv.
+Reallocate reserves to higher-yielding assets such as auto loans
+b) New Products ± expanding into riskier loans that command higher rates, selling insurance
+c) New Markets ± opening new branches, expanding to new geographies, offering corporate banking
+d) M&A to reduce competition in the industry and increase interest rates
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+51
+
+
+===== PDF p56 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Question 3
+y As the client contemplates some of your suggestions, they have decided that in the short-term they will need to cut costs to improve profitability. (See Exhibit 2.) 
+Calculate the compan\¶s total costs. 
+(After the candidate has reviewed the cost data) The client is considering eliminating their notary services, currently offered at all their locations. How would you go 
+about evaluating this option?
+Guide to interviewer
+A good candidate will cover these points when reviewing the cost data:
+a) Interest is considered an expense, because it is the money you have to pay your clients (depositors)
+b) The typical branch has costs of $1.26M plus interest costs ($2M, if you assume each of the branches has the same amount of deposits). 
+c) Total costs are $173M, up from $163M. 
+d) Profits are currently about $3M, based on our prior computation of $176M in revenue. This is down from $37M. 
+Clarification Points:
+ Notaries are professionals that retail banks in the U.S. typically keep on staff to witness signatures for legal documents, including those related to property and 
+financial asset transfers. These services are typically rendered free of charge to bank customers.  
+ All costs in Exhibit 2 are annualized. Interest on deposits is charged for deposits held at that particular branch.
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+52
+
+
+===== PDF p57 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Question 3 (continued)
+y As the client contemplates some of your suggestions, they have decided that in the short-term they will need to cut costs to improve profitability. (See Exhibit 2.) 
+Calculate the compan\¶s total costs. 
+(After the candidate has reviewed the cost data) The client is considering eliminating their notary services, currently offered at all their locations. How would you go 
+about evaluating this option?
+Guide to interviewer
+A good response should include (a) and a great response will include all or some of (b)
+a) Profitability
+a) Cost savings of $150,000 per branch per year, or $7.5 million. 
+b) Possible losses from eliminating the notary service. These include:
+
+Opportunities to market our existing products to existing customers when they visit for notary services
+
+Attracting new customers who require notary services
+
+Increasing customer loyalty to our branch, as they grow reliant on our notary service
+
+Opportunities to build a more personalized customer service for our clients
+b) Qualitative Factors: competitive response (do our competitors also offer notary services? Are there new entrants offering notary services in a more convenient 
+Za\?), trends in customer demand (do people use notaries as often as the\ once did?, « 
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+53
+
+
+===== PDF p58 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Question 4
+y Based on our suggestion, the client has conducted some market research to better evaluate the option to cut its notary service offering (Exhibit 3). How do the 
+results impact your view of this cost-cutting opportunity?
+Notes to Interviewer
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+A good candidate will cover these points:
+A great candidate will cover these points:
+a) Most customers use the notary service very infrequently. 
+b) The customers who do use the notary service frequently tend to be customers 
+with more assets on deposit with GWB.
+c) Cutting notary services would result in net losses. For example, if we lost all 
+the customers who use the notary frequently (twice per quarter or more), we 
+would lose about $720M in interest-bearing deposits, incurring losses of 
+roughly $30M, based on the ~4% average interest rate calculated earlier in 
+the case. This alone far exceeds the $7.5M we would save from cutting the 
+notary services.  
+a) We could consider laying off our notaries and training our bank tellers and 
+loan officers to double as public notaries to cut costs while maintaining the 
+notary service offering.
+b) The data provided does not consider the possibility for changes in customer 
+preferences regarding notaries going forward
+54
+
+
+===== PDF p59 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GWB¶s $34M fall in profitabilit\ has been primaril\ caused b\ a fall in reYenues and specificall\ a fall in the interest rates it is charging. Although there has been a 
+modest increase in GWB¶s interest-bearing deposits, GWB is earning 20% less in interest on its deposits, which appears to be due to falling interest rates across the 
+industry. 
+While it may be tempting to cut ancillary client services like notary services, our market research indicates that cutting these services could lead to at least a 20% 
+drop in our interest-bearing deposits and revenue due to the large volume of deposits held by customers using notary services. 
+As a next step, we could consider other cost-cutting measures such as retraining our bank tellers and loan officers to handle notary services, enabling us to realize 
+the potential $7.5M cost savings from laying off our notaries without losing customers. We should also consider long-term solutions to boost revenue such as M&A, 
+which would improve our bargaining power with customers, or opening additional bank branches. 
+Sample Solution & Recommendations
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+55
+
+
+===== PDF p60 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Exhibit 1 ± GWB Interest-Bearing Deposits and Loan Portfolio
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+Note: Loan defaults are incorporated into interest rates earned
+Date
+Deposits 
+($MM)
+Deposits - 
+Market 
+Share (%)
+Loans - 
+Market 
+Share (%)
+2018
+4000
+15.3
+15.1
+2019
+4200
+15.5
+15.4
+2020
+4400
+15.4
+15.2
+56
+
+
+===== PDF p61 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Exhibit 2 ± Cost Structure of Average GWB Branch
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+Interest on Deposits
+2.5% of deposits
+Labor Costs
+Loan Officers Six, each making 
+$60,000 per year
+Tellers Four, each making 
+$50,000 per year
+Notaries Three, each making 
+$50,000 per year
+Technology & Equipment
+$200,000
+Other Fixed Costs
+$350,000
+57
+
+
+===== PDF p62 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Exhibit 3 ± Customer Analysis by Usage of Notary Services
+Great Western Bank 
+Author: Matthew Michaelides (¶21J)
+Customer Type
+% Customers
+Less than once 
+per year
+78%
+Once per year
+10%
+Once per 
+quarter
+8%
+Twice per 
+quarter or more
+4%
+58

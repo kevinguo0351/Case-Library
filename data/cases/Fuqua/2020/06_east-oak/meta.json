@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2020_06_east-oak",
+  "school": "Fuqua",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2020.pdf",
+  "idx": 6,
+  "case_name": "East Oak",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "eCommerce",
+  "difficulty": "Medium/Medium",
+  "pdf_page_start": 86,
+  "pdf_page_end": 96,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    89,
+    90,
+    91,
+    93,
+    94
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p093.png",
+    "exhibits/exhibit_p094.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2020\\06_east-oak"
+}

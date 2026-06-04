@@ -1,0 +1,182 @@
+===== PDF p89 =====
+Casebook | 2019-20 Edition 
+85 
+ 
+9. Nantucket Ice Cream Shop (Bain R1, CPG/Retail, New Product, 
+Balanced) 
+Stem: We have a client, Sally, who we know because she used to be a ‘titan of business.’ She is  
+currently retired and living on Nantucket. Sally owns an ice cream shop and called us to ask if we think it’s 
+a good idea for her to expand her business into bagels. 
+ 
+Let candidate ask clarifying questions and provide the following information if asked: 
+ 
+● 
+Sally owns one shop only 
+● 
+Expanding into bagels is only desired if profitable; there are no other motivations 
+ 
+The candidate should create a framework that includes at least an analysis of the market and the existing 
+shop, as well as the implications/risks of expanding to bagels. If the candidate does not mention 
+competitors/market, guide them to this by asking leading questions. 
+ 
+Phase 1: Market Sizing 
+ 
+Interviewer: How would you calculate the size of the market? 
+ 
+Nantucket has very different population sizes in winter vs. summer; the candidate should make note of 
+this. 
+ 
+If candidate is not familiar with Nantucket, the candidate should be told that it is a popular summer 
+vacation destination. 
+ 
+The candidate should start asking questions to determine the volume of bagels sold per year in this 
+market. Provide the following information as the candidate asks for it: 
+ 
+● 
+We are concerned with the market in the general vicinity of Sally’s shop 
+● 
+The year-round population of Nantucket is 10,000 
+● 
+There is a tourist population amounting to an additional 30,000 people for 6 months out of the 
+year 
+● 
+25% of the year-round population are bagel buyers; they buy 4 bagels per week 
+● 
+50% of the tourist population are bagel buyers; they buy 2 bagels per week 
+ 
+The Candidate should use this information to calculate the total bagels sold in this market annually: 
+ 
+Year-round population: 
+ 
+25% of year-round population: 10,000 x 0.25 = 2,500 year-round bagel buyers 
+2,500 year-round bagel buyers x 4 bagels per week = 10,000 bagels bought weekly 
+10,000 x 52 weeks (Interviewer interjects that candidate can round to 50 wks/yr), so: 
+10,000 x 50 weeks = 500,000 bagels per year bought by year-round population 
+Tourist population: 
+50% of tourist population: 30,000 x 0.5 = 15,000 bagel buyers 
+ 
+15,000 tourist bagel buyers x 2 bagels per week = 30,000 bagels bought weekly 
+30,000 x 25 weeks (approx. 6 months) = 750,000 bagels per year bought by tourists 
+Total annual bagel market: 500,000 year-round + 750,000 tourist = 1.25M bagels 
+
+
+===== PDF p90 =====
+Casebook | 2019-20 Edition 
+86 
+ 
+Phase 2: Competition and Market Share 
+ 
+Once the candidate gets the size of the market, they should comment on what they think of the number, 
+and next ask for information regarding competitors. Supply the following information when asked: 
+ 
+● 
+There are 6 current bagel suppliers in the vicinity of Sally’s shop 
+● 
+Of those, 2 are large chains (“think Finagle a Bagel”), 2 are specialty shops, and 2 are mixed- 
+use shops (health food stores, delis, etc) 
+ 
+Interviewer: What would you estimate the market share of the competitors to be? 
+ 
+Candidate should come up with something reasonable and support their answer, taking into account the 
+potentially different shopping habits of year-round customers and tourist customers. A reasonable 
+estimate could be: 
+ 
+● 
+2 large chains50% 
+● 
+2 specialty shops30% 
+● 
+2 mixed-use stores20% 
+ 
+Interviewer: So, what is a reasonable market share that Sally could hope to obtain? 
+ 
+Candidate should support their answer; something reasonable could be 10%. 
+ 
+Interviewer: Great, we like to be conservative at Bain. So, 10% of the market means 120,000 bagels per 
+year and 10,000 bagels per month (ideally candidate would make this comment). Where do you want to 
+go from there? 
+ 
+Phase 3: Cost Comparison 
+ 
+Candidate should transition now to evaluating profitability, asking about how much Sally can charge for 
+her bagels and the associated costs. 
+ 
+Interviewer can give the following information as the candidate asks for it: 
+ 
+● 
+Bagels sell for $1.25 per bagel across all of the existing suppliers; we can assume that’s what 
+Sally would get also 
+● 
+There are two available models for Sally to consider: making the bagels in-house or buying them 
+from Joe the baker 
+ 
+The candidate should then move on to a cost comparison between these two options. First have the 
+candidate brainstorm about what the costs would be if Sally made the bagels in-house. Then reveal the 
+following information: 
+ 
+● 
+If Sally makes the bagels in-house, she will incur a monthly equipment cost of $1,000 and all of 
+her other costs (electricity, labor, etc.) would amount to $0.50 per bagel 
+● 
+If Sally buys the bagels from Joe the baker, it will cost her $0.75 per bagel 
+Interviewer: Can you set up the profitability equations for both of these options? 
+Candidate should come up with the following: 
+Make in-house:1.25x – (1,000 + 0.5x) 
+ 
+[Note using 1,000 will lead to a monthly indifference point. For the yearly 
+indifference point, the equation would be: 1.25x – (12,000 + 0.5x)] 
+ 
+Buy from Joe:1.25x – 0.75x 
+
+
+===== PDF p91 =====
+Casebook | 2019-20 Edition 
+87 
+ 
+Interviewer: Great, so at what point would Sally be indifferent between these two options? 
+ 
+Candidate should demonstrate that Sally would be indifferent when x equals a number such that her 
+costs are equal across both options: 
+ 
+1,000 + 0.5x = 0.75x -OR-[12,000 + 0.5x = 0.75x 
+ 
+x = 4,000 bagels/monthx = 48,000 bagels/year] 
+Interviewer: So what option do you think she should go with? 
+Candidate should note that once Sally crosses the 4,000 bagel/month threshold (or the 48,000 bagel/year 
+threshold) it is more cost effective to go with the in-house option. So, if she is indeed able to secure the 
+10% market share previously discussed (which would mean she is able to sell 10,000 bagels/month), she 
+would have more than twice the indifference point, and should definitely go with in-house production. 
+ 
+Phase 4: Brainstorming 
+ 
+Interviewer: So now it’s 6 months later, and Sally has started producing bagels in-house and selling 
+them. She contacts us again to say that sales are way below predictions. Why? Go ahead and make a 
+long list. 
+ 
+When the candidate reads his/her list, say: “Good, what else?” and have them brainstorm more, then 
+repeat “Good, what else,” have them brainstorm again; repeat a few times. 
+ 
+Candidate can come up with answers such as: 
+ 
+● 
+Inferior product 
+● 
+Location of Sally’s shop 
+● 
+Insufficient marketing 
+● 
+Product mix (does she also sell coffee since it is a strategic fit with ice cream?) 
+● 
+Shop hours 
+● 
+Negative competitive response (opened another store, etc.) 
+● 
+Production capacity (she is still learning how to use the machines and is unable to produce up to 
+full capacity/her machines are insufficient) 
+● 
+Customer loyalty – existing customers are unwilling to switch from their current bagel shop of 
+choice 
+● 
+Economy/market – bagel sales are poor on Nantucket in general? 
+ 
+Interviewer: OK, thanks. No formal recommendation for this case. 

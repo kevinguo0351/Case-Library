@@ -1,0 +1,62 @@
+===== PDF p89 =====
+EXAMPLE CASES BY TYPE 
+WILD CARD AND MISCELLANEOUS 
+ 
+ 
+U.S. GAS STATIONS 
+ 
+ 
+Question: 
+ 
+ 
+How many gas stations are there in the U.S.? 
+ 
+Possible Approach 
+ 
+There are two ways I thought of to approach this question: 
+ 
+• 
+Population theory - In say, Menlo Park / Atherton, there are about 15 gas stations for about 40,000 
+people.  In urban areas, there are many more people per gas station (say 150 in San Francisco for 
+700,000 people), while in rural areas, there are fewer people per station (in my hometown, there 
+were three (3) gas stations for about 5,000 people).  Add in a Fudge factor for truck stops in the 
+middle of nowhere, and let’s guesstimate that the average nation-wide (I know one isn’t supposed 
+to average averages, but this is consulting) is about as populated with stations as Menlo Park This 
+is a ratio of one station per 2,667 people.  There are 250 million people in the U.S. so that’s 
+around 90,000 stations. 
+ 
+• 
+Note - one could just have used Menlo Park from the start, but the idea is not to get the answer but 
+to think transparently.  I threw in things like urban areas, people without cars, commercial 
+transport etc to show that I was casting a net to test the reasonableness of my assumptions, 
+regardless of the fact that I finished where I started. 
+ 
+• 
+Two (2) - Patterns of demand and a little knowledge - My idea of the average gas station has 8 
+pumps.  I have observed that, on average, four (4) pumps are in use during the 14 hours a day the 
+station (average station) is open.  Let’s guess that the average station sells (14 hours x 6 fills / hr x 
+4 pumps x 10 gallons of gas) i.e., 3,360 gallons of gas / day.  That’s around 1.2 million gallons per 
+year.  Now, I know that all of the U.S. could fit into the front seats of all of the cars in the U.S., so 
+lets assume there are 125 million cars on the road.  If each car is driven for 12,000 miles at 20 
+miles per gallon, that implies (125 million x 12,000 miles/20mpg) i.e. 75 billion gallons of gas are 
+consumed each year.  Therefore 75 billion gallons / 1.2 million gallons / station / year - 62,500 
+stations. 
+ 
+• 
+Note - I know that this is convoluted but more elegant solutions are available. 
+ 
+• 
+Last I heard 80,000 or so.  Remember the idea is not to get the right answer but to think logically, 
+in a linear fashion, and net to a reasonable answer.  That is 1 million stations is obviously too 
+many where 1,000 is probably the number you personally have been to in your life. 
+ 
+Additional Information: 
+ 
+Given the interview conditions, it is worthwhile picking relatively easy numbers to work with rather than 
+getting caught up in some highly complex mental arithmetic. 
+ 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 115 
+ 

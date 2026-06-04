@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2019_14_cheesy-situation",
+  "school": "Ross",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2019.pdf",
+  "idx": 14,
+  "case_name": "Cheesy Situation",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Food and Beverage",
+  "difficulty": null,
+  "pdf_page_start": 151,
+  "pdf_page_end": 157,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    154,
+    155
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p154.png",
+    "exhibits/exhibit_p155.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2019\\14_cheesy-situation"
+}

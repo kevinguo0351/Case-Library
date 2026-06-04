@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2020_06_flashpro",
+  "school": "Stern",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2020.pdf",
+  "idx": 6,
+  "case_name": "FlashPro",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 96,
+  "pdf_page_end": 105,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    99,
+    100,
+    102,
+    103,
+    104,
+    105
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p099.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p102.png",
+    "exhibits/exhibit_p103.png",
+    "exhibits/exhibit_p104.png",
+    "exhibits/exhibit_p105.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2020\\06_flashpro"
+}

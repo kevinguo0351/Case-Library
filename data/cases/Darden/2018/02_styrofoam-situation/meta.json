@@ -1,0 +1,30 @@
+{
+  "case_id": "Darden_2018_02_styrofoam-situation",
+  "school": "Darden",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2018.pdf",
+  "idx": 2,
+  "case_name": "Styrofoam Situation",
+  "case_type": "Profitability",
+  "round": "2",
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 62,
+  "pdf_page_end": 71,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    64,
+    65,
+    66,
+    67,
+    68
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p068.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2018\\02_styrofoam-situation"
+}

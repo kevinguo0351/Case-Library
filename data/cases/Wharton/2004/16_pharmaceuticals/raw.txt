@@ -1,0 +1,140 @@
+===== PDF p36 =====
+CASE 16:  PHARMACEUTICALS (BCG – Round 2)          
+ 
+Two large branded pharmaceutical companies are merging.  The head of development (pre-
+clinical and clinical) has a declining budget and wants to re-think his portfolio.  He currently 
+uses a spreadsheet to evaluate his portfolio which contains columns for the chemical name, 
+estimated launch date, and lead indication.  Essentially, your client wants you to add a column 
+for the current market value of the partially developed drug so that he can evaluate which ones 
+to push through development.  How do you do it? 
+ 
+Additional Information Provided After Relevant Questions: 
+ 
+• There are 60 drugs in development with 1/3 in clinical trials 2/3 in pre-clinical development.   
+• It takes 10 years to bring a drug from pre-clinical to launch and there is large attrition along the 
+way.   
+• Assume that this is a U.S. launch only, that there is no bundling, and that each compound 
+represents a novel therapy. 
+ 
+Interviewee’s Solution: 
+ 
+31
+ 
+Q:  To determine the market value of the drug, I would want to do an NPV calculation and so the two 
+areas I would primarily like to explore is revenue and costs.  I’d like to begin with the revenue side of 
+the equation first and begin discussing the factors that influence volume.  Should I begin with a 
+particular drug or should we talk in generalities? 
+A:  I’d like to focus on the thought process you would use to do the calculation and so I am not 
+concerned about a specific drug.  Generalities are fine. 
+ 
+Q:  Ok.  The first thing I would want to do is estimate the size of the market and consequently our 
+market share at the time of launch.  To do that I’d like to know the # of people who suffer from a 
+particular ailment. 
+A:  Where would you find that? 
+ 
+Q:  You can go to all kinds of different sources like the American Cancer Society or the American 
+Lung Association who keep track of this information.  In particular, I’d take the growth rate for a 
+given disease category over the past few years and use that to extrapolate what it would be when the 
+drug launches to get the total number of people with the illness.  Next, I’d want to find out the number 
+of people who are generally treated for the disease. 
+A:  And where would you find that information? 
+ 
+Q:  Similar sources although I suspect I’d might also be able to look at analyst reports depending on 
+the type of therapy being evaluated. 
+A:  Good 
+ 
+Q:  Next, I want to discount that number by the number of people who seek treatment using a drug vs. 
+another procedure like surgery to get a true sense of the market.  Then I would want to take into 
+account the competitive environment. 
+A:  What in particular would you look for? 
+ 
+Q:  Well, I would first want to understand what competitors are on the market now and where we 
+anticipate them being from a product lifecycle perspective when we expect to launch our therapy.  In 
+particular, I’d want to drill down on comparisons between mechanism of action, indications, and 
+dosing requirements. 
+A:  What else should you look for? 
+
+
+===== PDF p37 =====
+ 
+32
+Interviewee’s Solution (cont.): 
+ 
+Q:  Knowing that new drugs are always being developed, I’d want to evaluate those that are currently 
+in the pipeline of our competitors and what we anticipate the impact of them being on the market at 
+the time of launch.  You can find this information in publications like R&D directions as well as other 
+trade publications. 
+A:  Sounds good.  Besides volume what else should you be thinking about? 
+ 
+Q:  Pricing.  Pricing for drugs has a lot to do with demonstrated efficacy as well as whether you are the 
+first drug in a given class to be launched.  Other things that you might want to consider include 
+convenience (dosing requirements) and other drugs used to treat the therapy even if the mechanism of 
+action differs. 
+A:  Great.  What about costs? 
+ 
+Q:  From a cost perspective, I’d want to consider both fixed and variable costs.  This would include 
+any new facilities that need to be built to manufacture the drug as well as the R&D and sales and 
+marketing launch costs associated with the product. 
+A:  And what would you do with this information? 
+ 
+Q:  I’d determine the free cash flow number for each year and then discount that back to the current 
+period.  Additionally, since the process has high attrition, I’d also want to adjust for the probability of 
+success at each phase. 
+A:  Great.  Let’s say you’ve done all this and it turns out that ½ the compounds in pre-clinical 
+development have no value.  How are you going to plug the hole from a revenue perspective? 
+ 
+Q:  Any time you are considering product development there are two options – make or buy.  Under 
+the make category, we could try to expedite the development of existing pipeline drugs to address the 
+gap but this is fairly unlikely to prove successful given the highly complex development process. 
+A:  What else could address the revenue considerations if you can’t expedite development? 
+ 
+Q:  You could work with your existing portfolio of marketed products to increase the amount of 
+revenue you can get from them.  This could include considering shifting them to over the counter 
+products or evaluating other indications for the drug.  However, I suspect we may already be doing 
+this so it is unlikely to be all of the answer. 
+A:  Good.  What else? 
+ 
+Q:  We can buy a product or a group of products to plug the hole.  To do so, we should go through a 
+similar compound valuation exercise as we did for our portfolio but also take into account synergies 
+between our two organizations and the previous track record of the other company in launching 
+similar projects. 
+A:  Sound good.  Thanks. 
+ 
+Commentary/Recommendations: 
+ 
+This case is an interesting spin on the standard market sizing type of question – Rather than evaluate 
+one market, the candidate has to outline a general process for sizing the market for a number of 
+different drugs. Layered on top of this the candidate needs to demonstrate a good understand of the 
+process for deriving an NPV and the relationship between the NPV and the original market sizing 
+exercise.  
+ 
+The candidate has given a very good answer and there are a number of positive aspects worth noting, 
+including the following: 
+
+
+===== PDF p38 =====
+• Before doing anything else, the candidate sets out a clear road map for tackling the question – 
+“I am going to do an NPV which will mean looking at revenues and costs” 
+• The candidate clarifies the expectations of the interviewer – “Should we be looking at 
+generalities or specifics?” The last thing you want to be doing in a case interview is giving a 
+great answer that bores the interviewer because it is not the aspect of the question that they 
+were interested in. 
+• The candidate has a clear and logical approach to sizing the market for each drug. Not only are 
+the steps sensible and meaningful but they are also readily verifiable by available data (such as 
+American Cancer Society data on the number of patients with a particular cancer condition). It 
+is quite common for interviewers to ask how you would go about getting the data to support a 
+certain step in you logic so it is important to be choosing divisions where this information is 
+likely to be available. 
+• The candidate does not get bogged down when the interviewer changes the question. If you are 
+asked a new question, like how to fill a hole in the pipeline, then develop a new framework for 
+approaching this aspect – “there are two options to consider, make or buy” 
+ 
+Similar techniques could be applied to almost any market sizing question. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33

@@ -1,0 +1,159 @@
+===== PDF p79 =====
+Problem Statement Narrative 
+Our client is one of the top three beverage manufacturers in the U.S.  They are thinking of launching a new flavored non-
+sparkling water product.  The company is a vertically integrated beverage manufacturer that makes the drinks, has five 
+bottling plants, and owns their own distribution channels.   
+ 
+They have asked us to determine whether or not they should launch the new product, how to do it, and what the marketing 
+strategy should be.   
+ 
+ 
+ 
+ 
+Overview for Interviewer 
+Let the interviewee ask questions based on his or her structure.  They 
+should quickly ask questions about some of the following issues: 
+•  Size of the entire flavored water market 
+•  Breakdown of the flavored water market by category (i.e. 
+sparkling vs. non-sparkling) 
+Information to be Provided Up Front 
+The information provided in the statement is all 
+the candidate receives at this point.  Once the 
+candidate asks questions related to the 
+market, please hand out the next page. 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 10: Beverage Manufacturer 
+Introduction 
+75 
+75 
+
+
+===== PDF p80 =====
+Case 10: Beverage Manufacturer 
+Provided Data 
+76 
+90% 
+10% 
+Flavored Water Market by 
+Category 
+Sparkling 
+Non-
+Sparkling 
+70% 
+18% 
+12% 
+Flavored Non-sparkling 
+Water Market by Product 
+Others 
+Easy Drink 
+O2 
+76 
+
+
+===== PDF p81 =====
+What insights do you draw from the information provided? 
+The interviewee should now volunteer some key insights, which should include: 
+•  Non-sparkling water represents a small share of the overall market 
+•  Only two competitors have large market shares & our client may have an opportunity to emerge as a third large 
+competitor in this highly segmented market 
+What  is the potential size of the non-sparkling water market?  
+The candidate should ask what units the market size should be calculated in (i.e. revenue, bottles sold, etc).  In this case, ask 
+the candidate to calculate both the size of the non-sparkling water market in terms of number of bottles sold and revenue. 
+ 
+The following information should be provided to the candidate upon request: 
+•  There are 8 million gallons of water sold in the entire flavored water market per year  
+•  All drinks in the flavored non-sparkling water market are packaged in 16 oz bottles and our client plans to do the same 
+•  There are 64 ounces in a gallon 
+•  We can assume that drinks are priced, on average, at $1 per bottle 
+Case 10: Beverage Manufacturer 
+Market Sizing 
+77 
+Math 
+The interviewee should go through the following calculations: 
+•  10% of 8 million gallons = 800,000 gallons of non-sparkling water sold per year 
+•  Each bottle contains 16 oz; since there are 64 oz in a gallon, then there are 4 bottles per gallon 
+•  800,000 gallons * 4 bottles in a gallon = 3.2 million bottles sold per year 
+•  3.2 million bottles * $1/bottle = $3.2 million revenue per year 
+77 
+
+
+===== PDF p82 =====
+How long would it take the client to break even on a new product in the non-sparkling water market? 
+Information to be provided upon request:  
+•  Variable cost per bottle of flavored non-sparkling water = 90 cents 
+•  Start-up launch costs, including all initial R&D and marketing costs = $400,000 
+Math  
+$400,000 / 10 cent profit per bottle = 4 million bottles need to be sold to breakeven 
+ 
+The interviewee should note that 4 million bottles is larger than the entire annual market for such products, so it will take 
+a few years to reach this amount (assuming there is no change in the overall market size).   
+ 
+The interviewee should determine a reasonable market share goal.  The important thing is not to come up with an exact 
+market share target, but to back up whatever assumption s/he makes with logical reasoning.  For example, here is a 
+possible thought process: 
+•  Since the new entrant is a major company, it should have strong brand name power and distribution networks.  
+Since the other main competitors have 12% and 18% and our product is backed by a strong company, our 
+company will come in somewhere in that range.  Let’ s use the mid-point 15% as an estimate. 
+•  15% of 3.2 million bottles = 480,000 bottles to sell per year & approximately 0.5 million bottles 
+•  4 million bottles to breakeven / .5 million bottles & it will take approximately 8 years to breakeven 
+•  Candidate should note that 8 years is an “eternity” in a market like beverages where new beverages emerge 
+constantly and trends change quickly 
+Case 10: Beverage Manufacturer 
+Breakeven Analysis 
+78 
+78 
+
+
+===== PDF p83 =====
+If our client wanted to go ahead with the product launch, how should they position the product in the market? 
+The interviewee should ask for information on how the two main competitors are positioning their drinks currently.  When 
+s/he asks, provide them with the following results from a recent customer survey: 
+Case 10: Beverage Manufacturer 
+Positioning 
+79 
+Respondents’ preferred 
+beverage type 
+  
+79 
+
+
+===== PDF p84 =====
+What insights do you draw about positioning from the 
+previous chart? 
+The client’s new product will be in the “other” category and 
+should try to gain share among that sub-market 
+ 
+The client should position the product as a sports drink or 
+leisure beverage, since those are the categories where 
+“other” has the largest market share 
+Final recommendation to CEO?  
+ A good response will include some variation of the following 
+points: 
+•  This is probably a questionable investment at best 
+•  It will take a substantial amount of time to 
+breakeven, probably longer than what is reasonable 
+for a product in the beverage industry 
+•  If the client still decides they want to launch a 
+product in this space, they should leverage their 
+strong brand and distribution network to market a 
+sports drink and/or leisure beverage 
+ 
+Case 10: Beverage Manufacturer 
+Final Questions and Recommendation 
+80 
+What risks should our client consider when thinking 
+about proceeding with this venture? 
+Possible answers include: 
+•  Changes in the customer preferences for 
+beverages (i.e. flavored water is a fad) 
+•  Response from competitors 
+•  Cannibalization (i.e. how many other similar 
+products does our client make?) 
+•  Unfavorable breakeven time period given previous 
+analysis 
+80 

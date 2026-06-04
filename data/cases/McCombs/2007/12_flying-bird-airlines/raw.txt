@@ -1,0 +1,122 @@
+===== PDF p32 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 29 
+ 
+Case 12: Flying-bird Airlines 
+Company: McKinsey & Co 
+ 
+Flying-bird Airlines is an airline in the middle-east that serves Africa and Australia. They are a small 
+company with a fleet of just 25 aircrafts. Company performance is mediocre and the CEO of the 
+company is looking for opportunities to improve the profits. The company doesn’t have funds or 
+avenues for obtaining funds to buy planes or make major investments in the immediate future. How 
+would you approach this situation? 
+ 
+Instructions to interviewer: 
+This is a Straight Profits = (Price * Volume – Costs) case. Guide the candidate to start with ways to 
+improve revenues.  
+ 
+Question: How can they increase revenues? At least 5 hypotheses – Some suggestions are 
+ 
+- 
+Advertising 
+- 
+Better customer segmentation and promotions tuned to the needs of different segments 
+- 
+Analyze the routes and schedules. Then look at possibilities to change routes and schedules to 
+attract more passengers 
+- 
+Develop a demand curve for each flight and work around pricing to attract more passengers 
+(Yield management) 
+- 
+Study all the points of customer interaction and explore opportunities to improve customer 
+service (If candidate talks about this you may ask for examples) 
+- 
+Join an existing alliance or partner with other airlines. 
+- 
+Restructure the sales force to improve ticket sales effectiveness (Align their incentives, 
+increase their selling time, establish key account managers and so on) 
+- 
+Work on the frequent flyer program (if any) and improve the program to retain customers. 
+Look at aspects like co-branding etc. Also may also want to look at miles and revenues as 
+against only miles while rewarding passengers. 
+- 
+Start in-flight sales of various items (food, gifts etc) 
+- 
+Introduce vacation packages 
+- 
+Enter into cargo transportation (if possible) 
+ 
+Question: The CEO of Flying Bird Airlines is interested in entering into a partnership with a major 
+airline that flies to the same destinations. The CEO wants recommendations on what they should 
+consider when determining if they should enter into the alliance. 
+- 
+What will be the benefits from this alliance? 
+- 
+On what basis will the revenues be shared? 
+- 
+How to share costs? – Costs like advertising and so on 
+- 
+Will there be any issues to the brand image and positioning? (ex: a low cost airline wouldn’t 
+want to have an alliance with a premium airline) 
+- 
+Are there cultural differences between the employees of the airline companies (The staff of 
+both airlines need to co-operate on a daily basis to make this work and cultural differences 
+would lead to issues) 
+- 
+How to integrate the IT systems? Are they compatible? 
+
+
+===== PDF p33 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 30 
+ 
+Question: The alliance is expected to improve the load factor of the planes. (If the candidate asks for 
+the definition of load factor, please say ‘Load factor is defined as the ratio of actual number of 
+passengers in a plane to the total number of seats in a plane’) Calculate the current profits per plane 
+per flight. Give the following information to the candidate: 
+ 
+Average flight of a plane = 1000 miles 
+Seats per plane = 250 
+Fixed cost per plane per flight = $20,000 
+Revenues = $0.25 per passenger per flight mile 
+Other costs = $0.10 per seat per mile (not per passenger) 
+ 
+Provide information about current load factor only if the candidate asks for it.  
+Current load factor = 80% 
+ 
+The candidate is expected to perform the following calculations first.  
+ 
+Revenue per plane per flight = 80% * 250 * 1000 * 0.25 = $50,000 
+Profits per plane per flight = 50,000 – Fixed cost per flight – Variable cost per flight 
+    
+       = 50000 – 20000 – 0.10 * 250 * 1000 = $5000 
+ 
+Question: Now if the alliance would lead to a 50% increase in profits per flight, how much will the 
+load factor increase? Assume the other data given previously remain the same. 
+ 
+The candidate is expected to perform the following calculations first.  
+ 
+Post-alliance Profits per plane per flight = 1.50 * 5000 = $7500 
+ 
+Also profits per plane per flight  
+= (Load factor * 250 * 1000 * 0.25) – (20000 + 0.10 * 250 * 1000) = $ 7500 
+ 
+Therefore the new load factor per flight = 84%. The other way to interpret this is, ‘If the load factor 
+increases from 80% to 84% the profit per flight will increase by 50%’ 
+ 
+Question: The CEO also wants to know what areas to attack to reduce costs and needs some quick 
+suggestions? 
+- 
+Hedge fuel 
+- 
+Eliminate routes or schedules with very low load factor 
+- 
+Outsource aircraft maintenance 
+- 
+Introduce technology and automation to reduce labor costs 
+- 
+Outsource or offshore ticketing, customer support, billing, rewards and related functions 
+- 
+Explore options to flying into airports where the gate costs may be cheaper 
+ 
+ 
+ 
+ 

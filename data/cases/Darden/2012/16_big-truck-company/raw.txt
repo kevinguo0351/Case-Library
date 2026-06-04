@@ -1,0 +1,322 @@
+===== PDF p164 =====
+CASE 16:  
+BIG TRUCK COMPANY 
+Case Question: 
+The client, Big Truck Co., is a large, US based manufacturer of heavy duty trucks, also known 
+as semi-trucks.  They make two types of vehicles, semi-trucks designed for pulling trailers and 
+trucks or chassis’ used for cement trucks, waste haulers, etc.  The company has three 
+marquees (brands), all of which manufacturer vehicles for both types of vehicles.  The three 
+brands are the result of acquisitions done in the past five years.  The company is profitable, 
+but profit margins have been declining slightly over the last few years.  Additionally, the 
+market is forecasting a significant market decline in the next few years, which brings great 
+concern to the management of the company. 
+Firm Style 
+Interview Round 
+McKinsey 
+2 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+How large is the company in terms of revenue? 
+$30 billion 
+Can we clarify that the objective is to preserve 
+profitability as the market declines? 
+Yes 
+Does the company sell into international 
+markets? 
+Yes 
+
+
+===== PDF p165 =====
+BIG TRUCK COMPANY 
+Framework / Structure 
+Question 1: The CEO has hired McKinsey to help the company better 
+understand their position and to look for solutions for the coming years.  
+How would you structure the problem for the CEO?   
+ 
+•
+Sample “Poor” Answer:  I would want to examine the revenue, starting with volume and then 
+looking at price.  Second, I would want to look at costs, better understanding the variable and 
+fixed costs. 
+ 
+•
+Sample “Good” Answer:  This is clearly a profitability question.  In order to understand this 
+problem, we need to examine the cost structure of the business and determine where we can 
+be flexible in an ensuing economic downturn.  Additionally, we may want to understand ways 
+of adding to our top line.  Starting with the revenue, I would want to better understand the 
+product mix.  Perhaps there is opportunity to upsell for better profitability.  Second, I would want 
+to understand our sales model (dealership, wholesale, fleet, etc.).  On the cost side of the 
+equation, I would want to examine any additional synergies we could achieve from our recent 
+acquisitions.  We could also look at our fixed costs and overhead and determine if new 
+investments may be worth it to save costs in the long run.  Finally, I would want to look at the 
+variable costs and see if we can reduce our labor or input costs on a per truck basis. 
+ 
+•
+Sample “Great” Answer:  [A great answer would include all the elements of a good answer, plus 
+the following additional ideas.]  From a revenue standpoint, analysis of our three marquees 
+would be useful.  Perhaps we are cannibalizing our own brands and need to consider a drastic 
+reorganization.  Additional, analyzing the competitive marketplace could provide significant 
+information on how we can achieve better profitability.  Within costs, operational efficiencies 
+and lean processes could be a way to achieve costs savings.  One thing to watch out for, 
+however, is regulatory changes, most likely emissions rules, that could dramatically change our 
+costs.  We should be cognizant of this and other external factors in everything we consider. 
+
+
+===== PDF p166 =====
+BIG TRUCK COMPANY 
+Question 1 (cont’d): 
+Color Commentary: While a profitability framework does work well in this 
+case, the specific bullets beneath revenue and costs should truly address 
+this company in particular and the issues it will face.  Here is a potential 
+framework that will serve the interviewee well in this case: 
+ 
+ 
+
+
+===== PDF p167 =====
+BIG TRUCK COMPANY 
+Calculations 
+Question 2: The team decided to take a closer look at the costs of 
+producing a particular line of trucks.  Take a look at Exhibit 1.  What is 
+the potential savings for Big Truck Co. were we to be best in industry in 
+regard to our cost structure? 
+ 
+ 
+
+
+===== PDF p168 =====
+BIG TRUCK COMPANY 
+Question 2 (cont’d): 
+The interviewee should be told to leave the Manufacturing Mix constant in 
+the calculations. 
+ 
+• Sample “Good” Answer: If I understand this correctly, we are basically 
+indexing the costs of both manufactured goods and outsourced parts against 
+that of our competitors.  Given that, it looks like we could save 20% in our in-
+house manufacturing ((100-80)/100) if we had the same cost levels as 
+competitor B.  On the outsourced parts, it looks like we could save ~33% ((120-
+80)/120 if we matched the pricing competitor A is achieving.  Given we know 
+our product mix, we know how much of the $40,000 is being spent on both 
+areas.  I can then calculate the new cost at the “best in the business” cost 
+structure.  [Performs calculations].  It appears that we can save approximately 
+$9,600/truck or 24% of our original cost on a blended basis. 
+ 
+• Sample “Great” Answer:  [Same initial answer as above.]  While this savings is 
+great, I want to better understand the savings to the company.  Do we know 
+how many units are manufacturing in this product line a year [answer of 5000 
+units given].  Given that, it appears we could save $48 million dollars a year.  
+For a $30 billion company, that is about 15 basis points of operating margin 
+before accounting for taxes.  
+
+
+===== PDF p169 =====
+BIG TRUCK COMPANY 
+Question 2 (cont’d): 
+ 
+Color Commentary: The candidate will likely struggle with understanding 
+how to calculate the savings as the indexing is an odd way of thinking 
+about the market.  Be prepared to nudge the interviewee to keep the 
+product mix constant.  Additionally, many interviewees may use 80%/100% 
+for the outsourced parts, instead of 80%/120%.  Watch for this and guide the 
+interviewee toward a better answer.  Obviously, the great answer brings in 
+the context to the company as a whole and truly seeks to understand the 
+impact of the savings. 
+ 
+
+
+===== PDF p170 =====
+BIG TRUCK COMPANY 
+Question 3: The team decided to take a closer look at the costs of 
+producing a particular line of trucks.  Take a look at Exhibit 1.  What is the 
+potential savings for Big Truck Co. were we to be best in industry in regard 
+to our cost structure? 
+ 
+•
+Sample “Great” Answer: If we structure this out, I think we can come up with multiple 
+ideas as to how we can remove costs for this system.  Let’s look at it this way: 
+In-House Manufacturing 
+•
+Lean/Six Sigma evaluation, continuous improvement 
+•
+Labor evaluation – are we union? What can we change? 
+•
+Commodities/inputs – LT contracts? 
+•
+Facilities – are they old/new?  Can we upgrade?  Are we at capacity?  Are the 
+flexible? 
+Supplied Parts (Outsourced) 
+•
+Can we improve our contracts? 
+•
+Is our delivery/distribution poor and costing us additional dollars. 
+•
+Are we scaling properly across our marquees?  Can we leverage the 
+volume/standardize parts? 
+Other 
+•
+Can we improve by changing the mix of outsource versus manufactured parts? 
+•
+Can we vertically integrate?  Buy suppliers? 
+ 
+•
+Sample “Good” Answer: [The interviewee will list a number of the items listed in the great 
+answer, but will lack completeness and structure in comparison.] 
+ 
+
+
+===== PDF p171 =====
+BIG TRUCK COMPANY 
+Question 3 (cont’d): 
+Color Commentary: A great answer will really go through this problem in a 
+structured way.  Additionally, each answer should be listed as a 
+conversation with the interviewer.  Ask outright about some of the ideas.  
+Perhaps they have been tried already.  The interviewer can engage as 
+much as desired in this question guiding the interviewee to specific ideas if 
+desired.  
+ 
+
+
+===== PDF p172 =====
+BIG TRUCK COMPANY 
+Question 4: The team also identified another area that it thinks there is 
+potential for savings.  The company has a significant used truck business 
+and has contractual obligations to purchase trucks back form customers 
+who bought them new.  Take a look at Exhibit 2.  What analysis can you do 
+from this data?  What is the potential for Big Truck Co.? 
+ 
+ 
+Outline of Calculations: 
+ 
+ 
+
+
+===== PDF p173 =====
+BIG TRUCK COMPANY 
+Question 4 (cont’d): 
+ 
+•
+Sample “Good” Answer:  After analyzing this program, it is clear that we are mispricing 
+the trucks intended to be bought back.  We are offering to buy trucks at $25,000, but at 
+no point in the next three years are the trucks worth that much.  While this may be a 
+good program and offer us other profits as part of a used truck business, we are taking a 
+large loss with this program.  Based on the calculations, we are projected to lose $125 
+million dollars and I suspect we are selling trucks under these same contracts every day, 
+only further exacerbating the problem. 
+ 
+•
+Sample “Great” Answer:  [After answering the good answer, additional points like this 
+could be made].  Although it seems obvious that we should seek to change these 
+practices, I would want to better understand why we are in the position that we are in.  Is 
+there an advantage to selling at a loss because it translates into larger profits in our used 
+truck business?  Does this create goodwill with our customers and draw them to buy more 
+new vehicles at a greater margin?  Understanding these issues more fully would better 
+help me understand how to create a positive solution in regard to this issue. 
+  
+Color Commentary: This problem has fairly straightforward math and 
+shouldn’t take the interviewee long to see what the potential loss would be.  
+The great answer should not only bring to light the scale of the potential 
+loss, but be inquisitive as to why this might be the case.  A good interviewee 
+should also guide the interviewer easily to the next question regarding 
+potential solutions. 
+ 
+
+
+===== PDF p174 =====
+THE BIG TRUCK COMPANY 
+Question 5: What specific steps would you take to achieve the savings 
+identified in Exhibit 2? 
+ 
+•
+Sample “Good” Answer:  My first action would be to halt the practice of these sales 
+immediately to avoid further sales at a loss.  I would then work very quickly with our 
+sales managers to structure new contracts so we can launch the business again.  I 
+recognize this may be a key sell point for our salesman and do not want to leave 
+them without this tool.  At the same time, I would begin an analysis of how affective 
+of a tool this business is for driving business.  There may be a reason to be creating 
+contracts that drive a small loss if it allows us to take profitable new truck sale 
+volume from our competitors and creates greater profitability overall. 
+ 
+•
+Sample “Great” Answer: [Answer would be inclusive of the statement above].  
+After stopping the current unprofitable practice, understanding more appropriately 
+how to drive sales, and creating new procedures, I would then go back to the 
+current contracts and see how we can squeeze value out of them.  We may be 
+able to renegotiate some of the contracts finding alternate solutions that are more 
+profitable for us. Perhaps we can break the contracts early.  Perhaps we can 
+negotiate service packages in trade for buybacks at a higher profitability level to 
+the company.  Maybe we can sell the contracts to a third party who thinks they 
+can get more value out of them than we can.  Exploring as many options as 
+possible to increase profitability would be a worthwhile exercise. 
+ 
+ 
+
+
+===== PDF p175 =====
+THE BIG TRUCK COMPANY 
+Question 5 (cont’d): 
+ 
+Color Commentary: The interviewee should very deliberately talk about 
+things the company should do, preferably in a timeline (short, medium, and 
+long term) format.  Thinking through not only what to do going forward, but 
+what to do about the current position is what truly makes an answer great.  
+The interviewer should be open to using the phrase “what else?” to push 
+the interviewer outside their comfort zone. 
+ 
+
+
+===== PDF p176 =====
+THE BIG TRUCK COMPANY 
+Recommendation 
+Question 6: It appears the potential for savings is there.  The CEO would like 
+a specific recommendation as to what action he should take.  Can you 
+provide a recommendation? 
+ 
+•
+Sample “Good” Answer:  After extensive analysis of both the cost of manufacturing and 
+of the buy back program, I have identified significant savings in both areas.  By modifying 
+the buy back program, we could potentially save $125 million, keeping in mind that these 
+obligations are unlikely to disappear entirely.  As for the manufacturing, we have 
+identified an annual savings of $48 million, again under the caveat that some upfront 
+costs may be needed in order to realize the savings.  I recommend you begin by 
+modifying your buy back program first and then looking more closely at your 
+manufacturing and suppliers in hopes of achieving the additional savings there as well.  
+When modifying the buy back program, you do want to be careful not to damage 
+relationships with your customers.  However, the scale is large and needs to be addressed 
+regardless. 
+  
+•
+Sample “Great” Answer: [Include the above recommendation, but add the following.]  
+Given this recommendation and the inherent risks, I would begin tomorrow with 
+communication to your sales team to begin implementing a solution to the buy back 
+program.  Additionally, we should begin doing deep analysis on our manufacturing 
+operations in order to identify our inefficiencies and talking with our suppliers about how 
+to reduce costs.  We should also look into the future to see if we can take some of the 
+savings for this line of trucks and apply it across the many product lines that we sell.  
+Additionally, given an impending downturn, we should also perform an analysis of the 
+effects of a changed sales program as it may affect the implementation. 
+ 
+
+
+===== PDF p177 =====
+THE BIG TRUCK COMPANY 
+Question 6 (cont’d): 
+ 
+Color Commentary: A good answer should have a clear, early 
+recommendation, evidence for the recommendation, risks inherent in the 
+changes, and clear next steps to be taken in the immediate future.  Credit 
+should also be given for noticing that an improvement to operations 
+creates perpetual annual savings.  The interviewee should be comfortable 
+asking for a moment to synthesize their thoughts and structure an answer 
+starting with the action, then reasons, then risks, and finally next steps.   
+ 
+
+
+===== PDF p178 =====
+THE BIG TRUCK COMPANY 
+Exhibits 
+ 
+
+
+===== PDF p179 =====
+THE BIG TRUCK COMPANY 

@@ -1,0 +1,76 @@
+===== PDF p160 =====
+Casebook | 2019-20 Edition 
+156 
+ 
+35. Blue Chips (Deloitte R2, Industrial Goods, New Product) 
+Stem: Our client is called Blue Chips. They run a silicon manufacturing business, specifically making the 
+quartz that goes into wafers. They are thinking about expanding into the wafer manufacturing business. 
+Wafers come in two diameter sizes – 6 inches and 8 inches. It would cost our client about $200M to 
+expand their factory. Demand in the industry is expected to grow. Should Blue Chips get into the wafer 
+business? If so, what size of wafer should they produce? 
+ 
+Phase 1: Industry Landscape 
+ 
+Give the candidate a few minutes to write out the structure. It should include industry landscape, 
+investment size, expected revenue, and cost. 
+ 
+Interviewer: Let’s start by calculating the market size for wafers. 
+ 
+Hand candidate exhibit. 
+ 
+ 
+Candidate to calculate total 6-inch wafer market size of $1.5B and 8 inch wafer market size of $1.68B. 
+Total market size of $3.18B, round to $3.2B. 
+ 
+Candidate: That’s a sizable market. In order to understand more about the attractiveness of each type, I 
+would need to know more about the competitive landscape. 
+ 
+Interviewer: I have some data on that. For the six-inch wafer, the leading competitor has $700M in 
+revenues, the second $350M and the third $220M. The rest of the market is fragmented. For the eight- 
+inch model, there is only one big player with revenue of $1.4B. The rest is fragmented as well. 
+ 
+Candidate to calculate how much share of market is taken up by the top 3 competitors percentage-wise 
+and give initial take on this number. Regarding the eight-inch wafer market, it seems challenging as it is 
+near monopolized. The candidate should ask for data on profitability of each type before making any 
+concrete decision. If he or she doesn’t, prompt the candidate to do so. 
+ 
+Candidate: It seems like a six-inch market is more attractive, but it will depend on how profitable each 
+business line is. Do you happen to have data on that? 
+
+
+===== PDF p161 =====
+Casebook | 2019-20 Edition 
+157 
+ 
+Interviewer: I have some data on the profitability. It turns out that we are looking at 7% for 6 inch wafers 
+and 15% for the 8 inch ones. Would that change your opinion of the situation? 
+ 
+Candidate should develop a view point on any of the two sizes with considerations on potential 
+profitability and competitive landscape. 
+ 
+Interviewer: Do you think this is a good investment? 
+ 
+Candidate: It surely is profitable, and the demand growth is expected to be strong. I think it will all 
+depend on how big of a market share we can potentially get. 
+ 
+Interviewer: Any idea on how to maximize that? 
+ 
+Candidate should list out a few ideas on how to enter the new market successfully. There is no need to 
+ask for calculation here, this is meant to be a brainstorming exercise. 
+ 
+Interviewer: I like your ideas. Let’s move on to choosing actual processing methodologies. 
+Phase 2: Analyzing Different Manufacturing Processes 
+Interviewer: There are two different ways to produce wafers – the Cz process and the Ky process. When 
+it comes to the 6-inch Cz process, one can produce a high yield of chips, the process has been around  
+for over 20 years and there are five other manufacturers producing the product in this fashion. The 8-inch 
+Cz process has a very high yield, two other manufacturers are producing chips this way, it requires a 
+complicated process with a high tech burning to finely develop each chip. The 6-inch Ky process involves 
+low yields and is used by many other competitors. The 8-inch Ky process has low yields, is similarly made 
+to the 6 inch Ky process without any high tech burning and two other manufacturers are producing chips 
+in this fashion. Which process should they use for each chip size, the Cz or Ky process? 
+ 
+Regardless of which product the candidate chooses, he/she should identify the Cz process as the best 
+way to produce chips given its competitive advantages. The candidate should also try to explore the cost 
+differences between the two options. Feel free to say there is none. 
+ 
+Interviewer: Our client’s CEO is walking in now. What is your final recommendation for her? 

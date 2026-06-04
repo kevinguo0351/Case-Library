@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2014_16_vitality-insurance-inc",
+  "school": "Kellogg",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2014.pdf",
+  "idx": 16,
+  "case_name": "Vitality Insurance, Inc.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 110,
+  "pdf_page_end": 116,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    111,
+    112,
+    113,
+    114,
+    115,
+    116
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p111.png",
+    "exhibits/exhibit_p112.png",
+    "exhibits/exhibit_p113.png",
+    "exhibits/exhibit_p114.png",
+    "exhibits/exhibit_p115.png",
+    "exhibits/exhibit_p116.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2014\\16_vitality-insurance-inc"
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2018_01_drinks-gone-flat",
+  "school": "Stern",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2018.pdf",
+  "idx": 1,
+  "case_name": "Drinks Gone Flat",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": "Easy",
+  "pdf_page_start": 28,
+  "pdf_page_end": 35,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    29,
+    30,
+    31,
+    33,
+    34,
+    35
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p029.png",
+    "exhibits/exhibit_p030.png",
+    "exhibits/exhibit_p031.png",
+    "exhibits/exhibit_p033.png",
+    "exhibits/exhibit_p034.png",
+    "exhibits/exhibit_p035.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2018\\01_drinks-gone-flat"
+}

@@ -1,0 +1,75 @@
+===== PDF p85 =====
+The client is the CEO of a power company that does the
+following
+things
+related
+to
+power:
+generation,
+distribution,
+links
+regions
+with
+grids,
+buys
+energy
+h l
+l
+d
+ll
+l
+b
+ll
+Company generates several types of energy: coal, natural
+gas, wind, nuclear and solar.
+This case focuses on coal power generation
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+Power Plants (1 of 2)
+McKinsey, Round 2
+wholesale and re-sells it, retails energy by selling it
+directly to consumers. Lately, the client has experienced
+a profitability decline (about $100MM less than target) in
+its core business of generating power and has hired
+McKinsey to diagnose the problem.
+Revenue Data:
+• 10 power plants, each with capacity of 4.5MM mega 
+watt hours per year and are running at 80% of capacity
+• They sell each mega watt for $40
+Costs Data:
+• Coal related costs: $10/mega watt hour
+• Fixed costs allocated across current capacity: $5/mega 
+watt hour
+
+
+===== PDF p86 =====
+Candidate should 
+identify capacity 
+utilization as a 
+possible issue for 
+profitabilityP
+• Ask: If the client increased capacity utilization to 90% what impact would it have on profit?
+• At 80%,
+Revenue:  10 plants X 4.5 MM plant capacity X 80% utilization X $40/MWh = $1440M
+Variable cost: 10 plants X 4.5 MM plant capacity X 80% utilization X $10/MWh = $360M
+Fixed cost:  Annual MWh produced X $5/MWh = $180M
+Profit = 1440 – 360 – 180 = $900M
+• Similarly, at 90% capacity utilization, profits would increase by $135M
+Power Plants (2 of 2)
+McKinsey, Round 2
+Candidate should 
+identify possible 
+reasons for low 
+utilizationP 
+• Ask: Client would like to pursue the strategy of increasing utilization and feels that it will get 
+them back to their previous profitable state. Brainstorm reasons why the plant has only operated 
+at 80% capacity to date?
+• A structured answer could include: Demand, Supply  issues (equipment unavailable, technical 
+staff unavailable, location/environment limits,  lack of inputs), Company issues 
+(capacity/bottleneck in operations or untrained staff)
+Summary
+• Under -utilized capacity is one of the causes for reduced profitability. 
+• Recommendation: Increase capacity utilization. 
+• Next steps: Need to understand WHY plant operating under capacity. It could be several things 
+(list ideas brainstormed), but need to understand further.

@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2004_08_clothing-retailer",
+  "school": "Ross",
+  "year": "2004",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2004.pdf",
+  "idx": 8,
+  "case_name": "Clothing retailer",
+  "case_type": "Profitability",
+  "round": "2",
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 22,
+  "pdf_page_end": 24,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    22,
+    23
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p022.png",
+    "exhibits/exhibit_p023.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2004\\08_clothing-retailer"
+}

@@ -1,0 +1,146 @@
+===== PDF p202 =====
+Casebook | 2019-20 Edition 
+198 
+ 
+51. School District (McKinsey R1, Other, Operations, Balanced) 
+Part 1: Brainstorming 
+ 
+Interviewer: Our client is a mid-size school district with 150 schools, serving grades 1st through 12th. 
+The district has had poor performance over the past five years and recently hired a new Chancellor to 
+improve performance. In turn, the Chancellor hired McKinsey to identify ways to improve the district. What 
+are some of the key drivers that may be affecting performance? 
+ 
+Candidate: First, has the client shared what type of performance needs to be improved? For example, 
+does he want to drivers that affect student performance as measured by standardized tests, or budgetary 
+performance? 
+ 
+Interviewer: Just student performance. 
+ 
+Candidate: The drivers could be bucketed into internal factors within the school districts control, and 
+external factors beyond their control. Some of the internal factors would be facilities, back-office support 
+(IT/Finance/HR), curriculum, enrichment programs, teacher quality, and management quality. Some of the 
+external factors would include the proportion of well-educated parents in the school district compared to 
+the national (or state) average, student engagement, poor student preparation prior to beginning 1 st  
+grade, and the social environment (crime rate, drug use prevalence, alcohol abuse prevalence). 
+ 
+Note: Candidate should generate a MECE structure, for example, internal/external. If candidate does not 
+have a MECE structure, press the candidate. When the candidate is done ask for a few more drivers! 
+ 
+Part 2: Back-office Support 
+ 
+Interviewer: The Chancellor believes a key driver affecting performance is back-office support from 
+central headquarters. Below is a chart, what insights does it provide? 
+ 
+Function 
+% of Principals 
+Surveyed identified 
+function as key factor 
+affecting performance 
+Average # of requests 
+per Principal per month 
+Average days of 
+effort for the 
+function to answer 
+per request 
+Finance 
+15 
+1.5 
+2.5 
+Human Resources 
+60 
+2.00 
+5.0 
+Facilities 
+50 
+2.00 
+4.0 
+Information Technology 
+44 
+1.75 
+3.5 
+Counseling 
+19 
+1.25 
+3.0 
+Food Preparation 
+26 
+1.00 
+3.0 
+
+
+===== PDF p203 =====
+Casebook | 2019-20 Edition 
+199 
+ 
+If asked by candidate, provide the following clarifications: 
+● 
+Functions are related to central headquarters 
+● 
+Average # requests are requests or complaints made by the individual school principals to HQ 
+● 
+Days effort is equal to the amount of time required for the HQ to respond to the principal's’ 
+request or complaint 
+ 
+Candidate: Clearly Principals believe HR, Facilities, and IT are the most important functions affecting 
+performance. Interestingly, Facilities and HR are also the functions most utilized by the principals and 
+take the longest to respond to their requests. So, I would prioritize improving HR and Facilities. 
+ 
+Interviewer: The Chancellor agrees and would like to focus on improving the Human Resources function. 
+He estimates that additional training will reduce the number of days it takes for them to respond to a 
+request by 20% on average. However, the Principals will see this improvement and add an additional 
+10% requests. How many days of effort will be saved per month? 
+ 
+Candidate: We can calculate that by comparing the number of days HR spends answering requests 
+before and after the new training: 
+ 
+Before 
+After 
+# of Principals (= # of schools) 
+150 
+150 
+Requests/Principal/month 
+2 
+2*1.1 = 2.2 
+Days/Request 
+5 
+5x0.8 = 4 
+Total Days of HR Effort/month 
+150*2*5 = 1,500 days 
+150*2.2*4 = 1,320 
+ 
+Thus, total days saved will be 1,500 – 1,320 = 180 days/month. 
+ 
+Note: Before/After tables are particularly powerful, and will keep you from making a mistake. Try using 
+them in other cases! 
+ 
+Part 3: math curriculum 
+ 
+Interviewer: The chancellor also noticed a dramatic improvement in the 8th grade class at one of the 
+schools, which improved math performance by 10% this year. A teacher there implemented a new math 
+curriculum. On average, the school district is scoring at 65% for 8th grade math, where 85% is the national 
+average and our target. If this 10% performance was sustained and replicable across the school district, 
+how long would it take for the school district to catch up to the national average? 
+ 
+Candidate: Can we assume similar 10% gains in 9th, 10th, and 11th grades? 
+Interviewer: Yes. 
+ 
+Candidate: After 1 year, performance would be 65%+10%*65%=71.5%. After two years, it would be 
+71.5%+10%*71.5% = ~79%. After three years, it would be ~87%. Thus, it would take slightly less than 
+three years to catch-up to the national average. 
+ 
+Interviewer: Great, the Chancellor has decided he wants to implement this improved 8th grade math 
+curriculum across the school district. Which next steps would you recommend he take? 
+ 
+Candidate: First, he should speak with the 8th grade teacher who implemented it and get his perspective 
+on the new curriculum (e.g. challenges he faced, etc.). Next, he should acquire licenses and rights to use 
+the new curriculum. Third, he should communicate this change to all impacted stakeholders – 
+
+
+===== PDF p204 =====
+Casebook | 2019-20 Edition 
+200 
+ 
+parents/teachers/principals/students. Finally, he should consider a pilot/experiment before expanding all 
+at once across the 150 schools to ensure this is the right approach. 
+ 
+Interviewer: Great, so why do you want to work for McKinsey? 

@@ -1,0 +1,32 @@
+{
+  "case_id": "Tuck_2006_12_kicks",
+  "school": "Tuck",
+  "year": "2006",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2006.pdf",
+  "idx": 12,
+  "case_name": "Kicks",
+  "case_type": "Market Sizing",
+  "round": null,
+  "industry": "Consumer Goods / Retail",
+  "difficulty": null,
+  "pdf_page_start": 71,
+  "pdf_page_end": 79,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    71,
+    72,
+    73,
+    75,
+    78,
+    79
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png",
+    "exhibits/exhibit_p073.png",
+    "exhibits/exhibit_p075.png",
+    "exhibits/exhibit_p078.png",
+    "exhibits/exhibit_p079.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2006\\12_kicks"
+}

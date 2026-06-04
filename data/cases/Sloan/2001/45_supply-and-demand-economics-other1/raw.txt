@@ -1,0 +1,174 @@
+===== PDF p107 =====
+Other Cases 
+Consulting Case Interview Question 
+ 
+Case No.: OTHER1 
+Firm: Booz Allen - Engineering/Manufacturing Group (EMG) 
+Type of Case:  
+X 
+Other  Microeconomics 
+ 
+ 
+Initial Facts offered by interviewer:   
+ 
+Your client is a shipbuilder who builds tankers.  Presently, there are a total of three tankers in the 
+world. 
+ 
+The Question(s): 
+ 
+The client wants to know if he should build a tanker.  What would you advise him? 
+ 
+Suggested Solution 
+ 
+Desired Framework:  [Check all that apply.] 
+ 
+Cost-Revenue and Profitability 
+ 
+ 
+The 4 P’s of Marketing 
+ 
+The 3 C’s 
+ 
+ 
+Value Chain Analysis 
+ 
+Porter’s 5 Forces 
+ 
+X 
+Microeconomic Analysis 
+ 
+Internal-External Factors 
+ 
+ 
+Other____________________ 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+ 
+This is a supply and demand issue.  Specifically, I wanted to know: 
+1. What would happen to price if (world) supply of tankers increased 25%? 
+2. Are there other producers or is our client a monopoly producer?  If there were other 
+producers, what would be their likely response if our client were to undertake this 
+project? 
+3. How much demand is out there? 
+ 
+158 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 
+
+
+===== PDF p108 =====
+ 
+I began by drawing a basic supply and demand diagram: 
+S0  
+S1
+D
+ 
+ 
+ 
+Before I addressed questions 2 and 3 (above), the interviewer stated he wanted me to 
+construct a supply curve from actual data and gave me the following: 
+ 
+Tanker 
+MC  
+($/k ton capacity 
+Capacity 
+(K tons) 
+1 
+.02 
+50 
+2 
+.03 
+30 
+3 
+.01 
+20 
+ 
+I initially (wrongly) plotted the three points using MC as price and capacity as quantity: 
+ 
+P
+Q
+1
+2
+3
+20
+50
+30
+• 
+• 
+• 
+ 
+ 
+The interviewer gave me a clue and told me to plot the points using cumulative quantity to 
+derive the shape of the curve: 
+MC  
+Capacity 
+.01 
+0-20 
+.02 
+20-70 
+.03 
+70-100 
+ 
+                                                                                                                                                        159 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p109 =====
+P
+Q
+1
+2
+3
+20
+100
+70
+• 
+• 
+• 
+S
+   
+From the plot, I inferred a straight-line supply curve (as drawn here). 
+The interviewer asked me to draw the actual, incremental supply curve implied by the data (this is 
+actually a step function rather than a straight line): 
+ 
+P
+Q
+1
+2
+3
+20
+100
+70
+• 
+• 
+• 
+S
+ 
+Our client’s decision to produce depends on the amount of demand and the marginal cost of 
+producing a fourth tanker.   
+Q:  “What is demand?” 
+A:  “Demand is at 70 k tons.”   
+Conclusion: 
+MC at 70k tons is 2 cents per k ton.  
+Wrap-up / Recommendations for client: 
+I recommended that the client: 
+• build, if the client can produce a tanker at a marginal cost of no more than 2 cents per k ton 
+• otherwise, don’t build 
+ 
+Desired Answer / Blinding Insights / Twists and Turns (if any): 
+ 
+Remember the importance of getting your pencil to paper and to draw some graphs! 
+160 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

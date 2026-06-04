@@ -1,0 +1,30 @@
+{
+  "case_id": "Columbia_2021_38_tristar-home-appliances",
+  "school": "Columbia",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2021.pdf",
+  "idx": 38,
+  "case_name": "Tristar Home Appliances",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": "Medium",
+  "pdf_page_start": 329,
+  "pdf_page_end": 337,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    331,
+    333,
+    334,
+    335,
+    336
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p331.png",
+    "exhibits/exhibit_p333.png",
+    "exhibits/exhibit_p334.png",
+    "exhibits/exhibit_p335.png",
+    "exhibits/exhibit_p336.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2021\\38_tristar-home-appliances"
+}

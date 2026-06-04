@@ -1,0 +1,24 @@
+{
+  "case_id": "IESE_2021_23_green-airlines",
+  "school": "IESE",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\IESE\\IESE_Case Book_2021.pdf",
+  "idx": 23,
+  "case_name": "Green Airlines",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Aviation / Sustainability",
+  "difficulty": null,
+  "pdf_page_start": 267,
+  "pdf_page_end": 277,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    270,
+    271
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p270.png",
+    "exhibits/exhibit_p271.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\IESE\\2021\\23_green-airlines"
+}

@@ -1,0 +1,349 @@
+===== PDF p165 =====
+161
+PubU Footprint
+McKinsey | Round 2 | Energy
+
+
+===== PDF p166 =====
+162
+McKinsey | Round 2 | Energy
+11  |  C A S E :  P U B U  F O O T P R I N T
+PUBU FOOTPRINT
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+A s  a  c o n s u l t i n g  
+p r o f e s s i o n a l ,  
+y o u  w i l l  o f t e n  
+h a v e  t o  r e s o l v e  
+c o n f l i c t  w i t h i n  
+t e a m s .   Te l l  m e  
+a b o u t  a  t i m e  y o u  
+s u c c e s s f u l l y  
+r e s o l v e d  c o n f l i c t  
+i n  a  t e a m  
+s e t t i n g .
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1.  How big is PubU?  PubU is a large research institution consisting of an undergrad (35k students), graduate school 
+(10k) and various professional schools (~2k).  Number in student body is expected to be stable.  The university is very 
+large and requires an extensive diesel-powered bus system for students to commute all over campus.
+2.  How much money does PubU have available / where does it come from?  The average operating budget of PubU 
+is $2B.  Of that $2B, roughly 30% comes from the state, 10% from alumni donations, 20% from the university endowment 
+(fund that pays out money each year) and 40% from student fees. 
+3.  How does PubU currently get electricity? From the local grid (which uses a mix of coal, gas, wind, and solar).  The 
+local utility is transitioning to 100% carbon-free by 2030. 
+4.  What does net-zero waste mean? Net Zero means consuming only as much energy as produced, achieving a 
+sustainable balance between water availability and demand, and eliminating solid waste sent to landfills.
+5.  What is PubU’s goal? As noted in the prompt, a plan to reach net-zero by 2040.
+Prompt:
+You are the Dean of a large public university in the Midwest. Your tenure has focused on raising the 
+profile of the university through various initiatives.  Recently, the Board of Regents has requested a plan 
+that outlines the university’s environmental footprint and a goal to reach net-zero waste by 2040.  As a 
+former business executive, you are familiar with the principles of ESG, but need to understand what the 
+major drivers of environmental impact at PubU. 
+
+
+===== PDF p167 =====
+163
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+A good framework here will hypothesize sources of waste and make preliminary estimates of relative size.  A great framework will begin to hypothesize possible solutions and the 
+considerations that a public university must have when evaluating these projects, particularly regarding impact on reputation / rankings and ability to fund initiatives. 
+11  |  C A S E :  P U B U  F O O T P R I N T
+How to Move Forward:
+The interviewee should call out the many possible sources of waste and make a justified guess as to which waste stream has the largest impact for the university.  
+Push the interviewee to flesh out the framework to include specific details to the university (for instance, dining halls) during framework discussion.  While cost is 
+certainly a consideration, this case does not revolve around the estimated return.  
+To move forward, the interviewee should call out the public transit system of the university.  A great answer will include mentioning the inefficiency of diesel buses and 
+the possibility of electrification. 
+Solid Waste
+•
+Sources
+•
+Dining halls
+•
+Dormitories
+•
+Laboratories
+•
+University Building
+•
+Possible Strategies
+•
+Reduction
+•
+Recycling
+•
+Elimination
+Energy
+• Electricity
+• Add renewable 
+generation
+• Negotiate with local 
+utilities
+• Reduce usage
+• University Transit
+• Bus fleet – diesel 
+Water
+• Landscaping
+• Plumbing and other Uses
+• Athletic Facilities including golf 
+courses, athletic fields
+• Fountains throughout campus
+UVA Darden School of Business 2019-20 case book
+Other Considerations
+• State funding for waste-
+reduction efforts?  
+• Use current budget / re-
+allocate budget
+• Positive impact on university 
+recruiting both students and 
+faculty.
+• Leverage existing faculty 
+know-how to get 
+recommendations 
+
+
+===== PDF p168 =====
+164
+Question 1
+•
+One of the most promising areas identified by PubU is converting the diesel bus fleet to an electric fleet.  The Board of 
+Regents typically evaluates projects on a 5-year basis and have the goal of emitting less carbon dioxide.  For the 
+current diesel fleet, we would like to know the current cost and environmental impact of the diesel fleet?
+•
+Give the candidate Exhibit 1 
+•
+Provide the info below for diesel costs when asked, prompt candidate until all information comes out.:
+•
+1 bus per route, 2 miles per gallon, each route runs on average, four times an hour, for 15 hours a day, seven days a week, 50 weeks a year.
+•
+$6 / gallon of diesel.  Other maintenance costs include $20,000 per bus in annual maintenance
+•
+20 lbs CO2 / gallon of diesel
+•
+Answers: 
+•
+Total Annual Cost of Diesel (Round 104 miles to 100 miles) *Guide the candidate to start with miles per year*:
+•
+Miles: 100 miles of routes x 4 routes / hour x 15 hours / day x 7 days / week x 50 weeks / year = 2.1M miles 
+•
+Fuel Usage: 2.1M Miles / 2 miles per gallon = 1.05M gallons of diesel      Cost =  1.05M x  $6 / gallon of diesel  = $6.3M
+•
+Maintenance: 25 buses x $20k per year = $0.5M                                         Total Cost: $6.8M per year
+•
+Emissions: 1.05M gallons x 20 lbs CO2 = 21M lbs of CO2 
+11  |  C A S E :  P U B U F O O T P R I N T
+Exhibit or Question Guidance:
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p169 =====
+165
+EXHIBIT 1
+11  |  C A S E :  P U B U F O O T P R I N T
+Current Bus Routes and Costs
+UVA Darden School of Business 2019-20 case book
+Area of Campus
+# of Routes
+Average Miles Per 
+Route
+Main Campus
+8
+6
+Athletic Fields
+8
+3
+Med Center
+4
+3
+Downtown Mall
+5
+4
+Note: Buses run each route 4 times per hour, 15 hours per day. 
+
+
+===== PDF p170 =====
+166
+Question 2
+•
+PubU has received preliminary information from an electric bus manufacturer and the company has promised that their 
+internal calculations show PubU will save significant amounts of money by switching to electric.  We would like to 
+independently verify the company’s claims.  How much money will PubU save by switching to electric?     
+11  |  C A S E :  P U B U F O O T P R I N T
+Exhibit or Question Guidance:
+Interviewee should ask about the following:  
+Cost per bus: $1M  
+Annual Maintenance Cost: $4,000 / bus
+Bus Efficiency: 4 miles / gallon of diesel equivalent (gallon of diesel equivalent is a measure of energy)
+Electric to Diesel Conversion: 25 gallon of diesel equivalent / megawatt-hour (MW-h) 
+Grid Stats: $100 / MW-h generated, 1000 lbs CO2 / MW-h generated (currently, future is 0)
+A great caser should recognize that maintenance cost is 1/5th the diesel cost.  The bus efficiency is 2x.  This will simplify math.  Interviewee should drive case 
+towards five-year savings and recognize a negative ROI.  From an emissions standpoint, this won’t immediately affect carbon emissions.  But as mentioned earlier, 
+the grid is moving to a zero-carbon state.    
+Answers:
+Electricity: 2.1M Miles / 4 miles per gallon of diesel equivalent = 525k gallons of diesel equivalent
+525k gallons of diesel equivalent (gde) / 25 gde / MW-h = 21k MW-h
+21k MW-h x $100 MW-h =$2.1M / year
+Annual Maintenance: 25 buses x $4000 / bus = $100,000 per year                             
+Total Cost = $2.2M / year
+Emissions:
+21k MW-H x 1000 = 21M lbs of CO2
+Cost Savings Per Year: $6.8M – $2.2M = $4.6M
+Total Investment = $25M…over five years, Save $23M, ROI of (23-25)/25 = -8%.
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p171 =====
+167
+Local Impact
+•
+Reduced noise
+•
+Reduced fumes
+•
+Increased student wellness 
+(improved air quality
+•
+Increased public safety (more 
+advanced, sensors ala Tesla)
+11  |  P U B U F O O T P R I N T
+UVA Darden School of Business 2019-20 case book
+Best candidates display:
+Candidate should provide a structure to their thinking and focus on other potential impacts on the university.  Universities have multiple 
+stakeholders including the students, faculty, employees, community and state and local governments.  The best candidates will think about 
+impact on multiple stakeholders.
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Reputation Boost
+•
+Increased Student Attraction
+•
+Increased Faculty Attraction
+•
+Increased Research funding
+Future Impacts
+•
+Reduced maintenance staff
+•
+Opportunity to automate
+•
+Buses as energy storage
+BRAINSTORMING
+It seems like the electric bus fleet might not successfully lower emissions.  What are some other 
+benefits of switching to an electric bus fleet outside the framework of carbon emissions?
+
+
+===== PDF p172 =====
+168
+CONCLUSION
+11  |  C A S E :  P U B U F O O T P R I N T
+UVA Darden School of Business 2010-20 case book
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+Either PubU should invest in electric buses or not.  Either decision can be justified.  
+•
+Should Not Invest: ROI in 5 years is negative, no major change in emissions in short-term. Technology likely to get 
+cheaper in coming years.
+•
+Should Invest: In 6 years, ROI becomes positive.  Eventual path to zero emissions.  Significant other benefits.
+Risks:
+•
+First Adopter Risk – What are unknowns around the technology that have yet to be identified? 
+•
+Infrastructure Requirements – Need to build out significant other infrastructure and training (charging infrastructure, new 
+maintenance training)
+Next Steps:
+•
+Prepare bid documentation and go forward with project.  
+•
+If they decide not to go forward – next step should be to explore alternatives that reduce costs AND deliver environmental 
+benefits
+
+
+===== PDF p173 =====
+169
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p174 =====
+170
+EXHIBIT 1
+11  |  C A S E :  P U B U F O O T P R I N T  - A P P E N D I X
+Current Bus Routes and Costs
+UVA Darden School of Business 2019-20 case book
+Area of Campus
+# of Routes
+Average Miles Per 
+Route
+Main Campus
+8
+6
+Athletic Fields
+8
+3
+Med Center
+4
+3
+Downtown Mall
+5
+4
+Note: Buses run each route 4 times per hour, 15 hours per day. 

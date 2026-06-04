@@ -1,0 +1,324 @@
+===== PDF p97 =====
+Practice Cases – Case 16: PCB Manufacturer 
+Booz Allen Hamilton 
+ 
+ 
+93
+(Source: Interview case from Booz Allen Operations Round I, RSB 2006 casebook #8) 
+ 
+Context 
+ 
+Our client is a Printed Circuit Board (PCB) manufacturer that has 3 plants - 1 in 
+Philippine, 1 in China, and 1 in the US. The client wants to invest money to expand 
+capacity in one or more plants. Which plant(s) should the client invest in?  
+ 
+Interviewee could ask some clarifying questions upfront or early in the process to understand: 
+• 
+What is PCB is for? 
+• 
+How does our client evaluate investment? 
+ 
+Given upon request 
+• 
+PCBs are used in TVs, radios, mobile phones etc.  
+• 
+The client wants the first year ROI on any investment to be no less than 10%. 
+ 
+Interviewee should lay down a structure that addresses all the key issues the client should 
+consider when evaluating the investment. 
+ 
+A sample framework could cover the following issues: 
+ 
+• 
+Each plant’s current demand and capacity utilization 
+• 
+Overall demand and supply of the market each plant is in, to understand if there is 
+enough demand to meet the increased capacity 
+• 
+Price elasticity of each market – how increased supply will affect price? 
+• 
+Profit margin of each plant (all else being equal, the client should invest in plants that 
+have the highest profit margin) 
+• 
+Competitive reaction 
+• 
+Government regulations 
+ 
+Given upon request: 
+ 
+• 
+Annual Demand in each plant is the same: 6M units/year.  
+• 
+Capacity utilization is close to 100% in all plants 
+• 
+Assume that there is sufficient demand to meet the additional supply in all markets 
+• 
+Assume that price won’t be affected by the increased supply in all markets 
+• 
+Price per unit is $10 in all plants 
+ 
+Interviewee should now realize that investing in the plant with the highest profit margin will 
+bring the highest return.  
+ 
+Interviewer should explore the complete value chain to understand cost components of every 
+part of the value chain across the three plants, and identify the plant that has the highest 
+profit margin. 
+ 
+Value chain Analysis 
+ 
+• 
+Sourcing:  
+How would the cost of raw material be different across plants? 
+ 
+Raw materials are made in East Asia (in places such as Taiwan). It is cheaper to 
+transport raw material from Taiwan to China/ Philippines than to US.   
+ 
+The cost of raw material is $1/unit for China and Philippines, and $2/unit for US 
+ 
+The other factors that affect raw materials purchasing: Supplier Quality and delivery; 
+supplier maturity. 
+ 
+
+
+===== PDF p98 =====
+Practice Cases – Case 16: PCB Manufacturer 
+Booz Allen Hamilton 
+ 
+ 
+94
+• 
+Manufacturing: 
+What are the different costs in manufacturing? Neglect fixed costs for now (Plant, 
+property, equipment, Long-term agreements etc.) 
+ 
+We shall focus on variable costs. 
+o 
+Direct Material Cost (it’s the cost of raw material) 
+o 
+Labor Cost - $20/hr for US; $4/hr for China; $10/hr for Philippines 
+o 
+Employee Productivity / efficiency 
+• 
+Productivity: 80% for China; 90% for US and Philippines 
+• 
+Efficiency: 75% for China; 90% for US; 80% for Philippines 
+o 
+Overhead burden – Assume $10/actual labor hour for all countries 
+o 
+Scrap rate / rework rate – cost of quality 
+o 
+Tax rate 
+     
+It takes 6 minutes to produce one unit in all three plants. 
+ 
+• 
+Warehousing: 
+Why would you need warehousing cost?  
+ 
+For long-distance transportation, the client would need to carry more inventory on its 
+shelf to compensate for the long lead-time and demand variability during the longer 
+lead-time. It is important to realize safety stock needed to maintain certain service 
+level and reduce stock out costs. 
+ 
+Warehousing costs are 25% of sales in China and Philippines and 10% of sales in the 
+US. 
+ 
+• 
+Transportation/Distribution: 
+The transportation cost would be higher when shipping products from country to 
+country. 
+ 
+Annual transportation costs are: $4M in China; $1.5M in US and $3M in Philippines 
+ 
+• 
+Docking Costs: 
+ 
+These costs include customs, tariffs, inbound taxation rates etc. 
+ 
+• 
+Marketing/Sales:  
+Ignore in this case 
+ 
+• 
+Customer Service:  
+Ignore in this case 
+ 
+Interviewer: Let interviewee calculate the unit profit margin in each plant 
+ 
+ 
+Variable Cost 
+China 
+US 
+Philippine 
+  
+  
+  
+  
+Raw Material 
+$1/unit 
+$2/unit 
+$1/unit 
+Direct Labor (DL) 
+$4/hr 
+$20/Hr 
+$8/Hr 
+Theoretical Time  
+6 min/unit 
+6 min/unit 
+6 min/unit 
+Productivity 
+0.8 
+0.9 
+0.9 
+Efficiency 
+0.75 
+0.9 
+0.8 
+
+
+===== PDF p99 =====
+Practice Cases – Case 16: PCB Manufacturer 
+Booz Allen Hamilton 
+ 
+ 
+95
+Scrap 
+NA 
+NA 
+NA 
+Overhead 
+$10/Actual DL 
+Hour 
+$10/Actual DL 
+Hour 
+$10/Actual DL 
+Hour 
+Warehousing 
+20% of sales 
+10% of sales 
+20% of sales 
+Transportation 
+4,000,000 
+1,500,000 
+3,000,000 
+ 
+Here are the tabulated results: 
+ 
+Variable Cost 
+China 
+US 
+Philippines 
+Raw Material 
+6,000,000 
+12,000,000 
+6,000,000 
+Theoretical Rate 
+10/Hr 
+10/Hr 
+10/Hr 
+Actual Rate  
+(Adjust for efficiency 
+and productivity) 
+6/hr 
+8/hr 
+7/hr 
+Total Hours 
+1,000,000 
+750,000 
+900,000 
+Direct Labor Rate 
+4,000,000 
+15,000,000 
+7,200,000 
+Overhead 
+5,000,000 
+7,500,000 
+9,000,000 
+Warehousing 
+12,000,000 
+6,000,000 
+12,000,000 
+Transportation 
+4,000,000 
+1,500,000 
+3,000,000 
+  
+  
+  
+  
+Total Cost 
+34,000,000 
+42,000,000 
+37,200,000 
+Cost / Unit 
+$5.2 
+$7 
+$6.2 
+Price/Unit 
+10 
+10 
+10 
+Margin 
+$4.8 
+$3 
+$3.8 
+ 
+ 
+Conclusion: 
+The plant in China has a higher profit margin due to lower cost structure and therefore 
+expanding capacity in that plant will bring the highest return. 
+ 
+Interviewer: If we decide to invest in a brand new facility in China and move all 
+manufacturing from the US plant to China as well, what are the things we should 
+consider? 
+ 
+Some of the things to consider: 
+• 
+US facility shutdown costs (severance, plant closures, machine sell-off etc.)  
+• 
+Union issue 
+• 
+Facility startup cost in China 
+• 
+Additional costs to transport products back to US, such as transportation, customs, etc 
+• 
+Currency risk 
+• 
+Chinese government regulations  
+• 
+Impact on brand image in US and US customer relations 
+ 
+Interviewer: Suppose the client decides to move manufacturing to China, what 
+would the client need to consider when deciding whether to invest in new 
+equipment? 
+ 
+
+
+===== PDF p100 =====
+Practice Cases – Case 16: PCB Manufacturer 
+Booz Allen Hamilton 
+ 
+ 
+96
+Sample answer: 
+• 
+If the equipment has high value, and a specific asset to the client, the client should 
+consider shipping it overseas vs. selling off in the US and purchasing in China. Of 
+course, the client needs to compare the cost of both options. Leasing in China is 
+another option. 
+• 
+The equipment needs to have a physical useful life for the ‘overhead’ allocation to be 
+low. 
+ 
+Interviewer: The client believes that the asset is specific. It is fully depreciated, and 
+has useful life of 10 years. Hence, the client decides to ship the equipment to China. 
+Uninstalling and shipping and then reinstalling will take about 2 months. How should 
+the client do in the interim to keep the business going? 
+ 
+Sample answer: 
+The client should focus on building a ‘bridge’ inventory in order to satisfy the customer 
+demand during the timeline between uninstalling and shipping the machine to China; and 
+installing it and running the machine to production. 
+ 
+ 
+ 

@@ -1,0 +1,216 @@
+===== PDF p57 =====
+53 
+Case 7: Tarrant Fixtures 
+Case tracker 
+Fit Questions 
+ Industry:  Industrial 
+goods 
+ Level of Difficulty: 
+Medium 
+ Case format: Improving 
+profitability 
+ Concepts being tested: 
+- Operations 
+- Accounting 
+Case Question 
+ Our client, Tarrant Fixtures, is a low-intensity manufacturing company that produces display fixtures for retail clients. The 
+company’s financial performance has deteriorated in each of the last three years. Specifically, they are concerned with 
+the company’s falling Return on Investment (ROI).  
+ The CEO has asked us to look into this problem. How can Tarrant Fixtures get back on track? 
+Spend first 15 min on fit 
+ What do you see as the 
+most challenging aspect 
+of this job?  
+ Tell me about your 
+written communication 
+skills. 
+ What are a couple of the 
+best and worst decisions 
+you have made in the 
+past year?  
+Guide to interviewer 
+ This case is about improving ROI and requires a real 
+understanding of finance to solve. There has been a 
+massive increase in working capital due to inventory 
+build-up from an increase in the number of SKUs. 
+ This is a short case, designed to be solved in 
+approximately 15-20 minutes. There are no slides. 
+ The important steps are: 
+ Establishing a viable structure (Using ROI formula) 
+ Breaking down the problem into component parts 
+ Continuing to examine issues until the correct 
+ones are identified. 
+Quants. 
+8 
+Structure 
+7 
+Opps. 
+Acct. 
+By: David Welch (Kellogg Class of ‘04), Edited By: Adam Louras (Kellogg Class of ‘11) 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p58 =====
+54 
+Clarifying answers and case guide  
+Interviewer Guide to Case 
+A sample case structure would include the following: 
+1)
+Start with the definition of ROI and identify the potential areas for problems 
+2)
+Identify differences in profits over the last three years 
+3)
+Identify capital employed and deep dive increase in working capital 
+ 
+Necessary Information that should be given only when specifically asked : 
+
+Product Types: 
+
+Custom displays (50% of Sales) - Produced only when an order is placed and the 
+payment is received 
+
+Standard displays (50% of Sales) - Manufactured to “open standard” for display 
+sizes/types and stored in inventory (Built-to-stock) 
+
+5 standardized products account for 80% of sales in standardized products; 
+Number of standardized products increased from 5 to 12 over last 3 years 
+
+Past Three Years of Financial Performance: 
+
+Total Revenues: Grew by 25%, from $100M to $125M, equally across both types 
+
+Costs of production (COGS, labor, SG&A, etc.): Remained stable as a percentage of 
+revenue [80%] 
+
+CAPEX: The company has no new investments in Property, Plant, & Equipment 
+
+Working Capital 
+
+Total Working Capital Employed three years ago = $80M 
+
+Total Working Capital Employed today = $130M 
+
+Inventory levels increased by 200% (primarily in finished goods), from $25 
+million to $75 million 
+ 
+Clarifying answers to provide if asked 
+Industry Characteristics/Market 
+Economics 
+- The market has grown 25% in total over 
+the past three years 
+Client Characteristics 
+- Client has remained the industry market 
+share leader in displays over the past 
+three years and has maintained 25% 
+market share 
+Competitive Dynamics 
+- There are several players in the market, 
+but everything has remained stable 
+from a competitive standpoint 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p59 =====
+Key elements to analyze 
+Definition of ROI 
+ To begin this case correctly, the interviewee 
+must understand the components of ROI 
+ If the interviewee doesn’t know the formula 
+for ROI, the case is dead; however, you 
+should guide the interviewer to help them 
+practice 
+Net Profits 
+ The interviewee will likely begin by 
+discussing the “top line” of the ROI 
+equation 
+ Net Profit is not the cause of the ROI issue 
+as shown from the calculation below 
+Capital Employed 
+ The interviewee should examine Capital 
+Employed to find that PP&E is constant as 
+no CAPEX was employed, Inventory is the 
+culprit 
+ Once identified, follow up with, “What can 
+management do to improve the Inventory 
+Problem?” 
+Notes to Interviewer 
+ The formula for ROI:  
+Notes to Interviewer 
+ Net Profit can be calculated based on the 
+information from the prior page as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The company’s absolute level of profits 
+have increased 25% during the last three 
+years, so this is not the cause of the ROI 
+issue 
+Notes on Exhibit 1 & 2 
+ A line-by-by line examination of a typical 
+Working Capital statement will indicate all 
+of the relevant categories of capital for 
+purposes of calculating ROI.  
+ Based on the data from the prior page, 
+following conclusion may then be drawn: 
+
+Total Working Capital increased by 
+$50M because Inventory levels 
+increased by $50M 
+
+PP&E, AR, AP, Cash etc. are all stable 
+ Potential Causes/fixes for Inventory 
+Increase: 
+
+Proliferation of standardized product 
+lines  
+
+Inaccurate demand forecasts resulting in 
+excess safety stock 
+
+Obsolete inventories of outdated 
+product lines 
+Year 1 Year 3 
+Revenue 
+100M 125M 
+Cost of Production $ 
+80M 
+100M 
+Net Profit 20M 
+25M 
+Cost of Production % of 
+Revenue 
+80% 
+80% 
+55 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p60 =====
+56 
+Solution and recommendations 
+Solution & Recommendations 
+ The client’s ROI has fallen over the past three years due to a $50M increase in Working Capital caused by a 200% 
+increase in inventory. Inventory has grown because of: 
+ The increase in the Total number of standardized product SKUs from 5 to 12 
+ Inaccurate demand forecasts resulting in excess safety stock 
+ Obsolete inventories of outdated products 
+ To correct this issue, the client should work to reduce its inventory by: 
+ Writing off or working down obsolete inventory (a write-off will cause an immediate hit on profits, so 
+management may be reluctant) 
+ Improving demand forecasting to set more realistic safety stock levels 
+ Reducing the “Standard” product-line down to the top 5 products (80% of current sales) 
+Bonus/Guide to an Excellent Case 
+ An excellent interviewee will: 
+ Provide creative, logical reasons for the inventory increase 
+ Provide creative, logical solutions to reduce Inventory 
+ Detail a cohesive demand forecasting plan that would improve accuracy 
+ Provide a plan to limit future product proliferation in the “Standard” product lines 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 

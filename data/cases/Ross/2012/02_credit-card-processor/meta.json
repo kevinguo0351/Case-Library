@@ -1,0 +1,28 @@
+{
+  "case_id": "Ross_2012_02_credit-card-processor",
+  "school": "Ross",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2012.pdf",
+  "idx": 2,
+  "case_name": "Credit Card Processor",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Financial Services / Payments",
+  "difficulty": null,
+  "pdf_page_start": 61,
+  "pdf_page_end": 67,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    63,
+    64,
+    65,
+    66
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p063.png",
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2012\\02_credit-card-processor"
+}

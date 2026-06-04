@@ -1,0 +1,30 @@
+{
+  "case_id": "HBS_2011_05_great-burger",
+  "school": "HBS",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\HBS\\HBS_Case Book_2011.pdf",
+  "idx": 5,
+  "case_name": "Great Burger",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 41,
+  "pdf_page_end": 48,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p043.png",
+    "exhibits/exhibit_p044.png",
+    "exhibits/exhibit_p045.png",
+    "exhibits/exhibit_p046.png",
+    "exhibits/exhibit_p047.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\HBS\\2011\\05_great-burger"
+}

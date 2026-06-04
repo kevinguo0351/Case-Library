@@ -1,0 +1,28 @@
+{
+  "case_id": "IESE_2021_22_gymco",
+  "school": "IESE",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\IESE\\IESE_Case Book_2021.pdf",
+  "idx": 22,
+  "case_name": "Gymco",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Fitness / Consumer Services",
+  "difficulty": null,
+  "pdf_page_start": 257,
+  "pdf_page_end": 266,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    260,
+    261,
+    262,
+    263
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p260.png",
+    "exhibits/exhibit_p261.png",
+    "exhibits/exhibit_p262.png",
+    "exhibits/exhibit_p263.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\IESE\\2021\\22_gymco"
+}

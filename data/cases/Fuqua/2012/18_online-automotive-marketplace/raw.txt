@@ -1,0 +1,488 @@
+===== PDF p143 =====
+Case 18: Online Automotive Marketplace 
+Prompt 
+Your client is an online automotive marketplace that enables dealers and individuals to buy and sell cars. 
+They have recently acquired 4 companies operating in a similar domain that have somewhat overlapping 
+products. They are increasingly facing problems with their sales and service processes because of the 
+acquisitions.  
+ 
+What should they do?  
+ 
+Guidance 
+This is a general case that focusses on brainstorming the possible problems that are causing trouble to 
+the sales and service functions and also coming up with potential solutions to the problems. In case the 
+candidate does not automatically answer the following questions, prompt him/her to ask: 
+•  What do you think is causing the problem? 
+•  What are the potential solutions? 
+•  What are the risks associated with implementing these solutions? 
+•  What are some of the ways we can mitigate these risks? 
+ 
+Provide the following information upon request: 
+•  Their customers are car dealers of different sizes (some spending a lot and some spending very less) 
+•  Currently the sales force serves meet all the dealers face-to-face, irrespective of size 
+•  The client has media products (banners etc.) and software products 
+•  Software products that enable dealers to acquire a fleet of cars, merchandize/organize information 
+about these cars, put ads of these cars on websites 
+ 
+In case the candidate asks for further information on how exactly the problem was caused share the 
+following: the client was already serving the entire value chain (as highlighted above), through its own 
+products. Through the acquisition, the client added companies to its portfolio that made similar products 
+and sold them to dealers. 
+ 
+Bain & Company 
+139 
+Strategy 
+
+
+===== PDF p144 =====
+140 
+Guidance 
+After the candidate has provided his/her reasons for the problem, share the following:  
+• 
+Similar products offered by the companies acquired 
+• 
+Lack of incentives for the sales force to up-sell and cross sell products of acquired companies  
+• 
+Lack of a robust centralized IT system 
+• 
+Too many sales roles, creating confusion in the exact roles and responsibilities 
+• 
+Disproportionate amount of time spent in serving dealers that spend too less 
+Ask the candidate to recommend solutions to each of the above problems: 
+• 
+Product bundling, killing a few products 
+• 
+Incentivize sales force to cross-sell and up-sell 
+• 
+Implement a centralized IT system where everyone knows what is being sold to who, etc. 
+• 
+Streamline the sales force with clearly defined roles and responsibilities 
+• 
+Better dealer segmentation and serving the lesser paying dealers remotely than in person 
+Keys risks associated with implementing the solutions: 
+• 
+Dealer confusion; some dealers might love a particular product that we might kill 
+• 
+Lack of focus of the sales force due to increased responsibilities. Increased turnover 
+• 
+Might be too costly and hard to implement 
+• 
+Job losses; distrust, and antipathy amongst the sales force 
+• 
+Dealer churn due to change in the service provided 
+ 
+Ways risks can be mitigated: 
+•  Educate the sales force and the dealers about the benefits that they are expected to obtain 
+•  Create mechanisms to actually provide great service to the dealers by opening dedicated remote 
+service centers and saving money 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Strategy 
+
+
+===== PDF p145 =====
+141 
+Prompt 
+The client is planning to implement all your recommendations, can you estimate the financial 
+impact of the recommendations?  
+Guidance 
+The candidate should ask what metric the client wants. Tell him to calculate EBITDA. He/she should 
+automatically start talking about revenue and cost = EBITDA 
+ 
+Encourage a brainstorming session around revenue drivers and cost drivers. Ask the candidate to come 
+up with possible drivers for both revenue and cost. Also ask whether the individual revenue and cost 
+drivers are expected to increase/decrease.  
+ 
+Following are the drivers: 
+•  Revenue (will increase): 
+•  Increased dealer growth 
+•  Reduced dealer churn 
+•  Increased average spent/dealer 
+•  Costs (will increase): 
+•  Increased sales costs  
+•  Reduced service costs  
+•  Increased IT costs 
+•  Increase in other costs 
+•  EBITDA (will increase) 
+Once the candidate has done the brainstorming, provide them with Exhibit 2 & 3. Check their public 
+math. 
+ 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Strategy 
+
+
+===== PDF p146 =====
+142 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Revenue Driver 
+Without recommendations 
+implemented 
+With recommendations 
+implemented 
+Net Number of dealers 
+• 
+Division A 
+90 
+? 
+• 
+Division B 
+40 
+? 
+• 
+Division C 
+45 
+? 
+Number of dealers added 
+• 
+Division A 
+15 
+20 
+• 
+Division B 
+10 
+15 
+• 
+Division C 
+5 
+10 
+Number of dealers lost 
+• 
+Division A 
+5 
+0 
+• 
+Division B 
+7 
+2 
+• 
+Division C 
+2 
+2 
+Exhibit 1: Revenue Drivers 
+Strategy 
+
+
+===== PDF p147 =====
+143 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Revenue Driver 
+Without recommendations 
+implemented (USD) 
+With recommendations 
+implemented (USD) 
+Average annual spend per dealer 
+• 
+Division A 
+80,000 
+90,000 
+• 
+Division B 
+90,000 
+100,000 
+• 
+Division C 
+100,000 
+110,000 
+Exhibit 2 (Candidate copy) 
+Strategy 
+
+
+===== PDF p148 =====
+144 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Cost Drivers 
+Increase in cost due to recommendation 
+implementation (USD) 
+Sales cost 
+500,000 
+Service cost 
+-250,000 
+IT costs 
+500,000 
+Other costs 
+450,000 
+Exhibit 3 (Candidate copy) 
+Strategy 
+
+
+===== PDF p149 =====
+145 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Revenue Driver 
+Without recommendations 
+implemented 
+With recommendations 
+implemented 
+Net Number of dealers 
+• 
+Division A 
+90 
+100 (=90-15+5+20-0) 
+• 
+Division B 
+40 
+50 (=40-10+7+15-2) 
+• 
+Division C 
+45 
+50 (=45-5+2+10-2) 
+Number of dealers added 
+• 
+Division A 
+15 
+20 
+• 
+Division B 
+10 
+15 
+• 
+Division C 
+5 
+10 
+Number of dealers lost 
+• 
+Division A 
+5 
+0 
+• 
+Division B 
+7 
+2 
+• 
+Division C 
+2 
+2 
+Exhibit 1: Revenue Drivers (Interviewer copy) 
+Strategy 
+
+
+===== PDF p150 =====
+146 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Exhibit 2 (Interviewer copy) 
+Calculations: 
+Revenue Driver 
+Dealers 
+without 
+Reco. 
+Spend Per 
+dealer 
+without 
+Reco. 
+Revenue 
+without 
+Reco. 
+Dealers 
+with Reco. 
+Spend Per 
+dealer without 
+Reco. 
+Revenue 
+with Reco. 
+Additional Revenue 
+• 
+Division A 
+90 
+80,000 
+90*80,000 
+=7.2 Million 
+100 
+90,000 
+100*90,000= 
+9 Million 
+• 
+Division B 
+40 
+90,000 
+40*90,000 
+=3.6 Million 
+50 
+100,000 
+50*100,000= 
+5 Million 
+• 
+Division C 
+45 
+100,000 
+45*100,000
+=4.5 Million 
+50 
+110,000 
+50*110,000= 
+5.5 Million 
+Total 
+15.3 
+Million 
+19.5  Million 
+Difference in revenue = (19.5 - 15.3) Million = USD 4.2 Million 
+Strategy 
+
+
+===== PDF p151 =====
+147 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Cost Drivers 
+Increase in cost due to recommendation 
+implementation (USD) 
+Sales cost 
+500,000 
+Service cost 
+-250,000 
+IT costs 
+500,000 
+Other costs 
+450,000 
+Exhibit 3 (Interviewer copy) 
+Total cost impact = 5000,000-250,000+500,000+450,000 = USD 1,200,000 
+Total EBITDA impact = 4,200,000 – 1,200,000 = USD 3 Million 
+Strategy 
+
+
+===== PDF p152 =====
+148 
+Performance 
+Evaluation 
+Expected: 
+• 
+Does not get overwhelmed with the data and the overall case 
+• 
+Identifies some of the reasons for the problem and also proposes some solutions, risks and 
+mitigation 
+• 
+Identifies some revenue and cost drivers 
+• 
+Gets close to the final EBITDA impact number 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Identifies most reasons for the problem and proposes most of the solutions, risks and mitigation 
+• 
+Identifies the revenue and cost drivers 
+• 
+Drives the calculation and gets very close to the final answer 
+ 
+Excellent: 
+• 
+Completes all “Good” requirements 
+• 
+Feels and appears confident throughout the case  
+• 
+Has a hypothesis upfront and conveys them to the interviewer 
+• 
+Drives the calculation and gets the answer correct through shortcuts 
+ 
+Case 18: Online Automotive Marketplace 
+Bain & Company 
+Strategy 
+
+
+===== PDF p153 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+149 

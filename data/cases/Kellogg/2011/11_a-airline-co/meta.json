@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2011_11_a-airline-co",
+  "school": "Kellogg",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2011.pdf",
+  "idx": 11,
+  "case_name": "A+ Airline Co.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Airlines",
+  "difficulty": null,
+  "pdf_page_start": 80,
+  "pdf_page_end": 85,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    81,
+    82,
+    84,
+    85
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p081.png",
+    "exhibits/exhibit_p082.png",
+    "exhibits/exhibit_p084.png",
+    "exhibits/exhibit_p085.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2011\\11_a-airline-co"
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "INSEAD_2020_04_robot-co",
+  "school": "INSEAD",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2020.pdf",
+  "idx": 4,
+  "case_name": "Robot Co.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Robotics / AI",
+  "difficulty": null,
+  "pdf_page_start": 39,
+  "pdf_page_end": 48,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    41,
+    43,
+    45,
+    46
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p041.png",
+    "exhibits/exhibit_p043.png",
+    "exhibits/exhibit_p045.png",
+    "exhibits/exhibit_p046.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2020\\04_robot-co"
+}

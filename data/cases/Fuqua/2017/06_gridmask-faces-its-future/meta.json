@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2017_06_gridmask-faces-its-future",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 6,
+  "case_name": "GridMask faces its future",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 77,
+  "pdf_page_end": 83,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    80,
+    81,
+    83
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p080.png",
+    "exhibits/exhibit_p081.png",
+    "exhibits/exhibit_p083.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\06_gridmask-faces-its-future"
+}

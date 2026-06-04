@@ -1,0 +1,264 @@
+===== PDF p134 =====
+Consulting Impact Consulting
+Industry:  
+Case Type:  
+Led by:
+130
+Consulting  
+Profitability  
+Interviewer
+Quantitative Level: Difficult
+Qualitative Level:
+Difficult
+
+
+===== PDF p135 =====
+Behavioral Questions
+• Tell me about a time when you think you improved your leadership as a result of
+coaching
+Question 1:
+• Tell me about a time when you overcame your fear and drove impact as a result
+Question 2:
+130
+
+
+===== PDF p136 =====
+Consulting Impact Consulting
+• Your client “Impact Consulting” is a industry leader in Technology consultingglobally.
+Over the last 3 years Impact consulting has grown its customer base but the overall
+profitability has reduced.
+• The CFO has hired us to determine what factors are driving low profitability?
+Prompt #1:
+Case Background:
+Client/Company information: It is a multinational company and mostly has office inUS  
+and UK
+Product information: Impact Consulting provides consulting and implementation services  
+primarily in Cloud Products (like Microsoft Azure, Amazon AWS, Google Cloud etc.), Customer  
+Relationship Management Products (like those used in Walmart/Target etc.), and Enterprise  
+productivity products (like implementing Office 365 for companies).
+Revenue information - Revenue has been stagnant in the last 3 years.
+132
+
+
+===== PDF p137 =====
+Consulting Impact Consulting
+Framework Buckets:
+Internal
+i) Cost – Employee salary, Travel, Perks, Severance costs, Training, Health/Medical
+benefits etc.
+ii) Pricing – High Discounts, Low billing rates compared to market
+iii)Product – Lack of IP in custom solutions, Changing B2B products versions resulting  
+in high training/talent costs etc.
+iv) Delivery – Underestimate effort, Fixed vs. T&M Projects proportion, Inappropriate
+staffing, Quality issues resulting in free work for the clients
+v)Organizational Factors – Labor Pyramid, Work Location (high cost country vs. low  
+cost country), Deep Hierarchy resulting in delays, Effectiveness of Sales and  
+Marketing etc., Lack of talent
+External
+i) Competition – High competition resulting in reduced billing rates, higherquality
+expectations etc.
+ii)Nature of engagements – Low ticket size engagements, clients increasingly having  
+their own IT team resulting in delays due to coordination
+133
+
+
+===== PDF p138 =====
+Exhibit #1a
+Organization  
+Chart
+Billable
+Employees
+Consultants
+Count - 600  
+Avg. Salary* - $140K  
+# of hrs. billed = 742K
+Project Leads
+Count - 200  
+Avg. Salary - $180K
+# of hrs. billed = 210K
+Partners
+Count - 40  
+Avg. Salary - $220K  
+# of hrs. billed = 46K
+Non-Billable
+Employees
+134
+Impact Consulting Organization Chart
+* Includes base + fringecost
+
+
+===== PDF p139 =====
+134
+Exhibit #1b
+70
+60
+65
+80
+80
+60
+40
+30
+20
+10
+0
+50
+60
+70
+80
+Consultant
+Project Lead
+Partner
+Impact Consulting Avg., %  
+Industry Avg., %
+Average annual billability* trends of employees
+Impact consulting vs. Tech Consulting Industry
+* Average billability % refers to the % of total working hours where the employee is billable to the clients or brings revenue to the
+company
+
+
+===== PDF p140 =====
+Interviewer guidance on Exhibits
+Billability of employees has been a concern for the  
+client over the last two years. Based on Data in  
+Exhibit #1, what is the potential in $M for reducing
+cost through workforce reduction while meeting  
+industry billing standards.
+• Data to be provided upon asked:
+- Number of working days in a year = 220
+- Number of working hours in a day = 8
+- Candidate can assume that the revenue would  
+not change this year and the number of billing  
+hours would remain same
+1st OrderInsight:
+•
+Employee billability for Impact consulting is belowindustry
+standards specifically for Consultant and Project Lead roles.
+•
+Increasing billability will result in surplus resources, and  
+downsizing workforce will lead to savings
+•
+The candidate must realize that the billability correction is  
+only applicable for Consultants and Project leads as they are  
+underperforming for Impact Consulting and not for Partners
+Calculation: (only for Consultant and PLs)
+Total number of hours available with 80% billability = 80% *
+220 *8 (target billability * #days * #hrs/day) = 1408 (~1400)
+# Consultants needed = 742,000/1400 =530
+# Project Leads needed = 210,000/1400 = 150
+Cost Savings
+•
+Consultants = (600-530) * 140K = $9.8M
+•
+Project Leaders = (200-150) * 180K = $9M
+Total Savings = $18.8M
+A great candidate will highlight the challenges in downsizing the  
+workforce like analyzing business impact, timeline, retraining  
+employees to help them become more billableetc.
+Prompt 1
+Analysis:
+136
+
+
+===== PDF p141 =====
+Interviewer guidance on Exhibits
+Currently all the employees of Impact
+consulting are based out of high cost  
+countries like US, UK etc. How much cost  
+savings in $M can be achieved if 20% of the  
+consultants and project leaders are shifted  
+to LCC (Low Cost Center)?
+Note: 20% of the reduced workforce should
+be considered.
+•Data to be provided upon asked:  
+Avg. Salary in LCC
+- Consultants - $60K
+- Project Leaders - $90K
+Calculations
+Cost savings from
+Consultants = 20%*530 *($140k-$60k) =  
+106*$80k = $8.48M
+Project Leaders = 20%*150 *($180k-$90k)
+= 30*$90k = $2.7M
+Total Savings = $11.18M
+Prompt 2
+Analysis:
+137
+
+
+===== PDF p142 =====
+Brainstorming
+• Low repeat customer rate has been an
+issue for Impact consulting over the last
+two years. What are some of the factors
+that you think is causing this problem.
+Quality of Work
+Low quality of work in the past
+Project delays  
+Communication gaps  
+Staffing irregularities  
+Quality of talent
+Changing Customer needs
+Customer need consulting in newer products  
+Invest in their own IT department
+Expect lower price/higher discount
+Other Factors
+Increased Competition
+Big companies like Microsoft having their own IT
+consulting team for their products
+Lack of Relationship at higher levels
+Prompt 3:
+Analysis:
+138
+
+
+===== PDF p143 =====
+Recommendation
+• The CFO is about to walk into the room, please provide them with a
+recommendation.
+Recommendation
+Interviewer Guidance
+• Recommendation will include:–
+The client should aim towards increasing the billability of consultants and Project leaders to match  
+industry standards. This will allow them to reduce workforce size and save $18.18M
+They should also migrate 20% of the consultants and PLs to low cost countries and save $11.18M in
+addition.
+• –Risks: reducing workforce should not impact existing business engagements -> It should be
+appropriately phased followed by retraining of employees to increase billability
+• - Next steps: Identify low cost countries which have the right talent in the market and set up  
+offices
+139
+
+
+===== PDF p144 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+•
+Framework touches on only a few of the case components
+•
+Guidance is required multiple times for brainstorming and/or
+working through exhibits
+•
+Insights are not driven from qualitative factors in addition to
+the quantitative calculations
+Good Candidate
+•
+Discusses all aspects of improving profitability and  
+understands how consulting industry operates
+•
+Calculations are quick and sound
+•
+Makes clear, confident recommendations based on  
+information presented
+Excellent Candidate
+•
+Framework is customized to tech consulting
+•
+Proactively thinks about how increase in billability will lead  
+to reduction in workforce
+•
+Asks about total available hours to calculate billability
+•
+Notes risks of preferred strategy
+140

@@ -1,0 +1,26 @@
+{
+  "case_id": "Wharton_2008_14_all-mart",
+  "school": "Wharton",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2008.pdf",
+  "idx": 14,
+  "case_name": "All-Mart",
+  "case_type": "Operations",
+  "round": "1",
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 102,
+  "pdf_page_end": 106,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    104,
+    105,
+    106
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p104.png",
+    "exhibits/exhibit_p105.png",
+    "exhibits/exhibit_p106.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2008\\14_all-mart"
+}

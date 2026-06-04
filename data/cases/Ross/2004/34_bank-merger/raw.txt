@@ -1,0 +1,70 @@
+===== PDF p81 =====
+Table of Contents 
+ 
+77
+Practice case 34: Bank merger  
+(BCG - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:    
+ 
+Bank A and Bank B are negotiating to merge their check processing 
+facilities. Check processing consists of all the steps required to 
+process a check received in any bank branch, from collecting all the 
+checks in all the bank branches and sorting them through making the 
+necessary balance adjustments to the accounts involved and filing 
+them away.  
+You were hired to analyze this merger.  
+ 
+How would you do it?  
+ 
+First tell me the major data / information you would need to make a 
+thorough analysis and then whether or not you would recommend it.  
+ 
+ 
+ 
+II. Additional information provided after relevant questions:    
+ 
+• 
+Investment to make the merger = $200 M (shared in half by both 
+banks) 
+• 
+Bank A current check processing unit cost = $ 0.4 
+• 
+Numbers of check processed by bank A in a year = 200 M 
+• 
+Bank B current check processing unit cost = $ 0.5 
+• 
+Numbers of check processed by bank B in a year = 200 M 
+• 
+Cost of capital = 10% 
+• 
+Bank A and B estimated the check processing cost per unit if the 
+merger occurs = $ 0.36 
+ 
+III. Cracking the case:   
+ 
+First, I mentioned all relevant points necessary to analyze the case (financial-
+>investment needed, cost of capital, expected benefits due to merger; 
+operational-> how the checks are collected from the branches, how they are 
+processed, synergies in terms of process and best practices, etc, so we could 
+see whether there is any room for improvement. Then I said that we should 
+do an NPV analysis to verify the viability or not of the merger.  
+ 
+If you work the numbers you will get the NPV for bank A -20M and for B 
++80M. So the merger would be good for bank B but not for bank A. However, 
+since the overall combined unit cost is reduced by the merger, it creates 
+value and should be made if the NPV for A were also positive. To do this we 
+should reduce the investment for bank A and increase the investment for 
+
+
+===== PDF p82 =====
+Table of Contents 
+ 
+78
+bank B. The best case scenario would be splitting the added value by 
+merging the banks.  That is, making both banks realize the same NPV 
+through the merger.  For this to happen, bank A should invest 50M and bank 
+B 150M. This way both banks would end up having NPV of 30M and the 
+merger will likely go through. 
+ 

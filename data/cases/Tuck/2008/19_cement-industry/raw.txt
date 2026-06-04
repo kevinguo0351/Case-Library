@@ -1,0 +1,274 @@
+===== PDF p103 =====
+ 
+©2008 Tuck Consulting Club. All rights reserved. 
+                      98 
+ 
+ 
+ 
+ 
+ 
+ 
+Tuck Consulting Club  
+Cement It 
+Case Description:  Assessment of whether a cement company should acquire a rival 
+Inventory: [no exhibits]  
+Industry:  Construction & Basic Materials 
+ 
+ 
+ 
+ 
+Profitability 
+3 C’s 
+Value Chain 
+Microecon. Analysis 
+Market Entry 
+4 P’s 
+Supply Chain 
+Internal / External 
+Competitive Threat 
+Porter’s 5 Forces        Market Sizing 
+Other 
+ 
+ 
+Introduction  
+ 
+Your client, Acme Cement, is a cement producer in rural New Hampshire. They have one facility where 
+they produce and deliver pre-mixed cement to a range of customers (e.g. building firms) in special 
+trucks designed to stop the cement setting in transit. You have been brought in by the CEO to answer a 
+key question for the company – should he acquire the neighboring cement producer, which he believes 
+is about to come available, and with whom they have been competing for the last several years. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p104 =====
+ 
+©2008 Tuck Consulting Club. All rights reserved. 
+                      99 
+ 
+ 
+Cement It (continued)  
+ 
+                                                                                         Case Details 
+ 
+ Part A: What should the CEO be thinking about? 
+Info to be given as case progresses: 
+    Cement trucks typically only travels within a 2 hour radius before it becomes very costly  
+ 
+Info to be given if asked: 
+ There is one competitor (Cementco) in the area 
+ Acme and Cementco each have 50% market share 
+ The market for cement and related products is stable but saturated  
+ Customers are very price sensitive – cement is a commodity product 
+ Acme and Cementco charge the same price 
+ Cementco has always responded to Acme’s price cuts 
+ A large majority of customers (of both Acme and Cementco) are happy with the service they are 
+getting 
+ 
+(Try to discourage the interviewee from going into great depth on any particular aspect of the 
+acquisition, discourage the inevitable discussion of synergy and, if necessary push them towards 
+discussing the revenue side of the decision whether or not to acquire Cementco) 
+Part B:  How much should Cementco be prepared to pay? 
+The client has just received a phone call from the owner of Cementco saying that he’s decided to 
+retire and is planning to sell the business. He has offered your client first refusal on the purchase of the 
+company, otherwise it will be sold on the open market. What is the maximum price your client should 
+pay? 
+Info to be given as case progresses: 
+ The current expected future cashflows for the company are $2 million per year for only 10 years 
+ If consolidation occurs, cashflows probably would increase due to pricing power  
+ Current  price Acme charges is $70 per ton 
+ Profit margin for Acme and Cementco is approx. $3 per ton 
+ Annual production for Acme and Cementco is approx. 700,000 tons each  
+ It is estimated that any synergies / economies of scale would be negligible 
+ Cost of capital is 10% 
+ 
+ 
+ 
+
+
+===== PDF p105 =====
+ 
+©2008 Tuck Consulting Club. All rights reserved. 
+                      100 
+Cement It (continued)  
+ 
+                                                                                          
+Case Details 
+ 
+Part C: Revaluation 
+(Continue with Part C if the interviewee recommends a maximum price around $10 – 15 million) 
+The client calls the owner of Cementco and offers $12 million for the company. However the 
+competitor says that he would not sell the company to your client for less than $24 million. Why is the 
+price so high and should Acme buy Cementco at this price? 
+Additional info to be given as case progresses: 
+ None 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cement It (continued)  
+
+
+===== PDF p106 =====
+ 
+©2008 Tuck Consulting Club. All rights reserved. 
+                      101 
+ 
+                                                                                          
+                                                            Recommended Solution 
+ 
+Part A Details 
+ Interviewee will typically explore issues on the cost side, looking for synergies, for example IT, Sales, 
+Marketing, Facilities, Trucking fleet, Support staff etc.  The interviewer should explain why none of 
+these gives much return.  (Interviewer will be assessing commercial understanding) 
+ Interviewee may advise not to buy, based on the lack of synergy, and may advise alternative revenue 
+growth options, including: 
+o Expanding into new markets - why do we assume they are attractive? 
+o Expanding product line-up – but what do we know about adjacent products? 
+o Compete on service – realistic? 
+o Changing pricing to drive volume – what happens then? 
+ Interviewee should recognize that acquisition of the competitor is a good  option – especially given the 
+competitive uncertainty associated with the downside risk of an alternative buyer 
+ The interviewee may or may not recognize the potential monopoly play available to Acme.  
+ 
+Parts B Details 
+ Part B assumes the interviewee to have failed to recognize the monopoly play, but continues to test for 
+comfort with numbers.  If the candidate has recognized the monopoly potential, their analysis will 
+most likely combine elements of Parts B & C. 
+ Interviewee should set up a DCF and estimate an NPV of $10 - $15MM. (If interviewee realizes that 
+prices can be increased the NPV will be a lot higher) 
+ 
+ 
+ Recognize that acquiring the competitor may result in economies of scale (reduced workforce, sharing 
+of assets)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year
+1
+2
+3
+…
+9
+10
+Cashflows ($MM)
+2
+2
+2
+…
+2
+2
+PV Cashflows ($MM)
+2 x  (1.1)1 2 x  (1.1)2 2 x  (1.1)3
+…
+2 x (1.1)9 2 x  (1.1)10
+NPV
+~$12 MM
+
+
+===== PDF p107 =====
+ 
+©2008 Tuck Consulting Club. All rights reserved. 
+                      102 
+Cement It (continued)  
+ 
+                                                                                          
+                                                            Recommended Solution 
+ 
+Parts C Details 
+ 
+Interviewee should recognize that if Acme buys Cementco it will become a monopoly and prices can be 
+increased 
+ 
+Interviewee should estimate the effect of a reasonable price increase (e.g. $2 per ton / 3%), similar to the 
+analysis shown below and thus be able to determine that a small price rise could result in the value of the 
+acquisition increasing to $24MM 
+ 
+ 
+ 
+ Discuss the potential issues surrounding the purchase and analysis: 
+ Potential regulatory blocking 
+ Higher prices and margins will encourage new entrants into the market, thus depressing 
+prices again 
+ 
+Overall Recommendations 
+A good answer includes: 
+ Real world thinking in terms of possible operations of a NH cement company (e.g. no large back-office) 
+ Clear understanding of both the cost and revenue options and a quick understanding of opportunities 
+associated with decreased competition / monopoly 
+ 
+A better answer includes: 
+ Quickly sees the commercial opportunities and undertakes DCF and pricing analysis on that basis 
+ Sticks to the advice to buy, even if paying up, to avoid encouraging an alternative player into the market 
+ 
+A superior answer includes: 
+ All of the above, but also pushes the interviewer on Trucking fleet rationalization or some other synergy, 
+which, although small also drives profitability 
+ Thinks un-prompted of ways to structure the payment to the owners of the other firm so as to share the 
+risks associated with price rises and lowers the overall cost of borrowing.   
+ 
+Acme
+Cementco
+Current Price
+$70
+$70
+Current Margin
+$3
+$3
+Δ Price and Margin
+$2
+$2
+Percentage Δ Price
+3%
+3%
+Tons / Year
+700,000
+700,000
+Δ Profit / Year
+$1,400,000
+$1,400,000
+Total Δ Profit / Year
+$2,800,000

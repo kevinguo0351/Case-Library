@@ -1,0 +1,182 @@
+===== PDF p226 =====
+Case #21: A mobile telecom 
+company in UK
+Industry: Telecommunications
+Quantitative Level:
+Qualitative Level:
+Quantitative level: Medium
+Qualitative level: Medium
+221
+
+
+===== PDF p227 =====
+Behavioral Questions
+223
+• Why are you pursuing your career at Bain? (Potential answers below)
+– Had a clear understanding of what it would be like to work with other Bain people through 
+discussions with current employees
+– True North
+– Global one team
+– Work hard play hard culture (match with Fuqua’s culture)
+Question 1:
+• Provide an example about working with diverse team 
+Question 2:
+
+
+===== PDF p228 =====
+UK telecom company in 2006
+224
+• In 2006, a UK mobile telecom company (Company A) tried to build a relationship with
+a fixed line telecom operator (Company B) to provide their customers with 3G
+broadband data service (at that time, 3G was not common). 
+• What types of partnership structures should they consider? List pros and cons as 
+well as other factors that would determine optimal partnership structures.
+• What would you need to know to select the ideal partnership? Considering this
+situation, what kind of partnership do you think would be the best?
+Prompt #1:
+• The goal of this case is to reach the best kind of partnership between company A, 
+considering M&A (company or business), joint venture arrangements (JV) and
+business alliances.
+• Drive the candidate to list the pros and cons of each relationship (1-2 mins)
+• (1) M&A: pros-> more control / cons-> not flexible, need strict due diligence, high 
+cost, some overlap of business and backend function
+(2) JV: pros -> can combine each strength to create “specific” new business / cons-> 
+if the scope of business if there is a lot of room for synergy, JV might not be 
+preferable.
+(3) Business alliance: pros -> flexible and can pay fee only per usage / cons -> 
+difficult to control the partner (special arrangement for customized service etc)
+Interviewer Guidance:
+
+
+===== PDF p229 =====
+UK telecom company in 2006
+225
+Interviewer Guidance:
+• After they list pros and cons of the different types of relationships (examples in the
+last page), probe them to ask specific questions about Company A and B, and ask 
+for background information.
+• Questions that may be asked (examples):
+- Can Company A develop 3G technology using their own R&D? What are the challenges?
+- The attractiveness of company B’s 3G technology. Any patent? Any competitors?
+- Any synergies Company A can expect beyond just implementing their 3G 
+technology after the partnership?
+- The geographical area of the business for Company A and B
+- The demands for 3G mobile broadband data service. Is it growing? New trends? Likely to be 
+sustainable?
+• After the interviewee discusses questions above, you can tell the interviewee that the
+scope of the partnership with Company B is not going to be beyond the usage of their
+3G technology.
+• Since Company A cannot pursue synergies beyond the initial 3G use, a business 
+alliance is preferable. Company A can start with a business alliance by paying the
+usage fee and if additional synergies arise, other options can be considered later.
+
+
+===== PDF p230 =====
+Evaluation Criteria
+226
+Candidate Level
+Assessment
+Average Candidate
+-
+Can speak about general pros and cons of different 
+partnership structures
+-
+Provides some ideas to determine which partnership 
+form may be best
+Good Candidate
+-
+Complete all “average candidate” requirements
+-
+Does not need much assistance from the 
+interviewer
+-
+Aggressively thinks out of the box, considers long 
+term business needs and strategy
+Excellent Candidate
+-
+Completes all “good candidate” requirements
+-
+Provides more ideas from broader perspective to 
+determine which form of partnership is best (i.e. 
+synergy arising from overlapping business and 
+geographical areas is important when considering 
+M&A; legal considerations of JVs, etc.)
+
+
+===== PDF p231 =====
+UK telecom company in 2006
+227
+• It was recently discovered that Company C, the competitor of Company A, is going to 
+begin providing 3G broadband mobile service for free for its existing customers. If 
+Company A starts providing a similar service, the initial cost (CAPEX) will be 
+$1,080M. Company A would like to recover this investment within 3 years.
+• Company A’s monthly cost per customer with the new service will increase by $5, 
+from $15 to $20.  Current monthly fee per customer is $40 and they have 10M 
+customers. 
+• Should Company A start the similar service as Company B’s?
+Prompt #2:
+• This question is basically asking (1) how many additional customers you need to 
+acquire to recover the cost and (2) if it looks realistic
+• If X is additional customers and Company A need to recover the initial cost in three 
+years, you can come up with the following equation
+($40-$15 : current profit per customer/month) *12 (months) * 3(years) * 10M
+= ($40-$20) * 12 months * 3 (years) * (10M+X) - $1,080M   -> X=4M
+• To see if it is realistic to earn 4M (40% more) additional customers by starting 3G 
+service for free, the interviewer will require additional information, including:
+- The current market share of Company A
+- The market growth rate of mobile telecom business
+- The importance of 3G service for customers
+Interviewer Guidance:
+
+
+===== PDF p232 =====
+UK telecom company in 2006
+228
+• Company A has 35% market share and is the 2nd largest player.
+• The largest player’s market share is 40%. 
+• Market growth rate of mobile telecommunication in UK is 2%.
+• Is it realistic to assume Company A can increase their customers to pay back capex
+in 3 years?
+• Interviewer can answer yes or no but must have sufficient evidence; push back on 
+interviewers answering yes to consider what they would need to believe. Most 
+interviewers should arrive at a “no” answer:
+• Support for NO: 
+– Acquiring 40% more customers in 3 years would require about 10% more customers per 
+year, which is far beyond the market growth rate of 2% 
+– Because Company C already started the free 3G service, Company A should rather consider
+another way to differentiate themselves from Company C (maybe combination of 3G service 
+and other data contents service at some cost).
+Interviewer Guidance – additional information to be given
+
+
+===== PDF p233 =====
+Evaluation Criteria
+229
+Candidate Level
+Assessment
+Average Candidate
+-
+Structure the equation to come up with additional
+number of customers Company A needs to acquire 
+with some guidance
+-
+Ask questions to decide if it is feasible to acquire 4M 
+additional customers
+Good Candidate
+-
+Complete all “average candidate” requirements
+-
+Does not need much assistance from the 
+interviewer
+-
+Ask some good questions to decide if it is feasible to 
+acquire 4M additional customers and reasons why
+Excellent Candidate
+-
+Completes all “Good Candidate” requirements
+-
+Support the reasons why Company A should/should 
+not start free 3G service with both quantitative 
+(Comparing the necessary growth rate v.s. market 
+growth rate) and qualitative thoughts (2nd largest
+player, which area they should play and so forth)

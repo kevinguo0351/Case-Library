@@ -1,0 +1,34 @@
+{
+  "case_id": "IESE_2021_18_african-gold-mines-co",
+  "school": "IESE",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\IESE\\IESE_Case Book_2021.pdf",
+  "idx": 18,
+  "case_name": "African Gold Mines Co.",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Mining / Natural Resources",
+  "difficulty": null,
+  "pdf_page_start": 214,
+  "pdf_page_end": 223,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p215.png",
+    "exhibits/exhibit_p216.png",
+    "exhibits/exhibit_p217.png",
+    "exhibits/exhibit_p218.png",
+    "exhibits/exhibit_p219.png",
+    "exhibits/exhibit_p220.png",
+    "exhibits/exhibit_p221.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\IESE\\2021\\18_african-gold-mines-co"
+}

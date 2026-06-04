@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2014_18_digibooks-inc",
+  "school": "Kellogg",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2014.pdf",
+  "idx": 18,
+  "case_name": "DigiBooks Inc.",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Technology / Media",
+  "difficulty": null,
+  "pdf_page_start": 124,
+  "pdf_page_end": 129,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    126,
+    127,
+    128,
+    129
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p126.png",
+    "exhibits/exhibit_p127.png",
+    "exhibits/exhibit_p128.png",
+    "exhibits/exhibit_p129.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2014\\18_digibooks-inc"
+}

@@ -1,0 +1,311 @@
+===== PDF p139 =====
+135
+ We are in the 1990s, and you are a consultant working for a respected Private Equity fund 
+interested in consolidating the on-site coin laundry business in the state of Michigan.
+ The client has pre-negotiated acquiring four thousand locations at a multiple of five times 
+their current annual Net Income.
+ The client wants to know whether or not they should move forward with the deals.
+ Industry: Private Equity
+ Difficulty: Hard
+ Format: Interviewer led
+ Concepts Tested: Market Sizing; 
+Turnaround;  Operational 
+Improvement; Pricing Strategy
+Case 9: Laundry Investment, Ross Original
+Problem Statement
+Type of Case
+Interviewer Guidance
+ This case is focused on Private Equity techniques for 
+value creation through consolidation and turnaround, 
+over the background of the peculiar on-site laundry 
+industry.
+
+
+===== PDF p140 =====
+136
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+Clarifying Information and Case Guidance
+ Financial target: payback in two years.
+ The turnaround should be based on a minimal or 
+zero investment strategy (aside from the initial 
+acquisitions).
+ The client has no previous experience nor other 
+portfolio companies in the coin laundry business 
+or related businesses.
+ Highly fragmented industry: the current largest 
+player manages 3,000 locations and has 3% 
+market share.
+ The 4,000 locations were pre-negotiated with 
+multiple owners and together will represent 4% 
+market share for the client.
+ There are 100,000 locations in the state of 
+Michigan.
+ The facilities are often unattractive, unclean, and 
+unorganized.
+ To start, hand Exhibits 1 and 2 to the candidate 
+and explain the on-site coin laundry business.
+ This case involves the acquisition of multiples 
+companies with the ultimate goal of 
+consolidation. Those companies are referred in 
+the case as “target companies”.
+ The word “location” is used to refer to one 
+laundry unit containing on average ten coin-
+operated laundry machines.
+ In the Exhibits, Supply and Demand are given in 
+a per-location basis, in terms of the number of 
+laundry machines demanded and/or available.
+
+
+===== PDF p141 =====
+137
+Exhibit 1: Target segment: on-site coin laundry business
+Laundry shop / Dry cleaning
+Off-site coin laundry
+On-site coin laundry
+Coin laundry
+Laundry industry
+Laundry stores where customers 
+drop their laundry and pick it up 
+in a later time. Store staff runs 
+the laundry process
+Self-operated laundry machines 
+made available for customers in 
+exchange for coins
+Self-operated off-site 
+laundry stores
+Facility installed in community 
+areas, such as student housing, 
+apartment buildings, hospitals etc.
+On-site coin laundry is the target segment of this deal
+
+
+===== PDF p142 =====
+138
+Exhibit 2: On-site coin laundry business Industry Profile
+The target companies own the laundry machines and negotiate installing them 
+in community areas, such as student housing, apartment buildings etc.
+They get a share of the inflow of cash from the laundry machines and 
+negotiate a revenue split agreement with landlords. Average revenue split 
+agreement is 50%. Concession of space and revenue-split agreements are 
+generally renewed annually.
+The target companies are responsible for all aspects of operations. Major 
+costs include coin collecting staff, equipment and maintenance of laundry 
+machines. The landlords grant free use of the space, in return for their share of 
+revenue and assurance of minimal service level.
+Cash business, no inventories, no working capital. Profit margins are 40% of 
+Net Revenues (Gross Revenues deducted of landlord's share). Virtually no 
+growth expected for the industry.
+Revenue 
+Model
+Operational 
+Model
+Financials
+
+
+===== PDF p143 =====
+139
+ Estimate the Purchase Price.
+Math Question
+Question 1
+ Working hours per day: 19
+ Average utilization: 60%
+ Cycle time: 60 minutes
+ Price per cycle: $1.5
+ Machines per facility: 10
+ Working days per year: 350
+ # of facilities: 4,000
+ Revenue split agreement: 50%
+ Profit margin: 40%
+Math Solution
+
+
+===== PDF p144 =====
+140
+ Hand candidate Exhibit 3.
+ What are the main issues?
+ How can the client increase revenues?
+Brainstorming Question
+Question 2
+ Peaks of demand in some periods of the day and idle periods during others are leading to unattended 
+demand and low utilization (60%).
+ Crests occur right before and right after general working hours.
+ Candidate should realize that since there is no control over demand, and supply is fixed (low investment 
+strategy) changing the pricing strategy is the only way to increase revenues.
+Brainstorming Solution
+
+
+===== PDF p145 =====
+141
+Exhibit 3: Demand, Supply, Utilization, and Price
+Demand, Supply, and Utilization [machines in use/demand per hour] vs. Price [$/cycle]
+
+
+===== PDF p146 =====
+142
+ Propose a new pricing strategy.
+ What are the expected impacts of the proposed pricing strategy?
+Brainstorming Question
+Question 3
+ New pricing strategy should include a variable pricing model, with higher prices during peaks of 
+demand, and lower prices during the troughs.
+ Expected impact:
+ Higher price will negatively impact customer experience.
+ The demand should very inelastic (within a reasonable range people will still use the on-site 
+machines; other alternatives are much more expensive).
+ People generally care more about the convenience of the on-site machine than about price.
+Brainstorming Solution
+
+
+===== PDF p147 =====
+143
+Exhibit 4: Demand, Supply, Utilization, and Price - New Pricing Model
+Demand, Supply, and Utilization [machines in use/demand per hour] vs. Price [$/cycle]
+
+
+===== PDF p148 =====
+144
+ Hand Exhibit 4 to candidate.
+ What is the new pricing model's expected impact on revenue?
+ After the candidate successfully identifies Higher Capacity Utilization and Higher Average Price as 
+the main impact from the new Pricing Model, provide the estimates below.
+Math Question
+Question 4
+Math Solution
+Main conclusions from Exhibit 4
+
+Higher capacity utilization
+–
+Provide impact: +25%
+
+Higher average price
+–
+Provide impact: +20%
+Impact on revenue
+Average utilization → 25% increase
+Price per cycle → 20% increase
+Total impact = (1+20%)*(1+25%) - 1 = 50% increase
+Initial Gross Revenue = $240M
+New Gross Revenue = $240M * 1.5 = $360M
+
+
+===== PDF p149 =====
+145
+ Analyze Exhibit 5.
+Brainstorming Question
+Question 5
+ Candidate should realize that the target companies have the worst negotiation results in the industry; 
+matching Competitor A's rates would increase Net Revenues with minimum risk of loss of market share.
+ Candidate should first choose a conservative approach to the analysis and confirm that the deal would 
+be attractive under the safest renegotiation strategy possible (60%).
+Brainstorming Solution
+
+
+===== PDF p150 =====
+146
+Exhibit 5: Revenue Split Agreement Benchmark
+
+
+===== PDF p151 =====
+147
+ How else could you increase revenues?
+Brainstorming Question
+Question 6 (optional)
+Brainstorming Solution
+At the end of discussion, provide 
+candidate with estimates:
+ Annual revenue: $60M
+ Profit margin: 50%
+Potential low-investment new revenue streams:
+ Vending machines (partnership)
+─
+Snacks; Beverages
+ Laundry supplies dispensers (partnership)
+─
+Detergent; Softener
+ Entertainment (partnerships)
+─
+Arcades; Pinball machines; Newspaper 
+dispensers
+
+
+===== PDF p152 =====
+148
+ Should the client move forward with the deal?
+Math Question
+Question 7
+ Gross Revenue: $360M
+ Revenue split agreement: 60%
+ Total cost: unchanged: $72M
+ Other streams of revenue
+ Revenue: $60M
+ Profit margin: 50%
+ Payback meets the financial target
+ Notice that the initiatives selected do not 
+impact costs, thus the total annual cost 
+should be unchanged ($72M), but the 
+profit margin should be higher.
+Math Solution
+
+
+===== PDF p153 =====
+149
+¾ The client should move forward with the deal.
+ Potential payback in less than three years.
+ Major opportunities for increase in profits.
+ Turnaround plan is not CAPEX intensive.
+¾ Risks
+ Revenue split renegotiations can take up to one year to 
+be completed depending on each contract due date.
+ Landlords may try to claim a share of the new streams of 
+revenue.
+Recommendation
+Conclusion
+¾
+Candidate should note that here is further potential for:
+ Further improve revenue split agreements (industry average = 70%)
+ Cost savings due to economies of scale.
+Excellent Case Answers
+¾
+Propose to analyze the due dates of 
+the current contracts and lay down a 
+timetable for the client.
+¾
+Make sure the legal department will 
+analyze the new contracts and protect 
+the new revenues from the split 
+agreements.
+¾
+Find suppliers to install and/or manage 
+the dispensers in the facilities.
+Next Steps
+
+
+===== PDF p154 =====
+150
+Sample Framework
+ Purchase Price 
+─
+(Current Revenue)*(Current Profit Margin)*(Negotiated Multiple)
+ Potential for revenue improvements
+─
+Maximization of capacity utilization
+─
+Price increase
+─
+Renegotiation of revenue split agreements
+─
+New revenue streams
+o
+Vending machines
+o
+Laundry supplies dispensers
+o
+Entertainment
+ Potential for cost optimization
+─
+Economies of scale
+─
+Best practices
+─
+Standardization

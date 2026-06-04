@@ -1,0 +1,163 @@
+===== PDF p18 =====
+CASE 6:  PARTY GOODS (BCG – Round 1) 
+  
+ 
+Our client is a manufacturer of party goods. They have two product portfolios: everyday and 
+seasonal. Everyday products pertain to occasions that happen throughout the year such as 
+birthdays and anniversaries. Seasonal goods are for occasions such as the 4th of July or 
+Thanksgiving. They have a design facility that comes out with different party themes and takes 
+care of licensing for goods using characters like Mickey Mouse or Shrek. They also have a 
+manufacturing and distribution facility and a sales force that provides support to retailers.  
+ 
+One of their large and new customers came to management complaining that their prices are 
+too high. They claimed that this is due to high distribution costs. After some analysis, the client 
+found this to be true. We have been asked to figure out how we can decrease distribution costs. 
+ 
+ 
+Additional Information Provided (spreadsheet): 
+ 
+UPS Zone
+Number of 
+Price per Box
+Boxes Shipped
+Total Cost Per 
+Boxes Shipped
+Total Cost Per 
+Stores
+Per Month
+Month
+Per Month
+Month
+1
+1
+3
+200
+600
+800
+2400
+2
+1
+4
+200
+800
+800
+3200
+3
+1
+5
+200
+1000
+800
+4000
+4
+1
+6
+200
+1200
+800
+4800
+5
+1
+7
+200
+1400
+800
+5600
+Monthly Total
+5000
+20000
+No. of Months
+8
+4
+Annual Total
+40000
+80000
+Supplier Alternatives:
+Truckload - fill empty truck with goods up to 1000 boxes per truck, costs $1500 per truck, makes only one stop
+Less than Truckload - fill part of truck with goods up to 500 boxes per truck, costs $1000 per truck, makes only one stop
+Sample Computation:
+For Everyday Months:
+Use UPS for Zones 1 and 2 where Cost per month less than $1000
+1400
+Use less than truckload for Zones 3, 4, 5
+3000
+Total Monthly Cost
+4400
+Cost Savings per Month
+600
+For Everyday and Seasonal Months:
+Use Truckload for all Zones since truckload cost of $1500 is less than UPS cost per month
+7500
+Cost Savings per Month
+12500
+Total Annual Cost Savings
+54800
+Freight Calculation
+Everyday Months
+Seasonal and Everyday Months
+ 
+ 
+Interviewee’s Solution: 
+ 
+13
+ 
+Interviewee: I first need to understand the distribution process and cost breakdown. Then, I want to 
+benchmark against competitors and find out what they are doing in terms of distribution. Then, 
+based on the info, I want to figure out what the best alternatives are for our client. 
+ 
+Interviewer: That’s a good framework. Let’s start with costs. What do you think are the costs related 
+to distribution? 
+ 
+Interviewee: Labor, Trucks, Sorting machines, OH, freight etc. I went through the entire value chain 
+and identified costs. 
+
+
+===== PDF p19 =====
+ 
+Interviewee’s Solution (cont.): 
+ 
+14
+ 
+ 
+ 
+Interviewer: Here’s a breakdown of freight costs. They use UPS to distribute goods. (Explains table 
+attached) What do you think?  
+ 
+Interviewee: I’d like to get more information about other suppliers, the geographic concentration of 
+our customers and seasonal volume. 
+ 
+Interviewer: Other competitors use a mix of UPS and trucks to distribute goods. (See spreadsheet 
+for more info) How do you think we can save during our everyday months? How about during the 
+seasonal/everyday months? 
+ 
+Interviewee: (computes cost difference and savings) 
+ 
+Interviewer: You’re meeting with the CEO tomorrow. How will you summarize your findings? 
+ 
+Interviewer: There’s great opportunity to save using a combination of UPS and truckload services. 
+From our initial computations we can save as much as $54,800 annually. (see computation) 
+ 
+ 
+Commentary/Recommendations: 
+ 
+This case is relatively straightforward and, if you can do the math, then the case should practically 
+solve itself.  
+ 
+The key to being successful is to ensure that you ask the right questions upfront to obtain all of the 
+necessary information to calculate the cost savings and that you then logically and thoroughly drive 
+through those calculations. 
+ 
+The candidate has done a pretty good job of that here, first asking about the distribution process and 
+about the alternatives used by competitors to elicit information before starting the calculations. 
+ 
+If you are good with numbers then these cases can be a little boring as you are never called on to do 
+anything really creative and you will probably never feel out of your depth. That is not necessarily a 
+bad thing however as there is probably very little risk of you going too far wrong. 
+ 
+If you are not good at math, then this will be a good practice question. It is essential that you get to the 
+point where you are proficient and comfortable in analyzing data and running a series of computations 
+to calculate cost savings or profit improvements. These questions are not uncommon. 
+ 
+  
+ 
+ 

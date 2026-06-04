@@ -1,0 +1,24 @@
+{
+  "case_id": "Anderson_2016_09_alpha-capital",
+  "school": "Anderson",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2016.pdf",
+  "idx": 9,
+  "case_name": "Alpha Capital",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 41,
+  "pdf_page_end": 45,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    44,
+    45
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p044.png",
+    "exhibits/exhibit_p045.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2016\\09_alpha-capital"
+}

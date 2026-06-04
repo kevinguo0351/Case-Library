@@ -1,0 +1,196 @@
+===== PDF p13 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 10 
+ 
+Case 4: Canada Oil Sands 
+Company: Booz Allen Hamilton 
+ 
+The Canada Oil Sands company recently struck Oil Sands in Canada and are planning to build a 
+production and refining facility. The estimated cost of building a facility is $ 5 billion and estimated 
+time for completion is 5 years. The company is concerned about cost and time overrun to complete 
+the project. For your information, 5 other competitors have already started building production and 
+refining facility in the near by areas. You have been hired as a consultant to assess the situation and 
+make them aware of the potential issues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instruction to the interviewer: The objective of this case is  
+- 
+To see if the candidate possesses a good clock speed i.e if the candidate quickly explores 
+several possible reasons for time and cost overruns 
+- 
+To see if the candidate presents creative solutions to specific questions posed by the 
+interviewer and to see if the candidate can quick basic math 
+ 
+The case should start with the candidate hypothesizing the reasons that could lead to cost and time 
+over runs. To guide the candidate you may ask the candidate to list the possible steps in the project 
+ 
+Possible reasons: Cost over-runs 
+- 
+Uncertainty or Changes in the field profile resulting in increased construction costs 
+- 
+Changes in price of commodities like steel and other materials used for construction 
+- 
+Environmental regulations resulting in additional investment 
+- 
+Suppliers operating at full capacities resulting in additional investment. Hence the supplier 
+may ask the client to share some investment. 
+- 
+Skilled labor shortage for construction resulting in very high salaries. This is the biggest 
+problem in this industry and the case will focus on this problem. 
+ 
+Example of an Oil Sands Refinery 
+Shaded regions show an area where client wants to build refinery 
+
+
+===== PDF p14 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 11 
+ 
+Possible reasons: Time over-runs 
+- 
+Design and Field development planning delays 
+- 
+Manufacturing lead time for machinery and equipments 
+- 
+Transportation lead time for plant machinery and equipments 
+- 
+Labor shortage during construction, installation and commissioning 
+- 
+Poor productivity of untrained labor 
+- 
+Government approvals and regulations 
+- 
+Approval from environmental authorities 
+ 
+Interviewer Notes: The case will now focus on the labor issues. Provide the following data to the 
+candidate 
+- 
+The components are fabricated in another country, however joining the components and 
+installation take place on-site 
+- 
+The peak demand for labor will occur in 3 years from now 
+- 
+The period sadly coincides with the peak labor demand for competitors in the same region. 
+Especially we need several welders and we are quite sure that they can’t get welders.  
+Ask the candidate for some ideas to manage the situation. Some possible suggestions could be: 
+- 
+Automation of construction, material movement, fabrication and welding of components 
+- 
+Explore opportunities to get pre-welded components from supplier 
+- 
+Design components in such a way so that the need for welding itself is reduced 
+- 
+Share some facilities like piping, storage etc with competitors thereby eliminating the need 
+for separately building them 
+- 
+Recruit labor from other countries (But cultural issues, immigration issues, opposition form 
+labor unions in Canada, not many want to move to Alberta, Canada as it is very cold) 
+- 
+Recruit labor from US as there seems to be a decline in manufacturing industry and hence the 
+client may be able to obtain skilled welders 
+- 
+Tie-up with technical training institutions and develop students from now onwards with a 
+guaranteed employment after 3 years 
+ 
+Interviewer Notes: It is time to make the candidate do some math. Tasks for the candidate 
+  
+1) To calculate the breakeven number of barrels of crude and years to breakeven assuming no 
+over runs 
+ 
+Provide the following data when asked 
+Data 
+Current - Without Over runs 
+Project Cost ( Fixed Cost in dollars) 
+5 billion 
+Estimated production capacity (Barrels per day) 
+1,00,000 
+Average price per barrel of refined crude (Dollars) 
+38 
+Variable cost of production per barrel of crude (Dollars) 
+10 
+Variable cost of refining per barrel of crude (Dollars) 
+13 
+Break- even quantity (Barrels) 
+To be calculated by candidate 
+No.of years to break even (Assuming 330 days of operation) 
+To be calculated by candidate 
+ 
+
+
+===== PDF p15 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 12 
+ 
+ 
+Answers:  
+Break even quantity = 333.3 million barrels approximately 
+Years to break even = 10 years approximately 
+ 
+2) To calculate the breakeven number of barrels of crude to be produced and years to break 
+even with Cost over-runs 
+ 
+Data 
+New Scenario - With over runs 
+Project Cost ( Fixed Cost in dollars) 
+6000000000 
+Estimated production capacity (Barrels per day) 
+100000 
+Average price per barrel of refined crude (Dollars) 
+38 
+Variable cost of production per barrel of crude (Dollars) 
+10 
+Variable cost of refining per barrel of crude (Dollars) 
+13 
+Break- even quantity (Barrels) 
+To be calculated by candidate 
+No.of years to break even (Assuming 330 days of operation) 
+To be calculated by candidate 
+ 
+Answers: 
+ 
+Break even quantity = 400 million barrels 
+ 
+Years to break even = 12 years approximately 
+ 
+3) Assume there are cost over-runs. If the company wants to break-even within the same time 
+frame we found with no over runs, what should be the price per barrel of crude 
+ 
+ 
+Data 
+New Scenario - With over runs 
+Project Cost ( Fixed Cost in dollars) 
+6000000000 
+Estimated production capacity (Barrels per day) 
+100000 
+Average price per barrel of refined crude (Dollars) 
+To be calculated by candidate 
+Variable cost of production per barrel of crude (Dollars) 
+10 
+Variable cost of refining per barrel of crude (Dollars) 
+13 
+Break- even quantity (Barrels) 
+333333333 
+ 
+ 
+Answer: Price per barrel to break even within 10 years = $ 41 
+ 
+ 
+ 
+Instruction to the interviewer: Ask for a 30 second summary of the candidates findings. 
+ 
+ 
+ 
+ 

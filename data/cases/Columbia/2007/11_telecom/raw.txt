@@ -1,0 +1,135 @@
+===== PDF p45 =====
+ 
+Management Consulting Association Case Book 2007 
+41 
+ 
+Case 11
+ase 11
+ase 11
+ase 11:  Telecom 
+:  Telecom 
+:  Telecom 
+:  Telecom  
+ 
+ 
+BACKGROUND 
+ 
+Firm: Booz Allen Hamilton 
+Round: 2007 Summer, Second 
+Content: Qualitative and quantitative  
+ 
+CASE QUESTION 
+ 
+Our client is a telecommunications infrastructure manufacturer and they have hired us to 
+help determine if they have any excess manufacturing capacity.  If there is any excess 
+capacity, our client would like Booz Allen Hamilton to suggest a course of action to 
+ensure they are profitable and efficient. 
+ 
+The client currently has plants in both Minnesota and Mexico, close to the Texas border.  
+The plants manufacture similar products and the facilities are about the same size.  The 
+company expanded capacity by replicating their first plant (using it as a template for 
+others).   
+ 
+INTERVIEWER BREIFING  
+ 
+Candidate should formulate a logical structure (internal vs. external factors, 
+supply/demand, etc.) and then determine if the client has excess capacity or not.  
+Interviewer does not offer the necessary data and so the interviewee should ask directed 
+questions to extract the following data: 
+• Each plant operates an 8am – 5pm shift 
+• Demand is flat or declining 
+• Client has a relatively high market share of 80% 
+• Customers are phone companies and there are high switching costs 
+• Our client recently acquired a competitor and there are very few players in the 
+market.   
+• The client is not highly concerned about new entrants because the industry growth 
+is flat or declining, this is not an attractive market. 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: I would start by looking into the company’s manufacturing process to 
+determine if they are experiencing low utilization rates compared to the overall capacity 
+of production.   
+ 
+ 
+
+
+===== PDF p46 =====
+ 
+Management Consulting Association Case Book 2007 
+42 
+ 
+ 
+Interviewer: The company operates an 8-5 shift and is running at fairly close to 100% 
+utilization rate.  However, they have considered shifting to multiple shifts in each plant 
+and running a 22-hour workday.  What do you think the overall demand capacity looks 
+like in this particular industry? 
+ 
+Interviewee: I would assume that it is either flat or declining because the US telecom 
+market is relatively saturated, with little new customer growth. 
+ 
+Interviewer: Yes, that’s correct. 
+ 
+Interviewee: Ok, well, I would now like to investigate the overall market and determine 
+where our client sits in the industry.  Do we have any information about their market 
+share? 
+ 
+Interviewer: They have a relatively high market share of 80%. 
+ 
+Interviewee: Who are they supplying the products to?  Consumers, business customers, 
+or phone companies?  
+ 
+Interviewer: They are a telecom infrastructure manufacturer so their direct clients are 
+the phone companies. 
+ 
+Interviewee: Does our client have any reason to believe that the market share could 
+change dramatically?  What are the switching costs in this industry?   
+ 
+Interviewer: There are very high switching costs in the industry.  Also, our client recently 
+acquired a competitor so they are not anticipating any big declines in market share.  
+There are also only a few competitors in the industry with little threat of new entrants due 
+to the flat or declining growth. 
+ 
+Interviewee: Given the overall macro trends in this industry as well as their specific 
+manufacturing set-up, I believe that our client does have excess capacity? 
+ 
+Interviewer: Why? 
+ 
+Interviewee: Well, the industry is declining and there is less demand for these products 
+over time.  Also, opportunities exist to streamline their manufacturing operations with 
+more shifts per plant across less overall plants. 
+ 
+Interviewer: Ok.  What should they do?    
+ 
+Interviewee: They could close some existing plants, or they could generate revenues 
+from manufacturing products for competitors (or for companies with similar products). 
+
+
+===== PDF p47 =====
+ 
+Management Consulting Association Case Book 2007 
+43 
+ 
+Interviewer: Looking at the first option, how would you determine which plants to close? 
+ 
+Interviewee: I would look at the overall cost per unit at each plant and determine which 
+would result in the most efficient overall location.  Costs could be classified into major 
+subsets such as labor, distribution (from Mexico vs. Minnesota).  I would also want to 
+know if quality of product differs across any of the plants.  Finally, it would be valuable 
+to analyze whether our client could change their plant size and configuration to generate 
+further efficiencies. 
+ 
+Interviewer: Good.  Quality is fairly consistent across all of the plants and they are not 
+looking into plant reconfiguration at this point.  Labor costs are the most significant 
+contribution to cost per unit.  Given that, what do you recommend? 
+ 
+Interviewee: I recommend our client closes the Minnesota plants and increases overall 
+utilization of the plants in Mexico by adding shifts.   
+ 
+Interviewer: What are the major risks/concerns of this recommendation? 
+ 
+Interviewee: 
+• Negative PR resulting from closing US plants 
+• Scalability issues (can the Mexican plants quickly increase capacity?) 
+• Quality issues stemming from increased production 
+• Reliance on one location/region for all manufacturing 

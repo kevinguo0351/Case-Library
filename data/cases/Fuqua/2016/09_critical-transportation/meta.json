@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2016_09_critical-transportation",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 9,
+  "case_name": "Critical Transportation",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Transportation",
+  "difficulty": "Difficult",
+  "pdf_page_start": 104,
+  "pdf_page_end": 112,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    108,
+    109
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p108.png",
+    "exhibits/exhibit_p109.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\09_critical-transportation"
+}

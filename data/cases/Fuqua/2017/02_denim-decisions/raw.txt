@@ -1,0 +1,241 @@
+===== PDF p34 =====
+Denim Decisions
+30
+Industry: Apparel/Retail
+Quantitative Level: Medium
+Qualitative Level: Easy
+
+
+===== PDF p35 =====
+Behavioral Questions
+31
+• Why would someone say they did not like working with you?
+Question 1:
+• Tell me about a time where you had to motivate a team during challenging 
+circumstances
+Question 2:
+
+
+===== PDF p36 =====
+Denim Decisions
+32
+• Your client is Parliament Denim, an iconic American jeans company. Over its 70 year history, 
+Parliament has maintained steady financial success and has earned a reputation for reliable 
+jeanswear. One reason for its success is its internal production capabilities, a rarity in the denim 
+industry. However, over the past 15 years, Parliament has experienced issues in operating its 
+plant at capacity, as its Merchants and Designers have increasingly been going to externally 
+sourced vendors for production. Parliament needs your help in reversing this trend to both avoid 
+the excessive costs of plant down-time and to reclaim the competitive advantage that the internal 
+production offers.. 
+Prompt #1:
+• Parliament has operations globally, but we will just focus on the NA supply chain
+• The plant is in Mexico, and products are sold primarily in the US
+• Parliament operates in three channels: Western (meant for cowboys/farmers/rodeo), Mass (basic 
+jeans – think what you find at Walmart or Target) and Modern (trendy)
+• New equipment has been sparingly invested in over the past 10 years
+• Downtime costs $500k/plant/day
+• Things to look for in framework: Facilities, internal capabilities, consumer, market forces
+• Guide candidate towards production capabilities and/or changing consumer preferences as the 
+issue
+– Give Exhibit 1
+Interviewer Guidance:
+
+
+===== PDF p37 =====
+Exhibit #1
+Stretch
+Durable
+Color-
+retaining
+Sustainabl
+e 
+production
+2008
+Stretch
+Durable
+Color-
+retaining
+Sustainabl
+e 
+production
+2016
+Consumer Poll: What Characteristics Do You Look For in Jeans?
+
+
+===== PDF p38 =====
+Interviewer guidance on Exhibits
+• Candidate should realize consumer 
+preferences are shifting to more 
+fashionable products (i.e. stretch).
+• A good candidate will note that the long-
+tenured supply chain may not have 
+adapted to the new capabilities required 
+for such production (such as the ability to 
+cut/sew new fabrics)
+• Guide candidate towards brainstorm of 
+why it might be easier to go to 
+outsourcing for more fashionable 
+production
+– Answers may include: service model of 
+working with an external vendor, more 
+accessible fabrics, newer production 
+technology, faster turnaround, higher quality
+34
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p39 =====
+Denim Decisions
+35
+• Parliament has decided to look at the ability of its production model to meet consumer demands. 
+To produce fashionable jeans, it takes 2 hours of setup time before production can run on each 
+machine. Then, it takes 60 seconds to produce one unit of product. The plant has 50 machines, 
+split between fashionable and basic production 15/35
+• Once candidate is given this information, provide Exhibit 2, where candidate should calculate 
+production capabilities and identify areas of over/under capacity
+Prompt #2:
+• Machines can only be used for their assigned type of production
+• Basic jeans take 30 seconds to produce
+• The plant operates 18 hours/day, 5 days a week
+• If jeans are outsourced, orders will be delivered on time at a $1.50 premium to cost of 
+internal production
+Interviewer Guidance:
+
+
+===== PDF p40 =====
+Exhibit #2
+Channel
+Fashionable  
+Jeans 
+Demanded
+Basic Jeans 
+Demanded
+Western
+15,000
+150,000
+Mass
+65,000
+100,000
+Modern
+80,000
+40,000
+*Figures are per week
+
+
+===== PDF p41 =====
+Interviewer guidance on Exhibits
+• Candidate should recognize that there is excess 
+capacity in the production of basic jeans, and 
+lack of capacity to produce fashionable jeans
+– This is why the plant is underutilized and 
+more products are being outsourced
+• Candidate should calculate excess/lack of 
+capacity in the plant for fashionable/basic 
+products
+• Candidate should brainstorm ways to address 
+this issue misalignment of capabilities vs. 
+demand. May include: additional technological 
+investments, convert basic machines into 
+fashionable ones, sell fashionable machines 
+and commit to completely outsourcing product, 
+invest in human capital initiatives to boost 
+productivity (incentive plans, additional 
+trainings)
+– Focus in on technological investments and 
+move to next prompt
+• Capacity for basic jeans:
+– 16 hours/day x 5 days/week x 2 
+units/hour x 60 mins/hour  x 35 
+machines = 336,000
+• Total demanded/week = 290,000
+• Capacity for fashionable jeans:
+– 16 hours/day x 5 days/week x 1 
+unit/hour x 60 mins/hour x 15 
+machines = 72,000
+• Total demanded/week = 160,000
+37
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p42 =====
+Denim Decisions
+38
+• Parliament is considering investing in new technology and converting some of the basic 
+production machines to fashionable ones. This investment will allow Parliament to meet 95% of its 
+basic jean demand and 85% of its fashionable jean demand. The project will cost $10M and 
+implementation will require 3 days of downtime. 
+Prompt #3:
+•
+Candidate should calculate savings on outsourcing that come with renovated facility
+•
+Reminder for interviewer: $1.50 premium paid per garment on outsourced products, downtime costs $500k/day for 
+the plant
+•
+5% unmet demand for basic of 290k (14.5k) per week x 50 weeks/year x $1.5 premium/garment = $1,087,500
+•
+15% unmet demand for fashionable of 160k (24k) per week x 50 weeks/year x $1.5 premium/garment = $1.8M
+•
+Currently outsourcing 88k garments per week (excess fashionable demand) for total outsourcing costs of (88k x 
+50 weeks/year x $1.5 premium) $6.6M
+–
+Net savings per year on outsourcing is ~$3.7M/year with additional cost of $1.5M downtime in year 1
+–
+Savings are $3.7M/year, with a 12% discount rate and 2% growth rate
+•
+Candidate should calculate NPV: (FCF/r-g) – Initial investment
+–
+($3.7M/.1) - $10M - $1.5M = $25.5M
+•
+Candidate should note that this solves the underutilization issue, too
+Interviewer Guidance:
+
+
+===== PDF p43 =====
+Denim Decisions
+39
+• The CEO of Parliament pops into the room to check in on your project. What is your 
+recommendation?
+Recommendation 
+•
+The candidate should note that investing in renovating the plant would have a positive NPV and thus should be 
+pursued. The project will break even between years 3-4. 
+•
+However, a good candidate will note the risks that come with the project, including: changing consumer trends, 
+implementation taking longer than planned, a downturn in the denim industry, decreasing costs of outsourcing, 
+potential issues with the labor force during implementations, project is profitable when perpetuity is assumed –
+Parliament will likely have to upgrade equipment again in the future
+•
+Next steps could be: liaise with labor leaders on how to handle transition, identify right types of machinery to 
+invest in, appropriately plan for inventory lag that will come with the 3 days of downtime, work with forecasting 
+team to understand how consumer demands may continue to shift
+•
+Candidate can also note the options of selling off fashionable production and focusing internal capabilities solely 
+on basic jeans, selling off internal production capabilities entirely, or keeping the status quo and investing funds 
+elsewhere (i.e. acquire one of the outsourcing operations that currently have the capability to cut more fashionable 
+jeans)
+Interviewer Guidance:
+
+
+===== PDF p44 =====
+Evaluation Criteria
+40
+Candidate Level
+Assessment
+Average Candidate
+Mostly handles the quantitative calculations, with some 
+mistakes. Follows the path towards investing in new 
+production capabilities as the answer. Moderate 
+brainstorming.
+Good Candidate
+Few quantitative mistakes. Follows the path towards 
+investing in new production capabilities, but also 
+addresses other options and is cognizant of potential 
+risks. Strong brainstorming.
+Excellent Candidate
+No quantitative mistakes. Drives case towards 
+investing in production capabilities, but acknowledges 
+that there could be other options. Awareness of risks 
+and thoughtful in ways to mitigate them. Strong, 
+creative brainstorming

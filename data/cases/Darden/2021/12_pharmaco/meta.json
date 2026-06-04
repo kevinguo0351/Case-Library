@@ -1,0 +1,26 @@
+{
+  "case_id": "Darden_2021_12_pharmaco",
+  "school": "Darden",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2021.pdf",
+  "idx": 12,
+  "case_name": "PharmaCo",
+  "case_type": "M&A",
+  "round": "2",
+  "industry": "Pharmaceuticals",
+  "difficulty": null,
+  "pdf_page_start": 143,
+  "pdf_page_end": 150,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    145,
+    147,
+    148
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p145.png",
+    "exhibits/exhibit_p147.png",
+    "exhibits/exhibit_p148.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2021\\12_pharmaco"
+}

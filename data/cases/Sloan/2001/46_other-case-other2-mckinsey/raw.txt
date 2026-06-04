@@ -1,0 +1,95 @@
+===== PDF p110 =====
+ 
+Consulting Case Interview Question 
+ 
+Case No.: OTHER2             
+Firm:     McKinsey, BCG, Booz Allen & Hamilton 
+Type of Case:  
+ 
+X 
+Other  Microeconomics 
+ 
+ 
+Initial Facts offered by interviewer: 
+ 
+There is a tin mining cartel consisting of Country A, B, C, and D.  Every year the four 
+governments get together to decide how much to produce according to demand forecasts, 
+and allocate the production quota evenly among them.  Now, Country A is thinking about 
+withdrawing from the cartel.  
+ 
+The Question(s): 
+Country A comes to you for advice.  What will you tell them? 
+ 
+Suggested Solution 
+ 
+Desired Framework:  [Check all that apply.] 
+ 
+Cost-Revenue and Profitability 
+ 
+ 
+The 4 P’s of Marketing 
+ 
+The 3 C’s 
+ 
+ 
+Value Chain Analysis 
+ 
+Porter’s 5 Forces 
+ 
+X 
+Microeconomic Analysis 
+ 
+Internal-External Factors 
+ 
+ 
+Other____________________ 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+ 
+I need to determine if it is more profitable for country A to mine according to the 
+guidelines of the cartel, or on their own. 
+Q: “What are the relative production costs of each of the countries?” 
+A: Countries A and B have a 10% cost advantage over countries C & D. 
+(Alternatively, you may be asked how you would find out the production costs of each 
+country) 
+ 
+Q: “What volume does each country produce and sell, historically?” 
+A: Last year, Country A and B both produced twice as much as countries C&D (you may get 
+actual numbers, but very often you will get broad generalizations like these.) 
+ 
+Q: “ What is the demand curve facing the producers?” 
+A: A basic downward sloping demand curve (drawn as such on a piece of paper). 
+ 
+I wanted to derive the price implied by the supply and demand curves.  The KEY to this 
+question is to derive the world supply curve.  The basic concept is from ECON 101: supply 
+curve is the sum of MC curve of all producers.  Here we only have four producers.  Based  
+                                                                                                                                                        161 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p111 =====
+ 
+on what I found out from my questions, I know that the supply curve will be a step function and 
+can compare the price with A's marginal cost.  Based on A's cost position on that supply curve, I can 
+decide whether A will be better off producing on their own. 
+ 
+Wrap-up / Recommendations for client:  
+I recommended that country A go it alone, based on their favorable cost position, and the fact that 
+the remaining countries did not have enough volume to “open the flood-gates” in an attempt to 
+punish me for leaving the cartel. 
+ 
+Desired Answer / Blinding Insights / Twists and Turns (if any): 
+My answer was right on, but I did not mention the possibility of non-cartel producers who could fill 
+the world supply. 
+ 
+Additional information that might be useful to your fellow Sloanies: 
+162 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

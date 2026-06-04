@@ -1,0 +1,203 @@
+===== PDF p145 =====
+Case #13: Nick Tupoi –
+Candidate for MBA
+Industry: Advertising/Start-up
+Quantitative Level: Easy
+Qualitative Level: Average
+Quantitative level: Medium 
+Qualitative level: Easy
+140
+
+
+===== PDF p146 =====
+Behavioral Questions
+142
+• Why should we not hire you?
+• Give me an example of a time when you had to network extensively to get a job or a 
+promotion.
+Question 1:
+Question 2:
+
+
+===== PDF p147 =====
+Nick Tupoi – Candidate for MBA
+143
+• It is May 1, 2015. Your client is Nick Tupoi, who recently accepted his offer to join 
+Fuqua’s class of 2017. He is from Eastern Europe and currently owns a startup there. 
+Nick is looking for your advice on what to do with the company once he leaves for 
+Durham .
+Prompt #1:
+The purpose of this case is to let the candidate think from the viewpoint of the client. This case is 
+intended to be open ended and there are multiple possible solutions.
+The following information should be provided upon request:
+• The company’s business is in the outdoor advertising space. The company owns 8 advertising 
+billboards in a major Eastern European city and rents them out.
+• Your client started the company 2 years ago and it has been profitable since then.
+• The company has no full-time employees except for Nick himself. Short-term contractors are hired 
+from time to time.
+• Nick wants to stay and work in the US after his MBA.
+• Your client owns 80% of the company and other 20% is owned by his partner.
+A good framework should cover and assess two main possibilities: running the business from the 
+distance while doing MBA or selling it. If the framework is not addressing these possibilities, ask 
+your interviewee to brainstorm about it. Let the interviewee decide which opportunity he/she wants 
+to assess first and proceed accordingly.
+Interviewer Guidance:
+
+
+===== PDF p148 =====
+Nick Tupoi – Candidate for MBA
+144
+If the interviewee wants to assess the idea of running the company distantly while 
+doing MBA, push the candidate to think about major decision making factors.
+Based on the information already provided, a strong candidate should be able to 
+understand this is not a good option. If needed guide candidate towards this 
+conclusion. Reasons leading to this conclusion could include :
+• Nick is the sole employee and runs the business himself, and has limited time and 
+money to find a replacement. 
+• Distance would imply a challenge in maintaining relationships with customers, and 
+even if Nick tries, managing relationships over the phone is hard.
+• Needs money and financial security to cover his tuition, and has taken a loan to 
+finance his MBA .
+Interviewer Guidance: Running Business Distantly
+• Nick does most of the work at the company. He does everything from generating 
+sales to maintaining the billboards.
+• Nick does not have enough savings to cover the tuition at Duke.
+• His partner has a full-time job and is not interested in running the company.
+Additional Information Provided Upon Request:
+
+
+===== PDF p149 =====
+Nick Tupoi – Candidate for MBA
+145
+• Ask the candidate to brainstorm potential buyers of this business, if not already 
+discussed . Possible answers: his partner, competitors, company’s major clients, etc.
+• Provide this information upon request (let candidate brainstorm what’s needed):
+– All 8 billboards are rented out for the whole year (100% occupancy).
+– The typical contract lasts 6 months.
+– The size and price are the same for all 8 billboards as shown in the Exhibit 1.
+– All the costs are covered by the first month’s revenue from the contracts. Ignore all the other 
+costs including depreciation.
+– Income tax is 20%. 
+– Discount rate – see next guidance.
+Interviewer Guidance: Selling the Business
+• Nick Tupoi agrees that it is a good idea to sell the business. He wants you to suggest 
+an appropriate price for the company that allows him to finish the transaction until he 
+has to move to Durham.
+Prompt #2: Selling the Business
+
+
+===== PDF p150 =====
+Exhibit 1
+146
+Note: price displayed is monthly rent
+
+
+===== PDF p151 =====
+Nick Tupoi – Candidate for MBA
+147
+• There is no correct or incorrect discount rate for this case. Let the candidate 
+qualitatively assess the situation and come up with the rate he wants to use.
+• This question is meant to be ambiguous and is aimed at testing a candidate’s ability 
+to make an independent decision quickly in this ambiguous context .
+• The 8.5% interest rate is unrelated to his business and is meant to anchor the 
+candidate. Question the interviewee why, if he/she wants to use that rate.
+• Some of the factors that should be considered in analyzes:
+– Business is mature and asset-driven, so has been predictably profitable since the beginning 
+and the company has 100% occupancy rate (low risk).
+– Business depends entirely on Nick and is questionable without him (high risk).
+– Nick needs to sell the business fast, so using a higher discount rate makes sense.
+Interviewer Guidance: Discount Rate
+• Nick does not know what discount rate would be appropriate to use. He is a 
+Fuqua student and he can take a student loan at 8.5% interest. He wants 
+you to determine an appropriate discount rate.
+Prompt #3: Discount Rate
+
+
+===== PDF p152 =====
+Nick Tupoi – Candidate for MBA
+148
+• Calculations below assumed 6 month contracts (i.e. costs = 1/6 of revenue). 
+• After candidate get’s the NPV, ask to do qualitative analyses and give deeper insights about 
+the results.
+Interviewer Guidance: Calculations
+NPV Results at Different Disc. Rates
+Discount Rate 
+NPV
+10%
+$  3,200,000.00 
+15%
+$  2,133,333.33 
+20%
+$  1,600,000.00 
+30%
+$  1,066,666.67 
+40%
+$     800,000.00 
+50%
+$     640,000.00 
+Result
+Calculation
+Billboard Size (sq.ft)
+500
+25 x 20
+Renting Price ($)
+$5,500
+500 x $11
+Sales Tax ($)
+$500
+500 x $1
+Revenue per billboard per 
+month
+$5,000
+$5,500 - $500
+Revenue per billboard annual
+$60,000
+$5,000 x 12
+Total Revenue
+$480,000
+$60,000 x 8
+Total Costs
+$80,000
+$480,000 / 6
+EBIT
+$400,000
+Income tax
+$80,000
+$400,000 x 20%
+NI
+$320,000
+NPV (25%)
+$1,280,000
+$320,000 / 0.25
+Nick's Share
+$1,024,000
+$1,280,000 x 80%
+
+
+===== PDF p153 =====
+Nick Tupoi – Candidate for MBA
+149
+• Candidate will understand that company is worth a lot more than funds needed for Nick’s MBA.
+• A strong candidate will understand that selling a company in a short timeframe will result in a 
+lower valuation, and the candidate will suggest some alternative options.
+• In the end ask for 30-second wrap-up.
+Interviewer Guidance – wrapping up the case
+
+
+===== PDF p154 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Average candidate will need assistance to go through 
+the case.
+Good Candidate
+Good candidate will be able to independently solve the 
+case from the MBA student perspective
+Excellent Candidate
+Will not only be able to come to final conclusion 
+independently but also give high level insights. Such a 
+candidate will understand that company is worth a lot 
+and would even question Nick’s decision to do MBA 
+and work for large company.
+150

@@ -1,0 +1,197 @@
+===== PDF p110 =====
+Upscale Restaurant 
+McKinsey Final Round 
+Our Client is a upscale restaurant in 
+TianJin,  serving government officials and 
+high-level  business customers. Its monthly 
+revenue is 1.2  Million Yuan. The CEO 
+recently hired McKinsey to  help them 
+increase profits. 
+As China’s  economy is booming, the upscale 
+dining market is growing at 20% every 
+year. 
+Customers for high-end dining are 
+generally price  insensitive. 
+All competitors are earning money. 
+Competitors’ 
+price and value proposition are similar. 
+Variable costs across industry is 50% of 
+revenue. 
+Assume no fixed costs. 
+On weekdays, there is always a line for 
+individual  rooms. As a result, the 
+restaurant has to turn  away half of its 
+customers due to capacity  constraint. 
+ 
+Problem narrative 
+ 
+Information provided upon request 
+- 89 
+- 
+
+
+===== PDF p111 =====
+Upscale Restaurant 
+Sample framework 
+
+
+===== PDF p112 =====
+Upscale Restaurant 
+McKinsey Final Round 
+Information provided upon request by Candidate 
+Week Day 
+Weekend 
+Lunch 
+Occupancy: 80% 
+Occupancy: 30% 
+Price per person: 
+Price per person: 
+150 
+100 
+Party size per table: 
+Party size per table: 
+4 
+4 
+Dinner 
+Occupancy: 100% 
+Occupancy: 50% 
+Price per person: 
+Price per person: 
+300 
+200 
+Party size per table: 
+Party size per table: 
+6 
+6 
+Individual Room : 20 tables 
+Week Day 
+Weekend 
+Lunch 
+Occupancy: 20% 
+Occupancy: 30% 
+Price per person: 
+Price per person: 
+100 
+100 
+Party size per table: 
+Party size per table: 
+4 
+4 
+Dinner 
+Occupancy: 30% 
+Occupancy: 30% 
+Price per person: 
+Price per person: 
+200 
+200 
+Party size per table: 
+Party size per table: 
+4 
+4 
+Big Room : 20 tables 
+
+
+===== PDF p113 =====
+Upscale Restaurant 
+McKinsey Final Round 
+Government officials and business customers prefer individual rooms to big rooms because of their  
+requirement for privacy.  Currently our client is not meeting customer demand. 
+ 
+Reason for low profits 
+ 
+ 
+ 
+ 
+ 
+What are potential solutions for this situation? 
+ 
+ 
+ 
+ 
+▪ 
+Raising price. 
+▪ 
+Turning big room tables into individual rooms. 
+ 
+Question 
+ 
+Solution 
+
+
+===== PDF p114 =====
+Upscale Restaurant 
+McKinsey Final Round 
+Through market research, we have determined that  
+if we raise weekday individual room price by 33% ,  
+we will lose 10% of customers. How will it change  
+our profitability? 
+For weekday lunch, changing the price will result in  
+10% customer loss. 
+For weekday dinner, the underlying demand is  
+200% of current capacity, so raising price  
+WON’T reduce volume. 
+Daily Incremental Profit: 1K + 6K = 7K 
+ 
+Question 
+ 
+Solution 
+Previous 
+Now 
+Customer 
+4 x 20 x 80% = 64 
+64 x (1 - 10%) = 58 
+Price 
+150 
+150 x (1 + 33%) = 200 
+Revenue 
+64 x 150 = 9600 
+58 x 200 = 11600 
+Proﬁt 
+9600 x 50% = 4800 
+11600 x 50% = 5800 
+Incremental Proﬁt 
+5800 - 4800 = 1000 
+Previous 
+Now 
+Customer 
+6 x 20 = 120 
+120 
+Price 
+300 
+300 x (1 + 33%) = 400 
+Revenue 
+120x 300 = 36K 
+120 x 400 = 48K 
+Proﬁt 
+36Kx 50% = 18K 
+48K x 50% = 24K 
+Incremental Proﬁt 
+24K – 18K = 6K 
+
+
+===== PDF p115 =====
+Upscale Restaurant 
+McKinsey Final Round 
+A second solution is converting half of big room  
+tables into 5 individual rooms. It will take 2 weeks  
+for the restaurant to finish the decoration, during  
+which time the restaurant has to be completely shut  
+down.  The decoration will cost 100K Yuan.  What  
+is the total cost of this project? 
+Cost 
+▪Capital investment: 100K 
+▪Opportunity Cost: ~300K** (2 weeks of profits) 
+ 
+ 
+*** Note: The observant candidate will quickly  
+calculate this from the initial revenue info given at  
+beginning of case rather than making heavy  
+calculations involved with calculating it from the  
+table of data. 
+ 
+ 
+Total cost = 400K Yuan 
+ 
+Question 
+ 
+Solution 

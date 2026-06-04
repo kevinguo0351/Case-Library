@@ -1,0 +1,26 @@
+{
+  "case_id": "Stern_2020_14_adventure-capital",
+  "school": "Stern",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2020.pdf",
+  "idx": 14,
+  "case_name": "Adventure Capital",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Private Equity/Outdoor Recreation",
+  "difficulty": null,
+  "pdf_page_start": 176,
+  "pdf_page_end": 183,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    179,
+    180,
+    183
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png",
+    "exhibits/exhibit_p183.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2020\\14_adventure-capital"
+}

@@ -1,0 +1,474 @@
+===== PDF p204 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+By Emily Hinton (IESE MBA 2021)
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+200
+
+
+===== PDF p205 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+PROMPT
+Our client is a major milk producer in New
+Cowland,
+Milking
+it
+Co.,
+MIC.
+New
+Cowland has recently introduced a law
+that means MIC has to reduce its GHG
+emissions by 45% of 2019 levels within
+the next five years or face being shut
+down or heavily fined. They currently
+produce 20% of New Cowland’s GHG
+emissions.
+The CSO has hired us to figure out a way
+to reach this target.
+CLARIFYING POINTS (if asked)
+• MIC produces approximately 100% of New Cowland’s milk supply
+• MIC does not have plans for expansion, but reducing volumes is not an option
+• They only produce milk and have no plans to diversify
+• Budget for this project is $750m/year for the next five years (for perspective, current revenues are
+$15billion)
+• MIC owns the entire production chain – from farms, production and transport, they sell to a variety of
+clients
+The candidate might ask what the breakdown of where GHG comes from within the business, this is shown in
+Exhibit 1
+• 5% of their market is local, the rest is foreign
+• Only need to reduce GHG directly produced by MIC
+CASE GUIDANCE
+This case is designed to test brainstorming, business decision-making skills and logic. It will help candidates
+wanting to practice market sizing and working on unconventional problems. For calculations ignore the time
+value of money.
+It is a long case designed for advanced candidates; some aspects can be removed for the sake of time – these
+are clearly marked.
+Interviewer guidance has been provided at various stages.
+201
+
+
+===== PDF p206 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+A good framework would touch on:
+• Different ideas to reduce GHG emissions in the different segments of
+the business (farming, processing, transportation, overheads, etc.)
+• Ability to implement changes
+• Financial implications
+• Non-financial implications – PR, risks (e.g., change in government, a
+backlash from farmers)
+The candidate should lead the case towards understanding the current
+breakdown of GHG emissions – if not, the interviewer should gently nudge
+toward this path.
+INTERVIEWER GUIDANCE - STRUCTURE
+GHG EMISSIONS ANALYSIS
+The candidate should be presented with Exhibit 1 if s/he asks about
+the breakdown of GHG in each business segment. Candidate should
+be told that MIC has already taken measures to reduce Overheads
+Emissions and MIC believes that there is no further that can be done
+to reduce these.
+EXHIBIT 1 TAKEAWAYS
+• GHG emissions have been increasing over the last three years with farming
+being the key driver
+• Farming is the largest emitter followed by production
+• From farming, cows are by far the largest emitter producing 63% of 2019’s
+emissions – this would be the key thing to look into first as it can make the
+biggest difference (it is the only value that is over 50% of the emissions by
+itself)
+• Processing is the second biggest emitter so that should be focused on next
+(20% of total emissions)
+The candidate should identify cows as the first logical step to explore in 
+reducing emissions. 
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+202
+
+
+===== PDF p207 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+EXHIBIT 1 - TRENDS OF GHG EMISSIONS OF MIC
+Total GHG emissions (millions of tons)
+2017
+70%
+10%
+2018
+25%
+65%
+5%
+25%
+5%
+25%
+70%
+2019
+Overheads
+Production
+Farming
+19,0
+19,5
+20,0
+Processing
+80%
+20%
+5,0
+Transportation
+Production (2019)
+90%
+10%
+Farming (2019)
+14,0
+Cows
+Other
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+203
+
+
+===== PDF p208 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+There is a new breed of cow that MIC is interested in to replace their 
+current herd. All characteristics are the same as the current herd, but 
+they produce 33% less GHG emissions. 
+As MIC owns farms all over New Cowland, they want us to approximate 
+how many cows they have in total.
+COW EMISSION ANALYSIS
+SUGGESTED CALCULATION
+** if the interview is progressing slowly, skip this estimation and give the number 
+of cows of 5 million, then move straight to part 2 after reading the prompt 
+below**
+This is an estimation problem – the candidate should recognize the need to size the 
+herd using suitable assumptions, provide the estimation data only if the candidate 
+asks.
+Total annual domestic consumption:
+[Milk consumption per person]*[population of NZ]
+= 750 million L/year
+Cows required for domestic consumption:
+[Annual dom. Cons.]/([Daily pro./cow]*[days in a year])
+= 250,000 cows
+Total cows:
+[domestics cows]/[% of market]
+= 5 million cows
+Provide only if requested:
+• Population of New Cowland: 5 million
+• Milk produced per cow: 10L/days
+• Number of days in a year: 300
+• Domestic market: 5% of sales
+• Domestic market share: 100%
+• Average milk consumption per person: 150L/year
+ESTIMATION DATA
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+204
+
+
+===== PDF p209 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+Knowing that there are 5 million cows in the MIC herd and the average life of a dairy cow is 5 years. Calculate the total cost of replacing the herd 
+and the total emissions saved from this replacement.
+• The old breed cost $2000 and the new breed costs $2500 to purchase
+• The old breed emits 2.5 ton/year and the new breed emits 33% less GHG
+COW EMISSION ANALYSIS
+SUGGESTED CALCULATION & TAKEAWAYS
+Candidate can calculate only Year 5 as this is the final number required but must check that the annual budget is not exceeded.
+Candidate should conclude that this is approximately halfway to our goal, spending 67% of our budget. 
+Next should look at reducing emissions from production.
+YEAR 1
+YEAR 2
+YEAR 3
+YEAR 4
+YEAR 5
+Cost
+[1 million cows] 
+*[$500/cow]
+= $500 million
+[1 million cows] 
+*[$500/cow]
+= $500 million
+[1 million cows] 
+*[$500/cow]
+= $500 million
+[1 million cows] 
+*[$500/cow]
+= $500 million
+[1 million cows] 
+*[$500/cow]
+= $500 million
+GHG ton reduction 
+[1 million cows]*
+[0.33*2.5t]
+Or
+[12.6million tons]*
+[33%]/[5/1]
+= 0.825 mil tons
+[2 million cows]*
+[0.33*2.5t]
+Or
+[12.6million tons]*
+[33%]/[5/2]
+= 1.65 mil tons
+[3 million cows]*
+[0.33*2.5t]
+Or
+[12.6million tons]*
+[33%]/[5/3]
+= 2.475 mil tons
+[4 million cows]*
+[0.33*2.5t]
+Or
+[12.6million tons]*
+[33%]/[5/4]
+= 3.3 million tons
+[5 million cows]*
+[0.33*2.5t]
+Or
+[12.6million tons]*
+[33%]/[5/5]
+= 4.125 mil tons
+% GHG reduction
+4.125%
+8.25%
+12.375%
+16.5%
+20.625% (~21%)
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+205
+
+
+===== PDF p210 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+What are some ways that the GHG emissions can be reduced during the production phase?
+PRODUCTION EMSSIONS ANALYSIS
+BRAINSTROMING SAMPLE
+** if the interview is progressing slowly, skip this brainstorming and move straight to part 2 after reading prompt 2 on this page**
+This brainstorm is a chance for the candidate to be creative. No structure is superior but looking at options split between processes and transportation is one way to go. Keep 
+pushing until you are satisfied with the ideas generated.
+PROCESSES
+TRANSPORTATION
+Alternative power sources (all renewable)
+Larger trucks (i.e. less GHG/L transported)
+Carbon capture of emissions
+Electric vehicles
+More energy-efficient processes
+Shorter routes of transportation
+R&D into different ways to process milk
+Regular maintenance to increase efficiency
+Outsource production
+Outsource transportation
+Shutdown inefficient plants
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+206
+
+
+===== PDF p211 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+MIC has been looking into different ways to reduce GHG emissions in both processes and transportation and they have identified these options 
+(show Exhibit 2). 
+PRODUCTION EMSSIONS ANALYSIS
+CALCULATION AND TAKEAWAYS – EXHIBIT 2 
+This exhibit is intentionally challenging to understand, point 
+the candidate towards the footnotes if they are struggling to 
+understand the meaning of each column. 
+Key insights from Exhibit 2:
+• Conversion to renewable energy has the largest emissions
+savings (potential reduction of 14% of GHG) and can be
+completely replaced within the 5-year period
+• Replacing sterilizing units will only reduce emissions by 4%
+total and will take 20 years to carry out
+• The other processes are also not cost-effective and should
+be written off straight away
+• Transportation is a cost-effective method of GHG reduction
+which can be completed within 5 years and will reduce
+emissions by 5% total
+COST PER 
+YEAR
+TOTAL COST
+(5 YEARS)
+GHG REDUCTION 
+PER YEAR
+TOTAL GHG 
+REDUCTION (5 
+YEARS)
+Renewable 
+energy 
+source
+$150 
+million
+[$150m] * 
+[5years] 
+=$750 million
+[25%]*[80%]*[70%]
+*[20%]= 2.8% (0.56 
+mil tons)
+[2.8%] * [5 years]
+= 14% (2.8 mil 
+tons)
+New 
+Sterilizing 
+Process
+$100 
+million
+[$100m] * 
+[5years] 
+=$500 million
+[25%]*[80%]*[20%]
+*[5%]= 0.2% (0.04 
+mil tons)
+[0.2%] * [5 years]
+= 0.8% (0.2 mil 
+tons)
+Transport 
+electrification
+$50 
+million
+[$50m] * 
+[5years] 
+=$250 million
+[25%]*[20%]*[100%
+]*[20%]= 1% (0.2 
+mil tons)
+[2.8%] * [5 years]
+= 5% (1 mil tons)
+The candidate should conclude that conversion to renewable energy and electrifying the transport 
+fleet will be the most efficient costing $200m/year and reducing the GHG emissions by 19% in total 
+by year 5
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+207
+Cowbon Emissions
+
+
+===== PDF p212 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+EXHIBIT 2 - ALTERNATIVES TO REDUCE GHG EMISSIONS OF MIC
+PROPOSED 
+CHANGE TO 
+PRODUCTION
+TOTAL % 
+REDUCTION OF 
+EMISSIONS1
+# OF UNITS2
+MAX. % ANNUAL UNIT 
+REPLACEMENT 3
+ANNUAL TOTAL COST 
+OF MAX REPLACEMENT4
+Process
+Renewable energy 
+source
+70%
+10
+20%
+$150m
+New Sterilizing 
+Process
+20%
+20
+5%
+$100m
+New Packaging 
+process + material
+2%
+50
+20%
+$50m
+Other
+0.1%
+500
+10%
+$1m
+Transport
+Electrification of 
+fleet
+100%
+500
+20%
+$50m
+1 % of reduction in GHG emissions that the process or transportation will emit, based on the current emissions shown in Exhibit 1, once 100% of the units have been replaced
+2 number of units MIC currently owns that can be replaced in a 1:1 ratio with the new alternatives
+3 % of units that can be replaced annually (due to end of life requirements) e.g. a total of 2 units can be replaced per year for ‘renewable energy source’
+4 How much it will cost MIC annually to replace the maximum allowable units e.g. will cost MIC $150m to replace 2 units of ‘renewable energy source’ per year
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+208
+
+
+===== PDF p213 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Cowbon Emissions
+Great, the CSO is about to join us, can you please provide her with a brief summary of what we have discussed today?
+RECOMMENDATION
+SAMPLE RECOMMENDATION
+The candidate should summarize that:
+• We should replace the herd with the new breed to reduce emissions by 21% in year 5, costing $2.5 billion
+• We should convert to renewable energy and replace our transport fleet reducing our emissions by 19% in year 5, costing $1 billion
+• These actions will get us 90% towards our target of 45% reduction 
+• We have $50m/year of our budget left to figure out the last 10% which could include.... (any ideas that you have discussed e.g., carbon credits, hiring a lawyer to reduce 
+potential fines, other emission reductions)
+A great candidate would also briefly discuss any risks or next steps:
+• Adaption to new technology
+• Chance new breed has challenges
+• Views from employees and farmers about changes
+• Chance of lobbying government so the law is reversed
+• Next steps: contact breeders to make sure they have enough cows, look for other reduction methods, etc.
+Agriculture
+Sustainability
+Operations
+Easy
+Medium
+Hard
+209

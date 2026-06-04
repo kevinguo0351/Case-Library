@@ -1,0 +1,118 @@
+===== PDF p200 =====
+Case #18: ValueCenter Human 
+Capital
+Industry: Retail
+Quantitative Level: Low
+Qualitative Level: High
+Quantitative level: Not applicable
+Qualitative level: Medium
+195
+
+
+===== PDF p201 =====
+ValueCenter Human Capital
+197
+• Your client, ValueCenter, is the nation’s largest, global retailer. The company is 
+implementing a new supplier management system in order to increase the 
+transparency into the purchasing decisions and ultimately decrease costs. This new 
+system will replace thousands of homegrown systems currently used within the 
+company. Currently, orders placed from suppliers are manually keyed into 
+ValueCenter’s ERP system at local offices by employees. With the new system, the 
+goal is to have a centralized platform where ValueCenter employees can input new 
+supplier information and place orders. Additionally, the new system will allow 
+suppliers to log into the system to update information like address and billing 
+changes, something ValueCenter employees had to do in the past. Because of the 
+size and international scope of ValueCenter, the implementation of the system will be 
+rolled out in phases.
+• The leadership at ValueCenter is worried at how this change will affect its employees 
+and productivity so has hired you to advise the company through this change. How 
+would you assist the client as it does through this large scale change?
+Prompt:
+
+
+===== PDF p202 =====
+Interviewer Guidance
+198
+•
+Guiding Questions:
+– Who are the stakeholders involved?
+– What are the anticipated challenges you foresee?
+– What phases would you propose to roll out the implementation?
+• Additional Information:
+– The last large scale tech implementation resulted in a huge loss in productivity because of a 
+lack of training. Because of this, training is a priority for leadership.
+– Leadership wants to roll out the implementation in mid-size markets first. Proposed markets 
+are Mexico, Hong Kong, Brazil and Canada.
+– Management needs the training schedule to be flexible and time sensitive. Hours spent in 
+training are hours spent away from productive work.
+– The culture of ValueCenter is high efficiency at the lowest possible cost. 
+Interviewer Guidance:
+
+
+===== PDF p203 =====
+Answer
+199
+•
+Structure: Assess, Design, Deliver (with accompanying workstreams)
+•
+Assess
+–
+Stakeholder Analysis: Conduct a stakeholder analysis to identify key stakeholders (those employees who will be impacted by the 
+change and to what extent) at each of the locations that the new system will be rolled out.
+–
+Change Impact Assessment: Conduct a change impact analysis (i.e a forum for those impacted stakeholders) to identify concerns 
+about the new system and document all procedural changes that will need to be addressed via training and communications)
+•
+Design:
+–
+Training: Design training materials to prepare employees for the new system. These training materials should vary in the type of 
+delivery to ensure they are adaptable to all learning styles. For example, there should be instructor led trainings, computer based 
+trainings and quick reference guides for FAQs. 
+–
+Communications: Design a communications plan documenting all communications that will be delivered to stakeholders. This plan 
+should outline what group of stakeholders should receive what message, the frequency of the communications, the vehicle of 
+communication and the due date. 
+–
+Change Management: For such a large-scale change, it would be advantageous to create a Change Agent Network made up of 
+“change agents” who will champion the new technology and be subject matter experts on the new system amongst colleagues. The 
+Change Agent Network would meet several times before the Go-Live date to receive additional training on the system and get the 
+opportunity to answer any questions or address any concerns arising from colleagues. 
+•
+Deliver:
+–
+Training: Roll out training in a time sensitive way, ensuring that employees can receive the training that they need without 
+sacrificing too much time away from their day-to-day work. Offer the training as close to the Go-Live date as possible. 
+–
+Communications: Execute on the first communications that are meant to build awareness. As the Go-Live date approached, the 
+emails will be more tactical with system updates and how to prepare for G-Live.
+–
+Change Management: Facilitate Change Network Meetings to inform the change agents of upcoming events. Inform all employees 
+that the change agents will be the go-to people for questions regarding the change and new system so that management can carry 
+on with day-to-day activities. 
+Human Capital Strategy:
+
+
+===== PDF p204 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+The candidate does not use a framework but does 
+identify some workstreams like training, 
+communications and change management. 
+Good Candidate
+The candidate uses a framework like Assess, Design, 
+Deliver and identifies some of the workstreams like 
+training, communications and change management. 
+The candidate provides some detail on how to execute 
+each workstream.
+Excellent Candidate
+The candidate uses a framework like Assess, Design, 
+Deliver and identifies the training, communications and 
+change management workstreams. Additionally, the 
+candidate details how to execute each workstream in 
+the given phase and references a timeline for 
+completion. The candidate tailors their answers to the 
+prompt, highlights training as a main priority and 
+identifies challenges they foresee.
+200

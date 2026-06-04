@@ -1,0 +1,201 @@
+===== PDF p88 =====
+ 
+84 
+C O N S U L T I N G  C A S E  I N T E R VI E W  
+Capital Investment for Utility 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p89 =====
+ 
+85 
+ 
+Question 
+A major East Coast, vertically integrated and regulated electric utility has received a permit to build 
+its first nuclear power plant. It wants to know if this will be a good investment and possible risks 
+associated with this venture.  
+Note 
+This case is similar to a case that a student may receive in a first round interview with Booz or BCG. 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. Can you describe the structure of the 
+company? What does “vertically 
+integrated” and “regulated” mean? 
+A vertically integrated utility owns the 
+entire value chain – generation, 
+transmission and distribution. It is 
+somewhat of a monopoly and is overseen 
+by state regulators. 
+2. What is the competition like? 
+There is virtually no competition because it 
+is a regulated industry. 
+3. What is the size of the plant? 
+The new plant is expected to supply about 
+8,760 GWh (Gigawatt hours) per year and 
+it is expected to be utilized for 30 years. 
+4. What is the current demand? 
+The current annual demand in the utility’s 
+service area is 17,000 GWh. For this case 
+assume this demand will remain constant 
+in the near future.  
+5. What is the expected revenue on a 
+variable basis? 
+$80/MWh (1000 MWh = 1 GWh) 
+6. What is the expected variable cost? 
+$10/MWh 
+7. Is there any public opposition? 
+No 
+
+
+===== PDF p90 =====
+ 
+86 
+8. Why is the utility building this new 
+plant?  
+Great question. Currently the company has 
+about 9,000 GWh of supply that comes 
+from old, dirty and inefficient coal fired 
+power plants. It plans to retire them in the 
+near future. 
+9. Who will build the plant? 
+The utility plans to outsource the building 
+of the nuclear plant and the price quote is 
+about $7 Billion. 
+10. What is the market cap of our client? 
+Top question. The market cap of this 
+company is $6 Billion. The candidate 
+should note that the fixed cost of the plant 
+is more than the entire company is worth. 
+Plan 
+This is a cost-benefit analysis case along with elements of assessing risk associated with developing a 
+new technology.  
+23. Understanding the company structure and industry: 
+a. This is a regulated industry and hence no competition exists. 
+b. The main barriers to any project are the cost, subsequent benefits and most 
+importantly the ability to assess the need for this project. 
+c. Internal barriers can be significant especially with regard to operating this new plant. 
+24. Market information 
+a. The candidate should quickly be able to calculate the contribution margin generated 
+from this venture. 
+b. Calculating the estimated value of the fixed cost will give the candidate enough 
+information to figure out the breakeven period. 
+25. Risks 
+a. There are significant risks associated with this project including financial and 
+organizational. Utilization of the new plant is not an issue because it will be used to 
+capacity.  
+b. There is a construction cost overrun risk as well. 
+c. There is also the risk of possible regulatory changes. 
+The case has 3 main phases 
+ 
+ 
+
+
+===== PDF p91 =====
+ 
+87 
+Phase 1  
+Understand the cost of this new venture. When asked by the candidate, provide the following 
+information: 
+The cost of the plant is estimated to be about $7 Billion. However the company‟s management 
+believes that there are cost overrun risks involved. They are as follows: 
+ 
+Construction Type 
+Quoted cost 
+Risk of cost overrun 
+Cost of 
+overrun 
+Technology and engineering 
+$4 Billion 
+50% 
+800 M 
+Structure 
+$2 Billion 
+50% 
+600 M 
+Other overhead 
+$1 Billion 
+20% 
+250 M 
+Total 
+$7 Billion 
+ 
+What is the expected value of the cost of the plant? 
+(This is a good test of the candidate‟s arithmetic skills) 
+ 
+Expected value of the fixed cost: 
+$7 Billion + (50%*800M)+(50%*600M)+(20%*250M) = $7B +$400M+$300M+$50M 
+= $7.75 Billion 
+  
+Phase 2 
+Evaluate the revenue streams and contribution margin. 
+The capacity of the plant will be 8,760 GWh per year.  
+The price for each MWh (not GWh) is fixed at $80/MWh. The variable cost is $10/MWh.  
+Contribution = $80-$10 = $70/MWh which translates to $70,000/GWh  
+Annual contribution = 8,760 GWh *$70,000/GWh = $613.2 M 
+ 
+The breakeven point of the investment is $7.75B/$0.6132B = 12.6 years ~ 13 years 
+ 
+ 
+ 
+ 
+
+
+===== PDF p92 =====
+ 
+88 
+Phase 3 
+Qualitatively evaluate the financial and organizational risks 
+There are some critical financial risks associated with this investment. The market cap of the firm is 
+$6Billion and this investment alone is estimated to be $7.75Billion. The breakeven period for the 
+plant is almost 13 years which is much longer than the industry average breakeven period of 6-7 
+years. If the firm goes ahead with this investment it will need to rely heavily on debt financing or 
+more expensive equity. This will likely prevent other capital investments in the near future.  
+Nuclear technology is complicated and one major risk is the shortage of personnel with the 
+necessary skills to run the plant. The company will have to spend a considerable amount of time and 
+money on training and hiring new personnel. Safety and reliability are issues to consider as well.  
+The candidate should address most of these issues in evaluating the qualitative risks. If they 
+don’t, keep giving them clues and push them to consider the above risks. 
+ 
+Recommendation 
+The recommendation should include the following: 
+25. The answer – At this point it does not make sense for the firm to go ahead with this project.  
+26. The number(s) – The expected cost of building the plant is $7.75B and the breakeven period 
+is 13 years.  
+27. Risks or considerations – The firm should look closely at the financial and organizational 
+risks involved with this project. 
+28. Next steps – The client should look carefully at its options and see if they can go with a less 
+expensive technology to replace their old plants 
+Strong Recommendation 
+The client should not go ahead with this project. The expected value of the project 
+is $7.75B and the breakeven period is approximately 13 years, which means that a 
+significant amount of capital will be tied to this investment for a very long time. 
+With a market cap of $6B which is less than the cost of this plant, the financial risk 
+is quite high especially with the large amount of capital needed to be raised. Finally, 
+the organization will need to adjust to the high demand on human resources with 
+regard to running such a complex technology as well as safety and reliability concerns. The client 
+should evaluate other generation technologies which are less expensive with a shorter pay-off 
+period.  
+ 
+Weak Recommendation 
+The company should not go ahead with this investment because it will be very 
+expensive and will take a long time to recuperate the costs. Also the organization 
+will have a tough time running this new plant because of the complex technology. 
+ 
+&
+'

@@ -1,0 +1,26 @@
+{
+  "case_id": "Sloan_2008_32_big-pharma-vs-biotech",
+  "school": "Sloan",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2008.pdf",
+  "idx": 32,
+  "case_name": "Big Pharma vs. Biotech",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Pharmaceuticals/Biotech",
+  "difficulty": null,
+  "pdf_page_start": 157,
+  "pdf_page_end": 165,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    159,
+    160,
+    163
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p163.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2008\\32_big-pharma-vs-biotech"
+}

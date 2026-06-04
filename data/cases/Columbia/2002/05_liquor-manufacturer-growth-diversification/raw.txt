@@ -1,0 +1,117 @@
+===== PDF p52 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+48 
+Please do not duplicate, copy, print or photocopy 
+ 
+A liquor manufacturer that is 100 years old.  Started with whisky.  Now whisky accounts for less 
+than 5% of sales.  Multibillion dollar company.   
+ 
+Overall sales of whisky up 1% per year over last 20 years.  Client’s sales have tracked that.  Last 
+year, however, overall sales up 2%, while client’s whisky sales down 15%. 
+ 
+Why?  What should they do? 
+ 
+Did company do anything differently last year than it did in the previous 20 years? 
+ 
+!"Price has not changed.  But, 5 guys, master blenders, implemented a new formula that 
+reduces cost per bottle $0.25.  There were no changes to packaging and no testing of 
+new formula, but they assured management that there was no noticeable impact on taste. 
+However, 20% of one customer segment, the “loyals,” that constitutes 5% of all 
+customers but 45% of sales, have noticed the change and are “extremely angry.” 
+ 
+.20 * .45 = .09    
+ 
+So, if angry loyals have stopped purchasing our whisky, sales will have decreased by 9% (since 
+price has remained constant).  But, before we can say that this was a harmful move for the 
+company, we must look at the bottom line, profits. 
+ 
+!"Okay, the current contribution margin per bottle is $4. 
+ 
+So, the margin before must have been $3.75, all other things equal. 
+ 
+Before:  
+100 * $3.75 = $375 
+After:  
+91   * $4      = $364 
+ 
+Therefore, the change in the formula has not only hurt sales, but also hurt profits. 
+ 
+But, the remaining 6% drop remains unaccounted for.  Do we know if the market for whisky has 
+changed in the last year?  For example, I know that with the rise of cigar bars that whisky has 
+become more hip recently.  Is our client’s whisky targeted to this customer segment? 
+ 
+!"Actually, it is not.  The whisky market is divided into high end, middle segment, and low 
+end whiskies.  Our client competes in the middle segment.  It turns out that at these 
+whisky bars, people will buy high end whisky to drink straight, but are satisfied with low 
+end whisky for mixed drinks.  Last year sales in the high end and low end whisky 
+segments grew, but sales in the middle segment declined.  What does this table with 
+market information tell you? 
+ 
+Well, it looks like sales in the middle segment, where our client competes, declined by 4%.  I am 
+puzzled, though, 2% of decrease remains unaccounted for, assuming our market share has not 
+declined.  In terms of the competition, have they done anything that might have resulted in our 
+loss of market share? 
+ 
+
+
+===== PDF p53 =====
+Business Type Cases (full answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+49 
+!"Maybe, what could they have done? 
+ 
+They could have launched a new advertising campaign?  No.  They could have increased their 
+penetration in retail distribution?  No.  Hmmm…. they could have lowered their price?   
+ 
+!"Bingo.  In fact, our client’s competitor lowered their price from $12 a bottle to $11 a 
+bottle.  If I told you that our client only had one competitor in the middle segment, taking 
+a look at the table again, can you tell me how much their market share increased in 
+percentage terms? Assume that our client had 50% and their competitor had 50% of the 
+middle segment before last year. 
+ 
+Okay.  Well, let’s assume that the total market 2 years ago was 100.  We had 50 and they had 50.  
+Last year, our sales decreased by 15% and the overall market decreased by 4% in size: 
+ 
+.15 * 50 = 7.5 decrease in our sales to 42.5 
+ 
+.04 * 100 = 4 decrease in market sales to 96 
+ 
+96 – 42.5 = 53.5 current sales for our competitor 
+ 
+So, they increased their sales by 7% in absolute terms.  Their market share increased by 5.7% to 
+55.7%.  Our client’s market share dropped by 5.7% to 44.3%. 
+ 
+!"So what should the client do? 
+ 
+The first thing they should do is change the formula back to appease the angry loyals. 
+ 
+!"How do let these people know that they have returned to the old formula?  Remember, 
+there was never any change in packaging, so this is not like Old Coke vs. New Coke. 
+ 
+Well, you should do targeted marketing to these loyals to let them know.  This might be difficult, 
+but will be necessary in order to move the whisky upmarket, which is my next recommendation.  
+Also, if the company wants to make their whisky a more premium product, they should not 
+answer the price cut of its competitor with one of their own.  Moreover, cutting price to regain 
+market share would reduce profits even further: 
+ 
+Now:  42.5 * 4 = 170   
+ 
+After: (42.5 + (.02 * 50)) * 3 = 130.5 
+ 
+This is intuitive: we would be cutting out margin by 25% to achieve an approximately 2% 
+increase in sales!  The key for our client going forward, then, is better marketing, which makes 
+the brand relevant in a changing market. 
+ 
+This case highlights that multiple things can happen at once to create problems for a company.  
+When doing calculations, you can assume 100 to aid when looking at the effect of percentage 
+changes in market share or quantity sold. 

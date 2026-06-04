@@ -1,0 +1,165 @@
+===== PDF p52 =====
+ICC Handbook 2020 
+48 
+ 
+ 
+Difficulty: Medium 
+Quant: Easy 
+Company: LEK 
+ 
+ 
+9.12 UK Premium Confectionary 
+Manufacturer 
+ 
+ 
+Question 1: What is the current profit / loss position of the 
+manufacturer? 
+You are provided with the following information: 
+The plant sells 0.5m units of its specialty chocolate product per 
+annum, and achieves an average price per unit of 50p. 
+ 
+Further information will be provided if requested across the 
+following areas of cost: 
+ 
+Per unit costs: 
+Raw materials: 24p 
+Packaging and distribution: 3p 
+Energy costs: 3p 
+Labour costs: 5p 
+ 
+Overhead costs: 
+In total overhead costs amount to £100,000 per annum. No 
+breakdown is provided (or needed for this question). 
+Having identified the various categories of cost, the net profit can 
+be simply derived as follows: 
+Net profit = (volume x unit price) – (volume x variable cost) 
+– fixed cost 
+= (0.5m x £0.50) – (0.5m x £0.35) - £100,000 
+= loss of £25,000 
+ 
+Question 2: Can this current loss-making be rectified? 
+This answer can be broken down into a consideration of each of 
+the following areas in turn: 
+1. Scope to increase the unit price of the product 
+2. Scope to achieve reductions in the quantum of variable costs 
+or fixed overheads 
+3. Scope to increase volume sales, and hence reduce the per 
+unit fixed cost 
+ 
+1. Price increase 
+[Interviewer provides the following information - the confectionary 
+manufacturer is a relatively small player that has a distinctive 
+niche in the chocolate market. It already achieves something 
+of a premium for its product relative to the competition, and 
+management strongly believes that any further premium would 
+have a severely detrimental impact on its sales volumes.] 
+ 
+2. Scope to achieve reductions in costs 
+[Supplementary question – which areas of cost are most likely to 
+offer scope for achieving reductions] 
+This question is open-ended and looking to test commercial 
+reasoning / judgement. Examples of points to make: 
+• Starting with the variable costs, raw materials are a large 
+element of the total cost, and would be worth looking at for that 
+reason. However, it may not offer much scope for reduction 
+since a number of the key inputs into chocolate (e.g. cocoa 
+beans, sugar) are commodities. There may of course be some 
+scope to achieve better terms for increased volumes, which 
+we consider later. 
+• Packaging and distribution is also likely to be a relatively 
+commoditised area, although given the niche premium 
+positioning of the product, it is possible that the packaging 
+costs are high relative to the industry. This might therefore be 
+an area worth exploring further. 
+• Energy: The UK market is competitive and unlikely to offer 
+scope for reduction, although the terms of current contract 
+would need to be investigated. 
+• Labour: Workforce is unlikely to be highly skilled in this sector, 
+with minimum wage levels setting a potential floor on any 
+scope for reductions. Level of unionisation could also be a 
+consideration, but unlikely to be an issue for a small-scale 
+manufacturer 
+• Overhead costs – these costs are likely to relate to premise 
+lease costs, depreciation of plant and machinery, and 
+managerial labour overhead. Depending on utilisation of 
+the premises, relocation to a cheaper location could be 
+considered. Sales of plant and machinery could reduce the 
+depreciation charge, but may not be feasible whilst maintaining 
+a viable production facility. Overhead labour could also be 
+examined further, but given the total quantum of overhead may 
+not be significant. 
+[Further guidance is provided that a working assumption should 
+be made that costs cannot be reduced in any category] 
+ 
+3. Scope to increase volume sales 
+[Supplementary question - By how much would sales need to be 
+increased in order to achieve break-even?] 
+Break-even can be calculated using the following formula: 
+Break-even sales   = 
+Fixed costs / Gross profit 
+= 
+£100,000 / £0.15 
+= 
+666,667 units 
+ 
+Given current unit sales of 0.5m, breakeven requires an increase 
+of sales of 33%. 
+ 
+[Supplementary question – what factors would you want to 
+consider in assessing the potential for an increase in volumes] 
+You have been hired by a small confectionary manufacturer that 
+is in financial trouble. They are based in the UK, where they 
+have a single manufacturing facility that serves the UK market. 
+The company has consistently been operating at a loss for the 
+last 5 years. 
+They have asked you to investigate the reasons for this, and 
+make recommendations to address the situation. 
+
+
+===== PDF p53 =====
+ICC Handbook 2020 
+49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Firstly, the capacity of the company would need to be 
+investigated. Guidance is provided that for the given cost 
+structure of the facility, volumes could be increased to up to 
+1m per annum, which exceeds the break-even level. 
+• Secondly, demand conditions would need to be considered 
+e.g. scope for increasing penetration of the current product 
+into the market. [Guidance is provided that the product is 
+relatively niche, and in its current form is unlikely to find much 
+in the way of additional untapped demand to be exploited]. 
+• White-labelling of the product could also be considered e.g. 
+selling in volume to an up-market supermarket chain to be 
+own-labelled [Guidance is provided that currently no retailer 
+is prepared to offer terms to the manufacturer that allow it to 
+realise its variable costs] 
+• It might also be worth investigating whether other 
+confectionary products could be produced utilising the 
+existing asset base of the company e.g. alternative chocolate 
+formulations, different-sized bars. 
+[Supplementary question – the company has identified a potential 
+new confectionary product that it could produce using existing 
+machinery that would allow it to increase sales by 50% (assume 
+the new product has the same unit price and cost structure as the 
+current product). However, some re-tooling of the plant capacity 
+would be required to provide the required production flexibility, and 
+this would cost £150,000. Would you recommend that the 
+company proceed with this additional investment?] 
+ 
+The impact of the £150,000 investment can be evaluated as 
+follows: 
+ 
+Profit impact of retooling = incremental sales x gross profit 
+= 0.5m x 50% = 250k x £0.15 
+=  £37.5k per annum 
+The investment therefore offers a 4 year pay-back. 
+Whether the company should proceed with this investment 
+depends on the company cost of capital. However, at this level of 
+return, it is likely to be a sensible investment. 

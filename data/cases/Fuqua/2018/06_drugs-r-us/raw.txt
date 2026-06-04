@@ -1,0 +1,140 @@
+===== PDF p73 =====
+Drugs “R” Us
+69
+Industry: Pharma
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p74 =====
+Behavioral Questions
+70
+• Tell me about a time that you had to meet a deadline that you felt was not feasible. 
+How did you react?
+Question 1:
+• Tell me about your last performance review. In which area were you most 
+disappointed?
+Question 2:
+
+
+===== PDF p75 =====
+Drugs “R” Us
+71
+• Your client is RX Co, a pharmacy retailer with stores across the United States. To 
+bolster their presence in the Pacific Northwest, they are in talks with Drug Corp to 
+purchase retail assets in the region. Though the acquisition seems sound, the RX Co 
+CEO wants to be sure that the transaction will help them achieve growth.
+• Can you help the company evaluate the deal?
+Prompt #1:
+• Candidate should quickly try to specify and quantify the specific goal of the 
+acquisition – growth. If asked (and only if asked), RX Co aims to grow annual 
+revenue by 20% from current levels. They want this to happen the first year after 
+the acquisition is complete. Assume the acquisition can be completed and the assets 
+operational in one year.
+• When evaluating the framework, make sure the candidate understands this is a 
+revenue case – and steer them away from costs.
+• Try to push the candidate to explore the sources of revenue for pharmacy retailers, 
+namely RX and Front of House Merchandise.  
+Interviewer Guidance:
+
+
+===== PDF p76 =====
+Exhibit #1
+72
+Pharmacy 
+Revenue %
+Front-of-House 
+Merchandise 
+Revenue %
+Overall 
+Revenue / 
+Day
+Total US 
+Stores
+RX Co.
+70%
+30%
+$11,000
+8,400
+Drug Corp
+$7,800
+2,400
+
+
+===== PDF p77 =====
+Interviewer guidance on Exhibits
+• The candidate may try to calculate the daily pharmaceutical revenue for RX Co by 
+multiplying 0.7*$11,000*8,400. If they do, remind them that we are only interested in 
+stores in the NW Region. Rx Co has 5,000 in the region, and Drugs has 900.
+– If asked, the candidate can assume stores in the NW region have the same revenue makeup and 
+average overall revenue as stores nationwide
+• RX Co current pharma rev is 0.7*$11,000/day*365 days/year*5000 NW stores = ~$14B. 
+Growth target is $14B * 1.15 = ~$16.1B
+• Pharma rev to be added from acquisition is 0.7*$7,800/day*365 days/year*900 NW stores 
+= ~$1.8B
+• Candidate should clearly conclude that the acquisition will not help RX Co achieve their 
+revenue growth targets the next year.
+• A strong candidate could calculate the exact number of Drug Corp stores that would need 
+to be purchased to achieve the proper targets
+• It is OK to round to the nearest hundred million.
+73
+Exhibit #1 Guidance:
+
+
+===== PDF p78 =====
+Drugs “R” Us
+74
+• What else should else should be considered when evaluating / calculating the 
+additional revenue that RX Co can achieve through Drug Corp acquisitions?
+Prompt #2:
+• Candidate could mention: 
+• Sales cannibalization. Acquiring stores in the same region may drive customers 
+away from certain stores and towards other stores
+• Sales retention. Customers develop relationships with brands and Drug Corp 
+stores may lose customers/sales if they begin operating as RX stores
+• Increasing retail pricing of the RX items
+Interviewer Guidance:
+
+
+===== PDF p79 =====
+Drugs “R” Us
+75
+• The RX Co CEO is walking into the room in 30 seconds. What do you have to tell him 
+about the viability of this acquisition? Should they make it?
+Recommendation 
+• Assuming no sales cannibalization and 100% sales retention, it is already clear that 
+RX cannot meet its pharma revenue targets through the acquisition. Additional risks 
+below that could be mentioned compound this recommendation. 
+• Risks
+– Sales Cannibalization
+– Sales Retention
+– Issues with transferring DEA licenses
+– Delays in acquisition and conversion through regulatory delay (DEA licenses, liquor licenses, 
+etc), brand conversions, IT/HR/Accounting/Back Office systems integration, etc.
+– Consumer backlash if pricing is increased
+Interviewer Guidance:
+
+
+===== PDF p80 =====
+Evaluation Criteria
+76
+Candidate Level
+Assessment
+Average Candidate
+Candidate does not ask relevant clarifying questions. Tries to 
+calculate profitability and framework has a large degree of overlap 
+and/or doesn’t touch on factors outside of company financials.
+Good Candidate
+Candidate asks clarifying questions that help them identify revenue 
+growth target. Framework is mostly MECE. Math should be 
+structured, although calculations may take longer. Lists risks/next 
+steps in rec
+Excellent Candidate
+Candidate tries to confirm exact target/purpose of the acquisition 
+right after prompt. Identifies revenue as the goal and does not 
+mention costs. Framework is MECE, and candidate remembers that 
+they should be calculating sales only for the NW region – not all US 
+stores. 
+Math is very structured, with little or no mistakes.
+Explores other avenues for reaching revenue targets outside of 
+acquiring Drug Corp Stores. 

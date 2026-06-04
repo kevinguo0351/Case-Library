@@ -1,0 +1,307 @@
+===== PDF p22 =====
+Case 2: TissueCo
+Case Type: Profitability
+Difficulty Level: Easy 
+
+
+===== PDF p23 =====
+TissueCo - Prompt
+●
+The client is focused on US sales only
+●
+TissueCo’s profitability margin dropped below its competitors before the COVID-19 outbreak 
+but has further worsened after COVID-19
+●
+TissueCo produces tissues that are standard, extra soft, and tissues with lotion
+●
+There is no specific goal to improve profitability 
+Problem Statement
+Additional Information (Provide Upon Request)
+Your client, TissueCo, is a large facial tissue manufacturer that sells to retailers.  While the US 
+facial tissue market suffered operational challenges due to Covid-19, the market is forecasted to 
+recover and grow 5.8% CAGR in 2021. While TissueCo has seen some improved numbers as 
+they adapt to the pandemic, their profitability margin has fallen below their main competitors 
+Kelly-Clark and Proxy and Gumbo. The CEO has invited you to help them out.
+
+
+===== PDF p24 =====
+TissueCo - Structure
+1. Facial Tissue Market
+A. Industry
+●
+Growth trends
+●
+Market size
+●
+Recent changes in 
+customer behavior / 
+trends
+B. Competition
+●
+# of competitors and 
+market share
+●
+Profit margin / Cost 
+structure
+C. Regulatory environment
+2. TissueCo
+3. Financial Analysis
+4. Growth 
+Opportunities
+A. Product differentiation
+●
+Product characteristics 
+(e.g., soft, lotion, 
+anti-viral)
+●
+Packaging options (e.g., 
+horizontal or vertical box, 
+pocket) 
+B. Customer segment (e.g., 
+at home, vs away from home)
+C. Marketing strategy
+D. Distribution strategy 
+(e.g., supermarkets, 
+convenience stores, online)
+A. Revenue analysis
+●
+Pricing strategy
+●
+Volume dynamics
+●
+Break-down by client 
+groups and locations
+B. Cost structure
+●
+Fixed (e.g. rent, SG&A)
+●
+Variable (e.g. labor, raw 
+materials, utilities)
+A. Sales growth 
+opportunities
+●
+Lower prices
+●
+New or improved 
+characteristics
+●
+Different packaging
+B. Margin improvements
+●
+Reduced volume per 
+package
+●
+Technology to reduce 
+production costs
+Sample Framework
+
+
+===== PDF p25 =====
+What revenue growth ideas can you suggest?
+TissueCo - Brainstorming
+Brainstorming prompt
+
+
+===== PDF p26 =====
+TissueCo - Brainstorming
+1. Upgrade marketing 
+strategy
+A. Campaign
+●
+Aggressive marketing 
+campaign and promotions
+B. Channels
+●
+Expand to new social 
+media channels to reach 
+and cultivate younger 
+audiences (a more 
+germ-aware generation)
+2. Change pricing 
+(model)
+3. Increase distribution 
+efficiency
+4. Expand value 
+proposition
+A. Pricing
+●
+Maintain price, but slightly 
+slower volume per 
+package
+●
+Bundle packages 
+together and/or offer 
+bundles together with 
+hand-sanitizer
+B. Pricing model
+●
+Subscription model (e.g., 
+Amazon weekly)
+A. Distribution
+●
+Online channels (online 
+retailers and D2C)
+●
+Volume dynamics
+B. Partnerships
+●
+Build partnerships with 
+sectors affected by the 
+rising concern of sickness 
+(airlines, workspaces, 
+schools)
+A. New kinds of tissues
+●
+Anti-viral
+●
+More sustainable
+ B. New kinds of packaging
+●
+The box could include a 
+coupon for the next 
+purchase
+Sample Revenue Growth Ideas
+Business insights
+-
+Given low differentiation between facial tissues, high brand awareness and active marketing are likely key drivers of sales
+
+
+===== PDF p27 =====
+The rise in the number of bacterial and viral infectious diseases, COVID-19 being top of mind, has 
+led to the rise in demand for antiviral products. The client is considering launching a new product 
+line to meet this demand, anti-viral tissues. How big do you think the US market in $ dollars is for 
+anti-viral facial tissues?
+TissueCo - Market Sizing
+Market sizing prompt
+
+
+===== PDF p28 =====
+TissueCo - Market Sizing
+US Population
+~320M people
+% population that is very 
+germ-conscious
+10% 
+# of colds / flu per year per 
+persons and duration
+~2 colds per year that last 5 days
+# tissues used per day while sick
+~20 tissues
+# tissues used per year for other 
+reasons (e.g., allergies)
+~50
+ tissues
+# tissue used per year
+320M * 20% * [(2*5*20)+50] ≈ 8B
+# tissues per box
+100
+# of boxes
+80M
+$ Avg price per box
+$5
+$ Total market
+$400M
+Sample approach
+Provided information (if asked)
+Market sizing
+●US population is 320M
+●~95% of the population uses tissues, so 
+around 300M people
+●Avg price for a box of tissues with 100 
+tissues is $5
+Business insight:
+●While representing a small portion of the 
+market, germ-conscious consumers’ WTP 
+should be higher and could help improve 
+profitability
+
+
+===== PDF p29 =====
+The rise in the number of bacterial and viral infectious diseases, COVID-19 being top of mind, has 
+led to the rise in demand for antiviral product. The client is considering launching a new product line, 
+anti-viral tissues. Will this increase their profitability?
+TissueCo - Math Prompt
+Math prompt
+●
+Total sales in 2020 were $3.1B (candidate can and should round to simplify calculations). Show Appendix 
+1 for revenue share and costs for other tissue segments. The candidate should calculate profit margins of 
+all categories
+●
+Anti-viral tissues are forecasted to generate $150M in sales and $30M in profit
+Additional Information (Provide Upon Request)
+
+
+===== PDF p30 =====
+TissueCo - Math Prompt
+Calculations
+Product
+Calculations
+Profits ($) / Profit Margin (%)
+Standard
+3B * 65% * 10% =
+$195M
+Super soft
+3B * 25% * 15% =
+$112.5M 
+Lotion
+3B * 10% * 20% = 
+$60M
+Overall
+195M + 112.5M + 60M = 367.5M / 3B =
+≈ 12%
+Anti-viral
+30M / 150M = 
+20%
+●
+The antiviral product line is forecasted to have a 20% profit margin, thus increasing the profitability of the 
+company. 
+
+
+===== PDF p31 =====
+Appendix 1. TissueCo financial metrics
+TissueCo financial metrics
+Product line
+Sales share, %
+   
+         Profit margin, %
+Standard
+Super soft
+Lotion
+65%
+25%
+10%
+10%
+15%
+20%
+
+
+===== PDF p32 =====
+What is your final recommendation?
+TissueCo - Recommendation
+Final Recommendation
+Sample Answer
+Recommendation: In order to improve profitability, I recommend that the client launch the new antiviral tissues. 1) Demand for antiviral products has 
+been increasing due to the recent pandemic; 2) Germ-conscious consumers’ WTP is higher and we forecast a higher profitability margin of 20% 
+compared to Standards 10% and Super Softs 15%. 
+Risks:
+-
+While we are forecasting profitability, competitive response 
+could force us to lower prices. 
+-
+The current rise in demand due to the increased sensibility 
+during the Pandemic could subside over the next few 
+years. 
+-
+Clogs in the supply chain for antiviral products could limit 
+production and increase COGS
+Next steps:
+1.
+Evaluate the competitive landscape and build a sensitivity 
+analysis based on different competitive responses
+2.
+Take a deep dive into the market model to identify main 
+growth drivers and determine which ones will be more 
+sustainable
+3.
+Map out the current Company’s supply chain,identify 
+possible weak points and offer potential workarounds. 

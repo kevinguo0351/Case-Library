@@ -1,0 +1,24 @@
+{
+  "case_id": "Kellogg_2018_19_vindaloo-corporation",
+  "school": "Kellogg",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2018.pdf",
+  "idx": 19,
+  "case_name": "Vindaloo Corporation",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer Products",
+  "difficulty": null,
+  "pdf_page_start": 142,
+  "pdf_page_end": 149,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    145,
+    146
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p145.png",
+    "exhibits/exhibit_p146.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2018\\19_vindaloo-corporation"
+}

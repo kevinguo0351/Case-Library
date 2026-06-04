@@ -1,0 +1,439 @@
+===== PDF p96 =====
+92
+MBS Co.
+Financial Institutions
+
+
+===== PDF p97 =====
+93
+Financial Institutions
+0 7  |  C A S E :  M B S  C O .
+MBS CO.
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  Te l l  m e  a b o u t  
+a  t i m e  y o u  
+f a i l e d .
+UVA Darden School of Business 2019-20 Casebook
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+• MBS Co. buys individual mortgages from banks and packages several thousand of them into a given security. 
+Shares in that security are sold to investors.
+• When a homeowner makes a monthly mortgages payment, the payment passes through the bank first, then 
+through MBS Co., then to investors (primarily institutional investors).
+• MBS Co. keeps a small fee on each payment that passes through. The fee amount is based on a percentage of 
+mortgage volume (i.e. how much money was loaned to homeowners).
+• MBS Co. has one other GSE competitor that buys mortgages and creates mortgage-backed securities. The 
+securities from both companies are fungible to investors.
+• Banks can also choose to hold mortgages – rather than sell to a GSE – and keep the full monthly mortgage 
+payments from homeowners.
+• There is no target ROC. Any improvement in ROC would be considered a success.
+• Return on Capital (ROC) = profits / capital
+Prompt:
+Your client is MBS Co., a government sponsored enterprise (GSE), that purchases mortgages from 
+banks, packages them into mortgage-backed securities (MBS), and sells them in the secondary 
+market to investors. MBS Co.’s return on capital (ROC) has declined since last year, and the 
+management team is looking for your help in understanding why this has happened and how to 
+improve ROC going forward.
+
+
+===== PDF p98 =====
+94
+Framework Guidance:
+0 7  |  C A S E :  M B S  C O .
+How to Move Forward:
+•
+Framework should identify profit and capital as components of ROC (traditional profit tree 
+w/o capital is not sufficient)
+•
+MBS Co.’s fee as a percent of mortgage volume has been consistent since last 
+year, and the fee percent is consistent for all mortgages (regardless of riskiness)
+•
+Internal costs (e.g. SG&A) are negligible
+•
+Regulations have not changed
+•
+A good framework will call out competition (other buyers of mortgages) and/or vertical 
+integration in the value chain
+•
+No new competitors have entered the market; the government only allows MBS Co. 
+and its one competitor to create MBS
+•
+Banks have begun holding more mortgages (if candidate asks about this, indicate it 
+will be discussed later in the case)
+•
+A good interviewee will note market conditions as a potential reason for the decrease in 
+ROC but will recognize this is not a lever MBS Co. can use to increase ROC going forward
+•
+All market conditions have remained consistent since last year
+UVA Darden School of Business 2019-20 Casebook
+•
+The interviewee should identify capital held as a key lever in the ROC calculation and inquire as to whether it has changed recently
+•
+If the interviewee needs coaching ask them what they think the components of ROC are
+•
+Provide the interviewee with Exhibits 1 & 2
+ROC
+Profit
+•
+Mortgage riskiness (borrower credit 
+worthiness)
+•
+Pricing pressure from banks
+•
+Fee pressure from investors
+•
+Internal costs
+Capital
+•
+Regulatory requirements
+•
+Excess cash build-up
+•
+Build-up of unsecuritizable mortgages (i.e. 
+bought from bank but can’t turn into MBS)
+Market
+•
+Interest rates, yield curve
+•
+Oversupply of housing
+•
+Consumer housing preferences
+Competition
+•
+New entrant
+•
+Competitor pricing/fees
+•
+Customer/supplier vertical integration 
+(e.g. banks hold mortgages)
+Example framework
+
+
+===== PDF p99 =====
+95
+EXHIBIT 1
+0 7  |  C A S E :  M B S  C O .
+2017 mortgage originations
+UVA Darden School of Business 2019-20 Casebook
+0%
+20%
+40%
+60%
+80%
+100%
+0%
+20%
+40%
+60%
+80%
+100%
+Portfolio composition
+Held on bank portfolios
+Competitor A
+MBS Co.
+% of mortgage volume
+<0.5%
+0.5-1.0%
+1.0-2.0%
+>2.0%
+Capital requirement cohort1
+1Capital required to be held per dollar of mortgage securitization volume. Based on FICO score and loan-to-value ratio of borrower/mortgage.
+
+
+===== PDF p100 =====
+96
+EXHIBIT 2
+0 7  |  C A S E :  M B S  C O .
+2018 mortgage originations
+UVA Darden School of Business 2019-20 Casebook
+0%
+20%
+40%
+60%
+80%
+100%
+0%
+20%
+40%
+60%
+80%
+100%
+Portfolio composition
+Held on bank portfolios
+Competitor A
+MBS Co.
+% of mortgage origination volume
+<0.5%
+0.5-1.0%
+1.0-2.0%
+>2.0%
+Capital requirement cohort1
+1Capital required to be held per dollar of mortgage securitization volume. Based on FICO score and loan-to-value ratio of borrower/mortgage.
+
+
+===== PDF p101 =====
+97
+Exhibits 1 & 2 Guidance:
+• Exhibit description
+- X-axis reflects market share as measured by mortgage volume securitized (MBS Co. and Competitor A) or held on portfolio (banks)
+- Y-axis reflects breakdown in portfolio of each company by cohort
+- Capital requirement represents how much cash (as a % of mortgage volume) a company must hold on its balance sheet to support a given mortgage
+• Points of clarification (provide if interviewee asks)
+- Total market size in dollars has remained consistent
+- Cohort ranges correspond with capital requirements as specified by the government
+- Total market composition of mortgages by cohort has remained consistent (i.e. same number of high/low quality mortgages in the market; any shift in one 
+company’s portfolio composition is zero-sum for competitors)
+- Each company’s percent of mortgages in the ‘0.5-1.0%’ and ‘1.0-2.0%’ cohorts is consistent between years
+• Observations (a good interviewee will recognize these)
+- Cohorts with higher capital requirements will generate lower ROC
+- Portfolio compositions were roughly the same for MBS Co., Competitor A, and banks in 2017
+- MBS Co. and Competitor A lost market share to banks holding loans on their portfolios in 2018
+- MBS Co.’s portfolio composition shifted towards high capital requirement mortgages (as did Competitor A’s)
+- Portfolio composition of mortgages held by banks shifted towards low capital requirement mortgages
+• Key insight (push interviewee to explain why the observations above might be related)
+- Because banks are earlier in the value chain, they can choose to keep good mortgages (low capital requirements) on portfolio and pass bad mortgages (high 
+capital requirements) to MBS Co. and Competitor A
+• To advance, interviewee should identify MBS Co.’s portfolio mix shifted to higher capital requirement loans in 2018, while banks are retaining more low capital 
+requirement loans
+0 7  |  C A S E :  M B S  C O .
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p102 =====
+98
+Exhibit 3
+•
+The client has identified a way for 10% of the capital backing high capital requirement mortgages (>2% cohort) to be redeployed in low capital requirement 
+loans (<0.5% cohort). How much will this shift change overall ROC?
+•
+Provide the interviewee with Exhibit 3
+0 7  |  C A S E :  M B S  C O .
+Exhibit Guidance:
+• Interviewer notes
+- The interviewee must shift the capital between cohorts and calculate the new wtd avg ROC % for the portfolio
+- Securitization volume is not needed to perform the calculation; its inclusion in the exhibit is intended as a red herring
+• Points of clarification (provide if interviewee asks)
+- Capital and securitization volume are related via the capital requirement (e.g. in the ‘<0.5%’ cohort, $500B securitization volume x 0.4% wtd avg capital 
+requirement = $2B capital)
+- Cohort ROC (i.e. ROC within a cohort) does not change as a result of the capital shift; cohort ROC is based on the riskiness of the mortgages that fall in the 
+capital requirement domains
+• Takeaway / insights
+- A good interviewee will recognize the shift in capital will drive a ROC increase, before even performing any calculations
+- After completing calculation, interviewee should declare capital shift results in increased ROC, thus satisfying client’s goal
+- Second order insight: Shifting capital to lower capital requirement loans will require increase in total portfolio size (and thus, market share)
+• To advance: A good interviewee will begin brainstorming ways for MBS Co. to make this shift in its portfolio and/or risks associated with the shift. If they don’t 
+proactively do this, provide them with the next question.
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p103 =====
+99
+EXHIBIT 3
+0 7  |  C A S E :  M B S  C O .
+2019F securitization portfolio
+UVA Darden School of Business 2019-20 Casebook
+Capital
+requirement cohort
+Securitization volume
+($, billions)
+Capital
+($, billions)
+Cohort ROC
+<0.5%
+500 
+2.0
+25.0%
+0.5-1.0%
+1,200 
+8.0
+15.0%
+1.0-2.0%
+500 
+5.0
+10.0%
+>2.0%
+200 
+5.0
+4.0%
+Total
+2,400 
+20.0
+12.0%
+
+
+===== PDF p104 =====
+100
+EXHIBIT 3 (MATH DETAIL)
+0 7  |  C A S E :  M B S  C O .
+UVA Darden School of Business 2019-20 Casebook
+Method 1 (fastest)
+• Interviewee calculates change in portfolio ROC % by only examining incremental effects of capital shift
+Capital
+requirement 
+cohort
+Change in 
+capital ($B)
+Cohort 
+ROC
+Change in 
+dollar returns 
+($M)
+<0.5%
++0.5
+x
+25.0%
++125 
+>2.0%
+-0.5
+x
+4.0%
+-20 
+Net change
+0.0
+105
+$105m change in dollar returns / $20B in capital = ~0.5% change in ROC
+New ROC = 12.5%
+Alternate approach: (25.0% - 4.0%) x $500M = $105M
+Method 2
+• Interviewee calculates change in portfolio ROC % by recreating a full wtd avg calculation for the new portfolio
+Capital
+requirement 
+cohort
+Capital 
+($B)
+Cohort 
+ROC
+Dollar returns 
+($M)
+<0.5%
+2.5
+x
+25.0%
+625
+0.5-1.0%
+8.0
+x
+15.0%
+1,200
+1.0-2.0%
+5.0
+x
+10.0%
+500
+>2.0%
+4.5
+x
+4.0%
+180 
+Total
+24.0
+~2,500
+$2.5B dollar returns / $20B in capital = 12.5% ROC (new)
+
+
+===== PDF p105 =====
+101
+Question 1
+•
+What methods can MBS Co. use to shift its portfolio to higher ROC loans?
+0 7  |  C A S E :  M B S  C O .
+Question Guidance:
+• Identifying options based on the various stakeholders in the mortgage value chain is one effective way of brainstorming this question
+• Interviewees may also choose to use an internal/external framework, in which all the non-MBS Co. stakeholders would align with the external bucket
+UVA Darden School of Business 2019-20 Casebook
+Stakeholders / value chain
+Homeowners
+• Build preference for MBS Co. with high quality borrowers by simplifying mortgage process
+• Improve screening/selection process to better identify high quality borrowers
+Banks
+• Build preference to sell to MBS Co. by simplifying mortgage process
+• Lower fees to entice banks to sell high quality mortgages rather than hold on to them
+• Form partnerships with banks to bolster flow of high quality mortgages to securitization
+MBS Co.
+• Bypass banks and begin originating mortgages directly with consumers
+• Expand into other geographic regions (i.e. non-US)
+• Expand into other types of loans (e.g. student loans, car loans)
+Government
+• Lobby government to lower capital requirements
+• Request government capital infusion to fund more high ROC mortgage purchases
+
+
+===== PDF p106 =====
+102
+CONCLUSION
+0 7  |  C A S E :  M B S  C O .
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+MBS Co.’s return on capital has declined because banks are choosing to hold high-ROC mortgages on their portfolio 
+(gaining market share) and passing low-ROC loans to MBS Co. (shift in portfolio). MBS Co. has an opportunity to 
+increase it’s return on capital by 0.5% to 12.5% by shifting capital in its portfolio to higher quality loans by… [interviewee 
+should choose an idea mentioned in brainstorming]
+Risks:
+•
+[Risks should be tailored to the ideas chosen]
+•
+Potential risks include: upset stakeholders affected by idea chosen, MBS Co.’s lack of capabilities to execute idea
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p107 =====
+103
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

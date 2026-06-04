@@ -1,0 +1,464 @@
+===== PDF p142 =====
+Case 11: HealthCareCo 
+•
+Type: Basic Support Functions 
+•
+Difficulty: Hard 
+•
+Industry: Healthcare 
+•
+Firm Format: McKinsey 
+ 
+
+
+===== PDF p143 =====
+139 
+HealthCareCo 
+RCC Original – McKinsey Style Case 
+Information Provided Upon Request 
+Your client is the CEO of a leading diversified 
+healthcare products and pharmaceuticals 
+company - HealthCareCo.  
+The company’s principal business is the 
+discovery, development, manufacture and sale 
+of a broad and diversified line of healthcare 
+products.  
+Thinking ahead for the next 5 years, the CEO of 
+HealthCareCo wants to consider cost 
+optimization as one of the important elements of 
+his strategy.  
+He has engaged McKinsey to help him with this 
+effort.  
+ 
+NOTE: This is upfront information and not the 
+end of the prompt. Because this is a McKinsey 
+Case, there are specific questions that follow. 
+Problem Statement 
+HealthCareCo has about 50,000 employees in 
+approximately 100 countries around the world.  
+ 
+Currently, HealthCareCo has 4 different 
+revenue generating business units namely - 
+pharmaceuticals, medical devices, health 
+foods, and specialized surgery products. 
+ 
+The CEO wants to distinguish the firm through 
+innovation in the healthcare and pharma 
+industry in the next 4-5 years 
+ 
+There are 3-4 main competitors, client firm can 
+be said to be #2, #3 in the market 
+Difficulty: Hard 
+Industry: HealthCare 
+Type: Basic Support Functions 
+
+
+===== PDF p144 =====
+140 
+What would be the key factors that you would consider in preparation of your first meeting 
+with the CEO and his team? 
+Question 0 
+Financial Reports 
+Understand the company’s business, Analyze the Income Statement / Balance Sheet, Important financial ratios, Historical 
+performance, Compare ratios with competitors, similar players in other industries 
+ 
+Value Chain / Company Business / Org Structure: 
+Because we are taking an overall company view, a good candidate will bring up the concept of a Value Chain. A value 
+chain helps to identify different business drivers and logically separates the individual elements of a firm. This should also 
+account for the different business units 
+Primary Functions: Inbound Operations, Company Operations, Outbound Operations,  Marketing, Sales, Service.  
+Support Functions: Finance, HR, IT, Legal, Procurement, Facilities etc 
+ 
+Competitors 
+Who are the competitors in the market 
+How is HCC different from the other competitors, value proposition, target consumer 
+ 
+Strategy 
+Understand the overall strategy of the firm and also how it relates to the 4 different Business Units, different geographies 
+A good candidate will bring up the discussion of cost-based differentiation or value based discussion and will also offer an 
+initial hypothesis that because this is a pharmaceutical / healthcare company, the company will have to invest in R&D and 
+innovation 
+ 
+Market Trends:  
+Any trends in the healthcare market across the world 
+ 
+Industry Factors / Regulatory / Patents / Other Factors 
+Considering the global nature of the company’s operations, we would also have to factor in regulatory changes 
+Foreign relations, Taxes, Foreign Exchange implications etc. 
+
+
+===== PDF p145 =====
+141 
+Give the candidate Exhibit 1 and ask him to offer initial thoughts / hypotheses 
+Question 1 
+Typical Response:  
+1.
+The COGS number is at par with the industry. But this could be an area to explore if the company is to create a cost 
+–advantage.  
+2.
+R&D costs as compared to the industry benchmarks are lower (as a % of sales). This could imply that the firm does 
+not invest as much in R&D as compared to some of the other competitors. So this could mean either that the firm is 
+a ―follower‖ in this industry and therefore probably competes on costs OR that the firm competes in a different 
+segment of the healthcare, nutritional segment that does not require as much R&D.  
+3.
+Business support costs as significantly higher than the industry averages. Given that the CEO wants to focus on 
+cost optimization, this line item offers significant potential to cut costs.  
+4.
+Earnings per share are lower as compared to the industry. Assuming everything to be the same for the comparable 
+companies, this should be a cause of concern for the CEO.  
+ 
+Synthesis: It is important to focus on overall cost reduction for the firm, as this will not only boost the competitiveness of 
+the firm, but also free up capital to invest in R&D, if the company wants to differentiate itself in the industry based on 
+innovation. Business Support Functions could play a significant role in helping to reduce costs. 
+ 
+
+
+===== PDF p146 =====
+142 
+Exhibit 1 
+Income Statement - HealthCareCo  
+($ in Millions, except per share data) 
+HCC 
+Industry 
+Net Sales 
+ $        40,000  
+COGS (% of sales) 
+39% 
+40% 
+Expenses 
+R&D (% of sales)  
+10% 
+12% 
+COGS 
+ $        15,500  
+Business Support 
+30% 
+25% 
+R&D 
+ $          3,500  
+Business Support 
+ $        12,000  
+EPS**  
+ $  2.00  
+ $     2.50  
+Total Expenses 
+ $        31,000  
+Other Adjustments* 
+ $          3,000  
+Gross Profit 
+ $          6,000  
+Taxes 
+ $          2,400  
+Net Earnings 
+ $          3,600  
+Total Shares 
+             1,800  
+* Includes interest adjustments, Forex loss, loss on extinguishment of debt 
+** Ignore Preferred Dividends 
+
+
+===== PDF p147 =====
+143 
+(See Note Below). BRAINSTORMING. 
+Question 2 
+NOTE: First ask if the candidate understands what BSF means. Let them explain what they think about it. Then give this 
+information: 
+BSF: Functions which are necessary for running the main operations of any firm. Typical BSFs include Finance, HR, IT, 
+Legal, Procurement, Facilities etc. These functions are typically non-revenue generating functions. 
+Then ask them what would they do now? 
+Typical answer. Look at the breakdown of BSF. See which ones of those is a problem. Compare numbers with industry 
+benchmarks. THEN HAND OUT EXHIBIT 2.  
+The candidate should quickly comment on two things: 
+1. All key BSF functions are worse for the client as compared to industry benchmarks.  
+2. Industry benchmarks costs for BSF functions are 30-40% lower than those for the client.  
+IDEALLY, a candidate should proactively answer why he thinks this could be the reason. IF not ask this 
+question: 
+Question 2: Why do you think these costs are high for the client?  
+Typical Response: 
+1. The client has grown through acquisitions, each acquiree adds its own BSF FTEs and complexity 
+2. Geographical complexity / differences 
+3. Organizational complexity 
+4. No overlap of tasks between different Business Units / silo’s in the business units 
+NOTE: Keep asking  what else, till the candidate has given 4-5 good answers. 
+ 
+
+
+===== PDF p148 =====
+144 
+Exhibit 2: Basic Support Function Costs Comparison 
+0%
+20%
+40%
+60%
+80%
+100%
+HealthCareCo
+Benchmark
+Finance 
+0%
+20%
+40%
+60%
+80%
+100%
+HealthCareCo
+Benchmark
+HR 
+0%
+20%
+40%
+60%
+80%
+100%
+HealthCareCo
+Benchmark
+Procurement 
+0%
+20%
+40%
+60%
+80%
+100%
+HealthCareCo
+Benchmark
+Legal 
+
+
+===== PDF p149 =====
+145 
+Assume your team does a further analysis on the type of activities within each of these BSF functions 
+and they find this. (Hand out Exhibit 3). 
+Question 3 
+NOTE: 
+Transactional activities: Defined as day-to-day activities, low-skill, repetitive 
+Specialized activities: High skill, specific to each business unit / geography, requires involvement of multiple people etc. 
+ 
+An ideal candidate will try to answer why different departments show difference in Transactional / specialized:   
+• Procurement / Legal are inherently localized and specialized functions – every location / Business unit has different 
+requirements / laws / regulations.  
+• Finance and HR have a fairly large number of day-to-day activities: book keeping, payroll, time and expense etc. 
+Question 3: Can you think of ways to reduce these costs? 
+Typical responses: 
+1. Eliminate redundant activities 
+2. Automate certain activities 
+3. Improve efficiency – by reducing number of steps in a process 
+4. Reduce frequency of unnecessary activities 
+5. Outsource certain activities (Do not give this away. This is critical for the next part of the case). 
+ 
+ 
+ASK THE CANDIDATE, would he think of outsourcing differently for transactional v/s specialized. Give the 
+candidate a minute to think. If he comes up with an answer, continue with next slide. OR Just move to the next 
+slide if the candidate cannot think why. (Obviously, he doesn’t get the brownie points!) 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p150 =====
+146 
+Exhibit 3 
+70% 
+80% 
+30% 
+40% 
+30% 
+20% 
+70% 
+60% 
+0%
+20%
+40%
+60%
+80%
+100%
+Finance
+HR
+Legal
+Procurement
+Activity Split across BSFs* 
+Transactional
+Specialized
+*Typical Geographical sub-unit of a Business Unit 
+
+
+===== PDF p151 =====
+147 
+(Hand out Exhibit 4). Some one on your team suggests that this is a way that the client can think about 
+it’s outsourcing / consolidation. What do you think about it? 
+Question 4 
+Typical Answer: 
+ 
+This makes complete sense. Here’s why: 
+ 
+- Transactional activities can be consolidated at a global level. India / Chile make good options because of: 
+• Cheap labor 
+• Cheaper costs 
+• Availability of labor 
+• Expertise in services outsourcing 
+- Specialized activities can be consolidated at a regional level because: 
+• Region specific requirements 
+• Similarity of business 
+• Laws / Contracts / Regulation 
+• Language 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p152 =====
+148 
+Exhibit 4 
+ Outsourced Center – Transactional Activities 
+ Center of Excellence – Specialized Activities 
+LEGEND 
+
+
+===== PDF p153 =====
+149 
+Let’s say the company goes this route. Ships transactional work to Outsourced centers, and specialized 
+activities to Centers of Excellence. The company also does some IT rationalization efforts How much 
+cost savings will these changes help the company realize: (Hand out Exhibit 5) 
+Question 5 
+NOTE: IT rationalization: Centralizing databases, establishing common platforms etc, renegotiating with vendors etc) 
+ 
+Typical Response: 
+ 
+ 
+Total BSF
+ $ 12 Bn 
+$ Bn % Tran. % Spc
+CoE 
+Savings
+Out-
+sourced IT Ratz
+Cost Savings 
+($ Bn)
+Finance
+16.66%
+2
+70%
+30%
+10%
+40% -
+0.62
+HR
+8.33%
+1
+80%
+20%
+10%
+40% -
+0.34
+Legal
+8.33%
+1
+30%
+70%
+10%
+40% -
+0.19
+Procurement
+33.33%
+4
+40%
+60%
+10%
+40% -
+0.88
+IT
+8.33%
+1 -
+-
+30%
+0.3
+Facilities
+25%
+3 -
+-
+-
+-
+Total Cost Savings
+$ 2.33 Bn
+-
+A quantitatively strong candidate will be quickly able to calculate that 16.33% = 1/6, 8.33% = 1/12, 33.33% = 1/3, 25% = ¼ 
+-
+Calcluation: Finance Cost Savings = Total Finance Costs*Transactional%*OutSourcedSavings + TotalFinanceCosts*Spec%*CoESavings 
+-
+Similarly for HR, Legal, Procurements 
+-
+IT cost savings = IT Costs*ITRationalization% 
+-
+Cost Savings for Facilities is out of scope for this case 
+ 
+-
+An Excellent Candidate will go back to Exhibit 1, and reflect on what effect will this have on the financials. Currently, BSF costs 
+are higher by 5% as compared to the industry (5% of $40 Bn = $2Bn). The savings that we see above are higher than $2Bn. These 
+additional savings can be put into R&D, given out as dividends, and also boost the EPS. All great results from the CEOs stand-
+point. 
+ 
+
+
+===== PDF p154 =====
+150 
+Exhibit 5 
+Finance 
+16.67% 
+HR 
+8.33% 
+IT 
+8.33% 
+Legal 
+8.33% 
+Facilities 
+25.00% 
+Procurement 
+33.33% 
+Basic Support Functions Cost % 
+* Facilities are local, Ignore cost savings coming 
+out of facilities 
+- Total BSF Costs: $12 Billion 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Center of Excellence
+Outsourced Center
+IT Rationalization
+Cost Savings 
+
+
+===== PDF p155 =====
+151 
+Ask for a recommendation 
+Conclude 
+ 
+Typical Response: 
+Recommendation:  
+The CEO should engage into a large-scale organizational transformation. Specifically to optimize the BSF costs. There 
+are three reasons for this. 
+1. BSF Costs are higher as compared to industry benchmarks 
+2. They are hurting the client’s position in the market 
+3. And are critical for the future strategy of the firm – to differentiate itself through innovation 
+One of the important highlights of this transformation should be the creation of outsourced centers and Centers of 
+Excellence to manage the transactional and specialized BSF tasks. This could give a net run-rate savings of $2.3 Bn in 
+today’s terms. 
+Biggest Risk:  
+1. Downsizing repercussions 
+2. Foreign limitations, time for implementation 
+Next Steps: 
+1. Do a cost-benefit analysis. How long will this transformation take. How much will it cost 
+2. Opportunity Costs 
+3. Find out ways to manage the implications of down-sizing 
+ 
+ 
+ 

@@ -1,0 +1,215 @@
+===== PDF p31 =====
+KNOWLEDGE FOR ACTION
+Snack Foods 
+Acquisition
+
+
+===== PDF p32 =====
+KNOWLEDGE FOR ACTION
+Snack Foods Acquisition
+Level of Difficulty: Medium
+Case Similar to Cases at Firms: Bain Round 1 case
+Topics Tested: market sizing, break-even analysis and payback period, mathematical 
+calculation, 
+Prompt: A US snack foods company specializing in snacking peanuts, Peanut Co., is
+planning to acquire another company specializing in snacking almonds, Almond
+Co. Peanut Co. is currently the market leader in snacking peanuts, but the overall
+segment is growing slowly compared to the market and they want to diversify.
+They have hired you to tell them whether this is a good idea.
+Wharton Casebook 2017
+CASE 3
+28
+
+
+===== PDF p33 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample of Strong Framework:
+Sample Clarifying Questions and Answers
+Are we only looking at the snacking almond 
+market?
+Yes – all other almonds (e.g., for cooking) are 
+excluded
+Since the snacking peanut market growth is 
+slowing, is this trend affecting the entire snacking 
+nut industry? 
+No – the almond industry is not impacted because 
+almonds are considered to be higher in nutrients
+Acquire or not?
+Market size
+Profitability
+Synergies / dis-
+synergies
+Competition
+Deal Price
+• How large is the 
+market for 
+snacking 
+almonds? 
+• How much is this 
+industry expected 
+to grow? Is it 
+trending up, 
+down, or 
+stagnant? 
+• How profitable 
+will this product 
+be (e.g., pricing, 
+costs)?
+• Is snacking 
+almonds a more 
+premium market 
+then snacking 
+peanuts, in terms 
+of price? 
+• Can we leverage 
+Peanut Co.’s 
+existing 
+capabilities 
+(distribution, 
+mktg, sales)?
+• Will entering 
+cannibalize 
+existing sales?
+• Is the overlap 
+between almond 
+and peanut 
+customers high?
+• Is Almond Co. 
+the preferred 
+brand in the 
+market?
+• Who are the 
+current 
+competitors? 
+• What are the 
+barriers to entry? 
+• How large is the 
+threat of new 
+entrants?
+• What is the deal 
+price?
+• How will we 
+finance the deal?
+CASE 3
+29
+
+
+===== PDF p34 =====
+KNOWLEDGE FOR ACTION
+Sizing the US market for snacking almonds
+Wharton Casebook 2017
+• Candidate could do market sizing based on frequency of purchase. 
+• Provide the following assumptions:  
+- Assume the population of the US is 300M
+- 1 snack almonds packet: 16 ounces
+- Price of 1 packet: $2
+“Don’t snack 
+nuts”
+“Casual 
+consumers”
+“Health conscious 
+consumers”
+“Frequent 
+consumers”
+% of US population
+75%
+10%
+10%
+5%
+Population size
+210M
+30M
+30M
+15M
+Number of snack 
+almonds packets 
+consumed / year
+0
+25
+(2 / month)
+60
+(5 / month)
+120
+(10 / month)
+Total consumption
+0
+750M
+1800M
+1800M
+• Total number of packets: 0.75B + 1.8B + 1.8B = 4.5B (round to 5B) 
+• Cost of 1 packet: $2
+• Total market size: 5B * $2 = $10B
+Total market size is $8-10B
+Ask candidate reasons for 
+numbers brainstormed
+Pressure test if this is too 
+large
+CASE 3
+30
+
+
+===== PDF p35 =====
+KNOWLEDGE FOR ACTION
+Breakeven for Peanut Co. on this investment
+Wharton Casebook 2017
+• Provide the following assumptions:  
+- Almond Co.’s current market share: 10%
+- Almond Co.’s profit margin: 50%
+- Purchase price for Peanut Co: $1.5B
+• Almond Co.’s revenues: $1B
+• Almond Co.’s profits: $500M
+• Assume revenue and cost structure stays the same over the next few years
+• Purchase price is $1.5B
+• Payback period = $1.5B/$500M = 3 years
+More complex questions:
+• If the purchase price was doubled and Almond Co.’s market share was halved, what would
+the new payback period be? (3*(2/(1/2)) = 12 years
+• What assumptions are you most uncomfortable with? Which ones would you test further?
+CASE 3
+31
+
+
+===== PDF p36 =====
+KNOWLEDGE FOR ACTION
+Given Peanut Co.’s existing snack nuts business, 
+what else would you consider?
+Wharton Casebook 2017
+• Potential Benefits
+- Cross sell almond products to existing peanut customers
+- Leverage current distribution network to expand reach of Almond Co. and drive 
+sales
+- Can extend innovation from peanuts to almonds (e.g., flavor, packaging, etc)
+• Potential Risks
+- Potential for cannibalization of existing sales
+- Potential of brand dilution
+CASE 3
+32
+
+
+===== PDF p37 =====
+KNOWLEDGE FOR ACTION
+Recommendations to the CEO of the Peanut Co. 
+Wharton Casebook 2017
+• Good summary will include the following:
+- Answer – acquire or not? Either can be justified. See below
+- Strong justification on why? (Include 2-3 key numbers from the case)
+- Outline key risks with recommendation
+- Outline 2-3 key next steps
+• If recommendation to acquire Almond Co.:
+- Large and growing market
+- Quick payback period of 3 years
+- High overlap with customers
+- Risks: could cannibalize current peanut sales, could dilute/confuse brand
+- Next steps: can we get a more favorable deal price; determine what exact innovation can be carried
+over from peanut business
+• If recommendation is to not acquire Almond Co:
+- Cannibalize current sales
+- Could impact our current margin structure
+- Could dilute brand
+- Risks: if competitor acquires Almond Co and succeeds, Peanut Co’s competitive position would be
+weaker
+- Next steps: determine if there are other players that we could acquire
+CASE 3
+33

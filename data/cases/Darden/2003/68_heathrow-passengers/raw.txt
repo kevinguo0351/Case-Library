@@ -1,0 +1,43 @@
+===== PDF p90 =====
+EXAMPLE CASES BY TYPE 
+WILD CARD AND MISCELLANEOUS 
+ 
+ 
+HEATHROW PASSENGERS 
+ 
+ 
+Question: 
+ 
+How many passengers go through Heathrow each year? 
+ 
+ 
+Possible Approach: 
+ 
+Interviewer not looking for the real number, but the process through which you arrive at it!  Therefore you make 
+assumptions. 
+ 
+I assumed: 
+ 
+• 
+People going through Heathrow   = Arrivals and Departures. 
+• 
+Assume one plane lands and one plane leaves every 30 seconds. 
+• 
+Assume airport is operational 365 days a year, and for 21 hours a day. 
+• 
+Ask the interviewer what is the average passenger capacity of the planes (both arrivals and departures), e.g. 
+200. 
+ 
+• 
+Ask if for example, 75% load rate is a fair assumption. 
+• 
+You can then calculate the number. 
+Check that we ignored the double-counting issue of transient passengers (i.e. the same passengers both arrive and 
+leave the airport - the interviewer hadn’t considered this). 
+ 
+Keep the numbers simple when doing this - the actual number does not matter as much as the process. 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 116 
+ 

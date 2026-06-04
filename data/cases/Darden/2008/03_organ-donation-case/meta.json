@@ -1,0 +1,22 @@
+{
+  "case_id": "Darden_2008_03_organ-donation-case",
+  "school": "Darden",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2008.pdf",
+  "idx": 3,
+  "case_name": "Organ Donation Case",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Healthcare/Non-profit",
+  "difficulty": null,
+  "pdf_page_start": 19,
+  "pdf_page_end": 24,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    24
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p024.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2008\\03_organ-donation-case"
+}

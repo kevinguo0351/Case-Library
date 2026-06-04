@@ -1,0 +1,207 @@
+===== PDF p58 =====
+Practice Cases – Case 7: Fighter Jet  
+BCG 
+ 
+ 
+54
+(Source: Sample case from BCG website) 
+ 
+Context 
+Your client is a U.S. defense contractor that manufactures the Mohawk Light Fighter 
+Jet for the British Royal Air Force. The company has produced the $20 million fighter 
+jet for the past 12 years. The British government has decided to put the contract out 
+to bid, however, and to win the program, the client's purchasing agents have 
+estimated, the company will need to cut its costs by 5 percent. It has asked BCG to 
+help it reduce costs. 
+Establish understanding of the case 
+Interviewee: Let me first clarify the question. The client manufactures a $20 million jet and, 
+because of competitive forces, has to reduce its cost by 5 percent. Is BCG's role also to verify 
+the purchasing department's estimate?  
+ 
+Interviewer: No, you can assume that the purchasing estimate is correct. BCG's role 
+is to find the cost savings to meet that estimate.  
+ 
+Interviewee: Could I take a few minutes to think about the case?  
+ 
+Interviewer: Sure, please do so.  
+Set up the framework 
+Interviewee: First, I would like to understand the cost structure of the jet to see what we 
+should look at first. Next, I would like to look at major factors driving the costs we are 
+targeting. Finally, I would like to explore potential ideas to reduce cost.  
+ 
+Interviewer: That sounds like a very logical approach. Let's proceed.  
+Evaluate the case using the framework 
+Interviewee:  Because the time for the interview is limited, I think we should try to identify 
+those areas most responsible for the cost of the jet.  
+Interviewer: Time is limited on real projects as well, so I think that would be a good 
+idea! You have the following cost information for the jet. How would you interpret it?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p59 =====
+Practice Cases – Case 7: Fighter Jet  
+BCG 
+ 
+ 
+55
+ 
+ 
+Interviewee: The major cost driver for the jet appears to be purchased materials. Within 
+manufacturing, direct labor is a fairly large component of cost, as are program management 
+and corporate overhead within overhead. I think we would want to concentrate most on 
+materials, however, since that's where most of the costs can be found.  
+Interviewer: That sounds like a good place to start. Where would you look within 
+materials?  
+Interviewee:  I see that materials are broken down into purchased subassemblies, 
+components, and raw materials. I understand what raw materials would be, but what would be 
+the difference between components and subassemblies?  
+Interviewer: A subassembly functions on its own. An example is the pilot night 
+vision system. A component is a smaller part, such as a part of the engine.  
+Interviewee:  I know that governmental agencies often have very strict guidelines about 
+purchasing that could affect the cost of materials.  
+Interviewer: For the sake of this case, you can assume that the British Ministry of 
+Defense, MOD, allows "commercial off-the-shelf" purchases, which means that the 
+client is free to purchase from whomever it wants, as long as it can ensure that the 
+parts meet MOD quality guidelines.  
+Interviewee:  I see that purchased subassemblies comprise more than 70 percent of 
+materials. How many suppliers are there for these subassemblies?  
+Interviewer: There are seven suppliers of major subassemblies that go into the 
+fighter jet.  
+ 
+
+
+===== PDF p60 =====
+Practice Cases – Case 7: Fighter Jet  
+BCG 
+ 
+ 
+56
+Interviewee:  That seems like a relatively small number. Are there more suppliers that are 
+qualified to do this type of work?  
+Interviewer:  The manufacture of these parts requires a substantial investment in 
+R&D, engineering, and infrastructure. It would be very costly for new suppliers to 
+make the required investment, particularly if the client is trying to reduce the price it 
+pays to the subassembly manufacturers.  
+Interviewee:  Since there are only a few subassembly suppliers, and the investment hurdle 
+would preclude bringing in competing manufacturers, it would be difficult to reduce the price 
+paid. Perhaps we should look elsewhere for savings.  
+Interviewer:  But remember, if your client loses the contract, it will lose its customer 
+unless it is teamed with the competing bidder. Even then, if the competitor is 
+underbidding your client, there will be even less room for it to profit.  
+Interviewee:  Perhaps it would have an incentive to reduce its costs in order to maintain the 
+contract. Are the majority of its costs in materials as well?  
+Interviewer:  How could you find that out?  
+Interviewee:  I would want to interview the purchasing and engineering personnel of the 
+different subcontractors in order to understand their cost structures. If we had a better 
+understanding of their economics, our client might be able to reduce cost across the board, 
+allowing it to compete more effectively for the contract without killing everyone's margins.  
+Interviewer:  Let's say that purchased materials average approximately 70 percent 
+of the price paid to most of the manufacturers.  
+Interviewee:  If the cost of subassemblies represents 40 percent of the jet cost and 70 
+percent of that is purchased materials, total purchased materials would be approximately 28 
+percent of the jet cost subassemblies. Purchases of raw materials and components represent 
+another 15 percent, for a total of around 43 percent of the cost of the jet. If our client could 
+reduce the cost of raw materials by 20 percent, it could reduce the cost of the jet by more 
+than 8 percent, more than enough to offset the 5 percent reduction it would need to win the 
+contract.  
+Interviewer:  That sounds reasonable, but 20 percent is a very lofty goal. How would 
+you go about doing that?  
+Interviewee:  First, I would look at the number of suppliers. Are there a large number of 
+suppliers to the subassembly manufacturers?  
+Interviewer:  The client estimates that there are approximately 125 suppliers of raw 
+materials and components among the manufacturers of the subassemblies and itself.  
+Interviewee:  Well, that sounds like a large number of suppliers. Of course, they could be 
+providing very specialized materials to the subassembly manufacturers. Are these suppliers 
+providing customized or more commodity products?  
+Interviewer:  About 80 percent of these products are commodities, such as sheet 
+metal and wire harnesses. Even some of the electronics, such as printed wire boards 
+and circuitry, are fairly generic.  
+ 
+
+
+===== PDF p61 =====
+Practice Cases – Case 7: Fighter Jet  
+BCG 
+ 
+ 
+57
+Interviewee:  That sounds promising, but I would need to know whether these commodities 
+are interchangeable, so that our client could concentrate spending with fewer suppliers. Are 
+there many commonalities among the parts used by the different subassembly manufacturers? 
+We could talk to their engineers and look at the designs and bills of material to determine how 
+much overlap there is.  
+Interviewer:  Let's say that you did this and discovered that approximately 30 
+percent of the cost of raw materials is from similar materials used across the 
+subassembly manufacturers.  
+Interviewee:  It seems safe to assume that the client would need more commonality to be 
+successful in concentrating its purchasing and reducing costs. Do the engineers believe that 
+the percentage of overlap could be increased if the designs were modified?  
+Interviewer:  They believe they could increase that percentage substantially, 
+particularly with basic materials such as screws and sheet metal, but also in other 
+more customized areas.  
+Interviewee:  That's great news, but we would still need to know whether the subcontractors 
+are using the same suppliers. We could analyze the number of suppliers for each of the areas 
+of overlap.  
+Interviewer:  Good suggestion. Although there are some common suppliers, the 
+analysis indicates that the subassembly manufacturers tend to use different 
+suppliers.  
+Summarize and make recommendations 
+Interviewee:  Our client needs to reduce costs by 5 percent. The largest area of opportunity 
+appears to be in purchased materials, the majority of which comprise subassemblies 
+manufactured by seven subcontractors. By looking at its purchases in total, the client can 
+target approximately 40 percent of costs. To achieve the 5 percent cost reduction, it would 
+need to reduce costs by 15 to 20 percent. It could try to do that by increasing commonality in 
+the design of the subassemblies and components and by shifting volume to a smaller number 
+of suppliers.  
+Interviewer:  Considering that the majority of the raw materials and components are 
+purchased commodities, do you think the 15-20 percent cost reduction is achievable? 
+Interviewee:  Well, I know that raw materials and components typically have lower margins 
+than more customized products. I suspect it may be challenging to hit the client's savings 
+target by focusing only on these purchases. But since raw materials and components 
+represent about 40 percent of costs and there is an opportunity to concentrate purchasing, I 
+think we should start here.  
+Interviewer:  Where else could you look for savings? 
+Interviewee:  If I look back at the cost data on the jet, direct labor is another large cost 
+component. As a contingency, we could look into that area as well. I've read that other 
+companies use outsourcing to lower their manufacturing costs—perhaps our client could do the 
+same.  
+For example, it might want to increase its use of purchased subassemblies and reduce the 
+amount of direct manufacturing it does. Of course this would work only if it could drive direct 
+labor costs below the offsetting cost of these subassemblies. The client will be working closely  
+
+
+===== PDF p62 =====
+Practice Cases – Case 7: Fighter Jet  
+BCG 
+ 
+ 
+58
+with the subassembly suppliers to implement its purchasing initiative. This may give it an 
+opportunity to explore the suppliers' capabilities at the same time. 
+Interviewer:  That's an interesting suggestion. How would you recommend the 
+company pursue both of the initiatives you have discussed? 
+Interviewee:  I would look first to combine purchases across the subassembly suppliers with 
+our client's purchases. I suspect that the client and the subassembly suppliers will need to 
+share a great deal of information, including engineering drawings and specifications, with 
+potential suppliers of the raw materials and components. 
+ 
+The Internet could prove to be a very effective medium for forming a single "virtual" 
+purchasing department to consolidate both the flow of information and purchase orders across 
+the companies. Our client might also want to use a bidding system for those materials that are 
+true commodities. 
+ 
+Next, I would turn to the engineering departments and form cross-company teams to look for 
+areas to increase commonality of design. At the same time, those teams could explore 
+opportunities to use more purchased subassemblies and decrease the client's direct labor 
+costs.  
+Interviewer: That sounds great, and is very similar to a project we did. I would 
+caution you, however, to examine the upfront costs involved in your 
+recommendations, both for the redesign and for the implementation of the 
+purchasing system, before going ahead. 

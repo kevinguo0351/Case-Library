@@ -1,0 +1,249 @@
+===== PDF p45 =====
+ 
+Haas Consulting Club Case Book 
+ 
+41  
+5.13. Bicycle Manufacturer 
+Length: Long (45 Minutes) 
+ 
+Problem: 
+• Your client is a manufacturer of bicycles 
+• They have been in business for 25 years 
+• They manufacturer and sell three categories of bicycles: 
+o Racing bikes: High end, high performance bikes for sophisticated cyclists 
+o Mainstream bikes: Durable, but not overly complicated bikes for everyday 
+riders 
+o Children’s bikes: Smaller, simpler versions of their mainstream bikes for 
+children 
+• Profits at your client have decreased over the past five years 
+ 
+Question: 
+• What is driving the decline in overall profits? 
+• What recommendations might correct the situation? 
+ 
+Analysis: 
+The first question is to determine what has caused overall profits to decrease. To 
+accomplish this, the candidate must first understand what has transpired in each of the 
+three product categories over the past five years during which profitability has slipped. 
+The following are questions and answers that would be provided in an interview scenario. 
+ 
+• What are the client’s margins for a bicycle in each of the three segments? 
+o Racing: Cost = $600/unit, Profit=$300/unit 
+o Mainstream:  Cost = $250/unit, Profit = $75/unit 
+o Children’s:  Cost = $ 200/unit, Profit = $50/unit 
+ 
+• What has happened to the market size of each of the three segments over the past five 
+years? 
+o Racing: Has remained constant at  its present size of $300MM 
+o Mainstream: Has increased at 2% growth rate per year to its present size of 
+$1.0B 
+o Children’s: Has increased at 3% growth rate per year to its present size of 
+$400MM 
+ 
+• What has happened to our client’s market share in each of these segments? 
+o Racing: Market share has decreased from 60% to 30% 
+o Mainstream: Market share has increased from 0% to 5% 
+o Children’s: Market share has increased from 0% to 3%  
+ 
+• Who are the client’s major competitor’s in each market segment? What has happened 
+to their market share in each segment over the past five years? 
+o Racing: There is one main competitor and a host of small firms. Your main 
+competitor has increased market share from 30% to 50% 
+
+
+===== PDF p46 =====
+ 
+Haas Consulting Club Case Book 
+ 
+42  
+o Mainstream: There exist many, large competitors, none of which holds more 
+than 10% of the market 
+o Children’s: As in the mainstream segment, there are many competitors, none 
+with more than 10% of the market 
+ 
+The above information provides enough information to put together a picture of why 
+profits have decreased over the past five years : Your client, with a commanding position 
+in a flat market segment (racing), expanded into new segments (mainstream and 
+children’s). As this occurred, market share decreased dramatically in the most lucrative 
+segment (racing), creating an unfavorable mix.  
+The extent to which profits have decreased can be deduced from some quick math : 
+profits have slipped from $60MM five years ago (=60% x $300MM x 33% racing 
+margin) to $44MM today ( = (30% x $300MM x 33% racing margin) + (5% x $1B x 
+23% mainstream margin) + (3% x $400MM x 20% children’s margin)). 
+ 
+The dramatic decrease in market share in the racing segment is at this point still 
+unexplained. Questions that would help formulate an explanation include: 
+ 
+• Have there been any major changes in product quality in your client’s racing product? 
+Or in its main competitor’s racing product? 
+o No 
+ 
+• Have there been any major price changes in your client’s racing product? Or in its 
+main competitor’s racing product? 
+o No 
+ 
+• Have there been any major changes in distribution outlets for your client’s racing 
+product? Or for its main competitor’s racing product? 
+o Yes 
+o Previously your client and its main competitor in the racing segment sold 
+exclusively through small, specialty dealers. This remains unchanged for the 
+competition.  
+o Your client, however, began to sell its racing bikes through mass distributors 
+and discount stores (the distribution outlets for mainstream and children’s 
+bikes) as it entered the mainstream and children’s segment. 
+ 
+• How do the mass distributors and discount stores price the racing bikes relative to the 
+specialty stores? 
+o Prices at these stores tend to be 15 to 20% less. 
+ 
+• What percent of your client’s racing sales occur in mass distributors and discount 
+stores? 
+o Effectively none. This attempt to sell through these distributors has failed 
+ 
+• How has the decision to sell through mass distributor’s and discount stores affected 
+the image of the client’s racing product? 
+
+
+===== PDF p47 =====
+ 
+Haas Consulting Club Case Book 
+ 
+43  
+o No studies have been done.  
+ 
+• How has the decision to sell through mass distributor’s and discount stores affected 
+your client’s relationship with the specialty outlets? 
+o Again, no formal analysis has been performed. 
+ 
+Although some analysis and/or survey should be performed to answer more conclusively 
+the last two questions, a possible story can be put together. There has been no appreciable 
+change in either quality or price (or any other tangible factor) of your client’s racing 
+product relative to its competition. It is not the product that is the problem, but rather its 
+image. As your client came out with lower end, mainstream, and children’s products and 
+began to push their racing segment through mass distributors and discount outlets, their 
+reputation was compromised. Additionally, the presence of the racing products in the 
+discount outlets has put your historic racing distributor (the specialty shops) in a 
+precarious position. The specialty shops must now lower price to compete, thereby 
+cutting their own profits. Instead, they are likely to push the competition’s product. 
+Remember, your client has no direct sales force at the retail outlets. The specialty shops 
+essentially serve as your client’s sales force. 
+ 
+The above analysis offers an explanation of what has affected the top side of the 
+profitability problem. Still to be examined is the cost, or bottom side, of the profitability 
+issue. Questions to uncover cost issues would include: 
+ 
+• How does the client account for its costs? 
+o The client has a single manufacturing and assembly plant. They have separate 
+lines in this facility to produce racing, mainstream and children’s products. 
+They divide their costs into the following categories: labor, material and 
+overhead. Overall costs have been increasing at a fairly hefty rate of 10% per 
+year. 
+ 
+• What is the current breakdown of costs along these categories for each product 
+segment? 
+o Racing: Labor = 30%, Material = 40%, Overhead = 30% 
+o Mainstream: Labor = 25%, Material = 40%, Overhead = 35% 
+o Children’s: Labor = 25%, Material = 40%, Overhead = 35% 
+ 
+• How has this mix of expenses changed over the past five years? 
+o In all segments, labor is an increasing percentage of the costs.  
+ 
+• Does the basic approach to manufacturing (i.e. the mix of labor and technology) 
+reflect that of its competition? 
+o Your client tells you that there is a continuing movement to automate and 
+utilize technology to improve efficiency throughout the industry, but it is 
+his/her opinion that their approach, maintaining the “human touch”, is what 
+differentiates them from the competition. (Unfortunately, he’s right!!) 
+ 
+
+
+===== PDF p48 =====
+ 
+Haas Consulting Club Case Book 
+ 
+44  
+• Is the workforce unionized? 
+o Yes 
+ 
+• What is the average age of the workforce? 
+o 52 and climbing. There is very little turnover in the workforce. 
+ 
+• What is the present throughput rating? How has it changed over the past five years? 
+o Presently the plant is producing at about 80% of capacity. This has been 
+decreasing steadily over the last several years. 
+ 
+• What is the typical reason for equipment shutdown? 
+o Emergency repair 
+ 
+• Describe the preventive maintenance program in effect at the client’s facility? 
+o Preventive maintenance is performed informally based on the knowledge of 
+senior technicians. 
+ 
+• How often has equipment been replaced? Is this consistent with the original 
+equipment manufacturer’s recommendations? 
+o The client feels that most OEM recommendations are very conservative. They 
+have followed a philosophy of maximizing the life of their equipment and 
+have generally doubled OEM recommendations. 
+ 
+The above information is sufficient to add some understanding to the cost side of the 
+equation. Your client has an aging workforce and plant that is behind the times in terms 
+of technology and innovation. This has contributed to excessive breakdowns, decreased 
+throughput, increased labor rates (wages increase with seniority) and greater labor hours 
+(overtime to fix broken machines). 
+ 
+In proposing recommendations to improve the client’s situation, there is no single correct 
+approach. There are a number of approaches that might be explored and recommended. 
+The following are some possibilities: 
+ 
+• Abandon the mainstream and children’s segment to recover leadership in the racing 
+segment 
+Issues to consider in this approach: 
+o How much of the racing segment is “recoverable”? 
+o What are the expected growth rates of each segment? 
+o How badly damaged is the relationship with the specialty outlets? 
+o Are there alternative outlets to the specialty shops such as internet sales? 
+o How will this move affect overall utilization of the operating facilities? 
+ 
+• Maintain the mainstream and children’s segment, but sell under a different name 
+Issues to consider in this approach: 
+o Is there demand among the mass and discount distributors for bicycles under 
+their name? 
+
+
+===== PDF p49 =====
+ 
+Haas Consulting Club Case Book 
+ 
+45  
+o What additional advertising and promotions costs might be incurred? 
+o What are the expected growth rates of each segment? 
+o What is driving the buying habits of the mainstream and children’s market? 
+ 
+• Reduce costs through automation and innovation 
+Issues to be considered: 
+o What technological improvements are to be made? 
+o What are the required investments?  
+o What are the expected returns on those investments? 
+o How will these investments affect throughput? 
+o To which lines are these investments appropriate?  
+o Are the mainstream and children’s segments potentially “over-engineered”? 
+o What impact will this have on the required workforce levels? 
+o If layoffs are required to achieve the benefits, what impact will this have on 
+labor relations? 
+ 
+• Reduce costs through establishing a formal preventive maintenance program 
+Issues to be considered: 
+o What organizational changes will be required? 
+o What analysis will be performed to determine the appropriate amount of PM? 
+o What training is required of the workforce? 
+o What technical or system changes are required? 
+o How will the unionized workforce respond? 
+ 
+Key Takeaways: 
+This case can prove to be lengthy and very involved. It is not expected that a candidate 
+would cover all of the above topics, but rather work through selected topics in a logical 
+fashion. It is important that the candidate pursue a solution that considers both revenue 
+and cost issues to impact profit. Additionally, a candidate’s ability to work comfortably 
+with the quantitative side of this case is important. The above recommendations for 
+improving profitability are just a few among many.  The candidate may come with 
+his/her own ideas. 

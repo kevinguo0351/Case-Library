@@ -1,0 +1,30 @@
+{
+  "case_id": "IESE_2021_11_cricket-mania",
+  "school": "IESE",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\IESE\\IESE_Case Book_2021.pdf",
+  "idx": 11,
+  "case_name": "Cricket Mania",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Sports / Media",
+  "difficulty": null,
+  "pdf_page_start": 147,
+  "pdf_page_end": 157,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    149,
+    150,
+    151,
+    154,
+    155
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png",
+    "exhibits/exhibit_p151.png",
+    "exhibits/exhibit_p154.png",
+    "exhibits/exhibit_p155.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\IESE\\2021\\11_cricket-mania"
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2016_36_the-everything-retailer",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 36,
+  "case_name": "The Everything Retailer",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": "Medium",
+  "pdf_page_start": 375,
+  "pdf_page_end": 382,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    377,
+    378,
+    379,
+    380,
+    381,
+    382
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p377.png",
+    "exhibits/exhibit_p378.png",
+    "exhibits/exhibit_p379.png",
+    "exhibits/exhibit_p380.png",
+    "exhibits/exhibit_p381.png",
+    "exhibits/exhibit_p382.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\36_the-everything-retailer"
+}

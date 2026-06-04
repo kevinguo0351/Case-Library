@@ -1,0 +1,34 @@
+{
+  "case_id": "Fuqua_2017_28_duck-island-beer-co",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 28,
+  "case_name": "Duck Island Beer Co.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer Products/Beer",
+  "difficulty": null,
+  "pdf_page_start": 319,
+  "pdf_page_end": 332,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    321,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p321.png",
+    "exhibits/exhibit_p323.png",
+    "exhibits/exhibit_p324.png",
+    "exhibits/exhibit_p325.png",
+    "exhibits/exhibit_p326.png",
+    "exhibits/exhibit_p327.png",
+    "exhibits/exhibit_p328.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\28_duck-island-beer-co"
+}

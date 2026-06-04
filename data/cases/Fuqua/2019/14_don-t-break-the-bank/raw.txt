@@ -1,0 +1,387 @@
+===== PDF p176 =====
+Don’t break the bank
+172
+Industry:                  Financial Services (Credit Cards)
+Case Type:     
+Revenue maximization
+Led by:            
+Interviewee
+Quantitative Level: Medium
+Qualitative Level:   Difficult
+
+
+===== PDF p177 =====
+Behavioral 
+Questions
+173
+Tell me about a time you failed
+Question 1:
+Tell me about a time you solved a problem with a creative solution
+Question 2:
+Behavioral Questions
+
+
+===== PDF p178 =====
+Don’t break the bank: Prompt 1
+174
+Our client, Hudson Bank, is an online bank that plans to launch a new credit card 
+product within the next six months. They have asked us to help them determine a 
+pricing model that will maximize their revenues.
+Prompt #1:
+• Two core customer segments: Transactors and Revolvers. Transactors pay off their entire 
+credit card balance each month, whereas Revolvers leave a balance remaining month to 
+month
+• Our client generates credit card revenue three ways: 1) Merchant Fee, 2) Annual Percentage 
+Rate (APR), and 3) Annual Fee
+• If the interviewee asks about costs, mention that the cost structure is the same regardless of 
+the pricing strategy, so the interviewee should focus on revenues
+• Competition is very strong in this space, so finding the right pricing strategy is critical
+• Our client offers other lending products such as personal and student loans; however, our 
+sole focus is around their new credit card product
+Case Background:
+
+
+===== PDF p179 =====
+Potential framework
+175
+Potential framework buckets:
+Customers: Understand target customer/customer segments and create customized pricing strategy to 
+maximize revenues and/or loyalty programs (e.g., cash back, refer a friend)
+Competition: Benchmark industry standards to determine range in pricing strategies
+Company: Understand Hudson Bank’s risk appetite (i.e., prime, sub-prime) and if there is potential for 
+cannibalization of existing financial products
+Technology: Long-term scalability of new customers on credit card platform
+Regulatory environment: UDAAP/CFPB restrictions on potential pricing strategies
+Revenue streams: APR, annual fee, late fees, merchant fees, etc.
+Framework Buckets:
+
+
+===== PDF p180 =====
+Exhibit #1
+176
+5
+4.8
+4.5
+4.5
+8
+6.3
+5
+2.7
+10%
+15%
+20%
+25%
+Forecasted Customer Demand by APR
+Transactors
+Revolvers
+1
+1 Units in 000s
+
+
+===== PDF p181 =====
+Interviewer guidance on Exhibit 1
+Provide customer segment definitions to 
+interviewee if you have not already
+Hudson bank has two core customer segments: 
+Transactors and Revolvers. Transactors pay off their 
+entire credit card balance each month, whereas Revolvers 
+leave a balance remaining month to month
+The two customer groups are required to 
+have the same pricing model in order to 
+mitigate regulatory risks during the first year 
+of operation
+Forecast is only for the first year after 
+launching the card
+Interviewee should recognize that 
+Transactors are relatively price inelastic, 
+while Revolvers are not
+Interviewee should inquire about loan 
+balances and/or alternative revenue streams 
+in order to determine the optimal pricing 
+strategy
+Once interviewee has recognized they 
+require additional customer behavior 
+data/revenue stream data, move to Prompt 2
+177
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p182 =====
+178
+In addition to APR revenue, our client gets 2% on merchant fees (i.e., 2% multiplied by 
+the transaction amount per card swipe) in addition to a $100 Annual Fee per customer.
+Prompt #2:
+• The anticipated average annual credit card balance is $5K. Interviewee should assume that 
+the APR revenue will be generated at an annual rate, not monthly
+• Forecasted average transaction amount is $100 with an expectation of 25 swipes per 
+customer in the first year 
+• Annual fees cannot be adjusted because these funds will be used to cover the operational 
+costs associated with servicing each customer
+• Merchant fees will not be adjusted in order to balance Hudson Bank’s merchant acceptance 
+rate of their new card with the strong competitive landscape
+Additional data to be provided upon request:
+Don’t break the bank: Prompt 2
+
+
+===== PDF p183 =====
+Interviewer guidance on Prompt 
+Data to provide interviewee, if not requested:
+1) Annual fee = $100, 2) Average loan balance = $5,000 
+3) Merchant fee = 2%, 4) Average Transaction Amount = 
+$100 , 5) Average annual transactions = 25
+Quantitative Approach:
+1) Multiply customer segments by 1,000 to convert units
+2) Multiply total customers by $100 to get Annual Fee 
+Revenue (by APR bucket)
+3) Calculate Revolver APR Revenue ($5k*# Revolvers by 
+APR*APR)
+A strong interviewee will recognize that the 25%  APR can 
+be ruled out based on the low Revolver demand
+4) Calculate Merchant Fee Revenue (# total customers by 
+APR bucket * $100 avg transaction amount * 25 monthly 
+transactions * 2% Merchant Fee)
+A strong interviewee will recognize this is half the value of 
+the Annual Fee revenue
+5) Calculate Optimal APR by summing data from steps 2-4 
+(Annual Fee Revenue + APR Revenue + Merchant Fee 
+Revenue) 
+A strong candidate should ask about expected growth rates 
+beyond the first year. Our client is most interested in the 
+first twelve months following the credit card launch
+Starting with Exhibit 1 data:
+179
+Prompt #2 Guidance:
+Analysis:
+Optimal APR = 20% with $6.425M in expected revenue
+1. Convert units (multiply segments by 1K)
+Transactors
+Revolvers
+Total customers
+10%
+5,000
+              
+8,000
+                 
+13,000
+                             
+15%
+4,800
+              
+6,300
+                 
+11,100
+                             
+20%
+4,500
+              
+5,000
+                 
+9,500
+                               
+25%
+4,500
+              
+2,700
+                 
+7,200
+                               
+2. Annual Fee Revenue (multiply segments by $100)
+Transactors
+Revolvers
+Total Annual Fee Revenue
+10%
+500,000
+$                    
+800,000
+$       
+1,300,000
+$                                
+15%
+480,000
+$                    
+630,000
+$       
+1,110,000
+$                                
+20%
+450,000
+$                    
+500,000
+$       
+950,000
+$                                   
+25%
+450,000
+$                    
+270,000
+$       
+720,000
+$                                   
+3. APR Revenue (# Revolvers by APR * $5k loan balance * APR)
+Transactors
+Revolvers
+Total APR Revenue
+10%
+0
+4,000,000
+$       
+4,000,000
+$                     
+15%
+0
+4,725,000
+$       
+4,725,000
+$                     
+20%
+0
+5,000,000
+$       
+5,000,000
+$                     
+25%
+0
+3,375,000
+$       
+3,375,000
+$                     
+5. Optimal APR = 20% (sum three revenue streams by APR)
+Transactors
+Revolvers
+Total Revenue
+10%
+750,000
+$       
+5,200,000
+$       
+5,950,000
+$                     
+15%
+720,000
+$       
+5,670,000
+$       
+6,390,000
+$                     
+20%
+675,000
+$       
+5,750,000
+$       
+6,425,000
+$                     
+25%
+675,000
+$       
+3,780,000
+$       
+4,455,000
+$                     
+4. Merchant Fee Revenue (total customers * $100 transaction * 25  swipes * 2%)
+Transactors
+Revolvers
+Total Merchant Fee Revenue
+10%
+250,000
+$                          
+400,000
+$            
+650,000
+$                                    
+15%
+240,000
+$                          
+315,000
+$            
+555,000
+$                                    
+20%
+225,000
+$                          
+250,000
+$            
+475,000
+$                                    
+25%
+225,000
+$                          
+135,000
+$            
+360,000
+$                                    
+
+
+===== PDF p184 =====
+Brainstorming
+What other factors should Hudson Bank 
+consider before finalizing their pricing 
+strategy?
+Potential factors to consider:
+Optimal APR pricing (i.e., 20%) considerations:
+20% creates a higher risk of default during economic 
+downturns. Additionally, 15% APR generates similar 
+amounts of revenue
+Forecast is only for next year, does not consider change 
+in consumer preferences/expected growth
+Competitors with lower APRs, no annual fees, and/or 
+lower merchant fees may dominate space
+Understand how our client will become the “top 
+of wallet” card with this pricing model
+Alternative pricing considerations:
+Cash back bonus/customer loyalty programs to increase 
+new customer base (a strong interviewee will note the 
+recent trends with these programs)
+Customize the credit card pricing strategy by customer 
+segments (a strong candidate will note regulatory 
+concerns tailored pricing models)
+Promote lower APRs for cross-sell customers (i.e., 
+customers who have another loan/account with Hudson 
+Bank) to increase customer base
+Strategy to increase number of swipes and/or average 
+transaction amount for Transactors
+180
+Prompt:
+Analysis:
+
+
+===== PDF p185 =====
+Don’t break 
+the bank
+181
+The General Manager of Hudson Bank’s credit card division will be joining us shortly 
+and would like to hear your recommended pricing strategy
+Recommendation 
+• The interviewee should begin synthesizing their findings:
+– The revenue-maximizing APR for Hudson Bank is 20%, capturing 9,500 customers who are forecasted 
+to generate $6.425M in revenue during the first year. Another acceptable recommendation is 15% 
+because it generates $6.39M in revenue and brings in 1,600 more customers. This may also generate 
+less risk for Hudson Bank during economic downturns.
+– Risks associated with recommended pricing strategy 
+– Next steps to mitigate associated risks
+Risks and Next Steps:
+Don’t break the bank
+
+
+===== PDF p186 =====
+Evaluation 
+Criteria
+182
+Candidate Level
+Assessment
+Average Candidate
+Will consider profitability instead of revenue, fail to drive 
+case, make arithmetic mistakes, forget details, and fail to 
+put numbers into context. An average candidate might need 
+to be reminded of the pricing criteria.
+Good Candidate
+Will develop a custom and complete framework, make 
+accurate but slow calculations, will remember details and 
+put everything into context
+Excellent Candidate
+Will develop a structured and MECE framework, complete 
+quick and accurate calculations, remember to ask about the 
+potential growth rates beyond the first year, put numbers 
+into perspective, and will drive the case forward at each 
+step
+Don’t break the bank

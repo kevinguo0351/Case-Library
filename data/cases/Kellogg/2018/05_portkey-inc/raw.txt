@@ -1,0 +1,166 @@
+===== PDF p53 =====
+•
+Business appears promising because there are no 
+competitors and the patented technology creates new value 
+for customers
+•
+Candidate should focus on market attractiveness before 
+addressing pricing
+49
+Portkey Inc.
+Case Question
+Clarifying answers to provide (if asked)
+A model framework should include the following
+Enter 
+market?
+Market 
+attractiveness
+Pricing
+Other 
+consideration
+Market size
+Value-based
+Cost-based
+Risks / regulations
+Candidate reflections / initial hypothesis should include
+Portkey Inc. is a British company that has developed a new technology, Apparate, that can transport a person in a matter of 
+seconds. The founder, Albus Severus Potter, invented the technology when he needed a fast way to travel from McMuggle to 
+the Hogwarts School of Management. Apparate is first technology of its kind, patented and does not have any direct 
+competitors. Up-front fixed costs are estimated to be 2.3BN GBP.
+Albus has tasked us with figuring out whether to launch Apparate, and if launched – how to price this new service. 
+•
+The U.K. is the only country that has given regulatory 
+approval
+•
+From an initial consumer survey, 60% of travelers 
+indicated they are open  to this new mode of travel 
+•
+From initial testing, out of 200k people, one person 
+experienced half-a-body delay – an often fatal condition
+•
+The trip is instant, but the technology’s risks increase as 
+trip distance increases 
+Company objective
+Product development
+Growth and trends
+Competitors
+Consumer interest
+Other(s)
+By: Arielle Solomon (Kellogg ’16) and Lumay Wang (Kellogg ‘16)
+Quant: 5
+Structure: 4
+Industry: Transportation
+Framework: New Product/ 
+Market Entry
+
+
+===== PDF p54 =====
+A: The potential market size is equivalent to
+The candidate should break down the market into 
+Price*Quantity and recognize that there are two customer 
+segments, business and leisure travelers. 
+Business: 60M*.66*.80*9*100 = 28.8BN
+Leisure: 60M*.66*.20*2*100 = 1.6BN
+Total: 28.8B+1.6BN = 30.4BN (304MM total trips)
+•
+This is a large market and growing. 
+•
+Candidate could also mention that business tickets tend 
+to be pricier than leisure tickets
+•
+Breakeven point isn’t covered by the case but is a logical 
+next step – assuming $100/trip, need 23MM trips to 
+break even or 8% market share of trip volume
+•
+Candidate should discuss cost- vs. value-based 
+pricing and determine that Apparate should be 
+value-based priced because of low breakeven, no 
+direct competition, and high price of substitutes.  
+•
+May mention target return pricing (setting price to 
+achieve breakeven in 1 year) or psychological 
+pricing (setting price high as signal)
+•
+Price should be at least the average price of a plane 
+ticket as this method saves time/
+•
+Candidate could brainstorm how to value time 
+saved (work hours saved, opportunity cost, etc.) 
+•
+Candidate can mention how travelers may be 
+hesitant to try this new product so may need 
+discount / promotion
+50
+Deep dive
+Q: Calculate the potential size of the market for a 400 
+mile trip (for example from London to Edinburgh). For 
+the purpose of this analysis, candidate should focus on 
+the UK market for 400-mile airplane trips.
+Provide Exhibit A after candidate brainstorms inputs 
+needed to size the market such as a transportation 
+route, ticket prices of current substitutes, number of 
+travellers, etc. 
+Further evidence to provide – Market Size
+Candidate insights –Market Size
+Q: As a next step, assess pricing strategies. What price 
+would you recommend? 
+Candidate should take some time to write a second 
+framework to think about pricing. Make sure candidate 
+is not anchored to 100 GBP price shown in Exhibit A
+Further evidence to provide – Pricing
+Candidate insights – Pricing
+
+
+===== PDF p55 =====
+51
+Suggested conclusion
+Conclusion
+Risks
+Next steps
+Portkey Inc. should move forward with launching Apparate:
+•
+The market for short-haul trips is 30.4BN GBP and growing at 2% a year
+•
+There are no other direct competitors and the technology is patented
+•
+Portkey Inc. could pursue a value-based pricing strategy that would position the company for future growth while funding new 
+research and product development
+Risks include:
+•
+Safety risks of product malfunctioning
+•
+Lack of consumer adoption of a new product
+•
+Changes in the regulatory environment/restrictions in commercializing the technology in other geographic markets 
+•
+Competitive entry affecting value-based pricing 
+As next steps, Portkey Inc. could:
+•
+Complete a rigorous study on the safety of Apparate that may be publically available to ensure consumer confidence
+•
+Conduct market research to better understand consumer interest / needs and how to maximize value creation
+•
+Choose pilot market and/or segment (e.g. business travelers) and conduct test
+
+
+===== PDF p56 =====
+52
+Exhibit A
+Population of UK
+60 million
+Percentage of UK population that travels
+66%
+Average price of ticket (400 miles)
+100 GBP (around $150 USD)
+% of traveling population that fly for 
+business
+80%
+% of traveling population that fly for 
+leisure
+20%
+# trips/year for business travellers
+9
+# trips/year for leisure travellers
+2
+Year-on-year growth of travel
+2%

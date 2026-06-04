@@ -1,0 +1,86 @@
+===== PDF p37 =====
+Case 8: Pharma Acquisition
+UCLA Anderson Casebook 2016
+33
+Business Problem Statement
+Our client is a global pharmaceutical company headquartered in Frankfurt, Germany that produces over the 
+counter drugs. The company is thinking of acquiring another pharmaceutical company located in San Francisco, 
+that produces nutritional drugs (for weight loss, diabetes, etc.) The CEO hired us to advise whether they should 
+acquire the company or not.
+What are the key areas to investigate in order to determine whether the acquisition is a good idea or not?
+Sample Initial Response/Framework
+First I would need to understand the rationale for the acquisition, which could be to:
+•
+Acquire resources (increase capacity, increase distribution, broaden product line technology, human capital, 
+R&D, brand name, customer base)
+•
+Reduce costs (economies of scale, economies of scope)
+It is very important that the acquisition makes sense economically (positive NPV), but we also need to look into 
+the organizational issues (will potential synergies be realized, is the ﬁrm in the position to perform the 
+integration).
+In addition, I would assess the geographic diﬀerences of the two companies under discussion. Finally I would 
+look into the likely response of competitors if the acquisition occurs and maybe alternatives to acquisition and 
+compare it to the acquisition itself (other target, organic growth).
+Information Provided to Interviewee Upon Request
+•
+The purpose of acquisition is to increase proﬁts
+•
+The San Francisco company has 4 drugs in the market
+•
+Both companies sell their products globally
+•
+The R&D department is co-located with HQ
+•
+Revenues from an approved drug of the San Francisco-based company is $1.5M
+Interviewer Guidance
+After the candidate initial response and some discussion, provide the exhibit and ask Question 1. 
+Explanation of the exhibit (share with the interviewee if he/she does not arrive at this understanding unassisted):
+•
+30% of drugs conceived in phase 1 succeed and move on to phase 2
+•
+Of those in phase 2, 40% move on to phase 3, and so on…
+•
+E.g. current probability of drug reaching phase 3 = 30%*40% = 12%
+•
+E.g. current probability of drug being launched = 30%*40%*70%*90% = 7.6% 
+not necessary to calculate, for interviewer reference only
+
+
+===== PDF p38 =====
+Case 8: Pharma Acquisition
+UCLA Anderson Casebook 2016
+34
+Question 1: The company just discovered that the yield from phase 2 to phase 3 can be 
+improved by investing $150K in the R&D technology. By how much should the yield increase so 
+as to break-even on the investment?
+To be provided to interviewer upon request:
+•
+The present value of a launched product is $1.5M
+Solution
+To break even, incremental costs must equal incremental revenue:
+•
+incremental costs = $150K investment
+•
+incremental and revenue = PV of launching product (1.5M)*increase in yield from 2 to 3*yield from 3 to launch
+If x = the increase in the success rate from phase 2 to phase 3 then:
+$150,000 = $1,500,000 * x* 70% * 90% 
+x = 15.8% this means that the success rate should increase by approximately  15.8%/40% = 40%
+Question 2: Interviewer: What are the risks involved with this acquisition?
+(The candidate should be able to recognize several of the diﬀerent risks involved)
+•
+the strategic rationale
+•
+likely response of competitors if acquisition occurs
+•
+organizational issues: diﬀerent locations for the HQ, integration of the two organizations
+•
+proﬁtability of the acquisition (NPV calculation)
+•
+Better alternatives to the acquisition exist
+
+
+===== PDF p39 =====
+Case 8: Pharma Acquisition Town Mayor
+Exhibit
+UCLA Anderson Casebook 2016
+35

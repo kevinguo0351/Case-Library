@@ -1,0 +1,333 @@
+===== PDF p256 =====
+© 2021 NYU Stern MCA
+Case Prompt:
+Your client is FlashPro Inc., a San Francisco based technology company that develops and sells wearable and mountable
+action cameras. FlashPro’s CEO believes that the company’s growth has stagnated and has hired your firm to remedy that
+issue.
+FlashPro
+Case Overview:
+Industry: Technology
+Case Type: Growth
+Concepts Tested:
+•
+Math
+•
+New Market Assessment
+Overview Information for Interviewer:
+•
+This case test the interviewee’s ability to deal with large sets of data and focus
+on the key components of profitability.
+•
+It also tests the interviewee’s creativity in figuring out ways to grow revenues and 
+profit.
+Author: Rodrigo Vargas (Stern ‘17)
+[Interviewer-led]
+Quant: 9
+Structure: 7
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+252
+© 2021 NYU Stern MCA
+
+
+===== PDF p257 =====
+FlashPro: Case Guide
+Interviewer Guide:
+Clarifying Information:
+•
+The company is public. It sells its 
+products in the  US and internationally.
+•
+Their main product is CamPro; a 
+mounted  camera mainly used when 
+playing action sports.  It has also 
+recently started being used in other  
+recreational activities.
+•
+FlashPro does not manufacture its 
+products, it  contracts with 
+manufacturers in China.
+•
+FlashPro sells its products through 3 
+channels:  Distributors, Retail, and 
+FlashPro’s Website
+•
+The industry is highly competitive and 
+customers  are very loyal to each brand
+A Good Framework will include:
+•
+Market analysis: Competitors, Customers, Substitutes, Suppliers,
+etc.
+•
+Profitability tree indicating components of revenue and costs.
+•
+Costs should include COGS, R&D, G&A and Sales & Marketing.
+Necessary Information that should be given only when
+specifically asked for by interviewee:
+•
+The Camera Price is $250
+•
+Gross margin has remained steady at 50%
+•
+Over the last 5 years, 60% of camera sales have come from 
+the U.S. The split is expected to be similar in 2018.
+253
+© 2021 NYU Stern MCA
+
+
+===== PDF p258 =====
+FlashPro: Question 1
+Question #1:
+[Hand out Exhibits 1-3]
+What is FlashPro’s expected Gross Profit for 2018?
+Math Solution:
+Revenues:
+U.S. Camera Sales = 16,000 * 85% * 30% * $250 = $1,020,000 
+Addressable Market * Penetration * FlashPro Market Share * Price
+International Camera Sales = 1,020,000 * (0.40 / 0.60) = 680,000
+U.S. Sales * (% International Sales / % U.S. Sales)
+Total Revenue = (1,020,000 + 680,000) = $1,700,000
+COGS
+$1,700,000 * 50% = $850,000
+Total Sales * COGS % of Sales = COGS
+Gross Profit
+$1,700,000 – $850,000 = $850,000 (in thousands = $850m)
+Total Sales – COGS = Gross Profit
+Math Information:
+Camera Price = $250
+Camera Sales Distribution:
+U.S. = 60% 
+International = 40%
+COGS = 50% of Sales
+These trends are expected to continue in 2018. 
+All amounts are in thousands.
+254
+© 2021 NYU Stern MCA
+
+
+===== PDF p259 =====
+FlashPro: Question 2
+Question #2:
+FlashPro wants to understand what are their revenue growth prospects at this moment (keeping everything constant) and analyze 
+other alternatives that could help boost their top line.
+Notes to Interviewer:
+•
+The purpose of this question is to test the candidate’s creativity and ability to come up with different ways to grow top line.
+•
+A good candidate should mention important insights from Exhibits 1, 2 and 3; limited market growth in the US and fierce competition
+that hinders gain of market share.
+•
+The candidate will start listing different ways FlashPro can increase sales. An excellent candidate will provide a organized framework 
+that includes the following:
+•
+Marketing Mix (4Ps): Product Attributes, Sales Channels, Price, Advertising, etc.
+•
+New Markets (Product Line Expansion, New Geographies, etc.)
+•
+Organic (Developed in house)
+•
+Inorganic (M&A)
+•
+If necessary, point candidate into considering new geographies and hand out Exhibit 4.
+255
+© 2021 NYU Stern MCA
+
+
+===== PDF p260 =====
+FlashPro: Question 3
+Question #3:
+[Hand out Exhibit 4]
+From an economic perspective what is the most attractive country to enter and what things should FlashPro consider before 
+entering?
+Notes to Interviewer:
+A good candidate would calculate the expected revenue on Year 3 and determine which of the alternatives is the best option.
+An excellent candidate will consider the sales channel distribution and would assume margins are higher on FlashPro’s website since 
+there is no intermediary, and lower on the distributor and retail channels.
+The best alternative is Argentina because it provides the highest revenue at the third year and the sales channels seem to provide higher 
+margins:
+Year 3 Revenue: Argentina $1,165, Japan $1,013, Australia $932, and Sweden $951
+Things to consider before entering:
+The candidate should provide a few structured examples of considerations before entering: customer habits, local competition, 
+regulation, country’s economic and geo-politic situation, logistics, etc.
+256
+© 2021 NYU Stern MCA
+
+
+===== PDF p261 =====
+FlashPro: Recommendation
+Recommendation:
+•
+Given the competitive landscape, 
+FlashPro should pursue a geographic 
+expansion strategy to achieve growth
+•
+Argentina is the most attractive option 
+with a higher expected market share, 
+higher overall revenue, and a larger 
+share of the higher margin website 
+channel
+Bonus: Guide to an excellent case
+•
+A good candidate will have a complete brainstorm and consider multiple expansion options.
+•
+An excellent candidate will recognize that the analysis is incomplete and that there are other costs to be factored in.
+Risks:
+•
+Did not consider costs related to
+entry into markets or competitive
+responses
+•
+The Year 1 market share 
+assumptions may be a bit 
+aggressive, FlashPro may have 
+trouble getting achieving those 
+assumptions
+Next Steps:
+•
+Continue doing research into
+expansion into the Argentinian market
+•
+Assess necessary internal capabilities 
+needed to implement expansion 
+strategy
+•
+Plan a marketing campaign that 
+includes advertising, sales channels, 
+promotion and pricing
+257
+© 2021 NYU Stern MCA
+
+
+===== PDF p262 =====
+FlashPro: Exhibit 1
+11,000
+13,000
+14,300
+15,200
+16,000
+16,500
+16,700
+2019E
+2020E
+(amounts in thousands)
+-
+10,000
+8,000
+6,000
+4,000
+2,000
+12,000
+14,000
+16,000
+18,000
+2014A
+2015A
+2016A
+2017A
+2018E
+Customers
+Action Camera Potential Market in the US
+258
+© 2021 NYU Stern MCA
+
+
+===== PDF p263 =====
+FlashPro: Exhibit 2
+95%
+90%
+85%
+80%
+76%
+72%
+69%
+0%
+20%
+40%
+60%
+80%
+100%
+2020E
+2019E
+2018E
+2017A
+2016A
+2015A
+2014A
+Action Camera Market Penetration in the U.S.
+259
+© 2021 NYU Stern MCA
+
+
+===== PDF p264 =====
+FlashPro: Exhibit 3
+FlashPro  
+30%
+FujTech
+20%
+Can Lenses
+20%
+Nik Co  
+15%
+Olimpia
+3%
+Techsun
+2%
+All other  
+10%
+2016 Action Camera Market Share Distribution
+Market Share distribution is the same in the US and worldwide and has remained steady for the last 5 years. 
+FlashPro is the only company offering wearables
+260
+© 2021 NYU Stern MCA
+
+
+===== PDF p265 =====
+FlashPro: Exhibit 4
+Argentina
+Japan
+Australia
+Sweden
+Current Camera Market Size 
+(Total Revenues)
+$
+2,500
+$
+3,500
+$
+3,500
+$
+2,500
+Flash Pro’s Expected Market 
+Share at Year 1
+35%
+25%
+20%
+25%
+Expected Annual Growth 
+Over the next 3 years
+10%
+5%
+10%
+15%
+Sale Channel Distribution:
+Distributors
+20%
+40%
+20%
+40%
+Retail
+30%
+50%
+30%
+50%
+FlashPro’s Website
+50%
+10%
+50%
+10%
+After Year 3, the expected market annual growth for all
+countries is 5%
+(dollar amounts in
+thousands)
+261
+© 2021 NYU Stern MCA

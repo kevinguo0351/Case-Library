@@ -1,0 +1,42 @@
+{
+  "case_id": "Fuqua_2022_11_muni-golf-opportunity",
+  "school": "Fuqua",
+  "year": "2022",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2022.pdf",
+  "idx": 11,
+  "case_name": "Muni Golf Opportunity",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Real Estate/Private Equity",
+  "difficulty": null,
+  "pdf_page_start": 138,
+  "pdf_page_end": 156,
+  "n_pages": 19,
+  "exhibit_pdf_pages": [
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p143.png",
+    "exhibits/exhibit_p144.png",
+    "exhibits/exhibit_p145.png",
+    "exhibits/exhibit_p146.png",
+    "exhibits/exhibit_p147.png",
+    "exhibits/exhibit_p148.png",
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png",
+    "exhibits/exhibit_p151.png",
+    "exhibits/exhibit_p152.png",
+    "exhibits/exhibit_p153.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2022\\11_muni-golf-opportunity"
+}

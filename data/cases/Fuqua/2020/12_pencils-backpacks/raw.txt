@@ -1,0 +1,464 @@
+===== PDF p157 =====
+Pencils & Backpacks
+153
+Industry:                  Public Sector
+Case Type:     
+Strategy
+Led by:            
+Interviewer
+Quantitative Level: Difficult
+Qualitative Level:   Difficult
+Pencils & Backpacks
+
+
+===== PDF p158 =====
+Behavioral Questions
+154
+• Describe a time you had to cultivate resilience.
+Question 1:
+• Tell me about an industry you follow. Why do you follow it? What are the trends? 
+Question 2:
+
+
+===== PDF p159 =====
+Pencils & Backpacks
+155
+Our client, the governor of a southeastern state here in the US, is worried 
+about student performance in K-12 schools in the state. The state has 180 
+school districts and recently increased spending from $3.2B to $4.5B annually 
+on public education, but isn’t seeing the results it expected. She has hired us 
+to diagnose the problem and identify a solution. 
+Prompt #1:
+– We are focused only on public schools. Private schools, magnet schools, and for 
+this exercise charter schools, can be ignored.
+– The governor is up for re-election next year and she ran her original campaign on 
+a platform to reimagine education in the state.
+– According to a recent publication, the state ranks 48th in student proficiency
+– The governor’s goal is simply to increase student achievement.
+Case Background:
+
+
+===== PDF p160 =====
+Pencils & Backpacks
+156
+Framework Example Buckets:
+Intra district 
+considerations
+Inter district 
+considerations
+•
+Student demographics 
+relative to other 
+districts and states
+•
+Funding disparities 
+across districts
+•
+Socioeconomic 
+status of students
+•
+Condition of 
+facilities
+•
+Staffing of schools
+•
+Age of textbooks
+Political 
+considerations
+•
+What changes can 
+be easily 
+implemented?
+•
+How does an 
+election year affect 
+proposals? 
+•
+Key constituents in 
+certain districts
+Framework Notes and Guidance:
+Many frameworks will work. One possible way to think about this is within district considerations, 
+broader state considerations, and then the political considerations of implementation. Funding 
+should be mentioned somewhere, as the prompt indicates there was an increase in spend with no 
+results. 
+
+
+===== PDF p161 =====
+Exhibit #1
+157
+0.713
+0.550
+0.000
+0.100
+0.200
+0.300
+0.400
+0.500
+0.600
+0.700
+0.800
+0.900
+1.000
+National
+Average
+Client
+Proficiency in mathematics
+National Average
+Client
+Proficiency
+0.713
+0.55
+Student Demographics
+Free and Reduced Lunch
+0.3
+0.5
+English Language Learner
+0.1
+0.4
+Special Education Students
+0.2
+0.3
+School Funding
+Average per student
+$13,000 
+$13,000 
+
+
+===== PDF p162 =====
+Interviewer guidance on Exhibit #1
+• Guidance for exhibit 1
+–
+If asked, proficiency in mathematics is a good 
+proxy for overall student proficiency.
+–
+“Free and Reduced Lunch” is the % of students 
+who qualify for free or reduced lunch in public 
+schools. This is typically used as a proxy for 
+poverty in a school district. 
+–
+”English Language Learner” is the % of students 
+who are learning English as a second language. 
+Typically, these students require additional 
+resources in their schools so they can catch up to 
+peers.
+–
+“Special education students” is the % of students 
+who have been diagnosed with a physical or 
+mental impairment. Schools are typically mandated 
+by the state and federal government to provide 
+these students specific additional resources.
+-
+Candidate should notice that the state 
+seems to have more ”high needs” students 
+than the national average.
+-
+Candidate should also notice that funding 
+levels appear to be the same, despite 
+increased student need in the client state –
+this should prompt candidate to dive 
+deeper into funding as a solution 
+-
+Candidate should recognize that the state 
+ranks 48th or in the bottom 3 in student 
+proficiency
+-
+No math done on this exhibit; however 
+these demographics will be important later 
+in the case. 
+158
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p163 =====
+Exhibit #2A
+159
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+0.80
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+District G
+District F
+District E
+District D
+District C
+District B
+District A
+Math Proficiency
+Proportion of high-needs students
+Enrollment
+
+
+===== PDF p164 =====
+Exhibit #2B
+160
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+0.80
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+District F
+District E
+District D
+District C
+District G
+District A
+Proportion of high-needs students
+District B
+Math Proficiency
+Total 
+spend
+
+
+===== PDF p165 =====
+Interviewer guidance on Exhibits
+• Guidance for exhibit 2
+• Provide exhibit #2A and 2B at same time
+–
+If asked, proficiency in mathematics is a proxy for 
+overall student proficiency.
+–
+These districts are a random sample of those in the 
+state. 
+–
+The purpose of Exhibit 2A is to indicate that there 
+may be a correlation between proficiency scores 
+and student need.
+–
+Exhibit 2B shows the correlation between spending 
+and performance.
+-
+No math done on this exhibit
+-
+Candidate should notice that, in general, 
+districts with higher needs have less 
+proficiency than those with less need.
+-
+Candidate should also notice that higher needs 
+districts tend to be larger. A good candidate will 
+question over-crowding in schools.
+-
+Candidate should also notice that districts with 
+high proficiency are spending way more than 
+districts with low proficiency
+-
+A good candidate will recall that average spend per 
+student from Exhibit 1 is about $13,000 – so should 
+question why these districts are spending so much 
+more. 
+-
+A good candidate should also question why districts are 
+spending so much more despite having smaller 
+enrollment.
+-
+Candidate should investigate funding equity as 
+the next step. 
+161
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p166 =====
+Pencils & Backpacks
+Note to interviewer: handover exhibit and then read prompt:
+• Our client agrees with your observations and believes that there is an issue with how 
+funds are being distributed to districts in the state. Many states have moved to what’s 
+known as a “weighted student funding formula” – where districts receive a base amount of 
+funding per student, and additional funds for each student who falls into a category of 
+need (for example, special education, qualifying for free lunch, etc). These additional funds 
+are calculated as “weights” – multiplied to the base amount. Our client has two options 
+before her and wants our help deciding which to move forward with. 
+162
+Exhibit 3 Prompt:
+
+
+===== PDF p167 =====
+Exhibit #3
+163
+Option 1
+Proposed Allocation*
+Student type
+Base Multiplier
+English Language Learners
+0.1
+Free & Reduced Price Lunch 0.2
+Special Education 
+0.4
+Base
+$13,000 
+Option 2
+Proposed Allocation*
+Student type
+Amount per student
+Base
+$31,980 
+*No change anticipated in state budget for education
+
+
+===== PDF p168 =====
+Interviewer guidance on Exhibits
+• Candidate should aim to determine 
+the cost for each option
+• Option 1 proposes a weighted 
+student funding model. 
+• Option 2 is a flat base amount per 
+student.
+• Do not give until asked: Average 
+enrollment size per district is 800
+• Candidate must use demographics 
+from Exhibit 1 to approximate 
+enrollment of special populations in the 
+average district
+• Candidate should recall 180 districts from 
+initial prompt
+• Rounding is not okay. 
+164
+Exhibit #3 Guidance:
+Analysis:
+Option 1
+Weight
+Average 
+Enrollment 
+(800 x client’s 
+% from Exhibit 
+1)
+Additional $ 
+(weight x 
+base)
+Per student 
+(base + 
+additional)
+Total funding 
+per district ( $ 
+Per student x 
+Enrollment)
+English 
+Language 
+Learners
+0.1
+320
+$1,300 
+$14,300 
+$4.576M 
+Free & Reduced 
+Price Lunch
+0.2
+400
+$2,600 
+$15,600 
+$6.240M 
+Special 
+Education 
+0.4
+240
+$5,200 
+$18,200 
+$4.368M 
+Base
+1
+800
+-
+$10.400M 
+$25.584M
+Total cost to 
+state
+$25.58M
+180 district
+$4.605B
+Deficit: $105M
+Option 2: SAME deficit as option 1 ($31,980 x 800 students x 
+180 districts = $4.605B
+
+
+===== PDF p169 =====
+Pencils & Backpacks
+Given that there is a deficit 
+either way – what other 
+considerations should the 
+Governor keep in mind? 
+Brainstorm should consider pros & cons of each option, plus 
+challenges in implementing either. A good way to structure 
+this could be in a matrix/table with details voiced over.
+165
+Brainstorm Prompt: Analysis:
+Pros
+Cons
+# 1
+Flexible
+Schools serving students with most 
+needs will get most $$
+Iterations of weights over time
+Weights are additive, helping those 
+most in need (an English language 
+learner who is also on free and 
+reduced lunch would get 30% 
+additional funding)
+Complex
+May be politically difficult to pass
+# 2
+Simple, easy to understand
+Flat allocation may be inequitable 
+–districts who are already doing 
+fine will just get more $$
+
+
+===== PDF p170 =====
+Pencils & Backpacks
+166
+Our client is walking in and she can’t wait to hear your recommendation! 
+Recommendation 
+Although both options have the same deficit, candidate should recommend option 1 as 
+it targets money more specifically to the students and districts who need it most. 
+• Risks:
+– Political capital necessary to change these weights
+– Some districts may be mad if they’re suddenly not getting as much money
+• Next steps:
+– Look into whether the weights make sense at their current level
+– Identify other student subgroups that may need additional funding
+– Study to what extent additional funds translate into additional results
+Risks and Next Steps:

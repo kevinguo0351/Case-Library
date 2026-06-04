@@ -1,0 +1,291 @@
+===== PDF p104 =====
+I Want My Em-TV
+89
+Industry:                  Telecommunications/Media
+Case Type:     
+Market Entry/Pricing
+Led by:            
+Interviewer
+Case Level:        
+Hard
+
+
+===== PDF p105 =====
+Behavioral Questions
+90
+• Tell me about a cause you care about.
+Question 1:
+• What is something you’ve learned about yourself recently?
+Question 2:
+
+
+===== PDF p106 =====
+I Want My Em-TV
+91
+Emerson is a $10b company that offers landline phone and broadband internet services 
+to an area with 20 million households and businesses. To diversify their revenue, 
+Emerson has decided to enter the television market. They have invested in cable boxes 
+that can be used by homes and businesses to watch tv. Emerson has sought our help 
+to determine their pricing strategy, independent of their existing phone and internet 
+plans, to maximize profit and whether they will be able to successfully beat competitors.
+Prompt #1:
+– Emerson has 50% market share in their region.
+– 80% of their customers are households and 20% are businesses.
+– Pay television networks (e.g. HBO, Showtime) have set rates that should not be considered 
+in the pricing strategy.
+– There are two other companies that provide cable boxes in the area and both are smaller 
+than Emerson. They also compete with DirectTV (satellite tv provider). 
+– The infrastructure is already in place so startup costs are minimal and can be excluded for the 
+purposes of this case.
+– Emerson believes they need to be 15% below market prices in order to attract customers.
+– Emerson wants at least a 25% margin on their services.
+Case Background:
+
+
+===== PDF p107 =====
+I Want My Em-TV
+92
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional)
+Framework Buckets:
+Financial Analysis
+Market/Competition
+Company
+•
+Revenue projections
+•
+Investment costs
+•
+Variable costs
+•
+Financial feasibility
+•
+NPV
+•
+ROI
+•
+Payback
+•
+Market Size
+•
+CAGR – Growing, 
+mature, declining
+•
+Fragmentation
+•
+Customer 
+preferences, WTP
+•
+Current financial 
+health – leverage, 
+revenues, etc.
+•
+Execution capabilities
+•
+Synergies with other 
+LOBs
+•
+Supply chain / 
+supplier relations
+
+
+===== PDF p108 =====
+Exhibit #1
+Market Research: Average Prices for Cable Packages of Competitors
+93
+Number of Channels in 
+Package
+Number of Cable Boxes
+1
+2
+3
+4
+5+
+10
+$35 
+$45 
+$55 
+$60 
+$70 
+35
+$45 
+$60
+$65 
+$75 
+$80 
+80
+$60 
+$70 
+$80 
+$85 
+$95 
+150
+$85 
+$90 
+$95 
+$105 
+$115 
+400
+$140 
+$160 
+$170 
+$185 
+$190 
+% Customers
+40%
+20%
+15%
+15%
+10%
+
+
+===== PDF p109 =====
+Exhibit #2
+List of Variable Costs for Cheetah Cable Television Services
+94
+Expense Type
+Cost
+Each Cable Box
+$5
+Channel / Account
+$0.25
+Installation / Account
+$5 
+Support / Account
+$10 
+
+
+===== PDF p110 =====
+Interviewer guidance on Exhibit #1
+• The point of the exhibit is for the interviewee to 
+think through what is driving the price from our 
+competitors.
+• Heavy math on the exhibit is not required
+Additional Information -
+• The packages are standard within the industry 
+and are the only options for customers (e.g. they 
+can’t mix and match channels).
+• Emerson plans to use this same package 
+structure.
+Basic:
+• The price increases more for larger packages 
+than for an extra cable box.
+–
+The price for the largest tv package is between 3.5 and 
+5 times higher than the price for the smallest package
+–
+The price for 5 cable boxes is never more than double 
+the price for 1 cable box within the same tv package
+• Customers tend to purchase 1 or 2 boxes
+Advanced
+• There are higher costs associated with package 
+increases than with cable box increases.
+When the interview has finished their 
+analysis, they should ask for or be given 
+cost estimates for Emerson’s cable tv 
+operations (Exhibit 2).
+95
+Guidance:
+Analysis:
+
+
+===== PDF p111 =====
+Interviewer guidance on Exhibit #2
+Supply if not asked by the interviewee:
+• Emerson believes they need to be 15% below 
+the market in order to attract customers.
+• Emerson wants at least a 25% margin on their 
+services.
+The goal is for the interviewee to create a basic framework 
+for pricing the cable boxes and tv service based on the 
+costs. If their prices include the required 25% margin and 
+are still 15% below average market price, they should 
+expect their launch to be successful.
+A good strategy is to have a base price that accounts for 
+installation and support, then add set rates for each cable 
+box and channel package based on a per channel rate. 
+Margins (25%) and Competitive Pricing (15%) should also 
+be considered (during or after itemized computation)
+The interviewee does not need to price every combination 
+of package and boxes. Once they have determined a 
+strategy and set rates, the interviewer can ask them to spot 
+check combinations to verify strategy.
+• Account Costs = $15 (Installation + Support). 
+Add 40% for margin and competitive pricing 
+requirements ($6). The minimum base price = 
+$21. 
+• Cable boxes cost Emerson $5. Plus 40% ($2) = 
+$7 minimum per box.
+• Channels cost Emerson $0.25. Add 40% ($0.10) 
+= $0.35 minimum per channel.
+Therefore, Emerson can price an account with 1 box and a 
+10-channel package for no less than: $21 + $7 + 
+(10*$0.35) = $31.50. This is below the average market 
+price of $35, so they should expect to be successful with 
+this strategy. Candidate should compute the pricing for all 
+packages in the "1 box" category and see if this pricing 
+strategy holds true.
+Advanced: An astute interviewee will notice that they 
+cannot include their 25% margin and be 15% cheaper than 
+the market for the 400-channel package. They may offer a 
+hypothesis as to why and/or make suggestions about what 
+to do about it.
+96
+Guidance:
+Analysis:
+
+
+===== PDF p112 =====
+Brainstorming
+• What other factors should Emerson 
+consider when planning to enter the cable 
+tv market?
+• Pricing-related
+–
+Bundling with Phone/Broadband
+–
+Promotions/Discounts
+–
+Marketing/Advertising
+–
+Customer Segmentation (e.g. Households and 
+businesses)
+–
+Raising prices over time once they gain market 
+share
+• Additional Product Features
+–
+Streaming service partnerships
+–
+Revenue and cost synergies with phone and 
+internet
+–
+Value of data from customers on viewing habits
+• Risks
+–
+Poor service could negatively impact their existing 
+client relationships
+–
+Declining TV viewership
+–
+New technology could disrupt market
+97
+Prompt:
+Analysis:
+
+
+===== PDF p113 =====
+I Want My Em-TV
+98
+• We recommend that Emerson enters the market in the 1 box category for the 10, 35, 
+80, and 150 channels packages given they have a margin target of 25% and pricing 
+competitiveness target of 15%
+Recommendation 
+• Risks
+– Competitors lowering their prices leading to price wars
+– Internet substituting cable TV
+– Implementation risks
+• Next Steps
+– Pilot in selected geographies to test pricing strategy and sales
+– Ideate bundling strategies with current phone and broadband services
+Risks and Next Steps:

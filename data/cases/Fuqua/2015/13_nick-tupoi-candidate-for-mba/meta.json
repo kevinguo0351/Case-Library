@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2015_13_nick-tupoi-candidate-for-mba",
+  "school": "Fuqua",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2015.pdf",
+  "idx": 13,
+  "case_name": "Nick Tupoi - Candidate for MBA",
+  "case_type": "Market Sizing",
+  "round": null,
+  "industry": "Advertising",
+  "difficulty": null,
+  "pdf_page_start": 145,
+  "pdf_page_end": 154,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    149,
+    150
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2015\\13_nick-tupoi-candidate-for-mba"
+}

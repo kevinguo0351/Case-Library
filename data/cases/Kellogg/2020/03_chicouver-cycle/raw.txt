@@ -1,0 +1,368 @@
+===== PDF p47 =====
+43
+Case authors: John Ng (Kellogg 2018)
+Edited By: Michael Eidem (Kellogg 2020)
+Case 03
+Chicouver Cycle
+Primary sector(s)
+• X15 Transportation & Logistics
+Concepts tested
+• Z12 Creativity (1)
+• Z02 Net Present Value (2)
+• Z03 Breakeven analysis 
+(3)
+Similar cases
+• Fast Food Co. (Columbia 
+2017)
+• Duck Island Beer Co. 
+(Fuqua 2016)
+Case type
+• Y04 New product / Market entry
+
+
+===== PDF p48 =====
+44
+Chicouver Cycle
+Case prompt
+• Our client, Chicouver Cycle (pronounced “Chai-cover”), is a bikesharing startup. Like other bikeshare operators in cities around the 
+world, Chicouver Cycle owns bicycles and rents them out to users one trip at a time.
+• Chicouver Cycle wants to know how they should launch operations in the city of Chicouver. They have specifically asked us to 
+recommend one or more of Chicouver’s neighborhoods to enter.
+Interviewer guide
+• This case test the interviewee’s ability to move beyond the typical market entry framework to consider practical issues of launching 
+a sharing economy business. 
+• Key case steps:
+1. Develop a structure to address the problem - identify factors for comparing different neighborhoods as potential launching 
+grounds.
+2. Analyze cost and revenue drivers for different neighborhoods and trip types.
+3. Compute profitability for different operating models (docking versus dockless bikeshare systems)
+4. Provide client recommendation
+Interviewer Guide
+
+
+===== PDF p49 =====
+45
+Chicouver Cycle
+Case prompt
+• Our client, Chicouver Cycle (pronounced “Chai-cover”), is a bikesharing startup. Like other bikeshare operators in cities around the 
+world, Chicouver Cycle owns bicycles and rents them out to users one trip at a time.
+• Chicouver Cycle wants to know how they should launch operations in the city of Chicouver. They have specifically asked us to 
+recommend one or more of Chicouver’s neighborhoods to enter.
+Clarifying information
+• Customers: Chicouver residents are avid bicyclists. The city is also a popular tourist destination
+• Competitive Dynamics: There is currently no existing bikeshare system in Chicouver.
+• Company: Our client wants to generate cash from initial launch to fund further growth. Profitability is important.
+• Product: Most bikeshare systems charge $1 per trip. Our client will charge the same. Our client is choosing between two models of 
+bikesharing systems: docking and dockless.
+• Other: The city of Chicouver has worked with other sharing economy platforms before; permitting will not be an issue. Chicouver 
+has reasonable weather for biking all year round.
+Fit: You’re interviewing for a generalist role, however, are there particular industries or functions that you’re especially interested in?
+
+
+===== PDF p50 =====
+46
+Chicouver Cycle
+Exhibit A – Chicouver’s Neighborhoods
+1 mile
+Population density
+Low
+High
+Wetlands
+Swanville
+Bayside 
+Heights
+Capitol Hill
+Historic District
+Nightlife 
+District
+Recreation 
+District
+CBD
+Ritzy residential 
+neighborhood, home to 
+Chicouver’s titans of 
+industry
+Chicouver’s main 
+tourist district
+Popular with locals 
+Monday through 
+Saturday
+Business district where all 
+of Chicouver’s residents 
+commute to work
+Gyms, museums, nature 
+parks frequented by local 
+residents after work
+Newly gentrified residential 
+neighborhood popular with 
+young professionals
+Mid-income residential 
+neighborhood for 
+Chicouver’s working adults
+
+
+===== PDF p51 =====
+47
+Chicouver Cycle
+Exhibit B – Chicouver’s Topography
+1 mile
+Topography
+Flat
+Very
+hilly
+Wetlands
+Swanville
+Bayside 
+Heights
+Capitol Hill
+Historic District
+Nightlife 
+District
+Recreation 
+District
+CBD
+
+
+===== PDF p52 =====
+48
+Chicouver Cycle
+Exhibit C – Projections by Type of Bikeshare Trip
+Trip Type
+Expected No. of 
+Trips Per Week (K)
+No. of Bikes Needed 
+to Meet Demand (K)
+Utilization (%)
+Commuting
+500
+50
+4%
+Tourism
+400
+5
+24%
+Recreation
+300
+4
+22%
+Nightlife
+600
+30
+7%
+Notes:
+• Utilization = # hours bike is used each week / total # hours in a week
+
+
+===== PDF p53 =====
+49
+Exhibit D – Bikeshare Systems
+Chicouver Cycle
+DOCKING System
+DOCKLESS System
+Users must start and end trips at a 
+docking station.
+Users pick up any available bike and end a trip 
+anywhere within the service area.
+
+
+===== PDF p54 =====
+50
+Chicouver Cycle
+Exhibit E – Projected Costs
+Costs
+Docking System
+Dockless System
+Annual cost per bike
+$200
+$200
+Annual cost per docking station*
+$10,000
+n/a
+Annual distribution 
+cost per bike
+Flat
+$100
+$200
+Moderately Hilly
+$500
+$1,000
+Very Hilly
+$2,000
+$4,000
+*Notes:
+• Each docking station holds 20 bikes
+
+
+===== PDF p55 =====
+51
+Chicouver Cycle
+Part 1
+1. Develop a structure to address the problem
+An ideal structure focuses mostly on the specific question at hand: which neighborhood(s) should Chicouver Cycle look to launch in 
+first? Additional elements of a new venture/market entry framework help to round out a complete view of the problem. 
+Key elements expected to be included in this framework are:
+• Overall Market: Who are the target customers and what are their preferences, what does the competitive landscape look like (even 
+though there aren’t other bikesharing companies, what are available substitutes), what are the overall economic trends in the city of 
+Chicouver and how will that impact the sharing economy?
+• Our Client: What are our core competencies, have we launched in other cities previously and learned from that experience, do we 
+have a current image/brand, how lean are we looking to be at initial launch, what are our future aspirations (other products,
+services)?
+• Profitability: What will the expected costs be (marketing, bikes, docking equipment, labor, technology development and 
+maintenance, etc.) and how much revenue can we expect to earn (user volume, ride frequency, payment level and structure)?
+• Location Choice: The prompt specifically focuses on location, so the interviewee should consider factors that matter when analyzing 
+neighborhoods as potential launching grounds: population density, neighborhood uses, household income, topography (critical for 
+bikeshare!), etc.
+
+
+===== PDF p56 =====
+52
+Chicouver Cycle
+Part 2
+2. Analyze cost and revenue drivers for different neighborhoods and trip types.
+After discussing initial framework, when interviewee raises questions regarding how to evaluate which neighborhood to enter…
+• There is a lot of info in Exhibit A: population density, what takes place in each neighborhood, and who is in each neighborhood.
+• There are 3 residential neighborhoods where people commute from home to work in CBD. After work, residents travel from the 
+CBD to the recreation and nightlife districts. Tourists tend to stay within the historic district.
+• Terrain matters: it’s easier to bike on flat terrain than hilly terrain, and this may affect our revenues or our costs.
+• Interviewee should discuss how these different characteristics of neighborhoods affect the attractiveness of each for market entry.
+• Interviewee may need help seeing that there are different types of trips taking place within and between neighborhoods.
+• Exhibit C lays out 4 types of trips that people take in Chicouver. Interviewee may note that while commuting and nightlife have the 
+greatest number of trips, they require many bikes to provide an acceptable level of service, leading to low utilization.
+• No calculations needed at this time, but interviewee should raise issue of revenues and costs. If asked about revenues, tell 
+interviewee that our client will charge $1 per trip. When asked about costs, ask interviewee to quickly brainstorm major cost items.
+Provide Exhibit A & B
+Provide Exhibit C
+
+
+===== PDF p57 =====
+53
+Chicouver Cycle
+Part 3
+3. Compute profitability for different operating models (docking versus dockless bikeshare systems)
+• When the interviewee raises the need to look at costs and revenues…
+Calculate revenue and costs for each distinct trip type to determine which neighborhoods should be targeted:
+• Revenue = ($1) * (# of weeks) * (# of trips)            (Assume 50 weeks in a year)
+• Cost of bikes = ($200) * (# bikes)
+• Number of stations = (# bikes) / 20                         Cost of Stations = ($10,000) * (# stations)
+• Distribution costs = (distribution costs) * (# bikes)
+Provide Exhibit D & E
+Type
+# 
+Trips
+# 
+Bikes
+Terrain
+Revenue
+Bike Cost
+# Stations
+Station Cost
+Dist. Cost 
+(docking)
+Dist. Cost 
+(dockless)
+Docking Profits
+Dockless 
+Profits
+Commute
+500
+50K
+All 3 (use 
+flat)
+$1 * 500K * 
+50 = 25M
+$200 * 50K 
+= 10M
+50K / 20 = 
+2500
+2500 * $10K 
+= 25M
+$100 * 50K 
+= 5M
+5M * 2 = 
+10M
+25 – 10 – 25 – 5 
+= -15M
+25 – 10 – 10 = 
+5M
+Tourism
+400
+5K
+Very hilly
+$1 * 400K * 
+50 = 20M
+$200 * 5K = 
+1M
+5K / 20 = 
+250
+250 * $10K 
+= 2.5M
+$2000 * 5K 
+= 10M
+10M * 2 = 
+20M
+20 – 1 – 2.5 – 10 
+= 6.5M
+20 – 1 – 20 =   
+-1M
+Recreation
+300
+4K
+Moderate
+$1 * 500K * 
+50 = 15M
+$200 * 4K = 
+0.8M
+4K / 20 = 
+200
+200 * $10K 
+= 2M
+$500 * 4K = 
+2M
+2M * 2 = 
+4M
+15 – 0.8 – 2 – 2 
+= 10.2M
+15 – 0.8 – 4 = 
+10.2M
+Nightlife
+600
+30K
+Flat
+$1 * 500K * 
+50 = 30M
+$200 * 30K 
+= 6M
+30K / 20 = 
+1500
+1500 * $10K 
+= 15M
+$100 * 30K 
+= 3M
+3M * 2 = 
+6M
+30 – 6 – 15 – 3 = 
+6M
+30 – 6 – 6 = 
+18M
+
+
+===== PDF p58 =====
+54
+Chicouver Cycle
+Part 4
+4. Provide client recommendation
+• Recommendation: Chicouver Cycle should launch a dockless system in the nightlife district:
+• This will generate $18m in profits per year, driven by the nightlife district’s high volume of projected bikeshare trips.
+• Going dockless will save $15 in station costs in exchange for a doubling of distribution cots to $6m, which are relatively low 
+thanks to the nightlife district’s flat terrain.
+• Going forward, a dockless system will also entail lower costs and higher profits than a docking system as Chicouver Cycle 
+expands to other neighborhoods and serves other trip types. Choosing the right operating infrastructure with the eye to future 
+growth is important for a bikeshare system.
+• Next Steps: 
+• Utilization of bicycles for nightlife trips is low. Our client should explore ways to increase utilization and improve margins by 
+using the same bikes to target additional trip types, such as recreation trips. Recreation is a good candidate because the 
+recreating and nightlife districts are geographically adjacent.
+• Our client should investigate ways to reduce distribution costs. One idea is to incentive users to end trips in specific locations 
+that won’t require Chicouver Cycles to send someone to redistribute the bikes later on.
+• Chicouver Cycle should increase loyalty among customers and raise switching costs to protect itself from other sharing 
+economy transportation competitors, including other bikeshare companies that may enter the city.

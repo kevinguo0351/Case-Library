@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2004_38_biotech-technology",
+  "school": "Ross",
+  "year": "2004",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2004.pdf",
+  "idx": 38,
+  "case_name": "Biotech technology",
+  "case_type": "Pricing",
+  "round": "1",
+  "industry": "Agriculture / Biotech",
+  "difficulty": null,
+  "pdf_page_start": 90,
+  "pdf_page_end": 92,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    90,
+    92
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p092.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2004\\38_biotech-technology"
+}

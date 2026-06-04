@@ -1,0 +1,370 @@
+===== PDF p222 =====
+Casebook | 2019-20 Edition 
+218 
+ 
+59. Wildcats Lacrosse (Roland Berger, R1, Retail, Balanced) 
+ 
+Interviewer: Our client, Wildcats Lacrosse, is a leading US sporting goods company. They manufacture, 
+market and sell two primary products: 1) women's lacrosse masks, 2) women's lacrosse sticks. They sell 
+these products exclusively to the US market. Wildcat masks sell very well and are the market leader. 
+Their lacrosse sticks, on the other hand, do not sell well despite Wildcats' best efforts. Wildcats is worried 
+that they are missing out on an opportunity with their lacrosse sticks. They have discussed a number of 
+options including discontinuing the sticks and instead focusing on making only masks. They would like to 
+better understand their options and have come to us for guidance. 
+ 
+The candidate should investigate the comparative profitability of both of Wildcats' products to develop a 
+plan to determine whether Wildcats should keep producing sticks and how overall profitability of the firm 
+can be improved. 
+ 
+Candidate: I understand the main question we want to answer is what to do about these lacrosse sticks, 
+but it sounds like our client may also be concerned about their firm’s overall profitability. Is that correct? 
+ 
+Interviewer: Your intuition is correct. While the main question we must answer is about the lacrosse 
+sticks, Wildcats has come to us to improve their performance generally. 
+ 
+Candidate: Got it. Is it OK if I take a moment to organize my thoughts? 
+ 
+Interviewer: Of course. 
+ 
+Candidate should take a moment to organize a framework exploring the profitability of Wildcats’ business, 
+exploring the revenues and costs associated with both lacrosse sticks and masks. 
+ 
+Information to provide candidates only if asked: 
+• 
+We can assume little to no market growth 
+• 
+There have been no new entrants into the markets for either Masks or Sticks and the products 
+are not substitutes for one another in the market 
+• 
+Wildcats has not seen its market share change in the near term and expects it to be steady into 
+the future 
+• 
+Wildcats does not have any information on price elasticity 
+• 
+Wildcats uses a cost plus pricing scheme (10% above total cost) 
+• 
+Wildcats has a single manufacturing facility, assume there is some reasonable utilization rate 
+below 100% to allow for some production increases without the need for capex 
+• 
+Variable costs include transportation/logistics 
+• 
+Masks are very equipment intensive, have high R&D spend, change rapidly and must meet 
+stringent safety requirements 
+• 
+Sticks are very labor intensive (stringing the "pocket" of the stick is time-consuming and requires 
+skill), have fairly low R&D spend, has fairly long product life cycles with high quality expectations. 
+• 
+Wildcats sources the crosse portion of the lacrosse stick (the "shaft") from a third party. This is 
+usually a metal alloy (e.g., aluminum) or carbon fiber. Final painting is completed by Wildcats. 
+• 
+Wildcats is able to sell all products that they manufacture 
+ 
+Candidate: I’d like to start by examining the revenues associated with each of the products that Wildcats 
+manufactures and sells. 
+
+
+===== PDF p223 =====
+Casebook | 2019-20 Edition 
+219 
+ 
+Interviewer: The revenues of both products is important, but let’s start with the costs first. 
+ 
+Candidate: That sounds great. We can think about the costs associated with both the products that 
+Wildcats produces as being broken out between fixed costs (like PP&E) and variable costs (like materials 
+and labor). Do we have any information about Wildcats’ current costs position? 
+ 
+Interviewer: Yes. Take a look at this and let me know what you think. 
+ 
+Interviewer presents Candidate with Exhibit 1. 
+ 
+Exhibit 1 
+Production Costs (USD) 
+ 
+ 
+25 
+ 
+ 
+20 
+ 
+ 
+15 
+ 
+ 
+10 
+ 
+5 
+ 
+0 
+Masks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sticks 
+ 
+Variable costs 
+Fixed costs (based on allocation of labor hours per part) 
+ 
+Candidate: It’s interesting to see that both the fixed and variable costs associated with sticks are 5x 
+those of masks. 
+ 
+Interviewer: Absolutely. Take a look at this as well. 
+ 
+Interviewer presents Candidate with Exhibit 2. 
+10 
+15 
+ 
+ 
+
+
+===== PDF p224 =====
+Casebook | 2019-20 Edition 
+220 
+ 
+Exhibit 2 
+Fixed Costs allocation based on Capital Spending (USD, k) 
+ 
+ 
+1000 
+ 
+ 
+ 
+ 
+750 
+ 
+ 
+ 
+500 
+ 
+ 
+ 
+ 
+250 
+ 
+ 
+ 
+ 
+0 
+1000 
+600 
+ 
+Total FC 
+Masks 
+Sticks 
+Shared 
+ 
+ 
+Candidate: That’s really interesting. Based on actual capital spending, masks account for twice the fixed 
+costs of sticks (not including the shared portion of fixed costs). That might be a good area for us to 
+investigate. Perhaps using labor hours to determine the fixed cost allocation across these two products 
+isn’t the best course of action. 
+ 
+Interviewer: That’s a good point. 
+ 
+Candidate: Thank you. Of course, these numbers cannot tell us the whole story. We also need to think 
+about the volume of production associated with these products. 
+ 
+Interviewer: Good point. Take a look at this. 
+ 
+Interviewer presents Candidate with Exhibit 3. 
+300 
+100 
+
+
+===== PDF p225 =====
+Casebook | 2019-20 Edition 
+221 
+ 
+Exhibit 3 
+ 
+ 
+Candidate: OK. So each year Wildcats produces 250K masks and 50K sticks. 
+ 
+Interviewer: Correct. 
+ 
+Candidate: If we look at actual costs per product with overhead allocated by actual usage (assuming a 
+50/50 split for the shared costs), we get: 
+• 
+Masks: $650k OH / 250k units = $2.60 
+• 
+Sticks: $350k OH / 50k units = $7.00 
+ 
+Candidate: That is different from the actual allocation we saw in Exhibit 1. If we were to use these fixed 
+costs in addition to the VC we saw earlier, we would get the following costs for each product: 
+• 
+Masks: $3 in VC + $2.60 in FC = $5.60 (old cost $5 so a 12% increase) 
+• 
+Sticks: $15 in VC + $7 in FC = $22 (old cost $25 so a 12% decrease) 
+ 
+Interviewer: What are some potential difficulties in adjusting the cost allocation scheme to more of an 
+activity-based system? 
+ 
+Candidate: Some challenges that could arise include Wildcats’ ability to track activities accurately, their 
+data quality, and the constant potential for changes in volume. Of course, while this new cost allocation 
+may make sticks look more appealing, it will not change overall profitability for the firm. That said, there 
+are advantages to more accurately allocating costs such as better transparency into true product 
+profitability. 
+ 
+Interviewer: Good. Let’s move on to look at revenues and profitability. 
+ 
+Candidate: Sounds great. Do you have any additional information for me about Wildcats’ revenues? 
+ 
+Interviewer: I think you have all the information you need. 
+ 
+Candidate: Good point. Using the information from the exhibits you’ve already shared, I can calculate: 
+
+
+===== PDF p226 =====
+Casebook | 2019-20 Edition 
+222 
+ 
+• 
+Masks: 
+o Revenue: 250k units * $5.50 = $1.375m 
+o Profit: ($5.50 - $5.00) * 250k units = $125k 
+• 
+Sticks: 
+o Revenue: 50k units * $27.50 = $1.375m 
+o Profit: ($27.50 - $25.00) * 50k units = $125k 
+ 
+Candidate: That’s interesting. Using this new cost allocation method, it appears that sticks and masks 
+are equally profitable, quite contrary to our client’s initial hypothesis. 
+ 
+Interviewer: That’s right. Now, Wildcats has historically priced at 10% above costs. If they were to use 
+the new cost structure you calculated, what should they price at? 
+ 
+Candidate: Given the costs we found earlier, we can calculate: 
+• 
+Masks: $5.60 * 1.10 = $6.16 
+• 
+Sticks: $22 * 1.10 = $24.20 
+ 
+Candidate: This is interesting because the previous exhibits made it seem like Wildcats is competing in a 
+fairly price sensitive market. It might be beneficial to look at the price elasticity of demand among 
+Wildcats’ customer base. 
+ 
+Interviewer: That’s a good point. Wildcats has not determined price elasticity for either of its products to 
+date and I can confirm that Wildcats’ products are fairly undifferentiated from those of its competitors, 
+though there are some brand loyalists. 
+ 
+Candidate: In that case, price levels should play a big role in determining the share that each firm is able 
+to capture. If Wildcats were to change their prices to reflect the new cost allocation, that would likely 
+change its sales volume as well. 
+ 
+Interviewer: Yes. Would you mind estimating what the new volume levels might look like if Wildcats were 
+to adopt the new price levels? 
+ 
+A reasonable estimate might look something like this: 
+ 
+Masks 
+Masks 
+Price 
+Market Share   Volume 
+Price 
+Market Share  Volume 
+Wildcats 
+$5.50 
+50% 
+250,000
+Wildcats 
+$6.16 
+40% 
+200,000
+Blue Devils 
+$7.50 
+20% 
+100,000
+Blue Devils 
+$7.50 
+25% 
+125,000
+Quakers 
+$7.00 
+30% 
+150,000
+Quakers 
+$7.00 
+35% 
+175,000
+500,000
+500,000
+Sticks 
+Price 
+Market Share Volume 
+Sticks 
+Price 
+Mar ket Share Volume 
+Wildcats 
+$27.50 
+20% 
+50,000
+Wildcats 
+$24.20 
+26% 
+65,000
+Quakers 
+$23.50 
+30% 
+75,000
+Quakers 
+$23.50 
+28% 
+70,000
+Terrapins 
+$21.00 
+50% 
+125,000
+Terrapins 
+$21.00 
+46% 
+115,000
+250,000
+250,000
+ 
+The candidate should recognize that total volume for Wildcats decreases in this instance and so total OH 
+coverage per part should increase. The interviewer can direct the candidate to ignore this for the 
+purposes of the case. With different assumptions, total volume may increase, it is merely important that 
+the candidate recognizes that OH coverage must either increase or decrease. 
+
+
+===== PDF p227 =====
+Casebook | 2019-20 Edition 
+223 
+ 
+ 
+Candidate: Shifting these volumes of course would have an implication on Wildcats’ overall profitability. 
+Comparing the current state to the projections associated with these estimates and assumptions, we can 
+calculate: 
+ 
+Current State Projection 
+Product A 
+125,000 
+112,000 
+Product B 
+125,000 
+143,000 
+Total 
+250,000 
+255,000 
+ 
+Candidate: Reallocating costs and keeping Wildcats’ cost-plus pricing strategy could result in moderate 
+improvements to overall profitability, but dropping the cost-plus approach may be more beneficial. Under 
+our new cost allocation system, masks are still much less expensive than the second place offering. If 
+Wildcats were to raise the prices of masks (independent of any cost considerations), they could raise 
+profits. A simple calculation verifies this: 
+• 
+Assume $7 price and 35% market share (conservative) = ($7-$5.50 – assuming original price 
+structure) * 175k units = $262.5k (original profit = $125k). 
+ 
+Interviewer: Great. The CEO of Wildcats just walked into the room. What do you say to her? 
+ 
+Candidate: Despite being the market laggard, Sticks are quite profitable for Wildcats and there is no 
+immediate need to discontinue their production. However, pricing should be reevaluated for both 
+products. Cost-plus is not providing the maximum overall profitability and they should consider breaking 
+from this strategy. Additionally, cost allocation should be reevaluated. While labor-intensive, Sticks are 
+not responsible for large portions of the fixed costs (e.g., floor space, equipment), and it may be possible 
+to adjust cost practices to provide Wildcats with a better overall picture into actual profitability of each 
+product type. 

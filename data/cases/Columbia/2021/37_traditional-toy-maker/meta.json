@@ -1,0 +1,26 @@
+{
+  "case_id": "Columbia_2021_37_traditional-toy-maker",
+  "school": "Columbia",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2021.pdf",
+  "idx": 37,
+  "case_name": "Traditional Toy Maker",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Private Equity",
+  "difficulty": "Medium",
+  "pdf_page_start": 322,
+  "pdf_page_end": 328,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    325,
+    326,
+    328
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p325.png",
+    "exhibits/exhibit_p326.png",
+    "exhibits/exhibit_p328.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2021\\37_traditional-toy-maker"
+}

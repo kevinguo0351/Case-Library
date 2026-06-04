@@ -1,0 +1,141 @@
+===== PDF p82 =====
+Establishing the case
+Case9 :  Mobile Phone Insurance
+Bain (London):  Round 1
+Your client is an insurance company (INSURANCECO) 
+that is in the business of insuring equipment for large 
+mobile carriers in the US. INSURANCECO would like you 
+to advise them on how to increase revenues. 
+Problem statement narrative
+• INSURANCECO is a monopoly and it only sells to the 
+largest 4 US mobile carriers. 
+• Recognize the value chain: The insurance company 
+provides insurance service to the carriers but does not 
+charge the carriers. The carrier simply collects money 
+from its customers, keeps a small % (for the purposes of 
+this case assume this to be 0), and sends the rest to the 
+insurance company.  If  a customer loses/damages a 
+phone and needs replacement, they directly call the 
+insurance provider, and the insurance provider sends 
+them a refurbished phone after doing some basic 
+checks. The customer pays a deductible to the insurance 
+provider
+• As an example, we can explore MOBILECO, a carrier 
+with 40 million subscribers. Currently, 20% of the 
+subscribers have insurance. What would the impact of 
+an increase in the insurance subscribers to 25% of the 
+carrier subscribers?
+Guidance for interviewer and information to be 
+provided on request
+78
+
+
+===== PDF p83 =====
+Sample solution element – issue tree & qualitative analysis
+Candidate may propose analysis / action in:
+Candidate should make sure he/she 
+understand the value chain and the 
+business (including the revenue 
+streams) 
+Business
+Industry: who are our competitors? Is 
+the mobile industry growing?
+Market
+Who uses insurance? What % of 
+total subscribers? 
+This is also an opportunity for the 
+candidate to explore/recognize that 
+other insurance plans could be 
+developed (use your creativity)
+Customers
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+The value chain is explained in the 
+previous exhibit
+.
+The revenue streams are also 
+explained in the previous exhibit.
+As for follow up, the interviewer 
+should direct the candidate to the 
+exhibit with the revenues for the 
+MOBILECO.
+INSURANCECO is a monopoly and 
+candidate should not worry about 
+competitors
+Mobile industry is not growing in 
+terms of subscribers, therefore 
+providers are trying to increase 
+ARPU
+Only about 20% of the carriers 
+subscribers use insurance. Most 
+people consider mobile insurance 
+“unnecessary”
+79
+
+
+===== PDF p84 =====
+Initial Questions
+
+What are some channel strategies that INSURANCE Co. can use?
+Selling through mobile provider
+Have insurance as an option on phone sales whether it is online or in-store (current model)
+Direct sales to consumers
+Sales to businesses
+
+What are revenues and costs per customer?
+Revenues are the monthly fee (subtracting channel margin) + deductible ($50)
+Costs are cost of phone (customer pays for shipping and other costs)
+Assume that monthly fee is $5, 0 channel margin and, $50 deductible, $200 cost of 
+phone, how many months does it take to breakeven on a customer that orders a 
+replacement?
+R = C; 5x+50 = 200; x= 30 months!
+Key Point here that candidate should identify is that INSURANCECO is highly incentivized 
+to reduce the number of phones that are replaced. Fraud is a big issue in this industry, but 
+this is more on the cost side and not a focus for the rest of the case
+80
+
+
+===== PDF p85 =====
+Sample solution element – Math
+What is the impact on MOBILECO revenue if there is a 5% increase (20 to 25%) in the number of 
+subscribers that buy insurance?
+Math Question
+If 20% of 40 million subscribers have insurance and the 
+number will increase to 25%, the number of additional 
+subscribers is 2 million (5% increase). The carrier will 
+receive an additional $5 per subscribers or $10 million per 
+month.
+If MOBILECO increases its insurance subscribership from 20 
+to 25% of its subscriber base, MOBILECO will have 2 
+million more subscribers churning at 2.5% rather than at 
+2.8% (additional revenue of 0.003 X 2,000,000 
+subscribers X $30 = $180,000 per month). We use a $30 
+base rate to be conservative (i.e. candidate could also use 
+$35). 
+Thus the total benefit is an additional revenue of 
+$10,180,000 to MOBILCO per month.
+Overall approach, good shortcuts & solution
+Next exhibit should be provided
+Information to provide up front
+81
+
+
+===== PDF p86 =====
+Sample solution element – Handout
+MOBILECO Revenue
+With Insurance
+Without Insurance
+ARPU
+$30 per month
+$35 per month
+Churn
+2.8% per month
+2.5% per month
+Notes:
+ARPU is average revenue per user for the cell phone provider (excludes insurance)
+Churn is % of customers that leave
+82

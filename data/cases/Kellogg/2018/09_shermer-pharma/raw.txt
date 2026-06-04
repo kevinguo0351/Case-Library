@@ -1,0 +1,328 @@
+===== PDF p74 =====
+Case tracker
+▪Industry: Health Care
+▪Case format: Market entry
+▪Concepts Tested:
+- Break Even analysis
+- Marketing strategies
+- Organizational changes
+Case Question
+▪Our client, Shermer Pharma, is a venture backed start-up Pharmaceutical company. Over the past 15 years, Shermer has
+been developing a molecule that has been approved by the FDA to cure Alzheimer’s with 90% efficacy.
+▪Shermer’s owners have hired us to determine:
+▪How should we sell our product?
+▪Is our product going to be profitable?
+Guide to interviewer
+▪This case is focused on 2 questions: can you determine
+what it takes to launch a new product profitably through
+a cost benefit analysis, and can you think through the
+implications of starting a Sales & Marketing organization
+from scratch. The case should be driven by the
+interviewee.
+▪The interviewee should be guided towards 2 primary
+options for the Sales & Marketing question
+1. Start your own sales force
+2. Contract sales
+▪Bonus sales force answer is sell Shermer to a larger firm
+▪Profitability will center on the interviewees ability to read
+tables and data on the market and our market share.
+70
+Shermer Pharma
+By: Ameed Mallick (Kellogg Class of ‘12)
+Quants.
+5
+Structure
+5
+B/E
+Mkt. Stgy
+Org. Chg.
+Quant: 5
+Structure: 5 
+Industry: Healthcare
+Framework: New Product/ 
+Market Entry
+
+
+===== PDF p75 =====
+71
+Clarifying answers and case guide 
+Interviewer Guide to case and handouts
+Case Structure – Interviewee should focus on the questions separately. First we
+will brainstorm how to sell our product and ask questions to get after the costs
+of a sales force (Exhibit 1). An optional middle step is a brain teaser to
+determine the size of the Alzheimer’s market. (provide answer of  5MM at the 
+end of the exercise. They then need to ask about the costs and revenues from
+our new product (Exhibit 2).
+Exhibit 1-3 – After Interviewee walks through structure, they should ask questions
+about the costs of sales and then ultimately the profit equation.
+- Let the Interviewee drive the case. When you feel that they have asked
+enough information about the following topics, give them the exhibit that
+shows this information:
+- Sales force options
+→
+Exhibit 1
+- Revenues vs Costs
+→
+Exhibit 2
+- If the interviewee isn’t getting to the question on the three Sales Force options, 
+guide them back toward this and provide Exhibit 1.
+- Have a conversation with the Interviewee to force them to talk through the
+essential components of the profit equation that are needed to answer the
+question.
+Answer – The numbers reveal that our product will be profitable. However, a
+critical question will be the sales channel, which is why they need to determine
+to use contract sales in order to be profitable. It is also correct to state that
+Shermer should sell the product to a larger firm, but the second half of the case
+should be under the assumption that the owners decide to do contract sales.
+Clarifying answers to provide if asked
+Industry Definitions
+- Our product is a pill that cures
+Alzheimer’s, an illness that currently has 
+no treatment that cures or stops the
+progress of this disease
+- Alzheimer’s is a degenerative, terminal 
+disease that causes senility and
+dementia. 30 MM people suffer
+worldwide
+- Sales would be focused on Neurologists
+and Geriatric psychiatrists (not the
+consumer of the product)
+Client Characteristics
+- We don’t have a Sales or Marketing 
+organization, the company has purely
+been a research firm to this point.
+- FDA approval, etc has been granted
+Competitive Dynamics
+- We will not focus on competitive
+response during this case as we are the
+only firm that has a cure for this illness
+and will be for the next 5 years
+
+
+===== PDF p76 =====
+72
+Key elements to analyze
+Market Entry
+▪Using Exhibits 1 the interviewee should be able to
+determine that contract sales is the best financial option
+Profitability
+▪Using Exhibit 2, the interviewee should determine that our
+product will be profitable utilizing either type of sales force.
+Notes to interviewer
+• The question boils down to realizing that our client’s 
+competencies are rooted in developing a product, not Sales
+and Marketing. The correct approach is therefore to
+contract sales or sell the company
+• The qualitative approach to the answer is appropriate, but
+once the interviewee has discussed enough of the inputs,
+exhibit 1 should be shared:
+• There is missing data in the chart that should be easy to
+calculate (solutions provided)
+• A third option with no attached data would be to sell the
+company to a larger firm, this is an appropriate discussion to
+have and if prompted the interviewee should discuss the
+tradeoffs of this more qualitatively
+• A contract sales organization is typically less effective than
+internal sales, though most interviewers wont pick up on
+this and simply giving the financial answer is appropriate
+Notes to interviewer
+• You should let them try to size the market as a first step, but
+then provide the actual number of 5MM.
+• The firm requires that R&D costs be recovered by Year 5 of the
+product (a window before which there will be no competitive
+response)
+― We can ignore NPV for this question and just assume a straight
+line amortization…interviewee should come to this conclusion 
+on their own, but course correcting is okay if they get stuck
+• Critical information on the exhibit should be provided as the
+interviewee asks, though should only be volunteered if the
+interviewee is stuck
+• We can ignore tax, however a good interviewee will ask about it,
+and doing so would realize we still hit our profit targets by year
+5
+• Manufacturing & Packaging costs are included in the Gross
+Margin
+
+
+===== PDF p77 =====
+73
+Math Solutions: Exhibit 1
+Develop own Sales Force
+Contract Sales Force
+Percent of visit focused on 
+our product
+100%
+50%
+Annual fully loaded cost per 
+Sales Rep
+$200k
+n/a
+Cost per sales call
+$170 (($200k*85)/100)
+$60
+Total calls required
+100k (should be asked/given)
+200k (100k*2)
+Total Sales Reps needed
+85
+170 (85*2)
+Total annual Selling Cost
+$17MM ($200k*85)
+$12MM ($60*200k)
+
+
+===== PDF p78 =====
+74
+Math Solutions: Exhibit 2
+*Data at left to be provided
+as the questions are asked
+by interviewee
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Projected Market 
+penetration
+5%
+10%
+25%
+40%
+60%
+Total Users
+250k 
+(5%*5M)
+500k 
+(10%*5M)
+1.25MM 
+(25%*5M)
+2MM 
+(40%*5M)
+3MM 
+(60%*5M)
+Total Gross Margin
+$250MM
+(250*$1000)
+$500MM 
+(500*$1000)
+$1.25B 
+(1.25MM*$1
+k)
+$2B 
+(2MM*$1k)
+$3B 
+(3MM*$1k)
+Amortized R&D Costs
+$300MM 
+($1.5B/5)
+$300MM 
+($1.5B/5)
+$300MM 
+($1.5B/5)
+$300MM 
+($1.5B/5)
+$300MM 
+($1.5B/5)
+Selling Costs
+$12 MM 
+(from ex.1)
+$12 MM 
+(from ex.1)
+$12 MM 
+(from ex.1)
+$12 MM 
+(from ex.1)
+$12 MM 
+(from ex.1)
+G & A Costs
+$25 MM
+$25 MM
+$25 MM
+$25 MM
+$25 MM
+Net Income
+($87MM)
+$163MM
+$913MM
+$1.663B
+$2.663B
+Total Market
+5MM
+Annual gross margin per user
+$1000
+R&D Cost
+$1.5B
+G&A cost
+$25MM
+
+
+===== PDF p79 =====
+75
+Solution and recommendations
+Solution & Recommendations
+▪Shermer Pharma’s core competency is their research focus. The plausible argument can be made that they should 
+sell the company to a larger firm that has the appropriate capabilities that it takes to market and sell a product.
+Though this might be the right answer, the client isn't always going to do take the optimal approach, particularly
+when it comes to ownership of the firm. We need to be flexible to account management’s wishes
+▪Assuming the owners decide not to sell the company, contract sales is the next best option, that gives us the best
+scenario when determining overall profitability of our product.
+▪The latter half of the case is simple math, determining a P & L for our product and coming up with the correct
+answer that Shermer can be profitable.
+▪Ask for high level analysis at the end of the case, what else should be consider before engaging this plan?
+Bonus/Guide to an Excellent Case
+▪An excellent interviewee will note:
+▪There is an option to sell the company, even though there is no data provided to support this conclusion
+▪Some of the numbers give an obvious answer before needing the exact calculations
+▪Challenging the interviewer on the effectiveness of a contract sales organization is a bonus. A qualitative
+argument can be made that for an additional $5MM a year, we can realize the benefit of a more effective
+sales force, this isn't the financially correct answer but may be the right tradeoff given the relatively minimal
+impact to the bottom line vs. revenues of $3B
+▪$1000 per year for a life saving cure for a currently incurable ailment is definitely under priced!
+
+
+===== PDF p80 =====
+76
+Exhibit 1: Sales force options
+Develop own Sales 
+Force
+Contract Sales Force
+Percent of visit focused 
+on our product
+100%
+50%
+Fully loaded annual 
+cost of 1 sales rep
+$200k
+n/a
+Cost per sales call
+$60
+Total calls required
+Total Sales Reps 
+needed
+85
+Total annual Selling 
+Cost
+
+
+===== PDF p81 =====
+77
+Exhibit 2: Annual Net Income
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Projected Market 
+penetration
+5%
+10%
+25%
+40%
+60%
+Total Users
+Total Gross Margin
+Amortized R&D 
+Costs
+Selling Costs
+G & A Costs
+Net Income

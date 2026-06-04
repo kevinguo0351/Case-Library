@@ -1,0 +1,473 @@
+===== PDF p63 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Crunch Yo’ Burger
+By Pieter Swart
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+59
+
+
+===== PDF p64 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 | 60
+• This case is designed to be as long or short as you want
+• There are two optional estimations to test candidate’s market sizing ability
+– # Subway restaurants in the US
+– # of sit-in customers per Subway per day
+• If you are short on time, you can simply give the candidates the values of these inputs
+• If the candidate would like to practice estimations, they can estimate these inputs
+Crunch Yo’ Burger
+UPFRONT NOTE FOR INTERVIEWER
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p65 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Crunch Yo’ Burger
+INTRO PROMPT
+CLARIFYING POINTS (if asked)
+61
+• You are the CEO of a large 
+multinational fast food chain
+• In recent years, you have noticed 
+that your profitability in the US has 
+been lagging behind competitors
+• Your Board of Directors would like 
+to know:
+– Why profitability is below that of 
+competitors
+– How you plan to get profitability back 
+in line
+• Your company sells fast food that is cooked onsite (similar price point 
+to McDonald’s/Subway)
+• Crunch Yo’ Burger operates all its own stores (i.e. no franchises)
+• There are four major players in the market, differentiated only by the 
+type of food they offer (prices are the same)
+– Crunch Yo’ Burger makes hamburgers
+– TacoCo sells tacos and other Mexican food
+– NoodleCo is focused on different varieties of noodles
+– PizzaCo sells pizzas 
+• We are concerned only with the US operations of Crunch Yo' Burger 
+and its competitors
+• Our customers can be either takeout or eat-in customers
+• Note for interviewer: If asked for detailed figures on profit or revenue, 
+tell the candidate you will show an exhibit after you have seen their 
+structure
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p66 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Crunch Yo’ Burger
+EXAMPLE CANDIDATE RESPONSE: SAMPLE STRUCTURE
+62
+Profit
+Revenue
+Costs
+Variable costs
+Fixed costs
+Price
+Quantity
+Product mix
+External market
+Market growth
+Competitors
+Once the candidate has given an overview of their structure, hand them Exhibit 1 (revenues and profits) and let them use this to
+decide where they should focus
+•
+Variable costs are food, packaging, cooking utensils – how have these evolved?
+•
+Are we taking advantage of bulk discounts by centralizing purchasing? 
+•
+Any changes in food (commodity) prices that have adversely affected us in particular? (e.g. beef – since 
+we use more beef than competitors)
+•
+Product mix – could we be selling more products that have higher variable costs?
+•
+Typical fixed costs might be rental, labour, utilities etc. – how have these evolved? 
+•
+Are we tied into any long-term contracts for rentals?
+•
+Are we selling less high-priced food products?
+•
+How are we bundling products together? 
+•
+Have we opened or closed any branches recently?
+•
+Are we upselling / cross-selling enough?
+•
+This is a price sensitive market, so we can assume that prices have not changed much flat, is this 
+correct?
+•
+Have we run any excessive discounts recently? 
+•
+Are health trends negatively impacting our burgers more than other foods?
+Trends
+Regulation
+Performance
+New entrants
+•
+Have competitors recently become more profitable?
+•
+Did any of our big competitors recently make any changes to their offering? 
+•
+Has regulation affected the industry (forced players to use healthier and more expensive ingredients, 
+limited growth etc.)?
+•
+Are there any new competitors? 
+•
+Did any existing competitors consolidate to get economies of scale?
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p67 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 | 63
+Crunch Yo’ Burger – Exhibit 1
+REVENUE AND PROFITS (ONLY FOR US)
+Note: Food variable costs relate 
+to raw ingredients that are 
+actually eaten by customers, 
+non-food variable costs are all 
+other variable costs
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p68 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXAMPLE CANDIDATE RESPONSE
+64
+• This chart shows 2017 and 2018 revenues of the four main players, including our own company (Crunch Yo' Burger), 
+as well as 2018 net profits
+• We can see that Crunch Yo' Burger has the highest revenue, thus we are the market leader in fast food in the US
+• Revenue growth rates for all competitors have been ~10% since 2017; hypothesis is that this is not a revenue issue
+• If we divide net profit by revenues to be able to compare margins,  Crunch Yo' Burger has the lowest net profit 
+margin out of its peer group (~1% vs competitors in range of 1.5-2%); this extra 0.5% represents ~$100M 
+• This issue is caused by non-food variable costs (11% of sales for Crunch Yo’ Burger vs 10% of sales for our peers), 
+and we should investigate these costs further
+• Note for interviewer: The presentation of the chart (showing net profit in absolute terms and variable cost as % of 
+sales in relative terms is intentional in order to ensure that the candidate can turn these into comparable figures
+Crunch Yo’ Burger – Exhibit 1
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p69 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Crunch Yo’ Burger
+FOLLOW UP QUESTION AFTER EXHIBIT
+65
+EXAMPLE CANDIDATE RESPONSE
+• We have concluded that Crunch Yo' Burger’s cost issues lie in its non-food related variable costs
+• What are some creative ways in which Crunch Yo' Burger could decrease these costs? 
+• Some of the major non-food costs that we would have are: 
+– Condiments (ketchup packets or ketchup dispenser)
+– Packaging (burger wrappers, soda cups)
+– Other consumables (napkins toilet paper, plastic cutlery, hand sanitizer)
+• Some ways to reduce these could be: 
+– Limit ketchup to 1 packet per order, and charge extra for extra packets
+– Use cheaper packaging (although this might pose an environmental and customer experience risk)
+– Limit the number of napkins per customer by handing them out at the teller (this might cause a delay in getting orders out) or 
+by setting up a napkin dispensing machine
+• Note for interviewer: Try steer the candidate towards napkins, in order to set up the next part of the case; if the 
+candidate does not arrive at this, mention it as a high potential solution
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p70 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Crunch Yo’ Burger
+CALCULATION QUESTION
+66
+• Crunch Yo' Burger is considering purchasing a machine that dispenses napkins one by one (Napkins are currently 
+placed a large stack, customers take a few at a time before they sit down to eat)
+• 1 machine will be needed per store, and needs to be replaced every 2 years; cost is $1000 per machine
+• How much money can Crunch Yo' Burger save per year by implementing this machine?
+– What are the inputs you would need in the calculation and how would you structure it?
+– How much money is saved? 
+– This solution will only apply to eat-in customers
+• Note for interviewer: You should try to assess the candidate on two elements here: 
+– How well they structure their calculation – do they identify all the elements in a logical way?
+– How well they execute the calculation
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p71 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Crunch Yo’ Burger
+Number of 
+stores in the US
+• Before the 
+machine, 
+customers took 
+5 napkins each
+• If machine is 
+implemented, it 
+will reduce to 2 
+per customer
+• Short version of 
+the case: Give 
+figure of 960  sit-
+in customers per 
+store per day
+• Long version of 
+the case: 
+Candidate 
+should estimate 
+this (see 
+Optional 
+Estimation 1)
+• Short version of 
+the case: Give 
+figure of 22500 
+stores in US
+• Long version of 
+the case: 
+Candidate 
+should estimate 
+this (see 
+Optional 
+Estimation 2)
+• Napkins are 
+purchased in 
+boxes of 6000 
+napkins. A box 
+costs $28
+• Note: Allow 
+candidate to 
+round to $0.005 
+(half a cent) if 
+needed
+Decrease in 
+napkins per 
+customer
+3
+Number of 
+customers per 
+store per day
+960
+22500
+Cost per napkin
+$0.005
+Days per year
+365
+Note for interviewer: remember this 
+case has 2 optional estimations! If you 
+want the candidate to estimate, use 
+‘long version’ prompts
+X
+X
+X
+X
+Total gross 
+saving
+~$118M
+=
+Cost of machine
+~$11M
+Total net saving
+~$106M
+-
+=
+• Candidate can 
+assume 360 to 
+make 
+calculations 
+easier
+• Important that 
+the candidate 
+notes takes note 
+that fast food 
+restaurants tend 
+to be open most 
+days of the year
+CALCULATION SOLUTION
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p72 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 | 68
+OPTIONAL ESTIMATIONS
+EXAMPLE RESPONSE: ESTIMATION #1 – # OF SIT-IN 
+CUSTOMERS IN TYPICAL SUBWAY RESTAURANT PER DAY
+EXAMPLE RESPONSE: ESTIMATION #2 –
+# OF SUBWAY RESTAURANTS IN THE US
+• Assume a typical Subway or similar takeout restaurant has ~30 tables, with ~4 chairs 
+per table; capacity of 120 sit-in customers
+• Assume it is typically open from 6am to 10pm to sit-in customers (16 hours a day)
+• 50% of the time is peak (8/16 hours), 50% of the time is off-peak (8/16 hours), 
+(example breakdown in table below)
+• During peak hours, the restaurant is 80% full
+• During non-peak hours, the restaurant is 20% full
+• Average meal duration is 1 hour (i.e. in a 3 hour time period, a table is rotated 3 times)
+Timeslot
+Peak/ off-peak
+Capacity
+utilisation
+Calculation
+# customers
+06:00-09:00
+Peak
+80%
+120*3hrs*80%
+288
+09:00-12:00
+Off-peak
+20%
+120*3hrs*20%
+72
+12:00-14:00
+Peak
+80%
+120*2hrs*80%
+192
+14:00-18:00
+Off-peak
+20%
+120*4hrs*20%
+96
+18:00-21:00
+Peak
+80%
+120*3hrs*80%
+288
+21:00-22:00
+Off-peak
+20%
+120*1hrs*20%
+24
+Total
+960
+• We have 50 states in the US, let’s assume each state is split into rural and urban
+•
+Urban areas mostly comprise two large cities
+•
+Rural areas are small towns
+• There are 150 Subways stores per city, potential way to estimate this: 
+–
+Each large city is roughly 10 km long by 10km wide
+–
+Each km has roughly 12 blocks
+–
+Thus 120 blocks long by 120 blocks wide = 15000 blocks per city
+–
+Let’s assume that as you walk, you  are likely to encounter a Subway store every 10 blocks, thus 
+150 Subways per city
+• Let’s assume the cities contain 2/3 of all Subway restaurants, and the towns the 
+remaining 1/3, Thus 2*150 = 300 Subway restaurants in cities, and 150 in towns = 
+450 Subway restaurants per state 
+• 450*50 states = 22,500 Subway restaurants in the US
+• Note for interviewer: There are many potential ways in which the candidate could do 
+this estimation (land area or Subway restaurant per person)
+Crunch Yo’ Burger
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p73 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 | 69
+• We have calculated that we will save $106M per year
+• This $106M represents an additional 0.5% of net profit margin
+• With this additional saving, our profit margin will increase from 1% to 1.5%, putting us within the band of our 
+competitors (although still at the lower end)
+• We should consider other cost-saving initiatives to continue to increase profitability
+• Raw materials bulk discounts
+• Extend useful life of consumable utensils
+• Run similar initiatives with ketchup, straws etc.
+• Decrease cost of napkins (cheaper napkins)
+• Note for interviewer: There are many potential options here, extra points for creativity
+What are some other ways we could save on variable costs? 
+EXAMPLE CANDIDATE RESPONSE: INTERPRETATION OF SAVINGS VALUE
+PROMPT: BRAINSTORM
+EXAMPLE CANDIDATE RESPONSE
+Crunch Yo’ Burger
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p74 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+70
+• (Candidate should assume an air of authority and confidence when addressing board)
+• Good day and welcome
+• We have run a diagnosis and can conclude that our lower profitability is caused by high non-food variable costs, specifically in napkins 
+– customers are currently using excessive napkins when they enter our stores
+• We have found a way of bringing our net profit margin closer in line with our competitors, increasing it from 1% to 1.5% by 
+implementing a new napkin dispensing machine in all of our stores
+• This machine will reduce napkins taken per customer by 3 napkins (60%), and on a national scale, save Crunch Yo' Burger ~$100M per 
+year
+• There are some implementation risks related to customer experience and ease-of-use of this new machine
+• In order to mitigate these risks we will pilot the machine in 100 stores nation wide and record feedback and improvements
+• Furthermore, we are investigating similar cost-saving initiatives in our ketchup and straw dispensing, in order to surpass the 
+profitability of competitors
+PROMPT FOR FINAL RECOMMENDATION
+• You have a 45-second slot in the Board meeting tomorrow to update the Board on your progress. What will you say? 
+EXAMPLE CANDIDATE RESPONSE: RECOMMENDATION
+Crunch Yo’ Burger
+Food service
+Profitability
+Operations
+Easy
+Medium
+Hard

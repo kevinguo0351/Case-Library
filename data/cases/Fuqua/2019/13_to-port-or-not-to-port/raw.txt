@@ -1,0 +1,403 @@
+===== PDF p163 =====
+To port or not to port?
+159
+Industry:                  Consumer
+Case Type:     
+Go / No go
+Led by:            
+Interviewee
+Quantitative Level: Difficult
+Qualitative Level:   Medium
+
+
+===== PDF p164 =====
+Behavioral 
+Questions
+160
+Have you dealt with a difficult boss?  Explain how you managed the situation. 
+Question 1:
+Tell me about a time when you failed.
+Question 2:
+Behavioral Questions
+
+
+===== PDF p165 =====
+To port or 
+not to port?
+161
+Our client, Beertastic Ventures, is a global beverage manufacturer, specializing in 
+producing beer and cider. They’ve been approached with an opportunity to purchase 
+Portalicious Enterprises, a port manufacturer based in Porto, Portugal. Port is a sweet, 
+fortified wine, made from 2/3 wine and 1/3 brandy. To be considered a true port, the 
+grapes must come from the Douro Valley (a UNESCO World Heritage Site), a region 
+not far from Porto, Portugal, where the wine must be made. Beertastic operates 
+manufacturing facilities in Asia, the US, Europe, and Australia. Portalicious has 
+manufacturing facilities in Porto and vineyards in the Douro Valley. 
+Our client needs your help to figure out whether it should acquire Portalicious. 
+• Beertastic’s financial objective is to at least breakeven by the end of year 2.
+• Beertastic Ventures is a medium-sized player in the global beer market. 
+Prompt #1:
+Case Background:
+To port or not to port?
+
+
+===== PDF p166 =====
+To port or 
+not to port?
+162
+An excellent framework touches on the following areas: 
+Financial Analysis
+Mentions at least one valuation methodology; bonus if interviewee asked specifically how the company 
+intended to value the acquisition and tailored framework to breakeven approach
+Revenue + Cost Analysis is thorough and tailored to port-making specifically
+How to fund the investment
+Market Analysis
+Supply: Examines external factors, such as competition; acknowledges rarity of owning land in UNESCO World 
+Heritage Site
+Demand: Segments market by different types of customers or locations; mentions understanding of current and 
+future customer demand for port wine
+Operational Analysis 
+Mentions operational efficiencies that could be leveraged via existing resources
+Questions culture and management compatibility between Beertastic and Portalicious
+Framework Buckets:
+To port or not to port?
+
+
+===== PDF p167 =====
+Exhibit #1
+Port Global Market, Forecasted Growth and Portalicious Market 
+Share
+Market
+2018 Revenue1
+2 Year CAGR
+2020 Market Share
+North America
+200
+10%
+10%
+Europe
+200
+-5%
+4%
+Asia
+75
+40%
+35%
+Australia
+25
+20%
+75%
+1in millions
+
+
+===== PDF p168 =====
+Interviewer guidance on Exhibits
+Provide exhibit 1 once the interviewee has 
+identified the need to review the revenue forecast 
+for Portalicious 
+The objective is to calculate the total forecasted 
+revenue for Portalicious for the upcoming 2 years 
+based on the markets’ 2-year CAGR and 
+Portalicious’ market share
+If the interviewee asks to round, please mention 
+that it is important to be accurate in this calculation, 
+so he/she must proceed with the numbers provided
+Yearly revenue is in millions
+164
+Exhibit #1 Guidance:
+Analysis:
+Market
+Yearly 
+Revenue
+2 Yr. 
+CAGR
+Revenue 
+Yr 1
+Revenue 
+Yr 2
+Total 
+Revenue
+North 
+America
+200
+10%
+220 
+242
+462
+Europe
+200
+-5%
+190 
+180.5
+370.5
+Asia
+75
+40%
+105 
+147 
+252 
+Australia
+25
+20%
+30 
+36 
+66
+1,150.5
+Market
+Total 
+Revenue
+Mkt Share
+Revenue
+North America
+462.0 
+10%
+46.20 
+Europe
+370.5 
+4%
+14.82 
+Asia
+252.0 
+35%
+88.20
+Australia
+66.0 
+75%
+49.50 
+198.72 
+
+
+===== PDF p169 =====
+Exhibit #2
+Future Portalicious Variable Cost Breakdown
+15%
+30%
+30%
+25%
+30%
+13%
+25%
+30%
+30%
+10%
+20%
+40%
+140M
+135M
+Grapes
+Brandy
+Barrels
+Farming
+150M
+2018
+2019
+2020
+
+
+===== PDF p170 =====
+Interviewer guidance on Exhibits
+Provide exhibit 2 once the interviewee has 
+identified the need to review the cost forecast for 
+Portalicious
+The insight the interviewee should take from the 
+analysis is that Brandy is not only becoming a 
+greater cost percentage of the manufacturing 
+process, but also a higher nominal cost
+The interviewee should calculate the dollar value of 
+each of the cost buckets and the total annual cost. 
+A strong candidate will calculate the expected profit 
+from the endeavor, given revenue from the prior 
+page. 
+They should also identify that this is expected to be 
+a profitable business. 
+166
+Exhibit #2 Guidance:
+Analysis:
+2018
+2019
+2020
+Brandy
+25%
+$37.50 
+30%
+$42.00 
+40%
+$54.00 
+Barrels
+30%
+$45.00 
+30%
+$42.00 
+30%
+$40.50 
+Farming
+30%
+$45.00 
+25%
+$35.00 
+20%
+$27.00 
+Grapes
+15%
+$22.50 
+15%
+$21.00 
+10%
+$13.50 
+Total Cost
+$150.00 
+$140.00 
+$135.00 
+Total Revenue
+$198.72 
+Total Costs
+$135.00 
+Expected Profit
+$63.72 
+
+
+===== PDF p171 =====
+Brainstorming
+The interviewee should identify that brandy 
+is a growing source of cost concern from 
+Exhibit 2. Guide them to this, if necessary. 
+After, ask the interviewee the following 
+question:
+What can Beertastic Ventures do to control 
+and reduce the price of Brandy? 
+A good answer will acknowledge several 
+creative ways to control prices. A great 
+answer will be highly structured and 
+thorough. 
+Some potential responses include:
+-Vertically integrate the production
+-Acquire a brandy producer
+-Hedge the price of brandy
+-Hedge prices on raw materials for brandy 
+production and create a JV with a 
+manufacturer
+-Source from several suppliers; engage in 
+price negotiation
+-Buy in bulk 
+167
+Prompt:
+Analysis:
+
+
+===== PDF p172 =====
+Exhibit #3
+Beertastic Manufacturing Capacity1
+1Monthly barrel capacity in thousands (000s). 2“Total Capacity” refers to the total volume of barrels each plant can 
+produce regardless of the product.
+44
+27
+25
+17
+32
+21
+21
+13
+25
+9
+15
+2
+110
+70
+65
+70
+United States
+Australia
+Germany
+Thailand
+Total Available
+Capacity2
+Light Beer
+Specialty Beer
+Cider
+
+
+===== PDF p173 =====
+Interviewer guidance on Exhibits
+Provide exhibit #3 once the interviewee has 
+identified the possibility of vertically integrating 
+brandy production
+The objective is to identify if the manufacturer has 
+enough capacity to insource the Brandy production
+The interviewee should ask what’s the Brandy 
+capacity needed by AB Port’s production – Tell 
+them 25,000 and 31,000 for the next two years 
+respectively
+The interviewee should highlight that Thailand has 
+the greatest capacity and can absorb the total 
+production needed for Port production
+US
+MX
+GER
+Thailand
+Total Capacity
+110
+70
+65
+70
+Light beer
+44
+27
+25
+17
+Specialty beer
+32
+21
+21
+13
+Cider
+25
+9
+15
+2
+Excess capacity
+9
+13
+4
+38
+169
+Exhibit #3 Guidance:
+Analysis:
+
+
+===== PDF p174 =====
+To port or 
+not to port?
+170
+The interviewee should recommend acquiring the port manufacturer, given that it is 
+expected to remain profitable over the next two years. Operationally, Beertastic should 
+consider vertically integrating brandy production, specifically given the excess 
+production capacity in their Thailand facility. 
+Recommendation 
+• This is somewhat risky, given that Beertastic would need to learn how to produce brandy. 
+Beertastic should explore all available options and do a cost/benefit analysis of integrating 
+brandy production. 
+• Given the strong growth in Asia, the firm should explore additional opportunities for revenue 
+potential
+• Need to assess compatibility with Portalicious’ culture and management teams
+• Need to perform sensitivity analysis on the forecasts and go through a due diligence process
+Risks and Next Steps:
+To port or not to port?
+
+
+===== PDF p175 =====
+Evaluation 
+Criteria
+171
+Candidate Level
+Assessment
+Average Candidate
+Calculates expected future revenue and costs accurately; 
+gets to brainstorm with some guidance
+Good Candidate
+Additionally recognizes the need to calculate profit; requires 
+minimal guidance
+Excellent Candidate
+Quickly recognizes the need to deliver both profitability and 
+operational efficiency; appropriately identifies risks and 
+integrates them into recommendation
+To port or not to port?

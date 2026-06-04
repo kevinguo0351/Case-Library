@@ -1,0 +1,401 @@
+===== PDF p205 =====
+Case #19: Walter Black 
+Industries
+Industry: Industrial Goods
+Quantitative Level: Medium
+Qualitative Level: Difficult
+Quantitative level: Medium
+Qualitative level: Difficult
+200
+
+
+===== PDF p206 =====
+Behavioral Questions
+202
+• Describe a time when you disagreed with your team or supervisor.
+– Was the disagreement resolved and if so, how?
+– What did you learn from that experience and what would you have done differently?
+Question 1:
+• What is the hardest piece of feedback that you ever received in a professional 
+setting?
+– What did you do upon receiving that feedback?
+– Have you had the opportunity to follow up with the person you received feedback from and if 
+so, what was the result of the follow up?
+Question 2:
+
+
+===== PDF p207 =====
+Walter Black Industries
+203
+• Your client is Walter Black Industries, a privately owned chemical manufacturing 
+company based in Albuquerque, New Mexico that specializes in producing car wash 
+chemicals. The client has two major products, Car Wash A and Truck Wash A. After 
+a series of aggressive acquisitions 5 years ago, the client has become a market 
+leader, but revenue growth has become stagnant in the last 2 years. The client would 
+like us to identify opportunities to increase revenue by 30% without reducing profit 
+margins.
+Prompt #1:
+Given the prompt, the candidate should focus on revenue first and cost only if it lowers 
+profit margins. The candidate should develop a MECE framework that considers the 
+different drivers of revenue and brainstorm case specific ideas in growing revenue.
+The following information can be provided only if requested.
+• The client made $1B (60% from Car Wash A. 40% from Truck Wash A) in revenue 
+last year with a profit margin of 40%. The client would like to keep overall profit 
+margins across all products at or above 40%
+• The client only sells chemicals. The customer pays for all distribution and packaging 
+costs
+Additional client information is available on the following page.
+Interviewer Guidance:
+
+
+===== PDF p208 =====
+Walter Black Industries
+204
+Provide the additional information only if requested:
+Industry
+• The car and truck wash chemicals industry has been growing by 2% on average over 
+the last 10 years. It is difficult for both the customer and end customer of the product 
+to differentiate between product quality.
+Client
+• The client currently has no new products in the pipeline. Formulations for new 
+products take 5 years to develop and have a high chance to failure (85%).
+• The client only sells to chemical wholesale distributors. The client sells to the top 5 
+wholesale distributors who control 95% of the global market share.
+Competitive Dynamics
+• Capital costs are high and there are no concerns over new market entrants.
+• There are three main competitors for the client. Along with the client, these four 
+companies control 90% of the entire market.
+• No potential acquisition targets are available.
+Once the candidate begins asking questions regarding market share and/or 
+competitors, provide Exhibit 1 and go to Prompt #2.
+Interviewer Guidance Continued:
+
+
+===== PDF p209 =====
+Exhibit #1
+Car Wash Chemicals
+Competitive Benchmarking
+Truck Wash Chemicals
+Cost
+Profit
+Revenue ($M)
+Revenue ($M)
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+Walter Black
+Industries
+Competitor A
+Competitor B
+Competitor C
+0
+200
+400
+600
+800
+Walter Black
+Industries
+Competitor A
+Competitor B
+Competitor C
+
+
+===== PDF p210 =====
+Interviewer guidance on Exhibits
+The team has performed a competitive 
+analysis for the client’s products and 
+reviewed the company’s financial 
+performance against its top three 
+competitors. What are some insights you 
+can derive from this data?
+• The cost component of the exhibit is 
+meant to distract the candidate to think 
+about cost reduction instead of revenue 
+growth. If the candidate goes off track, tell 
+them that costs are similar among 
+competitors and guide the candidate into 
+thinking about other aspects that impact 
+profit margin beyond the product cost 
+• Because the graphs reflects revenue, only 
+the dollar market share can be derived 
+from the charts, not unit market share
+Potential Insights:
+• The client has a 20% market share in the 
+car wash category and has significantly 
+higher margins than its competitors. The 
+competitor with the highest total revenue 
+also has the lowest margins
+• The client has a 20% market share of the 
+truck wash category has significantly 
+lower margins than its competitors.
+• The revenue potential in the car wash 
+industry is roughly 50% larger the size of 
+the truck wash industry
+Once the candidate identifies that 
+pricing is a potential mechanism to 
+increase revenue, provide Exhibit #2 and 
+go to Prompt #3.
+206
+Prompt #2:
+Exhibit #1 Guidance:
+
+
+===== PDF p211 =====
+Exhibit #2
+Pricing Analysis
+Product
+$/Gal
+Cost per 
+Tote
+Average 
+Annual # of 
+Totes Sold
+Average Annual 
+Revenue ($M)
+Car Wash A
+$10
+$1000
+300,000
+$600
+Truck Wash A
+$2
+$300
+1,000,000
+$400
+
+
+===== PDF p212 =====
+Walter Black Industries
+The client agrees that they need to re-examine their pricing strategy and provided us with 
+the following information:
+Provide the following information to the candidate
+• The client only sells chemicals on a $/gal basis. The customer provides 200 gallon totes 
+for the client to fill with the product and pays for all distribution/packaging costs
+• The client’s customers prefer simplicity, and the client can only change $/gal prices in $1 
+increments
+• Market analysis has been performed regarding the elasticity of demand from customers 
+(The candidate can assume a linear correlation)
+– Car Wash A: $1 change in price per gallon changes demand by 50,000 totes
+– Truck Wash A: $1 change in price per gallon changes demand by 100,000 totes
+Based on this information, the client would like you to make a recommendation on an 
+optimal pricing strategy.
+208
+Prompt #3:
+
+
+===== PDF p213 =====
+Walter Black Industries
+There are multiple ways to approach calculating the optimal price. The candidate will need 
+to do the following in order to identify the optimal pricing strategy:
+1.
+Identify the optimal pricing strategy given the information provided
+2.
+Determine if the strategy meets the conditions of increasing revenues by 30% without 
+reducing profit margins below 40%.
+Identifying the optimal pricing strategy: The candidate can approach this in many 
+ways. Below are two approaches to calculating the best values
+Table Approach
+The candidate creates a table with price and quantity to calculate the revenue 
+opportunities for each combination. Since demand has a linear relationship with supply, 
+the candidate should stop moving “up” or “down” the table as soon as they hit a revenue 
+amount that is lower than the original value or the value calculated before it.
+The following page shows some potential tables the candidate may build to perform this 
+calculation. The candidate will also need to remember to multiple the price by 200 since 
+the quantity is in 200 gallon totes.
+209
+Exhibit #2 Guidance:
+
+
+===== PDF p214 =====
+Walter Black Industries
+*Note that a simply changing the price of Truck Wash A to $5, $6 or $7 will achieve both 
+revenue and profitability goals.
+210
+Exhibit #2 Guidance Continued
+Car Wash A
+$/Gal
+Tote Quantity (K)
+Revenue ($M)
+$7
+450
+630
+$8
+400
+640
+$9
+350
+630
+$10
+300
+600
+$11
+250
+550
+Truck Wash A
+$/Gal
+Tote Quantity (K)
+Revenue ($M)
+$1
+1100
+220
+$2
+1000
+400
+$3
+900
+540
+$4
+800
+640
+$5
+700
+700
+$6
+600
+720
+$7
+500
+700
+
+
+===== PDF p215 =====
+Walter Black Industries
+Formula Approach
+The candidate can also use a formula and derivatives to determine to optimal price for 
+each product. First, the candidate must identify the relationship between the price and 
+quantity of each product. Then, the candidate can substitute the quantity variable with 
+price in the revenue equation (revenue = price x quantity) and find the derivative of that 
+function to determine the optimal price.
+P = Price     Q = Quantity
+R = Revenue
+The appropriate conclusion is for the candidate to identify that the optimal pricing strategy 
+would be to decrease Car Wash A’s price to $8, and increase Truck Wash A’s price to $6. 
+This will yield a revenue increase of $360M.
+211
+Exhibit #2 Guidance Continued
+Product Price/Quantity 
+Formula
+Revenue 
+Formula
+Derivative 
+Formula
+Optimal Price
+Quantity from 
+Optimal Price
+Revenue ($M)
+Car Wash 
+A
+Q = 800 - 50P R = 800P - 50P^2
+R' = 800 -
+100P
+800/100 = 8
+Q = 800 – 50*8 = 
+400
+8*200*400K = 
+640
+Truck 
+Wash A
+Q = 1200 -
+100P
+R = 1200P -
+100P^2
+R' = 1200 -
+200P
+1200/200 = 6
+Q = 1200 – 100*6 
+= 600
+6*200*600K = 
+720
+
+
+===== PDF p216 =====
+Walter Black Industries
+Determine of the strategy meets the conditions: The candidate must now identify 
+whether or not the conditions of 20% revenue growth and stable profit margins are met.
+New Revenue / Old Revenue = $1,360(M) / $1,000(M) = 136% > 130%.
+The candidate will then need to calculate the profit under the new pricing model.
+Total: $780M
+Profit / Revenue = $780(M) / $1,360(M) = ~57%
+Once the candidate identifies that the goals are met through this pricing strategy, go to the 
+recommendation prompt.
+Note that there are multiple solutions to this problem as long as the candidate identifies 
+one that increases revenue by at least $300M and maintains 40% profitability. The 
+simplest answer, which is still a viable answer, is to increase the price of Truck Wash A to 
+$5, $6, or $7.
+212
+Exhibit #2 Guidance Continued
+Product
+Revenue per Tote
+Cost per
+Tote
+Profit per
+Tote
+Totes Sold 
+(K)
+Profit ($M)
+Car Wash A
+$1600 
+$1000 
+$600 
+400 
+$240
+Truck Wash A
+$1200 
+$300
+$900 
+600 
+$540
+
+
+===== PDF p217 =====
+213
+The CEO of Walter Black Industries is walking in the door and is interested in your 
+findings.
+Recommendation 
+The candidate should provide a conclusion that clearly identifies the recommendation, 
+along with the risks associated with the strategy. An excellent candidate will not 
+summarize the process in which the conclusion was reached, but rather focus on the 
+impact and next steps of the recommended pricing strategy.
+Potential Risks
+• How competitors will react (price war)
+• How lowering the price of the car wash will affect brand perception
+Potential Next Steps
+• Coordinate with sales team to implement new pricing with customers
+• Perform additional analysis on customers to see if segmenting pricing for different 
+customers can improve revenues even more
+Interviewer Guidance:
+Walter Black Industries
+
+
+===== PDF p218 =====
+Evaluation Criteria
+214
+Candidate Level
+Assessment
+Average Candidate
+Candidate recognizes this is a revenue growth case and identifies 
+pricing as a potential solution. Framework is not customized and 
+candidate may require guidance in identifying insights in Exhibit 1 
+and makes many mistakes on the mathematical computations. 
+Candidate may also focus too much on profitability and costs 
+instead of revenue growth.
+Good Candidate
+Candidate recognizes this is a revenue growth case and 
+develops an appropriately customized framework. Candidate may 
+require some guidance in moving forward in the case and make 
+some small mistakes in mathematical computations. Candidate 
+identifies that pricing is a potential solution and lists appropriate 
+risks and next steps.
+Excellent Candidate
+Candidate recognizes this is a revenue growth case and 
+develops a creative and customized framework. Candidate 
+requires minimal guidance through the case and develops 
+insights as well as performs computations in a structured fashion. 
+Candidate identifies that pricing is a potential solution and lists 
+appropriate risks and next steps.

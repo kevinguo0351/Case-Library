@@ -1,0 +1,340 @@
+===== PDF p125 =====
+Case 16: Blackouts in Uganda 
+Guidance 
+This is a multi-step case which will encourage the student to think creatively through several stages 
+of a case that they likely have little background in.  Encourage candidates that formal frameworks 
+are not really required for this case (as is the case in many BCG interviews) but can be used if they 
+think it would be helpful.  Additional time should not be allowed for a candidate to build a framework 
+for any of these prompts. 
+ 
+Prompt A 
+Many non-OECD countries suffer from frequent blackouts and shortages in electricity. This is a 
+known fact.  
+ 
+List at least 3 reasons for why electricity shortages occur and may be more frequent in non-
+OECD countries.  
+ 
+Guidance 
+Encourage the candidate to think through and list as many reasons as they can think of.  Feel free 
+to ask them to elaborate or explain any reason further. Note: OECD countries include all wealthy 
+European and North American countries as well as Australia and New Zealand. 
+ 
+Possible answers: 
+•  Poor infrastructure 
+•  Inefficient electrical grids 
+•  Lack of adequate funding available to finance investment in electrical infrastructure (build power 
+plants, etc.)  
+•  Large population growth 
+•  Rapid industrialization 
+•  High GDP growth that has outpaced investment in the electricity infrastructure 
+•  Natural disasters 
+•  Old power plants unable to meet current demand or may require frequent maintenance 
+Strategy 
+BCG 
+121 
+
+
+===== PDF p126 =====
+Case 16: Blackouts in Uganda 
+Prompt B 
+Why is the lack of electricity such a serious problem? 
+Guidance 
+Encourage the candidate to think beyond the basic answer that no power = no television, no light 
+etc.  Ideally, the candidate will delve deeper into the “so what” here and recognize some of the 
+deeper implications of power outages. 
+ 
+No power will result in: 
+•  Lower productivity 
+•  Poorer education, healthcare, quality of life 
+•  Limited access to information 
+•  Political instability (see below) 
+ 
+Further clarification: Access to electricity has essentially become a right and a necessity for the 
+current generation. People living anywhere except maybe the poorest countries in the world are 
+demanding access to not only food, water and shelter but also electricity.  For example, much of 
+Africa gained access to cellular phones before landlines and as such the massive increase in the 
+use of electrical products (phones, computers, TVs, radios) has been a primary driver for the 
+shortage in electricity worldwide. Perhaps more dangerous is that blackouts and shortages have the 
+potential to create significant instability for a government. Access to electricity means access to 
+information and limiting a population’s access to information can spur revolt. As a result of these 
+implications, rental power providers have seen their industry grow massively over the last decade 
+with projects of the industry doubling every 3-4 years. 
+ 
+Strategy 
+BCG 
+122 
+
+
+===== PDF p127 =====
+Case 16: Blackouts in Uganda 
+Prompt C 
+Following the massive earthquake in Japan in 2011, there were significant power shortages in the 
+country as a result of the TEPCO nuclear reactors going offline due to significant damage.  In fact, 
+Japan was left with a deficit of nearly 2 gigawatts due to this disaster (1 GW = 1000 MW).  To bridge 
+this gap, Japan turned to rental power providers which were able to provide 2000MW of temporary 
+power within 3 months.  Similarly, many rapidly developing countries utilize the same rental power 
+providers to help bridge the gap in their own electrical infrastructures.  Due to many of the reasons 
+in prompt A, the demand for power is high and while rental power providers have been extremely 
+successful and profitable in providing power to electrical utilities in these countries, it is estimated 
+that the market is as much as 10x larger than initially expected. 
+ 
+List 5 or more data points that you would require to determine which countries a rental 
+power provider should prioritize. 
+ 
+Guidance 
+If necessary, clarify the question by rephrasing: How would you decide which countries would be the 
+most profitable for a rental power provider? There are a number of variables that are useful for this 
+analysis and the candidate should get at least 5. 
+ 
+Basic: population, population growth, per capita GDP, GDP, GDP growth 
+ 
+Intermediate: fossil fuel production, energy generation/consumption, power outages per year 
+ 
+Advanced: % of electrical production from hydroelectric power plants (see next prompts for clarity), 
+electrical grid utilization rates (high grid utilization means a greater likelihood of blackouts during 
+peak loading periods), political and financial risk levels (many international organizations rank 
+countries by this), corruption levels (many international organizations rank countries by this). 
+ 
+Strategy 
+BCG 
+123 
+
+
+===== PDF p128 =====
+Case 16: Blackouts in Uganda 
+Prompt D 
+The Uganda Electricity Transmission Company  (UETCL) is suffering from severe electrical 
+shortages due to recent droughts.  Why might this be? 
+Guidance 
+It is not expected of the candidate to figure this out without any guidance. If the candidate is 
+struggling, or asks inform them that Uganda produces 99% of their electricity through hydroelectric 
+power. Clearly, Uganda is heavily reliant upon hydroelectric power. In times of drought, water levels 
+are lower, rivers flow more slowly, etc. and as a result the amount of electricity that can be 
+generated is significantly lower. 
+ 
+Strategy 
+BCG 
+124 
+
+
+===== PDF p129 =====
+Case 16: Blackouts in Uganda 
+Strategy 
+BCG 
+125 
+Prompt E 
+Is it possible to forecast how much power the UETCL will require during a drought? If yes/no, 
+please explain why. 
+Guidance 
+Yes. We can forecast the energy production by examining water levels, power plant efficiency and 
+electrical production over time. Specifically, the amount of water held in a hydroelectric dam’s 
+reservoir will be the most telling indicator. These variables can determine how much electricity is 
+typically available during normal periods and in droughts.   
+ 
+From these variables, the water level is the one that varies the most. Therefore, we can estimate the 
+power production using rainfall forecasts and knowledge of the hydroelectric grid.   
+ 
+The power consumption varies according to the economy. When the GDP grows, the power 
+consumption is also expected to grow in the same proportion. 
+ 
+In conclusion, we can predict the power production using rainfall forecasts and consumption data 
+using economic forecasts, such as the GDP, all of which are typically publically available. 
+ 
+
+
+===== PDF p130 =====
+Case 16: Blackouts in Uganda 
+Prompt F 
+Assume the 250MW  Bujagali hydroelectric plant in Uganda typically produces about 1 million MWh 
+(megawatt hours) annually assuming there are no droughts and the water level of the dam’s 
+reservoir is at least 100 ft deep. Due to recent droughts, the water level in the reservoir has fallen to 
+76 ft and is expected to stay around that level for the next 6 months before returning to normal (100 
+ft). If the reservoir falls below 50ft no power can be produced. 
+ 
+Please calculate what the electricity shortage will be for the next 12 months.  
+ 
+Note: the production capacity decreases proportionally when the water level is bellow 100ft, 
+reaching 0% when the water level is at 50 feet. 
+ 
+Guidance 
+The candidate should recognize that the 250MW installed capacity of the power plant is extraneous 
+information. If asked, briefly explain that power plants are MW are units of power and MWh are units 
+of energy or rather the amount of energy used over time. 
+ 
+Assume a linear function of depth vs. power producing capacity.  Also assume even power 
+production for every month of the year with the only varying factor being a drought. 
+ 
+Solution 1: If 50ft = 0% production and 100ft = 100%, 76ft = 52% production (26ft*2%/ft) 
+6 months normal production = 500,000 MWh 
+6 months low production = 52% of 500,000  MWh = 260,000 MWh  
+Therefore, the shortage will be 1,000,000 – 500,000 – 260,000 = 240,000 MWh 
+ 
+Solution 2: 100ft = 1,000,000 MWh annually, 50ft = 0 MWh $ 1ft = 20,000 MWh/yr 
+$ (100ft – 76ft) x 20,000 = 580,000 MWh/yr shortage $ 
+$580,000/2 = 240,000 MWh shortage annual since the drought only lasted 6 months. 
+ 
+Strategy 
+BCG 
+126 
+
+
+===== PDF p131 =====
+Case 16: Blackouts in Uganda 
+Prompt G 
+Based on your answer from Prompt F, calculate how many Ugandans will be without 
+electricity during the next 6 months.  Please provide the actual number and the percentage. 
+Assume even power distribution across the country. 
+ 
+Guidance 
+Wait for the candidate to ask for the additional data before supplying it: 
+•  Uganda annual power consumption: 2,000,000 MWh 
+•  Population in Uganda: 34,500,000 
+•  Population in Uganda without any access to electricity: 28% 
+Note: it is extremely rare (especially outside OECD countries) to have 100% electrification rates 
+ 
+Solution: 
+•  Population already without power: 34,500,000 * 28% = 9,660,000 (round to 10,000,000) 
+•  Population with power: ~25,000,000 
+•  Shortage over 6 months: 240,000 MWh 
+Calculate per capita power semi-annual power consumption: 
+=2,000,000/25,000,000/2 = 0.08/2 = 0.04 MWh /person 
+ 
+Calculate number of Ugandans without power due to drought: 
+=240,000/0.04 =  6,000,000 
+ 
+Calculate total number of Ugandans without power: 
+=6,000,000 + 10,000,000 = 16,000,000 
+ 
+Percentage of Ugandans that will be without power over the next 6 months: 
+=16,000,000/34,500,000 = ~ 46% 
+ 
+Strategy 
+BCG 
+127 
+
+
+===== PDF p132 =====
+Case 16: Blackouts in Uganda 
+Performance 
+Evaluation 
+Expected: 
+•  Prompts A, B and C answered with little or no guidance 
+•  Prompts D, E attempted but only completed with significant guidance 
+•  Prompts F and G completed with some guidance 
+ 
+Good: 
+•  Prompts A, B, C, F and G completed with little or no guidance 
+•  Prompts D, E attempted but only completed with significant guidance 
+ 
+Excellent: 
+•  Completes “Expected” and “Good” requirements 
+•  Completes all prompts without significant guidance 
+•  Added their own additional insights about the case. For example, they elaborated on why it would 
+be fairly risky for a rental power provider to do business in certain countries due to the significant 
+risks of doing business there (i.e. Syria) 
+Strategy 
+BCG 
+128 
+
+
+===== PDF p133 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+129 

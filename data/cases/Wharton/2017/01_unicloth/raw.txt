@@ -1,0 +1,246 @@
+===== PDF p12 =====
+KNOWLEDGE FOR ACTION
+Unicloth
+
+
+===== PDF p13 =====
+KNOWLEDGE FOR ACTION
+Case 1: Unicloth
+Level of Difficulty: Medium
+Case Similar to Cases at Firms: BCG second round
+Topics Tested: i.e. market sizing, mathematical calculation,
+Prompt: Our client, Unicloth, is an Asian clothing retailer attempting to establish a
+profitable presence in the United States. However, since they arrived five years
+ago, they have struggled to achieve that goal and have engaged our firm to find
+out why and to recommend next steps. How can we help?
+Wharton Casebook 2017
+CASE 1
+9
+
+
+===== PDF p14 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample of Strong Framework:
+●Product
+○What do they sell?
+○Where is it made?
+○Competitive product?
+●Market
+○Who are the competitors?
+○What are the economic conditions?
+○Have there been new entrants?
+●Revenue
+○Average price per unit
+○Number of units sold in the US per day
+●Cost
+○COGS
+○Rent
+○Store maintenance
+○Labor
+○Cost of lost sales
+CASE 1
+10
+
+
+===== PDF p15 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Clarifying Questions
+Product:
+o   This company sells casual clothing, think jeans, t-shirts, knit sweaters, dresses, etc.
+o   They follow the designs of the company’s home market in Asia
+o   They are manufactured in China and Bangladesh
+Market:
+o   The retail market has been stable, no economic downturns, etc.
+Revenue:
+o   Price: average product price is ~$40. This is in line with mid-tier competitors such as 
+American retailer Bap and a bit below European retailer Mara
+CASE 1
+11
+
+
+===== PDF p16 =====
+KNOWLEDGE FOR ACTION
+Revenue
+Wharton Casebook 2017
+●Revenue
+○Price: average product price is ~$40. This is in line with mid-tier competitors such as
+American retailer Bap and a bit below European retailer Mara
+○Sales:
+■Market sizing: The retailer has a US presence comprised of three mall stores plus
+one flagship store on 5th Avenue. Have candidate attempt to calculate annual
+sales based on intuition.
+●Three mall stores:
+○Sell on average 1,375 items per day
+○Have candidate calculate: 1375 items * $40 = $55,000 per day
+○$165,000 per day all mall stores put together
+○$60,225,000 annual revenue from mall stores
+●Flagship store on 5th Avenue
+○Sell 4,500 items per day
+○Have candidate calculate 4,500 items *$40 = $180,000 per day
+○$65,700,000 per year
+●Move forward with $125 M revenue per year
+CASE 1
+12
+
+
+===== PDF p17 =====
+KNOWLEDGE FOR ACTION
+Costs
+Wharton Casebook 2017
+●
+Costs - have candidate brainstorm what costs might be. If they don’t come up with all of
+them, give them the below
+○
+COGS
+■
+Profit margin on clothing sales is 30%
+■
+Cost of items per year is $125 M * .7= $87.5M
+■
+Round to $90M/year
+○
+Rent:
+■
+Flagship store rent: $1.5 M per month = $18 M per year
+■
+Mall store: $200K per month * 3 stores = $600K per month, $7.2 M per year
+■
+Round to $25M per year
+○
+Maintenance of stores, utilities, etc.
+■
+$5 M per year
+COSTS CONTINUED ON NEXT SLIDE
+CASE 1
+13
+
+
+===== PDF p18 =====
+KNOWLEDGE FOR ACTION
+Costs Continued
+Wharton Casebook 2017
+●
+Costs - continued
+○
+Labor: 
+■
+Flagship store: 
+●
+500 associates, average 20 hours per week, $8.5 per hour = 
+$85,000/week, $4.42 M per year
+●
+5 managers, $100K salary = $.5M per year
+■
+Mall stores:
+●
+20 associates per store * 3, 20 hours per week, $8.5/hour
+○
+$10,200/week, $530,400 per year
+●
+1 manager, $100K salary
+○
+$.12 M per year
+■
+Total labor cost:
+●
+Round to $6M per year
+○
+Storage, sending unsold clothes back to warehouse, markdowns, etc.
+■
+$12M per year
+●
+Total costs
+○
+$138 M- not breaking even!! (Under by $13M vs. $125 M revenue)
+CASE 1
+14
+
+
+===== PDF p19 =====
+KNOWLEDGE FOR ACTION
+Improving Profitability
+Wharton Casebook 2017
+Now that we have all of the revenue and costs, let’s work on making the company more
+profitable. Have the candidate brainstorm and then guide them through the below:
+●
+Costs
+○
+Manufacturing- We are already producing our clothing in the cheapest manner 
+possible. 
+○
+Shipping- We could cut 5% of our COGS by shipping the clothing by boat instead of 
+air
+■
+Savings: $4.5M annual (90M * 5%)
+○
+Labor- We have what we need, cannot reduce
+○
+Rent- Have candidate brainstorm how you could potentially reduce the rent burden. 
+Some options:
+■
+Move location of flagship- No, we need it for marketing
+■
+Close mall stores- We are not ready to make that move as we are hoping to
+continue expanding in the suburbs in the future
+■
+Share the rent with another business- YES! Opening a coffee shop within the
+store would cut 25% of our debt burden at the flagship store.
+●
+Savings: $1.75M annual
+CASE 1
+15
+
+
+===== PDF p20 =====
+KNOWLEDGE FOR ACTION
+Improving Profitability
+Wharton Casebook 2017
+●Revenue
+○Have candidate brainstorm how we can improve revenue
+■Train the sales staff better to sell- No, they’re pretty well trained
+■Lower prices- No, it wouldn’t solve our margin issue
+■Online store- We are not ready to make that investment at this time
+■Turns out that American customers don’t love the styles and have some
+trouble with Asian sizes (the styles tend to be too conservative, the colors are
+too muted, our clothing tends to run small for the US market)
+■Adjusting design and sizes and continuing to manufacture separately for the
+American market will cost us $12M annually, but it will provide $23M
+additional revenue per year
+●Incremental revenue: $11M annual
+●Total incremental income
+○$1.75M + $4.5M savings
+○$11M incremental revenue
+○Total $17.25M→makes up for $13M deficit
+CASE 1
+16
+
+
+===== PDF p21 =====
+KNOWLEDGE FOR ACTION
+Recommendation
+The CEO is about to walk in and she would like to hear the candidate’s recommendations- have
+him/her make some. *Make sure you say she and give the candidate feedback if he/she falls prey
+to bias and calls the CEO a “he”*
+Currently we are seeing revenues of $125M annually, but costs of $138M, meaning we are $13M
+in the red. However, we have studied the cost and revenue structure of your retail operation and
+found that there are a few actions you can take at this time. On the cost side, we recommend
+changing your means of shipping from air to boat, a change we have found will bring $4.5M in
+annual savings. Additionally, we recommend seeking a partner to share your rent/space at the
+flagship store. We believe, for example, that placing a coffee shop within the store would save you
+25% in rent, for a savings of $1.75M annually and perhaps encourage your customers to shop
+more. Finally, we recommend revamping your inventory for the American market by adjusting
+designs and sizes to better meet demand. We estimate this will drive $11M in additional annual
+revenue. Together, these measures will more than make you profitable, breaking even and making
+$4.25M in profit. Potential risks of this plan include having an unreliable retail partner at the
+flagship store, making products that the American market still doesn’t like, and delaying inventory
+stocking through the new shipping method. For this, we recommend a study into whom the retail
+partner should be, engaging in extensive market research to produce the correct SKUs for the
+market, and adjusting US warehouse operations and lead times to ensure that stocking is not
+delayed.
+CASE 1
+Wharton Casebook 2017
+17

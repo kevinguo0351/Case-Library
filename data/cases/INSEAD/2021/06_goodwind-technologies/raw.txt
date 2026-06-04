@@ -1,0 +1,233 @@
+===== PDF p63 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Case Information
+Difficulty level ± Quantitative
+5
+Difficulty level ± Creativity
+3
+Difficulty level ± Structure
+4
+Case led by
+Mixed
+Case type
+Market sizing, Competitive advantage
+Industry
+Industrial goods, textile machinery
+59
+
+
+===== PDF p64 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Case Prompt
+GoodWind is a textile machinery manufacturer specialized in the production of winding machines, the machine used at the end of the cotton 
+yarn production process. The winding machine has been used for the past 50 years, but now two new technologies ± open-end spinning and 
+air-jet spinning ± are threatening its existence. Our client has three main questions he wants you to address:
+1. What is the current market size of the global winding machines market?
+2. What is GoodWind¶s current market share and profit?
+3. Should GoodWind worry about these new and potentially disruptive technologies?
+Information to be used to answer clarifying questions
+A winding machine is used to refine yarn quality, sourcing yarn from different ring spindles to produce a homogeneous and higher quality yarn
+Open-end spinning and Air-jet spinning already produce a final product, there is no need for further yarn refinements
+GoodWind has no other business unit and is not developing any other machine at the moment
+60
+
+
+===== PDF p65 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Guide to interviewer
+ Topics being tested: Market size, Profitability (tested very lightly), Qualitative analysis and creativity
+ Explain any doubt the candidate might have about Exhibit 1
+ Expect the candidate to ask information about current sales volume, price, costs (fixed and variable)
+Guide for use of exhibits
+Exhibit 1
+Exhibit 3
+Hand out this exhibit at the start of the case, but after the candidate 
+asks for some data concerning cotton
+Key insight:
+To estimate sales volume it is needed to convert total yarn production 
+from weight to length
+Hand out this exhibit when the candidate has to answer question 3 
+(potential disruption)
+Key Insights:
+a) Winding machines market seems still ok
+b) There are other things to consider for a proper assessment
+61
+
+
+===== PDF p66 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Sample Framework ± Q1: Market sizing (data from Exhibit 1)
+Cotton yarn produced via ring spindles = 40M tons * 75% = 30M tons
+Since winding speed is in [m/min], it is necessary to convert weights into lengths using Ne.
+Ne = 40 means that to get 0.5 kg of yarn (1 pound) we need 40 * 840 meters (1m = 1 yard). Therefore, 1 kg of yarn = 40 * 840 * 2 = 67,200 m 
+~ 67,000 m = 67 km
+Ź Shortcut: tell the candidate 1kg of yarn is 67km long
+With 1 kg of yarn long 67 km, 30M tons of yarn = 30M * 1,000 * 67 km ~ 2,000bn km
+To estimate total number of machines installed, it is necessary to use the average winding speed of 1,200 m/min. In 1 year, a machine 
+processes about
+1.2 km/min * 60 min/h * 24 h/day * 350 days/year * 80% efficiency = 483,840 km ~ 500k km
+Ź Shortcut: tell the candidate 1 machine can process 500k km of yarn per year
+Total capacity installed = Total length processed / Length processed per machine
+Total capacity installed = 2,000bn km / 500k km = 4M
+From the capacity installed and the expected life (20 years) it is possible to calculate the expected sales per year, assuming a 1/20 = 5% 
+renewal rate.
+New sales = Total capacity installed * Renewal rate = 4M * 5% = 200,000 units (MARKET SIZE)
+62
+
+
+===== PDF p67 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Sample Framework ± Q2: Market share and profit
+Data to provide upon request from the candidate (eventually show Exhibit 2)
+Market share = GoodWind sales / Market sales (from previous calculations)
+Market share = 80,000 / 200,000 = 40%
+Profit = (Price per machine ± Variable cost per machine) * Machines sold ± Fixed costs
+Profit = (2,500 ± 2,000) * 80,000 ± 30,000,000
+Profit = 40,000,000 ± 30,000,000 = 10,000,000
+GoodWind winding machines 2019 sales [units]
+80,000
+Price per Zinding machine [¼]
+2,500
+Cost per Zinding machine [¼]
+2,000
+Fi[ed costs [¼]
+30,000,000
+63
+
+
+===== PDF p68 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Sample Framework ± Q3: Market disruption
+Rough calculations from Exhibit 3
+ Winding machine: to get 1,200 m/min it is necessar\ to pa\ 2,500 ¼ / 80% = 3,125 ¼
+ Open-end spinning: to get 2,500 m/min it is necessar\ to pa\ 5,000 ¼ / 50% = 10,000 ¼,
+so to get a 1,200 m/min the price is about 5,000 ¼
+ Air-jet spinning: to get 5,000 m/min it is necessar\ to pa\ 15,000 ¼ / 75% = 20,000 ¼,
+so to get a 1,200 m/min the price is about 5,000 ¼
+From these calculations, it seems that winding seems to be the cheapest way to produce yarn, and therefore it seems potentially not disrupted 
+by the new technologies.
+Additional considerations to be taken into account (that the candidate could mention for additional credit):
+ Exhibit 3 is ignoring the price and efficiency of ring-spindles, which ideally should enter the calculation, and could potentially revert the 
+conclusion
+ Exhibit 3 is also ignoring the operating costs of such machines (e.g. Air-jet has 4x the output of a winding machine, therefore could 
+potentially save on energy consumption, maintenance, room required)
+ IF Open-end spinning or Air-jet spinning can improve speed or efficiency or can become cheaper in the future, there is a potential 
+threat for GoodWind¶s market
+ Yarn quality is also not considered: Open-end spinning and Air-jet spinning DO NOT produce high quality yarn, therefore there are certain 
+applications which still require Ring spinning and Winding machines
+64
+
+
+===== PDF p69 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Sample Solution & Recommendations
+y Q1: Market size = 200,000 units in 2019
+y Q2: GoodWind market share = 40%, Profit = 10M¼
+y Q3: Potential disruption: the market seems still ok, there are other factors to consider such as complementary equipment (ring spindles), 
+operating costs, potential improvements, product quality, which might potentially alter the market perception
+Guide: Good vs Great Case
+A good candidate will cover these points:
+A great candidate will also cover these points:
+a) Make it through Q1 with a bit of guidance
+b) Answer Q2 promptly identifying what data are needed
+c) Identify the winding heads market as still ok for GoodWind
+a) Make it through Q1 mainly on his own
+b) Answer Q2 promptly identifying what data are needed
+c) Confirm the market is still good, but reflecting on potential other 
+factors in the near future / in the model considered
+65
+
+
+===== PDF p70 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Exhibit 1 ± Market data
+Cotton yarn produced globally in 2019 [million tons]
+40
+Via Ring spindles
+75%
+Via Open-end spindles
+20%
+Via Air-jet spindles
+5%
+Average Number English (Ne)1
+40
+Average winding machine speed [m/min]
+1,200
+Winding efficiency
+80%
+Expected winding machine life [years]
+20
+For this case:
+1 yard = 1 meter
+1 pound = 0.5 kg
+1. Ne is defined as the number of hanks (1 hank is a section of yarn 840 yards long) which weigh 1 pound (0.454 kg). The finer the yarn, the higher the number of hanks to give the same weight. 
+E.g. Ne = 2 means that a section of 840 * 2 = 1680 yards weigh exactly 1 pound
+66
+
+
+===== PDF p71 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Exhibit 2 ± Company data
+GoodWind winding machines 2019 sales [units]
+80,000
+PULFH SHU ZLQGLQJ PaFKLQH [¼]
+2,500
+CRVW SHU ZLQGLQJ PaFKLQH [¼]
+2,000
+FL[HG FRVWV [¼]
+30,000,000
+67
+
+
+===== PDF p72 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+GoodWind Technologies
+Author: Federico Lugnani (µ20D)
+Exhibit 3 ± Spinning technologies
+Output speed
+[m/min]
+2,500
+1,200
+5,000
+Winding machine
+Open-end spinning
+Air-jet spinning
+Price
+[¼]
+2,500
+5,000
+15,000
+Efficiency1
+80%
+75%
+50%
+1. Efficiency is defined as the final product accepted / total product processed. E.g. an efficiency of 60%, means that a potential output of 1,000 m/min is reduced to 600 m/min of acceptable final product
+68

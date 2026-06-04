@@ -1,0 +1,34 @@
+{
+  "case_id": "Tuck_2018_02_museum-of-fine-arts",
+  "school": "Tuck",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2018.pdf",
+  "idx": 2,
+  "case_name": "Museum of Fine Arts",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Non-profit / Arts",
+  "difficulty": null,
+  "pdf_page_start": 17,
+  "pdf_page_end": 26,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p019.png",
+    "exhibits/exhibit_p020.png",
+    "exhibits/exhibit_p021.png",
+    "exhibits/exhibit_p023.png",
+    "exhibits/exhibit_p024.png",
+    "exhibits/exhibit_p025.png",
+    "exhibits/exhibit_p026.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2018\\02_museum-of-fine-arts"
+}

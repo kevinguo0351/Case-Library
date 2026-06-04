@@ -1,0 +1,139 @@
+===== PDF p97 =====
+Case 7: MexTell (1/5)
+Tell me about a time when you 
+failed
+Tell me about another time when 
+you failed.
+Keys to the case
+−This is meant to be a math heavy testing
+ground; candidate will have to structure
+and calculate quickly to keep from losing
+control
+−Valuation meeting the threshold is largely
+based on the growth and interest rates
+used in DCF.
+Recommendation is dependent entirely on
+candidate’s chosen WACC and growth
+assumptions.
+Our client is a major U.S. cell phone service provider with $45 billion in
+revenues. They have recently been buying companies in an attempt to
+expand their network, and have been notified of a potential window to
+acquire MexTell, a Mexican Cellular network. They’ve determined the
+deal will be worth the trouble likely to come from activist investors if
+MexTell is worth more than $6 billion.
+Should they acquire?
+Fit question #1
+Fit question #2
+Case Overview
+Interviewer Guide
+Case Prompt
+-
+Interview style: Candidate-led
+-
+Difficulty Level: Medium
+-
+Case type: Market entry, M&A
+-
+Industry: Telecommunications
+-
+Concepts tested: Math, 
+valuation
+
+
+===== PDF p98 =====
+Case 7: MexTell (2/5)
+Good candidate:
+Creates a framework that catches the
+major levers and risks to the deal
+Ensures that valuation and risks to the
+deal are part of the framework
+Better candidate:
+Understands from the prompt that a final
+number of > or < $6B is the goal, and
+creates a framework based on valuation
+methods commonly used (DCF, Comps,
+Book Value)
+Interviewer Guide
+Sample framework
+“Should our client acquire MexTell?” NOTE: Relevant information 
+for candidate in BOLD
+
+
+===== PDF p99 =====
+Case 7: MexTell (3/5)
+Good candidate:
+Creates a structure after realizing the volume of 
+information they are about to get.
+Keeps a structure through most of the profit tree, 
+asking for relevant information when needed
+Calculates numbers as they go.
+Better candidate:
+Realizes that in order to get to a Valuation they 
+need a profit, and makes a structure to get the 
+data
+Does math as necessary to keep the numbers 
+flowing, but doesn’t interrupt data capture
+Realizes that Basic Users<<Premium users; 
+hypothesizes that Basic price may be too high for 
+average GDP, and flags for “opportunity review”
+Realizes that total users<<pop. of Mexico since 
+Mextell has no competition; flags as growth 
+potential
+Interviewer Guide
+
+
+===== PDF p100 =====
+Case 7: MexTell (4/5)
+Good candidate:
+Knows all three methods, and quickly identifies
+that DCF is the way to go with the data we have
+Has an intelligent discussion on interest rates and
+growth projections
+Better candidate:
+Understands that WACC is based on risk inherent
+in this deal and this industry, not just on the
+company or client itself; when provided with 10%
+as the company’s WACC, suggests that we use a
+higher WACC to capture the extra risk in this
+Realizes that WACC makes or breaks the deal, and
+suggests furtherdue diligence on determining
+the right WACC
+Interviewer Guide
+Three potential valuation methods
+
+
+===== PDF p101 =====
+Case 7: MexTell (5/5)
+(GOOD) Our client should continue
+purchase of MexTell based on a $7.6B 
+valuation
+(BETTER) We should continue our due
+diligence in order to determine the
+correct WACC to evaluate this deal with,
+lest we miss our target.
+Recommendation
+A star candidate will realize that Basic Users 
+are far 5x fewer than Premium users, despite 
+price tag. A good hypothesis is that Basic 
+price may be too high for average GDP, and 
+Premium users are mostly business. This is 
+a good opportunity to adjust prices to better 
+capture the segments.
+Risks
+Strong profit margins of ~20% on gross
+revenue
+Lack of competition makes future position
+much more secure, even with competitive
+entry
+WACC changes of 5% change valuation
+from $2B above our benchmark to $2B
+below benchmark; WACC is single most 
+important factor here
+Rationale
+A star candidate will also notice that
+MexTell has no competition, yet holds
+far fewer subscribers than the 
+population of Mexico; huge opportunity
+for growth, or competition, depending
+on the regulation
+Next steps

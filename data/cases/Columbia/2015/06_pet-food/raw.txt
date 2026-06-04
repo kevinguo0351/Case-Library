@@ -1,0 +1,181 @@
+===== PDF p43 =====
+Pet Food
+How large is the pet food market in the US? What information would you need?
+Problem Statement Narrative
+Difficulty: 
+Medium
+Industry: 
+Pet Supplies
+Case Type: 
+Market Sizing
+•
+Market Sizing
+•
+Mental / Public Math
+•
+Chart Analysis
+Concepts Tested
+Case: Pet Food
+Case is a market sizing / mental math exercise. Do not give exhibits until interviewee asks for them. When 
+interviewee asks for data regarding pet ownership in the united states, provide exhibit 1.
+Case Notes
+39
+
+
+===== PDF p44 =====
+Pet Food
+Sample Framework
+A reasonable general market sizing would look 
+something like this:
+•
+US Population: 320M
+•
+Average people per household: 3.2
+•
+# of households in the US: 100M
+•
+% of households with pets: 
+58%
+•
+Average no. of pets in 
+households with pets: 
+~1.5 
+•
+Size of market in terms 
+of households: 58M*1.5 
+= 87M (okay to round to 
+90M)
+Interviewee can go on to calculate market size in 
+terms of revenue:
+•
+Average number of food bags bought per 
+month: 1
+•
+Average price of pet food bag: ~$30
+Market size in terms of revenue per year: 
+90M*12*$30 = $32.4B 
+Sample Framework
+•
+Test interviewee’s general market sizing 
+abilities before giving her/him any exhibits.
+•
+Allow interviewee to make assumptions, steer 
+him/her towards more reasonable assumptions 
+if you think he/she is going down a wrong path.
+•
+After interviewee does her/his own market 
+sizing (see sample), and asks for data 
+regarding pet ownership, give Exhibit 1
+Guidance for Interviewer
+Clarification Answers if Asked 
+40
+
+
+===== PDF p45 =====
+Question #1
+How many dogs are there in the US?
+Question #1
+Provide exhibit 2. 
+Calculation:
+No of US households 100M * 40% (exhibit 1) = 40M households with dogs
+No of households with 1 dog = 40M *  58% = 23.2M  23.2M dogs
+No of households with 2-3 dogs = 40M * 36% = 14.4M average 2.5 dogs: 14.4M * 2.5 = 36M dogs
+No of households with 4+ dogs = 40M *  7% = 2.8M okay to use 4 dogs: 2.8M * 4 = 11.2M dogs
+Total dogs: 70.4M
+(FYI – this number is approximately correct, according to the American Society for the Prevention of Cruelty 
+to Animals)
+Solution
+Pet Food
+41
+
+
+===== PDF p46 =====
+Question #2
+What is the market for dog food in the US?
+Question #2
+Provide exhibits 3 and 4; rounding the numbers is allowed and encouraged!
+Average ounces/pounds of dog food per day (from exhibit 3):
+(4+8+14+17+32)/5 = 75/5 = 15 ounces per day on average
+* 16 ounces in 1 pound (see bottom of exhibit), okay to round to 1 pound per day
+1 pound * 360 days a year = 360 pounds a year
+Average price of dog food per pound (exhibit 4):
+Ol’ Roy: 18.97 / 40  ~ 20/40 = $0.5 dollars per pound
+Kibbles ‘n Bits: 13.49 / 17.6 ~14/17.5 =  $0.8 dollars per pound
+Eukanuba: 39.99 / 40 ~ 40/40 = $1 per pound
+Blue Buffalo: 49.99 / 33 ~ 30/50 = $0.6 per pound
+(0.5+0.8+1+0.6)/4 = 2.9/4 = ~ $0.75 per pound on average
+360 pounds * $0.75 = $270 per dog per year
+$270 * 70M dogs = $1.89B
+Solution
+Pet Food
+42
+
+
+===== PDF p47 =====
+Question #3
+What is the yearly demand for dog food at Walmart and Safeway?
+Question #2
+Provide exhibit 4; Additional assumptions to be given upon interviewee questions:
+•
+Safeway has ~10M yearly customers; Walmart has ~100M customers
+•
+Can assume that 40% of Safeway / Walmart customers have dogs (Exhibit 1 data)
+•
+10% of customers who have dogs buy their dog food at Safeway / Walmart 
+Safeway:
+Average consumption is 360 pounds per year (question 1), Safeway brand has 17.6 pounds a bag at $13.5. 
+Interviewee can and should round to 20lbs and $15
+360 / ~20 = 18 no of bags each customer buys a year
+18 * $15 = $270 per year spent on dog food 
+4M Safeway customers have dogs, 400K buy their dog food at Safeway: 400K*18 = 7.2M bags sold; 
+7.2M * $270 = $1.9B in revenue from dog food
+Walmart:
+Walmart brand has 40lbs a bag at $18.97 (can round to $20)
+360 / 40 = 9 no of bags each customer buys a year (notice – exactly half of Safeway)
+9 * $20 = $180 per year spent on dog food
+40M Walmart customers have dogs, 4M buy their dogfood at Walmart: 4M*9 = 36M bags sold; 
+36M * $180 = $6.4B in revenue from dog food
+Solution
+Pet Food
+43
+
+
+===== PDF p48 =====
+Pet Ownership Rates in US
+(2015)
+Exhibit 1
+Source: Consumer survey
+44
+
+
+===== PDF p49 =====
+Number of Dogs & Cats in Pet-Owning Households
+(2015)
+Source: Consumer survey
+4+
+2-3
+1
+45
+Exhibit 2
+
+
+===== PDF p50 =====
+Feeding Guidelines for Various Dog and Cat Breeds
+(Dry Food, Ounces / Day)
+Note:  16 ounces per pound
+Source: Averages based on pet food product labels
+Dog Breeds
+Cat Breeds
+46
+Exhibit 3
+
+
+===== PDF p51 =====
+Store audits have yielded the following information about pet food costs
+Cat:  Friskies Seafood Sensations (Sold at PetSmart), 16 lbs:  $11.99
+Dog:  Ol’ Roy brand dog food (Walmart store brand), 40 lbs:  $18.97
+Dog:  Kibbles ‘n Bits (Sold at Safeway), 17.6 lbs:  $13.49
+Dog:  Eukanuba (Sold at PetSmart), 40.0 lbs:  $39.99
+Dog:  Blue Buffalo (Sold at Independent Pet Food Store), 33 lbs, $49.99
+47
+Exhibit 4

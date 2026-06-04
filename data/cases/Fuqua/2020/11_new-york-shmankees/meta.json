@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2020_11_new-york-shmankees",
+  "school": "Fuqua",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2020.pdf",
+  "idx": 11,
+  "case_name": "New York Shmankees",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Sports/Entertainment",
+  "difficulty": "Medium/Medium",
+  "pdf_page_start": 148,
+  "pdf_page_end": 156,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    152,
+    153
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p152.png",
+    "exhibits/exhibit_p153.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2020\\11_new-york-shmankees"
+}

@@ -1,0 +1,272 @@
+===== PDF p62 =====
+ 
+59
+C O N S U L T I N G  C A S E  I N T E R V I E W  
+E-Commerce in the airline industry 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty (Select level of difficulty) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p63 =====
+ 
+60
+Question 
+The year is 1999, in the middle of the .Com-boom. 
+An airline was approached by a group of entrepreneurs. The entrepreneurs offered the airline to 
+invest $100MM in their software company for 20% equity, and also be the first customer for the 
+software they develop. 
+The software is an e-market place where airliners and spare parts suppliers could meet to improve 
+the purchasing capabilities of the airlines and to reduce the purchasing costs. 
+Aircraft parts are obviously a hugely important part of the airline business, as airlines struggle to 
+keep planes in the air as much as possible, minimize downtime and control costs. 
+What should the airline do? 
+Note 
+This case was administered in BCG second round. It is similar to cases a person can get in Bain, BCG and 
+A.T. Kearney. 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. How do the airline currently purchase 
+spare parts 
+The airline currently has a legacy system. 
+The system is not that suitable to what’s is 
+actually happening and therefore there is a 
+lot of extra phone calls and process work 
+happening.  
+2. How much does a purchasing 
+transaction cost to an airline (supply this 
+number rather easily, even if you are not 
+asked directly) 
+$50 per transaction 
+3. How many transactions does each 
+airline perform every year? 
+500,000 for each of the airlines in the 
+states 
+4. How many airlines are there in the 
+states? 
+20 
+5. How much will a transaction cost us in 
+$6 payment for the software company 
+
+
+===== PDF p64 =====
+ 
+61
+the new system? 
+(try to supply only one of the numbers and 
+see if the interviewee asks for the other 
+number) 
+$9 internal costs (labor, systems, etc.) 
+6. Is there any other cost a customer needs 
+to pay to join? 
+$20MM licensing fee. 
+7. What is the cost structure for the 
+software company? 
+No variable costs. $10MM a year to pay for 
+corporate expenses. 
+8. Will the E-Market allow us an increased 
+bargaining power? 
+The aircraft industry in general, and the 
+spare parts industry specifically, are highly 
+regulated. To become an approved FAA 
+supplier costs money and therefore the 
+barrier for entry are significant. The result 
+is that each part has one or two suppliers 
+at the most and hence the bargaining 
+power will not improve with the E-Market. 
+ 
+ 
+ 
+ 
+ 
+Plan 
+This is a investment assessment case.  The analysis may include, but is not limited to, the following 
+areas: 
+Investment framework. 
+Market and competitors. 
+Company – availability of capital but also fit. 
+Current situation – how is the airline currently manages the spare parts sourcing. 
+ 
+Strong Plan 
+
+
+===== PDF p65 =====
+ 
+62
+ The candidate has de-coupled effectively both issues requiring decoupling – One 
+analysis is to be done from the perspective of an investor (who is the customer 
+here) and from the perspective of a customer. This is actually THE most 
+important issue here – decoupling the problems effectively. 
+The candidate also asked questions about the current situation and what 
+advantages will the system provide, and also talked about the market and 
+competitors. 
+ 
+ 
+Weak Plan 
+The candidate is thinking about the problem as one problem. It seems that he will 
+perform cash flow analysis for customer and investment together and doesn’t seem 
+to realize the “first customer” is not the same as “customer”. 
+In addition, candidate didn’t talk about the current situation or the market at all. 
+ 
+ 
+ 
+ 
+C!
+D!
+
+
+===== PDF p66 =====
+ 
+63
+Exhibits 
+(Case Exhibits should be on a separate sheet of paper and included or attached to the end of this 
+document.  If there are no exhibits, include any data that the interviewer must provide.) 
+Exhibit 1: 
+Interviewee:  Could you tell me more about the E-Market? 
+Interviewer:  (draw the following picture on a piece of paper and talk a little bit 
+about it) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expected Insight:   
+ 
+1. For the customer to get value out of the system, many suppliers need to be connected to 
+the system. 
+2. Do the suppliers need to pay anything to use the system? 
+Tell the candidate for this analysis assume suppliers pay nothing. 
+ 
+Calculations 
+The numbers are provided in the answers to questions. There are two calculations here: 
+1. Calculating the cash flow for investment 
+a. Best in class answer will utilize the cash flow framework (drawing years from 0 to 10 
+and writing beneath the cash flow every year). 
+b. – 100MM for year 0 (provided in the initial question) 
+c. Calculating the resulting cash flow 
+1
+E - Market 
+Supplier 
+1000 
+Supplier 
+1 
+Airline 1 
+Airline 
+20 
+
+
+===== PDF p67 =====
+ 
+64
+i. Revenues every year - $6 (payment per transaction) * 500,000 (transactions a 
+year) * 20 (airlines) = $60MM a year 
+ii. – 10MM a year (fixed costs for software company – case fact) 
+iii. = $50MM 
+iv. We only own 20% of that number = $10MM 
+v. $10 MM – resulting cash flow. 
+ 
+d. The interviewee should now say “so what” and talk about one or both of : 
+i. There will be $10MM annual return for $100MM investment. Without 
+discounting, we know it is a 10 years till breakeven. In the software industry 
+that’s unacceptable. 
+ii. $10MM till perpetuity. Discount rate for the software industry is high. let’s 
+assume 20%.  
+iii. $10MM/20% = $50MM.  
+iv. So what? Meaning that the moment you investment the $100MM it is worth 
+$50MM. this is a bad investment. 
+v. A interviewee can be confused and try and use the airline discount rate 
+(which is extremely low). This is obviously a mistake as discount rate is 
+directly correlated to risk. 
+ 
+ 
+2. Calculating the cash flow for customer 
+a. $-20MM investment (licensing fee). 
+b. Revenue stream (cost savings) 
+i. $50 transactions will only cost $15 (=$9+$6). 
+ii. Savings of $35 per transaction 
+iii. 500,000 transactions. 
+iv. $35*500,000 = $17.5MM savings a year. 
+c. So what?  
+i. The investment in the software for the customer could be extremely good 
+investment as it is returned in less than a year and a half. 
+ii. However, first customer can be something else all together as there are risks 
+than can decrease the returns: 
+1. Not all suppliers will join right away or at all. 
+2. The software will have bugs in the first few months /years. 
+
+
+===== PDF p68 =====
+ 
+65
+3. The software company can go bankrupt, taking our licensing fee 
+away and never give any returns. 
+ 
+Recommendation 
+ 
+The recommendation should include the following: 
+ 
+14. The answer – Candidate suggests that investment in the company is not a good option as it 
+takes 10 years to recoup investment (without discount rate). Being a customer looks good, 
+though not necessarily first customer.  
+15. The number(s) – NA 
+16. Risks or considerations –  
+a. Joining as a first customer will be considered if the client will be compensated for the 
+risks. 
+b. After few airlines will join the system, and the software proven itself, the client 
+should definitely join as it will save costs. 
+17. Next steps – NA 
+ 
+Questions to Further Challenge the Interviewee  
+6. The following question tests creativity further: 
+a. Let’s assume there is another feature in the software that allows airlines to view other 
+airlines’ inventory by location and part. So, for example, if I’m southwest and I have 
+a plane down in NYC. I contact the supplier and get an answer that I’ll have the part 
+in three days.I can look into American Airlines inventory and see if they have the 
+part in NYC. If they do, I can buy it from them at cost and ask the supplier to send 
+the part their way. Is it a good feature? 
+b. A full answer (push interviewee till he reaches all conclusions or gives up): 
+i. The feature is great for the industry, as the entire industry will be able to 
+reduce downtime and share the value in its companies’ bottom line and with 
+the customers. 
+ii. However, the risk is that the feature actually encourages the airlines to carry 
+no inventory (why should I carry inventory when everyone shares the 
+benefits?) 
+iii. A solution to mitigate the risks through the system is to create  a system of 
+checks and balances and create a part exchange  account for every airline. So 
+every time an airline takes a part from another airline then the airline’s part 
+exchange account is reduced by the part cost. Every time an airline provides 
+
+
+===== PDF p69 =====
+ 
+66
+a part to another, its parts exchange account is increased by the part cost. If 
+we cap the part exchange account to say minimum of -$5MM, then we 
+solved the problem. 
+iv. This will actually encourage better inventory management throughout the 
+industry as airlines will not want to stay away of this program as it provide 
+huge cost benefits. 
+ 
+ 
+ 

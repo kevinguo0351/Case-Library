@@ -1,0 +1,174 @@
+===== PDF p45 =====
+41
+Case 3: Setflix or Chill
+Media | Market entry
+Case Prompt
+Our client is a major US media and entertainment company that has over 50 years of experience 
+in making Hollywood. While its movies continue to dominate Setflix charts, tv series have been 
+gaining in market share. The client has hired you to advise if they should invest in creating a 
+Setflix focused division for series programming or chill, and if so- which category should they 
+target first.
+Interviewer Guidance
+The case will involve brainstorming on possible levers for entering the TV series market. After 
+the candidate has prepared a framework to analyze the problem, hand  Exhibit 1. This will lead 
+the candidate to calculating the expected revenue from the show. The case will include 
+mathematical calculations to calculate cost of production and expected NPV.
+The final recommendation should include launching an action tv series. 
+Concepts Tested
+Industry knowledge, quantitative analysis, NPV calculation
+
+
+===== PDF p46 =====
+42
+Case 3: Setflix or Chill
+Media | Market entry
+Clarifying Information
+•
+Region: Global
+•
+Goal: 14% R.O.I
+•
+Value Chain: End to End; 
+-
+Creation/Ideation
+-
+Production
+-
+Distribution
+•
+Segment: All
+•
+Competition: Major Hollywood production houses
+Guide to case
+Part 1: Brainstorming
+•
+The candidate should first put together an exhaustive 
+list of all levers to include while considering this 
+decision. Good answers should include:
+-
+Market (Size, Genre, Competition)
+-
+Financials (Revenue, Cost, Opportunity Cost)
+-
+Strategic (Competency, Management buy in, 
+Brand dilution)
+Part 2: Hand Exhibit to interviewer
+•
+The candidate should be able to sort through the 
+exhibit and calculate that action movies are more 
+profitable than horror and comedy movies
+Part 3: Quantitative discussion
+•
+The candidate should be able to calculate the costs 
+of production, and analyze the NPV of the 
+investment. 
+
+
+===== PDF p47 =====
+43
+Case 3: Setflix or Chill
+Media | Market entry
+Exhibit 1
+Demographic
+# Setflix users
+(Million)
+% Horror 
+Conversion
+% Comedy 
+Conversion
+% Action 
+Conversion
+1- 16 years
+30
+30
+35
+35
+16-30 years
+50
+20
+35
+45
+30-60 years
+60
+20
+40
+30
+60 + years
+18
+10
+50
+40
+Category Name
+<40 M views; pay 
+per view
+40-60M views; 
+pay per view
+>60M views; pay 
+per view
+Horror
+.16
+.18
+.2
+Comedy
+.1
+.12
+.14
+Action
+.12
+.16
+.18
+
+
+===== PDF p48 =====
+44
+Case 3: Setflix or Chill
+Media | Market entry
+Math Solution
+Part 1: Revenue Calculations
+The candidate should calculate the total expected views and revenue for comedy and action 
+category (horror is visibly lower and shouldn’t need to be calculated) 
+Total Views by category = (# Setflix users) * (% conversion)
+Comedy:
+1-16: 11.5M; 16-30: 17.5M; 30-60: 24M; >60: 9M. Total  = 62.1 M views 
+Action: 
+1-16: 11.6M; 16-30: 22.5M; 30-60: 18M; >60: 7.2M. Total  = 59.3 M views 
+Total earnings: Views * Payout index 
+Comedy earnings: 62.1M * .14 = $8.68M
+Action earnings: 59.3 * .16 = $9.48 M (Action> Comedy)
+
+
+===== PDF p49 =====
+45
+Case 3: Setflix or Chill
+Media | Market entry
+Math Solution
+Part 2: Return on investment calculations
+The candidate should be given the following cost (million) and assume 20% discount rate. 
+Writing/Ideation cost: 1.8
+Production cost: 6.6
+Casting cost: 3
+Marketing Cost: .8/ year
+SG&A : 1.2/year
+Candidate should calculate one time cost = $11.4M and annual cost = $2M.
+Expected annual revenue = $9.48M
+NPV =( - One Time Investment ) + Annual Profit / Discount Rate
+NPV = -11.4 + (9.48-2)/.2
+NPV = $26M
+
+
+===== PDF p50 =====
+46
+Case 3: Setflix or Chill
+Media | Market entry
+Recommendation
+•
+Our client should go ahead and create a Setflix specific for TV series. The NPV of future 
+cash flows is $26M. 
+•
+The client should launch with an action series as it is expected to earn the highest revenue at 
+$9.48M
+•
+Risks involve opportunity cost, cannibalization, lack of competency in TV series
+•
+Next steps could include: Finding script writers for action TV series, managerial buy in to 
+launch new division

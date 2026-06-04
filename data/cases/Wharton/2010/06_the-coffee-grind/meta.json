@@ -1,0 +1,26 @@
+{
+  "case_id": "Wharton_2010_06_the-coffee-grind",
+  "school": "Wharton",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2010.pdf",
+  "idx": 6,
+  "case_name": "The Coffee Grind",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 78,
+  "pdf_page_end": 84,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    79,
+    80,
+    81
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p079.png",
+    "exhibits/exhibit_p080.png",
+    "exhibits/exhibit_p081.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2010\\06_the-coffee-grind"
+}

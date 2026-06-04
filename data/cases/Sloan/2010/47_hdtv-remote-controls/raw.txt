@@ -1,0 +1,130 @@
+===== PDF p159 =====
+47.) HDTV Remote Controls (Bain, Round 2) 
+Stem: It is 2005 and your client is a Private Equity firm looking to purchase an HDTV Remote 
+Control manufacturing company. The firm would like to sell the company after 3 years. Should 
+they go forward with the acquisition? 
+Structure: The candidate should take some time to come up with a simple, logical, MECE 
+structure that includes a bucket for the Market (Size, Growth, Competition, etc.), the Target 
+Company (Revenues, Costs, Market Share, Product, etc.), and the client/PE Firm (Strategy, 
+Cannibalization, Synergies, Risks, ROt etc). 
+Candidate should first look to analyze the market's attractiveness by starting to look at size and 
+growth. You can assume that the only real competition is 2 main players, but otherwise 
+fragmented. 
+Interviewer: Candidate should attempt to size the market as follows, but if not, guide him/her to 
+do so. 
+Key Insight: Candidate should recognize that TV Remotes are innately tied to the TV's they 
+control, and should therefore look to size the market via # of households (HH' s) in the US ... 
+- 300M people in the US 
+- 3 people/HH 
+- 100M HH's 
+- 3 TV's/HH 
+- 300M TV's 
+Candidate might assume that the useful life of a normal TV is 10 years, and will therefore want 
+to divide the 300M TV's by 10 to get a total of 30M TV's sold/year. However, they should think 
+about a potential consumer's buying process when it comes to upgrading to an HDTV. Most 
+people don't switch to HD because their old TV is broken, but rather, they switch to HDTV 
+because it's the latest and greatest in technology. 
+Target Company 
+The interviewer should then guide the candidate to focus on the Target Company. When 
+prompted, the interviewer can provide the following information: 
+- Revenues for the last 3 years have been $25M, $50M, and $100M. 
+- They've maintained a 25% market share throughout. 
+- Remotes sell at $10 each. 
+- You can assume margins are attractive. 
+-----~ 
+~~~-
+~ 
+Management 
+1111111111 Consulting 
+~~~,'!'::.~ Club 
+2010-2011 1st Year Case Book 
+205 
+
+
+===== PDF p160 =====
+- If they haven't figured this out already, candidate should recognize that TV Remotes are tied 
+to the TV's they control. 
+Candidate should infer that the market has been growing from $1 OOM to $200M to $400M, or 
+100% growth year over year. 
+Note: Candidate should now look at the growth rate for the next 3 years} and the 3 years after 
+that. 
+Interviewer: How would you expect the market to behave over this time frame (6 years)? 
+Candidate: Let's assume that all the TV's will be replaced gradually based on momentum. A 
+few people will try HDTV's at first. Then once momentum builds and HDTV's become very 
+popular, demand will pick up such that most of the purchasing comes in the first few years and 
+then evens out towards the end. 
+Interviewer: Tell the candidate that the client expects that all normal TV's will be replaced by 
+HDTV's and that from start to finish this will take 9 years. 
+Behind the Scenes: Looking at the data we have ... 
+Tofill the rest of the table out, we know that total # of TV's = 300M. 
+Average # of TV's sold/year in remaining years = 40M 
+However, we know most of this will be front-loaded. 
+Ask candidate to draw a chart of what he expects the market penetration of HD remotes to 
+look like. It should look something like this: 
+~ 
+Management 
+1111111111 Consulting 
+~~:~I!,:,~ Club 
+-
+300 ~----------------------------=-------
+200 +------- ---.------------.------------------
+150 
+50 +----.----..... -.-.-.---------/'----------------------------------
+-- -- -- ------------------------------------------
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2010-2011 1
+st Year Case Book 
+206 
+
+
+===== PDF p161 =====
+Interviewer: Before asking for the final recommendation, share the following table with the 
+candidate. Ask the candidate to assess whether or not the PE firm should acquire the company 
+and why_ If necessary, interviewer should guide the candidate to think about what drivers the 
+purchase price. 
+2002 2003 2004 200SE 2006E 2007E 200SE 2009E 2010E 
+Remotes 
+10M 
+20M 40M 
+60M 
+60M 
+SOlVI 
+30M 
+20lVI 
+10M 
+Cumulative 
+10M 30M 70M 
+130M 
+190M 
+240M 
+270M 
+290M 
+300M 
+Note: A good candidate will recognize the following sequence of events and what they mean in 
+terms of the company;s value. 
+2002 - 2004: High Growth = High Multiples 
+2005: 
+Acquisition Date 
+2005 - 2007: Sustained Growth = High Multiples 
+2008: 
+Sell Date 
+2008 - 2010: Decline = Low Multiples 
+Interviewer: So what can you surmise about what we would have to pay for the company now 
+and what we could sell it for later? 
+Conclusion: From this, candidate can conclude that this is a bad deal despite the growing market 
+and profitability of the company, because of the high nlultiples they would have to pay to acquire 
+the company, and then the low multiples they would command 3 years later when they sell the 
+company. 
+-....... Management 
+1111111111 Consulting 
+~~;~!~;;~ Club 
+2010-2011 1 st Year Case Book 
+207 

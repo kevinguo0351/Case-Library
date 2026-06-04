@@ -1,0 +1,159 @@
+===== PDF p55 =====
+Problem Statement Narrative 
+A PE fund is thinking about acquiring a clothes retail specialist, leader on the French market.  The French clothing retail market is 
+composed of 2 segments: 
+•  Urban: trendy, high quality, quite expensive 
+•  Suburban: mass market, lower quality, low prices 
+  
+We only have a few data on the target: total annual sales $800m, 800 stores, 4 brands on both the urban and suburban markets. 
+  
+The PE fund hired us to help them do the due diligence of the firm, in order to assess if it’s worth bidding for it or not. 
+ 
+Case 6: Due Diligence on Clothing Retail Specialist 
+Introduction 
+51 
+How would you approach this question and what would you recommend him? 
+This is similar to a strategy case, in which you have to assess the market opportunities, competition, and the companies competitive 
+advantage.   
+ 
+In a real due diligence project in consulting firm, the project team will develop framework and identify key areas to assess, and then ask 
+questions to the target. Therefore, an ideal candidate in this case interview should be able to come up with a framework that is 
+appropriate to assess a clothing retail company, and be able to ask relevant questions in each aspect.  
+ 
+The format of this interview is largely driven by the interviewer. However, an ideal candidate should be able to drive insights and 
+implication on each question asked by the interviewer, and used those to form a view and the conclusion  
+ 
+51 
+
+
+===== PDF p56 =====
+Market: 
+•  Size & growth (volume and price) 
+•  Trends 
+•  Market segments characteristics 
+•  Drivers of this market 
+o  Buyer & supplier powers 
+o  New entrants & substitutes 
+o  Competition 
+–  Market shares & their evolution 
+–  Market fragmented or not? 
+•  Distribution channel 
+•  Regulations 
+Company standalone: 
+•  Business and revenue models (how do they generate cash?) 
+•  Competitive advantage? 
+•  Specific asset, knowledge, resources, capabilities? 
+•  Key financials & cost structure 
+•  Management 
+Deal itself: 
+•  Synergies with PE portfolio 
+•  Risks (implementation, regulation-trust, environment, etc.) 
+52 
+Step 1: Develop an overall framework to assess the target   
+Case 6: Due Diligence on Clothing Retail Specialist  
+Framework  
+52 
+
+
+===== PDF p57 =====
+53 
+Case6: Due Diligence on Clothing Retail Specialist  
+Market: 
+•  The market is flat in value over the last 5 years (~$25Bn) but volumes have been growing over the same period (~2% per year). 
+What could explain this? 
+o  According to market value = volume x price, the only reason that can explain this situation is a decrease in price offsets the 
+increase in volume 
+•  What could be the drivers of the decrease in prices? 
+o  Candidate should explore different reasons based on what might be relevant, combining and distilling from various 4Cs, 5Cs, 
+4Ps concept.  Here, customers, competitions and supply chain are most likely to explain cost drivers  
+o  Change in demand: consumers asking for lower prices; customers are buying more clothes in each season and look for cheaper 
+options  
+o  Development of new types of players: H&M and Zara with trendy but low price products 
+o  Decrease in supply cost, such as outsourcing to lower cost countries such as China, Vietnam, Cambodia, Philippines, etc.  
+ 
+Step 2: Interviewers will probe questions according to the framework developed 
+53 
+
+
+===== PDF p58 =====
+54 
+Company:  
+•  Cost structure: which type of indicators could you use to assess the profitability of a retail store? Especially if you want to benchmark 
+stores from the same brand. 
+o  An ideal candidate should have basic understanding that retail is driven by floor space 
+o  Indicators: sales / sq feet, (or sales / employee)  
+•  For one given brand, we have: 15 suburban stores: average size = 1500 sq ft and average profitability (sales / sq ft) = $1,500 per 
+sq ft, 20 urban stores: average size = 800 sq ft and average profitability = $2,800 per sq ft. What is the total annual sales of this 
+brand? 
+o  Basic quant question.  
+o  Suburban: 1500*1,500*15 = $33.75m 
+o  Urban: 800*2,800*20 = $44.8m 
+o  Total = $78.55m 
+•  If I tell you that the sum of the sizes of the stores (both urban and suburban) is 40,000 sqft, what would be the profitability margin (in 
+sales/sqft) of the brand? 
+o  Total sales / total size = $78.55m / 40,000 sqft = ~$2,000 / sqft 
+o  Basic quant question following the previous question.  An ideal candidate should cross-check this result with data given: answer 
+should be in the range between $1,500/sqft and $2,800/sqft based on the data given in previous question 
+ 
+Step 2: Interviewers will probe questions according to the framework developed 
+Case 6: Due Diligence on Clothing Retail Specialist  
+
+
+===== PDF p59 =====
+55 
+Company:  
+•  We’d like to speak about a concept which is very common in the retail industry. To do so, let’s look now at the target’s investment plan: 
+•  Year 1 – it opened its first store and gross margin was 10% 
+•  Year 2 – same store but gross margin increased to 25% 
+•  Year 3 – same store but gross margin remained flat to 25%. Manager decides to open new stores from now on 
+•  Year 4 – 1 additional store: total gross margin = ~18% 
+•  Year 5 – 3 additional stores: total gross margin = ~17% 
+•  Year 6 – 10 additional stores: total gross margin = ~16% 
+ 
+•  Overall gross margin kept decreasing over those years and the PE fund is worried about that. Is the fund right to worry about it? Why/why not? 
+o  Ideal candidate should distinguish the difference between individual store gross margin and total gross margin, the concept of “average”  
+o  Candidate should also ask for additional questions and draw curves to visualize the situation. For example, ask evolution of sales for 1 
+store, then evolution of costs; could also ask what happened in year 1, 2, 3, etc. 
+o  Hints from interviewer would be given when candidate probe the right question: 1) all stores are similar, 2) no cannibalization or 
+coordination diminishing returns, and 3) mainly fixed costs  
+o  Key concept: the ramp-up concept in retail industry.  One given store reaches its full potential only after a 2 year ramp-up period.  The 
+total gross margin will depend on the mix of new stores and matured stores.   
+–  The gross margin of a new store is 10% after 1 year, 25% after 2 years and remains flat afterwards 
+–  In year 4, two stores – one new and one matured, the average gross margin = 10%+25% / 2 = ~18%  
+o  The fund should “de-average” the total gross margin and look at the margin evolution of the same stores, i.e. the SS (same store) margin.  If 
+the SS margin of a matured store decreases when new store is opened, the fund should be worried as the market might be saturated.  
+However , if the total gross margin is due to the store mix, then the fund should not worry about it.  
+Step 2: Interviewers will probe questions according to the framework developed (con’t)  
+Case 6: Due Diligence on Clothing Retail Specialist  
+55 
+
+
+===== PDF p60 =====
+56 
+Case 6: Due Diligence on Clothing Retail Specialist  
+Company:  
+•  Based on your answer, if there were 3 additional stores  and 2 stores in year 7 and 8 respectively,  what was the evolution of the 
+overall gross margin? 
+ 
+o  The total gross margin should increase as the expansion slowed down and more existing stores would reach their mature state.  
+The overall impact of new stores on total gross margin would decrease.  
+o  ' An ideal candidate should be able to draw on this question to identify the conclusion and implication.  Candidate should 
+state that if the target’s total gross margin increased after year 7 and 8, then the fund should not worry as the decrease in 
+total gross margin in previous years were due to rapid expansion.   
+Step 2: Interviewers will probe questions according to the framework developed (con’t)  
+
+
+===== PDF p61 =====
+57 
+Can you summarize what we did together in 1 min? 
+An ideal candidate should  be able to summarize the key facts during the discussion and draw implication.  
+•  Despite the total market value is flat but business volume is increasing.  The decrease in price may drive the less competitive 
+players out of the market.  
+•  During this period, the target seems to have maintained a healthy margin and the interim drop in margin was due to the rapid 
+expansion.  It also seems that there are still rooms for further expansion until the market becomes saturated.   
+•  In order to make a more informed decision on the investment, we might need to look into how other competitors are playing in 
+the market, the supply chain management to maintain cost competitive.  However, with information we have now, there is no 
+significant risk observed yet and hence should still be a “go” before assessing other aspects.   
+Case 6: Due Diligence on Clothing Retail Specialist  
+Recommendation  
+57 

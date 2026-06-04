@@ -1,0 +1,360 @@
+===== PDF p224 =====
+220
+A+ Airline Co.
+Case tracker
+▪Industry: Airline
+▪Case format: Opportunity Assessment
+▪Concepts being tested:
+- Basic NPV
+- Operations
+- Market Sizing
+- Customer Strategy
+Case Question
+▪Our client is A+Airline Co., the third largest airline in the United States by passengers carried. This week, we have been
+flying on our primary competitor, Gamma airline, and we noticed something interesting; they stopped accepting cash for
+in-flight food and beverage services and they now only accept major credit cards.
+▪The CEO of A+Airline Co. wants to know, why did Gamma Airline switch from a Cash & Card system to a credit card only
+system, and should we follow them?
+Guide to interviewer
+▪This case will force an interviewee to rely on logic,
+business acumen, and structure
+▪Commonly, the interviewee will ask a lot of questions
+about historical costs, revenues, etc. This is not the
+correct approach to this question.
+▪The savvy interviewer will realize that this is a BEFORE vs.
+AFTER comparison of switching from a CASH & CARD
+system to a CARD ONLY system. Therefore, the questions
+asked should focus on the DELTA, or the cash changes
+that occur when the switch is made.
+By: Adam J. Louras (Kellogg Class of ‘11); Edited by: Deepika Singh (Kellogg Class’16)
+Quant: 8
+Structure: 8 
+Industry: Airline
+Framework: Opportunity 
+Assessment
+
+
+===== PDF p225 =====
+221
+Clarifying answers and case guide 
+Interviewer Guide to case and handouts
+Case Structure – Interviewee’s structure should be a BEFORE vs. AFTER comparison 
+of the switch from CASH & CARD to CARD only and should include:
+- Revenue Changes: Loss of Cash Only customers vs. Increase in Credit Card
+customers
+- Cost Changes: Benefit of Cash Management Cost Removed vs. Incremental
+Cost (Fee) of Credit Card
+- Cash Flow Changes: Interest and Time Value of Money (TVM), and Working
+Capital impacts due to an increase in collection speed
+Exhibit 1 – After Interviewee walks through structure, they will likely ask questions
+about consumer purchase behavior on airplanes. Once you feel that they have
+identified the need to do a market sizing, hand out Exhibit 1.
+- Ask the interviewee to determine the Total Market Size in ($) for food and
+beverage purchases on an average flight
+- The interviewee should calculate the CURRENT allocation of purchases
+(Cash Vs. Card) for an average flight.
+- The interviewee should correctly identify that some of the current
+“Cash” customers will not convert to Card.  Tell them we will lose 1/3.
+Exhibit 2 – The interviewee should recognize that there might be a cost savings
+due to the change. Most interviewees know that there is a Credit Card
+processing fee but do not realize that there are many costs associated with cash
+management. Ask them about the types of costs A+Airline might face under
+both processes before handing out the exhibit. When asked, explain that the
+total, per flight, savings from eliminating overhead due to Cash Management
+Operations is $35/flight
+Clarifying answers to provide if Asked
+Industry Characteristics/Market
+Economics
+- Card Use: Roughly 99% of all consumers
+purchase their airline tickets using a
+credit card, i.e. all consumers on an
+airplane have a credit card available to
+them.
+Client Characteristics
+- Items Sold: Only food and alcoholic
+beverage items are sold on A+Airline
+flights
+- Locations: This is a US Domestic
+decision only. Ignore international.
+Competitive Dynamics
+- Gamma is the only airline that has
+made the switch; however all other
+airlines are evaluating the switch.
+- For the purposes of this case, Gamma
+and A+Airline should be considered to
+be exactly the same in all regards.
+
+
+===== PDF p226 =====
+222
+Key elements to analyze
+Changes in Revenue
+▪
+Interviewee will likely begin with the correct
+assumption that revenue will be lost due to
+unhappy, cash-only passengers
+▪
+Once asked about how many are lost, hand
+out Exhibit 1 to do a market sizing
+Changes in Costs
+▪
+Interviewee should make mention of Cost
+changes due to the shift to a Card Only
+strategy.
+▪
+Ask the interviewee to detail the types of
+costs that might be involved before handing
+out Exhibit 2
+TVM & Working Capital
+▪
+Exhibit 2 also shows that there is a 30 day
+time benefit to collecting payment via Credit
+Card vs. Cash
+▪
+Prompt 1: Ask the interviewee to qualitatively
+explain the impact this time savings will have
+Notes on Exhibit 1
+▪
+Using Exhibit 1, interviewee should calculate:
+1.
+Total Number of Passengers per Plane
+2.
+Total Number that Purchase & Total Spend ($)
+3.
+Cash vs. Card Spend + LOSS
+Notes on Exhibit 2
+▪
+Exhibit 2 shows the current operations for
+Cash Management and Card Management
+▪
+The interviewee should notice the following
+information:
+▪
+Cash Management & Card Management both
+have 2% fees associated, so this is a “wash” in 
+terms of savings.
+▪
+Cash Management requires additional
+overhead, 7 total employees per airport, that
+could be eliminated for further savings.
+▪
+When asked, explain that the total, per flight,
+savings from eliminating overhead due to
+Cash Management Operations is $35/flight
+▪
+Interviewee should notice that the $35
+savings offsets the $35 loss in Revenue. A
+good candidate will notice that savings go
+straight to the bottom line whereas revenue
+doesn’t.
+Qualitative Assessment
+▪
+The interviewee should qualitatively mention that
+there are benefits to eliminating the longer cash
+management process:
+▪
+Time Value of Money: A+Airline will receive
+their money 30 days sooner, and this money
+could be used to:
+▪
+Invest in interest earning accounts or
+growth projects
+▪
+Pay off suppliers early and take
+advantage of discounts
+▪
+Pay down lines of credit faster
+▪
+Working Capital Improvement: $50 per flight in
+change can be eliminated, thus freeing up cash
+flow. Additionally, there will be a reduction in
+loss of cash due to theft and damage
+▪
+Happier Customers: The majority of customers
+will be able to place and receive their order
+faster on the plane which will also increase
+sales
+Seats
+Occupants
+Business
+Leasure
+First Class
+50
+50
+50
+0
+Economy
+150
+120
+60
+60
+Total
+200
+170
+110
+60
+# that Purchase Total Purchase $
+Business
+45
+$450
+Leasure
+15
+$75
+Total
+60
+$525
+Cash
+Card
+Total
+Inflight $
+$105
+$420
+$525
+Lose 1/3 of Cash Customers
+#
+$
+New Total
+Business
+3
+($30)
+$420
+Leisure
+1
+($5)
+$70
+Total
+4
+($35)
+$490
+
+
+===== PDF p227 =====
+223
+Solution and recommendations
+Solution & Recommendations
+▪Overall, our client, A+Airline, should switch to a Credit Card only system for in-flight food & beverage because:
+▪Quantitative Benefits: We calculated that there would be a loss of 3 business customers and 1 economy
+customer per flight which amounted to a Revenue loss of $35. We also found that we could save $35 in
+overhead expenses by eliminating the Cash Management process. In sum, the decision to switch is in favor
+because the savings are to the bottom line and the revenue losses are top line.
+▪Qualitative Benefits: We also found that we will receive payment 30 days sooner by only accepting credit
+cards. This improves our cash flow and could allow us to earn interest, pay down creditors, or invest in
+projects.  Additionally, by reducing cash losses and eliminating “Change” tied up on airplanes, we can 
+improve our Working Capital and also put this money to work for us. Finally, it appears as though customers,
+in general, might actually be happier because the speed of transactions on the airplane will improve.
+Bonus/Guide to an Excellent Case
+▪An excellent interviewee will note:
+▪Due to the increased transaction speed, probability of purchase for both Business and Economy passengers
+in the AFTER state should go up due to a reduction in frustration. The people on the back of the airplane
+often abandon a purchase if it takes too long to place an order. Making change takes a lot of time!
+▪Average purchase amount should also increase. There is a proven psychological phenomenon that shows
+how consumers who do not carry cash purchase less when a cash option is offered because they feel guilty
+using their card. A card-only option eliminates this guilt and consumers don’t mind using the card.
+▪Being creative when listing the change of costs as: Wifi cost (connect with banks and verify transaction),
+Fraud cost (increased chance of fraud to happen after implementing card only payment).
+
+
+===== PDF p228 =====
+224
+Exhibit #1: An Average A+Airline Flight
+A+Airline Boeing 737-800 Vers. 2 (738)
+Total Seats
+200
+% of Seats Load Factor
+% Business % Leisure
+First Class
+25.0%
+100%
+100%
+0%
+Economy
+75.0%
+80%
+50%
+50%
+% that Purchase
+Avg. Spend ($)
+Business
+41.0%
+$10
+Leisure
+25.0%
+$5
+*Note: First Class Passengers Receive Free Food & Beverage
+% of In-flight Purchases
+Cash
+20%
+Card
+80%
+
+
+===== PDF p229 =====
+225
+Exhibit #2: A+Airline Cash & Card Operations
+STEP 1:
+ Cash Handler 
+Loads Plane with 
+$50 in Change
+AAirline Cash Management Process
+STEP 2:
+Flight Attendant 
+collects cash from 
+passengers and 
+gives change
+AAirline Credit Card Process
+31 Days Total Time
+On Ground
+In Flight
+STEP 3: 
+Flight Attendant 
+Deposits Cash into 
+Flight Lockbox
+STEP 4: 
+Cash Handler 
+collects Flight 
+Lockbox from 
+Plane (EOD)
+STEP 6: 
+Armored Car 
+Service collects 
+cash
+2% Fee on All Cash 
+Collected
+STEP 5: 
+Flight Lockboxes 
+deposited to 
+Onsite Cash 
+Processing Center
+STEP 7: 
+Armored Car 
+Service reconciles 
+cash for 
+counterfeit.
+STEP 8: 
+Cash (Less Fees) 
+deposited to 
+AAirline Bank 
+Account
+KEY
+5 Cash Handlers per Airport
+2 Employees in Onsite Cash Processing Center per Airport
+STEP 1:
+Flight Attendant 
+swipes credit card 
+in wireless 
+terminal
+24 Hours Total Time
+On Ground
+In Flight
+STEP 3: 
+Cash (Less Fees) 
+deposited to 
+AAirline Bank 
+Account
+STEP 2: 
+Merchant Service 
+Receives and 
+processes Credit 
+Card
+2% Fee on All Cash 
+Collected

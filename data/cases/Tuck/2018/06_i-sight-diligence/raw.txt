@@ -1,0 +1,246 @@
+===== PDF p56 =====
+Tuck Consulting Club
+52
+I-Sight Diligence
+Good: Candidate recognizes client 
+is NOT the target, but the private 
+equity firm; clarify scope 
+(investment horizon, geographic 
+boundaries), and basic market 
+characteristics (size, growth, 
+competition)
+Better: Candidate probes into 
+client experience and target fit with 
+the private equity portfolio and 
+strategy
+Best: Candidate demonstrates that 
+he/she understands the difference 
+in customer sets (government vs. 
+commercial), questions if there are 
+any upcoming regulations that 
+could impact the target or the 
+competition
+Candidate Evaluation
+Our client is a private equity firm experienced in the satellite industry (specifically 
+communications and imagery) as well as government markets. They are considering 
+an investment in I-Sight, a satellite imagery provider who supplies the imagery for 
+applications such as Google Maps and the Intelligence Community’s geospatial 
+analysis. Should our client proceed with the investment?
+Case Prompt
+Clarifying Information
+Scope: Our client is considering an investment horizon of 5-7 years in the U.S.
+Client: I-Sight intended as a stand-alone entity, no fit with portfolio companies
+Competitors: 4 main players: I-Sight, Geo, Sat-Image, and Geo-Image
+Market Share: I-Sight has a 40% share in the market
+Market Growth: 10% growth in last 3 years as GIS applications grow (consumers 
+using Google, growing agricultural and financial applications)
+This should be a candidate-led case to test their understanding of due diligence 
+support for private equity clients, ability to contextualize an esoteric market, and 
+market sizing approach.
+Guide candidate to segment market in two: Government and Commercial. Walk the 
+interviewee through Government customers and their annual spending, it is meant to 
+be straightforward. Then present Exhibits A and B at the same time.
+Case Commentary (Notes to Interview)
+Type: Private Equity & Investment
+Author: Jenny Desrosier T’16
+
+
+===== PDF p57 =====
+53
+I-Sight Potential Framework
+Potential Framework
+Must-haves: Three big buckets
+(1) Market dynamics
+(2) Business situation
+(3) Transaction considerations
+These three are essential to evaluate the 
+situation at hand. 
+Nice to haves: Robust details for each 
+framework bucket (as shown to the left) 
+that demonstrate a holistic approach to 
+evaluating the business, for example 
+including: 
+(1) Management effectiveness
+(2) Target profitability
+(3) Target revenue streams
+Differentiators: Using industry-appropriate 
+terms like “target”, recognizing that 
+financing/funding is critical for completing 
+a private equity deal, questioning the 
+client’s overall strategy and target fit with 
+portfolio
+Behind the Framework
+Market
+Business
+Transaction
+Market Size & Growth
+Revenue Streams & Profitability
+Pricing
+Competition
+Key Differentiators
+Financing Ability
+Regulations
+Management Effectiveness
+Fit with Portfolio
+Trends
+Market Share
+
+
+===== PDF p58 =====
+Tuck Consulting Club
+54
+I-Sight Market Sizing
+How would you analyze the market for satellite imagery? First, who are the key customers, then what are their demand 
+drivers? What is the outlook for satellite imagery?
+How might commercial customers pay for these goods and services?
+Question 1
+- Customers: 5 key government customers 
+(National Geospatial Intelligence Agency 
+(NGA), Defense Intelligence Agency 
+(DIA), CIA, FBI, and DOD) 
+- Spending: Each spend $50 million 
+annually. These are fixed agreements.
+- Total Gov’t Market: $250,000,000
+Government
+Provide interviewee with both exhibits at the same time, allow a minute or two for digestion
+- Total Market Size: $250,000,000 + $252,288,000 = $502,288,000
+- Exhibit A Insights: I-Sight is in a strong position relative to its peers given that it plans to launch more satellites, which 
+should be more efficient and precise; however, there is uncertainty risk associated with satellites not in orbit
+- Exhibit B Insights: Interviewee should recognize that payments are in $/min, and they will have to calculate min/year
+Candidate Insights
+- Number of Satellites: Based on Exhibit A, candidate can glean that there 
+are 4 imagery satellites in operation
+- Minutes of Image Capture: Satellites operate 1440 minutes per day, 365 
+days a year, for a total of 525,600 minutes per year
+- Payment Rates: Based on Exhibit B, candidate can calculate an avg. 
+minute rate of $100, and a 20% time premium
+- Total Commercial Market: 525,600 minutes * $120 average / minute * 4 
+competitors = $252,288,000
+Commercial
+
+
+===== PDF p59 =====
+Recommendation: Move forward with investment process
+- Market Size & Growth: Growing market with strong demand drivers
+- Competitive Position: With 40% market share, I-Sight is poised to take advantage 
+of topline market growth; with new satellites’ launch it could demand higher rates 
+for more precise and efficient imagery
+- Risk Evaluation: Focus remaining analysis on risks/next steps below
+Good: Candidate’s 
+recommendation is supported by 
+analysis, mentions at least one 
+market risk or business risk, and 
+identifies one next step 
+Better: In addition to above, 
+candidate identifies multiple risk 
+factors, and for each suggests a 
+next step to research (including 
+one of the next steps outlined to 
+the left)
+Best: Candidate returns to original 
+structure and information, then 
+checks off areas of concern or 
+confidence (e.g., if market growth 
+is a huge positive, that is noted on 
+the structure page); candidate 
+identifies competitive risk to I-Sight 
+business (that many of its satellites 
+are not yet functional)
+Market Risk: Government budgets are constrained due to increasing fiscal deficit, 
+programs could be contracted; there are alternatives for commercial customers like 
+aerial imagery (images taken from airplanes)
+Business Risk: Many of I-Sight’s satellites are not in orbit, and any delays in their 
+launch schedule would immediately impact revenue projections
+Customers: Analyze criticality of satellite imagery for gov’t customers, evaluate 
+substitute technologies (like aerial imagery)
+Market Share: Anticipate competitive responses to launches, can I-Sight maintain 
+market share? Will new satellites change the rate payment amounts?
+Launch Schedule: Anticipate likelihood of delays based on historical delays
+Tuck Consulting Club
+55
+I-Sight Wrap-Up
+Recommendation
+Candidate Evaluation
+Risks
+Next Steps
+
+
+===== PDF p60 =====
+Exhibit A: Satellite Launches
+56
+Note: Colors correspond to individual competitors
+Geo-1 is launched
+Geo-1 expires
+Geo-2 is launched
+Geo-2 expires
+SatImage-2 is launched
+SatImage-2 expires
+ISight-1 is launched
+ISight-1 expires
+ISight-2 launch planned
+ISight-2 expires
+ISight-3 launch planned
+SatImage is launched
+SatImage expiration 
+planned
+GeImageo-1 is launched
+GeoImage-1 expires
+GeoImage-2 is launched
+GeoImage-2 expires
+SatImage-3 is launched
+SatImage-3 expires
+SatImage-4 launch planned
+SatImage-4 expires
+GeoImage-4 launch 
+planned
+GeoImage-3 is launched
+GeoImage-3 expiration 
+planned
+T-10
+T-12
+T-8
+T-4
+T-6
+T-2
+T-14
+T-16
+Today
+T+2
+T+4
+T+6
+T+8
+
+
+===== PDF p61 =====
+Exhibit B: Satellite Payment Rates
+57
+Location
+% Satellite Imagery
+Rate Per Minute
+Americas
+40%
+$125
+Europe & Middle East
+10%
+$100
+Asia & Australia
+25%
+$100
+Africa
+20%
+$75
+Time
+Premium Per Minute
+00:00-3:59
+0%
+4:00-7:59
+20%
+8:00-11:59
+50%
+12:00-15:59
+50%
+16:00-19:59
+0%
+20:00-23:59
+0%
+Note: Premiums are charged for higher visibility hours

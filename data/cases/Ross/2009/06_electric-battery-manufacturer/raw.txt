@@ -1,0 +1,173 @@
+===== PDF p31 =====
+Electric Battery Manufacturer (1 of 5) 
+Booz Operations, Round 1
+The client is an electric battery manufacturer based in 
+China and is thinking to make electric cars to sell. The 
+CEO thinks that he can capture world market and be a 
+majority player. 
+Company is world leader in Lithium batteries and had 
+great success with cell phones. Using same technology 
+they have developed a bigger battery that can be used 
+very cost effectively for an electric car.
+The client has already bought a plant in China to make
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request(1) 
+Should they launch this car?
+If yes, what strategy should they use to launch this car? 
+The client has already bought a plant in China to make 
+these cars. The plant cost $5M and will need additional 
+$1M to retrofit for electric car production. The total 
+variable cost for each electric car is $7,000. The plant 
+currently has capacity to produce 1000 cars per annum
+To expand capacity, it will need similar investments for 
+every 1000 car capacity.
+The company wants to launch the car worldwide. It has 
+no other partners in any country as of now.
+The company wants minimum profit of $2000 per car. 
+Similar category gas car sells from $16,000 to $20,000 
+across world.
+
+
+===== PDF p32 =====
+Candidate should 
+calculate the cost 
+per car and decide 
+on pricing
+Then price it with 
+$2,000 margin
+Cost is $13K per car. Client wants minimum profit margin of $2K. Hence minimum price per car is 
+$15K; which is competitive price as compared to similar category gas cars ($16K to $18K). Hence 
+the company can launch this car.
+Fixed Cost:
+$5M/ 1K cars 
+= $5K per car
+Variable Cost:
+= $8K per car   
+Total Cost:
+= $13K per car   
+Electric Battery Manufacturer (2 of 5) 
+Booz Operations, Round 1
+A solid interview 
+will address other 
+issues
+• No industry experience
+• Does the car provide better value to the owner?
+• Other  electric cars around the world
+• Total Cost of ownership of electric vehicle vs. gasoline vehicle; maybe it can be priced higher as 
+electricity is cheaper than gasoline for miles driven per dollar.
+And , then quickly 
+jump to the 
+launch strategy
+• Segment the markets based on geography: the US, Europe, BRIC and rest of world
+• Analyze each markets strengths and weaknesses from the perspective of the client
+Note to Interviewer: Ask the candidate what factors he/she would consider while evaluating 
+the geographic markets. For sample response, look at column headers of Exhibit 1. Show 
+this exhibit on request
+• Draw a 2X2 matrix and place the above four regions in that matrix
+• Make launch recommendations based on 2x2 matrix
+
+
+===== PDF p33 =====
+Electric Battery Manufacturer (3 of 5, Exhibit 1) 
+Booz Operations, Round 1
+Market size 
+(cars/yr)  & 
+growth 
+rate
+Competition
+Regulation
+Ease of entry
+Infra-
+structure
+US
+10M, 1%
+More than 10 players; 4 
+players with majority share; 
+No significant competition in 
+battery segment
+Strict emission 
+requirement; 
+Govt. gives 
+monetary 
+incentives
+No import duties; 
+100% foreign 
+investment allowed
+Electricity 
+available 24X7
+EU
+19M, 1%
+More than 20 players; 8 
+players with majority share; 
+No significant competition in 
+battery segment
+Strict emission 
+requirements; 
+No incentives 
+from Govt.
+Almost no import 
+duties; 100% foreign 
+investment allowed
+Electricity 
+available 24X7 
+BRIC
+2M, 10%
+Highly fragmented across 
+different segments; smaller 
+vehicles with less power; no 
+competition in battery 
+segment
+No subsidies or 
+incentives from 
+Govt.
+India and Russia do 
+not allow 100% 
+foreign ownership; 
+steep import duties 
+unless partial 
+manufacturing is 
+done in the country
+Electricity not 
+guaranteed 
+24x7; power 
+cuts common
+ROW
+10M, 6% 
+evolving 
+market
+Highly fragmented; variable 
+policies; people buy lower 
+priced smaller cars
+No subsidies or 
+incentives from 
+Govt.
+High import duties in 
+some regions
+Electricity  
+supply erratic
+
+
+===== PDF p34 =====
+Electric Battery Manufacturer (4 of 5) 
+Booz Operations, Round 1
+US
+Candidate should be able to come up with the following 2X2 matrix
+Market Attractiveness
+Ease of Entry
+The EU
+BRIC
+Rest of 
+World
+
+
+===== PDF p35 =====
+Electric Battery Manufacturer (5 of 5) 
+Booz Operations, Round 1
+Sample 
+Recommendations
+The client should launch the vehicle as it is cost competitive and provides superior 
+value to customers on miles driven per dollar spent on fuel.
+It should launch by exporting to the US market and the EU market in the short term.
+As the infrastructure develops in BRIC cluster, it may want to explore joint-venture or 
+green-field investment in this region in the long-term

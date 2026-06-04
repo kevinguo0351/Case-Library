@@ -1,0 +1,167 @@
+===== PDF p67 =====
+Case 4: Major Magazine Publisher
+Introduction
+Introduction
+Problem Statement Narrative
+63
+Problem Statement Narrative
+Your client is a Major Magazine Publisher.  Currently, they own a Women’s magazine (similar to Cosmopolitan) and a Personal Finance 
+magazine (similar to Fortune).  They are considering launching a new magazine about Fine Living, targeted to Wealthy Males (similar to 
+GQ).  What is the market size, and should they do it?
+Overview for interviewer
+This is a straightforward case, covering Profitability, Go/No Go Investments and Market Sizing.  Information will likely be given at the 
+beginning of the case, and then more throughout the case, as calculations are made. 
+Information to be given with handout
+Is there a goal that the company is trying to reach with the launch of the new magazine?  
+Yes, the company would like to hit $10M in annual revenue.
+Does the company have the resources to launch a new magazine? 
+Yes.
+I
+h
+i
+ff
+d
+l i
+i
+li
+ll?
+Is the new magazine offered only in print, or online as well?  
+It will be offered only in print.  
+In what ways can the magazine be purchased?
+It is offered as a yearly subscription - 12 issues per year.
+It can also be bought retail - one issue at a time.
+What is the target geography for the magazine?
+What is the target geography for the magazine?  
+It will be offered in the U.S. only.  
+What are the costs of the magazine?  
+Costs can be ignored in this analysis.
+
+
+===== PDF p68 =====
+Case 4: Major Magazine Publisher
+Market Size
+Potential approach to solving the case
+Market Size
+64
+Potential approach to solving the case
+Q1.  Market Size 
+Q2.  Profitability
+Q3.  Recommendation (Risks and Other Considerations)
+Q1:  What is the market size (in people)?
+Information to be given if asked:
+300M people in the U.S.
+50% Male Æ 150M males in the U.S.
+Age demos split evenly (Age 0-20, 21-40, 41-60, 61-80)
+Market research shows that 10% of Age 21-40 demographic is Wealthy, that 10% of Age 41-60 is Wealthy and that 5% of Age 61-
+80 is Wealthy
+People under 20 are too young for the magazine
+Calculations:
+Can be split evenly by age group
+Can be split evenly by age group:
+Age 0-20:
+25%  Æ 150M(25%) = 37.5M 
+Age 21-40:
+25%  Æ 150M(25%) = 37.5M
+Age 41-60:
+25%  Æ 150M(25%) = 37.5M
+Age 61-80:
+25%  Æ 150M(25%) = 37.5M 
+Can be broken down further by target demographic
+y
+g
+g
+p
+Age 21-40:
+Assume that 10% are Wealthy Æ 37.5M(10%) = 3.75M
+Age 41-60: 
+Assume that 10% are Wealthy Æ 37.5M(10%) = 3.75M
+Age 61-80:
+Assume that 5% are Wealthy Æ 37.5M(5%) = 1.875M
+Total market size = 3.75M + 3.75M + 1.875M = 9.375M people, or rounded to 9.4M people
+
+
+===== PDF p69 =====
+Case 4: Major Magazine Publisher
+Profitability
+P t
+ti l
+h t
+l i
+th
+Profitability
+65
+Potential approach to solving the case
+Q1.  Market Size 
+Q2.  Profitability
+Q3.  Recommendation (Risks and Other Considerations)
+Q2: What is the market size (in $)?
+Information to be given if asked:
+There are two ways that the magazine can be purchased.  
+Subscription: 12 issues per year, $3 revenue/issue
+p
+p
+y
+,
+/
+Retail: Assume 4 issues per year, $5 revenue/issue
+Assume that the market is split 50/50 subscription and retail.
+Calculations:
+9.4M(50%) = 4.7M subscribers, 4.7 retail customers
+S b
+4 M( 2
+)($3)
+$ 69 2M
+Subscription revenue = 4.7M(12 issues)($3) = $169.2M 
+Retail revenue = 4.7M(4 issues)($5) = $94M
+Total market size = $169.2M+$94M = $263.2M
+
+
+===== PDF p70 =====
+Case 4: Major Magazine Publisher
+Recommendation
+P t
+ti l
+h t
+l i
+th
+Recommendation
+66
+Potential approach to solving the case
+Q1.  Market Size 
+Q2.  Profitability
+Q3.  Recommendation (Risks and Other Considerations)
+Q3:  Should they do it?
+Information to be given if asked:
+Market is not growing
+Competition is made up of:
+GQ: 60% of the market
+Other magazines/fragmented: 40%
+Survey data shows that we can capture 5% of the market 
+Calculations:  
+Potential revenue for client = 5%($262 2M) = $13 16M
+Potential revenue for client = 5%($262.2M) = $13.16M 
+
+
+===== PDF p71 =====
+Case 4: Major Magazine Publisher
+Recommendation
+The client should move forward with the launch of the new magazine We expect to get $13 6M in
+Recommendation
+67
+The client should move forward with the launch of the new magazine.  We expect to get $13.6M in 
+revenue per year, which is higher than the stated goal of $10M per year.
+Recommendation
+Risks
+Costs need to be less than $3.6M.  Costs can include fixed cost for a new manufacturing plant, R&D 
+for new topic, etc..
+Need to consider cannibalization of Finance magazine revenues - may be targeting the same 
+audience/have content overlap.
+Cost synergies for client may be able to be achieved by adding another magazine to the portfolio.  
+y
+g
+y
+y
+g
+g
+p
+Synergies may include manufacturing, marketing and distribution.

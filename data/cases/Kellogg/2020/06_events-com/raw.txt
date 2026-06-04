@@ -1,0 +1,247 @@
+===== PDF p80 =====
+Case 06
+Events.com
+76
+Primary sector(s)
+• X13 Technology
+Concepts tested
+• Z14 Pricing strategy
+• Z07 Market share
+Case author(s): Alex Fabry (Kellogg 2020)
+Similar cases
+• Maine Apples          
+(Kellogg 2020)
+• Montoya Soup       (Kellogg 
+2018)
+Case type
+• Y07 Profitability
+
+
+===== PDF p81 =====
+77
+Events.com
+Interviewer guide
+Case prompt
+• Our client is Prospect Equity Partners (‘Prospect’), a prominent Private Equity firm that invests in the technology space. They have 
+recently acquired Events.com due to strong commercial wins and momentum in the market
+• Events.com is a leading SaaS-based registration/ticketing platform for Endurance events (5K runs, Marathons, Triathlons, Mud 
+Runs, etc.). They make money by taking registrations and processing payments for events and charging a fee per transaction 
+(similar to Ticketmaster or Eventbrite) ($100 registration price x 10% Fee = $10 in Revenue for Events.com)
+• Events.com has doubled market share since 2015, but in the last two years revenue is flat and profits are down, despite growing 
+share. Prospect wants you to determine what is causing this and come up with a plan to improve profitability
+Interviewer guide
+• Problem: Are the costs associated with the DM program justified by the savings?
+• This case is about a PE-portfolio company in Tech that has been undergoing a decline in profitability, despite commercial wins and 
+market share growth. Events.com made a pricing change that has harmed profitability and needs to make a change
+1. Analyze profitability issues
+2. Identify root cause of issue
+3. Quantify price change impact
+4. Provide client recommendation
+
+
+===== PDF p82 =====
+78
+Events.com
+Case prompt
+• Our client is Prospect Equity Partners (‘Prospect’), a prominent Private Equity firm that invests in the technology space. They have 
+recently acquired Events.com due to strong commercial wins and momentum in the market
+• Events.com is a leading SaaS-based registration/ticketing platform for Endurance events (5K runs, Marathons, Triathlons, Mud 
+Runs, etc.). They make money by taking registrations and processing payments for events and charging a fee per transaction 
+(similar to Ticketmaster or Eventbrite) ($100 registration price x 10% Fee = $10 in Revenue for Events.com)
+• Events.com has doubled market share since 2015, but in the last two years revenue is flat and profits are down, despite growing 
+share. Prospect wants you to determine what is causing this and come up with a plan to improve profitability
+Clarifying information
+• Market: The market has declined ~4% per year since 2015, driven by low participation in experiential runs like Color or Mud Runs
+• Competition: Two main other players in space: Active Network and RunSignUp. No recent entrants.
+• Customers: Customers are all in the US. Historically, local 5K events are targeted, but Events.com recently signed IRONMAN 
+triathlon in Q4 2017, which has $125M in transaction volume per year, and other premium events
+• Product: The product platform is called EventWorks Endurance, and has been around for 10+ years
+• Company: No changes have been made to company since being acquired by Prospect
+Fit: What has been the most risky project that you have worked on?
+
+
+===== PDF p83 =====
+79
+Events.com
+Exhibit A – Historical P&L and Market Share
+$m
+2015
+2016
+2017
+2018
+Revenue
+25.0
+35.0
+39.9
+39.9
+Variable Costs
+Payment Processing Costs
+3.3
+4.7
+8.0
+11.9
+Server Hosting Costs
+3.8
+5.3
+4.8
+4.8
+Total Variable Costs
+7.1
+9.9
+12.8
+16.7
+Fixed Costs
+Headcount
+5.0
+5.3
+5.5
+5.5
+Marketing
+1.5
+1.7
+1.8
+2.0
+SG&A / Other Costs
+2.0
+2.1
+2.2
+2.2
+Total Fixed Expenses
+8.5
+9.0
+9.5
+9.7
+Operating Income
+9.4
+16.1
+17.6
+13.5
+Operating Income Margin
+38%
+46%
+44%
+34%
+17%
+65%
+6%
+12%
+2015 Market Share
+34%
+30%
+28%
+8%
+2018 Market Share
+RunSignUp
+Events.com
+Active Network
+Other
+
+
+===== PDF p84 =====
+80
+Events.com
+Exhibit B – Payment Processing Breakdown
+2017
+2018
+Number of events
+4,023
+5,051
+Total registrations
+8.0M
+7.9M
+Dollars processed
+$339M
+$595M
+Events.com Revenue
+$39.9M
+$39.9M
+Payment Processing Expenses
+$8.0M
+$11.9M
+
+
+===== PDF p85 =====
+81
+Events.com
+Exhibit C – Pricing Structure
+Old Pricing Structure
+Fee per transaction
+10.0%
+New Pricing Structure
+Price under $50
+Price over $50
+Fixed fee per transaction
+$3.00
+$5.50
+
+
+===== PDF p86 =====
+82
+Events.com
+Part 1
+1. Analyze profitability issues
+• Using Exhibit A, have a discussion around what is driving the decline in profitability
+• Interviewee should note that market share growth is from stealing share from Active Network, but largely ignore the share data
+• Interviewee should focus on 2017 and 2018 and notice that payment processing costs have increased drastically, hypothesizing 
+that is due to an increase in processing volume or processing rate (since this is a variable expense), and ask for more information on 
+payment processing
+• Interviewee should ignore other expenses, as the growth is not material
+Provide Exhibit A when asked about Profitability (or revenue/costs)
+
+
+===== PDF p87 =====
+83
+Events.com
+Part 2
+2. Identify root cause of issue
+• Provide the additional information along with the exhibit:
+• Price per Registration declined as higher priced customers (smaller events with fewer total registrations) were acquired 
+(Ironman Triathlon) and lower priced customers did not renew
+• If interviewee is stuck, start a discussion about pricing and how it affects revenue, and have the interviewee calculate the payment 
+processing rate, average fee, and average price per registration in 2017 and 2018.
+• Interviewee should now isolate whether the processing costs increase is driven by rate or volume, and should calculate the 
+processing rate to confirm (Payment Processing Expenses / $’s Processed)
+• 2017: $8m / $399m = 2%; 2018: $11.9m / $595m = 2%
+• Interviewee should now realize cost increase is driven by volume and that registrations and volume are up, although revenue is 
+down, leading to analysis of the components of revenue
+• Avg. fee rate (Revenue / $’s Processed):
+• 2017 = 10%; 2018= 6.7%
+• Price per registration ($’s Processed/Registrations):
+• 2017 = $50; 2018 = $75 
+Provide Exhibit B when about Payment Processing Costs or Revenue
+
+
+===== PDF p88 =====
+84
+Events.com
+Part 3
+3. Quantify price change impact
+• Provide the additional information along with the exhibit:
+• Pricing was changed due to competitive pressure
+• Interviewee should realize that pricing was changed from variable (10% fee) to a tiered fixed fee pricing, and as the price per 
+registration increased, this caused revenue to be flat, despite acquiring customers
+• Candidate should realize ‘Over $50’ pricing should be changed, and when prompted, let interviewee know that customer surveys 
+have indicated that a 2.25% “Credit Card Fee” can be added to “Over $50” tier with negligible customer losses, and that ~$375m of 
+volume is over $50
+• Interviewee should now calculate revenue increase from adding 2.25% fee
+• 2.25% * $375m = $8,437,500
+• Do not allow rounding
+Provide Exhibit C when asked about Pricing
+
+
+===== PDF p89 =====
+85
+Events.com
+Part 4
+4. Provide client recommendation
+• Interviewee should summarize that a change in pricing to fixed fee tiered pricing caused revenue to remain flat and profitability to 
+decline. They should recommend adding a 2.25% variable fee to the ‘Over $30m’, which will add ~$8.4m of revenue and profitability
+• Risks: Additional increases to average price per registration, customer reaction to pricing increases
+• Next Steps: Roll-out strategy for pricing change, investigation of ways to further change pricing to guard against additional 
+increases in average price per registrations (add additional pricing tiers, customer/market research to figure out customer 
+willingness to pay, etc.); Could look at targeting new sets of lower priced customers; consider acquiring RunSignUp to take over
+strong market position and stratify offerings; or exiting market due to its decline.
+• Excellent interviewees demonstrate the ability to analyze a P&L and think through how variable costs and revenues are related, 
+along with testing brainstorming on pricing strategy.
+• Outstanding candidates will quickly focus on the correct items in the P&L and make the connections between pricing, revenue, and 
+variable costs and how that has eroded profitability, despite being the market share leader.

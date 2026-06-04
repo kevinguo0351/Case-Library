@@ -1,0 +1,249 @@
+===== PDF p167 =====
+163
+Edited by: Rohan Maini (Kellogg 2020)
+Case 15
+Mustard Clinic
+Primary sector(s)
+• X08 Healthcare
+Concepts tested
+• Z04 Capacity (3)
+• Z12 Creativity (4)
+Similar cases
+• Alkaline Ash        
+(Columbia 2017)
+• Garthwaite Healthcare 
+(Kellogg 2020)
+• Princeton-Plainsboro  
+(Wharton 2012)
+• Orrington Office Supplies 
+(Kellogg 2020)
+Case type
+• Y07 Profitability
+• Y01 Cost reduction
+• Y05 Operations
+Interviewer-led
+
+
+===== PDF p168 =====
+164
+Mustard Clinic
+Interviewer guide
+Case prompt
+• Your client is the CEO of the Mustard Clinic, a for-profit hospital in the United States.
+• The hospital is known primarily for its leading care for babies and young children.
+• Patients pay a fixed fee to access services on arrival, and all subsequent costs are borne by the Mustard Clinic.
+• Sugar Magnolia does not deal with insurance providers. Instead, patients submit expense claims directly with their insurance 
+provider(s).
+• In the last few years, the hospital’s profitability has fallen, and they are facing bankruptcy. Last year they lost $1.4m
+• The CEO asks you: “Why has profitability gone down and how can we turn it around?”
+Interviewer guide
+• Problem: How can the Mustard Clinic break even (increase profits by $1.4m)?
+1. Analyze customer segments
+2. Determine cost impact of shorter patient stays
+3. Determine profit impact of shorter patient stays
+4. Brainstorm ways to shorten patient stays
+5. Provide client recommendation
+
+
+===== PDF p169 =====
+165
+Mustard Clinic
+Case prompt
+• Your client is the CEO of the Mustard Clinic, a for-profit hospital in the United States.
+• The hospital is known primarily for its leading care for babies and young children.
+• Patients pay a fixed fee to access services on arrival, and all subsequent costs are borne by the Mustard Clinic.
+• Sugar Magnolia does not deal with insurance providers. Instead, patients submit expense claims directly with their insurance 
+provider(s).
+• In the last few years, the hospital’s profitability has fallen, and they are facing bankruptcy. Last year they lost $1.4m
+• The CEO asks you: “Why has profitability gone down and how can we turn it around?”
+Clarifying information
+• Goal: The Mustard Clinic wants to at least break even.
+• Customers: The Clinic cannot influence its patient mix in the short term.
+• Services: The Clinic offers intrapartum (childbirth), neonatal (for newborns), pediatrics (for infants and children) and a small 
+geriatrics (for the elderly) unit.
+• Competitors: There aren’t any competitors that have contributed to the Mustard Clinic’s problem.
+• Revenue model: Customers are charged a fixed fee at the time of checking-in. All subsequent costs are borne by the Mustard 
+Clinic.
+Experience: Tell me about a time you implemented a new way of doing things in an organization.
+
+
+===== PDF p170 =====
+166
+Mustard Clinic
+Exhibit A – Key hospital unit metrics
+Segment
+Description
+Annual volume
+(patients)
+Average stay 
+(nights)
+Intrapartum
+Care of due and in-labor mothers 
+(during labor and childbirth)
+500
+10
+Neonatal
+Care of premature newborns (first 
+28 days of life)
+300
+7
+Pediatrics
+Care of infants, children, and 
+adolescents (up to age 21)
+150
+11
+Geriatrics
+Care of elderly patients (aged 60 
+and over)
+50
+25
+
+
+===== PDF p171 =====
+167
+Mustard Clinic
+Exhibit B – Cost structure
+Fixed costs
+$1.4m
+Variable costs
+$600/patient per night
+Average stay (nights)
+10
+Patients per year
+1,000
+Capacity utilization*
+100%
+Notes:
+• Capacity = Total number of patient nights per year that the Mustard Clinic can accommodate
+
+
+===== PDF p172 =====
+168
+Mustard Clinic
+Part 1
+1. Analyze customer segments
+• Our team has conducted the following analysis on various groups of customers.
+• Providing overnight care is expensive for the Mustard Clinic. In number of nights, what is the average stay duration for a Mustard 
+Clinic patient?
+• Average stay duration = Total nights / Number of patients = 10,000 / 1,000 = 10 nights
+• Takeaway: Because we have a fixed fee arrangement, it might be worth looking to reduce the average patient stay duration.
+Provide Exhibit A
+Unit
+Volume
+Average stay 
+(nights)
+Total nights
+Intrapartum
+500
+10
+500 x 10 = 5,000
+Neonatal
+300
+7
+300 x 7 = 2,100
+Pediatrics
+150
+11
+150 x 11 = 1,650 
+Geriatrics
+50
+25
+50 x 25 = 1,250
+Total
+1,000
+10,000
+
+
+===== PDF p173 =====
+169
+Mustard Clinic
+Part 2
+2. Determine cost impact of shorter patient stays
+• If the Mustard Clinic were to reduce the length of an average patient stay by two nights, what would be the cost saving?
+Costs with 10 night stay
+• Fixed costs: $1.4m
+• Variable costs: 1,000 patients x 10 night stay x $500 per night = $6m
+Costs with 8 night stay
+• Fixed costs: $1.4m
+• Variable costs: 1,000 patients x 9 night stay x $500 per night = $4.8m
+• Takeaway: Shorter stays saves $1.2m, which is promising but doesn’t help the Mustard Clinic breakeven.
+• But shorter stays also frees up capacity for new patients.
+Provide Exhibit B
+
+
+===== PDF p174 =====
+170
+Mustard Clinic
+Part 3
+3. Determine profit impact of shorter patient stays
+• Reducing the average stay length frees up space for new patients. How many additional patients can we serve and what would be
+the impact on profit if the average revenue per patient is $6,000?
+• Hospital capacity: 1,000 patients x 10 nights average stay = 10,000 patient nights
+• Capacity made available from stay reduction: 1,000 patients x 2 night stay reduction = 2,000 patient nights
+• Additional patients that could be served: 2,000 patient nights / 8 night average stay = 250 additional patients
+• Revenue: 1,250 patients per year x $6,000 revenue per patient = $7.5m
+• Fixed Cost: $1.4m
+• Variable Cost: 1,250 patients per year x 8 night average stay x $600 variable costs per night = $6m
+• Proft = $7.5m – ($1.4m + $6m) = $100k
+• Takeaway: The Mustard Clinic can return to profitability by shortening patient stays by 2 nights and using the freed up capacity.
+
+
+===== PDF p175 =====
+171
+Mustard Clinic
+Part 4
+4. Brainstorm ways to shorten patient stays
+• What are some ways in which the Mustard Clinic could reduce the average patient stay duration from 10 to 8 nights?
+• The actual ideas are less important here than providing some approach to structuring the brainstorm. One example might be to use
+steps in the patient journey to identify areas to optimize speed.
+Patient Journey
+Admittance
+Diagnosis
+Surgery
+Recovery
+Other
+•
+Decrease/eliminate 
+geriatrics unit
+•
+More receptionists
+•
+Partner hospitals
+•
+Tele-diagnosis
+•
+Technology
+•
+Doctor skill/quality
+•
+Operational delays?
+•
+Tele-medicine
+•
+At-home care
+•
+Partner hospitals
+•
+End fixed fee pricing
+•
+Drive awareness of cost 
+structure to doctors
+
+
+===== PDF p176 =====
+172
+Mustard Clinic
+Part 5
+5. Provide client recommendation
+• Overall, the Mustard Clinic can meet their goal and return to profit.
+• This is based on decreasing average patient stay duration from 10 to 8 days, which:
+• Saves $1.2m in variable costs per patient night for all patients
+• Frees up capacity for 250 additional patients
+• Brings in $300k in profit from these additional patients
+• One way to reduce patient stay duration would be to close the Geriatrics unit, which is not our core competency.
+• Risks: Reducing average patient stay might affect revenues if patient care worsens or if Geriatrics is a complementary service.
+• Next steps: Feasibility study into tactical ways to actually reduce average without impacting patient care.
+• Strong candidates maintain organization well since there are several points in the case when they will need to refer back to previous 
+clarifying information, exhibits or calculations.
+• Outstanding candidates are able to think strategically about the impact of changes throughout the case. Structures math and finds 
+quick ways to do calculations (eg. Q2 saving = 2 nights x 1,000 patients x $600 per night = $1.2m)

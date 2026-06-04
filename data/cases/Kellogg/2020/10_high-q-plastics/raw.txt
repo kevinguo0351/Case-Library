@@ -1,0 +1,290 @@
+===== PDF p119 =====
+115
+Case Authors: Erin Brooks (Kellogg 2011)
+Edited By: Uri Kalir (Kellogg 2012), Tuhina Kapoor (Kellogg 2020)
+Case 10
+High Q Plastics
+Primary sector(s)
+• X04 Engineering & Construction
+Concepts tested
+• Z11 Competitive Analysis
+• Z12 Creativity
+Similar cases
+Case type
+• Y01 Cost reduction
+• Y05 Operations
+• Y07 Profitability
+
+
+===== PDF p120 =====
+116
+High Q Plastics
+Interviewer guide
+Case prompt
+• Our client, High Q Plastics, is an automotive parts supplier in the U.S. They primarily manufacture and sell plastic injection-molded 
+parts, such as grills, door handles, decorative trim etc., to automotive customers.
+• The client has two primary revenue sources: large automotive OEMs, and aftermarket. The client has recently seen declining profits, 
+primarily due to increased price competition from new overseas competitors in China. Annual profits have declined from $50M to 
+$20M over the past few years.
+• What is the reason behind declining profitability? How can High Q improve profits? Can they reach $100M in profits by 2014?
+Interviewer guide
+• Problem: How can High Q generate $100m in profits by 2014?
+1. Develop a structure to address the problem
+2. Brainstorm ideas to improve profits
+3. Determine whether the profit goal can be met
+4. Provide client recommendation
+• An effective interviewee should demonstrate clear and MECE approach at dissecting profitability, structured brainstorming in 
+improving profits (e.g., brainstorming in buckets) and effectively using exhibits to outline the correct approach to calculating 2014 
+profits.
+
+
+===== PDF p121 =====
+High Q Plastics
+Case prompt
+• Our client, High Q Plastics, is an automotive parts supplier in the U.S. They primarily manufacture and sell plastic injection-molded 
+parts, such as grills, door handles, decorative trim etc., to automotive customers.
+• The client has two primary revenue sources: large automotive OEMs, and aftermarket. The client has recently seen declining profits, 
+primarily due to increased price competition from new overseas competitors in China. Annual profits have declined from $50M to 
+$20M over the past few years.
+• What is the reason behind declining profitability? How can High Q improve profits? Can they reach $100M in profits by 2014?
+Clarifying information
+• Industry Characteristics/Market Economics
+- Automotive sales overall still growing steadily, driven by emerging markets
+- Automotive manufacturing is leaving the U.S.
+• Client Characteristics
+- Client is currently one of the leaders in this category
+- Client has U.S.-based manufacturing 
+- Revenues have been slowly declining over last 5 years
+- Client’s products are of a higher quality than most Chinese competitors’ products
+• Competitive Dynamics
+- Automotive OEM customers are looking to reduce cost, driving increased price competition among parts suppliers
+Fit: Tell me about a time you had to navigate a conflict and come up with a creative solution.
+117
+
+
+===== PDF p122 =====
+118
+High Q Plastics
+Exhibit A – High Q’s 2010 Financials, By Facility
+$m
+Plant A
+Plant B
+Plant C
+Plant D
+Revenues
+100
+100
+100
+100
+Labor
+20
+40
+60
+30
+Material
+55
+40
+20
+35
+Overhead
+20
+15
+15
+30
+Net Profits
+5
+5
+5
+5
+
+
+===== PDF p123 =====
+119
+High Q Plastics
+Exhibit B – 2010 U.S. Automotive Market
+38%
+42%
+20%
+Compact cars
+Full-size cars
+Trucks and SUVs
+Additional Information:
+• 2010 US Automotive Sales = 16 million units
+
+
+===== PDF p124 =====
+120
+High Q Plastics
+Exhibit C – U.S. Truck / SUV Market Share (2010 – 2014)
+33%
+31%
+19%
+10%
+7%
+21%
+20%
+14%
+40%
+5%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Ford
+GM
+Chrysler
+Toyota
+Nissan
+2010
+2014
+Additional information:
+• High Q supplies 70% of Toyota’s business
+• Average price of High Q products sold to Toyota = $20
+
+
+===== PDF p125 =====
+121
+High Q Plastics
+Part 1
+1. Develop a structure to address the problem
+What key questions would you ask an industry expert in order to better understand the reasons behind High Q’s declining profits?
+An effective structure should address the following factors:
+• Industry: What is the sales volume trend? What is the % of demand and growth of OEM vs. aftermarket segment? Is one of these 
+segments more profitable than the other?
+• Competitors: Who are they? What is their relative market share? What are their prices vs. our clients’? What is their cost structure 
+vs. our clients’? Do they have a technology or quality competitive advantage relative to our client?
+• Revenue: How have our clients’ prices changed in recent years? Have they declined across all customers and products?
+• Costs: What trends is our client seeing in their cost structure? Increasing labor or material costs?
+
+
+===== PDF p126 =====
+122
+High Q Plastics
+Part 2
+2. Brainstorm ideas to improve profits
+The CEO of High Q wants to know if $100M in annual profits is achievable by 2014. What would you need to know in order to 
+determine this? What data would you ask for?
+What ways can you think of to increase revenues? What ways can you think of to reduce costs?
+After asking the interviewee the above questions, he / she should come up with 2-3 ways each for cost reduction and increasing 
+revenues:
+• Reduce Cost: find alternative material sources, invest in process automation to reduce labor, consolidate multiple manufacturing 
+sites to reduce SG&A costs, relocate close to customers to reduce transportation costs.
+• Increase Revenue: segment customers to determine sensitivity to price, increase marketing in aftermarket segment, negotiate long-
+term contracts with OEM customers.
+
+
+===== PDF p127 =====
+123
+High Q Plastics
+Part 3
+3. Determine whether the profit goal can be met
+Our client is planning on implementing lean manufacturing across all 4 of it U.S. plants, in order to provide cost savings and increase 
+profits. 
+• The client is expecting to produce 80% of 2010 volumes in 2014. They are also planning on reducing prices by 10% due to 
+increased competition.
+• Lean manufacturing implementation across all plants will provide an additional 20% savings in raw material, and 30% savings in 
+labor. What is the change in profits the High Q CEO can expect from 2010 to 2014, based on this information?
+• Please see solution on the next page.
+Provide Exhibit A
+
+
+===== PDF p128 =====
+124
+High Q Plastics
+Part 3 (Continued)
+3. Determine whether the profit goal can be met
+• The interviewee should use the information provided in Exhibit A to calculate the following profitability for each plant in 2014, and 
+walk the interviewer through the calculation steps. It is important to first note that revenues, labor, and material will decrease by 
+20% due to the reduced quantity output from each plant, plus the additional 20% savings in material and 30% in labor. Revenue will 
+decrease by an additional 10%, in a cost cutting maneuver. Overhead costs will not change.
+• From this calculation, the interviewee should reference back to question 2. Even with the lean manufacturing implementation, High 
+Q is still a long way from the CEO’s goal of $100M in annual profits, and this is therefore not a realistic target. A strong interviewee 
+should note the importance of aligning a client’s expectations.
+All figures in $m
+Plant A
+Plant B
+Plant C
+Plant D
+Revenues
+72.0
+72.0
+72.0
+72.0
+Labor
+11.2
+22.4
+33.6
+16.8
+Material
+35.2
+25.6
+12.8
+22.4
+Overhead
+20.0
+15.0
+15.0
+30.0
+Net Profits
+5.6
+9.0
+10.6
+2.8
+Total 2014 Profits
+28.0
+Additional Profits
+8.0
+
+
+===== PDF p129 =====
+125
+High Q Plastics
+Part 3 (Continued)
+3. Determine whether the profit goal can be met
+• High Q ‘s CEO has also asked us to take a look at competitive dynamics among the automotive OEMs, in order to predict any 
+increase in profits from increased sales. Hand out exhibits 2 and 3.
+• Based on the information given, what do you expect High Q will see in additional profits due to Toyota’s predicted 30% increase in 
+market share in truck and SUVs?
+The interviewee should be able to use the information provided in the Exhibits to calculate the following revenue growth (“Sales” 
+figures below are in units/vehicles). Rounded answers ($13 or $14M) are fine, given that interviewee has already demonstrate math 
+proficiency.
+Provide Exhibit B & C
+2010
+2014
+US Auto Market
+16,000,000
+U.S. Truck & SUV Sales
+3,200,000
+Toyota Truck & SUV Sales
+320,000
+1,280,000
+High Q's Toyota Qty. Sold
+224,000
+896,000
+High Q's Toyota Revenues 
+4,480,000
+17,920,000
+Additional Revenue
+$13,440,000
+
+
+===== PDF p130 =====
+126
+High Q Plastics
+Part 4
+4. Provide client recommendation
+Please summarize your findings to the CEO, including any other potential opportunities to increase High Q’s profits over the next few 
+years.
+The interviewee should concisely summarize the overall goal of the case (to increase High Q’s declining profitability due to new, low-
+cost competition), and main findings from each question, and a recommendation (yes, High Q should implement the lean 
+manufacturing initiative, while recognizing that this initiative alone will not hit the CEO’s total profit goal in 2014). The interviewee 
+should also generate a list of additional opportunities that were not explored in the case, including:
+a) Consolidation of the 4 manufacturing plants (especially Plant D, with its high overhead costs)
+b) Pursue growth in the aftermarket segment of their business
+c) Diversify their business into plastic injection-molded parts for other industries (outside of automotive), with less price competition

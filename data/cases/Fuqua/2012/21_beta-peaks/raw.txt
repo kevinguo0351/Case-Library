@@ -1,0 +1,269 @@
+===== PDF p174 =====
+Case 21: Beta Peaks 
+Prompt 
+Your client, the general manager of Beta Peaks, a ski mountain in western Massachusetts, has 
+asked you to help him with the business. He was appointed to oversee all business operations 4 
+years ago. The client has noted that each year, Beta Peaks has earned disproportionately lower 
+revenues than a nearby mountain, Alpha Peaks. While costs have been stable, he is afraid that the 
+mountain cannot stay in business if the current trend continues. Your assignment is to identify why 
+revenues are lower at Beta Peaks and to propose solutions to increase revenues. 
+ 
+What areas would you explore to identify why revenues have declined? 
+ 
+Guidance 
+Allow the candidate to draft his/her framework and walk you through. Potential areas of exploration 
+include demand (total number of customers has remained constant over the past 4 years), 
+competition (Alpha Peaks is the only other mountain within 100 miles of Beta Peaks) and if the 
+candidate asks about product mix & prices, let them know that:  
+•  Prices and product sales mix for all other concessions, rentals, and apparel sales are the same 
+•  Alpha Peaks charges $30 for day passes while Beta Peaks charges $40 
+ 
+Operations 
+McKinsey & Company 
+170 
+
+
+===== PDF p175 =====
+171 
+Prompt 
+Now that you have scoped out the problem, he would like you to take a look at Exhibit 1. 
+ 
+Given this data, what is the average number of customers at each mountain? 
+ 
+Guidance 
+If asked, tell the candidate to assume single queue, multiple server model. Please note that all lifts 
+have 20 chairs: 10 going up and 10 going down. Only the chairs that are going up should be used to 
+calculate the number of customers on the lift. 
+ 
+Beta Peaks: 
+•  People on the lifts: 10 chairs/quad x 2 quads x 4 seats/quad = 80 people 
+•  People skiing down: 8 people arrive at the top per minute x 10 minutes to get down = 80 people 
+•  People in line for lift: = arrival rate x time in line = 8 people/min x 5 min = 40 people 
+Total for Beta Peaks: 200 people 
+ 
+Alpha Peaks: 
+•  People on the lifts: (10 chairs/quad x 2 quads x 4 seats/quad) + (10 chairs/double x 2 doubles x 2 
+seats/double) = 120 people 
+•  People skiing down: 12 people arrive at the top per minute x 10 minutes to get down = 120 
+people 
+•  People in line: 12 people/min x 30 minutes = 360 people 
+Total for Alpha Peaks: 600 people 
+ 
+Next level insights from analysis:  
+•  There are 3 times as many customers at Alpha Peaks. Based on prices of $40 at Beta Peaks and 
+$30 at Alpha Peaks per ticket, this results in a revenue difference of $10,000 ($18,000 - $8,000) 
+per day 
+•  Additionally, our client has a 6x shorter wait time for getting on chairlifts. This indicates a clear 
+differentiating factor to draw more customers 
+Case 21: Beta Peaks 
+Operations 
+McKinsey & Company 
+ 
+
+
+===== PDF p176 =====
+172 
+Prompt 
+After seeing this intermediate analysis, the client proposes reducing the price per ticket to match 
+Alpha Peaks price of $30 per ticket.  
+ 
+By what percent should the client expect to increase annual sales? 
+ 
+Guidance 
+Inform the candidate to make the following assumptions: customers will switch mountains until the 
+wait time at each mountain is the same, no additional customers will enter the market, all other 
+variables stay the same (time to get down the mountain, number of lifts, competitors prices, etc.), 
+mountain is open from October through March, 7 days a week with even demand each week 
+through the season  
+  
+Time in line  = (# people in B line / B arrival rate) = (400 people - # people in B line / A arrival rate) =  
+ 
+ = (# people in B line / 8 people/min) = (400 people - # people in B line / 12 people/min) 
+  
+(# people in B line) x 12 people/min = (3200 people2 /min) – (# people in B line) x 8 people/min 
+# people in B line = (3200 people2 / min) / (20 people/min) = 160 in line at Beta Peaks 
+  
+Insights from analysis: 
+•  This pricing change results in 120 (160 – 40) new customers per day. Total revenue per day = 
+320 x $30 = $9,600 
+•  Total revenue before per day = $8,000 
+•  Increase of $1,600 per day $ a 20% increase in daily revenues 
+  
+Next level insights from analysis: 
+•  This is a substantial increase in revenue and the strategy is worth considering, however it is 
+important to note that wait times would increase, potentially negatively impacting demand of 
+current customers.  
+•  The wait time would increase from 5 minutes to 20 minutes 
+ 
+Case 21: Beta Peaks 
+Operations 
+McKinsey & Company 
+ 
+
+
+===== PDF p177 =====
+173 
+Case 21: Beta Peaks 
+Operations 
+McKinsey & Company 
+ 
+Exhibit 1: Representative Snapshot of the two mountains 
+Beta Peaks 
+Alpha Peaks 
+Number of quad chairlifts 
+2 
+2 
+Number of double chairlifts 
+0 
+2 
+Number of chairs per lift 
+20 
+20 
+Number of seats per chair 
+4 
+4 
+Time to reach the top 
+10 minutes 
+10 minutes 
+Time to get to the bottom 
+10 minutes 
+10 minutes 
+Average wait time in line 
+5 minutes 
+30 minutes 
+
+
+===== PDF p178 =====
+174 
+Performance 
+Evaluation 
+Expected: 
+• 
+Appropriately scopes problem in a MECE framework 
+• 
+Identifies differences in volume, capacity, and sales at two mountains 
+• 
+Does the math correctly, without hesitation 
+ 
+Good: 
+• 
+Completes “Expected” requirements 
+• 
+Uses math to identify # of people at each mountain 
+• 
+Achieves first level insights and scopes out how to get more customers to mountain 
+• 
+Uses analysis effectively in wrap up 
+ 
+Excellent: 
+• 
+Completed “Good” requirements 
+• 
+Reaches next level insights independently 
+Case 21: Beta Peaks 
+Operations 
+McKinsey & Company 
+ 
+
+
+===== PDF p179 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+175 

@@ -1,0 +1,26 @@
+{
+  "case_id": "Tuck_2009_21_high-peaks",
+  "school": "Tuck",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2009.pdf",
+  "idx": 21,
+  "case_name": "High Peaks",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Outdoor Recreation / Retail",
+  "difficulty": null,
+  "pdf_page_start": 118,
+  "pdf_page_end": 123,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    119,
+    120,
+    122
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p119.png",
+    "exhibits/exhibit_p120.png",
+    "exhibits/exhibit_p122.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2009\\21_high-peaks"
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "Darden_2014_06_jewelers-r-us",
+  "school": "Darden",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2014.pdf",
+  "idx": 6,
+  "case_name": "Jewelers-R-Us",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Retail",
+  "difficulty": "Hard",
+  "pdf_page_start": 78,
+  "pdf_page_end": 86,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    81,
+    82
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p081.png",
+    "exhibits/exhibit_p082.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2014\\06_jewelers-r-us"
+}

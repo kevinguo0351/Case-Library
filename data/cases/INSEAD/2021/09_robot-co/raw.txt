@@ -1,0 +1,227 @@
+===== PDF p95 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Case Information
+5
+5
+3
+Interviewer
+Market entry, Pricing, Creativity, etc.
+Difficulty level ± Quantitative
+Difficulty level ± Creativity
+Difficulty level ± Structure
+Case led by
+Case type
+Industry
+Robotics, Artificial intelligence
+91
+
+
+===== PDF p96 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Case Prompt
+Robot& Company (Robot Co.）is a company headquartered in California, USA and Shenzhen, China, the two important world capitals for hardware innovation. In
+early 2020 catering has undergone significant change, especially with the breakout of Covid-19. Robot Co. is catching up the market trend with the rollout the
+Gundam-Ⅱ, a robot specifically designed for deliver dishes& drinks from kitchen to the dining area. The robot execute the orders in the system instantly and will be
+disinfected itself at the end of each mission. The duration to disinfect last 5 seconds each time. The CEO of Robot Co. has tasked us with figuring out whether to
+launch Gundam-Ⅱin Singapore, and how to price this new product.
+Information to be used to answer clarifying questions
+y Robot Co. has its R&D center located in California, and Shenzhen. Its manufacturer plant located in Shenzhen and its sales network widely spread over North 
+America, North Asia and Southeast Asia
+y Robot Co., particularly Gundam-Ⅱ(patented) has strong technical leadership position in the market, and no potential competitors in foreseeable 2-5 years
+y Instead of selling Gundam-Ⅱto restaurants, Robot Co. is planning to lease Gundam-Ⅱto restaurants for a monthly rental payment
+y No-contact service has become the new fashion in restaurants, not only because such way of serving reduce the risks of transmission virus, but since it also helps 
+management to reduce the labor costs
+92
+
+
+===== PDF p97 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Guide to interviewer
+ Topics being tested: Creativity, Market Entry & Pricing Strategy. This is an interviewer-led case and contains four questions. The interviewer will walk through each 
+of the questions one-by-one
+ No general framework is needed in this case, but for question #2/3/4 each need to address a few bullet points
+ Question #2 & #4 are open questions, but candidates should give a strong rationale for their proposed answers
+ If time does not allow to go through the entire case, the interviewer can skip question #1
+Guide for use of exhibits
+Exhibit 1
+Exhibit 2
+E.g., Hand out this exhibit with Question #1
+Key Insights:
+a) Examine candidate's sensitivity regarding to numbers 
+b) Guide the candidate out if she/he cannot find out correct answer at first
+E.g., Hand out this exhibit when candidate asks about efficiencies regarding 
+Gundam-Ⅱ
+Key Insights:
+a) For the same workload, Gundam-Ⅱis twice as efficient 
+b) An excellent candidate will also realize that Gundam-Ⅱcan work 24 hours a 
+day; while humans take 8-hour shifts
+93
+
+
+===== PDF p98 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Question #1
+The Gundam-Ⅱ¶s loading capacit\ is adjustable, and its ma[imum loadable volume is 20*21*35 inch. Super Drink is a No.1 popular drink in 
+restaurants of Singapore. Super Drink has an outer packaging size of 5*7*4 inch. With the full capacity of the Gundam-Ⅱ, what is the 
+maximum number of Super Drink that can be transport at one time? (Gundam-Ⅱis capable of adjusting the direction of Super Drink packages 
+that are being placed.)
+Answer：
+This is a very tricky question. 
+The right correct answer is 105. 
+Candidates may easily get a wrong answer of 102.  
+94
+
+
+===== PDF p99 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Exhibit 1 ± Dimension of Gundam-Ⅱin full capacity
+Dimension of Gundam-Ⅱat full capacity
+(Unit inch)
+Dimension of SuperDrink
+(Unit inch)
+95
+
+
+===== PDF p100 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Question #2
+After a successful pilot project in Singapore, Robot Co. is planning to rent out Gundam-Ⅱto restaurants through monthly rental payments. 
+How should they price the services of Gundam-Ⅱ? What factors should be considered? 
+Answer：
+y The cost of Gundam-Ⅱ, broken down on a per-month basis, is 
+SGD 9000 / (12 months/year * 5 years lifespan) + SGD 100 = SGD 250 / month
+y The value created by a single Gundam-Ⅱunit, per month, is 
+SGD 1,600 * (16min human server / 8min Gundam server) * 1.5 shift factor * 80% replaceable functions = SGD 3,840 / month
+y Robot Co. has strong technical leadership position in the market, without any potential competitors in the near future. As the monthly cost is 
+much too smaller than the value it has created, a value-based pricing strategy is preferred. The exact monthly rental is an open 
+question, but the proposed price should have reasonable justification
+96
+
+
+===== PDF p101 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Cost Side
+• Manufacture cost: 
+The manufacturing costs of a single Gundam-Ⅱis $9,000 SGD
+• Useful lifespan:  
+5 years
+• Maintenance cost: 
+$100 SGD
+Value-creating Side
+Hand out Exhibit 2 when been asked
+ What percentage of jobs can be replaced by Gundam-Ⅱ--
+Gundam-Ⅱis capable of picking-up /delivering /placing dishes & 
+beverages onto the table, allowing it to replace 80% of servers¶ 
+function. The remaining 20% are functions that require human 
+interaction
+ Single task efficiency ± For a standard meal of 4 customers, a 
+Gundam-Ⅱtakes 8 mins, but a server takes 16 mins (task 
+breakdown refer to Exhibit 2
+ How long a server work during a working day? -- Restaurants 
+in Singapore open 12 hours a day, and servers work 8 hours per 
+working day. On average a single position needs to have 1.5 shift. 
+While the Gundam-Ⅱwill work through 12 hours without rest
+ What is the month salary of a server? -- Average monthly 
+salary is $1,600 SGD
+Additional information to be given to candidate after they brainstorm what factors will affect the pricing decision
+97
+
+
+===== PDF p102 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Gundam-Ⅱ
+Server            
+Pick up dishes & beverages
+1.5 min * 1 time
+2 min * 4 times
+Deliver dishes & beverages
+2.5min * 1 time
+1.5 min * 4 times
+Place dishes & beverages
+1 min * 4 times
+1 min * 4 times
+Total
+8 min
+16 min
+Single task efficiency of Gundam-Ⅱvs. single task efficiency of server
+- To deliver same number of dishes & beverages (a standard meal of 4 customers)
+Exhibit 2 ± Efficiency of Gundam-Ⅱvs. server
+98
+
+
+===== PDF p103 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+If Robot Co decides to charge a monthly rental of $1,000 GSD per robot, estimate the market size of Gundam-Ⅱin Singapore. Before 
+calculating, what are the numbers you need to know and what are your key assumptions?
+Answer:
+y Numbers to know: 
+9 Number of full-service restaurants  Æ 4,000 (provide to candidate once identified)
+9 Number of servers in each restaurant  Æ 15 (provide to candidate once identified)
+9 Opening hours per working day  Æ 12 (provide to candidate once identified)
+y Assumption: 
+9 Full-service restaurants have the same size, number of servers and opening hours
+9 The percentage of full-service restaurant willing to convert their service from human interaction based to robot human interaction based 
+(please indicate the rationale behind the percentage Æ taken here as 70%)
+Market Size: 
+[4,000 restaurants] * [15 servers/restaurant] * [80% replaceable functions] / [1.5 shift factor] / [2 efficiency factor] * [70% restaurants willing to 
+convert] * [$1,000 monthly rental per robot] * [12 months]
+= $134,400,000 yearly market size
+Question #3
+99
+
+
+===== PDF p104 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Robot Co.
+Author: Yajing Huang (µ20D)
+Question #4
+After the analysis, if Robot Co, decided to enter the Singapore market, what are the risks that Robot Co should look at and how can they 
+mitigate these risks?
+Answer: This is again an open question without a standard answer. A simple answer is given here as a reference: the candidate may discuss 
+the risks from these three major categories:
+9 Regulation risks
+9 Gundam-Ⅱoperational risks
+9 Public perception risks
+Guide: Good vs Great Case
+A good candidate will cover these points:
+A great candidate will cover these points:
+a) Correctly come up the maximum number of Super Drink that can 
+be transport in full capacity of Gundam-Ⅱwith interYieZer¶s hint
+b) Recognize that robot have an advantage of working 24 hours 
+without taking any holiday, with interYieZer¶s hint
+c) Notice that not every restaurant are willing to adopt robot, 
+particularly the luxury restaurant featured with extravagant services
+a) Correctly calculate the maximum number of Super Drink that can 
+be transport in full capacity of Gundam-Ⅱwithout any hints
+b) Immediately recognize that robots have an advantage of working 
+24 hours without taking any holiday 
+c) Notice potential risks of adopting the robot
+100

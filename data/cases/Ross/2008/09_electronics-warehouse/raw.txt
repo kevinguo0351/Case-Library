@@ -1,0 +1,105 @@
+===== PDF p39 =====
+Case 9:Electronics Warehouse           -medium-         McKinsey&Company, Round 2 
+34 
+ 
+ (Source: Case Interview from McKinsey&Company, Round 2) 
+ 
+Context: 
+ 
+Our client is an electronic warehouse selling all kinds of electronics and home appliances. It was 
+founded in 1990 and currently owns 375 stores located in all major cities across the US. 
+They have a healthy profit margin and represent a major player in the electronics retail market, but 
+the CEO hired us to help them grow even quicker.  
+Recently they opened a number of smaller conceptual stores and these stores are less profitable than 
+the regular ones. 
+We have the task to help them grow aggressively while maintaining the profitability. 
+ 
+ 
+Interviewer: What are the key areas to investigate in order to determine why the new stores are not 
+profitable? 
+ 
+A good answer will identify the followings: 
+I would like to look into the following areas: 
+- 
+Revenues: 
+o Type of products sold in these stores 
+o Assortment 
+o Number of customers entering these stores 
+o Type of customers( income levels, family status, etc) and how the assortment in the 
+stores meets their needs 
+- 
+Costs: 
+o As related to the volume sold ( mainly fixed costs) 
+o Labor costs; maybe higher trained personnel 
+o Distribution costs( from suppliers to the store) 
+- 
+Competition: 
+o What is the presence of competition in the area 
+o What kind of stores the competition has in the area 
+- 
+Other: 
+o Number of hours open 
+o Type of stores 
+o Location of the stores 
+o What are the customer’s needs and how our client manages to met them 
+ 
+ 
+Interviewer: How many stores do they need to open in order to secure a 20% market share in 5 years? 
+ 
+Information to be provided upon request: 
+ 
+Current electronic Retail Market = $150B 
+Current Market Share = 10% 
+Electronic Retail Market in 5 years = $200B 
+Aggressive growth would mean achieving 20% market share in the next 5 years. 
+
+
+===== PDF p40 =====
+Case 9: Electronics Warehouse             -medium-       McKinsey&Company,Round 1 
+35 
+ 
+ (for simplicity of the calculation take into account that the current stores are all of the same revenue 
+size and the future ones will have the same average revenues; the candidate should realize that this 
+calculation would be different if that was not being considered) 
+ 
+Current state: 
+Market = $150B 
+Market share = 10% 
+⇒ Revenue = 10% * $150B = $15B 
+⇒ Revenue per store = $15B/ 375 = $40M 
+ 
+In 5 years: 
+Market = $200B 
+Market share = 20% 
+⇒ Revenue = 20% * $200B = $40B 
+ 
+⇒ Growth needed in revenues = $40B- $15B = $25B 
+⇒ No of stores needed = $25B / $40M = 625 ( but new stores will be only specialized that have 
+lower revenue) 
+ 
+Interviewer:  Is their current strategy a successful one? 
+A good candidate will realize that the result is not feasible (they have 375 stores from 1990 – 18 years) 
+ 
+Interviewer: How can they achieve their objectives? 
+ 
+Possible options: 
+- 
+Open only the old type of stores 
+- 
+Choose locations with a  specific type of inhabitants ( income, family status, hobbies, etc) 
+- 
+Introduce new products and use the customer database to sell them 
+- 
+Implement marketing campaigns, loyalty cards 
+- 
+Make contracts with schools, institutions, hotels, etc 
+- 
+Become a distributor for small electronics stores 
+- 
+Raise prices on non price-sensitive products 
+- 
+Acquire/merge with a competitor 
+- 
+Get into other channels like online sales, door to door sales 
+- 
+Start selling services (repairs, installations, etc) 

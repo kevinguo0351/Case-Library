@@ -1,0 +1,378 @@
+===== PDF p84 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard
+California Wildfires
+By Alan Bleiberg
+80
+
+
+===== PDF p85 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+California Wildfires
+PROMPT
+The state of California has experienced devastating wildfires in recent years, causing deaths and billions of dollars worth of damage.
+The disasters are only projected to intensify, and the government needs to act fast. The governor has hired you to propose an action
+plan for prevention and mitigation. What factors would you analyse?
+81
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard
+Given the open-ended nature and scale of the problem, there are a variety of approaches. However, the candidate’s structure should cover the
+following key aspects of the problem. Push the candidate to brainstorm and elaborate on ideas, as the rest of the case is speculative.
+STRUCTURE GUIDANCE
+81
+Causes of Fire
+Trends Over 
+Time
+Diagnosing Crisis
+Geographic 
+Spread
+Prevention
+Time Horizon
+Action Measures
+Response
+Financial Cost
+Legal and 
+Regulatory
+Feasibility
+Ability to 
+Implement
+•
+What are the causes of wildfires and where do they 
+occur? 
+•
+Are certain causes more preventable than others? 
+•
+Are come types of wildfires more devastating than others?
+•
+Understand any trends (time of year, certain geography, 
+identifiable causes)?
+•
+What are the costs and ability to implement the proposed
+solutions?
+•
+Are there legal barriers from stakeholders (lawmakers,
+utility companies, private sector)?
+•
+Given scale, feasibility should be factor considered for each
+solution.
+•
+Understand what are current prevention methods and
+what are addressable gaps?
+•
+What are the current response tactics? What new or
+existing tactics should be implemented?
+•
+Action measures should be categorized by time-horizon:
+short-term quick fixes and long-term infrastructure
+changes
+•
+What is the effectiveness of various strategies?
+
+
+===== PDF p86 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+California Wildfires – Exhibit 1
+CALIFORNIA HISTORICAL WILDFIRE REPORT
+82
+350
+500
+450
+3.000
+4.500
+6.400
+1.200
+1.250
+1.400
+2000
+2010
+2020
+Number of Fires by Source
+Utilities Failure
+Human Error (campfires, cigarettes, gender reveals)
+Natural Causes (lightning)
+80
+100
+460
+40
+95
+220
+50
+270
+70
+2000
+2010
+2020
+Total Area Burned by Source (Thousand Acres)
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard
+
+
+===== PDF p87 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+INSIGHT ANALYSIS
+83
+EXPECTED TAKEWAYS FROM EXHIBIT
+Hand over Exhibit 1 if the interviewee asks about causes of wildfires or trends over time
+Candidate should note the temporal data set and identify trends and outliers
+• Candidate should explain that fires due to human error have increased over the last 20 years (2x), while other causes of fires are relatively constant
+• Next, candidate should note two observations on the quantity of acres burned:
+1. In-line with increased quantities of fires, acres burned due to human error has steadily increased over the last 20 years
+a)
+Candidate should note these are likely frequent but smaller fires, hence the relative magnitude is not extremely high
+b)
+Candidate should highlight this is an area to focus on prevention, as the cause is avoidable and various policies should be able to 
+reverse the increase
+2. The candidate should also note outlier years, 2010 (natural causes) and 2021 (utilities)
+a)
+Candidate should speculate these were likely single “disaster” fires that inflate the year’s statistics
+b)
+Candidate should think these are likely impossible to prevent in the short-term due to the nature of the cause, but could suggest long-
+term prevention or mitigation measures
+•
+Let the candidate think out loud and drive ideas, but next present Exhibit 2
+California Wildfires – Exhibit 1
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard
+
+
+===== PDF p88 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+2022 CALIFORNIA DEPARTMENT OF FORESTRY ANALYSIS 
+84
+City
+Cost to Build 
+SafeWall 1 ($M)
+Residential 
+Structures
+% of 
+Structures 
+At-Risk
+Annual 
+Wildfires
+% that are 
+catastrophic 2
+Avg Property 
+Value ($M)
+Oakland
+6.4
+400,000
+2%
+10
+5%
+1.00
+Santa Barbara
+7.0
+100,000
+4%
+15
+15%
+2.50
+Sacramento
+5.8
+250,000
+3%
+12
+10%
+0.50
+Notes
+1. SafeWall reduces the probability of a catastrophic fire by 50%
+2. “Catastrophic” defined as destroying 10% of at-risk structures
+California Wildfires – Exhibit 2
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard
+
+
+===== PDF p89 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+QUANTITATIVE ANALYSIS
+85
+SOLUTION
+An environmental minister has suggested that a fireproof structure, SafeWall, could be built and would reduce the 
+probability of a catastrophic wildfire. To start, they can only build around one city – which should they build and why?
+Candidate should assess each option and systematically compare the expected outcomes
+Step 1: Calculate the at-risk value in each location:
+Residential Structures * % At Risk * Avg Property Value
+Step 2: Calculate the likelihood of catastrophic fire in each location
+Annual Wildfires * % that are catastrophic
+Step 3 Multiply the probability of a catastrophic fire by the at-risk value in each location
+by 10% destruction. Reduce expected damage by 50% to determine Value Saved
+At Risk Value * Expected Wildfires * 10% Destruction; * 50% reduction and Compare Values
+Expected Insight:
+• Candidate should note that SafeWall in Santa Barbara would save the most 
+value ($1B) compared to the other locations (~5x)
+• Candidate should take a stance on basing the decision on financial
+considerations compared to population or at-risk structures.
+Candidate should note more data is needed on population. 
+• Should note that construction costs are not a factor given 
+relatively similar in all locations
+City
+Total At-
+Risk Value 
+($B)
+Expected 
+Catastrophic 
+Fires
+Damage of 
+Catastrophic 
+Fire
+Expected Cost, 
+No SafeWall 
+($M)
+Impact of 
+SafeWall
+Expected Cost,  
+SafeWall ($M)
+Value Saved 
+($M)
+Oakland
+8.00
+0.5
+10%
+400
+50%
+200
+200
+Santa Barbara
+10.00
+2.25
+10%
+2,250
+50%
+1,125
+1,125
+Sacramento
+3.75
+1.2
+10%
+450
+50%
+225
+225
+City
+Annual 
+Wildfires
+% that are 
+catastrophic
+Expected 
+Catastrophic Fires
+Oakland
+10
+5%
+0.5
+Santa Barbara
+15
+15%
+2.25
+Sacramento
+12
+10%
+1.2
+City
+Residential 
+Structures
+% of Structures 
+At-Risk
+Total At-Risk 
+Structures
+Avg Property 
+Value ($M)
+Total At-Risk 
+Value ($B)
+Oakland
+400,000
+2%
+8,000
+1.00
+8.00
+Santa Barbara
+100,000
+4%
+4,000
+2.50
+10.00
+Sacramento
+250,000
+3%
+7,500
+0.50
+3.75
+#1
+#2
+#3
+California Wildfires – Exhibit 2
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard
+
+
+===== PDF p90 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+California Wildfires
+RECOMMENDATION QUESTION
+86
+SAMPLE RECOMMENDATION
+Between your structured approach & data provided, what are your recommendations for the governor?
+Allow for flexibility based on the candidate’s structure. A balance of creativity and practicality should be embraced
+•
+Based on data trends, action should be taken to reduce the frequency of wildfires from human error
+•
+Long-term solutions should also be implemented to mitigate “disaster” fires that cause more damage
+•
+Building SafeWall around Santa Barbara is expected to save over $1B in real estate value, 5x the value of other locations
+•
+Overall response risks are plentiful, namely effectiveness, cost, and ability to implement
+•
+Action steps should be relevant to the prior conclusions and include other proposed solutions, such as:
+Short-Term Actions
+Long-Term Changes (Infrastructure)
+•
+Station more firefighters
+•
+Purchase more water-planes
+•
+Ban the use of campfires
+•
+More frequent forest management
+•
+Update high-risk power lines
+•
+Clear break-lines in forests
+•
+Implement drone detection fleet
+Public Sector
+Climate Change
+Strategic Response
+Easy
+Medium
+Hard

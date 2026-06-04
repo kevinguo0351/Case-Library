@@ -1,0 +1,24 @@
+{
+  "case_id": "Wharton_2011_07_snacks-manufacturer-defending-market",
+  "school": "Wharton",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2011.pdf",
+  "idx": 7,
+  "case_name": "Snacks Manufacturer Defending Market",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Consumer Goods / Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 62,
+  "pdf_page_end": 66,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    64,
+    65
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2011\\07_snacks-manufacturer-defending-market"
+}

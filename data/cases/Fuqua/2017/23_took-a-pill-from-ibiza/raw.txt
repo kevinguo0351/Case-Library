@@ -1,0 +1,323 @@
+===== PDF p261 =====
+Took a Pill from Ibiza
+256
+Industry: Health Care
+Quantitative Level: Difficult
+Qualitative Level: Medium 
+
+
+===== PDF p262 =====
+Took a Pill from Ibiza
+257
+• Your client is a large pharmaceutical company based in Ibiza looking to develop a 
+marketing plan for its new prescription dietary drug (Product X).  It is set to launch 
+within the next few months.  Weight loss is a new space for your client, and they are 
+relying on you to help them construct a plan.  What types of things would you first 
+consider as you begin to develop your marketing plan?
+Prompt #1:
+• Candidates should think through the various aspects affecting a promotion mix
+• Additional background information if asked by the candidate:
+– Our client’s goal is to increase total prescriptions written for its product
+– There is one other well known competitor in this space whose product has considerable 
+market share
+– Our client’s product has shown to be more efficacious and has a better dosing schedule than 
+our competitor’s drug
+– The client is based in Ibiza, but is marketing this product within the US
+– In general, cost is not a primary consideration; our client has set aside a large investment for 
+this marketing effort and expects to incur significant costs (with the hope that this product has 
+the ability to offset these)
+Interviewer Guidance:
+
+
+===== PDF p263 =====
+Took a Pill from Ibiza
+258
+• As the candidate shares his/her framework, some of the areas they might mention 
+are: 
+– Customers (how should I segment my customers – based on prescribing behavior, 
+geography, specialty, etc.? Should I market to doctors or end consumers/patients?)
+– Channel (where should I engage my customers – TV, online, print, email, in-office, etc.?) 
+– Content (what types of messages should I carry to my customers?  What are my products’ 
+advantages?)
+– Competition (who are my competitors?  How are they marketing?)
+– Cadence (how frequently should I be reaching out to my customers?  Should I market across 
+certain channels in a particular sequence?)
+– Other items candidates may mention include government regulations around advertising, 
+internal coordination across other teams within the client, pricing/cost/revenue, the larger 
+healthcare ecosystem, etc.
+Interview Guidance (cont.):
+
+
+===== PDF p264 =====
+Took a Pill from Ibiza
+259
+• You and the client have decided to begin by identifying potential target customers for 
+Product X
+• You and the client decide to focus on doctors (prescribers) as your potential 
+customer pool (rather than considering the end consumer or pharmaceutical 
+companies – these are important players to consider, but to begin, you decide to 
+focus on doctors)
+• The client asks you to decide how you think the customers should be segmented
+• What are some ways you could segment potential customers for Product X?
+Prompt #2:
+• This is intended to be a structured brainstorm. As the candidate thinks through 
+potential ways to segment the market, s/he may mention:
+– Geography (by region, urban vs. rural, etc.)
+– Specialty (dieticians, Primary Care Physicians (PCPs), other specialists)
+– Prescribing behavior (high prescribers vs. low prescribers)
+– Marketing engagement (receptive to digital marketing vs. print marketing)
+– Patient population (high number of eligible patients vs. low number of eligible patients)
+– Previous relationships (doctors our client already has a relationship with vs. new customers)
+• Push the candidate to try to come up with at least four ways to potentially segment
+Interviewer Guidance:
+
+
+===== PDF p265 =====
+Took a Pill from Ibiza
+260
+• Once the candidate has finished brainstorming, let him/her know that we have 
+decided to segment the market based on prescribing behavior; we have used 
+market research to segment doctors into four quartiles based on their likelihood of 
+prescribing Product X
+• Give the candidate both pieces of Exhibit 1
+• Explain to the candidate that we have segmented both dietary specialists 
+(“specialists”) and primary care physicians (“PCPs”)
+• Based on this information, which quartile would you like to target and why?
+Prompt #3:
+• The candidate should bring together the various pieces of Exhibit 1 to determine the 
+total number of prescriptions expected for Product X within each quartile
+• The candidate should then choose the quartile with the highest number of total 
+potential prescriptions (specialists + PCPs) as the quartile to target
+– Q1 has the highest number of total prescriptions and should be the target
+• The candidate should take a structured approach to these calculations. Rounding of 
+numbers is fine and can be encouraged
+• See the following page for the math breakdown
+• Note: candidates cannot target specialists in one quartile and PCPs in another, must 
+focus entirely on one quartile
+Interviewer Guidance (Exhibit 1):
+
+
+===== PDF p266 =====
+Took a Pill from Ibiza
+261
+Quartile
+Number of patients 
+per doctor
+Patients eligible for 
+Product X
+Number of patients 
+receiving prescription
+Number of 
+Specialists
+Total prescriptions
+1
+360
+360 x 60% = 216
+216 x 75% = 162
+150
+162 x 150 = 24,300
+2
+420
+420 x 60% = 252
+252 x 50% = 126
+200
+126 x 200 = 25,200
+3
+535
+535 x 60% = 321
+321 x 33% = 106
+200
+106 x 200 = 21,186
+4
+1015
+1015 x 60% = 609
+609 x 15% = 91
+250
+91 x 250 = 22,838
+Quartile
+Number of patients 
+per doctor
+Patients eligible for 
+Product X
+Number of patients 
+receiving prescription Number of PCPs
+Total prescriptions
+1
+545
+545 x 20% = 109
+109 x 80% = 87
+200
+87 x 200 = 17,440
+2
+600
+600 x 20% = 120
+120 x 60% = 72
+200
+72 x 200 = 14,400
+3
+782
+782 x 20% = 156
+156 x 30% = 47
+300
+47 x 300 = 14,076
+4
+1235
+1235 x 20% = 247
+247 x 10% = 25
+400
+25 x 400 = 9,880
+Q1 has the highest total Rx across both groups, Q1 should be the target
+Interviewer Guidance (Exhibit 1 math):
+
+
+===== PDF p267 =====
+Exhibit 1
+262
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+1
+2
+3
+4
+Specialists
+PCPs
+Quartiles*
+*1st Quartile is comprised of doctors who are projected to be highest prescribers of Product X, while the 4th Quartile is 
+comprised of doctors who are projected to be the lowest prescribers of Product X
+Number of Doctors within Each Quartile
+
+
+===== PDF p268 =====
+Exhibit 1
+263
+Quartile
+Number of total 
+patients for each 
+doctor in quartile
+Percent of patients 
+eligible for Product X
+Percent of eligible 
+patients likely to be 
+prescribed Product X 
+by doctor
+1
+360
+60
+75
+2
+420
+60
+50
+3
+535
+60
+33
+4
+1,015
+60
+15
+Quartile
+Number of total 
+patients for each 
+doctor in quartile
+Percent of patients 
+eligible for Product X
+Percent of eligible 
+patients likely to be 
+prescribed Product X 
+by doctor
+1
+545
+20
+80
+2
+600
+20
+60
+3
+782
+20
+30
+4
+1,235
+20
+10
+Specialists
+PCPs
+
+
+===== PDF p269 =====
+Took a Pill from Ibiza
+264
+• Having selected a quartile of physicians to target, let’s think through how we could 
+reach them.
+• What types of marketing channels and tactics would you use to promote 
+Product X to this segment?
+• After the candidate finishes brainstorming, ask if the candidate would focus on 
+deploying specific channels first or in any particular order
+Prompt #4:
+• If the candidate mentioned channel as an area of consideration in his/her framework, 
+encourage the candidate to refer back to those thoughts
+• Some channels the candidate may consider are sales representative visits, emails, 
+targeted search display, third party banners/ads on MD specific websites, Product X’s 
+brand website, journal article ads, conferences, etc.
+• If the candidate struggles to come up with ideas, encourage him/her to consider how 
+s/he has received promotion materials from companies in the past to help spur ideas
+• There is no “right” answer on which channels should be focused on first, it is just a 
+thought exercise to help the candidate develop a more nuanced recommendation
+Interviewer Guidance:
+
+
+===== PDF p270 =====
+Took a Pill from Ibiza
+265
+• The client’s brand marketer lead just asked if we could provide her with our latest 
+recommendation regarding our targets and how we plan to reach them.  Please 
+update her on your recommendation.
+Recommendation 
+• Candidate should lead with targeting Q1 specialists and PCPs because it is the 
+opportunity for the greatest number of prescriptions at this time
+• Candidate should mention 2-3 channels s/he plans to use to reach our targets (good 
+candidates will hone in on a few, rather than citing the entire brainstorm list)
+• An exceptional candidate will note opportunities for spillover effects – as we use 
+certain channels to reach our targets, we will likely hit other specialists and PCPs 
+outside of Q1 and reach beyond our original intent
+• Candidate will mention risks/drawbacks: assess projections further on which plan is 
+based, ensure we can actually reach targets through these channels, decide on 
+messaging to carry to targets, analyze competitor actions in this space, ensure we 
+have necessary knowledge for this new space, determine regulatory concerns, etc.
+• Candidate should mention next steps: further assessing whichever risks were 
+brought up, identifying key messages for targets, etc.
+Interviewer Guidance:
+
+
+===== PDF p271 =====
+Evaluation Criteria
+266
+Candidate Level
+Assessment
+Average Candidate
+Average candidates will have a moderately developed 
+framework; will make it through the math with a few 
+mistakes; will need assistance brainstorming; 
+recommendation focuses on Q1 targets but not on 
+channels to use
+Good Candidate
+Good candidates will have a well developed framework; 
+will execute the math with one or no mistakes; will have 
+a thorough brainstorming list; recommendation is 
+concise and focused – considers risks and next steps
+Excellent Candidate
+Excellent candidates do everything a “good candidate” 
+does but pulls in additional insights such as potential 
+for spillover marketing effects, notes the need to 
+investigate competition further, mentions wanting to 
+look at cost/revenue numbers, etc.

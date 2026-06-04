@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2011_01_food-wholesaling",
+  "school": "Kellogg",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2011.pdf",
+  "idx": 1,
+  "case_name": "Food Wholesaling",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 21,
+  "pdf_page_end": 27,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p022.png",
+    "exhibits/exhibit_p023.png",
+    "exhibits/exhibit_p024.png",
+    "exhibits/exhibit_p025.png",
+    "exhibits/exhibit_p026.png",
+    "exhibits/exhibit_p027.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2011\\01_food-wholesaling"
+}

@@ -1,0 +1,113 @@
+===== PDF p49 =====
+©2009 Tuck Consulting Club. All rights reserved.
+18
+Tuck Consulting Club
+Everlasting Light Bulb
+Case Description: This case concerns valuation of a new, industry-changing disruptive
+technology
+Inventory: [no exhibits]
+Industry: Consumer goods
+Potential applicable frameworks:
+Profitability
+3 C’s
+Value Chain
+Microecon. Analysis
+Market Entry
+4 P’s
+Supply Chain
+Internal / External
+Competitive Threat
+Porter’s 5 Forces     Market Sizing
+Other
+Introduction
+You are a scientist. You have just invented the world’s first everlasting light bulb. Fortunately, you
+have been granted a rock-solid patent for it. The current light bulb industry is a global monopoly.
+How much is it worth?
+Note to Interviewer: This case requires a thorough pre-read by the interviewer in order to
+make it work.
+
+
+===== PDF p50 =====
+©2009 Tuck Consulting Club. All rights reserved.
+19
+Everlasting Light Bulb (continued)
+Case Details
+Info to be given if asked:
+• Assume that the patent is for eternity.
+• You are valuing the PATENT not an individual everlasting light bulb.
+•
+This is a domestic light bulb only so has no commercial applications such as offices or
+cars
+•
+There are 6B people in the world. You can assume that only 4B people have access to
+electricity.
+• You can assume that there are 8 people on average per household (HH).
+• Conventional light bulbs price: $2. Everlasting light bulbs will be priced at $5.
+• You can assume that conventional bulbs last 2 years.
+•
+Assume everyone switches to everlasting in year one. The phase of the transition will
+have little impact on the eternal patent value, right?!
+• Assume a profit margin of 20% on conventional and everlasting bulbs.
+• Can assume a 5% discount rate.
+
+
+===== PDF p51 =====
+©2009 Tuck Consulting Club. All rights reserved.
+20
+Everlasting Light Bulb (continued)
+Recommended Solution
+Current market sizing
+A good candidate will ask what type of bulb this is as a clarifying question upfront before they
+attempt a framework. They should also ask for the length of the patent. They will discover it is a
+domestic bulb with an eternal patent.
+A good candidate then sizes the market for domestic light bulbs. A typical way to start is with 6B
+people in the world, assuming, say, an average HH membership of 8. Assume only 4B people have
+electricity supplied houses. Therefore there are 500M HH in the world.
+Assume there are 5 rooms in the global average HH (not everyone is a rich American). Therefore
+there are 2.5B domestic rooms. Assume 2 bulbs on average so 5B domestic bulbs globally. With $2
+per bulb, amateurs then say the industry today is worth $10B pa. But bulbs last for 2 years. Therefore
+the industry today is worth $5B. This is the “schoolboy” trap in this case. With a 20% margin, current
+profit is therefore $1B pa.
+Would people switch?
+Yes. $2 every two years or $5 one-time is a no-brainer decision for the consumer to make. The
+everlasting bulb will pay for itself in a mere 5 years.
+What is the value of the new industry?
+Well, you only buy one everlasting bulb. Therefore 5B bulbs * $5 = $25B. 20% margin so $5B one-
+time profit. Another “schoolboy” error is to say $25B sales every year. Remember: it is an
+everlasting bulb.
+
+
+===== PDF p52 =====
+©2009 Tuck Consulting Club. All rights reserved.
+21
+Everlasting Light Bulb (continued)
+So what?
+The everlasting bulb will destroy an industry pumping out $1B pa profit for the monopoly and
+cause a $5B bonanza for the scientist.
+So how much is the patent worth? The interviewer should then try to trick the interviewee
+and say its worth $1B pa in profit so at 5% discount rate in perpetuity its worth $20B right?
+It is surprisingly easy to get them to agree to this. Challenge them as follows.
+But if it’s worth $5B in a one-off bonanza to the scientist, the monopoly should pay $15B or
+less, right?
+Again, easy to get them to agree to this new answer. Once they agree with $14.5B you say…
+But hang on, why not buy it and lock it in a safe? If the patent is bulletproof it’s only worth
+$5B, i.e. the standalone value to the scientist, right? Alternatively, aren’t you a monopoly? So
+you are the only potential buyer right? An external buyer would only pay $5B (the value of the
+standalone patent). So why not pay $5B and one cent?
+They will then agree to this new answer which is 1/3 of the $15B they were proposing a while
+ago.
+But hang on; the scientist is just a scientist. So he has no sales and marketing infrastructure.
+So its worth less than $5B, right? That just assumed a 20% steady state profit margin but
+s/he has no infrastructure. So assuming $500m sales cost it’s only worth $4.5B, right?
+Again, easy to get them to agree to this. They will be getting very suspicious of all the pat answers you
+are giving them but they are not far off here though.
+So it’s worth $4.5B and one cent, right?
+At this point they will feel so confused and stupid that they will be wary of you. A great candidate will
+confidently state yes but they are typically utterly demoralized at this point. But this is the
+“right” answer.
+Notes
+They often panic at the start as no real framework exists to answer this bar the simple market
+sizing at the start. It is a great conceptual thinking decision flow-chart what-if style question that
+rewards candidates for confident thinking on their feet. It can be a very hard case. The best
+candidates remain composed while bombing certain sections. This test of this case is to show
+grace under fire.

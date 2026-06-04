@@ -1,0 +1,36 @@
+{
+  "case_id": "Ross_2021_10_spice-up-your-life",
+  "school": "Ross",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2021.pdf",
+  "idx": 10,
+  "case_name": "Spice Up Your Life",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "PE & Food/Retail",
+  "difficulty": "2",
+  "pdf_page_start": 107,
+  "pdf_page_end": 117,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    109,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p109.png",
+    "exhibits/exhibit_p111.png",
+    "exhibits/exhibit_p112.png",
+    "exhibits/exhibit_p113.png",
+    "exhibits/exhibit_p114.png",
+    "exhibits/exhibit_p115.png",
+    "exhibits/exhibit_p116.png",
+    "exhibits/exhibit_p117.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2021\\10_spice-up-your-life"
+}

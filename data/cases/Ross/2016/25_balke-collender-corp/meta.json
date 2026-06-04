@@ -1,0 +1,38 @@
+{
+  "case_id": "Ross_2016_25_balke-collender-corp",
+  "school": "Ross",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2016.pdf",
+  "idx": 25,
+  "case_name": "Balke-Collender Corp.",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Chemicals",
+  "difficulty": null,
+  "pdf_page_start": 298,
+  "pdf_page_end": 308,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    298,
+    299,
+    301,
+    302,
+    303,
+    305,
+    306,
+    307,
+    308
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p298.png",
+    "exhibits/exhibit_p299.png",
+    "exhibits/exhibit_p301.png",
+    "exhibits/exhibit_p302.png",
+    "exhibits/exhibit_p303.png",
+    "exhibits/exhibit_p305.png",
+    "exhibits/exhibit_p306.png",
+    "exhibits/exhibit_p307.png",
+    "exhibits/exhibit_p308.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2016\\25_balke-collender-corp"
+}

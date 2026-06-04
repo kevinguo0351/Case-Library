@@ -1,0 +1,275 @@
+===== PDF p124 =====
+Funeral Homes
+Difficulty: Medium to Difficult
+Industry: Funeral Homes
+Case Type: Profitability, Interviewer-led
+Written by Vidisha Agarwal ‘21
+Concepts Tested
+Case #12 : Funeral Homes
+• Profitability
+• Logical thinking in obscure industry
+• Mental Math
+Our client is a private equity firm looking to acquire Funeral Co, a company operating 100 funeral homes in the US. The 
+client targets to grow Funeral Co’s EBITDA by 15% annually over five years. Should the client acquire Funeral Co?
+Problem Statement Narrative
+This case should be delivered in the McKinsey style if a candidate doesn’t have prior knowledge about funeral homes. 
+Spend more time on Question 2 if you’re looking to test more math skills or on Question 3 if you’re looking to test more 
+brainstorming skills
+Case Notes
+120
+
+
+===== PDF p125 =====
+Question #1 / Framework 
+Should the client acquire Funeral Co?
+Sample Framework
+Additional information will be given during the 
+framework / clarification phase and during the questions
+Guidance for Interviewer
+•
+There are 2 types of funeral ceremonies performed by 
+a funeral home: (1) burial and (2) cremation. Industry 
+trend is shifting towards more cremation.
+•
+Funeral homes have a high fixed cost structure.
+•
+Funeral homes industry is highly fragmented with 
+over 20,000 funeral homes scattered across US. 75-
+80% of the homes are owned and operated by 
+individuals or families though ~20-25% of the homes 
+are operated by private corporations
+•
+Only funeral home in the areas they operate in
+•
+The target is currently offering only burial services; 
+serving only Christians in small towns
+•
+Our client (PE firm) wants us to concentrate on 
+increasing EBITDA only, i.e. to double EBITDA in 5 
+years (15% IRR over 5 years = 2x) 
+Clarification Answers if  Asked 
+Funeral Homes
+1.
+Financial (EBITDA)
+a.
+Revenue
+i.
+Price per burial
+ii.
+Burials per year
+iii.
+# of locations
+b.
+Costs
+i.
+Fixed costs
+1)
+SG&A
+2)
+Rent
+ii.
+Variable costs
+1)
+Fuel
+2)
+Chemicals (formaldehyde)
+2.
+Funeral Home Market
+a.
+Competitors (in close proximity)
+i.
+Fragmented/ consolidated
+ii.
+Service differentiation
+b.
+Customers
+i.
+Changes in preferences
+ii.
+Segmentation by WTP
+c.
+Growth
+i.
+Are they located in an aging community?
+3.
+Opportunities to expand product offerings
+a.
+Burials vs cremation
+b.
+Value added services
+121
+
+
+===== PDF p126 =====
+Question #2
+Question
+Solution
+The target is currently offering only burial services with $6000 revenue earned per burial at 20% EBITDA margin. How 
+much EBITDA can burial services segment generate in the 5th year and how much extra EBITDA does Funeral Co need 
+to generate outside burial services by the end of PE firm’s holding period of 5 years?
+The candidate should:
+•
+First, calculate current revenue, costs and EBITDA for the target
+•
+Then, think of what these numbers will look like in the 5th year given growth in business
+•
+Finally, calculate the difference between target EBITDA and projected organic EBITDA in the 5th year
+Following information is to be shared when the candidate asks:
+•
+Current scenario: Total 100 locations and each location conducts 150 burial services per year
+•
+In 5 years: Number of locations will remain same. Volume will grow by 3% and Price by 2% per year. EBITDA 
+margin will remain at 20% for the target
+Solution: $90M in revenue and $18M in EBITDA generated currently. This implies that, if the PE firm wants to double 
+EBITDA, the target needs to generate $36M in EBITDA by 5th year (15% YoY growth over 5 years roughly equals 
+doubling of EBITDA in 5 years). Burial services segment can generate up to $23M in EBITDA organically by 5th year, 
+thus, FuneralCo needs to generate incremental EBITDA of $13M by 5th year
+Funeral Homes
+122
+
+
+===== PDF p127 =====
+Question #2 (continued)
+Solution
+Current state
+5 years fwd
+Company level
+Per burial
+Company level
+Revenue
+$  90,000,000 
+$   6,000 
+$  115,000,000 
+Gross Profit
+$  63,000,000 
+$   4,200 
+EBITDA
+$  18,000,000 
+$   1,200 
+$    23,000,000 
+Margin
+20%
+Target EBITDA
+$    36,000,000 
+Extra EBITDA
+$    13,000,000 
+Funeral Homes
+123
+
+
+===== PDF p128 =====
+Question #3
+Question
+Solution
+The target is wondering if they should introduce cremation services in the existing funeral homes, but revenue per 
+cremation is 33% lower than burial services. Should they pursue it? 
+Does the customer trend support or oppose the move? – Give Exhibit 1.
+Supports it. More customers want cremation services. Currently, customers are going to neighboring towns to get 
+cremation with services or they were doing basic cremations services at home if they didn’t want to go outside their town
+Does the target have the capabilities to introduce cremations? Yes, they can. Need to add only one employee per 
+location. No change to existing funeral home interior or design
+Is cremation profitable? Yes. Provide following data when asked:
+$4000 price per cremation. 70% Gross profit margin => $2800 Gross Profit per cremation
+Can do 50 cremations per year on average per location => $20M total revenue added
+No extra SG&A as you can utilize same resources
+Can cremation alone bridge the entire $13M gap? Yes
+Funeral Homes
+124
+
+
+===== PDF p129 =====
+Question #3 (continued)
+Question
+Company level
+Per cremation
+Revenue
+$  20,000,000 
+$      4,000 
+Gross Profit
+$  14,000,000 
+$      2,800 
+SG&A
+$          -
+$         -
+EBITDA
+$   14,000,000 
+$      2,800 
+Funeral Homes
+125
+
+
+===== PDF p130 =====
+Question #4
+Question
+Solution
+What else can Funeral Co do to bridge the EBITDA gap?
+Possible solutions:
+•
+Offer Direct cremation: Lower revenue; Can leverage existing employees; Very little cost or investment (can be derived 
+from exhibit 1); can reach steady state from year 3 onwards; Can add $3-4M in EBITDA in steady state
+•
+Hire labor on contractual basis: Currently, 130 days of idle time. Even with cremation, they will have 80 days idle. Can 
+save $4-5M per year in costs, but quality of service may go down
+•
+Increase value added services such as transportation of the bodies, pre-need sales (contract funeral arrangements 
+before death) working with lawyers or life insurance firms, offer services to non-Christians
+What options are not possible (but good if  the candidate can come up with these)
+Acquire more funeral homes: strict zoning laws prohibiting sale in most areas; other players unwilling to sell
+Increase funeral home locations: takes many years to build and ramp up. Outside the horizon of PE fund
+Increase pricing for just burial/ cremations: Pricing laws prohibit abnormal increases in prices
+Funeral Homes
+126
+
+
+===== PDF p131 =====
+Conclusion
+Reiterate the prompt’s question - Should NewCo invest in Widget A?
+•
+The target needs to add $13M in EBITDA to meet 
+the PE fund’s goal
+•
+The target can bridge that by introducing cremation 
+services. Can add to EBITDA by introducing direct 
+cremation/ lowering staff costs / increasing value 
+added services
+Recommendation
+•
+The target can add cremation services in existing 
+funeral homes with relatively low investment within 
+the 5 years horizon of the PE fund 
+Rationale
+•
+Target may not be able to reskill all employees to 
+provide cremation services, and may need to hire 
+more employees
+•
+Customers (Christians) may not prefer cremations and 
+burials being co-located
+•
+Management bandwidth will be divided if they offer 
+different services
+Risks
+•
+Survey of families who would usually conduct burials 
+if they are okay with cremations taking place in same 
+funeral home
+•
+Due diligence for target
+•
+Discuss valuation
+Next Steps
+Funeral Homes
+127
+
+
+===== PDF p132 =====
+Funeral Homes
+Exhibit #1 : Consumer Survey
+Target offering only 
+burial with services 
+currently
+Target can offer 
+cremation with 
+services in existing 
+funeral homes
+128

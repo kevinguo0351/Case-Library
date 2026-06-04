@@ -1,0 +1,38 @@
+{
+  "case_id": "Fuqua_2022_09_audio-inc",
+  "school": "Fuqua",
+  "year": "2022",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2022.pdf",
+  "idx": 9,
+  "case_name": "Audio Inc.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer/Health Tech",
+  "difficulty": null,
+  "pdf_page_start": 114,
+  "pdf_page_end": 127,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    118,
+    119,
+    120,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p118.png",
+    "exhibits/exhibit_p119.png",
+    "exhibits/exhibit_p120.png",
+    "exhibits/exhibit_p122.png",
+    "exhibits/exhibit_p123.png",
+    "exhibits/exhibit_p124.png",
+    "exhibits/exhibit_p125.png",
+    "exhibits/exhibit_p126.png",
+    "exhibits/exhibit_p127.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2022\\09_audio-inc"
+}

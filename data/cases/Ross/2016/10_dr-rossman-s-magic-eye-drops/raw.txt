@@ -1,0 +1,272 @@
+===== PDF p155 =====
+151
+ Your client, Dr. Rossman, has invented an amazing product; he has discovered the chemical formula 
+for Magic Eye Drops. One drop in each eye will cure short or long-sightedness in any patient.  
+ However, Dr. Rossman is a scientist, not a businessman, and has come to our firm because he wants 
+to sell the rights to his Magic Eye Drops to a business that will commercialize the invention. What 
+should his asking price be? 
+ Industry: Pharmaceutical/
+Medical Devices
+ Difficulty: Easy
+ Format: Pricing/Valuation
+ Concepts Tested: Net present 
+value, Estimation
+•
+Candidate should ask about patent duration and describe 
+some implications.
+•
+Candidate should ask about any known side effects or 
+risks.
+•
+Brainstorm other competitors or substitutes
+Case 10: Dr. Rossman’s Magic Eye Drops, Ross Original
+
+
+===== PDF p156 =====
+152
+Interviewer Guidance to Case and Exhibits
+•
+Dr. Rossman has secured an exclusive, 
+worldwide patent for the next 20 years. After 
+the patent expires, generic versions will quickly 
+be developed
+•
+No obstacles to regulatory approval
+•
+No known side effects or risks
+•
+Extra points for identifying laser surgery as the 
+closest competitor. But ask candidate to focus 
+on corrective lenses (glasses and contacts) as 
+competitors for this case
+•
+Focus on US market
+•
+Assume the discount rate is zero
+Clarifying Information on Request
+•
+Help candidate understand this is a valuation 
+problem. The candidate will develop a structure 
+to estimate NPV of future expected revenues 
+and costs.
+•
+To develop revenue projections, the candidate 
+will have to estimate the market size and the 
+optimal price. An illustrative example of market 
+sizing is given on next slide and an estimate of 
+revenue, including pricing, is given on next 
+slide.
+•
+Make the candidate brainstorm cost drivers. 
+Once the candidate has listed cost drivers, 
+provide him with the figures listed the following 
+cost/math slide.
+Clarifying Information and Case Guidance
+
+
+===== PDF p157 =====
+153
+Possible Framework
+Possible Framework
+Profit = Revenue – Costs
+Revenue:
+•
+Direct Sales
+•
+Partners - hospitals, eye care, pharmacies, eye 
+care product manufacturers
+•
+Market Size
+•
+Existing Customers
+•
+Industry Growth
+•
+Price:
+•
+Cost 
+•
+Competition
+•
+Value
+Competition:
+•
+Laser Therapy
+•
+Contact Lens
+•
+Glasses
+Costs:
+•
+Fixed Cost
+•
+Facility and Equipment
+•
+Approval and Licensing
+•
+Distribution
+•
+Marketing
+•
+Variable Cost
+•
+Materials/Production
+•
+Testing
+Customers:
+•
+Age Range
+•
+Market share
+•
+Adoption Rates
+
+
+===== PDF p158 =====
+154
+Market Sizing
+Math Questions and Solutions
+Age Group
+Population
+Rate of Sight Problems
+Rate of Adoption
+Market Size
+0-15
+50M
+20%
+10%
+1M
+16-30
+50M
+30%
+50%
+7.5M
+31-40
+50M
+40%
+50%
+10M
+41-60
+50M
+50%
+50%
+12.5M
+61-75
+50M
+60%
+40%
+12M
+75+
+50M
+75%
+20%
+7.5M
+~50M
+•
+Give candidate bonus points for thoughtful and creative explanations of the assumed rate of sight problems and 
+assumed rate of adoption within each segment (e.g., adoption among young and old patients will be lower because 
+parents will be unwilling to test out a new technology on young children whose eyes are still changing and elderly 
+patients with fewer years to live will realize fewer years of savings from not having to purchase new corrective lenses). 
+•
+Give candidate bonus points for recognizing that the market will grow over the course of the 20 year patent. If the 
+candidate raises this point, provide a projected annual growth rate of 3.5%. By the rule of 70, this means that the 
+market will double before the patent expires, resulting in a true market estimate of 100M consumers. 
+
+
+===== PDF p159 =====
+155
+•
+Candidate should weigh different pricing strategies: competitive, cost based and value based. For example 
+use competitive pricing, using corrective lenses as the relevant comparison price point.
+Pricing and Revenue Estimation
+Math Questions and Solutions
+•
+Based on personal experience, general knowledge or interviewer-provided information, the candidate should 
+assume an annual cost of corrective lenses at ~$200
+•
+Revenue over the life of the patent can be calculated as shown below:
+Market Size * Annual Value of Magic Eye Drops * Patent Life = Total Revenue 
+~100M Patients * $200 * 20 years = $400B 
+•
+The candidate may suggest factors that alter the price point – such as convenience (suggesting a higher price 
+point) and riskiness (suggesting a lower price point). The interviewer should accept reasonable alterations. 
+•
+The solution’s assumption of 20 years of revenue assumes that all customers will purchase as soon as the 
+product comes on the market. The candidate may reasonably adjust the years of revenue downward to 
+account for some customers waiting several years before purchasing. 
+•
+Make sure that the candidate understands that we will disregard discount rates for the purposes of 
+this case. In other words, assume a discount rate of 0%. 
+Solution
+
+
+===== PDF p160 =====
+156
+•
+Candidate should brainstorm types of costs. Then interviewer should provide the below details
+Costs
+Math Questions and Solutions
+Interviewer should provide
+Candidate should calculate
+Cost 
+Total
+•
+Operating Costs
+$100M * 20 yrs
+2B
+•
+Marketing
+$150M/year for first 10 years
+$50M/year for last 10 years
+•
+Production
+$20 per drop
+$20 * 2 eyes * 50M     
+2B
+Patients
+•
+Distribution
+$100M per year
+$100M * 20 yrs
+2B
+•
+Management/Overhead 
+33% of operating costs
+1/3 * 6B
+2B
+(i.e. 33% of Marketing + 
+Production + Distribution)
+Total
+= 8B
+Solution
+
+
+===== PDF p161 =====
+157
+Recommendation
+•
+Dr. Rossman should put the invention up for sate at 
+~392 B (400 B -8B in costs). Sales could however 
+continue even after patent expiration
+Risk Factors
+•
+Another substitute/improved product may be invented
+•
+Exclusive patent wont’ stop pirating in all countries
+Recommendation
+Conclusion
+•
+Star candidates will drive the estimations and justify their reasoning
+•
+Excellent candidates will also hit all the side points such as realizing there is a discount rate, a growing 
+population and rule of 70, free market generics after the patent expires. r
+Excellent Case Answers
+•
+Solicit buyers
+•
+Focus on strategic acquirers
+•
+Attempt to start a bidding war
+•
+Speak at conferences
+Next Steps

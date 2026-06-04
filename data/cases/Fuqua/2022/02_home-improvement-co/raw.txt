@@ -1,0 +1,455 @@
+===== PDF p36 =====
+Home Improvement Co.
+21
+Industry:                  Retail
+Case Type:     
+Profitability
+Led by:            
+Interviewee
+Case Level:   
+Easy
+
+
+===== PDF p37 =====
+Behavioral Questions
+22
+• Describe a time you had to deliver bad news to a client, manager, or superior. How 
+did you approach it?
+Question 1:
+• Tell me about a time where you had to work in an ambiguous environment? How did 
+you approach it?
+Question 2:
+
+
+===== PDF p38 =====
+Home Improvement Co.
+23
+• Home Improvement Co. is a major home improvement retailer in the U.S. that sells tools, 
+construction products, appliances, and services. Since 2020, the company has struggled to hit 
+their profitability targets and are looking for possible solutions.
+• Our client, the CFO of the company, has hired us to come up with a plan reverse this trajectory 
+and return the company to its profitability level from 3 years ago.
+Prompt #1:
+• Background information to be divided into these categories–
+– Client/Company: $50B in Revenue in 2021. 3 distribution channels: In-store, buy online pick-
+up in-store, deliver to home.
+– Industry/Competition: The improvement retail industry has been experiencing growth the 
+last few years as consumers are spending more time at home with the pandemic and 
+focusing a bigger share of their budget on home projects.
+– Value Chain: Home Improvement Co. has dozens of suppliers for each category they sell in. 
+Due to world supply chain constraints and increased demand, the lead time for lower turnover 
+products has increased dramatically.
+– Goal: Reach the same level of profitability of 3 years ago (2019)
+– Market:Only the U.S.
+Case Background:
+
+
+===== PDF p39 =====
+Home Improvement Co.
+24
+• See below for an example of MECE buckets, interviewee may have different buckets.
+Framework Buckets:
+Financial 
+Considerations
+Market and 
+Global Trends
+Customer Needs
+Revenue
+•
+Δ # of units sold
+•
+Δ Average price of units 
+sold
+Costs
+•
+Fixed costs: Rent, 
+Overhead, Insurance, 
+Vehicle Leases, SG&A 
+•
+Variable costs: 
+Materials, Labor, other 
+COGS
+•
+Number of major 
+competitors and their 
+recent performance
+•
+New technology in the 
+market and its impact on 
+overall market trends
+•
+Global supply chain 
+considerations
+•
+Look at how general 
+inflation is playing a part
+•
+Changes in customer 
+preferences during the 
+pandemic
+•
+Changes in overall 
+number of customers
+•
+Customer share-of-
+wallet over the last 3 
+years
+
+
+===== PDF p40 =====
+Brainstorm #1
+• Before we deep dive into our analysis, 
+what could be drivers for decreasing 
+profitability?
+• Brainstorming should be structured and 
+contain some of the following:
+– Decreasing Revenue
+•
+Decreasing quantity of units sold
+–
+Due to decreasing purchase power of 
+customers or customers being more cautious 
+about expenditures
+•
+Decreasing average price of units sold
+–
+To stay competitive, Home Improvement Co. 
+decreased prices (price war against 
+competitors)
+•
+Decreasing number of customers
+–
+Due to sell-outs, long wait times for orders, 
+etc.
+– Increasing Costs
+•
+Variable costs
+–
+Increase in materials supply costs due to 
+worldwide supply shortage
+–
+Increase in wages due to worker shorter and 
+decreased worker safety during the pandemic
+•
+Fixed costs
+–
+Increase in overhead costs to stay competitive 
+against competitors
+25
+Prompt:
+Analysis:
+
+
+===== PDF p41 =====
+Exhibit #1
+26
+*in billions of US dollars
+28
+36
+45
+35
+42
+50
+2019
+2020
+2021
+Costs
+Revenue
+Revenue and Costs (2019-21)
+
+
+===== PDF p42 =====
+Interviewer guidance on Exhibit #1
+• If candidates do not explore revenue and 
+costs on Brainstorming, push them to do 
+so.
+• After that, hand them exhibit #1 and ask 
+them which conclusions can be drawn. 
+• If candidates, after calculating year 
+profits, do not mention shrinking profit 
+margins, push them to analyze it. They 
+should calculate profit margins for 2021 
+and 2019 (since this is our benchmarking 
+year).
+• Analysis for the exhibit to have 2 parts –
+– Basic
+•
+Candidate should immediately notice that both 
+revenue and costs went up in the last two 
+years.
+•
+Despite that, costs increased more than 
+revenue, reducing profits from $7B in 2019 to 
+$5B in 2021.
+– Second order insights
+•
+A strong candidate will notice that besides 
+decreasing profits ($2B decline in 2 years), 
+profit margins shrunk aggressively:
+2019 profit margin: 20.0%
+2020 profit margin: 14.28% (as 6/42 is 1/7) 
+2021 profit margin: 10.0%
+Candidates can estimate 2020 profit margin as 
+needed
+Profit Margin: (Revenue-costs)/Revenue
+27
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p43 =====
+Exhibit #2
+28
+*in billions of US dollars
+6
+8
+8
+5
+6
+8
+5
+6
+8
+12
+16
+21
+2019
+36
+2020
+2021
+28
+45
+COGS
+Rent
+Marketing
+Salaries
+Cost Breakdown (2019-21)
+
+
+===== PDF p44 =====
+Interviewer guidance on Exhibit #2
+• After understanding that increasing costs 
+is the driver of decreasing profitability, 
+candidates should ask for more 
+information on costs. 
+• Show them this exhibit only when 
+prompted.
+• Candidates should calculate absolute and 
+percentual change of costs in 2021 vs 
+2019.
+• Analysis for the exhibit to have 2 parts –
+– Basic
+•
+Candidate should notice that exhibit #2 is a 
+breakdown of costs.
+•
+Even though costs increased across the 
+board, the main driver of cost increase is 
+COGS. 
+– Second order insights
+•
+COGS is the cost that increased the most 
+($9B, or 75%). Besides that, COGS alone 
+represent an increment of 53% of costs in the 
+past two years (=9/17)
+29
+Exhibit #1 Guidance:
+Analysis:
+2019
+2021
+Absolute change Percentual change
+COGS
+12
+21
+9
+75%
+Rent
+5
+8
+3
+60%
+Marketing
+5
+8
+3
+60%
+Salaries
+6
+8
+2
+33%
+Total
+28
+45
+17
+61%
+
+
+===== PDF p45 =====
+Brainstorm #2
+• What are the reasons for increased 
+COGS in the last few years and how can 
+Home Improvement Co. work to decrease 
+them?
+• Some things the interviewee should 
+mention:
+–
+As supply is running short and demand is 
+increasing with the recent growth of home 
+improvement retailers, raw material may be 
+overvalued
+–
+If Home Improvement Co. is losing market share to 
+its competitors or its competitors are outpacing its’ 
+growth, suppliers may be raising prices
+• Reason for increased COGS
+– External Factors
+•
+Global Supply Chain shortage
+•
+Loss of bargaining power
+– Internal Factors
+•
+As Home Improvement Co. quickly grows, it 
+may be facing difficulties to find qualified labor
+•
+To suppress this need, Home Improvement 
+Co. might have invested in more expensive 
+production methods
+• How to Decrease COGS
+– Dealing with External factors:
+•
+Renegotiate agreements with suppliers with 
+minimum SLA and long-term fixed price 
+adjustments
+•
+Invest on verticalization and produce own raw 
+materials
+– Dealing with Internal factors:
+•
+Invest on a Training and retaining talent 
+program
+•
+Negotiate new technologies to decrease 
+production costs
+30
+Prompt:
+Analysis:
+
+
+===== PDF p46 =====
+Exhibit #3
+31
+*in billions of US dollars
+2019
+2020
+2021
+2022
+Revenue
+35
+42
+50
+(+20%)
+COGS
+12
+16
+21
+?
+Rent
+5
+6
+8
+(+25%)
+Marketing
+5
+6
+8
+(+25%)
+Salaries
+6
+8
+8
+(+25%)
+
+
+===== PDF p47 =====
+Interviewer guidance on Exhibit #3
+32
+32
+• The CFO agrees that increased COGS are driving profit margins down. After the second 
+quarter business plan review, the board of Home Improvement Co. can say with confidence 
+that revenue will keep growing strongly, as will fixed costs.
+• Considering that Revenue will increase 20% vs 2021 and Rent, Marketing and Salaries 
+will increase 25% vs 2021, what is the maximum value that the company can spend on 
+COGS?
+• Note: The solution will be to dramatically change the relationship with suppliers if Home 
+Improvement Co. wants to reach 20% of profit margin.
+Prompt/Guidance:
+• The maximum value that Home Improvement Co. can spend on COGS in the year of 2022 to 
+reach profit margin of 20% is $18B.
+• Profit Margin:
+(Revenue-costs)/Revenue
+Analysis:
+2019
+2020
+2021
+2022
+Revenue
+35
+42
+50
+60
+COGS
+12
+16
+21
+18
+Rent
+5
+6
+8
+10
+Marketing
+5
+6
+8
+10
+Salaries
+6
+8
+8
+10
+Profit margin
+20%
+14.3%
+10.0%
+20.0%
+
+
+===== PDF p48 =====
+Home Improvement Co.
+• The CFO met you in the Hall of Flags 
+chatting with your fellow associate 
+consultants and told you she is more 
+excited than ever to hear your 
+recommendations. 
+• In order to bring back profit margin to 2019 
+levels, Home Improvement Co. has to decrease 
+COGS to $18B.
+• To do so, we recommend that the company 
+renegotiate agreements with defined SLAs and 
+price adjustments and invest in new technology 
+to reduce production costs.
+• Some risks associated with this strategy is 
+suppliers not being able to change SLAs due to 
+an aggravation of the world supply chain crisis 
+and that our fixed cost investment in new 
+technology is ineffective.
+• To mitigate this risk, it is important that we map 
+potential suppliers to meet our needs and that 
+we draw a verticalization plan in case we need 
+to integrate part of the production process into 
+our supply chain.
+33
+Prompt:
+Analysis:

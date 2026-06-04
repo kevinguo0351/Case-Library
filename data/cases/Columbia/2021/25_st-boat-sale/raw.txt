@@ -1,0 +1,200 @@
+===== PDF p234 =====
+ST Boat Sale
+Difficulty: Easy
+Industry: Transportation
+Case Type: Opportunity Assessment
+Concepts Tested
+Case #25: ST Boat Sale
+• Creativity
+• Math
+• Clarifying Questions
+Our client owns a boat, and he wants to know if they should sell it or not
+Problem Statement Narrative
+The prompt is short on purpose. Candidate should ask several clarifying questions in order to understand the business 
+situation and come up with a tailored framework
+Case Notes
+230
+
+
+===== PDF p235 =====
+ST Boat Sale
+1.
+Financial analysis
+a.
+NPV or similar analysis around the valuation 
+of the Supertanker
+b.
+Discount rate (not part of the case but should 
+be included)
+c.
+Revenues
+d.
+Costs
+e.
+Book value of boat
+f.
+How much invested
+2.
+Shipping Market
+a.
+Size 
+b.
+Growth
+c.
+Competitors
+d.
+Clients
+3.
+Opportunity cost / alternatives to selling
+a.
+What would client do with money?
+b.
+Alternatives to current operations?
+4.
+Other considerations
+a.
+Retirement for client?
+b.
+Personal connection to boat?
+Sample Framework
+Answer clarifying questions as asked. If none are asked, 
+you might hint at what is important
+Guidance for Interviewer
+•
+What type of  boat is this? Client owns a 
+supertanker
+•
+What does the boat do/what is it used for? Oil 
+transportation. Sails empty to Russia, picks up crude 
+oil, and ships it back to the Netherlands. The clients 
+pay him for the transport
+•
+Who is interested in buying this boat? Container 
+ship company is interested in the boat
+•
+What is the capacity? 50,000 tonnage, can transport 
+anything
+•
+What is the boat’s useful life? 13 years old, 25 
+useful life
+•
+What are the specs? Tech specs same as stuff in the 
+market
+Clarification Answers if  Asked 
+Question #1 / Framework 
+Should your client sell their boat?
+231
+
+
+===== PDF p236 =====
+What is the boat’s annual revenue?
+ST Boat Sale
+Question #2
+Question
+Solution
+Provide the candidate with the following data, with which he/she should calculate Annual Revenue:
+•
+$0.80 / ton / day of sailing
+•
+100% utilization
+•
+10 days sailing time with the cargo
+•
+2 days to load
+•
+1 day to unload
+•
+20 days of annual maintenance
+First, candidate should calculate how many trips the boat does in 1 year. Should do: 365 – 20 = 345 available days. It takes 
+23 days for a complete trip (10 to go, 2 to load, 10 to come back, 1 to unload). So 345 / 23 = 15 full trips
+Annual revenue = $0.80 x 10* x 15 x 50,000 = $6 M
+*you only charge for those days in which the boat is sailing with cargo
+Additional (bonus) brainstorming question: What could influence the number of sailing days? Lack of supply / demand, 
+Bad weather / natural disaster, War, Pirates, Bottlenecks at port
+232
+
+
+===== PDF p237 =====
+What is the annual cost? And hence the total annual profit?
+ST Boat Sale
+Question #3
+Question
+Solution
+Provide this additional data and have the candidate calculate the annual cost. For an additional twist, you can ask the 
+candidate to brainstorm on what he/she thinks the costs associated with running a boat are, and then provide these:
+•
+$8,000/round trip on Fuel
+•
+$20,000/round trip on Docks, tariffs, etc.
+•
+$6,000 per crew member per round trip
+•
+12 crew members
+•
+$25,000/day for ship maintenance
+Annual cost = (8k + 20k + 6k x 12) x 15 + (25k x 20) = $2M
+Hence, annual profit = $6M - $2M = $4M
+233
+
+
+===== PDF p238 =====
+How much is a potential buyer willing to pay?
+ST Boat Sale
+Question #4
+Question
+Solution
+Now that we have annual profit, how would you value the boat?
+Remaining life: 12 years. So value could be 12 x 4M = $48M
+NOTE: This is assuming a 0% discount rate
+How do we know that this value is accurate? Brainstorm with the candidate. Response should be around benchmarking 
+against similar boats in the market. Then provide this data for candidate to calculate what a boat of the same 
+characteristics is worth.
+•
+Brand new ship is $150M
+•
+Same tech specs
+•
+25 year useful life
+Value: A brand new ship depreciates $6M/year (150M/25). So a 13-year-old ship would be worth $72M. 
+What do you think of this? Why would someone pay $72M for a boat that can generate only $48M? 
+Candidate should brainstorm and come up with ideas as to why. The key is that the boat is traveling empty from the 
+Netherlands to Russia – loading it would almost double the profit. There’s other ideas that candidate can give as well.
+234
+
+
+===== PDF p239 =====
+Conclusion
+Recommendation
+Rationale
+Risks
+Next Steps
+•
+Client shouldn’t sell the boat because they can earn 
+$96M over the remaining lifetime of the boat but 
+they are being offered only $72M
+•
+This assumes a 0% discount rate, which the candidate 
+can disagree with
+Possible reasons to sell:
+•
+A buyer can extract more value
+•
+Client doesn’t wan to operate boat any longer
+•
+Opportunity cost
+•
+No buyers on the market in the future if want to sell
+•
+Future income not guaranteed
+•
+Operational overhaul needed
+•
+Understand operational changes that are needed to 
+make keeping the boat worthwhile
+•
+Develop relationships with new clients
+•
+Could renegotiate with buyer if they are willing to 
+increase offer
+ST Boat Sale
+235

@@ -1,0 +1,427 @@
+===== PDF p61 =====
+Skooters
+46
+Industry:                  Hospitality
+Case Type:     
+Profitability/Growth
+Led by:
+Interviewee
+Case Level: 
+Medium
+
+
+===== PDF p62 =====
+Skooters
+47
+• Skooters is a popular nightclub in Durham, NC. The establishment attracts students 
+and young professionals year-round and is especially favored by Duke students. It 
+boasts a well-established in-house DJ and a wide variety of snacks and beverages. 
+However, since 2020, Skooters has been facing declining profits. Their management 
+has approached you to analyze the reasons for Skooters declining profits and 
+develop suggestions to reverse this trend.
+Prompt #1:
+– Skooters has two primary sources of revenue: 1. Entry fees of $10 per person 2. 
+Beverages and Food
+– Their goal is to reverse the trend of declining profitability and restore profit 
+levels to those of 2019
+– There is one other large competitor in Durham as of now: Froot. We have limited 
+information on their profitability as of now.
+– Skooters is open all days of the week from 7pm to 2am. However, it is busiest on 
+Fridays and Saturdays.
+– The menu consists of popular bar foods such as fries and nachos. Other popular 
+attractions include upstairs seating and pool tables.
+Case Background:
+
+
+===== PDF p63 =====
+Interviewer Notes for framework
+48
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional)
+Framework Buckets:
+Revenue
+Cost
+Market
+Number of visitors
+•
+Peak vs. Non-peak times
+•
+Weekday vs weekend
+•
+Age-groups and professions
+Number of visits / year
+•
+Repeat customers, frequency
+Average spend / visit
+• Share of revenue
+• Entry fee
+• Food
+• Beverages
+• Other activities 
+(gaming, photographs etc.)
+*bonus marks for bringing in nuances 
+like group discounts, special events 
+etc.
+Fixed costs: 
+•
+Rent
+•
+Marketing
+•
+Staff salaries
+•
+maintenance
+•
+Equipment (sound systems, etc.)
+•
+Liquor license
+•
+Utilities
+Variable costs: 
+•
+Food and beverages
+Industry trends 
+•
+nightlifemarket in Durham
+•
+Competitors (strategies, are they 
+experiencing similar decline?)
+•
+Substitutes (karaoke, house parties etc.)
+•
+Legal restrictions
+Consumer 
+•
+changing preferences (of music, 
+nightlife etc.)
+•
+price sensitivity
+Interviewee should lead discussion towards revenue and cost analysis
+
+
+===== PDF p64 =====
+Exhibit #1
+49
+Skooters operating revenue and costs unaudited (in millions)
+2021
+2020
+2019
+2018
+Operating Revenue
+Ticket revenue
+1.5
+2
+2.5
+2.4
+Non-ticket revenue
+2.3
+2.9
+3.8
+3.5
+Operating Costs
+SG&A
+1.8
+1.7
+1.8
+1.6
+COGs (food & 
+beverages)
+1.6
+2
+2.7
+2.5
+
+
+===== PDF p65 =====
+Interviewer guidance on Exhibit #1
+First-order insights:
+•
+Declining profitability is a revenue issue and not a cost issue
+•
+Both ticket and non-ticket revenues are declining (at similar 
+rates)
+•
+Profitability needs to improve from 11% currently to 29% 
+(same level as that of 2019)
+•
+SGA remains relatively constant while cost is declining due to 
+COGs
+Second order insights
+•
+Non-ticket revenue is roughly 1.5x that of ticket revenue 
+indicating that 60% of Skooters'revenues come from food, 
+beverages and/or other activities
+•
+COGS for food and beverages remain proportionate to non-
+ticket revenue over the years.
+•
+Given that revenue has been decreasing at a similar rate 
+across ticketed and non-ticketed revenue, it may be 
+that number of visits are declining
+50
+Exhibit #1 Guidance:
+Analysis:
+2021
+2020
+2019
+2018
+Operating Revenue
+Ticket revenue
+1.5
+2
+2.5
+2.4
+Non-ticket revenue
+2.3
+2.9
+3.8
+3.5
+Total Revenue
+3.8
+4.9
+6.3
+5.9
+Operating Costs
+SG&A
+1.8
+1.7
+1.8
+1.6
+COGs (food & 
+beverages)
+1.6
+2
+2.7
+2.5
+Total costs
+3.4
+3.7
+4.5
+4.1
+Net income
+0.4
+1.2
+1.8
+1.8
+Profitability
+11%
+24%
+29%
+31%
+Candidate should use available information to calculate 
+net income and profitability. They should identify from the 
+prompt that the goal is to return to 2019 profitability of 
+29% from current 11%.
+There is no need to calculate 2018 given that the goal is 
+2019, and the prompt specifies that profitability has been 
+dropping since 2020. Candidates should identify this and 
+can clarify with the interviewer.
+Non ticket revenue = revenue from food and beverages
+
+
+===== PDF p66 =====
+Exhibit #2
+51
+Revenue Breakdown per customer (2021)
+Froot is Skooter’s primary competitor in Durham and opened in early 2020. It has a similar business model with primary 
+revenue streams coming from entry fees, alcohol and food. Fruit had a total revenue of $4.9Mn in 2021.
+40%
+29%
+50%
+61%
+10%
+10%
+Skooters
+Fruit
+Beverages
+Food
+Entry Fee
+
+
+===== PDF p67 =====
+Interviewer guidance on Exhibit #2
+•
+Interviewee should quickly identify missing information 
+required to calculate where the fall in revenue is coming 
+from, as compared to the Froot
+•
+When they request the interviewer for this 
+information, let them know that the information at hand 
+is only that there were 126k total visitors at Skooters in 
+2021, and 196k at the Froot (these are total visitors and 
+not unique visitors; if one person visits twice, the visitors 
+count is 2)
+•
+With this information and total revenue from exhibit 1 
+(for Skooters) and the footnote in exhibit 2 (for Froot), 
+they should be able to calculate:
+–
+Skooters revenue per person: $30
+–
+Froot’s revenue per person: $25
+•
+encourage candidates to round to $30 and $25
+Based on the per person revenue, candidates can 
+calculate that beverage and food expenditure per person 
+remain similar across both establishments, but total 
+number of visitors are falling (as they are going to the Froot 
+where tickets are cheaper)
+52
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p68 =====
+Exhibit #3
+53
+Having identified that a higher entry fee is reducing number of visits (and
+consequently revenue), Skooters has decided to reduce its entry fee for one of its
+target segments. The reduction will be such that the entry fee for that segment will
+be equivalent to that of the Froot. Which segment would you recommend it gives
+this discount to?
+Segment
+Size of 
+segment
+Visits per 
+person
+Current Market 
+share
+Post-discount 
+market share
+Duke
+14,000
+9
+50%
+60%
+UNC
+30,240
+5
+25%
+50%
+Young Professionals
+63,000
+12
+2%
+11%
+We can assume operating costs will be $3.8 million for the year, irrespective of which segment the discount is given to
+
+
+===== PDF p69 =====
+Interviewer guidance on Exhibit #3
+•
+When interviewee asks, clarify that the discount to entry fees 
+(new entry fee = $7 per person from exhibit 2) will only impact 
+the market share. It will not increase number of visits per 
+person or expenditure on beverages and food
+•
+Push the interviewee to calculate revenue lost and then 
+revenue gained for each segment
+•
+Interviewee should remember to take ticket prices from 
+previous exhibit
+•
+A common mistake while calculating is to disregard food and 
+beverage expenditure when calculating incremental revenue 
+gains
+Revenue lost is calculated by multiplying the reduction in ticket prices 
+($5) by number of current visits (Total size of segment *current market 
+share* number of visits per person)
+Revenue earned is calculated by multiplying incremental market 
+share* Total size of segment *number of visits per person * $25 
+revenue per person (new ticket prices of $7 + original beverage and 
+food prices from exhibit 2 of $18)
+Then, subtract revenue lost from revenue gained to identify which 
+incremental revenue from each segment
+Young professionals should be given discount
+With this in mind, we can add the incremental revenue to the revenue 
+from exhibit 1 ($3.8Mn) such that we have a total revenue of $5.4Mn 
+and operating costs (from footnote) of $3.8mn such that new 
+profitability is 29% (which is the 2019 level)
+54
+Exhibit #3 Guidance:
+Analysis:
+Segment
+Total size of 
+segment
+Visits per 
+person
+Current 
+Market share
+Post-
+discount 
+market share
+Incremental 
+visits
+Revenue 
+earned
+Revenue lost
+Incremental 
+revenue
+Duke
+14,000
+9
+50%
+60%
+12,600
+315,000
+315,000
+0
+UNC
+30,240
+5
+25%
+50%
+37,800
+945,000
+189,000
+756,000
+Young 
+Professionals
+63,000
+12
+2%
+11%
+68,040
+1,70,1000
+126,000
+1,57,5000
+
+
+===== PDF p70 =====
+Brainstorming
+• In addition to offering a 50% discount to 
+working professionals, what are some 
+potential ideas to increase revenues from 
+this establishment
+Spend per visitor:
+• Offers on 2+ beverages 
+• Wider menu 
+• Parking fees
+• Discounted weeknight entry
+• Loyalty programs for frequent visitors
+• Arcade games / photo booths
+Number of visitors:
+• Marketing
+• Tie-ups for school events
+• Wider variety of music / activities (eg: 
+potentially hosting concerts etc.)
+• Open during afternoons 
+55
+Prompt:
+Analysis:
+
+
+===== PDF p71 =====
+Skooters
+56
+• Recommend reducing ticket price to $7 for young professionals – helping us achieve 
+profitability target of 29%
+Recommendation 
+• Risks –
+– Fruit lowering prices further
+– Additional establishments opening in nearby areas
+– Reduction in young professional population in nearby areas due to remote working flexibility
+• Next Steps –
+– Check effectiveness of discount by piloting the discount once every two weeks
+– Chalk out execution plan for other avenues (as in brainstorm) to increase traffic
+Risks and Next Steps:

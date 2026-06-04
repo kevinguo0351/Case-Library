@@ -1,0 +1,207 @@
+===== PDF p113 =====
+I 
+' 
+20. Utility company (Bain) 
+Stem 
+Our client is the sole utility provider in Washington state. It is regulated by the government, 
+which allows it to emn a maximum of 10% of assets as income. Our client's capacity is IM 
+megawatt hours (Mwh) per year. 
+The govemment recently mandated that our client generate I 0% of its capacity fi·om renewable 
+sources. The company has two options: I) buy green credits from a 3'd party and 2) set up a wind 
+farm 
+What should our client do? 
+l't phase: Economics of each option 
+Behind the scenes: Let the interviewee come up with a fl"amework, which should emphasize 
+evaluation of costs/benefits for each option. Competition or market issues should not be relevant 
+since the client is a heavily regulated monopoly. Ideally, the framework should address internal 
+capabilities. 
+Example slatting fl"amework: 
+Wind 
+Upfrot"lt costs 
+•Land 
+.. Cotostruction 
+• Equipn"lent 
+... Trnns1nfsslon Systo.=n'l 
+Ongoil"lg costs 
+.. 
+Sene-fits 
+I Cost I Benefit 
+I 
+.. Increase revenue potentl.,.l 
+tovith asset base: growth 
+• Grot:en pe.rct:ptlon it"! 
+Risks 
+,. 
+of VJ!nd 
+I disruptive tedmologles 
+I 
+Credits 
+Upfront costs 
+• Tr:adfng 
+• New technologies (lT} 
+Or.goj-ng COSH: 
+• Credits 
+.. Staff 
+Benefits 
+• flexibility 
+.., No c-apt tal costs 
+Risks 
+• No reliable ma-rket 
+I 
+• Limited information on value: 
++Future suj>ple uni:J"IOWn 
+... etc. 
+Suggest focusing on costs for this first part of the interview; ask the interviewee what they would 
+like to know about costs. 
+IntervieJver: What wonld yon want to know to analyze the options? 
+2008-2009 Case Book 
+108 
+
+
+===== PDF p114 =====
+Possible Answers: 
+Wind fam1 
+• Cost of building wind fam1s ($2,000 per Mwh) 
+• 
+Life of wind fann (30 years) 
+• 
+Maintenance cost (assume $0 for simplicity) 
+Credits 
+• 
+Cost of credits ($20 I megawatt hour) 
+• 
+Change in credit costs over time (price has increased from $5 I Mwh two years 
+ago) 
+· 
+Interviewer: 
+For each option, could you figure out how much it would cost the client a year to fulfil the 
+government's mandate? [Note- ideally candidate will proactively volunteer to go in this 
+direction] 
+Possible Answers: 
+Renewable source requirement is 10% 7 either purchase green credits for 100,000 Mwh or build 
+a wind farm with that capacity 
+1) Green credit: 100,000 x $20 =$2M 
+2) Wind fann: 100,000 x $2,000 +30 years= $6.7M (assuming straight-line depreciation) 
+Interviewer: Assume the of implementing either option is absorbed entirely by the consumers 
+through rate hikes. If the client buys green credits, utility rate charged to the consumers will be 
+increased from $0.10 to $0.11. 
+What could we expect the rate to be if the client were to set up a wind fann? 
+Possible Answers: For green credit purchase, $2M in cost translates into a 10% increase in rate. 
+The wind farm costs $6.7M 7 the rate would be $0.133 = ($6.7MI$2M) x 10% x $0.10 + $0.10 
+Interviewer: Can you comment on profitability implications of each option? 
+Possible Answers: Under option 1, which is to purchase the green credits, we know that all costs 
+would be absorbed by the consumers so profitability would be unchanged. This is certainly true 
+for building a wind fann as well, but what's interesting is that our asset base has increased due to 
+the CapEx investment for the wind fann. This would lead to a bigger allowance for income 
+eamed (under the rule ofmaximum10% of total assets) 
+2"d phase: Qualitative assessment 
+Behind tlte scenes: This section focuses on qualitative benefit/risk profiles of each option. It 
+would be great if the interviewee suggests going down this path, but it's fine to ask the question 
+lillill
+I 
+•' • 
+. 
+..., 
+. 
+2?'!
+-
+
+
+===== PDF p115 =====
+' ;r< 
+directly as well. Ideally, the interview would include intemal capability factors, green factors, 
+and governmental view 
+J 
+Interviewer: What do you think are the most important pros and cons of each option? 
+Possible Answers: 
+Option 
+Pros 
+Cons 
+Green Credits 
+-
+Limited capital commitment 
+-
+Exposure to market 
+-
+Easy and quick to implement 
+uncmtainty ( 400% increase in 
+-
+Easy to scrape if regulation 
+price in the last two years 
+changes 
+from $5 to $20) 
+0 
+May not be able to 
+pass all costs to 
+consumers in the 
+future 
+-
+Quick fix (not actually green 
+power source in the state) 
+Wind Farm 
+-
+Improve company's image by 
+-
+Large upfront investment 
+being green (taking big step) 
+-
+Require additional expettise 
+0 
+To consumers 
+and intemal capabililties to 
+0 
+To govemment 
+develop 
+-
+Create more jobs for the state 
+-
+Risk of investment becoming 
+by 'essentially setting up a new 
+obsolete if gov't 
+business 
+requirement 
+-
+Potentially earning more 
+income now that total assets 
+are bigger (i.e., get more for 
+the 10% cap on eamings on 
+assets) 
+Interviewer: What mtght the govemment not hke about bmldmg a wmd farm? 
+Possible Answers: Although it is green, it results in a higher rate hike (officials who are under 
+political pressure may not like this). On top ofthat, being able to eam more income now that 
+total assets are bigger, the client may push to sell more electricity, which may conflict with the 
+govemment' s goal of limiting energy consumption. 
+Wrap-Up 
+Behind the scenes: The ideal answer is a hybrid modeL However, it is fine to pick either option 
+as long as the interviewee gives compelling reasons. 
+Interviewer: So, what would you recommend? 
+2008-2009 Case Book 
+110 
+
+
+===== PDF p116 =====
+Possible Answers: 
+1) Hybrid model: Look into buying green credits to fulfil the requirement in the short term 
+and investigate the possibility of building a wind fam1 
+o 
+This is superior because the company has an option of switching to the wind farm 
+if credit price goes up 
+o 
+The company can buy time to develop intemal capability to build a wind farm 
+2) Wind fa!Ul 
+o 
+Sustainability is increasingly becoming an important issue so risk of regulation 
+being reversed is very small 
+• 
+More environmentally friendly and will generate positive PR 
+• 
+Could be used to make existing operation more efficiently (i.e., add capacity 
+during peak hours) to mitigate effect of higher rate hike 
+
+
+===== PDF p117 =====
+I 
+I 
+
+
+===== PDF p118 =====

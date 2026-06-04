@@ -1,0 +1,119 @@
+===== PDF p114 =====
+Table of Contents 
+ 
+110
+Practice Case 49: Integrated oil company  
+(Mckinsey - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:    
+ 
+The client is an integrated oil company and controls the entire supply 
+chain from oil wells to gas stations. They have discovered a new 
+automobile fuel that will increase mileage by 30%. It will also cost 
+10% more to produce the fuel. The fuel is similar to the old fuel in 
+every other way. 
+ 
+What should they do with the new fuel? 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+There are 5 players in the industry (including our client). They all have 
+equal market share. 
+• 
+The interviewer asked me to guesstimate what the demand would be like. 
+One approach ñ the population of the country is about 300M, with 4 
+people to a household, that makes it 75M households. With one car to a 
+household, it makes it 75M cars. At 20 gallons per week, the weekly 
+demand is about 1500M~1.5B gallons/week 
+• 
+No special environment concerns or advantages from the new fuel. 
+• 
+Under no circumstances can the client capture more than 10% of the 
+market due to capacity constraint 
+• 
+Margins on old fuel are 10% 
+ 
+Complication if the interview is going well 
+• 
+What if there were two distinct markets? ñ The private sector and the 
+Government? Assume that the government buys 10% of the total market 
+capacity and buys equally from all players. Should you sell only to the 
+government? What effect would it have on prices? 
+ 
+III. Sample Solution:    
+Note to the case giver: The case per se does not have a conclusive solution; 
+it is intended to test the ability of the interviewee to integrate and look at 
+different issues with the same case. Some of the specific issues that I got to 
+discus I my interview ñ  
+ 
+The basic framework I laid out at the beginning was to say that I would go 
+through the various issues of  
+• 
+Demand issues 
+• 
+Capacity issues 
+• 
+Internal issues ñ whether we could produce it on same machinery, same 
+channel etc. 
+
+
+===== PDF p115 =====
+Table of Contents 
+ 
+111
+• 
+Analyze competition 
+• 
+Environmental issues 
+• 
+Alternate uses of fuel 
+ 
+ 
+Some key issues that were covered in the interview 
+ 
+Pricing 
+How should they price the fuel? (There is no specific information on prices of 
+existing fuels) but relative to the old fuel, what should be the price of the 
+new fuel? 
+What would be the margins from the new fuel?  Assume that the margins on 
+the old fuel are 10%. Then, the margins would be about 25% on the new 
+fuel. This can be arrived at through following steps ñ  
+ 
+• 
+Old fuel price: $1 
+• 
+Cost of old fuel: $0.90 
+• 
+Gross Margin: 10% 
+ 
+• 
+New fuel price: $1.30 (since it gives 30% more mileage) 
+• 
+Cost of new fuel: $0.99 (since it is 10% more expensive to produce) 
+• 
+Gross Margin: @ $0.31, ~25% 
+ 
+What kind of elasticity would auto fuel have? 
+How do you think competition would retaliate to your suggested price  
+ 
+They could retaliate by lowering prices on the old fuel. Then the question 
+would be how much lower? I used break even theory and said they would 
+drop price until they were only covering variable costs.    
+ 
+Alternately, with the capacity constraint that the client has, competition need 
+not bother lowering prices.. Hence, instead of losing margins on their bread 
+and butter, competition could avoid a price war. With higher gross margins, 
+the only player that could win a price war would be the client. 
+Any price movement (either priced higher or priced lower) caused due to the 
+new fuel? 
+How would the competition price the old fuel if the new fuel were priced at 
+just higher than the old fuel? 
+What if there were two distinct markets? ñ The private sector and the 
+Government? Assume that the government buys 10% of the total market 
+capacity and buys equally from all players. Should you sell only to the 
+government? What effect would it have on prices? 
+A good answer here would be that ñ it would be very sensible to sell to the 
+government alone since this would negate the possibility of any price war. 

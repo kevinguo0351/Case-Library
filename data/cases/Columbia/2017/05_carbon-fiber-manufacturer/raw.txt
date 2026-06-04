@@ -1,0 +1,221 @@
+===== PDF p63 =====
+Case # 5 - Carbon Fiber Manufacturer
+Your client is a company that uses Carbon Fiber in its manufacturing process. Currently, it uses a traditional 
+water based way of testing the carbon fiber for fractures, but it has developed a new laser based way of 
+testing the Carbon Fiber for fractures. The company is contemplating commercializing this new carbon 
+testing system and selling it to other companies which use carbon fiber in their manufacturing process. 
+1)
+What do you think could be the market for this new carbon fiber testing system (which industries)?
+2)
+How would you approach selling this new testing system? What would make it a viable product?
+Problem Statement Narrative
+Case # 5: Carbon Fiber Manufacturer
+•
+Case focuses on how to go to market with a new product, which is a system to test carbon fiber
+•
+Question 1 is a rather open ended discussion question, that can be done before writing the framework. 
+Interviewee should discuss which industries use carbon fiber (ex. Sports, aerospace, automotive etc.) and 
+which would most benefit from a new testing system; interviewer can guide interviewee to industries 
+such as aerospace in which safety is especially critical and testing for fractures is more important
+•
+Question 2 can lead to actually writing a framework
+Case Notes
+Industry: 
+Manufacturing
+Case Type: 
+Market Entry
+Firm:
+BCG
+• Market entry
+• Mental math
+• Cost analysis
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Medium
+Medium
+59
+
+
+===== PDF p64 =====
+Sample Framework
+•
+Who to sell testing system to?
+•
+Who would benefit most from testing system
+•
+High risk - industries that need a 
+better system of testing carbon fiber 
+for safety
+•
+High volume – industries that use a lot 
+of carbon fiber and need faster testing 
+system
+•
+High price – industries that would be 
+attracted by potential cost savings
+•
+Potential cost savings
+•
+Savings associated to a faster test process 
+(i.e. lower cost per test)
+•
+Savings associated to indirect costs (i.e. less 
+space in production floor, reduction of 
+overheads that manage testing, lower 
+maintenance required)
+•
+Savings due to fewer fractures in the future
+•
+How to approach the market?
+•
+Approach potential customers directly 
+(companies may be current competitors)
+•
+Create subsidiary for sale of new system
+•
+Partner with suppliers of carbon fiber for 
+manufacturing
+Sample Framework
+•
+Guide interviewee towards focusing on industries 
+that have the highest risk in carbon fiber 
+breaking (like aerospace) and would thus benefit 
+the most from an improved safety process
+•
+Framework should focus on the benefit to 
+potential customers; interviewee should ask 
+about cost savings in new testing system vs 
+old water-based system (see exhibit 1)
+Guidance for Interviewer
+•
+New testing system is a proprietary process 
+developed within the company and no one else on 
+the market has it
+•
+The new technology is faster than the current one
+•
+Testing system has potential commercial value by 
+selling it to other manufacturers that use carbon 
+fiber
+•
+Carbon fiber is used in many different industries 
+(interviewee should brainstorm such industries)
+•
+Industries that currently use carbon fiber will 
+continue to use it in the foreseeable future
+Clarification Answers if Asked 
+60
+Case # 5 - Carbon Fiber Manufacturer
+
+
+===== PDF p65 =====
+Question #1
+Interviewee should discuss cost savings in new process (interviewer may guide interviewee); Give 
+Exhibit 1; Interviewee should calculate cost differences between new and old process
+Question #1
+•
+Interviewee should calculate the cost of scanning per 100 SQF piece (size of pieces is the same in both 
+systems), including depreciation, to figure out the savings per piece
+Cost of scanning a 100SQF piece of carbon fiber:
+Water testing system
+Time: 5 hrs scan + 2 hrs setup = 7 hrs
+Labor cost: $100/ hr * 7 = $700
+Depreciation: (5hrs scan/1000hrs usable life)*$10K = $50
+Total cost of scan: $750
+Laser testing system
+Time: 1 hr scan + 0 hrs setup = 1 hr
+Labor cost: $100/hr = $100
+Depreciation: (1hr scan/1000hrs usable life)*$80K = $80
+Total cost of scan: $180
+New system saves $670 per scan
+Solution
+61
+Case # 5 - Carbon Fiber Manufacturer
+
+
+===== PDF p66 =====
+Question #2
+What could be some problems of going to market with this?
+Interviewee should also offer solutions, if she/he doesn’t, ask: How would you solve these 
+problems?
+Question #2
+•
+Main problem is a much higher up-front cost, with cost savings that make the investment worthwhile 
+over time
+•
+Additional problems could be: 
+•
+Convincing manufacturers that are used to a testing system to risk moving to a new testing system 
+(must prove reliability)
+•
+Dealing with other manufacturers that could potentially be competitors
+•
+Protecting the IP of the system and more
+•
+Establishing post-sales assistance and warranty
+•
+Solution to high up-front cost could include: offering financing, developing a “pay as you save” system 
+subscription model, lowering upfront cost and charging more for maintenance of system to recoup costs
+Solution
+62
+Case # 5 - Carbon Fiber Manufacturer
+
+
+===== PDF p67 =====
+Conclusion
+• New system has high commercial value as it can 
+save $670 of costs for each scan of a 100SQF 
+piece of carbon
+• Delivers test 7x faster than the old system
+Rationale
+• Client should commercialize new testing system
+• Client should first seek to sell to customers in 
+industries that would gain the most from cost 
+savings and improved testing of carbon fiber like 
+aerospace (safety is important)
+Recommendation
+• Reach out to potential customers to engage 
+interest
+• Find ways to offer financing / subscription 
+models to help mitigate high upfront cost of new 
+system
+Next Steps
+• High up front costs (8X the price of the current 
+system) could make selling the product difficult
+• Without IP / patent protection, competitors 
+could develop similar testing systems and 
+compete
+Risks
+63
+Case # 5 - Carbon Fiber Manufacturer
+
+
+===== PDF p68 =====
+Exhibit #1
+Water Based Test
+Laser Test
+Max size of scanned 
+carbon piece
+100 SQF
+100 SQF
+Cost of labor
+$100/hour
+$100/hour
+Set up time
+2 hours
+0 hours
+Speed of scan
+20 SQF/hour
+100 SQF/hour
+Initial cost of test 
+system
+$10K
+$80K
+Usable Life
+1000 hours
+1000 hours
+64
+Case # 5 - Carbon Fiber Manufacturer

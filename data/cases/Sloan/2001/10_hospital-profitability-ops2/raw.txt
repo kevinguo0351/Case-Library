@@ -1,0 +1,242 @@
+===== PDF p20 =====
+ 
+Consulting Case Interview Question 
+ 
+Case No.: OPS2 
+Firm:  Mitchell Madison 
+Type of Case:  
+ 
+Brain Teaser  (Why are manhole covers round?) 
+ 
+Market Sizing  (How attractive is the market for fire trucks?) 
+X 
+Operations  (Our client’s profits are down. Why?) 
+X 
+Declining Profits  
+ 
+ 
+Other 
+ 
+Marketing Problems 
+ 
+ 
+ 
+ 
+Initial Facts offered by interviewer:  [Please relate the facts the interviewer gave to set up the question/problem. 
+Provide sufficient information so the case can be adequately understood!] 
+ 
+You are a new consultant and your managing partner has just given you the following task:  The 
+CEO of a hospital is concerned about: 
+1. declining profits, 
+2. falling revenues, and 
+3. rising costs at her hospital.   
+ 
+The Question(s): 
+ 
+The partner of your firm wants YOU to prepare the proposal that will convince the hospital to 
+retain your firm’s consulting services.  Your managing partner is the resident expert on healthcare 
+issues and you have ten minutes to query him for information before he departs to London for 
+another client engagement.  How would you structure this problem and what questions you would 
+ask of him? 
+ 
+Suggested Solution 
+ 
+Desired Framework:  [Check all that apply.] 
+X 
+Cost-Revenue and Profitability 
+ 
+ 
+The 4 P’s of Marketing 
+ 
+The 3 C’s 
+ 
+ 
+Value Chain Analysis 
+ 
+Porter’s 5 Forces 
+ 
+ 
+Microeconomic Analysis 
+ 
+Internal-External Factors 
+ 
+ 
+Other____________________ 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+ 
+This is a profitability issue.  So, the framework I would use is: 
+Profits =  Total Revenue   -  Total Costs 
+= 
+P * Q           -
+C * Q 
+Volume/Quantity (for revenues and costs): 
+Q:  “What defines volume or "quantity" for the hospital?” 
+A:   “Patient days.” 
+ 
+Q:  “What has been happening to patient days?” 
+A:   “They have been constant for the past five years.” 
+                                                                                                                                                        71 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p21 =====
+ 
+General: 
+Q:  “How long has the hospital been experiencing profitability problems?” 
+A:  “Five years.”   
+ 
+1) Costs: 
+Q:  “There are fixed and variable costs.  What is the proportion of each for the hospital?” 
+A:  “30% Fixed Costs (FC) and 70% Variable Costs (VC).” 
+ 
+Q:  “What are the key components of FC and how have FC changed over the past five 
+years?” 
+A:   “Buildings and Equipment are the main components of FC; FC have been constant over 
+the past five years.” 
+ 
+Q:  “What are key components of VC and how have they been changing over the past five 
+years?” 
+A:   “Staff and Direct Patient VC’s are the key components; staff salaries represent 50% of 
+total costs (TC) while direct patient VC’s represent 20% of TC.  Patient costs have been 
+constant with inflation for the past five years while staff costs have increased 10% during the 
+same period. 
+Q:  “What do you mean by "Direct Patient VCs?"   
+A:   “Medications and supplies needed to provide patient care.” 
+   
+Q:  “Do you know what factors have been causing staff costs to rise?” 
+A:  “Hiring has been increasing and new hires are more expensive.  Due to the increased use 
+of technology in patient care, which requires more skill and specialized training, we have to 
+pay new hires higher salaries.” 
+ 
+[My conclusion: staffing cost per patient is rising.] 
+ 
+Q:  “What happens to the old (less skilled) hires?  Has the hospital laid them off?” 
+A:  “No.” 
+ 
+[My conclusion: old hires just stay on doing less productive work and the hospital divides all 
+of the work to be done over the total workforce, so productivity per worker is lower.  Also, 
+the number of paid staff per patient is increasing.]   
+ 
+Q:  “Do salaries of the old hires increase with tenure, despite their lack of specialized 
+training?” 
+A:  “Yes.”   
+[My conclusion:  staffing salaries (and hence costs) are rising for two reasons:  one is for the 
+genuine need for more skilled labor, the second is because salary is being increased for 
+tenured, unproductive employees.] 
+ 
+2) Revenues: 
+Q:  “What is happening to price?” 
+A:   “It has been steady for the past five years.” 
+72 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p22 =====
+ 
+Q:  “How can revenues be declining if patient days (volume) and price have been steady?  
+Are there other revenue components I have not considered?” 
+A:   “No.  The price billed has remained steady but the actual price we receive has been declining 
+every year.” 
+ 
+Q:  “Why has price received been declining?  Who is not paying, or specifically, what is the customer 
+mix? 
+A:  “Customer mix and the amount of price paid for each segment is as follows:” 
+ 
+ 
+Customer Type 
+Private Individuals 
+Indigent Poor  
+HMO’s 
+Govt. (Medicare, 
+CHAMPUS, etc.) 
+Percent-of-Price-Paid 
+100% 
+0% 
+70% 
+60% 
+ 
+ 
+Q:  “What is the proportion of each customer type and how has that proportion shifted over the 
+past five years?” 
+A:  “Here are the shifts:” 
+ 
+Customer Type 
+Private Individuals 
+Indigent Poor  
+HMO’s 
+Govt. (Medicare, 
+CHAMPUS, etc.) 
+Percent of Price Paid 
+100% 
+0% 
+70% 
+60% 
+Proportion of Customer 
+Base 5 Yrs Ago 
+20% 
+10% 
+35% 
+35% 
+Proportion of Customer 
+Base Today 
+10% 
+10% 
+40% 
+40% 
+ 
+[My conclusion: customer mix has been shifting away from full paying customers and toward HMOs 
+and Government programs, that pay a lower percentage of billed price.  This is causing an effective 
+decline in price even though the hospital’s billed price has remained constant.] 
+ 
+Q:  “Can we somehow modify this mix in our favor?” 
+A:   “The hospital does deny care to patients under HMOs with the lowest reimbursement rates; we 
+send those patients to other hospitals.  We also ask some patients to subsidize their own care, or we 
+double bill, to both their Medicare and HMO providers, for example.  But HMOs are catching on 
+and finding ways around this strategy.” 
+ 
+At this point I began making some recommendations about pricing or customer strategies to 
+improve revenues.  The interviewer reminded me that point of the case was to develop a proposal, 
+not to solve the problem.  So, I shifted to summarizing my key points: 
+ 
+Wrap-up / Recommendations for client:  [Sum it all up!] 
+ 
+My summary points are as follows: 
+ 
+• Assume that the trend toward more HMO patients and fewer full-paying patients is a given, and 
+beyond our control for now. 
+                                                                                                                                                        73 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p23 =====
+• Then, one goal is to make more rational revenue estimates based on actual price received 
+rather than price billed.   This will let the hospital budget against expected rather than 
+desired revenues.  These changes will help the hospital project more realistic profit margins.   
+• 
+Another key issue is to adjust cost structure by 1) laying off unproductive employees (using 
+separation and/or early retirement incentives) and 2) getting greater productivity out of our 
+higher skilled, more costly staff.  This will help boost profit margins.   
+ 
+Desired Answer / Blinding Insights / Twists and Turns (if any): 
+ 
+Remember what developing a proposal entails; it is not cracking the case, but finding the 
+major issues and developing some preliminary hypotheses. 
+74 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

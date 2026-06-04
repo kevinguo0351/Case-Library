@@ -1,0 +1,24 @@
+{
+  "case_id": "Columbia_2017_19_portable-sanitation",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 19,
+  "case_name": "Portable Sanitation",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Industrial Services",
+  "difficulty": null,
+  "pdf_page_start": 146,
+  "pdf_page_end": 151,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    148,
+    151
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p148.png",
+    "exhibits/exhibit_p151.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\19_portable-sanitation"
+}

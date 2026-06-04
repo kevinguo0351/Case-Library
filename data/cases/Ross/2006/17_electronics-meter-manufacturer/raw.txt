@@ -1,0 +1,291 @@
+===== PDF p101 =====
+Practice Cases – Case 17: Electronics Meter Manufacturer 
+A.T. Kearney 
+ 
+ 
+97
+(Source: Interview case from A.T. Kearney Round I, 2006) 
+ 
+Context 
+Your client is an electronics meter manufacturer with $200M revenue in the States. 
+They would like to enhance their profitability in five years and they need your advice. 
+ 
+A good framework may address the following areas: 
+ 
+• 
+Have a better understanding of the business the client is in: 
+o 
+Market performance - electronics meter market size and growth 
+o 
+Product segments  
+o 
+Customers  
+o 
+Competitive landscape 
+ 
+• 
+To improve profitability, the client would need to: 
+o 
+Increase revenue 
+ 
+Increase price 
+ 
+Increase volume by stealing share, or stimulating demand 
+ 
+Expand into other markets 
+o 
+Reduce costs 
+ 
+Assess the cost structure and/or value chain 
+o 
+Optimize product mix to sell more products with higher profit margin 
+ 
+Given upon request 
+ 
+♦ 
+The client has only one type of customer for various product segments: utility (electricity 
+only) companies 
+♦ 
+Utility sector is highly regulated; # of utility companies is stable over the years 
+♦ 
+Utility company buys the meters and installs them in apartments and buildings to 
+keep track of electricity usage 
+♦ 
+Three product segments (our client is in “Centralized”): 
+♦ 
+Walk-in – utility company sends teams to drive around apartments and buildings 
+and receive meter reading using RF technology 
+♦ 
+Centralized – utility company needs to build infrastructure to connect with the 
+meters but does not need to send labor for meter reading 
+♦ 
+Manual – utility company sends teams to enter apartments and buildings to read 
+meters 
+♦ 
+The market situation of these segments: 
+ 
+Segment 
+% of Market 
+No. of Players Tech Requirement 
+Growth 
+Walk-in 
+50% 
+15 
+Medium 
+Moderate 
+Centralized 30% 
+2 (including 
+our client) 
+High 
+Fast 
+Manual 
+20% 
+10 
+Low 
+Slow 
+ 
+Interviewee should realize our client is in an attractive segment - “Centralized” because of 
+higher entry barrier, fewer competitors and fast growth, although it is not the biggest. 
+ 
+Interviewee should then explore opportunities to increase revenue. 
+ 
+Given upon request  
+• 
+Current price per meter: $30 (walk-in) vs. $50 (centralized); no information on price 
+sensitivity. 
+ 
+Options to increase revenue: 
+• 
+Increase price: 
+o 
+There are only two companies in “Centralized” segment. However, increasing 
+price might lead to share loss to other segments because targeted customers 
+are the same. 
+
+
+===== PDF p102 =====
+Practice Cases – Case 17: Electronics Meter Manufacturer 
+A.T. Kearney 
+ 
+ 
+98
+• 
+Decrease price to gain more volume in “Centralized” 
+           (Ask interviewee what would be the expected cost level of each segment.) 
+o 
+“Centralized” may have the highest cost structure because of high tech 
+requirement, followed by “Walk-in” and “Manual”.  Based on the current price 
+and cost structure, our client is unlikely to compete with players in other 
+segments on price alone. 
+• 
+Expand into “Walk-in” segments 
+(When interviewee realizes our client could expand into the second most attractive 
+segment – “Walk-in” (“Manual” segment seems too small and has poor growth), give 
+the following information) 
+o 
+Our client has the technology to enter other segments, however, researching 
+and applying the licenses for “Walk-in” products will take about four years.  
+o 
+Our client is too small to acquire or form a JV with a player in the “Walk-in” 
+segment.   
+o 
+On the other hand, players in other segments cannot easily enter our 
+“Centralized” segment in the near future because of technology hurdle. 
+• 
+Other expansion ideas 
+o 
+Develop new customer segments (non-electricity) 
+o 
+Expand into new markets, e.g. overseas 
+o 
+Develop new products 
+ 
+Interviewer: All the other expansion ideas will take more than five years. What could 
+other players do even they cannot enter our client’s segment in the short run? 
+ 
+Sample answer:  
+Those companies could under-cut our price due to their lower cost structure and try to take 
+customer away from our client. However, we need to find out what our customers value the 
+most. They might not be price sensitive. 
+ 
+Interviewer: Ask interviewee what are utility companies’ decision factors. 
+Sample answer: 
+o 
+Upfront investment: meter cost and infrastructure (for “Centralized” only) 
+o 
+Ongoing cost: labor and maintenance 
+o 
+Relationship: all players in the market have similar relationships with utility companies 
+o 
+Customer service 
+o 
+Switching cost: very hard to persuade utility companies to switch from one product 
+type to another due to previous investment; main source of growth is from meters for 
+new locations. 
+ 
+Interviewee should realize upfront investment for “Centralized” is higher but ongoing cost will 
+be lower because of labor cost saving. 
+ 
+Interviewer: Ongoing cost savings of “Centralized” can more than justify the higher 
+upfront investment, however, utility companies care more about upfront cost when 
+buying meters.  Ask interviewee how our client can persuade utility companies to 
+buy “Centralized” meters. 
+ 
+Sample answer: 
+o 
+Leasing the meters instead of selling 
+o 
+Allowing customers to pay by installments 
+ 
+By now, interviewee should realize it is hard to increase revenue (on top of the segment 
+growth), and our client needs to decrease cost in order to improve profitability and 
+competitiveness. 
+ 
+
+
+===== PDF p103 =====
+Practice Cases – Case 17: Electronics Meter Manufacturer 
+A.T. Kearney 
+ 
+ 
+99
+Options to reduce cost 
+ 
+Given upon request 
+o 
+No information on cost structure 
+o 
+Currently, client has only one plant in the U.S. 
+ 
+Interviewee should do value chain analysis and brainstorm ideas to optimize value chain 
+components 
+ 
+Sample ideas: 
+o 
+R&D – improve design to lower cost 
+o 
+Raw material – use cheaper substitutes, negotiate with suppliers for better price (or 
+shop around for best suppliers), leverage economies of scale 
+o 
+Manufacturing – deploy labor-saving technologies, make process more efficient, 
+improve utilization, outsource (brainstorm potential issues with interviewee), 
+relocating production to Mexico (brainstorm possible locations and potential issues 
+with interviewee; main idea is to minimize distribution cost increase and lower 
+production cost), JIT production 
+o 
+Distribution – optimize warehouses and distribution network 
+ 
+Interviewer: Ask interviewee how to construct a DCF (Discounted Cash Flow) 
+analysis for plant relocation in Excel, ignoring tax.  Brainstorm on Excel layout and 
+items. 
+ 
+Given upon request:  
+o 
+Existing equipment will be moved to new location and existing production workers 
+would be terminated (brainstorm potential issues with interviewee). 
+ 
+Sample answer: 
+The simplest way is to come up with an incremental analysis, i.e. difference between the 
+current situation and the future one. 
+ 
+o 
+Columns: Year 0 to 5 (example) 
+o 
+Main items: 
+o 
+Cost savings (ask interviewee how to calculate) – # of units * (labor $ saving 
+per unit – extra distribution $ per unit) 
+o 
+Initial investment (year 0) – land (if necessary), relocation of equipment, 
+compensation to plant workers in the US 
+o 
+Working Capital (WC) Requirement and Change in WC 
+o 
+Calculation: assume certain growth rate for unit production in each of the first five 
+years and calculate the terminal value for year six onwards based on perpetual growth 
+rate; discount each year’s cash flow to year 0 using cost of capital (ask the 
+interviewee what it is). 
+ 
+Interviewer: Ask interviewee to describe the definition of WC and its main source. 
+Sample answer: 
+o 
+Definition: Current Asset – Current Liability 
+o 
+WC is positive because companies normally need to pay their suppliers before they 
+receive money from customers. 
+o 
+Main source of WC is inventory. 
+ 
+Interviewer: Ask interviewee why our client may require more WC in their new plant. 
+Sample answer: 
+o 
+They might need more safety stock due to: 
+o 
+Potential manufacturing issues due to new labor and plant 
+o 
+Possible distribution issues – longer distance and hence higher chance of 
+delivery delay 
+ 
+
+
+===== PDF p104 =====
+Practice Cases – Case 17: Electronics Meter Manufacturer 
+A.T. Kearney 
+ 
+ 
+100
+Interviewer: The DCF analysis of plant relocation has a positive NPV. Ask 
+interviewee to make a recommendation. 
+ 
+Main points of recommendation: 
+♦ 
+Limited opportunity to increase revenue beyond “Centralized” segment growth 
+♦ 
+Cost cutting is necessary to improve profitability, for example, plant relocation 
+♦ 
+Risks and issues associated with plant relocation and other cost cutting measures, e.g. 
+labor and regulation issues of relocating plant, intellectual property issues with 
+outsourcing 
+♦ 
+Next steps 
+ 

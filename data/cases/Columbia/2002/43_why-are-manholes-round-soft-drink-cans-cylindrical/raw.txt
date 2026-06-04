@@ -1,0 +1,60 @@
+===== PDF p121 =====
+Game show Cases 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+117 
+ 
+Why are soft drink beverage cans cylindrical? 
+ 
+· 
+So that consumers won’t cut their hands on the sharp edges.  The shape is more comfortable 
+and ergonomical.  To maximize the ratio of the container’s volume to its surface area short of 
+using a sphere.  This delivers more liquid per ounce of aluminum (thus, more per $). 
+· 
+A sphere would be impractical because it would not stack or stand up after it was opened.  
+Spheres would also require more air space between cans if they were in a box, vending 
+machine or truck - a fact that could increase shipping and packaging costs. 
+· 
+So that they will roll predictably and in control on assembly lines and vending machines. 
+· 
+Because this container shape requires the least machining, joining, and finishing steps in 
+manufacturing and is therefore the least expensive to manufacture. 
+· 
+Circular structures distribute internal pressure.  Further, structures with comers could 
+develop fractures due to high stress at the edges. 
+ 
+ 
+ 
+Tell me all ways, practical or not, which you could use to determine whether a light goes off in 
+the refrigerator when you close the door? 
+ 
+· 
+With the door open, press the button that makes the light go on and off. 
+· 
+Drill a hole in the door so that you can see inside when the door is closed. 
+· 
+Find out the mean time to failure for these bulbs, close the door, and open it after the 
+expiration time to see if the light is burned out. 
+· 
+Go to the production line and perform a statistically valid test (appropriate number of 
+samples) to determine whether the light always goes off (by pressing the button, etc.). 
+· 
+Hook up and extremely sensitive electrical measuring device to the power source to see if the 
+energy level drops when the door closes. 
+· 
+Hook wires to the socket and perform a similar test when the door is closed. 
+· 
+Place a sensitive thermometer (chilled to the refrigerator’s temperature before testing) near 
+the light bulb and close the door. 
+· 
+Place some light sensitive material in the refrigerator to see if it is activated. 
+· 
+Pick-up the phone, dial the manufacturer and ask if the light goes off when you close the 
+door. 
+· 
+“If no one is in there to see the light go off, does it matter?” 

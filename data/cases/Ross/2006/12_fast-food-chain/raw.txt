@@ -1,0 +1,288 @@
+===== PDF p76 =====
+Practice Cases – Case 12: Fast Food Chain 
+Bain & Co. 
+ 
+ 
+72
+(Source: Sample case from Bain website) 
+ 
+Context 
+A large fast food chain has hired Bain to improve the company’s profitability. You’re 
+about to have an initial brainstorming session with your team around your client’s 
+options, and you want to collect your thoughts first. 
+ 
+Your interviewer wants to know that you have a structure in mind. An appropriate structure 
+for this case would be the profit equation. Be sure to state that to your interviewer. 
+ 
+A good answer may include the following: 
+ 
+For example: Profit = total revenue – total cost.  
+Where Revenue = Price * Quantity and Costs = Fixed Costs + Quantity * (Variable Costs).  
+ 
+In order for the company to improve its profitability, management needs to increase revenues 
+and/or decrease costs. 
+ 
+So to begin tackling my client’s profit problem I am going to look at these two sides of the 
+equation: 
+- 
+Could the client increase prices? How would customers react?  
+- 
+Could the client sell more meals, either at existing branches or through opening new 
+ones?  
+- 
+Are there other creative ways to grow revenue (enter into large-scale catering 
+contracts, for example)?  
+- 
+Could the client decrease our fixed costs by selling some of our branches or real estate? 
+- 
+Could the client reduce the quantity of products they buy, such as ingredients for their 
+meals? 
+- 
+How else could they reduce their costs?"  
+Information given upon request: 
+- 
+The customer is price sensitive, and the market is fairly saturated 
+- 
+The fixed costs are pretty stable. 
+ 
+Interviewee should realize right away that the client should focus on lowering variable costs. 
+Ask interviewee to identify major variable cost buckets. 
+ 
+- 
+Raw material  
+- 
+Packaging 
+ 
+Variable costs are a function of price and volume. Therefore, the client needs to reduce 
+volumes purchased or negotiate lower prices. 
+ 
+Raw material: 
+- 
+We could negotiate lower food prices with our suppliers (consolidate our purchasing, 
+etc.).  
+- 
+We could look for cheaper ingredients. This sounds risky because it could lower the 
+quality of the food that we sell.  
+- 
+We could reduce the volume used. For the same reason, this sounds risky because it 
+would change our recipes, one of our competitive advantages in producing winning 
+recipes.  
+Packaging:  
+- 
+We could negotiate lower prices with our suppliers or look for cheaper alternatives.  
+- 
+We could reduce the volume used.  
+ 
+Some good creative answers here include (but are in no way limited to):  
+ 
+
+
+===== PDF p77 =====
+Practice Cases – Case 12: Fast Food Chain 
+Bain & Co. 
+ 
+ 
+73
+- 
+Can the client change the shape or size of food containers? 
+- 
+Can the client packaging for families be consolidated?  
+- 
+Can the client reduce the weight of the packaging while still protecting the food? 
+- 
+Can the client reduce other qualities of the packaging including degree of color or logo 
+prevalence without sacrificing their brand?  
+- 
+Can the client lock bathrooms so that non-customers do not waste toilet paper and 
+towels?  
+- 
+Can the client charge for extra condiments?  
+- 
+Can the client reduce the size or number of napkins they purchase?  
+Interviewer: Bain focuses on components that make up large portions of a 
+company’s costs: reductions in these areas will have the largest impact on a client’s 
+overall costs. Bain’s philosophy is to always focus on where the value is. At first 
+glance, napkins would not appear to fall within this category because they are so 
+low cost. But there is a new napkin dispensing technology on the market that you 
+have heard about and think could save the client some money. You decide to 
+investigate.  
+How much money could we save per year in the US from using the new type of 
+napkin dispenser in all restaurants?  
+Interviewee should identify key information:  
+- 
+Number of restaurants  
+- 
+Number of customer visits per store per year  
+- 
+Number of napkins used per customer now  
+- 
+Number of napkins used per customer after the switch  
+- 
+Price per napkin 
+ 
+Information given upon request: 
+ 
+- 
+A case of 6,000 napkins cost his client $28. Thus, a reasonable price per napkin is 
+about $0.005.  
+- 
+The client is similar to McDonald's in terms of the number of outlets. 
+ 
+Interviewee needs to estimate how many McDonald’s in US. 
+ 
+One estimation approach:  
+Think of your hometown: How many McDonald's are there for the number of people? Assume 
+there is a McDonald's for every 20-25,000 Americans, with a population of ~275 million people 
+in the US, that would be 11-13,750 McDonald's.  
+ 
+Other approaches:  
+- 
+Estimate the entire fast food market and then estimate McDonald's share  
+- 
+Estimate the area covered per McDonald's across the United States 
+- 
+Note: With this approach, be careful to account for population differences between 10 
+square miles of NYC and 10 square miles of Utah 
+ 
+(Actual answer: ~12,000 McDonald's in the US.) 
+ 
+Estimate number of restaurants 
+Actual answer: Fast food restaurants expect around 1,500 customers a day.  
+ 
+One estimation approach: 
+Assume the 20,000 people per McDonald's visit an average of twice a month, that's 24 times a 
+year per customer or 480,000 visits / 365 days = 1,315 customers per day.  
+ 
+ 
+
+
+===== PDF p78 =====
+Practice Cases – Case 12: Fast Food Chain 
+Bain & Co. 
+ 
+ 
+74
+Other approaches: 
+ 
+- 
+One might take this a step further during a case interview and attempt to segment 
+these customers. For example, one might assume 50% of the restaurants customers 
+are drive-through and 25% of the remaining take their food "to go." Drive-through 
+customers do not take, but are given napkins. "To go" customers may be more likely 
+to "hoard napkins" as they can not go back to the counter for more.  
+Note: This would influence potential answers to the next question - but for now, 
+assume you did not take this step and all customers are the same.  
+ 
+Estimate number of napkins used per customer per visit  
+ 
+Actual answer: Five napkins with old dispensers and two napkins with prohibitive dispensers 
+for a savings of three napkins per customer.  
+ 
+One estimation approach:  
+During a case interview you would most likely just use personal experience here - how many 
+napkins do you take or see others take when you're at a fast food restaurant?  
+ 
+Other approaches:  
+- 
+Bain would send people to the chain to watch napkin taking behavior or call fast food 
+restaurants with both kinds of dispensers to find out how many napkins they go 
+through a day.  
+ 
+Calculations 
+$0.005 per napkin * 3 napkins * 1,500 customers * 365 days per year * 12,000 restaurants = 
+$98.6M dollars saved in napkin purchases. 
+ 
+Interviewer: Does this estimate sound reasonable?  
+- 
+How would you go about feeling comfortable with this figure and pressure 
+checking your assumptions?  
+- 
+What would you want to flag for your manager as factors that might 
+significantly alter the answer? 
+ 
+Recommended answer: 
+ 
+To check the magnitude of the overall number some options include:  
+- 
+Looking at a comparable company’s operating income to see what percentage of the 
+expense napkins account for.  
+- 
+Find out what your client currently spends per restaurant per year on napkins.  
+ 
+Keep in mind that with a company of this size any small changes in assumptions will 
+significantly alter your answer. Some things to flag for your manager:  
+- 
+The chain you work for probably gets a significantly better deal on napkin pricing due 
+to the magnitude of their orders (in contrast to the single-location restaurant napkin 
+price estimate you received)  
+- 
+Up to 50% of customers are drive-through and their napkin behavior should not 
+change. This would reduce the savings by up to 50%  
+The three napkin reduction estimate needs refining. Perhaps a pilot program would need to be 
+done to see if the dispensers really have the desired effect 
+ 
+Interviewer: Assume you would need 10 dispensers per store for a total of 120,000 
+dispensers. Also note that napkins in these dispensers cost more at a price of $.01 
+per napkin (remember it is the paper companies that make the new dispensers). At 
+what price per dispenser would the investment not be worth doing? 
+ 
+ 
+ 
+ 
+
+
+===== PDF p79 =====
+Practice Cases – Case 12: Fast Food Chain 
+Bain & Co. 
+ 
+ 
+75
+Recommended answer: 
+ 
+120,000 * cost of dispenser + 2 napkins * .$01 per napkin * 1,500 customers * 365 days * 
+12,000 stores = 5 napkins * .005 per napkin * 1,500 customers * 365 days * 12,000 stores  
+ 
+120,000 * cost of dispenser = $32.85M  
+ 
+The most you would be willing to pay per dispenser would be $273. 
+ 
+Note: In an actual case interview you can use round number estimates so that mental math is 
+easier. 
+ 
+Interviewer: The actual cost of these dispensers is around $50.  
+- 
+Can you see any other factors your client should consider before making a 
+decision?  
+- 
+What other advantages and disadvantages might there be to this switch? 
+(Impact on costs and customers.)  
+- 
+How might you evaluate the impact of the extraneous factors? 
+ 
+Some potential ideas include:  
+ 
+Advantages:  
+- 
+Fewer napkins used per day leads to less restocking which may mean better customer 
+service or lower labor cost.  
+- 
+Better relationship with paper manufacturer (potential for better pricing).  
+ 
+Disadvantages:  
+- 
+With the new dispenser locking you into a paper provider you may lose buyer power. 
+There is the potential for additional napkin price increases in the future.  
+- 
+Customer reaction: Will a customer find this to be poor service? What if he or she 
+needs to grab a handful of napkins after a spill?  
+ 
+Implementation:  
+- 
+Management will need to negotiate a contract that includes limits on future pricing.  
+- 
+Bain will need to do customer research and pilot programs to evaluate customer 
+reaction.  
+ 
+And many, many more! As you can see, the keys to a good case interview are logical 
+assumptions, creative thinking, and basic quantitative ability. Take time to think through 
+problems and share your thought process with your interviewer and you will do great. 

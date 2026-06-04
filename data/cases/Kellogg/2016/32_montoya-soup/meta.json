@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2016_32_montoya-soup",
+  "school": "Kellogg",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2016.pdf",
+  "idx": 32,
+  "case_name": "Montoya Soup",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Products",
+  "difficulty": null,
+  "pdf_page_start": 236,
+  "pdf_page_end": 244,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    237,
+    238,
+    240,
+    241,
+    242,
+    243
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p237.png",
+    "exhibits/exhibit_p238.png",
+    "exhibits/exhibit_p240.png",
+    "exhibits/exhibit_p241.png",
+    "exhibits/exhibit_p242.png",
+    "exhibits/exhibit_p243.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2016\\32_montoya-soup"
+}

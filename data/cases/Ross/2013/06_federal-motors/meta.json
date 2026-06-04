@@ -1,0 +1,28 @@
+{
+  "case_id": "Ross_2013_06_federal-motors",
+  "school": "Ross",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2013.pdf",
+  "idx": 6,
+  "case_name": "Federal Motors",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Automotive",
+  "difficulty": "Medium",
+  "pdf_page_start": 97,
+  "pdf_page_end": 106,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    103,
+    104,
+    105,
+    106
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p103.png",
+    "exhibits/exhibit_p104.png",
+    "exhibits/exhibit_p105.png",
+    "exhibits/exhibit_p106.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2013\\06_federal-motors"
+}

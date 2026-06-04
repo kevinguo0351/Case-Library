@@ -1,0 +1,208 @@
+===== PDF p40 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 36 - 
+Case 8: Cinema Firenze 
+ 
+ 
+BACKGROUND 
+ 
+Firm: Bain & Co. 
+Round: 2008 Summer Internship, First Round 
+Content: Qualitative and Quantitative 
+ 
+CASE QUESTION 
+ 
+Our client is a major Italian conglomerate that owns a Movie Theatre chain with several 
+theatres in Rome and Milan. The CEO is planning to expand the chain in Florence and 
+has found an interesting theatre in the center of Florence that would sell its activity for € 
+2M. “Cinema Firenze” has only one room that holds 400 seats and is open 50 weeks per 
+year, running 4 shows in mid-week and 5 during the weekend. 
+ 
+The CEO hired Bain & Co. to understand if they should go through with the acquisition. 
+ 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: An ideal candidate will list and make reasonable assumptions 
+over the main revenue and cost streams. An ideal candidate will also drive the analysis 
+with various assumptions.  He or she should also understand what possible synergies 
+might be exploited. 
+ 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: So, tell me how would you approach this decision? 
+ 
+Interviewee: May I ask you why the client wants to buy this new theater in Florence? I 
+guess that our client wants to acquire this movie theater in Florence so to increase the 
+overall profits of its business, but they may be other important reasons for this decision. 
+ 
+Interviewer: Of course, there are other important aspects to consider such as the brand 
+image, geographic expansion, etc. but for now let’s stick with the profitability analysis. 
+ 
+Interviewee: Thanks. In order to estimate the value of the investment I need to estimate 
+the annual cash flow and the trends. Since profits are revenues minus cost, my first 
+breakdown of the problem is the analysis of sales and cost. 
+ 
+
+
+===== PDF p41 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 37 - 
+Interviewer: Ok. Let’s start with the revenue side of the equations. What do you think are 
+the major source of revenues of this Cinema? 
+ 
+Interviewee: The major sources of revenues are tickets sales and concessions.  The 
+movie theater can also make money advertising before films. 
+ 
+Interviewer: Perfect, first let’s concentrate now on ticket sales. How much do you think 
+that is? 
+ 
+Interviewee: Revenues from tickets sales can be calculated from the average price time 
+estimated number of tickets sold per year. 
+ 
+Interviewer: What information do you need to calculate that? 
+ 
+Interviewee: I need to know the average ticket price and the numbers of clients per year. 
+ 
+Interviewer: Correct. For the sake of simplicity let’s assume that the average ticket price 
+is  € 7. Now, how would you calculate the number of tickets sol per year? 
+ 
+Interviewee: In order to calculate the tickets sold every year we need to know how many 
+shows we have in one year, the average utilization and the capacity of the cinema. In 
+order to make our approach more accurate I intended to analyze separately weekend 
+utilization from weekday utilization.  I will estimate both. 
+ 
+Interviewer: Ok, how would you calculate this average utilization? 
+ 
+Interviewee: Assuming that we have: 
+ 
+ 
+Shows/day Days Number of show 
+Utilization 
+Weekday 
+4 
+5 
+20 
+20% 
+Weekend 
+5 
+2 
+10 
+35% 
+ 
+ 
+ 
+ 
+ 
+Weighted Average Utilization 
+25%  
+ 
+The utilization is the weighted average of weekday and weekend utilization. 
+Weighted average utilization = (20%*20 + 35%*10)/(20+10) = 25% 
+ 
+Interviewer: How would you verify if this estimated utilization is correct?  
+ 
+Interviewee: I would compare it with one of our client’s theatres. 
+ 
+Interviewer: Ok, consider that the most successful movie theatre in Rome, “L’Adriano,” 
+has an average of 30% utilization over the year. 
+ 
+
+
+===== PDF p42 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 38 - 
+Interviewee: Then I’d say that and estimated 25% utilization for a famous theatre in 
+Florence is plausible. 
+ 
+That gives an average ticket sale of 100 tickets per show. There are 30 shows per week, 
+50 weeks/year, 100 tickets, which makes a total of 150K tickets per year. 
+ 
+With  €7.00 per ticket we have a total annual revenue of approximately  €1M from tickets 
+sales.  [Actual is €1,050,000]. 
+ 
+Interviewer: Ok, let’s now calculate the revenues from advertising. Please make 
+assumptions. 
+ 
+Interviewee: I would say the revenues from ads are proportional to traffic/sales. Let’s 
+assume € 3 per ticket sold, which gives € 450,000. 
+ 
+Interviewer: That’s fair.  What about concessions? 
+ 
+Interviewee: I assume the concession stand will sell to 40% of customers, € 3/sale, so 
+it’s going to be: 60,000 customers x € 3 = € 180,000/year. Do we know the margin on 
+those purchases? 
+ 
+Interviewer: It’s very high, assume 90%. 
+ 
+Interviewee: So net profits from the concession stand are 90% of 180,000 = € 162,000. 
+Summing it all up, total revenues are 1,050,000 + 450,000 + 162,000 = € 1,662,000. 
+ 
+Interviewer: I’ll give you some info for the cost side of the equations:  
+ 8 people working for an average annual salary of € 50,000 
+ Operating expenses € 125,000 
+ Film fee: 50% of ticket sales 
+ Rent: € 40/m2 per month, total area 1,000 m2 
+ 
+Interviewee:  So costs per year are: 
+ Personnel: 8 times €50,000 = € 400,000 
+ Operating expenses: € 125,000 
+ Fees. 50% of €1,050,000 = € 525,000 
+ Rent: €1,000 x 40 x 12 months = € 480,000 
+Total costs. € 1,530,000 
+ 
+Profit before taxes = €1,662,000 – €1,530,000 = €132,000 
+Assuming 40% in taxes, net income is about € 79,200 
+ 
+Interviewer: Correct. Is it a good business? 
+
+
+===== PDF p43 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 39 - 
+ 
+Interviewee: 2M for a yearly profit of 80k/year is not a fair price. 
+With an interest rate of 10%, we need at least 200k/year of cash flow. I would strongly 
+advise against this acquisition. 
+ 
+Interviewer: But how do you know it’s not a good business? What’s the percentage over 
+sales? 
+ 
+Interviewee: It’s about 4.5%, but I wouldn’t acquire the business for 2M, which was our 
+primary question. Anyhow, we own several movie theatres; we should compare our 
+results with these numbers we just found to understand if it’s a solid business in itself. 
+ 
+Interviewer: Exactly, that is the point. The CEO is aware that 4.5% is a low figure, but 
+he is a very stubborn person and says he wants to acquire this theatre anyway. What’s 
+the course of action? 
+ 
+Interviewee: Well, if the CEO is set to buy anyway, he should: 
+ Bargain over the price 
+ Understand possible synergies that might increase profitability 
+ 
+Interviewer: Right, I’d suggest haggling too, and how would you make this business 
+more profitable? 
+ 
+Interviewee: Profit is revenues (volume and price) minus costs. Off the top of my head, 
+we could invest to increase the volume of purchases, with a marketing campaign, 
+devising partnerships with local shops to publicize their product in exchange of increased 
+visibility for our shows, understanding if we’re airing the right movies for the local 
+clientele, lowering prices to drive business for unpopular show times… 
+ 
+Interviewer: Ok, all good ideas, and what on the costs side? 
+ 
+Interviewee: If we acquired this business, we could bargain the fees as a Movie Theatre 
+Chain rather than a single interlocutor and could leverage our increased bargaining power 
+against film distributors. 
+ 
+Interviewer: That is correct. Thanks. 
+ 

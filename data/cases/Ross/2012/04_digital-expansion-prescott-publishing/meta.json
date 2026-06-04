@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2012_04_digital-expansion-prescott-publishing",
+  "school": "Ross",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2012.pdf",
+  "idx": 4,
+  "case_name": "Digital Expansion Prescott Publishing",
+  "case_type": "Growth",
+  "round": "1",
+  "industry": "Media / Publishing",
+  "difficulty": null,
+  "pdf_page_start": 78,
+  "pdf_page_end": 83,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    79,
+    80
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p079.png",
+    "exhibits/exhibit_p080.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2012\\04_digital-expansion-prescott-publishing"
+}

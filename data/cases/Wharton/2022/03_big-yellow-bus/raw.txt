@@ -1,0 +1,232 @@
+===== PDF p33 =====
+Case 3: Big Yellow Bus
+Case Type: Market Entry
+Difficulty Level: Easy 
+
+
+===== PDF p34 =====
+Big Yellow Bus
+●
+BYB is the #1 player in the market by revenue, #2 by volume
+●
+There are only 3 competitors in the market with relatively equal share. However, BYB was the 
+clear leader 5 years ago
+●
+BYB’s price are 20% higher than its competitors
+●
+The  market has a fairly steady  long-term 3% growth rate driven by GDP / population growth
+●
+The customers are almost exclusively local cities and towns in the US
+Problem Statement
+Additional Information (Provide Upon Request)
+Your client is a private equity fund considering the acquisition of the Big Yellow Bus Co, one of 
+the leading manufacturers of school buses in the US. The client has engaged Bain to help 
+determine whether or not to proceed with the investment. 
+
+
+===== PDF p35 =====
+Big Yellow Bus Co
+1. School Bus Market
+A. Industry
+●
+Growth trends
+●
+Market size
+●
+Recent changes in 
+customer behavior / 
+trends
+B. Competition
+●
+# of competitors and 
+market share
+●
+Profit margin / Cost 
+structure
+C. Regulatory environment
+2. Big Yellow Bus
+3. Financial Analysis
+4. PE Transaction
+A. Product differentiation
+●
+Different kinds of buses
+●
+Bus attributes vs 
+competitors
+●
+Extra services (e.g., 
+maintenance, warranties)
+B. Customer 
+C. Marketing strategy
+●
+Salesforce and customer 
+journey
+D. Management expertise
+A. Revenue analysis
+●
+Pricing strategy
+●
+Volume dynamics
+●
+Break-down by client 
+groups and locations
+B. Cost structure
+●
+Fixed (e.g. rent, SG&A)
+●
+Variable (e.g. labor, raw 
+materials, utilities)
+A. Price
+●
+Financing
+●
+Expected ROI
+●
+Opportunity cost
+B. Growth opportunities
+●
+Value proposition
+●
+Customer journey
+●
+Marketing
+●
+Expanding to new 
+markets
+●
+Additional services 
+Sample Framework
+Business insights
+-
+“In my experience, there isn’t a lot of differentiation between yellow school buses. As such, I would assume that the cost structure 
+would drive the key competitive advantage.”
+-
+“I would assume that our main customers would be price-sensitive school districts. Therefore, the pricing strategy is going to be an 
+important factor in the growth or decline of market share.”
+
+
+===== PDF p36 =====
+How large is the market for school buses in the US? (After the calculation: Do you believe this is an 
+attractive market?)
+Big Yellow Bus Co - Market Sizing
+Q1: Market Sizing
+
+
+===== PDF p37 =====
+Big Yellow Bus Co - Market Sizing
+US Population
+~320M people
+Life expectancy
+~80 years
+People per decade
+~40M people
+School age commuters (~15 
+years)
+~60M children
+% Taking buses
+~33%
+School-age children taking buses
+~20M children
+Children per bus
+~50
+Buses required
+400K buses
+Average life of buses
+10 years
+Buses sold per year
+40k
+Sample approach
+Provided information (if asked)
+Market sizing
+●~33% of schoolchildren take buses to 
+school
+●~50 students ride each buses
+Attractive market
+●Market growth is traditionally GDP / 
+population at 3% per year; last two years 
+have seen 6% growth
+●Pull-through demand ahead of changing 
+emissions regulation 
+Business insight:
+●“This seems to be a good size market with 
+consistent growth. Still, in order to 
+evaluate BYB, do we have information of 
+market share trends?
+
+
+===== PDF p38 =====
+Take a look at Exhibit #1, what does the competitive landscape data imply?
+Big Yellow Bus Co - Chart Analysis
+Q2: Competitive landscape
+Sample Answer
+There are two major takeaways:
+●
+BYB’s share of revenue is higher than its share of volume
+○
+Why? Its prices are higher than peers by 20%. This is important because its a commodity product 
+and customers are highly price-sensitive.
+○
+5 years ago, BYB’s market share was at 60%. 
+●
+BYB’s cost structure is high relative to peers
+○
+The gross margin is a big differentiation and BYB needs to focus on reducing its COGS
+○
+Some possible hypotheses:
+■
+Materials, equipment, and labors will probably be most significant cost drivers. Competitors 
+could be more successful in outsourcing or achieving economies of scale
+■
+Competitors A & B could be a part of larger industrial trucking firms where there are 
+synergies
+
+
+===== PDF p39 =====
+Big Yellow Bus Co - Exhibit #1
+Competitive Landscape
+Big Yellow Bus Co
+Competitor A
+Competitor B
+Market share analysis
+Market share ($)
+38%
+34%
+28%
+Market share (units)
+34%
+36%
+30%
+Margin analysis
+Revenue
+100%
+100%
+100%
+Gross margin
+25%
+35%
+36%
+Operating margin
+15%
+25%
+26%
+
+
+===== PDF p40 =====
+What is your final recommendation?
+Big Yellow Bus Co - Recommendation
+Final Recommendation
+Sample Answer
+Recommendation: I recommend that the PE fund not acquire Big Yellow Bus Company.
+Reason #1: Even if pricing of transaction is attractive, BYB is in a difficult competitive position. BYB is losing share to 
+two lower-cost competitors with significant built-in cost advantages given their ownership structures.
+Reason #2: Further, cost is the biggest driver in the market as buses become increasingly commoditized and local 
+cities & towns become more price sensitive in the face of budget deficits. 
+Conclusion: Overall, not an attractive investment. 
+Risks:
+Economic decline / immigration patterns could 
+accelerate demand beyond 3% growth, but even in 
+this case BYB is unattractive. 
+Next steps:
+Make sure PE fund does not own-portfolio 
+companies that might allow for procurement 
+synergies

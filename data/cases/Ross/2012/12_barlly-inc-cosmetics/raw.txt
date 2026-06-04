@@ -1,0 +1,152 @@
+===== PDF p129 =====
+- 124 - 
+Barlly Inc. Cosmetics 
+Ross Original 
+ 
+Your client is Barlly Inc., a cosmetic company based in 
+the US. Barlly has business both in the US and globally. 
+Currently, the client is facing a high level of inventory in 
+the US and is hiring McKinsey to help solve the problem. 
+ 
+• The client has had the inventory problem for quite a 
+while, so it is a structure problem other than an one-off 
+problem. 
+• The client sources raw materials from all over the world. 
+• The client has one manufacture site near Chicago and 4 
+distribution centers across the US. 
+• The client maintains its inventory at DCs, i.e. when 
+products are manufactured, they are directly sent to DCs. 
+• The client sells to all kinds of retailers across the US. 
+• Sales is seasonal with peaks before major holidays. 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Hard         Conceptual                   Industry: CPG 
+                     Type: Operations 
+
+
+===== PDF p130 =====
+- 125 - 
+•
+How can the client reduce its inventory in the short-term? 
+Questions for the candidate 
+Additional Questions to Steer Discussion 
+ 
+ 
+•
+Reduce production. (This is important) 
+•
+Increase sales. Some possible ways: 
+•
+Reduce price 
+•
+Use outlet 
+•
+Volume discount to buyers 
+•
+Marketing promotion 
+•
+Dump to overseas market 
+Solution Guide 
+
+
+===== PDF p131 =====
+- 126 - 
+ 
+What are possible reasons for the high inventory level and how can the client improve in the long round? 
+ 
+This is a brainstorming case. Every step in the value chain can go wrong, so the interviewer can discuss 
+any step in the value chain according to interviewee’s reaction and probe deeper. 
+ 
+The purpose of the case is to see: 
+•
+How the interviewee comes up with a structure that can cover the whole value chain. 
+•
+How the interviewee use hypothesis driven method to discuss possible reasons for the problem. 
+•
+How the interviewee ask for information and use that information to prove or disprove the 
+hypothesis. 
+Questions for the candidate 
+Additional Questions to Steer Discussion 
+ 
+
+
+===== PDF p132 =====
+- 127 - 
+ 
+•
+The interviewee should come up with a value chain that describe the end-to-end supply chain of the 
+client and analyze step by step through the value chain. 
+Forecast 
+•
+The client has an average forecast error of +/- 25%, which means improving forecast can improve 
+future inventory level. 
+•
+The closer to the sales date, the more accurate the forecast is. Therefore, the client should try to use 
+the latest possible forecast number for supply chain. However, the lead time for some of the raw 
+material is too long. Suggest to negotiate with suppliers to shorten lead time or build stock for such 
+raw materials. 
+ 
+Solution Guide 
+Suggested Solution and Structure 
+
+
+===== PDF p133 =====
+- 128 - 
+ 
+Procurement 
+•
+Some raw materials have very high minimum order quantity (MOQ) and large purchase for such 
+materials built up inventory. Negotiate with suppliers to lower MOQ. 
+•
+Some suppliers often miss delivery time and production window. Production is delayed and other raw 
+materials are sitting in the inventory and waiting for the missing ingredients. Improve supplier 
+compliance or switch suppliers. 
+•
+Procurement department is only evaluated by service level, so they tend to build up inventory to 
+ensure material availability. Introduce inventory level into the evaluation system. 
+Manufacturing 
+•
+There is mechanical constrain that a large quantity has to be made in a run (large batch size). Invest in 
+new equipment and R&D to reduce batch size. 
+Solution Guide 
+Suggested Solution and Structure 
+ 
+
+
+===== PDF p134 =====
+- 129 - 
+ 
+Distribution 
+•
+Safety stocks are maintained at every DC. Centralize inventory at manufacturing site can reduce 
+total safety stock by half. (square root of number of DC). 
+•
+The replenish cycle is currently a week. Increase replenish frequency could reduce cycle stock. 
+ 
+System Overall 
+•
+The client puts high emphasize on service level, so every step in the value chain increases its 
+“safety stock” to ensure high service level. Inventories then add up. Suggest to only maintain 
+safety stock at finished goods level and eliminate “safety stocks” at all the other steps. 
+•
+Bring inventory management mind set to clients’ employees and provide proper tools for 
+employees to manage inventory level. 
+Solution Guide 
+Suggested Solution and Structure 
+ 
+
+
+===== PDF p135 =====
+- 130 - 
+ 
+•
+The client should reduce production and dump inventory in the short round. 
+•
+Systematically improve supply chain in the long round. Recommended solutions depend on 
+what were covered during the case process. 
+•
+Employee mind set change. 
+Recommendation and Next Steps 
+Conclusion 
+ 

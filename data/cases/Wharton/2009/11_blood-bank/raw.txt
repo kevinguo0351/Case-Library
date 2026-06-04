@@ -1,0 +1,134 @@
+===== PDF p107 =====
+Case: Blood Bank 
+Bain, Round 2
+Our client is a blood bank that has operations spanning four states.  They operate many sites from which their staff go out to 
+different locations (e.g., schools and offices) in order to collect blood samples.  Next, the blood is transported to centralized 
+processing centers for testing, treatment, etc. (there is one processing center per state).  Finally, the blood is transported from the 
+testing centers to the hospitals that ultimately use the blood.  The blood bank faces competition from other blood collection
+organizations.  Only 80% of hospital demand for blood is currently being met.  As a result, hospitals often have to share blood by 
+transporting it between different hospitals, which is costly.  There are no substitutes for human blood (synthetic substances or animal 
+blood).
+Problem statement narrative
+103
+This is a basic profitability case but has a twist in that the 
+candidate is asked to prioritize among the different possible 
+mechanisms by which to improve profitability.  This means 
+that they will have to use their business judgment to assess 
+the feasibility of different options.
+Case Type: Profitability
+Overview for interviewer
+See following slides for further detail.
+Information to be provided upon request
+Their profitability has been slowly declining for some time and they are worried because new regulations are coming out that will 
+require them to invest in an expensive new technology.  The CEO wants to investigate potential areas to review in order to improve 
+profitability and wants to know how to prioritize among them.
+
+
+===== PDF p108 =====
+Case: Blood Bank 
+Sample Issue Tree & Qualitative Analysis
+Candidate may propose analysis / action in:
+•
+Revenues –opportunities to grow our top line?
+•
+Price – is there any flexibility in terms of the price we’re 
+currently charging hospitals?
+•
+Quantity – We know that there is unmet demand so how can 
+we increase the volume of units of blood we sell to hospitals?
+Internal Operations
+• Customers (hospitals) – what’s their elasticity of demand? What 
+criteria do they use when purchasing blood?
+• Suppliers (donors) – How can we increase the volume of donations?  
+Increase # of donors or frequency of donations?
+• Competitors – are our competitors profitable? Are they doing 
+External Market Forces
+104
+•
+Costs – opportunities to cut costs?
+•
+Variable costs – opportunities to improve procurement/labor?
+•
+Fixed Costs – opportunities to cut overhead/gain efficiency?
+something we’re not?
+Possible follow-up and guidance to interviewer
+Possible follow-up and guidance to interviewer
+Price – Given what we know about the market, what is your hypothesis 
+in terms of our ability to raise our prices?  Candidate should realize 
+that unmet demand gives client pricing power.
+Quantity – Candidate should quickly recognize that there is unmet 
+demand they can easily fill if they increase the size of their donations.
+Costs – Candidate should probe in this area and give ideas for cutting 
+costs, but interviewer should tell candidate that the client has already 
+been doing these and has cut costs as much as possible.
+Customers – A typical operation costs the hospital $40K and requires 
+an average of 2.5 units of blood.  Blood costs $100/unit.  
+Candidate should realize blood is relatively low cost for hospitals. 
+Interviewer can share that blood is seen as a commodity by hospitals.
+Suppliers – Candidate should explore possibilities for increasing 
+blood supplies to meet unmet demand.  A good candidate will come 
+up with multiple ways to increase supply.  In actuality, most have 
+been tried in real life and have not worked. Supply is essentially 
+fixed.
+Competitors – No additional info is known.
+
+
+===== PDF p109 =====
+Case: Blood Bank 
+Question 1 – Math
+How can we tell if we are breaking even?
+Follow-up after answer: If we’re losing money, what price do we need in order to break even?
+Follow-up after answer: Do you think this price is achievable?
+Math Question
+Overall approach, good shortcuts & solution
+None
+Information to provide up front
+105
+Fixed Costs = $15M
+Contribution Margin = $100 (Price) - $80 (variable costs) = $20
+Break Even Volume = $15M/$20 = 750K units
+The blood bank is not reaching their break even point (400,000 units).
+To solve the second question, hold volume and fixed costs constant and solve for 
+contribution margin:
+$15M/400K units = $37.50   They need to raise prices by $17.50 per unit.  This is 
+an increase of nearly 100%.
+To solve third question, evaluate the price impact on the hospitals:
+An operation costs $40K, blood costs are currently 2.5 x $100 = $250. Blood costs 
+are approximately 0.625% of total costs ($250/$40K).  There should be ample 
+room to increase these costs.
+-Overall fixed costs are $15M a year  
+-Variable costs are $80 per unit
+-Sales price is $100
+-Current volume is 400K units
+-Typical operation costs hospital $40K 
+(also provided earlier)
+-Typical operation requires average of 2.5 
+units of blood (also provided earlier)
+Provide information if asked
+
+
+===== PDF p110 =====
+Case: Blood Bank 
+Sample Recommendation
+First and foremost, raise prices to improve margins.  There is unmet demand and blood represents a 
+small portion of costs.
+Second, continue to look for ways to increase quantity in order to fill unmet demand.
+Finally, continue the efforts to keep costs minimal.  
+Recommendation
+Risks are low, since blood is essential, has no substitutes and there is unmet demand.
+Risks
+Immediately implement price increases
+I
+t
+fit i
+d
+t t
+t i
+d
+ti
+l
+l
+Next Steps
+106
+Invest new profits in order to try to increase donation levels
+Next Steps

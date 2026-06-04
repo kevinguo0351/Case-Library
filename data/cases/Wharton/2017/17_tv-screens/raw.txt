@@ -1,0 +1,401 @@
+===== PDF p180 =====
+KNOWLEDGE FOR ACTION
+TV Screens
+
+
+===== PDF p181 =====
+KNOWLEDGE FOR ACTION
+TV Screens – Supply Chain Pricing
+Level of Difficulty: Medium
+Case Similar to Cases at Firms: Simon-Kucher & Partners (Final Round)
+Topics Tested: Pricing, discounting policy, supply chain.
+Prompt: SKP has been retained by a consumer electronics screen manufacturer,
+Vivid, to perform a pricing optimization project.
+Vivid’s main product is HDTV (high definition TV) screens. Its main
+customers are well-known TV manufacturers in Asia and the US, who buy other
+components, build the finished TVs and sell them to retailers who use global
+distribution channels to reach the end-users.
+You have been assigned to this team and today is your first meeting with the
+project manager to review the information collected and brainstorm about key
+hypotheses.
+Wharton Casebook 2017
+177
+CASE 17
+
+
+===== PDF p182 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample pricing framework:
+Sample Clarifying Questions and Answers
+Is Vivid concerned about profitability, or just revenue?
+The client is looking at pricing in search of opportunities to grow 
+revenue.
+Are there patents in place?
+Vivid technology is patent-protected, and for manufacturers to 
+switch suppliers would require costly plant reconfiguration.
+Has revenue been declining year-over-year?
+While sales volumes have been increasing, revenue has remained 
+flat.
+Are competitors’ experiencing the same revenue decline?
+Unfortunately, we don’t have financials for any of the competitors.
+Pricing/Profit
+Sales
+Customers
+Product
+Competition
+-Pricing
+-Discounting
+-Segmentation
+-Features
+-Relative performance
+-Price structure
+-Discounting levels
+-Trends
+-Quality
+-Market shares
+-Price metric
+-Discounting policy
+-WTP
+-Substitutes
+-Comparative
+pricing/benchmarking
+-Price level
+-Sales incentives
+-Supply chain
+-Quantity
+-Sales KPIs
+-Suppliers
+-Cost
+-Switching costs
+178
+CASE 17
+
+
+===== PDF p183 =====
+KNOWLEDGE FOR ACTION
+Brainstorm: Data Request
+Wharton Casebook 2017
+Prompt: We need to send a request for information to the client at the beginning of
+the project, what information do you think would be useful to ask for?
+Notes for the interviewer: below are a sample list of data types the candidate
+might ask for. As he/she mentions them, probe them to explain why. Once they’ve
+run out of ideas, proceed to the first data prompt.
+Example answers:
+Production costs
+Customer feedback
+End-user street prices
+Sales incentives
+Sales volumes
+Client financials
+Discounting data
+Marketing/segmentation data
+Value chain cost structure
+Internal strategy documents
+179
+CASE 17
+
+
+===== PDF p184 =====
+KNOWLEDGE FOR ACTION
+Case Data (1): Production costs & pricing
+Wharton Casebook 2017
+Prompt:
+Production costs for HDTV screens have been as follows:
+2015: $400/screen
+2016: $250/screen
+2017: $200/screen
+2018: $180/screen (forecasted)
+The retail price (street price) each year has been $1,000/screen
+Prompt (if needed): What can you draw from this?
+Example key takeaways:
+•
+The client has realized significant, but decreasing economies of scale (37.5%,
+20%, 10% savings)
+•
+Profit margins have increased every year across the value chain, but we still
+need the wholesale price to understand client profitability.
+180
+CASE 17
+
+
+===== PDF p185 =====
+KNOWLEDGE FOR ACTION
+Case Data (2): Sales volume & discounting
+Wharton Casebook 2017
+Prompt:
+SKP has collected all data comparing the contract prices at which the screens were
+sold and the corresponding contract volumes.
+Marketing has set a list price of
+$400 for the screen and a discount authority floor of 40% for the sales team.
+Here’s what we’ve found: (show the candidate Exhibit 1)
+Prompt: What do you see here?
+181
+CASE 17
+
+
+===== PDF p186 =====
+KNOWLEDGE FOR ACTION
+Exhibit 1: Discount/Volume Curve
+Wharton Casebook 2017
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+50%
+45%
+40%
+35%
+Discount (%)
+Volume (units)
+*List price: $400/unit
+182
+CASE 17
+
+
+===== PDF p187 =====
+KNOWLEDGE FOR ACTION
+Case Data (2): Sales volume & discounting
+Wharton Casebook 2017
+Example Key takeaways:
+•
+Almost 40% of sales violates the 40% discounting floor, and there’s a peak
+at the stated limit—salesmen are discounting as much as they can get away
+with. There may be a volume-based incentive in place right now, and Vivid
+should consider a profit-based component to sales compensation.
+•
+If there’s time, have the candidate calculate the average selling price. The
+weighted average is $228. If they get stuck or there isn’t time, give them the
+exact answer and continue.
+List price * (1-disc) = Selling price
+$400 * 50% =
+$          200 
+$400 * 45% =
+$          220 
+$400 * 40% =
+$          240 
+$400 * 35% =
+$          260 
+Volume * Price = Tot. Rev
+3,000 * $200 = 
+$600K
+1,000 * $220 = 
+$220K
+5,000 * $240 =  
+$1,200K
+1,000 * $260 =
+$260K
+$2,280K 
+Total Rev / Volume = Avg Price
+$2,280K/10K = $228/unit
+(A)
+(B)
+(C)
+Solution:
+183
+CASE 17
+
+
+===== PDF p188 =====
+KNOWLEDGE FOR ACTION
+Case Data (3): Value chain cost structure
+Wharton Casebook 2017
+Prompt:
+We’re going to take a look now at a simplified version of the HDTV value chain,
+consisting of 1) Backlighting suppliers 2) Vivid (the complete screen) 3) TV
+manufacturers, and 4) Electronics retailers. Please take note of the following:
+Supplier 
+(backlighting)
+Vivid 
+(screens)
+TV Manuf
+Retailer
+Cost:
+$200
+$200
+$300
+$150
+Profit:
+$20
+$30
+With the information we’ve gathered so far, what can you tell me about the
+distribution of surplus (profit) in the supply chain, and the TV manufacturer’s
+willingness to pay for Vivid’s TV screens?
+184
+CASE 17
+
+
+===== PDF p189 =====
+KNOWLEDGE FOR ACTION
+Case Data (3): Value chain cost structure
+Wharton Casebook 2017
+Supplier 
+(backlighting)
+Vivid 
+(screens)
+TV Manuf
+Retailer
+Cost:
+$200
+$200
+$300
+$150
+Profit:
+$20
+(A)
+(B)
+$30
+Avg Price – Cost = Profit
+$228 - $200  =
+$ 28 
+(A)
+(B)
+Sum known SC components
+$200 + $20 = 
+$220
+$200 + $28 = 
+$228
+$300 + ___ = 
+$300
+$150 + $30 = 
+$180
+Subtotal:
+$928
+Retail price – subtotal = 
+Manuf. profit
+$1,000 – 928 =
+$72
+Solution:
+185
+CASE 17
+
+
+===== PDF p190 =====
+KNOWLEDGE FOR ACTION
+Case Data (3): Value chain cost structure
+Wharton Casebook 2017
+Example Key takeaways:
+•
+There is $150 in profit surplus distributed throughout the supply chain. Vivid
+retains ~$28 of that profit, which is better than the backlighting supplier, but
+considerably less than the TV manufacturer, who’s retaining nearly half of all
+surplus at $72.
+•
+Key question going forward: How strong is Vivid’s value-add? Should they be
+keeping a greater portion of the pie?
+186
+CASE 17
+
+
+===== PDF p191 =====
+KNOWLEDGE FOR ACTION
+Case Data (4): Customer feedback
+Wharton Casebook 2017
+Present the candidate with Exhibit 2 (interview excerpts)
+Prompt: What can we take from this?
+Example Key takeaways:
+•
+Manufacturing customers exhibit both a high willingness-to-pay for Vivid’s
+quality and a high switching cost to any other supplier. There’s a clear
+opportunity for Vivid to explore a price increase.
+•
+Vivid’s salesforce is subject to a high-pressure sales quota with the aim of
+increasing market share. As we’ve seen, this is likely creating a discount-
+heavy sales culture which leaves profit on the table due to excessive price
+erosion.
+187
+CASE 17
+
+
+===== PDF p192 =====
+KNOWLEDGE FOR ACTION
+Exhibit 2: Internal/External Interviews
+Wharton Casebook 2017
+“Although other screen technologies are cheaper, this 
+product gives the quality we need to charge the prices 
+we charge on the street.”
+“We built a $1 billion plant to produce HDTVs this 
+year. The plan only works with VIVID’s screens”
+“Although we have discount floors in the TV division, 
+when we are getting closer to the end of the quarter, I 
+need to close the deals to reach my sales quota. The 
+competition is too strong in this market and I need to 
+give the discounts.”
+“We can give higher discounts every year 
+because our costs go down every year too.”
+“If the management keeps asking us to grow our 
+market share, we need to lower our prices to increase 
+our sales, it’s the law of demand, basic economics!”
+Customer interviews (manufacturers)
+Internal interviews (sales)
+188
+CASE 17
+
+
+===== PDF p193 =====
+KNOWLEDGE FOR ACTION
+Wrap-up
+Wharton Casebook 2017
+Prompt: Your team is on the weekly update call with Vivid’s CEO and she wants to
+get straight to the point. What did you find in the data? What are the action items?
+The project manager nods your way. Go.
+Example Key takeaways:
+•
+Cost structure & Internal interviews: We know that price erosion and continued 
+rampant discounting is untenable, given the leveling off of cost reductions.
+•
+Data and Internal interviews: There is a misalignment of sales force incentives.
+They are rewarded for reaching volume quotas, and usually end up giving a
+discount just up to the discount floor, or cave on price all the way down to
+variable cost.
+There is a need for a more granular discount authority system
+and
+a
+variable
+price
+component
+to
+sales
+compensation.
+(continued on next slide)
+189
+CASE 17
+
+
+===== PDF p194 =====
+KNOWLEDGE FOR ACTION
+Wrap-up
+Wharton Casebook 2017
+Example Key takeaways (cont’d):
+•
+Value Chain: There is $100 of surplus to be split among the TV manufacturer
+and Vivid. Right now Vivid is getting ~$28 of that pie. That could be viewed as
+good, given the fact that other suppliers make only $20 profit, but on the other
+hand, customers have a very high opinion of the value of the screens and have
+high switching costs.
+Vivid should target a price increase. (A $40/$60 split of
+the surplus offers the most compelling message, as both players would then
+have
+20%
+return
+on
+sales.
+This
+would
+mean
+a
+Vivid
+ASP
+of
+$240).
+190
+CASE 17

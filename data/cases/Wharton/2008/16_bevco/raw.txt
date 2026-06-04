@@ -1,0 +1,154 @@
+===== PDF p115 =====
+Establishing the case
+Case: BevCo
+McKinsey, Round: 2 (Command and Control Style)
+Your client is BevCo, a global company that sells a wide 
+variety of non-alcoholic beverages. Their operations 
+are predominantly in North America. BevCo sells 
+primarily to retailers, restaurants, bars and wholesalers. 
+Recently, competition has been rising, giving consumers 
+more choices over brand as well as type of beverage. 
+This, in turn, has put pressure on margins. BevCo has 
+hired us to make recommendations on what actions to 
+take. 
+Problem statement narrative
+BevCo is involved in the production and marketing of 
+beverage drinks. They do not distribute
+Segments of drinks include:  
+Sugar (carbonated drinks, e.g. (Coke, Fanta), Juice, 
+Water, Tea/Coffee, Sports (e.g. Gatorade), Energy 
+(e.g. Red Bull), Diet
+Some segments, like Energy, have grown considerably in 
+recent years
+There are a few other large industry players
+Guidance for interviewer and information to be 
+provided on request
+111
+
+
+===== PDF p116 =====
+Analysis #1
+Present the candidate with Exhibit A, and ask him/her to interpret the situation (before diving into any 
+numbers).
+After discussing Exhibit A, have the candidate compute total last year sales, this year sales and the 
+overall growth
+Next, have the client brainstorm what the consumer drivers behind the shift in industry dynamics are
+Question
+Some key takeaways from Exhibit A: 
+-BevCo‟s sales have decreased significantly in some of their 
+largest segments (e.g. Sugar and Juice drinks) and have 
+increased in segments that are small (e.g. Energy drinks)
+-Hypothesis: BevCo has been putting too much emphasis on 
+fast growing market segments, like Energy, at the expense 
+of established market segments, like Sugar and Juice. They 
+should not neglect their main source of profitability 
+-Hypothesis: BevCo‟s gain in revenues from Water, Sports, 
+and Energy is less than the loss in Sugar, Juice, Diet, and 
+Tea/Coffee.
+Exhibit A Key Takeaways
+Solution
+Sales last year 
+($,millions)
+Growth Sales this year 
+($,millions)
+CAGR
+Sugar
+41
+-5%
+39
+Juice
+18
+-50%
+9
+Water
+17
+15%
+20
+Diet
+15
+-4%
+14
+Sports
+5
+23%
+6
+Tea/Coffee
+3
+-6%
+3
+Energy
+1
+100%
+2
+Total
+100
+93
+-7%
+Candidate should observe that overall sales are decreasing as a result of management‟s efforts to focus more on Energy 
+drinks. Possible consumer drivers: It looks like there is high growth in the Water, Sports and Energy segments. Drivers behind 
+this might include factors such as health, sports, trendiness, demographics. For example, there is a larger proportion of 
+young people in the population. This young crowd is a lot more health conscious, a lot more sporty and cares a lot more 
+about trendiness than previous generations
+112
+
+
+===== PDF p117 =====
+Analysis #2
+Next, BevCo wants to assess the opportunity of the Energy Drinks market in the US. They specifically 
+want to target young males in the 16-32 age group. How would you go about doing this? 
+Question
+Candidate should recognize this as a market size case. 
+He/she should brainstorm the different elements of the 
+computation before he/she starts crunching numbers. A 
+good candidate will identify the following necessary 
+elements: 
+-Number of people in the 16-32 age group
+-Drinking habits of this age group
+-Market share, price point and margin
+Overall approach, good shortcuts & solution
+Assumptions: 
+- US population is 300 million, half of them are male
+- Life expectancy in the US is about 80 years
+- US population is uniformly distributed (i.e. equal number 
+of people at each age)
+Assumptions to be made
+- 16-32 males are estimated to have about 20 drinks/year
+- BevCo thinks they can get a 5% market share, at a price 
+point of $3, and a gross margin of 20%
+Provide information if asked
+Revenues: 300 million people x 50% male x 16/80 people 
+in the target age group x 20 drinks/yr x 5% mkt share x 
+$3 price = $90 million in revenues
+Profit: $90 million x 20% margin = $18 million
+Candidate should recognize this is a huge potential (their 
+largest segment right now is $41 million in sales)
+Solution
+113
+
+
+===== PDF p118 =====
+Exhibit A
+41
+18
+17
+15
+5
+3
+1
+Sugar
+Juice
+Water
+Diet
+Sports
+Tea/Coffee
+Energy
+BevCo sales last year ($, millions)
+-5%
+-50%
+15%
+-4%
+23%
+-6%
+100%
+BevCo sales growth
+114

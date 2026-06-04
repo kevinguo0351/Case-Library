@@ -1,0 +1,213 @@
+===== PDF p46 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+42
+Case tracker
+Fit Questions
+Industry: 
+Tech & Telecom
+Level of Difficulty: 
+Hard
+Case format:   
+Improving profitability
+Concepts being tested:
+- Competitive 
+analysis
+- Operations
+Case Question
+Syzygy Supercomputers is a large international fully-integrated computers and communications company with annual 
+revenues of approximately $20 billion U.S.. In the past several years, the company has seen a steady decline in profits.
+The CEO has asked us to look into this problem.  How can Syzygy Supercomputers get back on track?
+Spend  first 15 min on fit
+What is the single most 
+important detail in your 
+resume?
+What is the least 
+important detail in your 
+resume?
+Why is the lifestyle of 
+this job right for you? 
+Guide to interviewer
+This case is about a tech company undergoing a decline 
+in profitability, despite a strong competitive position. 
+Syzygy has been overinvesting in R&D relative to its 
+returns and performance has suffered as a result.
+The interviewee is expected to go through these general 
+steps while presenting a solution:
+1. Confirm profitability issues and ask to see 
+historical revenue and cost information.
+2. Ask to see market position and related data.
+3. Realize that this case is going to be decided 
+based on information regarding the products. 
+4. Identify the main issue affecting profitability –
+the  company’s  R&D  spending
+Case 5: Syzygy Supercomputers
+Quants.
+3
+Structure
+7
+Profit Imp.
+Comp. Anl
+Ops.
+By:  Edwin Van Dusen, Brian Fox and David Welch (Kellogg  Class  of  ‘04),  Edited  By:    Uri  Kalir  (Kellogg  Class  of  ‘12)
+
+
+===== PDF p47 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Clarifying answers and case guide 
+Interviewer Guide to Case
+A sample case structure would include the following:
+1)
+Examination of historical performance to deep-dive declining profits.
+2)
+Discussion of market dynamics and competitive positioning.
+3)
+Deep-dive into drivers and profitability , ultimately leading to a discussion of 
+SG&A
+Necessary Information that should be given only when specifically asked for by 
+interviewee:
+Historical costs, revenues and profits – exhibit 1
+Note that the interviewee should be asking for historical trends in the 
+company’s  profitability.  If  they  are  asking  only  for  current  profitability,  
+interviewer should point them in the direction of historical trends
+Market data – exhibit 2 followed by exhibit 3
+Interviewer should give the interviewee a few seconds to understand 
+slide 2 and then handout slide 3. Interviewer should ask interviewee 
+which product in slide 3 is which (on slide 2).
+R&D spending data – exhibit 4 and exhibit 5
+The candidate will naturally ask about potential drivers of profitability 
+(S&GA expense, COGS, etc.).
+These exhibits should only be given once the candidate has identified 
+R&D  as  a  driver  of  Syzygy’s  profitability.
+Clarifying answers to provide if 
+Asked
+General Information on Syzygy
+- Only the information that has already 
+been given. Other information currently 
+unavailable.
+Competitive Dynamics
+- There are several players in the market, 
+but everything has remained stable 
+from a competitive standpoint.
+Profitability drivers
+- COGS, SG&A, and other profitability 
+factors are on-par  with  Syzygy’s  
+competitors (except for R&D, about 
+which the candidate should ask 
+specifically).
+43
+
+
+===== PDF p48 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Key elements to analyze
+Interpreting Exhibit 3
+Notes on Exhibits 2 & 3
+Notes on Exhibits 4 & 5
+The X axis represents absolute market 
+share (AMS), which correlates with 
+the  height  of  Syzygy’s  rectangles  in  
+exhibit 2.
+The Y axis represents relative market 
+share  (RMS),  calculated  as  Syzygy’s  
+market share divided by the market 
+share of the closest competitor. If 
+Syzygy is the market leader, this 
+number is greater than 1. If Syzygy is 
+not the market leader, its market 
+share  divided  by  the  market  leader’s  
+share will be lower than 1. This 
+correlates with the the ratio of the 
+height  of  Syzygy’s  rectangles  to  that  of  
+competitors’  rectangles  for  each  
+product in exhibit 2.
+The diameter of the bubbles is driven 
+by  Syzygy’s  total  revenues  in  that  
+category, comprised of its market 
+share in the category multiplied by the 
+category’s  size.
+Correctly interpreting slides 2 and 3 
+will lead the candidate to correctly 
+identify the products  on slide 3:
+Product #1 is custom 
+applications
+Product #2 is supercomputers
+Product #3 is telecom 
+equipment
+Product #4 is satellites
+Product #5 is operating 
+software
+The key insight in exhibit 4 is that 
+Syzygy is the only major competitor in 
+this industry whose R&D spending is 
+below  the  “normative  band”
+We  would  expect  each  company’s  
+degree of technical leadership to go 
+up as it invests in R&D, but Syzygy, 
+with slightly more R&D spending than 
+Cray Research and Sonic Wave, enjoys 
+less of a perception of technical 
+leadership from its customers
+Exhibit 5 builds on this point. The key 
+insight is the absolute expense (not 
+percentage) Syzygy is spending on 
+R&D. Correct analysis will show that 
+Syzygy is spending money on features 
+that  do  not  generate  customers’  
+“willingness  to  pay”.  Syzygy  is  
+spending money to develop features 
+that consumers are not willing to pay 
+for.
+44
+
+
+===== PDF p49 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Solution and recommendations
+Solution & Recommendations
+The candidate should be able to produce one of the following insights:
+Cut R&D to eliminate spending on unnecessary customer features.
+Keep R&D spending the same, but switch the work to developing features that consumers will be willing to 
+pay for at a level that is higher than the R&D expense itself.
+A second-order insight from the case is that Syzygy should exit the operating software business (product #5 in this 
+case)  since  it’s  small  market  share  will  continue to erode as a result of economies of scale, network economics and 
+the experience curve all working against it.
+Bonus/Guide to an Excellent Case
+An excellent interviewee will –
+Take a few seconds to fully understand each of the complex graphs he/she is given before giving an answer.
+Immediately ask about R&D spending and not go through COGS or SG&A first (this is a hi-tech company, so 
+R&D spending should be looked-at before other drivers of profitability).
+Conclude their recommendation by not only stating that Syzygy should exit the operating software business, 
+but also focus on the categories in which it is the market leader in order to get some or all of those 
+economies to work for it and against its competition.
+45
+
+
+===== PDF p50 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit  1:  Syzygy’s  Historical  Costs,  Revenues  and  Profits
+46
+
+
+===== PDF p51 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit 2: Worldwide Telecom Computing Market (Today)
+47
+
+
+===== PDF p52 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit  #3:  Syzygy’s  Absolute  vs.  Relative  Market  Share
+48
+
+
+===== PDF p53 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit  #4:  Companies’  R&D  vs.  Degree  of  Technical  Leadership
+49
+
+
+===== PDF p54 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit  #5:  Syzygy’s  R&D  Expenses  and  Selling  Prices  for  
+Supercomputers
+50

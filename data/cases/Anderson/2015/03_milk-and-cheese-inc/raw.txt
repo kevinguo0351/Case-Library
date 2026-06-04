@@ -1,0 +1,126 @@
+===== PDF p19 =====
+ 
+Prompt 
+Another team in your firm is already working on costs and expenses. Your team is focusing on MCI  
+portfolio. 
+ 
+Your role is to analyze which, if any, products MCI should stop producing/selling. How would you  
+do that? 
+ 
+ 
+ 
+ 
+Guidance 
+The candidate must consider that MCI has a portfolio of 1,000+ products. 
+ 
+That being said, the candidate should understand that, in the real world, it would be spreadsheet with  
+1,000+ lines, and columns describing the product and one of the following options: 
+•  Revenue and COGS 
+•  Price, Cost/unit and Volume 
+•  Margin and Volume 
+•  Margin and Revenue 
+ 
+The last one is easier to work in this case, but we will use margin vs. volume, and considering that there  
+is no relevant difference in prices among the products. Therefore, a scatter plot is the best option. Once  
+the candidate asks for it, show him/her the graph on the next page. 
+Profitability 
+63 
+BCG 
+Case 8: Milk & Cheese, Inc. 
+
+
+===== PDF p20 =====
+Case 8: Milk & Cheese, Inc. 
+Sample Framework 
+
+
+===== PDF p21 =====
+Profitability 
+BCG 
+Case 8: Milk & Cheese, Inc. 
+64 
+
+
+===== PDF p22 =====
+ 
+ 
+Guidance 
+If the candidate asks, provide the following information: 
+•  SG&A is not affected by the potential changes 
+•  Average volume is 35k tons 
+•  Average Margin is 16% 
+ 
+The candidate must do his/her own graphs: Pareto (80/20) or dividing the prior graph in four squares,  
+using the averages as axis. If the candidate does not realize it, show him/her the next page. 
+Profitability 
+65 
+BCG 
+Case 8: Milk & Cheese, Inc. 
+
+
+===== PDF p23 =====
+Profitability 
+BCG 
+Case 8: Milk & Cheese, Inc. 
+80% 
+20% 
+Products 
+Profit 
+(Cumulative) 
+A 
+66 
+B 
+D 
+C 
+I 
+II 
+
+
+===== PDF p24 =====
+ 
+ 
+ 
+Guidance 
+In the first graph, the idea is “all the products in the category I is important for the company. The  
+problematic products will be in the category II”. There are ~200 products in category II. 
+ 
+In the second graph, consider that there are at least 200 products in each zone. The idea is: “the  
+products in the zone D should be considered our targets to be no longer in MCI portfolio”. 
+ 
+Finally the candidate should arrive at a conclusion along the lines of: “Based on our analysis, there are at  
+least 200 products that are not bringing relevant contribution to MCI profit. MCI should consider selling  
+these products to minor competitors or simply stop its production, if selling these products to competitors  
+represents a major risk.” 
+Profitability 
+67 
+BCG 
+Case 8: Milk & Cheese, Inc. 
+
+
+===== PDF p25 =====
+ 
+ 
+ 
+ 
+ 
+Performance  
+Evaluation 
+Expected: 
+•  Structures a sound profitability framework 
+•  Figures out the graph analysis is the best method 
+•  Suggests the scatter plot or the 80/20 chart 
+Good: 
+•  Complete all “Expected” requirements 
+•  Suggests both analyses methods 
+•  Quickly asks for information to understand the goals of the company (desired/undesired margins) 
+Excellent: 
+•  Complete all “Good” requirements 
+•  Suggests more than one alternative to deal with the problematic products (stopping, selling,  
+empowering, analyzing potential growth, etc.) 
+•  Analyzes risks of suggested solutions (e.g., selling to major or minor competitors may jeopardize  
+MCI businesses) 
+•  Could solve the case without much help from the interviewer 
+Profitability 
+68 
+BCG 
+Case 8: Milk & Cheese, Inc. 

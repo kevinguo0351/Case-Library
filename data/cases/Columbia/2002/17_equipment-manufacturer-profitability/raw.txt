@@ -1,0 +1,95 @@
+===== PDF p82 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+78 
+Please do not duplicate, copy, print or photocopy 
+ 
+Your client designs, manufactures, and markets a full line of bicycles.  The company’s sales and 
+profits had been growing until three years ago when its profitability flattened and began 
+declining.  Why did this happen and how can the client fix the problem? 
+ 
+We’ll start by examining elements of the profit equation: 
+Profit = (Price x Volume) – Costs 
+ 
+I’d like to assess whether revenues (price x volume), expenses, or both are the source of 
+decreasing profits.  Can you tell me how much revenues and expenses have been increasing or 
+decreasing? 
+ 
+!"Revenues are growing roughly at the same rate as before the downturn.  Expenses are 
+increasing disproportionately, however. 
+ 
+So we need to determine the source of increasing expenses.  Are cost increases due to operating 
+or administrative activities? 
+ 
+!"Administrative costs are growing, but operating costs appear to account for the bulk of 
+increased expenses. 
+ 
+Which components of operating costs – fixed or variable – are increasing? 
+ 
+!"Fixed costs are growing but variable costs appear to account for the bulk of increased 
+expenses. 
+ 
+Which components of variable cost – direct or indirect – have been increasing? 
+ 
+!"Both have been growing, bicycles have become more sophisticated, with better materials and 
+components.  However, the increasing cost per bike has been comparable to the growing 
+price/revenue per bike.  Indirect costs are increasing disproportionately. 
+ 
+Which components of indirect variable costs are responsible – materials or labor? 
+ 
+!"Allocations of indirect materials are about the same (usage per bike has remained about the 
+same).  However, allocation of indirect labor appears to be the big problem. 
+ 
+Why are indirect labor costs increasing?  It must be that laborers are spending more time on 
+activities not directly related to the manufacture of a bicycle (or maybe sitting idle more).  Are 
+there bottlenecks in the system?  In other words, has work-in-progress inventory been increasing? 
+
+
+===== PDF p83 =====
+Business Type Cases (full answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+79 
+ 
+!"Yes it has.  When you look at the factory floor, you see many bikes waiting around.  What do 
+you think the bottlenecks result from? 
+ 
+It could be from capacity constraints. 
+ 
+!"No, it’s not capacity related – there’s plenty of throughput available.  However, much time 
+appears to be spent nowadays in setup-resetting paint booths, welding jigs, dies and presses, 
+etc.  Why do you think this has occurred? 
+ 
+Increased setup time can result from either an increasing number of setups per bike or increasing 
+time per setup.  Has time per setup increased? 
+ 
+!"No, it has actually decreased as workforce has improved setup tools, jigs, etc.  In addition, 
+workforce turnover and labor relations are all fine. 
+ 
+Then the problem must be the result of increased setups.  That would make sense since you said 
+earlier that bikes have been getting more sophisticated with better materials.  There are probably 
+more material options for bike buyers to choose from, forcing manufacturers to produce a greater 
+of bike varieties.  This would cause an increase in the number of manufacturing setups that were 
+required. 
+ 
+!"That’s correct.  In addition, at the time of profit decline the industry was trending towards 
+increased specialization in bicycles: touring/mountain/racing/hybrid/etc.  This company had 
+responded with rapidly proliferating product lines, leading to increased number of setups 
+and lower volume per assembly run.  What are some things the company can do to try to 
+alleviate this problem? 
+ 
+They could try to rationalize product lines, and try to increase shared components across model 
+lines.  Also, greater volume on each production run may yield better results. 
+ 
+!"Good job. 
+ 
+NOTE: The key to this case is methodically dissecting the cost structure for the company, and 
+knowing what the components of cost are (i.e. cost accounting). 

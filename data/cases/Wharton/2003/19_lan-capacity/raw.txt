@@ -1,0 +1,47 @@
+===== PDF p61 =====
+57 
+Case Interview Study Guide © 
+ 
+LAN CAPACITY 
+Category: Operations 
+ 
+ 
+Question (posed by interviewer): 
+ 
+In a corporate LAN there is a single web based application used by 1000 employees.  The 
+application provides employees with information for the next working day.  There is one access 
+link with a current capacity of 64kb per second.  If a transmission rate of 2 seconds per web 
+page is expected what should the link’s bandwidth be in megabytes? 
+ 
+Information to be given if asked: 
+ 
+Additional information: 
+- 
+60% of users use app. on last 3 hours of first day.  40% on first three hours of next day.  
+Could assume they were evenly distributed within the 3 hours (ie:  200 per hour on first 
+day) 
+- 
+Each web page is 100 KB. 
+- 
+It takes one user 15 minutes to download all the pages (if nobody else is using the app). 
+- 
+Only look into modifying supply.  Did not care about affecting demand patters. 
+ 
+Solution: 
+ 
+Maximum demand = capacity needed 
+Throughput 
+ 
+Maximum demand = page size x # of pages per user x maximum number of users 
+ 
+Time it takes to download one page = 100 kb / 64 kbps = approx. 1.5 secs 
+ 
+Number of pages per user = 15 minutes x 60 secs /1.5 secs = 600 pages per user. 
+ 
+Max. number of users = 200 per hour in busiest period / 60 min = round up to 4 users per minute 
+ 
+Maximum demand = 100 kb per page x 600 pages per user x 4 users per min/60 secs = 40 pages 
+per sec or 4000 kb per sec 
+ 
+Capacity needed = 40 pages per sec/ 2 sec per page  = 20 pages or 2000 kb  = about 2 mb 
+ 

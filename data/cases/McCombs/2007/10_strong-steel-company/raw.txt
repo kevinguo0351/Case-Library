@@ -1,0 +1,290 @@
+===== PDF p26 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 23 
+ 
+Case 10: Strong Steel Company 
+Company: Bain and Company 
+ 
+Strong Steel Co. is a large European steel manufacturing with annual revenues of $6.3B and 
+operating profits of $650M. The company operates integrated mills. Their competitors in Europe are 
+10 other integrated mills (IM’s), using 150 year old blast furnace technology and 30 mini-mills (MM’s), 
+all of which are smaller than the IM’s; they use most modern technology, a method commercialized 
+during 1970’s. A process flow diagram for both the technologies and the end product of each stage is 
+given below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question: Ask the candidate what he/she can understand from the flow diagram. (Guide if they don’t 
+get there soon) 
+ 
+Answer: Only the melting process is different. All others are same. The basic product (hot roll) feeds 
+the upstream stage, gaining value at each stage.  
+ 
+Main Case Question: A new steel commodity exchange is under development in the European Union. 
+The company will be able to buy and sell commodity steel (hot rolls) on the exchange. With the 
+opening of the online exchange, should Strong Steel Co. continue to make its own commodity steel 
+or should it buy commodity steel?  
+ 
+Additional information: If they decide to exit the production of commodity steel (hot rolls) and 
+decide to buy from exchange, the bought steel will be used as inputs for manufacturing value added 
+steel.  
+ 
+Cast
+Melt
+Roll
+Finish
+Coat
+Raw 
+materials
+Raw material
+• Ore
+• Coke
+• Coal
+Basic oxygen
+furnace
+Blast
+furnace
+Continuous 
+caster
+Hot rolling 
+line
+Cold rolling
+line
+Hot dipping 
+line
+Electro-
+galvanizing line
+Scrap
+Electric arc
+furnace
+Integrated mill
+Mini-mill
+Product:
+•
+Melt
+•
+Slab
+•
+Hot roll 
+•
+Cold roll
+•
+Hot Dip
+•
+Electro-galvanized
+
+
+===== PDF p27 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 24 
+ 
+How to solve this case? Let us use the hypothesis driven problem-solving method. Say the 
+hypothesis here is ‘Strong Steel should buy commodity steel from the exchange’. To prove this we 
+need to answer the questions shown in the box below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data: Provide the following data about Strong Steel to the candidate when asked. 
+ 
+  
+Volume       
+(‘000 tons) 
+Price    
+($/ton) 
+Unit Cost 
+($/ton) 
+Commodity steel 
+  
+  
+  
+Hot roll 
+13.0 
+275.00 
+260.00 
+Value-added steel  
+  
+  
+  
+Cold roll 
+5.0 
+320.00 
+280.00 
+Hot dipped 
+2.0 
+410.00 
+360.00 
+Electro-galvanized 
+1.0 
+560.00 
+475.00 
+Total 
+21.0 
+  
+  
+ 
+The candidate is expected to perform the following calculations for Strong Steel 
+ 
+  
+Sales 
+In $m 
+Operating 
+costs 
+In $m 
+Operating 
+profit 
+In $m 
+Individual 
+revenue as % of 
+total revenue 
+Individual profit as 
+a % of total profits 
+Commodity steel 
+  
+  
+  
+  
+  
+Hot roll 
+3575.0 
+3380.0 
+195.0 
+54.54% 
+33.62% 
+Value-added steel  
+  
+  
+  
+  
+  
+Cold roll 
+1600.0 
+1400.0 
+200.0 
+24.41% 
+34.48% 
+Hot dipped 
+820.0 
+720.0 
+100.0 
+12.51% 
+17.24% 
+Electro-galvanized 
+560.0 
+475.0 
+85.0 
+8.54% 
+14.66% 
+Total 
+6555.0 
+5975.0 
+580.0 
+100.00% 
+100.00% 
+Strong Steel should buy commodity 
+steel from the exchange
+•
+How much revenue and profit currently 
+comes from commodity steel?
+•
+How much would the company need to save 
+by buying commodity steel on an exchange 
+to make up for profit lost by not making it?
+•
+What are Steel Co’s production costs 
+compared to mini mills?
+•
+What will the market price for commodity 
+steel be?
+- Candidate has to make assumptions
+Savings from buying on commodity market 
+will be more than profit lost from 
+abandoning commodity steel production
+Strong Steel Co’s cost disadvantage in 
+commodity steel will make this an 
+unprofitable business
+
+
+===== PDF p28 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 25 
+ 
+Key conclusion from the calculations: The profits and revenues contributed by commodity steel is 
+significant to Strong Steel. 
+ 
+Additional data: To produce commodity steel the operating costs for mini-mills is $220 per ton 
+ 
+Key conclusion: It is highly likely that the price of commodity steel on the exchange will drop below 
+$260 which is the variable cost per ton for integrated steel manufacturers. This means that our client 
+will make losses 
+ 
+How much should be the minimum saving from the ‘Buy’ decision so that we can maintain the same 
+profits as now? (The steel bought will be used as inputs to the value added steel) 
+ 
+Calculations to be performed by candidate:  
+ 
+Profits that the client will give up = $ 195 million 
+Number of tons produced after exiting commodity steel = 8000 tons (Only value added = 
+5000+2000+1000) 
+To keep the same profits extra savings needed = 195,000,000 / 8000 = $ 24.375 per ton 
+ 
+Buying commodity steel in the exchange should result in at least $ 24 to $25 per ton saving keep the 
+same profits. 
+ 
+Recommendations: The numbers and environment suggest that Strong Steel should exit commodity 
+steel production and start buying from the exchange. Ask the candidates for the risks of such a 
+decision to exit 
+ 
+- 
+Union and labor issues from laying off labor 
+- 
+Pressure from the government 
+- 
+Loss of control on quality of steel 
+- 
+Competitive weakness 
+- 
+Subject to fluctuations in the market price 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,28 @@
+{
+  "case_id": "Ross_2019_03_bailey-brothers-bancorp",
+  "school": "Ross",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2019.pdf",
+  "idx": 3,
+  "case_name": "Bailey Brothers Bancorp",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 56,
+  "pdf_page_end": 63,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    58,
+    60,
+    61,
+    62
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p060.png",
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p062.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2019\\03_bailey-brothers-bancorp"
+}

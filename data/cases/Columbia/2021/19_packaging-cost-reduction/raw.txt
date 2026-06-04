@@ -1,0 +1,241 @@
+===== PDF p183 =====
+The client is a tier 1 supplier to the auto industry, manufacturing and distributing both electrical and seating components. 
+The client is concerned about the high costs related to its packaging operations. Your client, the VP of Supply Chain, is 
+targeting a 30% cost reduction of their total packaging cost in 12 months
+Problem Statement Narrative
+Difficulty: Easy
+Industry: Manufacturing
+Case Type: Cost Reduction
+Concepts Tested
+Case #2 : Packaging Cost Reduction
+This case should be candidate led. The candidate needs to keep in mind the specific goal of a 30% cost reduction while 
+being aware of how the means to achieve that reduction could have potentially negative consequences for the firm. Push 
+them on the brainstorms and, wherever possible, try to have the candidate ask for the data they need
+Case Notes
+Packaging Cost Reduction
+• Supply chain
+• Brainstorming
+• Mental math
+179
+
+
+===== PDF p184 =====
+1.
+Internal processes
+a.
+Financials of ‘corrugated’ vs. ‘reusable’ – i.e. 
+cheap disposable vs. up front expensive 
+reusable
+b.
+Supplier fragmentation – potential for 
+consolidation
+c.
+Internal coordination – centralized 
+procurement process and communication 
+between regional heads
+2.
+Client driven demands
+a.
+Customization of packaging depending on 
+fragile nature of some components?
+b.
+Geographical dispersion and number of client 
+locations
+Sample Framework
+Three key areas that we will explore:
+•
+Hypothesis for why costs have increased
+•
+Brainstorming around one of these hypothesis
+•
+Data and analysis
+Guidance for Interviewer
+•
+Describe the steps in the supply chain
+1.
+Create components
+2.
+Ship to warehouse where each component is 
+packaged into either corrugated cardboard 
+boxes, or plastic reusable containers
+3.
+Additional steps like labeling, shrink wrap etc.
+4.
+Logistics company hired to ship to clients
+•
+1000x suppliers for packaging alone, of which 50x 
+represent 80% of packaging spend
+•
+Company operates in three independent regions (NA, 
+Asia, Europe)
+•
+Tier 1: highest priority supplier for auto industry
+•
+Currently spend $60 on packaging
+Clarification Answers if  Asked 
+Packaging Cost Reduction
+Question #1 / Framework 
+How should your client reduce their packaging costs?
+180
+
+
+===== PDF p185 =====
+Question #2
+Brainstorm pros and cons of corrugated cardboard boxes vs. reusable plastic
+Question
+Possible Solution
+Packaging Cost Reduction
+Pros
+Cons
+Corrugated 
+Cardboard Boxes
+1.
+Commoditized product with multiple 
+suppliers
+2.
+Lower unit costs
+3.
+Customizable
+4.
+Lighter
+5.
+Easily replaceable
+6.
+Easy to label
+1.
+Less durable
+2.
+More variable quality
+3.
+Some environmental concerns
+4.
+Continuous procurement required
+Reusable
+1.
+Reusability (value over time)
+2.
+Quality
+3.
+Environmentally friendly
+4.
+Potential for other uses
+5.
+Less frequent procurement
+1.
+Heavy
+2.
+Upfront investments
+3.
+Fewer suppliers
+4.
+Less customizable
+5.
+Logistic return
+6.
+Storage issues
+181
+
+
+===== PDF p186 =====
+Question #3
+Verbally tell the candidate the following:
+•
+$60M is the current total spend on packaging, 1/3 on corrugated boxes, 1/4 on reusables containers, remainder on 
+other items like palettes
+•
+New ‘diversity’ supplier of corrugated cardboard has a pricing proposal: (i) 4M boxes at $4.50/box; (ii) 5.5M boxes at 
+$3.00/box; (iii) 7M boxes at $2.50/box
+•
+2% federal rebate on purchases from ‘diversity’ suppliers
+If asked, client currently pays $4 per box and $200 per container. Each container is equivalent to 10 boxes. Client 
+is only exploring a deal with this potential supplier
+Question
+Solution
+Packaging Cost Reduction
+•
+(I) Switching just the corrugated => $60M total spend, 1/3 = corrugated at $4 => 5m boxes… new price = $4.50 => 
+factor in rebate => $22.05m vs. $20m originally
+•
+(II) Switch everything to new supplier => $60M total spend, 1/4 at $200 => 75k reusable containers => 1 container 
+equals 10 boxes => 750k boxes
+•
+(III) Combined, 5.75M boxes. New price = $3.00 => total cost of boxes is $17.25M => factor in rebate => $16.9m
+•
+(IV) Previous spend of $35M on boxes and reusable containers means an $18.1M reduction, or a 30.1% reduction on 
+their $60M current spend
+•
+However, issues with switching to a single new supplier
+182
+
+
+===== PDF p187 =====
+Question #4
+What other considerations should the client consider when exploring this supplier switch?
+Question
+Solution
+Packaging Cost Reduction
+New Supplier 
+Considerations
+Elimination of  Existing 
+Suppliers Consideration
+Other Considerations
+1.
+Quality risk with unproven 
+supplier
+2.
+Lack of experience with 
+our / client requirements
+3.
+Single-supplier risk
+4.
+Implementation risk
+5.
+Geographic capabilities
+1.
+Loss of long term 
+relationships and 
+associated benefits (e.g. 
+customization, price flex, 
+R&D)
+2.
+Client reaction
+3.
+Legal
+1.
+Environmental Impact
+2.
+Consumer 
+shock/recognition of 
+packaging
+183
+
+
+===== PDF p188 =====
+Conclusion
+•
+In order to meet the client’s goal of a $30% reduction 
+in costs, we recommend that the client stop 
+purchasing reusable packaging and switch to buying 
+all boxes from the new supplier
+Recommendation
+•
+The client can achieve a 30.1% reduction in costs, 
+which exceeds the goal of a 30% reduction
+Rationale
+•
+See previous brainstorm
+Risks
+•
+Understand legalities of terminating contracts with 
+current suppliers
+•
+Ensure that client needs are thoroughly 
+communicated to new supplier
+•
+Understand how removing reusable packaging will 
+impact current operations
+•
+Engage stakeholders within company
+Next Steps
+Packaging Cost Reduction
+184

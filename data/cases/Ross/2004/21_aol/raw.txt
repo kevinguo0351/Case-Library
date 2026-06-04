@@ -1,0 +1,164 @@
+===== PDF p49 =====
+Table of Contents 
+ 
+45
+ 
+Practice Case 21: AOL  
+(Diamond Cluster - Round 1) 
+ 
+I.  Case scope provided by interviewer:    
+ 
+Its early 2003 and you are staffed at a leader ISP.  Itís been a dismal 
+year with declining profits for this company and the CEO has recently 
+announced that this will be reset year and that they are looking 
+forward to 2004 being a rebound year with aggressive revenue 
+growth.  The CEO has been getting mixed messages from 3 camps 
+within the organization.  One camp thinks AOL should focus only on 
+content and ditch the dial-up service offering.  Another thinks they 
+should focus on connectivity alone and a third camp thinks that the 
+best strategy to grow revenues in 2004 is to focus on both.  Weíve 
+been asked by the CEO to recommend some actions.  We are the first 
+team meeting, what issues do you think we should look at to assess 
+the situation and come up with a recommendation. 
+ 
+II. Additional information provided after relevant questions:   
+ 
+The discussion was fairly high level and did not involve any numbers (at least 
+none that were used in calculations).  The goal was to develop a high level 
+approach and some ideas for revenue generation for the ISP. 
+ 
+Information given: 
+• 
+Client offers connectivity through a dial-up service only, and provides 
+content to its customers 
+• 
+Client has considerable proprietary content  
+• 
+New content takes 6-12 months to create. 
+• 
+The competition in the dial-up space has been fierce and has been 
+driving prices down.   
+• 
+Our client currently charges on average $20/month for its service. 
+• 
+They currently have have 27 million customers,  
+• 
+17 million customers have left this year alone 
+• 
+Customers can be categorized by age and value drivers 
+• 
+< 20 yrs - driven by price, looking for cheap connectivity   
+• 
+20-45 yrs ñ has wider bandwidth needs 
+• 
+>45 yrs ñ convenience and simplicity 
+• 
+Two options are currently being considered 
+o Partner with local DSL/Cable service provider to offer their 
+service with a broadband version of the content  
+o Our client chooses the right connection (DSL/Cable) for its 
+customers and whatís located in their area.   
+ 
+III. Cracking the case:   
+ 
+
+
+===== PDF p50 =====
+Table of Contents 
+ 
+46
+In order to make sure I understand our clientís revenue model, I would like 
+to know what specific products and services provides? 
+ 
+Ok, our client offers connectivity through a dial-up service only, and provides 
+content to its customers. 
+Do they develop all of their own content or do they partner with other 
+content developers? 
+ 
+They develop content as well as partner with others to provide content. 
+ 
+Ok, now that I have a clearer understanding of what our client does, Iíd like 
+to look at the reasons why profits have been declining?  First, Iíd like to start 
+by understanding our current revenue streams.  Has there been significant 
+price decline in the past year? 
+ 
+Yes, the competition in the dial-up space has been fierce and has been 
+driving prices down.  Our client currently charges on average $20/month for 
+its service. 
+ 
+So, it looks that at least part of the profit decline has come from decreased 
+revenues due to pricing pressure.  Now, Iíd like to look at the customer base 
+and understand the trends there.  Has our client been losing a significant 
+number of customers? 
+ 
+Yes, they currently have 27 million customers, but in 2003 so far, 17 million 
+have left. 
+ 
+Iíd like to learn more about the segmentation and value drivers of the clientís 
+customers? Have the customers that they have lost come from a specific 
+segment? 
+ 
+Well, we can separate customers broadly by age groups:   
+< 20 yrs - driven by price, looking for cheap connectivity   
+20-45 yrs ñ has wider bandwidth needs 
+>45 yrs ñ convenience and simplicity 
+ 
+I would guess that our client is losing a lot of customers from the 20-45 age 
+group due to the competition from broadband providers.  Has our client 
+thought about developing a broadband product offering? 
+ 
+Yes, we think that our client should focus on the broadband opportunity to 
+see how it can prevent losing customers from this segment. 
+ 
+What considerations do you think they need to make to assess this 
+opportunity? 
+ 
+Well, they would need to assess the costs of offering the new service vs. the 
+potential revenue they would be able to generate by stopping current 
+
+
+===== PDF p51 =====
+Table of Contents 
+ 
+47
+customer churn as well as attracting new customers.  They could either 
+develop their own broadband service or focus on content and allow 
+customers to choose their own broadband service. 
+ 
+What do you think are some of the costs that would be associated with 
+developing a broadband product offering? 
+ 
+I think that the following costs would need to be considered: 
+Technology: building/leasing new infrastructure, partnerships 
+Content Development:  content for broadband 
+Advertising: to attract new customers and retain current customers 
+Additional Overhead:  customer service staffing and training costs 
+ 
+Ok, letís talk about how they would provide the broadband service.  They 
+basically have 2 options. 1) Partner with local DSL/Cable service provider to 
+offer their service with a broadband version of the content 2) Our client 
+chooses the right connection (DSL/Cable) for its customers and whatís 
+located in their area.  Which one do you think they should choose? 
+ 
+They should probably choose the one that will allow them the most control 
+over their costs.  I think that would be to have our client choose the 
+connection for their customers. 
+ 
+Ok, so, weíre in 2004 and we some quick revenue generation ideas.  Keep in 
+mind that most content takes 6-12 months to develop internally. Do you 
+have any ideas for other products and services that our client could generate 
+revenues?   
+ 
+Entertainment and Education products such as: On-line music, providing 
+news and traditional TV programming via the web, childrenís educational 
+games such as partnering with Leap Frog learning systems for buying 
+downloading educational games etc, 
+ 
+You are in a meeting with the CEO and he wants to know what weíve found 
+so far, what do you say to the CEO? 
+ 
+I think the best route to increasing revenues for 2004 would be to focus on 
+the segment of your customers where the majority of churning is happening, 
+that is the 20-45 age group whose value driver is greater bandwidth.  We 
+should look at partnering up with some broadband service and content 
+providers to develop a product offering for this segment.   

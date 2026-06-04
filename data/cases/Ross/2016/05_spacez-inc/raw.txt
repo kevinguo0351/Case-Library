@@ -1,0 +1,205 @@
+===== PDF p106 =====
+102
+ Our client is a national Aerospace company that focuses on creating space programs.  For 
+the past few years, there has not been a reusable platform for software to be shared across 
+programs.  The client is doing well, but wonders if they should develop an interface to have 
+software shared among programs. It makes sense, but the client suspects it might be too 
+expensive.  The client wants you to help decide whether to develop this, and if so, how to go 
+about it.
+ Industry: Aerospace
+ Difficulty: Medium
+ Format: Interviewer Led / Cost 
+Reduction
+ Concepts Tested:  Quantitative 
+Analysis
+Case 5: SpaceZ Inc., Ross Original
+Problem Statement
+Type of Case
+Interviewer Guidance
+ Candidate should go through all three phases of 
+possible involvement (greenfield, partnerships, 
+acquisition)
+ Candidate should analyze the current market 
+conditions; why the company decided to consider this 
+initiative
+ Candidate should know that the purpose of this is to 
+reduce cost of other programs and not revenue 
+generation
+
+
+===== PDF p107 =====
+103
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+Clarifying Information and Case Guidance
+ SpaceZ has been losing a lot of bids recently to 
+its competitors due to its higher priced quotes 
+ Only in the US market
+ The customer is government 
+ Programs do not talk to each other, in other 
+words, no communication between each project 
+and no sharing of any lessons learned
+ +90% of the projects are classified and are only 
+shared on a need-to-know basis
+ Government is becoming cost conscious and 
+bids cannot be revised any longer (used to be 
+able to get more money from the government if 
+underbid)
+ Client has eight near-term proposals that will be 
+submitted within a year for new 
+projects/contracts; wanted to use this to platform 
+to be more competitive
+ The candidate should explain his/her overall 
+framework (not revenues), then identify the 
+current and future cost savings
+ The candidate should then ask what are the 
+initial costs associated in creating this reusable 
+interface. Candidate should explore each of the 
+parts (greenfield, partnership, acquisition)
+ Candidate should then, before doing any 
+calculation, eliminate acquisition because it 
+won’t allow the client to leverage it into the near-
+term proposals
+ Candidate should evaluate the cost savings of 
+the other two as well as the risk of going with 
+both
+
+
+===== PDF p108 =====
+104
+Extra cost associated with acquisition, partnerships, and greenfield. 
+Math Question
+Math Questions and Solutions
+ Acquisition will cost $1 Million and 1.5 years to complete
+ Partnerships Option 1
+ $10,000 set up fee
+ $200,000 x .5 years = $100,000 labor cost to finish the project
+ $100,000 x .5 years = $50,000 in maintenance cost
+ Total to $10,000 + $50,000 + $100,000 = $160,000 the first year, $100,000 the second year, etc
+Math Solution
+
+
+===== PDF p109 =====
+105
+Math Questions and Solutions
+ Partnerships Option 2 (users can be changed to what customers believe should be the optimum
+ $10,000 set up fee
+ $200,000 x 0.5 years = $100,000 labor cost to finish the project
+ $2,000 x 0.5 years x 5 users (estimated minimum, adjustable) = $5,000 in maintenance cost
+ Total to $10,000 + $5,000 + $100,000 = $115,000 the first year, $5,000 the second year, etc (need 
+to understand that users will increase year over year and can result in becoming more expensive)
+ Greenfield
+ $100,000 first year (development), $100,000 second year (development), $20,000 third year 
+(maintenance), etc
+Math Solution Continued
+
+
+===== PDF p110 =====
+106
+Exhibit 1: Table Exhibit
+Costs
+Acquisition
+Partnership
+Enterprise (1)
+Partnership
+Individual (2)
+Greenfield
+Set Up Fee
+$1,000,000
+$10,000
+$10,000
+$0
+Labor
+$0
+$200,000/year
+$200,000/year
+$100,000/year
+Time Frame to 
+Completion
+1.5 years
+0.5 year
+0.5 year
+2 years
+Increase in
+Maintenance Cost
+$0
+$100,000/year
+$2,000/ year 
+per user
+$20,000
+Number of Users 1st Yr
+0
+Unlimited
+?
+0
+•
+Both Acquisition and Greenfield have too long of a timespan to use for near term 
+proposals, so the candidate should eliminate them immediately.
+•
+Candidate needs to fill in the “?” number for use in calculation
+•
+Labor with Partnership exists because it requires integration and support services from 
+partners
+
+
+===== PDF p111 =====
+107
+Exhibit 2: Bar Chart Exhibit
+$1000K
+$K
+$K
+$K
+$K
+$K
+$160K
+$100K
+$100K
+$100K
+$100K
+$100K
+$100K
+$100K
+$20K
+$20K
+$20K
+$20K
+YEAR 1
+YEAR 2
+YEAR 3
+YEAR 4
+YEAR 5
+YEAR 6
+Acquisition
+Partnership (1)
+Greenfield
+Annual Cost of the Three Options
+
+
+===== PDF p112 =====
+108
+¾
+Recommendation
+Choose partnership structure (2) because of the 
+lowered costs.  Given the uncertainty of this product 
+and it is the first time the company is doing this, it is 
+imperative the investment is small.  The company can 
+always move to the enterprise edition later
+¾
+Risks
+Chosen company for partnership does not live up to its 
+reputation
+Recommendation (Sample: choose either partnership
+structure with sound reasoning)
+Conclusion
+¾
+A star would be able to see that it is not necessary to only go with one option, and will do minimal math 
+to pick the partnership (assuming good clarification questions were asked).
+Excellent Case Answers
+¾
+Move to enterprise edition once users 
+have exceeded 50 people
+¾
+Use the result of this project in the 
+immediate proposals to put forth 
+competitive bids
+Next Steps

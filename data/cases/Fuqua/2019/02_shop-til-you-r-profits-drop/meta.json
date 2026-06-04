@@ -1,0 +1,38 @@
+{
+  "case_id": "Fuqua_2019_02_shop-til-you-r-profits-drop",
+  "school": "Fuqua",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2019.pdf",
+  "idx": 2,
+  "case_name": "Shop 'til you(r profits) drop",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 35,
+  "pdf_page_end": 48,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p039.png",
+    "exhibits/exhibit_p040.png",
+    "exhibits/exhibit_p041.png",
+    "exhibits/exhibit_p042.png",
+    "exhibits/exhibit_p043.png",
+    "exhibits/exhibit_p044.png",
+    "exhibits/exhibit_p045.png",
+    "exhibits/exhibit_p046.png",
+    "exhibits/exhibit_p047.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2019\\02_shop-til-you-r-profits-drop"
+}

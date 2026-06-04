@@ -1,0 +1,22 @@
+{
+  "case_id": "INSEAD_2020_05_call-center-bcg",
+  "school": "INSEAD",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Hand Book_2020.pdf",
+  "idx": 5,
+  "case_name": "Call Center (BCG)",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Business Services",
+  "difficulty": "Easy",
+  "pdf_page_start": 38,
+  "pdf_page_end": 39,
+  "n_pages": 2,
+  "exhibit_pdf_pages": [
+    38
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p038.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2020\\05_call-center-bcg"
+}

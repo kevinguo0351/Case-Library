@@ -1,0 +1,165 @@
+===== PDF p191 =====
+Casebook | 2019-20 Edition 
+187 
+ 
+48. French Groceries (McKinsey R1, CPG/Retail, Competitive 
+Response, Quantitative) 
+Interviewer: Our client is a large grocery store chain owner in France. The chain operates 150 stores 
+across France, through two types facilities, large grocery stores and small convenience stores. The 
+client’s annual revenues are €45B a year, 85% of which is through large grocery stores. Our client, Jean- 
+Paul LeTrouc has indicated that recently, sales have been declining. Jean-Paul believes that online 
+grocery sales may be one cause for the decline in sales, and has asked McKinsey to look into it. 
+ 
+Interviewer: What are some key areas for Jean-Paul to consider when thinking about an entry into the 
+online grocery market? 
+ 
+Possible structure: 
+ 
+External: 
+ 
+• 
+Size of French grocery market 
+• 
+Size of online grocery market 
+• 
+Online penetration trends 
+• 
+Competition 
+ 
+Internal: 
+ 
+• 
+Incremental revenues 
+• 
+Incremental costs 
+ 
+Candidate: Do we have any information on the size of the market for French groceries, both through 
+traditional channels and online? 
+ 
+Present the candidate with the following information. 
+ 
+Online grocery penetration rate for select countries 
+ 
+ 
+Population 
+(In Millions) 
+Online Grocery 
+Sales / Year 
+Penetration  Rate 
+(% of groceries bought 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Candidate: I’d like to calculate the size of the online market for France. To do that, I’m going to calculate 
+the per capita consumption, and then estimate a penetration rate for France. 
+ 
+Per Capita Consumption: 
+ 
+UK: 6,000/60 = 100 €/Year/Person 
+(in Millions of Euro) 
+online) 
+U.K. 
+60 
+6,000 
+4% 
+Spain 
+50 
+750 
+1% 
+Sweden 
+9 
+175 
+1% 
+France 
+65 
+? 
+? 
+
+
+===== PDF p192 =====
+Casebook | 2019-20 Edition 
+188 
+ 
+Spain: 750/50 = 15 €/Year/Person 
+Sweden: 175/9 = ~20 €/Year/Person 
+It looks like the UK is spending much more per capita. Do we have an estimate for where France’s per 
+capita consumption will land? 
+ 
+Interviewer: We know that it will be less than the UK, but more than Spain / Sweden. Feel free to 
+estimate it given your knowledge of the countries. 
+ 
+Candidate: Ok. If we double that of Spain, we get a per capita consumption of 30 €/Year/Person (any 
+reasonable esimtate is alright). Multiplying that by France’s population of 65M, we get an annual market 
+size of € 1,950M. 
+ 
+Interviewer: Great. Do you think our client should enter the market? 
+ 
+Candidate: Based on the market information alone, I would say yes. Even at a conservative estimate for 
+per-capita consumption, there is €2B in top line revenue for online sales. I would also imagine that the 
+penetration rate will increase as more consumers get comfortable with making purchases online, driving 
+up per capita consumption. As a next step, I would want to understand the economics of the decision to 
+determine if we are more or less profitable in the online space. 
+ 
+Interviewer: Our client agrees and asked to determine the difference in profit between the retail-only 
+model and a retail and online model. 
+ 
+Present the candidate with the following information: 
+ 
+
+
+===== PDF p193 =====
+Casebook | 2019-20 Edition 
+189 
+ 
+ 
+Candidate should point out that contribution is roughly 25% of the average basket size. Candidate should 
+also make note of the differences in contribution makeup, and note that the retail store operating income 
+(consider this profit) is €3, and the online store operating income is €2. 
+ 
+Interviewer: Based on the given information, will our client be more profitable if they move online? 
+ 
+Candidate: To determine an overall profit impact, I would want to understand what share of the €1950M 
+our client is going to take, and how much of that is new sales versus cannibalization of existing sales. 
+ 
+Interviewer: Let’s assume that our client is going to take the entire online market, and that 70% of the 
+online sales are taken from retail stores, and 30% of them are new sales. 
+ 
+Candidate: 
+ 
+To determine if the client should enter the market, I’ll look at the net impact to operating income from 
+changes in retail and online sales mix. 
+ 
+● 
+Retail sales: 
+o 
+Decline by €2B * 70% = €1.4B 
+o 
+Operating margin = 3/120 = 2.5% 
+o 
+Operating income decline by €1.4B * 2.5% = €35M 
+● 
+Online sales: 
+o 
+Increase by €2B 
+o 
+Operating margin = 2/120 = 1.66% 
+o 
+Operating income increase by €2B * 1.66% = €33M 
+The net effect on income is €33M - €35M = - €2M. 
+Interviewer: Ok. What are some other key areas to consider for the store to move online? 
+ 
+There is no right answer for this question. If the candidate says that the client may be able to close 
+physical stores, push them and ask them if that is a good idea given that 85% of current sales come 
+through brick and mortar stores. The candidate could discuss other ways that the cost position may 
+improve as online sales scale. The candidate may also discuss risks associated with the online business, 
+such as an unproven market, unwilling French consumers, or competitive threat. 
+ 
+There was no formal recommendation at the end of this interview. 

@@ -1,0 +1,199 @@
+===== PDF p143 =====
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+139
+
+
+===== PDF p144 =====
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+Case Prompt
+Our client is a PE firm who is considering making an investment in a coffee equipment 
+company that services office buildings. The company makes machines that use single cups 
+(same thing as K-Cups) and sells the pods needed to make coffee. What is the market 
+opportunity for this investment?
+Interviewer Guidance
+This is an interviewee led case. This case is about market sizing so the interviewee should lay 
+out a clear framework on how to size the market and be creative and detailed with their 
+assumptions. This case will be a market sizing exercise on the amount of coffee drinkers in the 
+market and the amount of machines needed to service coffee consumption.
+Concepts Tested
+Math, Market sizing, Brainstorming
+140
+
+
+===== PDF p145 =====
+Clarifying Information
+•
+The company looks to service all office buildings 
+nationally (U.S. only)
+o
+The target market are white collar 
+professionals
+•
+The PE shop has experience working in the beverage 
+service market
+•
+Price of each single pod is $0.75 a pod
+•
+Price of a coffee machine is $100
+•
+The company currently offers a machine that can 
+only make coffee. There is a variety of coffee flavors
+Possible Framework
+Problem: Estimate market size for coffee pods and 
+machines 
+•
+How often each machine is needed
+-
+Estimate number of office workers
+-
+Avg number of workers in each office
+-
+How many machines per office
+or
+-
+Estimate number of coffee drank in a day
+-
+Busiest periods in the day and how much coffee 
+is being consumed in that period
+-
+How long it takes each cup to brew
+•
+Number of coffee pods used each year
+-
+Estimate number of office workers
+-
+How many office workers drink coffee
+-
+How often each person drink coffee
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+141
+
+
+===== PDF p146 =====
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+Question #1
+What is the market opportunity for office coffee drinkers and single pod usage?
+Information to give if  requested: Each coffee drinker drinks 1.5 cups of coffee a day; 350 working days in a year
+320m people in the U.S. 
+320m
+Life span of 80 with an equal distribution between ages 
+320m/80 = 4m
+Avg work life is 21 - 70
+(70-21)*4m = 196m people in the workforce
+Eliminate teachers, blue collar workers, gov’t employees etc. 
+to get to an estimate of 40% office workers
+196m * .40 = 54.8m office workers 
+Round to 55m
+Estimate 60% of office workers drink coffee
+55m*.60 = 33m coffee drinkers
+33m coffee drinkers* 1.5 cups a day
+33m*1.5 = 49.5m; Round to 50m cups of coffee per day
+50m coffee per day* 350 days in a year
+50m*350= 1.75b cups of coffee a year
+1.75b cups * $0.75 a cup
+1.75b*$0.75 = $1.3b
+Recommended Answer
+Interviewee does not have to use the above approach, as long as they use sound assumptions and get to a similar number
+142
+
+
+===== PDF p147 =====
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+Question #2
+Based on the amount of coffee drinkers, how many coffee machines can be sold in the market to accommodate the office 
+workers with minimal wait time?
+Candidate should first brainstorm ideas and layout their structure. After brainstorm session, show Exhibit 1
+Recommended Answer
+Key Questions: When will the coffee machine be most active/how many people will be using it? Exhibit 1
+•
+How much does the machine take to brew a cup of coffee? 1.5 mins
+Since the morning time frame is the busiest it should be used as a benchmark for the # of machines needed
+50m cups in a day * 65% of cups
+50m * 65% = 32.5m cups between 8am – 10am
+60 mins in an hour/1.5 minutes to brew 1 cup
+60mins/1.5cups per hour = 40 cups in an hour 
+40 cups * 2 hour span
+40*2 = 80 cups between 8am – 10am
+32.5m cups in time span/ 80 cups in time span provides 
+how many machines are needed
+32.5m/80= 406,250 machines = ~400,000 machines  
+400k machines *$100 a machine
+400k * $100 = $40m
+143
+
+
+===== PDF p148 =====
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+Exhibit 1
+Time of day
+% of coffee cups
+Morning
+8am – 10am
+65%
+Afternoon
+1pm – 3pm
+25%
+Evening
+5pm – 7pm
+10%
+Busiest time in the office kitchen
+144
+
+
+===== PDF p149 =====
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+Question #3
+Other than selling the coffee pods and machines, what are some other ways the target company 
+can generate revenues?
+Recommended Answer
+Possible answers:
+•
+Began to offer more than coffee with their machine (latte, hot chocolate, tea)
+•
+Allow other companies to make pods for their machine and receive a royalty fee
+•
+Expand to home services and to non-corporate employees
+•
+Provide servicing for the machines
+145
+
+
+===== PDF p150 =====
+Recommendations
+Risks
+Next Steps
+Market is attractive with combined 
+revenue potential of $1.34bn 
+($1.3b cups, $0.04bn machines), 
+therefore worth investing. Also 
+revenue upside by servicing 
+machines or outsourcing pods.
+Market potential is driven by 
+assumptions, which can be wrong 
+(ex. We assumed the 1.5 cups 
+people drink in a day will come 
+from office coffee machine and 
+not home or local coffee shop), 
+we don’t have a clear view of the 
+competitive landscape in the 
+market as well as the cost to 
+produce and ship coffee machines 
+and cups. Additionally, 
+competitors could sell cups for 
+client’s machines if cup shape and 
+size aren’t patented.
+Examine competitors in the 
+market, market trends (shift to 
+teas/energy drinks/any other 
+substitutes), and triangulate 
+market sizing data.
+Case 13: Single Cup of Coffee
+Consumer Products | Market Sizing
+146

@@ -1,0 +1,26 @@
+{
+  "case_id": "Wharton_2022_08_due-diligence-on-retail-specialist",
+  "school": "Wharton",
+  "year": "2022",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2022.pdf",
+  "idx": 8,
+  "case_name": "Due Diligence on Retail Specialist",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Retail / Private Equity",
+  "difficulty": "Medium",
+  "pdf_page_start": 81,
+  "pdf_page_end": 89,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    85,
+    87,
+    88
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p085.png",
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p088.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2022\\08_due-diligence-on-retail-specialist"
+}

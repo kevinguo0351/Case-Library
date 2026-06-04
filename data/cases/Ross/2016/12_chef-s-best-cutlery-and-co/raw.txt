@@ -1,0 +1,196 @@
+===== PDF p169 =====
+Problem Statement
+Case 12: Chef’s Best Cutlery and Co., McKinsey (Round 1)
+• Our client is an international manufacturer of medium and high quality kitchen knives. Chef’s Best sells knives in more 
+than 20 countries, with a focus on Latin America, US & Canada, and global emerging economies. 
+• Chef’s Best produces five types of knives: Steak Knives (used at the table), Butcher Knives (used for chopping meat), 
+Carving Knives (used for carving slices from large pieces of meat), Paring Knives (used for cutting small fruits & 
+vegetables), and Chef’s Knives (large all purpose knives). 
+• Chef’s Best has experienced slowing sales growth in the past few years. How can Chef’s Best increase revenue growth 
+for the next 5-10 years? 
+ Industry: CPG
+ Difficulty: Medium
+ Format: Market Growth
+ Concepts Tested: Market Share 
+Analysis, Competitive Analysis, Sales 
+channels, Distribution channels 
+• This is an interviewer led case consisting of three exercises whereby 
+the interviewer will let the interviewee know they have certain 
+information and will hand out the exhibits one-by-one.
+Type of Case
+Interviewer Guidance
+
+
+===== PDF p170 =====
+166
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+• Chef’s Best sells primarily through a direct sales 
+method (individual sales people throughout each 
+region). 
+• Chef’s Best sales are largest in Mexico, the US, 
+and Brazil. 
+• Phase 1: Ask candidate to brainstorm and tell 
+you how they would approach the problem. Prod 
+for depth/creativity in framework then move the 
+candidate on to Exhibit 1 after 7-10 minutes.
+• A good framework should include major areas 
+(e.g. product, customer, company, competition) 
+but this is really a test of creativity and ability to 
+derive a logical framework & brainstorming for 
+this question with only ambiguous information. 
+See a possible framework on the next page.
+• The framework will not be important for the next 
+steps.
+Clarifying Information and Case Guidance
+• After interviewee prepares and explains 
+framework, interviewer will prompt the interview 
+to move forward with Exhibit 1, which covers 
+growth and profitability. (Guidance on following 
+pages)
+• After the interviewee has answered the math 
+question in Exhibit 1, the interviewer will lead to 
+Exhibit 2 and Exhibit 3.
+• After synthesizing the information in Exhibit 3, 
+the interviewer will prompt for a 
+recommendation.
+
+
+===== PDF p171 =====
+167
+Possible Framework
+Framework
+Market
+•
+Market size and growth (Across geographies, product segments, customer segments)
+Competition
+•
+New players: capturing share due to better distribution channels/marketing efforts 
+•
+Low-cost competitors: More competitive prices offered in market
+•
+Substitutes (e.g., electronic choppers and food processors)
+Customer
+•
+Segmentation of customers (e.g., chef’s knives to be sold more to restaurants and not households)
+•
+Price sensitivity of customers
+Product
+•
+Product mix (Is our product mix aligned with consumer preferences?)
+•
+Complimentary products and services (e.g., napkins with steak knives)
+•
+Quality of products/brand image (Has quality of our products gone down or brand image suffered?)
+Company
+•
+Insufficient coverage due to limited distribution channels
+•
+Inadequate cross-selling for different kind of knives
+•
+Sales force effectiveness
+
+
+===== PDF p172 =====
+168
+• Tell candidate that you have some information to answer their question on growth and profitability. Hand out Exhibit 1. 
+• See if the client has a keen eye for details and if he notices the footnotes and multiple details on the graph
+• Ask the candidate to tell you what they have learned from this and what this information means.
+• Look for: 
+• Identification of largest profit centers (Mexico & Brazil)
+• Identification of poor growth in Mexico
+• Candidate should be able to confidently reach conclusions about important areas and risk areas.
+• Ask Math question. This is a test of the candidates ability to do math (with minimal rounding) under pressure. To pass 
+this question the candidate must correctly calculate the answer with minimal mistakes and quickly recover from any 
+mistakes. If the candidate does a good job of sharing their calculations, you may offer corrections.
+Exhibit 1 Exercise
+Exhibit 1 Guidance: Market Overview Exhibit
+•
+If we have 23% market share in Mexico, and we grow at the same rate as last year in the next year, what will our 
+market share be in 1 year? (Follow calculations and ask candidate to calculate to 1 decimal place)
+•
+Approach is to calculate Chef’s Best growth first. This is done using the formula for index to market in the footnote. 
+•
+Chef’s Best Growth = (-70/100) = (x/7 -1) => -.7 = x/7 -1 => -.7+1 = x/7 -1 +1 => .3 = x/7, x = 2.1 
+•
+Next part is to find the market share 
+•
+Market share = (23%*1.021) / (100% *1.07) = 23.5/107 = 21.9% 
+Math Question and Solution
+
+
+===== PDF p173 =====
+169
+• Tell candidate that you have some information to answer their questions about what is driving market share changes. 
+Give them Exhibit 2.
+• Look for: 
+• Identification of share losses in all categories 
+• Highlight of both channel and share losses in the butcher knives category 
+• Prioritization of areas for focus 
+• When the candidate identifies their focus areas (or ask them to if they do not), move on to Exhibit 3. This exhibit may only 
+take a few minutes.
+Exhibit 2 Exercise
+Exhibit 2 Guidance: Product Category Overview Exhibit
+
+
+===== PDF p174 =====
+170
+• Tell the candidate that you have some information to answer their questions about the Butcher Knives category. Ask 
+them to look at Exhibit 3 
+• Look for:
+• High overall growth rate (correlating to poor market share performance in Exhibit 2)
+• Acknowledgement of potential of retail distribution vs. direct sales model that currently accounts for majority of sales
+• Development of recommendations to invest behind the butcher knives category and drive increased distribution, focus 
+on expanding Recycled Steel distribution, Japanese & General Purpose distribution
+• Generally drawing upon earlier exhibits to developer broader recommendations
+• After about 5 minutes with this slide move the candidate and ask them to prepare the recommendation slide to present to 
+the Chef’s Best CEO.
+Exhibit 3 Exercise
+Exhibit 3 Guidance: Product Category Overview Exhibit
+
+
+===== PDF p175 =====
+171
+Recommendation
+• Focus on growing share in Mexico, US, to retain the core business 
+and avoid losing share and scale economies to competitors 
+• Invest in emerging markets but recognize that top 3 markets are 
+60% of sales and cannot be ignored 
+• Invest in Butcher Knives to expand distribution and address any 
+weaknesses in marketing 
+• Begin to shift more of the business away from costlier and lower 
+growth potential direct sales model to retail sales (diversify away 
+from declining sales channels)
+Risks (Make sure the interviewee mitigates)
+• Shift in sales method will lead to layoffs that need to be addressed
+• Trends in the past may differ from future trends
+Recommendation
+Conclusion
+• A star caser will provide a recommendation encompassing all three exhibits. 
+• Candidate should think creatively, in addition to identifying the most obvious recommendations. The 3 exhibits provide 3 
+tests of their ability to interpret data, and include one medium-difficulty math problem.
+Excellent Case Answers
+• Open negotiations with additional retail 
+distributors to identify next steps towards 
+gaining additional distribution 
+• Conduct a competitive analysis in Mexico and 
+the US to identify specific causes for lower than 
+market share growth 
+• Prepare financial plans for increasing 
+investment plans in Butcher Knives 
+Next Steps
+
+
+===== PDF p176 =====
+172
+Exhibit 1: Overview of Major Markets
+
+
+===== PDF p177 =====
+173
+Exhibit 2: Overview of Product Categories
+
+
+===== PDF p178 =====
+174
+Exhibit 3: Details of Butcher Knives Category

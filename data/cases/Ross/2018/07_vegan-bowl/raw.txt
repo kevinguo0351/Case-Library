@@ -1,0 +1,264 @@
+===== PDF p69 =====
+65
+Case 7: Vegan Bowl
+CPG | Market Entry
+Case Prompt
+Our client is a start-up based out of Ann Arbor with a proprietary recipe of a vegan bowl. 
+These bowls are to be sold as a pack of seven units, each unit a meal. The CEO of the start-up 
+is willing to launch this product in metropolitan areas that can provide a margin of at least 40% 
+and wants to know if he should launch this new product line or not.
+Interviewer Guidance
+The case is focused on the market estimation for vegan bowls in the USA and the best cities to 
+target in this entry strategy. The candidate should calculate the estimated margins for each city 
+and decide where to focus.
+Interviewer guidance won’t be necessary to help provide additional context to the industry.
+Concepts Tested
+General industry knowledge, market estimation, match calculations
+
+
+===== PDF p70 =====
+66
+Case 7: Vegan Bowl
+CPG | Market Entry
+Clarifying Information
+Industry Characteristics/Market Economics 
+•
+Our client will focus mainly on traditional brick-and-
+mortar distribution channels, with a partner 
+distribution company. 
+•
+The retailer and distributor’s margin is 35% in total.
+•
+We currently have three different flavors: WildBeet, 
+EnergyUmami and FireSprout, with plans to expand 
+the product line if there is enough market response 
+to the initial products.
+•
+Our client’s main focus is the US market, targeting 
+areas where the vegan market is expanding.
+•
+There are no current significant individual 
+competitor in the markets we are launching.
+•
+Brainstorm 1: What would you look for in a city in 
+which you are launching such product?
+•
+Brainstorm 2: Which could be potential 
+metropolitan areas to target? 
+Guide to case
+Revenue
+On the revenues side, the candidate will have information 
+on the number of vegan people per Metro area and the 
+WTP, being able to calculate the market size of each 
+Metro Area:
+(Population x  Vegan Index x Price x Expected 
+Consumption per client)
+Costs
+Candidates will be given the cost estimate of a pack of 7 
+bowls ($4.85).
+Additionally, there is an extra variable cost related to 
+delivering the bowls to each different city. This 
+calculation will take place only when the candidate has 
+both exhibits.
+Margins
+With both revenues and costs for each city, the candidate 
+should be able to calculate margins and answer the case.
+
+
+===== PDF p71 =====
+67
+Case 7: Vegan Bowl
+CPG | Market Entry
+Exhibit 1:  The company’s cost structure
+$0.00 
+$2.00 
+$4.00 
+$6.00 
+$8.00 
+$10.00 
+$12.00 
+Raw Materials
+Labor
+Utilities
+Packaging
+Average Cost per Pack
+Retailer’s margin: 40%
+Distance from Ann Arbor
+Distribution cost per bowl
+Within 100 miles of Ann Arbor
+$0.75
+From 100 to 300 miles from Ann Arbor
+$1.50
+From 300 to 500 miles from Ann Arbor
+$1.75
+From 500 to 700 miles from Ann Arbor
+$2.50
+
+
+===== PDF p72 =====
+68
+Case 7: Vegan Bowl
+CPG | Market Entry
+Exhibit 2:  Metropolitan areas which our current distributors access
+Metro Area Population
+Vegan 
+Index*
+CAGR of  Vegan 
+Index (2013-18)
+Distance from 
+Ann Arbor
+Average WTP 
+for a bowl
+Annual 
+consumption of  
+bowls per customer
+Detroit
+4,200,000 
+1.5
+12%
+40
+7.5
+30
+Chicago
+9,400,000 
+2.9
+6%
+240
+8
+58
+Milwaukee
+1,600,000 
+3.1
+15%
+340
+9
+61
+DC
+6,200,000 
+2.6
+5%
+550
+9.5
+53
+New York
+8,100,000 
+3
+10%
+600
+10.5
+60
+*Vegan Index: estimated number of vegans in a geography per 100 inhabitants.
+**CAGR:  Compound Annual Growth Rate
+
+
+===== PDF p73 =====
+69
+Case 7: Vegan Bowl
+CPG | Market Entry
+Vegan bowl calculations (Not to show to candidate)
+Ambiguity related to market entry threshold of 40% margins:
+• The NY and DC markets certainly adhere with the CEO’s expectations of at least 40% margins.
+• Chicago and Detroit do not meet the target margins, so these cities should not make part of the launch of 
+Vegan Bowl.
+• Milwaukee does not meet the 40% threshold by a thin margin. Since it has the fastest growing vegan 
+population among all presented, an excellent candidate will mention that there is an opportunity for 
+targeting the city’s growing market (such as developing specific SKUs for the local market). 
+Production Costs: ($4.70 + $9.70 + $2.90 + 6.95) x 1.35 = $33.89 per pack of seven or $4.84 per bowl.
+Distribution Costs: Detroit = $0.75, Chicago = $1.5, Milwaukee = $ 1.75, DC = $ 1.75, New York = $2.5
+Estimated revenue per city: (Population/100) x (Vegan Index) x (WTP) x (# Bowls per customer):
+Detroit: $14.17 Million, Chicago $128 Million, Milwaukee: $27.5 Million, DC: $81.2 Million, New York: 
+153,1 Million. Total Market in these cities ~ $ 400 Million
+Margins per city: Detroit: 34% (no launch), Chicago: 34% (no launch), Milwaukee: 39.5% (ambiguous), DC: 
+44% (launch), New York: 43% (launch)
+
+
+===== PDF p74 =====
+70
+Case 7: Vegan Bowl
+CPG | Market Entry
+Insights – Exhibit 1
+•
+The candidate should notice that the cost 
+from the chart refers to a pack of seven 
+blows and the distribution costs refer to 
+individual packs.
+•
+Candidate should calculate retailer and 
+distribution costs on top of total costs
+•
+The total cost of distribution won’t be 
+calculated until Exhibit B is shown; 
+brainstorm the profile of cities VB 
+should target before that.
+Insights – Exhibit 2
+•
+The candidate should be able to do the 
+cost calculations now that the distance of 
+each city from AA is know. 
+•
+Also, revenues can be easily calculated 
+since all relevant information is 
+presented.
+•
+Vegan CAGR data are not relevant for 
+the calculations, it’s just a distraction that 
+a good candidate will identify. An 
+excellent candidate will mention that even 
+though Milwaukee is a small market, it 
+has grown three times faster than NY 
+and DC over the last years.
+
+
+===== PDF p75 =====
+71
+Case 7: Vegan Bowl
+CPG| Market Entry
+Recommendations
+Risks
+Next Steps
+•
+Recommend launch in both 
+DC and NY. 
+•
+Milwaukee has some potential 
+and is close to the target 
+margins, but it doesn’t meet 
+the previous CEO’s 
+guidelines. A good candidate 
+might defend the idea of 
+launching in Milwaukee 
+•
+Detroit and Chicago should 
+be discarded as options for 
+the launch.
+•
+Low barriers to entry, since 
+there is no significant patents 
+in place;
+•
+No solid evidence that the 
+vegan market is going to grow 
+as fast as it has over the last 
+few years;
+•
+Too few SKUs: there has to 
+be more options to make of 
+VB products a reoccurring 
+purchase
+•
+Reach out to current 
+distributor with selected cities 
+and put the launch plan in 
+motion
+•
+Pursue development of new 
+SKUs that fit the WTP of 
+discarded cities at this stage.
+•
+Investigate potential 
+additional cities and look for 
+additional distributors
+•
+Develop the marketing 
+strategy to target the selected 
+cities.

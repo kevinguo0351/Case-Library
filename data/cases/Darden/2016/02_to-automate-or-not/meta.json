@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2016_02_to-automate-or-not",
+  "school": "Darden",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2016.pdf",
+  "idx": 2,
+  "case_name": "To automate or not?",
+  "case_type": "Operations",
+  "round": "2",
+  "industry": "Logistics / Shipping",
+  "difficulty": null,
+  "pdf_page_start": 47,
+  "pdf_page_end": 57,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    50,
+    51,
+    53,
+    54
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p054.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2016\\02_to-automate-or-not"
+}

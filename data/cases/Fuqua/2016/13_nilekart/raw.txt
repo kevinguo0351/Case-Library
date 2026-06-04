@@ -1,0 +1,303 @@
+===== PDF p143 =====
+NileKart (Human Capital)
+139
+Industry: Technology
+Quantitative Level: Not Applicable
+Qualitative Level: Medium
+
+
+===== PDF p144 =====
+Behavioral Questions
+140
+• What has been your best non-work accomplishment?
+Question 1:
+• Tell me about a time you had to convince someone senior in the organization. What 
+was the situation, how did you convince him/her, and what was your learning from it?
+Question 2:
+
+
+===== PDF p145 =====
+NileKart
+141
+• Your client NileKart located in the Research Triangle Park (RTP) in Durham, is the 
+nation’s fastest growing e-commerce player with over $3 Billion in revenues in 2015. 
+Most of this growth is inorganic with NileKart leveraging its seemingly endless cash 
+reserves to acquire companies which strategically align with its long term vision of 
+becoming the largest e-commerce company in the world. 
+• NileKart’s recent acquisitions include a fast growing logistics company based in 
+Memphis, a 600 seater call centre based Austin and a Fintech start-up based in 
+Silicon Valley. 
+• In January 2016, under tremendous pressure from its VCs to continue its rapid 
+growth, NileKart reluctantly completed the acquisition of WishDeal, a niche e-
+commerce company with over $500 Million in revenues in 2015. Wish Deal is based 
+in Silicon Valley and was built by a young team of data scientists and developers 
+which sells quirky, one-of-a-kind products at low prices. 
+• The rationale behind this merger was to exploit economies of scale in operations, 
+expanding consumer base and developing a diverse product portfolio as sources of 
+competitive advantages in the highly saturated e-commerce industry in USA.
+Prompt #1:
+
+
+===== PDF p146 =====
+NileKart
+142
+We have been engaged to help with creating a comprehensive technology integration 
+plan with the following key considerations:
+• Who are the key stakeholders that need to be considered in order to achieve success 
+of the technology integration? 
+• Integrate NileKart’s and WishDeal’s technology systems into a single centralized 
+platform where the combined entity can leverage economies of scale in operations.
+• What phases would you propose to roll-out the integration with broad timelines?
+• Highlight any key risks that NileKart faces in this integration.
+Prompt #1:
+• Human capital cases are conversational, but the candidate should take a few minutes 
+to set up a framework for how they will approach EI’s adoption of the new system. 
+Prior to setting up their framework, the candidate is permitted to ask a few questions. 
+If solicited, the interviewer can provide additional information provided in the slides to 
+follow. If the candidate asks a question for which the answer is not provided, just 
+reply that the information is not available.
+Interviewer Guidance:
+
+
+===== PDF p147 =====
+NileKart
+143
+• The case is going to test the candidate’s ability to think of both the strategic as well 
+as the tactical aspects of integration from a human capital lens. The candidate may 
+need the following additional information:
+1.
+Please describe the culture at NikeKart and WishDeal.
+• NileKart has a collaborative and entrepreneurial culture and its the leadership team is 
+made up of seasoned industry veterans who control majority of the decision making 
+and usually most initiatives in the firm have to receive a signoff from the leadership 
+team before they get implemented. However, WishDeal has an agile, entrepreneurial 
+and de-centralized culture where product managers and business heads are given a 
+lot of freedom to implement initiatives and run their divisions independently. 
+2. Why was NileKart reluctant in acquiring WishDeal?
+• NileKart’s management felt that the company cultures were very different and rushing 
+into a new, sizable acquisition without first consolidating its existing portfolio of 
+acquired companies would not be beneficial to the company in the long run. 
+3. How has NikeKart fared in its previous acquisitions?
+• 80% of NileKart’s acquisitions have been successful in achieving the desired 
+objectives.
+Additional Information (If solicited)
+
+
+===== PDF p148 =====
+NileKart
+144
+4. Why is this integration important to both the companies? And is the 
+Leadership Team aligned with the integration?
+• The rationale behind this merger was to exploit economies of scale in operations, 
+expanding consumer base and developing a diverse product portfolio as sources of 
+competitive advantages in the highly saturated e-commerce industry in USA.
+• The Leadership Team at NileKart is highly committed to make this merger successful 
+but the Leadership Team at WishDeal is apprehensive about losing their agile culture 
+and its focus on selling unique, quirky products to a younger customer base.
+5. What are the current technology systems at both the companies? 
+• While both the companies use SAP as their ERP system, NileKart uses 
+Salesforce.com’s proprietary CRM system and WishDeal uses Zoho CRM’s SaaS 
+CRM system. Unifying both the CRMs will be a critical piece in ensuring the 
+successful integration of the customer data and developing future business strategy 
+for both the companies.
+6. Has NileKart given any specific timelines? (given the influence of VCs)
+• The Board comprising of several VC partners is hoping to successfully complete the 
+integration of WishDeal into NileKart’s operations in the next two years.
+Additional Information (If solicited)
+
+
+===== PDF p149 =====
+NileKart
+145
+7. Are both the players selling similar products? Or what are the differences in 
+customer base or go-to-market approach for both the companies? 
+• While NileKart sells everything from a pin to a plane on its e-commerce platform with 
+its customer base between the age groups of 21 – 45, WishDeal focusses on selling 
+unique, quirky items at low prices to its customers who are typically between the age 
+groups of 16 – 28. WishDeal leverages customer data analytics to deliver targeted 
+marketing to its customer base and massive social media campaigns on Instagram, 
+Pinterest and Snapchat. NileKart leverages traditional social media marketing
+8. Who are the end users of the unified CRM?
+• The end users will be the 800 employees of the Austin based call-center of NileKart
+along with a 60 member customer support team of WishDeal. The preference would 
+be to migrate WishDeal’s CRM data to the Salesforce.com CRM used by NileKart.
+9. Are there any change champions identified for the ERP and CRM integration 
+project?
+• Yes, the CTOs of both the companies are championing the cause along with a 
+special task force comprising of senior project managers along with the technology 
+team and customer satisfaction team from the Austin based call-center.
+Additional Information (If solicited)
+
+
+===== PDF p150 =====
+Case Solution: Interviewer Guidance
+NileKart
+146
+• Note that there is a lot going on in the case which is typically the scenario during mergers 
+and acquisitions. The key to effectively solving the case in 30 minutes is to acknowledge 
+the breadth of issues upfront and identify 2-3 key issues that you would like to solve for 
+given the limited time of the case discussion.
+• The interviewer needs to check for business acumen, identification of the key business 
+issues in the case which are Technology and Culture Integration and the candidate’s 
+understanding of Human Capital concepts. Additionally, the candidate must address all 
+the 4 questions raised in the beginning of the case, in some capacity during the case 
+discussion. The case discussion will mostly be a conversation focussed on the 
+candidate’s approach to solving business problems using a Human Capital Lens
+• This table shows the typical structure for a 30 minute case
+Section
+Time
+Details
+Case Question 
+Introduction
+3-5 
+Mins
+Listen to the case and take brief notes on details
+Take 20 seconds to verify case details as you understand them
+ALWAYS ask few clarifying questions
+Ask for a few minutes to collect your thoughts
+Structure Creation 
+Approach 
+Development
+15 –
+20 
+Mins
+Present your approach to the problem (high level first, go into detail when prompted)
+You are expected to drive the case from here but be alert to cues / guidance from 
+the interviewer; he/she will likely ask clarifying questions
+Continue to ask relevant questions should they arise
+Case Summary 
+/Recommendations
+2 – 3 
+Mins
+Summarize the case by giving a recommendation back by details / insights from the 
+case
+
+
+===== PDF p151 =====
+NileKart
+147
+• A technology and culture integration case like this can be approached through the 
+following four Human Capital casing frameworks:
+1. Lifecycle framework
+• The solution is shown as a series of next steps, with appropriate level of detailing, 
+that need to be achieved over a defined period of time which can be in the form of a 
+Gantt chart.
+2. Work Streams framework
+• The solution is given by going deeper into all case specific HC work streams.
+3. People – Process – Technology framework
+• The activities are divided by the areas of impact. For example People header has all 
+the activities that will have an effect on people.
+4. Assess – Design – Deploy - Measure framework (with relevant workstreams)
+• The activities are divided according to various phases of the project implementation 
+with a minimum of two workstreams in each phase with potential overlaps.
+Recommended Human Capital Frameworks
+
+
+===== PDF p152 =====
+NileKart
+148
+Recommended Human Capital Frameworks (Continued)
+Assess 
+Current State
+Design Future 
+State
+Deploy & 
+Measure: 
+Implementation
+PEOPLE
+Stakeholder 
+Analysis
+Identify Change 
+team
+Surveys
+Culture 
+Talent Retention
+Focus
+Analysis
+Groups
+Organization 
+Dealing w/ 
+Resistance
+Create 
+milestones
+Structure
+Skills Gap 
+Analysis
+Reduction in 
+Headcount
+Managing 
+Goodwill
+PROCESS
+Comms.
+Comms. 
+Strategy
+Productivity
+Training 
+Training 
+programs
+TECH
+Data
+IT 
+Help desk
+Strategy
+Techsupport
+Assess-Design-Deploy-Measure
+
+
+===== PDF p153 =====
+NileKart
+149
+1. The key stakeholders of this technology integration project include:
+• Executive leadership teams of NileKart and WishDeal
+• Executive leadership teams of the logistics company based in Memphis, call centre in 
+Austin and the Fintech start-up in the Silicon Valley – to ensure seamless integration 
+of services and to unlock the economies of scale in operations across both the firms
+• The VC partners who hold strategic interests in both the companies
+• CTOs and technology teams at NileKart and WishDeal
+• The employees at NileKart’ call-center in Austin and the WishDeal’s customer 
+support team
+2. Integrating Technology systems into a single centralized platform:
+• Leadership Alignment: Survey leaders to see who would be allies to the project and 
+start implementations by piloting across their divisions first; consider having positive 
+leaders talk to other leaders who are not as enthusiastic; communicate with leaders 
+how they will benefit from the system, what their role should be and how they will be 
+awarded.
+Case Solution
+
+
+===== PDF p154 =====
+NileKart
+150
+• Communications: Determine what messaging need to go out to different 
+stakeholders, when it needs to go out and who should deliver it; consider having 
+most messaging in in the call-center and in customer support  teams to come from 
+local office leadership and cascade down from there; communicate benefits of having 
+a unified CRM platform; manage expectations by communicating that there will be a 
+learning curve and an initial loss of productivity during the transition
+• Incentives: Come up with visible ways to award and recognize stakeholders that 
+move the project forward (e.g., recognition to the office that have the highest level); 
+celebrate milestones and achievements
+• Stakeholder Engagement: Find change champions, who are positive and 
+understand the business, to engage employees and listen for feedback on the 
+implementation; consider that there are different languages and cultures in each 
+office and a “one-size-fits-all” approach may not work
+• Training: Revamp trainings so they address specific business needs of the local 
+offices, which will take a thorough understanding of the current business processes 
+and how they will change with the migration of WishDeal’s customer data to 
+Salesforce.com CRM platform
+Case Solution (continued)
+
+
+===== PDF p155 =====
+NileKart
+151
+3. The key risks that NileKart faces include:
+• Attrition of Top Talent especially in the engineering and product management teams
+• Loss of WishDeal customer base who might switch to competitors fearing loss of 
+quality and changes in customer service standards 
+• Loss of employee morale due to differences in company cultures and leadership 
+styles
+• Competitors moving in rapidly to capture market share in case of a failed integration
+• Loss of brand value of the firm due to a failed integration resulting in lower valuation 
+of NileKart which leads to potential losses for the VCs
+Case Solution (continued)

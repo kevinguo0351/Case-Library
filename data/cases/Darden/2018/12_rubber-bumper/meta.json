@@ -1,0 +1,26 @@
+{
+  "case_id": "Darden_2018_12_rubber-bumper",
+  "school": "Darden",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2018.pdf",
+  "idx": 12,
+  "case_name": "Rubber Bumper",
+  "case_type": "Operations",
+  "round": "1",
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 171,
+  "pdf_page_end": 182,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    174,
+    175,
+    176
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p174.png",
+    "exhibits/exhibit_p175.png",
+    "exhibits/exhibit_p176.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2018\\12_rubber-bumper"
+}

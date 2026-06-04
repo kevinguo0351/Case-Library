@@ -1,0 +1,32 @@
+{
+  "case_id": "Ross_2021_14_marie-s-cafe",
+  "school": "Ross",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2021.pdf",
+  "idx": 14,
+  "case_name": "Marie's Cafe",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food",
+  "difficulty": "3",
+  "pdf_page_start": 146,
+  "pdf_page_end": 155,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    147,
+    148,
+    149,
+    150,
+    151,
+    152
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p147.png",
+    "exhibits/exhibit_p148.png",
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png",
+    "exhibits/exhibit_p151.png",
+    "exhibits/exhibit_p152.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2021\\14_marie-s-cafe"
+}

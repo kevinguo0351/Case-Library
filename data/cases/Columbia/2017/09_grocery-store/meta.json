@@ -1,0 +1,28 @@
+{
+  "case_id": "Columbia_2017_09_grocery-store",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 9,
+  "case_name": "Grocery Store",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 87,
+  "pdf_page_end": 94,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    87,
+    89,
+    90,
+    94
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p094.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\09_grocery-store"
+}

@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2016_01_metal-co",
+  "school": "Ross",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2016.pdf",
+  "idx": 1,
+  "case_name": "Metal Co.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Manufacturing / Metals",
+  "difficulty": null,
+  "pdf_page_start": 63,
+  "pdf_page_end": 70,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    65,
+    66,
+    68,
+    69,
+    70
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p068.png",
+    "exhibits/exhibit_p069.png",
+    "exhibits/exhibit_p070.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2016\\01_metal-co"
+}

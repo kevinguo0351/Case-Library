@@ -1,0 +1,359 @@
+===== PDF p175 =====
+171
+Whale Hotel
+McKinsey | Round 2 | Consumer
+
+
+===== PDF p176 =====
+172
+McKinsey | Round 2 | Retail
+1 2  |  C A S E :  W H A L E  H O T E L
+WHALE HOTEL
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+A s  a  c o n s u l t i n g  
+p r o f e s s i o n a l ,  
+y o u  w i l l  o f t e n  
+h a v e  t o  r e s o l v e  
+c o n f l i c t  w i t h i n  
+t e a m s .   Te l l  m e  
+a b o u t  a  t i m e  y o u  
+s u c c e s s f u l l y  
+r e s o l v e d  c o n f l i c t  
+i n  a  t e a m  
+s e t t i n g .
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1.  What’s the payback period?  5 years
+2.  How long is the construction period?  2 years
+3.  What is the tourism industry in Dubai like? Very ritzy and highly seasonal (25% increase in the summer)
+4.  Does the company currently own hotels in Dubai? No – ignore cannibilization
+5.  Are there any similar resorts in Dubai? Yes, the King’s Palace, the Belzor, and the Egyptian
+Prompt:
+Our client is a real estate company that owns and operates luxury hotels 
+around the world. They’ve previously owned 3 resorts in Dubai and are 
+considering building a fourth, targeted specifically at high net worth 
+individuals – called whales. 
+
+
+===== PDF p177 =====
+173
+EXHIBIT 1 
+1 2  |  C A S E :  W H A L E  H O T E L
+UVA Darden School of Business 2010-20 case book
+Resort
+# of 
+Rooms
+Off-Peak 
+Utilization
+Off-Peak 
+Whales %
+Rate
+Pool 
+Quality
+Peak* 
+Utilization
+Peak* 
+Whales %
+King’s 
+Palace
+5000
+80%
+25%
+$2000/night
+Poor
+80%
+25%
+Egyptian
+4000
+75%
+25%
+$2000/night
+Good
+95%
+37.5%
+Belzor
+8000
+75%
+33.3%
+$2500/night
+Excellent
+100%
+50%
+Note: Peak season runs from June – August
+
+
+===== PDF p178 =====
+174
+Question 1 – Hand the candidate Exhibit 1 
+•
+After looking at Exhibit 1, calculate the total number of whales at expected at each hotel each night. 
+•
+Prompt the candidate to do Peak and Off-Peak separately 
+•
+Interviewee should identify that:
+•
+Correlation between whale % and swimming pool quality 
+•
+Impact of seasonality on overall demand (great candidates will notice that Belzor is at 100% utilization, meaning that there could be 
+additional demand (for a hotel with an excellent pool) that is not being met
+•
+Steer the interviewee towards the conclusion that the hotel must have an excellent quality pool
+•
+Ask the interviewee what a reasonable rate to charge a whale for a new hotel would be – any rate is acceptable as long as it is supported 
+logically
+1 2  |  C A S E :  W H A L E  H O T E L
+Exhibit Guidance:
+UVA Darden School of Business 2019-20 case book
+Whales Per Night, Off-Peak
+Whales Per Night, Peak
+King’s Palace
+5000 * 80% * 25% = 1000
+5000 * 80% * 25% = 1000
+Egyptian
+4000 * 75% * 25% = 750
+4000 * 95% * 37.5% = 1425
+Belzor
+8000 * 75% * 33.3% = 2000
+8000 * 100% * 50% = 4000
+Total
+3750
+6425
+
+
+===== PDF p179 =====
+175
+Question 2 : Market research indicates that a hotel with an excellent quality pool charging $2,500 a night would capture 
+100% of the whales who stat at the King’s Palace and the Egyptian as well as an additional 250 whales per night during the 
+off-season and 1575 during the peak season. What is the expected demand for the potential new hotel?
+•
+Nightly Whale Demand, Off-Peak = 2000
+•
+1000 (King’s Palace) + 750 (Egyptian) = 2000 
+•
+Nightly Whale Demand, Peak = 4000 
+•
+1000 (King’s Palace) + 1425 (Egyptian) + 1575 (new) = 4000
+1 2  |  C A S E :  W H A L E  H O T E L  
+Exhibit Guidance:
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p180 =====
+176
+EXHIBIT 2 
+1 2  |  C A S E :  W H A L E  H O T E L
+UVA Darden School of Business 2010-20 case book
+
+
+===== PDF p181 =====
+177
+Question 3 – Hand the Candidate Exhibit 2 
+How many stories will the new hotel require? 
+•
+Interviewee should recognize that, in order to meet demand of 4000 rooms per night in peak season, the hotel must be at 
+least 3 stories tall 
+1 2  |  C A S E :  W H A L E  H O T E L
+Exhibit Guidance:
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p182 =====
+178
+Question 4: Annual operating expenses are $250M per 1500 rooms. Land acquisition is $2B. What is the total initial 
+investment and would you recommend moving forward with the hotel. 
+•
+Initial investment:
+•
+Land - $2B 
+•
+Rooms - $3B – (3 stories) 
+•
+Pool - $.5B – (excellent quality) 
+•
+Total - $5.5B 
+•
+Annual Revenue:
+•
+$2,500/night * 30 nights = $75K per whale monthly 
+•
+4000 whales * $75K per whale  = $300M (peak, monthly) * 3 Month Peak Season = $900M Peak 
+•
+2000 whales * $75k per whale = $150M (off – peak, monthly * 9 Months = $1.35B Off – Peak
+•
+Total Annual Revenue = $2.25B Annually
+1 2  |  C A S E :  W H A L E  H O T E L
+Exhibit Guidance:
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p183 =====
+179
+Question 4 (continued): Annual operating expenses are $250M per 1500 rooms. Land acquisition is $2B. What is the total 
+initial investment and would you recommend moving forward with the hotel. 
+•
+Annual Profit:
+•
+Annual Revenue - $2.25B
+•
+Annual Opex - $750M ($250M per 1500 rooms * 3)
+•
+Annual Operating Profit - $1.5B
+•
+Payback Period: 
+•
+2 years of construction 
+•
+3 years of revenue (3*$1.5B) = $4.5B 
+•
+After 5 – years, $5.5B cost - $4.5B revenue 
+1 2  |  C A S E :  W H A L E  H O T E L  
+Exhibit Guidance:
+UVA Darden School of Business 2019-20 case book
+•
+A good candidate will realize that: 
+•
+We don’t break even in 5-years 
+•
+We will turn a profit, 8 months into year 5
+•
+We haven’t considered additional revenue 
+sources or a potential exit opportunity
+•
+If time allows – consider asking them how to 
+raise additional revenue
+
+
+===== PDF p184 =====
+180
+Question 5: The real estate company’s CEO is on his way in – what do you recommend? 
+•
+A candidate can recommend either moving forward with the deal or foregoing the opportunity, 
+•
+If they recommend moving forward, they should include that they are evaluating additional revenue streams that will 
+bring the company closer to a 5-year payback period 
+•
+A candidate might choose to turn-down the hotel because of:
+•
+Issues with the payback period 
+•
+Competitive response from the King’s Palace, Egyptian, or Belzor
+1 2  |  C A S E :  W H A L E  H O T E L
+Exhibit Guidance:
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p185 =====
+181
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p186 =====
+182
+EXHIBIT 1 
+1 2  |  C A S E :  W H A L E  H O T E L  - A P P E N D I X
+UVA Darden School of Business 2010-20 case book
+Resort
+# of 
+Rooms
+Off-Peak 
+Utilization
+Off-Peak 
+Whales %
+Rate
+Pool 
+Quality
+Peak* 
+Utilization
+Peak* 
+Whales %
+King’s 
+Palace
+5000
+80%
+25%
+$2000/night
+Poor
+80%
+25%
+Egyptian
+4000
+75%
+25%
+$2000/night
+Good
+95%
+37.5%
+Belzor
+8000
+75%
+33.3%
+$2500/night
+Excellent
+100%
+50%
+Note: Peak season runs from June – August
+
+
+===== PDF p187 =====
+183
+EXHIBIT 2 
+1 2  |  C A S E :  W H A L E  H O T E L  - A P P E N D I X
+UVA Darden School of Business 2010-20 case book

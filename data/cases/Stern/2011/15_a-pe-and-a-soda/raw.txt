@@ -1,0 +1,262 @@
+===== PDF p122 =====
+Case 11: A PE and a Soda 
+Type of Case: Profitability / Exit Strategy 
+Difficulty: High 
+Your client is a private equity firm that has recently purchased a plastic materials manufacturer that makes products such as plastic soda 
+bottles. The client is looking to cash out of their investment within 5 years and wants you to help improve the profitability of the 
+manufacturer. 
+Your client is a private equity firm that has recently purchased a plastic materials manufacturer that makes products such as plastic soda 
+bottles. The client is looking to cash out of their investment within 5 years and wants you to help improve the profitability of the 
+manufacturer. 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+118 
+
+
+===== PDF p123 =====
+ 
+ 
+ 
+•
+Bottling market size – can be calculated by revenues later 
+•
+Bottling market is growing at 10% a year in North America 
+•
+The firm has 30% share of the bottling market 
+•
+The firm’s bottling sales have been growing at 15% a year, 
+projected 15% growth for each of the next two years 
+•
+The firm manufactures two types of products - bottles and 
+non-bottling goods 
+•
+The bottles are delivered locally to the clients, large bottlers 
+such as Coke or Pepsi 
+•
+Non-bottling products (such as advertising displays for stores) 
+are delivered directly to the establishments that will use them, 
+such as gas stations 
+•
+Bottles are made to spec whereas the non-bottling goods are 
+not 
+•
+Firm has higher quality products and manufactures at lower 
+costs due to more efficient machinery 
+•
+The firm has two plants: 
+
+One plant in southeast US that manufactures only 
+bottles with capacity of 1.5B bottles 
+
+Another plant in Canada that can produce both 
+bottles and non-bottling materials with capacity of 
+500M products. Currently producing non-bottling 
+•
+Assumptions: 
+
+No downtime, plants are fully utilized 
+
+Plants are using new, highly efficient machinery 
+•
+Bottles sell for 5 cents each 
+•
+Non-Bottling generates $20M in revenues 
+•
+Bottles costs: 
+
+COGS (plastic) – 2 cents per bottle 
+
+Machinery – 1 cent per bottle 
+
+Labor - 0.5 cent per bottle 
+•
+Non-bottling has total variable costs of $18M 
+•
+SG&A across the entire firm is $20M 
+Discussion 
+(to be covered in discussing the interviewee’s framework) 
+Market & Firm’s Performance 
+Manufacturing 
+Product Mix 
+Revenues and Costs 
+119 
+
+
+===== PDF p124 =====
+Variables 
+(** - required calculation) 
+Source/Formula 
+Calculations – Bottling 
+Calculations –  
+Non-Bottling 
+Manufacturing capacity 
+Given 
+1.5 B 
+0.5 B 
+Revenues 
+Given 
+5 cents per bottle 
+$20 M 
+COGS 
+Given 
+2 cents per bottle 
+- 
+Machinery 
+Given 
+1 cent per bottle 
+Labor 
+Given 
+0.5 cent per bottle 
+Total variable costs 
+Bottling: COGS + Machinery + Labor 
+Non-bottling: Given 
+3.5 cents per bottle ** 
+$18 M 
+Total profit ** 
+Bottling: Manufacturing capacity *  
+                 (Total revenues – Total variable cost) 
+Non-bottling: Total revenues – Total costs 
+$22.5 M 
+$2 M 
+Profit margins ** 
+Total profit / Total revenues 
+30% 
+10% 
+Key Takeaway: Bottling products are more profitable and have higher profit margins 
+Comparison of the Two Products  
+(NOT to be shown to the interviewee) 
+120 
+
+
+===== PDF p125 =====
+•
+Cost of conversion - $3 M 
+•
+Assumption - the firm has sufficient cash on hand to finance this project 
+ 
+•
+Current profit in Canada (previously calculated): 
+
+$2 M, 10% margin 
+•
+Projected profit from conversion: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+This would be the profit only if the firm can sell the entire capacity 
+ 
+ 
+  
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Number of additional bottles 
+Given 
+0.5 B 
+Profit per bottle 
+Previously calculated 
+1.5 cents 
+Projected profit from conversion ** 
+(# of additional bottles * profit per bottle) 
+$7.5M 
+Key Takeaway: The conversion could potentially add $5.5M in annual profit,  
+if the firm can sell the entire capacity  Breakeven in the 1st year 
+Question – should the firm convert the non-bottling  
+production to bottling in its Canada plant? (cost - $3 M) 
+121 
+
+
+===== PDF p126 =====
+ 
+ 
+ 
+ 
+ 
+ 
+•
+Bottling market is growing at 10% per year in North America (given) 
+•
+The firm’s sales are growing at 15% per year (given) 
+ 
+ 
+Variables 
+(** - calculation required 
+Source/Formula 
+Year 0 (now) 
+Year 1 
+Year 2 
+Firms sales 
+Each year, multiply by the firm’s sales growth rate 
+1.5 B 
+1.72 B ** 
+1.98 B ** 
+Bottling market size 
+Each year, multiply by the bottling market growth rate 
+5B 
+5.5 B ** 
+6.05 B ** 
+Required market share 
+Firms sales / Bottling market size 
+30% 
+31.36% ** 
+32.72% ** 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Number of bottles currently manufactured 
+Given 
+1.5 B 
+Firm’s current market share 
+Given 
+%30 
+Bottling market size ** 
+(# of bottles manufactured/market share) 
+5 B 
+Key Takeaway: Gaining ~3% market share in 2 years seams feasible 
+Question – how much additional market share should the firm 
+gain in the next 2 years in order to sell the extra bottles? 
+122 
+
+
+===== PDF p127 =====
+Risks 
+•
+The manufacturer should convert the non-bottling manufacturing in Canada to bottling, as 
+it offers better margins, assuming that the firm can maintain sales growth 
+•
+The additional capacity is needed to match next year’s anticipated demand, although the 
+firm won’t need the entire capacity in the first year after expansion (only 0.22M) 
+•
+If market and sales grow according to projections, the firm will run out of capacity at the 
+end of the second year 
+Considerations & 
+Next Steps 
+•
+The market might not continue growing at the same rate 
+•
+Sales might not continue growing at the same rate 
+•
+The non-bottling market and firm’s sales might be growing at a faster rate (no 
+information was given) 
+•
+Consider adding another plant or expanding existing plants to keep pace with the sales 
+growth. Expansion plans should fit within the PE firm’s goal of exiting within 5 years 
+•
+Negotiate with suppliers / customers 
+•
+Increase prices due to higher quality products 
+Recommendation 
+Case Closing 
+123 

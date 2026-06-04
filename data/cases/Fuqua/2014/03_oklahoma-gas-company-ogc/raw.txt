@@ -1,0 +1,183 @@
+===== PDF p38 =====
+CASE 3 – OKLAHOMA GAS COMPANY (OGC)
+34
+
+
+===== PDF p39 =====
+Case 3: Oklahoma Gas Company (OGC)
+Prompt
+(~Present day) The Oklahoma Gas Company (OGC) is a medium-sized private company that has a rich history of drilling and producing 
+natural gas wells in Oklahoma. They possess a diverse, and they believe valuable, set of land assets where more wells could be drilled.  
+The company  is well capitalized, but profits have been falling the last few years and are projected to be negative next year.
+One of the key drivers in the drop in profitability is the price of natural gas, which has dropped substantially, thanks in part to 
+companies like OGC, that have perfected unconventional drilling techniques and have subsequently oversupplied the North American
+natural gas market.  Natural gas prices are currently at a five year low.
+A larger competitor has approached management about acquiring OCG for $250 M.  Management would like your help in assessing the 
+offer as well as identifying alternate strategies.
+Behavioral Questions
+• If you could only do one of the experiences on your resume over, which would it be and why?
+• If you could change one experience on your resume, which would it be and why?
+35
+
+
+===== PDF p40 =====
+Case 3: Oklahoma Gas Company (OGC)
+Interviewer Guidance
+The interviewee will likely dwell on the acquisition offer.  Guide them away from this, as it will only serve as the baseline for option 
+selection. The objective of the case is for the interviewee to evaluate viable options before recommending a course of action.  
+Ideally the candidate creates a basic profitability framework, and focuses on what OPTIONS the company has.
+• Present Valuation of OCG is not readily available.  Tell the interviewee that more data on the topic will become available later
+• Costs have remained stable
+• While Natural Gas demand fluctuates seasonally, the annual demand has been stable over the past few years
+• Land Assets = OGC owns 100% of the mineral rights of their land
+• While regulations have changed, and may continue to change, they have yet to have a large impact on OGC’s business
+• OGC has not drilled oil wells in the past, but would likely have the competency to do so in the future
+• Natural gas and oil prices are volatile and out of the control of OGC.  Future prices are difficult to predict.
+• Only operated in Oklahoma
+36
+
+
+===== PDF p41 =====
+Case 3: Oklahoma Gas Company (OGC)
+Interview Guidance
+Note: This case is meant to be adaptable.  The interviewer can make it more or less difficult at anytime based on their discretion.
+Potential Options for OGC:
+1.
+Explore oil wells (Obvious - if candidate is aware of booming shale oil revolution in the US or current price of oil)
+2.
+Continue drilling gas wells in the areas that they own
+3.
+Sell some land assets
+4.
+Acquire land and drill gas wells elsewhere
+5.
+Acquire smaller competitor
+6.
+Go Public
+7.
+Sell for $250 M
+8.
+Negotiate the $250 M offer upwards
+Guide the candidate towards (1) drilling oil wells, (2) continue drilling gas wells, (3) considering the acquisition offer
+While continuing to do what is NOT working may seem counterintuitive, but OGC is very good at drilling gas wells. Key takeaway from 
+this case is that all the assumptions and projections made my OCG and the candidate are based on highly volatile commodity prices.
+37
+
+
+===== PDF p42 =====
+Case 3: Oklahoma Gas Company (OGC)
+Interview Guidance
+OCG has found an oilfield in South Texas that it can acquire and drill on immediately.
+The candidate should begin asking for DATA to analyze the three options on a present value basis: 
+Natural Gas
+• The present value of all OCG’s currently producing gas wells is $50 M
+• The Price of gas is $3.00/mcf (thousand cubic feet)
+• Cost of capital = 10%
+• Cost of acquiring and drilling the additional natural gas wells is $50 M – Each well will come online in the Year 0 and stop producing 
+after Year 2
+• Year 0 Gas production projected = 40,000 mmcf (million cubic feet – unit change)
+• Year 1 Gas production projected = 30,000 mmcf 
+• Year 2 Gas production projected = ~17,000 mmcf 
+• At a price of $3.00 this gives you a total PV of $194 M
+• PVs: 
+• Year 0- $70 M (include the $50 M drilling cost)
+• Year 1- $81.8 M
+• Year 2- $42.1 M Æ NOTE: A $.20 increase in the price of Natural Gas would mean the wells’ PV is greater than$210 M
+38
+
+
+===== PDF p43 =====
+Case 3: Oklahoma Gas Company (OGC)
+Interview Guidance
+Note: This case is meant to be adaptable.  The interviewer can make it more or less difficult at anytime based on their discretion.
+Oil – if the candidate got the the PV for Gas correct, begin giving them the data below.  Go straight to last bullet if they struggled.
+• Current Price of oil is $120 (NOTE: historically high $) 
+• The cost of acquiring and drilling all necessary wells in the oilfield is $100 M
+• Cost of capital = 10%
+• Production horizon for each well is 10 YEARS - at this point candidate should realize that the math is too much, and even if they do 
+the math, the value is far too dependent on the price of oil
+• State that projected PV of the oilfield is $210 M
+Candidate now has three values - $210 M for drilling oil wells (+$50 M in legacy gas well), $250 M to sell the company, $194 M to 
+continue drilling gas wells (+$50 M in legacy gas well).  At this point they will likely give a firm answer that acquiring the new 
+oilfield and drilling is the correct path forward.
+39
+
+
+===== PDF p44 =====
+Case 3: Oklahoma Gas Company (OGC)
+Interview Guidance
+The interviewer should then push back:
+• Is OGC sure they can successfully drill oil wells, out of state, with no experience?
+• Where did the $210 M value come from - projecting oil recovery is VERY DIFFICULT?
+• Drilling costs are highly variable, likely to run over?
+• Finally, how sure are they about FORECASTING PRICES?
+The correct answer to the case is that there is not enough information given to provide a firm answer at this point.  Thorough price 
+forecasting (for both oil & natural gas) needs to be done.  A counter offer should be made.  OGC’s competency to drill and produce oil 
+wells should be reviewed.  A second opinion should be taken on the PV projection of the oilfield.  Assumptions play a huge role in the 
+valuations.
+Note: candidate may push back regarding the chances that gas prices rise because of the oversupply situation.  As we see in reality 
+today, large oil & gas companies will stop drilling for gas when prices drop, and gas wells inherently produce for shorter lifespans, thus a 
+significant change in the supply of natural gas is possible.
+40
+
+
+===== PDF p45 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

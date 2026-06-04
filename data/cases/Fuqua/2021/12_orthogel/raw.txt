@@ -1,0 +1,260 @@
+===== PDF p131 =====
+OrthoGel
+127
+Industry:                  Healthcare
+Case Type:     
+M&A
+Led by:            
+Interviewee
+Case Level: 
+Hard
+This is representative of a BCG case. Do not give this case to candidates that have done a BCG 
+mock with blood-clotting since they contain similar elements.  
+
+
+===== PDF p132 =====
+Behavioral Questions
+128
+• How do you manage stress?
+Question 1:
+• Why this firm?
+Question 2:
+
+
+===== PDF p133 =====
+OrthoGel
+129
+Your client is OrthoGel, a medical device company that manufacturers a hydrogel used 
+in surgeries to help patients recovery. The gel is applied with a biodegradable sponge. 
+OrthoGel is considering a deal with a sponge manufacturer, SpongeBob, to combine 
+the gel with a sponge to create a hybrid product. SpongeBob would be in charge of the 
+sales & marketing of the final product. Should OrthoGel make a deal with SpongeBob? 
+If so, what should OrthoGel negotiate? 
+Prompt #1:
+Case Background:
+General
+•
+Proposed structure is OrthoGel sells directly to SpongeBob  
+•
+Financial target is to maintain or improve profitability 
+Customer/Market:
+•
+Combined product allows for greater efficiency in post-op recovery
+•
+Market size is great – not relevant for case analysis
+Competition:
+•
+OrthoGel is market leader, has unique IP
+•
+Sponges are a commodity with multiple vendors
+
+
+===== PDF p134 =====
+OrthoGel
+130
+Framework Buckets:
+Deal 
+structure
+Yes
+Up-front 
+payment
+Royalty
+Greater 
+upsell 
+No
+Direct sales 
+channel
+Different 
+partner
+Build 
+sponges 
+Market
+Market size
+WTP
+Alternatives
+Insurance 
+reimburseme
+nt
+Regulatory 
+hurdles
+Company 
+Capabilities 
+Manufacturing
+Selling
+Marketing
+Goal: Drive candidate to pricing and willingness to pay (WTP)
+
+
+===== PDF p135 =====
+Exhibit 1 (verbal) – Price Potential
+Guidance:
+Pricing -Give this information:
+• WTP vial= $50
+• WTP sponge = $10
+• WTP increases by 15% for 
+combined product 
+If asked for:
+• Clinic needs 3 sponges / vial
+• Products are single-use
+• Sponges are a commodity 
+Calculations:
+With 1 Sponge: 
+• Current price to customer = $60
+• WTP combined product = $69
+Great candidate will note current margins
+• OrthoGel contribution = 50
+60 = 83.33%
+• SpongeBob contribution = 10
+60 = 16.67%
+With 3 Sponge: 
+• Current price to customer = $80
+• WTP for combined = $92
+• BloodStop contribution = 50
+80 = 62.5%
+• SpongeBob contribution = 
+30
+80 = 37.5%
+131
+If candidate does not drive, ask to brainstorm what other considerations are needed for the deal 
+and drive towards to current COGS 
+
+
+===== PDF p136 =====
+Exhibit 2
+Stand-Alone
+Combined
+Revenue
+Price / unit
+$50
+-
+COGS (per unit)
+Materials
+$1.00
+$0.90
+Manufacturing
+$0.25
+$0.20
+Packaging
+$0.15
+$0.10
+Labor
+$2.10
+$1.80
+Sales & Marketing
+$1.50
+$0.50
+132
+It costs SpongeBob $2 to manufacture a sponge
+OrthoGel Financial Analysis
+
+
+===== PDF p137 =====
+Exhibit 1 Guidance
+Stand-
+Alone
+Combined
+COGS
+Materials
+$1.00
+$0.90
+Manufacturing
+$0.25
+$0.20
+Packaging
+$0.15
+$0.10
+Labor
+$2.10
+$1.80
+Sales & Marketing
+$1.50
+$0.50
+Total Cost 
+OrthoGel
+$5.00
+$3.50
+133
+1)
+Great candidate should ignore revenue and 
+determine final costs quickly
+2)
+Candidate should easily calculate total costs 
+for OrthoGel. Ask “What should OrthoGel 
+charge SpongBob to maintain current unit 
+margin? (Direct candidate appropriately if 
+they start converting to % and struggle)
+•
+Current margin = $50-$5 = $45
+•
+To maintain margin: $3.50 + 45 = 
+$48.50
+Analysis: 
+•
+Candidate should recognize
+•
+OrthoGel gets $48.50
+•
+SpongeBob gets $20.50 (1 sponge)
+•
+SpongeBob gets $43.50 (3 sponge)
+•
+A great candidate will realize the value of this 
+combination comes from the gel, and they 
+can capture more of the value from WTP
+•
+OrthoGel margin slightly improves
+•
+SpongeBob margin decreases from 
+80% to 36%-47%1
+1Pay $2 / sponge + $48.50 to OrthoGel with new deal structure. Range 
+depending on 1 or 3 sponge revenue WTP. 
+
+
+===== PDF p138 =====
+Brainstorm
+Financial
+Revenue
+• Charge more given higher WTP
+– Value-based
+– % margin capture
+• Cannibalization implications
+• Royalty
+• Revenue-sharing with SpongeBob
+• Volume-based discounting 
+Costs
+• Further minimize with volume based 
+manufacturing
+• Reallocate headcount (if deal goes 
+through
+Non-Financial
+Operations
+• Manufacturing feasibility 
+• Regulatory implications
+• Changes to service & support needs
+Competition
+• Assess other sponge manufactures 
+for partnership
+• Evaluate sales & marketing benefits 
+(if deal goes through)
+– Enter new markets 
+– Capture new customers
+134
+Ask – What do you think about the deal structure?
+
+
+===== PDF p139 =====
+OrthoGel
+135
+• If no clear recommendation was provided as part of brainstorm, ask for concluding 
+thoughts (meant to be ambiguous)
+• Good – Deal creates value for both parties so go through
+• Great – Client OrthoGel drives disproportional part of value and should negotiate 
+higher rate or look at alternatives to sponges. SpongeBob margins decrease 
+significantly. 
+Recommendation 
+• Good answers will be routine (regulatory hurdles, due diligence, etc.)
+• Great answers incorporate some “out-of-box” thinking 
+Risks and Next Steps:
+This case is difficult since it deals with joint-venture. It also requires keeping 
+track of different numbers for various parties, critical thinking against 
+assumptions (# sponge / vial) and holistic analysis of the problem at hand

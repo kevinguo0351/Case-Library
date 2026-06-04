@@ -1,0 +1,26 @@
+{
+  "case_id": "Darden_2016_01_bank-savings-for-savings-bank-cio",
+  "school": "Darden",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2016.pdf",
+  "idx": 1,
+  "case_name": "Bank Savings for Savings Bank CIO",
+  "case_type": "Operations",
+  "round": "1",
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 39,
+  "pdf_page_end": 46,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    40,
+    41,
+    43
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p040.png",
+    "exhibits/exhibit_p041.png",
+    "exhibits/exhibit_p043.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2016\\01_bank-savings-for-savings-bank-cio"
+}

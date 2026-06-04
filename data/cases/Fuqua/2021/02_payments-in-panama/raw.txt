@@ -1,0 +1,305 @@
+===== PDF p24 =====
+Payments in Panama
+20
+Industry:                  Financial Services
+Case Type:     
+M&A
+Led by:            
+Interviewee
+Case Level: 
+Easy
+
+
+===== PDF p25 =====
+Behavioral Questions
+21
+Tell me about a time when you had to give a team member critical feedback. 
+How did you approach the situation? What would you do differently? 
+Question 1:
+What’s the hardest feedback you’ve received? How did you take it? 
+Question 2:
+
+
+===== PDF p26 =====
+Payments in Panama
+22
+• During your weekly game of pickleball with the CEO of Puerto Pay, a Puerto Rican 
+payments processor, she mentions that she’s thinking of expanding her company’s 
+footprint and has been looking to acquire Telepay, a competitor based in Panama. 
+She knows of your stellar reputation as a consultant and asks for you to determine 
+whether or not she should acquire Telepay. 
+Prompt #1:
+– Industry information:
+•
+Telepay and Puerto Pay are both Payment Processing companies. Payments processors are technology companies that 
+facilitate transactions between customers, merchants, and banks and collect fees for facilitating these transactions
+– Puerto Pay information: 
+•
+GOAL: Puerto Pay had profits of $625MM in 2020 and is looking to increase profit in 2021 post-acquisition to $645MM, 
+including the cost of buying Telepay
+•
+The CEO of Puerto Pay does not want to spend more than $500MM on acquiring Telepay
+– Telepay information: 
+•
+Telepay has over 85% of market share in Panama so you can consider them to have a monopoly on the payments 
+processing space in Panama (that is, Telepay generates 100% of the revenues of the Payment Processing market in 
+Panama.)
+•
+Puerto Pay and Telepay have no overlapping customers.
+– Product information:
+•
+Both Puerto Pay and Telepay have the same product: Point-of-Sale (POS) systems. POS systems allow merchants to charge 
+customers for transactions made in-store (think of the Square/Clover/Toast machines when you buy coffee)
+Case Background:
+
+
+===== PDF p27 =====
+Payments in Panama
+23
+This can be presented as a GO/NO-GO. The interviewee should summarize the 
+scenario that would lead to “go” and what information would be required to determine 
+go/no-go 
+Framework Buckets (Go/No-Go with Internal/External twist):
+External/Telepay Considerations
+- Company
+- Profitability
+- Revenue
+- Costs
+- Products
+- Customers
+- Demographics
+- Loyalty and Reputation
+- Trends
+- Panama Market
+- Growth rates
+- New competition?
+- Domestic
+- International
+- Macro-economic trends 
+affecting the payment 
+processing space in Panama 
+Internal/Puerto Pay Considerations
+- Deal financing
+- Cash
+- Debt
+- Stock
+- Synergies & Cost-cutting
+- Employee redundancies
+- IT/infrastructure consolidation
+- Facilities consolidation
+- Tax implications
+- Other
+- Branding
+- Knowledge transfer
+- Culture
+Drive towards Central America payment processing market 
+
+
+===== PDF p28 =====
+Payments in Panama
+24
+Framework Buckets (Go/No-Go with Internal/External twist):
+Telepay Syngergies
+• Size
+• Customer footprint
+• Revenue
+• Revenue streams
+• Communication 
+Synergies
+• Price
+• Cross/sell
+• Fee structures
+• Cost structure
+• Savings
+• Bundle
+• Upfront control / premium
+• NPV
+• Financing
+Puerto Pay Fit
+• Physical capital
+• Human capital
+• SG&A 
+• Customer overlap
+Risk
+• Integration
+• Company culture
+• Talent leaves
+• Losing customers
+• Regulations
+• Quality 
+
+
+===== PDF p29 =====
+Exhibit #1
+25
+11%
+33%
+4%
+5%
+9%
+16%
+22%
+Honduras
+Panama
+11%
+33%
+4%
+5%
+9%
+16%
+22%
+Belize
+Nicaragua
+El Salvador
+Costa Rica
+Guatemala
+Central American Payment Processing Market by Country (in Revenue, in $MM)
+
+
+===== PDF p30 =====
+Interviewer guidance on Exhibit #1
+• This exhibit shows how much each country in 
+Central America makes up of the larger Central 
+American payments processing market. It is 
+meant to be indirect and intended to push the 
+candidate to ask more questions about the 
+target company that may not have been asked 
+originally. 
+• When asked - the total size (in revenue) of 
+the Central American market is $681MM. 
+• Additionally, the candidate can inquire about 
+how much of the Panama market Telepay owns 
+to get a sense of Telepay’s revenue figures. In 
+this case, Telepay owns 90% of the market, and 
+the remaining 10% is fragmented among a 
+handful of competitors.
+• Once the candidate calculates Telepay’s
+revenue, provide them with the following and 
+ask them to assess what they think about the 
+acquisition cost:
+–
+Acquisition cost: EV – Net Debt * Control premium = ($400M) 
+* 120% = $480M = cost to acquire
+Basic
+•
+Once the candidate has figured out about the 
+overall size of the Central American market 
+and Telepay’s share of the Panama market, 
+they should calculate Telepay’s revenues:
+–
+Therefore, Telepay’s revenues are 33% (panama
+market) * 90% (Telepay share) * $681MM 
+(market size) = $202M
+–
+Can approximate 30% of 680M as (700M x 0.3) –
+(20M x 0.3) = (600M x 0.3) + (80M x.0.3) = 204M
+•
+Once the candidate has calculated Telepay’s
+revenues, they should drive the case towards 
+determining cost in order to ultimately find 
+profitability figures
+Second order insights
+•
+The candidate should consider implications of 
+Exhibit #1:
+–
+Will there be regulatory issues if Telepay is 
+effectively a monopoly?
+–
+How much more will Telepay be able to grow if it 
+already owns a heavy majority of the market? Is 
+the payment processing market overall growing?
+26
+Exhibit #1 Guidance:
+Analysis:
+Drive towards costs
+
+
+===== PDF p31 =====
+Exhibit #2
+27
+20
+28
+85
+10
+16
+16
+Operations
+HR
+Logistics
+IT
+Finance
+Sales
+Telepay Costs by Department (in $MM)
+
+
+===== PDF p32 =====
+Payments in Panama
+28
+• You receive this chart breaking down Telepay’s costs by department and immediately 
+recognize IT spend is a significant portion of total costs. When you ask the client for 
+information regarding these costs, she gives you the following notes:
+– Telepay spends $85MM on server racks annually (noted in chart), which affords the company 
+68 server racks
+– The company keeps 24,000 terabytes of data active in the data center
+– Each server rack can hold 500 terabytes of data
+Prompt #2:
+
+
+===== PDF p33 =====
+Interviewer guidance on Exhibit #2
+• Exhibit #2 gives a breakdown of Telepay’s
+costs by department, and Prompt #2 
+breaks down those costs. When asked 
+provide
+–
+The IT spend goes towards hosting and 
+maintaining 68 servers. Each server costs $1.25M
+–
+Client has 24,000 terabytes of data
+–
+Each server stores 500 terabytes  
+Given this, the candidate should deduce 
+that the company is paying for 20 server 
+racks that it doesn’t need, totally $25MM 
+that can be saved
+Calculations (exact)
+– 24,000 / 500 = 48 servers needed
+– 68 – 48 = 20 servers are being wasted
+– 20 x 1.25 (5/4) = $25M in savings
+Basic
+•
+The candidate should understand that 
+Telepay has more servers than are necessary 
+for it’s business and that Telepay can cut 
+down on costs by getting rid of these servers, 
+or Puerto Pay can save money by getting rid 
+of these post-acquisition.
+Second order insights
+•
+A good candidate will calculate the amount of 
+money saved by getting rid of these servers 
+and understand that the company can save 
+$25MM by getting rid of these unused servers
+29
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p34 =====
+Payments in Panama
+30
+As you’re out getting coffee, you run into the CEO of Puerto Pay, who asks you for an 
+update on the acquisition work.
+Recommendation 
+The candidate should recommend that Puerto Pay move forward with the 
+acquisition of Telepay and highlight the following points:
+- Telepay’s profit for 2020 was $52MM
+- Telepay can cut down on costs within the IT department by $25MM
+- Factoring in cost of acquiring Telepay for $480MM, Puerto Pay will be able to 
+increase it’s overall profits to over $702MM, which exceeds the target that the client 
+was looking for
+The candidate should also highlight the following risks:
+- Legal/regulatory (regarding anti-competition)
+- Hard for Telepay to grow with so much market share
+Risks and Next Steps:

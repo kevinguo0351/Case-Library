@@ -1,0 +1,349 @@
+===== PDF p97 =====
+Behavioral Questions
+93
+If you’re hired at our firm, what would be your ideal first case?
+Question 1:
+Tell me about a time that you took a challenging situation and turned it into a positive 
+one. 
+Question 2:
+
+
+===== PDF p98 =====
+Roll ‘n Grind
+94
+Your client is Roll ‘n Grind (RNG), a manufacturing company that specializes in industrial roll 
+grinding and servicing. The company prides itself on its strong reputation and commitment to 
+customer service, but recently its clients have raised numerous complaints about on-time delivery  
+of their rolls. The CEO has asked you find out what RNG should do to fix delivery time in order to 
+maintain its reputation and client retention rates. [show photos on next slide]
+Prompt #1:
+• The interviewee will likely be unfamiliar with roll grinding and should ask for more information 
+regarding the product and value chain. Additional background information:
+– Client/Company information: Roll ‘n Grind currently operates four plants in the eastern 
+United States but serve a global client base. They are a privately held company that has  
+been in business over 50 years. 
+– Industry/Competition information: N/A
+– Product information: RNG manufactures large, metal rolls that are used by many industries 
+for processing products, such as paper, paint, steel, textiles, and rubber. The rolls’ 
+measurements must be extremely precise – up to a twentieth of an inch in accuracy – and 
+require servicing to maintain these requirements over time. 
+– Value Chain/Revenue information: RNG’s revenue streams include manufacturing new 
+rolls and servicing rolls in use (which are shipped back to RNG for service). RNG has 
+experienced customer complaints for both new and serviced rolls. 
+Case Background:
+
+
+===== PDF p99 =====
+Roll Examples
+95
+
+
+===== PDF p100 =====
+Roll ‘n Grind
+96
+• There are many possible framework options. The interviewee should include both the supply 
+chain as well as key factors in the manufacturing process. 
+• Sample Framework #1: The candidate could do an internal/external framework, separating the 
+internal issues into the two key components of the value chain: servicing and manufacturing:
+Sample Framework Buckets:
+RNG (Internal)
+Macro/Policy Factors (External)
+• Pick up and delivery 
+times
+• Materials and 
+equipment needed for 
+servicing
+• Labor needed for 
+servicing
+Servicing
+Manufacturing
+• Raw materials sourcing
+• Labor
+• Custom vs standard rolls
+• Workshop layout and 
+operations efficiency
+• Delivery methods
+• Customer service
+• Shortage of truckers available for hire in the 
+industry
+• Location of plants to meet demand from 
+customers
+• Hiring issues or high turnover with low 
+unemployment rates
+
+
+===== PDF p101 =====
+Roll ‘n Grind
+97
+• Sample Framework #2: Given that this is potentially an operations problem, the interviewee 
+could outline the manufacturing process and indicate key considerations along each step
+Sample Framework #2:
+Supply Chain
+Manufacturing
+• Raw materials inventory 
+and delivery time
+• Number of suppliers
+• Geography of deliveries 
+and customer complaints
+• Plant layout
+• Number of jobs assigned to 
+each plant
+• Labor hours required
+• Bottlenecks in production
+Delivery
+• Number of trucking partners
+• Distance traveled for delivery
+• Customer service
+• Automated tracking 
+information
+
+
+===== PDF p102 =====
+98
+4.2
+2.9
+6.1
+6.8
+8.2
+7.9
+7.7
+8.2
+AR
+KY
+Manufacturing
+Servicing
+PA
+GA
+Exhibit #1
+Historic Average Number of Days Spent 
+Per Roll, by Plant
+18
+20
+19
+22
+24
+24
+24
+16
+18
+16
+14
+13
+9
+8
+10
+11
+7
+8
+8
+9
+10
+9
+8
+7
+Serviced
+Manufactured
+December
+November
+October
+September
+April
+January
+July
+February
+March
+May
+August
+June
+Total Number of Rolls by Month
+
+
+===== PDF p103 =====
+Interviewer guidance on Exhibit 1
+• Read: The client sent over some data 
+from its four plants and corporate 
+office.
+• Interviewer Guidance: The candidate 
+should notice that they can calculate 
+the total number of days used each 
+month for servicing and 
+manufacturing.
+• First Graph: The candidate should recognize that 
+servicing takes less time than manufacturing. There is 
+also more variation in servicing than manufacturing. 
+However, this makes sense given that servicing jobs 
+are not as standard or predictable as manufacturing 
+new rolls.
+• Second Graph: The candidate should notice that 
+servicing does more volume than manufacturing. The 
+candidate should also recognize that they have 
+enough information to determine the capacity of the 
+plant. If not, push them until they mention capacity of 
+the Plant.
+99
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p104 =====
+Math guidance on Exhibit 1
+Average Number of Days Per Roll:
+•
+Servicing: (4.2 + 2.9 + 6.1 + 6.8)/4 = 5
+•
+Manufacturing : (8.2 + 7.9 + 7.7 + 8.2)/4 = 8
+Capacity for Manufacturing
+•
+30 days  / 8 days = 3.75 rolls per plant, per 
+month
+•
+3.75 rolls * 4 plants = 15 rolls per month
+Capacity for Servicing
+•
+30 days / 5 days = 6 rolls per plant, per month
+•
+6 rolls * 4 plants = 24 rolls per month
+• The candidate should notice that during the 
+summer months, the plant is maxing out its 
+capacity, likely the cause for the delays. 
+100
+Math:
+Analysis:
+
+
+===== PDF p105 =====
+Brainstorming
+• What are some factors the 
+company should consider to fix the 
+capacity issue?
+• Sample brainstorm
+– Servicing
+•
+Consider on-site servicing for rolls with small 
+maintenance issues
+•
+Re-evaluate geography / which plants receive which 
+rolls for servicing
+•
+Space out servicing across the entire year instead of 
+summer – provide incentives for customers to select 
+new time frames that are different than what they’ve 
+done in years past
+•
+Forecast servicing needs at least one year in advance 
+to accommodate traditional servicing as well as rolls 
+that need servicing outside of traditional time frames
+•
+Rent space from a similar company or competitor to 
+deal with overflow in the summer months
+– Communication
+•
+Improve tracking system visibility for clients
+•
+Set flags in internal platform to create more accurate 
+servicing time estimates for customers
+•
+Proactively reach out to customers about rescheduling 
+sending rolls in for maintenance if issues arise
+101
+Prompt:
+Analysis:
+
+
+===== PDF p106 =====
+Roll ‘n Grind
+102
+• The team wants to explore renting out additional space during the spring/summer 
+months. You’ve collected the following information. Which option is most the most 
+sense financially?
+To be read to candidate:
+Prompt #2 
+Option A
+Option B
+Monthly rent: Half of option A’s rent
+Additional delivery fees: $5,000 (total)
+Fee per job: $1,000 per job
+Utilities per month: $2,250
+Estimated jobs per month: 8
+Monthly rent: $10,500
+Additional delivery fees: Waived
+Fee per job: $2,000 per job
+Utilities per month: $5,500
+Estimated jobs per month: 8
+
+
+===== PDF p107 =====
+Roll ‘n Grind
+103
+Math Guidance for prompt #2
+Monthly Rent: $10,500 
+Fee per job: $2,000 per job
+Utilities per month: $5,500
+Estimated jobs per month: 8
+Option A
+Option B
+Monthly Rent: half of option A’s rent
+Additional delivery fees: $5,000 (total)
+Fee per job: $1,000 per job
+Utilities per month: $2,250
+Estimated jobs per month: 8
+Calculations based on 4 months of use:
+(10,500+5,500)*4 = $16,000 in rent and 
+utilities
++
+$2,000*8= $16,000 in job fees
+=$37,000 total cost
+Calculations based on 4 months of use:
+(5,250+2250)*4 = $30,000 in rent and 
+utilities
++
+$1,000*8= $8,000 in job fees
++
+$5,000 delivery fees
+=$43,000 total cost
+Guidance for prompt #2
+Candidate should recommend moving forward with Option A since it is less expensive. 
+A strong candidate will begin to question if this investment is if there is enough cash on 
+hand to afford this or what the return on investment is. 
+
+
+===== PDF p108 =====
+Roll n’ Grind
+104
+• The RNG CEO is walking in the door. They want to know what you recommend to 
+resolve the numerous customer complaints. 
+• Candidate should recommend fixing the bottleneck issues by renting out space for 
+$37,000 to handle overflow jobs during peak months.
+Recommendation 
+• Risks:
+– Quality of jobs that are completed in the rented facility
+– Competitor conflicts of interest
+– Return on investment of renting space
+• Next steps:
+– Calculate return on investment of renting space
+– Execute contracts with facilities and arrange proper hiring and training
+Risks and Next Steps:
+
+
+===== PDF p109 =====
+Evaluation Criteria
+105
+Candidate Level
+Assessment
+Average Candidate
+General framework that highlights issues including 
+delivery, manufacturing, and communication with 
+customer. Needs additional prompting to calculate 
+capacity and may struggle with the calculation.
+Good Candidate
+Drives to calculating capacity with some assistance 
+from the interviewer. Framework and brainstorm are 
+case-specific.
+Excellent Candidate
+Creates a framework that is tailored to roll grinding. 
+Drives to (without prompting) calculating the capacity of 
+the plant using the information provided, and 
+recognizing the bottleneck in the summer months. 
+Candidate finds creative ways to fix the capacity issue 
+and provides a clear recommendation with next steps 
+and risks.

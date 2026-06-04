@@ -1,0 +1,298 @@
+===== PDF p164 =====
+Case #15: Refinery in the 
+Country of Georgia
+Industry: Oil and Gas
+Quantitative Level: Medium
+Qualitative Level: Medium
+Quantitative level: Medium
+Qualitative level: Medium
+159
+
+
+===== PDF p165 =====
+Behavioral Questions
+161
+• Tell us about a time you had a conflict with a supervisor. 
+• Tell us about a time you faced an ethical dilemma, how did you handle it?
+Question 1:
+Question 2:
+
+
+===== PDF p166 =====
+Refinery in the Country of Georgia
+162
+• It is 2012 and your client is one of the largest retailer of oil products in the country of 
+Georgia (Eastern Europe). Company is exploring the idea to build crude oil refinery in 
+Georgia and has hired you to evaluate the idea.
+• The goal of the company is to understand what the capacity of refinery should be and 
+wants to make go/no go decision.
+Prompt #1:
+Here is some background information that interviewee might ask about:
+• Company controls roughly 25% of all oil product sales in Georgia.
+• Currently there are no crude refineries in Georgia. All of the refined oil products are imported from 
+other countries.
+• For the simplicity, consider three major oil products for this case: Gasoline, Diesel and Other Oil 
+Products.
+• Georgia produces 100 000 tons of crude oil annually and this number is projected to stay stable. 
+All this crude is exported to foreign countries. 
+• The possibility of importing crude oil from neighboring countries is limited. Importing from 
+countries further is associated with high transportation costs.
+• Oil refinery is the plant where input is crude oil and output is the final products ready for retail 
+consumption like gasoline, diesel and etc.
+Interviewer Guidance:
+
+
+===== PDF p167 =====
+Refinery in the Country of Georgia
+163
+Good framework should identify it as a investment case and would cover both Quantitative and 
+Qualitative aspects of it:
+Quantitative: Candidate should identify key variables needed for evaluating the projects: Revenue 
+and Fixed and Variable costs. 
+Qualitative: Candidate should mention that there are multiple factors to be taken into consideration: 
+availability of raw materials, demand on market, price fluctuations and other risks.
+Interviewer Guidance on Framework:
+
+
+===== PDF p168 =====
+Refinery in the Country of Georgia
+164
+As a first step, your client wants to identify what should refinery’s capacity be. 
+Traditionally, oil refineries have very high capacities but recent technological advances 
+allow to build small size refineries with the same efficiency at the same cost levels.
+Note: Hand exhibit 1 to interviewee. 
+Prompt #2:
+• From the exhibit interviewee should be able to identify that there is no 
+opportunity to import additional raw material and the capacity should be 
+around 100 000 tons.
+• Candidate should notice that 100 000 tons is roughly 10% of current 
+consumption and due to high transportation prices there would be enough 
+demand on local production.
+• If needed give hints to push candidate towards this answer.
+• If needed push the candidate towards next step – financial projections.
+Interviewer Guidance:
+
+
+===== PDF p169 =====
+Exhibit #1
+165
+Crude Oil Production in Georgia
+Year
+Tonns
+2010
+93,000.00
+2011
+108,000.00
+2012
+102,000.00
+2013*
+105,000.00
+2014*
+105,000.00
+* projected amounts
+Oil Products Consumption in Georgia
+Year
+Product
+Tonns
+2012
+Diesel
+380,000.00 
+Gasoline
+470,000.00 
+Other Products
+40,000.00 
+2013
+Diesel
+400,000.00 
+Gasoline
+500,000.00 
+Other Products
+40,000.00 
+• All crude oil produced in Georgia is exported. Oil producers are forced to sell their 
+product at low prices due to small amounts and associated transportation costs.
+• The possibility of importing crude oil from neighboring countries is limited. Importing 
+from countries further is associated with high transportation costs.
+• All oil products are imported in Georgia. Due to high transportation costs, local 
+retail prices are extremely high.
+Industry Facts:
+
+
+===== PDF p170 =====
+Refinery in the Country of Georgia
+166
+Client wants to use discounted cash flow model to get NPV. For simplicity assume year 
+1 projections will remain same in perpetuity with no growth.
+Discount rate: 10%
+Tax rate: 20%
+Depreciation: Ignore depreciation for this case.
+Prompt #3:
+• Let interviewee choose where to start from: cost projections or revenue 
+projections.
+• Provide information according to candidate’s choice.
+• See exhibit 3 for NPV calculation and additional guidance. Note: don’t give 
+it to interviewee.
+Interviewer Guidance:
+
+
+===== PDF p171 =====
+Refinery in the Country of Georgia
+167
+Let the candidate brainstorm what the cost items are. Candidate should be able to break costs into 
+fixed and variable parts.
+Capex: Construction costs are estimated to be $500 000 per 1000 tons of refining capacity. The
+company owns a piece of land, so it can be ignored .
+Fixed Costs: Labor: Assume 1 employee will be needed per 1000 tons of refining capacity. Average 
+annual salary $20 000 per employee. Other costs: assume all the overheads will be 10% of total 
+revenue.
+Variable Costs: Crude Oil: Use market price of oil - $600 per ton. 
+Interviewer Guidance on Costs
+Labor Cost calculation
+Employees needed
+100
+Salary per employee
+$ 20000.00
+Total salaries 
+$ 2,000,000.00 
+Capex calculation
+Refining capacity (tons)
+100,000.00 
+Cost per 1000 tons
+$      500,000.00 
+Total construction costs
+$ 50,000,000.00 
+
+
+===== PDF p172 =====
+Refinery in the Country of Georgia
+168
+Let the candidate brainstorm how to calculate revenues. Candidate should identify that there will be 
+two main variables to project the revenue: 1. output amounts of final products and 2. price of output 
+products.
+Note: Hand exhibit 2 to interviewee only after candidate finishes brainstorming.
+Interviewer Guidance on Revenues
+
+
+===== PDF p173 =====
+Exhibit 2
+169
+Expected Output from Georgian Crude Oil
+Wholesale Prices of Oil Products in Georgia
+Gasoline ($ per tonn)
+$           1,000.00 
+Diesel  ($ per tonn)
+$              900.00 
+Other Oil Products  ($ per tonn)
+$              700.00 
+5%
+50%
+30%
+Diesel
+Loss
+Other Oil Products
+Gasoline
+15%
+
+
+===== PDF p174 =====
+Interviewer guidance on Exhibit 2
+Using the exhibit interviewee should be able to calculate revenue per product and total 
+revenue.
+170
+Exhibit #2 Guidance:
+Product
+Output amount (tons)
+Price Per Ton
+Revenue
+Gasoline
+30,000.00 
+$   1,000.00 
+$  30,000,000.00 
+Diesel
+50,000.00 
+$       900.00 
+$  45,000,000.00 
+Other Oil Products
+15,000.00 
+$       700.00 
+$  10,500,000.00 
+Total Revenue
+$ 85,500,000.00 
+
+
+===== PDF p175 =====
+Exhibit 3 – DO NOT HAND TO INTERVIEWEE!
+• This calculation uses simple 
+approach. NPV = EBIT(1-
+t)/10% - initial investment
+• Ideally candidate can use 
+General free cash flow 
+formula: FCF = EBIT(1-t) + 
+Depreciation + Non-cash 
+items – CapEx – Change in 
+NWC.
+• This can complicate 
+calculation too much, so 
+guide candidate to take 
+simpler approach.
+171
+Exhibit #3 Guidance:
+Year 0
+Year 1
+Cost of construction
+$                 50,000,000.00 
+Revenue
+Sale of Gasoline
+$  30,000,000.00 
+Sale of Diesel
+$  45,000,000.00 
+Sale of other oil products
+$  10,500,000.00 
+Total Revenue
+$  85,500,000.00 
+Costs
+COGS - Crude oil costs
+$  60,000,000.00 
+Labor costs
+$    2,000,000.00 
+Other Costs
+$    8,550,000.00 
+Total Costs
+$  70,550,000.00 
+EBIT
+$  14,950,000.00 
+Tax
+$    2,990,000.00 
+EBIT (1-t)
+$ 11,960,000.00 
+NPV
+$                 69,600,000.00 
+
+
+===== PDF p176 =====
+Refinery in the Country of Georgia
+172
+• After NPV calculation interviewee should understand that it seems very attractive project.
+• Let candidate brainstorm on qualitative stuff – what are risks, weaknesses in assumption, etc.
+• After that ask candidate for final recommendation
+Interviewer Guidance – wrapping up the case
+
+
+===== PDF p177 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Average candidate will find it hard to identify key 
+variables needed to make go/no go decision. 
+Interviewer will need to give directions on each step
+Good Candidate
+Good candidate will be able to independently go 
+through the case and with minimal assistance come to 
+final conclusion.
+Excellent Candidate
+Will not only be able to come to final conclusion 
+independently but also give high level insights of what 
+are risk factors and weaknesses in assumptions used 
+for calculation. (such as: volatility in oil prices, using 
+perpetual model an so on).
+173

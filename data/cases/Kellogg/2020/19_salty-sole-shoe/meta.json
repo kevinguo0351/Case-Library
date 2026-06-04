@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2020_19_salty-sole-shoe",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 19,
+  "case_name": "Salty Sole Shoe",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail & CPG",
+  "difficulty": null,
+  "pdf_page_start": 203,
+  "pdf_page_end": 212,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    206,
+    207,
+    209,
+    211
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p206.png",
+    "exhibits/exhibit_p207.png",
+    "exhibits/exhibit_p209.png",
+    "exhibits/exhibit_p211.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\19_salty-sole-shoe"
+}

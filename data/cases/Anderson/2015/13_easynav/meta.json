@@ -1,0 +1,30 @@
+{
+  "case_id": "Anderson_2015_13_easynav",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 13,
+  "case_name": "EasyNav",
+  "case_type": "Operations",
+  "round": "1",
+  "industry": "Technology",
+  "difficulty": "medium",
+  "pdf_page_start": 70,
+  "pdf_page_end": 79,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    74,
+    75,
+    76,
+    77,
+    78
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p074.png",
+    "exhibits/exhibit_p075.png",
+    "exhibits/exhibit_p076.png",
+    "exhibits/exhibit_p077.png",
+    "exhibits/exhibit_p078.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\13_easynav"
+}

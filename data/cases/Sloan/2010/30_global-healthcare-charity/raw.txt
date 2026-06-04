@@ -1,0 +1,118 @@
+===== PDF p98 =====
+30.) Global Healthcare Charity (BCG, Round 1) 
+Stem: Our client is a large global healthcare delivery non-profit organization. Each year they 
+make $2 billion in grants to reduce the incidence of disease in developing nations. Every year, 
+they allocate 20% of this budget to fighting malaria. 800/0 of their malaria budget goes toward 
+R&D and 20% to onsite implementation. 
+A few facts about malaria: Approximately 50% of the world's countries are considered "at risk", 
+which means malaria is common amol}g-theJpopulation. The biggest problem is in Sub::Saparan 
+Africa. In this region, the disease hqs'a 40% incidence rate an1qDg~<children undecthe ~g~,of~. \ 
+However, children who live past thb-.a~~!..?_ US~l!"~lly,aequlfe'-ilnmunity to the disease'b'y this " 
+stage of their life. 
+It is early 2008, and the malaria team has just found out that for this year, and this year only, 
+their budget will be increased by 200/0. These additional funds could be invested into the 
+purchase and distribution of bed nets, or they could be used to further R&D on a malaria vaccine 
+with a robust pipeline. The team is equally divided between these two options and has brought us 
+in to help them decide how to invest the additional funds. 
+Key Insights: While drawing their structure, the candidate should have already calculated that 
+additional malaria team funds amount to $1 OOM. The key to the case is to compare each option 
+and determine which can save the greatest number of lives. Impact on the number of lives saved 
+should be included in the candidate's structure. 
+Phase I: Sub-Saharan Africa demographics 
+The following information can be provided if requested by the candidate 
+• 
+Total popUlation is 800M 
+• 
+A verage life expectancy is 50 years, but the population is weighted more heavily toward 
+the 0-5 age group 
+• 
+Roughly 100/0 of the population falls into the 0-5 age group 
+Behind the Scenes: The candidate can calculate the population of the 0-5 age group in one of 
+two ways. If they askfor the percentage, then they can simply n1ultiple 800M by 10% to get 80M 
+children aged 0-5 years old. 
+If they ask for life expectancy, they can divide 800M/50 years and Inultiply by 5 to get 20M. They 
+need to renzember though that population is not weighted evenly so they should multiply 20M by 
+at least 2 to get a final 0-5 year old population of 40M-80M. 
+Phase II: Determining the benefits of bed nets 
+...... Management 
+1111111111 Consulting 
+~~~'.?:.~ Club 
+2010-2011 1st Year Case Book 
+144 
+
+
+===== PDF p99 =====
+Behind the Scenes: Once the candidate has the above information, they should move to evaluate 
+the impact of investing in either bed nets or the vaccine. It does not matter which they start with, 
+but they should be clear that they wish to do a side-by-side comparison before the following 
+information is provided. 
+Candidate: I'd like to start by evaluating the bed nets. Do we have any information on how 
+effective bed nets are? 
+Interviewer: There are two factors that contribute to the usefulness of bed nets. Efficacy is 40%, 
+which is the frequency with which they yield the desire result. There is also a compliance rate, 
+which is the frequency that the nets are actually used. The compliance rate is unfortunately only 
+50% because once they are distributed families often use them for other purposes or don't use 
+them at all. 
+Candidate: Do we know how much each bed net costs? 
+Interviewer: They are $5 each. That includes everything - purchase from the manufacturer, 
+shipping, and distribution. 
+Candidate: Ok, so $100M divided by $5 = 20M bed nets 
+Key Insight: Candidate should note that 20M bed nets is only enough for 25% of 0-5 year old 
+population. 
+Candidate: 20M bed nets x 40% efficacy x 50% compliance rate x 40% incidence rate = 1.6M 
+/ 
+cases averted. How long do bed nets last? 
+f 
+j 
+/ 
+\i~.~?ir Intel:~iewer: They last for 2 years. 
+l 
+Candidate: Ok,2 years x 1.6M cases averted equals a total of 3.2M cases of malaria averted if 
+we invest the $100M into bed nets. 
+Phase III: Determining the benefits of vaccine R&D 
+Candidate: What information do we have about the vaccine pipeline? 
+Interviewer: The vaccine will be ready for launch 4 years from now. 
+Candidate: Do we know the efficacy and compliance rates for the vaccine? 
+Interviewer: Studies show that the vaccine will have an 80% efficacy rate. Can you tell me your 
+intuition about the compliance rate? 
+....... Management 
+UlIIIIIII Consulting 
+~~~~I~::.~ Club 
+2010-2011 1st Year Case Book 
+145 
+
+
+===== PDF p100 =====
+Candidate: Sure. How would the vaccine be administered and in how many doses? 
+Interviewer: The vaccine can be taken orally and only a single pill is required. 
+Candidate: Compliance rate would likely be clQse to 1 OO%ifien since clinicians can ensure that 
+the pill is taken properly and the patients do not need to return for additional doses. Do we have 
+any information about how much the vaccine will cost? 
+Intervie\ver: The cost is $30 per vaccine, but our $100M investment will only cover research 
+and development costs. However, if we fund the research, another organization has agreed to 
+donate an additional $150M dedicated to the production and distribution of the vaccine. 
+Candidate: $150M/$30 = 5M doses of vaccine. 
+5M doses x 80% efficacy x 100% compliance x 40% incidence = 1.6M cases averted 
+/ 
+Key Insight: The candidate should realize that because the vaccine provides lifelong protection, 
+more cases could be averted if the vaccine is admjnistered when children are younger. If the 
+candidate asks, the vaccine can be administered safely when the child is as young as one_,year 
+old. The vaccine wilf'then protect them for an additional 4 years of their life while they are still 
+susceptible to the disease, so 1.'6M is multiplied by 4 to get a total of 8M cases of malaria 
+averted. 
+Additional Insight: While this is not a traditional business case, a cost-benefit analysis can be 
+used. After analyzing the two options the candidate may also want to think about how bed nets 
+and the vaccine fit in with the organization's central mission and knowledge, and what other 
+organizations in the space are doing. 
+Phase IV: Final recommendation 
+Key Insight: Candidate should recognize that neither approach is a cure-all for malaria since a 
+large proportion of 0-5 year old population remains unprotected. However, investing the $1 OOM 
+in either approach would have a significant impact on saving lives. 
+Recommendation: The final recommendation will depend on whether the candidate gets the key 
+insight for vaccine administration. Recommendation should be direct and include both analysis 
+and recognition of other factors (mission alignment, etc). 
+...... Management 
+!!!ill!!!! Consulting 
+~~:;'I~~.~ Club 
+2010-2011 1st Year Case Book 
+146 

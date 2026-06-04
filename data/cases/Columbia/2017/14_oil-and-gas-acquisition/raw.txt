@@ -1,0 +1,154 @@
+===== PDF p120 =====
+Case # 14 - Oil and Gas Acquisition
+Your client is a large Oil and Gas company. Yesterday afternoon, the CEO receives a call from another large 
+Oil and Gas company (AQC) with an offer to buy the company. The CEO needs to get on the phone with the 
+acquiring company tomorrow morning. You have one afternoon to prepare some analysis to help him 
+understand which stance he should take for the call tomorrow.
+Problem Statement Narrative
+Case # 14: Oil and Gas Acquisition
+The case needs to be prepared in a very short amount of time, so there is limited data available. There should 
+be more emphasis on brainstorming and planning for next steps rather than making a concrete 
+recommendation on whether the client should sell or not.
+Case Notes
+Industry: 
+Oil and Gas
+Case Type: 
+M&A
+Firm:
+Bain
+• M&A
+• Valuation
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Medium
+Easy
+116
+
+
+===== PDF p121 =====
+Sample Framework
+•
+Evaluate the offer
+•
+Consider EBIT multiple compared to other 
+comparable company sales in the industry
+•
+Book value approach based on current assets 
+and estimated future revenues
+•
+Consider strategic fit
+•
+Consider synergy with acquiring company that 
+will increase shareholder value
+•
+Consider cultural fit
+•
+Consider management structure
+•
+Consider geographic location of headquarters
+•
+Consider IT integration
+•
+Consider future of the industry as a whole
+Sample Framework
+Modified version of M&A framework, with less 
+focus on valuation/synergy since very little data is 
+available.
+If candidate starts asking about restructuring after 
+the sale or laying off workers, lead them to the 
+argument that the CEO should make the decision 
+primarily with the shareholders in mind and 
+increase the shareholder’s value. 
+Guidance for Interviewer
+Client is an upstream client with both onshore and 
+offshore wells, primarily in the US.
+Our client focuses on traditional wells as assets and 
+has seen steady growth.
+Oil prices dropped sharply in 2015 and have been 
+increasing again. This led to increased upstream 
+activity.
+No offer information is received yet, but will be 
+coming in very shortly.
+Clarification Answers if Asked 
+117
+Case # 14 - Oil and Gas Acquisition
+
+
+===== PDF p122 =====
+Question #1
+We just received the offer from the client. Please evaluate the offer (Give Exhibit 1) and tell me what you 
+would recommend the CEO to say during the call tomorrow.
+Question #1
+Calculate EBIT multiple:
+500,000 shares * (0.8) = 400,000 shares of AQC
+Assuming that the deal will not dilute AQC’s stock and hence affect its price.
+400,000 * $70 = $28M 
+$28M / $2.8M EBIT = 10x EBIT 
+Purchase price is 10x EBIT and greater than current market cap value. A sale would increase shareholder 
+value. $50 per share for $56 (0.8 * $70)
+If candidate asks, other comparable companies in the industry have sold for 7-12x EBIT. 
+Other questions interviewer asked:
+•
+Why AQC would offer to buy higher than market cap? 
+•
+What other things should the CEO consider? (elements of strategic fit and generating long term value)
+•
+Why might companies want to vertically integrate (if candidate brings up as possible reason for 
+acquisition)
+Solution
+118
+Case # 14 - Oil and Gas Acquisition
+
+
+===== PDF p123 =====
+Conclusion
+• At a first glance, the offer seems reasonable and 
+aligned with other recent sales in the industry.
+• Accepting the offer will immediately increase 
+shareholder value
+Rationale
+• The CEO should be open to further discussion 
+and start preparing materials for negotiation of a 
+better offer.
+Recommendation
+• Conduct valuation of company including 
+assessment of all wells in production and in 
+exploration phase.
+• Assess whether assets are a good fit with 
+acquiring company (diversify risk)
+• Consider cultural fit/corporate structure and 
+integration risks.  
+Next Steps
+• The market tends to look unfavorable on M&A in 
+regards to stock price. 
+• Might decrease shareholder value if strategic fit 
+is not aligned.
+Risks
+119
+Case # 14 - Oil and Gas Acquisition
+
+
+===== PDF p124 =====
+Exhibit #1
+The client received the following details regarding the offer:
+Instead of cash, the purchasing company (AQC) will offer our shareholders a 1:0.8 (Client : AQC) deal. 
+Client
+AQC
+# of Shares 
+Outstanding
+500,000
+600,000
+Closing price
+$50
+$70
+Market Cap
+$25M
+$42M
+2015 EBIT
+$2.8M
+$5M 
+120
+Case # 14 - Oil and Gas Acquisition

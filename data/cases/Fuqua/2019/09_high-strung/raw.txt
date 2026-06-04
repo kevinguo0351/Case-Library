@@ -1,0 +1,414 @@
+===== PDF p120 =====
+High Strung
+Industry:
+Case Type:
+Led by:  
+Quantitative Level:  
+Qualitative Level:
+116
+Entertainment  
+Profitability  
+Interviewee  
+Medium  
+Difficult
+
+
+===== PDF p121 =====
+Behavioral Questions
+• Discuss your most difficult ethical decision and how you arrived at a conclusion.
+Question 1:
+• Tell me about a time when you had to reconcile being right with being a good  
+teammate.
+Question 2:
+117
+
+
+===== PDF p122 =====
+High Strung
+Prompt #1:
+• The Carolina Symphony Orchestra is in trouble. Despite recently doubling down on
+marketing & advertising, the orchestra’s profitability has consistently dropped forthe
+last several years.
+• The executive board has enlisted your help to diagnose the cause of this nosedive
+and reverse it.
+•
+CSO must find a sustainable method to generate net-new profits over the next two
+years to hit its strategic growth goals.
+Case Background [provide if prompted]:
+– Industry: the CSO is the only professional symphony in the area, but competes with 
+other high-caliber entertainment providers; it plays mainly classical music but does  
+incorporate some popular music
+– Product: the CSO provides a range of offerings including group, single, and  
+subscription tickets in addition to community education & engagement eventsand  
+public concerts
+– Value Chain/Revenue: revenue is split into three categories: earned (ticket &  
+concession sales), contributed (donations, grants), and investment (securities)
+– Audience: Main segment consists of older, wealthier consumers, although there is a
+burgeoning interest in the orchestra among younger subscribers.
+– Overall goal: incremental profit of $3M over next two years
+118
+
+
+===== PDF p123 =====
+High Strung
+Framework Buckets:
+• Revenue Benchmarking
+• Revenue by type:
+• Earned: # of tickets & price, types of tickets (single, subscription),
+• Contributed: Size of average donation & frequencyof donations
+• Investment:Types of holdings (stocks/bonds/funds) & portfolio distribution
+• Cost Benchmarking
+• Fixed: facilities overhead, performer salaries,insurance
+• Variable: printed materials, concessions,booking fees
+• Customer Profiling
+• Distribution of ticket holders by age, income level, visit frequency (etc.)
+• Brand awareness & product attractiveness to local customers (survey data)
+• Competitive Analysis
+• % market share of local live entertainment market
+• Price benchmarking vs. similar live entertainment offerings
+• Industry best practices vs. current strategy
+119
+
+
+===== PDF p124 =====
+Exhibit #1a
+($M)
+Carolina Symphony Orchestra: Revenue & Cost (2017-2019)
+0
+2
+4
+6
+8
+10
+12
+2017
+2018
+2019
+Costs
+Contributed Revenue
+EarnedRevenue
+Investment Revenue
+120
+
+
+===== PDF p125 =====
+Exhibit #1b
+2017
+2018
+2019
+# Tickets  
+Sold
+Avg. Ticket Price 
+($)
+# Tickets  
+Sold
+Avg. Ticket Price 
+($)
+# Tickets  
+Sold
+Avg. Ticket Price 
+($)
+Single Attendance
+42,000
+50
+36,000
+65
+28,000
+70
+Premium Subscription
+30,000
+110
+26,000
+100
+24,000
+90
+Group
+14,500
+50
+14,000
+50
+14,000
+45
+121
+Ticket Sales Data (2017-2019)
+
+
+===== PDF p126 =====
+Interviewer guidance on Exhibits
+Exhibit 1a
+• The candidate should identify right away that this
+case does not focus on cost issues
+• If necessary, prompt candidate to identify main  
+driver of revenue decline (major decreases YOY in  
+earned revenue)
+• Provide Exhibit 1b only when candidate asks for  
+more granular data showing price/volume  
+breakdown for earned revenue
+Exhibit 1b
+• Good candidates will immediately eliminate group
+ticket sales as a driver
+• Strong candidates will notice that they must  
+calculate the overall losses/gains for single  
+attendance & premium subscription revenues to  
+determine the primary driver
+• Push candidate to think in terms of revenue impact
+if they become fixated on comparing by # of tickets
+sold only
+• Once the candidate has identified subscription  
+tickets as the main driver, prompt the candidate for  
+a summary (if not given independently) and  
+introduce the following brainstorm
+Exhibit 1a
+• Basic analysis: operating change only slightly year
+to year ($10.6M🡪
+$11.2M)
+• Second-order insights: Even though investment  
+revenue is decreasing overall, it does so at a slower  
+rate than earned revenue (and with less overall  
+impact)
+Exhibit 1b
+• Basic analysis: both single attendance & premium  
+subscription ticket sales are declining YOY
+Single attendance (# tix * average price):
+• $2.1M →
+$2.34M →$1.96M (Total Δ = -$140K)
+Premium Subscription (# tix * average price):
+• $3.3M →
+$2.6M →
+$2.16M (Total Δ = -$1.14M)
+• Second-order insights:
+• Subscription holders are the single largest revenue-
+generating customer segment
+• The price for subscription tickets and the number  
+sold are both dropping: this could indicate either  
+adverse price signaling or management fixation on  
+pricing when revenue decline is caused by  
+something else
+Exhibit #1a&b Guidance:
+Analysis:
+122
+
+
+===== PDF p127 =====
+Brainstorming
+• “After reviewing your calculations, the board  
+agrees that the subscription ticket holder  
+category is mainly to blame for the eroding  
+bottom line.”
+• “Based on this trend, what are somelevers  
+that the board could pull to boost the  
+revenue generated by its subscription-
+holding patrons?”
+Guidance:
+• After the brainstorm, provide exhibit 2a ifthe  
+candidate independently identified  
+subscriber preferences and/or asked for  
+information regarding purchasing habits &  
+preferences among subscription holders. If  
+the candidate struggles, prompt them to  
+consider what might be driving the  
+downward trend in subscription-based  
+revenue and steer them toward subscriber  
+preferences
+• Good candidates will have noticed from the prior
+exhibit that management has consistently  
+decreased subscription ticket prices and will  
+avoid price slashing tactics
+• General buckets:
+– Understand consumer base for subscription  
+product - demographic of the population  
+(families, age range, income level)
+– Survey subscription holders to determine the  
+most important aspects determining  
+purchasing behavior (e.g. programming, special  
+guest artists)
+– Targeted marketing (e.g. social media, direct  
+mail) to recapture business of former  
+subscription holders
+– Subscription benefit review: add/expand  
+concert offerings, include perks (e.g. lounge  
+access, soloist meet & greets)
+– Price increase to reverse potential negative  
+price signaling (decreased prices may have  
+indicated to customers an initial overvaluing of  
+subscription product)
+Prompt:
+Analysis:
+123
+
+
+===== PDF p128 =====
+Exhibit #2a
+5+ Years
+31%
+1-5 Years
+18%
+<1 Year
+51%
+Subscriber Preferences by Segment
+Musical Selection
+# of Concerts per Season  
+Quality of Guest Artists
+Quality of Orchestra  
+Programming Variety  
+Quality of Venue
+2019-2020
+Subscriber Distribution
+124
+
+
+===== PDF p129 =====
+Exhibit #2b
+124
+Option #1:
+Hire Renowned Conductor
+Option #2:
+Increase Principal Chair* Salaries
+Cost / Year
+1.5
+0.5
+Expected Revenue (Yr. 1)
+3.0
+2.0
+Expected Revenue (Yr. 2)
+3.5
+2.5
+($M)
+($M)
+Improving Orchestra Quality: Options
+*Note: Principal chairs are the leader for each orchestra section and are generally the highest-quality musicians in the ensemble.
+
+
+===== PDF p130 =====
+Interviewer guidance on Exhibits
+Exhibit 2a
+• Each Harvey ball shows the percentage of each  
+segment identifying the specific characteristic as a  
+key driver of their patronage (to the nearest 25%)
+• Good candidates will focus on “Quality of  
+Orchestra” & “Quality of Guest Artists,” while  
+excellent candidates will hone in on Orchestra  
+Quality since it is mathematically the most valued  
+(see calculations at right)
+• If the candidate struggles to identify Orchestra  
+Quality, prompt them to consider qualitatively what  
+new subscribers (technically the majority) want
+Exhibit 2b
+• Once the candidate has identified orchestra quality,  
+provide this exhibit, which shows financial  
+information for two options for improving orchestra  
+quality as identified by the board (the candidate  
+should recognize that this information will be  
+required for an NPV calculation)
+• If necessary, remind the candidate that the  
+symphony needs $3M in profit over the next two  
+years; provide an interest rate of 10%
+• Good candidates will recognize that the options are  
+equivalent and require only one NPV calculation;  
+excellent candidates will identify a clear choice and  
+justify their position
+Exhibit 2a
+• Basic analysis: “Quality of Guest Artists” & “Quality
+of Orchestra” are the two obvious drivers based on
+the Harvey ball information alone
+• Second-order insights: ”Quality of Orchestra” is the
+more impactful factor than “Quality of Guest Artists”
+– Guest Artists: (1*31)+(0.5*18)+(0.5*51) = 65.5
+– Orchestra: (1*31)+(0.25*18)+(0.75*51) = 73.75
+Exhibit 2b
+• Basic analysis: Both options provide over $3M in  
+NPV to the bottom line:
+– Conductor:
+– Endowed Chairs:
+• Second-order insights: Both options are defensible from  
+qualitative perspectives. For example, a conductor might  
+in the near term establish more brand equity for the  
+symphony, while increasing salaries for the best  
+members of the orchestra attracts more stable  
+investments over the long term
+125
+Exhibit #1a&b Guidance:
+Analysis:
+
+
+===== PDF p131 =====
+Brainstorming (optional)
+• If the candidate independently identifies  
+an optimal answer, prompt them to  
+identify pros and cons of each option
+• Option #1: Conductor
+– Pros
+• A well-known name immediately provides a boost of  
+visibility to the orchestra among target audiences
+• Hiring a famous conductor will likely inspire the orchestra
+members to a higher standard of musicianship
+– Cons
+• The search for a well-known conductor will likely be very  
+costly and time-consuming
+• The musical community may reject the orchestra’s choice
+of conductor
+• Option #2: Principal Chair Salaries
+– Pros
+• Higher salaries motivate more skilled musicians to  
+audition and retain positions
+• Greater control over potential expense and contract
+structuring
+– Cons
+• The orchestra may already have best-in-class principal  
+chair musicians (less senior positions would benefit most  
+from raises)
+• Increasing salaries for one group of musicians may have a  
+domino effect on others
+Prompt:
+Analysis (Example Answers):
+127
+
+
+===== PDF p132 =====
+Recommendation
+•
+“The symphony’s executive board is meeting this afternoon and wants to know your
+recommendation for meeting their expressed sustainabilitygoal.”
+• Good candidates will begin by clearly stating their preferred option and why it fulfills  
+the goal of the client (meets $3M profit threshold in a 2 year time frame)
+• Excellent candidates will provide qualifying information to support their choice over  
+the other alternative
+Recommendation
+Risks and Next Steps:
+• Risks for each option should include at least some of the cons mentioned from the  
+prior brainstorm (if completed). Both options suffer from the risk that the projected  
+financial figures may be inaccurate; good candidates will recognize the link between  
+this risk and the varied distribution of preferences across subscriber segments.
+• Next steps for Option #1 (conductor): the orchestra might begin by formally  
+announcing its search while hiring an industry headhunter to lead a targeted search.  
+For Option #2 (salaries): the orchestra might assess all of the principal chair salaries  
+and review past audition & performance information to determine how the increases  
+should be distributed.
+– Both options would benefit from an internal benchmarking process to verify the  
+validity of projected figures
+128
+
+
+===== PDF p133 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Will identify the need to dive into either cost or revenue;  
+requires some guidance on driving case forward; may  
+struggle with exhibit #1b calculations but deliver  
+directionally correct analyses
+Good Candidate
+Asks specifically for information that demonstrates whether  
+cost or revenue is to blame; constructs a MECE framework;  
+considers all information on exhibit; may struggle with  
+driving the case on their own
+Excellent Candidate
+Delivers a well-reasoned hypothesis for the decrease in  
+profitability; drives the case and shows independence;  
+quickly absorbs information in exhibits and shows  
+confidence with calculations; recognizes mathematical  
+shortcuts (e.g. Exhibit #2b); gives succinct recommendation  
+that ties back to the ultimate goal of $3M over next two  
+years
+129

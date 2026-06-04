@@ -1,0 +1,32 @@
+===== PDF p9 =====
+Consulting Case Interview Question 
+ 
+Case No.: BRAIN4          
+Firm:    
+Type of Case:  
+Brain Teaser  (Why are manhole covers round?) 
+ 
+ 
+Initial Facts offered by interviewer:  [Please relate the facts the interviewer gave to set up the 
+question/problem. Provide sufficient information so the case can be adequately understood!] 
+You are given two-hour glasses - one measures 7 minutes and the other measures 4 minutes. 
+The Question(s): 
+How would you use the two-hour glasses to measure a continuous time period of 9 minutes?   
+(Time limit to derive answer is 10 minutes.) 
+Suggested Solution 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+Let’s name the 7-min and 4-min hourglasses as I and II respectively.  The steps are: 
+• Turn over both glasses simultaneously. 
+• When II expires, turn II over (4 minutes). 
+• When I expires, turn I over (7 minutes). 
+• When II expires, turn I over (8 minutes). 
+When I expires, you have 9 minutes!   
+60 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

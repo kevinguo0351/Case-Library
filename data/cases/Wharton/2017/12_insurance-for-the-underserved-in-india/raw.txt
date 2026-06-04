@@ -1,0 +1,244 @@
+===== PDF p135 =====
+KNOWLEDGE FOR ACTION
+Insurance for the 
+Underserved
+
+
+===== PDF p136 =====
+KNOWLEDGE FOR ACTION
+Insurance for the Underserved in India
+Level of Difficulty: Hard
+Case Similar to Cases at Firms: More like a McKinsey case
+Topics Tested: Mathematical calculation, marketing brainstorm, market sizing, etc.
+Prompt: The Indian insurance market is heavily underpenetrated. The majority of insurable, adult population either is not
+insured and this has serious consequences – when financial adversity strikes, such as when the main breadwinner of a
+family dies, or if there is a drought or a flood, people either find it hard to survive or in some cases also commit suicide.
+When we say insurance, we think of both life insurance and non-life insurance such as health, crop, etc. The distinction is
+not important for the purposes of our case.
+The government of India is thinking of using the Indian postal network as a creative way of reaching the underserved insurance
+population. The infrastructure already exists and this can be leveraged for distributing much-needed insurance products. The
+objective would be to provide a safety net to as many people as possible in the underserved markets. To answer this case, the
+interviewer should ask the following questions (sequentially and as they come out in conversation)
+Q1: [Brainstorming]: what considerations should the government think about?
+Q2: [Market sizing]: how do we define underserved and what’s the size of the insurance market?
+Q3: [Indian Postal Network Penetration]: what percent of the overall market can the Indian Postal Network cover?
+Q4: [Profitability]: how much money will the postal network make in the first year of launch?
+Q5: [Brainstorming]: given the economics, should the government pursue with the insurance through Indian postal network?
+How can it improve the profitability?
+Wharton Casebook 2017
+CASE 12
+132
+
+
+===== PDF p137 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample of Strong Framework (Q1):
+What considerations should the government think about?
+A strong framework (initial considerations) would consider the following: 
+•
+What is defined as the underserved population?
+•
+Is profitability an objective? Or is it only reaching the people?
+•
+Why are the underserved – is it a demand thing (do people not want insurance) or a supply thing (infrastructure does
+not exist)?
+•
+Will the Indian Postal Network actually help? What kind of capabilities they require? Do new employees need to be
+hired?
+•
+What will be the economics of this arrangement? Would this makes sense?
+Sample Clarifying Questions and Answers (answered for each of the questions separately)
+Q2: Market Sizing
+See slides
+Q3: Indian Postal Network Penetration
+See slide 
+Q4: Profitability
+See slide 
+Q5: Brainstorming
+See slide
+CASE 12
+133
+
+
+===== PDF p138 =====
+KNOWLEDGE FOR ACTION
+Q2: How do we define underserved and what is the 
+size of the insurance market? 
+Wharton Casebook 2017
+Data: 
+For this question, the candidates should be initially given the following table (shown separately on next slide). The government has 
+done some segmentation and surveys and come up with the following four:
+The underserved population is defined as the aspirers and the strugglers
+If the Indian Government decides to sell insurance to so aspirers and strugglers, what is the size of the market (in USD)?
+•
+Average annual income for aspirers is 7,500K and strugglers is 2,000K 
+Solution:
+If you wish, and if time permits, you can why % of income willing to spend on insurance decreases as income increases? Because
+insurance needs are non-linear; for every 10% increase in income, you don't need to have a 10% increase in insurance; so if you earn
+more money, you can get away with spending less for insurance
+Segment
+Annual Household Income
+Number of Households (MM)
+% of income willing to spend on 
+insurance
+Globals
+>USD 30K
+2
+1.0%
+Consumers
+USD 10K - 30K
+10
+1.5%
+Aspirers
+USD 5K - 10K
+55
+1.5%
+Strugglers
+<USD 5K
+33
+2.0%
+Total Market Size 
+Market Size for Aspirers + Market Size for Strugglers
+[Income x Households x Insurance Percent for Aspirers] + [Income x Households x 
+Insurance Percent for Strugglers]
+6,187,501,320
+Rounded Market Size
+~6 billion 
+CASE 12
+134
+
+
+===== PDF p139 =====
+KNOWLEDGE FOR ACTION
+Segmentation of Indian Insurance Market
+Wharton Casebook 2017
+Segment
+Annual Household Income
+Number of Households (MM)
+% of income willing to spend on 
+insurance
+Globals
+>USD 30K
+2
+1.0%
+Consumers
+USD 10K - 30K
+10
+1.5%
+Aspirers
+USD 5K - 10K
+55
+1.5%
+Strugglers
+<USD 5K
+33
+2.0%
+CASE 12
+135
+
+
+===== PDF p140 =====
+KNOWLEDGE FOR ACTION
+Q3: What percent of the overall market can the Indian 
+Postal Network cover?
+Wharton Casebook 2017
+Data: 
+For this question, the candidates should be given the following information:
+•
+Assume what you calculated in the previous questions represents 100% of the insurance market. 
+•
+The dollar value represents the premium amount in USD. 
+•
+There are about 150,000 post offices in the country, of which the government thinks 1/3 will be able to provide insurance in the first
+year of launch to aspirers and strugglers. Assume there is 1 agent per branch and each agent can sell insurance to 10 aspiring
+households and 5 struggling households every month.
+What percent of the market would this represent? 
+Solution:
+Serviceable Post Offices (1/3 x 150,000)
+50,000 
+Total Number of Agents
+50,000 
+Annual Premiums Sales to Aspiring 
+(10 x 12 x Income for Aspirers x % of income willing to spend on insurance)
+675,000,000 
+Annual Premiums Sales to Strugglers
+(10 x 12 x Income for Aspirers x % of income willing to spend on insurance)
+120,000,000 
+Total Premium Sales 
+795,000,000 
+Total Market Size
+6,187,501,320
+% share (Sales / Market Size)
+12.85%
+CASE 12
+136
+
+
+===== PDF p141 =====
+KNOWLEDGE FOR ACTION
+Q4: how much money will the postal network make in 
+the first year of launch?
+Wharton Casebook 2017
+Data: 
+For this question, first ask the candidate what are the revenue / expense lever, and they should mention most of the ones below. The 
+one that they might miss is the one related to the loss or claims cost. 
+Then give them the following information:
+•
+Assume that the government needs to pay-out 85% of the premium money in claims every year. 
+•
+Also assume that 10 percent of premiums (or revenues) is paid as commissions to the agents.
+•
+In addition, they get USD 100 per month as a base salary.
+•
+Finally assume that the cost of operating the branches and travel expenses for agents, etc. is an additional USD 100 per month. 
+How much profit do you think the government can make?
+Solution:
+Total Premium Sales
+795,000,000 
+Claims cost (85% of Premium)
+675,750,000 
+Commission cost (10% Commission)
+79,500,000 
+Salary costs (USD 100 x 12 mos x 50k agents)
+60,000,000 
+Other costs (USD 100 x 12 mos x 50k branches
+60,000,000 
+Total Costs
+875,250,000 
+Profit (Sales - Costs)
+(80,250,000) – LOSS!
+CASE 12
+137
+
+
+===== PDF p142 =====
+KNOWLEDGE FOR ACTION
+Q5: Given the economics, should the government
+pursue with the insurance through Indian Postal
+Network?
+How
+can
+it
+improve
+the
+profitability?
+Wharton Casebook 2017
+Suggestions
+There are two questions at play here:
+•
+First question is should the government pursue – LISTENING skills – prompt said objective would be to provide a safety net to as
+many people as possible in the underserved markets. Given profitability was not a concern, this should still be pursued.
+•
+That said, government can think about how to improve profitability?
+•
+Can pricing be improved so that loss costs are fewer?
+•
+Can more households be reached?
+•
+Can we use more branches than 1/3?
+•
+…
+CASE 12
+138

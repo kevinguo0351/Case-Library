@@ -1,0 +1,256 @@
+===== PDF p72 =====
+Practice Cases – Case 11: FormCo 
+ 
+Bain & Co. 
+ 
+ 
+68
+(Source: Raw data provided by Bain Chicago Office, 2006) 
+ 
+Context 
+ 
+FormCo is the leading manufacturer of paper-based business forms. Majority of 
+FormCo’s products are sold through banks to small businesses and consumers.  
+ 
+Increase in paperless and on-line transactions have decreased demand for FormCo’s 
+main products. When FormCo’s products are sold through the banks, customers 
+rarely choose higher-margin, premium products.  
+ 
+FormCo wants to develop a phone-based direct to customer channel to encourage 
+customers to order through the direct-to-customer channel, rather than through 
+banks. FormCo wants to use this channel to increase probability of “upselling” 
+higher margin products. 
+ 
+Should FormCo pursue its proposed idea of developing the phone-based direct-to-
+customer channel? 
+ 
+If interviewee asks to further explain the difference between the two channels: 
+ 
+The Bank channel: Banks offer FormCo products to their existing customers without additional 
+sales/marketing effort. If Banks’ customers are interested, they place the order with the bank 
+but sometimes call FormCo’s call centers for simple inquiry.  
+ 
+The Direct to Customer channel: Customers call directly to inquire and place orders. Call 
+center representatives have to have more specialized knowledge to handle this channel. 
+ 
+A good framework may include the following: 
+To decide if FormCo should pursue the new channel strategy, I’d like to look at the 
+incremental revenue and incremental costs created by the new channel to see if it is going to 
+be profitable.  
+ 
+On the revenue side, I’d like to look at how much revenue will be brought in by the new 
+channel (thru more customers and selling more premium products). I would also assess the 
+cannibalization on the current channel. On the cost side, I’d like to identify cost buckets such 
+as call center set up or expansion cost, incremental labor cost, and SG&A.  
+ 
+If the channel is profitable, we need to further look into issues such as impact on our current 
+operation, learning curve, competitive reaction, etc. 
+ 
+If the channel is not profitable, we can discuss other opportunities to improve FormCo’s 
+profitability. 
+ 
+If interviewee asks about revenue data, show Exhibit 1 and ask interviewee what conclusion 
+could be drawn from the charts. 
+ 
+Conclusions from Exhibit 1 may include: 
+- 
+The Direct to Customers channel brings in more revenue per order. 
+- 
+The incremental revenue brought in by the Direct to Customers channel is 
+$1,000M – cannibalization. Part of the loss of volume and revenue thru the 
+Bankers channel is cannibalized by the new channel (part of it may be due to 
+decreased demand).  
+ 
+Once interviewer recognizes cannibalization, tell interviewee that 80% of the Banker 
+channel revenue loss is due to the new channel. Interviewee should calculate total 
+incremental revenue thru the new channel is $600M (=$1,000M – 80%*$500M).  
+ 
+If interviewee asks about cost data, let interviewee identify cost buckets first, then give the 
+cost data: Per order, COGS is $2.3 and other costs are $5.0.  
+
+
+===== PDF p73 =====
+Practice Cases – Case 11: FormCo 
+ 
+Bain & Co. 
+ 
+ 
+69
+Interviewee should be able to calculate that incremental revenue per order is $7.5 
+($600M/80M). Therefore, the incremental profit per order is $.2 and total annual profit is 
+$16M. 
+ 
+Once interviewee reaches the conclusion that the new channel strategy will bring in $16M in 
+annual profit, quickly direct interviewee to the following question. 
+ 
+FormCo implemented the phone-based Direct to Customer channel. However, they 
+didn’t make the projected profit. What might have happened?  
+ 
+Interviewee should assess both revenue and costs: 
+ 
+It could be that we didn’t reach projected revenue because of worse than expected market 
+demand, competition, changes in customer preference, ineffective sales/marketing, etc. It 
+could also be that costs are higher than projected due to increase in raw material cost, 
+process inefficiency, higher than expected labor costs, etc. 
+ 
+Interviewer: The # of orders and revenue are as projected. The overall costs are 
+higher than expected.  
+ 
+Show Exhibit 2 if interviewee asks about cost data. Tell interviewee that currently all inquiries 
+from the new channel are routed to Specialty reps. 
+ 
+Interviewee should conclude from Exhibit 2 that: 
+- 
+All call centers are under utilized with Phoenix call center having the lowest utilization. 
+We may look into consolidating call centers to reduce costs. 
+- 
+Only two call centers, Phoenix and Dallas, handle customers from the new channel. It 
+could be a result of the routing strategy (intended or unintended) or only those two 
+call centers can handle the new channel. 
+ 
+Interviewer: Let’s look at the Phoenix call center cost structure to see if there is 
+anything we can do to improve profitability. Total annual cost of the new channel: 
+$313M 
+ 
+ 
+% of total cost: 
+                                            COGS: 30%   
+(calculate: 94M) 
+                     
+                    Call center reps salary: 55%   
+(calculate: 172M)  
+                 (% is a lot higher than call centers that don’t handle the new channel) 
+                                 (Regular reps: 15% 
+                                Specialty reps: 40%) 
+                                             
+                                            Other: 15%    
+(calculate: 47M) 
+ 
+Interviewee needs to calculate Phoenix call center annual revenue and profit. The Phoenix call 
+center handles 53% of calls from the new channel. Assume it’s proportional to orders and 
+revenue. Therefore, the revenue is $320M and profit is $7M. 
+ 
+Direct interviewee to brainstorm ways to improve cost structure based on given data.  
+ 
+A good answer focuses on reducing reps salary cost since it’s the highest cost item, and 
+specifically focuses on reducing specialty reps costs: 
+ 
+- 
+Currently all inquiries from the new channel are routed to Specialty reps. Analyze 
+those inquiries to see if some simple ones can be routed to Regular reps. 
+- 
+If there are some common inquiries, FormCo can standardize answers and let Regular 
+reps handle them or have FAQ’s on internet or thru automated phone system.  
+- 
+Some of inquiries from bank customers might be mis-routed to Specialty reps. Needs 
+to have a better routing system. 
+
+
+===== PDF p74 =====
+Practice Cases – Case 11: FormCo 
+ 
+Bain & Co. 
+ 
+ 
+70
+ 
+Exhibit 1 
+ 
+4
+040908-BPB-CAS-case
+This information is confidential and was prepared by Bain & Company solely for the use of our client; it is not to be relied on by any 3rd party without Bain's prior written consent.
+CHI    
+2004 Projected orders and revenue
+210
+120
+80
+0
+50
+100
+150
+200
+250
+2003
+2004 projected
+Banks
+Direct to Customers
+# of Orders (M)
+1,100
+600
+1,000
+0
+500
+1,000
+1,500
+2003
+2004 projected
+Banks
+Direct to Customers
+Revenue ($M)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p75 =====
+Practice Cases – Case 11: FormCo 
+ 
+Bain & Co. 
+ 
+ 
+71
+Exhibit 2 
+ 
+6
+040908-BPB-CAS-case
+This information is confidential and was prepared by Bain & Company solely for the use of our client; it is not to be relied on by any 3rd party without Bain's prior written consent.
+CHI    
+Call Center Volume
+400
+450
+350
+575
+700
+440
+525
+125
+320
+480
+Phoenix
+Dallas
+Charlotte
+Salt Lake Ctiy
+0
+500
+1,000
+1,500
+2,000
+Daily Calls
+Customer
+Service
+Bank Orders
+Direct to
+Customer
+Other
+Call
+Capacity
+1,400
+1,800
+1,250
+1,100
+ 
+ 
+ 

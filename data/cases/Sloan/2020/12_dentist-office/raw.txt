@@ -1,0 +1,158 @@
+===== PDF p96 =====
+Casebook | 2019-20 Edition 
+92 
+ 
+12. Dentist Office (Bain R2, Healthcare, M&A, Balanced) 
+Stem 
+ 
+Interviewer: Your friend, Anne, works as a dentist at a private practice. The owner of that practice, Dr. D, 
+has owned the practice for 20 years and has decided that he is finally ready to retire. After searching for 
+years for a replacement, he believes Anne is the right person to take over the practice and has offered to 
+sell it to her. Anne truly enjoys her job; though she isn’t sure if she would enjoy actually owning and 
+managing the business. She wants your help figuring out whether or not she should purchase the 
+practice. 
+ 
+Structure 
+ 
+Candidate: This can be attacked like an M&A case, so three reasonable buckets are Profitability, Dental 
+Market Dynamics, and Fit. Some components that can be considered are: 
+ 
+● 
+Profitability 
+o 
+Revenue 
+▪ 
+Price 
+● 
+What price does Dr. D charge? 
+● 
+Can Anne keep the same price points? 
+▪ 
+Quantity 
+● 
+How many patients does Dr. D have? 
+● 
+Would patients leave when Dr. D retires? 
+● 
+Can Anne manage all the patients herself or would she need to hire 
+someone? 
+o 
+Costs 
+▪ 
+Fixed 
+● 
+Dental technicians 
+● 
+Lease 
+▪ 
+Variable 
+● 
+Customer/patient acquisition 
+● 
+Dental equipment 
+● 
+Medication 
+● 
+Dental Market Dynamics 
+o 
+Number of other dentists in the area 
+o 
+Macroeconomic trends 
+o 
+New technologies/regulations 
+● 
+Fit  
+o 
+How are Anne’s skills aligned with running a private practice? 
+o 
+Does Anne want to run her own practice? 
+o 
+Acquisition price 
+ 
+Phase 1 – Profitability (Qualitative) 
+ 
+Candidate: I’d like to start by considering profitability. 
+ 
+Interviewer: That sounds great. What do you think some of the main drivers of profitability would be? 
+ 
+[Candidate should come up with a list including some of the above drivers.] 
+ 
+Interviewer: What do you think are the greatest risks to the profitability of the practice? 
+ 
+[The most important thing to clue in on are the fact that customers may leave if Dr. D retires.] 
+
+
+===== PDF p97 =====
+Casebook | 2019-20 Edition 
+93 
+ 
+Candidate: Well, if I were Anne, I would be worried that customers would leave when Dr. D retires, 
+decreasing profitability. 
+ 
+Interviewer: Makes sense. What would you do to mitigate that risk? 
+ 
+[Candidate should come up with several reasonable ideas. Some include: having Dr. D gradually 
+decrease his patient work, have Dr. D send a note to his patients explaining that he is retiring and 
+endorsing Anne, offering some type of loyalty discount or gesture for existing patients.] 
+ 
+Interviewer: That sounds reasonable. Is there anything else that would worry you? 
+ 
+Candidate: Yes. I’d be very curious how Dr. D retiring impacts the number of patients the practice can 
+see. Will Anne be able to see all the patients herself or will she need to hire someone to help her? 
+ 
+Phase 2 – Profitability (Quantitative) 
+ 
+Interviewer: That’s a great point. I have some information about the profitability of the practice. After 
+paying all expenses (including Anne’s $100K salary), the practice generates a profit of $150K per year, 
+which is taken as income by Dr. D. Anne currently works for 8 hours a day (including 2 hours of 
+administrative work) and Dr. D sees patients for 2 hours a day. Dr. D has offered to sell the practice to 
+Anne for $1M. What are your thoughts? 
+ 
+Candidate: The first thing that jumps out at me is that Anne already has a full patient load and would 
+need to hire additional help to cover Dr. D’s patients. Does that sound reasonable? 
+ 
+Interviewer: That sounds fine to me. Assume Anne can offload all her administrative tasks by hiring a 
+dental technician for a salary of $50K. 
+ 
+Candidate: Great. When you replace Anne’s salary ($100K) with the salary of a dental technician ($50K), 
+annual profits increase to $200K per year. I’d like to calculate the value of the private practice assuming 
+the profits continue in perpetuity. Is it reasonable to use a discount rate of 10%? 
+ 
+Interviewer: Sure. 
+ 
+Candidate: With annual profits of $200K and a discount rate of 10%, the value of the private practice is 
+$2M [$200K / 0.10]. To calculate the NPV of the decision, we must compare the NPV of purchasing the 
+practice with the NPV of not purchasing the practice. The NPV of purchasing the practice is $1M [-$1M + 
+2M]. The NPV of not purchasing the practice, assuming Anne can keep the same salary, is likewise $1M 
+[$100K / 0.10]. Therefore, assuming our discount rate is accurate, Anne should be indifferent between the 
+two options from a financial standpoint. The next thing I’d like to understand a little more about is the 
+market. 
+ 
+Interviewer: Unfortunately, I don’t have much information on the market. For our purposes, assume the 
+market will stay as-is. Is there anything else you’d like to know? 
+ 
+Phase 3 – Fit 
+ 
+Candidate: In my initial framework, I indicated that Fit is an important component, so I’d like to 
+understand more about Anne’s ability and desire to run a private practice. 
+ 
+Interviewer: What types of skills do you think someone would need to run a private practice? 
+ 
+[Candidate should brainstorm skills in a structured manner. One example is Dental Skills, Administrative 
+Skills, Human Resources Skills, and Other.] 
+ 
+Phase 4 - Recommendation 
+ 
+Interviewer: That all sounds reasonable. So, what would you tell Anne? 
+
+
+===== PDF p98 =====
+Casebook | 2019-20 Edition 
+94 
+ 
+Candidate: You asked me to recommend whether or not you should buy the private practice. I 
+recommend you do not purchase the practice. The financials of each path are equivalent (NPV = $1M) 
+and you indicated that you likely do not want to manage a practice going forward. In terms of next steps, 
+I’d like to understand what Dr. D. will do with the practice if you choose not to purchase it and what that 
+means for your salary going forward. That said, at this point, purchasing the private practice does not 
+seem like a wise investment. 

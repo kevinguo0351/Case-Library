@@ -1,0 +1,26 @@
+{
+  "case_id": "Darden_2009_05_chemicals-inc",
+  "school": "Darden",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2009.pdf",
+  "idx": 5,
+  "case_name": "Chemicals Inc.",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Chemicals",
+  "difficulty": null,
+  "pdf_page_start": 33,
+  "pdf_page_end": 39,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    36,
+    37,
+    39
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p036.png",
+    "exhibits/exhibit_p037.png",
+    "exhibits/exhibit_p039.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2009\\05_chemicals-inc"
+}

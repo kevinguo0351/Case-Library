@@ -1,0 +1,372 @@
+===== PDF p99 =====
+- 94 - 
+Marie’s Café 
+ 
+ 
+ 
+Marie’s Café is a small local coffee shop that serves 
+coffee and latte.  Marie’s has been around for 
+decades and is known for its high quality drinks and 
+cozy atmosphere.  The café has seen declining 
+profits over the last few quarters, and the owner has 
+hired you to increase its profits.   
+ 
+
+There are two other coffee shops in the nearby 
+area that sell coffees and pastries.  (There is no 
+further information on these competitors.)   
+
+Café currently serves two items (coffee and latte) 
+in three different sizes.   
+
+Note that this is an interviewer led case. 
+ 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Medium  
+Quant Heavy 
+ 
+Industry: Hospitality 
+ 
+Type: Profitability, Operations 
+
+
+===== PDF p100 =====
+- 95 - 
+ 
+•
+Show tables below.   
+•
+Each customer only purchases one drink per visit.   
+ 
+ 
+ 
+ 
+If the candidate touches on prices or costs… 
+1. How much profit does Marie’s Café currently make per customer? 
+Product 
+Price 
+% Customers who 
+Purchase 
+Coffee (8) 
+$1.00 
+15% 
+Coffee 
+(12) 
+$1.50 
+15% 
+Coffee 
+(16) 
+$2.00 
+15% 
+Latte (8) 
+$3.00 
+20% 
+Latte (12) 
+$4.00 
+20% 
+Latte (16) 
+$5.00 
+15% 
+Product 
+Cost 
+Cup (8) 
+$0.30 
+Cup (12) 
+$0.40 
+Cup (16) 
+$0.50 
+4 oz of 
+Coffee 
+$0.10 
+4 oz of 
+Latte 
+$0.50 
+Marie’s Cafe 
+
+
+===== PDF p101 =====
+- 96 - 
+1. Solution:  Average Profit = $1.50 / customer  
+Product 
+Price 
+% Customer 
+Purchases 
+Cost 
+Profit 
+Profit per 
+Customer 
+Coffee (8) 
+$1.00 
+15% 
+$0.50 
+$0.50 
+$0.08 
+Coffee (12) 
+$1.50 
+15% 
+$0.70 
+$0.80 
+$0.12 
+Coffee (16) 
+$2.00 
+15% 
+$0.90 
+$1.10 
+$0.17 
+Latte (8) 
+$3.00 
+20% 
+$1.30 
+$1.70 
+$0.34 
+Latte (12) 
+$4.00 
+20% 
+$1.90 
+$2.10 
+$0.42 
+Latte (16) 
+$5.00 
+15% 
+$2.50 
+$2.50 
+$0.38 
+  
+  
+  
+  
+Average 
+Profit 
+$1.50 
+ 
+
+Strong candidates will point out that larger sizes yield larger profit margins, and suggest new 
+profit increasing strategies (like promoting sales of larger sizes, introducing a 20oz size, 
+eliminating 8oz sizes, etc.).   
+ 
+ 
+ 
+Marie’s Cafe 
+
+
+===== PDF p102 =====
+- 97 - 
+2. What is the average profit that Marie’s Café earns per day? 
+
+Each customer purchases exactly one beverage.   
+
+Two baristas are working at any given time.  Baristas are paid $15/hour.   
+
+Hours: 7AM to 10PM, Monday through Friday.  Closed on weekends.   
+
+The number of customers per hour is listed below.  Customers leave if they can’t be served 
+quickly.   
+
+On average, it takes 2 minutes for a barista to complete an order.  Coffee is served fairly quickly, 
+while lattes take significantly longer to make.  (Candidate should realize that only 60 customers 
+can be served per hour.) 
+ 
+Time 
+Average Demand per 
+Hour 
+7AM to 10AM 
+100 
+10AM to 1PM 
+80 
+1PM to 4PM 
+60 
+4PM to 7PM 
+40 
+7PM to 10PM 
+15 
+Marie’s Cafe 
+
+
+===== PDF p103 =====
+- 98 - 
+2. Solution: Assuming 2 baristas per hour, $607.50 (See below).  
+Time 
+Demand per Hour 
+Served Current Profit 
+Optimal 
+Baristas 
+Optimal 
+Served 
+Optimal 
+Profit 
+7AM to 10AM 
+100 
+60 
+180 
+3 
+90 
+270 
+10AM to 1PM 
+80 
+60 
+180 
+3 
+80 
+225 
+1PM to 4PM 
+60 
+60 
+180 
+2 
+60 
+180 
+4PM to 7PM 
+40 
+40 
+90 
+1 or 2 
+30 or 40 
+90 
+7PM to 10PM 
+15 
+15 
+-22.5 
+1 
+15 
+22.5 
+  
+  
+  
+$607.50 
+  
+  
+$787.50 
+-
+Candidate should realize that the café is losing money in the evening hours.  Candidate should 
+suggest adding or subtracting baristas based on demand.   
+3. If you could change the number of baristas during each time period, what would be the daily 
+profit for Marie’s Café?    
+-
+Solution: By adding a third barista in the morning shifts and reducing one at night, the 
+new profit would be $787.50 – see below.   
+Marie’s Cafe 
+
+
+===== PDF p104 =====
+- 99 - 
+4. Marie’s Café does not offer wireless access for its customers.  Should the café add this service?   
+
+Positives 
+
+More customers 
+
+Potentially charge customers for service 
+
+Customers may order larger sizes of drinks 
+
+Negatives 
+
+Costs of wireless setup, outlets 
+
+Sufficient room for customers 
+
+Customers stay longer, slowing sales during busy periods 
+
+Image of café – may change current atmosphere 
+Marie’s Cafe 
+
+
+===== PDF p105 =====
+- 100 - 
+If candidate mentions that competitors sell pastries while Marie’s Café does not… 
+5. What factors should Marie’s Café consider before purchasing an oven to sell pastries? 
+ 
+Revenues 
+
+Doughnut sales, increased synergies with coffee/volume of customers. 
+ 
+Costs 
+
+Fixed costs - purchasing/maintaining oven, setting up display case, storage, advertising. 
+
+Variable costs - ingredients, hiring/training staff. 
+Capacity 
+
+Room in café for oven and ingredients. 
+
+Baristas available to accommodate for increase in demand. 
+ 
+Brand image – Marie’s is known for its coffee and atmosphere; adding pastries may change image 
+and drive away loyal customers, especially if they are low quality. 
+ 
+Competition – price and quality compared to competitors.  
+ 
+Alternative opportunities – purchasing doughnuts from somewhere else. 
+ 
+ 
+Marie’s Cafe 
+
+
+===== PDF p106 =====
+- 101 - 
+6. A new espresso machine, priced at $2000, can greatly decrease the time it takes to make a latte.  
+The average time it takes to complete an average customer’s order decreases from 2 minutes to 90 
+seconds.  How long would it take to pay back the machine? 
+
+Daily profit shown below, calculated with the optimal number of baristas.   
+
+Machine would be paid back in 14.8 days (922.50 – 787.50 from Question 3). 
+
+4 Baristas in the 7-10AM would also yield similar profits with the advantage of turning away 
+fewer customers.   
+Time 
+Demand per 
+Hour 
+Served 
+Profit 
+Optimal 
+Baristas 
+Optimal 
+Served 
+Optimal 
+Profit 
+7AM to 10AM 
+100 
+80 
+270 
+3 
+100 
+315 
+10AM to 1PM 
+80 
+80 
+270 
+2 
+80 
+270 
+1PM to 4PM 
+60 
+60 
+180 
+2 
+60 
+180 
+4PM to 7PM 
+40 
+40 
+90 
+1 
+40 
+135 
+7PM to 10PM 
+15 
+15 
+-22.5 
+1 
+15 
+22.5 
+  
+  
+  
+$787.50 
+  
+  
+$922.50 
+Marie’s Cafe 

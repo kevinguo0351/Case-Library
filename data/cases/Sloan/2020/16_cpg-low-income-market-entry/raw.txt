@@ -1,0 +1,300 @@
+===== PDF p108 =====
+Casebook | 2019-20 Edition 
+104 
+ 
+16. CPG Low-Income Market Entry (BCG Mock, CPG/Retail, New 
+Market, Balanced) 
+Stem: 
+ 
+Your client is SmartCity, a large multinational CPG company operating in over 200 countries. SmartCity 
+primarily serves the middle to high income consumer segments with premium to high end products and is 
+considering targeting the lower-income (LI) demographic in the US, which is defined at average 
+household income at the poverty line or below. Currently, the lower income demographic in the US is 
+experiencing double digit growth. The client would like help with three things specifically, 1) Should they 
+target the low-income segment 2) What tactics should they employ if they do, and 3) What are some risks 
+with targeting the low-income segment? 
+ 
+Note: Candidate should drive the entire case. Interviewer should provide hints or gentle suggestions 
+along the way. Candidate should focus on answering the three questions systematically and should draw 
+conclusions from all the data provided by the interviewer 
+ 
+STRUCTURE (possible): 
+ 
+Low Income Market 
+ 
+● 
+Number of customers 
+● 
+Growth rates 
+● 
+Percentage of overall market spend 
+● 
+Product segmentation (how do they spend their money?) 
+● 
+SmartCity market share vs. competitors for low income segment 
+● 
+Profitability 
+ 
+Synergies with Current Operations 
+● 
+Existing products (where is there overlap or potential for growth?) 
+● 
+Supplier purchasing power (will we use the same suppliers?) 
+● 
+Marketing and branding (will they employ the same marketing strategy?) 
+● 
+How will this affect their brand? 
+● 
+Distribution channels 
+● 
+Where do low income populations shop? 
+● 
+Do they need to establish new channels? 
+ 
+Strategies to Employ: 
+● 
+Adjusting pack sizes? 
+● 
+Do LI purchase in smaller pack sizes? Larger pack sizes? 
+● 
+Adjusting prices? 
+● 
+Establishing new distribution channels 
+● 
+Offering new products? 
+ 
+Risks 
+● 
+Cannibalization of existing products 
+● 
+Lack of experience with LI segment 
+● 
+Brand / Reputation 
+ 
+Candidate should drive to the first step and be relatively specific with what type of data they want to look 
+at first. 
+
+
+===== PDF p109 =====
+Casebook | 2019-20 Edition 
+105 
+ 
+Candidate: First, I’d like to look at SmartCity’s overall market share and its market share with the LI 
+segment. 
+ 
+Interviewer: Can you be a little more specific? Do you want their total revenue? 
+Candidate: I’d like to compare their market share by revenue for a sample product mix. 
+Interviewer should show candidate table 1. 
+Table 1: Category Sales for Total Market and LI segment ($MM) 
+ 
+Product 
+Total Market 
+Category 
+Sales 
+Client Category 
+Sales 
+LI Category 
+Total Sales 
+Client LI 
+Category 
+Sales 
+Shampoo 
+400 
+100 
+100 
+33 
+Cold Medicine 
+200 
+40 
+75 
+7.5 
+Diapers 
+800 
+400 
+400 
+100 
+Baby Food 
+300 
+100 
+100 
+33 
+ 
+ 
+Candidate should take a minute to analyze the data and to walk the interviewer through the high-level 
+observations with back of the envelope calculations. Possible responses include: 
+ 
+● 
+LI segment is attractive since they comprise a high percentage of the total market spend for the 
+four products. 
+● 
+If SmartCity does not target the low-income segment, they could be missing out on a large market 
+and huge growth opportunities 
+● 
+At a high level, with the information given, it appears like targeting the low-income segment would 
+be a good idea, but of course, we need to take into consideration the risks of this strategy as well 
+as possible tactics to employ 
+ 
+Candidate should quickly realize that they should calculate SmartCity’s overall market share vs. LI market 
+share. Candidate should write out an organized table of calculations (example below): 
+ 
+ 
+ 
+ 
+Product 
+Category Market Share 
+LI Market Share 
+Shampoo 
+25% 
+33% 
+Cold Medicine 
+20% 
+10% 
+Diapers 
+50% 
+25% 
+Baby Food 
+33% 
+33% 
+ 
+Here are some possible insights from the candidate: 
+● 
+In the Shampoo segment, SmartCity has a higher share in the LI market than the overall 
+category. It might be tough to grow the LI market share, but we can take lessons from our 
+
+
+===== PDF p110 =====
+Casebook | 2019-20 Edition 
+106 
+ 
+Shampoo division and apply them to other categories looking to grow LI market share. 
+● 
+In the Cold Medicine segment, we are only at 10% LI share, which could be a growth opportunity. 
+● 
+SmartCity is strong in the diapers segment, and there could be a large revenue opportunity if we 
+can bring the LI market share in line with the broader category. 
+● 
+SmartCity is doing well with baby food for the LI segment (33% for LI vs 33% overall). It would 
+seem that their brand is known in the LI segment, we should be able to apply this to diapers. 
+● 
+Final takeaway: Diapers appears to be the most attractive opportunity for growth in the LI market. 
+I would want to apply practices from Baby Food to the diaper market. 
+● 
+Extra points: Diapers and baby products have brand synergy, and are also attractive as people 
+are generally less price sensitive to baby products as they want the best for their children and 
+don’t want to take risks with inferior products (provide real life or news examples if possible, i.e. 
+China and baby milk formula circa 2008). 
+ 
+Interviewer: What additional revenue could the client expect if they could increase their market shares 
+for Cold Medicine and Diapers? 
+ 
+Candidate: (adding to their table): Additional revenue for Cold Medicine is another 10%, which is $7.5M. 
+Additional revenue for diapers is 25%, which is $100M. Total additional revenue is $107.5M. This is 
+attractive, and another reason why XYZ should pursue the LI segment. 
+ 
+Interviewer: What other opportunities exist to grow revenue? 
+ 
+Candidate should drive to the next step. Once the candidate mentions pack size and pricing, the 
+interviewer should provide them with Table 2: 
+ 
+Table 2: Product Pack Sizes and Prices 
+ 
+Product 
+Client Package 
+Size 
+Avg. Competitor 
+Package Size 
+Client Price ($) 
+Avg. Competitor 
+Price ($) 
+Shampoo 
+10 mL 
+12 mL 
+20 
+15 
+Cold Medicine 
+8 mL 
+10 mL 
+12 
+10 
+Diapers 
+40 diapers 
+32 diapers 
+20 
+16 
+Baby Food 
+16 oz 
+20 oz 
+20 
+25 
+ 
+Candidate should take a minute to analyze the data and to walk the interviewer through high level 
+observations (possible responses): 
+● 
+This table shows us pack sizes and prices compared with average competitors. We can use this 
+data to see what SmartCity’s unit pricing is compared to their competitors. 
+● 
+Candidate should follow train of thought of comparing Diapers and Baby Food. 
+ 
+Candidate should calculate the per unit price of diapers and baby food. Here are possible responses: 
+● 
+The per unit price of diapers for SmartCity is the same as it is for competitors ($0.50/diaper). The 
+only difference is that the diapers are offered at a higher price for higher volume. 
+● 
+Baby food on the other hand is offered in lower pack size with the same per unit price as the 
+competitor ($1.25/oz) 
+● 
+SmartCity should consider offering a lower pack size for diapers, similar to what they’ve done with 
+baby food. 
+● 
+Extra points: Large diaper pack size might be unattractive to LI community, as they may not have 
+the means to buy large volumes at once. 
+
+
+===== PDF p111 =====
+Casebook | 2019-20 Edition 
+107 
+ 
+● 
+Extra points: SmartCity can maintain its brand and reputation and still be attractive to the LI 
+segment as previously mentioned, people are generally price insensitive for baby products as 
+they want brands that they can trust 
+ 
+Candidate should drive to the next step which is to determine the risks of this strategy: 
+ 
+Candidate: It looks like changing the pack size and pricing is a good strategy for now. Let’s look at the 
+risks of this strategy 
+Risks (possible): 
+ 
+Customer/Branding 
+ 
+● 
+Brand could diminish if targeting low income 
+● 
+Cannibalization of existing product sales 
+● 
+Brand confusion among customers 
+Operational 
+● 
+Need to establish new distribution channels 
+● 
+More complexity with additional SKUs 
+● 
+Investments or changes in machinery to change pack size? 
+ 
+Financial 
+● 
+Competitive response could lead to price war 
+● 
+Profit margins could narrow if targeting LI with smaller pack sizes 
+● 
+Shareholder response to new strategy? 
+ 
+Interviewer: The client has walked in and wants to hear your final conclusion. What do you have to say? 
+ 
+Recommendation (possible): We recommend entering the LI segment as it represents a large percentage 
+of the total sales of the CPG products analyzed. Specifically, we recommend focusing on baby 
+products, and specifically on diapers as SmartCity has the opportunity to gain significant market 
+share. We advise experimenting with smaller pack sizes and keeping the per unit price the same. 
+This will help LI people afford the product, and likely increase our market share. However, moving 
+forward, we’d like to investigate the risk of this strategy on SmartCity’s brand and reputation, as well 
+as their ability to establish the best distribution channels to reach these customers. 

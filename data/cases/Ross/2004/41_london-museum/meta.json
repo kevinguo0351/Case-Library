@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2004_41_london-museum",
+  "school": "Ross",
+  "year": "2004",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2004.pdf",
+  "idx": 41,
+  "case_name": "London Museum",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Non-Profit / Government",
+  "difficulty": null,
+  "pdf_page_start": 98,
+  "pdf_page_end": 100,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    99
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p099.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2004\\41_london-museum"
+}

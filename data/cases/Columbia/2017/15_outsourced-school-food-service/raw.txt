@@ -1,0 +1,169 @@
+===== PDF p125 =====
+Case # 15 - Outsourced School Food Service
+Our client is a PE firm looking to whether invest in an outsourcing food service company that provides 
+meals to K-12 schools (both public and private).  This would be a new venture for the PE firm.  Should it 
+make this investment?
+Problem Statement Narrative
+Case # 15: Outsourced School Food Service
+This was the first part of a first round phone interview and begins as a relatively short market-sizing 
+exercise. Interviewee should remember this is a PE client and incorporate that into any analysis and 
+brainstorming during the case. 
+Case Notes
+Industry: 
+PE 
+(Education 
+/ Food)
+Case Type: 
+Investment 
+Firm:
+Parthenon
+• Mental math
+• Market sizing
+• Creativity
+Concepts Tested
+Structure
+Creativity
+Math
+Medium+
+Easy
+Medium
+121
+
+
+===== PDF p126 =====
+Sample Framework
+Sample Framework
+Candidate should get to the market sizing exercise 
+rather quickly; there aren’t that many ancillary 
+details in this case.
+The name of the game is speed here; if the 
+interviewee is slow in calculating the math, 
+pressure them to take shortcuts to go faster.
+Guidance for Interviewer
+•
+Include all public and private schools. Don’t 
+worry about government subsidies for food.
+•
+Assume 30% of students buy breakfast and 60% 
+buy lunch (as opposed to bringing food from 
+home).
+Clarification Answers if Asked 
+•
+Profitability
+•
+Revenue
+•
+Price paid per meal
+•
+Number of total meals served
+•
+Cost
+•
+Fixed: factories, management, 
+salespeople
+•
+Variable: cost of food, transportation
+•
+Current portfolio
+•
+Other firms that ‘fit’ or have 
+complementary knowledge
+•
+Expertise in sector
+•
+Industry trends/performance
+•
+Is target struggling?
+•
+What’s happening in food service?
+•
+Any new government regulations?
+•
+Cost/Exit strategy
+•
+Financing of target price
+•
+Hold period, target exit return
+•
+Opportunity cost of capital
+122
+Case # 15 - Outsourced School Food Service
+
+
+===== PDF p127 =====
+Question #1
+Question #1
+Estimating the size of target audiences:
+U.S. Population (320m) /Average lifespan (80 years, 4m per year) * # of years in segment (13 years) 
+= 52mn Round DOWN to 50m
+Estimating the revenue from providing food services per day:
+50m * (% Buy Breakfast [30%, 15m] * Weighted Average price for Breakfast [$3.00] + % Buy Lunch [60%, 
+30m] * Weighted Average price for Lunch [$4.50]) 
+= (15m * $3.00 + 30m * $4.50)
+Extrapolating this number from per day to a whole year:
+(15m * $3.00 + 30m * $4.50)* # of days in schoolyear (250 work days, students have~3 months [1/4 of year] 
+off, 75% of 250 is hard, so round UP [offsets above] to 80%, or 200 days of school)
+= (15m * $3.00 + 30m * $4.50) * 200 = ($45m + $105m) * 200 = $150m * 200 = 
+$30 billion annual market size
+Possible Solution
+Show Exhibit 1 and ask for comments upon viewing. You may ask for estimations of average breakfast ($3.00) and 
+lunch ($4.50) prices, but don’t allow any non-mental math until the question below is asked.
+What is the market size by annual revenue for lunch and breakfast in the K-12 age group in the U.S.?
+123
+Case # 15 - Outsourced School Food Service
+
+
+===== PDF p128 =====
+Question #2
+What are some reasons a school would outsource food services versus cooking in-house? 
+Would outsourcing food service have any risks?
+Question #2
+Economic reasons:
+•
+Cheaper food than producing in-house
+•
+Can band together with other schools in district for economy-of-scale discounts
+•
+Cost of labor may be high in a particular area; better to outsource
+Operational reasons:
+•
+No facilities for cooking food in-house
+•
+Standardize meal calorie count or recommended serving size
+•
+No expertise in food service
+•
+Students prefer outsourced food over in-house
+Risks: 
+•
+Health concerns over preservatives, quality or taste
+•
+Little control over process and could have to scramble if shipment doesn’t arrive or is spoiled
+•
+Possibly less variety in choice of meals served
+•
+Politics food service company could support or be controlled by undesirable parties
+Solution
+124
+Case # 15 - Outsourced School Food Service
+
+
+===== PDF p129 =====
+Exhibit 1
+Breakfast
+Lunch
+Elementary school 
+(K-5th grade)
+$2.78
+$4.11
+Middle school 
+(6-8th grade)
+$3.04
+$4.32
+High school 
+(9-12th grade)
+$3.26
+$5.35
+125
+Case # 15 - Outsourced School Food Service
+Average price of breakfast and lunch meals, United States

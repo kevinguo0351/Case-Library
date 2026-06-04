@@ -1,0 +1,238 @@
+===== PDF p51 =====
+47
+Ratings:
+Quant - 3
+Qual - 2
+Overall - 2
+Chase-ing Equity
+Financial Services | Market Entry/Sizing & NPV
+Interviewee Led
+Case 3
+
+
+===== PDF p52 =====
+48
+Case 3 – Chase-ing Equity
+Our client, Brandy Thomas-Chase (BTC), is a high-powered Black financial player and owns one of the most 
+successful VC firms in the country. She has come to us with an issue near and dear to her heart. She believes 
+that mid to large-sized banks have ignored an important potential consumer segment: the underbanked, usually 
+found in underserved minority populations. BTC wants our thoughts on how she can leverage her firm to 
+remedy this injustice, as well as how big this opportunity could be.
+•	 Client is not currently in the banking space directly
+•	 Client doesn’t have a threshold or an expected timeline in mind to recoup a return on the investment 
+•	 The main objective of our client is to increase access of some form of banking to underbanked populations
+•	 Though they typically invest in somewhat established organizations, our client is interested in what taking on this 
+project from the start would look like 
+•	 The assumption can be made that they will have the capital ready to take on this endeavor 
+Prompt
+Clarifying Information
+Note:
+•	 “Underbanked” is defined as a household that has a bank account, but goes outside of the bank for financial services such as 
+money orders, cashing, payday loans, etc. 
+
+
+===== PDF p53 =====
+49
+Framework
+Financials 
+•	Revenue: loans, fees, advertising
+•	Initial investment costs: physical 
+brick and mortar build out or 
+digital development 
+•	Ongoing Costs
+•	Fixed: rent (if brick and mortar), 
+PPE
+•	Variable: marketing, personnel
+Company and Competition
+•	Too far from core competencies?
+•	Brand impact of this move 
+•	Could signal CSR importance?
+•	Are there any incumbents/
+existing competitors and are 
+they successful?
+•	Competitive positioning 
+impacted? What are other 
+players doing in this space?
+Market Size
+•	How many underbanked?
+•	Expected value per customer?
+•	Demographic makeup of 
+customers (age, regions, etc.)
+Mode of Entry
+•	Organic: internal capabilities and 
+capital investment available?
+•	Partner/JV: work with existing 
+banks within proximity to these 
+areas
+•	Non-traditional partnerships 
+with Venmo or grocery 
+stores
+Opportunity Cost
+•	Is there another more attractive 
+opportunity?
+•	Is there another way to help 
+this group, e.g. funding financial 
+literacy programs?
+Feasibility
+Attractiveness
+Other
+Case 3 – Chase-ing Equity
+
+
+===== PDF p54 =====
+50
+Step 1: 320 Million Individuals in America
+Step 2: Number of People Per Household? Assume 2.5 or 3
+ 
+Step 3: Number of households  is  ~100M
+Step 4: Assume a percentage that are underbanked and give a reason why? 
+•	Strong candidates will note that the average household has a bank account, so it is under 50 percent
+•	Perhaps they will say that it is close to the country’s poverty rate of 12-13 percent or something of that nature. 
+At this point tell them that it is 15% 
+Step 5: # of households in United States X 15% = ~15 million underbanked households, which represents the total 
+	
+	
+	
+addressable market 
+Question 1: Market Sizing
+How would you think through arriving at the number of underbanked households in the country?
+Case 3 – Chase-ing Equity
+
+
+===== PDF p55 =====
+51
+Question 2: Brainstorming
+Many underbanked individuals lack access to brick and mortar banks. What are some ways that we can fix this? 
+What should be considered with each? Potential options and reasoning are below.
+Pros
+•	Leverage brand name, expertise 
+and infrastructure with big bank  
+•	Greater access to capital
+Cons
+•	Some level of control is lost 
+•	Big banks have not played in this 
+space in particular, might have to 
+truly prove value
+•	Lack of trust in large institutions
+Pros
+•	Full control over the operations and 
+profits of the firm 
+•	Able to control branding and image
+•	Can leverage the building for other 
+services (Starbucks, etc on ground 
+floor)
+Cons
+•	Expensive, likely most costly option 
+•	Government regulations and 
+permits could delay build out
+•	No experience in building in poor/
+underserved areas
+Pros
+•	Lowest cost
+•	Can reach largest number of 
+people
+•	More companies able to advertise 
+on digital platform (more revenue)
+Cons
+•	Limited amount of services (for 
+example no mortgage agreements 
+will be made digitally)
+•	Lack of access to internet, 
+comfortable for digital natives but 
+hard to reach for older population
+Build Brick and Mortar
+Joint Venture Build with Big Bank
+NeoBanking (Digital Only Bank)  
+Move
+forward
+with this
+option
+Case 3 – Chase-ing Equity
+
+
+===== PDF p56 =====
+52
+Question 3: NPV Calculation
+How much will it cost to take on this endeavor and what is the NPV?
+Upfront Investment
+Customers
+Personnel Costs
+(VC)
+Total Yearly Costs
+Total Yearly Revenue
+Fixed/Regulatory 
+Costs
+Revenue/Customer
+Costs
+Revenues
+$7M
+$13M + $2M = $15M
+1.5  million households 
+x $12 average spend 
+= $18 M/yr
+For simplicity, assume all staff make 
+$130k/yr
+	
+20 engineers
+	
+80 digital bankers
+Total: $13M/yr
+•	 Digital bank can serve 10% of the 
+identified underbanked households 
+per year
+•	 Total: 1.5 M households
+•	 Servers/Licensing/ Other Tech Fees:  
+$1M Annual
+•	 Regulatory Costs: Quarterly pay­
+ments of $125K
+•	 General Operating Expenses:$500K 
+•	 Total: $2M/yr
+Annual Profit
+Discount Rate
+Present Value
+Net Present Value
+$18M - $15M= $3M
+40% for perpetuity
+$7.5M
+$7.5M-7= $500K
+•	 Given lower income levels for this 
+group, the Bank will only charge $1 
+in user fees per month
+•	 Total: $12/yr per household 
+Case 3 – Chase-ing Equity
+
+
+===== PDF p57 =====
+53
+Conclusion
+•	Costs may be understated and 
+revenues overstated
+•	Regulations within the banking 
+industry are very stringent and can 
+delay project start especially as 
+they relate to online/digital banking 
+•	Unable to reach target population 
+and gain trust
+•	BTC should move forward with 
+this investment. Even though the 
+NPV is relatively low, this endeavor 
+will help close the gap on racial 
+inequity and position BTC to 
+identify other opportunities to 
+engage with this group whether 
+that be by way of creating other 
+financial products or otherwise. 
+This will also allow BTC to expand 
+on their digital capabilities. 
+•	Further validate cost and revenue 
+assumptions
+•	Engage with policy experts to 
+understand more about regulatory 
+procedures in this space
+•	Think through strategic marketing 
+efforts and tactics to reach end 
+users (underbanked communities)
+Recommendation
+Risks
+Next Steps
+Case 3 – Chase-ing Equity

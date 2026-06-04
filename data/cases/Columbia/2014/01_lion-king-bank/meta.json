@@ -1,0 +1,24 @@
+{
+  "case_id": "Columbia_2014_01_lion-king-bank",
+  "school": "Columbia",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2014.pdf",
+  "idx": 1,
+  "case_name": "Lion King Bank",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Banking / Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 10,
+  "pdf_page_end": 16,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    13,
+    14
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p013.png",
+    "exhibits/exhibit_p014.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2014\\01_lion-king-bank"
+}

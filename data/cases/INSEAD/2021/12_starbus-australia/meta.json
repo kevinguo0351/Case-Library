@@ -1,0 +1,28 @@
+{
+  "case_id": "INSEAD_2021_12_starbus-australia",
+  "school": "INSEAD",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2021.pdf",
+  "idx": 12,
+  "case_name": "StarBus Australia",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 123,
+  "pdf_page_end": 134,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    128,
+    129,
+    130,
+    131
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p128.png",
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p130.png",
+    "exhibits/exhibit_p131.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2021\\12_starbus-australia"
+}

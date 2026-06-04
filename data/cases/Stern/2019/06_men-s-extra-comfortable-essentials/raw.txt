@@ -1,0 +1,459 @@
+===== PDF p82 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Men’s Extra Comfortable Essentials
+78
+Author: Peter Noorani & Anthony Russ (Stern ‘18)
+Case Style: Interviewer Led
+Difficulty: Medium
+Case Overview:
+Industry: Consumer Goods
+Case Type: Growth Strategy
+Concepts Tested:
+•
+Market Sizing
+•
+Brainstorming
+•
+Growth Rates
+Overview Information for Interviewer:
+•
+Candidate must remain organized with math to translate given 
+information into current market revenues, current market sizes, future 
+market size, future revenues, current margins, and future margins
+•
+Candidate will need to determine how to cut unprofitable product lines to 
+improve margin
+•
+Candidate must brainstorm effectively
+Case Prompt: 
+Our client, Men’s Extra Comfortable Essentials, is a US-based manufacturer of basic apparel 
+including socks, tanks, tees, and underwear. They manufacture each apparel line then brand and 
+package them for distribution. Revenues in 2016 were $60M, and the CEO has promised 
+shareholders 4x growth by 2020, at which point, she promised 10.5% profit margin. She has hired 
+us to determine whether these are realistic revenue targets, and if so, how her firm could go about 
+achieving them.
+78
+
+
+===== PDF p83 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+79
+Clarifying Information: 
+•
+The firm purchases the 
+fabrics through contracts 
+with suppliers across the US
+•
+Firm receives uncut fabrics, 
+and must process them into 
+each apparel line in-house
+•
+Firm sells products through 
+traditional channels
+•
+The firm currently only 
+produces products for men
+•
+Current Product Mix:
+Interviewer Guide: 
+•
+A Good Framework Will:
+o
+Cover all major revenue and cost levers
+o
+Include all market size and growth dynamics included in 
+the case calculations
+o
+Include potential external competitive factors
+o
+Be case specific
+•
+Necessary Information that should be given only when 
+specifically asked for by interviewee:
+Product
+Market 
+Share 2016
+Estimated Market 
+Share 2020
+2016-2020: 
+Market CAGR
+Socks
+15%
+15%
+↑ 5%
+Tanks
+2.5%
+10%
+↑ 6%
+Tees
+5%
+5%
+↓ 3%
+Underwear
+1%
+10%
+↑ 20%
+Product
+% of Revenue
+Socks
+40%
+Tanks
+25%
+Tees
+15%
+Underwear
+20%
+Men’s Extra Comfortable Essentials
+79
+
+
+===== PDF p84 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+80
+Profitability
+Revenue
+Costs
+•
+Variable
+•
+COGS (Fabric, Packaging)
+•
+Logistics
+•
+Special Event or 
+showroom fees
+Fixed
+•
+Manufacturing
+•
+Labor
+•
+SG&A
+•
+R&D
+Quantity
+•
+Investigate bulk sales to 
+retailers, consumers
+•
+Revise Distribution channels 
+(traditional v. ecommerce)
+Pricing
+•
+Low Cost Items
+•
+Diversify into lines (basic, 
+mid-range, luxury)
+•
+Revise pricing model 
+based on competition
+Other Factors
+Consumer
+•
+Fashion trends
+•
+Income levels
+Market
+•
+Competitive set
+•
+Market entrants
+•
+Market size and 
+growth
+Men’s Extra Comfortable Essentials: Sample 
+Framework
+80
+
+
+===== PDF p85 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+81
+Math Question: 
+•
+Given the data you have, what will be our client’s 2020 revenue by product type?
+Math Solution: 
+Math Information: 
+Current revenue by product 
+Socks:
+40% 𝑜𝑓𝑟𝑒𝑣𝑒𝑛𝑢𝑒∗$60𝑀= $24𝑀
+Tanks:
+25% 𝑜𝑓𝑟𝑒𝑣𝑒𝑛𝑢𝑒∗$60𝑀= $15𝑀
+Tees:
+15% 𝑜𝑓𝑟𝑒𝑣𝑒𝑛𝑢𝑒∗$60𝑀= $9𝑀
+Underwear:
+20% 𝑜𝑓𝑟𝑒𝑣𝑒𝑛𝑢𝑒∗$60𝑀= $12𝑀
+Current market size by product 
+Socks:
+$24𝑀
+15% = $160𝑀
+Tanks:
+$15𝑀
+2.5% = $600𝑀
+Tees:
+$9𝑀
+5% = $180𝑀
+Underwear:
+$12𝑀
+1% = $1.2𝐵
+2020 market size by product 
+Socks:
+$160𝑀∗1.054 = $194,481,000 ≈$𝟐𝟎𝟎𝑴
+Tanks:
+$600𝑀∗1.064 = $757,486,176 ≈$𝟕𝟓𝟎𝑴
+Tees:
+$180𝑀∗0.974 = $159,352,706 ≈$𝟏𝟓𝟎𝑴
+Underwear:
+$1.2𝐵∗1.204 = $2,488,320,000 ≈$𝟐.𝟓𝑩
+•
+Current revenue by product:
+% 𝑜𝑓𝑅𝑒𝑣𝑒𝑛𝑢𝑒∗𝑇𝑜𝑡𝑎𝑙𝑅𝑒𝑣𝑒𝑛𝑢𝑒
+•
+Current market size by product:
+𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑅𝑒𝑣𝑒𝑛𝑢𝑒
+𝑀𝑎𝑟𝑘𝑒𝑡𝑆ℎ𝑎𝑟𝑒
+•
+2020 market size by product:
+𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑀𝑎𝑟𝑘𝑒𝑡𝑆𝑖𝑧𝑒∗1 + 𝐶𝐴𝐺𝑅# 𝑜𝑓𝑦𝑒𝑎𝑟𝑠
+Note: It is unlikely the candidate can complete 
+the 2020 market size within a reasonable time. 
+If the candidate has demonstrated sufficiency 
+in previous calculations, simply ask candidate 
+to explain how he or she would calculate, then 
+provide the rounded figures.
+Men’s Extra Comfortable Essentials: Question 1
+81
+
+
+===== PDF p86 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+82
+Math Question: 
+•
+Given the data you have, can you calculate our client’s revenue by 2020 by Product Type?
+Math Solution: 
+Math Information: 
+•
+Estimated 2020 revenue by product:
+2020 𝑀𝑎𝑟𝑘𝑒𝑡𝑆𝑖𝑧𝑒∗2020 𝑀𝑎𝑟𝑘𝑒𝑡𝑆ℎ𝑎𝑟𝑒
+Note: $240M target the CEO promised to 
+shareholders comes from the case prompt, 
+where the CEO promised 4X revenue growth 
+on current revenues of $60M
+$60𝑀∗4 = $240𝑀
+Estimated 2020 revenue by product 
+Socks:
+$200𝑀∗15% = $30𝑀
+Tanks:
+$750𝑀∗10% = $75𝑀
+Tees:
+$150𝑀∗5% = $7.5𝑀
+Underwear:
+$2.5𝐵∗10% = $250𝑀
+TOTAL 2020 REVENUE = $362.5𝑀
+Candidate should observe that $362.5M in revenue for 2020 far 
+exceeds the $240M the CEO promised to shareholders.
+Men’s Extra Comfortable Essentials: Question 1 
+continued
+82
+
+
+===== PDF p87 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Notes to Interviewer: 
+•
+Candidate must notice the footnote indicating that gross margins are expected to remain constant through 2020
+2020 Gross Margin by product 
+Socks:
+$30𝑀∗15% = $4.5𝑀
+Tanks:
+$75𝑀∗−5% = ($3.75𝑀)
+Tees:
+$7.5𝑀∗0% = $0
+Underwear:
+$250𝑀∗10% = $25𝑀
+•
+Gross Profit = $25.75𝑀
+•
+Candidate should calculate that $25.75M in gross profit on $362.5M in revenue for 2020 yields a gross margin of $25.75𝑀
+$362.5𝑀= 7.10%
+•
+Finally, candidate should point out that 7.1% is lower than the 10.5% the CEO promised to shareholders.
+83
+Math Question: 
+•
+Given the following gross margin information what is the gross margin for the firm in 2020? [Exhibit 1]
+Men’s Extra Comfortable Essentials: Question 2
+Product
+2016 Revenue
+2016 Margins %1
+Socks
+$24M
+15%
+Tanks
+$15M
+-5%
+Tees
+$9M
+0%
+Underwear
+$12M
+10%
+83
+
+
+===== PDF p88 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Solution: 
+•
+This candidate should immediately recognize that there are two products in 2020 that are below the target 
+gross margin and seek to eliminate them while being cognizant of the 2020 revenue target.
+•
+Candidate should determine that terminating the Tanks product line would decrease revenue to $287.5M
+(which is still above the $240M target) and increase gross margin to $29.5M. This would force the gross 
+margin percentage up to 10.26%
+•
+Candidate should also determine that terminating the Tees product line would decrease revenue to $280M
+(which is still above the $240M target) and leave gross margin at $29.5M. This would further increase the 
+gross margin percentage above the 10.5% target (to 10.54%)
+84
+Question: 
+•
+How can the firm reach the targets promised to shareholders?
+Men’s Extra Comfortable Essentials: Question 3
+84
+
+
+===== PDF p89 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+85
+Question: 
+•
+The numbers make sense, but of the remaining two product lines, only socks market share can remain 
+constant (at 15%). Underwear’s market share must increase from 1% to 10%; what are some ways the 
+firm can attempt to do this?
+Solution: Candidate should take some time to create a structured brainstorm
+Customers
+•
+Segmentation 
+•
+Luxury Line (e.g., nicer material)
+•
+Legacy “Basics” line; Women’s line of underwear
+•
+Product Mix Boxers, Boxer briefs, Briefs, Athletic
+•
+Marketing
+•
+Steal share from Hanes, etc.
+•
+Introduce new customer B2B customers, such as 
+selling to other companies for branding
+•
+Distribution New channels (Grocery stores? 
+Pharmacies? Gas stations? Airports? Special vending 
+machines?)
+•
+E-commerce Add-on purchases at checkout with 
+other brands (e.g., Checking out at Club Monaco 
+website, buying pair of trousers: “Would you like to add 
+Men’s Extra Comfortable underwear to your order?”)
+Operations
+•
+Re-tool production lines (focus on underwear 
+products rather than tees or tanks)
+•
+Renegotiate supplier contracts
+•
+Potentially look for suppliers outside the US
+•
+Logistics considerations (Adjust locations of 
+warehouses, how products are packaged for 
+transportation)
+•
+Outsource the manufacturing of the apparel 
+(increase profitability without market size)
+•
+Marketing push on Underwear products
+Men’s Extra Comfortable Essentials: Question 4
+85
+
+
+===== PDF p90 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+86
+Recommendation:
+•
+Drop the Tanks and Tees 
+product lines in order to 
+achieve the margin goal
+•
+Embark on a campaign to 
+increase market share of 
+Underwear lines (via new 
+products or a female product 
+lines)
+Bonus: Guide to an excellent case
+•
+An good candidate will recognize the need to calculate 2020 market size and the need for CAGR
+•
+An excellent candidate will utilized shortcuts for math to eliminate unnecessary steps and quickly identify 
+that the 0% margin product  can be cut to increase corporate margin
+•
+The BEST candidate will recognize the firm name acronym is MECE
+Risks:
+•
+Potentially alienate loyal 
+customers
+•
+Cutting product lines could 
+impact sales of other items, 
+particularly if customer buys 
+products together (e.g., 
+underwear & socks)
+•
+Taking market share for 
+underwear could incite 
+competitive response across 
+in other categories
+Next Steps:
+•
+Determine messaging 
+internally and externally 
+about why the product line 
+cut is made
+•
+Determine target for 
+underwear expansion
+•
+Determine most efficient way 
+to re-purpose equipment and 
+labor from tanks and tees to 
+socks and underwear 
+Men’s Extra Comfortable Essentials: 
+Recommendation
+86
+
+
+===== PDF p91 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Men’s Extra Comfortable Essentials: Exhibit 1
+87
+Product
+2016 Revenue
+2016 Margins %1
+Socks
+$24M
+15%
+Tanks
+$15M
+-5%
+Tees
+$9M
+0%
+Underwear
+$12M
+10%
+1 Firm expects 2016 margin % to maintain constant through 2020
+Gross Margin by Product
+87

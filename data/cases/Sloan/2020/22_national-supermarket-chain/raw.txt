@@ -1,0 +1,107 @@
+===== PDF p126 =====
+Casebook | 2019-20 Edition 
+122 
+ 
+22. National Supermarket Chain (BCG R1, CPG/Retail, Operations, 
+Balanced) 
+Stem: Our client is a national supermarket chain with $25B in annual sales. The client's sales have been 
+growing at 5% annually compared to 2.5% for the overall market. However, the client projects revenue 
+growth to trend back to market growth rates over the next few years and is looking for ways to boost its 
+profitability. The client has brought BCG in to evaluate one of its options for boosting profits: the introduction 
+of large format grocery stores. How would you evaluate this opportunity for the client? 
+ 
+Provide the following information if the candidate asks for it: Typical grocery store = 70K square feet; Wal- 
+Mart = 200K square feet; A large format store = 120K square feet. 
+ 
+Candidate should develop a MECE structure that evaluates the costs and benefits of entering the large 
+format grocery store category. On the benefits side, candidates could consider how large format stores 
+could boost sales volumes, how the new store formats would impact prices, etc. On the cost side, 
+candidates could consider Capex / leasing requirements for larger stores, potential costs for sourcing / 
+warehousing more inventory, cannibalization of existing store sales etc. Candidates may also want to 
+consider alternative revenue growth strategies (e.g., smaller format stores, pushing organic foods). 
+ 
+Let the candidate drive the case but the discussion should turn to the projected revenues and costs for the 
+large format stores since we need to evaluate the profitability of these large format stores. Push the 
+candidate in that direction if necessary. When the candidate asks for the profitability of large format stores, 
+present the following chart. 
+ 
+Interviewer: What can you tell from this data? 
+ 
+Large Format Stores 
+Typical Grocery Stores 
+Sales Composition 
+Groceries: 50%, Health & beauty 
+products: 30%, Personal products: 
+20% 
+Groceries: 75%, Health & beauty 
+products: 15%, Personal products: 
+10% 
+Monthly Revenue 
+$960K 
+$640K 
+Monthly Profit 
+$96K 
+$32K 
+CapEx Required 
+$21M 
+$11M 
+ 
+Interviewer: First, revenues of large format stores are 50% higher than those of typical grocery stores. 
+Second, profitability is also higher for large format stores with 10% profit margins compared to 5% margins 
+for typical grocery stores. Perhaps this is because non-grocery products such as health & beauty products 
+carry higher margins and make up a larger percentage of sales at large format stores. However, large format 
+stores do require more CapEx to build than typical grocery stores. 
+ 
+Interviewer: So how do you suggest we compare the two options? 
+ 
+Candidate: We could try to calculate an NPV for each type of store by discounting future profits. We could 
+also compare the two options by calculating and comparing payback periods. 
+ 
+The candidate may see that monthly profits are 3x higher for large format stores while the required CapEx 
+is less than 2x higher and conclude that the large format stores are probably the better option. Bonus points 
+for candidates who point out this insight before doing any math! Have the candidate do the calculations 
+anyways. 
+
+
+===== PDF p127 =====
+Casebook | 2019-20 Edition 
+123 
+ 
+Interviewer: I like the payback period option. 
+ 
+Candidate should use the information in the table to calculate the payback period for the two options. Allow 
+for some rounding if the candidate asks. 
+ 
+Large format stores: $21M / ($96K * 12 months) = ~18 years 
+Small format stores: $11M / ($32K * 12 months) = ~29 years 
+ 
+Candidate: Based on payback period, the large format stores seem like a better option as they yield a 
+better return on Capex. 
+ 
+Interviewer: Good. Now what other factors might you have to consider before concluding that large format 
+stores are a good option? 
+ 
+Candidate can talk through some options but should ultimately point out the potential for sales 
+cannibalization (i.e., will the new large format stores take sales away from the existing store locations?). 
+ 
+Interviewer: Good. We have some data on cannibalization. Based on studies that we’ve done, adding large-
+format stores to areas in which the client has existing stores will increase sales at existing stores by 2%. 
+ 
+Candidate: Interesting. So, there’s positive cannibalization? 
+ 
+Interviewer: Correct. What are some reasons why that might be? 
+ 
+Candidate should brainstorm some ideas using a structured approach. The main thing to point out is the 
+potential for network effects. For example, new customers who are attracted to the large format store may 
+now join loyalty programs that will draw them to the existing stores. 
+ 
+Interviewer: Excellent. It turns out that network effects are important enough that they can lead to positive 
+cannibalization effects. We’re running out of time so can you wrap up with a recommendation for the client? 
+ 
+Candidate: I recommend that the client introduce large format stores in order to boost profitability. First, 
+large format stores generate higher profit margins on higher sales than regular grocery stores. Second, 
+investments in large format stores are a better use of capital based on a payback rule analysis. Third, 
+large format stores will boost sales at existing store locations through positive cannibalization. Before 
+moving forward with the introduction of large format stores, I would like into implementation challenges 
+that the client may face while also looking at alternative uses of capital that may provide even better 
+returns. 

@@ -1,0 +1,551 @@
+===== PDF p224 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Nica Productions
+By Alfonso Tomás Durandeu (IESE MBA 2021)
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+220
+
+
+===== PDF p225 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROMPT
+Nica Productions is an American Media
+company that is trying to figure out its next
+project. This company has an extensive
+experience producing series and movies
+for all types of audiences and has got many
+awards doing so. This company has two
+alternatives: to produce a series for a
+streaming company or a movie to be
+projected in cinemas worldwide.
+Producing
+media
+content
+implies
+big
+investments
+and
+low
+certainty
+about
+potential
+incomes,
+which
+depends
+on
+many factors; for that reason, our client
+has hired us to help her decide which is
+the best alternative for her.
+CLARIFYING POINTS (if asked)
+• There is no specific profitability goal
+• The company is known worldwide, with access to top star directors, actors and technical
+staff
+• It has not budget limitation
+• Both alternatives look for a worldwide reach but target different type of customers
+• Production of any alternative will last one year
+• There is no alternative project
+• The main source of revenue of both projects depends on audience
+CASE GUIDANCE
+This is a quantitative case that requires the candidate to estimate the potential cashflow of
+different alternatives in order to get the NPV and decide the best option for the client.
+The candidate will need to ask for additional information that is necessary to solve the
+problem, rather than relying on the interviewer to dispense it.
+Especially for less finance-read candidates, you may have to help nudge trough the math and
+formulae.
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+221
+
+
+===== PDF p226 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+INTERVIEWER GUIDANCE – STRUCTURE
+The candidate should express that the company will pursue the project that generates the higher positive profits and show that in his/her 
+Framework.
+•
+A good candidate will take into consideration uncertainties related to production and revenues streams and express the intention to estimate NPV 
+of each project.
+•
+Other aspects to bear in mind are competition, market trends, company’s strategy, etc.
+If asked for information about REVENUES and COST, make him/her BRAINSTORM about it.
+•
+A good candidate would understand that revenues come not only from tickets or broadcasting royalties but also from merchandising, games, 
+DVD/Blu-rays, etc. In terms of cost, the candidate should mention the basics: director, actors, production, marketing, etc.
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+222
+
+
+===== PDF p227 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROJECT ALTERNATIVES ANALYSIS – MOVIE 
+The company is not sure about which type of movie they want to produce and if it will be able to hire the director and actors for the desired 
+alternative. However it was able to assign probabilities for each scenario. Income will depend on the size of audience movie attracts, which further 
+depends on the critics received. Which project (movie or series) should our client choose? (Show Exhibit 1).
+ANALYSIS TAKEWAYS - MOVIE
+In order to estimate the NPV of this alternative, the candidate should calculate the corresponding Cash Flows and request for a Discount Rate (20%).
+The investment are made at the beginning of the project and incomes are received at the end of year 1 (Solution in the following slide).
+A good candidate will:
+- read the note to get the information about how much money the company receives from Cinema chains
+- be structured and present the calculation with clarity (ideally, in the form of a decision tree)
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+223
+Nica Productions
+
+
+===== PDF p228 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+ANALYSIS CALCULATION - MOVIE
+TOTAL AUDIENCE (TA):
+TA = [ (AudienceGood * %Good ) + (AudienceBad * %Bad) ]
+TA NOLAN = [ (600M * 70%) + (400M * 30%)] = [ 420M + 120M ] = 540M
+TA BAY = [ (400M * 80%) + (200M * 20%)] = [ 320M + 40M ] = 360M
+INCOME:
+1ST YEAR (Year 0)
+There is no income
+2ND YEAR (Year 1)
+Income = Total Audience * Ticket Price * %Commission
+Income NOLAN = 540M * 10 USD/t * 10% = 540M USD
+Income BAY = 360M * 10 USD/t * 10% = 360M USD
+INVESTMENT:
+Each alternative has its own cost structure (See exhibit 2)
+ALTENATIVE 1
+ALTERNATIVE 2
+GOOD
+BAD
+GOOD
+BAD
+Probability (%)
+70%
+30%
+80%
+20%
+Audience (M)
+600
+400
+400
+200
+Contribution (M)
+420
+120
+320
+40
+Average audience
+540
+360
+(M USD)
+ALTERNATIVE 1
+ALTERNATIVE 2
+Year
+0
+1
+0
+1
+Investment
+-150
+0
+-100
+0
+Income
+0
+540
+0
+360
+Cash Flow
+-150
+540
+-100
+360
+NPV
+-150
+450
+-100
+300
+Accumulated NPV
+300
+200
+ALTERNATIVE 1
+ALTERNATIVE 2
+Probability (%)
+60%
+40%
+NPV (M USD)
+300
+200
+Contribution (M)
+180
+80
+Average NPV (M USD)
+260
+-
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+224
+
+
+===== PDF p229 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXHIBIT 1: MOVIES ALTERNATIVES
+Note: Filmmakers receive as income 10% of the ticket sales (10 USD/ticket);
+Director
+Main Actor
+Support Actor
+Probability (%)
+Others
+Good
+Bad
+Target Audience
+Alternative 1
+Alternative 2
+Critics
+Critics
+Teenagers and Young Adults
+60%
+Christopher Nolan
+70% chance of getting 600M audience
+25M USD
+Tom Hardy
+50M USD
+Michael Cain
+25M USD
+Production & Marketing
+50M USD
+30% chance of getting 400M audience
+Kids and Teenagers
+40%
+Michael Bay
+80% chance of getting 400M audience
+10M USD
+Mark Walhberg
+25M USD
+Tyrese Gibson
+5M USD
+Production & Marketing
+60M USD
+20% chance of getting 200M audience
+225
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+
+
+===== PDF p230 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROJECT ALTERNATIVES ANALYSIS - SERIES
+The company already has the script for a potential Series, and in case of choosing this alternative, it will receive an upfront payment from the 
+Streaming company. Income will be based on the Audience per episode in the first year (Show Exhibit 2).
+ANALYSIS TAKEWAYS - SERIES
+In order to estimate the NPV of this alternative, the candidate should calculate the corresponding Cash Flows and request for a Discount Rate (20%). 
+The investment is made at the beginning of the project and incomes are received at the end of year 1 (Solution in the following slide)
+A good candidate will:
+- understand that the Script expense (10M USD) is a sunk cost and it should not be taken into consideration to make the decision
+- be structured and present the calculation with clarity (ideally, in the form of a decision tree)
+If the candidate realizes about the sunk cost, she/he will choose to produce a Series. If not, make him/her identify the mistake
+NPV
+NPV (with sunk cost)
+Movies
+260
+260
+Series
+270
+260
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+226
+
+
+===== PDF p231 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+ANALYSIS CALCULATION - SERIES
+TOTAL AUDIENCE (TA):
+TA = [ (AudienceGood * %Good ) + (AudienceMedium * %Medium) + (AudienceBad * %Bad) ] * 
+#Episodes
+TA = [ (100M * 30%) + (70M * 40%) + (40M * 30%)] * 10 = [ 30M + 28M + 12M ] * 10 = 700 M
+INCOME:
+1ST YEAR (Year 0)
+The income in the first year is the Upfront = 20M USD
+2ND YEAR (Year 1)
+Income = Total Audience * Income per episode (PMV) = 700M * 600k USD = 420M USD
+INVESTMENT:
+If the company chooses this alternative, it should make an additional Investment of 100M USD 
+(The Script is a sunk cost)
+ADDITIONAL DATA
+Upfront (M USD)
+20
+# episodes
+10
+Income per episode 
+(PMV) (USD)
+600,000
+(M USD)
+SERIES
+Year
+0
+1
+Investment
+--100
+0
+Income
+20
+420
+Cash Flow
+--80
+420
+NPV
+--80
+350
+Accumulated NPV
+270
+-
+GOOD
+MEDIUM
+BAD
+Probability (%)
+30%
+40%
+30%
+Audience (M)
+100
+70
+40
+Contribution (M)
+30
+28
+12
+INVESTMENT (USD)
+Cost (M USD)
+100
+Upfront income (M USD)
+20
+Investment (M USD)
+80
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+227
+
+
+===== PDF p232 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXHIBIT 2: SERIES
+EXPENSES
+Script (already bought)
+10
+Actors
+60
+Production
+40
+ADDITIONAL DATA
+Upfront income (M USD)
+20
+# episodes
+10
+Income per episode (PMV)
+600,000
+AUDIENCE LEVEL
+AUDIENCE PER 
+EPISODE (M USD)
+PROBABILITY
+High
+100
+30%
+Medium
+70
+40%
+Bad
+40
+30%
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+228
+PMV: per million views
+
+
+===== PDF p233 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROJECT ALTERNATIVES ANALYSIS – ADDITIONAL INFO
+Would your decision change with this new information? (Show Exhibit 3)
+TAKEWAYS – EXHBIT 3 
+Show the candidate Exhibit 3, which contains an additional cash flow for Michael Bay movie from merchandising and other incomes.
+The candidate should identify the tendency in the cashflow (CAGR -10%) and calculate a perpetuity.
+Adding those Cash Flows to Alternative 2 will affect the NPV.
+As a result of this information, the final decision will change.
+ALTERNATIVE 1
+ALTERNATIVE 2
+Probability (%)
+60%
+40%
+NPV (M USD)
+300
+266.6
+Contribution (M)
+180
+107
+Average NPV (M US)
+287
+-
+PERPETUITY
+Initial Cash Flow (M USD)
+20
+Growth (%)
+-10%
+Discount Rate (%)
+20%
+NPV (M US)
+66.7
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+229
+
+
+===== PDF p234 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXHIBIT 3 – MOVIES ALTERNATIVE 2 
+0
+5
+10
+15
+20
+5
+20,00
+6
+7
+14,58
+8
+9
+10
+20
+4
+0,00
+Cash Flow (M USD)
+18,00
+16,20
+13,12
+3
+10,63
+9,57
+8,61
+0
+7,75
+11,81
+1
+15
+4,58
+2
+2,70
+1,60
+25
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+230
+Year
+
+
+===== PDF p235 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROJECT ALTERNATIVES ANALYSIS – OTHER FACTORS
+Which other factor would you take into consideration? 
+EXPECTED CONSIDERATION
+The candidate should quickly identify the uncertainty and our capability to assess it as the main risk. 
+Factors that can influence:
+•
+Production is not finished on time and target launch is missed
+•
+The launch of a good movie made by a competitor
+•
+An economic crisis that affects the consumption
+•
+Others
+This question is to test the candidate’s business sense and creativity. There is room for the candidate to discuss other factors, including other 
+revenue streams and intangible factors, always justifying his/her answer.
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+231
+
+
+===== PDF p236 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+RECOMMENDATION
+Great, our client is coming and will request a recommendation. 
+RECOMMENDATION – SUGGESTION 
+The candidate should be concise and structured, without mentioning topics that were not discussed.
+It is important to highlight the uncertainty of the decision process and he/she should suggest potential ways to reduce it.
+Nica Productions
+Media & Entertainment
+Profitability
+Operations Cost
+Easy
+Medium
+Hard
+232

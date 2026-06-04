@@ -1,0 +1,213 @@
+===== PDF p38 =====
+KNOWLEDGE FOR ACTION
+U.S. Shoe 
+Manufacturing
+
+
+===== PDF p39 =====
+KNOWLEDGE FOR ACTION
+U.S. Shoe Manufacturing
+Level of Difficulty: Hard if you aren’t familiar with operations strategy
+Case Similar to Cases at Firms: McKinsey final round
+Topics Tested: onshore/offshore, operations, mathematical calculations (unit 
+profitability, total landed cost).
+Prompt: A major U.S. shoe manufacturer is currently manufacturing its entire product
+line domestically. Because of increased labor costs and competitive pressure, the
+manufacturer is now interested in understanding whether it should offshore some
+or all of its production and, if so, where it should offshore to and what percent of
+its total product line should be manufactured onshore vs. offshore. What factors
+should the client consider as it compares onshore to offshore manufacturing?
+Wharton Casebook 2017
+CASE 4
+35
+
+
+===== PDF p40 =====
+KNOWLEDGE FOR ACTION
+Opening Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample of Strong Framework
+Sample Clarifying Questions and Answers
+What other products does the client currently sell besides shoes?
+The client currently specializes in shoe manufacturing, but also 
+manufactures some apparel as well.
+Where else does the client currently sell its products besides the U.S.?
+The client currently sells its products in developed markets (North 
+America, Europe, and Australia)
+What are competitors, both domestic and foreign, currently doing with 
+respect to onshoring / offshoring?
+Most of the clients’ competitors currently do not offshore their 
+production due to manufacturing and managerial complexity.
+Outside of the U.S., in which markets are shoes typically manufactured?
+Where are high-quality shoes manufactured?
+Lower quality shoes tend to be manufactured in China, Southeast Asia, 
+and Central America, high quality ones in Eastern Europe.
+Demand factors
+• Demand volatility
+• Demand growth
+• Demand diversity (foreign vs. domestic)
+• Competition (foreign vs. domestic)
+• Required service level 
+Technological factors
+• Access to human capital (knowledge and skills)
+• Manufacturing infrastructure (downstream suppliers, 
+manufacturing facilities)
+• General infrastructure (roads, electricity, ports)
+• Process innovation (efficient frontier of production)
+Supply factors
+• Supply volatility
+• Supply lead time / responsiveness
+• Availability of suppliers
+• Direct labor vs. total costs
+• Capital investments and economies of scale
+Macroeconomic and regulatory factors
+• Tariffs, quotas, and other protectionism
+• Trade and global institutional agreements
+• Exchange rates
+• Political stability
+• Cultural affinity and managerial alignment
+CASE 4
+36
+
+
+===== PDF p41 =====
+KNOWLEDGE FOR ACTION
+Unit Profitability
+Wharton Casebook 2017
+The client has begun assessing a manufacturer based in Vietnam. They want us to do an in-
+depth analysis of the per-unit profitability of shoes produced in our existing facility vs. the 
+Vietnam facility. Assume no capex in either case (U.S. capital is sunk, Vietnam arrangement 
+would be cost plus). What does the equation for per-unit profitability for shoes look like?
+profit = retail revenue – (COGS + labor + SG&A + transportation + quality + tariffs + retail margin)
+Give the interviewee the below data and have them solve for profitability.
+U.S.
+Vietnam
+Retail revenue
+$200
+$200
+COGS
+30%
+20%
+Direct labor
+25%
+5%
+SG&A
+20%
+25%
+Transportation
+4%
+10%
+Quality
+1% defect rate
+5% defect rate
+Tariffs
+NA
+10%
+Retail margin
+10%
+10%
+Profit
+$10
+$15
+CASE 4
+37
+
+
+===== PDF p42 =====
+KNOWLEDGE FOR ACTION
+Unit Profitability Conclusion 
+Wharton Casebook 2017
+Given estimated profitability at both facilities, what should the client do? What are the key
+considerations and sensitivities that this basic model contains?
+Based on the unit-profitability analysis, the client should offshore manufacturing to Vietnam
+because it is 50% more profitable on a unit basis to manufacture there. There are several
+considerations and sensitivities to keep in mind:
+•
+Material costs and labor costs are much lower in Vietnam than in the U.S., driving most of
+the Vietnam manufacturing cost savings.
+•
+Production quality is significantly worse in Vietnam (5% vs. 1%), and further quality
+deterioration would impact profitability and swing the decision to the U.S.
+•
+Producing in Vietnam also entails added transportation and tariff costs, which are vulnerable
+to macroeconomic shifts (increased fuel costs, increased tariffs).
+Are we missing anything else in this analysis that might drive costs higher in the
+offshoring case? Or is it possible that the client should split manufacturing across the two
+options and, if so, what proportion of shoes should be made in Vietnam vs. the U.S.? Once
+the interviewee has touched on most the above, introduce this question. Direct the interviewee
+to the opening framework and ask about lead time and the volatility of demand.
+CASE 4
+38
+
+
+===== PDF p43 =====
+KNOWLEDGE FOR ACTION
+Total Landed Cost
+Wharton Casebook 2017
+The client just gave us one piece of information in addition to the costing data.
+Shoes manufactured in Vietnam have a lead time of three months (time from order
+to delivery). Shoes manufactured in the U.S., in comparison, have a lead time of
+one month. What additional factors should the client add to the unit
+profitability model in order to make the right sourcing decision? Why are they
+important? Wait for the interviewee to touch on the below:
+•
+Average demand per period
+•
+Volatility / standard deviation of demand per period
+•
+Cost of capital / holding cost per period
+These factors are important because uncertainty of demand combined with a
+longer lead time implies working capital costs. Vietnam’s lead time is longer than
+that of the U.S., leading to higher working capital costs and an opportunity to do
+dual sourcing where the client manufactures base demand in Vietnam and excess
+demand in the U.S.
+CASE 4
+39
+
+
+===== PDF p44 =====
+KNOWLEDGE FOR ACTION
+Total Landed Cost Conclusion
+Wharton Casebook 2017
+In consideration of the importance of demand, volatility, and cost of capital, we’ve
+come up with the following equation to enable us to calculate the proportion of
+shoes that should be manufactured offshore. Give the interviewee the below
+equation and inputs, you can ask them to recall the Vietnam cost advantage:
+Offshored fraction = 1 −𝛿
+ℎ
+2𝜇∆𝑐
+𝛿= standard deviation of demand / period = 20
+𝜇= average demand / period = 1,000
+ℎ= holding cost / unit / period = $1
+∆𝑐= Vietnam cost advantage / unit = $5 (can ask interviewee)
+80% = 1 −20
+$1
+2∗1000∗5
+Therefore, based on these assumptions, the client should manufacture 80% of its
+shoes in Vietnam and the remaining 20% in the U.S.
+CASE 4
+40
+
+
+===== PDF p45 =====
+KNOWLEDGE FOR ACTION
+Wrap-up
+Wharton Casebook 2017
+What should the client do?
+The client should manufacture 80% of its shoes in Vietnam, and 20% of its shoes
+in the U.S. as a hedge against volatility and keeping in mind the cost of capital.
+•
+The unit profitability advantage for Vietnam excluding lead time and the cost of
+working capital is $5 ($15 vs. $10).
+•
+This cost advantage comes primarily from lower COGS and labor costs, and is
+somewhat offset by quality, transportation, and tariff costs.
+•
+Demand is not highly volatile, nor is the client’s cost of capital, and as a result,
+we find that the majority of expected demand can be met by Vietnam capacity.
+As follow-on steps, the client may wish to understand the sensitivity of these
+assumptions to quality, transportation, and tariff costs, as well as future changes to
+the volatility of demand for the product. Greater volatility or higher cost of capital
+will push the client to shift more manufacturing back to the U.S.
+CASE 4
+41

@@ -1,0 +1,81 @@
+===== PDF p49 =====
+Case 13: National Magazine           -easy-        The Boston Consulting Group, Mock 
+44 
+ 
+ (Source: Mock Case Interview from The Boston Consulting Group) 
+ 
+Context: 
+ 
+Our client is a national monthly magazine that wants to restructure its printing division. They 
+currently have 2 facilities where they print their magazines and want to move to only one facility. 
+They hired us to tell them if this is a good idea or not. 
+ 
+I have a question before going further with the case. What is the reason behind deciding to restructure 
+the printing division?  
+ 
+Interviewer: the main reason is reduction of costs. 
+ 
+In order to assess the validity of their idea I would start by looking into the cost structure of the 
+company, specifically for the printing division. I would assess both the fixed and variable costs involved. 
+Then I would like to identify the cost savings that a consolidation would give to the company, if the 
+company has the capability to do the consolidation both in terms of capacity or infrastructure involved 
+by such a transition (distribution, operations, and feasibility of the move).  
+Finally I would like to assess the risks involved (regulations, market situation) 
+ 
+Information provided upon request: 
+Locations of the facilities: Idaho and New Jersey 
+Both facilities can accommodate the total number of magazines they need. They each currently print 
+50% of the total magazines. 
+Cost structure: 
+Total Costs = 75c/unit 
+Fixed costs = 35c/unit 
+Total number of magazines they sell per month: 1 million 
+Moving to one facility would save 20% of the fixed costs 
+The move would increase the distribution costs: 
+- 
+ New Jersey : by 2c/unit 
+- 
+ Idaho: by 8c/unit 
+ 
+ 
+(Interviewer should direct the candidate to answer the following question: What will be the total cost 
+per unit after the consolidation? What facility should they keep if at all?) 
+ 
+Savings in the fixed costs:  20% * 35c/unit  =  7c/unit 
+Increases in costs from distribution: 
+   New Jersey:  -2c/unit 
+   Idaho:            -8c/unit 
+Total savings: 
+   New Jersey:  +5c/unit 
+   Idaho:            -1c/unit 
+⇒ They should choose New Jersey 
+ 
+
+
+===== PDF p50 =====
+Case 13: National Magazine        -easy-           The Boston Consulting Group, Mock 
+45 
+ 
+ (If not prompted by the interviewee, the interviewer should ask the following question: What are the 
+risks involved in moving to only one printing facility?) 
+Possible solution might include: 
+• 
+unemployment in New Jersey 
+• 
+ local regulations 
+• 
+ operational: gas price 
+• 
+ delivery time 
+• 
+ cost of closing the other facility 
+• 
+ cost of materials 
+• 
+Future increases in sales 
+ 
+A good interviewer will make a recommendation: 
+ 
+I suggest they close the Idaho printing facility because the New Jersey one offers them the best cost per 
+unit. However they need to understand that there are other things to consider when taking this decision 
+as the ones I mentioned in the risks involved. 

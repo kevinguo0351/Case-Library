@@ -1,0 +1,34 @@
+{
+  "case_id": "Fuqua_2016_30_refinery-in-the-country-of-georgia",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 30,
+  "case_name": "Refinery in the Country of Georgia",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Oil and Gas",
+  "difficulty": "Difficult",
+  "pdf_page_start": 308,
+  "pdf_page_end": 319,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    311,
+    312,
+    313,
+    315,
+    316,
+    317,
+    318
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p311.png",
+    "exhibits/exhibit_p312.png",
+    "exhibits/exhibit_p313.png",
+    "exhibits/exhibit_p315.png",
+    "exhibits/exhibit_p316.png",
+    "exhibits/exhibit_p317.png",
+    "exhibits/exhibit_p318.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\30_refinery-in-the-country-of-georgia"
+}

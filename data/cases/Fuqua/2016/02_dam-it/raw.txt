@@ -1,0 +1,130 @@
+===== PDF p33 =====
+Dam It
+29
+Industry: Public Sector/Infrastructure
+Quantitative Level: Easy
+Qualitative Level: Easy
+
+
+===== PDF p34 =====
+Behavioral Questions
+30
+• Tell me about a strength you posses that can turn into a weakness under pressure
+Question 1:
+• Tell me about how you deal with competing priorities
+Question 2:
+
+
+===== PDF p35 =====
+Dam It
+31
+• California is dealing with very harsh drought conditions.  It is economically impacting the lives and 
+businesses of its residents. The state financial committee has been presented with a project to 
+capture more water by increasing the size of a current dam, especially given the constraints on 
+their budget and a set of competing state projects in other domains. Currently, California is buying 
+water from Nevada.  Though the new project seems promising, the committee wants to ensure 
+the investment is sound. Can you help the state of California evaluate this proposal?
+Prompt #1:
+• The water purchased from Nevada is used across the state to fulfill all needs including wineries 
+and residential use
+• There is only one other project for which the state is considering funding with this allocated money
+• The second project is an additional wing to the state hospital to be built from the ground up
+• The second project is just as socially important as the dam
+• Framework should include (a MECE framework will have Financial, Social & political/other 
+alternatives): 
+–
+Candidate should draw on Finance knowledge to compare projects (NPV, IRR, Comps, Multiples)
+–
+Should include Costs and Revenues as this case is centered around profitability for the state at the core
+–
+Other buckets can include macroeconomic issues, regulatory issues, voting/citizen rights issues etc. 
+Interviewer Guidance:
+
+
+===== PDF p36 =====
+Dam It
+32
+If candidate does not drive to NPV:
+The state would like to find out the current value to compare projects equally.
+Prompt #2:
+• This is a question of a growing perpetuity. The candidate should realize that they 
+need the investment’s cost and revenue information.
+Interviewer Guidance:
+
+
+===== PDF p37 =====
+Interviewer guidance on NPV
+•
+Initial Investment = 15M
+•
+Yearly Revenues from things like power generation = 
+1.5M/yr
+•
+Yearly Cost of supplies and Upkeep = 250K
+•
+Yearly SG&A  = 750k
+•
+All taxes can be ignored
+•
+Cost of purchasing water from Nevada = 100K
+•
+Candidate should request discount rate and growth rate
+–
+Discount Rate = 5%
+–
+Growth Rate  = 3%
+•
+Candidate should use perpetuity formula (
+ி஼ி
+ோିீ)
+•
+Total Revenue = 1.5M + 100K
+•
+𝐹𝐶𝐹= 𝑅𝑒𝑣𝑒𝑛𝑢𝑒−𝐶𝑜𝑠𝑡𝑜𝑓𝑆𝑢𝑝𝑝𝑙𝑖𝑒𝑠+ 𝑆𝐺&𝐴= 1.6M – (250K + 
+750K) = 600K
+•
+NPV = 
+ி஼ி
+ோିீ−𝐼𝑛𝑖𝑡𝑖𝑎𝑙𝐼𝑛𝑣𝑒𝑠𝑡𝑚𝑒𝑛𝑡= 
+଺଴଴௄
+(ହ%ିଷ%) −15𝑀= 15M
+33
+NPV Guidance:
+Analysis:
+
+
+===== PDF p38 =====
+Dam It
+34
+• Candidate should drive towards comparing this project to project 2 and request 
+information to attain the NPV of that project.
+• NPV of Project 2 ( A new hospital) = 15.1M
+The likely outcome is that from a financial standpoint project 2 is the most attractive but 
+only slightly.
+Interviewer Guidance:
+
+
+===== PDF p39 =====
+Dam It
+35
+• What non-financial factors should we consider when deciding between these two projects?
+Prompt #3:
+• This is a structured brainstorming exercise
+• Examples can include: ability to generate more revenue channels from another project like 
+hospital (research etc), building a project from ground up compared to adding on to a project (the 
+dam) for only a 100K difference may not make sense, considering the most critical social and 
+political issues is equally important.
+Interviewer Guidance:
+
+
+===== PDF p40 =====
+Dam It
+36
+• Your main client, the Governor of California is walking into the room.  What is your 
+recommendation?
+Recommendation 
+• There is no right answer for this case and either project can be selected.  Both 
+projects are viable and should be supported by sound reasoning found through 
+brainstorming of the non-financial aspects and calculating the financial impact 
+independently.
+Interviewer Guidance:

@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2009_05_defense-contractor",
+  "school": "Ross",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2009.pdf",
+  "idx": 5,
+  "case_name": "Defense Contractor",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Defense",
+  "difficulty": null,
+  "pdf_page_start": 27,
+  "pdf_page_end": 30,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    28,
+    29
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p028.png",
+    "exhibits/exhibit_p029.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2009\\05_defense-contractor"
+}

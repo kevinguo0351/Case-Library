@@ -1,0 +1,57 @@
+===== PDF p95 =====
+Business Type Cases (abbreviated answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+91 
+You are the manager of a food concessions operation at a stadium.  You have 100 employees 
+who can each sell ONLY ONE of the two products you offer: Coke or Sprite.  Having done 
+careful market-demand studies, you know with a VERY high degree of certainty that the 
+salespeople you assign will create daily revenues according to the following schedule: The first 
+person you assign to sell Coke will produce revenues of $100, the second $99, the third $98, and 
+so forth.  The first person you assign to sell Sprite will produce revenues of $90, the second $88, 
+the third $86, and so forth.  How many people do you allocate to sell each soft drink to maximize 
+expected daily revenues?  
+ 
+One Approach: 
+ 
+This case tests your ability on your feet to think analytically using mathematical patterns.  I think 
+the best way to approach this case is to make a simple two column table on a piece of paper and 
+list the expected returns for each soft drink:  
+Coke   Sprite 
+ 100 
+90 
+ 99 
+88 
+ 98 
+86 
+ 97 
+84 
+ 96 
+82 
+etc… 
+ 
+Then, simply start asking yourself, ‘Who will produce the most revenues?’ Each time you ask 
+yourself this, put a number (representing the # of the salesperson-- 1-100) next to the figure in 
+the table that it represents.  For example, the first time I ask the question, I would put a ‘1’ to the 
+left of the ‘100’ figure in the Coke column; the second time, I would put a ‘2’ to the left of the 
+‘99’ figure in the Coke column. 
+ 
+First the easy part: The first 10 salespeople would be assigned to Coke since all of them would 
+produce more revenues than any of the Sprite.  Now it gets interesting.  The 11th salesperson 
+would be assigned to Sprite (producing $90); the 12th and 13th would be assigned to Coke 
+(producing $89 and $88, respectively); the 14th would be assigned to Sprite (producing $88); the 
+15th and 16th to Coke, etc. 
+ 
+See the pattern?  Every third of the remaining 90 salespeople would be assigned to Sprite, and 
+the rest to Coke.  90/3 = 30.  So, 30 people would be assigned to sell Sprite and the rest (70) 
+would sell Coke (100 - 30 = 70).  The trick with this kind of case is to recognize a pattern and 
+apply an appropriate formula (i.e. knowing every third person is assigned to Sprite and dividing 
+that by the remaining salespeople).  If this kind of thing comes easy to you and you can do it in 
+your head, good for you.  If you can’t, don’t panic! Use pen and paper and realize it visually.  I 
+was given about 10 minutes to solve the problem, which is actually plenty of time to spin out the 
+problem on paper enough to see the pattern. 

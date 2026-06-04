@@ -1,0 +1,342 @@
+===== PDF p72 =====
+Case 5: ShopOn
+Retail | Profitability Improvement
+68
+
+
+===== PDF p73 =====
+Case 5: ShopOn
+Retail | Profitability Improvement
+Case Prompt
+Our client, a US based e-commerce company, ShopOn, has seen a rise in customer returns over 
+the last few quarters. Even though its revenue and market share have been increasing every 
+quarter, the CEO is concerned that customer returns will start impacting the margins soon. The 
+CEO of ShopOn wants your help to identify the reasons behind the high rate of returns and 
+create a mitigation strategy. 
+Interviewer Guidance
+This is a typical McKinsey style case. After the prompt, let interviewee ask clarifying questions 
+and then begin with testing the interviewee’s ability to build a framework for an industry with 
+high growth and disruption. After that, move onto exhibits, followed by a brainstorm question. 
+The case has a lot of exhibits and the interviewee will have to identify reasons for rising 
+customer returns and recommendations from those.
+Concepts Tested
+Graph reading, Setting up calculations, Brainstorming
+69
+
+
+===== PDF p74 =====
+Clarifying Information
+•
+Customer returns refer to products returned 
+by customers post-delivery and not order 
+cancellations before delivery. 
+•
+The return period for any ShopOn product is 
+30 days from the day of delivery.
+•
+Even though new competitors keep entering 
+the market, there has been no new competitor 
+in the last few quarters that could bring about 
+any significant change to ShopOn. ShopOn is 
+ranked #3 in the e-commerce space
+•
+ShopOn holds 50% of the product inventory 
+in its warehouses and 50% is a marketplace for 
+sellers.
+•
+The mitigation strategy should focus on both 
+short-term (next 1-3 quarters) and long-term 
+action items (next 2-3 years)
+•
+No investment guidance has been provided.
+Case & Exhibit Guidance
+1.
+After the interviewee prepares and explains 
+the framework, the interviewer will prompt 
+the interviewee to move forward with 
+Exhibits, which cover the most important 
+reason for increase in return % i.e. change in 
+product mix.
+2.
+After the interviewee has answered the math 
+question, the interviewer will lead the 
+interviewee to brainstorming.
+3.
+Finally, the interviewer will prompt for a 
+recommendation. 
+Case 5: ShopOn
+Retail | Profitability Improvement
+70
+
+
+===== PDF p75 =====
+Possible Framework
+5.    Others
+•
+Inaccurate website description
+•
+No longer needed
+•
+Bought by mistake
+•
+Desirable product was out of stock then 
+and now it is back in stock
+•
+Fraudulent behavior by customers i.e. 
+used the product and returned within 
+the return policy
+Case 5: ShopOn
+Retail | Profitability Improvement
+Possible Framework
+1.
+Change in product mix
+2.
+Product issues
+•
+Apparels - Size/fit/color
+•
+Electronics –
+Damaged/malfunctioning/perceived 
+defect
+•
+Household – Damaged/color/size
+•
+Food – expired/seal broken
+3.
+Pricing issues
+•
+Better price available elsewhere
+•
+Better price available on ShopOn now
+4.
+Delivery issues
+•
+Product arrived late
+•
+Wrong product delivered
+•
+Shipping box damaged
+71
+
+
+===== PDF p76 =====
+Case 5: ShopOn
+Retail | Profitability Improvement
+Question 1
+Looking at the below exhibits, what was the customer returns % of ShopOn in the last 2 
+quarters and what led to the change?
+Exhibits
+72
+Product 
+Category
+Returns %
+Electronics
+2%
+Apparel
+5%
+Household
+4%
+Food
+2%
+Others
+3%
+Electronics
+35%
+Apparel
+15%
+Food
+10%
+Others
+25%
+% UNITS SOLD Q1
+Household
+15%
+Electronics
+25%
+Apparel
+30%
+Household
+20%
+Food
+10%
+Others
+15%
+% UNITS SOLD Q2
+
+
+===== PDF p77 =====
+Case 5: ShopOn
+Retail | Profitability Improvement
+Solution
+The reason for change in the return % is the change in product mix. More units of Apparel and 
+Household are being sold that have a return % higher than that of the company average.
+Qtr. 1
+% Units 
+Sold
+Returns %
+Total 
+Returns
+Qtr. 2
+% Units 
+Sold
+Returns %
+Total 
+Returns
+Electronics
+35%
+2%
+0.70%
+Electronics
+25%
+2%
+0.50%
+Apparel
+15%
+5%
+.75%
+Apparel
+30%
+5%
+1.50%
+Household
+15%
+4%
+0.60%
+Household
+20%
+4%
+0.80%
+Food
+10%
+2%
+0.2%
+Food
+10%
+2%
+0.20%
+Other
+25%
+3%
+0.75%
+Other
+15%
+3%
+0.45%
+Total
+3%
+Total
+3.45%
+73
+
+
+===== PDF p78 =====
+Case 5: ShopOn
+Retail | Profitability Improvement
+Brainstorming Question
+Question: Now that we know that the apparel business is leading to the increased returns %, on 
+analyzing further we found that a large number of products had quality issues and hence were 
+being returned by the customer. What are the various costs that are involved with a return in the 
+apparel business and how can we reduce those?
+Solution
+Ways to reduce costs:
+•
+Customer to re-package before returning the order
+•
+Customer to be provided with sellers address to ship 
+returns directly 
+•
+Customer to be charged if the original product is 
+not returned within 30 days
+•
+Supplier contracts to be changed so that they bear 
+COGS in case of returns
+•
+Improve warehouse processes to ensure customers 
+are always sent the correct order
+Return without replacement:
+•
+Shipping & Inventory holding cost
+•
+Re-packaging if product is not damaged
+•
+Shipping cost to seller if product is damaged
+•
+COGS
+Return with replacement product:
+•
+Shipping cost
+•
+Inventory holding cost
+•
+Product cost if original product not returned
+•
+Shipping cost to seller if product is damaged
+•
+COGS
+74
+
+
+===== PDF p79 =====
+Case 5: ShopOn
+Retail | Profitability Improvement
+75
+Recommendations
+Risks
+Next Steps
+Recommendation:
+1.
+Reduce the returns % of
+apparels business by delisting
+products with poor rating
+2.
+Reduce the returns % of
+apparels
+business
+by
+onboarding
+verified
+sellers
+and blacklisting sellers with
+poor reviews
+3.
+Reduce the return costs by
+asking the customer to check
+the product at the time of
+delivery
+Risks include:
+1.
+ShopOn can lose market 
+share to a competitor, 
+especially in the apparel 
+business
+2.
+ShopOn might become 
+unpopular among sellers
+3.
+Customers might not be 
+available/comfortable to 
+open the product at the time 
+of delivery
+ShopOn should:
+1.
+Cost benefit analysis of 
+penalizing customers & 
+suppliers
+2.
+Competition’s seller 
+agreements to be reviewed, 
+so as to not be the unpopular 
+choice with sellers
+3.
+Specifications on the website 
+to be modified in case of 
+recurring issues
+4.
+Feedback and Blacklisting 
+process for sellers with 
+recurring issues
+5.
+Automated system to alert 
+both ShopOn and sellers if 
+product rating is below a 
+threshold

@@ -1,0 +1,144 @@
+===== PDF p46 =====
+Case 2: Magic Media 
+Type of Case: Auction/Bidding Strategy, Profitability 
+Difficulty: High  
+Our client, UK based Magic Media, is participating in an auction for the rights to broadcast the 2016 Quiddich World Cup. Magic Media is 
+a mature company that derives the vast majority of its revenues from selling TV advertisements. 
+What should we bid on the broadcasting rights?  What factors will affect our bid? 
+This case starts very heavy on assumption-based number crunching. As assumptions are updated, the candidate must correctly adapt 
+his/her answer with arithmetic logic. Finally, the candidate must provide some high level insights on auction dynamics. 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+42 
+
+
+===== PDF p47 =====
+Question – What are the key issues we need to examine? 
+• Determine our marginal TV revenue 
+• Know how long the World Cup runs, how many prime time and non-prime time advertisements can be shown, and what can be 
+charged for each 
+• Take into consideration that receipts are far into the future, but securing the license will require payment now 
+• Figure out how much our competitors will bid in the auction to determine if we should bid, and if so, how much 
+43 
+
+
+===== PDF p48 =====
+Background Information 
+(to be provided when requested by interviewee) 
+Competition 
+• Magic Media has 3 competitors in the auction 
+• There are 2 smaller US-based players that are looking to boost 
+their international presence, and would likely have considerably 
+higher production costs (and possibly lower advertising 
+revenues). They may be willing to loss-lead on the Quiddich 
+World Cup 
+• There is also 1 large UK-based player, which like Magic Media, is 
+a mature company. The UK competitor has similar economics as 
+the client 
+The Games 
+• The 2016 Quiddich World Cup will last 3 weeks, beginning with 
+the opening ceremony on a Sunday afternoon, and with the 
+final match and the closing ceremony on a Saturday evening 
+• We can broadcast 6 hours per weekday and 8 hours per 
+weekend. We can broadcast an extra 2 hours on ceremony days, 
+to allow for the length of the ceremony 
+• We expect heavier viewing during the weekday evenings (the 
+last 2 hours), as well as all the weekend days, with peak viewing 
+during the final day of games and the two ceremonies 
+Cost 
+• Due to the complicated logistics of the event, we will need to 
+spend an extra $10M to produce the broadcast over our normal 
+programming 
+Revenues 
+• We can show ads for no more than 10 minutes per hour, and we 
+charge double our normal rates, so $50K/min for non-prime, 
+$200K/min for prime, and $500K/min for peak (normally we 
+charge $25K/min, $100K/min and $250K/min, respectively) 
+44 
+
+
+===== PDF p49 =====
+Revenue Analysis 
+(NOT to be shown to interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+# of peak hours** 
+(Hours for final match + Hours for opening ceremony +  
+Hours for closing ceremony) 
+12 hours 
+# of prime hours** 
+(Prime hours per weekday * # of weekdays +  
+# Hours per weekend day * # of weekend days) 
+70 prime hours 
+# of non-prime hours** 
+(Non-prime hours per weekday * # of weekdays) 
+60 non-prime hours 
+Total revenue** 
+(# peak hours * Peak rate * 10 minutes +  
+# prime hours * Prime rate * 10 minutes +  
+# non-prime hours * Non-prime rate * 10 minutes) 
+$230M 
+Marginal profits 
+(Total revenue/2 – Extra production costs) 
+$105M 
+Details Around Calculations: 
+•
+Tournament lasts a total of 21 days, of which 15 are weekdays, 5 are normal 
+weekend days, and 1 is the final match day 
+•
+If 2 of 6 weekday hours are prime we have 30 prime hours on weekdays and 60 
+non-prime hours 
+•
+Combined with regular weekends we have another 40 prime hours totally 70 
+prime hours and 60 non-prime hours 
+•
+Adding the ceremonies and the final match day we have a total of 12 peak hours 
+•
+Candidates should recognize that extra viewership may spill over onto other 
+normal programming and may adjust the expected marginal revenue up 
+between $2.5M and $10M based on reasoned assumptions 
+45 
+
+
+===== PDF p50 =====
+Question – The World Cup takes place in 2016, but the auction is 
+this year.  How much is the future stream of revenue worth today? 
+Candidates should identify the time delay between purchasing the rights to broadcast and the receipts from advertisement sales.  If the 
+candidate inquires about interest rates, prompt him/her to make reasoned assumptions.  Some candidates may need prompting to do 
+this analysis. 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Cost of capital 
+Make an assumption 
+10% 
+Time period 
+Match will be held in 5 years (assuming it is 2011) 
+5 
+Marginal profits 
+Calculated earlier in case 
+$105M 
+Present value** 
+(Marginal profits) / ((1 + Cost of capital)^(Number of years until match)) 
+$65.2M 
+46 
+
+
+===== PDF p51 =====
+Recommendation 
+Risks 
+• In this case, Magic Media should bid below but close to the projected $65.2M 
+• But we will want to know more about past bidding behavior of the UK competitor, and  
+whether they are likely to risk losing the auction by underbidding (to increase gains) 
+• The smaller competitors add uncertainty to the overall mix, making underbidding even less 
+attractive 
+• Candidates should recognize that a bid “at value” is entirely acceptable, because it would 
+produce profits that meet the cost of capital.  However, the “at value” bid could be a 
+problem if the overall model is too optimistic (maybe by ignoring downside risks) 
+• Our projected revenues could be at risk if there is not sufficient demand to fill all the time 
+slots for advertisements at the given prices 
+• Over- or under-bid because of insufficient understanding of competitors’ positions 
+Case Closing 
+47 

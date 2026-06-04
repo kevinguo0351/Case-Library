@@ -1,0 +1,365 @@
+===== PDF p119 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Ganbei
+By Participant CB4
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+115
+
+
+===== PDF p120 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Ganbei
+PROMPT
+Your client, Salford Breweries, is a medium
+sized brewer who has recently experienced
+sales growth in the Chinese market. While
+this is excellent news, Salford Breweries is
+facing difficulty growing in a profitable
+manner.
+The CEO of Salford Breweries has been
+instructed by the board to improve the
+company’s net profit by 10% in 2019. She has
+asked for your help in achieving this target.
+CLARIFYING POINTS (if asked)
+• Revenue in 2018 was £220 million, and the net profit margin was 50%.
+• The client currently has three breweries, all of which are in the United Kingdom.
+• Sales in China is currently 360,000 hectolitres (hL), and 1.1M hL for the whole business (1 hL = 100L).
+• Salford Breweries currently only sells to the China and United Kingdom markets.
+• Salford Breweries sells a Lager, an IPA, and a Wheat Beer. The IPA became their best-seller in 2017.
+CASE GUIDANCE
+116
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+This is an interviewee led case, the candidate should suggest the next steps as much as possible.
+The case focuses on the cost side of a profitability framework.
+The case focuses largely on quantitative ability, but a good candidate will also discuss the qualitative risks.
+Once the candidate has completed a structure, direct them to investigate costs first, then provide them
+with Exhibit One. Once the candidate asks for more detail regarding sales, provide them with Exhibit Two.
+If required, the candidate should be guided to assume that revenues will remain flat from 2018 to 2019.
+Following Exhibits One and Two, candidates should realise that they are still short of target, and probe for
+opportunities to reduce fixed costs. If the candidate asks for information regarding the client’s production
+capacity, production capability, or fixed costs by brewery, provide them with Exhibit Three.
+Guidance regarding the quantitative and qualitative aspects of this case have been included following the
+exhibits, and as part of the brainstorming element.
+
+
+===== PDF p121 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+STRUCTURE GUIDANCE
+117
+SAMPLE STRUCTURE
+A good structure would, at minimum, touch on revenue and cost. The structure should also contain considerations regarding potential risks and
+capability challenges, given the international context of this case.
+A good candidate should touch on the key elements of a standard profitability framework, inclusive of:
+•
+Revenue
+•
+Quantity sold
+•
+Revenue per unit
+•
+Cost
+•
+Variable costs, inclusive of production and logistics costs per unit
+•
+Fixed costs, inclusive of brewery fixed costs, and other administrative and operational fixed costs
+A strong candidate would expand into considerations such as:
+•
+Capabilities required to export from the United Kingdom and import into China
+•
+Capabilities required to manage a Chinese division, with regards to sales, marketing, and other business units
+•
+Regulatory challenges, especially pertaining to the right to operate in an overseas market
+
+
+===== PDF p122 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+QUANTITATIVE ANALYSIS – EXHIBITS ONE AND TWO
+118
+Beer Type
+UK VC 
+per hL
+China VC 
+per hL
+China Demand
+Variable Cost 
+Impact
+Investment 
+Required
+Fixed Cost 
+Impact
+Net Cost 
+Impact
+Decision
+Total Cost 
+Impact
+IPA
+£85
+£45
+350,000
+-£14,000,000
+-£5,000,000 Proceed
+Lager
+£75
+£40
+0
+£0
+0 Proceed
+Wheat Beer
+£105
+£75
+10,000
+-£300,000
+£5,000,000
+£4,700,000 Do not proceed
+£5,000,000 £4,000,000
+-£5,000,000
+China Brewery Calculation
+The candidate should proactively calculate the benefit of transitioning Chinese sales to a new brewery in China. Only the IPA should be produced in
+China, as adding capability to produce Wheat Beer is not cost optimal, and there is currently no sales in China for Salford Breweries’ Lager.
+As such, the benefit of supplying Chinese sales for IPA from a new Chinese brewery is equal to the variable production cost differential, less ongoing
+fixed costs and less the investment required.
+The candidate should be encouraged to determine if this will achieve the CEO’s profit target. The £5M cost saving does not satisfy the target of £11M.
+SOLUTION
+2018 
+Revenue
+2018 
+Margin
+2018 
+Profit
+2019 
+Revenue
+2019 Profit 
+Target
+Cost Reduction 
+Target
+£220M
+50% £110M
+£220M
+£121M
+£11M
+CEO Target Calculation
+
+
+===== PDF p123 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+EXHIBIT ONE
+119
+Notes: Opening a production facility in China would require an upfront investment of £5 million for a 500,000 hL
+capacity brewery, with capability to produce both Lager and IPA. Capability to produce Wheat Beer is estimated to
+cost an additional £5 million. Fixed costs are estimated to be £4M per annum.
+* Includes logistics costs to China
+
+
+===== PDF p124 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+EXHIBIT TWO
+120
+
+
+===== PDF p125 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+QUANTITATIVE ANALYSIS – EXHIBIT THREE
+121
+SOLUTION
+Brewery
+Capacity
+Capacity Utilized 
+Now
+Capacity Utilized Post-
+China Transition
+Capacity Utilized 
+Post-Closure
+Capability Expenditure 
+to Produce IPA
+Fixed Cost 
+Impact
+Total Cost Impact of 
+Brewery Closure
+Sheffield
+750,000
+410,000
+410,000
+710,000
+£1,000,000
+0
+Manchester
+650,000
+650,000
+300,000
+-£7,500,000
+Hackney
+50,000
+40,000
+40,000
+40,000
+£0
+0
+China
+500,000
+0
+350,000
+350,000
+£0
+0
+-£6,500,000
+Brewery Footprint Rationalization Calculation
+A strong candidate will seek to understand the impact of opening a new brewery in China on the remainder of the client’s production network. Per case
+guidance, if a candidate asks for more detail regarding the capacity and/or capability of the client’s existing network, provide them with Exhibit Three.
+The candidate should then identify the opportunity to close the Manchester brewery, and calculate the benefit of doing so with consideration for fixed
+cost reduction, offset by the expenditure required to install IPA production capability at the Sheffield brewery. The total benefit of doing so is £6.5M,
+bringing the total benefit of proposed changed to £11.5M, exceeding the target of £11M.
+
+
+===== PDF p126 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+EXHIBIT THREE
+122
+Brewery
+Lager
+IPA
+Wheat Beer
+Fixed Costs 
+Per Annum
+Sheffield
+£1M
+£5M
+£10M
+Manchester
+£5M
+£7.5M
+Hackney
+£2.7M
+China (Estimate)
+£5M, £0 if IPA 
+capability exists
+£5M
+£5M
+£4M
+Production Capability by Brewery, CapEx required
+Capability already exists
+
+
+===== PDF p127 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+BRAINSTORMING QUESTION
+123
+SAMPLE ANSWERS
+What risks do you foresee regarding this change to Salford Breweries’ production network?
+Operational:
+•
+Product quality
+•
+Commissioning of Chinese brewery
+Financial:
+•
+Accuracy of fixed and variable cost estimates
+•
+Potential remediation/closure costs of Manchester brewery, including staff redundancies
+Public relations and regulatory:
+•
+Union/labour force reaction to brewery closure
+•
+Chinese consumer perception of Chinese produced beer
+•
+Will a joint venture be required to expand the client’s presence in China?
+
+
+===== PDF p128 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+FMCG
+Profitability
+Operations
+Easy
+Medium
+Hard
+Ganbei
+RECOMMENDATION QUESTION
+124
+SAMPLE RECOMMENDATION
+The CEO will join us in one minute to discuss our findings, how would you recommend she achieve her 2019 profit target?
+The candidate should recommend that:
+•
+Salford Breweries should open a brewery in China, which should have the capability to produce IPA and Lager, but not Wheat Beer.
+•
+Salford Breweries should close their existing Manchester brewery, and add capability to produce Lager at the Sheffield brewery.
+•
+The above changes will result in a cost saving of £11.5M, which exceeds the CEO’s target of £11M profit improvement.
+A great candidate would also briefly discuss relevant risks and next steps, including:
+•
+Operational risks, including potential challenges ensuring product quality and efficient scale-up of Chinese operations.
+•
+Financial risks, including accuracy of variable and fixed cost estimates of new brewery.
+•
+Risks pertaining to public relations, including impact of closing Manchester brewery.
+•
+Next steps: Determine feasibility of opening a brewery in China and scaling up operations in the country, quantify opportunity to introduce Salford
+Breweries’ Lager into the Chinese market.

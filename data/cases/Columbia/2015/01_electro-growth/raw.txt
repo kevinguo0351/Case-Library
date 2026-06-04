@@ -1,0 +1,163 @@
+===== PDF p9 =====
+Electro-Growth
+You have been hired by the head of business development at Electro-Growth, a large electronics 
+manufacturer in the U.S. The company is interested in increasing its revenue by manufacturing new 
+products. Currently, your division develops three kinds of products:
+1.
+Innovative Products – Brand new products that represent 10% of all products your division produces. 
+Each Innovative Product developed is expected to generate $40M in new revenue.
+2.
+New Versions of Products – New versions of existing products that represent 40% of all products your 
+division produces. Each New Version product is expected to generate $10M in new revenue.
+3.
+Current Products – Current products represent 50% of all products your division produces and does not 
+generate new revenue; it only guarantees consistent revenue from these products.
+You are contemplating restructuring your division to improve your capacity to produce new products. 
+Currently, it takes your division 24 months to develop an Innovative Product and 12 months to develop a 
+New Version of a product. After the restructuring it will take you 18 months to develop both products.
+Should you go ahead with restructuring?
+Problem Statement Narrative
+Difficulty:
+Medium
+Round: 
+2
+Industry:
+Electronics
+Case Type:
+Growth Strategy
+• Mental Math
+• Growth Strategy
+Concepts Tested
+Case: Electro-Growth
+5
+
+
+===== PDF p10 =====
+Electro-Growth
+Sample Framework
+The interviewee can discuss different issues that 
+arise from restructuring, such as:
+1. Potential Gains From Restructuring
+-
+More revenue from increased manufacturing of 
+innovative products
+-
+Improvement in company brand from having 
+more innovative products
+2. Potential Restructuring Costs / Difficulties
+-
+HR, R&D, and manufacturing costs of 
+restructuring (interviewee is then told 
+restructuring has no costs)
+-
+Loss of revenue from existing products due to 
+deprioritization
+-
+Competitive attack from other electronics 
+manufacturers developing new products more 
+fiercely
+As mentioned, the main issue is not the framework, 
+but the calculation of the revenue. Interviewer 
+should direct the interviewee to calculating gain / 
+loss from restructuring, regardless of the 
+framework.
+Sample Framework
+The main issue here is understanding how to set-
+up the math and completing it correctly: there is 
+one right answer. The interviewer should not focus 
+on the framework too much and instead push the 
+candidate towards doing the math. 
+Top candidates will realize that the math can be 
+simplified by assuming the company produces 10 
+total products: 1 (10%) innovative, 4 (40%) new 
+version, and 5 (50%) current.
+Guidance for Interviewer
+•
+There is no cost for restructuring and no 
+change in the cost structure after restructuring
+•
+There is no change in the relative quantities of 
+each type of product (innovative still represent 
+10%, new version still represent 40%, current 
+still represent 50%)
+•
+The only goal is to increase revenue from the 
+development of new products
+Clarification Answers if Asked 
+6
+
+
+===== PDF p11 =====
+Innovative Products:
+•
+$40M of revenue per product
+•
+24 months to develop 0.5 Innovative Products 
+per year
+•
+10% of products
+Yearly revenue: 1*$20M = $20M
+Before Restructuring
+Electro-Growth
+Sample Analysis
+New Versions of Products:
+•
+$10M of revenue per product
+•
+12 months to develop 1 New Version of 
+Products per year
+•
+40% of products
+•
+For each 1 innovative product developed, 4 new 
+versions are developed (10% / 40%); therefore, 
+yearly revenue: 4*$10M = $40M
+Total Yearly Revenue: $60M
+After Restructuring
+New Versions of Products:
+•
+$10M of revenue per product
+•
+18 months to develop 2/3 New Version of 
+Products per year
+•
+40% of products
+•
+For each 1 innovative product developed, 4 new 
+versions are developed (10% / 40%); therefore, 
+yearly revenue: 4*(2/3)*$10M ≈ $27M
+Total Yearly Revenue: $54M
+Innovative Products:
+•
+$40M of revenue per product
+•
+18 months to develop 2/3 Innovative Products 
+per year
+•
+10% of products
+Yearly revenue: (2/3)*$40M ≈ $27M
+7
+
+
+===== PDF p12 =====
+Electro-Growth
+Conclusion
+• Restructuring as planned will cause annual 
+revenue to drop from $60M to $54M
+Rationale
+• Electro-Growth should not move forward with 
+restructuring
+Recommendation
+• Devise new plan for increasing revenue 
+• Look into increasing the number of innovative 
+products developed, as they generate 
+substantially more revenue
+• Continue researching new ways to decrease the 
+time needed to develop products
+Next Steps
+• Cancelling restructuring could cause a stagnation 
+in growth
+• Competitors may be pushing forward more 
+innovative products
+Risks
+8

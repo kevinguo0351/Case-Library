@@ -1,0 +1,40 @@
+{
+  "case_id": "Fuqua_2021_14_changing-winds-under-the-sun",
+  "school": "Fuqua",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2021.pdf",
+  "idx": 14,
+  "case_name": "Changing Winds Under the Sun",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Oil & Gas",
+  "difficulty": null,
+  "pdf_page_start": 148,
+  "pdf_page_end": 163,
+  "n_pages": 16,
+  "exhibit_pdf_pages": [
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p153.png",
+    "exhibits/exhibit_p154.png",
+    "exhibits/exhibit_p155.png",
+    "exhibits/exhibit_p156.png",
+    "exhibits/exhibit_p157.png",
+    "exhibits/exhibit_p158.png",
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p161.png",
+    "exhibits/exhibit_p162.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2021\\14_changing-winds-under-the-sun"
+}

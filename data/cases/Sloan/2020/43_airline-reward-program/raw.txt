@@ -1,0 +1,188 @@
+===== PDF p177 =====
+Casebook | 2019-20 Edition 
+173 
+ 
+43. Airline Reward Program (McKinsey R1, Transportation, New 
+Product, Quantitative) 
+ 
+Question 5: 
+Our client is a major global airline considering a co-branded credit card with a major bank. They’ve hired 
+McKinsey to evaluate what the effects of this program would be, and whether or not they should revise 
+their loyalty program to incorporate the co-branded card. 
+ 
+Interviewer: As the airline, what are the benefits and risks you would think about when evaluating the co- 
+branded credit card? 
+ 
+Candidate should be sure to structure his/her response. 
+ 
+Candidate: 
+ 
+Benefits 
+Risks 
+● 
+Reach the bank depositors and/or credit card 
+holders to expand loyalty members 
+● 
+Increased customer loyalty leads to increased 
+revenues; customers will fly the airline more 
+often to obtain more points 
+● 
+Possible revenue-sharing opportunities with 
+credit card company (i.e. 1% of interest 
+payments, etc) 
+● 
+Counterparty risk: one bank 
+● 
+Large overlap between current loyalty 
+customers and bank customers 
+● 
+Mispricing of miles sold to credit-card company 
+● 
+Who’s going to cover marketing costs? 
+ 
+Phase 1: Pricing 
+ 
+Interviewer: Great. The way the program would be structured is the bank would purchase batches of 
+miles from the airline to give away as rewards for purchases & promotions. How would you think about 
+the price of a mile in this situation? 
+ 
+Candidate: Well, we could think about the price of a ticket, how many miles/points it takes to ‘buy’ a 
+ticket, and use those to calculate the value of a mile. 
+ 
+Interviewer: Great. So, we know that the average purchase is about $50 and that a customer will make 
+an average of 1,000 purchases per year. For every dollar purchased, a customer gains 1 point. Flights on 
+average cost $500 dollars. 
+ 
+Candidate: Ok, so we know that on average, a customer will use the credit card for $50,000 ($50 * 1,000 
+purchases/year) in purchases, which translates into 50,000 points per year. We also know the flights cost 
+$500 dollars each. However, we’re missing one piece, namely the # of flights a customer could take per 
+year with the 50,000 points. Do we know what the exchange rate of points to flights would be? 
+ 
+Interviewer: Yup, 10,000 points per flight. 
+ 
+Candidate: Okay, so with 50,000 points on average, a customer could redeem 5 flights. At $500 dollars 
+each, the retail value of these 5 redemptions is $2,500. This translates into a retail value of about 5 cents 
+per point ($2,500/$50,000). One quick clarification. I know I don’t always exchange my miles at the end of 
+every year, so do we know the probability that a customer will redeem their miles at the end of the year? 
+ 
+Interviewer: Yes, it’s about 50%. 
+ 
+Candidate: Ok, so in expectation, a mile is worth 2.5 cents. So we would want to price the mile between 
+2.5-5 cents when selling it to the credit card company. 
+ 
+Phase 2: Frequent Flier Program 
+
+
+===== PDF p178 =====
+Casebook | 2019-20 Edition 
+174 
+ 
+Interviewer: Great. Now let’s switch gears a little. We previously talked about the airline’s plan to 
+overhaul their frequent flier mile program. Currently, the program looks like this: 
+ 
+Miles Range 
+Status 
+Benefits 
+0 – 25,000 
+Member 
+● Miles flown accrue to reward balance 
+25,000-50,000 
+Super Member 
+● Miles flown accrue at 25% bonus 
+● Free upgrades when available after SAM & SDAM 
+50,000-100,000 
+Super-Awesome 
+Member (SAM) 
+● Miles flown accrue at 50% bonus 
+● Free upgrades after SDAM fliers considered 
+● Free access to president’s lounge on international 
+flights 
+● Free drink coupons in event of delays 
+>100,000 
+Super-Duper-Awesome 
+Member (SDAM) 
+● Miles flown accrue at 75% bonus 
+● Free upgrades when seats available 
+● Access to president’s lounge for free 
+● Free drink coupons in event of delays 
+ 
+The airline is considering revising the program such that it takes 1,000 miles to gain 1 point. Also, once 
+they reach a specific level, their points reset back to zero. Under the new point system, it will take 20 
+points to get to Super, 40 points to get to Super Awesome, and 60 points to get to Super Duper 
+Awesome. Based on the airline customers, we know they fly according to this distribution: 
+ 
+So, can you calculate the impact on the customers in the rewards program? 
+ 
+Candidate: Sure, let me build a quick table for the percentage of customers that fall into each status 
+under both the old system and the new. For the old system, I will assume that percentages are evenly 
+distributed across the number of miles so that I can get approximate percentages. Under the new 
+program, I am interpreting the resetting function as follows: It will take 20,000 miles to make it to Super. 
+To get to Super-Awesome, it will take 20,000 miles + 40,000 miles = 60,000 miles, because the mile 
+count resets to zero once the customer reaches Super. Following the same logic, to reach Super-Duper- 
+
+
+===== PDF p179 =====
+Casebook | 2019-20 Edition 
+175 
+ 
+Awesome, it will take 120,000 miles (20,000 + 40,000 + 60,000). Knowing this, we have the new, 
+compared to old, distribution as: 
+ 
+Old System 
+Old Percentage 
+New System 
+New Percentage 
+Member 
+0-25,000 
+40%+ ¼ * 20% = 
+45% 
+0-20,000 
+40% 
+Super 
+25,000-50,000 
+¾*20% + ½*15% = 
+22.5% 
+20,000-60,000 
+20%+15% = 35% 
+Super-Awesome 
+50,000-100,000 
+½*15% + 7.5% + 
+4% = 19% 
+60,000-120,000 
+7.5%+4%+4% = 
+15.5% 
+Super-Duper- 
+Awesome 
+>100,000 
+100% - (45% + 
+22.5% + 19%) = 
+13.5% 
+>120,000 
+100% - (40% + 
+35% + 15.5% = 
+9.5% 
+ 
+Interviewer: Great. So, what do you think this might mean for the airline? 
+ 
+Candidate: They’re going to have to handle this carefully since some of their most frequently flying 
+members are losing their status. However, they have made it easier to get to the Super level compared to 
+the old system. 
+ 
+Interviewer: Exactly. So how might the airline go about communicating something like this? 
+ 
+Candidate: They want to promote the fact that they are making it easier to gain perks on their airline. But 
+they don’t want to lose their high-volume customers, as they may be a big contributor to profitability 
+compared to the lower volume flyers. In order to do this, I think they need to consider revising the perks to 
+make the initial change easier. Maybe they change the bonus percentages at which miles flown accrue, 
+making things more attractive for the frequent fliers with higher status (so instead of 25%, 50%, 75%, 
+maybe 33%, 67% and 80%). Another option might be to grandfather in current customers so that they are 
+in whichever status is higher – current vs. original. 
+ 
+As far as the media used, they should definitely use e-mail, maybe personal mailing, calls to their high- 
+volume customers, incorporate it into the pre-flight safety video, etc. 
+ 
+Interviewer: Great. So, you’re sitting down with the CEO, what do you tell her? 
+ 
+Candidate: Link the rewards program to the segment of customers that are the most profitable (as this 
+may not always be the highest volume customers based on the amount of perks they are receiving 
+already). 

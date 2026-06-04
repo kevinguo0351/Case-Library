@@ -1,0 +1,96 @@
+===== PDF p154 =====
+Round 1
+Case 21: RDTC
+Prompt
+RDTC is a large public accounting firm with over $3B in revenues and over 8,000 employees. Over the past 
+three years the firm has been working to overcome challenges identified in their practice through an 
+organization-wide change initiative. There are two key components of this change initiative—a brand new 
+technology called LCS and a suite of tools, resources, and methodologies to ensure streamlined processes 
+called RDTC Project Management.  RDTC Project Management (RDTC PM) is the driving force behind the 
+new RDTC Methodology to performing audits while LCS is simply the new software that will allow auditors to 
+successfully execute this new methodology.  This is also the first time in the history of the organization that 
+project management has been emphasized and used to evaluate performance of staff. 
+RDTC is entering the third year of this change initiative and is at a critical inflection point with both LCS and 
+RDTC PM. LCS has rolled out to all of the small and medium project teams but is now set to deploy to all 
+large accounts. These large accounts bring in the most revenue for RDTC, have the largest teams, require 
+the most staff hours, and have most senior audit partners leading them. 
+Deployment of RDTC PM has had several challenges. One of the most important aspects has been the role 
+creation and hiring of 50 new, full-time project managers to enhance RDTC’s project management 
+capabilities; thereby ensuring a consistent methodology for performing audits.  RDTC forecasted that the 50 
+new project managers would be assigned to the 70 largest project teams by this year. So far only 20 have 
+been hired and assigned to 30 project teams teams. In addition, the existing project managers have met 
+resistance from the account teams who are not accustomed to having project management oversight. 
+The adoption of this change initiative is essential to ensuring that RDTC stays competitive in the 
+market and avoids penalties from the oversight board. They want you to develop a plan for the next 
+year of their change initiative. They want these questions and considerations addressed in your plan:
+How do we prioritize the challenges that their change initiative is facing?
+What should they consider as LCS prepares to deploy to large engagements?
+How can we attract new project managers and focus on ensuring success of the ones?
+Possible 2nd level question if candidate brings up issue: The other 30 project teams have started assigning 
+project management responsibilities to people within their team instead of waiting on a trained project 
+manager. What are the potential risks associated with this approach? How would you address this problem?
+150
+
+
+===== PDF p155 =====
+Guidance
+Guiding Questions: 
+When was the last time RDTC updated its software?
+They have been operating on their legacy system for the past 15-20 years, so not recently.
+How successful was the LCS roll out to small and medium engagements?
+It was met with a lot of resistance from audit personnel. To convert to LCS, engagement teams are supposed to submit 
+software conversion requests. Teams consistently missed deadlines to submit conversion requests
+How is RDTC organized?
+They are organized in regional divisions—East, West, and Central. Each region has the same leadership structure with one 
+regional president, VP, and office leads. The project teams’ clients are all within their region. Project Managers are 
+supposed to be assigned to project teams within their region, but because there is a shortage many have had to work with 
+teams outside of their region.
+What slowed the hiring of new project managers? (If they ask this question—ask them to brainstorm ideas first.)
+Several things have slowed progress. 
+1. The career path for new project managers is not fully established thereby reducing the attractiveness of the option
+2. The training has not been fully developed so leadership does not feel comfortable with hiring additional project 
+managers
+3. The opportunity has not been communicated across the organization
+4. Right now they are only recruiting internally at experienced auditors who desire a career change, but could be open to 
+considering outside candidates
+Is there anything preventing them from hiring new project managers?
+Right now, they are waiting until the end of busy season to hire additional project managers. They will not be able to hire 
+anymore for six months.
+Is engagement team leadership bought in to this initiative?
+Because senior managers, partners, and directors are accustomed to the legacy technology, many have not submitted 
+request to convert to LCS and are reluctant to do so. Many of them also do not understand the benefits of project 
+management and do not understand the purpose of project managers. There are a few champions within the 
+organization however, but everyone is not aligned on what this change means
+Case 21: RDTC
+151
+
+
+===== PDF p156 =====
+Performance 
+Evaluation
+Candidates have the opportunity be creative in their approach and framework, but should clearly create and 
+communicate their structure and plan. Feel free to ask probing questions in any of these areas to push the candidate to 
+think further on these topics. A good framework should include these elements and considerations. 
+The candidate should avoid discussing what competitors are doing and should think more broadly than a tech adoption 
+case.
+An exceptional candidate will also consider 
+PEOPLE
+Leadership alignment: Importance of change coming from leadership; How to ensure key stakeholders are aware of 
+benefits and are communicating that to direct reports; How do we get all of leadership bought in to change initiative 
+Candidate could discuss a change curve to prioritize who is most important and how to encourage adoption of initiative
+Learning: Onboarding training program for new project managers is critical as the organization is creating a new role; 
+Develop tools and resources for engagement teams who do not have a project manager yet; What type of learning 
+should be developed for project teams that are unfamiliar with project management oversight
+Possible development of a Center of Excellence for both areas of change initiative
+Key Stakeholders: Audit personnel; Engagement teams; Leadership; Clients; Current project managers and potential 
+candidates
+PROCESSES
+Communications: How is RDTC communicating the availability of the project manager role?; Use of strategic 
+communications to announce technology change and benefits of change initiative to engagement teams
+Project Management: How to handle engagement teams who have not been assigned a project manager; How to 
+utilize existing project managers so they are not too stretched
+TECHNOLOGY
+LCS adoption: Perform a pilot and phased roll out; Identify “Super Users” or utilize “Train the trainer” philosophy to help 
+auditors understand and use new technology 
+Case 21: RDTC
+152

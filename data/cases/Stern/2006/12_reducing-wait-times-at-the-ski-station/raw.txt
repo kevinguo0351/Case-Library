@@ -1,0 +1,393 @@
+===== PDF p50 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+46
+Reducing Wait Times at the Ski Field 
+ 
+Opening 
+The manager of a ski field has hired you to analyze how the time that skiers 
+spend in the queue can be reduced. There are two options: increase the 
+speed of the ski lift or build another equal lift. There are no budget 
+constraints in the decision. 
+ 
+The ski field, with one lift and one slope, has a limit of 200 skiers and is full 
+every day. The lift has a speed of 5 skiers per minute and it takes 10 
+minutes for the lift to carry a skier to the top of the slope. Skiers take 5 
+minutes on average to ski down and get in the queue again. 
+ 
+Which of the two options would you recommend the manager pursues? 
+ 
+Answer 
+The recommended approach to this problem is as follows: 
+1. Find the time skiers spend in the line (25 minutes, see below) 
+2. Analyze first option: Increase the speed of the lift, e.g. 5 minutes. 
+That would actually increase the queue time to 30 minutes (see below) 
+3. Analyze second option: build another lift, that would decrease the 
+queue time to 5 minutes (see below) 
+4. The mountain can hold the double of skiers if another lift is built (told 
+only if asked) 
+ 
+There are two methods one might take to calculate the queue time 
+ 
+1st option 
+ 
+Ski lift 
+*  ( 
+Min 
+cue 
++ 
+Min lift 
++ 
+Min 
+skiing 
+) 
+= 
+# skiers 
+/ 
+# lifts 
+5 
+  
+X 
+  
+10 
+  
+5 
+  
+200 
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Starting case   
+  
+  
+A: Increase speed 
+  
+  
+  
+B: Add a ski lift   
+  
+# skiers 
+200 People 
+  
+# skiers 
+200
+people 
+  
+# skiers 
+200
+people 
+Ski lift 
+5 
+per / 
+min 
+  
+Ski lift 
+5
+per / 
+min 
+  
+Ski lift 
+5
+per / 
+min 
+# lifts 
+1   
+  
+# lifts 
+1
+  
+  
+# lifts 
+2
+  
+Min lift 
+10 Min 
+  
+Min lift 
+5
+min 
+  
+Min lift 
+10
+min 
+Min skiing 
+5 Min 
+  
+Min skiing 
+5
+min 
+  
+Min skiing 
+5
+min 
+Min cue 
+25 Min 
+  
+Min cue 
+30
+min 
+  
+Min cue 
+5
+min 
+ 
+ 
+
+
+===== PDF p51 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+47
+2nd option 
+ 
+Ski lift 
+5 
+skiers/min 
+  
+  
+Ski lift 
+5 
+skiers/min 
+  
+  
+Ski lift 
+5 
+skiers/min 
+  
+  
+Lift 
+10 
+Min 
+  
+  
+Lift 
+5 
+min 
+  
+  
+Lift 
+10 
+min 
+  
+  
+Skiing 
+5 
+Min 
+  
+  
+Skiing 
+5 
+min 
+  
+  
+Skiing 
+5 
+min 
+  
+  
+Skiers 
+200 
+Skiers 
+  
+  
+Skiers 
+200 
+skiers 
+  
+  
+Skiers 
+200 
+skiers 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Starting case 
+  
+  
+A: Increase speed 
+  
+  
+B: Add a ski lift 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Speed 
+Time 
+  
+  
+  
+Speed 
+Time 
+  
+  
+  
+Speed 
+Time 
+Lifts 
+  
+Lift 
+5 
+10 
+50 
+  
+Lift 
+5 
+5 
+25 
+  
+Lift 
+5 
+10 
+2 
+100
+Skiing 
+5 
+5 
+25 
+  
+Skiing 
+5 
+5 
+25 
+  
+Skiing 
+5 
+5 
+2 
+50
+Cue 
+5 
+X 
+125   
+Cue 
+5 
+X 
+150 
+  
+Cue 
+5 
+X 
+2 
+50
+Total 
+  
+  
+200   
+Total 
+  
+  
+200 
+  
+Total 
+  
+  
+  
+200
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Min 
+cue 
+25 
+Min 
+  
+  
+Min 
+cue 
+30 
+min 
+  
+  
+Min 
+cue 
+5 
+min (*) 
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+(*) With two lift the minutes in the cue are calculated as (50/2) / 5 = 25
+ 
+ 
+ (The interviewee can use another hypothesis for lift time reduction in option 
+A; but the conclusion must be the same) 
+ 
+ 
+Conclusion 
+Building a new lift is a better option for queue time reduction. 
+ 
+If there is time, you could ask the interviewee to brainstorm additional 
+measures the manager might take to reduce queue time (e.g. build a 
+cafeteria, lengthen the run, increase ticket’s price, etc.) 
+ 

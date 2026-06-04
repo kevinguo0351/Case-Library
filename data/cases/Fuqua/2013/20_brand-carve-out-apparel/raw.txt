@@ -1,0 +1,395 @@
+===== PDF p160 =====
+- 156 -
+Brand Carve Out – Case Overview
+Business Situation
+Deloitte has been asked to help the client, Coffee, evaluate the hold or sell decision. Coffee is a large multinational woman’s 
+clothing retailer with worldwide revenues of over $3B in 2011. They sell sports, formal and casual apparel. The company as 
+a whole has been performing strongly and has emerged out of the financial crisis with strong sales growth and many 
+investment opportunities. Despite the company’s strong performance overall, its American operation has an underperforming 
+brand that they have put up for review and have also closed some of the brand’s associated stores.
+The American operation has two major umbrella brands: a formal wear brand bearing the same name as the company, 
+“Coffee,” and a casual wear brand named “Tea.” The brands are sold through the following channels:
+• Coffee branded retail stores: $200M in annual revenues
+• Tea branded retail stores: $20M in annual revenues
+• Coffee branded outlet stores: $150M in annual revenues
+• Wholesale sales to major retail chains (e.g., Macy’s): $600M in annual revenues
+The Tea brand has historically been neglected because management has focused its resources on the core business – the 
+Coffee brand. Nonetheless, the Tea brand has consistently put up a profit with minimal management attention and capital re-
+investment. Essentially, Coffee wishes to understand whether they are better served by divesting the Tea brand and 
+refocusing their attention on their core Coffee brand business or holding the Tea business and simply “milking the cash cow.”
+Problem Statement
+Deloitte Consulting has been approached by Coffee to assess whether Coffee should hold or sell the Tea brand. 
+1. Using the “terms of the sale” from the data sheet, find the associated revenues for 2012 that the buyer would 
+receive from buying Tea and compare that to the associated revenue that Coffee could maintain by not selling Tea? 
+2. How would you value the sale scenario and hold scenario? Present your findings.
+3. If Coffee decides to hold the Tea brand, how long will it take for the cash flow from Tea to equal the amount of 
+money that Coffee would have received through selling Tea? Note: Please use $50M as the sales price.
+4. Based on your analysis, what would you recommend to Coffee?
+5. Are there any other relevant issues that may affect the valuation or the divestment decision?
+
+
+===== PDF p161 =====
+- 157 -
+Brand Carve Out – Data Sheet
+Number of Retail Stores
+Start of 2010
+Start of 2011
+Start of 2012
+Coffee 
+branded 
+stores
+100
+125
+150
+Tea 
+branded 
+stores
+45
+32
+20
+Revenue Multiples: Consumer Product
+Transactions in the U.S.
+Revenue 
+multiple
+Deal size 
+($M)
+Deal date
+Transaction A
+0.6
+147
+January 2011
+Transaction B
+0.7
+300
+March 2011
+Transaction C
+0.9
+180
+April 2010
+Transaction D
+0.6
+70
+October 2010
+Transaction E
+1.9
+5
+November 2007
+General Information
+• Management has decided that the terms of the sale will 
+be as follows:
+‒ Sale of Tea brand will include only Tea’s branded 
+product sales in Tea’s retail channel and Tea’s 
+wholesale business
+‒ Buyer will not have access to Coffee’s Outlet stores or 
+Coffee branded retail stores for distribution
+Tea Brand Business Historical Performance
+(% of sales)
+2009
+2010
+2011
+Revenues
+100%
+100%
+100%
+Gross Profit
+23%
+23%
+22%
+EBIT
+12%
+11%
+10%
+SG&A
+5%
+6%
+6%
+COGS
+77%
+77%
+78%
+Note: Contains all sales of Tea Brand Products
+Brand vs. Channel Sales CY2011
+($M)
+Coffee 
+branded  
+retail stores
+Tea branded 
+retail stores
+Coffee 
+branded 
+outlets
+Wholesale
+Coffee 
+Brand 
+products
+180
+10
+120
+540
+Tea Brand 
+products
+20
+10
+30
+60
+Note: All store closings and openings occur at the start of the 
+calendar year. Number of outlet stores remains constant
+Note: Sales in the Wholesale channel are expected to 
+remain unchanged in CY2012
+
+
+===== PDF p162 =====
+- 158 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+1a. Using the terms of the sale from the data sheet, find the associated revenues for 2012 that the 
+buyer would receive from buying Tea? 
+(Note to interviewer: Please provide candidate with data sheet)
+General Approach: (Interviewer can mention that the terms of the sale are available on the data 
+sheet given their importance)
+Candidate should do the following:
+1. Isolate the revenues of the part of the business being put up for sale
+2. Scale the Tea retail revenues by the proportion of stores that will remain open at the beginning of 
+2011 (20/32 = 0.625)
+A good answer will isolate the likely revenues based on the terms of business for sale and scale the 
+retail stores by the amount of stores open at the beginning of 2012:
+Brand Carve Out – Isolate Revenues for Sell & Hold Scenarios
+($M)
+Coffee branded  
+retail stores
+Tea branded 
+retail stores
+Coffee branded 
+outlets
+Wholesale
+Total Revenues
+Tea 
+Revenues
+-
+6.25
+(10 x 0.625)
+-
+60
+66.25
+
+
+===== PDF p163 =====
+- 159 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+1b. Using the terms of the sale from the data sheet, find the associated 2012 revenue that Coffee 
+could maintain by not selling Tea? 
+General Approach:
+Candidate should do the following:
+1. Isolate the revenues of Tea sales through all channels
+2. Scale the retail revenues by the proportion of stores open at beginning of the year: number of Tea 
+retail stores goes down (20/32 = 0.625); number of Coffee retail stores goes up (150/125 = 1.2)
+Brand Carve Out – Isolate Revenues for Sell & Hold Scenarios
+($M)
+Coffee branded  
+retail stores
+Tea branded 
+retail stores
+Coffee branded 
+outlets
+Wholesale
+Total Revenues
+Tea 
+Revenues
+24
+(1.2 x 20)
+6.25
+(0.625 x 10)
+30
+60
+120.25
+
+
+===== PDF p164 =====
+- 160 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+2.   How would you value the sale scenario and hold scenario?  Please use available data to 
+support your argument
+(Note to interviewer: Please provide candidate with data sheet)
+General Approach:
+Candidate should do the following:
+1. Take revenues calculated from previous question
+2. Refine revenue multiple to adjust for outliers and dated information
+3. Apply revenue multiples to value the two scenarios
+Brand Carve Out – Value Hold & Sale Scenario
+Scenario
+Total Revenues
+Tea Sale Scenario
+66.25
+Tea Hold Scenario
+120.25
+Revenue 
+Multiple
+Deal Size 
+($M)
+Deal Date
+Transaction A
+0.6
+147
+January 2011
+Transaction B
+0.7
+300
+March 2011
+Transaction C
+0.9
+180
+April 2010
+Transaction D
+0.6
+70
+October 2010
+Transaction E
+1.9
+5
+November 2007
+Unadjusted 
+Average
+0.9
+Adjusted 
+Average
+0.7
+Revenue Multiples Calculation
+
+
+===== PDF p165 =====
+- 161 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+2.  How would you value the sale scenario and hold scenario?  Please use available data to 
+support your argument    (Note to interviewer: Please provide candidate with data sheet)
+Valuation:
+Good Answer:
+•
+Sale Scenario – Take $66.25M and capitalize by revenue multiple of 0.9 to value the company for sale at ~$60M
+•
+Hold Scenario – Take $120.25M and capitalize by revenue multiple of 0.9 to value the company for sale at ~$108M
+Better Answer: Candidate suggests Transaction E be removed because it is dated and reflects inflated, pre-crash asset 
+prices
+•
+Sale Scenario – Take $66.25M and capitalize by revenue multiple of 0.7 to value the company for sale at ~$46M
+•
+Hold Scenario – Take $120.25M and capitalize by revenue multiple of 0.7 to value the company for sale at ~$84M
+Great Answer: will include the above, but the candidate would also mention the following points and how each may 
+affect the valuation:
+Sale Scenario:
+•
+The ability to capture some of the existing demand for the Tea brand currently satisfied through Coffee branded retail 
+stores and coffee branded outlets (i.e., a portion of each of the $20M and the $30M)
+–
+Buyer may have existing channels that can satisfy the dormant demand; or buyer can build channels from 
+scratch
+•
+Buyer is also purchasing the remaining store leases as part of its purchase price, so ability to fill up space in Tea 
+stores currently filled by Coffee branded products may also attract a slight premium
+•
+Coffee’s ability to replace the lost revenue streams associated with the sale will improve the attractiveness of the sell 
+scenario but should be wary of the buyer seeking a discount for having to replace the lost revenue streams
+Hold Scenario:
+•
+Candidate should compare Coffee’s return on investment to Tea’s to determine if there is any merit in investing 
+money into Tea to turn it around.
+Brand Carve Out – Value Hold & Sale Scenario
+
+
+===== PDF p166 =====
+- 162 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+3. If Coffee decides to hold the Tea brand, how long will it take for the cash flow from Tea to 
+equal the amount of money that Coffee would have received through selling Tea? 
+Note: Please use $50M as the sales price in the calculation, ignore time value of money
+Good Answer:
+•
+Using $120.25M of revenue from question 1b, candidate will need to use the 10% EBIT margin.  
+•
+10% * 120.25M = $12M per year
+•
+Breakeven would occur $50M/$12M or slightly past 4 years 
+Better Answer:
+•
+Candidate should realize that EBIT is not the true cash flow and should take taxes out
+•
+Assuming 40% tax rate, net earnings % would be 6%
+•
+6% * 120.25 = $7.2M  per year
+•
+Breakeven would occur $50M/$7.2M or about 7 years 
+Brand Carve Out – Value Hold & Sale Scenario
+
+
+===== PDF p167 =====
+- 163 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+4. Based on your analysis, what would you recommend Coffee do?
+The candidate should compare the value of the sale scenario (~$46M) to the hold scenario (~84M). 
+Based on the analysis, the conclusion should be to hold onto the Tea brand. The candidate should at 
+minimum recommend that Coffee pursue the scenario with the higher valuation.
+A good answer will draw the following conclusions from the data provided:  
+If candidate chooses to hold Tea, the candidate should mention:
+• Its value to Coffee exceeds the sell case
+• There may be an opportunity to improve the performance of Tea that may require extra investment:
+‒ Open more Tea retail stores
+‒ Enterprise cost reduction program
+‒ Take brand international
+‒ Take brand to a broader range of potential wholesale clients (e.g. independent retailers)
+• Holding Tea could allow the retail business to continue to leak value. The combined effects of store 
+closures and steady decline in EBIT margin (12% in 2009 to 10% in 2011)  has resulted in a 
+significant reduction in Tea’s retail profits. The bulk of Tea’s value increasingly lies with the wholesale 
+business
+• Mention the declining trend in the Tea retail outlets and have Coffee assess whether that is potentially 
+harmful to the overall business 
+If candidate chooses to sell Tea, the candidate should mention:
+• Some revenue streams from Tea branded goods are likely to be readily replaced by Coffee’s 
+operations
+• Allows Coffee to gain as much as possible for the Tea retail business before it loses more value
+• Mention the fact that as long as the trend continues to close the Tea stores, the valuation for Tea may 
+go down
+Brand Carve Out – Recommendation & Other Issues
+
+
+===== PDF p168 =====
+- 164 -
+Prompt Questions and Responses (For interviewer reference ONLY)
+5. Are there any other relevant issues that may affect the valuation or divestment decision?
+A good answer will be logically structured to address various business considerations 
+including:
+• Overall business strategy for woman’s apparel: Does Tea’s brand, product mix, and styling fit 
+within the overall strategy of Coffee’s vision? This is potentially an overriding factor in the decision 
+to buy or hold the business
+• Ability to Change: In a hold scenario, does Coffee have the appetite to fully implement the changes 
+required to halt the slide of Tea?
+• Impact to Remaining Revenue Streams: Candidate should explore the impact that a divested 
+business unit will have on the portions of the business that remain 
+• Potential Buyers: Who are the prospective buyers for the business, and what are the potential 
+issues with making a deal with each one? E.g., Private Equity: Potential carve out experience, but 
+unlikely to overpay for asset.  If they do not have other similar businesses in their portfolio, will 
+need to set up their own back office functions. Strategic buyer: May take brand up or down market; 
+an existing retail buyer may want to close the rest of the Tea retail stores; lack of back office will 
+make it difficult for some buyers to do a “bolt-on” business.
+• Transaction Costs:Banker costs and potential loss of management focus on the core business 
+during deal will make sale scenario less attractive 
+• Stranded Costs: there may be services across the two brands that are shared and may be 
+stranded upon sale
+Brand Carve Out – Recommendation & Other Issues
+
+
+===== PDF p169 =====
+- 165 -
+Brand Carve Out
+Wrap Up  
+Divestitures are often an effective tool for a business to sharpen its focus on its core activities and 
+free up proceeds to invest in areas of high growth. The client needed to understand whether the 
+decision to sell a brand was a good idea, which required a thorough understanding of what a sell 
+scenario or hold scenario would look like financially
+In this situation, Deloitte was brought in to help the client to evaluate the hold or sell decision
+The Deloitte team assisted the client by:
+– Carving out the brand and determining the value of the brand to the company in both the hold 
+and sell scenarios
+– Conducting commercial diligence to maximize the value of the sale for the client
+– Working with Deloitte’s Financial Advisory Services Practice to conduct sell side transaction 
+advisory and execution services
+– Implementation planning to minimize any stranded costs left with sell-side post -transaction
+Deloitte is viewed as a trusted M&A strategy advisor to the client and has conducted numerous 
+projects to execute the transaction

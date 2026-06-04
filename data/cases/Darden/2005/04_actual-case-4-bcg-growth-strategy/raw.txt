@@ -1,0 +1,63 @@
+===== PDF p12 =====
+Actual Case #4 
+Company: BCG 
+ 
+Case Description 
+Growth strategy/operations strategy 
+ 
+Question 
+Mexican sewing machinery manufacturer is our client.  Their industry is growing 
+annually at 20%.  Their sales, however, have been stagnant.   
+ 
+What is the cause of their stagnation, and what can they do? 
+ 
+Initial data to be given  
+Competition: 
+There have been new, foreign entrants into the marketplace.  The existing players are 
+small and irrelevant (they do not account for the growth). We have 35% of the market, 
+and the foreigners have taken 10%. 
+ 
+Price: 
+The machines are priced differently: $100K vs. $150K.    
+ 
+Technology & Quality: 
+There is a difference between the quality of the sewing machines we manufacture and 
+ones the foreign companies manufacture. All the machines have the same throughput, but 
+the foreign machines produce less errors in their material: 1% vs. 1.5 to 2% in our 
+client's. The cost of errors in manufacturing is $2 per unit of material.   
+ 
+Additional data to be provided when asked 
+Customers: 
+There is a difference in the customers (purchasers of machinery) between our client and 
+their foreign competitors. Specifically, the customers of the foreigners are international 
+themselves, and their quality standards are higher (they are the Wal-marts of the world, as 
+opposed to local Mexican buyers). They buy the sewing machines locally and export 
+them. 
+ 
+The growth in demand of machinery is entirely accounted for by foreign materials 
+demand (buyers like Wal-mart) for higher-quality materials. 
+ 
+Currently, our client is not exporting any sewing machines. 
+ 
+Frameworks that might be used 
+Cost-benefit comparison followed by an analysis of the buyers' market (from Porter's) 
+ 
+Darden Casebook Supplement 2005 Version 1.0 
+7
+
+
+===== PDF p13 =====
+Solution 
+A cost-benefit analysis shows that our machines are better: (throughput per day x days in 
+a year x error differential x cost of error) > $150K - $100K.   
+ 
+It turns out that our client's customers are buying foreign machines because that is where 
+the growing demand is (foreign markets).   
+ 
+Future strategy: 
+Interviewee should can talk about forming a relationship with Wal-Mart to export sewing 
+machines. However, this area cannot be explored fully without knowing our production 
+capacity. 
+ 
+Darden Casebook Supplement 2005 Version 1.0 
+8

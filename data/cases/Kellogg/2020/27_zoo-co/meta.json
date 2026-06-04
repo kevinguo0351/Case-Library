@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2020_27_zoo-co",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 27,
+  "case_name": "Zoo Co",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 282,
+  "pdf_page_end": 290,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    285,
+    286,
+    289,
+    290
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p285.png",
+    "exhibits/exhibit_p286.png",
+    "exhibits/exhibit_p289.png",
+    "exhibits/exhibit_p290.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\27_zoo-co"
+}

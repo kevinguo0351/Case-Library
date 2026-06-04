@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2018_10_orange-retailer-co",
+  "school": "Kellogg",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2018.pdf",
+  "idx": 10,
+  "case_name": "Orange Retailer Co.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 82,
+  "pdf_page_end": 87,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    82,
+    83,
+    84,
+    86,
+    87
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p082.png",
+    "exhibits/exhibit_p083.png",
+    "exhibits/exhibit_p084.png",
+    "exhibits/exhibit_p086.png",
+    "exhibits/exhibit_p087.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2018\\10_orange-retailer-co"
+}

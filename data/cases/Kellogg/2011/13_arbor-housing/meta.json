@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2011_13_arbor-housing",
+  "school": "Kellogg",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2011.pdf",
+  "idx": 13,
+  "case_name": "Arbor Housing",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Real Estate / Hospitality",
+  "difficulty": null,
+  "pdf_page_start": 94,
+  "pdf_page_end": 100,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p098.png",
+    "exhibits/exhibit_p099.png",
+    "exhibits/exhibit_p100.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2011\\13_arbor-housing"
+}

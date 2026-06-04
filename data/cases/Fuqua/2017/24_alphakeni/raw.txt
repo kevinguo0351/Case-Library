@@ -1,0 +1,275 @@
+===== PDF p272 =====
+AlphaKeni
+267
+Industry: Information Technology
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p273 =====
+Behavioral Questions
+268
+• Tell me about a time you dealt with conflict.
+Question 1:
+• Tell me about a time when you had to solve a complex problem.
+Question 2:
+
+
+===== PDF p274 =====
+AlphaKeni
+269
+• Your client is AlphaKeni, a BPO enterprise that helps various businesses outsource 
+their customer service operations. The business has been experiencing a declining 
+customer satisfaction rating owing to which it has been losing business to 
+competition. The CEO has engaged you to understand what is driving this trend and 
+how it can be remedied.
+Prompt #1:
+• Additional information to give the candidate if asked:
+– AlphaKeni has operations only in South Asia (India, Bangladesh and Sri Lanka)
+– The scope of operations is only to service inbound calls regarding reservations, tech support, 
+loyalty programs and baggage assistance.
+– Annual revenue: $2 billion
+– The business specializes in serving clients in the commercial aviation space such as British 
+Airways, Etihad, Emirates, Air France etc.
+– Customer satisfaction scores have progressively dropped from a high of 82 in 2015 to 68 in 
+2017. AlphaKeni is seeking to raise its satisfaction scores to 2015 levels.
+Interviewer Guidance:
+
+
+===== PDF p275 =====
+Interviewer guidance
+• Allow the candidate a few minutes to map out their framework and talk through their ideas
+• In their initial analysis, the candidate should be able to identify potential operational, 
+technology and people issues as one of the areas for further exploration
+• Upon completion, provide them Exhibit 1&2
+Interviewer guidance:
+
+
+===== PDF p276 =====
+Exhibit #1
+271
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+Competitor 1
+Competitor 2
+Competitor 3
+Alpha Keni
+Average customer wait time (in mins)
+1Average wait time tracks how long it takes for customers to connect with an agent who can address their needs
+
+
+===== PDF p277 =====
+Exhibit #2
+272
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Competitor 1
+Competitor 2
+Competitor 3
+Alpha Keni
+Ratio of number of hourly calls to call center associates
+
+
+===== PDF p278 =====
+Interviewer guidance on Exhibit 1 & 2
+• Allow the candidates to come up with 
+potential reasons on what may be driving 
+the pattern observed in the benchmarking 
+exercise
+• If the candidate is able to identify multiple 
+issues, ask them to prioritize their 
+analysis and give reasons on what their 
+hypothesis might be and what data would 
+help prove or disprove that hypothesis
+• Once the candidate identifies 
+understaffed call centers as an issue, 
+provide them with Exhibit 2 and 3
+• The candidate should be able to 
+brainstorm on ideas that are resulting to 
+an increased wait time. Some of the ideas 
+may potentially be:
+– Outdated technology that is slowing 
+down throughput of calls
+– Poor training of agents which does not 
+allow them to effectively address 
+customer queries
+– Poor demand forecasting: wherein the 
+number of calls received is frequently 
+higher than what has been forecasted
+– Understaffed call centers which either 
+speaks to lack of adequate supply of 
+talent or a high turnover rate in call 
+center associates
+273
+Interviewer guidance:
+Analysis:
+
+
+===== PDF p279 =====
+Exhibit 2: Illustration of application funnel
+274
+Applicati
+ons 
+received
+Language 
+test
+Computer 
+skills test
+Backgro-
+und 
+check
+Job 
+offers 
+made
+Job 
+offers 
+accepted
+30,000
+14,400
+10,080
+9,072
+9,072
+6,800
+###
+Indicates number of applicants 
+in each stage of the process
+ONLY FOR ILLUSTRATIVE 
+PURPOSES
+###
+Conversion rates between stages
+48%
+70%
+90%
+100%
+75%
+
+
+===== PDF p280 =====
+Exhibit 3: Benchmarking data
+275
+Particulars
+A
+B
+C
+AlphaKeni
+# of applications
+100%
+100%
+100%
+100%
+Stage 1: % clearing 
+language test
+62%
+64%
+60%
+65%
+Stage 2: % clearing 
+computer skills test
+54%
+50%
+51%
+57%
+Stage 3: % clearing 
+background check
+90%
+92%
+93%
+89%
+Stage 4: Job offer 
+acceptance rate
+74%
+80%
+84%
+86%
+Quarterly attrition rate
+86%
+73%
+75%
+92%
+Avg. annual pay per 
+associate
+$5,000
+$6,000
+$6,500
+$6,800
+
+
+===== PDF p281 =====
+Interviewer guidance on Exhibit 3 & 4
+• Mention to the candidate that an industry 
+survey suggests that the salary is the most 
+important criteria for applicants
+• Exhibit 2 is purely for illustrative purpose and 
+its purpose is purely to help the candidate 
+understand how the application funnel 
+works, not necessarily use the data
+• Language test in the funnel is to test the 
+verbal English skill of candidates
+• Computer test is to test their knowledge of 
+how to use a computer
+• Candidates may say that poor company 
+culture may contribute to attrition but rule this 
+out as a problem area
+• Once the candidate identifies the potential 
+problem as attracting the wrong talent or 
+their improper assessment, ask them to 
+brainstorm a few ideas on how this can be 
+addressed
+• By looking at Exhibit 3 The candidate should 
+quick realize that AlphaKeni outperforms on 
+funnel conversion rates and should rule this 
+out as a potential issue area
+• The candidate should notice that attrition 
+rates for AlphaKeni are very high compared 
+to its peers, despite it having the highest 
+salary
+• Given that AlphaKeni outperforms on funnel 
+conversion rates and has the highest 
+attrition, the candidate should infer that 
+potentially the problem may lie in:
+– Sourcing suitable candidates:
+Employees leaving by themselves due to 
+lack of a job fit
+– Incorrectly assessing applicants: 
+Employees being asked to leave for 
+performance reasons
+276
+Interviewer guidance:
+Analysis:
+
+
+===== PDF p282 =====
+AlphaKeni
+277
+• The CEO, Mr Jurgen Klopp is going to be joining us in a few minutes to hear your 
+recommendations and findings.
+Recommendation 
+• A good candidate will take a few minutes to structure their thoughts. These thoughts may 
+include:
+– Reframing the objective of improving the customer satisfaction rating to 2015 levels
+– Synthesizing finding across exhibits and suggest that higher than normal wait times is 
+a result of a high calls to agents ratio, which is potentially due to high attrition rates
+– Further analysis of application funnel leads us to believe that improving assessment 
+and sourcing of applicants is important because
+Conversion rates across the funnel are comparable to better than AlphaKeni peers 
+so there is limited scope for improvement there
+Average annual compensation, the most important criteria for job applicants, is 
+also higher than its peers
+• Next steps
+• Risks
+Interviewer Guidance:

@@ -1,0 +1,275 @@
+===== PDF p111 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+107
+Case Style: Interviewee Led
+Difficulty: Medium
+Case Overview:
+Industry: Pharma
+Case Type: New Market Entry
+Concepts Tested:
+•
+Market Sizing
+•
+Profitability
+Overview Information for Interviewer:
+This is a candidate led case with 3 key components (details on next page). 
+The candidate should create a structured approach to respond to the prompt, 
+laying out the actions the project team would need to take. 
+If the candidate struggles to organize his/her thoughts and structure the 
+problem, the interviewer should prompt with a question (e.g., How big would 
+the market need to be to make the product viable?) The candidate should 
+quickly get to the mechanics of market size estimation and develop a business 
+case. 
+Case Prompt:
+The maker of Botox is considering expanding to the migraine market and has already begun clinical 
+trials in this area. The product is expected to receive FDA approval in 2019. Your team has been 
+hired to assess the viability of this product for launch. 
+How will you determine if the market is attractive? If the market is attractive, do you have any 
+recommendations regarding how to launch the product? What concerns should the client take into 
+consideration before deciding to launch?
+Botox
+
+
+===== PDF p112 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+108
+Clarifying Information:
+•
+Price
+•
+The drug will be priced at 
+$200/injection
+•
+Cost
+•
+Remaining development and launch 
+costs amount to approximately $5B
+•
+Manufacturing marginal costs are 
+expected to be quite small
+•
+Annual marketing expense can be 
+estimated at $1B
+•
+Attributes
+•
+The product is a prophylactic 
+injection given every 2 months
+•
+Offers similar efficacy compared to 
+market leading option but without 
+any side effects
+•
+When taken for migraines it does 
+have some added skin care benefits
+Competition
+•
+The market leading branded prescription 
+oral migraine treatment lost patent 
+protection last year
+•
+Strong over-the-counter generic market 
+for migraine treatments
+Interviewer Guide:
+The case has 3 key components:
+1.
+A high-level market sizing exercise for the migraine market, that 
+will involve estimating the potential size of the target population
+2.
+An assessment of the considerations for launching Botox in a 
+new indication, targeting a new therapeutic area
+3.
+A recommendation and report-out summarizing conclusions 
+from the analysis
+A successful candidate will go beyond the simple market and revenue 
+sizing. He/she should discuss the pros and cons of a product launch, 
+address additional considerations and make a solid recommendation 
+as to how to proceed.
+The interviewer should challenge the candidate to justify any 
+assumptions or arguments made when raising considerations.
+Botox: Case Guide (1/2)
+
+
+===== PDF p113 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+109
+Clarifying Information:
+•
+The # of typical migraine sufferers is difficult to approximate since migraines/headaches vary greatly
+•
+The interviewee should size the market using a structured approach while the interviewer challenges the 
+reasonableness of assumptions.  An example of a top-down approach follows.
+Market Sizing Information
+Population
+•
+This drug will initially be produced in the US, so the candidate should use US population (320 M)
+% of population diagnosed with migraines
+•
+Reasonable estimate of the number of migraine sufferers (1 in 7 is approximately correct)
+% treated with OTC (Over The Counter) vs. prescription medications (i.e. severe migraine sufferers)
+•
+Assume that about 25% of chronic migraine sufferers experience severe migraines and are willing to 
+regularly purchase prescription products
+Expected share for the product:
+•
+Due to the absence of side effects and the beneficial skin care properties assume ~30% of overall market in 
+the 5 years following launch
+Botox: Case Guide (2/2)
+
+
+===== PDF p114 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+110
+Market Sizing Calculation:
+Variables
+Source (given in case unless stated)
+Calculations
+US population
+320 M 
+% of people who suffer from chronic
+headaches/migraines                                      
+Assumed
+15%
+% severe migraine sufferers 
+Assumed
+25%
+Total market size in # of patients
+(US pop.) x (% chronic sufferers) x (% 
+severe)
+12 M
+$Price/ injection
+$200
+# injections/year
+(1 injection/(2 months) x (12 month/year)
+6
+Annual revenue per patient 
+($ price/injection) x (# injections/year)
+$1200
+Total annual market size in $ 
+(# patients) x (annual revenue per patient)
+$14.4 B
+% Botox market share
+Assumed
+30%
+Potential annual Botox market size in $
+(total market size $) x (% of market share)
+4.32 B
+Botox: Calculations
+
+
+===== PDF p115 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+111
+Question #1 (from prompt): 
+What concerns should the client take into consideration before deciding to launch?
+Notes to Interviewer:
+Branding
+•
+The Botox brand carries a specific and somewhat controversial image which may impact patients’ 
+willingness to use the drug for a non-cosmetic indication
+•
+By leaving both products under the same brand name, the client opens itself to more risk exposure should 
+a new side-effect be discovered for one of the products. Since the migraine market will likely much larger 
+than the existing cosmetic market, it bears a higher risk of adverse events which may then impact the 
+existing market
+Erosion/Cannibilization
+•
+If physicians and consumers identify that they two products are essentially the same, it will be very 
+challenging for the client to preserve the two separate markets. The client should investigate regulatory and 
+other mechanisms for keeping the markets separate
+•
+Launching this product at a much lower price-point than the cosmetic indication might cause substantial off-
+label usage, price erosion and cannibalization of the cosmetic segment
+Botox: Question 1
+
+
+===== PDF p116 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+112
+Question #1 (from prompt): 
+What concerns should the client take into consideration before deciding to launch?
+Notes to Interviewer:
+Competition
+•
+Given only comparable efficacy versus generic brands, insurance companies may not be willing to put the 
+Botox treatment on formulary, and many migraine sufferers may be unable to afford the treatment out-of-
+pocket
+Other Considerations
+•
+From a regulatory perspective it can be challenging to launch a new indication of an existing product to 
+treat a different condition. The FDA may require the products to be labeled differently and limited to certain 
+specialties, requiring separate marketing
+•
+In general, patients tend to be averse to injectable therapies, particularly when comparable oral treatments 
+are available
+•
+The client could submit the product for approval in other countries in order to increase the potential market 
+size
+•
+If the product can be shown to have better efficacy for a particular patient population, it may be preferable 
+to target the indication and marketing
+Botox: Question 1
+
+
+===== PDF p117 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+113
+Recommendation:
+•
+Given the projected $ size of the 
+prescription migraine market, this 
+looks like a promising market to 
+enter for the Botox maker and would 
+seem to offer very large revenue 
+potential, and more importantly, 
+profit potential.
+•
+However, the product will face 
+significant challenges if launched 
+according to the company’s 
+proposed strategy and may 
+cannibalize the highly profitable 
+Botox cosmetic product.
+•
+Launching under another brand 
+name might allow the client to more 
+effectively differentiate between the 
+two uses when advertising the 
+product to customers and 
+physicians. It would also make it 
+easier to price the products 
+differently.
+Bonus: Guide to an excellent case
+•
+A strong candidate will recognize the challenges (e.g., cannibalization and branding) of re-launching the brand for a new segment. 
+Risks:
+•
+Regulatory: The product has 
+not been approved by FDA yet 
+and its success is contingent on 
+getting regulatory approvals 
+•
+Branding: Both branding with 
+same name and different names 
+have risks attached to them –
+reputational issues and lack of 
+market traction respectively
+•
+Cannibalization: Launching the 
+new product at a lower price 
+point may result in significant 
+cannibalization of cosmetics 
+segment 
+Next Steps:
+•
+Continue clinical trials and 
+set-up regulation/ brand/ 
+marketing-based barriers 
+between the different markets 
+•
+Set up contracts with 
+insurance companies to 
+ensure that they will pay for 
+the Botox migraine product 
+after launch 
+Botox: Recommendation

@@ -1,0 +1,326 @@
+===== PDF p25 =====
+ 
+21 
+C O N S U L T I N G  C A S E  I N T E R VI E W  
+Central Power 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p26 =====
+ 
+22 
+Question 
+Our client is a regional electricity monopoly.  Due to regulation, its market will be opened to 
+competition next year on January 1.  There are no actual competitors at this time; however, 
+the client would like ideas on actions to take in the short-term in order to better prepare for 
+potential competitors.  They have no control over pricing and cost-cutting during this time 
+period. 
+Note 
+This case is similar to a case that a student may receive in a second round interview with 
+McKinsey, BCG, or ATK.  There isn‟t much data- it‟s an exercise in imagination tempered by 
+convergent thinking.  It would be similar to a first round Monitor Group case if it had a surplus of 
+data, rather than a deficit, requiring discrimination rather than imagination. 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. Do we know of any potential 
+competitors? 
+None at this time.  Central Power is facing 
+the threat of market entry. 
+2. Do you have any information on 
+pricing? 
+Not really; pricing is controlled by a 
+government, so it is beyond our control and 
+will be the same for any competition. 
+3. Are there other markets Central Power 
+can enter? 
+None at this time.  Our engagement is 
+focused on their home market. 
+4.  How is Central Power organized? 
+Central Power has three divisions: 
+1. Sales and General Administration 
+2. Generation and Transmission 
+3. Maintenance and Repair 
+5. How many employees are in sales? 
+About one for every 1000 customers.   
+6. Does sales, customer service treat certain 
+customer segments differently? 
+No, they treat everyone equally. 
+7. If there is a power outage, does 
+Maintenance and Repair fix industrial 
+clients first? 
+No, they dispatch in the order of the call 
+they receive. 
+8. Has Central Power ever advertised or 
+had a marketing campaign? 
+Not in recent memory. 
+9. Is Central Power undertaking any capital 
+investment? 
+Not in the next year. 
+ 
+
+
+===== PDF p27 =====
+ 
+23 
+Plan 
+This case is about customer retention within the home market.  Since the client is a 
+monopoly, market share is 100% and customer acquisition is irrelevant.   
+The analysis may include, but is not limited to, the following areas: 
+10. Barriers to Entry 
+a. There is no actual competition to specifically target 
+b. The government is deregulating, so there are no possible external barriers 
+c. Internal barriers are possible, such as increasing switching costs and 
+commercial attractiveness to customers  
+11. Anticipation of Competitive Attack - Once the candidate sees the exhibit and realizes 
+how attractive the industrial clients are, they can anticipate how a rational competitor 
+would enter the market. 
+12. Market Information 
+a. Revenue 
+b. Customer Segmentation 
+13. Stakeholder Reaction - How will employees, unions, or local government leaders 
+react to our changes?  (There is no set answer to this, just ask the candidate what 
+they think and see if it is logical and structured.) 
+Strong plans will anticipate the need to be competitive and draw on analogous companies or 
+situations. 
+Less experienced candidates gravitate towards issues of pricing and cost-cutting.  This is not 
+a profitability case.  Weak candidates will often explore growth outside the home market, 
+such as expansion into adjacent markets.  While interesting, this does not address the 
+primary problem of what to do in the home market before deregulation.   Avoid these 
+tangents.   
+Steer the candidate to customer retention. 
+ 
+The case has two main phases.  
+Phase 1:  Qualitative reaction and quantitative analysis of revenue data 
+Purpose:  
+1. Test rapid understanding of a basic chart 
+Most candidates ask about revenue very early.  Show them the attached exhibit and 
+immediately ask, “What is your reaction to this data?”   Strong responses notice the 
+differences between the customer segments.   
+The “historical data” is irrelevant. If a candidate starts to ask about it or discuss trends, 
+inform them that is a factor or population and government-determined prices, which are 
+both beyond the control of the company.   
+
+
+===== PDF p28 =====
+ 
+24 
+2. Test basic arithmetic  
+Test basic math by asking the candidate (if they haven‟t already done so) to calculate the 
+share of total revenue per segment and each segment‟s revenue per customer.  If a 
+candidate didn‟t notice the differences between customer segments already, this is a 
+second chance.  Note: I don‟t have a problem if a candidate wants to round the total 
+revenue to $250 MM from $258 MM to simplify the math… rough number are enough.   
+  
+Industrial  
+Commercial  
+Residential  
+# of Customers  
+150 
+10,000 
+100,000 
+Revenue  
+$150 MM  
+$60 MM  
+$48 MM  
+Revenue per Customer 
+$1,000,000  
+$6,000  
+$480  
+Residential Customer Equivalents 
+2083 
+13 
+1 
+Fraction of Total Revenue 
+150/258 = 58%  
+60/258 = 23%  
+48/258 = 19%  
+ 
+NOTE: the math is really basic, but there are a lot of zeros that tend to trip up candidates.  
+Most strong candidates write out the problem to avoid error, even if their math is facile.  
+Now is a good time to diagnose how well the handle orders of magnitude.  If this is a 
+problem, here are some suggestions for the candidate. 
+Method A – Write out the numbers and cross out the zeros: 
+𝑅$ = 
+$60𝑀𝑀
+10,000 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟𝑠=
+60,000,000
+10,000
+=
+60,000,000
+        10,000 = $6,000 𝑝𝑒𝑟 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟  
+ 
+Method B - Use exponents: 
+𝑅$ = 
+$60𝑀𝑀
+10,000 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟𝑠= 6 × 107
+104
+= 6 × 103 = $6,000 𝑝𝑒𝑟 𝑐𝑢𝑠𝑡𝑜𝑚𝑒𝑟 
+ 
+3. See if candidate grasps key insight regarding higher value of industrial 
+customers and uses it for convergent logic in Phase 2. 
+By now, candidates should realize that losing a single industrial customer is similar to 
+losing more than 2000 residential customers.  Churn of industrial and commercial 
+customers is lower too and it is easier to approach a few hundred “B2B” customers than 
+one-hundred thousand individual homeowners, apartment renters, etc. 
+If a candidate still needs help, ask them, “Let‟s turn the situation around.  Based on this 
+data, if you were a competitor, which segment would you target?”  They should realize 
+industrial customers.  If the candidate doesn‟t verbalize that Central Power should target 
+or defend the industrial customers, then ask, “OK, based on your insight about a 
+potential competitor, what should Central Power do to pre-empt them?” 
+ 
+
+
+===== PDF p29 =====
+ 
+25 
+Phase 2:  Generation of ideas regarding customer retention improvements. 
+Now that the candidate grasps that any action should be biased towards the smaller and 
+higher value segments, it is time to generate actual ideas.  This part of the case is extremely 
+unstructured- there are no more data sheets or obvious answers. 
+Assume Central Power is decades behind the rest of the business world- they have no 
+website, send out massive paper bills, treat customers with the finesse of a huge monopoly, 
+etc. 
+Purpose: 
+Test candidate’s ability to generate their own ideas with structure and logic 
+The prime differentiator between weak and strong candidates is their ability to have an 
+exploratory conversation that exchanges ideas. 
+Strong candidates will announce that they want to discover ways of improving customer 
+attachment (or retention, stickiness, etc.) to Central Power and begin to explore the 
+structure of the company looking for areas to improve.  They use a conversational style 
+to ask questions.  They typically draw on personal experience as residential customers of 
+electricity (or another utility).   
+Also, they may ask about the organization of the company or use a “value chain 
+concept” to structure their questions regarding the organization of the company.  At 
+each part of the company, they ask questions about behavior, customer service, etc. to 
+see if we focus on industrial clients.   Great candidates really have some out-of-the box 
+ideas, such as energy savings, simplified billing, special websites, improved terms for 
+accounts receivable, etc.   
+You will know you have a strong candidate when they move methodically through the 
+company and use their imagination.  Let them continue on as long as possible by asking, 
+“What else?”   This is an opportunity to test a candidate‟s ability to structure their 
+reasoning and demonstrate conversation skills.   
+For instance, they should be able to tactfully move the investigation to a new part of the 
+company when they have exhausted their imagination.  These meta-skills are more 
+important than specific ideas, so feel free to make up whatever you want about Central 
+Power‟s operations. 
+Here are some ideas to facilitate customer retention by building a stronger relationship 
+or making switching more difficult: 
+a) Sales and General Administration 
+i) Sign customer contracts 
+ii) Increasing credit terms / days allowable for accounts receivable 
+iii) Increasing the size of the sales force 
+iv) Allocating sales staff to specific segments, since the value proposition is different 
+v) Allocate special personal to high-value accounts 
+vi) Reduce or simplify the billing process 
+vii) Create a website for customers to manage accounts online. 
+
+
+===== PDF p30 =====
+ 
+26 
+b) Generation and Transmission 
+i) Consider building substations or redundancy that improves reliability or quality 
+for industrial clients. 
+ii) Work with industrial clients to improve their energy efficiency 
+c) Maintenance and Repair 
+i) Fix outages by order of customer priority, not first-come, first serve.  (Besides, 
+Industrial clients are more sensitive to power outages than residential customers) 
+ii) Preposition repair equipment near clusters of industrial clients to reduce repair 
+time. 
+iii) Proactively visit clients to inspect their infrastructure or provide engineering 
+advice 
+Weaker candidates face typically fall in two groups: 
+Group 1 – Lost in the Sauce: Some candidates have no idea how to systematically 
+generate ideas.  Try and prompt them by asking about their own experience with a 
+power company, or ask them to think of the value chain.  
+Group 2 – Lone Rangers:  Other candidates will have a systematic approach, but will 
+make assumptions and monopolize the conversation.  They declare, instead of explore, 
+their way through this phase.  They will make up their own data and draw conclusions.  
+For example, they might say, “Our client must be bad at customer service, so I would 
+consider dedicating people to high-value clients.”   
+A real conversation should flow like this: “Do we know how customers feel about 
+service?”  Response: “They hate it.  The number one complaint is „every time I call, I 
+speak to someone new‟.”  Candidate: “Perhaps we should dedicate some sales staff to 
+high-value clients that we want to retain the most.”  Response: “Good idea, what else?” 
+There are two other meta-skills to evaluate: 
+First, does the candidate explain their structure and line of reasoning?  It should be 
+“transparent thinking”.  I use an analogy of a tour-guide.  A strong candidate tells me where 
+we are going with their plan, takes me through it, keeps me from getting lost when we go 
+outside the plan, and brings me back. 
+Second, due to all the ideas being generated, a candidate needs good note-taking skills.  
+Strong candidates will circle ideas on their plan or make a list in the corner of the page.  
+When it is time to make a recommendation, they can quickly cover ideas at a glance.  Weak 
+candidates will attempt to recall ideas off the top of their head, usually without total success. 
+End the case when you are out of time or the candidate is out of steam.   
+ 
+Recommendation 
+The recommendation should include the following: 
+9. The answer – We have developed several ideas for improving customer retention; all 
+priorities should be biased towards Industrial customers. 
+
+
+===== PDF p31 =====
+ 
+27 
+10. Next steps – Analyzing costs, potential ROI, and effects on stakeholders for 
+particular customer retention initiatives. 
+Strong Recommendation 
+“By investigating the operations of your company, we have developed 
+several ideas for strengthening customer retention in the face of 
+competition.  No matter which actions are undertaken, there should be a 
+bias towards industrial customers who are more valuable as a group and on 
+a per-customer basis.  If any of these actions seem attractive to 
+management, we can undertake more detailed analysis to support 
+prioritization.”    
+ 
+Tepid Recommendation 
+Many times, students will say the same thing as above but with too much detail, too much 
+length, or without enough structure.  When they are done rambling, I ask them to say it 
+again in 30-seconds or in three sentences. Sometimes it takes a few attempts, but it is more 
+worthwhile then telling them later during feedback that their recommendation wasn‟t good 
+enough.  (Close only counts in horseshoes and hand-grenades.)  
+Weak Recommendation 
+Weak recommendations are missing a unifying aspect, such as customer 
+retention.  They also fail to include the key insight regarding the 
+preferential value of industrial customers.  Further, they may include 
+something totally off-base, like cost-cutting or pricing. 
+ 
+ 
+Questions to Further Challenge the Interviewee  
+2. How do you think the employees (or another stakeholder) will feel about these 
+changes? 
+3. What do you think it will be like working for a client that lacks a history of customer 
+service? 
+ 
+ 
+ 
+ 
+&
+'
+
+
+===== PDF p32 =====
+ 
+28 
+ 
+ 
+Exhibit – 1 
+ 
+ 
+ 

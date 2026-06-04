@@ -1,0 +1,74 @@
+===== PDF p97 =====
+Business Type Cases (abbreviated answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+93 
+ Two companies are the only competitors in an industry and produce exactly the same product.  
+Your client was the pioneer in the industry and has controlled 70% of the market for many years.  
+Their competitor has always followed price changes initiated by your client.  Recently though, 
+the competitor has aggressively lowered prices 15% and has cut into your client’s market share 
+reducing it to 60%.  Your client’s profit margins are only 14%, so they are hesitant to match the 
+price cut, but they are afraid that they will continue to lose share if they don’t. 
+ 
+Assume that there is no threat of new competitors entering the market and that there are no 
+substitute products.  All inputs are commodities and are readily available.  The end-users are 
+sophisticated and make their purchasing decisions based mostly on price.  How has the 
+competitor managed to cut prices so dramatically and still make money and what would you 
+advise your client to do? 
+ 
+Additional information provided (if interviewee asks probing questions): 
+!"Industry growth has historically been 5% per year, but has flattened out completely in the 
+last year. 
+!"There are many buyers and the price of this product is a negligible input cost for them. 
+!"Your client and its competitor both are financially strong divisions of larger unrelated 
+companies. 
+!"Raw materials make up 50% of the total cost of producing this product.  All other costs are 
+fixed. 
+!"Both competitors use essentially the same process and have very similar cost structures. 
+!"Capacity can only be modified in large increments and the competitor brought on a new line 
+6 months ago.   
+ 
+One Approach: 
+ 
+This case is all about capacity utilization with some game theory and defies most frameworks.  
+Trying to apply Porter’s five forces or an equivalent model will lead to series of “no, that’s not 
+an issue” comments.  Don’t get caught up trying to figure out what the product is - it doesn’t 
+matter!  It cannot be differentiated. 
+ 
+Market size is constant and market share for your client fell from 70% to 60%, so output fell by 
+about 14%.  Since 50% of the total cost is variable, 50% must be fixed.  A 14% drop in volume 
+would therefore equate to a (14% x 50%) = 7% increase in average unit cost for your client 
+(fixed unit costs increase!).  Although specific cost data for the competitor is unknown, the 
+increase in volume they have experienced has reduced their unit cost in much the same way.  
+When the competitor increased market share from 30% to 40%, his volume increased by 33%.  If 
+we assume that the competitor has a similar  
+
+
+===== PDF p98 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+94 
+Please do not duplicate, copy, print or photocopy 
+ 
+variable cost component of 50%, then their average unit costs would have gone down by 
+approximately (33% x 50%) =16.5% as they spread their fixed costs over a larger volume. 
+ 
+The competitor had an overcapacity problem and figured that they could make more money with 
+higher volume by cutting prices.  The 16.5% cost reduction offset the 15% price cut they 
+incurred and their volume increased 33% so they came out way ahead.  The rest of the solution is 
+in game theory.  Advise your client to match the competitor’s price and follow their price 
+changes to show them that they cannot undercut your price.  Aggressively try to regain customers 
+who were recently lost by offering extra inducements to try to get back lost market share.  Since 
+your client is larger, they have a slight cost advantage and can fare better in a price war.  Once 
+the competitor is made to understand this, advise your client to incrementally raise prices and 
+make sure the competitor follows.  Since there are many buyers and the product cost is only a 
+small contributor to their overall costs, it is unlikely that they will respond negatively to the price 
+increases. 

@@ -1,0 +1,161 @@
+===== PDF p115 =====
+Casebook | 2019-20 Edition 
+111 
+ 
+18. Antidepressant Pricing (BCG R1, Healthcare, New Product, 
+Quantitative) 
+Stem: Our client, Dopamine, is the fourth largest manufacturer of drugs internationally. Two years ago, 
+Dopamine invented a drug – tentatively branded Soma – to treat acute depression. Unlike most 
+antidepressants, the drug is preventative rather than responsive. Whereas most antidepressants attempt 
+to treat diagnosed cases of depression, Soma is designed for consumption before symptoms emerge. It 
+is aimed at individuals who are deemed “high-risk” for acute depression due to family history, an acute 
+trauma, or a variety of other factors. The drug is available by prescription only and it has no known side 
+effects. Soma received regulatory approval by the FDA, and Dopamine is considering how to price the 
+drug in the United States. You have been asked to size the market and recommend a price. 
+ 
+Provide only the following information only if explicitly asked. If the candidate asks for other information 
+state that “we may get to that.” 
+ 
+1. The drug has not yet been covered by insurance. 
+2. Medical bills for acute depression average $10,000 annually per case (i.e. per patient). This 
+includes costs associated with drugs, therapy, and hospitalization. 
+3. Development costs were $500M. 
+4. The drug is a single tablet taken on a daily basis. 
+ 
+Candidate should develop a framework to assess the problem. This case has components of market 
+sizing, new market entry, and pricing. As such, the framework should at least include: Market (size, 
+competitor drugs, market share), Product (strengths, weaknesses, etc) and a Pricing model (either cost- 
+based or price-based). 
+ 
+Phase 1: Insurance Coverage 
+ 
+Interviewer: What factors do you think are most critical to the price of the drug? 
+This is meant to serve as a brainstorming moment to assess intuition and creativity. 
+ 
+Answers could include uniqueness (a lack of substitutes), the extent to which the public and doctors 
+accept a radically new way of understanding mental illness prevention, etc. Ultimately however, the key 
+issue will be whether insurers cover the drug. If insurers do not cover Soma, it will not gain traction in the 
+market. Allow the Candidate to brainstorm until he or she runs out of gas. If the insurance issue is not 
+mentioned, guide the Candidate with questions like, “what constituencies are critical to establishing the 
+price of drugs?” 
+ 
+Interviewer: How would the insurance company decide whether to cover the drug? 
+Although other considerations are nominally relevant, this is really a question about costs: is the current 
+treatment model cheaper than a treatment model that includes the prospective drug. 
+ 
+Interviewer: One price that has been floated is $50. How would you assess whether or not an insurer 
+would cover the drug at this price if the company covered the entire cost? 
+Allow minimal rounding. 
+ 
+The Candidate should see that he or she must compare the costs associated with current treatment 
+model and the costs associated with the new drug treatment model. If the Candidate doesn’t begin to 
+perform this comparison, provide clues. Make sure that the Candidate uses the following assumptions: 
+ 
+● 
+300 million people in the United States 
+● 
+1 in 200 Americans suffer from acute depression every year. 
+● 
+1 in 100 Americans are considered at risk and of that group, only 1 in 5 are considered high-risk 
+for acute depression. Assume that all individuals considered high-risk would develop acute 
+depression. (Note: This means that more Americans suffer from acute depression than are 
+
+
+===== PDF p116 =====
+Casebook | 2019-20 Edition 
+112 
+ 
+identified as high-risk.) 
+● 
+Soma is a tablet taken on a daily basis. The drug price covers ten tablets. 
+● 
+Annual treatment for acute depression costs $10,000 per case. 
+● 
+Soma is 70% effective. That is, of people considered high-risk taking Soma, 70% will not develop 
+acute depression and 30% will. For simplicity, assume that the 30% who develop acute 
+depression will also cost insurers $10,000 each, in addition to the cost of the Soma. 
+● 
+For simplicity, assume that all individuals who suffer acute depression receive treatment. 
+ 
+Current costs to insurers: 
+ 
+● 
+300M people in America * 1/200 Americans suffer acute depression = 1.5M cases 
+● 
+1.5M cases * $10,000 per case = $15B 
+ 
+New drug costs: 
+ 
+● 
+New drug costs = cost of identified individuals treated by Soma + additional cost of identified 
+individuals unsuccessfully treated by Soma + cost of unidentified individuals treated 
+conventionally 
+● 
+300M people in America * 1/100 considered at risk * 1/5 considered high-risk = 600,000 high-risk 
+individuals 
+● 
+600,000 high-risk individuals * $50 per package / 10 pills per package * 365 days = ~$1B 
+● 
+Additional costs associated with individuals for whom the drug is not effective: 
+600,000 high-risk individuals * .3 failure rate * $10,000 = $1.8B 
+● 
+Don’t forget that there are 900,000 individuals (1.5M cases - 600,000 identified cases) who are 
+not identified as high-risk. This $9B (900,000 * $10,000) must be added to the annual cost of the 
+new drug treatment model. 
+● 
+Because current costs of $15B exceed the ~$12B in costs associated with the new drug scenario 
+(~1B+1.8B+9B), insurers would likely cover the drug. 
+ 
+ 
+Phase 2: Follow-up 
+ 
+Interviewer: What would you charge for the drug? No calculations are necessary, but do you think you 
+could get more for the drug? 
+ 
+There is no correct answer here. One might answer that insurers would accept a price that brings new 
+drug costs up to the current costs. Alternatively, the question of adoption may necessitate a lower price. 
+Again, this is more of a check on intuition, creativity and logic. 
+ 
+Interviewer: What single factor would allow Dopamine to raise prices? 
+ 
+Candidate: Improved screening. Although 1/200 individuals develop acute depression, only 1/500 are 
+identified. 
+ 
+Phase 3: Production Economics 
+ 
+Interviewer: Our client liaison from Dopamine is a bumbling guy who learned all his economics from 
+Wikipedia. He thinks the $500M development costs for the drug must be covered by future revenue 
+streams, or else we shouldn’t proceed with large-scale production. 
+ 
+Candidate: That is not the correct thinking since $500M is a sunk cost. What matters is that revenues 
+cover variable costs of production. 
+ 
+Interviewer: Excellent. So, the variable costs of production work out to $10 per package of 10 pills. Fixed 
+costs are zero. What’s the margin? What’s the markup? 
+
+
+===== PDF p117 =====
+Casebook | 2019-20 Edition 
+113 
+ 
+Candidate: 
+● 
+Margin = $(50-10) / $50 = 80% 
+● 
+Markup = $(50-10) / $10 = 400% 
+ 
+Interviewer: Ok, so indulge the client anyway. They recognize that the developmental costs are sunk, but 
+still want to know the breakeven period for this drug. Assume a negligible discount rate. 
+ 
+Candidate: 
+● 
+Annual profits = 600,000 high risk individuals * $(50-10) per package / 10 pills per package * 365 
+days = ~$0.8B 
+● 
+Breakeven period = (500M / 0.8B) yrs ~ between 7-8 months 
+ 
+Phase 4: Recommendation 
+ 
+Interviewer: What is your final recommendation? 
+The Candidate should deliver a formal recommendation that restates the market size, recommends a 
+sensible price, and synthesizes any other witty insights that arise along the way. 

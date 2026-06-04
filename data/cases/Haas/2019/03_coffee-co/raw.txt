@@ -1,0 +1,373 @@
+===== PDF p63 =====
+Case 3: Coffee Co (1/9)
+Walk me through your resume
+Why do you want to work for 
+us?
+Keys to the case:
+-
+Quickly realizing that profit 
+decrease is not due to changes in 
+the broader market
+-
+Reading “between the lines” in the
+financial info to determine that new 
+stories are underperforming
+-
+Quickly get to revenue & OpEx
+issues
+Your client is a small Berkeley-based café chain called CoffeeCo.
+CoffeeCo has four café locations in and around the UC Berkeley
+campus.
+CoffeeCo has been experiencing declining profit margins over the
+past several years. The owner of the store wants to know why this
+is happening and what they can do about it. The chain has
+invested a lot in store expansions, opening one new store in each 
+of the past two years.
+Fit question #1
+Fit question #2
+Case Overview
+Interviewer Guide
+Case Prompt
+-
+Interview style: Interviewer-led
+-
+Difficulty Level: Hard
+-
+Case type: Profitability
+-
+Industry: Retail (F&B)
+-
+Concepts tested: market 
+analysis, financial analysis
+
+
+===== PDF p64 =====
+Case 3: Coffee Co (2/9)
+
+
+===== PDF p65 =====
+Case 3: Coffee Co (3/9)
+Answer: The market has not changed and market 
+forces are not driving Coffee Co’s decrease in 
+profitability
+Note: This section does not require a full “market
+sizing”, only a high-level understanding that the
+market has not materially changed in the past 
+several years
+Good candidate:
+Gets to the right answer with a little bit of
+guidance
+Better candidate:
+Presents a structured approach to the market
+analysis before diving in.
+Knows
+when
+they
+have
+received
+enough
+information to move on from market analysis
+w/o prompting
+Market Demand:
+-
+Customers: if asked by interviewee,ask them to estimate which
+demographics are going to be customers. Once they do, tell them since the
+locations are on or around campus, the customers are 80% students and
+20% faculty / staff
+-
+Population: if asked by interviewee, ask them to estimate how the
+population has changed over the past several years. Once they do, let
+them know that the population has been roughly flat
+-
+Spend per Customer / Usage trends: if asked by interviewee, ask to 
+estimate Café usage trends over the past several years. Once they do, let
+them know that store owner says spend per customer has been flat
+Market Supply
+Competition:If asked by interviewee,ask them to estimate if they think
+competition has
+materiallychanged over past several years. Once they do, let them know 
+that the Café market near UC Berkeley has always been competitive but
+has not become more so over past several years
+Substitutes:no major replacementsfor Coffee / Cafés have emerged in the
+Berkeley mkt
+Client
+Product mix: sells two products: Coffee and Sandwiches
+Store location: two original stores are adjacent to campus (both on Bancroft) and
+two new stores are on campus (one at Haas, one at Law School)
+Interviewer Guide
+Case Facts (provide if asked)
+Regardless of where the candidate wants to start, push 
+them to explore if market forces impacted profitability
+
+
+===== PDF p66 =====
+Case 3: Coffee Co (4/9)
+Intro: “Here is the financial data the owner provided us”
+Questions to ask (if interviewee needs help):
+-
+Should the company concerned about its COGS?
+-
+How do these figures look on a margin basis?
+-
+How do these look on a per-store basis?
+Info to provide (if asked): old store financial performance 
+has stayed same since 2010
+Key section to remember:
+-
+Remember store info from prompt and Exhibit footnote
+-
+Identifies that declining revenue per store and spiking 
+OpEx are driving the decrease in profit margin, not COGS
+-
+Identify that it is the new stores that are causing the 
+problem
+Interviewer guide
+Declining revenue per store (new stores contributing
+~$100K / year less than old stores
+Gross Margin unchanged at 50%
+OpEx margin declining, driven by higher OpEx at new 
+stores ($150K / store at new stores vs. $100K / at old 
+stores)
+The “what to do next” phase of the case needs to 
+focus on revenue and OpEx at new stores
+NEXT STEP: Ask candidate to solve both Revenue
+and OpEx issue
+Key Observations
+Total
+Per-StoreAverages
+New vs. Old Stores in 2012 
+(assuming old stores stayed
+at 2010level)
+2010
+2011
+2012
+2010
+2012
+Old Stores
+New Stores
+Revenue (y/y growth)
+$1,000
+$1,400(40%)
+$1,800(29%)
+$500
+$450
+$500
+$400
+COGS(Margin)
+$500(50%)
+$700(50%)
+$900(50%)
+$250(50%)
+$225(50%)
+$250(50%)
+$200(50%)
+GrossProfit (Margin)
+$500(50%)
+$700(50%)
+$900(50%)
+$250(50%)
+$225(50%)
+$250(50%)
+$200(50%)
+OpEx (Margin)
+$200(20%)
+$350(25%)
+$500(28%)
+$100(20%)
+$125(28%)
+$100(20%)
+$150(37.5%)
+Operating Profit (Margin)
+$300(30%)
+$350(25%)
+$400(22%)
+$150(30%)
+$100(22%)
+$150(30%)
+$50(12.5%)
+Memo: Number of Stores
+2
+3
+4
+
+
+===== PDF p67 =====
+Case 3: Coffee Co: Handout 1 (5/9)
+Exhibit: Selected CoffeeCo Income Statement Items*
+(values in thousands)
+* Fiscal Year Ended 12/31. All store openings occurred on Jan 1 of their corresponding fiscal year and open fully operational
+2010
+2011
+2012
+Revenue
+$1,000
+$1,400
+$1,800
+COGS
+$500
+$700
+$900
+OpEx
+$200
+$350
+$500
+For 
+candidate
+
+
+===== PDF p68 =====
+Case 3: Coffee Co (6/9)
+Answer: CoffeeCo’s has higher OpEx in the new 
+stores due to the higher labor cost at the new stores. 
+This is due to the fact that the store is open too long 
+and does not have enough employees, causing it to 
+pay overtime. The company should explore reducing 
+the hours for New Stores. It should also explore 
+adding more employees to reduce overtime.
+Good candidate:
+-
+Gets to the right answer with moderate guidance
+Better candidate:
+-
+Gets to the right answer with limited guidance
+-
+Presents a structured approach to
+brainstorming
+NEXT STEP: If the interviewee has done the 
+Revenue portion, ask them to wrap up the case with
+a conclusion. Otherwise, ask them to solve the 
+Revenue issue
+1)
+Interpreting chart:
+-
+Interviewee should quickly be able to tell that the all of the $50K OpEx
+increase in the New Stores is due to higher labor expense in the New 
+Stores. Interviewee will need to refer back to data from the Financials 
+exhibit
+-
+If interviewee needs prompting, ask them “What is the $ value of Labor 
+Expense in the new stores vs. old stores?” (an answer: $40K Old Stores, 
+$90K New Stores)
+2) Brainstorming issues:
+-
+Ask interviewee to break down then brainstorm the drivers of Labor 
+expense. Example: Labor = hours worked * effective hourly wage per 
+hour
+-
+Info to provide when asked:
+-
+New stores have longer hours than the old stores but experience little 
+traffic / business during these extra periods
+-
+Base hourly wage is the same at both stores, but the new stores have 
+substantial overtime charges while old stores have not
+3.) Suggest solution:
+- Coffee Co can fix this issue by making sandwiches off campus and 
+bringing on campus
+Interviewer Guide
+Additional information
+Revenue Solution: when candidate gets to revenue issue, hand 
+them the Exhibit entitled “Menu for Old Stores vs New Stores”
+
+
+===== PDF p69 =====
+Case 3: Coffee Co: Handout 2 (7/9)
+Exhibit: Menu for Old Stores vs. New Stores
+* Both old stores are located adjacent to campus. Both new stores are located on campus.
+Old Stores*
+New Stores*
+Coffee
+Offered (~80%
+of revenue)
+Offered (100%
+of revenue)
+Sandwiches
+Offered (~20%
+of revenue)
+Not offered
+For 
+candidate
+
+
+===== PDF p70 =====
+Case 3: Coffee Co (8/9)
+Answer: CoffeeCo’s has higher OpEx in the new 
+stores due to the higher labor cost at the new 
+stores. This is due to the fact that the store is open 
+too long and does not have enough employees, 
+causing it to pay overtime. The company should 
+explore reducing the hours for New Stores. It should 
+also explore adding more employees to reduce 
+overtime.
+Good candidate:
+-
+Gets to the right answer with moderate guidance
+Better candidate:
+-
+Gets to the right answer with limited guidance
+-
+Presents a structured approach to
+brainstorming
+NEXT STEP: If the interviewee has done the Revenue
+portion, ask them to wrap up the case with a
+conclusion. Otherwise, ask them to solve the 
+Revenue issue
+1)
+Interpretingchart: 
+-
+Intervieweeshould quickly be able to tell that the all of the $50K OpEx
+increase in the New Stores is due to higher labor expense in the New Stores.
+Intervieweewill need to referback to data from the Financials exhibit 
+-
+If intervieweeneeds prompting,ask them “What is the $ value of Labor
+Expense in the new stores vs. old stores?” (an answer: $40K Old Stores, $90K
+New Stores)
+2) Brainstormingissues: 
+-
+Ask intervieweeto break down then brainstorm the drivers of Labor expense.
+Example: Labor = hours worked * effective hourlywage per hour 
+-
+Info to provide when asked:
+-
+New stores have longer hours than the old stores but experience little
+traffic / business during these extra periods
+-
+Base hourly wage is the same at both stores, but the new stores have
+substantial overtime charges while old stores have not in on key issue
+with some interviewerguidance
+3) Suggest solution
+Interviewer Guide
+Additional information
+OpEx Solution: When interviewee gets to OpEx issue, hand them Exhibit entitled
+“OpEx breakout for Old Stores vs. New Stores”
+
+
+===== PDF p71 =====
+Case 3: Coffee Co (9/9)
+- Coffee Co’s profit margin decrease is due 
+to its new stores, which have $100K less 
+revenue and $50K higher higher OpEx per 
+store.
+- Coffee Co should start selling sandwiches
+made off-site to get around current kitchen 
+issues and look into optimizing labor
+Recommendation
+As appropriate – drop in quality, brand 
+damage from labor optimization
+Risks
+CoffeeCo’s profit margin decrease is due to 
+its new stores, which have $100K less 
+revenue and $50K higher higher OpEx per 
+store. The revenue issue stems from not 
+being  able to sell sandwiches at its new 
+stores due to kitchen permitting issues. The 
+OpEx issue is due to higher labor costs at 
+the new stores due to unnecessarily long 
+hours and unnecessary overtime
+Rationale
+Some areas for CoffeeCo to follow up on 
+include looking into the logistics for making 
+extra sandwiches off site and assessing the 
+financial impact of reducing on-campus store 
+hours
+Next steps

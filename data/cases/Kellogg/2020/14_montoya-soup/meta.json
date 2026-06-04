@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2020_14_montoya-soup",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 14,
+  "case_name": "Montoya Soup",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail & CPG",
+  "difficulty": null,
+  "pdf_page_start": 155,
+  "pdf_page_end": 166,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    158,
+    159,
+    160,
+    161,
+    163,
+    164
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p158.png",
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p161.png",
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p164.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\14_montoya-soup"
+}

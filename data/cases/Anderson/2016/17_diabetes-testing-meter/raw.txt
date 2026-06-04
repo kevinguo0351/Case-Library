@@ -1,0 +1,102 @@
+===== PDF p85 =====
+Case 17: Diabetes Testing Meter
+UCLA Anderson Casebook 2016
+81
+Business Problem Statement
+Our client is a laboratory that provides diabetes testing services to hospitals in UK. They have developed a 
+self-diagnosis meter that patients can use to do testing on their own. They have hired us to determine if 
+we should take this product to the market.
+Interviewer Guidance
+This is a market entry case where candidate is required to evaluate the feasibility of a new product in 
+conjunction with the healthcare. The candidate should use a comprehensive framework, walk the interviewer 
+through it and be prepared for analytical detours throughout the flow of the case.
+Major buckets of discussion should include Customer Demand, Competition in the Market, Revenues and Costs
+The candidate should answer the following questions during the course of the case discussion:
+•
+Is there enough long-term demand for this product, given the current competition?
+•
+What options does the company have, in terms of taking this product to the market?
+The interviewer should lead/guide the case discussion using the structured question prompts that follow below.
+The interviewer can provide the below additional information as necessary:
+Demand Estimation:
+•
+30% of people and 5% over 65 have diabetes
+•
+Out of total population of 10M, 20% are above 65
+•
+No growth in % or population
+Competition:
+•
+There are 4 other competitors, with market shares of 25%, 25%, 15%, 15%
+•
+Client has a 20% share
+•
+Growth was over 20% until 2 years ago and has been stagnant since.
+Revenue and Costs:
+•
+Fixed Cost is $2.5M and marginal cost is $20. 
+•
+Per Unit revenue is $25.
+Additional points:
+•
+Patients could opt to use both methods (e.g., self test and also the hospital testing)
+•
+Product could be promoted as a prevention device (e.g. a low cost option to check for diabetes)
+
+
+===== PDF p86 =====
+Case 17: Diabetes Testing Meter
+UCLA Anderson Casebook 2016
+82
+Is there enough long-term demand for this product, given the current competition?
+Candidate should conduct a break-even and profitability analysis here
+•
+Per Unit Profit = $25 Rev - $20 Marginal Cost = $5
+•
+To overcome initial fixed cost need $2.5M/$5 = 500,000 units required to reach profitability
+How big is total market?
+•
+80% of population < 65 = 8M people @ 30% prevalence = 2.4M people w/ diabetes
+•
+20% of population >65 = 2M people @ 5% prevalence = .1M people w/ diabetes
+•
+Total diabetic population = 2.4M + .1M = 2.5M’
+•
+Client’s Market Share = 20% = 500,000
+Assuming capture all their market share = in new market, only break even, don’t make any profit. Given no 
+population growth, there is not enough long-term demand for profitability on this product, but there is 
+enough to break even.
+Exceptional candidates will note that this doesn’t account for cannibalization, and could offer it as a way to 
+subsidize growth in another, higher margin product, if they can draw positive publicity and overcome switching 
+costs for consumers to switch from competitors to them. This is a zero-sum market, so everything they win, 
+they must take from another competitor. 
+Exceptional Candidates may also note that there could be opportunities for partnering outside U.K. for this 
+product, especially places like U.S.A and Mexico given high prevalence of diabetes in these countries. 
+What options does the company have, in terms of taking this product to the market?
+This is a high-level discussion, and should touch on delivery channels for the medical industry. Candidate 
+should do best to use industry specific vocabulary, rather than speak in generic distribution methods.
+•
+Concepts should include: Through National Insurance (U.K. has nationalized insurance) Partnership (i.e. sign 
+w/ national insurance as , partnerships w/ hospitals; door-to-door sales; doctor’s offices
+If the product can’t be launched within UK, what else can the lab do with the product?
+Consider launching the product in other markets like U.S. or Mexico where diabetes prevalence is high and 
+our client may not have hospital testing business, thereby reducing cannibalization effects.
+Note – Only bring up this question if candidate did not already mention cannibalization issues: 
+Are there any cannibalization effects with regards to hospitals in terms of introducing the 
+product? 
+Giving patients capability to test glucose levels in home may remove revenue models for hospitals (no longer 
+have patients visiting to have service performed) so revenue would decrease for hospitals from this business 
+line and they would likely decrease orders and eat into our client’s revenue from its hospital business.
+
+
+===== PDF p87 =====
+Case 17: Diabetes Testing Meter
+UCLA Anderson Casebook 2016
+83
+Conclusion:
+Due to the limited number of customers available and low future growth, the product should not be launched in 
+the market
+The company should look at markets outside UK, or sell it to hospitals or competitors.
+Key: Good structure, good estimation techniques, risks analysis and breakeven analysis, recognition of long-
+term growth potential
+Sample Framework

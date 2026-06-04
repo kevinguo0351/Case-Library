@@ -1,0 +1,372 @@
+===== PDF p199 =====
+CASE 20 – WORKIT
+195
+
+
+===== PDF p200 =====
+Case 20: WorkIt
+Prompt #1
+Your client is WorkIt an insurance firm that sells workers’ compensation insurance policies exclusively. Workers’ compensation is an
+insurance policy that companies purchase to protect themselves from lengthy litigation and unexpected and incredibly high legal fees 
+related to employees who are injured at work. Workers’ compensation is paid by the company on a per-employee basis each month 
+and in exchange, the policy covers medical, indemnity, and other expenses. For example, if an employee falls off a ladder and breaks a 
+leg, workers’ compensation pays for the employee’s medical bills and indemnity or lost wages. The policy also covers other related 
+expenses. Companies are required by state law to purchase workers’ compensation plans. 
+WorkIt has been successful in North Carolina, South Carolina, and Georgia but is considering entering a new state. WorkIt would like 
+your help to determine if this is a good idea. 
+Behavioral Questions
+• Tell me about a time you had to make a difficult decision when you had limited information
+• What is your greatest transferable skill? 
+Deloitte Case Writing 
+Competition Finalist
+196
+
+
+===== PDF p201 =====
+Case 20: WorkIt
+Interviewer Guidance
+Background data that the candidate may request:
+This case does not provide a lot of information about the direction upfront, but successful candidates will work through the content 
+and uncover the direction as they proceed. The candidate may ask some clarifying questions; however, the main goal is to determine 
+whether WorkIt should expand (and then where the company should expand) and candidates will receive more information as they 
+proceed. Profit is a big concern, but so are qualitative issues. 
+Suggestions about how the case is to be delivered:
+• The first prompt is meant to be open ended, so there is not any additional information for the candidate at this point (e.g., WorkIt’s 
+main goals are not explicit)
+• If candidates need more information about workers’ compensation, please provide the optional overview / explanation:
+• It is an insurance policy in which a company pays a premium to be protected from unpredictable accidents 
+• The following example can be repeated to explain components: If an employee falls off a ladder and breaks a leg, workers’ 
+compensation pays for the employee’s medical bills (medical) and also pays the employee for lost wages (indemnity). The 
+policy also covers other expenses (e.g., overhead, benefit delivery, occasional attorney fees paid by workers’ compensation).
+What to look for in a candidate’s responses:
+• The candidate should come up with a MECE framework that covers the following areas: revenue and cost (profitability), 
+competitors, WorkIt’s current market saturation/industry mix of clients, regulatory concerns/changes, economic conditions, and 
+company network geographically
+• The prompt mentions that WorkIt sells workers’ compensation policies exclusively, so a successful candidate will not ask about 
+additional insurance offerings, though this could become a suggestion for WorkIt to consider later in the case.
+197
+
+
+===== PDF p202 =====
+Optional Overview of Workers’ Compensation
+Case 20: WorkIt
+Employee
+•
+Covered if injured (whether the 
+employee is at fault or not)
+Employer
+•
+Pays insurance premium to cover 
+employees injured at work
+•
+Benefits by avoiding lawsuits and 
+unexpectedly large expenses if an 
+employee is injured at work
+Workers’ Compensation Provider (e.g., 
+WorkIt)
+•
+Receives insurance premium in 
+exchange for providing benefits to 
+employees injured at work 
+•
+Benefits include:
+•
+Medical (e.g., hospital bills)
+•
+Indemnity (e.g., lost wages)
+•
+Expenses (e.g., overhead, 
+benefit delivery, occasional 
+attorney fees)
+198
+
+
+===== PDF p203 =====
+Case 20: WorkIt
+Prompt #2
+Great, so WorkIt is thinking of expanding in the South to remain regional. WorkIt has gathered data on 9 states; however, WorkIt does 
+not want to engage with markets smaller than South Carolina (30,000 cases of injured employees) or larger than Georgia (70,000 cases 
+of injured employees). In this case, you can assume that WorkIt would be able to control the entire market in the state. Please take a 
+moment to review the data sheet and gather your thoughts on which states to consider.
+Analysis
+The candidate should determine that only four states fit WorkIt’s criteria: AL, MS, TN, VA
+Frequency of claims
+Total Employment (Ths.)
+AL
+AR
+FL
+LA
+MS
+TN
+TX
+VA
+WV
+Employed
+2000
+1200
+7700
+2000
+1150
+2800
+11400
+3900
+800
+% injured each year
+2%
+2%
+2.00%
+4%
+4%
+2%
+4%
+1%
+2%
+Total injured (Ths.)
+40
+24
+154
+80
+46
+56
+456
+39
+16
+199
+
+
+===== PDF p204 =====
+Prompt #2
+Case 20: WorkIt
+$0
+$5,000
+$10,000
+$15,000
+$20,000
+AR WV MS
+TN
+FL
+TX
+LA
+VA
+AL
+Average Medical 
+Cost/Claim
+Claims by State
+Exhibit 3: Medical Costs Per Claim (2013)
+Medical
+50%
+Indemnity
+33%
+Expenses
+17%
+Exhibit 4: Breakdown of Total Costs
+Exhibit 1: Total Employment (Ths.)
+Employed
+% injured each 
+year at work
+AL
+2000
+2%
+AR
+1200
+2%
+FL
+7700
+2%
+LA
+2000
+4%
+MS
+1150
+4%
+TN
+2800
+2%
+TX
+11400
+4%
+VA
+3900
+1%
+WV
+800
+2%
+-10
+-5
+0
+5
+10
+% Change In Cost Per 
+Claim
+2012 to 2013
+2013 to 2014
+Exhibit 2: Growth in Cost Per Claim
+200
+
+
+===== PDF p205 =====
+Case 20: WorkIt
+Prompt #3
+Let’s proceed with Alabama, Mississippi, Tennessee, and Virginia. Now determine WorkIt’s profit. Please note that WorkIt’s revenue is 
+a flat 101% of total costs.
+Analysis
+Provide hints if the candidate needs it. Here is one way to solve:
+Costs
+Step 1: # of injuries (exhibit 1) x cost per (medical) (exhibit 3) = total medical
+Step 2: total medical x 2 (medical is half the total expense from exhibit 4) = total cost by state
+Revenue/Profit
+Step 3: Total per state x 101% commission – total cost by state = profit 
+OR
+Step 3: Candidates could realize that profit is 1% of total costs
+The candidate should comment about the state with the highest revenue potential. Also, note that the commission could still be in (ths.) from 
+earlier (i.e., $14,000 is actually $14,000,0000) making this a worthwhile option for WorkIt. 
+Revenue
+Profit
+# of injuries (ths.) Cost per injury (medical) Total cost (medical) Total cost (all three) 101% (Costs)
+1% (Costs)
+AL
+40
+$17,500
+$700,000
+$1,400,000
+$1,414,000
+$14,000
+MS
+46
+$10,000
+$460,000
+$920,000
+$929,200
+$9,200
+TN
+56
+$11,000
+$616,000
+$1,232,000
+$1,244,320
+$12,320
+VA
+39
+$16,000
+$624,000
+$1,248,000
+$1,260,480
+$12,480
+Costs
+201
+
+
+===== PDF p206 =====
+Case 20: WorkIt
+Prompt #4
+WorkIt is concerned about recent policy changes and hospital and judicial reform, which could eventually impact the company’s 1% 
+commission. Without doing any math, what state should WorkIt now consider?
+Analysis
+Based on Exhibit 4, Alabama is now less attractive – as total costs have decreased significantly over the past year (and prior year). 
+Mississippi and Tennessee show variability and have decreased costs from 2013-2014, which shows decreased profits from the 2013 
+numbers. It also suggests it will be difficult for WorkIt to predict future profits. 
+In this case, Virginia is the most stable state and it could be argued, the most attractive state.
+202
+
+
+===== PDF p207 =====
+Case 20: WorkIt
+Prompt #5
+What else should WorkIt research before making a decision?
+Analysis
+Suggested response should include a few of the below:
+1. Additional Costs – will there be future changes to fixed and variable costs?
+2. Competition – what other company is operating in each state? Does WorkIt stand a chance of getting the contract? Could there be 
+a bidding war?
+3. Different legal/regulatory changes – will WorkIt need to hire a new legal team? Any reason a state might not be ideal (that is not 
+included in Exhibit 3)?
+4. Company Capabilities – cost of entry, will their be a bidding war for the contract, can WorkIt operate successfully from afar? If not, 
+can WorkIt be successful in the selected state?
+203
+
+
+===== PDF p208 =====
+Case 20: WorkIt
+Recommendation
+The candidate should suggest: Recommendation (go or no go is fine as long as it is supported), risks (concerns from the last prompt), 
+and next steps (these could be based on earlier work from the initial framework/concerns). In this case, the candidate was told to give 
+the conclusion right away and should not ask for 30 seconds. However, the candidate could write the recommendation as he/she 
+presents to remain organized.
+Prompt #6/Conclusion
+WorkIt’s CEO is walking into the room and wants to know if the company should expand and if so, where? He is now in the room, let 
+him know what you suggest. 
+Performance Evaluation
+This case involves a market entry decision. The decision is based on limited information, as the candidate knows the revenue, but does not 
+have the associated costs needed to determine profit. 
+A good candidate:
+Asks clarifying questions only to move the case forward
+Remembers crucial information and is able to disregard extraneous information
+Has minor calculation errors and is able to continue after an error is made
+An exceptional candidate: (in addition to the above)
+Finds shortcuts for calculations
+Reads signs of the interviewer and organizes information without being prompted
+Offers insightful next steps without being prompted
+Is able to suggest logical next steps and defend decisions 
+204
+
+
+===== PDF p209 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

@@ -1,0 +1,214 @@
+===== PDF p115 =====
+Case 10: Post-Patent Pharma Problem 
+Type of Case: Profitability / Product Mix 
+Difficulty: High 
+Your client is a manufacturer of over-the-counter drugs. They have two products: ADR and ZYK. Lately, trends in the industry and the 
+company are uninspiring - sales are flat and costs are creeping upward.  How can the company do better? 
+In this case the interviewee will be required to explore market share and size and revenue, gross margin and fixed cost of each product 
+and calculate margin and net profit of both of them. As a follow up, the interviewee will be asked what increase in revenues/increase in 
+gross margin will break-even one of the products (that currently has a negative net profit) 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+111 
+
+
+===== PDF p116 =====
+•
+Revenues – should be revealed after the discussion on costs is 
+over (see below) 
+•
+If the candidate asks about fixed and variable costs, ask what 
+are typical fixed and variable costs for a Pharma company 
+
+Fixed costs:  R&D, production, labor, manufacturing 
+plant overhead, etc. 
+
+Variable costs: materials, distribution, etc. 
+•
+When the discussion on costs is over, give the candidate the 
+following information: 
+•
+Competitors, new entrants 
+•
+Suppliers 
+•
+Differentiation between our products and the competitors’ 
+products 
+Variable 
+ADR 
+ZYK 
+Market size 
+$1.2 B 
+N/A 
+Market share 
+33.33% 
+N/A 
+Variable 
+ADR 
+ZYK 
+Revenues 
+N/A 
+$150 M 
+Gross margin 
+40% 
+60% 
+Fixed costs 
+$180 M 
+$70 M 
+Market 
+Revenues and Costs 
+Discussion 
+(to be covered in discussing the interviewee’s framework) 
+No Information On… 
+112 
+
+
+===== PDF p117 =====
+Variables (** - calculation required) 
+Source/Formula 
+Calculations – ADR 
+Calculations - ZYK 
+Revenues 
+ADR: (Market size * Market share) 
+ZYK: Given 
+$400 M ** 
+$150 M 
+Margin ** 
+(Revenues * Gross Margin) 
+$160M 
+$90 M 
+Fixed Costs 
+Given 
+$180M 
+$70 M 
+Net Profit: ** 
+(Margin – Fixed costs) 
+-$20M 
+$20 M 
+Key Takeaway: ADR is losing money! 
+Calculations of Revenues, Margin and Net Profit for Each Product 
+113 
+
+
+===== PDF p118 =====
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Additional profit required for ADR to break-even 
+Previously calculated 
+$20 M 
+Gross margin 
+Given 
+40% 
+Additional revenues required ** 
+(Additional profit required / Margin)  
+$5 0M 
+Current revenues 
+Previously calculated 
+$400 M 
+Required increase in revenues ** 
+(Additional revenues required / 
+Current revenues) 
+12.5% 
+Key Takeaway: Increase of 12.5% in revenues is significant 
+•
+Change pricing strategy (increase/decrease price, based on demand elasticity) 
+•
+Increase the number of distribution channels 
+•
+Change shelf positioning of the drug 
+•
+Start a marketing campaign 
+•
+Many more… 
+Question – how much additional revenue would the  
+company need from ADR in order to justify keeping it? 
+Question – what ways are there to increase revenues? 
+114 
+
+
+===== PDF p119 =====
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Additional profit required for ADR to break-even 
+Previously calculated 
+$20 M 
+Current revenues 
+Previously calculated 
+$400 M 
+Additional gross margin required ** 
+(Additional profit required / Revenues)  
+5% 
+Key Takeaway: Increase of 5% in gross margin (from 40% to 45%)  
+by decreasing variable costs seems more feasible 
+Question – Instead of increasing revenues, the company is looking 
+to reduce the variable costs and improve the gross margin on ADR 
+instead. What would the increase in gross margin for ADR have to 
+be in order for the company to justify keeping it? 
+115 
+
+
+===== PDF p120 =====
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+New gross margin 
+(Original gross margin + Additional gross margin 
+required) 
+45% 
+Current revenues 
+Calculated on the previous pages 
+$400 M 
+New margin ** 
+(Current revenues * New gross margin) 
+$180 M 
+Current variable costs ** 
+(Current revenues – Current margin) 
+$240 M 
+Target variable costs ** 
+(Current revenues – New margin) 
+$220 M 
+% decrease in variable costs ** 
+(1 – Target variable costs / Current variable costs) 
+8.33% 
+•
+Negotiate prices with suppliers 
+•
+Use cheaper materials (for example, cheaper containers for the drugs) 
+•
+Make distribution more efficient and fast 
+•
+Many more… 
+Question – in the case gross margin is increased but revenues stay 
+the same, by what percent should the variable costs decrease? 
+Question – what ways are there to decrease variable costs? 
+116 
+
+
+===== PDF p121 =====
+Risks 
+•
+Since increasing gross margin for ADR by decreasing variable costs seem doable, the 
+company should start there 
+•
+In case the company discovers that decreasing variable costs is not feasible without 
+significantly increasing fixed costs or hurting revenues, and since 12.5% increase in 
+revenues seems very difficult to achieve, the company should consider shutting down ADR 
+completely 
+Considerations & 
+Next Steps 
+•
+There is always a chance that ADR will improve margin 
+•
+Trying to increase revenues and/or decrease costs might not succeed and only require 
+the company incur more costs 
+•
+Investigate further the ways to increase revenues and decrease costs 
+•
+Based on research, decide on a way of action – shutting down ADR or trying to improve 
+results 
+Recommendation 
+Case Closing 
+117 

@@ -1,0 +1,108 @@
+===== PDF p125 =====
+Case: Zenith Hotel
+Bain, Round 1
+Zenith Hotel is a global hotel chain with 50 hotels in 20 countries.  The company is evaluating the construction of a new hotel in the 
+Bahamas.  Zenith has come to us asking whether it should and can move forward with the project. 
+Problem statement narrative
+121
+This case is extremely straightforward and open ended.  The 
+interviewer read the problem statement and waited for the 
+candidate to drive the rest of the case.  No exhibits were 
+introduced.
+This was primarily a case about feasibility, so the discussion 
+should focus on an internal / external analysis of the 
+company’s plans with two math problems to solve.
+Case Type: Market Entry
+Overview for interviewer
+The hotel will have 400 rooms
+Information to be provided upon request
+
+
+===== PDF p126 =====
+Case: Zenith Hotel
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+• Capabilities
+• Start-up costs
+• Expected profits, driven by revenues 
+(volume * price) and costs (broken 
+down by fixed and variable)
+Internal
+• Competition
+• Consumer demand
+• Regulatory/other issues
+External
+See mathematical detail on following 
+pages
+Feasibility
+122
+down by fixed and variable)
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+• Ask the candidate to walk through the 
+costs that the hotel would occur on an 
+on-going basis 
+• Make sure that insurance and 
+marketing costs are included
+• Regulatory/country-specific issues 
+are not a concern
+See mathematical detail on following 
+pages
+
+
+===== PDF p127 =====
+Case: Zenith Hotel
+Question 1 – Breakeven
+• Costs over 5 years = $500M + 10*20M = $700M
+Overall approach, good shortcuts & solution
+• Start-up costs are $500M
+Information to provide up front
+Math Question
+How much would Zenith need to charge on average per room to break even?
+123
+• 400 rooms * 350 days/year * 10 years = 1.4M room days
+• $700M/1.4M = $500 per night
+• The hotel would cost $20M a year to operate
+• Assume that we are evaluating a ten year horizon
+• Assume 350 days in a year at constant rates
+Provide information if asked
+
+
+===== PDF p128 =====
+Case: Zenith Hotel
+Question 2 – Market Share
+• 400 rooms * 75% occupancy = 300 rooms
+Overall approach, good shortcuts & solution
+• Average occupancy is 75%
+Information to provide up front
+Math Question
+What is Zenith’s implied market share?
+124
+• 300 rooms * 3 people = 900 people at any given time
+• 900 people per week * 4 weeks/month = 3,600 
+people/month
+• 3,600 people per month/50,000 people per month = 7.2% 
+market share
+• Bahamas receives 50,000 visitors per month
+• Assume 3 people per room
+• Assume 7 day average stay
+Provide information if asked
+
+
+===== PDF p129 =====
+Case: Zenith Hotel
+Sample Recommendation
+Zenith should proceed with the construction of the hotel.  As a global hotel chain, gaining a 7% market 
+share in the Bahamas seems like a reasonable goal.
+Recommendation
+It seems overly aggressive to assume that hotel rooms will be occupied 350 days a year for the 
+breakeven calculation.
+Risks
+Examine consumers’ willingness to pay $500/night for a Zenith hotel room in the Bahamas.
+Next Steps
+125
+Next Steps

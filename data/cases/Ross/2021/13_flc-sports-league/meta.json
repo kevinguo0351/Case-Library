@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2021_13_flc-sports-league",
+  "school": "Ross",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2021.pdf",
+  "idx": 13,
+  "case_name": "FLC Sports League",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Sports",
+  "difficulty": "3",
+  "pdf_page_start": 137,
+  "pdf_page_end": 145,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    139,
+    141,
+    142,
+    143,
+    144
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p139.png",
+    "exhibits/exhibit_p141.png",
+    "exhibits/exhibit_p142.png",
+    "exhibits/exhibit_p143.png",
+    "exhibits/exhibit_p144.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2021\\13_flc-sports-league"
+}

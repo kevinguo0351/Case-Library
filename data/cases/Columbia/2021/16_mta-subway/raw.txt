@@ -1,0 +1,206 @@
+===== PDF p159 =====
+MTA Subway
+Difficulty: Medium
+Industry: Transportation
+Case Type: Profitability
+Concepts Tested
+Case #16 : MTA Subway
+• Brainstorming / Creativity
+• Market sizing
+• Pricing
+Your client is the New York City Transit system, also known as the MTA. Specifically, you are working for the subway 
+division. This division is part of a government authority that operates all the subways in New York City. Recently, the 
+division approached you because they have been operating at a net loss. How can you help this client?
+Problem Statement Narrative
+Case will focus on both traditional profitability and public policy considerations
+Case Notes
+155
+
+
+===== PDF p160 =====
+MTA Subway
+Question #1 / Framework 
+How can you help the MTA understand its current ridership and profitability drivers?
+1.
+Estimate market size (i.e., ridership)
+a.
+Capacity-based
+i.
+Volume available (e.g., number of lines, 
+number of cars, volume of each car)
+b.
+Or Demand-based
+i.
+Demand for subway service (e.g., 
+Population of NYC, % who take 
+subways)
+2.
+Identify profitability drivers
+a.
+Revenue
+i.
+Ticket price
+•
+Single ride
+•
+Weekly / monthly passes
+ii.
+Volume
+b.
+Cost
+i.
+Variable
+•
+Electricity
+•
+New construction
+ii.
+Fixed
+•
+Labor (e.g., Unions)
+•
+Infrastructure / depreciation
+Sample Framework
+Case will be focused on revenues, as expenses for MTA 
+are largely fixed by contract (e.g., unions)
+Candidate can approach market sizing either based on the 
+size of the train (capacity-based) or based on the 
+population of NYC (demand-based)
+Guidance for Interviewer
+•
+Price for a single ride ticket is $2.75
+•
+Ticket options include single rides, weekly pass, 
+monthly pass, and reduced (for students / elderly)
+•
+There are 22 train lines on the MTA (e.g., 1 – 7, A –
+G, J, L, M, N, Q, R, W, Z)
+•
+The MTA gets current funding from ticket sales as 
+well as some government funding – government 
+funding can be ignored for this case
+Clarification Answers if  Asked 
+156
+
+
+===== PDF p161 =====
+Question #2
+Question
+Solution
+How would you estimate the total number of subway rides that are taken on an average week day in New York City?
+22 subway lines
+Each train has on average 10 cars
+Each car on average fits 100 people -> 1000 people per train
+Trains arrive on average every 5 minutes during rush hour -> 20 trains per hour
+6 hours of rush hour (7-9 AM and 5-8 PM)
+Trains arrive on average every 10 minutes all other times -> 10 trains per hour
+18 hours of non-rush hour
+Total rush hour ridership -> 20 trains per hour x 6 hours x 1000 people per train x 22 lines = 2,640,000
+Total non-rush hour ridership -> 10 trains per hour x 18 hours x 1000 people per train x 22 lines = 3,960,000
+Total daily ridership -> 2,640,000 + 3,960,000 = 6,600,000 (~6 million officially reported by MTA)
+MTA Subway
+157
+
+
+===== PDF p162 =====
+Short term
+•
+Ticket price
+•
+Increase overall price
+•
+Create more granular pricing
+•
+Distance based pricing
+•
+Demand based pricing (e.g., rush hour)
+•
+Ticket volume
+•
+Reduce unlimited passes
+•
+Conduct advertising campaign
+Long term
+•
+Expand coverage / services
+•
+Add more service to in-demand lines
+•
+Build new lines into up-and-coming neighborhoods
+•
+Lobby for policy changes
+•
+Greater taxes on alternative transportation (e.g., driving / taxi)
+•
+Additional government funding for subways
+Question #3
+Question
+Solution
+Because of the nature of their expenses (e.g., pensions, union contracts, required maintenance), they have asked you to 
+help them turn around their profitability by focusing on opportunities to grow revenues – what are some ways for the 
+MTA to grow their revenues?
+MTA Subway
+158
+
+
+===== PDF p163 =====
+Impact to riders
+•
+Lower income riders generally live / commute farther 
+•
+Currently under a fixed price scheme high income riders (who generally only ride the subway a few stops) 
+effectively subsidize low income riders (who generally live farther away)
+•
+Impact of price change to distance-based would disproportionately impact low income riders
+Impact to city
+•
+Real estate prices may increase for areas closer to business centers (e.g., Midtown / downtown Manhattan)
+•
+Short distance ridership may increase (e.g., those who live 1 stop away will now ride the subway because it will 
+be cheaper for shorter rides)
+•
+Traffic congestion may increase (e.g., those who live farther away can turn to driving or car pooling)
+Question #4
+Question
+Solution
+Given that the MTA is a public agency with a public mission, what are some concerns if the MTA adopts a distanced 
+based pricing scheme?
+MTA Subway
+159
+
+
+===== PDF p164 =====
+Conclusion
+•
+Introduce new pricing schemes, including distance or 
+demand based pricing 
+Recommendation
+•
+Differentiated pricing would likely provide additional 
+revenue for the MTA
+•
+The new pricing scheme would better match demand 
+(either by distance or by time) to available supply (i.e., 
+train capacity)
+Rationale
+•
+Introduction of a demand based pricing could 
+potentially deviate from the public mission aspect of 
+the MTA as it would disproportionately impact lower 
+income riders
+•
+Implementation of price differentiation schemes 
+would require significant infrastructure upgrades (e.g., 
+to track system entry / exit)
+Risks
+•
+Conduct analysis to understand impact of any pricing 
+change on different areas and populations of the city
+•
+Determine appropriate pricing for the new scheme
+•
+Work with local officials and community 
+representatives to solicit input and feedback
+Next Steps
+MTA Subway
+160

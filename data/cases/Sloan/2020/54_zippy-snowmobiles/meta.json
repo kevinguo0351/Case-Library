@@ -1,0 +1,24 @@
+{
+  "case_id": "Sloan_2020_54_zippy-snowmobiles",
+  "school": "Sloan",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2020.pdf",
+  "idx": 54,
+  "case_name": "Zippy Snowmobiles",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Transportation",
+  "difficulty": "Balanced",
+  "pdf_page_start": 209,
+  "pdf_page_end": 212,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    209,
+    211
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p209.png",
+    "exhibits/exhibit_p211.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2020\\54_zippy-snowmobiles"
+}

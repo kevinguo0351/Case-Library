@@ -1,0 +1,146 @@
+===== PDF p86 =====
+Casebook | 2019-20 Edition 
+82 
+ 
+8. Industrial Tools Manufacturer (Bain R1, Industrial Goods, 
+Profitability, Quant) 
+Stem: Our client is an industrial tools conglomerate. One of their businesses manufactures two lines of 
+products: nail and staple guns, and the fasteners used by the guns. Revenues are $1B. The Fastener 
+product line accounts for 70% of revenues and the Tools product line accounts for 30% of revenues. All 
+products are currently manufactured and sold in the US. Sales come through three channels: 1) 
+Construction supply stores; 2) Direct-to-Manufacturer sales; 3) Home centers (e.g., Home Depot). The 
+company has seen profit margins fall from 10% to 5% and they are still declining. Our client, the corporate 
+parent company, would like us to figure out what the maximum potential profit is. 
+ 
+A structure should mention a review of the market to gain understanding of the landscape, a look at the 
+company’s profits, and gaining an understanding of the company’s place within the conglomerate’s 
+portfolio. 
+ 
+Phase 1: The Market 
+ 
+Candidate: What do we know about the client’s competitive position? 
+ 
+Interviewer: Market share is broken down as follows: 
+ 
+In tools, the client owns 40% market share and is holding steady relative to industry growth (about 3%). 
+The client is the market leader and has great brand reputation. 
+ 
+In fasteners, the client owns 20% market share and is seeing that decline by about 2%/yr, while the 
+market grows at about 3%. The client is one of two top players who alternate for the market lead. 
+ 
+Candidate: OK, so with $1B in total revenues, and Tools accounting for 30% of that, the client is getting 
+$300M in revenues from Tools. We also know that the client makes up 40% of the total market share, so 
+total market size for Tools is: 
+ 
+$300M / 0.4 = $750M 
+ 
+…and the total fastener market size: 
+ 
+$1B (company revenue) x 70% = $700M 
+ 
+$700M / 0.2 (client’s fastener market share) = $3.5B 
+ 
+The total market size of Fasteners is almost 5x larger than that of Tools, so it is particularly concerning to 
+me that this is where we’re losing share, since a 1% loss of $3.5B is obviously much more than a 1% loss 
+of $750M. 
+ 
+Interviewer: OK, so what might be causing this market share? 
+ 
+Candidate: There could be price competition, technological improvements we’re missing out on, or other 
+recently introduced competitive maneuvers. 
+ 
+Interviewer: Actually, we know that it’s generic fastener are taking share away from the client. 
+ 
+Candidate: OK, generics are usually priced lower so perhaps consumers are becoming more price 
+sensitive. 
+ 
+Interviewer: Yes, the generics are 25% cheaper than our client’s. And actually, this is largely a 
+commodity market, which is why the lower price is effective at grabbing share from the client’s known 
+brand. 
+
+
+===== PDF p87 =====
+Casebook | 2019-20 Edition 
+83 
+ 
+Phase 2: The Client’s Profit Equation 
+ 
+Interviewer: Since we already know fastener revenue is $700M, let’s look at the cost side of the 
+equation. 
+ 
+Candidate: What do we know about fixed costs? 
+ 
+Interviewer: The plant in the U.S. is very expensive and generates a lot of overhead. Our total 
+manufacturing cost for fasteners is 80% of revenues. 
+ 
+Candidate: OK, 80% of $700M is $560M. 
+ 
+Interviewer: OK, and what options might we have for lowering that cost? 
+ 
+Candidate: Perhaps we could look at outsourcing some of our manufacturing. 
+ 
+Interviewer should brainstorm with candidate about the potential ways of reducing cost. If candidate does 
+not get to outsourcing within 5 minutes, Interviewer should bring his/her attention to what companies in 
+other industries (e.g. tech) are doing. If candidate doesn’t get to outsourcing even then, interviewer 
+should drive the discussion towards outsourcing. 
+ 
+Interviewer: Actually, our generic competitors’ operations are in Asia. 
+ 
+Candidate: I think we should look into the numbers of moving our operations to Asia. 
+Phase 3: Cost Analysis 
+Interviewer: Moving operations to China is an available option. How could we would think about the cost 
+savings? (Don’t worry about fixed/startup costs) 
+ 
+Candidate: I would imagine main categories are Materials, Labor, Freight, and Overhead. 
+ 
+Interviewer: Good, here is some of our cost data. 
+ 
+Candidate: OK, I’ll run the numbers. 
+
+
+===== PDF p88 =====
+Casebook | 2019-20 Edition 
+84 
+ 
+Candidate should generate the following table. 
+ 
+Cost Components 
+U.S. 
+China 
+Materials 
+280M 
+140M 
+Labor 
+112M 
+~10M (11.2M to be exact) 
+Freight 
+56M 
+168M 
+Overhead 
+112M 
+112M 
+Total 
+560M 
+430M 
+ 
+Candidate: Moving to China would save $130M per year. We know that profits today must be $50M 
+(since $50M is 5% of $1B). Assuming all the calculated cost savings will go right to the bottom line, that 
+means profits will now be $180M. Therefore, if revenues remain flat at $1B, there will be an increase in 
+the profit margin from $50M/$1B (5%) to $180M/$1B (18%). This is quite substantial. 
+ 
+Phase 4: Other Considerations 
+ 
+Interviewer: OK, great. What other considerations might come into play? 
+ 
+Candidate: Looking back at what we discussed at the beginning of our conversation, I’d like to think 
+about portfolio impact. Are there synergies to be realized or lost by this move to China vis-à-vis the 
+conglomerate’s other portfolio companies? Looking elsewhere, the move overseas puts a higher weight 
+on freight costs, meaning that the company is more vulnerable to jumps in oil prices. Political factors also 
+weigh in—this market may be especially sensitive to the idea of using American labor so the company’s 
+brand image could be hurt by moving overseas. 
+ 
+Phase 5: Final Recommendation 
+ 
+Candidate should summarize what has been discussed. The recommendation will most likely be to 
+relocate manufacturing operations to China with the caveat of ensuring other factors (both market-related 
+and logistical) are carefully considered. 

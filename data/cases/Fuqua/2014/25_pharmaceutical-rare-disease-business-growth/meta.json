@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2014_25_pharmaceutical-rare-disease-business-growth",
+  "school": "Fuqua",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2014.pdf",
+  "idx": 25,
+  "case_name": "Pharmaceutical Rare Disease Business Growth",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Pharmaceuticals",
+  "difficulty": null,
+  "pdf_page_start": 248,
+  "pdf_page_end": 253,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    250,
+    253
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p250.png",
+    "exhibits/exhibit_p253.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2014\\25_pharmaceutical-rare-disease-business-growth"
+}

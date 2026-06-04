@@ -1,0 +1,652 @@
+===== PDF p215 =====
+Congo’s Drumming
+211
+Industry: E-Commerce Operations
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p216 =====
+Behavioral Questions
+212
+• Tell me about a time that you’ve had to lead a diverse team
+– What were the challenges?
+– What did you learn from this experience?
+Question 1:
+• What is something your former supervisors would say you do well? 
+• What is something your former supervisors would say you need to improve?
+Question 2:
+
+
+===== PDF p217 =====
+Congo’s Drumming
+213
+• Your client, Congo.com (named after one of Earth’s rainforests), is one of the largest 
+e-commerce retailers in the world. It specializes in a diverse logistics network, and its 
+brand is built around consumer satisfaction. The company has grown dramatically 
+over the last 5 years, but has started to notice recent profit margin dips. You have 
+been hired to find the root causes that Congo must address to focus on profitability 
+so they can continue to drive growth.
+Prompt #1:
+• Congo gives its customers the best prices with the fastest delivery rates
+• Congo is a worldwide company, but wants to focus on US profitability to drive 
+expansion into other countries
+• There are eight main distribution facilities in the United States
+• Company growth has outpaced all competitors in the retail industry
+• Any positive change in profitability is the goal. It’s up to you to quantify the impact of 
+changes recommended.
+• Profit margin = net income/total revenue
+Interviewer Guidance:
+
+
+===== PDF p218 =====
+Exhibit 1
+214
+2013
+2014
+2015
+2016
+2017
+Operating Revenue
+Units Shipped
+1,176 
+1,528 
+1,987 
+2,583 
+3,358 
+Avg $/unit
+$         4.00 
+$         3.75 
+$         4.25 
+$         4.50 
+$         4.00 
+Total Revenue
+$      4,703 
+$      5,732 
+$      8,445 
+$    11,624 
+$    13,870 
+Operating Expense
+Maintenance
+$          941 
+$       1,146 
+$       1,267 
+$       1,162 
+$          694 
+SG&A
+$          941 
+$       1,003 
+$       1,267 
+$       1,162 
+$       1,387 
+Transportation
+$       1,881 
+$       2,293 
+$       3,378 
+$       5,812 
+$       8,322 
+Permitting
+$          564 
+$          688 
+$       1,013 
+$       1,395 
+$       1,652 
+Other
+$          470 
+$          573 
+$          845 
+$       1,162 
+$       1,387 
+NI Pre Tax
+$          (94)
+$            29 
+$          676 
+$          930 
+$          429 
+Taxes
+$          (28)
+$              9 
+$          203 
+$          279 
+$          129 
+Net Income
+$          (66)
+$            20 
+$          473 
+$          651 
+$          300 
+Unaudited, in millions
+*US Distribution Centers only
+Congo.com Income Statement*
+A1
+
+
+===== PDF p219 =====
+Slide 214
+A1 
+Don't center the differnet accounts. P&L's like this typically read with the most recent year on the left.
+Author, 8/16/2017
+
+
+===== PDF p220 =====
+Exhibit 1 – Interviewer Guidance
+215
+Unaudited, in millions
+2013
+2014
+2015
+2016
+2017
+Operating Revenue
+YOY CHANGE IN REVENUES FROM PRIOR YEAR
+Units Shipped
+-
+30%
+30%
+30%
+30%
+Avg $/unit
+-
+-6.3%
+13.3%
+5.9%
+-11.1%
+Total Revenue
+-
+22%
+47%
+38%
+19%
+Operating Expense
+EXPENSES/NI AS A PERCENT OF TOTAL REVENUE
+Maintenance
+20%
+20%
+15%
+10%
+5%
+SG&A
+20%
+18%
+15%
+10%
+10%
+Transportation
+40%
+40%
+40%
+50%
+60%
+Permitting
+12%
+12%
+12%
+12%
+12%
+Other
+10%
+10%
+10%
+10%
+10%
+NI Pre Tax
+-2.00%
+0.50%
+8.00%
+8.00%
+3.09%
+Taxes
+30%
+30%
+30%
+30%
+30%
+Net Income
+-1.40%
+0.35%
+5.60%
+5.60%
+2.16%
+*US Distribution Centers only
+Congo.com Income Statement*
+
+
+===== PDF p221 =====
+Exhibit 1 – Interviewer Guidance
+• The exhibit has too much data to 
+synthesize in a reasonable amount of 
+time
+• Units shipped are driven by online sales 
+increasing
+• Avg $/unit is an aggregation of all online 
+sales purchases, driven by consumer 
+decisions
+• Cost Breakdowns:
+–
+Maintenance: cost to maintain facilities
+–
+SG&A: cost to employ facilties
+–
+Transportation: cost to ship units to consumers 
+both directly tied to distribution centers costs and 
+other external costs the Company can’t control
+–
+Permitting: cost to operate in communities
+–
+Other: general business expenses
+• The candidate should see that items 
+shipped has continued to grow at a 
+steady pace (30% YoY)
+• Key item is that we are only concerned 
+with profitability in recent years.
+• If asked about $/unit changes, tell the 
+candidate that Congo has little control 
+over the market competitive pricing.
+• All costs are rising YoY, but candidate 
+should note that Transportation has risen 
+by a larger percentage of revenue over 
+the last two years (40% to 60%)
+• If candidate identifies Transportation 
+costs increasing being the biggest factor 
+of profitability, give the candidate Exhibit 
+2.
+216
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p222 =====
+Exhibit 2
+217
+Sq. Ft.
+500k
+500k
+500k
+500k
+500k
+1M
+1M
+ -
+ 200,000
+ 400,000
+ 600,000
+ 800,000
+ 1,000,000
+ 1,200,000
+ 1,400,000
+ 1,600,000
+ 1,800,000
+ 2,000,000
+ABE8
+AVP1
+CLT2
+CVG3
+FTW1
+MDW2
+ONT8
+Congo.com US Distribution Network - 2017
+Units per day
+Operating Costs
+($/day)
+Transporation
+Costs ($/day)
+
+
+===== PDF p223 =====
+ -
+ 200,000
+ 400,000
+ 600,000
+ 800,000
+ 1,000,000
+ 1,200,000
+ 1,400,000
+ 1,600,000
+ 1,800,000
+ 2,000,000
+ABE8
+AVP1
+CLT2
+CVG3
+FTW1
+MDW2
+ONT8
+Congo.com US Distribution Network - 2017
+Units per day
+Operating Costs
+($/day)
+Transporation
+Costs ($/day)
+Exhibit 2 – Interviewer Guidance
+218
+Sq. Ft.
+500k
+500k
+500k
+500k
+500k
+1M
+1M
+Unit/Sq. Ft.
+2
+3
+1
+2
+4
+1.5
+2
+Operations
+cost %
+30%
+30%
+30%
+30%
+30%
+30%
+30%
+Transport 
+Cost %
+60%
+80%
+60%
+60%
+80%
+60%
+60%
+
+
+===== PDF p224 =====
+Exhibit 2 – Interviewer Guidance
+• The purpose of this exhibit is for the 
+candidate to identify specific facilities by 
+percentages of output.
+• Units per day are 2017 numbers for 
+amount of SKUs shipped from each 
+facility each day.
+• Operating Costs are in $/day
+–
+Guidance sheet shows $cost/unit shipped
+• Transportation Costs are in $/day
+–
+Guidance sheet shows $cost/unit shipped
+• Square Footage is only meant to 
+reference the size of the facility. 
+Intuitively, larger facilities should output a 
+larger amount per day
+• Candidate may realize that Operating 
+Costs + Transportation Costs > Units 
+Shipped per day. Remind them that this 
+graph ignores $/unit in revenue.
+• The candidate should recognize that 
+FTW1 and ONT8 ship more per day than 
+any facility, but FTW1 has half of the 
+square footage
+–
+Bonus points for stating that FTW1 has the highest 
+productivity in the network (4 units/sq. ft.)
+• 5 of the 7 facilities have identical cost 
+percentages (30% for Operation, 60% for 
+Transportation)
+• FTW1 and AVP1 have 80% transportation 
+costs. However, the candidate may not 
+notice AVP1 because it produces less 
+units/day than others. 
+–
+Bonus points for recognizing both facilities are 
+opportunities for improvement.
+• The candidate should recognize that 
+transportation costs are our best 
+opportunity. If asked for a breakdown, 
+please move on to Prompt #2.
+219
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p225 =====
+Congo’s Drumming
+220
+• Facility transportation costs are made up by three different factors: 1) lane cost to 
+ship to a specific destination, 2) utilization of those trailers shipped, and 3) US 
+Department of Transportation costs. Congo.com has been expanding the quantity of 
+shipping destinations to fuel its growth. Where should Congo go from here?
+Prompt #2:
+• “Expanding the quantity of shipping destinations” means: Congo is shipping to more 
+destinations than before and shipping more to their previous destinations.
+• Candidate should recognize if Congo is increasing its destinations, then it makes 
+sense that lane costs and DOT costs should also rise accordingly.
+• Push candidate towards wanting to look into #2 Utilization of Trailers.
+• Candidate should recognize and ask about utilization costs for FTW1 *AND/OR 
+AVP1*. Do not give information about a facility that the candidate hasn’t identified.
+• Trailer Utilization = % of truck trailer filled by actual SKU volume
+• Once the candidate has identified that Trailer Utilization must be a problem, provide 
+them with Exhibit #3.
+Interviewer Guidance:
+
+
+===== PDF p226 =====
+Exhibit #3
+221
+447
+585
+750
+1083
+1407
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+2013
+2014
+2015
+2016
+2017
+Trailer Utilization for >5 Year Old Facilities
+Daily Trailers Shipped
+Trailer Utilization
+Facility
+ABE8
+AVP1
+CLT2
+CVG3
+FTW1
+MDW2
+ONT8
+Years Old
+4
+7
+3
+2
+8
+2
+4
+• Automation upgrades would 
+allow under-performing 
+facilities to improve trailer 
+utilization to Company 
+standards.
+• Current automation 
+standards were 
+implemented in all facilities 
+built within the last 5 years.
+• Improvements in Trailer 
+Utilization would cut 
+Transportation Costs by 
+25%
+• Project cost: $10M/facility
+Project Proposal:
+
+
+===== PDF p227 =====
+Exhibit 3 – Interviewer Guidance
+• The graph is a quick affirmation that even 
+though Trailers Shipped is increasing, 
+Trailer Utilization is our main problem.
+• The candidate shouldn’t get too caught up 
+in the graph on this page, if they do –
+please move them along.
+• Project Proposal summarized:
+–
+This project would cut costs by 25% at any facility 
+not built in the last 5 years
+–
+Only AVP1 and FTW1 are older than 5 years
+• This is the final chance for the candidate 
+to recognize that there are two sites 
+eligible for Transportation savings: AVP1 
+and FTW1.
+–
+If the candidate doesn’t recognize this, do not 
+reveal it to them.
+• The graph affirms that increasing lanes of 
+shipping has increased the amount of 
+trailers needed to ship increasing amount 
+of items.
+• This project proposal does not apply to 5 
+of the 7 facilities.
+222
+Exhibit #3 Guidance:
+Analysis:
+• Have the candidate figure out opportunity 
+of transportation savings on Congo’s 
+bottom line.
+• Strong candidates will have been 
+compiling numbers throughout the entire 
+case.
+• Assume 350 Operating Days/year
+Calculation:
+
+
+===== PDF p228 =====
+Calculation – Interviewer Guidance
+• Candidate may identify some or all of the 
+possibilities
+• FTW1: $1.6M * 25% save = $400k/day
+–
+$400k*350 working days = $140M/year
+• AVP1: $1.2M * 25% save = $300k/day
+–
+$300k*350 working days = $105M/year
+• Total Transportation savings = 
+$245M/year
+• Impact to NI (Pre-tax): $429+$245 = 
+$674M
+–
+Or around a 60% increase in Net Income. 
+• If only FTW1 evaluated: $429+$140 = 
+$569M
+–
+Or around a 33% increase in Net Income.
+• In only AVP1 evaluated: $429+$105 = 
+$534M
+–
+Or around a 25% increase in Net Income.
+• Candidate should use a structured 
+calculation method.
+• Good candidates will have been compiling 
+information throughout the case, but allow 
+them to use the exhibits if they ask.
+• If candidate has not identified there are 
+two facilities eligible for savings, do not 
+bring it up at this time.
+• Once candidate has concluded 
+calculation, move on to the final 
+recommendation.
+• If candidate is strong at math (and you 
+have time) ask them to calculate new 
+“trailers shipped” number if utilization is 
+improved to 60% in 2017. (Exhibit 3)
+–
+Answer: 1225 trailers (next page for calculation)
+223
+Transportation Costs:
+Analysis:
+
+
+===== PDF p229 =====
+Extra Calculation – Interviewer Guide
+• Trailer Utilization = % of truck trailer filled by actual SKU volume
+• (1 – Trailer Utilization) = amount of space that wasn’t filled with SKU volume
+• From Exhibit 3:
+– 2017 Trailer Volume = 1407 (round down to 1400)
+– 2017 Trailer Utilization = 40% (or 60% unused space)
+• Increase in utilization yields lower amount of trailers based off of some 
+volume constant from 2017
+• 1400 = x*(1+(1-0.4)) -> 1400 = 1.6x -> x=875
+– x = volume constant from 2017
+• Once you have volume constant, calculate trailer volume w/ 60% utilization
+• x = 875*(1+(1-0.6)) -> x = 875*(1.4) -> x = 1225
+224
+
+
+===== PDF p230 =====
+Congo’s Drumming
+225
+• The CEO of Congo.com, Heff Crezos, will be joining us in a few minutes to hear your 
+recommendations on how the Operations can improve profitability.
+Recommendation 
+• Candidate should have a recommendation that includes the following:
+– Congo should invest $20M in Automation upgrades at AVP1 and FTW1
+– Doing so will increase Net Income by $245M / 60% (or $140M/33% or $105/25%)
+– Implement productivity practices from AVP1/FTW1 at other facilities to increase output
+– Further Automation could also decrease SG&A costs
+– Risks: implementation costs, disruption of current operations, dependency on US DOT, more 
+automation means higher maintenance costs
+– Next Steps: firm could help renegotiate trailer contracts, prepare distribution network for 
+higher utilization and higher productivity at other facilities.
+Interviewer Guidance:
+
+
+===== PDF p231 =====
+Evaluation Criteria
+226
+Candidate Level
+Assessment
+Average Candidate
+•
+Covers revenues and costs in framework
+•
+Doesn’t immediately recognize costs are driving 
+profitability problems
+•
+Doesn’t quickly identify any particular facility to 
+focus cost savings on
+•
+Incorrect or sluggish calculation, requires exhibits
+Good Candidate
+•
+Extensive framework, including: costs, revenues, 
+unit cost, fixed and includes ideas like automation, 
+logistics, competition
+•
+Quickly recognizes costs are main focus and can 
+determine Transportation costs are main focus
+•
+Recognizes FTW1 is biggest cost saving opportunity
+•
+Requires exhibits for calculation, but correct
+Excellent Candidate
+•
+Framework is excellent
+•
+Quickly recognizes Transportation Costs as main
+•
+Keeps $ and volume notes about each exhibit
+•
+Recognizes FTW1 + AVP1 are best opportunity
+•
+Does not require exhibits (much) for calculation
+•
+Strong recommendation

@@ -1,0 +1,358 @@
+===== PDF p241 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+237
+Firm Round & Case Style: McKinsey Round 2 (Interviewer Led)
+Difficulty: Hard
+Case Overview:
+Industry: Fast Food
+Case Type: M&A
+Concepts Tested:
+•
+Profitability
+Case Prompt:
+Let’s assume our client is Great Burger (GB) a fast food chain that competes head–to-head with 
+McDonald’s, Wendy’s, Burger King, KFC, etc. GB is the fourth largest fast food chain worldwide, 
+measured by the number of stores in operation.  As most of its competitors do, GB offers food and 
+“combos” for the three largest meal occasions: breakfast, lunch and dinner. Even though GB owns 
+some of its stores, it operates under the franchising business model with 85% of its stores owned by 
+franchisees (individuals own & manage stores and pay a franchise fee to GB, but major business 
+decisions e.g. menu, look of store, are controlled by GB).
+As part of its growth strategy GB has analyzed some potential acquisition targets including 
+Heavenly Donuts (HD), a growing doughnut producer with both a US and international store 
+presence. HD operates under the franchising business model too, though a little bit differently than 
+GB. While GB franchises restaurants, HD franchises areas or regions in which the franchisee is 
+required to open a certain number of stores. 
+GB’s CEO has hired McKinsey to advise him on whether they should acquire HD or not.
+Great Burger
+
+
+===== PDF p242 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+238
+Question #1: 
+What areas would you want to explore to determine whether GB should acquire HD?
+Notes to Interviewer:
+Stand Alone Value of HD
+•
+Growth in market for doughnuts
+•
+HD’s past and projected future sales growth (break down into growth in number of stores, and growth in 
+same store sales)
+•
+Competition – are there any other major national chains that are doing better than HD in terms of 
+growth/profit.  What does this imply for future growth?
+•
+Profitability/profit margin
+•
+Capital required to fund growth (capital investment to open new stores, working capital)
+Management Team/Cultural Fit
+•
+Capabilities/skills of top, middle management
+•
+Cultural fit, if very different, what % of key management would likely be able to adjust
+Great Burger: Question 1
+
+
+===== PDF p243 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+239
+Question #1: 
+What areas would you want to explore to determine whether GB should acquire HD?
+Notes to Interviewer:
+Synergies/Strategic Fit
+•
+Brand quality similar? Would they enhance or detract from each other if marketed side by side?
+•
+How much overlap of customer base? (very little overlap might cause concern that brands are not 
+compatible, too much might imply little room to expand sales by cross-marketing)
+•
+Synergies (Note to interviewer: do not let candidate dive deep on this, as it will be covered later)
+•
+GB experience with mergers in past/experience in integrating companies
+•
+Franchise structure differences.  Detail “dive" into franchising structures.  Would these different structures 
+affect the deal?  Can we manage two different franchising structures at the same time?
+Great Burger: Question 1
+
+
+===== PDF p244 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+240
+Question #2: 
+The team started thinking about potential synergies that could be achieved by acquiring HD.  Here are 
+some key facts on GB and HD. (Note to interviewer: show candidate Exhibit #1)
+What potential synergies can you think of between GB and HD?
+Notes to Interviewer:
+Lower Costs
+•
+Biggest opportunity likely in corporate SG&A by integrating corporate management
+•
+May be some opportunity to lower food costs with larger purchasing volume on similar food items (e.g., 
+beverages, deep frying oil), however overlaps may be low as ingredients are very different
+•
+GB appears to have an advantage in property and equipment costs which might be leverage-able to HD 
+(e.g., superior skills in lease negotiation)
+Increase Revenues
+•
+Sell doughnuts in GB stores, or some selected GB products in HD stores
+•
+GB has much greater international presence thus likely has knowledge/skills to enable HD to expand 
+outside of North America
+•
+GB may have superior skills in identifying attractive locations for stores as its sales/store are higher than 
+industry average, where as HD’s is lower than industry average – might be able to leverage this when 
+opening new HD stores to increase HD average sales/store
+•
+Expand HD faster then it could do on own – GB as a larger company with lower debt may have better 
+access to capital
+Great Burger: Question 2
+
+
+===== PDF p245 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+241
+Question #3: 
+The team thinks that with synergies, it should be possible to double HD’s US market share in the next 5 years, and that GB’s 
+access to capital will allow it to expand number HD of stores by 2.5 times.  What sales/store will HD require in 5 years in order for 
+GB to achieve these goals?  You should assume:
+•
+Doughnut consumption/capita in the US is $10/year today, and is projected to grow to $20/year in 5 years
+•
+For ease of calculation, assume US population is 300 M
+•
+Use any data from Exhibit #1 you need
+Notes to Interviewer:
+consumption is predicted to double
+Variable
+Source (given in case unless stated)
+Value
+HD sales
+Exhibit 1
+$700M
+US market
+(Consumption per capita) x (population)
+$3B
+HD market share
+(HD sales) / (US market)
+23%
+Note to interviewer: At this stage, tell the candidate to round to 25% for the sake of simplicity
+US market in 5 years
+(Projected consumption per capita) x 
+(population)
+$6B
+HD sales in 5 years if double 
+market share
+(Current share, calculated as 25%) x (double) x 
+(US market in 5 years)
+$3B
+# of stores in 5 years
+(Current # stores from Exhibit 1) x (2.5)
+2,500
+Sales/store in 5 years
+(HD sales in 5 years) / (new number of stores)
+$1.2M
+Note to interviewer - an 
+optional probing 
+question is to ask:
+•
+Does this seem 
+reasonable?
+A good response would 
+be: 
+•
+Yes, given it implies 
+less than double 
+same store sales 
+growth and per 
+capita consumption 
+is predicted to 
+double
+Great Burger: Question 3
+
+
+===== PDF p246 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+242
+Question #4: 
+One of the synergies that the team thinks might have a big potential is the idea of increasing the 
+businesses’ overall profitability by selling doughnuts in GB stores. How would you assess the profitability 
+impact of this synergy?
+Notes to Interviewer:
+Basic Profitability Analysis
+•
+Calculate incremental revenues by selling doughnuts in GB stores (calculate how many doughnuts per 
+store, time s price per doughnut, times number of GB stores) 
+•
+Calculate incremental costs by selling doughnuts in GB stores (costs of production, incremental number of 
+employees, employee training, software changes, incremental marketing and advertising, incremental cost 
+of distribution if we can not produce doughnuts in house, etc.)
+•
+Calculate incremental investments. Do we need more space in each store if we think we are going to attract 
+new customers? Do we need to invest in store layout to have in house doughnut production?
+•
+Other reasonable answers are acceptable
+Great Burger: Question 4
+
+
+===== PDF p247 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+243
+Question #4: 
+One of the synergies that the team thinks might have a big potential is the idea of increasing the 
+businesses’ overall profitability by selling doughnuts in GB stores. How would you assess the profitability 
+impact of this synergy?
+Notes to Interviewer:
+Cannibalization
+•
+If the candidate dives deep in the incremental revenue piece by taking into account cannibalization, what 
+would be the rate of cannibalization with GB offerings? Doughnut cannibalization will be higher with 
+breakfast products than lunch and dinner products, etc.
+•
+One way to calculate this cannibalization is to look at historic cannibalization rates with new product/offering 
+launchings within GB stores
+•
+Might also cannibalize other HD stores if they are nearby GB stores – could estimate this impact by seeing 
+historical change in HD’s sales when competitor doughnut store opens near by
+•
+Other reasonable approaches to calculating cannibalization are acceptable
+Great Burger: Question 4
+
+
+===== PDF p248 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+244
+Question #5: 
+What would be the incremental profit per store if we think we are going to sell 50 thousand doughnuts 
+per store at a price of $2 per doughnut at a 60% margin with a cannibalization rate of 10% of GB’s 
+sales?  
+Show candidate Exhibit #2.  Also, if necessary, explain the “Cannibalization Rate” to the candidate.
+Notes to Interviewer:
+•
+Only do this question if you feel you did not get a good read with the first quantitative question, or if you 
+have ample time left for the case.  If you skip this question, tell the candidate the following: The team has 
+calculated that the incremental profit per GB store from selling HD doughnuts would be $15K.
+•
+Incremental Profit =
+= contribution from HD sales less contribution lost due to cannibalized GB sales
+= 50K units x $2/unit x 60% margin – 300K units x 10% cannibalization x $3/unit x 50% margin
+= $60K – 45K 
+= 5K incremental profit/store
+Great Burger: Question 5
+
+
+===== PDF p249 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+245
+Question #6 (synthesis): 
+You run into the CEO of GB in the hall.  He asks you to summarize McKinsey’s perspective so far on 
+whether GB should acquire HD.  Pretend I am the CEO - What would you say? 
+Notes to Interviewer:
+This is an example response. Good answers may vary, depending on answers candidate gave in questions 1-4, and 
+whether or not they completed all previous questions.
+Early findings lead us to believe acquiring HD would create significant value for GB, and that GB should 
+acquire HD
+•
+We believe it is possible to add $15k in profit/GB store by selling HD in GB stores.  This could mean 
+$50 million in incremental profit for North American stores (where immediate synergies are most likely 
+given HD has little brand presence in rest of world.
+•
+We also believe there are other potential revenue and cost synergies that the team still needs to 
+quantify
+Once the team has quantified the incremental revenues, cost savings, and investments, we will make a 
+recommendation on the price you should be willing to pay
+We will also give you recommendations on what it will take to integrate the two companies in order to capture 
+the potential revenue and cost savings, and also to manage the different franchise structures and potentially 
+different cultures of GB and HD
+Great Burger: Question 6
+
+
+===== PDF p250 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Stores
+GB
+HD
+Total
+5,000
+1,020
+-
+North America
+3,500
+1,000
+-
+Europe
+1,000
+20
+-
+Asia
+400
+0
+-
+Other
+100
+0
+Annual Growth in 
+Stores
+10%
+15%
+Financials
+GB
+HD
+Total store sales
+$5,500M
+$700M
+Parent company revenues
+$1,900M
+$200M
+Key expenses (% sales)
+–
+Cost of sales *
+51%
+40%
+–
+Restaurant operating 
+costs
+24%
+26%
+–
+Restaurant property & 
+equipment costs
+4.6%
+8.5%
+–
+Corporate general & 
+administrative costs
+8%
+15%
+Profit as % of sales
+6.3%
+4.9%
+Sales/store
+$1.1M
+$0.7M
+Industry average
+$0.9M
+$0.8M
+* Variable costs, mostly food costs
+246
+Great Burger: Exhibit 1
+
+
+===== PDF p251 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Sales and Profitability per store
+Units of GB sold per store
+300,000
+Sales price per unit
+$3
+Margin
+50%
+Units of HD sold in GB stores
+50,000
+Sales price per unit
+$2
+Margin
+60%
+Cannibalization Rate of HD products to GB products
+10%
+247
+Great Burger: Exhibit 2

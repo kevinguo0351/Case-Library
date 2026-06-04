@@ -1,0 +1,466 @@
+===== PDF p236 =====
+© 2021 NYU Stern MCA
+Toto Foundation
+Authors: Justin Nuckles, Louie Guan & David Wilmerding (Stern ‘21) Firm Style & Round: BCG Round 1
+Interviewer-Led
+Quant: 7* 
+Structure: 8*
+Case Overview:
+Industry: Non-Profit
+Case Type: Opportunity assessment
+Concepts Tested:
+•
+Market Entry
+•
+Profitability
+•
+Math
+Overview Information for Interviewer:
+Interviewee should be able to...
+•
+Draw insights from multiple data sources
+•
+Consider the needs of a non-profit compared to a for-profit business
+Key case steps:
+•
+Conduct comparative analysis to determine product attractiveness
+•
+Assess quantitative and qualitative market challenges
+•
+Calculate impact
+Case Prompt:
+Our client, the Toto Foundation, is a new non-profit arm of a well-known drone manufacturing and logistics 
+company that is exploring aid projects in Africa. Our client is seeking your expertise to determine where and how 
+to deploy their technology to have the maximum impact.
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+232
+© 2021 NYU Stern MCA
+
+
+===== PDF p237 =====
+Toto Foundation: Case Guide
+Clarifying Information:
+Client Characteristics:
+•
+Parent company manufacture/sells drones
+•
+Extensive commercial experience in the US
+Commercial Product Uses:
+•
+Transportation of light packages
+•
+Limited military and defense
+Foundation Grant:
+•
+$4 million upfront
+•
+$1 million per year thereafter
+Project Goals and Constraints:
+•
+Maximize impact on human lives while
+staying within budget
+•
+Safety is primary concern
+•
+No additional sources of funding
+•
+Grant can only apply to projects in Africa
+•
+Success of this phase will prompt future 
+investment
+Framework Example
+Toto Foundation Considerations
+Existing Capabilities
+•
+Drone capabilities
+•
+Deployment expertise, previous experience
+•
+Funding
+Priorities
+•
+Lives impacted
+•
+Budget limitations, up-front and ongoing
+Personnel/Firm
+•
+Existing partnerships we can leverage
+Target Market
+Needs: Food, medicine, agriculture, security, etc. 
+Trends
+•
+Instability and political changes
+•
+What needs are already being met by others
+Other Considerations
+•
+Infrastructure available to deploy such a technology
+•
+Regulatory approval and constraints
+•
+Safety and flight risks
+Interviewer Note: Challenge the interviewer on the specificity of their framework, and 
+maintaining non-profit priorities (human lives) in view rather than typical cost/profit
+233
+© 2021 NYU Stern MCA
+
+
+===== PDF p238 =====
+Toto Foundation: Question 1
+Question 1:
+Based on your analysis, the client has developed a list of potential projects. Determine which project is the most 
+attractive for the foundation to pursue. [Provide Exhibit 1]
+Notes to Interviewer:
+The interviewee should leverage the expertise, need, impact scores, along with upfront costs to narrow down product options.
+Elimination Steps:
+•
+Upfront costs for blood & plasma delivery and insulin delivery exceed the grant’s upfront funding and therefore should be eliminated
+•
+Poacher and crop monitoring have low expertise and therefore would likely encounter operational challenges
+•
+The remaining two are dry food delivery and vaccine & general medicinal delivery. The interviewee should recognize that both have 
+similar expertise scores and upfront deployment costs. General medicinal delivery is the more attractive option because it also has top 
+need and impact scores
+•
+A good interviewee will identify the best product based on the information given
+•
+A great interviewee will draw additional insights related to product and market fit: vaccines are light and easy to transport via drone, 
+simple to administer, and fulfills a need in developing countries. The candidate may also disclose risks associate with vaccine delivery: 
+fragile, temperature-controlled, supply shortages, etc.
+234
+© 2021 NYU Stern MCA
+
+
+===== PDF p239 =====
+Exhibit 1: Project Proposals
+Project
+Expertise 
+(Score of 1-5)(1)
+Need 
+(Score of 1-5)(1)
+Impact 
+(Score of 1-5)(2)
+Upfront 
+Deployment Cost
+Blood & Plasma 
+Delivery
+3
+4
+4
+$11.5 million
+Crop Monitoring
+1
+3
+4
+$1.0 million
+Vaccine & General 
+Medicinal Delivery
+4
+5
+5
+$3.8 million
+Dry Food Delivery
+4
+3
+2
+$3.7 million
+Poacher Monitoring
+1
+3
+5
+$1.0 million
+Insulin Delivery
+4
+5
+5
+$6.5 million
+Note 1: Scored from 1 (lowest) to 5 (highest)
+Note 2: Scored from 1 (lowest) to 5 (highest) based on impact relative to existing solutions
+235
+© 2021 NYU Stern MCA
+
+
+===== PDF p240 =====
+Toto Foundation: Question 2
+Question 2:
+The client has identified 5 potential countries to launch the vaccines & general medicinal delivery service, but 
+hopes to narrow this down to two to analyze. What factors should they consider when choosing a country? [Provide 
+Exhibit 2 only after brainstorm] Which countries should they select?
+Notes to Interviewer:
+Prior to giving the exhibit, have the candidate brainstorm the types of data required to inform this decision:
+•
+A good candidate will list relevant criteria: size of country, demographics, etc.
+•
+A great candidate will categorize data types and connect how data would be utilized to make a decision:
+Category
+Measure
+Importance/Impact
+Population
+Density
+# of people 
+Demographics
+•
+Drones add value in relatively low-density areas
+•
+Population large enough to support investment
+•
+Certain populations are more susceptible to disease
+Health/Medical
+% vaccinated
+Deaths from preventable diseases
+•
+Most benefit in low-vaccinated areas
+•
+Maximize vaccine impact=more lives saved
+Safety/Other
+Crime Rate
+Ease of doing business
+•
+Ensure safety of volunteer
+•
+Key determinant for likelihood of success
+236
+© 2021 NYU Stern MCA
+
+
+===== PDF p241 =====
+Toto Foundation: Question 2
+Notes to Interviewer (continued):
+Country
+Explanation
+1. Rwanda
+Relatively high vaccination rates and road quality paired with lower poverty rates
+2. Tanzania
+Relatively high vaccination rates and road quality paired with high danger to non-profit workers
+3. Senegal
+ANSWER: Lower vaccination rates, poverty rates and road quality paired with low danger 
+to workers
+4. Guinea
+ANSWER: Lower vaccination rates, poverty rates and road quality paired with low danger 
+to workers
+5. Central African Republic
+High levels of need, but significant risks from high danger to non-profits and low ease of doing
+business
+Interviewer Notes:
+•
+A thorough analysis should connect each country’s need with the ease of meeting that need. Geography, population size, and density 
+should also be considered as factors contributing to impact maximization.
+•
+An excellent interviewer should also realize the limitations of information provided and seek for country specific cost and rollout data.
+•
+It is OK for the caser to select different markets, but the interviewer should challenge assumptions and lead back to the answers.
+237
+© 2021 NYU Stern MCA
+
+
+===== PDF p242 =====
+Exhibit 2: Target Country
+Country
+Population (in 
+millions)
+Density 
+(pop/km)
+Country Size  
+(sq. mi.)
+1. Rwanda
+20
+500
+10,000
+2. Tanzania
+50
+60
+400,000
+3. Senegal
+20
+90
+150,000
+4. Guinea
+10
+50
+100,000
+5. Central African Republic
+5
+10
+250,000
+2
+3
+4
+5
+1
+100
+80
+60
+40
+20
+0
+Ease of Doing Business
+Danger to 
+Nonprofits
+Central African Republic
+Quality of Road 
+Infrastructure
+Vaccination Rate (%)
+Rwanda
+Tanzania
+Senegal
+Poverty  
+Level
+Guinea
+238
+© 2021 NYU Stern MCA
+
+
+===== PDF p243 =====
+Toto Foundation: Question 3
+Math Question:
+Calculate annual costs and impact for both target countries. [Provide Exhibit 3]
+Math Solution:
+•
+A good interviewee should see that both countries
+have annual costs of $1 million per year
+•
+These costs match the annual grant money 
+meaning both projects are within the constraints
+•
+A great interviewee will see the lower variable cost 
+in Senegal allows for easier scalability
+•
+A great interviewee will then calculate impact to
+differentiate the locations
+•
+Interviewee should realize that for the same annual 
+costs, the non-profit can deliver more than double 
+the medicine per year in Senegal because of the 
+distance / number of flights
+Senegal
+Guinea
+Miles / Flight
+250
+500
+Cost / Mile
+$
+0.8
+$
+1.0
+Fuel & Maintenance Cost / Flight
+$
+(200)
+$
+(500)
+Total Flights / Day
+10
+5
+Total Costs / Day
+$
+(2,000)
+$
+(2,500)
+Total Flight Costs / Year
+$
+(600,000) $
+(750,000)
+Ground & Regulatory Costs / Year
+$
+(400,000) $
+(250,000)
+Total Cost / Year (300 Days)
+$
+(1,000,000)
+$
+(1,000,000)
+Vials / Flight
+100
+80
+Total Flights / Day
+10
+5
+Total Vials / Day
+1,000
+400
+Total Vials / Year (300 Days)
+300,000
+120,000
+239
+© 2021 NYU Stern MCA
+
+
+===== PDF p244 =====
+Exhibit 3: Annual Cost Calculation
+Senegal
+Guinea
+Vials / Flight
+100
+80
+Miles / Delivery (Roundtrip)
+250
+500
+Fuel & Maintenance Cost / Mile
+$0.8
+$1.0
+Days of Flying / Year
+300
+300
+Total Flights / Day
+10
+5
+Annual Regulatory & Ground Facility 
+Costs
+$400,000
+$250,000
+Additional Information:
+1) The cost of the drones are already included in the upfront development costs for the program
+2) A biotech firm is donating the vaccines & other medication (no buying or selling of the actual products)
+240
+© 2021 NYU Stern MCA
+
+
+===== PDF p245 =====
+Toto Foundation: Recommendation
+Recommendation:
+•
+Launch vaccination delivery service in 
+Senegal
+•
+A good recommendation will also 
+incorporate findings on # of vials 
+delivered vs. estimated cost
+Bonus: Guide to an excellent case
+•
+The interviewee will maintain focus on lives impacted throughout the case. The client is a non-profit and will not necessarily operate like
+a for-profit business.
+•
+The interviewee will keep in mind the non-profits constraints throughout the case.
+Possible Risks:
+•
+First international project of this type
+•
+Untested vaccine partnership and 
+program costs
+•
+Changing regulatory environment
+•
+Instability and shifting political 
+environment could lead to rapid 
+changes in needs
+•
+Uncertainty about infrastructure for 
+administering vaccines upon delivery
+(A good recommendation will have risks 
+addressed later by the next steps)
+Possible Next Steps:
+•
+Launch a pilot program to confirm 
+costs are in line with estimates
+•
+Explore what projects can be done to 
+build up drone delivery infrastructure 
+(acknowledging this is outside the 
+scope of the budget)
+•
+Begin to obtain regulatory approval 
+and expand partnership network
+•
+Establish a timeline for rollout
+241
+© 2021 NYU Stern MCA

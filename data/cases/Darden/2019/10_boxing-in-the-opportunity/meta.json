@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2019_10_boxing-in-the-opportunity",
+  "school": "Darden",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2019.pdf",
+  "idx": 10,
+  "case_name": "Boxing in the Opportunity",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Private Equity",
+  "difficulty": null,
+  "pdf_page_start": 127,
+  "pdf_page_end": 136,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    129,
+    130,
+    131,
+    132
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p130.png",
+    "exhibits/exhibit_p131.png",
+    "exhibits/exhibit_p132.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2019\\10_boxing-in-the-opportunity"
+}

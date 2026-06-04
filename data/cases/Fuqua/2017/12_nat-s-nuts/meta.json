@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2017_12_nat-s-nuts",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 12,
+  "case_name": "Nat's Nuts",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "CPG",
+  "difficulty": "Medium",
+  "pdf_page_start": 138,
+  "pdf_page_end": 147,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    141,
+    142,
+    143,
+    144,
+    145,
+    146
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p141.png",
+    "exhibits/exhibit_p142.png",
+    "exhibits/exhibit_p143.png",
+    "exhibits/exhibit_p144.png",
+    "exhibits/exhibit_p145.png",
+    "exhibits/exhibit_p146.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\12_nat-s-nuts"
+}

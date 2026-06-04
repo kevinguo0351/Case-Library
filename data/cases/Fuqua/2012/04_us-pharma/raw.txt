@@ -1,0 +1,279 @@
+===== PDF p39 =====
+Case 4: US Pharma 
+Prompt 
+Your client is pharmaceutical company called US Pharma. They just got FDA approval for a new 
+anti-depressant drug that is expected to become a big hit for the company.  
+ 
+A previous market study shows that the demand will be very high for this new drug. Therefore, US 
+Pharma will have to either expand its current factory in Texas or build a new one in Virginia, closer 
+to the port. 
+ 
+How will you approach this problem and help your client make a decision? 
+ 
+Guidance 
+This a investment decision case and the company wants to invest in the higher NPV option. Provide 
+the following information upon request: 
+ 
+•  The company sells many kind of drugs in US and Europe, their second largest market 
+•  The new drug is also approved to be sold in Europe 
+Orient the candidate to focus only on the new anti-depressant drug. The other drugs are not 
+important in this case. Ask the candidate to present his/her framework first before providing any 
+information from the following page. 
+ 
+Valuation 
+McKinsey & Company 
+35 
+
+
+===== PDF p40 =====
+36 
+Guidance 
+Investment: 
+•  Expand facility in Texas: $ 36 M 
+•  Build a new facility in Virginia: $ 50 M 
+ 
+Demand: 
+•  10,000,000 pills in US and 5,000,000 pills in Europe 
+•  Price: Average price per pill: $ 2 in US and $ 3 in Europe 
+ 
+Costs: 
+•  Labor cost: 
+•  Texas: $50,000 per year per employee 
+•  Virginia: It is expected that in Virginia, the labor cost will be 10% lower 
+•  Both plants will need 100 employees 
+•  SG&A: $250,000 per year for each option 
+•  Raw materials: to produce the drug, US Pharma needs 3 compounds: A, B and C 
+•  Compound A: $ 0.1 per pill 
+•  Compound B: $ 0.7 per pill 
+•  Compound C: $ 0.2 per pill 
+•  Production cost: $ 0.5 per pill (same for both options) 
+•  Inbound transportation Cost (transportation from the supplier to the factory): 
+•  Texas: 10% of the compound cost 
+•  Virginia: 5% (all the compounds are imported and enter the US throughout the port in Virginia) 
+•  Outbound transportation cost (transportation from the factory to the distributors): Not relevant 
+•  Depreciation: Straight line depreciation. The total investment will be fully depreciated in 10 years 
+•  Taxes: 33% for both options 
+•  Cost of capital: 10% per year 
+There is no change in the working capital and capital expenditure. The candidate can assume that the 
+earnings of this year will repeat in a perpetuity. 
+Valuation 
+McKinsey & Company 
+Case 4: US Pharma 
+
+
+===== PDF p41 =====
+Case 4: US Pharma 
+Guidance 
+Revenue = Revenue in US + Revenue in Europe = $2 x 10M + $3 x 5M = 35M (for both options) 
+ 
+Costs:  
+Labor cost in Texas= $50,000 x 100 = $5 M 
+Labor cost in Virginia = $5 M x 90% = $4.5 M 
+Compounds cost = (0.1 + 0.7 + 0.2) x 15 M pills = $15 M (for both options) 
+Production cost = $0.5 x 15 M pills = $7.5 M (for both options) 
+Logistics cost in Texas = 10% x $15 M = $1.5 M 
+Logistics cost in Virginia = 5% x $15 M = $0.75 M 
+Depreciation in Texas = $36 M x 10% = $3.6 M 
+Depreciation in Virginia = $50 M x 10% = $5 M 
+ 
+SG&A = $0.25 K (for both options) 
+ 
+Total cost in Texas = $5 M + $15 M + $7.5 M + $1.5M + $3.6 M + $0.25 M = $ 32.85 M 
+Operational profit in Texas = $35M - $32.85 = $2.15 M 
+Taxes in Texas =  $2.15 M x 33% = $0.71 M 
+Net earnings in Texas = $2.15 M - $0.71 M = $1.44 M 
+ 
+Total cost in Virginia = $4.5 M + $15 M + $7.5 M + $0.75M + $5 M + $0.25 M = $ 33.00 M 
+Operational profit in Virginia = $35M - $33.00 = $2 M 
+Taxes in Virginia =  $2 M x 33% = $0.66 M 
+Net earnings in Virginia = $2 M - $0.66 M = $1.34 M 
+ 
+Valuation 
+McKinsey & Company 
+37 
+
+
+===== PDF p42 =====
+Case 4: US Pharma 
+Guidance 
+Calculating free cash flow: 
+Free cash flow = Net earnings + Depreciation – Change in working capital – CAPEX 
+Free cash flow in Texas = $1.44 M + $3.6 M + $0 + $0 = $5.04 M 
+Free cash flow in Virginia = $1.34 M + $5 M + $0 + $0 = $6.34 M 
+ 
+Calculating the NPV: 
+NPV = (Free cash flow/Cost of capital) - Investment 
+NPV in Texas = ($5.04 M / 10%) – $36 M = $50.4 M - $36 M = $14.4 M 
+NPV in Virginia = ($6.34 M / 10%) – $50 M = $63.4 M - $50 M = $ 13.4 M 
+ 
+Note: if the candidate forgets to add back the depreciation, both options will have a negative NPV. 
+ 
+Eventually, he/she should conclude that US Pharma should expand the facility in Texas, because 
+that’s the option with the highest NPV. 
+ 
+Valuation 
+McKinsey & Company 
+38 
+
+
+===== PDF p43 =====
+Case 4: US Pharma 
+Prompt 
+Besides the fact that expanding the factory in Texas has the highest NPV, what other benefits 
+may US Pharma get by choosing this option? 
+Guidance 
+This is a brain storming question (the “what else part”). One good approach for this question is use 
+the Profit formula: Profit = Revenues – Cost. The candidate can provide ideas to increase revenues 
+and reduce costs. 
+ 
+•  Revenue side: 
+•  Time to market: expanding the factory may be faster than building a new facility 
+•  Introducing the drug faster may guarantee a faster costumer fidelization, avoiding the 
+entrance of new competitors 
+•  Cost side: 
+•  US Pharma can reduce some distribution costs, by using the same companies that already 
+distributes the other drugs to distribute this new anti-depressant drug 
+•  Reduction in production cost: there may be some sinergies between the production of this 
+new drug and the other drugs 
+•  Economies of scale: US Pharma may be able to buy from the same suppliers that provides 
+compounds for the other drugs, which lead to reduced COGS 
+ 
+Valuation 
+McKinsey & Company 
+39 
+
+
+===== PDF p44 =====
+Case 4: US Pharma 
+Performance 
+Evaluation 
+Expected: 
+• 
+Correctly calculates the net earnings 
+• 
+Correctly recommends the expansion in Texas 
+• 
+Provides some benefits for expanding the factory in Texas 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Correctly calculates the free cash flow 
+• 
+Provides most corrective actions listed with minimal prompting 
+ 
+Excellent: 
+• 
+Completes all “Good “ requirements 
+• 
+Provides an organized earnings statement 
+• 
+On the final recommendation, provides some risks of expanding the facility in Texas and 
+proposes some next steps 
+Valuation 
+McKinsey & Company 
+40 
+
+
+===== PDF p45 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+41 

@@ -1,0 +1,396 @@
+===== PDF p144 =====
+140
+A Messi Decision
+BCG | Round 1 | Sports and Entertainment
+
+
+===== PDF p145 =====
+141
+BCG | Round 1 | Sports
+0 9  |  C A S E :  A M E S S I  D E C I S I O N
+A MESSI DECISION
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  D e s c r i b e  y o u r  
+w o r k i n g  s t y l e .
+2 .  W h y  
+c o n s u l t i n g ?
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. What is the team’s goal? To win the European Championship within 3 seasons. Due to recent financial restrictions, 
+all of their player acquisitions must be offset with new revenue within 5 years. 
+2. How do soccer teams acquire players? In soccer transfers, the acquiring team buys out the new player for an 
+agreed upon fee. After they pay that fee, they then agree a new annual contract with the player.
+3. How does the team make money? If asked this question, have the candidate brainstorm revenue streams. Full 
+guidance appears later on. 
+4. What is soccer? Soccer is a global sport where a team strives to score more goals then their opponent. 
+5. How good is Messi? He is in the conversation for greatest of all time. He contributed (scored or assisted) 55 goals 
+last season. 
+6. How old is Messi? He is 35 years old. 
+Prompt:
+Your client is the CEO of a major English soccer team. He’s called you while 
+brimming with excitement after receiving news that Lionel Messi was looking for 
+a new team. Players of Messi’s quality rarely became available, and would 
+surely improve any team. However, with COVID-19 restricting budgets, money 
+would be tight and would need to generate a return. He would like you to figure 
+out what the right amount of money to offer would be.
+
+
+===== PDF p146 =====
+142
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 9  |  C A S E :  A M E S S I D E C I S I O N
+How to Move Forward:
+A great candidate should recognize that they can value Messi like any type of asset, through a number of approaches including incremental cash flows or comparable 
+players. 
+If the candidate gets stuck, encourage them to think about how they would value a different type of asset. Have them brainstorm cash flows and comps. 
+Ask the candidate to review Exhibit 1. 
+Financials
+Revenue
+•
+Incremental Ticket Sales 
+•
+Jersey sales 
+•
+TV/AD Revenue 
+•
+Costs
+•
+Acquisition Fee
+•
+Salary Cost 
+Competitors
+• How will they respond? 
+• Could this start a talent 
+arms race? 
+Messi
+• How good is he? 
+• Age / Career Arc? – How many 
+years
+• Will he want to come? 
+• Are there cheaper 
+alternatives? 
+• Language barriers? 
+Risks
+• Injury risk (could increase with 
+age)
+• Could he ask to leave our club 
+in a few years? 
+• Style of play doesn’t adjust to 
+our league
+
+
+===== PDF p147 =====
+143
+EXHIBIT 1
+0 9  |  C A S E :  A M E S S I  D E C I S I O N
+Recent Transfers of Top Forwards
+Name 
+Age (at time of 
+transfer)
+Goal 
+Contributions*
+Transfer Fee 
+Transfer Year 
+Christiano Ronaldo
+33
+62
+$117M 
+2018
+Neymar 
+25
+24
+$225M 
+2017
+Kylian Mbappe
+19
+31
+$310M
+2017
+Pierre Emerick 
+Aubameyang
+29
+28
+$56M 
+2018
+Diego Costa 
+27
+28
+$62M 
+2018
+*Goal contributions include goals and assists – key offensive metrics. The European average for attacking players is 12, over 30 is considered elite. 
+
+
+===== PDF p148 =====
+144
+EXHIBIT 1 – INTERVIEWER GUIDANCE
+0 9  |  C A S E :  A M E S S I  D E C I S I O N  
+Recent Transfers of Top Forwards
+Name 
+Age (at time of 
+transfer)
+Goal 
+Contributions
+Transfer Fee 
+Transfer Year 
+Multiple
+Christiano Ronaldo
+33
+62
+$117M 
+2018
+~2x
+Neymar 
+25
+24
+$225M 
+2017
+~10x
+Kylian Mbappe
+19
+31
+$310M
+2017
+10x
+Pierre Emerick 
+Aubameyang
+29
+28
+$56M 
+2018
+~2x
+Diego Costa 
+27
+28
+$62M 
+2018
+~2x
+Exhibit Analysis:
+A good candidate should recognize that they can use market multiples to approximate a value. They should try to calculate a multiple of 
+Transfer Fee to Goal Contributions. An average multiple would be 5x. 
+A great candidate will recognize that older players trade at lower multiples, and suggest a more conservative multiple of 2x.
+How to Move Forward: With a multiple in mind, the candidate should ask for Messi’s goal contributions. Tell them 55, and suggest that 
+he will sell for a multiple of 2.6x – giving a value of $143M 
+
+
+===== PDF p149 =====
+145
+ROI Calculation: 
+With the value of $143M on the table, the candidate should pivot towards looking at the incremental revenue Messi will bring in and whether 
+the transfer will break even. Ask the candidate to brainstorm how the client makes money. Push them until they find the following:
+•
+Ticket revenue 
+•
+Food + Beverage Revenue 
+•
+TV and streaming broadcast revenue 
+•
+Sponsorship & partnership revenue 
+•
+Jersey and merchandise sales 
+0 9  |  C A S E :  A M E S S I D E C I S I O N
+Once the candidate has established the revenue streams – they should ask for information on current performance of each channel. When they 
+do, provide them with the following information: 
+•
+The team plays 25 home matches per year, with an average ticket price of $50. The stadium has 60,000 seats and is 83.33% full. 
+•
+Each fan typically spends $10 on food and beverages.
+•
+TV rights are assigned based on popularity – the team currently receives $150M per year in revenue. 
+•
+Sponsors currently pay $50M a year 
+•
+In the past, the team has sold 1M jerseys at a price of $100 each, but only receives a 25% margin 
+•
+Given that information, the candidate should attempt to calculate the current revenue.
+
+
+===== PDF p150 =====
+146
+ROI Calculation (continued): 
+•
+Current revenue calculations: 
+•
+60,000 seats * 83.33% (5/6) fill rate * $50 ticket * 25 games = $62.5M 
+•
+60,000 seats * 83.33% * $10 food and beverage * 25 games = $12.5M 
+•
+Broadcast ($150M) + Sponsorship ($50M) = $200M 
+•
+1M jerseys * $100 jersey * 25% margin = $25 M 
+•
+Total Revenue = $300M 
+0 9  |  C A S E :  A M E S S I D E C I S I O N
+Once the candidate has completed those calculations, they should ask for the incremental costs and benefits associated the transfer. Give 
+them the following. 
+•
+Given Messi’s significant commercial draw, the team would expect to sell out every home game, and charge $15 more per ticket.
+•
+Broadcast revenue would increase by 10% and sponsorship would double  
+•
+Last year, Messi had the highest selling jersey in the world. Selling 2M units. The team expects to sell that many each year of his contract, 
+but it would cannibalize 50% of their current jersey sales. Pricing and margins would remain the same. 
+•
+Messi is the second highest player in the world, with a salary of $100M per year. His agents take a 10% fee annually. 
+
+
+===== PDF p151 =====
+147
+ROI Calculation (continued): 
+•
+Future revenue calculations: 
+•
+60,000 seats * 100% fill rate * $65 ticket * 25 games = $97.5M 
+•
+60,000 seats * 100% * $10 food and beverage * 25 games = $15M 
+•
+Broadcast ($150M*110% = $165M) + Sponsorship ($100M) = $265M 
+•
+2M new jerseys + 1M old jerseys * (50% cannibalization rate) = 2.5M total jerseys * $100 * 25% margin = $62.5M
+•
+Total New Revenue = $440M 
+•
+New Revenue($440M) – Old Revenue ($300M) = $140M incremental per year 
+•
+Incremental Costs = $110M in new salary and fees
+•
+Incremental Profit = $140M - $110M = $30M 
+•
+Upfront costs = $143M 
+•
+Payback period is just under 5 years 
+•
+A good candidate will realize that this investment will break even in just under five years. 
+•
+A great candidate will realize that the transfer breaks even but will want to dive into the risks. S/he might suggest that 
+there might be issues with high wages for an older player, risk of injury, etc. 
+0 9  |  C A S E :  A M E S S I D E C I S I O N
+
+
+===== PDF p152 =====
+148
+CONCLUSION
+0 9  |  C A S E :  A M E S S I  D E C I S I O N
+“The CEO and the world soccer community are waiting, what will you tell them?”
+Recommendation:
+•
+Our client is interested in determining a fair market value for Lionel Messi
+•
+Based on a market multiples approach, we found it fair to offer ~$140M for his contract
+•
+Even with an annual salary of $100M, incremental revenues will allow this transfer to break even in 5 years 
+•
+Players of Messi’s quality are rare, and he could help the client achieve their goal of a European championship 
+Risks:
+•
+Financial projections show an aggressive uptick in revenue that could be hard to obtain. 
+•
+Huge investment for an older player who may not have lasting value on the field 
+Next Steps:
+•
+Do further diligence on the feasibility and sensitivity on the revenue model 
+•
+Lock in additional sponsorship dollars from corporations who might want to align their brand with Messi
+
+
+===== PDF p153 =====
+149
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p154 =====
+150
+EXHIBIT 1
+0 9  |  C A S E :  A M E S S I  D E C I S I O N  - A P P E N D I X
+Recent Transfers of Top Forwards
+Name 
+Age (at time of 
+transfer)
+Goal 
+Contributions*
+Transfer Fee 
+Transfer Year 
+Christiano Ronaldo
+33
+62
+$117M 
+2018
+Neymar 
+25
+24
+$225M 
+2017
+Kylian Mbappe
+19
+31
+$310M
+2017
+Pierre Emerick 
+Aubameyang
+29
+28
+$56M 
+2018
+Diego Costa 
+27
+28
+$62M 
+2018
+*Goal contributions include goals and assists – key offensive metrics. The European average for attacking players is 12, over 30 is considered elite. 

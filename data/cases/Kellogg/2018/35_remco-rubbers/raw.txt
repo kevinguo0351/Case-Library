@@ -1,0 +1,244 @@
+===== PDF p262 =====
+258
+Remco Rubbers
+Case tracker
+▪Industry: Manufacturing
+▪Case format: Interviewee led
+▪Concepts being tested:
+- Strategy
+- Competitive response
+- Economics
+Case Prompt
+▪Remco is a rubber producing company that produces high quality rubber that is heat and oil resistant. This rubber is used
+create O-rings in industries where it is of high importance to not have contamination. In the coming year, a new
+competitor from China called Gemi plans to enter the market with a lower quality rubber. What should Remco do?
+Guide to interviewer
+▪General overview of the case – This is a case mainly
+testing strategic concepts and realizing that Remco
+should not get into a price war. A simple profitability
+framework will not suffice to explain qualitative aspects
+of the client’s decisions.
+▪The framework should cover (most of) the following
+options:
+1. Lower the price
+2. Buy the competitor, Gemi
+3. Form a joint venture with Gemi
+4. Import lower quality rubber from China
+5. Produce lower quality rubber
+By:  Viviktha Ramesh (Kellogg Class of ‘19)
+Quant: 4
+Structure: 9
+Industry: Manufacturing
+Framework: Comp. Response
+
+
+===== PDF p263 =====
+259
+Clarifying answers and case guide
+Guide to case / Guide to handouts
+Outline key high-level steps / areas of analysis, in the order of the logic / case
+flow
+1. Market: There are 3 competitors, but only 1 competitor, Hindco is
+relevant. Both Remco and Hindco have an equal market share and service
+3 industries.
+2. When interviewee asks about quality of rubber, hand out Exhibit A
+3. When the interviewee asks about customers, hand out Exhibit B
+4. If interviewee asks about lowering price or cost structure, hand out
+Exhibit C. Discuss each of the competitive responses and push the
+interviewee to realize that:
+•
+If Remco lowers price of its rubber, it will lose its margin in all 3 industries
+and go into a price war. So it should not lower price of high quality rubber.
+•
+If Remco creates a new product of lower quality rubber, it will steal share
+from Hindco, which will retaliate by going into a price war in all industries
+and it will lose margin on the other 2 industries (aerospace and pharma)
+as well.
+•
+If Remco buys Gemi, it will keep having to buy any new competition that
+appears, and in essence will be paying to get back its own customers
+•
+If Remco imports lower quality rubber from China, it will essentially be
+inviting other Chinese competitors into the market, So Remco should not
+import rubber from China
+•
+This only leaves the option to form a joint venture with Gemi.
+Clarifying answers to provide
+Customers
+- It sells rubber used to create O-rings in
+3 industries- semiconductor, aerospace
+and pharmacological drugs. Each of
+them have different needs for rubber
+quality, at present only Remco and
+Hindco meet these quality needs
+Market and Competitive dynamics
+- There are 3 other competitiors: Hindco,
+Deeret and Akinra. Of them, only
+Hindco that makes the same quality
+rubber. Both Remco and Hindco sell at
+the same price and each holds 50%
+market share in the O-ring industry for
+the 3 industries they serve.
+Company
+- Remco is specialized in high quality
+rubber
+- Remco is highly profitable
+Product
+- 2 principal factors are important in
+rubber: heat and oil resistance
+- There is no brand value, and high
+quality rubber is a commodity good
+
+
+===== PDF p264 =====
+260
+Key elements to analyze
+Exhibit A
+▪What is are the relevant
+competitors and customers?
+Model answer / calculations
+▪Remco serves only 3 industries
+(Semiconductor, aerospace and
+pharmacological drugs)
+▪Only Remco and Hindco fit thes
+quality needs for these customers.
+So Hindco and Gemi are the only
+relevant competitiors on Exhibit A
+▪Gemi’s rubber is as heat resistant,
+but less oil resistant
+Exhibit B
+▪Which customers have a risk of
+switching?
+Model answer / calculations
+▪Semiconductors are the only
+industry for which any oil
+resistance level above 2.5 will
+do.
+▪So semiconductor companies
+will consider switching to Gemi
+▪If the interviewee asks if the
+semiconductor industry is small
+enough to be ignored, then tell
+that the semiconductor,
+aerospace and pharmacology
+industry each account for 33%
+of the revenue.
+Exhibit C
+▪Will we be able to win a price war?
+Model answer / calculations
+▪Variable cost of Remco and Hindco is 50$/ unit
+whereas that of Gemi is 40$/unit.
+▪So if Remco and Gemi were to go into a price
+war, Gemi could sell at any price between 40$
+and 50$ and Hindco would not be able to
+compete.
+▪Remi’s total cost and COGS remains higher than 
+Gemi for a lower quality rubber, so it doesn’t 
+make sense to produce it(calculations below)
+Original 
+Quality
+Change
+Reduced 
+Quality
+Price/unit 
+100
+=0.3*100=30
+70
+COGS
+50*
+=0.15*50=7.5
+42.5
+Other fixed 
+costs
+10
+=0.1*10=1
+11
+
+
+===== PDF p265 =====
+261
+Solution and recommendations
+Solution & Recommendations
+▪Remco should launch a joint venture with Gemi and increase the price of Gemi’s rubber (any reasonable number between
+70-100$)
+▪Remco has an existing network of customers and distribution in the USA
+▪This avoids a direct price war with both Hindco and Gemi
+▪The only other option for semiconductor companies would be a 100$ option
+▪Other potential answers could be
+▪Lock in customers by warrantees, added services
+▪Reduce COGS of Remco by introducing operational efficiencies
+▪Consider finding new industries willing to pay a premium for high quality rubber
+▪A Good candidate will realize all the options that Remco can take and will be able to talk through them as the interviewer
+prompts
+▪A Great candidate will  realize all the options that Remco can take and will be able to tell which ones won’t work and why.
+
+
+===== PDF p266 =====
+262
+Exhibit A- Competitor Landscape
+Level of Heat resistance of rubber
+Level of Oil resistance of rubber
+Remco
+Hindco
+Gemi
+Akinra
+Deeret
+0 
+1 
+2 
+3 
+4 
+5
+1            2              3              4            5
+
+
+===== PDF p267 =====
+Exhibit B
+0
+1
+2
+3
+4
+5
+Semiconductor
+Pharmaceuticals
+Aerospace seals
+Customer survey of importance of level of different 
+characteristics of rubber
+Oil resistance
+Heat resistance
+
+
+===== PDF p268 =====
+264
+Exhibit C- Cost structure per unit rubber
+Remco
+Hindco
+Gemi
+Price/unit 
+100
+100
+70
+COGS
+50*
+50*
+30
+Cost of importing/ unit
+-
+-
+10
+Other fixed costs
+10
+10
+5
+As compared to price of 
+higher quality rubber
+Change
+% decrease in Price
+30%
+% decrease in COGS
+15%
+% increase in fixed cost
+10%
+Profitability if Remco decides to produce lower quality rubber with oil resistance=2.5
+Profitability for current products sold

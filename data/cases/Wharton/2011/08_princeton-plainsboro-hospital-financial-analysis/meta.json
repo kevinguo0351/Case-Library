@@ -1,0 +1,28 @@
+{
+  "case_id": "Wharton_2011_08_princeton-plainsboro-hospital-financial-analysis",
+  "school": "Wharton",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2011.pdf",
+  "idx": 8,
+  "case_name": "Princeton-Plainsboro Hospital Financial Analysis",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare / Hospital",
+  "difficulty": null,
+  "pdf_page_start": 67,
+  "pdf_page_end": 72,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    67,
+    69,
+    70,
+    71
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p069.png",
+    "exhibits/exhibit_p070.png",
+    "exhibits/exhibit_p071.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2011\\08_princeton-plainsboro-hospital-financial-analysis"
+}

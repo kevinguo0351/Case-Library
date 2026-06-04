@@ -1,0 +1,121 @@
+===== PDF p213 =====
+Casebook | 2019-20 Edition 
+209 
+ 
+55. Dinosaur (McKinsey R2, Other, M&A, Balanced) 
+Part 1: brainstorming 
+ 
+Interviewer: Our client is an explorer in the Amazon rainforest. He just discovered the last living dinosaur, 
+and has hired us to price it for him. 
+ 
+Candidate: If I understand correctly, we are going to help the client price a living dinosaur. Let’s first 
+brainstorm who the potential buyers of the dinosaur might be, then identify the potential sources of value 
+the dinosaur would provide each buyer, and finally decide on a pricing strategy. 
+ 
+Note: Candidate *should*ask a clarifying question very early on as to what type of dinosaur it is – a 
+Tyrannosaurus Rex would probably sell for much more than an iguana-sized plant-eating dinosaur. If the 
+candidate does not, don’t mention it now. Instead, at the end of the case, ask the candidate what type of 
+dinosaur it is – then give him a hard time at the end of the case by showing how his answer could change 
+depending on what type of dinosaur it is. 
+ 
+Candidate: Ok, let’s divide the potential customers into a couple of different categories: 
+Public/government institutions, Private collectors (rich people!), Research institutions/scientists/other non- 
+profits, and Corporations (theme parks and zoos). 
+ 
+Note: Candidate should try to generate a MECE structure. When the candidate is done, ask the candidate 
+for a few more ideas. 
+ 
+Part 2: revenue sources 
+ 
+Interviewer: Great! Let’s assume that the most likely buyer for the dinosaur will be the Disney Animal 
+Kingdom. How do you think the Disney Animal Kingdom could generate incremental revenue after 
+purchasing the dinosaur? 
+ 
+Candidate: There are several categories of revenue that the dinosaur could help generate, both inside 
+the theme park and outside the theme park: 
+ 
+Inside the park: 
+ 
+- 
+Tickets – the change in quantity of tickets sold plus any change (increase) to the price of the 
+tickets 
+- 
+Apparel (in-park sales) 
+- 
+Concessions 
+Outside the park: 
+- 
+TV/Internet – Disney could develop a “Dinosaur Channel” and sell subscription streaming video 
+- 
+Apparel (online and in third-party shops) 
+- 
+Naming rights – Disney could sell the naming rights to the dinosaur. For example, AT&T might 
+pay a lot to brand the dinosaur as the “AT&T Rex”. 
+- 
+DNA licensing 
+Note: Candidate should try to generate a MECE structure. When the candidate is done, ask the candidate 
+for a few more ideas. Candidate should incorporate information from their prospective customer list; for 
+example, Disney could license DNA to other corporations 
+ 
+Interviewer: Excellent. Let’s focus on the increase in revenue from tickets. Can you estimate that for our 
+client? 
+ 
+Candidate: We will calculate the increase in revenue as the sum of the increase in revenue from 
+incremental ticket sales at existing prices plus any increase in average ticket price times the total number 
+
+
+===== PDF p214 =====
+Casebook | 2019-20 Edition 
+210 
+ 
+of tickets sold. Do we know how many visitors there are currently (before the dinosaur), the average ticket 
+price, and how those will change if the dinosaur is added to the park? 
+ 
+Interviewer: The average ticket price is $40, and will double once the dinosaur is added. The number of 
+visitors to the park (= tickets sold) will increase by 25% after the dinosaur is added, but you will have to 
+estimate the baseline ticket sales. Restrict yourself to considering tickets sold to those in the United 
+States. 
+ 
+Candidate: I’m not too familiar with theme parks, but let’s assume that approximately 25% of people in 
+the US will be able to afford visiting the Disney Animal Kingdom at some point in their life. There are 
+approximately 300M people in the US; thus, 75M will be able to visit at some point. Assuming an average 
+lifespan of 75 years per person, there will be on average of 1M people visiting the Disney Animal 
+Kingdom each year. 
+ 
+Therefore, ticket sales will increase from 1M to 1M*1.25 = 1.25M/year, while average ticket prices will 
+increase from $40/ticket to $80/ticket. 
+ 
+Therefore, revenue will increase as follows: 
+ 
+● 
+Current revenue (without the dinosaur): 1M visitors * $40/ticket = $40M/year 
+● 
+Future revenue (with the dinosaur): 1.25M visitors * $80/ticket = $100M/year 
+● 
+Increase in revenue = $100M/year - $40M/year = $60M/year 
+Note: Candidate should structure this as a table, with one column for “before” and one column for “after”, 
+with visitors/year, price/ticket, and revenue/year on the left 
+ 
+We can use this information to price the dinosaur if we are able to estimate the risk associated with 
+purchasing and housing the dinosaur, plus the risk that it might die, by modeling the increase in annual 
+revenues as a perpetuity. 
+ 
+Note: Let the candidate remember to link back to the original question. If the candidate is unable to do so, 
+ask how their answer relates to the clients request in order to get them back on track. If they do not think 
+to use an NPV or perpetuity to value it, prompt them. 
+ 
+Interviewer: Assume a discount rate of 40%, inclusive of all the risks you mentioned. 
+ 
+Candidate: In that case, the value of the dinosaur would be $60M/40% = $150M. Note that this is only 
+considering the increase in revenue from ticket sales, but does not consider the other revenue sources 
+we discussed such as Apparel or Concessions, nor does it consider the costs of housing the dinosaur. 
+ 
+Interviewer: Ignore all those factors. How would you summarize your recommendation for the client? 
+ 
+Candidate: We recommend that the client aim to sell the dinosaur to a theme park such as the Disney 
+Animal Kingdom with an initial price of $150M. $150M is the value that the dinosaur would provide in 
+terms of ticket revenue, presumably there is additional value that the dinosaur could provide to Disney – 
+such as selling tissue samples to scientists, or naming rights to sports teams – that would provide upside 
+to the purchaser. 
+ 
+Interviewer: Excellent job. Now tell me, what are your two biggest weaknesses? 

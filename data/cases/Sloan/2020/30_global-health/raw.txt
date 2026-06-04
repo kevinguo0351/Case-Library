@@ -1,0 +1,106 @@
+===== PDF p145 =====
+Casebook | 2019-20 Edition 
+141 
+ 
+30. Global Health (BCG R2, Healthcare, New Market, Quantitative) 
+Stem: Our client is an organization trying to incentivize pharma and biotech firms to develop treatments 
+and vaccines for diseases that are prevalent in developing countries. Their challenge is to identify where 
+to focus as there are many possible diseases. 
+ 
+Interviewer: Please take a look at this graph. 
+ 
+ 
+When asked, provide the following details: 
+ 
+● 
+DALY stands for Disability-Adjusted Life Year and is a measure of how much impact a disease 
+has on peoples’ productivity. Diseases which cause people to die young or which cause disability 
+starting in childhood have the highest DALY scores. 
+● 
+Pipeline indicates the number of drugs that are currently under development. 
+● 
+All these data are made up, as are some of the disease names. 
+Interviewer: Which diseases represent the best opportunity for our client? 
+ 
+Candidate: HIV and Hep represent the greatest disease burden for developing countries, but there are 
+also many treatments already under development for these diseases, so our client probably doesn’t want 
+to focus there. (Hard to incentivize more development, as the competition looks tough) It probably makes 
+more sense to focus on the three diseases with the next-highest disease burden, TB, Malaria, and 
+Diarrheal Disease. Of these, I would recommend focusing on Diarrheal disease as there are the fewest 
+products in the pipeline. 
+ 
+Interviewer: You’re right about diarrheal disease: that is where the client decided to focus. What does 
+this tell us about diarrheal disease? Show candidate second graph. 
+
+
+===== PDF p146 =====
+Casebook | 2019-20 Edition 
+142 
+ 
+ 
+ 
+When asked, provide the following details: 
+ 
+● 
+Etiology means the causes of the disease. 
+● 
+Antigen is a general term that can refer to anything which provokes an immune response, 
+whether bacteria, virus, etc. 
+● 
+The Y-axis scale, incidence, indicates that 5% of cases are caused by Antigen A, and so forth. If 
+someone adds up all the bars, he or she will realize that they don’t sum to 100%. This is because 
+some cases are caused by antigens that have not yet been identified—so the picture is even 
+worse… 
+● 
+Data are recent (last year) and the sample sizes are large: n=1500 for the local population data 
+and n=256 for the military data. Subjects in the local population data are children under 18 years 
+old. Subjects in the military data are soldiers of all ages. 
+ 
+Candidate: It looks like diarrheal disease is not caused by a single primary antigen, but can be caused by 
+a large number of different ones. I imagine this is kind of similar to the flu. Each year when I get a flu shot, 
+there are different “strains” that it covers, and I might still get the flu if I catch a strain that wasn’t included. 
+ 
+This means that developing a treatment or vaccine will be difficult because it can’t just attack one of the 
+antigens, it will need to be effective across a large number of them. This helps explain why there are so 
+few current treatments and vaccines available to treat diarrheal disease. 
+ 
+Interviewer: Who do you think would be the main customers if we could encourage someone to produce 
+a treatment or a vaccine for diarrheal disease? 
+ 
+Candidates: Governments of the countries where this disease presents a major problem. Probably also 
+some nonprofits who help provide healthcare in those areas: International organizations, such as the 
+World Health Organization of the United Nations. 
+ 
+Keep asking who else and provide hints until the candidate realizes that foreign tourists and the military 
+would also provide significant sources of revenue for such a product. 
+
+
+===== PDF p147 =====
+Casebook | 2019-20 Edition 
+143 
+ 
+Interviewer: What are some of the issues or risks that the drug maker would face with each of these 
+customers? 
+ 
+Candidates: Both governments and the military are attractive customers because they buy in large 
+volumes, but because of that they have significant negotiating power. If the military decides not to buy, 
+that single loss of a sale could cause the whole project to become unprofitable. The drug maker and the 
+client should consider trying to set up pre-commitment contracts with the governments and the military. 
+ 
+Interviewer: OK, take a look at this graph and assume that this is the prescribing data for a product like 
+the one that our client may help launch for diarrheal disease. Assume that market 1 and market 2 are two 
+different geographic markets. What does this show and which market seems like a better target? 
+ 
+If the Candidate needs a little help with interpretation, the chart shows the physicians in each market 
+arranged by their prescribing level of this product horizontally in descending order. So the physician who 
+prescribes the most is on the left, and those who prescribe the least are on the right. The height of the 
+line represents the cumulative total of all the units they have prescribed. 
+ 
+Candidate: Market 1 is more consolidated than Market 2. 80% of the units of this product are prescribed 
+by about a third of the physicians in Market 1, but in Market 2 to account for 80% of the units we have to 
+include closer to 60% of the physicians. This means that it is probably easier to sell in Market 1 because 
+fewer physicians would have to be informed about the new product, so I would be a better target. 
+ 
+Interviewer: So, what is your recommendation? 
+ 
+Any well thought out recommendation based on the data presented will be fine. 

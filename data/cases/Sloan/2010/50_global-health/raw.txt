@@ -1,0 +1,186 @@
+===== PDF p167 =====
+50.) Global Health (BeG, Round 2) 
+Stem: Client is an organization, which is trying to incentivize pharma and biotech firms to 
+develop treatments and vaccines for diseases that are prevalent in developing countries. The 
+challenge is to identify where to focus as there are many possible diseases. 
+Show candidate the graph. 
+When asked, provide the following details: 
+DALY stands for disability-adjusted life year and is a measure of how much impact a disease 
+has on people's productivity. Diseases, which cause people to die young or which cause 
+disability starting in childhood, have the highest DALY scores. 
+Pipeline indicates the number of drugs that are cUlTentl y under development. 
+All these data are made up, as are some of the disease names. 
+Question: Which diseases represent the best opportunity for our client? 
+Possible Answer: HIV and Hep represent the greatest disease burden for developing countries, 
+but there are also many treatments already under development for these diseases, so our client 
+probably doesn't want to focus there. (Hard to incentivize more development, as the competition 
+looks tough.) It probably makes more sense to focus on the three diseases with the next-highest 
+disease burden, TB, Malaria, and Diarrheal Disease. Of these, I would recommend focusing on 
+Diarrheal disease as there are the fewest products in the pipeline. 
+Question: You're right about dianheal disease: that is where the client decided to focus. What 
+does this tell us about diarrheal disease? (Show candidate second graph) 
+If asked, provide the following details: 
+Etiology means the causes of the disease. 
+Antigen is a general term that can refer to anything which provokes an immune response, 
+whether bacteria, virus, etc. 
+The Y-axis scale, incidence, indicates that 5% of cases are caused by Antigen A, and so 
+forth. If someone adds up all the bars, he or she will realize that they don't sum to 100%. 
+This is because some cases are caused by antigens that have not yet been identified-so the 
+picture is even worse .... 
+Data are recent (last year) and the sample sizes are large: n=1500 for the local population 
+data and n=256 for the military data. Subjects in the local population data are children under 
+18 years old. Subjects in the military data are soldiers of all ages. 
+-~ 
+Marulgemenf 
+1111111111 Consulting 
+~~~,!,?;;'~ Club 
+2010-2011 1st Year Case Book 
+213 
+
+
+===== PDF p168 =====
+Possible Answer: It is not caused by a single primary antigen, but can be caused by a large 
+number of different "bugs." This means that developing a treatment or vaccine will be difficult 
+because it can't just attack one of the antigens, it will need to be effective across a large number 
+of them. This helps explain why there are so few current treatments and vaccines available to 
+treat diarrheal diseases. It's like the flu or the common cold-sinlilar symptoms but really not 
+just one single pathogen that causes the disease, like is the case for small pox, for example. This 
+is true both for the local population and the military population. 
+Question: Who do you think would be the main customers if we could induce someone to 
+produce a treatment or a vaccine for diarrheal disease? 
+Possible Answers: Governments of the countries where this disease presents a major problem. 
+Probably also some nonprofits who help provide healthcare in those areas. International 
+organizations, such as the World Health Organization of the United Nations. 
+(Keep asking who else and provide hints until the candidate realizes that foreign tourists and the 
+military would also provide significant sources of revenue for such a product.) 
+Question: What are some of the issues or risks that the drug maker would face with each of these 
+customers? 
+Possible Answers:· Both governments and the military are attractive customers because they buy 
+in large volumes, but because of that they have significant negotiating power. If the military 
+decides not to buy, that single loss of a sale could cause the whole project to become 
+unprofitable. The drug maker and the client should consider trying to set up pre-commitment 
+contracts with the governments and the military. 
+(Show candidate graph 3) 
+Question: Assume that this is the prescribing data for a product like the one that our client is 
+considering helping launch for diarrheal disease. Assume that market 1 and market 2 are two 
+different geographic markets. What does this show and which market seems like a better target? 
+Answer: The chart shows the physicians in each market arranged by their prescribing level of 
+this product horizontally in descending order. So the physician who prescribes the most is on the 
+left, and those who prescribe the least are on the right. The height of the line represents the 
+cumulative total of all the units they have prescribed. The candidate should recognize that 
+Market 1 is basically more consolidated than Market 2. 80% of the units of this product are 
+prescribed by about a third of the physicians in Market 1, but in Market 2 to account for 800/0 of 
+the units we have to include more like 60% of the physicians. One implication of this is that it is 
+probabl y easier to start selling a product that is similar to this one in Market 1 because fewer 
+physicians would have to be informed about the new product. This means it's an easier task to 
+get penetration in Market 1, and we might want to start there. 
+Intervie\ver: So, what is your recommendation? 
+Any well thought out recommendation based on the data presented will be fine. 
+....... Management 
+!W.!!!.!!! Consulting 
+~~~~'.?:'.~ Club 
+2010-2011 1 st Year Case Book 
+214 
+
+
+===== PDF p169 =====
+. 
+Disease in the Developing World 
+# of 
+existing 
+treatment 
+s or 
+vaccines 
+10 
+III 
+C 
+9 
+(!) 
+b.O 
+0,J:; 
+8 
+c 
+<J: 
+7 
+>-
+s.. 
+6 
+ro 
+E 
+0t: 
+5 
+0.. - 4 
+0 
+(!) 
+3 
+y c 
+(!) 
+2 
+"'C 
+°u 
+1 
+E 
+0 
+Hig 
+h 
+Low 
+Disease Burden (in 
+DALYs) 
+--> 
+Hig 
+h 
+Size 
+represents 
+current 
+pipeline 
+Etiology of Diarrheal Disease 
+• Local Pop 
+o Military 
+Source: local population data {black bars} from field study surveys by a medical nonprofit in 7 developing countries. Military 
+population data {white bars) from a sample of US soldiers stationed in Egypt. 
+....... Management 
+1111111111 Consulting 
+~~~~:.~ Club 
+2010-2011 1st Year Case Book 
+215 
+
+
+===== PDF p170 =====
+Prescribing Patterns in Market 1 vs. 2 
+"0 100 
+Q) :g 
+90 
+u 
+~ 80 
+~ 
+Q. 
+70 
+III 
+..... 'c 
+::> -
+o 
+..... 
+60 
+50 
+~ 40 
+~ 
+Q) 
+Q. 
+Q) > 
+',p 
+30 -
+20 
+ro 
+"3 
+10 
+E 
+::s 
+u 
+...-.. Management 
+1111111111 Consulting 
+~~~~!~,~~ Club 
+...... Market 1 
+- - Market 2 
+Physicians in Descending Order of Volume 
+2010-2011 1st Year Case Book 
+216 

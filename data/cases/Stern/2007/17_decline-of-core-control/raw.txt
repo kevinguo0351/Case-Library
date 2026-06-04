@@ -1,0 +1,225 @@
+===== PDF p53 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+17. Decline of Core Control  
+ 
+ 
+ 
+ 
+ 
+ 
+Type of Case: Product Evaluation 
+ 
+Opening 
+Our client is Comstock Telecom Company, a diversified technology 
+corporation producing primarily telecommunications support equipment. You 
+have been hired to evaluate a product known as “Core Control.”  This 
+product handles basic call connectivity—recognizing phone numbers dialed 
+and connecting outgoing calls to recipients. The customers of this product 
+are AT&T and the like, and our client competes against companies like 
+Lucent and Alcatel for sales. This is an IP-driven business, and the market 
+has experienced a significant downturn in the last year.  
+ 
+The CEO of Comstock Telecom has asked your team to evaluate the future of 
+Core Control. How would you approach this problem? 
+ 
+Answer 
+The interviewee should quickly identify that this is a mature product and 
+choose a framework that identifies the potential issues. One approach may 
+look like this: 
+ 
+1) Company 
+a. What is Comstock’s strategy? Where does Core Control fit? 
+b. How LEAN is Core Control? A mature industry often requires price 
+leadership 
+c. What are the financials of Core Control? Are we making money? 
+d. What is Core Control’s outlook: 
+i. can we sell it off? 
+ii. can we milk it to fund R&D of new technology? 
+iii. can we bundle Core Control with a more profitable service? 
+iv. should we cut our losses? 
+2) Competition 
+a. Who are they? 
+b. Are they taking market share or leaving this declining market? how 
+easily will they cede market share to us? 
+c. Do they have advantages over us (cost leadership; brand strength; 
+customer relations)? 
+3) Customers 
+a. Who are they? 
+b. Why aren’t they buying IP components (new technology, declining 
+industry)? 
+c. Can we grow the market? 
+ 
+48 
+
+
+===== PDF p54 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+17. Decline of Core Control continued…  
+ 
+ 
+ 
+ 
+Analysis 2 
+The CEO wants to use Core Control revenues to fund new R&D. Last year, 
+our client earned 15% EBIT on revenue of $8b from Core Control. This year, 
+our client’s revenues are expected to decrease with the market rate 
+(quantified: Year 1 = $50b; Year 2 = $25b). You’ve been asked to come up 
+with a rough estimate of what the business might look like this year from a 
+financial standpoint, and offer some thoughts on what this could mean going 
+forward. 
+ 
+Answer 
+This is primarily a “numbers case,” with the underlying exercise of 
+estimating a cost structure. The essential task of this case is to estimate a 
+cost structure for this year, determine what the EBIT will be, and discuss 
+what this could mean for the business going forward. The interviewee’s 
+thought process in allocating costs is a crucial component of evaluation, and 
+should involve some discussion of how and why he/she decides to allocate 
+costs into the respective line items. 
+ 
+Revenues 
+Very simply, the interviewee can assume that revenues will decrease by the 
+market “downturn” (i.e. 50%, from $8b to approximately $4b) 
+ 
+Costs 
+Interviewee should begin by identifying the following basic costs items 
+(he/she can identify others, but if so, interviewer should suggest that he/she 
+bucket them into the following 4 basic items): 
+- 
+CoGS 
+- 
+R&D 
+- 
+S&M 
+- 
+G&A 
+ 
+A logical next step would be for the interviewee to determine the total costs 
+from last year 
+- 
+EBIT was 15%, so total costs were 85% of sales, or $6.8b 
+ 
+The interviewer should then ask how these total costs might have been 
+allocated to the 4 basic costs items 
+ 
+49 
+
+
+===== PDF p55 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+17. Decline of Core Control continued…  
+ 
+ 
+ 
+One useful method is to first estimate how much each cost item will be as a 
+% of sales (with total costs summing to 85% of sales). General breakdown 
+should roughly align with: 
+- 
+CoGS = 50% of sales 
+- 
+R&D = 20% of sales 
+- 
+S&M = 10% of sales 
+- 
+G&A = 5% of sales 
+ 
+Generic logic:  
+- 
+CoGS will be largest cost item 
+- 
+Since product is “IP-driven,” R&D will be next biggest expense 
+- 
+S&M and G&A will be smallest cost items 
+As long as interviewee defends his/her reasoning, these percentages can be 
+more/less than specified above. 
+ 
+Next, using these %'s, the interviewee can derive actual cost amounts for 
+last year (total costs = $6.8b): 
+- 
+CoGS = 50% x $8b = $4.0b 
+- 
+R&D = 20% x $8b = $1.6b 
+- 
+S&M = 10% x $8b = $0.8b 
+- 
+G&A = 5% x $8b = $0.4b 
+ 
+To extrapolate costs to this year, the interviewee should separate the above 
+costs as fixed or variable (interviewer should prompt the interviewee to do 
+so if not done on their own): 
+- 
+All or significant majority of CoGS will be variable (i.e. some small 
+portion of CoGS may not vary with sales) 
+- 
+All or significant majority of R&D will be fixed 
+- 
+All or significant majority of S&M and G&A will be fixed (i.e. some 
+small portion of S&M may vary with sales) 
+ 
+Next, interviewee should split the calculated costs into fixed vs. variable. 
+Exact cost breakdown will vary, but should fall within basic parameters 
+outlined above (i.e. majority fixed vs. variable, or vice versa). For example: 
+- 
+CoGS = $3.8 (var) + $0.2 (fix) = $4.0b 
+- 
+R&D = $1.6 (fix) = $1.6b 
+- 
+S&M = $0.6 (fix) + $0.2 (var) = $0.8b 
+- 
+G&A = $0.4 (fix) = $0.4b 
+ 
+Thus, the interviewee will have derived (or thereabouts): 
+- 
+$4.0b in variable costs 
+- 
+$2.8b in fixed costs 
+50 
+
+
+===== PDF p56 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+17. Decline of Core Control continued…  
+ 
+ 
+ 
+ 
+The interviewee can then derive EBIT for this year: 
+- 
+With the 50% decrease in revenue, variable costs will decrease by 
+50%, with fixed costs remaining the same 
+- 
+Thus, $2.0b in variable costs, $2.8b in fixed costs 
+- 
+$4.8 in total costs 
+- 
+EBIT = ($0.8)b 
+ 
+Conclusion 
+Now that you have evaluated the outlook for Core Control, how would you 
+advise the CEO to proceed from here? 
+ 
+Answer 
+• Based on costs and revenue, interview should find that business will lose 
+money this year. 
+• Interviewee should provide commentary (outside of limited case facts) 
+about why it may or may not be a good idea to get out of this business, 
+such as: 
+• “market downturn could be an indication of the product’s 
+obsolescence” 
+• “since this is an IP-driven business, business is cyclical and this 
+year’s investment in R&D could generate a rebound next year” 
+• propose modifying the cost structure 
+• Answers will vary, but the focus of this case in the EBIT calculation 
+ 
+ 
+ 
+ 
+51 

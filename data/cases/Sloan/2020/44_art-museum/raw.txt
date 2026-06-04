@@ -1,0 +1,107 @@
+===== PDF p180 =====
+Casebook | 2019-20 Edition 
+176 
+ 
+44. Art Museum (McKinsey R1, Other, Profitability, Balanced) 
+Stem: Our client is an art museum in New York City that specializes in 17th and 18th century European 
+art. They usually put $150K into a fund every year, with money in the fund going towards various future 
+expenses. Last year, revenues decreased, and the client could only put 50% of what they normally put 
+into the fund. They have asked us to figure out how to turn this around. 
+ 
+Interviewer: What are some potential reasons for this decrease? 
+ 
+Candidate: Lay out revenue sources: membership fees, admission fees, sponsorships/grants 
+ 
+Possible sources of revenue decrease: 
+ 
+● 
+Membership fees: lapsed renewals, reduced number of new members 
+● 
+Admission fees: lower visitor volume, increased competition from other museums 
+● 
+Sponsorships/grants: budget crunches in sponsor organizations 
+Interviewer: If we lower the membership fee by 20%, what is the increase in membership volume needed 
+to bring the fund’s annual deposit back to its original levels? 
+ 
+Assume, as a simplification, that all revenues come from membership fees. 
+ 
+● 
+Current membership fee is $150/year 
+● 
+25% of membership fee is used to cover costs (Candidate should deduce that this means that 
+75% of each membership fee is put into the fund) 
+Candidate: With current membership fee ($150/yr) 
+ 
+● 
+Current number of members = (50% x 150K) / (75% x 150) = 667 
+● 
+With future membership fee = 80% x $150/yr = $120/yr 
+● 
+Amount per member entering fund = 75% x $120/yr = $90 
+Number of members required for annual deposit of $150K into fund = 150K/90 = 1,667 
+● 
+Therefore, required increase in membership = 1,667 – 667 = 1,000 
+● 
+1,000 new members are needed for the membership fee reduction to be sufficient in helping us 
+achieve our goal. 
+Interviewer: What do you think of that? 
+ 
+Candidate: It is hard to imagine that a mere 20% drop in membership price will cause member numbers 
+to more than double. This strategy cannot stand alone. 
+ 
+Interviewer: What are the pros and cons of this strategy? 
+ 
+Candidate: 
+● 
+Pros: Low cost strategy; if successful in increasing membership strength, will lead to sustainable 
+revenue increases (recurring renewal fees, other complementary revenue streams like sales of 
+special tickets or merchandise to members and discounted rates driving volume sales etc.) 
+● 
+Cons: Risky; if demand for memberships is price-inelastic, it can backfire horribly. Also, certain 
+beneficiaries/donors of the museum may be strongly opposed to a low-cost strategy. 
+ 
+Interviewer: What other strategies can the museum employ? 
+ 
+Candidate: Revisit original structure. Suggested answer: revisit each alternative revenue source in a 
+systematic fashion, and lay out ways to boost revenue and therefore annual deposits into that fund 
+ 
+Membership fees 
+
+
+===== PDF p181 =====
+Casebook | 2019-20 Edition 
+177 
+ 
+● 
+Investigate real source of reduced membership fees. 
+● 
+Are new members’ joining rate declining? If so, boost advertising for new members (and increase 
+perks which are low-cost), without necessarily lowering fees. 
+● 
+Are existing members letting their memberships lapse? Release early bird renewal specials, to 
+encourage more renewals. 
+Admission fees 
+ 
+● 
+Analyze visitor patterns, and employ creative promotion and price discrimination strategies (e.g. 
+weekend special rates, family specials, co-promotions with other museums or nearby 
+entertainment/restaurant spots) 
+● 
+Boost other revenues associated with admission, such as food and merchandise sales on 
+museum premises. Improve gift shop and cafeteria operations to attract more dollars. 
+Sponsorships/grants 
+ 
+● 
+Court sponsors more aggressively, and persuade them that 17th/18th century European art is the 
+right artistic cause to invest in for the betterment of New York cultural life! 
+Other potential sources 
+ 
+● 
+Rent out museum grounds after-hours for private parties/functions 
+● 
+Loan art pieces to other museums 
+ 
+ 
+Interviewer: What is your final recommendation? 
+ 
+Candidate should present a short and concise answer based on their findings. 

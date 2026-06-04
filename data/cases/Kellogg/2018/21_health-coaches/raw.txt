@@ -1,0 +1,226 @@
+===== PDF p156 =====
+152
+Health Coaches
+Case tracker
+Case Question
+▪Our client is a large national health care payer (health insurance company, think Aetna) exploring the launch of a new
+disease management (“DM”) program to better serve its 5 million members. The idea is to hire and train a team of 
+“Health Coaches” to specialize in a single disease area (e.g., heart disease, diabetes, etc). Each Coach will manage a
+portfolio of patients to reduce the costs of overall health expenditures (e.g., reminders to take drugs, provide limited
+medical advice, suggested diet, etc). Studies show that once a month contact with each patient reduces health
+spending by 5%, on average.
+▪Should our client launch the program? If so, what steps should it take?
+Guide to interviewer
+▪The case tests the interviewee’s ability to probe and 
+develop a customer segmentation, digest a relatively
+complex chart, isolate the most critical information
+and determine profitability
+▪The data provided by both exhibits should be
+requested; try not to show the exhibits until need for
+the data is demonstrated
+▪Strong interviewees should use common sense to
+make reasonable assumptions before you provide
+required inputs
+By: David Wellner (Kellogg Class of ‘11), Edited By: Craig DePriester (Kellogg Class of ‘12)
+▪Industry: Healthcare
+▪Case Format: Developing a new product/Service
+▪Concepts Tested:
+- Customer strategy
+- Break-even analysis
+Quant: 8
+Structure: 6 
+Industry: Healthcare
+Framework: New Product/ 
+Market Entry
+
+
+===== PDF p157 =====
+153
+Clarifying answers and handout guide 
+Guide to handouts
+Before showing exhibits, interviewee should convey the essence of the case:
+Are the costs associated with the DM program justified by the savings?
+Sample set-up:
+Exhibit 1 – Hand out when interviewee establishes need for understanding client’s 
+membership segmentation and/or exposure to disease areas. If he/she is not
+headed there alone, you can ask “how would you segment the client’s members?”
+▪“What can we get out of this chart? Please let me know if you have questions”
+▪Definitions (if needed): Group are employee sponsored plans (e.g. ,if you work
+for McKinsey, you are in a group plan), Individual are non-groups (e.g., private
+contractors, unemployed, etc). 65+ (see asterisk below chart).
+▪“Which segment is likely to generate the greatest per member costs.? Why?” 
+▪“Which disease area should we look at first?”
+Exhibit 2 – Hand out when interviewee asks for medical cost data. Try to avoid
+handing out exhibit 2 until exhibit 1 has been discussed (hint: if interviewee leads
+with profitability, steer him/her to first think about the customer segmentation)
+▪“What can we do with this information?”
+Clarifying answers to provide
+Competitive dynamics (not core to case)
+▪With spiraling health care costs, the
+industry is under pressure to innovate
+new products that will control spending
+▪Assume client is first to market
+▪Past attempts to purely automate DM
+have yielded minimal savings
+Health Coaches
+▪All activity conducted remotely via
+phone/email
+▪Typical profile is registered nurse that
+wants to work from home
+▪It’s difficult to actually reach patients, 
+so Coaches can contact 8 members per
+day (assume 25 days per month)
+▪Annual costs per Coach: $60K salary
++20% other (training, benefits, laptop,
+etc)
+- There are no other program costs
+Program Savings
+- Customer
+segmentation by
+disease area and cost
+per member
+Program Costs
+- Salary and other
+- Portfolio
+size/capacity
+(members/coach)
+Risks
+- Do assumptions hold?
+- Competitive response
+- Regulatory, liabilities
+
+
+===== PDF p158 =====
+154
+Key elements to analyze
+Segmentation and disease focus
+Using Exhibit 1, discuss which segments and disease areas are
+most important to explore
+Program profitability
+Leveraging all data (Both Exhibits), interviewee should determine if
+Health Coaches are profitable in each of the three segments
+Notes to interviewer
+Interviewee should choose to focus on the 65+ segment
+▪65+ (Medicare) patients are the sickest, followed by
+Individual
+▪Group members are the healthiest (younger, working)
+▪Sicker patients are likely to drive higher costs, which will
+make them riper candidates for the DM program (i.e., the
+5% cost reduction will have a bigger impact)
+Interviewee should choose to focus on diabetics (Assume all
+are Type 2 for the purposes of this case)
+▪Diabetics make up the largest portion of sick members
+▪As a chronic disease primarily brought on by behavior, T2
+diabetics are most likely to benefit from DM program
+Number of 65+ diabetics:
+Notes to interviewer
+Cost per Coach:
+Size of Portfolio:
+Savings for one portfolio of 65+ diabetics:
+Overall savings:
+Conclusion:
+▪Profit is $72K per Health Coach, 2x cost of a Coach
+▪Based on PMPM diabetic cost data, Individual segment is
+break-even (50% less savings), Group segment is a loss
+8
+ܿ݋݊ݐܽܿݐݏ
+݌݁ݎ݀ܽݕ
++
+25
+݀ܽݕݏ
+݌݁ݎ݉݋݊ݐℎ
+=
+૛૙૙
+࢓ࢇ࢞. ࢖ࢇ࢚࢏ࢋ࢔࢚࢖࢕࢚࢘ࢌ࢕࢒࢏࢕ 
+$144ܭ
+ݏܽݒ݅݊݃ݏ−$72ܭ
+ܿ݋ݏݐݏ=
+$72ܭ
+݌ݎ݋݂݅ݐ
+݌݁ݎܥ݋ܽܿℎ
+ݔ
+2,000
+ܪ݈݁ܽݐℎ
+ܥ݋ܽܿℎ݁ݏ
+= $૚૝૝ࡹࡹ
+࢖࢘࢕ࢌ࢏࢚
+࢖ࢋ࢘࢟ࢋࢇ࢘
+20%
+ݏ݁݃݉݁݊ݐ% ݔ
+40%
+% ܾ݀݅ܽ݁ݐ݅ܿݔ
+5MM
+ܾ݉݁݉݁ݎݏ= ૝૙૙, ૙૙૙
+૟૞+
+ࢊ࢏ࢇ࢈ࢋ࢚࢏ࢉ࢙
+$300
+ܽݒ݃.
+ܲܯܲܯ
+ݔ
+4
+ܾ݀݅ܽ݁ݐ݅ܿ
+݂ܽܿݐ݋ݎ
+ݔ
+5%
+ܽݒ݃.
+ݏܽݒ݅݊݃ݏ
+= 60 ݔ
+12
+݉݋ݏ. ݔ
+200
+݌ܽݐ݅݁݊ݐ
+݌݋ݎݐ݂݋݈݅݋
+=
+$૚૝૝, ૙૙૙
+࢙ࢇ࢜࢏࢔ࢍ࢙࢖ࢋ࢘
+࡯࢕ࢇࢉࢎ࢖ࢋ࢘࢟࢘.
+$60,000   +   20% =   $72,000
+Base Salary + other = per coach per year
+
+
+===== PDF p159 =====
+155
+Solution and recommendations
+Solution & Recommendations
+With 3-4 minutes remaining, give interviewee a moment to prepare a recommendation. Here is a strong sample:
+▪Client should launch the Health Coaching program, and first focus on diabetes for the 65+ Medicare segment
+▪The client should take the following steps:
+- Launch a pilot program to prove out assumptions (e.g., 5% cost reduction, Coach portfolio capacity, etc)
+- First expand to entire 65+ diabetes segment ($144M per year savings per coach, a 2x return on each
+Health Coach)
+- Consider introducing to Individual diabetes segment despite break-even (customer retention, moral
+rationale, etc)
+Follow-up questions (if time permits)
+▪There are 650K Group diabetics left “uncoached.” Is there a way to make the segment profitable? Ideas include:
+- More efficient DM program (e.g., Coaching at work, bi-monthly contact, automated correspondence, etc)
+- Seek additional revenue sources (e.g., Employers might be willing to pay a fee, government support)
+- Since 5% is the average savings, program can target members who will respond with savings well above 5%
+▪As first to the market, client plans to expand Health Coach program externally. Who should they target?
+- It’s tempting to suggest that the client should market to 65+ Medicare patients with diabetes, since this is 
+where the program yields the greatest savings. While it’s good that we have lowered the cost of older 
+diabetics, client should keep in mind that more diabetic members will increase overall health care costs,
+considerably – (still almost 4x after savings)
+- An instinctive interviewee might suggest an alternative: Client should sell its Health Coach service to other
+payers. But how would you price that? What are the challenges (e.g., regulatory, info sharing, etc)
+
+
+===== PDF p160 =====
+156
+Exhibit #1: Client’s member segmentation by health condition
+* Members 65 years of age and above. Known as “Medicare Advantage”, premiums funded by government
+
+
+===== PDF p161 =====
+157
+Exhibit #2: Average cost data (Per Member Per Month)
+Segment
+Average PMPM
+Average Diabetic
+Individual
+$150
+4x
+(Avg. PMPM)
+Group
+$100
+65+
+$300

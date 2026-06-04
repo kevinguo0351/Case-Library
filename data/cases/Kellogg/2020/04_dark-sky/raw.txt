@@ -1,0 +1,249 @@
+===== PDF p59 =====
+55
+Case author(s): Sean Burrow (Kellogg 2011)
+Edited by: Eugene Kim (Kellogg 2015), Rohan Maini (Kellogg 2020)
+Case 04
+Dark Sky
+Primary sector(s)
+• X01 Aerospace & Defense
+Concepts tested
+• Z12 Creativity (1)
+• Z05 Elasticity (2)
+• Z14 Pricing strategy (2)
+Similar cases
+• Fruit Cart Vendor       
+(Stern 2012)
+• Sgt. Slaughter          
+(Fuqua 2010)
+• Ice Cream Dream    
+(Darden 2016)
+Case type
+• Y04 New product / Market entry
+
+
+===== PDF p60 =====
+56
+Dark Sky
+Case prompt
+• Our client, Dark Sky, is a small manufacturer of unmanned (ie. remotely piloted) data collection aircraft.
+• Dark Sky produces the Assessor, an aircraft originally designed for unmanned weather exploration.
+• In 2006, the United States military began purchasing Assessors for use in Intelligence, Surveillance and Reconnaissance (ISR)
+missions. The Assessor is profitable, but sales have stagnated and the client wishes to grow. 
+• What are some steps Dark Sky could take to achieve growth?
+Interviewer guide
+• This case intentionally uses terminology that may not be familiar to the typical MBA student. This is meant to challenge the 
+interviewee to dismiss superfluous information and to focus on the business problem.
+1. Analyze historical growth and brainstorm growth strategies
+2. Explore attractiveness of prototype products
+3. Brainstorm other product selection considerations
+4. Provide client recommendation
+Interviewer guide
+
+
+===== PDF p61 =====
+57
+Dark Sky
+Case prompt
+• Our client, Dark Sky, is a small manufacturer of unmanned (ie. remotely piloted) data collection aircraft.
+• Dark Sky produces the Assessor, an aircraft originally designed for unmanned weather exploration.
+• In 2006, the United States military began purchasing Assessors for use in Intelligence, Surveillance and Reconnaissance (ISR)
+missions. The Assessor is profitable, but sales have stagnated and the client wishes to grow. 
+• What are some steps Dark Sky could take to achieve growth?
+Clarifying information
+• Customer / Price: Dark Sky’s only customer is the US Military, with which they have a Cost-Plus-Fixed-Fee contract. The contract 
+has been extended in the past and is up for renegotiation; the Military has agreed to a marginal inflationary price increase
+• Company: Dark Sky has additional capacity to manufacture. They are too small to acquire competitors.
+• Product: Dark Sky designs a unique aircraft that is launched from a catapult device; the aircraft can be launched from ships at sea 
+or from harsh terrain (e.g. desert, mountains). Dark Sky only sells the Assessor, but has other prototypes designed.
+• Competition: There are approximately 20 competitors that manufacture unmanned aircraft.
+Fit: What is your greatest weakness? Tell me about a team experience when you where hampered by this weakness.
+
+
+===== PDF p62 =====
+58
+Dark Sky
+Exhibit A – Historical revenue (2014 – 2019)
+Revenue
+($ millions)
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+2014
+2015
+2016
+2017
+2018
+2019
+
+
+===== PDF p63 =====
+59
+Dark Sky
+Exhibit B – New product sales forecast (2020)
+New Product Sales
+(units sold)
+New Product 
+Offering
+Navy
+Army
+Price Per Aircraft
+SeaBird
+50
+--
+$220,000
+SandBird
+--
+60
+$210,000
+JointBird
+38
+52
+$180,000
+
+
+===== PDF p64 =====
+60
+Dark Sky
+Exhibit C – Impact of new product on existing sales (2020)
+New Product Sales
+(units sold)
+New Product 
+Offering
+Navy
+Army
+Price Per Aircraft
+Assessor unit sales lost 
+(cannibalized)
+SeaBird
+50
+--
+$220,000
+40%
+SandBird
+--
+60
+$210,000
+70%
+JointBird
+38
+52
+$180,000
+90%
+
+
+===== PDF p65 =====
+61
+Dark Sky
+Part 1
+1. Analyze historical growth and brainstorm growth strategies
+• The military started purchasing the Assessor in 2016. The price of the aircraft has remained constant at $100,000 per unit. 
+Throughout the past decade, The Assessor has been Dark Sky’s only source of revenue. 
+• How many units were sold in 2019 and what was the growth rate from 2015 to 2019? How could Dark Sky grow?
+• How many units were sold in 2019? 
+• $5,000k ÷ $100k/unit = 50 units
+• What was the growth rate from 2015 to 2019? 
+• ($5,000k - $500k) ÷ ($500k ) x 100 = 900% 
+Provide Exhibit A when the interviewee asks about revenue
+Organic
+Inorganic
+•
+Increase penetration with US military
+•
+Product development – develop new products for the 
+military
+•
+New market entry to new markets or customers
+•
+Increase / reduce prices (based on demand elasticity)
+•
+Joint Venture – to increase market accessibility or 
+product offering.
+•
+M&A – add additional capacity and/or products.
+
+
+===== PDF p66 =====
+62
+Dark Sky
+Part 2a
+2a. Explore attractiveness of prototype products
+• Dark Sky has developed several aircraft prototypes designed specifically for military missions. The company has the capability to 
+continue producing the Assessor and to introduce one new aircraft. 
+• To maximize short-term growth, which aircraft should Dark Sky produce?
+• To calculate the revenue for each scenario, the interviewee should add Assessor sales to the sales of the new product. 
+• Assessor sales are based on: 
+• 50 units sold with no new product launch 
+• Cannibalization forecast specific to each new product launch
+• $110,000 per aircraft 
+• New product sales can be easily calculated using shortcuts. For example: 
+• SeaBird: $220k * 100 = $22m… then half of this
+• SandBird: $210k * 100 = $21m… then half of it and add (10% of $21m) 
+• JointBird: Add to get 90… then $180k*100 = $18m, subtract (10% of $18m)
+Provide Exhibit B after Exhibit A asks about new products
+
+
+===== PDF p67 =====
+63
+Dark Sky
+Part 2b
+2b. Explore attractiveness of prototype products
+• The introduction of a new aircraft will have a negative impact on Assessor sales. Which aircraft should Dark Sky produce?
+• Assessor Sales (Units, Revenue):
+• No new product = 50 aircraft, $5,500,000 
+•
+With SeaBird = 50 + (50 * (-40%)) = 50 - 20 = 30 aircraft, $3,300,000 
+•
+With SandBird = 50 + (50 * (-70%)) = 50 - 35 = 15 aircraft, $1,650,000 
+•
+With JointBird = 50 + (50 * (-90%)) = 50 - 45 = 5 aircraft, $550,000 
+• New Product Revenue:
+•
+SeaBird = 50 * $220,000 = $11,000,000 
+•
+SandBird = 60 * $210,000 = $12,600,000 
+•
+JointBird = (38 + 52) * $180,000 = 90 * $180,000 = $16,200,000 
+• Total Revenue: 
+•
+Assessor Only = $5,500,000 
+•
+Assessor and SeaBird = $3,300,000 + $11,000,000 = $14,300,000 
+•
+Assessor and SandBird = $1,650,000 + $12,600,000 = $14,250,000 
+•
+Assessor and JointBird = $550,000 + $16,200,000 = $16,750,000
+Provide Exhibit C only if the interviewee asks about cannibalization
+
+
+===== PDF p68 =====
+64
+Dark Sky
+Part 3
+3. Brainstorm other product selection considerations
+• If the candidate doesn’t start by listing other considerations relevant to selection of a new aircraft, as them to brainstorm.
+Development
+• Speed: How quickly could Dark Sky start manufacturing a third model (i.e. can Dark Sky produce SandBird this year, and be 
+producing SandBird and SeaBird the following year)? If so, what are the revenue implications? 
+• Costs: How profitable are the four aircraft models in comparison? Note: Because Dark Sky has a Cost-Plus-Fixed-Fee contract, 
+profitability for each aircraft is likely equivalent. For this reason, Dark Sky should focus on maximizing the number of aircraft sold. • 
+How much and how long is the payback period for the investment in manufacturing each type aircraft?
+Portfolio
+• If Dark Sky produces JointBird, is $550,000 in Assessor revenue worth the associated cost to produce the aircraft? Should 
+resources be allocated to another project? 
+Customer
+• Potential benefits of have two customer bases for new product (Navy and Army).
+
+
+===== PDF p69 =====
+65
+Dark Sky
+Part 4
+4. Provide client recommendation
+• Based on 2020 forecasted revenue alone, Dark Sky should introduce the JointBird to the US Military in order to boost growth.
+• Among the three new prototype product, the JointBird is forecasted to maximize short-term revenue
+• However, there are several connected issues that Dark Sky should consider to include profitability, long-term revenue forecasts,
+competitive response, etc.
+• Excellent interviewees will identify cannibalization as a consideration before beginning revenue calculations

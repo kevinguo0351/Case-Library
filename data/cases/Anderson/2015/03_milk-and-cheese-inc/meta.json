@@ -1,0 +1,24 @@
+{
+  "case_id": "Anderson_2015_03_milk-and-cheese-inc",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 3,
+  "case_name": "Milk and Cheese, INC.",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Consumer Goods / Food",
+  "difficulty": "medium",
+  "pdf_page_start": 19,
+  "pdf_page_end": 25,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    21,
+    23
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p021.png",
+    "exhibits/exhibit_p023.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\03_milk-and-cheese-inc"
+}

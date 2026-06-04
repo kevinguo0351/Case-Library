@@ -1,0 +1,94 @@
+===== PDF p38 =====
+Table of Contents 
+ 
+34
+Practice Case 16: Ferryboat company  
+(Mckinsey - Round 2) 
+ 
+I. Case scope provided by interviewer:  
+ 
+Your client is a ferryboat company that has been approached by a 
+city major to bid on a 50 year exclusivity right to service commuters 
+who wish to cross the river (see map below). So far there is only one 
+bridge crossing the river and traffic during peak hours is just 
+horrible. Therefore the mayor sees this bid as an easy and cheap way 
+to improve commuterís journey. 
+What would be your approach to determine how much your client 
+should bid for it? 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+The factories are in fact steel mills 
+• 
+3 ferry competitors on the market 
+• 
+Traffic jam only during weekdays 
+• 
+Population is stable 
+ 
+III. Sample solution 
+ 
+My idea was to go over an NPV calculation and say that this is the maximum 
+amount the client could bid for this project: 
+ 
+Detail of my analysis:  
+• 
+Revenue: if we gain market share the traffic condition will improve on 
+the bridge so there is a limit to our potential market, WTP, Price 
+elasticity, seasonality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ferry route 
+ 
+bridge 
+Waiting time  
+at the bridge 
+ 
+1h 
+ 
+ 
+ 
+ 
+ 
+ 
+6AM  
+10AM 
+50,000 
+workers 
+Factories 
+
+
+===== PDF p39 =====
+Table of Contents 
+ 
+35
+• 
+Cost: Fixed cost (boat investments, parking slot, cashierÖthey are 
+determined by our peak capacity), Variable cost (gas, labor is this 
+really variable?) 
+• 
+Discount rate: rate of the transportation industry? 
+ 
+The second part of the discussion was about the other competitors / game 
+strategy: 
+• 
+Do we have strategic advantage? (no) 
+• 
+How can we build one? (marketing, financing) 
+ 
+Finally, the discussion was about the what is the appropriate discount rate: 
+• 
+Could be a major source of difference with the competitors evaluation 
+• 
+Need to estimate the risk related to the steel mill industry (this 
+industry is declining, however the major is planning to attract new IT 
+business in the area) 
+• 
+Need to assess housing development near the factories 

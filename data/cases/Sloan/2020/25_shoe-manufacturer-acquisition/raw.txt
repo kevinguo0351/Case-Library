@@ -1,0 +1,135 @@
+===== PDF p133 =====
+Casebook | 2019-20 Edition 
+129 
+ 
+25. Shoe Manufacturer Acquisition (BCG R1, CPG/Retail, Profitability, 
+Quantitative) 
+Stem: Our client is a major global shoe manufacturer. They are currently #2 in the US and are seeking to 
+dethrone the #1 shoe manufacturer. They have tried several strategies in the past and none have worked. 
+They are now looking to purchase the #3 show manufacturer to see if combined, they can overcome #1. 
+Manufacturer #3 has quoted a price of $480M preliminarily for the sale. Should they go forward with the 
+acquisition? 
+ 
+Structure should include target attractiveness, economics of deal / financials, fit with acquirer (with factors 
+like synergies, cannibalization risk etc.), and alternatives to acquisition. 
+ 
+The candidate should start methodically gathering data about the specific situation with questions about 
+the three players and their target customer segments. 
+ 
+When asked by the candidate, the interviewer can release the following data: 
+ 
+• 
+Both manufacturers make similar shoes (primarily dress shoes) 
+• 
+Both manufacturers sell in roughly the same places 
+• 
+The #3 manufacturer’s shoes are perceived as being of lower quality 
+• 
+Despite being one company, the two brands could remain separate, however they would not want 
+to market against each other in advertising as they have been in the past 
+• 
+There is a risk of market cannibalization, leading to total sales being lower 
+• 
+If the brands were to be seen as being produced together, they could affect consumer 
+perceptions, also affecting sales 
+• 
+There is a possibility for synergies leading to more efficient operations and improved profit 
+margins for both companies 
+ 
+The key part of the case is economics and valuation and the candidate should get there quickly. 
+ 
+Phase 1: Valuing the company 
+ 
+Interviewer: What would you take into account when going through a valuation of this deal? 
+ 
+Candidate: I would look at multiples/comparables, NPV of cash flows, book value. 
+ 
+Interviewer: Not bad suggestions. Let’s actually do an aggregate cash flow analysis, like an NPV, but for 
+simplicity we’ll assume that the time value of the money is constant and no cost of capital needs to be 
+taken into account: 
+ 
+• 
+The payback period would be 8 years 
+• 
+The current revenues/yr for the #2 manufacturer are $1B, with a 10% profit margin 
+• 
+The current revenues/yr for the #3 manufacturer are $750M with a 8% profit margin 
+ 
+Candidate: So as the #2 manufacturer, our client is making $100M in profits per year ($1B * 10%). The 
+#3 manufacturer is making $60M in profits per year ($750M * 8%). With an 8 year payback period, our 
+client should be willing to pay $480M ($60M * 8 yrs) for the #3 manufacturer which, coincidentally, is 
+exactly the preliminary quoted price. 
+However, the important question to ask is: Will the revenues and profit margins of each manufacturer 
+remain at the same level after an acquisition? If the acquisition leads to a lot of restructuring costs, 
+employee turnover, or other issues, sales and profit margins could go down in either or both companies, 
+
+
+===== PDF p134 =====
+Casebook | 2019-20 Edition 
+130 
+ 
+and $480M would not be paid back in 8 years. However, if synergies are realized, costs go down, and 
+sales are increased by a larger distribution network, $480M could be paid back much faster. 
+ 
+Phase 2: Synergies 
+ 
+Interviewer: OK, so let’s try to quantify those synergies a little. What if our expectations were that the 
+deal would increase the total profit for #2 by 15% and would increase the total profit for #3 by $10M per 
+year? 
+ 
+Candidate: Increasing profits for manufacturer #2 by 15% would mean an additional $15M per year. 
+Acquiring #3 would lead to new profits of $70M per year (previous level of $60M + additional $10M). 
+Adding these together gives us $85M of additional profit per year from the acquisition. Applying the 8-year 
+payback period, this suggests #2 should be willing to pay up to $680M for #3. Assuming the synergy 
+expectations are reasonable, $480M would be a great deal. 
+ 
+Interviewer: Good, you seem a little skeptical of these synergy assumptions. What type of synergies do 
+you think #2 might be hoping to realize? 
+ 
+Candidate: Revenue and cost, with more opportunities in cost. On the revenue side, there are volume 
+pricing synergies and negotiation tactics with large retailers as a large manufacturer. On the cost side the 
+value chain is Material -> Labor / manufacturing -> Distribution -> Retailer / Customer. On Materials, 
+there's an opportunity to negotiate and consolidate. On manufacturing, we could potentially consolidate 
+plants. I think I already mentioned getting a bigger client base for both products by combining distribution 
+networks. 
+ 
+Interviewer: OK, so let’s talk about consolidating plants. The client has 3 US plants and the target has 3, 
+how would you determine how many to shut down? 
+ 
+Candidate: I'd evaluate the existing capacity in plants, the economics/profitability of each plant, the 
+strategic rationale for their existence (e.g. distance to inputs, outputs), and the cultural and political 
+underpinnings of each plant relative to the combined company. Also, the marginal cost to produce 
+products from each plant is a key consideration: the lower the better. We could also even look at 
+outsourcing to plants outside of those owned by #2 and #3. 
+ 
+Phase 3: Addressing the Risks 
+ 
+Interviewer: OK, let’s move on to a discussion about possible risks of the acquisition. 
+ 
+Candidate: Sure, there could be some cannibalization or brand dilution due to lower quality of #3 
+manufacturer. 
+ 
+Interviewer: Cannibalization and brand confusion are actually two of our concerns. What could be done 
+to mitigate these risks? 
+ 
+Candidate: You could get a representative focus group together to see how they would react to brand 
+differences, or if they would care if the two were owned by similar companies. You could also send a 
+survey to a larger group of customers, or the general population to assess the effects. It will be important 
+to track sales and identify customer demographics. 
+ 
+Other reasonable answers equally valid. Overall, listening to the voice of the customer could give insight 
+to how customers would react to the deal and the idea of the two shoe manufacturers are working 
+together. 
+ 
+Phase 4: Recommendation 
+
+
+===== PDF p135 =====
+Casebook | 2019-20 Edition 
+131 
+ 
+The candidate should remark that the company should go ahead with the acquisition at the price #3 has 
+stated, as the potential profit given the synergy assumptions leads to a much shorter break even than #2 
+requires. The candidate should state that they need to make sure that the synergy assumptions are 
+sound, and that market research should be done to make sure that customers will not have adverse 
+reactions to the merger or that their brand awareness will be impacted so as to potentially damage sales. 

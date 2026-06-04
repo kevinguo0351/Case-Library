@@ -1,0 +1,205 @@
+===== PDF p29 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 26 
+ 
+Case 11: DVD rental store 
+Company: Bain & Co 
+ 
+A regional video rental chain is facing declining profits for the past 2 years. You are hired to identify 
+the root cause and make suggestions to reverse the trend 
+ 
+Suggested Structure:  
+This is a straight Revenue and Costs case. Test the candidate for various hypotheses and math skills. 
+ 
+Step 1: The candidate has to identify sources of revenue. Then he has to propose various hypotheses 
+possible for a decline in sales volume. (At least 5 to 7 hypotheses) 
+Step 2: Candidate may want to look at pricing and pricing arrangements. Then he has to propose 
+various hypotheses possible for a decline in prices. 
+Step 3: The candidate has to identify sources of cost. Then he has to propose various hypotheses 
+possible for a decline in revenue. (At least 5 to 7 hypotheses) 
+ 
+Sources of revenue: The main source of revenue is the rental fee collected. The other source of 
+revenue could be late fees. Though the company doesn’t sell DVDs some candidates may mention 
+this. Some hypotheses for sales decline 
+- 
+Increase in rental fee 
+- 
+Long waiting list and stock outs due to improper inventory management 
+- 
+Deterioration of customer service levels 
+- 
+Increase in late fees 
+- 
+Entry of competition like Netflix or new competitor stores 
+- 
+Overall industry decline (Less new movies being made) 
+- 
+Substitute products like Video-On-Demand and direct streaming of video to PC 
+- 
+Increase in pirated DVD market 
+- 
+Cut in advertisement spend and budget resulting in poor publicity 
+- 
+Store locations in key markets changed to reduce cost 
+Ask: The candidate may also want to monitor changes in metrics like Same-store sales, Sales per 
+square feet, Number of customer visits per store, Revenue per customer, New store sales, Sales by 
+geographic region etc. Ask the candidate for the metrics he would like to explore. We don’t provide 
+any data here but the idea is to see how the candidate thinks.  
+ 
+Pricing arrangements: The revenue is captured through pricing. Ask the candidate for different 
+methods of pricing for a DVD rental business 
+- 
+Fixed monthly fee 
+- 
+Fee for DVD based on number days of use (Example: $2 per movie per day or $ 5 per movie 
+per week) 
+- 
+Price discrimination (lower price for members and higher price for non-members) 
+- 
+Pricing based on ‘On-time DVD return record’ 
+- 
+Pricing of late fee (Penalty increases with each day the DVD is not returned back) 
+- 
+Different price for new and old movies 
+- 
+Student discounts 
+- 
+Additional fee for value added services like home delivery, home pickup etc 
+
+
+===== PDF p30 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 27 
+ 
+Price can go down for several reasons. But mainly the candidate should touch upon pricing pressure 
+from competition and substitute products. 
+ 
+Sources of cost: For a DVD rental chain some of the costs could be 
+- 
+Store rental charges (Real estate) 
+- 
+Cost of DVDs 
+- 
+Some times the movie distributors have a revenue sharing agreement with the chains 
+- 
+Labor cost 
+- 
+Store maintenance costs like energy, utilities, insurance and so on 
+- 
+Advertisement and promotion costs 
+- 
+Damaged and lost DVD costs (Includes shrinkage and non-returned items) 
+- 
+Corporate over heads 
+- 
+Taxes to government 
+ 
+Increase in the above costs could have resulted in a profit decline. It is a good idea to group the costs 
+as internal and external costs. The other way to group it would be fixed and variable costs. 
+ 
+Testing the Quant Skills: 
+Provide this information to the candidate – ‘Based on our analysis we find that there has been an 
+increase in the labor costs in the last 2 years. We also find that a high percentage of customers don’t 
+return the DVDs on time. As the company currently doesn’t have any late fee this is resulting in stock 
+outs and customer defection. So the company wants to introduce a ‘Late fee’ program. You have to 
+do 2 things now 
+- 
+Quantify the impact of the increase in labor costs 
+- 
+Recommend if the company should go ahead with the ‘Late fee’ program  
+ 
+Impact of increase in labor costs: Provide the following data to the candidate. 
+ 
+Number of stores 
+300 
+% of stores affected by labor cost increase 
+16.667% 
+Store working hours per day 
+12 
+Annual working days 
+250 
+Number of workers per store at any given time of day 
+4 
+Labor cost per hr per worker (Before cost increase) 
+$9 
+Labor cost per hr per worker (After cost increase) 
+$12 
+ 
+Calculations to be performed by the candidate: 
+ 
+Total number of man hours per year per store
+12000
+Total number of stores affected by labor increase
+50
+Total man hours per year in affected stores 
+600000
+Total annual labor cost in the affected stores before the cost increase 
+$5,400,000 
+Total annual labor cost in the affected stores before the cost increase 
+$7,200,000 
+Total increase in costs 
+$1,800,000 
+The increase in labor cost is approximately $1.8 million 
+Should they implement the ‘Late fee’ program? 
+
+
+===== PDF p31 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 28 
+ 
+ 
+The candidate will have to explore the benefits and costs of the late fee program. Provide the 
+following data only when requested by the candidate 
+ 
+Number of stores 
+300
+Annual working days 
+250
+Number of customers per checking out per day per store 
+100
+Average number of DVDs a customer checks out per visit 
+2
+Maximum number of days a customer can keep DVD (as per policy) 
+3
+Fee per DVD (All customers pay this amount irrespective of number of 
+days they keep this) 
+$6 
+% of customers who return DVDs later than due date 
+10%
+Average number of late days 
+2
+Late fee proposed per DVD per day 
+$1 
+% of current revenue lost because of late fee introduction (Assume this 
+make some customers choose another competitor who offers no late 
+fee) 
+8%
+ 
+Calculations to be performed by the candidate: 
+ 
+Current revenue 
+$90,000,000 
+Expected late fee collection (Treat this as revenue) 
+$3,000,000 
+Revenue lost because of late fee collection 
+$7,200,000 
+Net revenue from this initiative 
+($4,200,000) 
+ 
+Numbers show that the ‘Late fee’ program will result in a net loss of revenues. Probably they should 
+not go ahead with this program. 
+ 
+Question:  
+1) Ask the candidate for ways to reduce labor cost 
+2) Ask for alternative ways to ensure timely collection of DVDs back without late fee 
+ 
+Look for creative answers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

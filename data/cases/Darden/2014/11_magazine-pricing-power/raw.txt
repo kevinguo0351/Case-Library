@@ -1,0 +1,169 @@
+===== PDF p123 =====
+CASE #: 11 
+Magazine Pricing Power
+Firm Style
+Interview Round
+BCG
+Second Round
+Clarifying information (provide only if corresponding questions are asked) 
+Not much information available. If asked for additional information state that you don’t 
+know. The interviewer should adopt a tone that encourages the candidate to make 
+assumptions and quickly move past the clarifying questions stage.
+Case Question
+Conde Nast Traveler costs $4.00 and Travel and Leisure costs $4.50. Do you think Conde
+Nast should raise the price of their magazine to $4.50?
+
+
+===== PDF p124 =====
+Magazine Pricing Power
+• Question 1: Framework
+• Good frameworks should include:
+• Basic Profit Tree (Revenue Streams incl. ads and sales)
+• Value Chain (where they’re sold, how)
+• Great frameworks should include:
+• Customer Segments
+• Product Differentiation
+• Competitive Landscape / Responses
+
+
+===== PDF p125 =====
+Magazine Pricing Power
+• Question 2: After they walk through the framework, hone in 
+on the profit tree. Try to focus more on revenue, and ask 
+candidate to brainstorm what constitutes revenue for the 
+magazine.
+• Good answers should include:
+• Subscriptions
+• Newsstand Sales
+• Advertising Sales (Bonus points if they note that this is dependent on 
+number of copies)
+• Great answers should include:
+• Number of pages per magazine (can increase ads/ magazine)
+• Price elasticity of demand (raising prices may decrease volume)
+Interviewer Note: Press the candidate to create an exhaustive list. 
+Continue to ask “What Else” until the candidate is out of ideas
+
+
+===== PDF p126 =====
+Magazine Pricing Power
+• Question 3: What numbers would you want to see to 
+determine if we should raise the price? 
+• For both the $4 and $4.5 level, the candidate should ask for:
+• Subscriber Volume + Price
+• Newsstand Volume + Price
+• VC per copy
+• Advertising revenue per 1,000 magazines purchased
+• Note that fixed costs aren’t relevant since we can assume they are 
+the same regardless of price
+• There are other possibilities, but these are the numbers that 
+will be provided. Once the candidate has asked for the 
+majority of the information provide them with Exhibit 1
+
+
+===== PDF p127 =====
+Magazine Pricing Power
+Exhibit 1
+Variables
+Price: $4.00
+Price: $4.50
+Subscriber Volume
+8MM
+4MM
+Newsstand Volume
+10MM
+8MM
+Subscriber Price (annual)
+$30
+$40
+Newsstand Margin
+20%
+20%
+VC per copy
+$2
+$2
+Ad Revenue per 1,000 
+People
+$1000
+$1000
+
+
+===== PDF p128 =====
+Magazine Pricing Power
+• Question 4: Which scenario has a higher contribution 
+margin?
+• Good answers should immediately start doing calculations 
+when they receive the exhibit. This should take some time:
+Variables
+Price: $4.00
+Price: $4.50
+Subscriber Volume
+8MM
+4MM
+Newsstand Volume
+10MM
+8MM
+Subscriber Price (annual)
+$30 
+$40 
+Newsstand Margin
+20%
+20%
+VC per copy
+$2 
+$2 
+Ad Revenue per 1,000 People
+$1,000 
+$1,000 
+Subscriber Sales Contribution Margin
+($30‐($2*12))*8MM = $48MM
+($40‐($2*12))*4MM = $64MM
+Newsstand Sales Price
+$4‐($4*20%) = $3.20
+$4.50‐($4.50*20%) = $3.60
+Newsstand Sales Contribution Margin
+($3.20 ‐ $2) * 10MM = $12MM
+($3.60 ‐ $2 )*8MM = $12.8MM
+Ad Revenue (All Contribution Margin)
+$1 MM per unique person (Newstand + 
+subscribers)
+$1 MM per million magazines (Newstand + 
+subscribers)
+Ad Revenue (All Contribution Margin)*
+$1M * $18MM = $18MM
+$1M * 12MM = $12MM
+Total Contribution Margin
+$48MM + $12MM + $18MM = $78MM
+$64MM+$12.8MM+$12MM = $88.8MM
+*Subscribers are worth less than newsstand customers for advertisers. Therefore the 
+advertising base contribution margin of $1 per person is: newsstand sales + total subscribers 
+
+
+===== PDF p129 =====
+Magazine Pricing Power
+• Question 5: After the candidate calculates the contribution margin, ask them 
+for their recommendation.
+• Either answer works as long as it’s supported by the data.
+• If they choose to raise the price some points could include:
+•
+Increased profits, especially with subscribers which is are largest contribution margin bucket 
+•
+Prestige / Protect Brand (same price as competitor)
+•
+Does this really move the needle? Should we focus more on the bigger picture?
+•
+Risks – Subscriber losses are larger than predicted, Quality of advertisements declines due to lower 
+circulation, Newsstands may try to increase margin.
+• If they choose to keep the price as is some points could include:
+•
+While there are increased profits, this comes with a large reduction in volumes, particularly steady 
+subscriber volumes. 
+•
+May want to look into competitive response
+•
+Not raising the subscriber price, but only raising the newsstand price
+•
+Adding more pages to grow ad revenues per 1,000 customers.
+•
+Pursuing new distribution channels / increased product differentiation.
+•
+Risks – Lower profits, Less brand prestige, Competitive Response. 

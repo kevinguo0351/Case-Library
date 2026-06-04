@@ -1,0 +1,265 @@
+===== PDF p156 =====
+152
+Ratings:
+Quant - 2
+Qual - 3
+Overall - 3
+Midwest Hospital
+Healthcare | Profitability
+Interviewer Led
+Case 15
+
+
+===== PDF p157 =====
+153
+Case 15 – Midwest Hospital
+Midwest Hospital is a research-based hospital and takes pride in its joint replacement surgery department. 
+Recently Midwest Hospital did a P&L analysis for all departments and found that the joint replacement surgery 
+department is providing losses.
+The CEO has asked us to help out.
+•	 There are no financial targets.
+•	 Focus of this case is only on joint replacement surgery.
+•	 Give the exhibits in the subsequent slides only when the candidate asks for the relevant data.
+Prompt
+Clarifying Information
+Note:
+•	 At some point near the start of the case, interviewer should take the lead.
+•	 Make Exhibit 1 and 2 available for the interviewee ahead of question 1 and 2.
+
+
+===== PDF p158 =====
+154
+Profit = Revenues - Costs
+
+Revenue
+•	No. of Surgeries
+•	Complexity of surgery
+•	Patient Mix
+•	Price
+•	Other Charges (bed, medicines)
+•	Post Surgery (visits, medicines)
+Competition 
+•	Price
+•	Patient Mix
+•	Better facilities/equipment
+Costs
+•	Fixed Costs
+•	Hospital
+•	Doctors
+•	Equipments
+•	Insurance
+•	License
+•	Variable Costs
+•	Visiting Doctors/Surgeons
+•	Govt. regulation
+Customers
+•	Age group
+•	Paying with insurance
+Framework
+Exhibit Summary
+•	 Exhibit 1: Patient Mix
+•	 Exhibit 2: Joint Replacement Department P&L
+•	 Exhibit 3: Competitive Benchmark
+Case 15 – Midwest Hospital
+
+
+===== PDF p159 =====
+155
+Question 1
+Would it be advisable to not cater to Medicare patients (assuming no backlash)?
+(Show Exhibit 1 & 2)
+•	On a fully cost allocated basis, Medicare patients are unprofitable but they are still paying $1k 
+above the variable cost (marginal cost). This helps cover the fixed costs of the department. 
+So, it is not recommended to stop conducting surgeries for Medicare patients.
+•	Total Cost / # of Surgeries =  $21M / 1000 = $21,000 / surgery
+•	Marginal Cost / # of Surgeries = $14M / 1000 = $14,000 / surgery
+•	Revenue per Medicare patient = $15,000 / surgery
+Solution:
+Case 15 – Midwest Hospital
+
+
+===== PDF p160 =====
+156
+Question 2
+What is the number of surgeries that Midwest needs to conduct in a year to breakeven?
+•	Average revenue per patient is 19k. Average variable cost is 14k. Gross margin per patient is 5k. 
+Fixed cost are 7M, so 1400 surgeries are required to breakeven. Assuming same proportion as in 
+Exhibit 1 the hospital requires 140 commercial, 420 insurance, and 840 Medicare Patients
+Avg. Revenue Per Surgery = Total Revenue / # of surgeries = $19M / 1000 = $19,000 per patient
+Avg. Variable Cost = Total Variable Cost / # of Surgeries = $14,000 per patient
+Fixed Costs = $7M
+Breakeven = FC / (Rev - VC) = $7M / ($19000 - $14000) = 1400 Surgeries 
+Patient Mix:
+Commercial = 10% * 1400 = 140 surgeries per year
+Insurance = 30% * 1400 = 420 surgeries per year
+Medicare = 60% * 1400 = 840 surgeries per year
+**Percentages based on share of surgeries from Exhibit 1**
+Solution:
+Case 15 – Midwest Hospital
+
+
+===== PDF p161 =====
+157
+Question 3
+Why is Competitor D able to stay profitable despite having fewer patients and unfavourable patient mix? 
+(Show Exhibit 3)
+•	Competitor D might have a lower cost structure or was able to negotiate better pricing from 
+payers.
+Solution:
+Case 15 – Midwest Hospital
+
+
+===== PDF p162 =====
+158
+Question 4
+Evaluate potential risks to increasing the number of surgeries.
+•	There might not be enough market demand and increasing surgeries 
+would mean stealing marketing share from competitors
+•	The competitors might reduce the price and enter a price war
+•	Quality of surgery may be reduced, impacting reputation.
+•	Surgeons may resent higher workload
+Brainstorming Guidance:
+Case 15 – Midwest Hospital
+
+
+===== PDF p163 =====
+159
+Conclusion
+•	Increase total number of 
+patients to cover
+•	Change mix of patients to 
+have a higher proportion 
+of commercial and insured 
+customers
+•	See if you can negotiate 
+with insurers and 
+Medicare for higher 
+reimbursement.
+•	Star candidates quickly 
+identify that competitor D 
+has a similar patient mix 
+but is still profitable.
+•	Candidate should provide 
+a reason as to why the 
+client should not eliminate 
+medicare patients
+•	Candidate should bring 
+up the idea that joint 
+replacement department 
+may be a loss leader 
+and provides synergies 
+with other department 
+offerings
+•	Analyze scope for cost 
+reduction, starting 
+with competitive 
+benchmarking
+•	Analyze scope for 
+increase in price, 
+starting with competitive 
+benchmarking
+•	Analyze profitability of 
+post care services
+•	Start conversations with 
+reimbursement providers
+•	Those gained from 
+brainstorming
+Excellent Case 
+Answers
+Next Steps
+Risks
+Recommendation
+Case 15 – Midwest Hospital
+
+
+===== PDF p164 =====
+160
+Exhibit 1
+Patient Mix
+Commercial
+(Enterprises)
+Medicare
+(Government)
+Insurance
+100
+300
+600
+$40,000
+$40,000
+$40,000
+$40,000
+$20,000
+$15,000
+Payer Type
+# Surgeries
+List Price
+Invoiced Price
+Case 15 – Midwest Hospital
+
+
+===== PDF p165 =====
+161
+Exhibit 2
+Joint Replacement Department P&L
+Revenue
+VC
+FC
+Total Costs
+Profit
+$19
+$21
+($2)
+Physician
+Materials
+Others
+Facilities
+Others
+$5
+$5
+$4
+$3.5
+$3.5
+$M
+Case 15 – Midwest Hospital
+
+
+===== PDF p166 =====
+162
+Exhibit 3
+Competitive Benchmark
+Midwest Hospital
+Comp A
+Comp B
+Comp C
+Comp D
+1000
+1200
+800
+900
+1000
+10%
+20%
+30%
+10%
+5%
+30%
+20%
+20%
+20%
+25%
+60%
+40%
+50%
+70%
+75%
+No
+Yes
+Yes
+Yes
+Yes
+Commercial
+Surgeries
+HMO
+Medicare
+Profitable
+Case 15 – Midwest Hospital

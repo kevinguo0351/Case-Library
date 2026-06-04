@@ -1,0 +1,442 @@
+===== PDF p89 =====
+First Round
+Case 11: What’s Next for Tony?
+Prompt #1
+Our client is a disgraced former congressman, Tony Politician, that resigned after numerous 
+indecent text messages he sent surfaced in the media.  After congress, Tony is considering using 
+his vast resources to purchase one of three companies.  Our job is to ensure he picks the right 
+company that matches his interest and expertise, and is also profitable.
+Guidance
+A good candidate will ask for more information about the three firms being considered, and hopefully 
+background on the congressman.  If requested, provide the following:
+Provide Exhibit #1 for Tony’s background
+PictSecure
+• PictSecure is a picture sharing application that ensures pictures cannot be forwarded beyond the 
+original recipient
+• Start up based in Santa Barbara, California
+• Highly technical product
+Doom Shelters
+• Builds and installs Dooms Day Shelters (bomb proof, haz-mat proof living quarters)
+• Mom and pop company located in Wichita, Kansas
+• Construction focuses, with conspiracy theory driven customers
+Bossy Pants Cakes
+• Gourmet cake company made famous by a reality show that highlights their provocatively themed 
+baked goods
+• Established bakery located in Brooklyn, New York
+• Looking to establish online presence and expand to West Coast
+Framework should evaluate the quantitative and qualitative arguments for each firm
+85
+
+
+===== PDF p90 =====
+First Round
+Case 11: What’s Next for Tony?
+Background
+• Born in the Bronx in 1965
+• First born of 13 kids
+• Graduate of West Point Military Academy (top of class)
+• Married (court proceedings eminent based on recent issues)
+Work 
+Experience
+• Worked at family deli through high school
+• Served in the Army for 8 years prior to getting his MBA
+• Worked at Apple for 18 months prior to being fired for “lack of creativity”
+• Congress for NYC from 2006 to 2013
+• Struck it rich by prospecting for oil and gas
+Community 
+Service
+• N/A
+Personal
+Interests
+• Technology, particularly around the “much needed” security for mobile phones
+• Wants to leave a legacy
+• Loves conspiracy theory movies
+• Hates the Midwest, particularly Kansas
+Exhibit 1:  Background for Tony Politician
+86
+
+
+===== PDF p91 =====
+First Round
+Case 11: What’s Next for Tony?
+Prompt #2
+Provide Exhibit #2
+I think you have a lot of great ideas for how to evaluate the options for Tony.  Here are some 
+financials for each of the companies.  Please focus on 2013.  How would you evaluate these?
+Guidance
+The candidate is going to be calculating NPV for the three different firms for 2013.  The calculation is 
+essentially .
+FCF is calculated by Sales - (COGS+SG&A) – Taxes + Dep – CapEx
+Below are the completed calculations.  Do not give this to the candidate.  Exhibit 2 has 
+unnecessary info.  This is intended to throw off candidates.
+2012
+2013
+2012
+2013
+2012
+2013
+Sales (M)
+3.5
+$             
+8.0
+$             
+16.0
+$           
+20.0
+$           
+27.0
+$           
+30.0
+$           
+COGS (M)
+-
+$             
+-
+$             
+8.0
+$             
+8.0
+$             
+14.0
+$           
+14.0
+$           
+SG&A (M)
+0.5
+$             
+2.0
+$             
+2.8
+$             
+3.0
+$             
+4.0
+$             
+4.0
+$             
+Taxes (33%)
+1.0
+$             
+2.0
+$             
+1.7
+$             
+3.0
+$             
+3.0
+$             
+4.0
+$             
+Earnings After Tax
+2.0
+$             
+4.0
+$             
+3.5
+$             
+6.0
+$             
+6.0
+$             
+8.0
+$             
+Depreciation
+-
+$             
+-
+$             
+0.5
+$             
+0.5
+$             
+0.5
+$             
+1.0
+$             
+Cap Ex
+-
+$             
+-
+$             
+-
+$             
+1.0
+$             
+-
+$             
+2.0
+$             
+FCF
+2.0
+$             
+4.0
+$             
+4.0
+$             
+5.5
+$             
+6.5
+$             
+7.0
+$             
+Rate of Return (R )
+20%
+20%
+20%
+20%
+15%
+15%
+Mortgage Rates
+0.0%
+0.0%
+3.7%
+3.7%
+4.5%
+4.5%
+Personal Interest Rates
+3%
+3%
+4%
+4%
+3%
+3%
+Growth (g)
+15%
+15%
+10%
+10%
+5%
+5%
+NPV
+40.2
+$           
+80.0
+$      
+40.2
+$           
+55.0
+$      
+65.3
+$           
+70.0
+$      
+PictSecure
+Doom Shelters
+Bossy Pants Cakes
+87
+
+
+===== PDF p92 =====
+First Round
+Case 11: What’s Next for Tony?
+Exhibit 2:  Information for Each Firm
+2012
+2013
+2012
+2013
+2012
+2013
+Units Made
+1,166,666
+    
+2,666,666
+320
+400
+              
+3,500,000
+    
+4,000,000
+    
+Units Sold
+1,166,666
+    
+2,666,666
+320
+400
+              
+3,500,000
+    
+4,000,000
+    
+Personnel
+4
+                   
+16
+                 
+56
+                 
+60
+                 
+100
+              
+100
+              
+SG&A per Person
+125,000
+$     
+125,000
+$     
+50,000
+$       
+50,000
+$       
+40,000
+$       
+40,000
+$       
+COGS per unit
+-
+$             
+-
+$             
+20,000
+$       
+20,000
+$       
+4.00
+$           
+3.50
+$           
+Price per unit
+3.00
+$           
+3.00
+$           
+50,000
+$       
+50,000
+$       
+7.70
+$           
+7.50
+$           
+Sales (M)
+3.5
+$             
+16.0
+$           
+27.0
+$           
+COGS (M)
+-
+$             
+8.0
+$             
+14.0
+$           
+SG&A (M)
+0.5
+$             
+2.8
+$             
+4.0
+$             
+Taxes (33%)
+1.0
+$             
+1.7
+$             
+3.0
+$             
+Depreciation
+-
+$             
+-
+$             
+0.5
+$             
+0.5
+$             
+0.5
+$             
+1.0
+$             
+Cap Ex
+-
+$             
+-
+$             
+-
+$             
+1.0
+$             
+-
+$             
+2.0
+$             
+Rate of Return (R )
+20%
+20%
+20%
+20%
+15%
+15%
+Mortgage Rates
+0.0%
+0.0%
+3.7%
+3.7%
+4.5%
+4.5%
+Personal Interest Rates
+3%
+3%
+4%
+4%
+3%
+3%
+Growth (g)
+15%
+15%
+10%
+10%
+5%
+5%
+*All figures in Millions
+PictSecure
+Doom Shelters
+Bossy Pants Cakes
+88
+
+
+===== PDF p93 =====
+First Round
+Case 11: What’s Next for Tony?
+Prompt #3
+After reviewing the all the information thus far, which company should Tony pursue purchasing?  
+What are the risks that he faces in trying to purchase it?
+Guidance
+The case clearly points to PictSecure.  It meets Tony’s desire to work on Technology, as well as his 
+knowledge about the lack of picture security.  His ability to use his scandal as a selling point for the 
+product would also work.
+Risks include the high growth rate…what if it doesn’t turn out?  What if he sucks at business, etc. 
+Prompt #4
+Prices for the firms are as follows:  PictSecure - $62M    Doom Shelters - $33M     BPCakes - $49M
+Does this change your recommendation, why or why not?
+Guidance
+Candidate is taking NPV – Asking Price of Firm to get expected value for Tony:
+• PictSecure - $80M - $62M = $18M
+• Doom Shelters - $55M - $33M = $22M
+• Bossy Pants Cakes - $70M - $49M = $21M
+This muddies the waters.  Tony has a clear financial advantage to Doom Shelter, but his personal 
+reasons should deter him from buying it.  This is ambiguous and should test candidates thought 
+process and ability to defend their position.
+89
+
+
+===== PDF p94 =====
+Performance 
+Evaluation
+Expected:
+• Completes all math accurately
+• Proceeds through the process to the answer with some prompting
+Good:
+• Is able to drive the process forward, covering the necessary points with minimal prompting
+• Walks the interviewer clearly through the math – also making the math simple
+Excellent:
+• Disregards unnecessary information quickly and easily
+• Performs all calculations with no prompting or errors
+• Provides clear logic for overall recommendation, noting risks and how to mitigate them
+First Round
+Case 11: What’s Next for Tony?
+90

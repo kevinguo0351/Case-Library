@@ -1,0 +1,42 @@
+{
+  "case_id": "Stern_2020_08_stance-at-a-distance",
+  "school": "Stern",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2020.pdf",
+  "idx": 8,
+  "case_name": "Stance at a Distance",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Retail/Apparel",
+  "difficulty": null,
+  "pdf_page_start": 117,
+  "pdf_page_end": 130,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    117,
+    118,
+    120,
+    121,
+    122,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p117.png",
+    "exhibits/exhibit_p118.png",
+    "exhibits/exhibit_p120.png",
+    "exhibits/exhibit_p121.png",
+    "exhibits/exhibit_p122.png",
+    "exhibits/exhibit_p125.png",
+    "exhibits/exhibit_p126.png",
+    "exhibits/exhibit_p127.png",
+    "exhibits/exhibit_p128.png",
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p130.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2020\\08_stance-at-a-distance"
+}

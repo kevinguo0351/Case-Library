@@ -1,0 +1,24 @@
+{
+  "case_id": "Stern_2019_04_sports-bar",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 4,
+  "case_name": "Sports Bar",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 63,
+  "pdf_page_end": 71,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    65,
+    71
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p071.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\04_sports-bar"
+}

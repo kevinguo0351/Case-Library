@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2021_13_evening-nightcap",
+  "school": "Fuqua",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2021.pdf",
+  "idx": 13,
+  "case_name": "Evening Nightcap",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Media",
+  "difficulty": null,
+  "pdf_page_start": 140,
+  "pdf_page_end": 147,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    144,
+    145
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p144.png",
+    "exhibits/exhibit_p145.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2021\\13_evening-nightcap"
+}

@@ -1,0 +1,213 @@
+===== PDF p42 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 39 
+ 
+Case 18: Green Machine hybrid car pricing in Australia 
+Written by GCG 
+ 
+Green Machine wants to launch an electric-hybrid (compact-sedan) in Australia. They want to know 
+how to price it? Your team has been hired to help them formulate at a pricing strategy.  
+ 
+Sample structure: A product can be priced in 4 different ways 
+ 
+- 
+Value based pricing 
+- 
+Cost plus pricing 
+- 
+Competitive pricing 
+- 
+Pricing based on supply and demand 
+ 
+Instructions to the interviewer: Each method has its own merits and de-merits. One has to use all 
+the methods to triangulate and arrive at a price range. Later bundling with features, skimming and 
+discrimination techniques can be used to realize healthy prices and profits.  
+ 
+Details to be provided when asked: 
+- 
+Green machine is a domestic car manufacturer in Australia. 
+- 
+The size of the Australian car market is about 700000 cars per year of which 80% is sedans 
+- 
+The consumers are shifting more and more towards fuel efficient cars as the fuel price in 
+Australia is very high compared to many other countries 
+- 
+There are currently no hybrid vehicles in the mainstream in Australia. However Toyota and 
+Honda are planning to launch hybrids in Australia in about 3 years 
+- 
+Hybrid cars were introduced about 7 years back in the US. Toyota sells Prius at about $35000 
+and Honda sells Civic-hybrid at about $31000 
+- 
+Green Machine hybrids drive 40 miles per gallon in the city and 33 miles per gallon on the 
+highway (Hybrids are actually more efficient in city driving than highway driving) 
+- 
+ Non-hybrid sedans average 20 mpg in city and 25 mpg on highways and they sell for about 
+$20000 to $23000 
+- 
+An average Australian car owner drives 20000 miles with about 50% in-city driving and 50% 
+highway driving 
+- 
+Hybrid cars have a higher maintenance cost – about $125 per year more than other cars 
+- 
+Cost to manufacture a hybrid is about $20000. The additional distribution expenses are about 
+10% and Sales and Marketing expenses are an additional 15% of manufacturing cost. 
+- 
+Average car owner keeps the car for 5 years. Cost per gallon on gasoline in Australia is $3.50 
+- 
+Apart from waiving taxes, government is willing to give a $1000 subsidy per hybrid car sold 
+ 
+Value based pricing: The candidate has to identify the incremental value that the hybrid will provide 
+over the conventional sedans on a per car basis.  
+ 
+Calculations show that theoretically a customer will be willing to pay up to $5500 more per hybrid car 
+when compared to a non-hybrid car.  
+ 
+ 
+
+
+===== PDF p43 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 40 
+ 
+Calculations: 
+Incremental savings per car from using a hybrid 
+  
+Hybrid 
+Non-hybrid 
+Total miles driven by a owner/yr 
+20000 
+20000 
+Total city miles (50%) 
+10000 
+10000 
+Total highway miles (50%) 
+10000 
+10000 
+Mpg in city 
+40 
+20 
+Mpg on highways 
+33 
+25 
+Total gallons of gasoline on city/car/yr 
+250 
+500 
+Total gallons of gasoline on highway/car/yr 
+300 
+400 
+Cost per gallon of gasoline 
+$3.50 
+$3.50 
+Total cost of gasoline/car/yr 
+1925 
+3150 
+Incremental maintenance costs for a hybrid/yr 
+$125 
+Annual incremental saving from a hybrid car ($) / yr 
+1100 
+Total life of a car (yrs) 
+5 
+Total incremental savings per car over 5 years ($) 
+5500 
+ 
+The comparable non-hybrid cars are sold for anything between $20000 and $23000. The customer 
+will be willing to pay anywhere between $25500 and $28500. But the candidate needs to do a quick 
+check if this range is higher than the cost of making and selling the car. 
+ 
+Cost of a Hybrid 
+Hybrid 
+Manufacturing cost 
+20000 
+Distribution cost (@ 10% of mfg cost) 
+2000 
+Sales and marketing cost (@15% of mfg cost) 
+3000 
+Government subsidy or credit (to be subtracted) 
+1000 
+Taxes 
+0 
+Total cost ($ per car) 
+24000 
+ 
+It appears that $25500 to $28500 is a reasonable price range.  
+ 
+Instructions to the interviewer: Once a candidate reaches this answer, you may push the candidate 
+to the next level. There is an opportunity to deploy ‘Skimming’ strategy and price the hybrid higher 
+than $28500. They may be some customers who are willing to pay more than $28500. People like car 
+collectors, environmentally conscious corporate companies, people who consider a hybrid as a status 
+symbol and so on. And given that no other competitor is planning to launch hybrids in the next 3 
+years suits this strategy well. The candidate gets extra points for thinking in these lines without 
+prompting from interviewer. Provide the following information to the candidate and ask to perform 
+the required calculations 
+ 
+In a consumer survey about 15000 consumers said they will pay $35000 for a hybrid within the next 3 
+years. 10000 consumers said they will pay $30000. And 25000 consumers said they will pay $27500 
+for a hybrid in the next 3 years. Now how should the client go about pricing it?  
+ 
+ 
+ 
+ 
+
+
+===== PDF p44 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 41 
+ 
+Candidate is expected to calculate the profit from hybrids in the next 3 years and then decide the 
+price.  
+ 
+ 
+Price ($ per car) 
+35000 
+30000 
+27500 
+Number of customers (Equal to number of cars sold) 
+ 
+20000 
+30000 
+55000 
+Total revenue 
+    700,000,000 
+     900,000,000 
+   1,512,500,000 
+Cost 
+    480,000,000 
+     720,000,000 
+   1,320,000,000 
+Total profits 
+    220,000,000 
+     180,000,000 
+      192,500,000 
+ 
+From this it is very clear that the client should employ skimming strategy. Price it at $35000 and sell 
+20000 cars in the first 3 years. Then when competition is about to enter the client can slash prices 
+and attract the consumers who are willing to pay less for a hybrid. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

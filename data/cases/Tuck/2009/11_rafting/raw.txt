@@ -1,0 +1,117 @@
+===== PDF p78 =====
+©2009 Tuck Consulting Club. All rights reserved.
+47
+Tuck Consulting Club
+Rafting
+Case Description: This case analyzes the current profitability and estimated value of a rafting
+business.
+Inventory: [no exhibits]
+Industry: Adventure Business
+Potential applicable frameworks:
+Profitability
+3 C’s
+Value Chain
+Microecon. Analysis
+Market Entry
+4 P’s
+Supply Chain
+Internal / External
+Competitive Threat
+Porter’s 5 Forces     Market Sizing
+Other
+Introduction
+My friend Carlos wants to invest in a rafting business in California. In addition to the investment,
+he wants to work as general manager of this business. Carlos has asked me following questions:
+[Note to interviewer:  This case is relatively straight forward.  The interviewer should
+really probe interviewee to identify the key drivers of both revenue and cost in this
+particular business—try not to give away much.  In addition, once the interviewee has
+performed the valuation, they should really think about some of the inherent risk of this
+business.]
+Question 1: Is the business currently profitable?
+Question 2: How much is the business worth?
+Question 3: Should I acquire it?
+
+
+===== PDF p79 =====
+©2009 Tuck Consulting Club. All rights reserved.
+48
+Rafting (continued)
+Case Details
+Question 1: Is the business currently profitable?
+Info to be given as case progresses:
+•
+Since this is a seasonal business, it is open every day in July and August and only 2
+days per week in May, June, and September.  It is closed for the rest of the year.
+Info to be given if asked:
+• Revenue:
+o The business has 5 rafting boats.
+o Each boat makes on average 20 trips per day. o
+The price of each trip is $20.
+• Costs:
+o Variable: Labor is 4 Rafting instructors, making $15/hour worked.
+o Fixed: General manager’s salary: $40,000/year
+o Fixed: 2 leased vans to transport clients and equipment from the end of the tour
+back to the start: $5,000/van/year
+o Fixed: Insurance (risky business!): $8,000/year o
+Fixed: Overhead is $2,000/year
+Question 2: How much is the business worth?
+Info to be given if asked:
+• For the valuation, let’s assume a discount rate of 10%.
+• Let’s do a perpetuity valuation.
+Question 3: Should I acquire it?
+No Information.
+
+
+===== PDF p80 =====
+©2009 Tuck Consulting Club. All rights reserved.
+49
+Rafting (continued)
+Recommended Solution
+Question 1 Details
+The following answers may vary depending on the candidate’s assumptions:
+Revenues:
+$20/trip * 20 trips/boat/day * 5 boats * 84 days/year (24 in May, Jun, Sep + 60 of Jul, Aug) =
+$168,000/year
+Costs:
+Variable:
+•
+Rafting instructors = 4 instructors * $15/hour * 8 hours/day * 84 days/year = $40,320
+≈$40,000/year
+Fixed:
+•
+$40,000/year (general manager salary) + 2 vans * $5,000/van/year + $8,000
+insurance/year + $2,000 overhead/year = $60,000/year
+Total costs ≈ 100,000/year
+Profits = Revenues - Costs = 168,000 - 100,000 = $68,000/year
+Therefore, the business is profitable!!!
+Question 2 Details
+• Using operating profit as a proxy for cash flow (ignoring taxes, working capital, etc.),
+and assuming zero growth in the business, we can use the perpetuity valuation
+formula CF/r, where CF is the annual cash flow, and r is the discount rate.  Under
+these assumptions, we can conclude that the business is worth approximately:
+$68,000/0.1 = $680,000
+Question 3 Details
+Some things to consider apart from the numerical answers from questions 1 and 2:
+-
+Some consideration of the risk inherent in this business and how that factors into our
+valuation
+-
+Is it realistic to assume no growth?  What kind of a business are we trying to run?
+-
+Are there competing uses for our funds (i.e., opportunity cost of capital)
+-
+Cash inflows may not be very stable (i.e. the business is weather dependent)
+
+
+===== PDF p81 =====
+©2009 Tuck Consulting Club. All rights reserved.
+50
+Rafting (continued)
+Overall Recommendations
+A good answer includes: Identifying the revenue, some of the costs, and calculating a ball park
+result in questions 1 and 2.
+A better answer includes: Identifying “tricky” costs such as the insurance in a risky business and the
+general manager’s salary.
+A superior answer includes:
+Identifying correctly all the revenues and costs, and providing other
+considerations for the acquisition decision.

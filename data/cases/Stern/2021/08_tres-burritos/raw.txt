@@ -1,0 +1,383 @@
+===== PDF p111 =====
+© 2021 NYU Stern MCA
+Tres Burritos
+Authors: Emily Glaser, Morgan Miller, Kristen Whyte (Stern ‘21) Firm Style & Round: McKinsey Round 1
+[Interviewer-Led]
+Quant: 5
+Structure: 8
+Case Overview:
+Industry: Restaurant
+Case Type: Profitability
+Concepts Tested:
+•
+Profitability
+•
+Brainstorming
+Overview Information for Interviewer:
+This case tests the candidate’s ability to consider how a business should respond to 
+external issues outside their control. They should recognize that there are multiple 
+options for the restaurants to take and each has different consequences, both financial 
+and reputational.
+Key case steps:
+•
+Identify options for the restaurants to take
+•
+Evaluate profitability implications
+•
+Brainstorm non-financial considerations
+Case Prompt:
+Your client is a national burrito chain with 100 locations. There has been a widespread flu virus growing in the
+U.S. which has the potential to hurt their business. They need your help deciding how they should respond to the 
+virus in NYC specifically, and what the implications will be for their brand.
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+107
+© 2021 NYU Stern MCA
+
+
+===== PDF p112 =====
+Tres Burritos: Case Guide
+Clarifying Information:
+Question 1:
+•
+What should they consider in responding to the virus?
+•
+Profitability
+•
+Revenue
+•
+Current - product mix, # of orders, avg check
+•
+New – lost sales impact, # stores closing
+•
+Costs
+•
+Fixed – rent, equipment, SG&A, marketing
+•
+Variable – labor, COGS
+•
+Options to Respond
+o
+Stay open
+o
+Close
+o
+Modify
+o
+Offer Delivery, Curbside Pickup, etc.
+o
+Partial closures
+o
+Change hours
+o
+Close only some stores
+•
+External considerations
+o
+The Virus: duration, rate of spread, location
+o
+What are competitors doing?
+o
+What is the population of NYC doing?
+o
+How is Tres Burritos responding in other cities?
+•
+There are 10 locations in NYC
+•
+The restaurants sell 3 types of 
+burritos, along with guacamole, 
+salsa, and other sides.
+•
+All of their sales come from grab-
+and-go takeout orders. Tres 
+Burritos does not currently offer
+delivery.
+•
+Their main goal is maintaining a net 
+positive profit. They're also 
+concerned about how their actions in 
+NY will affect the national brand.
+•
+The virus is projected to last for 3 
+months
+•
+We do not know how Tres
+Burritos is responding in other
+cities.
+108
+© 2021 NYU Stern MCA
+
+
+===== PDF p113 =====
+Tres Burritos: Question 2 – Brainstorm
+Question 2:
+•
+How would you evaluate the options for responding to the virus?
+Potential Solution:
+Notes to Interviewer
+•
+If the candidate does not have at least 
+these three options, guide them to think 
+beyond binary open vs. close.
+•
+One possible way of structuring the analysis 
+would be to form a pro and con matrix, but 
+any structure to the analysis is acceptable.
+•
+Candidate should conclude that they want to 
+evaluate the profitability of chosen options. 
+They should ask if we have any information 
+on the profitability of each option.
+•
+Note: Q3 will ask them to 
+calculate profitability of only one 
+option.
+Stay Open
+Close the 
+Restaurants
+Modify 
+Hours/Services
+Pro
+•
+Continue sales
+•
+Serve community
+•
+Maintain customer loyalty
+•
+No variable costs
+•
+No risk of spreading 
+virus
+•
+Continue some sales
+•
+Could have new revenue
+streams – delivery, apps,
+curbside pickup
+Con
+•
+Bad reputation
+•
+Safety risk
+•
+Pay both fixed + variable 
+costs
+•
+Still have fixed costs
+•
+No sales revenue
+•
+Possible lay offs
+•
+Bad reputation
+•
+Customers may go to
+competitors
+•
+Fixed costs + some 
+variable costs
+•
+Safety risk
+•
+Unknown customer 
+response to new 
+services
+109
+© 2021 NYU Stern MCA
+
+
+===== PDF p114 =====
+Tres Burritos: Question 3 – Math
+Math Question:
+•
+Governor Andy Hamilton has decided that restaurants cannot stay open as usual – they can only offer delivery. What will the 
+virus's impact be on Tres Burritos' profitability per location?
+(Interviewer: Give Exhibit 1,2 and 3 when asked for current revenue and costs – Exhibits 2 and 3 are extraneous information)
+Math Solution:
+Category
+Delta Current
+New
+Calculations for 
+Interviewer
+Revenue
+-10% $100,000
+$90,000
+100K - 100K(0.1)
+COGS
++10% $10,000
+$11,000
+10K + 10K(0.1)
+Delivery Cost
+$20,000
+Wages, SG&A and 
+overhead
+$60,000
+$60,000
+Total Expenses
+$70,000
+Month 1: $91K
+Month 2,3: $71K
+M1: 60K + 11K + 20K 
+M2,3: 60K + 11K
+EBITDA
+$30,000
+Month 1: ($1K)
+Month 2,3: $19K
+M1: 90K - 91K
+M2,3: 90K - 71K
+3 months EBITDA
+$90,000
+$37K = ~(60%)
+M1,2,3: 2(19K) - 1K
+Math Information:
+•
+The candidate should ask for the current revenue 
+and costs, and projected impact of the virus. 
+Read the following to the candidate once 
+asked:
+•
+Revenue will drop by 10%
+•
+COGS will increase by 10%
+•
+Launching delivery will cost $20,000
+for one time to set up
+•
+Candidate should recall that the virus is 
+projected to last for 3 months. Calculate EBITDA 
+for each of 3 months for total profitability impact.
+•
+Takeaway: while the EBITDA will decrease (and 
+is negative in month 1), Tres Burritos will still 
+have positive EBITDA over 3 months by offering 
+delivery, which is a better outcome than closing 
+stores altogether.
+110
+© 2021 NYU Stern MCA
+
+
+===== PDF p115 =====
+Tres Burritos: Question 4 – Brainstorm
+Question #4:
+•
+What are some possible ways to improve EBITDA if they choose to keep restaurants open and offer delivery?
+Notes to Interviewer:
+Some answers to improve profitability could include:
+•
+Increase revenue
+•
+Groceries – offer to sell ingredients from their kitchen directly to customers
+•
+Partner with other local restaurants to drive traffic
+•
+Raise prices
+•
+Increase presence on 3rd party delivery apps to drive sales – Seamless, etc.
+•
+Decrease costs
+•
+Reduce staff
+•
+Close some stores
+•
+Limit menu options
+•
+Reduce delivery cost of $20k (launch with a service instead of doing on own – Seamless, Caviar, etc.)
+111
+© 2021 NYU Stern MCA
+
+
+===== PDF p116 =====
+Tres Burritos: Recommendation
+Recommendation:
+•
+Offer delivery for $37,000 EBITDA
+over 3 months
+•
+Bonus Points: $370,000 total EBITDA
+for all 10 NYC stores, ~60% decline in
+EBITDA
+Bonus: Guide to an excellent case
+•
+A great candidate will realize that the virus will last for 3 months so the profitability impact will change month-to-month
+•
+Creative solutions to the virus could include selling raw ingredients to local families in need of food, working with 3rd party 
+delivery partners (Seamless, Caviar, etc.) to cut down on costs, and offering discounts to drive traffic amidst low sales.
+Risks:
+•
+Revenues decline more than 
+projected
+•
+Customers go to competitors for food 
+and continue to do so after the virus
+•
+Risk of spreading the disease
+through food / delivery people
+•
+Damage the national brand if there is 
+a problem with Delivery
+Next Steps:
+•
+Find delivery partner and plan 
+logistics to launch
+•
+Explore lowering costs
+•
+Learn what Tres Burritos and 
+competitors are doing in other cities
+112
+© 2021 NYU Stern MCA
+
+
+===== PDF p117 =====
+Tres Burritos: Exhibit 1
+Income Statement
+Monthly (per restaurant)
+Revenue
+$100,000
+Expenses
+COGS
+$10,000
+Wages
+$35,000
+SG&A
+$5,000
+Fixed Overhead
+$20,000
+EBITDA
+$30,000
+113
+© 2021 NYU Stern MCA
+
+
+===== PDF p118 =====
+Tres Burritos: Exhibit 2
+15%
+30%
+30%
+25%
+Tres Burritos NYC Customers’
+Place of Residence
+Manhattan 
+NYC Borough
+Tri-State Suburb 
+Tourist
+114
+© 2021 NYU Stern MCA
+
+
+===== PDF p119 =====
+Tres Burritos: Exhibit 3
+10
+32
+8
+15
+5
+10
+15
+5
+Tres Burritos Restaurant Footprint
+(as of June 2020)
+115
+© 2021 NYU Stern MCA

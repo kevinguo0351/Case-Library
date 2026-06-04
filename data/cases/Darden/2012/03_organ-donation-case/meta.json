@@ -1,0 +1,24 @@
+{
+  "case_id": "Darden_2012_03_organ-donation-case",
+  "school": "Darden",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2012.pdf",
+  "idx": 3,
+  "case_name": "Organ Donation Case",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Non-Profit/Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 46,
+  "pdf_page_end": 59,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    53,
+    59
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p059.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2012\\03_organ-donation-case"
+}

@@ -1,0 +1,158 @@
+===== PDF p87 =====
+Table of Contents 
+ 
+83
+Practice Case 37: Diversified company  
+(Booz Allen Hamilton - Round 2) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+Your client is a large, global diversified company.  Some of their 
+businesses include consumer products, steel refining, and financial 
+services. Currently they are organized in a matrix fashion, with 
+operating units reporting to both business line heads and country 
+managers.  However, the operating units have developed 
+considerable autonomy and often play the country managers off the 
+business line heads.  As a result, the company is operating as 200 
+independent companies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The CEO wants to reorganize the company into ìNatural Business Unitsî or 
+functional silos.  However, he wants to know how 
+He can ensure that synergies across business units are still leveraged 
+(because there are some) 
+He can convince his managers to work together to extract synergies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= Operating Unit
+Business Lines
+A
+B
+C
+D
+E
+Country Managers
+W
+X
+Y
+Z
+Current Organizational Structure
+
+
+===== PDF p88 =====
+Table of Contents 
+ 
+84
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+No additional information was given. 
+ 
+ 
+III. Sample Solution:   
+ 
+Steps: 
+1. Identify what synergies there are 
+2. Define metrics to evaluate how business heads work to extract 
+synergies with other business units 
+3. Put incentives in place to reward synergies 
+ 
+Identifying synergies:   
+There may be multiple ways to do this, but this is oneÖ 
+ 
+ 
+ 
+ 
+ 
+ 
+Within this spectrum of work, synergies can be found in 2 areas (not Unique 
+work).  The common functionalities should be easiest to group together to 
+obtain economies of scale and scope. 
+ 
+Finding synergies in the potential area will be more difficult. One method to 
+identify them is to evaluate customers of each business unit.  If customers 
+Business Lines
+Proposed Organizational Structure
+Group B
+Group A
+Group C
+CEO
+Common Functions
+(i.e. purchasing,
+technology, etc)
+Potential Synergies
+(i.e. Marketing)
+Unique Work
+(i.e. manufacturing,
+Etc)
+Spectrum of Work
+
+
+===== PDF p89 =====
+Table of Contents 
+ 
+85
+are similar (i.e., both the Steel Unit and the Financial Services group make 
+loans to medium size businesses) then there are some likely synergies.    
+ 
+In order to create buy-in and sell this to the executives the CEO must show 
+the benefits of cooperation to his executives 
+Potential savings from common functions 
+Potential increased revenue/profits from bundling (for example) products 
+with other business units 
+ 
+Define Metrics: 
+ 
+These may need to be subjective or 360-degree reviews from other 
+business units 
+ 
+Incentives: 
+ 
+Performance against ìsynergy metricsî must be included in executivesí 
+compensation in order to give the new structure and synergy promotion 
+teeth. 

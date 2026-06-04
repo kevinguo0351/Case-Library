@@ -1,0 +1,138 @@
+===== PDF p28 =====
+Torch the Case 2008 
+ 
+23 
+8. Slippery Sales        _______ 
+ 
+ 
+ 
+ 
+    
+Type of Case: Increase profitability 
+Difficulty: Moderate 
+ 
+Opening 
+ 
+Your client is a consumer electronics retail chain selling products such as TVs, DVD players, 
+digital cameras, and cell phones.  Sales have varied dramatically across your client’s stores 
+with several experiencing a severe decline in revenues over the past two years.  
+ 
+How can you help the client even out performance across the individual stores and increase 
+performance of the entire chain through organizational change?  
+ 
+Analysis and Areas of Discussion  
+ 
+The interviewer should know that the problem is in the client’s sales decline but occurring only 
+in a limited number of stores.  The interviewer starts by asking the candidate to design an issue 
+or a hypothesis tree (whichever one the candidate feels more comfortable with).  
+ 
+The first level of the tree should separate externalities (aggressive competition, decrease in 
+market demand, etc..) from internal issues. The candidate should then be told to focus on 
+internal issues. Some of the problems the candidate should come up with are: weak marketing 
+strategy, poor choice of product mix shown in stores, low knowledge base of employees (sales 
+force), ineffective incentives program for the sales force, poor after-sale customer service, 
+etc… 
+ 
+To guide the candidate the problem solution, the below numerical data shall be provided and 
+carefully analyzed. These numbers belong to one of the stores facing a decrease in sales. 
+ 
+Based on this information the candidate should be asked how he or she would calculate the 
+sales CAGR (compounded annual growth rate) over the past 2 years.  If the candidate does not 
+know the formula, the interviewer can provide it as necessary.  The answer is as follows:   
+ 
+CAGR= (2007 Sales / 2005 Sales)^(1/2)-1) 
+ 
+ 
+The interviewer can then provide the following data to the candidate for analysis: 
+ 
+Product 
+Sales Gross Profit Margin
+Sales 
+2005 
+Sales 
+2006 
+Sales 
+2007 
+Sales 
+CAGR 
+Accessories 
+$2.50M 
+$1.25M 
+50% 
+$2.50M $1.90M $1.40M
+-25% 
+PlasmaTV 
+$7.00M 
+$1.40M 
+20% 
+$7.00M $7.40M $7.70M
+5% 
+DVD player 
+$5.00M 
+$0.75M 
+15% 
+$5.00M $5.30M $5.50M
+5% 
+Digital Cameras 
+$7.00M 
+$2.10M 
+30% 
+$7.00M $6.30M $5.70M
+-10% 
+Video camcorders $2.50M 
+$1.00M 
+40% 
+$2.50M $2.00M $1.60M
+-20% 
+
+
+===== PDF p29 =====
+Torch the Case 2008 
+ 
+24 
+ 
+8. Slippery Sales continued…  
+ 
+ 
+ 
+ 
+    
+ 
+The candidate should reach the following conclusion when analyzing the data. 
+ 
+The product lines with the negative CAGRs are those with the highest margin and they are also 
+some of the most technologically complex products.  These products would require a higher 
+level of customer service to help customers become better informed in order to make proper 
+buying decisions.  
+ 
+Customer service is lacking at many stores because of a lack of consistent training. Currently, 
+training of sales employees is decentralized through an apprenticeship model, and at stores 
+which perform poorly, the lack of adequate training is perpetuating poor store performance.  
+ 
+The largest revenue streams come from complex electronics such as Plasma TVs and digital 
+cameras where product knowledge must be high among sales associates.   
+ 
+Recommended Conclusion 
+ 
+Having identified the problem, the candidate should mention a set of possible solutions and 
+make a recommendation based on a high level assessment of those possibilities. 
+ 
+One solution is to centralize the training program.  Store managers can attend training seminars 
+at the corporate headquarters and then disseminate their knowledge back to their staff. Such an 
+arrangement would reduce the cost of training and streamline the knowledge transfer process   
+Corporate headquarters can also distribute training materials to ensure that associates are 
+trained consistently across all stores.   Product manufacturers can also create brochures or in-
+store collateral to help promote information about their products.  The store may want to share 
+such costs through trade spend negotiations with the manufacturers.  
+ 
+Additionally, the incentive structure may need to be adjusted to ensure associates follow the 
+training program closely. The client may think about using quantitative metrics, such as Sales 
+per Average Hour (SPAH) to measure the productivity of sales associates.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

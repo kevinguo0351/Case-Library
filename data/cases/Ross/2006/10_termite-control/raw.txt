@@ -1,0 +1,155 @@
+===== PDF p70 =====
+Practice Cases – Case 10: Termite Control 
+BCG 
+ 
+ 
+66
+(Source: Interview case from BCG Round I, RSB 2005 Casebook Case#18) 
+ 
+Context 
+Your client is a termite control company that provides solutions to eliminate termites 
+from homes. Their current solution is to set up a baiting system (a similar concept to 
+mouse traps) that attracts and kills termites.  
+ 
+A competitor has come up with spray system that uses liquid spray to kill termites. 
+They have just started selling this system. How should the client respond? 
+ 
+Interviewee should first assess how credible the threat is and if it’s credible then how the 
+client should respond.  
+ 
+A sample framework: 
+ 
+To assess the importance of the threat, we can conduct a market research to find out how 
+likely customers will convert and how much market share we will lose to the new product. To 
+determine the conversion rate, I’d like to do a comparison of our product and the new solution 
+on price and other elements that are important to customers.  
+ 
+If the threat is significant, we can respond by: 
+- 
+Improve our product to make it more competitive. 
+- 
+Producing the new solution. It depends on our capability, the profitability of the 
+new solution, and financial/operational impact on our current product. 
+- 
+Purchasing the competitor. 
+- 
+Producing a new product that’s better than the new solution. 
+ 
+I’d like to discuss the feasibility of each of these options. 
+ 
+When discussing the market research, interviewee should be able to identify some possible 
+customer preferences such as price, ease of use, and effectiveness. 
+ 
+Information given upon request 
+ 
+- 
+Client has 20% share with 100K new installations/yr 
+- 
+The new solution is cheaper than our product 
+Baiting system  
+Spray system 
+Initial installation 
+ 
+$1100  
+ 
+$750 
+Annual renewal & prevention 
+ 
+$250 
+ 
+ 
+$100 
+ 
+- 
+Both products are equally easy to use and equally effective 
+- 
+Some customers think that the new solution has health risk 
+- 
+Market research found out that existing customers will not switch, but a high number 
+of new customers will use the new system because of the lower price (% unknown) 
+- 
+Historically the client’s customer retention rate is shown below(% of customers in year 
+0 that renew their subscription in subsequent years) 
+ 
+Year 1   Year 2   Year 3    Year 4    Year 5    Year 6      Year 7      Year 8      Year 9     Year 10 
+90%      80%       70%       60%      50%       40%        30%        20%         10%        0% 
+ 
+Conclusion: The threat is significant because we will keep losing market share because we will 
+lose some new customers and keep losing existing customers each year as well. 
+ 
+Now interviewee can proceed to discuss how our client should respond 
+ 
+Information given upon request 
+ 
+- 
+It’s unlikely to improve our current product to make it more competitive. 
+ 
+
+
+===== PDF p71 =====
+Practice Cases – Case 10: Termite Control 
+BCG 
+ 
+ 
+67
+- 
+It’s also unlikely to produce a new product that’s better than the competitor’s in 
+short term. 
+- 
+We have the capability to produce the new system quickly (no patent on formula) 
+- 
+The competitor is a small company and therefore acquisition is possible. However, 
+direct interviewee to discuss the “producing the new system” option 
+ 
+A good discussion on producing the new system could include the following: 
+ 
+To produce the new system, we need to assess the profitability of the new system, impact on 
+our current product (for example, cannibalization), capacity, production process, and 
+sales/marketing. We also need to assess competitor reaction. 
+ 
+Information given upon request 
+ 
+- 
+Profit margin on both products is: 
+ 
+Baiting  
+ 
+Spray 
+Initial installation 
+ 
+$400 
+ 
+ 
+$250 
+Annual renewal & prevention 
+ 
+$50 
+ 
+ 
+$100 
+ 
+- 
+Assume the new system has the same customer retention rate. 
+ 
+Expected profit per customer over 10 years, taken into account the retention rate (ignore 
+discount rate in the calculation): 
+  
+ 
+ 
+ 
+Conclusion from the calculation: The accumulated profit per customer is higher for the spray 
+system only after Year 5. It will make the client depend more on customer retention rate. 
+Customer retention rate could decrease if other products come out in the future or customer 
+preference changes over the years. Considering the time value of money and the possible 
+change in retention rate, our client should minimize the cannibalization of the baiting system. 
+ 
+Sample recommendation: 
+ 
+Given that a high number of new users will use the new system, we will lose market share 
+each year. Therefore, the best response would be to produce this new system since we have 
+the capability and are able to do so quickly. However, because having less drawn-out per 
+customer profit makes the baiting system an more attractive product to us, we should direct 
+more sales/marketing effort to promote it to minimize the cannibalization. 
+ 
+In the next a few days, we will further analyze the financial and operational impact of 
+producing the new system and possible competitive reaction to our new strategy. 

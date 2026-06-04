@@ -1,0 +1,128 @@
+===== PDF p23 =====
+First Round
+Case 1: Drinks on a Plane
+Prompt #1
+Our client, CD OutBev, is a major alcoholic beverage distributor. They have asked us to estimate the 
+daily market size for alcoholic beverages on US domestic flights. First, I would like you to brainstorm 
+a few ways we might approach this problem. Once we agree on an approach, I will then ask you to 
+make some assumptions for me as we work together to size the market. Be sure to provide an 
+explanation for all assumptions.
+Guidance
+This case should take no more than 30 minutes, including behavioral and Q&A. Make sure the 
+candidate doesn’t get too bogged down in one part of the case- if  it takes more than 20-25 minutes 
+to complete the case, they will probably be stopped. It is OK to push them along once or twice.
+Give the interviewee 1-2 minutes to develop a plan of attack if they ask for it. If asked, we are 
+looking for number of drinks and dollars, in that order.
+Some sample approaches might include:
+•
+Top down - start with total number of domestic passengers in a year & estimate a percentage of 
+passengers that purchase alcohol. OR Take the US population and estimate number or flights 
+taken per person on average, proceed from there.
+•
+Bottom-up (PERFERRED METHOD)-Start with number of passengers on one airline or in one 
+city , and build up from there. 
+If we knew how many flights left one airport each day on average, and how many airports there 
+were in the US, I could get the number of  daily flights. Then by estimating the number of 
+passengers on each flight, we could estimate our potential customer base. In order to get the 
+number of flights at one airport, we could use the number of gates. 
+19
+
+
+===== PDF p24 =====
+Guidance
+Ask the candidate to provide assumptions  & rationale for each stage before guiding them to 
+the preferred assumption.
+How many Major Airports in the US? 50
+(Sample explanation: there are 50 states, each with about one “major city” on average, so I’d 
+assume there are 50  major airports)
+Average number of Gates per Airport? 50
+(Some of the largest US airports like Atlanta or JFK have well over 100 gates, but  smaller cities like 
+Raleigh/Durham have approximately 30 gates. 50 seems like a reasonable average)
+50*50= 2,500 Total Gates
+Flights per gate per day? 8
+(About one flight every two hours from 7am to 11pm for each gate.)
+2500*8=20,000 domestic flights per day
+Average Seats per flight: 100
+(A typical Southwest  Airlines  737 has about 25 rows of 6, or 150 seats. However many small 
+regional jets have only 12 rows of 2X2 or 48 seats. 100 seems like a decent midpoint) 
+% occupied seats/flight (“load factor”): 80%
+(most flights are pretty full these days, well over half, but there are still some empty seats, 80% 
+seems like a good assumption) 
+= 80 passengers per flight
+80*20,000 = 1,600,000 passengers per day. Now we just need the number of drinks purchased per 
+passenger.
+Case 1: Drinks on a Plane
+First Round
+20
+
+
+===== PDF p25 =====
+Case 1: Drinks on a Plane
+Prompt #2
+Now that we have determined our potential customer base, how can we further segment the market 
+to arrive at the daily market size?
+Guidance
+Allow the candidate to offer one or two options, but direct them towards age. 
+The candidate should realize that some proportion of the population can not legally drink. This 
+makes age an appropriate way to segment the market. 
+Provide the candidate the following age breakdown of the domestic air travel market: 
+0-20 years old= 10% of passengers
+20-40 years old= 25%
+40-60 years old=  40%
+Age 60+= 25%
+Expected calculation- Passengers by segment (% * 1.6 million)
+0-20- =160,000           20-40 =400,000          
+40-60=640,000            60+= 400,000
+Next provide the candidate the % of passengers in each segment who drink 
+0-20:- 0%        (0 passengers)        20-40:  20%    (80,000)       
+40-60 :30%     (192,000)                 60+ 14%          (56,000) 
+Next provide the candidate the average number of drinks purchased by those who do drink:
+20-40 & 40-60- 2 drinks/ passenger.               60 ~ 1 drink/passenger
+Expected calculation: 2*80,000+2*192,000+1*56,000= 600,000 drinks per day. 
+Price per drink = $6.00 * 600,000= $3.6M size of daily market
+First Round
+21
+
+
+===== PDF p26 =====
+Case 1: Drinks on a Plane
+Prompt #3
+CD OutBev is considering purchasing the exclusive rights to supply all alcoholic beverages on US 
+domestic flights for an indefinite period for $2 billion. Based on the market size we found, should 
+they invest if we expect the market to grow by 3% per year? (Note: use the daily figure we 
+determined, no need to convert days into an annual estimate)
+Guidance
+The candidate should recognize that this is a present value  of a perpetuity, and use the 
+equation 
+PV= FCF / (r-g) where FCF = free cash flow, r= cost of capital, g= perpetuity grow rate. 
+You can provide this equation if the candidate asks for it, but a strong candidate will know it.
+Provide the following information if  asked :
+• Profit margin is 50% ($3,600,000 * 50% = $1,800,000) * 365 (okay to round to 350) = $630M
+• Cost of capital is 13%
+PV= 630M / (.13-.03) = $6.3B
+Since $6.3 billion > $2 billion purchase price, the candidate should recommend investing.
+First Round
+22
+
+
+===== PDF p27 =====
+Performance 
+Evaluation
+Expected:
+• Candidate completes the market sizing calculations with minimal errors.
+• Able to correctly take the present value in the investment decision portion with some help from 
+the interviewer
+Good:
+• Provides more than one viable approach to solve the problem, but quickly switches methodology 
+if asked by the interviewer. 
+• Makes reasonable assumptions based on personal experience and communicates them 
+succinctly to the interviewer. 
+• No more than a couple of quant mistakes
+• Recognizes the need for the present value formula and knows it.
+Excellent:
+• Near-flawless on math, strong explanation of all assumptions, adds some additional insight based 
+on knowledge of the airline industry (“load factors are high because of all the recent merger 
+activity”) or (I’d expect margins are typically high when we’re dealing with beverages) . 
+First Round
+Case 1: Drinks on a Plane
+23

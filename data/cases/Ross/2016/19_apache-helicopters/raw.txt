@@ -1,0 +1,197 @@
+===== PDF p226 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 19: Apache Helicopters, Bain (Round 1)
+Our client is a US 
+•
+defense contractor and one of its divisions manufactures Apache helicopters for military 
+operations. The company is considering setting up a new plant to meet increasing demand in the attack 
+helicopter space. These helicopters are fully equipped with guns and ammo when delivered to the client. 
+The client has considered three sites to setup operations: Brazil, France and the US. 
+How would you go about defining the parameters for decision and where should they setup the plant based 
+•
+on that analysis?
+ Industry: Defense
+ Difficulty: Hard
+ Format: Market entry
+ Concepts Tested: Quant heavy, 
+Synthesis
+•
+Help the candidate only when he/she asks for information
+•
+The critical thinking around how a country might alter 
+purchases based on country of origin is a thought that good 
+interviewees will bring up.
+•
+The other key aspect is the interviewee’s ability to capture data 
+and not get lost in it 
+
+
+===== PDF p227 =====
+223
+Interviewer Guidance to Case and Exhibits
+Clarifying Information on Request
+•
+NA   
+Clarifying Information and Case Guidance
+The client has 
+•
+3 plants in the US; 2 in Kansas 
+and 1 in Michigan 
+The plants operate at full capacity today
+•
+One of the US plants can accommodate an 
+•
+additional assembly line at the cost of $500M; 
+the other 2 are landlocked in residential areas 
+and cannot be expanded 
+
+
+===== PDF p228 =====
+224
+Possible Framework
+Possible Framework
+•
+Candidate should structure the framework to consider the elements for evaluating 3 countries
+•
+Export control restrictions between the US and FR & BR; this is important because if the transfer of 
+technology is disallowed, then the only option is to setup the plant in the United States 
+•
+Financial analysis of operating up the plant in different locations 
+•
+Costs (FC, VC) 
+•
+Revenues that accrue from sales 
+•
+Where are the profits? 
+•
+Customers 
+•
+Where are they based? 
+•
+Need to be close to the customer for design inputs 
+•
+Suppliers 
+•
+Spare Parts 
+•
+Raw materials 
+•
+Logistics 
+•
+What’s it going to take to get the product to the customer? 
+•
+Manpower (availability of skilled managers, technicians) 
+
+
+===== PDF p229 =====
+225
+Math Question
+Cost Information 
+•
+Initial plant setup costs are $500M (US), $2B (BR), $3B (FR) 
+•
+Fixed Costs are $100M annually in all three countries 
+•
+Variable costs are $15M (US), $20M (BR), $25M (FR) 
+Market Size and Revenue Information 
+•
+Defense Budget for next 5 years: $100B (US), $15B (BR), $10B (FR) 
+•
+% of Defense Budget to be spent on our helicopters over the next 5 years
+Sales information 
+•
+The helicopter sell for $100M a piece, but if they are imported into the US, then the US Govt. require them to 
+be certified and the certification process costs $15M per chopper. 
+Information to be provided to candidate when requested
+
+
+===== PDF p230 =====
+226
+Math Solution
+Math Solution
+If plant in US
+•
+US revenues over 5 years = 20% of 100B = 20B
+•
+# of choppers = $20B / $100M = 200 helicopters Total Cost = 500M + 500M + (200) x ($15M) = $4B
+•
+PROFIT = $16B 
+If plant in Brazil
+•
+US revenues over 5 years = 20% of 100B = 20B
+•
+BR revenues over 5 years = 50% of 15B = 7.5B
+•
+# of US-bound choppers = $20B / $100M = 200 helicopters
+•
+# of BR-bound choppers = $7.5B / $100M = 75 helicopters
+•
+TOTAL COST = 2B + 500M + {(# of US bound units) x ($20M + $15M} + {(# of BR bound units) x 
+($20M)} 
+= 2B + 500M + (200) (35M) + (75) (20M) = 2B + 500M + 7B + 1500M
+= $11B 
+PROFIT = $16.5B
+Having the plant in Brazil will give us profits higher than the US by $500M 
+
+
+===== PDF p231 =====
+227
+•
+Evaluate the potential risks to acquiring helicopters in the selected location
+Brainstorming Question
+Brainstorming Questions and Solutions
+•
+Political stability in the country
+•
+Quality of products may be different
+•
+Cultural customs are different and may affect business relationships
+•
+Export/Import implications
+•
+National security may be an issue as helicopters/defence equipment will be manufactured outside of 
+the US
+•
+Know how in other countries
+Brainstorming Solution
+
+
+===== PDF p232 =====
+228
+Recommendation
+Based on the financials, Brazil appears to be a more 
+attractive candidate for setting up the new plant because: 
+•
+Our profits over 5 years will be higher by $500M 
+•
+We won’t be entirely dependent on one single country 
+(US) for sales 
+Risk Factors
+•
+Those gained from brainstorming
+Recommendation
+Conclusion
+•
+Star candidates will realize that calculations relating to France are unnecessary due to the relatively 
+lower revenues and higher costs
+•
+Excellent candidates will also not get lost in the data and will cleanly set up tables to make calculations
+Excellent Case Answers
+•
+What is the potential for selling 
+choppers outside of these 3 countries 
+to the worldwide market 
+•
+What will labor reaction at our existing 
+plants be if we off-shore production to 
+Brazil 
+•
+Are US relations with Brazil likely to be 
+cordial over the next 5 years for us to 
+benefit from 
+•
+Export control laws and sales to both 
+nations 
+Next Steps

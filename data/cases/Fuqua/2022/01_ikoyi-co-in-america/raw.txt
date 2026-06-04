@@ -1,0 +1,276 @@
+===== PDF p26 =====
+Ikoyi Co in America
+11
+Industry:                  CPG
+Case Type:     
+Market entry
+Led by:            
+Interviewee
+Case Level:
+Easy
+
+
+===== PDF p27 =====
+Behavioral Questions
+12
+• Tell me about a time you worked with someone with a different perspective/point of 
+view 
+Question 1:
+• Tell me about a time you had to convince someone to change their mind
+Question 2:
+
+
+===== PDF p28 =====
+Ikoyi Co in America
+13
+• Your client, Ikoyi Co is a UK-based company selling skincare products. They have 
+been successful in the UK and are considering entry into the US. They have asked 
+us to help identify if this is a viable strategy and which key US markets to enter.
+Prompt #1:
+• Background information to be divided into these categories
+– Client/Company information: client is looking for $500M Net Sales Value in 3 years, after 
+retailers take their cut (40%). The imagined split is 50% DTC (no margin cut, 100%) and 50% 
+retail
+– Industry/Competition information: currently one of the biggest players in the UK market. 
+Industry is very fragmented
+– Product information: general skincare products (e.g. moisturizers, vitamin C serum, 
+exfoliators)
+– Value Chain/Revenue information: earns revenue from selling directly to final consumer on 
+their website and through retail
+– Any constraints on the case: the company is considering US only
+Case Background:
+
+
+===== PDF p29 =====
+Ikoyi Co in America
+14
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional)
+Framework Buckets:
+Economics
+Company 
+Competencies
+Other 
+considerations
+•
+Regulations
+•
+Macro-economic 
+risks
+•
+Taxation
+•
+Political risk
+•
+Currency risk
+•
+Power of brand to 
+attract customers
+•
+Expertise to succeed
+✓Staff skill
+✓Supply chain
+•
+Channel access
+✓Access to retail 
+shelves
+✓Digital marketing 
+capabilities for 
+DTC
+•
+Profit
+✓Potential rev in US
+✓Cost of operating in 
+US 
+•
+Market
+✓Competitive 
+environment
+✓Consumer 
+preferences
+✓Industry trends
+✓Market growth
+•
+Investment
+✓Upfront cost 
+required​
+✓Payback period
+
+
+===== PDF p30 =====
+Exhibit #1
+US Skincare market by region ($M)
+0%
+10%
+20%
+40%
+30%
+50%
+60%
+70%
+90%
+100%
+80%
+6%
+2%
+14%
+8%
+13%
+East
+13%
+10%
+10%
+21%
+27%
+53%
+25%
+24%
+4%
+68%
+West
+60%
+0%
+16%
+Midwest
+12%
+14%
+South
+500
+750
+300
+250
+Others
+Skin Pro
+Never Age Inc.
+Glow Inc.
+Yo Yo Skin
+
+
+===== PDF p31 =====
+Interviewer guidance on Exhibit 1
+• Market size is given by the total at the top, 
+with competitor share in each region\
+• Assume Other accounts for sum of all 
+other competitors with negligible share
+• Push candidate to eliminate West as it is 
+highly concentrated
+• Drive towards calculating revenues for 
+other regions
+• Candidate should deduce that the West is 
+heavily consolidated and will be difficult to 
+enter
+• The other three regions are smaller but 
+less consolidated and should be explored
+16
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p32 =====
+Exhibit #2
+Region
+Total market size 
+(Year 1)
+Potential market 
+share Year 1
+Potential 
+marketshare 
+Year 2
+Potential market 
+share Year 3
+East
+500
+10%
+12%
+20%
+West
+750
+1.33%
+5%
+7%
+Midwest
+300
+16%
+20%
+33%
+South
+250
+12%
+18%
+20%
+17
+All numbers given in Millions USD
+
+
+===== PDF p33 =====
+Interviewer guidance on Exhibit 2
+• Assume market size will grow at 10% annually 
+for each region
+• Candidate should recognize that even though 
+the West is the largest region it will produce the 
+least revenue and has the most consolidated 
+competitive landscape, making it the least 
+attractive
+• Candidate should conclude that the revenue 
+target is unattainable after entering the 3 most 
+promising markets; LEAD INTO BRAINSTORM
+• Need to work backwards to get gross revenue 
+goal
+• (.5)(.6)X+ (.5)X= 500M
+• .8X=500M
+• X= Gross revenue= 625M
+18
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p34 =====
+Brainstorming
+• What are other ways client could reach their 
+revenue target?
+• Price:
+–
+Increase price of skincare products sold
+–
+Have tiered pricing for skincare products based on customer 
+loyalty
+–
+Renegotiate percentage/price with retailers
+• Quantity:
+–
+Increase quantity of products sold by gaining more final 
+consumers/retailers
+–
+Increase quantity sold by exploring B2B business model; e.g. 
+partnering with hospitals/dermatologists
+–
+Explore other channels of servicing customer; e.g. company 
+owned physical stores
+• Create new product/service offering
+• Increase marketing efforts; e.g. social media, 
+educational outreaches
+19
+Prompt:
+Analysis:
+
+
+===== PDF p35 =====
+Ikoyi Co in America
+20
+• Yes, the US market should be entered (3 regions or 4). Ikoyi is a powerful brand 
+abroad which may translate well to an American audience. They can leverage 
+existing capabilities
+• No, the US market should not be entered. You would need to enter all 4 regions 
+to reach your revenue goal and there are challenges to a nationwide launch 
+(logistics, supply chain, upfront marketing costs). However, there are benefits to 
+getting your brand in a new geography and access to new customers
+• Candidate should choose one choice of action or the other
+Recommendation 
+• Yes: Risks include establishing new international supply chains, FDA regulation 
+compliance, competitor response
+• No: Loosing potential revenue streams and access to new customers, diminishing 
+brand presence should a US competitor enters the US market
+• Next steps are to perform feasibility studies, stress test assumptions, perform 
+due diligence on new suppliers, establish shipping contracts, and expand production 
+capacity to the extent necessary.
+Risks and Next Steps:

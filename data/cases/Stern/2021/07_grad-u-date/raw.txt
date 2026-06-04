@@ -1,0 +1,405 @@
+===== PDF p102 =====
+© 2021 NYU Stern MCA
+Grad-U-Date
+Case Overview:
+Industry: Online Dating
+Case Type: Pricing
+Concepts Tested:
+•
+Brainstorming
+•
+Critical thinking
+•
+Math
+Overview Information for Interviewer:
+The interviewer should facilitate a conversation by prompting the candidate. Complete
+brainstorming exercises before starting profit calculations.
+Share Exhibit #2 with candidate. After profit calculations are complete, share Exhibit #3. 
+Candidate should identify the following major tasks:
+•
+Market size
+•
+Competitive landscape / market share
+•
+Profitability for each monetization model
+Case Prompt:
+Our client is an online dating startup named Grad-U-Date, which specializes in matching graduate students with other 
+graduate students. Grad-U-Date has finished building their app and are now looking for your assistance in deciding on a 
+monetization strategy.
+What is Grad-U-Date’s best method of monetization? How profitable will the company be?
+Author: Wayne Atwell (Stern ‘15)
+[Interviewee-Led]
+Quant: 6
+Structure: 6
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+98
+© 2021 NYU Stern MCA
+
+
+===== PDF p103 =====
+Grad-U-Date: Case Guide
+Clarifying Information:
+• Gender ratio of users will be 50/50
+• MBA, law and medical students are considered 
+professional students
+• The app has already been built, and is considered
+a sunk cost
+• Grad-U-Date will only operate within the United 
+States
+• There are 4 major competitors and hundreds of 
+small competitors
+• There has been a significant increase in the
+number of free dating apps starting in late 2012
+• There are currently no other online dating services 
+that focus only on graduate students
+• Only one revenue model can be used
+Interviewer Guide:
+Brainstorming and Market Size:
+Questions 1-2 are qualitative and should be conversational. Candidate should remain 
+structured while creatively brainstorming.
+Question 3 is a simple market size using Exhibit 1.
+Revenue Model Question:
+Provide the candidate Exhibit #2.
+Calculate the profit of each revenue model. Fixed costs are $10,000,000 a year and variable 
+operating cost is $1 per member per year. Which revenue model would you recommend?
+Additional Questions (Ask as many as time permits)
+After candidate finishes calculations, provide Exhibit #3.
+•
+Does this information change your recommendation for which revenue model?
+•
+Why do you think that the percentage of users paying monthly fees dropped so quickly 
+starting in 2013?
+•
+Given your recommended revenue model, what other strategies can Grad-U-Date use 
+to increase profit?
+99
+© 2021 NYU Stern MCA
+
+
+===== PDF p104 =====
+Grad-U-Date: Questions 1-3
+Monetization:
+•
+What types of monetization models 
+could Grad-U-Date use?
+•
+What are the advantages and 
+disadvantages of each model?
+Target Market:
+•
+Grad-U-Date is considering limiting
+the site to only MBA students what
+issues might there be with an MBA
+only dating website?
+Market Sizing:
+•
+What is the potential market size for 
+Grad-U-Date?
+•
+[Share Exhibit #1 with candidate]
+Notes to Interviewer:
+•
+Monthly Fee
+•
+Advertising
+•
+Pay for Premium Account
+•
+Profile Consulting Services
+•
+Micro-Transactions
+•
+Pay per Message
+•
+Pay for bump in profile traffic
+•
+Push candidate for at least 3 monetization 
+models
+•
+Candidate should remain structured with 
+advantages and disadvantages
+Notes to Interviewer:
+•
+There are more men than women at most
+MBA programs, there will be a significant
+gender skew
+•
+It would unnecessarily limit the size of the
+market and the app platform
+•
+Most MBA students tend to be older than 
+other students, so many are already 
+married or in a committed relationship
+Notes to Interviewer:
+•
+Medical = 450 x 4 = 1,800
+•
+MBA = 300 x 2 = 600
+•
+Law = 200 x 3 = 600
+•
+Non-Professional = 1,000 x 3 = 3,000
+•
+Grad Students per University = 1,800 + 
+600 + 600 + 3,000 = 6,000
+•
+Market Size = 6,000 * 1,000 = 6,000,000
+students
+100
+© 2021 NYU Stern MCA
+
+
+===== PDF p105 =====
+Grad-U-Date: Question 4
+Question #4:
+Calculate the profit of each revenue model. Fixed costs are $10,000,000 a year and variable operating cost is $1 per member per 
+year. Which revenue model would you recommend?
+[Provide Exhibit 2]
+Math Solution:
+Monthly Fee:
+Customers:  
+Revenue: 
+Profit:
+6,000,000 x 5% = 300,000 users
+300,000 x $10 x 12 = $36,000,000
+$36,000,000 - $10,000,000 - 300,000 x $1 = $25,700,000
+Premium Account:
+Customers:  
+Revenue: 
+Profit:
+6,000,000 x 30% = 1,800,000 total users (only some will purchase premium account) 
+1,800,000 x (50% x 40% + 50% x 20%) x $5 x 12 = $32,400,000
+$32,400,000 - $10,000,000 - 1,800,000 x $1 = $20,600,000
+Advertising:
+Customers:
+6,000,000 x 40% = 2,400,000 users
+Revenue:
+2,400,000 x (50% x $0.75 + 50% x $1.25) x 12 = $28,800,000 (assumes 50/50 split of professional and
+non-professional students observed in market sizing) 
+Profit:
+$28,800,000 - $10,000,000 – 2,400,000 x $1 = $16,400,000
+101
+© 2021 NYU Stern MCA
+
+
+===== PDF p106 =====
+Grad-U-Date: Questions 5-7
+Question #5:
+•
+Does this information change your 
+recommendation for which revenue 
+model?
+•
+[Provide Exhibit 3]
+Question #6:
+•
+Why do you think that the percentage
+of users paying monthly fees dropped
+so quickly starting in 2013?
+Question #7:
+•
+Given your recommended revenue 
+model, what other strategies can Grad-
+U-Date use to increase profit?
+Notes to Interviewer:
+•
+Candidate should switch recommendation
+from monthly fee to premium account
+•
+The portion of customers willing to pay a
+fee and the average fee paid have been
+rapidly decreasing since 2008
+•
+It is unlikely that current profitability will be
+maintained in the future
+Notes to Interviewer:
+•
+Increased competition in online 
+dating market
+•
+Quality free dating apps released 
+that are more convenient
+•
+Tinder app launched in late 2012
+Notes to Interviewer:
+Reduce Costs:
+•
+Outsource servers
+•
+Only provide email support and no phone 
+number
+Increase Revenue:
+•
+Create app to attract more customers
+•
+Profile consulting services
+•
+Profile photo editing
+•
+Offer deals with popular date locations
+•
+Expand to recent graduate school alumni
+•
+Add micro-transactions
+102
+© 2021 NYU Stern MCA
+
+
+===== PDF p107 =====
+Grad-U-Date: Recommendation
+Recommendation:
+•
+Grad-U-Date should adopt the 
+premium account revenue model
+•
+Monthly fee revenue model should not 
+be selected because this segment is 
+rapidly disappearing and it limits the 
+users on the platform
+•
+The premium account model is 
+expected to bring in $20,600,000 in 
+annual profit
+Bonus: Guide to an excellent case
+•
+A strong candidate will brainstorm 5+ monetization models and identify several reasons not to limit the app to MBAs
+•
+Better candidates will finish the math fast enough to do 2 or 3 of the additional questions
+•
+When brainstorming, excellent candidates will structure their answers into buckets, such as strategies to reduce costs vs increase revenue when
+coming up with ways to improve profitability
+Risks:
+•
+Premium account could be seeing a 
+similar decrease in share as fee
+•
+Smaller % of users will purchase a 
+premium account than predicted
+•
+Ad supported model could be growing 
+faster than premium account
+•
+Graduate students may not be able to
+afford to buy premium accounts
+•
+Number of people going to graduate 
+school could decrease
+•
+Grad students may not want to limit their 
+dating pool to grad students
+Next Steps:
+•
+Look into market trends for ad and 
+premium account revenue models
+•
+Expand into new markets such as 
+undergraduates or other countries
+•
+Offer additional services: profile consulting 
+services and date deals
+•
+Add micro-transactions such as increasing
+the traffic to your profile
+•
+Incorporate social media
+•
+Can premium account and ads work 
+together?
+103
+© 2021 NYU Stern MCA
+
+
+===== PDF p108 =====
+Student Enrolment Information
+450
+300
+200
+1,000
+200
+-
+400
+600
+1,000
+800
+1,200
+Medical Students
+MBA Students
+Law Students
+Non-professional  
+Students
+3
+New Graduate Students 
+(per University per Year)
+Years for Degree:
+4
+Note: There are currently 1,000 Universities in the United States.
+2
+3
+Grad-U-Date: Exhibit 1
+104
+© 2021 NYU Stern MCA
+
+
+===== PDF p109 =====
+Product Usage
+5%
+30%
+40%
+0%
+10%
+20%
+30%
+40%
+50%
+Monthly Fee Premium
+Account
+Advertising
+Forecasted % of Graduate 
+Students using Grad-U-Date
+Monthly Fee Model
+Monthly membership fee would be $10
+Advertising Model
+Non-professional students bring in $0.75 per month 
+and professional students bring in $1.25 per month 
+in ad revenue
+Premium Account Model
+Premium accounts costs $5 per month; 40% of 
+men and 20% of women purchase premium 
+accounts
+Grad-U-Date: Exhibit 2
+105
+© 2021 NYU Stern MCA
+
+
+===== PDF p110 =====
+Online Dating Market Info
+$0
+$10
+$20
+$30
+$40
+$50
+$60
+$70
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Online Dating Market Trends
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+% Users paying monthly fee
+Average Monthly Fee ($)
+Grad-U-Date: Exhibit 3
+106
+© 2021 NYU Stern MCA

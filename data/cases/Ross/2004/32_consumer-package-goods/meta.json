@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2004_32_consumer-package-goods",
+  "school": "Ross",
+  "year": "2004",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2004.pdf",
+  "idx": 32,
+  "case_name": "Consumer package goods",
+  "case_type": "Operations",
+  "round": "1",
+  "industry": "Consumer Goods",
+  "difficulty": null,
+  "pdf_page_start": 77,
+  "pdf_page_end": 78,
+  "n_pages": 2,
+  "exhibit_pdf_pages": [
+    77
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p077.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2004\\32_consumer-package-goods"
+}

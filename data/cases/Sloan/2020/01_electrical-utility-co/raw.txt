@@ -1,0 +1,177 @@
+===== PDF p65 =====
+Casebook | 2019-20 Edition 
+61 
+ 
+1. Electrical Utility Co. (Bain Mock, Industrials, Profitability, 
+Quantitative) 
+Stem 
+ 
+Our client is an electrical utility company that had negative earnings last year due in large part to a one- 
+time write-off of bad debt. Our client operates in what is essentially a perfectly competitive market with 
+30+ competitors. The way our client’s industry works is this: customers typically have 12-24 month 
+contracts and incur minimal switching costs when moving from one electrical utility company to another. 
+ 
+Our client has brought us in for two reasons: (1) to figure out why profitability has fallen and (2) to help 
+them improve profits going forward. 
+ 
+Provide the following information only if asked: our client does not generate its own electricity and instead 
+re-distributes it. 
+ 
+Structure 
+ 
+A good structure should include Profitability and Electrical Utility Market Dynamics. The structure can also 
+include other things such as Firm Capabilities or Customer. 
+ 
+Part 1 – Profitability 
+ 
+Candidate: I’d like to understand more about the revenue model. Do you have any information on the 
+price point or demand for our client’s services? 
+ 
+Interviewer: Great question. Our client charges $0.10 / kwh for its services, which is in line with the 
+market rate over the last few years. On the quantity side, our client currently serves ~1M customers per 
+year and has for the last several years. Furthermore, the demand for each house has remained steady at 
+1000 kwh / month. 
+ 
+Candidate: Thanks. So, it seems that our client’s price is in line with the market, which makes sense 
+since this market is very competitive. Also, it looks like quantity hasn’t really changed at all either. Given 
+that price and quantity haven’t changed much, I’d like to turn my attention to the firm’s cost structure. 
+ 
+Interviewer: That sounds great to me. What do you think some of our client’s key cost drivers are? 
+ 
+Candidate should structure his or her cost drivers into Fixed Costs and Variable Costs. Some fixed costs 
+include salaries, SG&A, and regulatory fees. Some variable costs include electricity, marketing, 
+installation, fees to the grid, and customer acquisition costs. 
+ 
+Interviewer: Perfect. What do you think the most important cost drivers are? 
+ 
+Candidate should hone in on the fact that energy costs are the highest. 
+ 
+Interviewer: Correct, energy costs are the largest. In fact, our client makes a 10% margin on electricity 
+transmission. What else? 
+ 
+Candidate should clue in on the fact that acquisition costs and churn are important costs since this is a 
+highly competitive market and switching costs are low. 
+ 
+Part 2 – Customer Lifetime Value 
+
+
+===== PDF p66 =====
+Casebook | 2019-20 Edition 
+62 
+ 
+Interviewer: Great. I have a little more information about the economics of the firm. First, our client’s 
+relationship with a customer can be broken down into three stages: (1) sign-up, (2) on-flow, and (3) 
+termination. 
+ 
+During the sign-up phase, our client pays $50 to sign up a customer, which is an all-in figure that includes 
+things like installation, marketing, salaries, etc. Worth noting is that if a customer has a low credit score, 
+our client collects a $100 refundable deposit. 
+ 
+During the on-flow stage, our client pays $7 per month to service a customer. 
+ 
+For the termination phase, our client has two types of customers: good customers and bad customers. 
+Good customers pay their bills on time and leave with zero balance. Bad customers on the other hand do 
+not pay for their last two months. After two months of unpaid service have elapsed, our client will 
+disconnect a bad customer from the grid, incurring a cost of $75. At this point, a bad customer may 
+choose to restore his or her service or not. If he or she chooses to restore service, the customer must pay 
+the two months’ outstanding balance as well as a $100 reconnection charge. If the customer does not 
+restore service, our client sends the customer to a debt collector at a cost of $50 per customer. The debt 
+collector has a 50% success rate in collecting a customer’s outstanding payments. 
+ 
+What I would like you to do is calculate the customer lifetime value of a bad customer who chooses not to 
+reconnect his or her service. Assume the customer originally signed a two-year contract. 
+ 
+Candidate should identify all costs and revenues. This question can be particularly tricky because 
+Interviewer intentionally leaves out revenue information (which can be calculated with information 
+previously given in the case) and cost-of-energy information (ditto). Do not provide the table below to 
+Candidate. 
+ 
+ 
+ 
+Costs 
+Amount 
+Notes 
+Revenue 
+Amount 
+Notes 
+Sign-up 
+50 
+Electricity 
+2200 
+0.10/kWh * 1000 
+hr/mo * 22 mo [Note: 
+22 mo instead of 24 
+mo since last 2 
+months are unpaid] 
+Electricity 
+2160 
+0.09/kWh * 1000 hr/mo 
+* 24 mo 
+Refundable 
+deposit 
+100 
+Overhead 
+168 
+7/mo * 24 mo 
+Expected 
+Revenue 
+from debt 
+collector 
+100 
+200 outstanding 
+balance * 50% 
+success rate 
+Disconnection 
+fee 
+75 
+Termination 
+fee 
+50 
+Total 
+2503 
+Total 
+2400 
+ 
+Candidate should end up with a customer lifetime value of -103. 
+ 
+Candidate: Looks like the customer lifetime value is -103. Wow – right off the bat it looks like these 
+customers could be contributing to our client’s profitability issues. I’d love to learn a little bit more about 
+how prevalent these bad customers are. 
+
+
+===== PDF p67 =====
+Casebook | 2019-20 Edition 
+63 
+ 
+ 
+Part 3 – Customer Segmentation 
+ 
+Interviewer: I actually have some more information on that. Why don’t you take a look at this breakdown 
+of our client’s customer base and let me know what you think? 
+ 
+Candidate: Wow! The first thing I notice is that half of our client customers are unprofitable and 30% are 
+wildly unprofitable. Given our client’s objective, I’d like to think about what we can do to improve 
+profitability. 
+ 
+Interviewer: Sounds good to me. What are your thoughts? 
+ 
+Candidate should structure his or her brainstorming in a logical way such as Increase Number of Positive- 
+Value Customers vs. Decrease Number of Negative-Value Customers. Some ideas for increasing the 
+number of “good” customers include: reducing the sign-up fee (for medium and above credit scores), 
+introducing “loyalty” bonuses, try to differentiate the service through high quality, etc. Some ideas for 
+decreasing the number of “bad” customers include: increasing the sign-up fee (for low credit scores), 
+charge a higher deposit, re-examining marketing channels, etc. 
+ 
+Part 4 - Recommendation 
+ 
+Interviewer: That all sounds reasonable. So, our client just walked in – what is your recommendation? 
+ 
+Candidate: You asked us to do two things: (1) determine why profits are falling and (2) come up with 
+ways to improve them. First, profits have fallen largely due to churn and your customer mix. We 
+determined that 50% of your customers are unprofitable and 30% are worth -$350 each. In order to 
+improve profitability, we recommend you decrease the number of negative-value customers by raising 
+your deposit and increase the number of positive-value customers by introducing loyalty bonuses. In 
+terms of next steps, I’d like to analyze which of these strategies to implement first. In terms of risks, it is 
+possible that these changes might invoke scrutiny from regulators or upset the general public. That said, 
+improving your customer segmentation looks like a great way to improve your firm’s profitability going 
+forward. 

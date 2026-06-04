@@ -1,0 +1,195 @@
+===== PDF p123 =====
+Casebook | 2019-20 Edition 
+119 
+ 
+21. Media Operations (BCG R1, TMT, Operations, Balanced) 
+Stem: Our client is a large media company in Los Angeles. It currently has two offices. One in Santa 
+Monica and one in Century City. They have decided to consolidate their operations into one location and 
+will choose one of their existing buildings, but are unsure which one to choose. What should they do? 
+ 
+Candidate should look at two main things: 
+ 
+1. The economics of the move 
+2. The non-financial (social, political, and cultural) issues about integration 
+ 
+Phase 1 – The Economics 
+ 
+Candidate should identify rent, capacity requirements, switching costs associated with the move, the cost 
+to upgrade the existing structure to make it usable by the increased number of employees, etc. 
+Candidate should also ask if the client leases or owns the locations and what each office is used for (i.e. 
+what divisions of the operation are housed in each). 
+ 
+Once they ask for these things, you can provide the following information… 
+ 
+Interviewer: The client requires 100k ft2 of space. Their buildings are both under lease for 10 years. They 
+plan to sub-lease (rent) any space they don't use. 
+ 
+Purpose 
+Santa Monica 
+Video Games 
+Century City 
+DVD's 
+Space (in ft2) 
+200,000 
+400,000 
+Cost / ft2 / year 
+$40 
+$40 
+Build-out cost (over 10 years) 
+$1,500K 
+$500K 
+ 
+ 
+ 
+Avg. vacancy rate of city 
+10% 
+18% 
+ 
+ 
+ 
+Key Assumptions: 
+ 
+• 
+Assume they can sub-lease any and all unused space. 
+• 
+The remaining time on the current leases is 10 years. 
+ 
+Interviewer: What do you think about the vacancy rate in these two cities as it pertains to the rent our 
+client will be able to charge for a sub-lease? 
+ 
+Candidate: The higher the vacancy rate, the more supply, and therefore the lower the price our client will 
+able to charge. 
+
+
+===== PDF p124 =====
+Casebook | 2019-20 Edition 
+120 
+ 
+Interviewer: Given that, let’s assume that the price our client can charge per sq ft is $40 for Santa 
+Monica and $30 for Century City. 
+ 
+If the candidate has does not begin to do so on their own, ask them to calculate the financial impact of 
+each option (may be in total OR per year). The candidate should realize that the client is already locked 
+into a 10-year lease with both buildings. 
+ 
+Annual Financial Impact of each alternative: 
+ 
+($) 
+Occupy Santa Monica 
+only 
+Occupy Century City only 
+Santa Monica Rent 
+($8,000,000) 
+($8,000,000) 
+Century City Rent 
+($16,000,000) 
+($16,000,000) 
+Build-out Cost (per year) 
+($150,000) 
+($50,000) 
+Total Cost / Year 
+($24,150,000) 
+($24,050,000) 
+ 
+ 
+ 
+Sub-lease Income - Santa Monica 
+4,000,000 
+8,000,000 
+Sub-lease Income - Century City 
+12,000,000 
+9,000,000 
+Total Sub-lease Income 
+16,000,000 
+17,000,000 
+ 
+ 
+ 
+Net Impact 
+($8,150,000) 
+($7,050,000) 
+ 
+ 
+ 
+Calculations: 
+ 
+• 
+Santa Monica Rent = 200k sq ft * $40 
+• 
+Century City Rent = 400k sq ft * $40 
+• 
+Build-out Cost = Total build-out cost / 10 years 
+• 
+Sub-lease Income of Client occupied building = (Total sq ft - 100k sq ft) * sublease rate 
+• 
+Sub-lease Income of 100% subleased building = (Total Sq ft) * sublease rate 
+Candidate should quickly see that moving to Century City is optimal. 
+Alternate Approach 
+ 
+Candidate may also calculate the marginal difference between the two options by noting the rental costs 
+and majority of sublease revenue will be the same across both options. In this case, the candidate 
+calculates: 
+
+
+===== PDF p125 =====
+Casebook | 2019-20 Edition 
+121 
+ 
+Build-out cost (per year) 
+($150,000) 
+($50,000) 
+Marginal Sub lease Income – Santa Monica 
+$0 
+$4,000,000 
+Marginal Sub-lease Income – Century City 
+$3,000,000 
+$0 
+Marginal Impact 
+$2,850,000 
+$3,950,000 
+Century City is the better option by $1.1M 
+ 
+ 
+ 
+Note: A good candidate will note that so far, we've only looked at the financial aspects of the situation. 
+This is NOT enough information on which to base a decision. 
+ 
+Phase 2: The integration issues 
+ 
+Interviewer: Besides the economics, what else should our client consider? 
+ 
+Answers should include the following: 
+ 
+• 
+Workforce integration issues 
+• 
+Proximity to clients/customers 
+• 
+Proximity to employee homes 
+ 
+Interviewer: Good. How would you recommend our client inform its employees of this move? 
+ 
+Note: There is not necessarily a perfect answer but a good candidate will identify several alternatives 
+(which could a few possibilities from the following list). It is important that they identify the pros and cons 
+of each alternative and clearly communicate the ramifications of each option (business strategy, talent 
+retention, office politics, etc.). 
+ 
+• 
+Office wide-meeting 
+• 
+Starting with top employees to ensure they are retained 
+• 
+E-mail or memo 
+• 
+One on one discussions between managers or employees 
+ 
+Interviewer: Are you sure that’s the best approach? What are some the cons of using that strategy? 
+ 
+Candidate should defend their view, while also noting the negative aspects of their approach / potential 
+alternatives that might balance out the cons. 
+ 
+Interviewer: Our client’s CEO is walking in now. What is your formal recommendation for her? 
+ 
+Candidate makes final recommendation. It should be direct while providing potential risks. Extremely 
+good answers will have next steps such as identifying where employees live using HR to look up the zip 
+codes, drafting up a survey to ask employees where they want to work, etc. 

@@ -1,0 +1,173 @@
+===== PDF p75 =====
+Pirates (1 of 10)
+McKinsey Format, Round 1
+Our client is the captain of a well-established Pirate ship 
+in the Caribbean Sea who has recently noticed declining 
+booty reserves (aka cash).  He’s realizing that his ship’s 
+current operations are not meeting his requirements for 
+a lavish lifestyle and is considering options for 
+ti
+dditi
+l b
+t
+H ’
+k d
+t
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+generating additional booty.  He’s asked you to 
+accomplish two important tasks: 
+•First, he wants to assess some of the reasons why his 
+booty reserves are declining; and
+•Second, he needs to understand what he needs to do to 
+replenish his booty reserve.
+So, the first question: why would booty reserves be 
+declining?
+
+
+===== PDF p76 =====
+The ship isn’t as profitable with its plundering; this could be due to declining revenues or 
+increasing costs:
+• Revenue: Booty decreases could come from:
+• Fewer amounts of ships to plunder
+• Pirates have taken out all the potential ships
+• Changes in the market have caused merchants to transition to other modes 
+of transport
+• Increased safeguards against piracy
+Pirates (2 of 10)
+McKinsey Format, Round 1
+Sample  ResponseP
+Increased safeguards against piracy
+• Less revenue per plunder
+• Ships are carrying less plunder,
+• Value of plunder (gold, etc.) is declining
+• Other pirates have stolen from ships we’re attacking (latecomer)
+• Less intimidating “yarr”
+• Cost increases could be due to the following:
+• Operating costs of ships could be increasing
+• Several explanations – labor, food, maintenance, cannonballs, pirate hats, 
+parrots, etc.
+• Less efficient workers on boat
+• The captain is living a more lavish lifestyle
+• Mutiny
+• Debt payments are due on equipment
+
+
+===== PDF p77 =====
+We’ve done an assessment of the ship’s booty and 
+have found the following breakdown of revenues. 
+(Show Exhibit 1).  What do you make of this? 
+Additional questions for candidate
+Revenues are increasing.  However, it should also be 
+noted that revenues are flat for the amount received 
+in the women category.
+We have noticed that most of the areas of growth are
+Solution guide
+Pirates (3 of 10)
+McKinsey Format, Round 1
+We have noticed that most of the areas of growth are 
+relatively steady, but that the market size women is 
+increasing with population.
+Exhibit 2 should be given, showing the revenues from 
+each category.
+
+
+===== PDF p78 =====
+Pirates (4 of 10, Exhibit 1)
+McKinsey Format, Round 1
+
+
+===== PDF p79 =====
+Pirates (5 of 10, Exhibit 2)
+McKinsey Format, Round 1
+REVENUES
+
+
+===== PDF p80 =====
+We have determined that, in order to increase 
+revenues at the scale necessary, growth in the 
+revenues gained from women need to increase at the 
+pace of all other revenues.  With this information in 
+mind, calculate:
+Additional questions for candidate
+Solution guide (See Next Page)
+Pirates (6 of 10)
+McKinsey Format, Round 1
+•The required incremental revenues in the sale 
+of women to meet this goal; and
+•The new Growth rates for the ship in 1848 and 
+1849 given these new sales numbers for 
+women.
+
+
+===== PDF p81 =====
+Growth of all other sectors from 1847-1848 is as follows:
+(58,632,000 - 10,100,000) - (51,670,000 - 10,000,000) / (51,670,000 - 10,000,000) = 14.1%
+Therefore, in order to meet this increase, the revenues from women must increase to (10,000,000 * 1.141) = 
+11,410,000 or incrementally by 11,410,000-10,100,000 = 1,310,000
+Solution guide for Previous Page:
+Pirates (7 of 10)
+McKinsey Format, Round 1
+New growth rate will be ((58,632,000 + 1,310,000) – 51,670,000) / 51,670,000 = 16.0%.
+For 1848 to 1849, candidate should recognize that the growth should be included from the previous calculation
+Growth of other sectors from 1848 to 1849 is as follows:
+[(67,054,950 - 10,201,000) - (58,632,000 + 1,310,000 - 11,410,000)]  /  (58,632,000 + 1,310,000 - 11,410,000) = 17.1%
+In order to meet this increase, revenues from women must increase from 11,410,000 (calculated in previous year) 
+to (11,410,000 * 1.171) = 13,361,110, or incrementally by 13,361,110 - 10,201,000 = 3,160,110
+New growth rate will be [(67,054,950 + 3,160,110) – (58,632,000 +1 ,310,000)] / (58,632,000 + 1,310,000) =  17.1%
+
+
+===== PDF p82 =====
+The captain has broken out his costs by successful 
+and unsuccessful plunders.  He has determined that, 
+on average, he spent 50,000 per successful plunder 
+and 70,000 per unsuccessful plunder, respectively, in 
+1847.  We also found that his average revenue per 
+successful plunder was 500 000
+His plunders are
+Additional questions for candidate
+Expected value of a “successful” plunder is:
+(500,000 – 50,000) * 40% - (70,000) * 60% = 138,000.
+Solution guide
+Pirates (8 of 10)
+McKinsey Format, Round 1
+successful plunder was 500,000.  His plunders are 
+successful 40 percent of the time. 
+What is the expected value per plunder?
+
+
+===== PDF p83 =====
+We have determined that, recently, he may be faced 
+with an increased cost of 100,000 per unsuccessful 
+plunder.  
+Given this information, what percentage increase of 
+successful plunders must he undertake in order to
+Additional questions for candidate
+The candidate will now need to solve for the % of 
+successful plunders and will need to use the 
+following equation:
+150,000 = (500,000 - 50,000) * (100% - x%) – (100,000) * 
+(x%)
+Solution guide
+Pirates (9 of 10)
+McKinsey Format, Round 1
+successful plunders must he undertake in order to 
+increase the expected value per plunder to 150,000?
+(x%)
+Solving for x suggests that 46% of plunders will need 
+to be successful in order to increase profitability.
+
+
+===== PDF p84 =====
+What would you suggest given the analysis and your 
+findings?  
+Additional questions for candidate
+The captain may need to increase his ship’s abilities 
+which would involve some costs, but you may also 
+suggest we examine more lucrative opportunities 
+(such as shipping goods and services, targeted 
+plundering, expanding to new markets, etc.)
+Solution guide
+Pirates (10 of 10)
+McKinsey Format, Round 1

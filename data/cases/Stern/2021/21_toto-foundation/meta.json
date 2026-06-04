@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2021_21_toto-foundation",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 21,
+  "case_name": "Toto Foundation",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Non-Profit",
+  "difficulty": null,
+  "pdf_page_start": 236,
+  "pdf_page_end": 245,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    238,
+    239,
+    240,
+    242,
+    243,
+    244
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p238.png",
+    "exhibits/exhibit_p239.png",
+    "exhibits/exhibit_p240.png",
+    "exhibits/exhibit_p242.png",
+    "exhibits/exhibit_p243.png",
+    "exhibits/exhibit_p244.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\21_toto-foundation"
+}

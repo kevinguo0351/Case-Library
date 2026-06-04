@@ -1,0 +1,204 @@
+===== PDF p144 =====
+CASE 13:  
+CAPITAL INVESTMENT FOR UTILITY 
+Case Question: 
+A major East Coast, vertically integrated and regulated electric utility has 
+received a permit to build its first nuclear power plant. It wants to know if this 
+will be a good investment and possible risks associated with this venture. 
+Firm Style 
+Interview Round 
+Booz, BCG 
+1 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+Can you describe the structure of the 
+company? What does “vertically integrated” 
+and “regulated” mean? 
+A vertically integrated utility owns the entire 
+value chain – generation, transmission and 
+distribution. It is somewhat of a monopoly and 
+is overseen by state regulators. 
+What is the competition like? 
+There is virtually no competition because it is a 
+regulated industry. 
+Cont’d on next slide 
+
+
+===== PDF p145 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+What is the size of the plant? 
+The new plant is expected to supply about 
+8,760 GWh (Gigawatt hours) per year and it is expected 
+to be utilized for 30 years. 
+What is the current demand? 
+The current annual demand in the utility’s service area is 
+17,000 GWh. For this case assume this demand will 
+remain constant in the near future. 
+What is the expected revenue on a 
+variable basis? 
+$80/MWh (1000 MWh = 1 GWh) 
+What is the expected variable cost? 
+$10/MWh 
+Is there any public opposition? 
+No 
+Why is the utility building this new 
+plant? 
+Great question. Currently the company has about 9,000 
+GWh of supply that comes from old, dirty and inefficient 
+coal fired power plants. It plans to retire them in the 
+near future. 
+Cont’d on next slide 
+
+
+===== PDF p146 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+Who will build the plant? 
+The utility plans to outsource the building of the nuclear 
+plant and the price quote is about $7 Billion 
+What is the market cap of our client? 
+Top question. The market cap of this company is $6 
+Billion. The candidate should note that the fixed cost of 
+the plant is more than the entire company is worth. 
+
+
+===== PDF p147 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Framework / Structure 
+This is a cost-benefit analysis case along with elements of assessing risk 
+associated with developing a new technology. 
+• Understanding the company structure and industry:  
+• This is a regulated industry and hence no competition exists. 
+• The main barriers to any project are the cost, subsequent benefits and 
+most importantly the ability to assess the need for this project. 
+• Internal barriers can be significant especially with regard to operating 
+this new plant. 
+• Market information  
+• The candidate should quickly be able to calculate the contribution 
+margin generated from this venture. 
+• Calculating the estimated value of the fixed cost will give the 
+candidate enough information to figure out the breakeven period. 
+• Risks 
+• There are significant risks associated with this project including 
+financial and organizational. Utilization of the new plant is not an issue 
+because it will be used to capacity. 
+• There is a construction cost overrun risk as well. 
+• There is also the risk of possible regulatory changes.  
+
+
+===== PDF p148 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Phase 1 
+Understand the cost of this new venture. When asked by the candidate, provide the 
+following information: 
+•
+The cost of the plant is estimated to be about $7 Billion. However the company’s 
+management believes that there are cost overrun risks involved. They are as 
+follows: 
+ 
+  
+ 
+  
+Construction Type 
+    
+Quoted cost 
+  
+Risk of cost overrun 
+Cost of 
+overrun 
+Technology and 
+engineering 
+$4 Billion 
+50% 
+800 M 
+Structure 
+$2 Billion 
+50% 
+600 M 
+Other overhead 
+$1 Billion 
+20% 
+250 M 
+Total 
+$7 Billion 
+ 
+What is the expected value of the cost of the plant? 
+  
+Expected value of the fixed cost: 
+ $7 Billion + (50%*800M)+(50%*600M)+(20%*250M) = $7B +$400M+$300M+$50M 
+ = $7.75 Billion 
+
+
+===== PDF p149 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Phase 2 
+Evaluate the revenue streams and contribution margin. The capacity of the plant will be 
+8,760 GWh per year. 
+ 
+The price for each MWh (not GWh) is fixed at $80/MWh. The variable cost is $10/MWh. 
+Contribution = $80-$10 = $70/MWh which translates to $70,000/GWh 
+Annual contribution = 8,760 GWh *$70,000/GWh = $613.2 M 
+The breakeven point of the investment is $7.75B/$0.6132B = 12.6 years ~ 13 years 
+ 
+Phase 3 
+Qualitatively evaluate the financial and organizational risks. 
+ 
+There are some critical financial risks associated with this investment. The market cap 
+of the firm is $6Billion and this investment alone is estimated to be $7.75Billion. The 
+breakeven period for the plant is almost 13 years which is much longer than the 
+industry average breakeven period of 6-7 years. If the firm goes ahead with this 
+investment it will need to rely heavily on debt financing or more expensive equity. This 
+will likely prevent other capital investments in the near future. 
+Nuclear technology is complicated and one major risk is the shortage of personnel 
+with the necessary skills to run the plant. The company will have to spend a 
+considerable amount of time and money on training and hiring new personnel. Safety 
+and reliability are issues to consider as well.  
+ 
+The candidate should address most of these issues in evaluating the qualitative risks. If 
+they don’t, keep giving them clues and push them to consider the above risks. 
+
+
+===== PDF p150 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Recommendation 
+The recommendation should include the following: 
+• The answer – At this point it does not make sense for the firm to go 
+ahead with this project.  
+• The number(s) – The expected cost of building the plant is $7.75B and 
+the breakeven period is 13 years. 
+• Risks or considerations – The firm should look closely at the financial 
+and organizational risks involved with this project. 
+• Next steps – The client should look carefully at its options and see if 
+they can go with a less expensive technology to replace their old 
+plants 
+ 
+
+
+===== PDF p151 =====
+CAPITAL INVESTMENT FOR UTILITY 
+Strong Recommendation 
+The client should not go ahead with this project. The expected value of the 
+project is $7.75B and the breakeven period is approximately 13 years, which 
+means that a significant amount of capital will be tied to this investment for 
+a very long time. With a market cap of $6B which is less than the cost of this 
+plant, the financial risk is quite high especially with the large amount of 
+capital needed to be raised. Finally, the organization will need to adjust to 
+the high demand on human resources with regard to running such a 
+complex technology as well as safety and reliability concerns. The client 
+should evaluate other generation technologies which are less expensive 
+with a shorter pay-off period. 
+ 
+Weak Recommendation 
+The company should not go ahead with this investment because it will be 
+very expensive and will take a long time to recuperate the costs. Also the 
+organization will have a tough time running this new plant because of the 
+complex technology.  

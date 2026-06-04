@@ -1,0 +1,120 @@
+===== PDF p95 =====
+Table of Contents 
+ 
+91
+Practice Case 40: Telecom provider  
+(BCG - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is large telecom service provider. In the past the telecom 
+industry has enjoyed a monopoly as various regional telecom 
+companies established monopolies under government protection. 
+Recently the US government has passed a new law that allows 
+competitors to enter other regional areas where there is already an 
+incumbent present. The competitor (new entrant) can lease 
+incumbents infrastructure and target incumbentís customers. The 
+incumbent will HAVE to charge the price set by the govt. The client 
+has seen some cannibalization in their region so they set up a new 
+division to penetrate other regions. However, for the last 2 years that 
+venture/division has been unprofitable. The CEO wants your 
+judgment before he makes a decision to shut the division down. 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+Number of current customers signed up by new group: 1MM 
+• 
+The avg. price per customer per month of $38.60.  It is 10% less than 
+the competition. 
+ 
+Cost structure 
+• 
+SGA is $5.10 ñ half of which is FC and other half is VC.  
+• 
+Client believes that they can reduce SGA by 10% at most without 
+affecting quality of business.  
+• 
+Government has set a price of $36.90 that client has to pay to the 
+competitor per customer per month. 
+ 
+III. Sample Solution:   
+ 
+I would like to understand the revenue structure of the client. Can you tell 
+me how many customers does the client have? 
+ 
+1 MM 
+ 
+I think that client has done really well by gaining 1MM customers in just 2 
+years in a new territory. Seems like the client has good service offerings. 
+ 
+The client offers a very good quality service. 
+ 
+What about prices? Is there also a standard price for each customer or is 
+there some price discrimination? 
+
+
+===== PDF p96 =====
+Table of Contents 
+ 
+92
+You are right there is some price discrimination but I have the avg price per 
+customer per month of $38.60. This price is 10% less than the incumbent 
+player. 
+ 
+Why is client charging 10% less than the incumbent? 
+ 
+Interviewer: What do you think? 
+ 
+Me: I think this is an aggressive pricing policy to penetrate a new region 
+ 
+Interviewer: Sounds good 
+ 
+Let me go to the cost drivers now. Could you tell me the FC and VC drivers? 
+Obviously the govt set price will be a big factor. 
+ 
+SGA is $5.10 ñ half of which is FC and other half is VC. Also, govt has set a 
+price of $36.90 that client has to pay to the competitor per customer per 
+month. 
+ 
+Ok, looks like the client is not even making money at an operating level. I.e. 
+ignoring FC client is still losing money per customer. Obviously, the $36.90 
+that client pays to incumbent cannot be changed because it is set by the 
+government policy. Iíd like to look at SGA and understand whether client is 
+operating at industry average or not. 
+ 
+Good point. Client believes that they can reduce SGA by 10% at most 
+without affecting quality of business.  
+ 
+OK, reduction of 10% on $5.10 of SG&A does not even let the client break 
+even. You mentioned that there is some price discrimination and the price 
+you gave me was an avg price. Could you tell me about customer segments? 
+ 
+Yes, there are non-business consumers and business consumers. 
+ 
+Probably the price to business customers is higher as compared with non-
+business. Because, of peak load pricing and inelastic nature of business 
+consumers. 
+ 
+You are right. 
+ 
+Could you tell me what percentage of client customers are business vs. non 
+business? 
+ 
+90% non business and 10% business. 
+ 
+The client is heavily relying on a very price sensitive segment of the market 
+and thus pressured to reduce margins. I recommend that the client should 
+not close the non-business division but try to switch from targeting non-
+
+
+===== PDF p97 =====
+Table of Contents 
+ 
+93
+business to targeting business consumers and create an opportunity to 
+charge higher prices. 
+ 
+This is what BCG recommended the clients. Thank you. 

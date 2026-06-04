@@ -1,0 +1,319 @@
+===== PDF p178 =====
+Case #16: Snail Network Co.
+Industry: Telecommunications
+Quantitative Level: Difficult
+Qualitative Level: Easy
+Quantitative level: Difficult
+Qualitative level: Easy
+173
+
+
+===== PDF p179 =====
+Behavioral Questions
+175
+• Have you ever received a task that you initially thought was impossible to 
+accomplish? What did you do about that?
+• What would you do if given six months’ break?
+Question 1:
+Question 2:
+
+
+===== PDF p180 =====
+Snail Network Co.
+176
+• Snail Network Co. is a SF-based company that manufactures super high speed 
+networking equipment. In 2009, it developed a milestone technology that could 
+eliminate 99% of the disconnection issues in traditional devices. This technology has 
+helped the company become a monopoly in the industry. Last month, Snail Network 
+Co. welcomed its new CEO, Steven Maple, who is known to be the most aggressive 
+leader in Silicon Valley. Steven is not satisfied with Snail Network’s current 
+profitability level and wants you to help them on this issue.
+Prompt #1:
+• This is a profitability case. The target is to achieve 50% on gross margin.
+• There is no information about previous profit margin. Just tell candidate to focus on 
+current product.
+• Ignore the competition in the whole industry.
+• A good candidate should provide a framework to include both increasing revenue and 
+reducing cost.
+• Guide the candidate to start from the cost side.
+Interviewer Guidance:
+
+
+===== PDF p181 =====
+Snail Network Co.
+177
+• The client has three products: Product A, B and C. They only differ from one another 
+slightly. All three types share the same, and only production line. The client doesn’t 
+want to increase internal capacity or expand by merger and acquisition.
+• The client has decided to focus on just one product in the future as manufacturing 
+three together significantly impacts operational efficiency.
+• Start from cost side and provide candidate with exhibit #1
+Prompt #2:
+• From prompt #2, candidate should understand that the ultimate goal is to select the 
+product which could result in the highest profit margin, and compare this to the 50% 
+goal.
+• The information provided by exhibit #1 is not adequate for candidate to make 
+decision since no information about volume and price is given at this moment.
+• Exhibit #2 can be provided together with Exhibit #1 if candidate asks about capacity 
+and market demand. 
+• Do not provide Prompt #3 and Exhibit #3 at this moment.
+Interviewer Guidance:
+
+
+===== PDF p182 =====
+Exhibit #1: Costs
+178
+Product
+Fixed Costs/year
+Variable Cost
+(Per unit produced)
+Capacity 
+/year 
+A
+$27,000
+$1000
+600,000
+B
+$15,900
+$800
+700,000
+C
+$35,000
+$1200
+500,000
+
+
+===== PDF p183 =====
+Interviewer guidance on Exhibit #1
+• The candidate should quickly figure out 
+that fixed cost is negligible.
+• A good candidate might ask whether full 
+capacity could be reached for each of 
+them. If asked, give him/her exhibit 2, 
+otherwise, wait until the candidate finishes 
+calculations here. 
+• Neglect the fixed cost, the operational 
+cost of three products if reaching full 
+capacity
+• Product A
+Cost_A=1K * 0.6M =$0.6B
+• Product B
+Cost_B=0.8K * 0.7M =$0.56B
+• Product C
+Cost_C=1.2K * 0.5M =$0.6B
+179
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p184 =====
+Exhibit #2: Annual Market Demand
+(Unit: Thousands)
+180
+100
+400
+200
+330
+100
+300
+200
+290
+100
+200
+300
+250
+0
+50
+100
+150
+200
+250
+300
+350
+400
+100
+400
+200
+330
+100
+300
+200
+290
+100
+200
+300
+250
+0
+50
+100
+150
+200
+250
+300
+350
+400
+MNC
+Government
+Service Provider
+SMB
+Product A
+Product C
+Product B
+
+
+===== PDF p185 =====
+Interviewer guidance on Exhibit #2
+• Exhibit #2 shows the four customer 
+segments Snail Network Co. sells to. 
+• MNC represents Multi-national company.
+• SMB represents small and medium 
+business.
+• The candidate should tell from exhibit #2 
+that Snail Network Co. cannot meet the 
+demand for any of the three products. As 
+the client won’t increase capacity at all, 
+they need to operate at full capacity no 
+matter which product they decide to 
+make. 
+• For product A,  the total demand is:
+350+250+400+50=1050>600
+• For product B,  the total demand is:
+270+200+300+80=700>600
+• For product C,  the total demand is:
+300+300+150+100=850>600
+181
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p186 =====
+Snail Network Co.
+182
+• Snail Network Co. sells its product through three different channels- direct sales, 
+distributors and authorized partners. 
+• In each segment, the end consumers get the same price for the same product, no 
+matter what channel the product is sold through.
+• The fixed cost for direct sales is $100 Million per year. No extra variable cost.
+• Provide candidate with Exhibit #3.
+Prompt #3:
+• Touch on how and at which price the client sells products- the revenue side.
+• Traditionally, an equipment manufacturer sells its product directly or through resellers 
+such as distributors or partners.
+• If the product is sold through resellers, the client should not care about end customer 
+price.
+Interviewer Guidance:
+
+
+===== PDF p187 =====
+Exhibit #3: Pricing 
+The end customer price in each segment for each product
+The price Snail Network Co. sells to resellers
+183
+Product
+Government
+Service
+Provider
+MNC
+SMB
+A
+$1800
+$1800
+$2000
+$2000
+B
+$1500
+$1500
+$2000
+$2000
+C
+$2000
+$2000
+$2500
+$2500
+Product
+Distributors
+Authorized
+Partners
+A
+$1450
+$1480
+B
+$1100
+$1150
+C
+$1700
+$1750
+
+
+===== PDF p188 =====
+Interviewer guidance on Exhibit #3
+• It’s clear that the client can make more 
+money by selling through partners than 
+distributors. 
+• If the client sells only through partners, 
+the gross margin cannot reach 50% at all. 
+See analysis on the right.
+• For direct sales, the candidate should use 
+the market price as we do not use 
+agency. The client should sell to MNC and 
+SMB first as their prices are higher than 
+the other two.  
+• For partner prices:
+A: $1480< $1000*(1+50%) =$1500
+B: $1150< $800*(1+50%) =$1200
+C: $1750< $1200*(1+50%) =$1800
+• For direct sales, the revenue should be 
+A: $2K*(100+400)K + $1.8K*100K1=$1.18B
+B: $2K*(100+300)K+$1.5K*300K= $1.25B
+C: $2.5K*(100+200)K+$2.0K*200K=$1.15B
+As we already got the operational cost:
+A: $0.6B     B: $0.56B    C:$0.6B
+Obviously product B has the highest margin:
+(1.25-0.1-0.56)/0.56 =0.69/0.56> 50%
+184
+Exhibit #3 Guidance:
+Analysis:
+Note1: from exhibit #1, the capacity of product A is 600K, so the remaining quantity for government and service provider should 
+be (600-400-100)K=100K  
+
+
+===== PDF p189 =====
+Snail Network Co.
+185
+• From the calculation, we recommend to manufacture product B and sell only by 
+direct sales. 
+Recommendation 
+• The candidate should reach the recommendation naturally after calculation.
+• If there is more time, interviewer could guide the candidate on more qualitative 
+analysis. For example, what are the other ways to increase the profit margin?  The 
+suggested answer could include increasing the price to resellers, expanding the 
+production line to achieve better scales of economy, or stimulating sales force to 
+reach to more MNC and SMB customers. This is an entirely open-minded question
+Interviewer Guidance:
+
+
+===== PDF p190 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+•
+Have basic understanding of cost structure.
+•
+Resolve the case by passively receiving each 
+prompt. 
+Good Candidate
+•
+Proactively lead case in both cost and rev branches.
+•
+During framework, naturally come up with concepts 
+such as customer segmentation or sales channel, 
+etc.
+•
+Efficient in calculation.
+Excellent Candidate
+•
+Not only get to the right answer, but also provide 
+further thoughts to expand the possibilities in 
+achieving the target.
+186

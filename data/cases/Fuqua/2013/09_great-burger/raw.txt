@@ -1,0 +1,198 @@
+===== PDF p73 =====
+First Round
+Prompt #1
+Our client, Great Burger, is a chain of fast food restaurants. Great Burger (GB) is the fourth largest 
+fast food chain in the world, measured in number of restaurants. They offer food and “combo” meals 
+for breakfast, lunch, and dinner. GB owns some of its stores, but 85% are owned by franchisees 
+who own and manage individual stores. Franchisees pay a franchise fee, and do not have any major 
+decision rights in strategic decisions (menu, look and feel of store, etc.) 
+In looking at ways to become more profitable, GB began a search for acquisition targets; Heavenly 
+Donuts looked promising, and is growing both in the US, and internationally. Like GB, Heavenly 
+Donuts (HD) uses a franchise model, but the model is slightly different from that used by GB. HD 
+franchisees operate in areas or regions, and a franchisee must agree to open a certain number of 
+stores within that region. 
+How will you approach GB’s question of whether or not to acquire HD?
+Guidance
+This is a profitability case, within the context of evaluating a potential acquisition target. As you will 
+see, this case also focuses on synergies, especially in the brainstorming question.
+1. Use your best judgment in answering clarifying questions about GB and HD. You can think of GB 
+as being similar to Burger King or McDonalds, and HD as being similar to Dunkin Donuts. 
+2. If the candidate asks to quantify GB’s objective (increased profitability), say that GB does not 
+have a specific number in mind, and that they are open to your suggestions.
+3. The candidate will likely develop a framework that compares the purchase price for HD with the 
+future profitability from acquiring HD. This is a good approach, but we will not end up getting into 
+the details of purchase price. This is NOT a valuation case.
+4. If the candidate asks for numbers right away, tell him/her that we will get to the numbers 
+eventually, but to build a framework without specific numbers (prices, volume, costs, etc.)
+5. Evaluate the candidate’s framework, and make sure he/she has included some form of a profit 
+tree, with appropriate details for a fast food chain. 
+If the candidate does not mention synergies, push him/her to include synergies in the 
+“other” bucket; the first question will focus on potential synergies of this acquisition!
+Case 9: Great Burger
+69
+
+
+===== PDF p74 =====
+First Round
+Prompt #2
+We started thinking about potential synergies that could be achieved by acquiring HD. Here are 
+some key facts. 
+Give candidate the Exhibit #1.
+What are some potential synergies you can think of between GB and HD?
+Guidance
+This is the brainstorming question. Ideally, the candidate will use his/her framework to evaluate the 
+exhibit, and will place potential synergies in “buckets” associated with his/her framework. 
+1. If candidate is struggling initially, you can say that a synergy is an area where additional benefits 
+can be captured, over and above the sum of the two companies, such as cost savings or 
+additional revenue.
+2. A good answer should include:
+a) Increased bargaining power with suppliers (cost of sales)
+b) Potential reduction in Corporate G&A costs by integrating corporate management
+c) Increased HD sales per store (GB seems to be better at identifying attractive locations for 
+restaurants, as its sales per store are higher than the industry average)
+d) Market entry in specific geographical areas (HD has limited presence in Europe, and no 
+presence in Asia; GB could help them enter these markets)
+e) Co-branding (similar to combination Pizza Hut and Taco Bell)
+f)
+Opportunity to cross sell (for example, sell HD donuts in a GB restaurant)
+A strong candidate will come up with the majority of these on their own.  If not, coach him/her to 
+come up with most of these answers before moving on to the next question.  “What else?” is a 
+classic McKinsey interview question
+Case 9: Great Burger
+70
+
+
+===== PDF p75 =====
+Exhibit 1: Financial Comparisons
+71
+
+
+===== PDF p76 =====
+First Round
+Prompt #3
+The team thinks that with synergies, it should be possible to double HD’s North American market 
+share in the next 5 years, and that GB’s access to capital will allow it to expand the number of HD 
+stores by 150%. What sales per store will HD need in 5 years in order for GB to achieve these 
+goals?
+You should note that current average N.A. consumption of donuts is $10.00 per person per year, 
+and that in five years, this is expected to double to $20.00 per person per year.
+The candidate should assume the North American population is 350 million.
+Guidance
+This is a classic McKinsey style word problem, that forces the candidate to use numbers from the 
+exhibit, and form an equation (for current sales and market share) and then make a second equation 
+based on what the market will look like in 5 years. 
+If the candidate is absolutely lost, restate the question (in bold above) and ask the candidate how he 
+or she would like to approach the problem.
+It should look something like:
+a) The current market is (350 million x $10.00) = $3.5 billion
+b) HD’s average sales per store is $700,000, times 1000 stores = $700 million
+c) By dividing 700 million by $3.5 billion, current market share is ROUGHLY 20%
+d) If the market is expected to double, in 5 years the total U.S. market will be $7 billion
+e) If GB is able to double HD’s market share, HD will have roughly 40% of the market ($3 billion)
+f)
+If GB is able to grow the number of HD stores by 150%, in 5 years they will have 2500 stores
+g) Dividing $3 billion by 2500 stores, average annual sales per store would be $1.2 million
+Prompt candidate to evaluate if number seems reasonable.  This number does seem reasonable, as 
+per store sales are less than doubling, while per capita consumption is expected to double.
+Case 9: Great Burger
+72
+
+
+===== PDF p77 =====
+First Round
+Prompt #4
+Okay great,  let’s move on. One of the key synergies that the team wants to review is increasing the 
+businesses’ overall profitability by cross-selling, or selling HD donuts in GB stores. 
+How would you assess the profitability impact of this synergy?
+Guidance
+Here we are basically evaluating the ability of the candidate to come up with a “mini framework” off 
+the cuff.  General brainstorming is okay, but encourage candidate to “be more structured in their 
+thinking/analysis”.
+A good answer should look something like:
+a) Model the current profitability of GB stores (revenue = volume x price, costs = FC + volume x 
+VC) or (current profit = revenue x margin) 
+b) Model the incremental profit per store by selling HD donuts (similar methods as used above)
+c) The potential for cannibalization of current GB sales based on offering HD donuts
+A strong candidate should mention cannibalization of current GB sales (maybe someone buys a 
+donut instead of a breakfast sandwich).  If not, prompt him/her with an open ended question like 
+“Interesting, do you think that GB sales would change at all if they were also selling donuts?”
+Once the candidate realizes that some degree of cannibalization would probably occur, move on to 
+the next question.
+Case 9: Great Burger
+73
+
+
+===== PDF p78 =====
+First Round
+Prompt #5
+What would be the incremental profit per store if we think GB will sell 50,000 donuts per 
+store per year at a price of $2.00 per donut at a 60 percent margin, with a cannibalization rate 
+of 10 percent of GB’s sales?
+Tell the candidate that GB currently sells 300,000 units per store, with an average price per unit of 
+$3.00, and a 50 percent margin.
+If the candidate is confused with the terminology, explain that a unit could be a burger, or an order of 
+fries, and that the average price of all units sold is $3.00. If this is still unclear, explain that if you 
+bought a $5.00 burger and a $1.00 order of fries, the average unit price would be $3.00
+Guidance
+Compared to the last “word problem” question, this is relatively easy. 
+Calculations should look something like:
+a) Current revenue is 300,000 units x $3.00 = $900,000
+b) With a 50% margin, current profit is $450,000
+c) Additional revenue (selling donuts) is 50,000 units x $2.00 = $100,000
+d) With a 60% margin for donuts, additional profit is $60,000
+e) We are cannibalizing 10% of current GB sales, so we need to subtract $45,000 of profit.
+f)
+$450,000 + $60,000 – 45,000 = $465,000 profit per store
+g) Incremental profit per store is $15,000
+The candidate should note that this is an increase in profit of 3%, which is really not that great. If he 
+or she does not make this leap in logic, that is fine; move on.
+Case 9: Great Burger
+74
+
+
+===== PDF p79 =====
+First Round
+Summary
+We just ran into the Great Burger CEO, and she asks you to summarize our perspective on 
+whether or not GB should acquire HD. What would you say?
+Guidance
+Answers may vary significantly. Use common sense in evaluating the candidate’s ability to 
+summarize the key things he/she looked at:
+1. Synergies by acquiring HD
+2. Increased profit by growing the number of HD locations in the next 5 years
+3. Increased profit by selling HD donuts at GB locations
+4. Next steps: what would we be willing to pay for HD?
+Case 9: Great Burger
+75
+
+
+===== PDF p80 =====
+Performance 
+Evaluation
+Expected:
+• Creates a MECE framework
+• Provides at least 3 synergies associated with acquiring HD
+• Correctly calculates profit by increasing number of HD locations
+• Correctly calculates profit by selling HD donuts in GB locations
+• Provides an effective summary of findings to the CEO
+Good:
+• Creates a framework that incorporates synergies
+• Provides 5 or more synergies associated with acquiring HD
+• Comfortable with the exhibit, does not need too much prompting or coaching in interpreting
+• Calculates profit in “word questions” quickly and accurately
+• Provides most corrective actions listed with minimal prompting from the interviewer
+• Shows business judgment by reacting to the numbers he or she calculates (the “so what”)
+Excellent:
+• Framework addresses all subsequent questions in the case (at a top level)
+• Lists nearly all potential synergies, and does so in a logical manner
+• High speed and accuracy of computations
+• Incorporates practical matters in framework (is GB management well positioned to make this 
+acquisition happen?)
+• Shows the business judgment to provide real world examples (Yum brands, KFC, Taco Bell, etc.)
+• Remembers (from the prompt) that HD has a regional franchise model, and suggests that we take 
+a closer look at why their model differs from GB, and see how this would impact an acquisition
+• Realizes that we have not even discussed the purchase price for HD, and brings this up as a 
+“next step” to the CEO
+First Round
+Case 9: Great Burger
+76

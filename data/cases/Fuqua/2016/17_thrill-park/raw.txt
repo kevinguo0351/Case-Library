@@ -1,0 +1,246 @@
+===== PDF p184 =====
+Thrill Park
+“Fun for all ages”
+180
+Industry: Travel & Leisure
+Quantitative Level: Difficult
+Qualitative Level: Medium
+
+
+===== PDF p185 =====
+Behavioral Questions
+181
+• Describe a time when you failed and what you learned from it.
+Question 1:
+• What accomplishment are you most proud of?
+Question 2:
+
+
+===== PDF p186 =====
+Thrill Park
+182
+• Our client is Amusement Worldwide, an international amusement park company. Amusement 
+Worldwide owns and operates dozens of parks around the world. These parks are regional parks, 
+where visitors drive to the park for the day and not resort destinations, to which visitors travel 
+great distances.
+• Amusement Worldwide has been quite successful recently and is looking to grow inorganically, 
+with a budget of up to $1.5B. We’ve been hired to evaluate whether or not they should acquire a 
+local amusement park called Thrill Park, which is very popular in a region in which Amusement 
+Worldwide is not currently present.
+• What are the important considerations when evaluating Thrill Park?
+Prompt #1:
+• This is an M&A case and the interviewee should come up framework that works towards a 
+valuation
+• Thrill Park is a single park in North Carolina and is privately owned. It caters to guests of all ages 
+(e.g., attractions range from simple shows and rides for young children to extreme rollercoasters 
+which make adults ask their friends “did you guys keep your eyes open the whole time?”). This is 
+similar to current AW parks.
+• Amusement Worldwide has excess cash on hand and would just like to make a positive 
+investment.
+• We can’t get detail financial/operating data from Thrill Park, but fortunately Amusement 
+Worldwide has lots of experience in this space and can provide us with estimates. 
+Interviewer Guidance:
+
+
+===== PDF p187 =====
+Exhibit #1
+183
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+8
+11
+9
+12
+13
+10
+7
+2
+6
+4
+1
+5
+3
+0
+Avg:
+10
+MAR
+APR
+MAY
+JUN
+JUL
+AUG
+SEP
+OCT
+Estimated daily visitors, thousands
+Day
+The daily entrance fee for Thrill Park is $50
+
+
+===== PDF p188 =====
+Interviewer guidance on Exhibit #1
+• We have come up with some projections 
+for Thrill Park attendance this year
+• Eventually ask what the total amount from 
+ticket sales is
+• If asked:
+– The park is open 150 days a year 
+(seasonal)
+• Revenue from ticket sales calculation:
+– 10000 guests/ day x 150 days / year = 
+1.5M guests/year
+– 1.5M guests/year * $50/guest = 
+$75M/yr
+184
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p189 =====
+Thrill Park
+185
+• We have done some additional research on the costs of running a park of this size and what 
+representative concessions and merchandise sales look like
+– Thrill Park costs $60M/yr to run, including operating, upkeep and administrative costs
+– The average guest spends $20/day on food, 50% of which is profit for Thrill Park
+– There are two types of guests in terms of souvenir purchases: Collectors and Casual guests
+25% of the guests are collectors spend an average of $36
+The rest of the guests are casual guests spend an average of $12
+Prompt #2:
+• What is the annual profit for Thrill Park?
+• Provide only if asked:
+– The profit margin on merchandise is two thirds (67%)
+• Profit Calculation
+– Ticket Revenue = $75M, Running Costs = $60M, Profit = $15M
+– Food Revenue = $20 x 1.5M = $30M, Food Profit = $30M x 50% = $15M
+– Merchandise Revenue = ($36 x 25% + $12 x 75%) x 1.5M = ($9 + $9) x 1.5M = $27M, 
+Merchandise Profit = $27M x 67% = $18M
+– Total Profit = $15M + $15M + $18M= $48M
+Interviewer Guidance:
+
+
+===== PDF p190 =====
+Thrill Park
+186
+• What is the fair value of Thrill Park if the profit grows at 3% per year assuming an 8% discount 
+rate?
+• Alternatively, just give 5% discount rate with no growth.
+Prompt #3:
+Interviewer Guidance:
+• Growing perpetuity formula = Dividend or coupon value / discount rate – growth rate
+• $48M/(0.08-0.03)= $960M
+
+
+===== PDF p191 =====
+Thrill Park
+187
+• What are some other factors Amusement Worldwide should consider when deciding to buy Thrill 
+Park?
+Prompt #4:
+Interviewer Guidance:
+• This is a brainstorm question, notes (non-exhaustive):
+– Great answers would note that there will likely be a premium paid in the acquisition, which 
+could be recovered by both revenue and costs synergies and provide value to Amusement 
+Worldwide strategically
+– Good answers will list risks (e.g., hurting Thrill Park brand, better alternatives to capital, 
+inaccurate projections/estimates)
+– Other considerations could include:
+•
+Is Thrill Park older or newer? Old rides & equipment might require replacement
+•
+Does Thrill Park have any local competitors? Acquire for strategic reasons?
+•
+Benefits of branding, consolidation, etc.
+
+
+===== PDF p192 =====
+Thrill Park
+188
+• Our client claims that it would be able to make Thrill Park more profitable than it is currently, due 
+to it’s strong brand image, operational expertise, and purchasing power. Specifically, Amusement 
+Worldwide thinks it could increase ticket sales of Thrill Park by 10%, while cutting the operating 
+costs by 5% and the cost of food by 10%. Due to the existing supplier contract, they do not 
+believe they will realize any savings in merchandise purchasing.
+• What is the total economic benefit of Amusement Worldwide owning Thrill Park?
+Prompt #5 (Optional):
+Interviewer Guidance:
+• Assume all the synergies would be fully realized in year 1 and have same growth rate as before.
+• Revenue (ticket sales) synergies: $75M x 10% = $7.5M
+• Operating cost synergies: $60M x 5% = $3M
+• Food cost synergies: ($30M - $15M) x 10% = $1.5M
+• Total synergies = $7.5M + $3M + $1.5M = $12M/yr
+• NPV of synergies = $12M/( 8% - 3%) = $240M
+
+
+===== PDF p193 =====
+Thrill Park
+189
+• Thrill Park has told Amusement Worldwide it would be willing to sell itself for a price of $1.1B (a 
+premium of $140M). Should Amusement Worldwide accept this offer?
+Prompt #6 (Optional):
+Interviewer Guidance:
+• Yes, Amusement Worldwide should accept the offer to buy Thrill Park for $1.1B, as the Thrill Park 
+would be worth up to $1.2B ($960M + $240M) for Amusement Worldwide. In other words, the 
+$140M premium paid is less than the $240M in expected increased profits because of the sale.
+
+
+===== PDF p194 =====
+Thrill Park
+190
+• What are some additional ways that Thrill Park could potentially become more profitable?
+Prompt #7 (Very optional):
+Interviewer Guidance:
+• Additional brainstorm, if needed. Answers might include:
+• Current Operations
+– Get local/national sponsorships and suppliers
+– Charge for parking
+– Open for more days
+– More marketing
+• New Operations
+– Change business model – open hotel/resort
+– Offer season tickets, bundling, dynamic pricing
+– New rides/attractions to boost attendance
+– Charge people for the ability to skip lines
+
+
+===== PDF p195 =====
+Thrill Park
+191
+• Worried that Thrill Park might not continue to bring in enough guests to remain profitable, 
+Amusement Worldwide wants us to check
+• Given the ticket price, operating costs, and expected food and merchandise contributions, how 
+many guests a year does Thrill Park need to attract to be profitable?
+Prompt #7 (Super optional extra math problem):
+Interviewer Guidance:
+• Operating costs = $60M
+• Profit per guest = Ticket sale + food contribution + expected merchandise contribution
+• Profit per guest = $50 + $10 + $12 = $72
+• Breakeven: Operating costs = Profit per guest x minimum guests
+• Minimum guests = $60M/$72 = $5M/6 = 833k guests/yr
+
+
+===== PDF p196 =====
+Thrill Park
+192
+• The director of the engagement just joined us. What is our opinion of this acquisition 
+for Amusement World?
+Recommendation 
+• Look for bottom line-up front recommendation (i.e., Acquire Thrill Park which is 
+valued at $1B), briefly support that with walkthrough of case (i.e., based on $48M 
+profit…), list risks, and next steps.
+• Slightly different answer if going through synergies / premium part of the case, but 
+same general structure/answer.
+Interviewer Guidance:

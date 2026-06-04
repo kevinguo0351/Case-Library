@@ -1,0 +1,190 @@
+===== PDF p174 =====
+Casebook | 2019-20 Edition 
+170 
+ 
+42. Vitamin Universe (McKinsey Mock, CPG/Retail, M&A, Balanced) 
+ 
+Situation: 
+A private equity company has approached McKinsey to analyze whether to buy Vitamin Universe. Vitamin 
+Universe has a chain of over 1,000 stores across shopping malls all over the country. They focus on 
+selling vitamins, minerals, and nutrition, diet and herb supplements. It also focuses on food products, 
+nutrition and diet drinks for sports and fitness enthusiasts. 
+ 
+Question 2: 
+Interviewer: What factors do you think our client should consider when determining when analyzing 
+whether to buy Vitamin Universe? 
+ 
+Candidate should take a moment to put together a structure. Example structure: 
+ 
+• 
+Market: size, share, growth, trends, customers, competition, cyclicality 
+• 
+Company: core competencies, product mix, distribution/channel, management team 
+• 
+Financials: revenue, cost, profitability, acquisition price, growth, exit strategy 
+• 
+Other: synergy/fit within PE portfolio, risks & challenges  
+ 
+Question 2: 
+Interviewer: Good. So, can you tell me who the main competitors for Vitamin Universe would be? 
+Candidate should take a moment to structure his/her answer instead of coming up with a random list. 
+Candidate: I see competition falling into 3 major buckets: 
+• 
+Direct brick and mortar competitors such as specialty stores like BNC and Vitamin World who 
+essentially have the same business operating model 
+• 
+Indirect brick and mortar competitors who sell similar products such as grocery stores, general 
+retailers, and drug stores 
+• 
+Pure-play online and e-commerce businesses 
+ 
+Interviewer: That is a good list. So what would be some drivers for market growth in this industry? 
+ 
+This is another brainstorming question. The key is to be structured and then go deep with examples 
+within each MECE bucket. 
+ 
+Candidate: I see 3 main drivers for growth and potentially a 4th. 
+• 
+Economic: Supply & Demand 
+o 
+Raw materials (availability, pricing) 
+o 
+Population: demographic shifts particularly in prenatal/young kids and senior citizens 
+• 
+Health Trends 
+o 
+Doctors/clinics/health journals 
+o 
+Media and cultural fads 
+o 
+Government policies, health campaigns 
+• 
+Competition 
+o 
+Market saturation 
+o 
+Innovation and R&D 
+• 
+Others: education, awareness 
+ 
+Question 3: 
+Interviewer: Okay. So, what would be some good ways to measure health trends? 
+ 
+Yet another brainstorming question. Interviewer should keep asking “what else?” until candidate has hit 
+
+
+===== PDF p175 =====
+Casebook | 2019-20 Edition 
+171 
+ 
+major points below, as well as one or two more creative answers. 
+ 
+Candidate: The key measures that come to mind are: 
+• 
+Historical sales numbers for different types of vitamins and nutrition supplements 
+• 
+Market survey and research 
+• 
+Hospitals, physicians, nutritionist surveys and journals 
+• 
+Gym memberships 
+ 
+Question 4: 
+Interviewer: Okay, shifting gears now. I would like to understand customer profitability. Here’s what we 
+know. 1/4 of men aged 18-34 are heavy users of supplements and spend $50/month on average. 
+Currently 30% of these men shop at Vitamin Universe. What would be the effect on profitability of a 5% 
+increase of share of this segment? Assume a profit margin of 50%. 
+ 
+Candidate: I’d like to start by finding the total number of men that are heavy users. 
+ 
+• 
+I know there are about 320M people in the US. 
+• 
+The male/female split is about 50/50 so there are about 160M men in the US. 
+• 
+Our age range of 18-34 covers 16 years of an average life span of 80. 
+• 
+This means approximately 1/5 men fall into this age bracket, bringing us to 32M young men in 
+the US. 
+• 
+Only 1/4 of these are the heavy users, which is 8M. Of these 8M heavy users, Vitamin Universe 
+has a 30% market share which implies 2.4M customers 
+(320M people in the US)(50% men)(16 years in segment/80 years in life)(1/4 of men in 
+segment)(30% market share) = (160M)(1/5)(1/4)(3/10) = 2.4M heavy users 
+ 
+• 
+A 5% increase in this segment would mean bringing in 120,000 new customers (2.4M*5%) to 
+Vitamin Universe. 
+• 
+Knowing the profit margin is 50%, the profitability of each heavy user is $25/mo ($50/mo*50%). 
+• 
+Therefore, a 5% increase in these customers would bring in an additional 120,000 * $25/mo = 
+$3M in profits per month. 
+• 
+So, in a year, we’re looking at a $36M ($3M * 12 months/year) increase in profits. 
+• 
+Achieving this increase in market share would be very profitable for Vitamin Universe but it 
+depends how we would achieve this 5% growth in the customer segment (aka the cost of 
+customer acquisition). 
+ 
+Question 5: 
+Interviewer: The team has completed additional research that indicates the cost of acquiring new 
+customers can sometimes be quite high. How can we increase our margins in order to justify a high cost 
+of acquisition? 
+ 
+Candidate: There are two levers when it comes to profit margins, the revenue side and the cost side. In 
+terms of revenue, we can certainly look at ways to either increase price and/or increase quantities of 
+products sold. Profit margins probably vary a lot by product as we have hundreds/thousands being 
+offered, so perhaps we can offer promotions and look for ways to sell more of our higher margin products 
+(improve product mix). Finally, we might want to consider looking into opening new stores in high traffic 
+locations of our target demographic. 
+ 
+In terms of cost reduction, we can consider the following: 
+ 
+• 
+Capital/Manufacturing: renegotiate real estate leases, close down cash-flow negative stores 
+• 
+Labor: reduce sales force and/or manufacturing personnel 
+• 
+Distribution/Channels: possible consolidation 
+
+
+===== PDF p176 =====
+Casebook | 2019-20 Edition 
+172 
+ 
+• 
+COGS: reduce cost of procurement 
+• 
+Marketing/Advertising: reduce campaigns or ads  
+Question 5: 
+Interviewer: Do you think the threat of mass retailers such as Wal-Mart is substantial enough to push out 
+specialty stores such as Vitamin Universe? 
+ 
+Candidate: When it comes to competition from mass retailers `like Wal-Mart, you really need to think 
+about the value proposition that a store like Vitamin Universe offers. The main ways to compete in retail 
+are through: price, product offerings, convenience, customer service, and cost control. 
+ 
+I do believe there are certain mass appeal products, such as basic vitamins and sports drinks, for which 
+Wal-Mart will be able to offer better prices, have better overall cost control, and may prove to be 
+convenient to a shopper who is already getting other things at the SuperCenter. 
+ 
+However, in terms of specialty products, Vitamin Universe should be able to maintain a competitive 
+advantage. Wal-Mart has limited shelf space for vitamins and health-related products. By offering a huge 
+selection of both basic and specialty products, along with a dedicated and knowledgeable sales force, 
+Vitamin Universe is going to win out in the specialty space and doesn’t face a real threat of being pushed 
+out by mass retailers. 
+ 
+Question 6: 
+Interviewer: Great. So, what is your final recommendation for the PE firm? 
+ 
+Candidate: I recommend the PE firm go forward with its purchase of Vitamin Universe. There is certainly 
+a market for products sold by Vitamin Universe. It has healthy profit margins of 50%, and a targeted 
+increase (of 5% growth in the “heavy users” customer segment) in market share would increase annual 
+profits by $36M. Additionally, we have identified ways Vitamin Universe could further increase revenues 
+and cut costs, which would allow them to justify the cost of acquisition for this customer segment. 
+ 
+Next steps would be to understand the acquisition price and see if that is in line with the profit potential of 
+Vitamin Universe. I would also want to take a deeper look at the risks and challenges of 
+maintaining/increasing market share and the threat mass retailers pose on the more “mass appeal” 
+products in the mix. 

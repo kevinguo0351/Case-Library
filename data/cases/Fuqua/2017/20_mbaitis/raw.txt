@@ -1,0 +1,303 @@
+===== PDF p232 =====
+MBAitis
+227
+Industry: Pharma
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p233 =====
+Behavioral Questions
+228
+• What are your three greatest weaknesses?
+Question 1:
+• Tell me something interesting about yourself that is NOT on your resume
+Question 2:
+
+
+===== PDF p234 =====
+MBAitis
+229
+• Your client is a large pharmaceutical company that will be launching a new drug for 
+the well-known illness, MBAitis. Their drug, Blue Devil Serum (BDS) is a high efficacy 
+alternative to current therapies, and will launch in the next 18-24 months. What 
+should they consider in planning the launch to maximize revenue over the first 3 
+years?
+Prompt #1:
+• If asked, provide the following information:
+– Multinational company with many different drugs across diseases
+– Your team is hired to consider the US context only
+– The company already has a well-established manufacturing and supply chain 
+– They sell other MBAitis drugs, including one that is potentially a direct competitor to BDS.
+Interviewer Guidance:
+
+
+===== PDF p235 =====
+Market size and revenue estimates for BDS 2017-2024
+230
+First
+diagnosis
+Relapse
+Early
+Mid
+Advanced
+Terminal
+18%
+20%
+10%
+24%
+7%
+18%
+15%
+10%
+BDS
+25%
+18%
+10%
+0%
+21%
+18%
+8%
+0%
+Percent of BDS 
+prescriptions to each patient 
+segment
+Percent of MBI prescriptions 
+to each patient segment 
+Prescriptions by MBAitis
+patient segment 
+Projected revenue for MBI1 and BDS 
+2017-2024 ($M)
+ $-
+ $2.00
+ $4.00
+ $6.00
+ $8.00
+ $10.00
+ $12.00
+ $14.00
+2017 2018 2019 2020 2021 2022 2023 2024
+MBI Revenue
+BDS Revenue
+MBI
+1Myrtle Beach Injection (MBI) is your client’s current therapy for MBAitis. It is a lower efficacy and lower risk therapy compared to BDS
+
+
+===== PDF p236 =====
+Interviewer guidance on exhibits
+• MBI drug accounts for the bulk of the 
+company’s revenue
+• Each triangle represents the percent of 
+the total drug sales that go to each patient 
+segment (MBI drug is not prescribed at all 
+to terminal patients (0%), but 25% of 
+prescriptions go to first diagnosis, early 
+stage patients)
+– GUIDE INTERVIEWEE IF THEY ARE 
+STUCK
+• MBI drug and BDS drug have 30% 
+overlap in target patient segments
+– Introduction of BDS drug will result in 
+a decrease in MBI drug revenue
+• MBI drug’s revenue remains important to 
+the company but is falling steadily through 
+2024
+• A good candidate will recognize that 
+–
+MBI drug is of high importance to the company and 
+revenue should be protected
+–
+BDS drug will cannibalize profits from MBI drug
+–
+Whatever marketing or messaging done going 
+further will need to mitigate this cannibalization
+• A great candidate will go a step further 
+and see that
+–
+BDS drug will cannibalize 30% of revenue from 
+MBI
+–
+Revenue from MBI is declining 5% each year
+–
+BDS drug will have to make __$/year to make up 
+for this loss 
+231
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p237 =====
+MBAitis
+232
+• Having recognized that BDS will be a direct competitor for a certain segment of 
+patients already covered by your client’s drug MBI, what are some ways to mitigate 
+this cannibalization?
+Prompt #2:
+• This should be a structured brainstorm, if the candidate doesn’t start it in this way, guide her/him 
+in that direction
+• Help the candidate to start talking about the salesforce and how that could be leveraged in a 
+unique structure to market the two drugs separately and minimize cannibalization.
+• Other answers include:
+– Adjust ad campaigns to differentiate the two drugs
+•
+To patients and doctors
+•
+Try new media outlets
+– Reach new patients creatively through new channels (apps, personalized medicine like field 
+nurses or other educational programming)
+– Shift brand messaging of MBI so that it doesn’t appear to overlap with BDS
+• After brainstorming, explain that the client is looking at different salesforce options, give 
+exhibit 2
+Interviewer Guidance:
+
+
+===== PDF p238 =====
+Profits associated with salesforce options
+233
+A: Single
+salesforce 
+MBI/BDS
+B: Two separate 
+salesforces
+C: Two separate 
+salesforce + CSO
+Increase in FTEs
+20
+30
+30
+Cost/FTE
+90,000
+90,000
+80,000
+FTE-driven
+increase in revenue 
+(% of FTE cost)
+Year 1
+125%
+110%
+110%
+Year 2
+125%
+120%
+120%
+Year 3
+125%
+125%
+125%
+CSO: Contract Sales Organization (external vendor to help with sales)
+
+
+===== PDF p239 =====
+Interviewer guidance on Exhibits
+• As you give the exhibit to candidate, explain that 
+the client is evaluating 3 different salesforce 
+options by the end of year 3
+• She/he should start to calculate total revenue, 
+costs, and profit from all options
+• Option B (2 salesforces) yields dramatically 
+greater revenue despite slow ramp-up per FTE 
+and comparable profits to Option A
+• Good candidate will
+– Calculate total increased revenue
+– Calculate total increased profit
+• Great candidate will
+– Calculate increased revenue and profit
+– Refer to prompt/framework and remember 
+that the goal of the client is increased 
+revenue, not profit 
+– Give an appropriate “so what” that the client 
+should go with Option B for salesforces 
+234
+Exhibit #1 Guidance:
+Analysis:
+# FTEs
+20
+30
+30
+Cost/FTE
+90000
+90000
+80000
+FTE increased Rev/Year
+1.25
+1.1
+1.1
+1.25
+1.2
+1.2
+1.25
+1.25
+1.25
+Revenue
+Year 1
+2.25E+06 2.97E+06 2.64E+06
+Year 2
+2.25E+06 3.24E+06 2.88E+06
+Year 3
+2.25E+06 3.38E+06 3.00E+06
+Total rev over 3 years
+6.75E+06 9.59E+06 8.52E+06
+Total cost for 3 years
+5.40E+06 8.10E+06 7.20E+06
+Total profit
+1.35E+06 1.49E+06 1.32E+06
+
+
+===== PDF p240 =====
+MBAitis
+235
+• The CEO is rushing from one meeting to another and has just stopped by your team 
+room. Give her a recommendation based on your work so far.
+Recommendation 
+• Given the urgency of the prompt, guide the candidate to practice NOT writing down 
+her/his recommendation
+• Just because she/he isn’t writing the recommendation, don’t throw out the “Headline 
+with backup stats,” “Risks,” and “Mitigations” structure
+• Ideal recommendation would include:
+– This client should pursue ___ salesforce strategy for the launch of BDS which 
+yields projected revenue of ___ over __ years. Risks to this strategy include… 
+which can be mitigated/further explored by____
+•
+Risks could include: cannibalization rate far exceeding projections despite having wholly separate sales forces with different 
+messaging, etc. 
+Interviewer Guidance:
+
+
+===== PDF p241 =====
+Evaluation Criteria
+236
+Candidate Level
+Assessment
+Average Candidate
+•
+Get through the case qual/quant portions with some 
+guidance
+•
+Remember to refer to PATIENTS not customers
+•
+Give smooth recommendation
+Good Candidate (in addition to 
+Average Candidate guidance)
+•
+Come to appropriate qual/quant answers with 
+minimal guidance
+•
+Well-structured brainstorm without prompting
+•
+Maintaining appropriate sensitivity around the 
+patient condition (cancer)
+•
+Remember that the prompt is about maximizing 
+revenue not profit
+Excellent Candidate (in addition 
+to Average and Good candidate 
+guidance)
+•
+Refer frequently to framework
+•
+High sensitivity about patient conditions
+•
+Highly structured, creative brainstorm
+•
+Crisp, structured recommendation, maintaining eye-
+contact

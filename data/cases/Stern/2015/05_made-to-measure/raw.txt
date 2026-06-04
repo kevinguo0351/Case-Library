@@ -1,0 +1,321 @@
+===== PDF p76 =====
+Case Prompt 
+•
+Our client owns a designer shoe-store that makes high end made to measure shoes for customers. 
+ 
+•
+The high-quality product has gained popularity rapidly and the client wants to ramp up production, however, the 
+highly-skilled labor that our client employs is hard to come by. 
+ 
+•
+Our client wants us to help them figure out how to increase output without adversely affecting quality. 
+Case Tracker 
+ 
+•
+Led By: Candidate 
+ 
+ 
+•
+Industry: 
+Leatherworking 
+ 
+ 
+•
+Level of Difficulty: 
+Easy 
+ 
+ 
+•
+Case Type: Operations 
+Fit Questions 
+ 
+•
+Give me three examples 
+of times you led a 
+group. 
+•
+Tell me about a time 
+that you took initiative 
+to start something. 
+•
+Management 
+Consulting is a very 
+competitive industry.  
+What will you do if you 
+don’t get a summer 
+internship? 
+Guide To Interviewer 
+The case requires the candidate to explore the 
+process involved in making the shoes. The solution 
+lies in a change in the process, deploying resources 
+in a more effective manner.  
+ 
+The interviewer should direct the candidate 
+towards asking about the process and existing 
+internal resources rather than external solutions.  
+ 
+Once the solution has been arrived at, the 
+interviewer can move on to asking the candidate to 
+calculate the maximum weekly output. 
+Introduction 
+© NYU Stern MCA - All rights reserved 
+72 
+Case 5: Made to Measure 
+
+
+===== PDF p77 =====
+Clarifying answers to provide 
+•
+There are no additional skilled 
+shoemakers available in the market 
+ 
+•
+The shoe-making process has 3 stages, 
+cutting, stitching and finishing 
+•
+Currently there are 15 workers, each of 
+whom take an average of 12 hours to 
+produce one pair of shoes 
+•
+Each shoemaker performs all three 
+steps of the process under the current 
+system 
+ 
+•
+Different shoemakers have different 
+skill-sets, provide the exhibit to 
+highlight this point, prompt the 
+candidate about this point if she/he 
+does not arrive to it on their own 
+•
+If the candidate asks whether the 
+process can be changed to one where 
+shoemakers perform specific tasks, say 
+yes 
+Guide to case / Guide to handouts 
+This case is a simple process reworking. The challenge for the 
+candidate is to ask enough questions about the process to identify 
+the fact that the resources (i.e. the labor) are not being utilized in 
+an optimal manner. 
+ 
+The exhibit is a result of a survey and groups the different 
+employees into groups based on their skill sets. The table provides 
+the number of hours a group of employees takes for each task. 
+ 
+The key for the candidate is to identify that by getting the workers 
+to perform specialized tasks, the average time per pair of shoes can 
+be reduced from 12 hours to 9 hours, thereby increasing the 
+output. 
+ 
+For the math question, a calculation guide has been provided for 
+the interviewer. 
+ 
+ 
+Case 5: Made to Measure 
+Clarifying answers and case guide 
+© NYU Stern MCA - All rights reserved 
+73 
+
+
+===== PDF p78 =====
+The process 
+Understanding the process is critical, the candidate 
+should ask questions regarding how the shoe is made, 
+and catch the fact that the process can be altered. 
+ 
+Provide Exhibit #1 when the candidate asks about the 
+process and different activities involved. 
+Notes to Interviewer 
+The interviewer should drive the focus of the 
+discussion to the process rather than external 
+measures by clarifying that no outside labor is available 
+and there is currently no technology that we can use to 
+boost output. 
+Specialization 
+The candidate should be able to grasp that there is 
+clearly a misalignment of skills and tasks, and that 
+introducing specialization is a way to boost the output 
+without compromising quality. 
+Notes to Interviewer 
+The interviewer should encourage discussion on the 
+process and what alterations to the process are feasible 
+and which aren’t, prompting the candidate if necessary. 
+Case 5: Made to Measure 
+Key elements to analyze 
+© NYU Stern MCA - All rights reserved 
+74 
+
+
+===== PDF p79 =====
+Output Level Calculation 
+Once the candidate has arrived at the solution, if time permits, they should be asked to calculate the new output 
+level, and the total new profit per week, based on the assumptions provided. Please note that this section should be 
+explored only if time permits and the candidate has arrived at the solution. 
+Notes to Interviewer 
+The calculations are relatively straightforward, the critical part is the first step, which 
+involves calculating the new output level. This should be done assuming that under 
+the new system the average time taken for a pair of shoes drops from 12 hours to 9.  
+ 
+The per pair hours and the total available hours and the total number of employees 
+are enough to calculate the output level, which can then be followed by the cost 
+calculations. Please refer to the calculation guide after the exhibit. 
+Math Information 
+Employees work 9 hours a 
+day, 5 days a week 
+ 
+Price : $300/pair 
+ 
+Material cost: $ 40/pair 
+Shipping: $ 10/pair 
+Employee wages: 
+$15/hour 
+Fixed costs: $ 1000/week 
+Case 5: Made to Measure 
+Math Questions 
+© NYU Stern MCA - All rights reserved 
+75 
+
+
+===== PDF p80 =====
+Notes to Interviewer (contd.) 
+Calculation Guide: 
+Case 5: Made to Measure 
+Math Questions 
+© NYU Stern MCA - All rights reserved 
+76 
+Parameter 
+Units 
+Value 
+Output Calculations 
+Hours per pair in new system 
+Hours 
+9 
+Hours per week per employee 
+Hours 
+45 
+Per week output per employee 
+Pairs 
+5 
+Total employees 
+Number 
+15 
+Weekly output 
+Pairs 
+75 
+Profit calculations 
+Shoe selling price 
+$/pair 
+300 
+Materials and delivery cost 
+$/pair 
+50 
+Gross profit per pair 
+$/pair 
+250 
+Total gross profit per week 
+$ 
+18750 
+Employee cost per hour 
+$/hour 
+15 
+Total employee cost 
+$ 
+10125 
+Weekly fixed costs 
+$ 
+1000 
+Weekly profit 
+$ 
+7625 
+
+
+===== PDF p81 =====
+Recommendations 
+•
+The process should be changed 
+into one where each group of 
+employees does a specific task.  
+ 
+•
+This will reduce the average 
+time per pair of shoes to 9 
+hours, enabling the client to 
+scale up the operation within 
+the specified constraints 
+Bonus / Guide to an Excellent Case 
+An excellent case would be market by a candidate who focuses and quickly understands the process. An exceptional 
+candidate should be able to move quickly from the exhibit to the solution, and leave enough time for the 
+calculations. 
+Risks 
+Any process change, especially 
+heavily entrenched processes are 
+fraught with risk.  
+•
+Employees may be used to 
+the old system and there may 
+be bumps in the road in 
+implementation.  
+•
+There may also be one time 
+costs associated with 
+implementing these changes, 
+especially if it involves a 
+layout change in the 
+workshop 
+Next Steps 
+Monitor the process as time 
+progresses, consider implementing 
+the change in  phased manner, 
+using a pilot group to test whether 
+there are substantial gains to be 
+made, and identify hiccups early. 
+This may result in a smoother 
+implementation, however the 
+gains could be slower in coming.  
+Case 5: Made to Measure 
+Solution and Recommendations 
+© NYU Stern MCA - All rights reserved 
+77 
+
+
+===== PDF p82 =====
+Exhibit #1 (to be handed to the candidate) 
+© NYU Stern MCA - All rights reserved 
+78 
+Exhibit #1: Employee survey 
+Hours per 
+activity 
+Group 1 (5 
+employees) 
+Group 2 (5 
+employees) 
+Group 3 (5 
+employees) 
+Cutting 
+3 
+5 
+4 
+Stitching 
+4 
+4 
+3 
+Finishing 
+5 
+3 
+5 
+Total Hours 
+12 
+12 
+12 
+These numbers are a 
+result of survey 
+conducted among the 15 
+employees at the client’s 
+workshop.  
+ 
+The groups essentially are 
+a result of the fact that 
+different employees 
+specialize in particular 
+aspects of the process. 
+Case 5: Made to Measure 

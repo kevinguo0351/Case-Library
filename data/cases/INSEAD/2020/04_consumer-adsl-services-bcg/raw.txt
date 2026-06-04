@@ -1,0 +1,218 @@
+===== PDF p36 =====
+ICC Handbook 2020 
+32 
+ 
+ 
+Difficulty: Medium 
+Quant: Medium 
+Company: BCG 
+ 
+ 
+9.4 Consumer ADSL Services 
+ 
+ADSL  is  a  technology that   enables   the   implementation of 
+broadband Internet services via the existing telephony 
+infrastructure. This telephony infrastructure is owned by the 
+incumbent telecom operator in Norway. As in most European 
+countries, the regulator has ruled that new entrants may offer 
+ADSL services, using the existing incumbent-owned telephony 
+infrastructure via MDF access. This means, the  new  entrant can 
+hire the copper wire from the incumbent operator but has    to 
+purchase its own ADSL equipment. 
+ 
+The technical set-up that a new entrant would need in order      to 
+establish an ADSL connection basically consists of three 
+elements: MDF access (copper wire), ADSL equipment, Internet 
+uplink capacity (fiber  access  connecting  the ADSL equipment to 
+the Internet). 
+ 
+The costs involved in establishing the technical set-up are given 
+(amounts have been converted to Euros): 
+• MDF access tariff is EUR 12 per line per month, 
+set by the regulator 
+• Required investments for the ADSL equipment is EUR 120,000 
+per location, depreciation period of 5 years. For simplicity 
+reasons we assume linear depreciation with no interest costs. 
+In total, there are 250 locations where ADSL equipment could 
+be installed, covering all households in Norway 
+• Internet uplink capacity is commercially available. Depending 
+on the required end-user speed, costs are on average EUR 2 
+per end-user per month 
+• For simplicity reasons, we assume that the consumer ADSL 
+modem is client-owned. 
+ 
+Suppose you wanted to assess if a new entrant can run a profitable 
+business in offering consumer ADSL services, how would you 
+approach this? 
+ 
+Let’s see, since we are considering a new entrant, who has initially 
+no customers, the company will at first generate loss, and 
+gradually will become more profitable as the number of customers 
+increases. I could make some assumptions on the pace at which 
+the customer base will grow, but rather than making this too 
+complex at the beginning, I would start by calculating some sort of 
+break-even point. I mean, if we never reach break-even, this idea 
+will certainly not fly. 
+ 
+I: Sounds good, how would you calculate the break-even point? 
+C: Hmmm, we know all the costs, but we don’t know the revenue, 
+which would be price times number of customers. So I could 
+assume a price and then calculate the number of customers 
+we need. Subsequently, I would need to check if the required 
+number of customers would be a reasonable number. Do we 
+know anything about the price? 
+ 
+ 
+I: We know that the incumbent charges on average EUR 20 
+per month. 
+C: OK, let’s assume we could also ask EUR 20 to start with. Later 
+we may need to reconsider this and see if we need to lower the 
+price in order to become more competitive. So let’s see    if we 
+can calculate this… hmmm, wait, I see we have a lot     of 
+information on technical costs, but I don’t see anything on 
+personnel costs, is this correct? 
+ 
+I: Well spotted, we also need an organization and a small 
+marketing budget. The new entrant has done some pre-work 
+and has calculated that an annual budget of EUR 4.8 million 
+would be sufficient to cover the entire country. 
+C: OK, then I can calculate the break-even point. Per customer, 
+the new entrant earns EUR 20, of which it uses EUR 14        to 
+cover the expenses for MDF access and the Internet uplink. 
+That means he has EUR 6 per customer per month to cover all 
+other costs. We write off the ADSL equipment in 5 years, so 
+that’s EUR 2,000 per month per location. For 250 locations 
+that’s EUR 500,000 per month. In addition, we have to cover the 
+organizational costs, which is EUR 400,000 per month. So for 
+break-even we need EUR 900,000/EUR 6=150,000 customers. 
+ 
+After the basic set-up of the case, the interviewer assesses the 
+candidate’s ability to make some basic assumptions in order      to 
+get to the next level (Judgment) and play around a little bit with that 
+to see if the candidate can really see through the drivers     of the 
+case (Synthesis). 
+ 
+I:  OK, so what do you think, is that a realistic number to achieve? 
+Let me add that we have roughly 2 million households in Norway. 
+C: Hmmm, let’s see...at first sight, 150,000 out of 2 million does 
+not seem impossible, but I would like to know a bit more about 
+the market. For instance: is there a lot of growth in the market? 
+How many competitors are there? Can you tell me a bit more 
+about that? 
+ 
+I: Yes, at the time of this situation, the incumbent operator was still 
+the only provider of ADSL services in Norway, but others have 
+considered entering the market, just as we are doing now. The 
+distribution was as follows: 20% of the households had ADSL 
+services, 20% used Broadband via cable, 50% still used dial-
+up and 10% had no Internet. We know that these percentages 
+were established in 5 years time. That is: 5 years before no 
+broadband Internet existed. We have no data from in-between 
+years. 
+C: OK… so that’s a fast growing market. I would say we start 
+focusing on acquiring new  customers  from  the  group  that is 
+currently using dial-up, since this is the largest group and since 
+it is probably easier to acquire new customers than 
+
+
+===== PDF p37 =====
+ICC Handbook 2020 
+33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+to persuade customers from our competitors to switch. Now,  if 
+we would take a situation for instance 5 years later and if we 
+assume that by then the market has grown again with roughly 
+the same amount, the  ADSL  market  increases  from  20% to 
+40%, which means 400,000 new households will subscribe to 
+ADSL. We would be competing for these clients, against the 
+incumbent operator, and maybe some other new entrants as 
+you mentioned. So… let’s say the incumbent operator gets at 
+least a 50% share of that, since it has a strong presence in the 
+market already. Let’s assume we would be competing against 
+1 or 2 other competitors, which means we could get 17–25% 
+share of the new customers, or  ~70,000–100,000  in total. So 
+it seems that it won’t be possible to reach break-even from new 
+customers only. We could also have a look at the existing 
+customers, both ADSL and cable customers. But then I would 
+need to know how likely it is that they would switch? 
+ 
+I: OK, that is something you may want to investigate. But what 
+would be your upfront judgment on this?” 
+C: I can imagine that customers would want to switch if they are 
+very unsatisfied with the current service, or if the new entrant 
+would offer a much lower price. Do we know anything about 
+customer satisfaction? 
+ 
+I: Most customers are very satisfied, the service is very reliable. 
+C: OK, so let’s look at lowering the price. For instance a 10% 
+discount... Hmm... but that would mean we also would need 
+more customers to reach break-even. A 10% discount means 
+we drop from EUR 20 to EUR 18 contributing EUR 4 per 
+customer instead of EUR 6 to the fixed costs. So we would 
+need 225,000 customers in this case. Even if we could get     a 
+greater share from new customers, I still think it would be 
+unrealistic to assume we  could  persuade  a  large  number of 
+customers to switch for a EUR 2 discount, particularly if they are 
+satisfied with the current service. In addition, there’s the risk that 
+our competitors would lower their prices too. Concluding, I 
+would say this is a risky business to step into. 
+ 
+When the basics of the case have been cracked, the interviewer 
+would finally test if the candidate is able to assess the problem 
+from different angles and if he/she can come up with alternative 
+solutions (Creativity). If the case runs smoothly and there’s time 
+left, the  candidate can  even  quantify part  of these alternative 
+solutions. 
+ 
+I: I agree. The way we have been looking at it, the business case 
+looks very challenging indeed. But let’s spend a minute to see if 
+we can come up with some creative ideas here. Could you think of 
+some ideas that would make this business case more attractive? 
+C: I was struck by the negative effect a slight price decrease has. 
+So, I was thinking: could we somehow increase the price? 
+Of course, this can only be justified by offering better service. 
+Would it be possible to increase the speed, for instance? 
+I: Yes, technically this would be possible. You would need to make 
+sure that you buy enough capacity on the Internet uplink. Let’s 
+assume the speed you can offer is directly proportional to the 
+capacity you buy and the costs associated with it. 
+C: OK, so doubling the speed would increase the cost per 
+subscriber by EUR 2 per month, while we could probably 
+charge a much higher tariff, maybe EUR 30 or so. If we could 
+diversify our offering, and if part of the customers subscribe  to 
+the premium packages, this would certainly improve the case. 
+Furthermore, I am considering offering additional services, like 
+telephony or even video services if that’s possible. Of course 
+we would need to make a separate business case for that, but 
+since EUR 12 out of the 20 we charge is spent on MDF access, 
+any other service we can offer, which re-uses this asset, would 
+greatly improve the case. I mean, we would spread our largest 
+cost component across multiple services. 
+ 
+I: OK, sounds like these ideas are worth investigating. Anything 
+else you can think of? 
+C: What about starting in a limited number of regions, instead    of 
+covering the entire country from the start? Is the number   of 
+customers per location equal across the country? 
+ 
+I: Good point! The area of each region is more or less the same, 
+which means… 
+C: You have a huge variation in the number of households per 
+location. If we pick the high density areas, for instance the Oslo 
+area, plus some other larger cities, we can perhaps reach 50% 
+of the households through, I don’t know, maybe only 20% of the 
+locations and thus only 20% of the ADSL equipment cost. That 
+would make a difference. 
+ 
+I: You’re absolutely right, and you know, looking back this is 
+exactly what new entrants have done when entering the ADSL 
+market: start in high density areas, offer higher speeds at 
+premium prices, in particular to small and medium-sized 
+enterprises, and – at a later stage – expand the service by 
+offering additional services. 

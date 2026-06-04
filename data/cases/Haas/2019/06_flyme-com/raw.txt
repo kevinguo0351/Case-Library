@@ -1,0 +1,323 @@
+===== PDF p87 =====
+Case 6: Flyme.com (1/9) 
+Tell me about your most recent
+performance review at your pre-MBA 
+job. Both the positive and negative
+aspects.
+At what point in your life or career were
+you the most busy or overwhelmed? 
+How did you handle it?
+Keys to the case
+−The issue is on the revenue side airlines
+are paying less commission to OTAs for
+each flight sold
+−Criticaltogettotherootoftheissue before
+trying to suggest ways to solve it
+−The business model of an OTA may not
+be totally intuitive a strong
+candidate will problem solve their way
+through understanding
+Our client, FlyMe.com is a US-based online travel agency (OTA) – similar to Expedia,
+Priceline, etc. They sell flights, hotel rooms, car rentals, and other travel products on
+their website directly to consumers. Their inventory comes from all of the major
+travel suppliers (airlines, hoteliers, car rental companies, etc.). Although the travel
+industry is large and growing, our client has recently experienced a drop in
+profitability.
+They have hired us to (1) figure out why profits are down, and (2) what they can do
+to turn around the business.
+Fit question #1
+Fit question #2
+Case Overview
+Interviewer Guide
+Case Prompt
+-
+Interview style: Interviewer-led
+-
+Difficulty Level: Medium
+-
+Case type: Profitability
+-
+Industry: Travel / eCommerce
+-
+Concepts tested: profit drivers, 
+buyer-supplier power, turnaround
+
+
+===== PDF p88 =====
+Case 6: Flyme.com (2/9)
+Good candidate:
+o Recognizes this is a
+straightforward profitability problem
+o Asks enough questions to fully understand the
+situation
+Better candidate:
+o Engages with the interviewee
+during the prompt / understanding
+stage
+o Asks 2nd level questions before jumping into
+framework will help structure what the 
+framework should contain
+NEXT STEP: Create framework (example on next 
+slide)
+Industry-specific:
+o OTA business model –ecommerce site that sells travel related content to
+consumers. Make
+money by charging a commission to content providers (airlines, hoteliers, etc.) 
+on each sale.
+o Markets – most OTAs are regional – a few big players in the US, Asia, Europe,
+South America
+o Different than travel aggregators (Kayak) – aggregators don’t actually sell
+content
+Company-specific
+o Location–operatemostlyintheUS;have somesubsidiarieselsewhere,but small
+o Products–sella broad rangeof products(flights,hotels,etc.)from a broad rangeof 
+providers
+o Reputation–very well-knownbrand;household nameintheUS
+Competitor-specific:
+o 5-6 main competitors in the US
+o 2 are profitable; the rest are experiencing declines like us
+o Industry has seen recent consolidation
+This is a simple prompt – the candidateshould quickly move into creating a 
+profitability framework. Don’t let them ask too many questions up front.
+Interviewer Guide
+Additional information (only if asked)
+All critical information is provided below – any additional information 
+requested can be made up or explicitly stated as irrelevant
+
+
+===== PDF p89 =====
+Case 6: Flyme.com (3/9)
+Good candidate:
+o Recognizes this is a
+straightforward profitability problem
+o Asks enough questions to fully understand the
+situation
+Better candidate:
+o Engages with the interviewee
+during the prompt / understanding
+stage
+o Asks 2nd level questions before jumping into
+framework will help structure what the 
+framework should contain
+NEXT STEP: Create framework (example on next 
+slide)
+Non-company items (less relevant)
+o Market / economy – travel spend is highly correlated with the economy
+o Competition – the consolidation is likely having an effect
+o Customers – are purchasing behaviors or customer needs changing?
+Suppliers – how are airlines and hotels doing? Are they happy selling through
+us? Company profitability (most relevant)
+o Revenue–P*Qcandidateshouldhighlightthisandincludesomeextra detail
+o Cost–Fixed+Variablecandidateshouldhighlightthisandincludesomeextra
+detail
+How to fix the issue (relevant)
+o Candidate should at least note in the framework that a piece of the case is 
+to recommend
+ways to fix the issue
+o Does not need to be complete in the framework, but should be
+included
+After presenting the framework – push the candidate to suggest
+where to start
+Interviewer Guide
+Profitability Framework
+All critical information is provided below – any additional information 
+requested can be made up or explicitly stated as irrelevant
+
+
+===== PDF p90 =====
+Case 6: Flyme.com (4/9)
+Good candidate:
+o Recognizes it is not a cost problem
+o Asks for specific information within revenue,
+not just “do you have revenue information”
+Better candidate:
+o Recognizes that the cost growth is
+roughly inflationary growth and to be expected
+for a business
+o Provides a rationale for the revenue data
+they request
+NEXT STEP: Revenue analysis using Exhibit 1
+The problem is in revenue, but they can start with cost if they’d like
+If asked about costs
+o Interviewer: “Overall costs have been growing ~3% year over year. 
+Growth is happening
+across most key categories”
+o NOT A COST ISSUE – PUSH THEM TOWARDS REVENUE IF THEY DON’T
+RECOGNIZE THIS QUICKLY
+Revenue
+o Interviewer: “What do you want to knowaboutrevenue?”
+o Ifasked,primary sources of revenuearebookingfees charged to suppliers
+foreachsale,and for banner advertisingonthewebsite
+o WHEN THEY MENTION PRODUCT BREAKDOWN, BOOKINGS INFO, 
+VOLUME/RATE, ETC– PROVIDE THEM WITH EXHIBIT 1
+Interviewer Guide
+Profitability Deep Dive
+
+
+===== PDF p91 =====
+Exhibit 1: FlyMe.com Selected Financial Data – 2013 & 2014
+Case 6: FlyMe.com: Handout 1 (5/9)
+2013
+201
+4
+Revenue ($M)
+Bookings (M)
+Revenue
+($M)
+Bookings (M)
+Product Revenue
+Air
+$440
+110
+$319
+159
+Hotel
+$270
+30
+$331
+31
+CarRental
+$75
+15
+$81
+16
+Cruise
+$15
+5
+$17
+6
+Banner Ad Revenue
+$150
+N/A
+$149
+N/A
+Trip Insurance Revenue
+$50
+2
+$53
+2
+For 
+candidate
+
+
+===== PDF p92 =====
+Case 6: Flyme.com (6/9)
+o Have them walk through the data contained in the table
+o If they don’t recognize that booking fees could be an issue,
+have them calculate average booking fee for each category,
+each year (answers provided in red)
+o 2014 SHOULD BE ESTIMATES – THIS IS A TEST FOR
+PRACTICALITY
+o Good candidate will also do rough % of total estimation (in
+red) to see which categories are most important)
+o If asked, the end ticket prices to consumers have stayed the
+same
+Interviewer guide
+•
+Air and Hotel are the largest revenue drivers
+•
+Hotels and Insurance have the largest booking fee, and
+therefore relative profit margin, because it is all commission
+•
+Air booking fees are dropping year-over-year
+– BAD
+•
+Hotels and Insurance booking fees are growing even
+more year-over-year
+THE CANDIDATE SHOULD CONCLUDE THAT THE DROP IN
+AIR BOOKING FEES IS THE PRIMARY DRIVER TO
+DECLINING REVENUE
+Key Observations
+
+
+===== PDF p93 =====
+Case 6: Flyme.com (7/9)
+Good candidate:
+o Summarizes findings from the math
+portion before moving on
+o Writes down brainstorm ideas rather
+than just reciting
+o Doesn’t give completely illogical 
+reasons
+Better candidate:
+o Is hypothesis-driven when brainstorming
+o Gives justification for each item in 
+brainstorm
+NEXT STEP: Brainstorm ways to turn around
+the revenue decline
+There are many potential answers. Ensure the answers make sense.
+Some potential examples are:
+Airlines have strong bargaining power and are pressuring OTAs to
+drop fees
+Contract renewals just occurred, and the new fee is lower
+Airlines are selling more flights on own websites – we had to drop
+fees to keep the content on our site
+Air ticket prices are dropping overall
+Mix shift of lower cost airline tickets (Spirit, Frontier) being sold vs.
+higher priced (Hawaiian, American)
+A competitor dropped booking fees – we had to follow suit
+Many others…
+Once they provide at least 3-5 answers, tell them:
+Interviewer: “A lot of factors contributed, but we had to drop the air
+booking fees to stay competitive – there was nothing we could do”
+Interviewer Guide
+Brainstorm deep dive (1/2)
+“What could be causing the drop in air booking fees?”
+QUESTION
+
+
+===== PDF p94 =====
+Case 6: Flyme.com (8/9)
+Good candidate:
+o Writes down brainstorm ideas rather than just reciting
+o Doesn’t focus on air booking fees since this was fixed
+Better candidate:
+o Brings in data from the preview section – hotel and 
+insurance have large booking fees
+o Think outside the box and gives creative ideas to
+improve revenue
+o In conclusion:
+o Summarizes case
+o References data from case
+o Provides risks of the recommendations
+o Provides next steps past what was covered in case
+There are many potential answers. Ensure the answers make
+sense.
+Some potential examples are:
+Focus on Hotel – booking fees are high and rising
+Focus on selling Trip Insurance – revenue per purchase is huge
+and growing
+Increase advertising to drive more traffic to the site – will
+increase bookings and drive up banner ad revenue
+Offer bundles Air bookings (hotel, car) – will help drive bookings
+to higher margin products
+Consolidate with a competitor to increase bargaining power
+against airlines
+Once they provide at least 3-5 answers, drive towards a case
+conclusion:
+Interviewer: “Ok, great. We are going to meet with the client now
+– what do we tell them based on what we’ve covered today?”
+Interviewer Guide
+Brainstorm deep dive (2/2)
+“Given this, what can the client do to 
+improve revenues?”
+QUESTION
+
+
+===== PDF p95 =====
+Case 6: Flyme.com (9/9)
+Profits are down due to revenue and the 
+Company should focus on hotels where 
+booking fees are higher. ) 
+To overcome the $50M revenue shortfall 
+impacting profits the Company should 
+pursue a bundling strategy with hotels and 
+car rental companies to drive bookings to 
+higher margin products
+Recommendation
+As appropriate to case outcome
+Risks
+As appropriate to case outcome
+Rationale
+As appropriate to case outcome
+Next steps

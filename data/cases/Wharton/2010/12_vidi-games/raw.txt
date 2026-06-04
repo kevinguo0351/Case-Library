@@ -1,0 +1,227 @@
+===== PDF p116 =====
+Case 12: Vidi-Games
+Introduction
+B
+k
+d
+Introduction
+112
+Background
+Our client is Vidi-Games, a manufacturer and retailer of video games. They are planning to enter the Brazilian market. One of the factors 
+that has prevented them from entering that market is that there is a tariff for importing products that can be produced in the country of 
+50% of production costs. However, the government is planning to lower it down to 15% in the next years, decreasing it 5% every year 
+(from 50% to 45%, and so on). 
+Questions
+What variables should they consider? What is the market size? Should they enter the market? And if so, should they export the product 
+from China to Brazil or produce it in Brazil?
+from China to Brazil or produce it in Brazil?
+Interviewer guide
+First, structure the problem. It is a profitability problem. Some things that should be mentioned, on top of industry analysis and profitability 
+,
+p
+p
+y p
+g
+,
+p
+y
+y
+p
+y
+stuff, are repatriation costs, regulations, currency, inflation, culture issues, etc.. 
+
+
+===== PDF p117 =====
+Case 12: Vidi-Games
+Market Size Calculation
+I f
+ti
+th t th
+did t
+d
+M
+k t Si
+C l
+l ti
+Market Size Calculation
+113
+Information that the candidate needs:
+The interviewee should try to estimate these numbers, but no real 
+prior knowledge is required. Because it is a market very different 
+from the US, these numbers should be provided after the person 
+tries to estimate them. 
+Market Size Calculations
+Total number of video-games that can be expected to be sold 
+per year 
+= (total number of households that will purchase video games) 
+x (number of video games per year per average household) 
+Brazil population = 200M
+Younger population – under 35 = 50% - It can be assumed that 
+these are the only ones interested in video-games
+Poor population = 60% (hence, affluent people who can afford 
+this 40%)
+= [(total population x % of young people (that use 
+video-games) x % of affluent people) ÷ (average 
+people per household)] x (number of video games per 
+year per average household)
+Total number of video games that can be expected to be sold
+this, 40%)
+Average number of people per household = 4
+Penetration of video games within the affluent and young segment 
+in Brazil = 75%
+Games per year per average household = 3
+Total number of video-games that can be expected to be sold 
+per year = ((200M x 50% x 40%) ÷4) x 3 = 22.5M of video 
+games
+
+
+===== PDF p118 =====
+Case 12: Vidi-Games
+Profitability
+I f
+ti
+th t th
+did t
+d
+I t
+i
+C
+l i
+Profitability
+114
+P
+d
+ti
+i Chi
+$14
+Information that the candidate needs:
+Usual retail price = $50
+Volume calculated in market size = 22.5M video-games per year.
+Interim Conclusion
+Under the current situation it is not a 
+profitable business, and therefore the 
+company should not go. 
+Production in China
+$14
+Production in Brazil
+$21
+Distribution
+$6
+Labor
+$8
+Overhead
+$6
+Other costs
+$10 4
+Other costs
+$10.4
+Information that the candidate needs:
+Profit = Revenue - Costs
+$
+$
+Total revenue = Volume x Price = 22.5M video games x $50 per video game = $1.125B
+For costs, two scenarios have to be considered: producing in Brazil or in China. 
+Total costs of producing in Brazil = $21 + $6 + $8 + $6 + $10.4 = 51.4
+Because of 50% tariff, the production cost of producing in Brazil or in China is the same. 
+Total cost of producing in China = ($14 x (1.5)) + $6 + $8 + $6 + $10.4 = 51.4 
+Per unit profit = $50 - $51.4 = $ -1.4
+Because of 50% tariff, the 
+production cost of producing in 
+Brazil or in China is the same. 
+
+
+===== PDF p119 =====
+Case 12: Vidi-Games
+Lower Tariff
+Lower Tariff
+115
+BUT the tariff is going to decrease, is it going to make sense for them to enter? (Ignore inflation and other factors).
+Break-even point -> Revenues = Costs
+Costs that do not depend on tariff 
+Tariff % at which the company breaks-even 
+p
+y
+$50 = $30.4 + ($14 x (1+ X ))   ->     X=0.35=35% 
+Costs that do not 
+depend on tariff 
+Tariff % at which the 
+company breaks-even 
+Since the government will lower the tariff 5% every year, in 2 years the company would break even, in the following period they can 
+enter the market (3 years from now). 
+Profit (per unit) = $50 – ($18.9 + 30.4) = $0.7 per video-game. 
+Total profit = $0.7 per video-game * 22.5M video-games per year = $15.75M
+p
+p
+y
+
+
+===== PDF p120 =====
+Case 12: Vidi-Games
+Additional Calculation
+Y
+l
+fit
+th t
+iff
+h
+th
+i i
+(15%)
+Additional Calculation
+116
+Yearly profit once the tariff reaches the minimum (15%)
+Profit when the tariff reaches its lowest (and from then on) = $50 – ($16.1 + $30.4) = $3.5 per video-game.
+Total profit = $3.5 per video-game * 22.5M video-games per year = $78.75M
+If the investment of going into Brazil is $100M, when will they recoup their investment?
+First year (3 years from now) = $15.75M
+Second year = $31.5M
+y
+Third year = $47.25M
+Total of first three years = $94.5M
+Very soon, beginning the fourth year, the investment would be recovered (3+ years is a good answer).
+Exact number (assuming you sell the same number of video games every day of the year, 360 days) =3 years and 31.43 days. 
+Calculations to get the exact number:
+$100M $94 5M $5 5M
+$100M-$94.5M=$5.5M
+If we sell the same amount of video games every day, then we sell 22.5M÷360 = 62,500 video-games per day. And because this is the 
+fourth year of our investment, the tariff is 20%, therefore, the profit per unit is $2.8. 
+Hence, we make 62,500 video-games per day x $2.8 per video game = $175,000 per day. 
+$5.5M still to break-even ÷ $175,000 per day = 31.43 days.
+
+
+===== PDF p121 =====
+Case 12: Vidi-Games
+Brainstorm and Conclusion
+Wh t
+ld Vidi G
+d if th
+d d t
+t
+? (B
+i t
+i
+t th
+j t
+id
+)
+Brainstorm and Conclusion
+117
+What could Vidi-Games do if they needed to enter now? (Brainstorming part, these are just some ideas)
+Revenue side: 
+•Analyze how viable is an increase in price.
+•(Because the profit per unit is negative, increasing volume does not solve the problem)
+•Cost side: 
+N
+h
+l b
+•Negotiating cheaper labor.
+•Moving manufacturing sites to lower cost areas.
+•Optimizing distribution network.
+•To produce in Brazil: See possibility of reducing production costs.
+Other ideas:
+•Entering in partnership with a Brazilian partner
+Entering in partnership with a Brazilian partner. 
+•Acquiring a competitor in Brazil.
+•Selling video-games to retailers there (hence saving in distribution, labor, overhead, etc.., but selling at a reduced wholesale price).
+What do you think of the current scenario? I have to call Vidi‐Games in a couple of minutes, what 
+is your recommendation?

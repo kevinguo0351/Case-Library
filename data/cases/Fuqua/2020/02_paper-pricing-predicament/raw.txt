@@ -1,0 +1,370 @@
+===== PDF p37 =====
+Paper Pricing Predicament
+33
+Industry:                  Retail
+Case Type:     
+Profitability
+Led by:
+Interviewee
+Quantitative Level: Easy
+Qualitative Level:
+Easy
+
+
+===== PDF p38 =====
+Behavioral Questions
+34
+• Tell me about a time you drove a creative solution to a problem. 
+Question 1:
+• Tell me about a time you had to build consensus on a team.
+Question 2:
+
+
+===== PDF p39 =====
+Paper Pricing Predicament
+35
+Complete Foods, a leading supermarket prominent across the U.S., is planning to 
+release a private label line of paper towels. They currently sell fresh and shelf-stable 
+grocery products as well as some common household items such as hand soap and 
+kitchen supplies. Some of these products are brand names and some are private label. 
+The CMO has asked your team to think through the pricing strategy for the new line.
+Prompt #1:
+• Complete Foods has 50 stores across 10 metropolitan areas, scattered across the 
+United States. 
+• Complete Foods only stocks products that are free from artificial colors, flavors, and 
+preservatives. 
+• Last year, Complete Foods brought in revenue of $200M.
+• Compare Foods already produces private label grocery products but no private label 
+household goods. 
+• Private label means products that are produced by the same company that is selling 
+the products. These paper towels will be produced by Complete Foods and only sold 
+in Complete Foods stores. 
+Case Background:
+
+
+===== PDF p40 =====
+Paper Pricing Predicament
+36
+An example framework could be as follows: 
+•
+Who are the competitors?  (Competitors) (Hand them exhibit #1 if the interviewee asks about the market landscape 
+or the competitors) 
+–
+Who are the other brand name competitors
+–
+What are the price points for the brand name competitors
+–
+Reactions from competitors having a new private label brand on the shelf
+•
+Potential lost sales 
+•
+What is Compare Foods concerned about? (Company)
+–
+Cost of supplies (Paper, cardboard, plastic) 
+–
+Number of varieties that will be offered
+–
+Supply Chain 
+•
+Establishing a new household goods supply chain separate from existing grocery supply chain 
+–
+Sourcing
+•
+Having to establish new supplier relationships separate from grocery suppliers
+•
+Who are the customers? (Customers)
+–
+Total market size of paper towels 
+–
+Elasticity of paper towels
+–
+Customer preferences for non-artificial ingredients in their paper towels 
+Framework Buckets:
+
+
+===== PDF p41 =====
+Exhibit #1
+37
+Brand 1
+Brand 2
+Brand 3
+Brand 4
+ $-
+ $0.50
+ $1.00
+ $1.50
+ $2.00
+ $2.50
+ $3.00
+ $3.50
+ $4.00
+ $4.50
+ $5.00
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+Price (per 75-sheet two-ply roll)
+Brand Perception Score*
+Paper Towels
++ Market Landscape
+*Brand Perception Score comes from a third-party survey across the CPG industry.
++Only focused on 75-sheet two-ply paper towel rolls 
+
+
+===== PDF p42 =====
+Interviewer guidance on Exhibits
+• This is a scatterplot where the: 
+–
+X-axis represents the brand perception score (if the 
+interviewee asks, the scores come from a 
+nationally distributed CPG brand perception survey 
+that the firm has access to) 
+–
+Y-axis represents the price for one roll of two-ply 
+75 paper towels (assumed that these are the prices 
+at one store) 
+–
+brands are ones that are sold at Complete Foods.
+–
+Size are the dots are all the same so there is no 
+analysis in the size of dots. 
+• The current market landscape of Complete 
+Foods’ offerings of paper towels is 4 brands, 
+split in terms of price and quality. 2 brands are 
+cheaper and have lower brand quality 
+perception scores while the other two are more 
+expensive and are perceived to have higher 
+brand quality. 
+• There is a direct correlation between brand 
+perception and price. 
+• The interviewee should recognize that there is 
+room for a mid-range brand quality perception, 
+moderately priced in between the bottom two 
+brands and the top two brands. 
+• After recognizing where Complete Foods’ brand 
+can fit in, the interviewee should move on to 
+figuring out the costs and markup for the new 
+product. 
+38
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p43 =====
+Exhibit #2
+39
+Producer
+Production Cost 
+(per sheet)
+Quality
+Paper Producer AA
+$0.02
+LOW
+Paper Producer BB
+$0.035
+MEDIUM
+Paper Producer CC
+$0.04
+MEDIUM
+
+
+===== PDF p44 =====
+Exhibit #2 (For Interviewer)
+40
+Producer
+Production Cost 
+(per sheet)
+Quality
+Paper Producer AA
+$0.02
+LOW
+Paper Producer BB
+$0.035
+MEDIUM
+Paper Producer CC
+$0.04
+MEDIUM
+Packaging 
+Producer
+Production Cost 
+(per roll)
+Quality
+Producer DD
+$0.19
+HIGH
+Producer EE
+$0.16
+MEDIUM
+Producer FF
+$0.12
+LOW
+Shipment Company
+Shipping Cost (per 
+roll)
+Shipment Company GG
+$0.05
+Shipment Company HH
+$0.025
+Shipment Company II
+$0.08
+TO BE READ ORALLY TO THE INTERVIEWEE IMMEDIATELY
+ONLY PROVIDE THE FOLLOWING INFO ONCE ASKED FOR BY THE INTERVIEWEE 
+Average Industry 
+Markup per roll:
+30%
+
+
+===== PDF p45 =====
+Exhibit #2
+41
+Paper Producer BB 
++ Shipping 
+Company HH
+$2.625 + $0.025 = 
+$2.65
++Tube 
+Producer DD
++ $0.19 = $2.84
++Tube 
+Producer EE
++ $0.15 = $2.80
+Paper Producer CC 
++ Shipping 
+Company HH
+$3.00 + $0.025 = 
+$3.025
++Tube 
+Producer DD
++ $0.19 = $3.215
++Tube 
+Producer EE
++ $0.15 = $3.175
+Interviewee should only focus on medium or high-quality producers rather than all suppliers. 
+Final Price Recommendation: $2.80 x 30% upcharge (1.3) = $3.64 
+
+
+===== PDF p46 =====
+Interviewer guidance on Exhibits
+• ONLY SHOW THE ONE TABLE TO THE 
+INTERVIEWEE AND KEEP THE FULL 
+EXHIBIT TO BE READ ORALLY.
+• This information should give everything the 
+interviewee needs to calculate the product and 
+shipping costs to Complete Foods as well as the 
+average markup which will result in the 
+recommended price that Complete Foods 
+should charge.
+• The first table details the price per sheet of 
+paper towel by producer and by quality. In order 
+to calculate the price per roll, the interviewee 
+should recall we are looking at 75 sheet rolls so 
+they should multiple the cost/sheet by 75. 
+• The following two tables should only be 
+provided once the interviewee asks for 
+information about the paper towel packaging, 
+shipping costs and the average markup per roll.
+• The interviewee should only focus on 
+medium and high-quality suppliers as we 
+assessed in the market landscape. 
+Besides that qualification, it is safe to 
+assume they should go with the cheapest 
+option. 
+• Advanced interviewees will understand 
+there may be other factors we are not 
+considering in this analysis, such as the 
+speed of the shipment companies. 
+• The final recommended price should be 
+$3.64 for one 75-sheet paper towel roll. 
+42
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p47 =====
+Brainstorming
+• What other considerations outside of price 
+should Complete Foods think about when 
+introducing a new product line into their 
+stores? 
+• Analysis of brainstorming could look like 
+the structure below but there are many 
+ways to build this out.
+– Internal considerations 
+•
+How to promote the product 
+•
+Types of sales promotions (if any) 
+•
+Making shelf space for the product 
+•
+Making space in storage warehouses 
+•
+Ability to make other products with the same 
+value chain (toilet paper, printing paper, etc)
+– External considerations 
+•
+Contracts with competing brands 
+•
+Ordering quantities from competing brands 
+now that there is an additional brand 
+43
+Prompt:
+Analysis:
+
+
+===== PDF p48 =====
+Case Name
+44
+• The CMO requests an update on the status of the project and would like to hear 
+some preliminary thoughts. What is your recommendation? 
+Recommendation 
+Risks: 
+• Manufacturers may not be able to support the volume that Complete Foods is requesting. 
+• There may be unassessed differences in the suppliers, like supplier speed or reliability. 
+• Competitors may be upset that the brand is moving into their product line and taking up shelf 
+space. 
+Next Steps: 
+• Get additional data points from the suppliers to continue to differentiate and ensure reliable 
+service. 
+• Start planning shelf space agreements with other brands. 
+• Start working on marketing and sales plans.
+Risks and Next Steps:
+
+
+===== PDF p49 =====
+Evaluation Criteria
+45
+Candidate Level
+Assessment
+Average Candidate
+• Assumes they understand unfamiliar terms and asks few clarifying 
+questions 
+• Framework is generic and does not address any specifics about the 
+grocery or CPG industry
+• Struggles to connect the key relevant details across the exhibits such 
+as how many sheets are in a roll or quality of product but understands 
+the missing pieces once told.
+• Calculates every combination of suppliers’ costs and does not narrow 
+only to medium quality suppliers.
+Good Candidate
+• Asks some clarifying questions about unfamiliar prompt and terms 
+• Framework includes some specific items relevant to the grocery and 
+CPG industries
+• Understands the different pieces that go into the paper towel roll 
+production process and asks for the missing pieces to the calculation
+• Able to brainstorm a few other considerations after launching the paper 
+towel line.
+Excellent Candidate
+• Constantly asks clarifying questions to understand unfamiliar terms 
+such as private label 
+• Candidate is very industry and product specific, drawing from personal 
+experiences to inform business considerations. 
+• Able to quickly recognize the missing pieces to the calculation of costs 
+and then upcharge % to come to a clear recommended price. 

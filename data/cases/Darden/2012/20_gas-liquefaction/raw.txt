@@ -1,0 +1,126 @@
+===== PDF p195 =====
+CASE 20:  
+GAS LIQUEFACTION 
+Case Question: 
+Our client is a U.S. regional power company.  They currently use natural gas fired power plants to 
+produce electricity which is then transmitted via the existing power grid.  Our client currently gets 
+their gas directly from a field located in the Gulf of Mexico, but they are concerned about the 
+capacity of this supplier going forward.  They are considering investing in capabilities to allow them 
+to utilize liquefied natural gas.   
+Natural gas is a cleaner burning and relatively low cost fuel, however in gas form cannot be 
+transported over long distances.  The gas can be liquefied essentially through a combination of 
+dropping the temperature and pressurizing the gas.   The compression factor for LNG vs. normal 
+gas is 1/600th of the gas volume.  
+How would you go about analyzing this decision and what would you recommend.  
+Firm Style 
+Interview Round 
+BCG 
+2 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+•
+Answer 
+How do you 
+utilize LNG? 
+•
+Extraction 
+•
+Liquefaction 
+•
+Transport 
+•
+Gasification 
+
+
+===== PDF p196 =====
+GAS LIQUEFACTION 
+Additional Information to Give when Asked 
+•
+Our client currently just pays for the extraction costs.  Cost of gas from their current 
+supplier is shown in the graph on the following page.  Interviewer should be 
+directed to use a cost of $5 per mcf. 
+•
+Unit of measure is 1000 cubic feet: mcf. 
+•
+We are looking to utilize gas from a field in Nigeria. 
+•
+Extraction cost is $1/mcf 
+•
+Liquefaction cost is $1/mcf 
+•
+Transport- Interviewer should push back…ask ‘How would you go about estimating 
+transport costs?’ 
+•
+Transport breakdown:  
+•
+Charter tanker cost: $60,000/day 
+•
+Speed: 10 mph 
+•
+Miles: 6000 miles 
+•
+ (So total tanker cost per trip comes to $1.5 M) 
+•
+Tanker volume: 300,000 meters cubed. 
+•
+So per mcf of GAS you would have to run the following conversion: 
+•
+300,000 meters cubed liquid X ((3 ft ^3)/(meter ^3))  X  (1/1000) X (600 gas/1 liquid) 
+= 4,860,000.00 
+•
+Which is the total mcf of Gas per tanker trip. 
+•
+Transport cost per mcf = $3,000,000/4,860,000 = Approximately 0.31. 
+•
+Gasification is $1/mcf 
+ 
+
+
+===== PDF p197 =====
+GAS LIQUEFACTION 
+Recommendation 
+• Because of the compression factor, the transport costs for LNG 
+are relatively low and as such there are significant savings to 
+be had by switching to LNG.  We would need to look at our 
+current volumes to see if this would justify investments in 
+gasification facilities.  Because LNG is an already traded 
+product, we shouldn’t necessarily invest in our own 
+liquefaction capabilities, but treat it as a variable cost 
+included in what we pay LNG suppliers.   
+• Conclusion: This was a second round BCG case, given by a 
+principal.  The main thing she seemed to be trying to test was 
+the ability to keep up with all of the conversions.  I had done 
+two relatively low-quant cases earlier in the day and this was a 
+number crunching exercise. 
+ 
+
+
+===== PDF p198 =====
+GAS LIQUEFACTION 
+Exhibit 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+Gas Prices 
+Gas Prices

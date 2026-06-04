@@ -1,0 +1,255 @@
+===== PDF p72 =====
+Case 5: Tulsa Hotel - OK or not OK?
+Introduction
+Introduction
+Problem Statement Narrative
+68
+Our client a major hotel chain.  They are considering acquiring an existing hotel in Tulsa, OK for $20M and expect an ROI of 
+20% over three years.  Should they make the investment?
+Overview for interviewer
+Information to be given with 
+handout
+Once the interviewee has explained their
+handout
+Once  the interviewee has explained their 
+framework,  give them the following page.  Also 
+tell them the following:
+Assume single occupancy (only one guest per 
+room).
+If several rooms are reserved at once (for a group 
+This is a profitability case.  Discussion should quickly turn to P=R-C and the 
+various drivers of costs and revenues.
+On the revenue side, price and volume (hotel occupancy) should be 
+considered, with some discussion about different  price and occupancy 
+i
+i
+hi
+b i
+h
+l
+i
+l
+i
+? D
+(
+g
+p
+traveling together) a discounted group rate is 
+given to each group member.
+Assume 50 weeks/year or 350 days/year in your 
+calculations.  Round yearly profits to the nearest 
+million.
+scenarios – is this a business hotel or a vacation location? Do occupancy 
+rates/prices vary throughout the week?  Seasonally? The interviewee should 
+also include other sources of revenue, such as a restaurant in the hotel, 
+events, etc.
+On the cost side, fixed and variable costs should be discussed, such as hotel 
+upkeep utilities labor insurance booking system etc
+Assume no seasonality in demand.  Assume no 
+growth.  Ignore time value of money.
+upkeep,  utilities, labor, insurance, booking system etc.
+Additional factors:
+Changes in the economy and hotel industry that might affect number of 
+guests or guest WTP
+Competitor response and potential for new entrants into the market
+Specifics about our client such as synergies with other hotels in the chain, 
+name recognition, hotel management expertise
+Risks such as lower than expected demand,  entry of new competitors,  etc..
+
+
+===== PDF p73 =====
+Case 5: Tulsa Hotel - OK or not OK?
+Information sheet
+ On weekends Tulsa has 600 visitors/day and 50% stay in our hotel
+Information sheet
+69
+
+(The rest stay with friends/family, or at small bed and breakfasts)
+ Group room rate is $120/night
+ Individual room rate is $150/night
+ Individual room rate is $150/night
+ On weekends 75% of guests are individuals (i.e. not groups)
+ On weekdays 40% of guests are individuals
+ Weekend hotel occupancy rate is 60%
+ Weekday hotel occupancy rate is 75%
+ It costs the hotel $30/room/night for each occupied room
+ It costs the hotel $30/room/night for each occupied room
+ Fixed costs for the hotel are $5750/night
+ Assume no growth, ignore time value of money
+
+
+===== PDF p74 =====
+Case 5: Tulsa Hotel - OK or not OK?
+Question 1
+Profitability Question
+Question 1
+70
+Should our client make the investment? (Do not remind interviewee that the client plans to invest $20M, or that they expect an 
+ROI of 20% over three years, this information was given up front and should be remembered)
+Solution Method 2
+Weekend da s
+Solution Method 1
+W
+k
+d d
+Weekend days: 
+600 town visitors * 50% stay at our hotel = 300weekend guests
+Revenues from individuals: 300guests*75%*$150/room = $33,750
+Revenues from groups: 300guests*25%*$120/room = $9,000
+Variable costs: 300 guests*$30/occupied room/day = $9,000       
+Fixed costs=$5750/day
+P
+f /
+k
+d d
+($33750
+$9 000)
+$9 000
+$5750
+$28 000
+Weekend days:
+600 town visitors * 50% stay at our hotel = 300weekend guests
+Average weekend rate=0.75*$150+0.25*$120=$112.5+ 
+$30=$142.5
+Average weekend day profit /guest= $142.5-$30 = $112.50
+Weekdays:
+Profit/weekend day = ($33750 + $9,000) - $9,000 - $5750= $28,000
+Weekdays:
+Hotel is 60% occupied on weekends with 300 guests = 500 rooms in hotel
+On weekdays, hotel is 75% occupied = 500*75% = 375 guests
+Revenues from individuals: 375guests*40%*$150/room = $22,500
+Revenues from groups: 375 guests*60%*$120/room = $27,000
+Hotel is 60% occupied on weekends with 300 guests = 500 rooms 
+in hotel
+On weekdays, hotel is 75% occupied = 500*75% = 375 guests
+Average weekday rate=0.4*$150 + 0.6*$120 = $60+$72 = 
+$132
+Average weekday profit / guest = $132-$30 = $102
+Variable costs: 375 guests*$30/occupied room/day = $11,250
+Fixed costs = $5750/day
+Profit/weekday = ($22,500 + $27,000) - $11,250 – $5750 = $32,500
+Total profits:
+π/week = 2($28,000) + 5($32,500) = $218,500
+π/year =  50weeks*$218,500 = $10,925,000, round to $11M
+Total profits:
+π/week = (300*$112.5*2) + (375*$102*5) – (5750*7) = 
+$218,500
+π/year =  50weeks*$218,500 = $10,925,000, round to $11M
+π over 3 years (assuming no growth/TVM) = 33M
+20% ROI on 20M is 4M, so require $12M π over 3 years to meet 
+/
+π over 3 years (assuming no growth/TVM) = 33M
+20% ROI on 20M is 4M, so require $12M π  over 3 years to meet goal.
+$33M>$12M, so invest!
+,
+q
+y
+goal.
+$33M>$12M, so invest!
+
+
+===== PDF p75 =====
+Case 5: Tulsa Hotel - OK or not OK?
+Question 2
+Question 2
+71
+Average Rate Question
+Now  instruct the interviewee to disregard the numbers given in question 1 and use only the information given in the following question:
+Suppose that on each weekend day, 100 rooms are occupied at a group rate of $100, and 300 individual rooms are occupied at a rate 
+of $150 On each weekday 200 rooms are occupied at the group rate and 200 at the individual rate There are 500 rooms in the
+of $150.  On each weekday, 200 rooms are occupied at the group rate, and 200 at the individual rate. There are 500 rooms in the 
+hotel.  It costs the hotel $30/room/night for each occupied room.
+What is the average revenue per customer per day for any day of the week?  Round your answer to the nearest 10 dollars (e.g., if the 
+room rate is $147, round your answer to $150)
+Suggested Solution
+Average weekend day: (100*$100 + 300*$150)/(100+300) = ($10,000+ $45,000)/400 = $55,000/400 = $137.50
+Average weekday: (200*$100) + (200*$150) /(200+200) = ($20,000 + $30,000)/400 = $50,000/400 = $125.00
+Overall average rate: (2*$137.5 + 5*$125)/7 = ($275+$625)/7 = $900/7 = $128.57 = $130 revenue/room/night
+
+
+===== PDF p76 =====
+Case 5: Tulsa Hotel - OK or not OK?
+Question 3
+Strategy Question
+Question 3
+72
+Now suppose that our client would like to increase revenues at the hotel.  What would be some ways that they could accomplish this?  
+Assume that costs are held constant.
+Suggested responses
+Th
+l i
+b
+i
+id
+i
+P h i
+i
+id
+id
+ibl
+The goal is to brainstorm ideas to increase revenues. Push interviewee to provide as many ideas as possible. 
+Answers might include:
+Increasing room price, perhaps positioning hotel as a luxury destination
+Partnering with a local convention center to attract large groups of guests, or building their own conference center
+Accommodating wedding receptions or other large social gatherings
+Conducting an advertising campaign- with a travel agency, online, on TV, etc.
+Conducting an advertising campaign with a travel agency, online, on TV, etc.
+Expanding the hotel to accommodate more guests
+Opening a restaurant in  the hotel, or adding additional dining options if interviewee assumed there was already a restaurant
+Breakeven Question
+Breakeven Question
+In order to increase profits, your client is considering launching a three 
+year advertising campaign.  The campaign will cost $1.5M.  Use 
+information from question 2 in your calculations.  Do not use any 
+information from question1. Ignore fixed costs.
+H
+ddi i
+l
+ill
+d
+h h
+l f
+$1.5M over 3 years = $500,000 per year spent on the campaign
+From question 2a, the average revenue/room/night  = $130.
+Variable cost/room/night  = $30
+Profit/room/night = $100
+$500,000/$100 = 5,000 additional guests/year
+How many additional guests will need to stay at the hotel for our 
+client to break even? 
+Should they launch the campaign?
+$
+,
+/$
+,
+g
+/y
+5,000/350 = about 15 additional guests per night
+Since the hotel occupancy is 400 on both weekends and weekdays, 
+and the hotel has 500 rooms, this increase seems reasonable
+
+
+===== PDF p77 =====
+Case 5: Tulsa Hotel - OK or not OK?
+Recommendation
+Our client should acquire the hotel because its projected profits exceed the expected ROI by
+Recommendation
+73
+Our client should acquire the hotel because its projected profits exceed the expected ROI by 
+$21M. 
+However, if the $20M investment could be used for another project with an even higher ROI, the 
+other project should be prioritized ahead of this one. ( Bonus answer!)
+Our client should also launch the advertising campaign because the required additional 15 guests 
+per night to breakeven seems reasonable. Some other options to increase revenues might include 
+Recommendation
+p
+g
+p
+g
+partnering with a conference center or contracting with a travel agent to attract additional guests.
+Some potential risks include:
+Risks
+National or global economic downturn could reduce business travel and tourism in general
+A  new unfavorable local economic environment in Tulsa could lead to businesses leaving the 
+area and reducing business/visitor traffic  (e.g. higher local taxes on businesses) 
+A competitor could build a large hotel in Tulsa
+Government could impose new taxes on hotel profits, reducing projected ROI

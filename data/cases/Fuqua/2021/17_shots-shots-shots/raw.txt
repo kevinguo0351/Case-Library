@@ -1,0 +1,461 @@
+===== PDF p185 =====
+Shots, shots, shots1
+181
+Industry:                  Public Sector
+Case Type:     
+Strategy
+Led by:            
+Interviewer
+Case Level: 
+Expert
+1 Author does not have any material and non-public information pertaining to the state of Arizona contracting with any third-party management consulting organization during the COVID-19 pandemic. The state of   
+Arizona was chosen for illustrative and educational purposes only. This case is fictitious and loosely based on a management consulting engagement provided by an unnamed organization to an unnamed client.
+
+
+===== PDF p186 =====
+Behavioral Questions
+182
+• What does diversity, equity, and inclusion mean to you, and how have you 
+demonstrated inclusive leadership?
+Question 1:
+• Tell me about a time you had to deliver bad news. What was your approach?
+Question 2:
+
+
+===== PDF p187 =====
+Shots, shots, shots
+183
+Our clients, the Governor of a state and the state’s Director of the Department of Health Services (DHS), seek to improve SARS-
+COV-2 or “COVID-19” vaccination efforts in light of a new strain’s proliferation. The B.1.617.2 variant—colloquially known as “Delta” 
+—became the dominant COVID-19 variant in early July 2021 and has been observed to be more contagious than prior variants. 
+According to researchers, unvaccinated individuals infected with the Delta variant will infect 3.5 or 4 other people (called “R naught” 
+or “R0” in epidemiology). In contrast, people infected with the “Alpha” variant with had an R0 of 2.5. Thus, the Governor and Director 
+seek to develop a plan to vaccinate 75% of the state-wide population by Labor Day 2021.
+As of the beginning of August 2021, the state has vaccinated over 3,704,000 eligible adults and children aged 12+ with at least 1 
+dose of a COVID-19 vaccine (e.g., Johnson & Johnson/Janssen, Moderna, or Pfizer/BioNTech). Yet, millions more eligible adults and 
+children aged 12+ have yet to receive a first dose of any vaccine. 
+The Governor and Director of DHS have hired us to help the state implement a large-scale COVID-19 vaccination program by 
+standing up a COVID-19 vaccine data center to help increase vaccination rates and safeguard lives and livelihoods in the state.
+Prompt #1:
+•
+The Governor’s secondary goal is to increase the state’s rank for the percentage of its population aged 12+ with at least 
+one dose of a COVID-10 vaccine
+–
+According to the Centers for Disease Control & Prevention, the state currently ranks 34th in the U.S. (including states and territories)
+•
+The state has enough supply of the J&J, Pfizer, and Moderna vaccines to vaccinate every eligible adult and child
+•
+The U.S. Food and Drug Administration (FDA) granted emergency use authorizations (EUAs) for three vaccines: Johnson 
+& Johnson/Janssen, Moderna, and Pfizer/BioNTech. 
+–
+The J&J vaccine’s course is completed after one dose, while the Moderna and Pfizer/BioNTech (mRNA) vaccines require two doses.
+–
+The Pfizer/BioNTech vaccine is the only vaccine available to be used for people aged 12-17. Adults 18+ can receive any of the three vaccines.
+•
+The state’s DHS is responsible for allocating vaccine doses to providers (e.g., hospitals, local pharmacies, Drs. offices, 
+etc.) throughout the state. However, some providers also receive doses directly from the federal government (e.g., nursing 
+homes, chain pharmacies, military/veterans, American Indian/Indigenous tribes, etc.). 
+Case Background:
+
+
+===== PDF p188 =====
+Shots, shots, shots
+184
+• Suggested framework: questions-based buckets are a differentiator. Framework should 
+also have a bucket for risks/barriers
+Framework Buckets:
+Who is currently vaccinated 
+and still needs to be?
+How will they be vaccinated?
+What are barriers to identifying 
+and getting people vaccinated?
+Young children (12 - 17)
+Young adults (18 - 29)
+Adults (30 - 70)
+Elderly (71 +)
+Static sites
+Pop-up sites & events
+Medical care
+Employers/schools
+Access to vaccine at 
+sites, events, etc.
+Vaccine misinformation 
+and conspiracies
+Lack of vaccine choice
+K-12 schools, parent or 
+guardian education
+Social media, higher 
+ed. institutions
+Incentives and 
+disincentives
+Long-term care 
+partnerships
+Geo-analysis of pop 
+density, vaccine supply
+Targeted social media 
+ads, local influencers
+Offer all vaccines at 
+static and pop-up sites
+Next steps to address barriers?
+Strategies to target populations?
+Host consistent 
+vaccine availability
+Partner with orgs to 
+offer hyperlocal events
+Health providers offer 
+in clinics, ERs, etc.
+Back-to-school vax 
+events, mandates
+Strategies to vaccinate populations?
+Candidate should 
+move forward by 
+asking for demographic 
+data to understand 
+which populations to 
+target vaccination 
+efforts to
+Drive towards 
+population
+
+
+===== PDF p189 =====
+185
+Exhibit 1
+Population by county – 2020 estimates
++
+
+
+===== PDF p190 =====
+Interviewer guidance – Exhibit 1
+• Question 1: 
+–
+Background: The Governor and Director of DHS 
+announced a goal of getting 75% of the state’s 
+population at least one dose of a COVID-19 
+vaccine by Labor Day 2021.
+–
+Question: How many people need to be 
+vaccinated with at least one dose of a COVID-19 
+vaccine for the state to achieve the 75% coverage 
+goal?
+• Interviewer Guidance:
+–
+Best approach: Candidate should round the 
+county-level population numbers, sum the county-
+level populations to get a state-wide population 
+number, and multiply the state number by 75%
+•
+Mohave 217k + Coconino 147k + Navajo 113k + Apache 72k
++ Yavapai 232k + La Paz 22k + Maricopa 4,368k + Gila 55k
++ Yuma 230k + Pima 1,045k + Pinal 455k + Graham 38k + 
+Cochise 131k + Greenlee 10k + Santa Cruz 53k = 7,189,080
+•
+7,189,080 * 75% = ~5,390,000
+–
+Acceptable approach: Candidate rounds each 
+county-level population number, multiplies each by 
+75 percent, and then sums those numbers
+–
+Estimate around 7M x 75% = 5.25M 
+• Basic insights
+–
+Candidate asks what the current number of 
+individuals vaccinated is
+•
+Interviewer: Approximately 3,704,000 
+individuals have received at least one dose, 
+as mentioned in the prompt
+• Second order insights
+–
+Candidate asks if the population numbers include 
+all age groups. 
+•
+Interviewer: Yes, all age groups are included 
+despite the current COVID-19 vaccines only 
+being authorized for the 12+ population
+–
+Candidate asks what the current number of 
+individuals vaccinated is
+•
+Interviewer: Approximately 3.7M individuals 
+have received at least one dose
+•
+Candidate calculates the state’s current 
+vaccine coverage rate of 52% (3.7M / 7.2M)
+•
+Best approach is to find difference (5.2M –
+3.7M ~2M/7M ~ 28%) [25-28% acceptable 
+range of additional population to cover
+•
+Candidate mentions how closing the gap and 
+vaccinating the additional 23 pp. of people to 
+get to 75% goal will be difficult due to vaccine 
+hesitancy, vaccine resistance, etc. 
+186
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p191 =====
+187
+Exhibit 2
+Vaccine coverage (at least 1 dose) and population distribution – by age group
+
+
+===== PDF p192 =====
+188
+Exhibit 3
+Vaccine coverage (at least 1 dose) and number of unvaccinated – by age group
++
+
+
+===== PDF p193 =====
+Interviewer guidance – Exhibit 2 & 3
+• Question 2: 
+–
+Background: The Governor has asked the 
+Director of DHS where to deploy state resources 
+to increase 1st dose vaccination rates. The 
+Director asks for your help to understand where 
+the highest-need counties and age groups are.
+–
+Question: Which 5 age groups and counties 
+would you recommend DHS target (e.g., Santa 
+Cruz’s 45 to 54-year-olds could be one 
+recommendation, if warranted) to achieve the 
+Governor and Director’s vaccination goal?
+• Interviewer Guidance:
+–
+Best approach: Candidate uses the county-level 
+population data provided in Exhibit #1 plus the % 
+of county population by age group data to 
+estimate and identify the number of people 
+vaccinated (or unvaccinated) by age and county
+–
+Potential hypotheses Candidate develops and 
+clearly articulates a hypothesis/approach to 
+identify the 5 recommended counties/ages. 
+•
+Highest numbers of unvaccinated individuals 
+•
+Lowest percent of population with at least 1 dose 
+vs 75% goal
+•
+Highest numbers of unvaccinated 0 to 20-year-
+olds due to the COVID-19 Delta variant’s 
+increased severity among children
+• Basic analysis
+–
+Candidate quickly flags values of interest: 
+•
+Low coverage numbers highlighted in red
+•
+High/low population by age numbers highlighted in dark 
+blue and dark orange
+–
+Candidate does not have a well-formulated 
+hypothesis/approach; starts doing math accurately 
+but without clear outcome in mind
+–
+Candidate flags and conceptualizes why some % 
+population with at least 1 dose values may exceed 
+100%
+•
+Note to Interviewer: This occurs when the denominator, 
+total population by age group, is smaller than the 
+numerator, population with at least 1 dose
+• Second order analysis
+–
+Candidate has a clear hypothesis/approach and 
+structures their analysis to prove/disprove their hyp.
+–
+Candidate uses the data from Exhibit 1 and Exhibit 2 
+to estimate the populations of unvaccinated 
+individuals by county and age group
+–
+Candidate starts by estimating the unvaccinated 
+populations with the 2 largest counties; uses intuition 
+to quickly rule out other counties and age groups
+•
+Interviewer to provide Exhibit 2b either if candidate asks 
+or demonstrates proficiency with calculating unvaccinated 
+population using Exhibit 2a
+189
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p194 =====
+190
+County
+Population
+< 20
+21 – 34
+35 – 44
+45 – 54
+55 – 64
+65+
+Maricopa
+Total Population 
+4,368k
+27% * 4,368k
+= 1,180k
+21% * 4,368k
+= 917k
+13% * 4,368k
+= 568k
+13% * 4,368k
+= 568k
+12% * 4,368k
+= 524k
+15% * 4,368k
+= 655k
+Unvaccinated 
+Population
+1,180k * (1 -
+17%) = 980k
+917k * (1 -
+48%) = 477k
+568k * (1 –
+57%) = 244k
+568k * (1 –
+62%) = 216k
+524k * (1 –
+73%) = 141k
+655k * (1 –
+90%) = 65k
+Pima
+Total Population 
+1,045k
+24% * 1,045k 
+= 251k
+21% * 1,045k 
+= 219k
+11% * 1,045k 
+= 115k
+11% * 1,045k 
+= 115k
+12% * 1,045k 
+= 125k
+20% * 1,045k 
+= 209k
+Unvaccinated 
+Population
+251k * (1 –
+21%) = 198k
+219k * (1 –
+54%) = 101k
+115k * (1 –
+66%) = 39k
+115k * (1 –
+69%) = 36k
+125k * (1 –
+75%) = 31k
+209k * (1 –
+94%) = 13k
+For example, if candidate’s hypothesis/approach is to find the largest number of 
+unvaccinated individuals by age group and county, the 5 cells highlighted above 
+are the age groups and counties they should identify.
+Candidate should be evaluated based on their structured 
+hypothesis/approach and ability to do quick mental math with uncommon 
+percentages and base values.
+Interviewer guidance – Exhibit 2 –
+sample 
+
+
+===== PDF p195 =====
+Interviewer guidance - Brainstorming
+The Director of DHS and 
+Governor agree with 
+your recommended age 
+groups and counties to 
+target vaccination 
+initiatives. How should 
+the Director increase 1st
+dose vaccinations for 
+these populations?
+• Analysis of brainstorming to have at least 2 buckets. Sample 
+answer shown below. The candidate should conclude their 
+brainstorm by moving on to the conclusion/recommendation, 
+including risks to increasing vaccination rates for the targeted 
+populations.   
+191
+Prompt:
+Analysis:
+Ensuring appropriate 
+supply of vaccines
+Inducing demand for 
+vaccines
+•
+Offer vaccines in locations:
+–
+K-12 schools
+–
+Via Community/faith-based 
+organizations (churches, YMCAs...)
+–
+Chain/local pharmacies (CVS 
+Walgreens, Wal-Mart, Albertsons)
+–
+On-site at large employers
+•
+Availability of different vaccines:
+–
+Vaccine choice – all three
+–
+Pfizer specifically for 12 to 17 pop.
+•
+Marketing & awareness:
+–
+Vaccine events
+–
+Public places (groceries, transit 
+locations, restaurants)
+–
+Targeted social media (geofencing)
+–
+Doctors’ offices, urgent cares, ERs
+•
+Incentives/disincentives
+–
+Lottery system (like Ohio)
+–
+Discounted/free tuition
+–
+Unrestricted gift cards
+–
+“Passports” – mandate to access 
+public venues
+
+
+===== PDF p196 =====
+Interviewer guidance - Conclusion
+192
+• The Governor is hosting a televised press conference in two hours to update the 
+public on the targeted vaccination efforts. What is your final recommendation?
+Recommendation 
+• Risks: 
+–
+Vaccine misinformation and politicization
+–
+No emergency use authorization or full approval  for children < 12 yrs; only one vaccine for children 12 to 17
+–
+Focusing on the recommended age groups and counties may not be most equitable solution given socio-
+economic and racial/ethnic factors
+–
+Declining effectiveness of vaccines over time; need to plan for booster shots (3rd doses of mRNA vaccines, 
+2nd doses for J&J)
+• Next Steps: 
+–
+Booster shot planning for vulnerable populations (e.g., front-line health care workers, elderly, 
+immunocompromised, etc.)
+–
+Booster shot planning for all eligible adults/children
+–
+Obtain race/ethnicity data to launch targeted initiatives and ensure equity in vaccine access + distribution
+–
+Engage local governmental officials, community leaders, medical providers, and influencers to boost vaccine 
+awareness and access
+Risks and Next Steps:
+This is a very difficult case and meant to pressure test candidates to remain calm under stressful 
+situations  

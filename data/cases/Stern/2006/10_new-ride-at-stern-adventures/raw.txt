@@ -1,0 +1,86 @@
+===== PDF p44 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+40
+New Ride at Stern Adventures 
+ 
+Opening 
+The Business Planning group at Stern Adventures, a leading amusement 
+park located in Orlando that attracts 50 million people annually, must 
+recommend to its CEO whether she should sign-off on a request to build a 
+new ride for $300 million. Guests purchase a single ticket to experience all of 
+the park’s attractions. Currently, the market cannot support a rise in that 
+ticket price as a means to cover the investment expense. Should Business 
+Planning recommend that the company’s CEO sign-off on the capital 
+request? 
+ 
+Background 
+Provide the following information if requested: 
+ 
+Admission revenue –Average $30 per person 
+Food & Beverage revenue – Average $20 per person 
+Visitors – 50 million / year 
+Discount Rate – 10%  
+This case will be solved on the revenue (not cost) side of the equation. Steer 
+away from cost questions. 
+ 
+Price (Raising the admission/ticket price) – Since the Orlando theme park 
+market is highly competitive, Stern Adventures cannot raise the admission 
+price. 
+ 
+Promotion – In the company’s 50 year history, the park has opened many 
+new rides. On average, Stern Adventures sees a 500,000 sustained increase 
+in attendance (number of additional tickets sold) when opening rides of this 
+magnitude. 
+ 
+Discount rate – While $300 million is a large investment, the interviewee 
+should recognize that the half million additional people Stern Adventures 
+expects will visit the park each year is pretty insignificant when the park 
+already attracts 50 million. Disney has used a discount rate for its theme 
+parks business of 10%.  
+ 
+Life of ride – The attraction will be built to the highest specifications and 
+should last more than 100 years. Therefore, the investment can be treated 
+as a perpetuity. For simplicity ignore any capital maintenance issues.  
+ 
+ 
+
+
+===== PDF p45 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+41
+Answer 
+The solution: 
+1. 500,000 additional guests x ($30 admission + $20 food & beverage 
+revenue) = $25,000,000 
+2. PV of perpetuity = $25,000,000/10% = $250,000,000 
+3. NPV = $300 million (investment) - $250 million revenue = ($50 
+million) NPV 
+ 
+Based on this negative NPV alone, Stern Adventures should not invest in this 
+project. However, ask the interviewee if he/she can think of any additional 
+reasons that an amusement park might make in justifying a project that 
+appears will generate a $50 million loss (strategic benefits). 
+ 
+These might include: 
+Line reduction – Lines at existing attractions will become shorter with an 
+increased number of guest opportunities. If executed properly, this could 
+increase guest satisfaction and they will then recommend it to others and/or 
+encourage a repeat trip. 
+ 
+Extended stay – By giving guests more “things to do” while on property, 
+should encourage guests to purchase additional meals and merchandise. 
+ 
+Wear-out – Guests need an incentive to return to the park. Building a new, 
+highly visible attraction could encourage guests to visit the park more 
+frequently. 
+ 

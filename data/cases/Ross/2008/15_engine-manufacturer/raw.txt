@@ -1,0 +1,96 @@
+===== PDF p55 =====
+Case 15:Engine Manufacturer                     -medium-                   Accenture, Round 2 
+50 
+ 
+ (Source: Case Interview from Accenture, Round 2) 
+ 
+Context 
+The client is an engine manufacturer that designs and builds engines for large commercial trucks. They 
+have designed a new engine with significant new technology and significant new content. It will meet 
+all federal guidelines for at least 10 years. 
+The client has spent significant R&D money on this engine and expects to be able to charge a premium 
+price to recoup the investment. However, the client’s largest customer, representing 60% of all sales, 
+has been complaining about quality. 
+Our research has shown that although our client promised their customers in terms of soot emissions 
+less than 3k ppm, but they are currently seeing 20k ppm. (ppm=parts per million) 
+What is wrong and what should they do? 
+ 
+ 
+Ok, so in order to identify the problem we need to assess all the stages that the new product is going 
+through from the design to the moment it is ready to be sold to the customers.   
+- 
+We first need to understand what is changed in the design vs. the last model and if the new 
+design is meeting the customer requirements.  
+- 
+Then we need to look at the manufacturing process in terms of technology used, labor, if there 
+is something that was needed to be changed and was not.  
+- 
+We also need to investigate the parts supply for the product and understand if anything 
+changed in regards to the components that we are using for the new engine. 
+- 
+ Last but not least I would like to see the main symptoms that customers claimed and compare 
+them with the previous engine. 
+ 
+ 
+Information provided upon request: 
+ 
+Product Design: Design process was unchanged for this engine. All testing was done the same as with 
+historical products.  However, the FMEA analysis (Failure, Modes, and Effects Analysis -Used to 
+identify and assess the ramifications of possible product defects) was skimped on.  The significant new 
+technological components of the engine were developed according to the client’s standard process. 
+ 
+Manufacturing: Plant uses a highly skilled and educated workforce.  There is no learning curve 
+associated with the assembly of this product. 
+ 
+Service: Client utilizes field technicians at the customer site.  They are the ones reporting the warranty 
+data to the client.  They are well educated on the product. 
+ 
+Sub-assembly procurement: Traditionally, client used few suppliers who delivered large sub-
+assemblies.  Now, in an effort to save costs, they have sourced many more suppliers to get the best 
+price for each component and are choosing to do more of the assembly themselves.  However, all of 
+these suppliers are delivering products that meet the specifications delivered by engineering. 
+ 
+Defect Details:
+ 
+ See next slide for Pareto detailing top warranty issues. 
+Customers: Customers are concern regarding the quality of emissions. 
+
+
+===== PDF p56 =====
+Case 15: Engine Manufacturer                    -medium-                   Accenture, Round 2 
+51 
+ 
+Chart provided upon request: 
+ 
+ 
+From the information provided it seems that there is nothing wrong with the new technology. 
+ 
+Interviewer: Great. So where do you think the problem comes from? 
+ 
+I believe that one major change that the company made is in the base of suppliers, going from a limited 
+number of suppliers to a bigger number of suppliers. Is the fact that they have more suppliers and are 
+assembling the components in house a cause of the claims that we see in the warranty claim chart? 
+ 
+Interviewer: Yes. You are right. Although each supplier is delivering to specification, there are 
+tolerances in these specifications.  
+• 
+Since the client is accustomed to specifying sub-assemblies, the tolerances were not 
+tight enough for all of the individual components 
+• 
+Therefore, the stack-up of tolerances causes the parts to have poor fit resulting in 
+leaks and lost parts  
+ 
+Ok. So the root cause for the problems is the stack-up of tolerances. 
+ 
+(the interviewer needs to lead the candidate to identify this problem which is the stack-up of 
+tolerances; all the other information given initially is a red herring meant to throw the interviewee off; 
+after the interviewee has identified the problem, no matter how much help he/she gets, they need to 
+come up with a list of recommendations and their risks on how to solve the problem) 
+ 
+Interviewer: So, what do you recommend them to do now? 
+ 
+The company can reduce its warranty claims by increasing tolerances on procured parts, increasing end-
+product testing, or revising procurement agreement to order sub-assemblies. The first opportunity is 
+more expensive but we could look at ways to minimize costs. The second will increase mfg time but 
+would definitely decrease our warranty claims.  The third option is more expensive but we could 
+perform a cost-benefit analysis between the 1st and 3rd options.

@@ -1,0 +1,290 @@
+===== PDF p110 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+By CB3
+Industry: Aerospace
+Operations
+Commercialization
+Easy
+Medium
+Hard
+106
+
+
+===== PDF p111 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+PROMPT
+Our client, AirChief, is a small industrial
+company in Kansas, USA that manufactures
+aircraft maintenance and repair equipment.
+Their clients include (1) commercial airlines
+and
+(2)
+maintenance
+companies
+which
+airlines outsource aircraft maintenance to.
+AirChief
+has
+developed
+a
+proprietary
+chemical technology that allows airlines to
+repair lightning strike damage much faster
+than they currently can. They want to know
+whether they should commercialize said
+technology.
+CLARIFYING POINTS (if asked) 
+• AirChief is heavily vertically integrated and intends to manufacture the product themselves.
+• AirChief is one of two suppliers that sells the vast majority of specialized equipment for repairing aircraft,
+including the leading current lightning strike repair solution (although all current solutions are vastly similar)
+• AirChief’s goal is to achieve a profit by selling the technology they have developed.
+• AirChief operates solely in the United States.
+• Lightning strike repair products are a small (think 4-6% revenue) part of their overall catalog. As a result
+they are willing to wait a long time (5+ years) to see returns from a truly revolutionary product in the space
+CASE GUIDANCE
+The heart of this case is a rigorous test of the candidate’s ability to balance precise quantitative analysis with
+pure business sense and logical reasoning. Successful candidates will demonstrate not only an ability to
+perform quant, but also to understand what it drives.
+This case is designed to be primarily interviewee-led. Given the prompt and any clarifying points, the
+interviewee shall prioritize areas of enquiry.
+Candidates will need to ask questions to understand the dynamics of aircraft lightning strike damage and
+the current and new proposed technologies, rather than making assumptions about a niche industry.
+107
+Industry: Aerospace
+Operations
+Commercialization
+Easy
+Medium
+Hard
+
+
+===== PDF p112 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+STRUCTURE
+108
+Easy
+Medium
+Hard
+STRUCTURE GUIDANCE
+A suitable structure should include, but is not limited to, the following elements:
+•
+Market size: How large is the market that this technology could serve – how much lightning strike repair activity occurs?
+•
+Value proposition to customer/pricing: How compelling is the technology to the end customers and what impact would it have on them? How
+much would customers be prepared to pay if the technology was available to them?
+•
+Cost to AirChief: What does AirChief have to spend on in order to manufacture and sell the technology?
+•
+Risks: Could this cannibalize sales of other AirChief products? What are some competitive responses that should be anticipated?
+The structure could be in the format of Revenues and Costs to AirChief, incorporating the points above into either the “Revenue” or “Cost” buckets.
+Other structures that demonstrate a clear grasp of the problem space are also acceptable.
+The overall approach the candidate’s structure should “set up” is: evaluating the implications the technology has on the customer, and seeing whether 
+that is something the company would be able to capitalize on.
+After the candidate presents their structure, allow them to go to any of the above steps, but ask why they have selected that step to do first
+(later on, interviewer may direct the candidate to focus on market size and value proposition if they do not self-initiate those)
+Industry: Aerospace
+Operations
+Commercialization
+
+
+===== PDF p113 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+TECHNICAL INFORMATION
+Easy
+Medium
+Hard
+CURRENT REPAIR
+At this point or later in the case, the candidate will need information on the nature of the new technology as well as the current lightning strike repair
+process. Give the following information to the candidate if/when it is asked for.
+Note: lightning strikes are a routine occurrence in commercial flights and typically do not pose a danger to aircraft or passengers.
+NEW TECHNOLOGY
+Lightning strikes typically cause small burns on the fuselage of an aircraft 
+about the diameter of a shot glass.
+As part of the repair process, the damaged area must be placed under 
+vacuum pressure and heated according to a set temperature/time curve 
+to precisely activate a heat-sensitive adhesive.
+Currently, technicians must set up and program a complex heating device 
+and microcontroller to control the heating adequately, in addition to 
+making a one-use vacuum bag. Both are time-consuming processes.
+AirChief’s innovation builds on the current repair with a premade, 
+reusable vacuum bag containing a pouch with two chemicals that, when 
+mixed, consistently generates the exact heating the adhesive requires.
+With AirChief’s device, technicians simply install the premade vacuum 
+bag over the repair, break a seal within the pouch to mix the chemicals –
+activating their exothermic* reaction – and walk away. 
+If the adhesive’s temperature/time curve is not met, the repair must be 
+re-done, so the predictability a chemical reaction gives is a major draw.
+*Exothermic reaction: a reaction that generates heat.
+109
+Industry: Aerospace
+Operations
+Commercialization
+
+
+===== PDF p114 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+MARKET SIZING
+110
+Easy
+Medium
+Hard
+How would you determine the number of repairs that this technology could benefit?
+DATA
+SOLUTION
+Ask the candidate what components they would need to estimate the
+market size. Then, the following may be provided:
+•
+3,000 commercial flights occur per day in the US
+•
+0.1% of those flights get struck by lightning
+•
+Aircraft are designed so that lightning travels through them and
+continues to the ground; this is their protection mechanism.
+On 1/3 of aircraft struck by lightning, the strike is strong enough that
+both the entry and exit points are burned (otherwise, only the entry
+point is burned)
+•
+We need to know the number of repairs per year
+Number of lightning strikes per day:
+3,000 flights * 0.1% struck by lightning = 3 lightning strikes per day
+1/3 of strikes result in both entry and exit burns:
+3 lightning strikes per day * 1/3 = 1 “double burn” strike per day
+2/ 3 of strikes result in only entry burn:
+3 lightning strikes per day * 2/3 = 2 “single burn” strikes per day
+Total burns caused by lightning per day:
+1 “double burn” + 2 “single burns” = 4 burns caused per day
+Total lightning strike burns that must be repaired per year:
+4 per day * 350 days (approximation) = 1,400 repairs needed per year
+Industry: Aerospace
+Operations
+Commercialization
+
+
+===== PDF p115 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+VALUE PROPOSITION TO CUSTOMER
+111
+Easy
+Medium
+Hard
+Why may an airline prefer AirChief’s new technology to the current process?
+The candidate should brainstorm reasons it may be compelling to airlines. Possible responses:
+Saves airlines repair time
+Allows airlines to avoid cost 
+of vacuum bag/heating 
+equipment
+More repeatable and 
+reliable than current 
+process
+More environmentally 
+friendly as it’s reusable 
+rather than one-use
+Saves technician labor cost
+DATA
+SOLUTION
+US airlines typically fly their planes from 6am – midnight (6:00-24:00) daily.
+Lightning strike repairs are typically done overnight; airlines are allowed to fly for up to
+24 hours before repairing damage.
+In internal testing, AirChief technicians who take 8 hours to perform the current repair
+process manage to complete repairs in 5 hours using a prototype of the new tech.
+The typical airplane used in this market is a Boeing 737/Airbus A320, which seats 150.
+Across flights of all durations, airplane tickets average $50/flight hour
+US airlines achieve a load factor of 80% (i.e. flights are 80% full) and a 7.5% margin on
+ticket sales
+“The main savings is in avoidance of missed ticket revenue. The new tech would 
+allow airlines to fly a damaged airplane for 2 more hours than they would have 
+been able to before, at either the beginning or end of a day. 
+I need to find out how much these 2 extra hours are worth to the airline”
+Number of passengers on a plane:
+150 seats * 80% load factor = 120 passengers per flight
+Revenue generated by 2 hours of flying passengers:
+120 passengers per flight * $50/ticket/flight hour * 2 hrs. = $12,000 in ticket sales
+Margin airline collects from the generated revenue:
+$12,000 of ticket sales * 7.5% margin on tickets = $900 in profit
+Following brainstorm, direct candidate to focus on this point. 
+“Could we quantify the value of the time saved? How?”
+Industry: Aerospace
+Operations
+Commercialization
+
+
+===== PDF p116 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+COSTS
+112
+Easy
+Medium
+Hard
+The following are costs that can be provided to the candidate if they ask.
+•
+AirChief estimates $250,000 in fixed costs are needed to get regulatory approvals and purchase the manufacturing equipment needed to begin 
+producing the new product.
+•
+Once the production line is up and running, unit production costs are estimated to be $1,200/unit (one unit repairs one instance of damage) and 
+there are no fixed production costs. Also, unit costs do not scale. 
+If the candidate has done the market sizing and value proposition analysis already, they should identify at this point that the business case is negative 
+(if not, direct them to do those steps)
+Industry: Aerospace
+Operations
+Commercialization
+
+
+===== PDF p117 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+BRAINSTORMING QUESTION
+113
+Easy
+Medium
+Hard
+Can you think of any reasons AirChief may be able to command a higher price, that our analysis thus far hasn’t covered?
+If needed, interviewer should eventually cue candidate to consider the question from the perspective of the airline, e.g.:
+“We’ve determined that the new tech lets airlines avoid removing a damaged plane from service for 2 hours. From an airline’s point of view, what 
+happens when an airplane is unexpectedly unavailable for 2 hours?”
+Candidate should identify that such a disruption would send a shock through a tightly coordinated flight network, causing missed transfers and 
+necessitating rerouting of passengers as well as potential financial compensation for cancelled tickets, etc. Such events also negatively impact the 
+airline’s brand reputation.
+Follow-up question: “Qualitatively, how much do you think the cost of this disruption is compared to the other costs we’ve discussed up to now?”
+Industry: Aerospace
+Operations
+Commercialization
+
+
+===== PDF p118 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Thunder, Lightning, Strike
+RECOMMENDATION QUESTION
+114
+Easy
+Medium
+Hard
+SAMPLE RECOMMENDATION
+The AirChief executive team is about to return from attending a new plant opening in Alabama. They will be looking to know whether they should
+set aside space in the new plant for this product. Could you prepare them a recommendation?
+We recommend commercializing the chemical heating vacuum bag for lightning strike repairs. After studying airlines’ operations and how lighting
+strikes affect them today, we believe airlines would be willing to pay a sum far exceeding the product’s cost. The 3 hours of repair time the product
+saves allows airlines to avoid a disruption to their flight schedules altogether, as they could fully repair lightning strikes within regularly scheduled
+overnight pauses, unlike before.
+We have found the market size in lightning strikes occurring per year, and calculated the product’s impact on airline revenue per use. In order to
+determine a fair price for the product, more analysis is now needed on the exact cost of airline flight disruptions, and we are prepared to support you
+with this. However, given how attractive it is for airlines to be able to eliminate schedule disruptions due to unexpected lightning strikes, it is clearly
+worth bringing this product to light.
+Industry: Aerospace
+Operations
+Commercialization

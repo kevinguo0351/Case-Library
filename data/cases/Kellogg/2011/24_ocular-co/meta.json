@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2011_24_ocular-co",
+  "school": "Kellogg",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2011.pdf",
+  "idx": 24,
+  "case_name": "Ocular Co.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Healthcare / Medical Devices",
+  "difficulty": null,
+  "pdf_page_start": 169,
+  "pdf_page_end": 175,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    170,
+    171,
+    173,
+    174,
+    175
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p170.png",
+    "exhibits/exhibit_p171.png",
+    "exhibits/exhibit_p173.png",
+    "exhibits/exhibit_p174.png",
+    "exhibits/exhibit_p175.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2011\\24_ocular-co"
+}

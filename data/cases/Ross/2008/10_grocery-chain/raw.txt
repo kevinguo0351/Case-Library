@@ -1,0 +1,181 @@
+===== PDF p41 =====
+Case 10:Grocery Chain                  -medium-                McKinsey&Company, Round 1 
+36 
+ 
+ (Source: Case Interview from McKinsey&Company, Round 1) 
+ 
+Context: 
+ 
+Our client is a grocery chain having 200 stores spread all over US. They have been enjoying good 
+profits and great results, though in the last 2 years they have seen a slowdown in the growth of the 
+market share and the profits and same store sales have gone down. 
+As a matter of fact, Wal-Mart has opened a store exactly 2 years ago and 3 more in the past two years 
+in the client geography. 
+Our client also started, 5 years ago, to open smaller stores closer to where there is a high density of 
+people. 
+We have the task to help them overcome their current issues. 
+ 
+Interviewer: What can be the reasons behind their low performance lately? 
+ 
+Elements to be discussed in the brainstorming session: 
+ 
+Market share decrease can be coming from several reasons:  
+- 
+decrease in revenues due to customers spending less in our store and more in other stores,  
+- 
+customers moving from our stores to another stores,  
+- 
+an increase in the market size that is not captured by our client 
+ 
+Profit decrease can come either from revenue decrease or from cost increase 
+Decreased revenues due to: 
+- 
+Competition: need to assess the entry of new competitors of significant investments from the 
+existing ones that might have stolen the consumers from our stores 
+- 
+Change in consumer needs that were not spotted by ous client and have affected the traffic in 
+the store(e.g.: focus on organic products, need for additional services to be provided by the 
+store, etc) 
+- 
+Change in pricing(specifically increase ) that might have decrease the spending of the consumers 
+or determined them to go to another competitor 
+- 
+Change in the assortment of the store that might have determined some loyal customers to look 
+for those products in another place 
+- 
+Change in the promotions that the client used to have(e.g. reduction of promotions, elimination 
+of loyalty programs, etc) 
+Increased costs due to: 
+- 
+Opening of new smaller stores have a lot bigger costs per unit sold than the old stores 
+- 
+A  reduction in prices that provides lower profitability 
+- 
+A change in the mix of products sold ( e.g. now the customer is selling more low margin 
+products) 
+ 
+Interviewer: How can they address the threat of Wal-Mart and the other competitors? 
+Information to be provided upon request: 
+• 
+Wal-Mart carries 75% of the grocery items our client has at much lower prices 
+• 
+Studies have showed that consumers perceive the prices in our client store as being higher 
+than both the ones in Wal-Mart and the ones in another close competitor 
+
+
+===== PDF p42 =====
+Case 10: Grocery Chain                - medium-                McKinsey&Company, Round 1 
+37 
+ 
+• 
+The reality is that they are 20% higher than the ones in Wal-Mart and equal to the ones in the 
+other competitor 
+I do not think the Wal-Mart is a real threat based on the number of stores that they have yet (3 as 
+opposed to 200 of our client). But Wal-Mart can become a real threat once they expand. 
+Then it is very important to differentiate versus Wal-Mart. Our client will not be able to compete on low 
+prices with Wal-Mart but they can perform a market research and identify other needs that customers 
+have and Wal-Mart cannot provide and work on those attributes. 
+ 
+As for the other competitors, our client has to work on building its pricing image. There is clearly a 
+problem coming from the fact that they are perceived more expensive than the next competitor. Maybe 
+their prices are not following a good pricing strategy. They should probably conduct a price sensitiveness 
+analysis in order to properly identify the products that should have low prices and the ones that can 
+carry higher margins. 
+ 
+ 
+Interviewer: As a strategy to overcome their problems they decided to reduce the prices by 15%. 
+Based on the information below how many new stores should they open in the next 2 years to break 
+even? 
+ 
+Sales / store                                         $40M 
+Stores older than 5 years                      160 
+Stores opened in the last 5 years           40 
+Profit margin per store                         30% 
+ 
+The sales/store for the stores opened in the last 5 years is lower than the sales from the older stores. 
+For the simplicity of the calculation we consider the stores equal.  
+(This information should help the candidate assess the validity of the price reduction) 
+ 
+Solution: 
+ 
+Sales / store after the price decrease  
+                                   = 85% * $40M = $34M 
+Profit / store: 
+Before price decrease: $12M 
+After the price decrease: $10.2M 
+⇒ Profit loss = $1.8M 
+ 
+Total profit loss = $1.8M * 200 stores = $360M 
+ 
+No of stores to open = $360M / $10.2 =~ 35 
+(The number is not feasible as they only opened 40 stores in the last 5 years and these stores are 
+supposed to have fewer revenues than an average store) 
+ 
+ 
+ 
+
+
+===== PDF p43 =====
+Case 10: Grocery Chain                - medium-                McKinsey&Company, Round 1 
+38 
+ 
+ 
+Interviewer: They have performed another study to see the customer perception over a series of 
+factors. Based on this information, what do you think they should do? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A good candidate will recognize that the closeness to home is the factor that they can work on as 
+our client is a better performer than its competitors. 
+It looks like on the fresh/organic assortment it has an advantage but a good candidate will recognize 
+that this advantage is easy to be copied by competitors 
+ 
+ 
+This should constitute a base for a recommendation for the client. 
+ 
+Example of recommendation: 
+ 
+Based on the findings so far, I think that for our client is critical to start concentrating on the attributes 
+where it has an advantage versus competition and that are also important to consumers (closeness to 
+home) and build its marketing campaign and future communication strategy on those identified 
+strengths. Another current advantage is the fresh/organic assortment but because it can be easily 
+copied, it will be difficult for the client to differentiate here. The risk is in the short term as building a 
+new brand image is not something that can be achieved very quickly but it will be critical to help them 
+recover the lost market share. 
+ 
+0
+20
+40
+60
+80
+100
+120
+Price
+Promotions
+Close to home
+Variety of products
+Fresh products
+Organic products
+Customer service
+Quickness
+Factor tested
+Competitor
+WalMart
+Our client

@@ -1,0 +1,24 @@
+{
+  "case_id": "Wharton_2010_08_candy-manufacturing",
+  "school": "Wharton",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2010.pdf",
+  "idx": 8,
+  "case_name": "Candy Manufacturing",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 89,
+  "pdf_page_end": 96,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    93,
+    94
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p093.png",
+    "exhibits/exhibit_p094.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2010\\08_candy-manufacturing"
+}

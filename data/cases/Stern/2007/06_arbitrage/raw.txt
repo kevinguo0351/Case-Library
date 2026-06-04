@@ -1,0 +1,52 @@
+===== PDF p21 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+6. Arbitrage!! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Type of Case: Labor and Staffing Optimization 
+ 
+Opening 
+Your client works in financial services in the arbitrage business, which is quite lucrative. It has 
+no profitability problem and no competition. The company has 4 senior analysts, 3 junior 
+analysts, and 1 admin. The activities in which they are involved include the initial stage, which 
+comprises 20% of the work, the core stage which is 70% of the work, and the recommendation 
+which is the remaining 10% of the work. These percentages are constant. How many junior 
+analysts need to be added to free up capacity among the senior analysts, so they can focus on 
+selling additional work? 
+ 
+Background (Provide the following information if requested by interviewee.) 
+The interviewee should inquire about how much of the three activities the three staff persons 
+are engaged in. Senior Analysts do 60% initial, 20% core, and 80% recommendations. Junior 
+analysts do 30% initial, 70% core, and 20% recommendations. Admin does 10% initial and 
+10% core, with no recommendations. 
+ 
+Analysis (Calculations to be completed by interviewee.) 
+If you multiply the percentages that the junior analysts are doing by the breakout of the 
+activities, it looks like this:  
+ 
+30% of 20% = 6% 
+70% of 70% = 49% 
+20% of 10% = 2%  
+ 
+Therefore 6 + 49 + 2 = 57% is being done by the junior analysts. 
+ 
+Recommended Conclusion 
+There are only 3 junior analysts. Currently each is doing 57/3 or 19% of the total work for the 
+firm.  
+ 
+How many junior analysts need to be added so that they are working at 100% capacity?  
+100/19 = approx 5. There are currently 3 analysts. 5 - 3 = 2 analysts need to be added.  
+ 
+Now that there is a total of five analysts, what is the new constraint in getting the work done?  
+ 
+Time. 
+16 

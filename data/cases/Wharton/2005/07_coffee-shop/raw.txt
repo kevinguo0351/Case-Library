@@ -1,0 +1,91 @@
+===== PDF p37 =====
+Case 7: Coffee Shop 
+Bain, 1st Round 
+ 
+The Problem 
+ 
+A friend asked me if I wanted to buy his coffee shop for $100,000. Do you think I should 
+do it? 
+ 
+Information Gathering  
+ 
+Read this information well before you give the case. Share this information in each bullet 
+only if the candidate asks for it in a clear and deliberate way.  
+ 
+Location: The coffee shop is in Vail, Colorado 
+ 
+Products/Prices:  
+Cup of coffee, $4.00 
+Bottled Water, $2.00 
+Pastries, $3.00 
+ 
+Variable Cost: 
+All products have a 50% margin 
+ 
+Customers:  
+The shop serves mostly locals, not tourists, so demand is consistent throughout the year 
+ 
+Other Costs: 
+Rent was $500 per month 
+Wages (for 2 employees) were $8.00 per hour. 
+The shop is open 12 hours a day, six days a week 
+ 
+Tell the candidate that he can assume that the coffee shop will bring in consistent profits. 
+ 
+Analysis 
+ 
+ 
+This is a valuation question. So to get the value of the coffee shop we need first to get the 
+profitability. 
+ 
+Revenues 
+ 
+Estimate market size. 
+ 
+Assume that the coffee shop gets 10 customers per hour in slow hour and 20 customers 
+per hour in a busy hour. The first and last 2 hours of the day are busy hours. So the coffee 
+shop gets 20x4 + 10x8 = 160 customers/day.  
+
+
+===== PDF p38 =====
+ 
+If we assume all the hours as busy hours on Saturday, then we have 20x12=240 hours on 
+Saturday. 
+ 
+Number of customers / week = 160 x 5 + 240 x 1 = 1040 
+Number of customers / year = 1040 x 50 = 50,200 
+ 
+Assume 60% of customers order coffee, 30% order pastry, and 10% order a bottle of 
+water, then the spend is: 
+ 
+50,000 x 60% x 4 + 50,000 x 30% x 3 + 50,000 x 10% x 2 = $175,000 
+ 
+Fixed Costs 
+ 
+Rent = 500 x 12 = $6,000 
+Wages = $8 x 12 x 6 x 50 = $30,000 
+ 
+We can also make assumptions about utilities and insurance. 
+ 
+Profits 
+ 
+Profits = 175,000 x 50% - 36,000 = $52,500 
+ 
+Assume a 40% tax rate: 
+ 
+Profits after tax = 52,500 x (1-40%) = $31,500 
+ 
+Valuation 
+ 
+If we assume that the coffee shop is in operation for 5 years and we use a 10% WACC, 
+then its value would be: 
+ 
+Value = 31,500 + 31,500/ 1.1 + 31,500/1.1^2 + 31,500/1.1^3 + 31,500/1.1^4 = $131,000 
+ 
+Conclusion 
+ 
+As long as the sales would be consistent for the rest of the 5 years, it would be profitable 
+to buy the coffee shop. Further analysis could be done on the management experience 
+and the competition to ensure that sales would be consistent. 
+ 
+ 

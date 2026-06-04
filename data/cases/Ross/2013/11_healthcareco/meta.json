@@ -1,0 +1,40 @@
+{
+  "case_id": "Ross_2013_11_healthcareco",
+  "school": "Ross",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2013.pdf",
+  "idx": 11,
+  "case_name": "HealthCareCo",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": "Hard",
+  "pdf_page_start": 142,
+  "pdf_page_end": 155,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p145.png",
+    "exhibits/exhibit_p146.png",
+    "exhibits/exhibit_p147.png",
+    "exhibits/exhibit_p148.png",
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png",
+    "exhibits/exhibit_p151.png",
+    "exhibits/exhibit_p152.png",
+    "exhibits/exhibit_p153.png",
+    "exhibits/exhibit_p154.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2013\\11_healthcareco"
+}

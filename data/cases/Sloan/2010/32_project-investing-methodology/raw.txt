@@ -1,0 +1,165 @@
+===== PDF p103 =====
+. '. 
+32.) Project Investing Methodology (Booz, Round 1) 
+Stem: Our client is a health insurance company. In 2007 (two years ago), we helped them 
+develop their strategic plan, which would govern the direction of the company over the next five 
+years. The client has explained the strategy to the individual business units, and asked the units 
+to submit ideas for new initiatives that would support the strategy. The business units have 
+submitted approximately 80 initiatives all together. It is now 2009 and the economy is in a 
+recession. Due to the increased uncertainty in the market and the difficulty in accessing capital, 
+our client will have to be more selective with' the initiatives that it selects to move forward. The 
+client has hired our firm to help them develop the criteria and methodology to enable them to 
+prioritize the initiatives so that they can move forward with implementation as soon as possible. 
+Phase 1: Case Facts 
+Behind the Scenes: Let the candidate layout a framework and brainstorm what criteria he/she 
+would consider in developing a prioritization schedule. Ideas might include: strategic fit, 
+financial value, ease of implementation (i.e. low hanging fruit), growth opportunities etc . 
+The interviewer should reveal the following case information when asked a relevant question: 
+The strategic plan included 3 main goals for the insurance company: 
+1. Increasing scale of the business 
+a. Increasing sales volume of insurance plans. 
+b. Improving the efficiency of the administrative functions and overall organization 
+enabling them to handle larger workloads. 
+2. Increasing customer involvement in insurance plan selection 
+a. Creating programs/tools to enable customers to take more ownership of plan selection 
+(note: this is industry trend that our client doesn't want to be left behind). 
+3. Rebuilding the brand 
+a. Our client is viewed as a traditional brand, and they would like to unveil themselves 
+as a 21 st century healthcare insurance provider. 
+b. Attract more new customers. 
+• 
+All three of these goals are equally important. 
+• 
+An i~itiative can support more than one goal. 
+• 
+The client wants diversification within all the initiatives chosen, so that there will be an equal 
+distribution of initiatives supporting the three goals. 
+• 
+Due to the difficult economic situation, it is important to the client to see results/impact of 
+initiatives as quickly as possible. 
+• 
+There is a steering committee that understands the work of the individual business units and 
+will impartially evaluate the effectiveness of each initiative in addressing the strategic goals. 
+.--..: Managemenf 
+1111111111 Consulting 
+~~~~,I~::.~ Club 
+2010-2011 1st Year Case Book 
+149 
+
+
+===== PDF p104 =====
+• 
+The company prides itself on being very data driven and is looking for as quantitative a 
+measure as possible. 
+Phase 2: Developing a Ranking System 
+Interviewer: So~ the steering committee has gone ahead and ranked the initiatives based on their 
+fit with the strategic goals. Chart A below represents a sample ranking as determined by the 
+committee, with only 4 initiatives (instead of all 80) and 2 goals (instead of all 3). The ranking 
+applies a higher number to a better fit with the goal (e.g. rank of 4 denotes best fit with particular 
+goal; rank of 1 denotes poorest fit with particular goal). 
+Chart A: 
+Rank 
+Initiative 
+Goall 
+Goal 2 
+A 
+1 
+N/A 
+B 
+2 
+N/A 
+C 
+3 
+2 
+D 
+4 
+1 
+Possible Answers: The candidate should suggest that a weighted average of the ranks be taken to 
+derive an overall score. Because all of the goals are equally important, the weighting should take 
+a 50% - 50% split between the two goals. If an initiative doesn't address a goal (as in the two 
+N/A's), that rank should be considered O. 
+Key Insight: Since the ranking system assigns the highest number to the p~oject with the best fit 
+with a particular goal, the ranks for Goal 2 need to be equalized with Goal 1. In this case, the "2" 
+and "I" for Goal 2 need to become "4" and "3" respectively. 
+After taking the weighted average, options "C" and "D" tie at 3.5, suggesting the requirement for 
+further analysis in order to prioritize the initiatives. The chart below summarizes the scores 
+(don't show to candidate). 
+Goal 
+Goal 
+Initiative 
+1 
+2 
+A 
+1 
+N/A 
+B 
+2 
+N/A 
+C 
+3 
+2 
+D 
+4 
+1 
+Phase 3: Financial Analysis 
+....... Management 
+1111111111 Consulting 
+~~~~~::.~ Club 
+Rank 
+Adj. Goal 
+2 
+Overall Score 
+0 
+0.5 
+0 
+1 
+4 
+3.5 
+3 
+3.5 
+2010-2011 1st Year Case Book 
+150 
+
+
+===== PDF p105 =====
+Interviewer: So, sil).ce two initiatives can tie under this ranking system, what would you do next? 
+Behind the Scenes: If the candidate does not suggest looking at the financial attractiveness of 
+each initiative, then the interviewer should encourage them in this direction. 
+Interviewer: How would you assess the financial attractiveness of the initiatives? 
+Possible Answers: The candidate may suggest looking at the payback period, IRR, and NPV 
+evaluations. However, due to the tenuous economic situation in 2009, the candidate should 
+primarily suggest a payback period analysis as the leading financial indicator of the 
+attractiveness of each initiative. This analysis could be supplemented with an NPV and/or IRR 
+analysis to understand the magnitude (NPV) and effectiveness/efficiency (IRR) of the 
+investment. 
+Phase 4: Prioritizing the Initiatives 
+Interviewer: Now that you understand the client's needs and their ranking methodology, we need 
+to prioritize the list of initiatives. The client's primary concern is the fit of the initiative with their 
+strategic goals, followed closely by the financial impact of the initiative. Given this information, 
+how would you structure the prioritization plan that we will propose to them for all 80 of their 
+initiati v es ? 
+Possible Answers: The candidate can be creative in developing their methodology, but should be 
+consider the key areas of importance to the client (strategic fit with goals, then financials) and 
+develop a structure that is logical, straightforward and intuitive (i.e. not introducing unnecessary 
+levels of complication to the model). 
+For example, the candidate could move towards stratifying the initiatives into groups. Those 
+initiatives that address all three goals would be in Tier 1, those that address two goals in Tier 2, 
+and so on. From there, some combination of the weighted average of the project's overall rank 
+and payback period or other financial analysis can lead to further stratification within each tier. 
+Phase 4: Recommendation 
+Interviewer: So, you're heading into a meeting with the steering committee to present your 
+recommendations for their project investing methodology project. What do you tell them? 
+Possible Answers: 
+The candidate should succinctly summarize the methodology that was 
+developed and the criteria that were considered. The candidate should also mention other 
+qualitative considerations that should be taken into account for initiative selection (e.g. synergies 
+between initiatives that may reduce their costs or increase value, political issues of initiative 
+selection between units, bread/diversification of initiatives, competitor responses etc). The final 
+methodology should be the result of a combination of quantitative analysis and broader 
+managerial thinking. 
+~ ~ 
+Managemenf 
+1111111111 Consulting 
+~~!~t~,~~ Club 
+2010-20111 st Year Case Book 
+151 

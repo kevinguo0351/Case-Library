@@ -1,0 +1,160 @@
+===== PDF p63 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+59 
+Case tracker 
+Fit Questions 
+Industry:                
+Media & Entertainment 
+Level of Difficulty: 
+Medium 
+Case format: 
+Opportunity Assessment 
+Concepts being tested: 
+- Basic NPV 
+- Breakeven analysis 
+Case Question 
+Our client is a major US television network that is trying to figure out how much to bid for the 2018 
+Winter Olympics and has brought you into to help us figure out the right bid. The Winter Olympics are a 
+huge deal and will require a significant amount of capital to secure the rights. Before our network bids 
+on the Winter Olympics, we want to make sure that we’ve considered all the right things. 
+Spend  first 15 min on fit 
+How would you describe 
+your problem solving 
+skills? 
+Do you consider yourself 
+a more visionary or 
+more pragmatic 
+thinker….and why?  
+What did you like least 
+about your last job? 
+Guide to interviewer 
+This is a very quantitative case that requires the 
+interviewee to run the numbers on an Olympics bid. The 
+candidate will have to decide potential ad revenue/cost 
+information, as well as the NPV, to determine bid size. 
+The candidate will need to ask for additional information 
+that is necessary to solve the problem, rather than 
+relying on the interviewer to dispense it. After getting the 
+initial calculations right, there are a lot of implications 
+that may change the level of the bid. 
+Especially for less finance-minded interviewees, you may 
+have to help nudge candidates through the math. 
+Case 5: Winter Olympics Bidding 
+Quants. 
+8 
+Structure 
+4 
+Basic NPV  
+B/E 
+By:  Chris Dupre (Kellogg Class of ‘03), Edited By:  Uri Kalir (Kellogg Class of ‘12) 
+
+
+===== PDF p64 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Clarifying answers and case guide  
+Guide to case 
+Part 1 – Quantitative discussion 
+- Some of the numbers are assumptions here are difficult, so nudge 
+the candidate along if necessary. 
+- First of all, the candidate should find the revenues from hosting 
+the Olympics. 
+- Then, the candidate will have to figure out if this is a good 
+investment. They should identify 3 costs (production costs, 
+opportunity costs, and time value of money). By factoring in these 
+costs, the candidate will find out if the Olympics are worth the 
+investment.  
+ 
+Part 2 – Qualitative discussion 
+- After finding the NPV of $177M, ask the candidate about 
+intangible factors, benefits, and risks. Some critical factors: 
+- Might give network access to new viewers 
+- There is prestige associated with hosting this event 
+- We can the air time to promote other programming 
+- Opportunities for product tie-ins, supplemental revenue 
+- After finishing the discussion, ask the candidate for a 
+recommendation. 
+Clarifying answers to provide 
+Winter Olympics schedule (16 days) 
+- Day 1 – Friday - Opening ceremonies – 3 
+hours of programming from 8-11 PM 
+- Day 2-15 – Games – 10 hours/day 
+- Weekday (9 – 12, 2 – 5, 7-11) 
+- Weekend (11 AM – 9 PM) 
+- Day 16 – Saturday - Closing – 3 hours of 
+programming from 8-11 PM 
+ 
+Revenues 
+- No subscription revenue, but can keep 
+100% of advertising revenue 
+- Ad rates are $400K/30 second ad for 
+prime time (M-F 7-11 PM, all weekend) 
+and $200K/ad for non-prime time 
+- Market research has shown that you 
+can include no more than 10 minutes of 
+advertising per hour. 
+ 
+Costs 
+- $428,000,000  of total costs 
+- Opportunity cost: $1M/hour 
+- Time value of money: 6 year lag for 
+receipt of revenue 
+60 
+
+
+===== PDF p65 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Math questions 
+Math solution 
+• 1) Total revenues should be equal to $928M for the project.  
+• Primetime: Weekdays (M-F): 10 weekdays x 4 hrs/day x 10 min/hr x 2 slots/min  
+x $400,000/ad = $320M 
+• Non-prime: Weekdays (M-F): 10 weekdays x 6 hrs/day x 10 min/hr x 2 slots/min  
+x $200K/ad = $240M 
+• Weekend: 4 days x 10 hrs/day x 10 min/hr x 2 slots/min x 400K/ad = $320M 
+• Opening/Closing: 2 days x 3 hrs/day x 10 min/hr x 2 slots/min x 400K/ad=$48M 
+• 2) Using the “Rule of 72,” we know that 72/rate of return means the number of years 
+to double our money. With a six year lag and a 12% WACC, we know that all future 
+cash flows must be halved.  
+• Revenues $928M - $428M of total costs - $146M of opportunity cost (2 days x 3 
+hours  x  $1M/hr + 14 days x 10 hours x $1M/hr) = $346M 
+• $346/2 = $177M in present value (NPV) 
+Math question 
+1) Calculate the revenue from broadcasting the Winter Olympics. 
+2)  Factoring in costs, is this a good investment? Find the NPV. 
+Math information 
+Revenues 
+- $400K/ad for prime 
+time (M-F 7-11 PM, 
+all weekend) and 
+$200K/ad for non-
+prime time 
+- 10 minutes/hour of 
+advertisements 
+ 
+Costs 
+- $428,000,000  of 
+total costs 
+- Opportunity: 
+$1M/hr 
+- WACC: 12% 
+ 
+61 
+
+
+===== PDF p66 =====
+© 2012 Kellogg Consulting Club  -- All Rights Reserved 
+Solution and recommendations 
+Solution & Recommendations 
+While the NPV of the project is $177M, the fact that there are other intangibles (new viewers, 
+plugging our programs, and prestige) the bid should just be $177M. While there is no one correct 
+answer, most answers should be in the range of $200M. If there is significant fluctuation from 
+$200M, the candidate will have to provide in-depth justifications and make a concrete argument.  
+Bonus/Guide to an Excellent Case 
+This case tests the interviewee’s comfort with numbers and understanding of how intangible 
+factors may influence financial value. The bid process requires another level of understanding 
+around game theory and what dynamics will ultimately determine the value of the bid beyond NPV. 
+Ultimately, the best interviewees will make a very strong argument using the facts provided and 
+support their bid and explain why they moved their bid from the NPV figure. 
+There is also a lot of room for creativity for the interviewee to discuss other factors, including 
+supplemental streams of revenue, intangible factors, and things to consider during the bid process.  
+62 

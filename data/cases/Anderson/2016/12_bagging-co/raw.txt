@@ -1,0 +1,138 @@
+===== PDF p57 =====
+Case 12: Bagging Co. 
+UCLA Anderson Casebook 2016
+53
+Business Problem Statement
+Bagging Co. makes rolls of grease-proof paper.  The production of this paper is unique in that there are 
+many mechanical differences in the production process compared to other paper production lines.  In 
+particular, these machines require a larger up-front capital expenditure. Bagging Co. sells this grease-proof 
+paper to bag converters.  The bag converters add glue and produce the actual bag of popcorn, and then sell 
+it to major packaged foods companies for resale. 
+Recently, the R&D department Bagging Co. discovered a means to reduce grease soakage by 10x.  This is 
+achievable by a relatively simple modification to the current equipment at a negligible cost.
+Should Bagging, Co. make the new paper?
+Interviewer Guidance
+The objective of this case is for the interviewee to demonstrate and/or think through: 
+•
+An understanding of the market impact of a new technology and/or product
+•
+An understanding of industry economies using quantitative analysis 
+•
+Forming a pricing strategy 
+The interviewees initial framework should touch upon:
+•
+Identification of profitability drivers for the client and the client’s customers
+•
+Market opportunity and growth
+The interviewer should lead/guide the case discussion using the structured question prompts that follow below.
+
+
+===== PDF p58 =====
+Case 12: Bagging Co.
+UCLA Anderson Casebook 2016
+54
+Question 1: Where might the value be in this product?
+Possible answers include, but are not limited to:
+•
+Value for the end-user (popcorn consumers): “cleaner” eating experience, etc.
+•
+Value for the bag converters: potential cost reduction (will need to be explored), potential for pricing power 
+against competitors who do not adopt the new paper
+•
+Application in new markets (interviewer: you will explore this further later)
+Question 2: Where would there be more value – with the end users or bag converters?
+This question should prompt the interviewee to openly brainstorm about product valuation.
+Possible answers include, but are not limited to:
+•
+End-user: Unless the end-users are reaching their hands consistently into the bag of popcorn, they might not 
+really value the difference in the product – i.e. if they are dumping the bag of popcorn into a bowl and eating it 
+from there, they aren’t impacted by grease leakage 
+•
+Bag converters:  If there is a potential to reduce costs or increase the price per bag, the new product could be 
+really valuable
+Question 3: Bag converters actually really like the product.  They currently create double-ply 
+popcorn bags, but would be able to create single-ply bags using this new paper.  How much does 
+grease soakage decrease using a single-ply of the new paper?
+•
+Interviewees should recall from the prompt that the new paper reduces grease soakage by 10x.  This is if the 
+bag is produced as-is, meaning two-ply.
+•
+The grease soakage of the single-ply bag using the new paper would be decreased by 5x.
+
+
+===== PDF p59 =====
+Case 12: Bagging Co.
+UCLA Anderson Casebook 2016
+55
+Additional Information to be Provided by the Interviewer
+Here the interviewer should pause to offer some cost information to the interviewee:
+•
+Bag converters current cost break-down:
+•
+$0.30 for two sheets of paper
+•
+$0.10 for receptor (a film applied to the bag)
+•
+$0.05 for popcorn
+•
+$0.05 for other manufacturing costs
+•
+Client cost break-down:
+•
+$0.10 per sheet of paper (50% variable costs, 50% fixed costs)
+The interviewee should drive the case forward by calculating how much money will be saved by the bag 
+converters if they switch to single-ply popcorn bags using the new paper.  If not, interviewer can prompt with a 
+question.
+Cost Savings Calculation
+•
+Current cost = $0.50
+•
+New cost = $0.35
+Question 4:  Based on the information provided thus far, what is driving bag converters’ desire 
+for this new product? 
+Possible answers include, but are not limited to:
+•
+$0.15 savings in costs per bag
+•
+By using the new paper for a single-ply bag, bag converters can potentially squeeze out competition by lowering 
+prices and still being able to maintain a strong profit margin
+Question 5:  What is Bagging Co.’s profit margin without technology?
+•
+Profit per sheet = $0.15 - $0.10 = $0.05
+•
+Profit per bag = $0.30 – [2 * $0.10] = $0.10
+•
+33% profit margin 
+
+
+===== PDF p60 =====
+Case 12: Bagging Co.
+UCLA Anderson Casebook 2016
+56
+Question 6:  How should Bagging Co. price a sheet of the new grease-resistant paper?
+•
+Variable cost per bag = $0.05 (one sheet of paper)
+•
+Fixed cost per bag = $0.10 (*Fixed cost will remain the same as the original fixed cost of the two-ply bag)
+•
+Total cost = $0.15
+•
+Sale price to the bag converter should fall between $0.15 - $0.30
+•
+$0.15 results in no profit for Bagging, Co. 
+•
+$0.15 - $0.25 results in less profit per bag vs. the current two-ply bag, offering no advantage to Bagging, 
+Co.
+•
+> $0.30 results in higher overall costs for bag converters, offering no advantage to Bagging, Co.’s 
+customers
+•
+$0.25 - $0.30 results in advantages for both Bagging, Co. and the bag converters 
+Question 7:  What are some other potential uses for this new product, new markets, etc.? 
+Possible answers include, but are not limited to:
+•
+Grease-resistant food storage (Tupperware, restaurant to-go boxes, etc.)
+•
+Auto-mechanics industry (bolts, rings, etc.)
+•
+Restaurant industry (floor mats, splash boards, etc.)

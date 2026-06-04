@@ -1,0 +1,310 @@
+===== PDF p142 =====
+CASE 14 – AUTODRIVERS
+138
+
+
+===== PDF p143 =====
+Case 14: AutoDrivers
+Prompt
+A large auto insurance company, AutoDrivers is exploring telematics and has identified  whether OBD (On-Board Diagnostics) or a 
+mobile solution is the right fit for them. Telematics is defined as the convergence of informatics and telecommunications to transmit 
+data. Think about Fit Bit, On Star which collect and use data to deliver additional services to consumers. With Telematics, AutoDrivers
+can capture driving data and use it to better price insurance premiums.
+The company hopes that using telematics will enable it to enroll new customers and reverse its decline in market share. The company 
+has hired you to identify which telematics strategy is the right fit for them. The company is also interested in understanding how it can 
+increase its engagement with its customers and provide them additional services. Specifically they are interested in growing in states 
+where AutoDrivers has a low brand perception. 
+Interviewer Guidance
+This is a strategy case where the interviewee will identify the right strategy for AutoDrivers and help it select either the OBD
+approach or the mobile app approach. 
+Additional Information
+1) AutoDrivers is a medium size auto insurnace company operating mostly in NJ, PA and MD
+2) AutoDrivers currently only offers auto insurance
+Behavioral Questions
+• Tell me a time when you encountered a challenging situation and how did you overcome it?
+• What are your areas of development?
+139
+
+
+===== PDF p144 =====
+Interviewer Guidance Continued
+3) AutoDrivers had revenues of $300 M in 2013 and has seen a 5% slide in market share for each of the last 3 years
+4) The US auto insurance industry as a whole had revenue of $3B in 2013
+5) Major competitors of AutoDrivers are all currently exploring telematics options and operate in the same geographies as AutoDrivers
+6) If interviewee asks about customer engagement then explain how insurance is a commoditized business and insurance companies 
+are developing services (Competitions for safe drivers, teen-driving programs) to differentiate themselves from competitors and 
+increase their engagement with their customers. 
+Analysis
+Question 1
+Ask the interviewee to identify what are the first steps that AutoDrivers should consider when deciding which telematics strategy to 
+implement. 
+Interviewer Guidance
+Expected response from the interviewee should consider several factors including, margin for OBD vs mobile solution, will AutoDrivers 
+be able to implement in a timely manner, what are the technology considerations for AutoDrivers (Is this a product that will be 
+developed inside the company or will AutoDrivers need to partner with another firm), what is competition doing
+A advanced response will also consider factors such as which options offers AutoDrivers the best way to increase customer 
+engagement, what are some of the regulatory considerations and customer adoption rates. 
+Case 14: AutoDrivers
+140
+
+
+===== PDF p145 =====
+Interviewer Guidance Continued
+After the interviewee has presented the initial framework, share Exhibit 1 with them
+Question 2
+Which strategy should AutoDrivers select
+Exhibit 1 Guidance
+Based on the information presented in the Exhibit, the interviewee should calculate two data points
+1) Potential Size of the Market
+•
+Correct Calculation should be as following
+•
+OBD potential customers are 1000 and with an adoption rate of 25%, OBD will enable AutoDrivers to enroll 250 new customers
+•
+Mobile solution potential customers are 1000 and with an adoption rate of 50%, mobile solution will enable AutoDrivers to enroll 
+500 new customers
+•
+After the interviewee has identified the size of potential new customers, the next step is to calculate the net profitability for both 
+OBD and Mobile Solutions
+2) Calculation of Profits (OBD)
+•
+OBD total fixed cost = $0.9 M
+•
+OBD variable costs are $OBD variable costs are $1400
+•
+OBD revenue = $2000
+•
+Margins = $2000 - $1400 = $600
+•
+Net Profit = $600*250 customers - $0.9 M = $(0.75 M)
+•
+The right number of customers is 250 based on the adoption rate]
+Case 14: AutoDrivers
+141
+
+
+===== PDF p146 =====
+Exhibit 1 Guidance (Continued)
+3) Calculation of Profits (Mobile Solution)
+•
+Mobile Solution total fixed cost $2 M
+•
+Mobile Solution variable costs are $OBD variable costs are $500 
+•
+Mobile Solution revenue = $5000
+•
+Margins = $5000 - $500 = $4500 
+•
+Net Profit = $4500*500 customers - $2 M = $250,000
+•
+[The right number of customers is 500 based on the adoption rate]
+4) Based on the calculation of profitability, the interviewee should recommend that AutoDrivers choose the strategy of 
+Mobile Solution
+Analysis
+Question 3
+Ask the interviewee to identify what are some of the pros and cons of choosing the Mobile Solution. Ensure the interviewee does 
+not focus on financial figures and thinks of several other reasons
+Case 14: AutoDrivers
+142
+
+
+===== PDF p147 =====
+Exhibit 1
+OBD
+Mobile Solution
+Potential Customer Size for telematics
+10000
+20000
+Potential Market Share
+10%
+5%
+Variable Marketing Cost per customer
+$400
+$0
+Variable Equipment Cost per customer
+$1000
+$500
+Revenue per customer
+$2000
+$5000
+Customer Adoption Rate
+25%
+50%
+Technology Development
+Partner with a firm in NJ
+Partner with a firm in China
+Cost of technology development
+$0.9 M
+$2 M
+Case 14: AutoDrivers
+• Expected over next 3 years
+143
+
+
+===== PDF p148 =====
+Interview Guidance for Question 3
+A strong interviewee will identify the following factors when evaluating the pros and cons of the Mobile Solution
+Keep probing the interviewee until he or she has come up with a detailed list
+A good interviewee will come up with a few pros and cons. Keep probing them until they have exhausted their list of responses. 
+An excellent interviewee will show understanding of mobile platforms and applications and be able to identify advantages of having a 
+mobile solution
+Pros of Mobile Solution
+Cons of Mobile Solution
+Ease of use. Customers will only download a Mobile App
+Reliability of data capture – Mobile technology is still 
+under development
+High scalability for AutoDrivers
+Partnering with a firm in China could increase 
+development lead time 
+Updates to technology can be easily sent to customers
+Regulators could impose restrictions on collecting driving 
+data via mobile phone
+Fits in with new customer demographics – Mobile, flexible
+Higher Cap Ex
+Mobile phone technology keeps improving at a high speed
+High speed to market
+Case 14: AutoDrivers
+144
+
+
+===== PDF p149 =====
+Analysis
+Question 4
+AutoDrivers has now requested your help to identify in which state they should pilot the Mobile Solution. What is the state for the 
+AutoDrivers? Share Exhibit 2 with the interviewee
+Case 14: AutoDrivers
+145
+
+
+===== PDF p150 =====
+Exhibit 2
+• New customers represent the customers who are considering signing up for a telematics program provided by 
+Auto Drivers
+• Brand Perception is based on a customer survey comparing different auto insurance companies and how they are 
+perceived in providing high customer engagement
+Case 14: AutoDrivers
+35
+25
+40
+% of New Customers Interested in Telematics
+NJ
+PA
+MD
+146
+
+
+===== PDF p151 =====
+Exhibit 2 (Continued)
+0
+5
+10
+15
+20
+Year 1
+Year 2
+Year 3
+% Increase in Adoption Rates 
+NJ
+PA
+MD
+• % of Adoption Rates is the number of customers who will continue signing up for AutoDrivers Mobile solution
+Case 14: AutoDrivers
+147
+
+
+===== PDF p152 =====
+Interview Guidance for Question 4
+The interviewee should be able to identify that NJ has the highest % of new customers who might be interested in signing up for 
+telematics and also has the highest brand perception for Auto Drivers. This seems to be an ideal state for Auto Drivers to launch its 
+Mobile Solution.
+However the rate of increase in the adoption rate for NJ is lower than PA and may hurt AutoDrivers in its long-term strategy of 
+reversing its slide in market share
+Since AutoDrivers wants to increase customer engagement i.e. provide more value-added services, PA represents the best option for 
+AutoDrivers. The candidate should be able to tie back to the original prompt which indicated where AutoDrivers prefers to grow. 
+Although it has low brand perception in the state, the Mobile Solution will give it opportunity to offer new features to its customers 
+and increase customer engagement. The rate of increase in customer adoption is also the highest in PA which will enable AutoDrivers 
+to enroll new customers. 
+Case 14: AutoDrivers
+148
+
+
+===== PDF p153 =====
+Recommendation
+We anticipate running into the CEO in the cafeteria. What would you say to him? 
+Interview Guidance for Recommendation
+An average response should be concise and structured. It should include why AutoDrivers should implement the Mobile Solution and
+what are some of the risks associated with implementing this solution. The interviewee should also identify which state they should 
+pilot the program in
+Next steps
+An exceptional response should include the next steps for selecting the Mobile Solution and the state to pilot the program in. These 
+can include developing a contract with the partner in China, ensuring that the partner can successfully develop the product in a timely 
+manner, identifying the distribution channels for the Mobile Solution (Agents, Third-party vendors), selecting the right marketing 
+strategy for the Mobile Solution and conducting a testing program to validate the solution. 
+Risks for telematics
+• How to subside customer concerns over privacy
+• Potential barriers from regulators and state governments
+• Contingency plan if telematics does not succeed
+Case 14: AutoDrivers
+149
+
+
+===== PDF p154 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

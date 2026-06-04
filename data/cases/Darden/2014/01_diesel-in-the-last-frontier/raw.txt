@@ -1,0 +1,173 @@
+===== PDF p39 =====
+CASE #: 1
+Diesel in “The Last Frontier”
+Firm Style
+Interview Round
+Bain
+1
+Clarifying information (provide only if corresponding questions are asked) 
+Q: What is diesel used for at the facility?
+A: There is no other source of fuel. The machinery, utilities, transportation, and housing all use diesel.
+Q: Is this company making diesel or is this a cost?
+A: The company is drilling crude oil but does not currently refine the oil into diesel.
+Q: Is there a reason why costs have increased? 
+A: The EPA has recently required cleaner fuel which requires increased refining resulting in higher diesel prices
+Q: How are we currently sourcing our diesel?
+A: We are currently buying our fuel in Anchorage and paying to ship it 500 miles to the North Shore facility
+Case Question
+Our client is the Alaskan business unit of a large multi‐national oil & gas company that is 
+drilling on the north shore of Alaska. Due to its isolated location the company has to 
+provide all necessities for its employees including food, housing, utilities, transport, etc. 
+Recently the company has been facing higher diesel fuel costs. How can we help?
+
+
+===== PDF p40 =====
+Diesel in “The Last Frontier”
+Framework / Structure
+This interviewer is looking for (i) identification of whether this is a company‐specific or industry‐wide 
+problem and (ii) breadth and creativity of thinking in identifying the company’s primary uses of oil 
+and potential opportunities for savings, which can be accomplished by reducing the volume of usage 
+or the price of purchase. Below is an example of a strong MECE framework. 
+Internal: 
+• Reduce fuel usage
+• Transportation costs (employees, machinery, diesel fuel)
+• Reduce frequency / increase utilization of shipments (employees and equipment)
+• Change method of transportation (land vs air vs sea; most fuel efficient option)
+• Operations
+• Improve fuel efficiency of drilling machinery 
+• Reduce operating expense (utilities / electricity consumption onsite)
+• Reduce purchase price
+• Vertical integration / reduce third party dependencies and expenses 
+• Oil futures
+• Find a closer fuel source
+• Lobbying / subsidies 
+External:
+• Competitors’ costs
+• Long term diesel trends
+• Macro market trends
+
+
+===== PDF p41 =====
+Diesel in “The Last Frontier”
+Interviewer Tips
+• Amongst several other issues / opportunities, the candidate should mention the cost of 
+procuring / transporting diesel from the nearest refinery to the North Shore site. 
+• Once prompted, mention that there is a significant third‐party cost associated with the 
+transportation of the fuel. 
+• If not presented during clarifying questions, present the case fact that the North Shore oil 
+field is 500 miles from the nearest refinery facility when possible. 
+• After some discussion, mention that the client is considering building their own 
+refinery facility at the North Shore in order to eliminate this cost (essentially, they 
+would create their own diesel on‐site). 
+• The rest of the case should focus on a breakeven analysis surrounding the construction 
+of the new refinery. 
+
+
+===== PDF p42 =====
+Diesel in “The Last Frontier”
+Optional Question 
+If candidate asks about competitor’s margins or diesel spending consider pushing the 
+candidate by asking a second level insights question: How could we figure out our client’s 
+competitors cost?
+Direct
+• Use financial reports to look at cost structure
+• Call your competitor and ask how much they’re paying for their diesel
+Indirect
+• Call sourcing companies to ask them for data
+• Back into prices by considering their location/cost structure
+• Purchasing benchmarking data from 3rd party
+Continue asking the candidate “what else” until they’ve exhausted their list to pressure test 
+candidate.
+
+
+===== PDF p43 =====
+Diesel in “The Last Frontier”
+Question 2: 
+• Evaluate whether or not company should build their own refinery?
+• Candidate should perform a break‐even or NPV analysis as a response. There is not 
+WACC, so breakeven is best. 
+• The company has a 5‐year breakeven requirement
+• Facility capital expenditure
+• The refinery would cost $150,000,000 to build
+• Candidate should drive the conversation to understand the current and post‐refinery per 
+gallon fuel costs to find the incremental cost savings associated with building a refinery
+• Current price: $4.00/gal
+• Transportation costs $.50/gal
+• Storage costs: $.75/gal
+• Cost to drill and refine ourselves: $3.40
+• Candidate must remember that storage costs occur both before and after refinery project 
+during incremental cost savings calculations
+• The facility is currently using 26,000,000 gallons of diesel annually
+
+
+===== PDF p44 =====
+Diesel in “The Last Frontier”
+Calculations
+• Costs before: $4/gal + $.50/gal + $.75/gal = $5.25/gal
+• Costs after: $3.40/gal + $.75/gal = $4.15/gal
+• Incremental: = $5.25/gal ‐ $4.15/gal = $1.10/gal
+• Annual Savings:
+• $1.10/gal x 26M gal = $28.6M annually
+• 5 year payback = $28.6M x 5 years = $143 M
+Candidate should immediately drive to insights
+• $143M is less than the $150M capital expenditure, but it’s close. Candidate should consider 
+the assumptions used to make these calculations.
+
+
+===== PDF p45 =====
+Diesel in “The Last Frontier”
+Insights
+Candidate should naturally question the implications of his/her calculations –
+interviewer may need to prompt the candidate to consider pros and cons of refinery
+Pros
+• Diesel prices may increase in the future thus increasing savings
+• Refinery may provide more than 5‐years of useful life increasing the ROI in the long‐term
+• Company may consider sell diesel to other projects or companies drilling in the region and 
+therefore increase annual contribution
+Cons
+• The price of diesel may drop causing our investment to contribution to fall further.
+• The refinery may cause facility diesel consumption to increase which would deteriorate our 
+cost savings.
+• There is potential to decrease consumption to create even more saving than the refinery can 
+provide.
+• Company may not have the competency or capability to run refinery
+
+
+===== PDF p46 =====
+Diesel in “The Last Frontier”
+Recommendation
+There is no “correct” recommendation in this case. The candidate’s recommendation should include 
+a discussion of: (i) a clear “go” or “no go” recommendation regarding the new refinery, (ii) the 
+project’s breakeven analysis and the client’s criteria, (iii) risks around building (or not building) the 
+new facility, and (iv) a return to the original framework and the identification that there are other 
+cost‐reduction strategies that could be pursued. 
+“Go Recommendation” 
+• Weak: 
+• The client should consider moving forward with the new refinery. Although it doesn’t meet 
+the company’s breakeven threshold, gas prices are likely to go up in the near future and the 
+company will continue to save on costs moving forward. 
+• Strong: 
+• The client should begin construction on the new refinery. The project only falls 5% short of 
+the 5‐year breakeven threshold, and there will likely be substantial additional cost savings if 
+diesel prices continue to rise. However, the breakeven analysis is very sensitive to the 
+budgeted construction costs, and the company should perform additional analysis to make 
+sure this is the right estimate. There are also some risks associated with the operation of an 
+oil refinery, but assuming the client has the competency to run a successful refining 
+operation, I believe the benefits from the long‐term savings outweigh the near‐term costs. 
+
+
+===== PDF p47 =====
+Diesel in “The Last Frontier”
+Recommendation (continued)
+“No‐Go Recommendation” 
+• Weak: 
+• The client should not build the refinery. They have a 5 year breakeven criteria, and this 
+project does not meet that criteria. 
+• Strong: 
+• The client should not begin construction on the new refinery. The project falls short of the 5 
+year breakeven threshold by 5% based on the construction estimates provided, and these 
+initial budgets are typically underestimated, pushing the project further away from the 
+breakeven. There are also significant risks associated with the operation of an oil refinery, 
+which is outside of the client’s core competency. Though the company may be exposed to 
+rising diesel prices if they don’t build the refinery, there are additional cost reduction 
+strategies as mentioned in the initial framework that pose significantly less risk to our client. 

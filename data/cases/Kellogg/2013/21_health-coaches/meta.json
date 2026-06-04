@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2013_21_health-coaches",
+  "school": "Kellogg",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2013.pdf",
+  "idx": 21,
+  "case_name": "Health Coaches",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 183,
+  "pdf_page_end": 188,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    184,
+    185,
+    187,
+    188
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p184.png",
+    "exhibits/exhibit_p185.png",
+    "exhibits/exhibit_p187.png",
+    "exhibits/exhibit_p188.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2013\\21_health-coaches"
+}

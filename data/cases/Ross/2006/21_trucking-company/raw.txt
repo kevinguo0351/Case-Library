@@ -1,0 +1,152 @@
+===== PDF p110 =====
+Practice Cases – Case 21: Trucking Company  
+Diamond 
+ 
+ 
+106
+(Source: Interview case from DiamondCluster Round I, RSB 2005 Casebook Case#25) 
+ 
+Context 
+Your client is a trucking company.  The company has grown through acquiring 
+regional trucking companies that are currently managed as separate businesses.   
+ 
+The CEO, who is new and an outsider to the company, is interested in a Route 
+Optimization software that has been developed by one regional subsidiary (Region X) 
+and has significantly improved profitability within the subsidiary.  The CEO asked 
+you to see if the software should be implemented companywide. The CEO also wants 
+your advice on where the company should go in the long term.  
+ 
+Interviewee should ask questions to learn more about the software. 
+ 
+Given upon request 
+ 
+The software is used to optimize routes within a region to make truck pick-ups and drop-offs 
+more efficient. The software doesn’t optimize long haul routes. 
+ 
+(A, B, C are locations for pick-ups and drop-offs) 
+ 
+Region 1
+Long Haul
+Region 2
+D
+E
+F
+A
+B
+C
+ 
+ 
+ 
+A sample approach to structure the analysis: 
+ 
+To assess if we should roll out the software to other regions, I first would like to understand 
+how the software improves profitability. I want to understand what benefits the software 
+offers and the impact it has on both revenue and cost. On the revenue side, maybe the 
+software enabled the client to provide better and faster customer services and therefore 
+customers use our services more often or more customers are acquired. On the cost side, 
+there might be some cost savings opportunity due to route optimization.  
+ 
+Then I’d like to estimate what would be the incremental revenue and cost if we roll out the 
+software companywide. In the meantime, I’d also like to assess the non-financial impact the 
+companywide roll-out might have.  
+ 
+At last, I will discuss some of the long term strategies the CEO can look into. 
+Interviewer: Ignore revenue and focus on cost. Ask interviewee to identify cost 
+buckets of the trucking companies 
+ 
+
+
+===== PDF p111 =====
+Practice Cases – Case 21: Trucking Company  
+Diamond 
+ 
+ 
+107
+Examples of the cost buckets: 
+ 
+• 
+Fixed cost 
+o 
+Real estate 
+o 
+Equipments including trucks 
+o 
+Insurance 
+o 
+Overhead 
+• 
+Variable cost 
+o 
+Direct labor (trucker’s salary etc) 
+o 
+Fuel 
+ 
+Given upon request 
+ 
+• 
+Current pick-ups or drop-offs/ hr: 2. Pick-ups or drop-offs/ hr with the software: 2.5 
+• 
+Truckers are paid at an hourly rate of $100 
+• 
+Companywide annual pick-ups are 4M, drop-offs are 4M 
+• 
+Region X annual pick-ups are 0.8M, drop-offs are 0.8M 
+• 
+Labor is 1/3 of total costs 
+• 
+Labor is split 50/50 between pick-ups & drop-offs 
+• 
+Set up cost to expand the software companywide: $20M. 
+• 
+Incremental annual cost to maintain and support the software: $15M 
+ 
+Ask interviewee to calculate the incremental cost savings if implemented companywide.  
+ 
+Before using the software, annual labor cost is: 
+• 
+Region X: ((0.8M+0.8M)/2) * $100 = $80M 
+• 
+Companywide: ((4M+4M)/2) * $100 = $400M 
+ 
+After using the software, annual labor cost is: 
+• 
+Region X: ((0.8M+0.8M)/2.5) * $100 = $64M 
+• 
+Companywide: ((4M+4M)/2.5) * $100 = $320M 
+ 
+Annual cost savings: 
+• 
+Region X: $80M - $64M = $16M 
+• 
+Companywide: $400M -  $320M = $80M 
+• 
+Incremental cost savings if implemented companywide (Region X already realized the 
+cost savings): $80M - $16M  = $64M 
+ 
+If the software is implemented companywide, incremental cost savings are $64M, incremental 
+costs are: $35M in year 1 and $15M yearly after. Therefore, it makes financial sense to 
+implement the software companywide. 
+ 
+A great answer will also address the non-financial impact of expanding the software 
+companywide on the current IT system and operation, and discuss the possible benefits of 
+enhancing the software to optimize long haul routes. 
+ 
+After assessing the investment in expanding the software, interviewee should lay out a 
+structure to discuss areas the CEO could look into for the long term. 
+ 
+Examples of areas to look into: 
+• 
+Increase revenue 
+o 
+Optimize service portfolio. For example, acquired trucking companies can work 
+together to provide more long haul services 
+o 
+Enter new markets (new geographical locations, new customer segments, etc.) 
+• 
+Decrease cost 
+o 
+Consolidate common business functions, such as Accounting, HR 
+o 
+Consolidate procurement to increase bargaining power 
+o 
+Standardize certain processes  

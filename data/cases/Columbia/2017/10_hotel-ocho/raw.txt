@@ -1,0 +1,333 @@
+===== PDF p95 =====
+91
+Case # 10 - Hotel Ocho
+Our client, HotelOcho, is a budget hotel chain based in Spain with 800 locations across Europe, with 75% owned by 
+franchisees and 25% owned by the company. The hotels are organized under six different brand names, which are popular 
+among young travelers and cash-strapped business travelers alike. Though the rooms are small and spartan, the chains are 
+renowned for bed comfort and friendly service. Customers are loyal to specific brands and TripAdvisor has several discussion 
+threads featuring arguments about which brand is "best." A particular point of pride of HotelOcho is its highly de-centralized, 
+hands-off management team, so these conversations are often used by brand managers to help evaluate the marketplace. Over 
+the last three years, profit has been dropping for HotelOcho. Though the industry in general has been experiencing softness 
+and oversupply, HotelOcho's profit has been declining faster than others'. HotelOcho has hired McKinsey to help restore 
+profitability.
+Pause here and ask student if he/she needs any further clarification on the above. This pause is really just 
+about clarification on the information so far, as the next question (before the framework) is far more 
+specific.
+McKinsey has determined that one of the key drivers of HotelOcho's costs is purchases of washable room items, particularly 
+towels and bedsheets. Towels and sheets are purchased as sets (each room has one set of towels and one set of sheets) and the
+price of each set is negotiated at the corporate level with its supplier, which has several factories spread across Europe. When
+towels and sheets are ordered, the general manager of each hotel contacts HotelOcho's exclusive distributor, which orders the 
+items from the factory and delivers them to the hotel. Can you brainstorm some ways that HotelOcho could save money on its 
+towels and sheets orders?
+Problem Statement Narrative
+Case 10 #: Hotel Ocho
+Industry: 
+Hospitality
+Case Type: 
+Profitability
+Firm:
+McKinsey
+• Profitability
+• Computation
+• Creative Thinking
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Easy
+Hard
+91
+
+
+===== PDF p96 =====
+Sample Framework
+Framework (this should essentially be a list of 
+suggestions on how to save money)
+Towels & Sheets (materials)
+Use cheaper materials
+Include less in towel set / use less material
+Eliminate duvet cover or top sheet in sheet 
+set
+Use longer than two years
+Ordering process
+Standardize towel and sheet design
+Coordinate buying decisions among local 
+chains
+Eliminate distributor / find new one
+Change supplier
+Lock in long-term contracts for a discount
+After the list is completed, ask the student to 
+choose the best two or three ideas that should be 
+pursued first. Push back on the top suggestion and 
+force him/her to defend the choice.
+Sample Framework
+There's an optional twist in this case: when asked for a 
+couple minutes to sketch one out, feel free to say no (or 
+yes, but that you want to hear the student's thoughts 
+out loud as the framework is developed). It's a good 
+way to shake someone out of a rhythm and get him/her 
+used to going with the flow. 
+Guidance for Interviewer
+•
+There are several designs used across brands, and 
+not every brand (or even hotel) is consistent with 
+its purchases. Each set costs the same, however.
+•
+There is no need to worry about FX (foreign 
+exchange rates,) as all costs are in euros.
+•
+The distributor charges a set fee for each order 
+placed.
+•
+Towels and sheets are designed to last at least three 
+years, but HotelOcho recommends replacing every 
+two years.
+•
+A towel set includes two washcloths, three hand 
+towels, two bath towels, and a bath mat.
+•
+A sheet set includes four pillowcases, a fitted sheet, 
+a top sheet, and a duvet cover.
+Clarification Answers if Asked 
+92
+Case # 10 - Hotel Ocho
+
+
+===== PDF p97 =====
+Question #1
+As it turns out, the two most viable options to save money are standardization of design and moving to a 
+Chinese supplier. Can you tell me what the savings would be in year one and two if those changes are 
+implemented? What are the risks associated with this strategy?
+Question #1
+Key data points are below, but don't give until it is specifically asked for.
+For purposes of this analysis, the life of the sheets and towels can be ignored.
+Towels: €10 per set (including distributor shipping)
+Sheets: €30 per set (including distributor shipping)
+Total purchases last year: €50m
+Purchase quantity breakdown: Half towel sets, half sheet sets
+Standardization of design: 5% savings per set (based on original supplier prices)
+Standardization design cost: €10m
+Chinese supplier discount:
+Towels: €3.00
+Sheets: €5.50
+Additional distributor shipping charges:
+Towels: €0.50
+Sheets: €1.00
+Solution
+93
+Case # 10 - Hotel Ocho
+
+
+===== PDF p98 =====
+Question #1 (cont.)
+As it turns out, the two most viable options to save money are standardization of design and moving to a 
+Chinese supplier. Can you tell me what the savings would be in year one and two if those changes are 
+implemented? What are the risks associated with this strategy?
+Question #1
+Solution
+Category
+Notes
+Current Year
+Year 1
+Year 2 (and beyond)
+Price
+Total 
+Cost
+Price
+Total 
+Cost
+Price
+Total 
+Cost
+Towels
+1.25m sets
+€10.00
+€12.5m
+€7.50
+€9.375m
+€7.50
+€9.375m
+Sheets
+1.25m sets
+€30.00
+€37.5m
+€25.50
+€31.875m
+€25.50
+€31.875m
+Standardization
+5% of €50m
+n/a
+(€2.5m)
+(€2.5m)
+Investment
+€10m one-time
+n/a
+€10m
+Total
+€50m
+€48.75m
+€38.75m
+*Note that the 5% price drop could also be 
+incorporated into the price above, which would make 
+the price of towels €7.00 and the price of sheets 
+€24.00
+Insight: Not only would this change increase profits, 
+the payback period is less than a year and by year two 
+there would be a cost savings of over 20% on a key 
+cost item!
+Risks
+•
+Brand confusion / diminished differentiation
+•
+Could a decentralized team really standardize a design 
+that quickly?
+•
+Enforcement of new ordering mechanism
+•
+Political risk of ordering from China
+•
+Inferior materials
+•
+Transportation time / higher variable cost
+•
+Distributor / supplier relationship
+94
+Case # 10 - Hotel Ocho
+
+
+===== PDF p99 =====
+Question #1 (cont.)
+Question #1
+Math done alternate way
+Category
+Notes
+Current Year
+Year 1
+Year 2 (and beyond)
+Price
+Total 
+Cost
+Standardized 
+Price
+Total 
+Cost
+Standardized 
+Price
+Total Cost
+Towels
+1.25m sets
+€10.00
+€12.5m
+€7
+€8.75m
+€7
+€8.75m
+Sheets
+1.25m sets
+€30.00
+€37.5m
+€24
+€30m
+€24
+€30m
+Investment
+€10m one-time
+n/a
+€10m
+Total
+€50m
+€48.75
+m
+€38.75m
+Insight: Not only would this change increase profits, 
+the payback period is less than a year and by year two 
+there would be a cost savings of over 20% on a key 
+cost item!
+Risks
+•
+Brand confusion / diminished differentiation
+•
+Could a decentralized team really standardize a design 
+that quickly?
+•
+Enforcement of new ordering mechanism
+•
+Political risk of ordering from China
+•
+Inferior materials
+•
+Transportation time / higher variable cost
+•
+Distributor / supplier relationship
+95
+Case # 10 - Hotel Ocho
+
+
+===== PDF p100 =====
+Question #2 (extra credit)
+We've also discovered that one-third of the franchisees are replacing their sheets and towels every year 
+rather than every two years. Why might that be? 
+(soft brainstorm, answer is that minerals in water diminish the quality of the towels / sheets)
+If the necessary filters are installed, how many less sets of towels and sheets will be purchased each year? 
+How much will the company save per hotel, assuming the original sheet and towel costs? Assume that half of 
+the company-owned hotels and half the franchisees replace their sets each year (i.e., a two year cycle).
+Question #2
+The easiest way to do this is to consider the total number of hotels, which is 800. Therefore, 200 hotels must 
+be replacing sets every year and 600 hotels must be replacing sets every other year (this can also be thought 
+of as 300 per year). The 200 'always-replacers' represent 40% of the purchases every year (200 / 200+300). 
+40% of 1.25m sets is 500,000 sets. Divide this by two (the equivalent of moving to an every-other-year cycle) 
+to yield 250,000 sets of both towels and sheets that can be saved every year.
+Using the original price structure (€10 per towel set and €30 per sheet set) and assuming that a water 
+filtration system lasts ten years, how much is the maximum you would be willing to pay per hotel to install 
+the system? The discount rate is zero.
+Savings: 250,000 * €10 + 250,000 * €30 = €10m overall per year, €100m over the course of 
+the system
+Savings per hotel: €100m / 200 hotels = €500,000 per hotel
+If the system costs exactly €500,000, should it still be installed?
+YES: better standardization, higher quality drinking water, will also clean other items
+NO: lower prices of towels / sheets make this less cost effective, perhaps government will do it 
+Solution
+96
+Case # 10 - Hotel Ocho
+
+
+===== PDF p101 =====
+Conclusion
+•
+Increased profit of over €10m per year by 
+year two
+•
+Less than one year payback period of 
+initial investment
+•
+Possibility of more savings by installing 
+water filtration systems or eliminating 
+distributor
+Rationale
+•
+To increase profits, standardize washables 
+design and move to Chinese supplier
+•
+(Q2 Extra Credit): Install water filtration 
+system to decrease need for towel change
+Recommendation
+•
+Design coordination
+•
+Brand confusion
+•
+Quality of materials from Chinese factory
+•
+Redundant filtration system if local 
+government steps up
+Next Steps
+•
+Begin designing new washables and 
+breaking contract with original supplier
+•
+Research water filtration systems
+Risks
+97
+Case # 10 - Hotel Ocho

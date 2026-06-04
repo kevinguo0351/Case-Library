@@ -1,0 +1,391 @@
+===== PDF p109 =====
+Upper Goes South
+Industry:  
+Case Type:  
+Led by:
+105
+Tech
+Market Entry  
+Interviewee
+Quantitative Level: Medium
+Qualitative Level:
+Medium
+
+
+===== PDF p110 =====
+Behavioral Questions
+• What would your former manager say about you?
+Question 1:
+• What would your ideal project at our firm look like?
+Question 2:
+106
+
+
+===== PDF p111 =====
+Upper Goes South
+• Upper, a US-based transportation network company with $10bn in annual sales
+offering services that include peer-to-peer ridesharing, ride service hailing, and a  
+bicycle-sharing system, is thinking about their possible growth opportunities. After  
+leading the local market for 5 years, they are looking to expand in Latin America.  
+Upper has engaged our firm to help them evaluate the different options and to  
+choose which would be the best country to penetrate initially.
+Prompt #1:
+–
+Company information/Industry: Upper operates in the ride hailing industry. Upper has only had operations in the US,  
+and at the moment they are only evaluating Latin America (no other geographies) given that they are technologically  
+superior to any incumbent. The industry is characterized for low number of competitors yet fierce competition among  
+existing firms, given that the service is almost seen as a commodity.
+–
+Business model: for ridesharing/hailing, Upper charges the rider a fee determined at the time of order, and then pays  
+the drivers a fraction of the fee (similar to Uber or Lyft ridesharing). For the bicycle system, customers must scan a QR  
+code that is on the bicycle, ride, and then “end” the ride by pressing a button on the app. The rider will then be  
+charged a fee based on the time of usage and the distance covered.
+–
+Goal: The best country would be the one that offers the largest profit over the next 3Y and, due tothe  
+complexity of the different countries, Upper would like to begin by penetrating ONLY one country.
+–
+For their penetration in LatinAmerica, they are looking to initially offer only ridesharing/hailing, and not
+bicycle-sharing.Assume there are no budget constraints at this time.
+Case Background:
+107
+
+
+===== PDF p112 =====
+Framework Buckets:
+• MECE Framework should include
+– Financials/Company
+•
+Investment needed
+•
+Potential revenues andcosts
+•
+Potential effects on local (US) operations (management focus,etc.)
+•
+Opportunity cost of expanding elsewhere or doubling down in theUS
+– Risks
+•
+FX/inflation risk
+•
+Security standards for both drivers and riders (lawsuits,PR impact)
+•
+IP theft
+– Market
+•
+Similarity to the US
+•
+Market size
+•
+Ease of doing business/politicalrisk/etc.
+•
+Substitutes (public transportation availability, etc.)
+•
+Regulations (or lack thereof)
+•
+Competition
+Upper Goes South
+108
+
+
+===== PDF p113 =====
+• Upper has shortlisted the number of countries they would like us to evaluate:
+Exhibit #1
+# of competitors1
+(in M)
+similarity vs. US2
+rank*
+capita
+rate
+Brazil
+210
+3 (55%)
+116
+0.35
+5%
+Colombia
+50
+1 (100%)
+143
+0.12
+3%
+Argentina
+44
+2 (60%)
+75
+0.32
+57%
+Uruguay
+3.5
+0 (0%)
+34
+0.28
+7%
+Peru
+32
+2 (80%)
+80
+0.08
+2%
+Chile
+18
+5 (30%)
+27
+0.23
+2%
+Venezuela
+32
+1 (100%)
+144
+0.15
+1000%
+Ecuador
+17
+2 (75%)
+71
+0.14
+0.50%
+Population
+Cultural
+Security
+Cars per Inflation
+1 Number in brackets refers to market share of largest competitor
+2 The fuller the Harvey ball, the larger the similarity
+*As a reference, the security rank of the United States is 49
+109
+
+
+===== PDF p114 =====
+Interviewer guidance on Exhibits
+• Idea is to find the best fit for Upper.
+• Focus the candidate on these variables and tell
+them to focus on the investment level/financials
+later on.
+• Population is in millions of people.
+• Cultural similarity to the US refers to variables  
+such as internet and Wi-Fi availability,  
+penetration of smartphones and credit cards,  
+culture of “sharing”, etc.
+• If candidate asks about Uruguay, ask why they  
+think there are no competitors (the answer is  
+that, for the purpose of the case, ridesharing is  
+illegal in that country).
+• Leave the prioritization up to the candidate – the  
+most important is the analysis of each variable  
+and of the country as a whole. However, do  
+mention that similarity to the US and low  
+inflation will be key given that Upper is looking  
+for the path with least resistance.
+• Population and cars per capita are proxies for  
+market size and availability of drivers as well as  
+riders.
+• The number of incumbents is important, yet  
+countries in Latin America have very few and  
+this variable can be given less priority given the  
+technological superiority of Upper, which would  
+allow them to capture market share quickly.
+• Given the importance of security, Upper wants  
+to operate only in safe countries as incidents  
+can have a very large impact on the overall  
+reputation and potential for lawsuits.
+• After analyzing the countries, the candidate  
+should shortlist Chile, Ecuador, and Peru (not  
+the largest market but relatively safe and similar  
+to US, and low inflation)
+• Argentina and Colombia could also be  
+candidates (market size), but inflation in  
+Argentina and unsafety in Colombia make them  
+less attractive.
+Exhibit #1 Guidance:
+Analysis:
+110
+
+
+===== PDF p115 =====
+Brainstorming
+• Upper has decided to shortlist Chile,  
+Ecuador, and Peru since, even though  
+they are not the largest market, they are  
+relatively safe and similar to the US, and  
+have low inflation rates.
+• Unfortunately, Upper has been following  
+the latest news about a coup in Peru very  
+closely and decided not to continue  
+evaluating Peru.
+• However, Upper has asked us to think  
+about what are the potential  
+consequences that a coup could have in  
+any country they decide to operate in.
+Prompt:
+Analysis:
+• Operational
+111
+– Civil unrest
+•
+Increased traffic
+•
+Lack of driver availability
+– Changes in government can result in  
+changes in regulation
+• Financial
+– Decreased demand for rides
+– Bank closures (affecting cash flow)
+– Increased inflation (local currency  
+depreciation) and volatility
+• Candidate can take a minute to structure the  
+brainstorming or it can also take the form of a  
+conversation/discussion that touches upon  
+some of the factors above. However, the  
+conversation must remain structured.
+
+
+===== PDF p116 =====
+Exhibit #2
+112
+Investment
+2020
+2021
+2022
+Chile
+1,500
+Revenues
+450
+900
+2,100
+Costs
+150
+300
+900
+Ecuador
+1,300
+Revenues
+800
+1,000
+1,500
+Costs
+200
+500
+700
+All numbers are in millions.
+
+
+===== PDF p117 =====
+Interviewer guidance on Exhibits
+• It is key that the candidate ask for exchange  
+rates (interviewer can provide guidance if  
+needed).
+– Exchange rate for Chile is 3 pesos per 1 USD
+(candidate needs to make conversion).
+– The currency in Ecuador is USD (no conversion  
+needed).
+• Candidate can ignore time value of money.
+• Tax rate is 30% for Chile and 25% for Ecuador.
+• Ignore losses tax carry forwards.
+Exhibit #2 Guidance:
+• All numbers are in millions.
+Analysis:
+Investment
+2020
+2021
+2022
+3Y Pro
+Chile (USD)
+500
+Revenues
+150
+300
+700
+Costs
+50
+100
+300
+Profit beforetax
+-500
+100
+200
+400
+Tax
+0
+30
+60
+120
+Net Income
+-500
+70
+140
+280
+-10
+Ecuador (USD)
+1,300
+Revenues
+800
+1,000
+1,500
+Costs
+200
+500
+700
+Profit beforetax
+-1,300
+600
+500
+800
+Tax
+0
+150
+125
+200
+Net Income
+-1,300
+450
+375
+600
+125
+113
+
+
+===== PDF p118 =====
+Recommendation
+• The Chief Global Strategist of Upper has just called and is eager to know which
+country we recommend they enter first.
+• Candidate should answer that Upper should start by entering Ecuador, and that we  
+estimate that the 3-year profits will be $125M.
+Recommendation
+Risks and Next Steps:
+• Risks:
+– Candidate can refer back to framework:
+•
+Inflation risk can make “NPV” zero
+•
+Security standards for both drivers and riders can result in lawsuits and impact PR
+•
+IP theft
+– Incumbent response
+– Instability in the region (bonus points if refers to the “coup” in Peru)
+• Next steps: deeper dive into incumbents’ strength, find partners that can provide local expertise,  
+protect IP locally, set up monitoring infrastructure to capture market responses and knowledge  
+that can be later implemented in other expansions.
+114
+
+
+===== PDF p119 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Framework is not case-specific (candidate uses general
+growth framework and ignores the tech/Latin America
+aspect).
+Candidate can work through the math but does not provide
+clarity in his thinking through Exhibit 1 and brainstorming.
+Good Candidate
+Framework considers some case-specific aspects and refers  
+to them throughout the case
+Candidate is able to identify the best countries through a
+clear selection process.  
+Few math errors.
+Excellent Candidate
+Candidate provides structure to the math and validates  
+approaches with interviewer before working through.  
+Candidate has initiative to ask for FX rates, taxes, TVM, etc.  
+Candidate can make qualitative connections between the  
+math, the case, and the exhibits.
+115

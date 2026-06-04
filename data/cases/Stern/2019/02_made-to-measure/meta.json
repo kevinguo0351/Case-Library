@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2019_02_made-to-measure",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 2,
+  "case_name": "Made to Measure",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 49,
+  "pdf_page_end": 55,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    50,
+    51,
+    52,
+    54,
+    55
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p055.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\02_made-to-measure"
+}

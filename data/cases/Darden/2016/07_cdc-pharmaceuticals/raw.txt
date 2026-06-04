@@ -1,0 +1,199 @@
+===== PDF p89 =====
+CASE 7:
+CDC Pharmaceuticals 
+Firm Style
+Interview Round
+McKinsey
+Round 1
+Clarifying information (provide only if corresponding questions are asked)
+•
+Construction Logistics: the new plant would be built in North Dakota, and operations would continue 
+throughout the project (no lost production)
+•
+Pricing: there would be no impact on price (CDC would achieve the same selling price, regardless of how/where 
+the products are manufactured)
+•
+Capacity: non-issue for both options
+•
+Volume: CDC currently manufactures 50 million units/year
+Case Question
+Our North Dakota-based client, CDC Pharmaceuticals, manufactures and distributes over-the-counter cold, allergy 
+and flu medicines sold in convenience stores across the United States.  CDC’s current manufacturing plant is 
+severely outdated, and the company’s management team is in the process of evaluating two options for future 
+production.  CDC would like our help in determining whether it should build a new plant or outsource production to 
+a third-party manufacturer.
+Since this is a McKinsey interviewer-led case, you should quickly guide the candidate to the first question.
+
+
+===== PDF p90 =====
+CDC Pharmaceuticals
+• Question 1: How would you evaluate the two options under consideration, 
+and what are some of the factors you would explore in order to help CDC 
+make its decision?
+• Candidate should immediately recognize this question as a prompt to 
+create a framework for comparing the two options
+• Average responses address only the financial advantages/disadvantages of 
+the two options via a profit tree or some comparable framework
+• Good responses introduce non-financial criteria into a primarily financial 
+analysis
+• Great responses thoroughly evaluate the two options using both financial 
+and non-financial decision-making criteria
+Response example included on next slide
+
+
+===== PDF p91 =====
+CDC Pharmaceuticals
+Financial
+Non-Financial
+Revenues
+Costs
+Operations
+Product
+Industry/
+Competition
+Image/
+Strategy
+• Price:
+• Impact of
+manufacturing 
+method on price 
+(quality, 
+consumer 
+preference)
+• Volume:
+• Breakeven
+• Capacity
+• Current
+production 
+volume vs. 
+demand
+• Variable:
+• Manufacturing
+• Distribution
+• Fixed:
+• Annual fee to 
+third-party?
+• Savings due to 
+outsourcing?
+• Set-up:
+• Contract for 
+third-party
+• Investment in 
+plant
+• CDC’s 
+manufacturing
+capabilities/exper
+tise
+• Production 
+volume flexibility
+• Quality control
+• Ability to 
+diversify/add 
+products
+• Is the industry 
+trending 
+toward/away 
+from 
+outsourcing?
+• Are competitors 
+using third-party 
+manufacturers?
+• Competitive 
+response?
+• Community ties 
+gained/lost by 
+building?
+• Benefits to 
+producing locally
+• Impact on 
+employee 
+satisfaction 
+(relocations, lay-
+offs, improved 
+conditions)
+• Question 1 Answer:
+
+
+===== PDF p92 =====
+CDC Pharmaceuticals
+• Question 2: At what unit volume are the two options equally attractive for 
+CDC?
+• Interviewer should provide the candidate with the following information 
+only (candidate should calculate unit contribution and set up equations)
+• Clarification: for the third-party option, the manufacturing cost is $0.75/unit for the 
+first 20 million units and $0.25/unit for all additional units
+New Plant
+Third-Party
+≤20 million units >20 million units
+Selling Price
+$3.00
+$3.00
+$3.00
+Manufacturing Cost
+$0.50
+$0.75
+$0.25
+Set-Up Cost
+$52.5 million
+$0
+
+
+===== PDF p93 =====
+CDC Pharmaceuticals
+• Question 2 Answer:
+• Candidate should first calculate the contribution margin under each scenario and 
+set up an equation to solve for the unit volume that makes the two options 
+equally attractive
+• Equation: 
+•
+2.50*(x units) = 2.25*(20 million units)+2.75*(x-20 million units)
+•
+Where x = the unit volume that generates the same contribution under both options
+• Solution:
+•
+x = 40 million units
+• Excellent candidates will:
+• Recognize that 40 million units is less than CDC’s current annual production of 50 
+million units
+• Calculate the breakeven volume for the new plant ($52.5 million / $2.50 = 21 million 
+units = 42% of annual volume CDC will recover investment cost in less than 1 year)
+• Make the interim determination that CDC should build the new plant
+New Plant
+Third-Party
+≤20 million units >20 million units
+Contribution Margin
+$2.50
+$2.25
+$2.75
+
+
+===== PDF p94 =====
+CDC Pharmaceuticals
+• Question 3: Suppose you are the governor of North Dakota.  What factors 
+might you consider in encouraging CDC to build the new plant and maintain its 
+operations in your state?
+• This question is intended to test the candidate’s creativity and ability to pivot in the case.  
+There is no right or wrong response; however, it is crucial that the candidate demonstrate 
+his/her ability to generate a comprehensive and structured list of factors.  The interviewer 
+should probe and challenge the candidate’s reasoning until an exhaustive, justifiable list has 
+been established.
+• Average response: candidate brainstorms a short, unstructured lists of factors
+• Good response: candidate comes up with a number of ideas without issue but lacks 
+structured thinking
+• Great response: candidate considers various perspectives and proactively creates a 
+structure to discuss a comprehensive list of factors
+Personal
+State Government
+•
+Re-election
+•
+Display of corporate favoritism?
+•
+Image (association with industry, support of 
+environmental consciousness, etc.)
+•
+Employment
+•
+Taxes (initial incentive but future base)
+•
+National credibility

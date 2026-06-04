@@ -1,0 +1,139 @@
+===== PDF p80 =====
+76
+ Our Client is the government of a large city. (Think Chicago, New York or Los Angeles) 
+They plan to provide free wireless connection to all of their residents by building Wi-Fi 
+hotspots covering the entire city. They hired McKinsey to help them determine whether or 
+not they should do it.   
+ Industry: Public Sector
+ Difficulty: Medium
+ Format: Interviewer led
+Case 3: Wireless City, McKinsey (Round 1)
+Problem Statement
+Type of Case
+Interviewer Guidance
+ This is a typical McKinsey style case. You begin with 
+testing the interviewee’s capability of building a 
+framework for an uncommon topic, followed by two 
+brainstorm questions. The math part of the case is a 
+geometry question, which is likely to hit the 
+interviewee’s unprepared area. 
+
+
+===== PDF p81 =====
+77
+Sample Framework
+Clarifying Information on Request
+Clarifying Information and Case Guidance
+ Criterial or Goal: There is no clear decision 
+making criteria. Our Client’s goal is to maximize 
+the Wi-Fi for the residents. They would like to 
+hear our thoughts about the potential benefit of 
+this project. 
+ Customer: The target users are the city 
+residents. If the candidate asks whether tourists 
+can use the service, tell them the client want us 
+to make a recommendation. 
+ Location: United States. 
+ Budget: There is no budget for this project yet. 
+However, cost is certainly a consideration in 
+decision making.
+ In-house or outsourcing: Our Client want us to 
+make a recommendation on this. 
+ Tech-ready? : Yes, all required technologies are 
+available in the market.
+-
+Benefit
+-
+Individual
+-
+Commercial 
+-
+Public
+-
+Cost
+-
+Initial investment
+-
+Maintenance and service
+-
+Alternatives (commercial Wi-Fi, 4G network)
+-
+Are alternatives good enough?
+
+
+===== PDF p82 =====
+78
+ After the candidate explains the framework, mention: 
+ Our client likes your analysis. They did some further research and finalized the details of how the Wi-Fi hotspots 
+operate.  Each Wi-Fi hotspot can cover a certain area. When any opened, Wi-Fi capable device enters this area, 
+the Wi-Fi hotspot will notice and begin to trace its location. The owner of the Wi-Fi device can login to the wireless 
+network for free with a unique ID and password provided by the government. Once logged in, the owner’s name 
+and location will be traced by the Wi-Fi hotspot.
+ Given these details, can you think about possibly uses given the location, time and login ID data collected by the 
+Wi-Fi hotspots? 
+Brainstorming Question
+Brainstorming Question A
+Brainstorming Solution
+Keep pushing the candidate for at least 5-6 answers. Some possible answers include:
+-
+Crime prevention
+-
+Traffic network design
+-
+Urban planning
+-
+Push advertisement for nearby restaurants or stores
+-
+Find the “hot location” for new restaurants or stores 
+-
+Real-time traffic monitoring
+
+
+===== PDF p83 =====
+79
+ Regardless of whether or not the candidate mentioned crime prevention, ask the following: 
+ Now let’s talk about crime prevention. One government officer suggested that when a crime is 
+reported, the police can narrow down the suspect by looking at the data of the nearby Wi-Fi 
+hotspot. Do you think this is a good idea?   
+Step One  
+Brainstorming Question B
+Step Two
+ Allow the candidate to brainstorm some pros and cons until he mentions that if someone intends to do 
+something bad, he will not login the Wi-Fi in order to avoid his data being tracked. Then mention:
+ One officer had a similar concern, so he suggested that the government should not let the public 
+know that their ID and location will be recorded by the Wi-Fi hotspot. What do you think?
+Step Three
+ This is an open ended question. The candidate may talk about the importance and potential backlash 
+from the public. Push the candidate to see if they can defend their position logically. 
+
+
+===== PDF p84 =====
+80
+ Our client collected quotes for the total cost of the project and the best quote was $30M. To benchmark, 
+they want to see how much the project will cost if they install the Wi-Fi hotspots by themselves. The size 
+of the city area is 40*25 and each hotspot can cover a circle area with radius of 5. Our client want to 
+cover 100% of city area. Each Wi-Fi hotspot cost $1M. Do you think it is better for the client to install the 
+hotspots or to outsource?
+Math Question
+Math Questions and Solutions
+Potential Clarification Questions
+The following information should only be given when asked:
+ If the client were to launch the project, $20M is the total initial cost (service costs are not included)
+ $1M is the total cost of installing one Wi-Fi hotspot, including labor, equipment, etc.
+
+
+===== PDF p85 =====
+81
+Math Question Solution
+Math Questions and Solutions
+ A candidate with really strong math will figure that four WiFi hotspots can cover a 10√2 * 10√2 square 
+area. Therefore, the 40*25 triangle area needs (40/14) * (25/14) * 4 = 3*2*4 = 24 hotspots. (See below)
+ As long as the answer is within the 24 – 28 range and the methodology makes sense, it can be 
+considered a good answer.  However, if the candidate directly divided the area of the triangle (1000) by 
+the area of the circle (3.14*5^2= 80) and got ~13, you should remind them that a triangle’s area can not 
+be perfectly covered by circles without overlap. 
+ A good candidate will synthesize that the total installing cost will be lower than $30M but not far away 
+from it. Considering that the extra admin cost of in-house approach, accepting the $30M outsource cost 
+may still make sense. 
+ After the math question, let the candidate make a recommendation 
+and conclude the case. 

@@ -1,0 +1,165 @@
+===== PDF p64 =====
+©2009 Tuck Consulting Club. All rights reserved.
+33
+Tuck Consulting Club
+Only you can prevent accidents!
+Case Description: This case explores the application of GPS technology to save money on medical
+claims from car accidents.  Written structures, although suggested and useful, are of less importance
+than creative, yet structured, thinking.
+Inventory: [no exhibits]
+Industry: Technology
+Potential applicable frameworks:
+Profitability
+3 C’s
+Value Chain
+Microecon. Analysis
+Market Entry
+4 P’s
+Supply Chain
+Internal / External
+Competitive Threat
+Porter’s 5 Forces     Market Sizing
+Other (Pricing)
+Introduction
+A friend of mine at MIT has come to us for help.  He was given a $20 million grant to think of a
+cool, yet socially responsible, technology.  After some time, he has finally created a product that is on
+the brink of commercialization.  It’s a GPS device that is placed into a car and senses the type
+and severity of a car accident.  It immediately transmits this information back to emergency
+services, which then deploys resources to the accident scene.  This service is most valuable for the more
+severe accidents, otherwise known as “Type A” accidents.  At this point, my friend is
+considering a pilot in the Chicago area.  Before he moves forward, he would like us to help him
+answer the following questions:
+Question 1: How large is this market opportunity?
+Question 2: What methods should he use to price the device? (qualitative rather than quantitative
+answer)
+
+
+===== PDF p65 =====
+©2009 Tuck Consulting Club. All rights reserved.
+34
+Only you can prevent accidents! (continued)
+Case Details
+Question 1: How large is this market opportunity?
+Info to be given if asked:
+•
+1 million cars in Chicago
+•
+1% of cars get into Type A accidents per year
+• The average Type A accident medical claim is $100,000
+• The new device should save $50,000 per claim
+Info to be given as case progresses:
+•
+“Market opportunity”= the size of the potential market
+o Market does not equal (# of sales x sale price). It is a measure of the “potential”
+opportunity (read: if the product reached 100% market saturation and extracted
+100% of the value of the product).
+o Focus on medical claims only.  The interviewer should let the interviewee be
+creative and suggest other ideas for a bit (i.e. device may result in other savings);
+however, suggest that the candidate size the market based on medical claims
+•
+Hopefully, interviewee keyed in on “Type A accidents” statement in the opening.  For
+simplicity, he/she should focus on Type A accidents.
+• Focus on Chicago market opportunity only.
+Question 2: How would you price this device?
+Info to be given if asked:
+• Fully-loaded device costs $400 (this is not price—but cost of making device)
+Info to be given as case progresses:
+•
+Don’t give but rather ask the interviewee to think about the following:
+o Who is the customer?
+o Who are the stakeholders (who is interested in it):
+End user (car driver)
+
+Other individuals (family, other party in accident, community) 
+Insurance companies (primarily health, but also life and P&C) 
+Government
+OEM’s (i.e. Ford)
+Mechanics
+
+Medical community, including emergency services 
+Competitors
+Investors
+Etc.
+
+
+===== PDF p66 =====
+©2009 Tuck Consulting Club. All rights reserved.
+35
+Only you can prevent accidents! (continued)
+•
+Once interviewee has listed them, ask him to think about the impact of some of the
+stakeholders. Examples include:
+o Government: makes it mandatory
+o OEM’s/mechanics: installing devices in new/used cars o
+Community: social mandates
+o Investors: need for return
+o
+(Potential) competitors: imitation (is this a defensible patent?)
+
+
+===== PDF p67 =====
+©2009 Tuck Consulting Club. All rights reserved.
+36
+Only you can prevent accidents! (continued)
+Recommended Solution
+Question 1 Details
+• Market Opportunity = Device Savings Per Claim * Type A Accidents/Year
+o Device Savings Per Claim = ($100,000- $50,000)
+= $50,000
+o Type A Accidents/Year
+= (1,000,000 * 1%)
+= 10,000
+o Market Opportunity
+= $50,000 * 10,000
+= $500 million
+• A good answer will get to the $500 million number
+• A better answer will get to the $500 million number using a structured framework
+• A superior answer will also talk about one or several of the following:
+o New product diffusion curve (the product will be adopted over time) o
+Other values of the device (beyond claims savings)
+o Device compatibility: can this device be used in any car?
+• Things to avoid:
+o Getting stuck on the definition of “market opportunity”
+Question 2 Details
+•
+A good answer will discuss various aspects of the pricing framework:
+o Pricing strategy framework:
+1. Prepare marketing analysis:
+a. Customers
+i.
+Segments
+ii.
+Targeting
+iii. Positioning
+b. Competitors/substitutes
+2. Make marketing mix decisions
+3. Estimate demand curve
+4. Calculate cost
+5. Understand environmental factors
+6. Set pricing objective, which may be one of the following:
+• Profit maximization
+• Revenue maximization
+• Profit margin maximization
+• Quality leadership
+• Partial cost recovery
+• Survival
+
+
+===== PDF p68 =====
+©2009 Tuck Consulting Club. All rights reserved.
+37
+Only you can prevent accidents! (continued)
+7. Pricing methods:
+• Cost-plus
+• Target return pricing
+• Value-based pricing
+• Psychological training
+• Competitor pricing
+• Marginal pricing
+•
+A better/superior answer will delve into various aspects of the aforementioned
+framework in some detail:
+o Customer: Who is it? Are there multiple ones (i.e. end user, insurance
+companies)?
+o Environmental factors: Is it a defensible patent? Should the government make it
+mandatory?

@@ -1,0 +1,279 @@
+===== PDF p217 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 18: Midwest Hospital, BCG (Round 2)
+ Midwest Hospital is a research-based hospital and takes pride in its joint replacement surgery 
+department. Recently Midwest Hospital did a P&L analysis for all departments and found that the joint 
+replacement surgery department is providing losses
+ The CEO has asked us to help out
+ Industry: Healthcare
+ Difficulty: Hard
+ Format: Profitability
+ Concepts Tested: Average 
+Variable Cost, Competitive analysis
+•
+If the candidate asks tell him/her that there are no financial 
+targets. 
+•
+Candidate should figure out during the course of the case 
+that there are several levers that can increase profitability: 
+•
+Increase price 
+•
+Change patient mix 
+•
+Increase total number of surgeries 
+•
+Decrease costs 
+•
+Provide post surgery services such as physiotherapy
+
+
+===== PDF p218 =====
+214
+Interviewer Guidance to Case and Exhibits
+Clarifying Information on Request
+•
+At some point near the start of the case, 
+interviewer should take the lead and ask these 
+questions after Exhibits has been given 
+•
+Exhibit 1: Would it be advisable to not cater to 
+Medicare patients (assume no backlash)? 
+•
+Exhibit 2: What is the number of surgeries that 
+Midwest needs to conduct in a year to 
+breakeven? 
+•
+Exhibit 3: Why is Company D able to stay 
+profitable despite having fewer patients and 
+unfavourable patient mix? 
+Clarifying Information and Case Guidance
+•
+Give the Exhibits in the subsequent slides 
+only when the candidate asks for the relevant 
+data.
+•
+Focus of this case is only on joint 
+replacement surgery
+
+
+===== PDF p219 =====
+215
+Possible Framework
+Possible Framework
+Profit = Revenues – Costs
+Revenues:
+No. of Surgery
+•
+Complexity of Surgery
+•
+Patient Mix
+•
+Price 
+•
+Other Charges 
+•
+eg: Bed, Medicines
+Post Surgery
+•
+Visits
+•
+Medicines
+•
+Competition:
+Price
+•
+Patient Mix
+•
+Better facilities/Equipment
+•
+Costs:
+Fixed Costs
+•
+Hospital
+•
+Doctors
+•
+Equipment
+•
+Insurance
+•
+License
+•
+Variable Costs
+•
+Visiting Doctors/Surgeons
+•
+Govt. regulation
+•
+Customers:
+Age Group
+•
+Paying with Insurance
+•
+
+
+===== PDF p220 =====
+216
+•
+Exhibit 1: Would it be advisable to not cater to Medicare patients (assume no backlash)? 
+•
+Exhibit 2: What is the number of surgeries that Midwest needs to conduct in a year to breakeven? 
+•
+Exhibit 3: Why is Company D able to stay profitable despite having fewer patients and unfavourable 
+patient mix? 
+Math Questions
+Math Questions and Solutions
+•
+On a fully cost allocated basis Medicare patients are unprofitable but they are still paying $1K above 
+the variable cost (marginal cost). This helps cover the fixed costs of the department. So, it is not 
+recommended to stop conducting surgeries for Medicare patients
+•
+Average revenue per patient is 19K. Average variable cost is 14K. Gross margin per patient is 5K. 
+Fixed costs are 7M, so 1400 surgeries are required for breakeven. Assuming same proportion as in 
+Exhibit 1 the hospital requires 140 commercial, 420 insurance, and 840 Medicare patients
+•
+Comp D might have a lower cost structure or may be able to negotiate better pricing from payers
+Math Solutions
+
+
+===== PDF p221 =====
+217
+•
+Evaluate potential risks to increasing the number of surgeries
+Brainstorming Question
+Brainstorming Questions and Solutions
+•
+There might not be enough market demand and increasing surgeries would mean stealing market 
+share from competitors
+•
+The competitors might reduce the price and enter a price war
+Brainstorming Solution
+
+
+===== PDF p222 =====
+218
+Recommendation
+Increase total number of patients to cover 
+•
+Change mix of patients to have a higher proportion of 
+•
+commercial and insurance customers
+See if you can negotiate with insurance and gov.
+•
+Risk Factors
+Those gained from brainstorming
+•
+Recommendation
+Conclusion
+•
+Star candidates quickly identify the competitor D has a similar patient mix but is still profitable
+•
+Candidate should provide a reason as to why the client should not eliminate Medicare patients
+•
+Candidate should bring up idea that joint replacement department may be a loss leader and provides 
+synergies with other department offerings
+Excellent Case Answers
+•
+Analyze scope for cost reduction, 
+starting with competitive benchmarking
+•
+Analyze scope for increase in price, 
+starting with competitive benchmarking
+•
+Analyze profitability of post care 
+services provider
+•
+Start conversations with 
+reimbursement providers
+Next Steps
+
+
+===== PDF p223 =====
+219
+Exhibit 1: Patient Mix
+Payer Type
+# Surgeries
+List Price
+Invoiced Price
+Commercial
+(Enterprises)
+100
+$40,000
+$40,000
+Insurance
+300
+$40,000
+$20,000
+Medicare 
+(Government)
+600
+$40,000
+$15,000
+
+
+===== PDF p224 =====
+220
+Exhibit 2: Joint Replacement Department P&L
+$M
+Revenue
+19
+VC
+Physician
+5
+Materials
+5
+Others
+4
+FC
+Facilities
+3.5
+Others
+3.5
+Total Costs
+21
+Profit
+($2)
+
+
+===== PDF p225 =====
+221
+Exhibit 3: Competitive Benchmark
+Surgeries
+Commercial
+HMO
+Medicare
+Profitable
+Midwest
+Hospital
+1000
+10%
+30%
+60%
+No
+Comp A
+1200
+20%
+20%
+40%
+Yes
+Comp B
+800
+30%
+20%
+50%
+Yes
+Comp C
+900
+10%
+20%
+70%
+Yes
+Comp D
+1000
+5%
+25%
+75%
+Yes

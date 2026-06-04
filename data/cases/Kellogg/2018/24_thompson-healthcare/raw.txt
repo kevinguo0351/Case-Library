@@ -1,0 +1,196 @@
+===== PDF p176 =====
+172
+Thompson Healthcare
+Case tracker
+Case Question
+▪Our client is Thompson Healthcare, a health insurance firm located in the Midwest.
+▪Customers pay Thompson a fixed monthly premium per person covered under the plan. In exchange, Thompson pays for
+all health services that each member requires (e.g., physician care, prescription medications, hospitalization).
+▪In recent years, Thompson’s financial and competitive position has begun to erode, and the CEO has retained our firm to 
+help them determine what is causing the problem and how to fix it.
+Guide to interviewer
+By: Aaron Mowery (Kellogg Class of ‘13)
+▪Industry: Healthcare
+▪Case format: Cost reduction
+▪Concepts being tested:
+- Cost management
+- Sales channel strategy
+- Economic value analysis
+Read to the Interviewee before beginning:
+This case is based on a real McKinsey study, and has been
+formatted as a McKinsey-style structured case.
+Before asking you any questions about the case, I will give
+you the background that you will need.
+There are a number of issues that I would like to cover with
+you today; please do not be surprised if I seem to change
+topics abruptly.
+Quant: 8
+Structure: 9 
+Industry: Healthcare
+Framework: Cost 
+Reduction
+Interviewer-Led Case
+
+
+===== PDF p177 =====
+173
+Clarifying answers and case guide
+Guide to case / Guide to handouts
+Clarifying answers to provide
+▪State the information to the left after reading the initial prompt, the
+interviewee should be able to develop a variant of the following
+question:
+How can Thompson Healthcare reduce its total cost to serve its
+policy holders?
+▪Ideally, the interviewee should be able to break down the question
+into two parts:
+1. Managing medical costs
+2. Managing administrative costs
+▪This case is formatted as a McKinsey-style structured case. You should
+ask the interviewee the questions on pages 3-7 of this case directly
+and move on to the next page when the interviewee has answered
+the question sufficiently.
+Client Characteristics
+•
+Thompson Healthcare is a mutual insurance
+company, meaning all of its profits are
+returned to members in the form of lower
+premiums the following year. As such,
+Thompson does not seek to maximize profit
+– it seeks to minimize cost.
+•
+Thompson’s prices reflect underwriting of 
+risk and the underlying cost to serve a
+customer
+Competitive Dynamics
+•
+Market share is steady, despite presence of
+major national health insurance company in
+the market (United Healthcare - UHC).
+•
+UHC has a 30% market share.
+•
+UHC typically expects to earn a 5% profit
+margin.
+Local industry Characteristics/Economics
+•
+The national average rate of medical cost
+inflation is 10% over the past five years.
+•
+Thompson has seen medical cost inflation
+of 12% over the past five years.
+•
+UHC has seen medical cost inflation of 10%
+over the past five years.
+
+
+===== PDF p178 =====
+174
+Key elements to analyze
+Problem structure
+What factors would you consider in order to understand Thompson’s eroding financial position? 
+Note to interviewer
+▪
+The interviewee should lay out a structure for analyzing the case.
+▪The interviewee could have determined that revenue is not relevant to this case based on
+information given in the initial prompt on page 1 and 2, so the interviewee should focus on
+cost.
+▪Costs in this case break out into fixed costs and variable costs:
+▪Variable costs (medical costs – claims made by policyholders)
+▪Fixed costs (administrative costs – e.g., marketing & sales, underwriting, finance, HR)
+▪Specifically, we will need to understand how these costs have changed in recent years.
+1
+
+
+===== PDF p179 =====
+175
+Key elements to analyze
+Initial hypothesis
+Medical costs are the largest component of Thompson’s costs. However, Thompson’s medical 
+costs are increasing faster than the national average. What are some potential reasons why this is
+taking place? What potential opportunities could you explore to reverse this trend?
+Note to interviewer
+▪Medical cost = (Number of claims) * (Cost per claim)
+▪Potential answers include:
+▪Deductibles are low, leading members to see doctors for minor medical issues ->
+increase deductibles to make members more conscious of costs
+▪Thompson pays more for procedures than average -> conduct benchmarking study to
+determine what competitors charge for various procedures
+▪Thompson insures an older population than average -> increase marketing efforts
+toward younger customers
+▪Thompson insures a sicker population than average -> enhance wellness programs
+2
+
+
+===== PDF p180 =====
+176
+Key elements to analyze
+Second hypothesis
+In addition to medical costs, administrative costs for Thompson are also higher than average. The biggest driver of this
+phenomenon is a high cost of sales. Thompson’s policies are sold through independent agents. All independent agents 
+work with a “General Agency” which acts as a sales support organization. How much does Thompson pay in 
+commissions each year? What are some potential approaches Thompson could take to reduce its cost of sales? What
+potential strategic issues exist with these approaches?
+Note to interviewer
+Additional information to provide after interviewee explains how they would calculate commission expense
+▪Commission (10% of annual premiums) is paid to the General Agency, which passes a share to the independent
+agent. Total commission paid is, on average, $25 per agent, per month.
+▪Interviewee should identify the need for # of agents. Give the number 500,000 if asked.
+▪Total commission expense = $25 * 500,000 * 12 = $150,000,000
+▪Potential approaches to reduce cost of sales:
+▪Reduce commission percentage
+▪Cap commission to a certain level per year
+▪Change commissions structure from percent of premium to flat fee (percent of premium increases at the rate
+of medical cost inflation every year)
+▪Potential risks with these approaches:
+▪Agents could shift business from Thompson to another carrier that pays higher commission
+▪Agents would lose incentive to sell if their commission is capped
+3
+
+
+===== PDF p181 =====
+177
+Key elements to analyze
+Next level of analysis
+The team has decided to pay a flat commission directly to agents, and to pay the General Agencies a separate
+fee for the support services they provide to agents. If the total commission paid to both parties is set at $20
+per member per month, what share should be given to the General Agencies?
+(If interviewee is unsure of “what share” means, explain they should find the maximum amount that should be 
+allocated to the General Agencies.)
+Note to interviewer
+Additional information
+▪General Agencies perform three activities: training, application processing, and performance management.
+▪If Thompson were to perform these activities internally, they would cost:
+▪Training: $6,000,000
+▪Application processing: $9,000,000
+▪Performance management: $15,000,000
+Potential approach
+▪The total cost of the activities that General agencies perform is $30,000,000 (=$6,000,000 + $9,000,000 +
+$15,000,000).
+▪There are 500,000 members and 12 months in a year.
+▪The maximum amount of money Thompson should be willing to pay the General Agencies for the activities
+performed is the per member, per month cost of these activities ($30,000,000 / (500,000 * 12) = $5
+4
+
+
+===== PDF p182 =====
+178
+Wrap-up
+Final recommendations
+Taking into account what you’ve learned thus far as well as your own additional hypotheses, what 
+initiatives would you recommend to the CEO at this point?
+Note to interviewer
+▪Our client should take action to reduce both medical costs and administrative costs.
+▪At this point, the interviewee should synthesize the findings from the interview into several
+clear initiatives, for example:
+▪Enhance marketing efforts to attract more young customers and bring down the average
+claims per member.
+▪Conduct a benchmarking study to determine opportunities for reductions in payments
+for medical services.
+▪Change the commission structure to flat fee per member per month. This achieves the
+goal of reducing commission expense, while at the same time keeping an agent’s 
+incentive to sell more business.
+▪Strong interviewees will demonstrate the ability to analyze issues using a clear structure and
+will draw out the implications of their analysis. The quantitative calculations in this case are
+elementary, but the process to get to them is somewhat more complicated.
+5

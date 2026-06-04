@@ -1,0 +1,149 @@
+===== PDF p9 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business 
+Page 6 
+ 
+ 
+Case 2: Apollo Medical Labs  
+Company: McKinsey & Co 
+ 
+Your client is a chain of Medical laboratories. The labs cater to patients who need MRI, CT scans and 
+other major tests to be performed. The labs own several expensive testing equipments and there are 
+chain has currently about 200 such labs. Doctors usually refer the patients to these testing centers. 
+The client is now worried about the profits and has hired you to evaluate the situation. 
+ 
+Specific objectives: No specific targets 
+ 
+Instructions to the interviewer: There no specific profit targets. The idea is to see if the candidate 
+can generate as many reasons for potential sales decline, cost increase and price reduction. This way 
+we can you can test the candidate’s ‘Clock-Speed. ’Then later make the candidate go through a 
+bunch of Math to test his/her quantitative skills. 
+ 
+Suggested Structure: As mentioned above the candidate should address the following points 
+1) Why would sales be flat or going down? At least 7 reasons. If they don’t reach this limit, keep 
+asking ‘what else’. Once they reach move to the next point 
+2) Why may costs be going up? At least 7 reasons. If they don’t reach this limit, keep asking 
+‘what else’. Once they reach move to the next point 
+3) Why may price be going down or not increasing? At least 4 reasons. If they don’t reach this 
+limit, keep asking ‘what else’. Once they reach move to the next point 
+ 
+Quant question: In your analysis you find that some of the doctors who refer the patients to these 
+centers have started labs in their own clinics and this will impact the client’s revenues. Can you look 
+at the following table and find out the expected % impact on the client’s revenue 
+ 
+120
+69
+27
+18
+15
+15
+12
+12
+6
+6
+0
+20
+40
+60
+80
+100
+120
+140
+1
+2
+3
+4
+5
+6
+7
+8
+9
+>=10
+Average number of patients referred per day by doctors
+Annual revenue contribution in 
+Millions of dollars
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p10 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business 
+Page 7 
+ 
+How to answer this? 
+ 
+Only doctors who can make profits by owning labs will be willing to invest in expensive lab 
+equipment. Intuitively doctors who get more patients per day will be able to make profits. So the 
+number of patients a doctor needs per day to ensure payback for the investment he/she makes has 
+to be calculated. The candidate has to figure this out. Only after the candidates crack this idea, give 
+the following information. 
+ 
+Data: Provide the following data only when asked 
+ 
+Fixed Cost of Equipment to start 1 lab 
+$800,000  
+Average price charged per customer 
+$500  
+Variable cost per customer 
+$420  
+Life of the equipment in years 
+5 
+No.of days per year 
+250 
+ 
+Calculations: The calculations are shown below for the interviewer’s reference 
+ 
+A 
+Fixed Cost of Equipment to start a lab 
+$800,000 
+  
+B 
+Average price charged per customer 
+$500  
+  
+C 
+Variable cost per customer 
+$420  
+  
+D 
+Breakeven quantity (No.of customers) 
+10000 
+A/(B-C) 
+E 
+Life of the equipment in years 
+5 
+  
+F 
+Customers per year 
+2000 
+D/E 
+G 
+No.of days per year 
+250 
+  
+H 
+Number of customers required per day to 
+break-even 
+8 
+F/G 
+Note: No discounting of cash flow is required when considering the revenues from 
+customers over a 5 year period 
+ 
+Thus only doctors who get at least 8 patients per day will be able to get a pay back within 5 years. 
+This means only doctors who get more than 8 patients per day will start their own labs and steal 
+revenue away from our client. So out of the total revenue of $ 300million (Add from graph) revenues 
+of about $ 12 million may be lost (6+6). This means about 4% loss of revenue. 
+ 
+Question: What can the client do to remedy this situation or how should the client respond to this 
+situation? Creative ideas win points here. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

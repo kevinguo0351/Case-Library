@@ -1,0 +1,348 @@
+===== PDF p17 =====
+Tuck Consulting Club
+13
+Museum of Fine Arts
+Your client is a non-profit art museum -- let’s call it the Museum of Fine Arts, or MFA -- in a large, metropolitan city on the 
+East Coast with the largest collection of Impressionist and Post-Impressionist works in North America. Last year, it 
+attracted over 1 million visitors and acquired new pieces through Sotheby’s, a major auction house. Despite these 
+successes, the MFA’s revenue stream has been declining for the last two years, which is unusual when compared to 
+similar art museums. The current director, Matthew, has approached you for advice.
+Part A: Problem Structuring 
+What are sources of revenue for the MFA and why might revenue  have decreased?
+Case Prompt
+This is a longer, interviewer-led case divided into the following parts:
+Part 1: Problem Structuring
+Part 2: Data Analysis
+Part 3: Ticket Pricing
+Part 4: Membership Benefits
+▪
+Member lifetime value
+▪
+Breakeven probability 
+Part 5: Wrap-Up
+The challenge in this case rests in the non-profit nature of the museum – candidates may be unfamiliar with sources of funding 
+for non-profit organizations – as well as the probability-driven math involved in part 4.  Because both part 3 and 4 are 
+quantitative, the interviewer may elect to step part 3 or a portion of part 4 to save time.
+Note to Interviewer
+Type: Revenue
+Author: Ravi Darda T’17 & 
+Nancy Yang T’17
+
+
+===== PDF p18 =====
+14
+Part 1: Problem Structuring
+Sample Framework
+First, candidates should identity sources of revenue.  
+Because MFA is a non-profit organization, revenue comes 
+from sales (tickets, memberships, gift shop sales, etc.) but 
+also from individual giving (which depends on donor base, 
+frequency of donation, and average giving size), endowment 
+(which depends on annual distribution % as well as rate of 
+return), and grants (which can come from the government or 
+private foundations).
+If the candidate is limited to revenue = price * quantity, push 
+the candidate to think outside the number of visitors and 
+ticket prices.  
+Next, prompt the candidate to discuss why revenue might 
+have declined using his/her structure.  
+Candidate response should identify factors that have 
+changed recently and be context-specific. A poor response 
+might be ”the MFA has a small donor base, which leads to 
+low revenue.”  A stronger response might be “the MFA has to 
+compete against other causes for individual giving; perhaps 
+another prominent cause edged out giving to the arts in 
+general and to MFA specifically, as happened in the 
+aftermath of Katrina.”
+Behind the Framework
+Tuck Consulting Club
+Revenue
+Sales
+Tickets
+Memberships
+Ancillary purchases (gift 
+shop, audio tour)
+Giving
+Donor base
+Frequency of donation
+Average donation size
+Endowment
+Annual distribution
+Rate of return
+Grants
+
+
+===== PDF p19 =====
+Tuck Consulting Club
+15
+Part 2: Data Analysis
+Matthew gives you the following data on MFA’s ticket sales and membership enrollment over the last three years.  What do 
+you notice?
+Question
+Give the candidate Exhibit A.
+If the candidate asks about 
+membership, explain that 
+members play an annual fee for 
+access to the galleries, 
+exhibitions, and events.  
+If candidate asks whether 
+prices of tickets or 
+memberships have decreased, 
+tell the candidate that prices 
+have remained constant.
+Guidance
+From Exhibit A, candidate should notice that even though the combined number of 
+tickets and memberships sold increased, overall revenue has remained static and even 
+decreased.  Candidate should ask if price has decreased.  When told they’ve stayed 
+constant, candidate should conclude that tickets are likely priced lower than 
+memberships, and the decline in revenue is due to an increase in the number of tickets 
+sold but a decrease in the number of membership enrollments.
+Prompt candidate to brainstorm why memberships might have declined while ticket sales 
+increased.  Possible responses include:
+▪Changing composition of patrons by geography (out-of-town visitors are more likely to 
+purchase tickets than memberships, and the MFA’s visitor base has been skewing 
+toward tourists) or age group (MFA’s support base is becoming younger, and they 
+tend to support the museum through volunteering rather than memberships)
+▪Price sensitivity (membership fees are more expensive; all else equal, higher price 
+means higher price sensitivity in case patrons’ disposable income drops)
+▪Museum has become less effective at attracting new members or retaining existing 
+members (perhaps because of changing membership benefits or special exhibitions 
+that missed the target), 
+Candidate Insights
+
+
+===== PDF p20 =====
+Tuck Consulting Club
+16
+Part 3: Ticket Pricing
+In response to declining revenue, the MFA is considering two different initiatives.  One is to change individual ticket price and 
+the second is a revamp of the museum’s membership benefits.  Let’s consider pricing first.  The MFA currently prices adult 
+tickets at $12.  Last month, the museum conducted surveys of potential patrons to explore the public’s sensitivity to price, 
+shown below.  What price do you recommend?
+Question
+Give the candidate Exhibit B.
+This is essentially a demand 
+curve.  The candidate should 
+find revenue generated at 
+each ticket price by 
+multiplying price by the 
+quantity of people willing to 
+buy the ticket.  Provide 
+guidance as needed if 
+candidate is unsure how to 
+proceed.
+Guidance
+For quantity, candidate can look at Exhibit A and approximate 1M ticket buyers in 2015.  A 
+better approach here is to make the simplifying assumption of 100 potential patrons; thus, 
+at price of $12, revenue = $900 ($12 * 100 visitors * 75%).  Repeat the calculation at each 
+price point and we get the following:
+At price = $24, revenue = $360
+At price = $20, revenue = $800
+At price = $16, revenue = $960
+At price = $12, revenue = $900
+At price = $8, revenue = $760
+Conclusion: To maximize revenue, the MFA should set a ticket price of $16. A strong 
+candidate should name the tradeoff involved in raising prices: the MFA is a non-profit 
+organization with, presumably, a mission to increase access to art for all.  Increasing price 
+would likely reduce museum access to price-sensitive segments and thus be at odds with 
+the MFA”s mission.  Bonus points if the candidate tries to quantify impact: current revenue 
+= 1M ticket buyers (approximate, from Exhibit A) * $!2 = $1.2M; new revenue = 800k ticket 
+buyers (reference the demand curve: 75% * total population = 1M ticket buyers, so 60% * 
+total population = 800k) * $16 = $12.8M.  Additional revenue = $800k
+Candidate Insights
+
+
+===== PDF p21 =====
+Tuck Consulting Club
+17
+Part 4: Membership Benefits
+In addition to changing ticket prices, the museum is also considering improving its membership benefits.  Exhibit C shows the
+average revenue generated per member per year under its current membership benefits.  What’s the average expected 
+revenue generated from one member?
+Question: Member Lifetime Value
+Give the candidate Exhibit C.
+If the candidate asks, the probability that 
+a member continues his/her 
+membership from year 1 to year 2 is 
+80% and from year 2 to year 3 and 
+beyond is 50%. If the candidate begins 
+doing math without asking for this data, 
+the interviewer should provide it.
+For clarity, data provided for ”year 3 and 
+beyond” already includes future 
+retention and revenue after year 3.
+Guidance
+A strong candidate should recognize that while Exhibit C shows average 
+revenue generated per member per year, it does not take retention into 
+account, and ask for retention rate year to year.
+Calculation for average expected revenue per member:
+Year 1: $80 @ 100% probability = $80
+Year 2: $100 @ 80% probability = $80
+Year 3 and beyond: $200 @ 50% * 80% probability = $80
+Total average expected revenue = $240
+A strong candidate will realize that the 50% retention rate from year 2 to year 3 
+assumes that the member continued his/her membership into year 2, which is 
+an 80% probability, so the cumulative retention rate from year 1 to year 3 and 
+beyond is actually 50% * 80% = 40%.
+Conclusion: The MFA can expect to generate a lifetime revenue of $240 for an 
+average member. A strong candidate will point out that a) figure does not 
+include the cost of acquiring a member and b) the $240 value depends on 
+retention rate year-to-year, which is a lever the MFA should try to influence.
+Candidate Insights
+
+
+===== PDF p22 =====
+Tuck Consulting Club
+18
+Part 4: Membership Benefits.
+With a new set of membership benefits, the museum anticipates spending $1.2M (consider this a one-time, up-front cost) but 
+believes it will increase the probability that a member continues his/her membership from year 2 to year 3 and beyond.  Is it
+worth it?
+Question: Breakeven Probability
+If candidate asks for the current 
+number of members, tell the 
+candidate that the MFA expects to 
+keep a steady base of 11,500 
+members, which the candidate 
+can round to 12,000, over the next 
+few years.
+If the candidate is stuck, provide 
+guidance as necessary.  To gauge 
+whether the initiative is worth it, 
+the candidate should find the 
+breakeven probability (from year 2 
+to year 3 and beyond) at which the 
+museum would recoup its $1.2M 
+investment.  The candidate should 
+work backwards, shown on the 
+right.
+Guidance
+A strong candidate should recognize that to evaluate whether this initiative is worth it, 
+we can find the retention rate (from year 2 to year 3 and beyond) at which the 
+additional revenue offsets the $1.2M investment.
+• $1.2M / 12,000 members = $100 (additional revenue each member would need to 
+generate in year 3 and beyond)
+• Therefore, incremental revenue per member is: $100 = 80% * x * $200, where x is 
+the increase in retention rate from year 2 to year 3
+• .8x = .5
+• x = 0.625, which would mean the breakeven retention rate from year 2 to year 3 = 
+0.5 + 0.625 = 1.125 or 112.5%
+Conclusion: To breakeven, the initiative would have to result in a greater than 100% 
+retention rate from year 2 to year 3, which is impossible.  This initiative is therefore not 
+worth undertaking.  The candidate could also point out that making membership 
+benefits more attractive could cannibalize ticket sales, which, if not fully accounted for 
+in the $1.2M upfront cost, is another reason not to pursue this initiative.
+Candidate Insights
+
+
+===== PDF p23 =====
+You are at the museum for a client meeting and run into Matthew in the 
+elevator.  He asks for an update.
+The candidate should identify the changing mix of ticket sales and 
+membership enrollment as a cause of the decline in revenue.  From 
+there, the candidate can recommend raising ticket prices from $12 to 
+$16, and quantify the impact at about $800k. As for the membership 
+initiative, the $1.2M investment cost is too high and will not be 
+recouped from increased membership revenues.  
+This case tests a candidate’s understanding of 
+non-profit organizations as well as quantitative 
+intuition.
+A solid candidate will identify revenue drivers 
+beyond just ticket price and number of visitors 
+and generate reasonable, if not entirely context-
+specific, reasons why revenue may have 
+decreased.  S/he should recognize change in 
+mix when given Exhibit A, find the revenue-
+maximizing price when given Exhibit C, and 
+calculate member lifetime value (with guidance 
+on retention year-to-year).
+A strong candidate will recognize tradeoffs 
+between revenue and access in the event of a 
+ticket price increase as well as the potential for 
+memberships to cannibalize ticket sales and vice 
+versa.  Quantitatively, a strong candidate should 
+think to ask about retention rate and 
+membership base in Part 4 without prompting 
+and quantity the impact of higher ticket prices in 
+Part 3.  Finally, a strong recommendation should 
+include alternative ideas for increasing revenue.
+Raising ticket prices carries a tradeoff between the museum’s top line 
+and its mission of increasing the public’s access to art.  The MFA may 
+want to look at price sensitivity of specific segments, like schools, to 
+gauge how a price change will impact access to the museum
+As for the membership initiative, a strong candidate should note that 
+membership enrollment and ticket sales are, to some extent, 
+competing (increase in membership enrollment could cannibalize ticket 
+sales and vice versa) and suggest alternative ways for the MFA to 
+increase its revenues such as renting out space for events, targeting 
+new or different segments in its individual giving campaigns, offering 
+summer programs or events to capitalize on students’ summer 
+vacation, etc.  
+Tuck Consulting Club
+19
+Museum of Fine Arts: Wrap-Up
+Recommendation
+Candidate Evaluation
+Risks and Next Steps
+
+
+===== PDF p24 =====
+Tuck Consulting Club
+20
+Exhibit A
+Ticket Sales and Membership Enrollment
+2013
+2014
+2015
+Tickets and memberships sold (thousands)
+890
+935
+1,021
+Revenue from ticket sales and membership fees ($M)
+13.0
+13.3
+13.2
+
+
+===== PDF p25 =====
+Tuck Consulting Club
+21
+Exhibit B
+Survey Results on Price Sensitivity
+$0
+$4
+$8
+$12
+$16
+$20
+$24
+$28
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Ticket Price
+% Surveyed Willing to Buy
+
+
+===== PDF p26 =====
+Tuck Consulting Club
+22
+Exhibit C
+Member Lifetime Value
+Year 1
+• Average revenue: $80
+Year 2
+• Average revenue: 
+$100
+Year 3 and 
+beyond
+• Average revenue: 
+$200

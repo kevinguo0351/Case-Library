@@ -1,0 +1,40 @@
+{
+  "case_id": "Ross_2016_20_lawn-co",
+  "school": "Ross",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2016.pdf",
+  "idx": 20,
+  "case_name": "Lawn Co.",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Consumer Services / Landscaping",
+  "difficulty": null,
+  "pdf_page_start": 233,
+  "pdf_page_end": 244,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    233,
+    235,
+    236,
+    237,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p233.png",
+    "exhibits/exhibit_p235.png",
+    "exhibits/exhibit_p236.png",
+    "exhibits/exhibit_p237.png",
+    "exhibits/exhibit_p239.png",
+    "exhibits/exhibit_p240.png",
+    "exhibits/exhibit_p241.png",
+    "exhibits/exhibit_p242.png",
+    "exhibits/exhibit_p243.png",
+    "exhibits/exhibit_p244.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2016\\20_lawn-co"
+}

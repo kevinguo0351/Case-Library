@@ -1,0 +1,420 @@
+===== PDF p63 =====
+SneakyChat
+59
+Industry: Tech
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p64 =====
+Behavioral Questions
+60
+• Tell me about the best day you had at your last job.
+Question 1:
+• If we were to give you an offer tomorrow would you accept it, and why?
+Question 2:
+
+
+===== PDF p65 =====
+SneakyChat
+61
+• Your client, SneakyChat, is a wildly popular Silicon Valley startup with a rapidly 
+growing user base. SneakyChat’s App allows users to send expiring pictures as well 
+as connect with local people in their area. A potential acquirer has offered to 
+purchase the Company for $500m, but on the condition that the Company will 
+generate $2m in cumulative net income over the next 3 months, and have at least 
+700k daily active users as of the end of month 3. SneakyChat’s CFO has hired you to 
+help hit these metrics.
+Prompt #1:
+• SneakyChat currently only operates in the US
+• No current revenue, as company has focused solely on user growth and not 
+monetization
+• Company started operations this year
+• Net Income and daily active users are total at the end of 3 months
+Interviewer Guidance:
+
+
+===== PDF p66 =====
+Exhibit #1 – Current Operations
+62
+SneakyChat Operations
+(in thousands)
+Current Month
+# Daily Active Users
+100
+                         
+Revenue
+-
+$                            
+Employee Costs
+150
+                         
+Rent Costs
+50
+                           
+Marketing Costs
+-
+                              
+Total Costs
+200
+                         
+Net Income
+(200)
+$                     
+
+
+===== PDF p67 =====
+Interviewer guidance on Exhibits
+• Candidate should ask for information 
+on current operations and profitability 
+prior to receiving Exhibit 1.
+• Candidate should identify current user 
+base of 100k, and therefore company 
+strategy should achieve additional 600k 
+new users. 
+• Candidate should identify that there is no 
+current revenue. 
+• If asked about cutting costs, instruct 
+candidate that all costs are constant 
+except for marketing.
+• Ask them to brainstorm ways to generate 
+revenue streams (guide to this point if 
+necessary).
+–
+At the end of brainstorm, tell them that the 
+company has selected two ways to monetize users 
+and provide verbal information: 1. Selling ads 
+generates $1.50/user/mo., 2. Selling data 
+generates $0.50/user/mo. 
+–
+Note: the revenue amounts are net of any costs 
+associated with the revenue. The company has 
+chosen to do both for $2 / mo / user
+• Ask them to brainstorm ways to acquire 
+new users (guide to this point if 
+necessary). 
+–
+At the end of brainstorm, tell them that the 
+company has come up with a couple of options, 
+and provide Exhibit 2.
+• Note: sequencing of the above 
+brainstorms doesn’t matter, however 
+candidate needs to complete both before 
+moving on to solve case. Guide to the 
+second brainstorming if necessary.
+63
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p68 =====
+Exhibit #2 – Marketing Proposal
+64
+Note: Current cash on hand is $3m as of the beginning of Month 1
+*Estimates may fluctuate depending on viewership; will require full resources of Marketing team, precluding 
+work on any other marketing strategies  
+*
+SirSalesAlot Marketing Co. Proposal
+(in thousands)
+1
+2
+3
+1
+2
+3
+Online Ads
+125
+        
+125
+        
+125
+        
+100
+$      
+100
+$  
+100
+$   
+Print Ads
+50
+          
+50
+          
+50
+          
+75
+          
+75
+      
+75
+       
+Onsite Activations
+100
+        
+100
+        
+100
+        
+100
+        
+100
+    
+100
+     
+Acquire Competitor
+2,500
+     
+-
+             
+-
+             
+3,500
+     
+-
+         
+-
+          
+Super Bowl Ad
+-
+             
+-
+             
+1,500
+     
+-
+             
+-
+         
+1,000
+  
+New Users Per Month
+Cost Per Month
+
+
+===== PDF p69 =====
+Interviewer guidance on Exhibits
+• Candidate should ask for information 
+on increasing user base and costs 
+associated prior to receiving Exhibit 2.
+• Candidate should recognize the footnotes 
+indicating that an outside marketing firm 
+has projected user growth (marketing 
+firms tend to be fairly optimistic), and the 
+cash on hand limits the amount of money 
+that can be spent in month 1.
+• A strong candidate will ask if user attrition 
+should be factored in. Advise them that 
+normally it would, but for the simplicity of 
+the case they can assume no attrition at 
+this time.
+• Candidate should identify that two items 
+can be eliminated before calculations are 
+even performed (acquisition is cost 
+prohibitive and print ads will not generate 
+enough users to compensate for the 
+cost). 
+• Candidate should calculate total current 
+revenue and identify that if current users 
+(100k) are monetized, the firm breaks 
+even.
+• Candidate should then calculate total net 
+income for each strategy that has not 
+already been eliminated.
+• See solutions (next page) for specific 
+calculations.
+65
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p70 =====
+Solution to Exhibits
+66
+Exhibit 2 - Marketing Proposal
+SirSalesAlot Marketing Co. Proposal
+Total Rev
+Total Cost
+Total NI
+(in thousands)
+1
+         
+2
+               
+3
+               
+1
+         
+2
+               
+3
+               
+Online Ads
+125
+     
+250
+           
+375
+           
+250
+     
+500
+           
+750
+           
+1,500
+         
+300
+             
+1,200
+      
+Print Ads
+50
+       
+100
+           
+150
+           
+100
+     
+200
+           
+300
+           
+600
+            
+225
+             
+375
+         
+Onsite Activations
+100
+     
+200
+           
+300
+           
+200
+     
+400
+           
+600
+           
+1,200
+         
+300
+             
+900
+         
+Acquire Competitor
+2,500
+  
+2,500
+        
+2,500
+        
+5,000
+  
+5,000
+        
+5,000
+        
+15,000
+       
+3,500
+          
+11,500
+    
+Super Bowl Ad
+-
+          
+-
+                
+1,500
+        
+-
+          
+-
+                
+3,000
+        
+3,000
+         
+1,000
+          
+2,000
+      
+* Cash on hand at beginning of Month 1 is $3M
+Cumulative Users
+Monthly Revenue
+Calculations
+Key Reminders:
+•
+Company started with 100k users, if monetized at $2/user/mo, current monthly revenue = $200k, 
+which offsets current costs of $200k (from Exhibit 1)
+•
+Users are cumulative (and therefore so is revenue)
+•
+Super Bowl is riskier, and if chosen cannot be combined with any other strategy (per footnote)
+•
+Acquiring competitor is cost prohibitive (per footnote)
+
+
+===== PDF p71 =====
+SneakyChat
+67
+• Based on all of the information you have analyzed, what would be your 
+recommendation to SneakyChat’s CFO?
+Recommendation 
+• The candidate should recommend growing SneakyChat’s user base through the 
+combination of online ads and onsite activation 
+-
+If a candidate chooses Super Bowl, or online, print and onsite, ask if there are other 
+possibilities, and ask them to defend their selection. 
+-
+Online ads & onsite activation is preferred over the Super Bowl ad as this is a much riskier 
+strategy
+-
+The selection of Online+Print+Onsite will achieve the hurdle, but a good caser will recognize 
+that print is less efficient and the company could allocate the resources elsewhere in the 
+business. 
+• This recommendation will result in total net income of $2.1m at the end of 3 months, 
+as well as an additional 675k users, which exceeds SneakyChat’s targets 
+Interviewer Guidance:
+
+
+===== PDF p72 =====
+Evaluation Criteria
+68
+Candidate Level
+Assessment
+Average Candidate
+•
+Framework touches on only a few of the case 
+components
+•
+Guidance is required multiple times for 
+brainstorming and/or working through exhibits
+•
+Insights are not driven from qualitative factors in 
+addition to the quantitative calculations
+Good Candidate
+•
+Discusses all aspects of improving net income and 
+user base (monetization, costs, etc.)
+•
+Calculations are quick and sound
+•
+Makes clear, confident recommendations based on 
+information presented
+Excellent Candidate
+•
+Framework is customized to tech industry and 
+investment considerations and not simply 
+profitability
+•
+Proactively thinks about how to increase user base 
+and start generating revenue
+•
+Asks about attrition
+•
+Notes risks of preferred strategy

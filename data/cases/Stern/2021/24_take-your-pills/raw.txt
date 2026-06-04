@@ -1,0 +1,369 @@
+===== PDF p266 =====
+Take Your Pills!
+Author: Kai Fei (Stern ‘22) Firm Style & Round: Bain Round 1
+[Interviewee-Led]
+Quant: [9]*
+Structure: [7]*
+Case Overview:
+Industry: Pharmaceutical
+Case Type: Revenue growth
+Concepts Tested:
+•
+Profitability
+•
+Brainstorming
+•
+Creativity
+Overview Information for Interviewer:
+Interviewee should be able to…
+•
+Be structured, but creative with brainstorming
+•
+Be case specific 
+•
+Push the case forward while keeping the objectives in mind
+Key case steps:
+•
+Ask the right clarifying questions to understand context
+•
+Break down revenue into its components
+•
+Stay organized and have a structured approach to the math portions
+Case Prompt: 
+Your client is Foci Pharmaceuticals - a leading rare disease pharmaceutical company - has seen US sales growth slow down 
+over the past year. Your firm has been hired to determine the cause of this slow down and recommend ways to reverse the 
+trend.
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+262
+© 2021 NYU Stern MCA
+
+
+===== PDF p267 =====
+Take Your Pills: Case Guide
+Clarifying Information: 
+Competitors:
+•
+No direct competitors 
+Market:
+•
+The client is the market 
+Client’s Product:
+•
+100% of revenues come from just one drug, Nalparcin, which treats a rare type 
+of muscular dystrophy (MD)
+•
+Nalparcin was launched in 2017 and is classified as an orphan drug (meaning it 
+treats a disease that afflict fewer than 200,000 people in the US)
+•
+Nalparcin’s period of exclusivity (the period during which FDA will not approve a 
+generic version of the same drug) will last through the end of 2024
+Additional Information:
+•
+Only 30,000 patients in the US are eligible to receive Nalparcin
+•
+The annual price of Nalparcin treatment is $500,000/patient
+•
+Nalparcin has to be taken daily
+•
+RARELY ASKED: Nalparcin is a small molecule drug
+–
+A drug that can enter cells easily because it has a low molecular weight. Once inside the cells, it 
+can affect other molecules, such as proteins, and may cause cancer cells to die. This is 
+different from drugs that have a large molecular weight, which keeps them from getting inside 
+cells easily
+Interviewer Guide: 
+•
+A Good Framework Will:
+–
+Recognize that this is a monopolistic market
+–
+Do a deep dive on revenue and its levers
+–
+Be case specific and incorporate concepts like 
+market penetration and patient adherence
+•
+Necessary information that should be 
+given only when specifically asked for 
+by interviewee: 
+–
+Exhibit 1:
+>
+Provide when interviewee asks specifically 
+for revenue/financial numbers 
+–
+Exhibit 2:
+>
+Provide when interviewee mentions patient 
+adherence and persistence
+•
+Additional Guidance
+–
+Only give clarifying information when the 
+interviewee asks for the information.  
+263
+© 2021 NYU Stern MCA
+
+
+===== PDF p268 =====
+Take Your Pills: Exhibit 1
+Notes to Interviewer:
+•
+Provide exhibit 1 (see back-up slide for clean exhibits) when the interviewee asks to see revenue/financial data 
+Key observations that the interviewee should pick up on:
+•
+Revenue growth is slowing even though the company is acquiring the same number of new patients every year
+•
+This means revenue per patient is going down 
+•
+If interviewee asks, confirm that prices have not changed at all – it’s $500,000 for a full year of treatment 
+•
+A good interviewee will incorporate clarifying information – the pills are taken daily. Which means each pill missed results in a revenue loss of >$1,000 
+•
+A great interviewee will recognize that patient persistence may be an issue – patients are stopping treatment and thus stop being a “customer”
+•
+A great interviewee will be case specific and hypothesize that this might have something to do with patient adherence – if patient forgets or refuses to 
+take a pill, then the patient will buy one fewer pill, thus Foci loses that revenue
+•
+If the interviewee doesn’t mention patient adherence or persistence, ask the interviewee how much revenue each daily pill generates. 
+264
+© 2021 NYU Stern MCA
+
+
+===== PDF p269 =====
+Take Your Pills: Exhibit 2
+Notes to Interviewer:
+•
+Provide exhibit 2 (see back-up slide for clean exhibits) when the interviewee mentions patient adherence and persistence (see prior slide for 
+definitions)
+Key observations that the interviewee should pick up on:
+•
+Both adherence and persistence are pretty low. Meaning a significant portion of patients aren’t taking their pills daily, and half of patients drop out 
+each year
+•
+A good interviewee will note that these low rates means that Foci Pharma must continuously acquire more and more new customers in order to sustain 
+growth 
+•
+A good interviewee will push forward and start to hypothesize why this is the case
+265
+© 2021 NYU Stern MCA
+
+
+===== PDF p270 =====
+Notes to Interviewer: 
+Take Your Pills: Brainstorm
+Brainstorm:
+•
+Ask the interviewee what might be causing low patient adherence and low patient persistence
+•
+A good candidate will directly go to this step without being prompted.
+Objective for the interviewee is to provide a good structure around the brainstorm. An example might be:
+Patient related
+•
+Behavioral characteristics
+•
+Demographics
+•
+Social-economic indicators 
+Condition Related
+•
+Patient condition, strength of disease 
+•
+Experience with disease so far
+Health-system related
+•
+Insurance coverage
+•
+Provider characteristics
+Drug related
+•
+Side effects 
+•
+Number of concurrent medications 
+A great candidate will not only come up with potential causes, but also push forward and start to brainstorm ideas that can improve either adherence 
+or persistence. 
+266
+© 2021 NYU Stern MCA
+
+
+===== PDF p271 =====
+Math Information: 
+Take Your Pills: Math Question (1/2)
+Math Question: 
+The Chief Patient Officer of Foci Pharma has proposed an informational sales & marketing campaign targeting both patients and
+their doctors that seeks to improve patient adherence and persistence and wants you to figure out whether it’s worth implementing. 
+Math Solution: 
+Without this initiative:
+Existing patients by 2021: 
+•
+Patient count at Beginning of Year (BoY): 3750 (provided to candidate)
+•
+Patient count at End of Year (EoY): 3750 * 50% persistence = 1875 (due to patients’ lack of 
+persistence)
+•
+By taking the average, you can arrive at # of patients during the year: (3750+1875)/2 = 
+2812.5 ~= 2800 (encourage candidate to round down)
+•
+Revenue generated: 2800 * 40% adherence * $500,000/annual treatment cost = $560M
+New patients in 2021:
+•
+Patient count: BoY: 4000 (provided to candidate); EoY: 4000 * 50% persistence = 2000; 
+AVG: during year: (4000+2000)/2 = 3000
+•
+Revenue generated: 3000 * 60% adherence * $500,000/annual treatment cost = $900M
+Total revenue in 2021 without initiative: $560M + $900M = $1.46B
+Provide the following immediately:
+•
+Projected Adherence Increase: Raise 
+rate by 5% across the board (i.e., from 
+40% to 45%)
+•
+Projected Persistence Increase:
+Raise rate by 10% across the board (i.e., 
+from 50% to 60%)
+•
+Total cost of campaign: $300M
+Provide the following only if asked:
+•
+# of new patients acquired in 2021: 4K, 
+for math simplicity, assume all patients are 
+acquired immediately at the beginning of 
+2021
+•
+# of existing patients from 2020: 3,750
+•
+Product Margins: 80%
+Tell candidate to calculate projected revenues in 2021:
+Continued on next page…
+267
+© 2021 NYU Stern MCA
+
+
+===== PDF p272 =====
+Math Information: 
+Take Your Pills: Math Question (2/2)
+Math Question: 
+The Chief Patient Officer of Foci Pharma has proposed an informational sales & marketing campaign targeting both patients and
+their doctors that seeks to improve patient adherence and persistence and wants you to figure out whether it’s worth implementing. 
+Math Solution: 
+With this initiative:
+Existing patients by 2021: 
+•
+Patient count: BoY: 3750; EoY: 3750 * 60% persistence = 2250; AVG: during year: 
+(3750+2250)/2 = 3000
+•
+Revenue generated: 3000 * 45% adherence * $500,000/annual treatment cost = 
+$675M
+New patients in 2021:
+•
+Patient count: BoY: 4000; EoY: 4000 * 60% persistence = 2400; AVG: during year: 
+(4000+2400)/2 = 3.2K
+•
+Revenue generated: 3200 * 65% adherence * $500,000/annual treatment cost = 
+$1.04B
+Total 2021 revenue with initiative: $675M + $1.04B = $1.715B
+Provide the following immediately:
+•
+Projected Adherence Increase: Raise 
+rate by 5% across the board (e.g., from 
+40% to 45%)
+•
+Projected Persistence Increase:
+Raise rate by 10% across the board (e.g., 
+from 50% to 60%)
+•
+Total cost of campaign: $300M
+Provide the following only if asked:
+•
+# of new patients acquired in 2021: 4K, 
+for math simplicity, assume all patients are 
+acquired immediately at the beginning of 
+2021
+•
+# of existing patients from 2020: 3,750
+•
+Product Margins: 80%
+Total Benefit: ($1.715B-$1.46B) * 80% margin = $204M – this will drive up revenue by 
+nearly 20% ($1.715B-$1.46B = $255M $255M/$1.46B = ~20%)
+A great candidate will notice that while this doesn’t break even on the cost of the campaign, there may be other benefits 
+from increasing patient adherence and persistence over time.
+Tell candidate to calculate projected revenues in 2021: …Continuation
+268
+© 2021 NYU Stern MCA
+
+
+===== PDF p273 =====
+Take Your Pills: Recommendation
+Recommendation:
+•
+Candidate needs to mention the cause of 
+growth slowdown: patient adherence and 
+persistence
+•
+Recommendation can go either way 
+depending on the numbers:
+•
+Yes, do campaign (better 
+adherence = healthier patients, 
+may help increase patient 
+acquisition, etc.)
+•
+No, don’t do this campaign (cost 
+too high, etc.)
+Bonus: Guide to an excellent case
+•
+The interviewee will not lose track of the 2 main objectives of the case – find cause, recommend solution – and will continuously push the case 
+forward without the interviewer prompting questions.  
+•
+For the math portion, a lot of numbers are needed. The interviewee needs to stay organized and have a structured approach. 
+Risks:
+•
+Projected benefits have uncertainty
+•
+Expensive upfront investment
+•
+Don’t have data on the potential causes 
+of low patient adherence or persistence, 
+so no idea what information to put into 
+this campaign…
+Next Steps:
+•
+Validate that projected benefits are 
+accurate
+•
+Explore alternative solutions in more 
+detail
+•
+Explore if the money could be better 
+spent elsewhere (pursuing additional 
+indications, newer drugs, etc.)
+•
+Establish a plan for rollout of campaign
+269
+© 2021 NYU Stern MCA
+
+
+===== PDF p274 =====
+Take Your Pills: Exhibit 1
+270
+© 2021 NYU Stern MCA
+
+
+===== PDF p275 =====
+Take Your Pills: Exhibit 2
+60%
+40%
+1 Year (new patients)
+2+ Years (existing patients)
+Adherence Rate
+Patient Adherence Rate 
+(grouped by years since starting treatment)
+50%
+50%
+1 Year (new patients)
+2+ Years (existing patients)
+Persistence Rate
+Patient Annual Persistence Rate 
+(grouped by years since starting treatment)
+271
+© 2021 NYU Stern MCA

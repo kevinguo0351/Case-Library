@@ -1,0 +1,251 @@
+===== PDF p112 =====
+Case 14: ATM Company 
+Prompt 
+Our client is a big ATM provider in U.S. For the past 2 years, the number of clients had increased, 
+but the companies profits declined. The client reached us to understand what might be happening 
+and what can they do to grow revenue again. 
+ 
+How would you approach this problem? 
+ 
+Guidance 
+This a basic revenue/profitability increase case. Provide the following information upon request: 
+•  The client actually provides the ATM service to banks 
+•  They install ATM machines in various gas stations, convenience stores, and grocery stores 
+•  The banks pay a fixed commission to ATM Company every time that the banks’ customers 
+withdraw cash or check their account balance 
+•  The ATM Company is nearly a monopoly in the South (North Carolina, South Carolina, and 
+Virginia). Therefore, direct competition is not an issue 
+•  The ATM Company has 3 types of clients: Big, Medium, and Small Banks 
+ 
+Strategy 
+Bain & Company 
+108 
+
+
+===== PDF p113 =====
+109 
+Guidance 
+The candidate should use a profit framework, touching on revenues and costs. With costs, nothing has 
+changed in the past.  
+ 
+Ask the candidate to list some important costs in this business (see some cost ideas below). 
+•  Rent (the ATM Company must pay for the space where they install the ATMs) 
+•  Sales force (responsible to find good places to install the ATM Machines) 
+•  Cost of capital (there are a lot of money inside the ATMs) 
+•  Logistics 
+•  Insurance 
+ 
+When the candidate asks for revenue information, provide Exhibit 1. Ask the candidate to calculate the 
+revenues in 2011. 
+ 
+Calculations: 
+ 
+Allow the candidate to round. 
+Average revenue p/ transaction (without rounding): 78% x $0.20 + 16% x $0.25 + 6% x $0.30 = $0.214 
+Average revenue p/ transaction (rounding): 80% x $0.20 + 16% x $0.25 + 6% x $0.30 = $0.2125 
+ 
+The revenue per transaction can be further rounded to $0.20 
+ 
+Total revenue = Average Revenue per transaction x # of transactions 
+ 
+Total revenue = $0.20 x 245M = $49M $ Total Revenue can be rounded to $50M. 
+Total revenue (un-rounded) = $0.214*245M = $52.43M 
+ 
+Strategy 
+Bain & Company 
+Case 14: ATM Company 
+
+
+===== PDF p114 =====
+110 
+Strategy 
+Bain & Company 
+Case 14: ATM Company 
+Type of Client 
+Revenue per 
+Transaction 
+Number of Clients 
+% of transactions 
+Large 
+$0.20 
+3 
+78% 
+Medium 
+$0.25 
+5 
+16% 
+Small 
+$0.30 
+13 
+6% 
+* The number of transactions in 2011 was 245M 
+Exhibit 1: Summary of transactions in 2011 
+
+
+===== PDF p115 =====
+Case 14: ATM Company 
+Prompt 
+After analyzing the competition landscape, your team has realized that the large banks are now 
+offering their own ATM machines in similar locations as ATM Company does. 
+ 
+What risks does this fact bring to ATM Company? How can ATM company increase its 
+revenues? 
+ 
+Guidance 
+The candidate should realize that the large banks are now both competitor and customer. This is the 
+reason why revenues and profits have declined. 
+ 
+A major risk that the candidate should bring up is that large banks account for over 70% of ATM 
+Company’s revenue. Competing direct with them might result in bigger losses if one of the large 
+banks break the contract with ATM Company. Large Banks competes fiercely with each other. 
+Therefore, they may install even more ATMs to increase their presence in the region and provide a 
+better service to their clients 
+ 
+Potential solutions: 
+•  Focus on medium and small banks 
+•  Renegotiate prices (decrease the price to large banks to avoid them installing new ATMs) 
+•  Propose exclusivity agreements with top stores, avoiding the entrance of competition 
+•  Develop a demographic study to understand where the small and medium bank customers live 
+and install ATMs in those areas 
+ 
+Strategy 
+Bain & Company 
+111 
+
+
+===== PDF p116 =====
+112 
+Performance 
+Evaluation 
+Expected: 
+• 
+Provides a MECE framework 
+• 
+Correctly calculates revenue 
+• 
+Lists some cost drivers 
+• 
+Answers every question of the case 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Quickly identifies the competitive landscape as the main problem 
+• 
+Provides most corrective actions listed with minimal prompting 
+ 
+Excellent: 
+• 
+Completes all “Good “ requirements 
+• 
+Before the second prompt, identifies that most of the revenues comes from only 3 clients 
+• 
+Suggests some creative solutions not mentioned in the case 
+ 
+Strategy 
+Bain & Company 
+Case 14: ATM Company 
+
+
+===== PDF p117 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+113 

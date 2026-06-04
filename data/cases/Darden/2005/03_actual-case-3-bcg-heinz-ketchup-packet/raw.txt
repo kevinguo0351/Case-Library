@@ -1,0 +1,47 @@
+===== PDF p11 =====
+Actual Case #3 
+Company:  BCG 
+ 
+Case Description 
+A profitability analysis case. 
+ 
+Question 
+Heinz recently came up with the idea to double the volume of ketchup in a single-serve 
+packet.  How should the CEO approach this idea and what should he do? 
+ 
+Initial data to be given  
+None. 
+ 
+Additional data to be provided when asked 
+$500 million industry.  Heinz has 60% of the market.  Sells the product directly to large 
+chains (McD's etc) and to food distributors (Sysco).  The customers are entirely blind to 
+the process - all they care about is that their cost stays low.   
+End users: Only 5% of customers only use 1 packet; 95% use 3-4; usage max out at 16 
+packets per sitting.  
+Competition: No one else is doing this, but would probably copy the idea if successful. 
+So this idea won't be a source of competitive advantage.   
+Revenue: Expect it to be mostly flat - 60% of $500M market.  Ketchup sold by the ton.  
+Any large increase in amount purchased would be mostly offset by volume discount 
+given. 
+Costs: 20% margins, so prod cost of $240M/year.  Fixed costs are 50% of that ($120M) 
+and are expected to be static.  Variable costs: ketchup materials (50% of VC) savings of 
+about 0.3% ($180K).  Packet raw materials are other 50% of VC ($60M).  Assume the 
+packet is a 2x2 cube so volume = 8, surface area = 24.   
+ 
+Frameworks that might be used 
+Profitability 
+ 
+Solution 
+The issue here is production cost, specifically the variable cost of the ketchup packet raw 
+materials.  The candidate should be able to analyze the costs of producing the packets and 
+clearly differentiate between those costs and the fact that the new packet will not give 
+Heinz a competitive advantage.  The candidate should be able to approximately calculate 
+the surface area of the packet given the information above.  If the size of contents is 
+doubled, volume becomes 16.  Still assume a cube and so each side of the cube is the 
+cube root of 16 ~ 2.5.  New surface area is now 2.5*2.5*6 = 37.5 (what the actual units 
+are doesn't matter).  Two of the old ketchup packets would have had surface area of 48, 
+so have a savings of ~ 25% on materials with the bigger packet.  25% of $60M original 
+cost is a savings of $15M.  This is a good idea from Heinz's perspective, if it does not 
+involve switching costs and they can get buy-in from their customers. 
+Darden Casebook Supplement 2005 Version 1.0 
+6

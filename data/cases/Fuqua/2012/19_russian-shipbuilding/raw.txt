@@ -1,0 +1,553 @@
+===== PDF p154 =====
+Strategy 
+Case 19: Russian Shipbuilding 
+Prompt 
+During the cold war, the USSR shipbuilding (SB) industry was based on programs. Each program was 
+different (e.g. destroyers, submarines, patrol) and had its own organization, own technology, own 
+engineers and own manufacturing facilities.  
+ 
+In the mid-90s, Russia was facing a strong recession, and decided to make public its SB industry. 
+However, some of the States with manufacturing facilities (Exhibit 1), were concerned about losing 
+these facilities, and therefore, increasing the unemployment in the region (each State with facilities had 
+an average of 50,000 direct employees and 150,000 indirect employees). To keep everyone happy, the 
+federal government decided to give over 60% of the company to States ownership (3-8% for each 
+State depending on the number of facilities and employees) and the remaining stake to public offering. 
+To make it more interesting for private investors, the company was restructured in 3 main divisions: 
+naval, submarines and advanced technology (AT). 
+ 
+After 15 years, the company has doubled its employees and has become one of the biggest players in 
+the SB industry. Revenues are $85B for naval, $10B for submarines and $12B for advanced 
+technology. A new CEO has been appointed to manage the whole company. She is concerned about 
+the effectiveness of the company, specially in the military segment. Her concern is based on three 
+factors: 
+1.  80% of naval revenues comes from commercial products (e.g. light boats, ferries) 
+2.  Within the naval program, military ships are just adapted from commercial ships (e.g. goods 
+transport, tankers). See Exhibit 2. 
+3.  The advanced industry division, has four programs (Electronic Defense, IT, Cyber Security and 
+missile boats), where missile boats are less related to the other three programs. See Exhibit 3. 
+The new CEO is thinking of creating a new division, called Military, to manage all ships with military 
+purposes. She is hiring you to evaluate if this is a good decision.  
+ 
+Is this the right choice? What should be her decision? 
+ 
+150 
+
+
+===== PDF p155 =====
+Strategy 
+Case 19: Russian Shipbuilding 
+151 
+AT 
+Naval 
+Submarines 
+Parts 
+Raw Material 
+Final Assembly 
+Exhibit 1: Map of Russian shipbuilding facilities 
+
+
+===== PDF p156 =====
+152 
+Strategy 
+PSV model used for 
+fishing 
+Military support 
+platform 
+Exhibit 2: Fjellstrand M/V vessel, originally for commercial purposes, 
+now adapted to military 
+Case 19: Russian Shipbuilding 
+EXAMPLE 
+
+
+===== PDF p157 =====
+153 
+Strategy 
+Exhibit 3: Programs within the advanced technology division 
+Electronic Defense 
+(e.g. surveillance) 
+IT 
+Cyber Security 
+Missile boat 
+Case 19: Russian Shipbuilding 
+3.1 
+5.2 
+1.7 
+2.2 
+Yearly revenues 
+in $B 
+
+
+===== PDF p158 =====
+Guidance 
+The goal of this case is to evaluate how the student analyzes the current and future situation, 
+develop alternative scenarios for the new organization and provide a recommendation to the CEO. 
+ 
+The first thing that the student should be surprised by is that missile boats are not a part of Naval. 
+This is a key question for the discussion. The initial reasons why missile boats were included under 
+Advanced Technology are not valid nowadays, and are not needed to develop the case. 
+ 
+Please note that those employees who are directly related in manufacturing process are regarded 
+as direct employees whereas there are several subsidiary services required like machine repairs 
+etc. which are not directly related to production but are inevitable. Employees falling under this 
+category are namely indirect employees. 
+ 
+Although many frameworks are possible, there are 4 main areas to discuss: 
+1.  Market potential: any change in the organization will require a certain investment. We want to 
+know if there are market opportunities that would justify this change 
+2.  Synergies: there might be synergy opportunities for each scenario 
+3.  Political issues: as stated in the case, politicians are wary of any change in the organization. Any 
+change in the organization could affect the facilities distribution and power ownership, potentially 
+going against the State’s interests 
+4.  Potential scenarios: 
+• 
+M&A: creating a new division (Military) separated from the other two 
+• 
+Integration: integrating missile boats into Naval 
+• 
+Cooperation: increasing synergies between naval and missile boats 
+• 
+Current: keeping the company AS-IS 
+ 
+If the candidate does not mention the 4 points above, ask him/her to analyze the market potential 
+and list some synergies, political issues and potential scenarios. 
+ 
+154 
+Strategy 
+Case 19: Russian Shipbuilding 
+
+
+===== PDF p159 =====
+155 
+Strategy 
+Case 19: Russian Shipbuilding 
+Guidance 
+Market guidance: 
+ 
+Provide Exhibit 4. The candidate should identify that deliveries of missile boats will stop in 2018, 
+while naval deliveries will continue increasing in the future. He/she should conclude that the market 
+for missile boats will stop and therefore it is not necessary to do a merger. This conclusion would be 
+a trap, because:  
+•  The average manufacturing length to deliver a naval ship is 10 years, while for missile boats it is 
+just 5 years. 
+•  The main interests for AT are electronics, so they have little interest on improving (sales and 
+R&D) missile boats 
+Synergies guidance: 
+ 
+The candidate should develop an extended list of potential synergies. It is important to list the 3 
+main synergies: revenues, costs, know-how (this is key, because it will affect the political issues and 
+development of new products). A list with examples is shown later. This is an orientation list; the 
+candidate might come with other examples. No numbers are required. Share this with him/her once 
+the analysis is done. 
+ 
+Political issues guidance: 
+ 
+The candidate should list different organizational scenarios and how political issues might affect 
+each one. If he/she is stuck, the interviewer could provide some metrics (e.g. whether the scenario 
+will affect employees, facilities and State power) to develop the discussion. A list with examples is 
+shown below later. This is an orientation list, the student might come with other examples. No 
+numbers are required. Share it with him/her once the analysis is done. 
+ 
+
+
+===== PDF p160 =====
+156 
+Strategy 
+Case 19: Russian Shipbuilding 
+Guidance 
+Scenarios guidance: 
+ 
+The candidate should identify 4 possible scenarios (as-is, cooperation, integration, merge into a new 
+division).The student should then highlight some aspects of each scenario, including ease of 
+implementation, value creation, and political attractiveness. A table with the different options is given 
+later. Key aspects are examples; other could be possible. Once completed, the interviewer can 
+share the table with the candidate. At the end of analyzing the scenarios, the student should perform 
+a recommendation to the CEO. Any answer is possible and should be supported with good 
+reasoning and information. 
+ 
+Performance 
+Evaluation 
+Expected: 
+•  Effectively summarizes the information given 
+•  Identifies areas of discussion 
+•  Arrives at some conclusion 
+ 
+Good: 
+•  Completes all “Expected” requirements 
+•  Works with the data to answer questions 
+•  Asks good clarification questions 
+•  Identifies most areas of synergies 
+ 
+Excellent: 
+•  Completes all “Good” requirements 
+•  Identifies all key recommendations with data to support 
+•  Identifies all 4 key scenarios 
+•  Summarizes all of the findings at the end of the case and provide a recommendation 
+•  Provides additional creative ideas 
+
+
+===== PDF p161 =====
+Strategy 
+Case 19: Russian Shipbuilding 
+Market 
+Shipbuilding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+157 
+Red: products from advanced technologies 
+Blue: products from naval 
+1 Missile boat don’t have a new product in the pipeline after 2015 
+0"
+10"
+20"
+30"
+40"
+50"
+60"
+70"
+80"
+90"
+100"
+2009"
+2011"
+2013"
+2015"
+2018"
+Missile"Boats"
+Patrols"
+Tankers"
+Transporters"
+Others"
+1 
+Exhibit 4: Confirmed military orders to deliver by type of product 
+
+
+===== PDF p162 =====
+Strategy 
+Case 19: Russian Shipbuilding 
+Synergies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+158 
+Costs 
+synergies  
+Transfer of 
+know-how 
+Revenue 
+synergies  
+Amortization of R&D costs on a higher production 
+volume  
+Extension of the product portfolio and cross-selling 
+Better access to markets (geographies, clients) 
+Strengthening of the bargaining power 
+Enhancement of the products through the use of 
+better technologies  
+Sharing of management and operations best practices 
+Efficiency gains in production 
+Reduction of procurement costs (economies of scale)  
+Reduction of structural costs 
+Synergies 
+Sharing technology to new product development 
+Interviewer copy: potential synergies 
+
+
+===== PDF p163 =====
+Strategy 
+Case 19: Russian Shipbuilding 
+Political 
+Issues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+159 
+Key comments 
+– Some R&D might move from one 
+factory to another, decreasing 
+expertise in some regions 
+– Redefine some facilities’ activities 
+– Change commercial organization 
+Increase 
+coopera-tion 
+between 
+companies 
+– Redefine facilities’ activities and 
+organization 
+– Integrate missiles’ services into naval 
+central organization 
+– Decrease power of States where 
+missile facilities are located 
+Integrate 
+missiles into 
+naval 
+– One unique organization, separated 
+from naval and AT 
+– Redefine contractual agreements with 
+suppliers 
+– Redefine manufacturing process 
+Merge both 
+programs to 
+create a new 
+“Military” 
+division 
+– National interests remaining too 
+divergent 
+– Keep current political division 
+Keep AS-IS 
+Scenarios 
+Moving  
+Employees 
+Moving  
+Facilities 
+Power 
+Change1 
+Probability of happening 
+1 Changes in the State’s stake might happen due to changes in employees and facilities 
+Interviewer copy: political issues 
+
+
+===== PDF p164 =====
+Strategy 
+Case 19: Russian Shipbuilding 
+Scenarios 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+160 
+Key comments 
+– Common R&D effort throughout a 
+program 
+– Sharing of industrial activities 
+– Unified commercial approach 
+Increase 
+coopera-tion 
+between 
+companies 
+– Integration of all activities into naval 
+– Change in political weights 
+– Naval would become even a bigger 
+division compared to submarines 
+and advanced technology 
+Integrate 
+missiles into 
+naval 
+– Consolidation of all activities into a 
+new separated division  
+– Sharing of R&D and production load 
+– Specialization of sites 
+– New power division 
+Merge both 
+programs to 
+create a new 
+“Military” 
+division 
+– No changes in the current landscape 
+– No synergies and keeping 
+underperforming facilities 
+Keep AS-IS 
+Scenarios 
+Value 
+creation 
+Feasi- 
+bility 
+"Political" at- 
+tractiveness 
+Probability of happening 
+Interviewer copy: potential scenarios 
+Medium 
+Low 
+Low 
+High 
+
+
+===== PDF p165 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+161 

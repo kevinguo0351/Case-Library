@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2019_05_shopon",
+  "school": "Ross",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2019.pdf",
+  "idx": 5,
+  "case_name": "ShopOn",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 72,
+  "pdf_page_end": 79,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    74
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p074.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2019\\05_shopon"
+}

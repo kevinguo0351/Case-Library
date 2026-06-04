@@ -1,0 +1,236 @@
+===== PDF p119 =====
+CASE 11:
+Saving the Payphone Company
+Firm Style
+Interview Round
+McKinsey & Company
+2
+Case Question
+Our client is an American payphone company that installs and maintains payphones in commercial 
+and residential buildings. Payphones is a dying business globally. So the client has contacted us to 
+help figure out how they can preserve and improve profitability in existing business for as long as 
+possible. The CEO has already communicated that the firm is not interested in entering new markets 
+or adding more services to this business. 
+Clarifying information (provide only if corresponding questions are asked) 
+How do they make money? / Do they share 
+profits with the builder?
+Once our client get a contract from the builder to 
+install a payphone, all the costs and revenues are 
+attributed to the client. Builder is not involved 
+post the initial contract phase.
+How do you collect revenues from the phone?
+In addition to revenues from initial installations, 
+coins are collected from traditional payphones 
+when the coin box is full.
+
+
+===== PDF p120 =====
+Saving the Payphone Company
+Profit
+Revenue
+# of 
+phones 
+installed
+Revenue per phone
+Life of phone 
+(years)
+Revenue per 
+year
+# of callers 
+per year
+Avg. Call value
+# 
+minutes
+Avg. Charge / 
+minute
+Costs
+Variable
+# Phones
+Costs per 
+phone
+Upfront
+Cost of 
+phone
+Installation 
+costs: Labor, 
+testing
+Maintenance
+Regular 
+Coin 
+collection –
+labor
+Phone 
+provider 
+bill
+Technical 
+support
+Fixed
+Salaries, 
+Other 
+General & 
+Admin
+Question 1: What ideas do you have to increase profits for the clients?
+Sample structure:
+Bigger opportunity
+Smaller opportunity
+
+
+===== PDF p121 =====
+Saving the Payphone Company
+Good candidate: 
+• Builds a profitability framework and identifies various revenue and cost drivers
+• Recognizes that this is a mature business and thus suggests cost cutting measures such as reducing 
+maintenance costs and SG&A
+Better candidate:
+• Builds a quick and concise MECE framework that is specific to the payphone business
+• Realizes that increasing number of payphone contracts, number of phone users and number of 
+phone calls might not be feasible
+• Suggests specific cost cutting measures such as reducing costs of the phones installed, decreasing 
+maintenance costs, lowering downtime of the phone, negotiating contracts with network service  
+provider and reducing labor costs to collect coins from the box at regular intervals.
+Interviewer guide: 
+Push the candidate to think about reducing the cost of phone devices our client installs. Move to 
+Question 2 once the candidate starts talking about using old phones / refurbished phones etc.
+
+
+===== PDF p122 =====
+Saving the Payphone Company
+Question 2: Our client has two options to reduce the up-front cost of phone devices. 
+Option 1:
+Install brand new phones which have a microchip fitted inside. The new technology directly tells the 
+maintenance department when the coin box is full and they can send maintenance support to empty 
+the coin box. Additionally, since this phone is a high-tech phone it does not break. Hence it has no 
+downtime throughout its life. 
+Option 2:
+Install refurbished phones which are based on traditional technology. Our forecasting department 
+essentially tells the maintenance guy when to go and collect the coins from the coin box of the 
+phone. Historically, whenever the maintenance guy visits based on these forecasts, the coin box is 
+half full. Additionally, these phones have a downtime of almost 10 days a year.
+We are helping our client figure out which phone to choose. So what information do you need to 
+decide and which phone would you recommend?
+
+
+===== PDF p123 =====
+Saving the Payphone Company
+Interviewer:
+Provide the information below after the interviewee asks for it. Press the interviewee to think about 
+what information they need:
+Assume there are 360 days in a year.
+Microchip Phone
+Refurb. Phone
+Phone device cost ($)
+$    700 
+$  200 
+Revenue per day ($)
+$        2 
+$       2 
+Coin box capacity ($) 
+(Assume devices only take in $1 coins)
+$      72 
+$    72 
+Downtime days per year
+-
+10 
+Labor cost ($ per visit)
+$     10 
+$    10 
+Network provider cost ($ per year)
+$  100 
+$   100 
+Life of phone (years)
+10 
+10 
+
+
+===== PDF p124 =====
+Saving the Payphone Company
+Math
+Microchip phone
+Traditional phone
+Days in operation / year
+360
+350
+Revenue per year
+=360*$2 = $720
+=350*$2 = $700
+No. of maintenance visits per year to 
+empty coin box
+=$720/$72 = 10
+=2* ($720 / $72)
+=20
+Maintenance costs per year
+= 10*$10 = $100
+= 20*$10 = $200
+Network provider cost per year
+$100
+$100
+Contribution per year
+=$720- $100 -$100
+=$520/year
+=$700- $200 -$100
+= $400/year
+Profit over life of phone 
+=$520*10 - $700
+=$4500
+=$400*10 - $200
+=$3800
+Years to breakeven the cost of microchip phone when compared to old phone
+= ($700-$200)/($520-$400) = 4.2 years 
+
+
+===== PDF p125 =====
+Saving the Payphone Company
+Insights:
+• Microchip phone is more profitable over the life of the phone
+• The difference in profit between the two devices is driven by savings in maintenance cost due to 
+efficient coin collection
+• Breakeven period to compensate for high initial cost of high-tech phone vs old phone is 4.2 years
+• Hence, if we improve the forecasting for old phone, then we do not need to buy new phones.
+Question 3: Do you think the new, high-tech option or the old phone option is better? Why?
+This question is meant to test the candidate’s business acumen. While there is no correct answer to 
+this question, the candidate should support his/her response adequately. One acceptable response 
+could be that it does not make sense for the client to install new phones given the long break-even 
+period relative to the dying technology. 
+Next, push the candidate to think about ways to save costs without buying new phone particularly by 
+improving the forecasting method for the old phones and reducing the number of visits.
+
+
+===== PDF p126 =====
+Saving the Payphone Company
+Question 4: In order to generate new revenue, the client has asked us to look for ideas on places 
+where more payphones can be installed across US. How would you come up with the list?
+• Good candidate:
+• Categorizes ideas in a structured way. Suggests possibilities in different residential and 
+commercial spaces. 
+• Better candidate:
+• Classifies the contracts that payphone providers have in a MECE way. 
+• Recognizes that people use payphones either when 
+• They do not own a cell phone
+• They cannot use a cell phone due to lack of network, battery or calling minutes
+• They are not allowed to use cell phones
+Sample classification:
+Commercial buildings: 
+-
+High security buildings such as FED, government offices, embassies
+-
+Private companies: data security
+-
+Schools, colleges, airports
+Residential buildings:
+-
+Housing societies in cities
+-
+Phone booths in remote locations
+
+
+===== PDF p127 =====
+Saving the Payphone Company
+What would be your final recommendation to the client?
+• Note to interviewer: DON’T allow interviewee a moment to prepare an answer
+• A strong interviewee will provide the recommendation in the first sentence, support 
+recommendation with arguments and acknowledge risks. 
+• Risks could include:
+• No buffer days to collect coins might lead to down time of phones in some cases
+• Next steps could include:
+• Identify new revenue opportunities by doing an in depth competitor / market 
+analysis 

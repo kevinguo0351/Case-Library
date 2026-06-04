@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2019_15_activist-action",
+  "school": "Fuqua",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2019.pdf",
+  "idx": 15,
+  "case_name": "Activist Action",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "CPG",
+  "difficulty": "Difficult",
+  "pdf_page_start": 187,
+  "pdf_page_end": 198,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    191,
+    192,
+    193,
+    194,
+    195,
+    196
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p191.png",
+    "exhibits/exhibit_p192.png",
+    "exhibits/exhibit_p193.png",
+    "exhibits/exhibit_p194.png",
+    "exhibits/exhibit_p195.png",
+    "exhibits/exhibit_p196.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2019\\15_activist-action"
+}

@@ -1,0 +1,275 @@
+===== PDF p45 =====
+Problem Statement Narrative 
+ 
+The national zoo hires you to decide whether they should buy a panda. The client is looking to increase their  revenues and profits. 
+Case 4: National zoo 
+Introduction 
+1 
+Overview for Interviewer 
+The candidate should treat the case as an investment: explain how the 
+revenues could increase and write down the cost structure of acquiring 
+a panda.  
+ 
+Provide information when asked. 
+ 
+Bonus:  
+• Compare the zoo to other entertainment options 
+• Look for other sources of revenue, related or not with the acquisition 
+of the panda 
+• Financial risks, and how to finance the investment 
+Information to be Provided If Asked 
+Visitors per year: 600,000 (50% children) 
+Ticket price: 
+• Adults: $15 
+• Children: $10 
+Panda costs: 
+• Acquisition: $890,000 
+• Transportation: $335,000 
+• Maintenance: $300,000/annual 
+• Enclosure: $1.475M 
+• Panda Consultant: $200,000 
+After buying a panda, the San Diego zoo increase their 
+number of visitor by 12% (and maintained this number from 
+then) 
+Discount rate= 20%, according to the zoo policy 
+41 
+
+
+===== PDF p46 =====
+2 
+Case 4: National zoo 
+Acquisition of 1Panda 
+Math (1 Panda) 
+Overview for Interviewer 
+The candidate should estimate the 
+incremental revenues if a Panda is 
+acquired. 
+ 
+Then calculate the initial investment (the 
+cost of the consultant should be 
+considered as a sunk cost, since the zoo is 
+paying you prior and regardless the final 
+decision). 
+ 
+The cost of maintenance is annual. 
+ 
+Assume the panda will live 100 years, 
+perpetuity can be used. 
+Adults'
+Children'
+Tickets#
+300,000#
+300,000#
++#12%#
+336,000#
+336,000#
+Incremental#
+36,000#
+36,000#
+Cost#per#<cket#
+15#
+10#
+Incremental'revenues' '$'540,000''
+'$'360,000''
+Ini:al'Investment'
+'''''''(2,700,000)'
+Acquisi<on#
+###########(890,000)#
+Transporta<on#
+###########(335,000)#
+Enclosure#
+#######(1,475,000)#
+t0#
+t1#=>#future#
+Incremental#revenues#
+#$#900,000##
+Ini<al#Investment#
+#$#(2,700,000)#
+##
+#$#(300,000)#
+CF#
+#$#(2,700,000)# #$#600,000##
+NPV'
+='C$2.7M'+'($0.6M/.20)'
+NPV'(1'panda)'
+'$''''300,000''
+Partial Conclusion & Next Question (Would it be a good investment to buy 2 pandas?) 
+Since the NPV is positive, it seems to be a good investment. 
+If it is a good investment, what if the zoo decides to buy a second panda? Would it be a good idea? 
+And what else could happen if they buy 2 pandas? (Imagine they can procreate and there is a 90% chance the zoo could sell the baby 
+panda next year)… Would it be a good investment to buy 2 pandas? 
+
+
+===== PDF p47 =====
+3 
+Case 4: National zoo 
+Acquisition of 2nd Panda – 2nd Panda bought at the same time as 1st  
+Overview for Interviewer 
+Provide information when asked.  The candidate 
+should not automatically assume all the figures 
+used in acquiring the 1st panda will apply in 
+acquiring the 2nd panda.  
+ 
+Two possible solutions – 2nd panda bought with 
+the 1st panda at the same time, or the 2nd 
+panda is bought after the 1st  
+ 
+A second panda will drive an additional 10% 
+increase in attendance (tickets). 
+ 
+The zoo will incur in the same amount of cost to 
+acquire a second panda. 
+ 
+They would sell the baby panda at market price 
+($890,000). 
+ 
+There’s a 90% probability that the pandas 
+procreate and the zoo can sell the baby panda. 
+Math (Acquisition of 2nd Panda) 
+Adults'
+Children'
+Tickets#
+300,000#
+300,000#
+Incremental#(10%)#
+30,000#
+30,000#
+Cost#per#<cket#
+$15#
+$10#
+Incremental#revenues#
+#$##450,000##
+#$#300,000##
+Ini:al'Investment'
+'''''''(2,700,000)'
+Acquisi<on#
+###########(890,000)#
+Transporta<on#
+###########(335,000)#
+Enclosure#
+#######(1,475,000)#
+t0#
+t1#=>#future#
+Incremental#revenues#
+#$#750,000##
+Ini<al#Investment#
+#$#(2,700,000)#
+##
+#$#(300,000)#
+CF#
+#$#(2,700,000)# #$#450,000##
+NPV'
+='C$2.7M'+'($0.45M/.20)'
+NPV'(panda'2)'
+'$''''(450,000')'
+Sale#of#baby#panda#
+=#Q$0.89M#*#(90%)#
+Sale#of#baby#panda#
+'''''''''$801,000''
+NPV#(baby#panda)#
+=#0.801/1.20#
+NPV'(baby'panda)'
+'''''''''$'667,500'
+NPV#(panda2+baby#panda)# =#Q$2.7M#+#($0.45M/.20)#+#(0.801/1.20)#
+NPV'(panda2+baby'panda)''''''''''$'217,500''
+
+
+===== PDF p48 =====
+3 
+Case 4: National zoo 
+Acquisition of 2nd Panda – 2nd Panda bought after the 1st  
+Math (Acquisition of 2nd Panda) 
+Overview for Interviewer 
+Provide information when asked.  The 
+candidate should not automatically assume all 
+the figures used in acquiring the 1st panda 
+will apply in acquiring the 2nd panda.  
+ 
+Two possible solutions – 2nd panda bought 
+with the 1st panda at the same time, or the 
+2nd panda is bought after the 1st  
+ 
+A second panda will drive an additional 10% 
+increase in attendance (tickets). 
+The zoo will incur in the same amount of cost 
+to acquire a second panda. 
+They would sell the baby panda at market 
+price ($890,000). 
+There’s a 90% probability that the pandas 
+procreate and the zoo can sell the baby 
+panda. 
+Adults'
+Children'
+Tickets#
+336,000#
+336,000#
+Incremental#(10%)#
+33,600#
+33,600#
+Cost#per#<cket#
+$15#
+$10#
+Incremental#revenues#
+#$##504,000##
+#$#336,000##
+Ini:al'Investment'
+'''''''(2,700,000)'
+Acquisi<on#
+###########(890,000)#
+Transporta<on#
+###########(335,000)#
+Enclosure#
+#######(1,475,000)#
+t0#
+t1#=>#future#
+Incremental#revenues#
+#$#840,000##
+Ini<al#Investment#
+#$#(2,700,000)#
+##
+#$#(300,000)#
+CF#
+#$#(2,700,000)# #$#540,000##
+NPV'
+='C$2.7M'+'($0.54M/.20)'
+NPV'(panda'2)'
+'$''0'
+Sale#of#baby#panda#
+=#Q$0.89M#*#(90%)#
+Sale#of#baby#panda#
+'''''''''$801,000''
+NPV#(baby#panda)#
+=#0.801/1.20#
+NPV'(baby'panda)'
+'''''''''$'667,500'
+NPV#(panda2+baby#panda)# =#Q$2.7M#+#($0.54M/.20)#+#(0.801/1.20)#
+NPV'(panda2+baby'panda)''''''''''$'667,500''
+
+
+===== PDF p49 =====
+4 
+Case 4: National zoo 
+Conclusions 
+Should the National Zoo acquire a Panda? 
+Question 
+Acquire 2 pandas: 
+•  NPV (Panda1) = $0.3M 
+•  NPV (Panda2) = $(0.45) or $0M 
+•  NPV (Baby Panda) = $0.67M 
+NPV Total = $517, 500 or $967,500 
+Recommendation 
+• Not procreating 
+• Life expectancy: biggest risk, significant value of the PV is driven by the assumption of 
+perpetuity 
+• Concurrency (other zoos’ actions) 
+• Not reaching target of incremental revenues (amount of tickets)  
+Risks 
+The current analyses are based on one single factor, increased visitors, in generating value.  The 
+zoo should also explore other revenue sources to the acquisition of panda to mitigate the risk.  
+• Increase revenues through merchandise related to pandas 
+• Increase the price of tickets (price sensitivity analysis) 
+• 2-part tariff (to see the pandas) 
+• Memberships 
+• Rent the pandas 
+• Why a panda?  
+Next Steps 

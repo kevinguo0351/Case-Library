@@ -1,0 +1,622 @@
+===== PDF p248 =====
+Make Airlines Great Again
+244
+Industry: Transportation/Leisure
+Quantitative Level: Difficult
+Qualitative Level: Difficult
+DMCC Case-writing Competition Winner 2nd Prize
+
+
+===== PDF p249 =====
+Behavioral Questions
+245
+• What is your philosophy on leadership?
+Question 1:
+• Why should we hire you, and not the candidate before you?
+Question 2:
+
+
+===== PDF p250 =====
+Make Airlines Great Again
+246
+Your client, Donald Drumpf is a 70 year old bougie real estate mogul who inherited his entire wealth from his late father.  Drumpf Enterprises, 
+his Company, primarily operates within the real estate/hospitality industry with numerous high-end Drumpf hotels (50% of overall top line 
+revenue) and golf courses located worldwide. Lately, Drumpf has seen shrinking per room profit margins for his hotel business.  As the 
+debatably successful businessman that he is, Donald Drumpf believes that the shrinking margins are due to increased competition from the 
+recent emergence of AirBnB and other similar businesses. In order to diversify his overall portfolio of “successful” investments, he intends to 
+enter into what he calls the bedrock of the American economy, the airline industry, and “Make Airlines Great Again” by leveraging his success in 
+the hospitality industry to create an airline that offers first in class comforts.  Donald Drumpf wants to enter this industry quickly and has 
+identified 2 airlines to look at. He believes that either of these airlines would help increase the overall profit margin of his business. Donald 
+Drumpf has hired you to help with this matter. Despite Drumpf being convinced about airlines, the partner at your firm leading this engagement 
+thinks the team needs to look at the hotel business’ profitability as well.
+Prompt #1:
+The candidate should realize that he/she should begin by looking at the decline in profitability in the current business 
+rather than beginning with the airline business. The candidate should develop a profitability framework that addresses 
+the current business revenues/costs and a new airline business.
+Sample Framework
+Interviewer Guidance:
+Drumpf Economics
+Strategic Considerations
+Revenue Stream
+Expenses
+• Hotel revenue 
+(rooms, 
+restaurant, etc.)
+• Golf course 
+revenue (rental, 
+tee time)
+• Hotel Salaries
+• Upkeep/Renovation
+• Fixed Asset purchase
+Potential Costs (savings)
+• Purchase price of Airline?
+• Synergies between airline 
+and hospitality?
+•
+First and foremost, why is the profitability of our 
+current business declining?
+•
+Should we even purchase an airline?
+Competition
+Financing
+Strategy
+Risks
+• What are 
+other hotels 
+doing? 
+• Are they 
+experiencing 
+declining 
+profits as 
+well?
+• Can we 
+finance an 
+acquisition
+• Why 
+Airlines?
+• What else 
+can we do?
+• Core 
+competency 
+is not in 
+airlines
+• Huge 
+financial 
+exposure?
+Current
+New
+• Airline Revenue? 
+(Tickets, fees, 
+baggage?
+Economy
+• What does 
+the overall 
+economic 
+environment 
+look like?
+• Could this be 
+due to 
+slowdown in 
+economy?
+
+
+===== PDF p251 =====
+Make Airlines Great Again
+247
+Interviewer Guidance (continued) :
+The prompt is worded specifically to mislead the candidate and simulate a client who doesn’t 
+fully understand his own business and has sought other options.  A consultant should look 
+holistically and if he/she doesn’t, he/she will listen to the client and go directly to looking at 
+the Airline I/S exhibit and perform a DCF analysis to value the airline which is the wrong 
+approach. However, if the candidate decides to drive the case down this pathway (airlines), 
+let the client go ahead before eventually asking the candidate what he/she thinks about the 
+decrease in overall profitability of the core hotel business.
+Target: No specified target, however, current hotel business profit margin is 14%. 
+Objective: Increase profitability for Drumpf
+Exhibit #1: Hotel room Revenue/Cost Metrics & competitive pricing information
+Exhibit #2: Drumpf hotel room trended costs and competitive cost benchmark information
+Exhibit #3: Hotel specific metrics
+Exhibit #4: Airline I/S figures (used for DCF)
+
+
+===== PDF p252 =====
+Exhibit #1
+248
+Average price per room per night
+Drumpf profit per room
+(2012 – 2016)
+162
+164
+172
+195
+215
+0
+50
+100
+150
+200
+250
+300
+2015
+235
+2014
+215
+2013
+210
+2012
+205
+2016
+250
+Avg. Price / Room
+Avg. Cost / Room
+120
+140
+160
+180
+200
+220
+240
+260
+280
+2012 2013 2014 2015 2016 2017 2018
+Sparriott
+Drumpf
+Staroak
+Bilton
+Note: Price elasticity of Demand is -2.0
+
+
+===== PDF p253 =====
+Exhibit #2
+249
+20%
+20%
+20%
+21%
+8%
+8%
+10%
+9%
+15%
+16%
+15%
+14%
+43%
+35%
+35%
+33%
+22%
+21%
+24%
+14%
+Bilton
+100
+Overhead
+Advertising
+SG&A
+Drumpf
+100
+Salaries
+Profit
+Staroak
+100
+Sparriott
+100
+Competitor 2016 cost breakdown 
+per $100 in room revenue
+20%
+17%
+14%
+Overhead
+20%
+8%
+15%
+43%
+2015
+100
+22%
+10%
+16%
+36%
+2014
+100
+20%
+9%
+15%
+37%
+Advertising
+SG&A
+Salaries
+Profit
+2016
+100
+Drumpf cost breakdown trend 
+per $100 in room revenue
+Note: Figures exclude costs for purchasing and developing new hotels
+
+
+===== PDF p254 =====
+Make Airlines Great Again
+250
+Exhibit #1 Guidance:
+If the candidate asks for revenue and cost breakout, mention that 
+we do not have an overall breakout for the entire business, 
+rather we have metrics per room. Hand the candidate exhibit #1.  
+The candidate should come to two conclusions based off of this 
+exhibit:
+•
+Decreasing profit margins are due to rising costs as costs are 
+increasing faster than prices
+•
+Drumpf hotels are priced far higher than its competitors 
+(~26% higher)
+Exhibit #2 Guidance:
+Based on Exhibit #1, the candidate should ask for a breakdown 
+of costs; if not, guide them towards the breakdown and then 
+provide Exhibit #2. The candidate should come to two 
+conclusions based off of this exhibit:
+•
+Decreasing profit margins are due to a rise in salaries and 
+expenses
+•
+Drumpf hotels has a much higher salaries expense as 
+compared to its competitors
+The candidate should ask about why salaries may have 
+increased or for a breakdown of salaries expense from 2014-
+2016.  Have him/her brainstorm some ideas and then tell them we 
+don’t have a breakout, however we’ve gathered some metrics on 
+Drumpf and its competitors and hand them Exhibit #3.
+Exhibit #1 Analysis:
+Profit growth CAGR 2012-2016:
+•
+(35-43)^.25-1= -5%
+Do not make the candidate do the
+math for the CAGR analysis, but ask
+If they know the formula and then
+provide the CAGR number
+If the candidate asks about elasticity, he/she will realize 
+that he/she needs to know what the demand is (i.e. # of 
+occupied rooms / total rooms available).  Mention that it 
+will be provided subsequently (exhibit 3).The calculation 
+for it is explained in the exhibit #3 analysis.
+Exhibit #2 Analysis:
+Salaries expense has risen by 6% points per 100$ of room 
+revenue, which is a 16.2% increase from 2014.
+Salaries expense in 2014 was ~$80, ($215 * 0.37)
+Salaries expense in 2016 was ~108, ($250 * 0.43)
+Salaries expense from Drumpf is ~8% higher per $100 of 
+room revenue than its competitors.
+Costs are 
+growing 
+faster than 
+revenue
+
+
+===== PDF p255 =====
+Exhibit #3
+251
+Hotel Specifics
+Drumpf
+Bilton
+Sparriott
+Staroak
+Number of Hotels Worldwide
+50
+4,600
+4,000
+1,300
+Number of new hotels in the past 2 years
+10
+5
+4
+3
+Location of new hotels
+United States (5)
+England (2)
+Switzerland (2)
+France (1)
+India (2)
+Russia (1)
+Peru (1)
+Belarus (1)
+India (1)
+Colombia (1)
+Argentina (1)
+Madagascar (1)
+United States (1)
+Thailand (1)
+Mexico (1)
+Avg Rooms per Hotel – 2014
+540
+240
+180
+148
+Avg Employees per Hotel – 2014
+90
+41
+32
+21
+Avg Rooms per hotel – 2016
+600
+240
+180
+150
+Avg Employees per hotel – 2016
+150
+40
+30
+23
+Amenities
+24 hour Dining
+24 hour Check-in
+Oversized Desk
+Luxury Linen
+Refrigerator
+Swimming Pool
+Spa
+Heated floor
+Marble Bathroom
+Laundry
+24 hour Dining
+24 hour Check-in
+Regular Desk
+Luxury Linen
+Refrigerator
+Granite Bathroom
+Swimming Pool
+Laundry
+24 hour Dining
+24 hour Check-in
+Regular Desk
+Luxury Linen
+Marble Bathroom
+In-Room Safe
+Swimming Pool
+Laundry
+24 hour Dining
+24 hour Check-in
+Regular Desk
+Luxury Linen
+Rosewood Bathroom
+In-Room Safe
+Swimming Pool
+Laundry
+Maid Service per day
+2x
+2x
+2x
+2x
+Avg time to service a room
+40 minutes
+30 minutes
+29 minutes
+27 minutes
+Avg Occupancy Rate
+70%
+72%
+71%
+73%
+Types of Bed
+California King, King, 
+Queen, Full
+King, Queen, Full, Twin
+King, Queen, Full, Twin
+King, Queen, Full
+Avg. Salary per Employee
+$40k
+$41k
+$39k
+$41k
+
+
+===== PDF p256 =====
+Interviewer guidance on Exhibit 3
+As mentioned previously, the 
+candidate should be asking 
+about the breakdown of 
+salaries costs or information 
+about the # of 
+rooms/occupancy rate (to 
+understand demand for 
+elasticity).  There is no data 
+for the former, however hand 
+the candidate Exhibit #3 and 
+mention that our consultants 
+have gathered some data 
+regarding hotel metrics.
+There is A LOT of data here, 
+the candidate should be 
+looking for comparable data 
+related to salaries expense 
+and demand. This exhibit is 
+designed to overwhelm the 
+candidate with data so he/she 
+can focus on the right pieces 
+of data. Allow the candidate 
+some time to process.
+•
+Hotels opened in the past 2 years:  Drumpf hotels has opened 10 (25% of total hotels as of 2 years ago) 
+new hotels in the past 2 years which is much higher than any other chain (1%<).  This could lead to the 
+need for increased staff as not all staff are efficient yet (2nd level insight).
+•
+Location of new hotels: Drumpf hotels are all located in high cost countries, while other locations with the 
+exception of one Staroak hotel are located in lower cost labor locations (2nd level insight).
+•
+Avg employees per hotel – This is what the candidate should key in on. We can see that Drumpf
+hotels has more employees per room than any of the other hotels.  This can primarily be attributed 
+to the maid service taking a lot longer than the other hotels (45 minutes as compared to 30).  The 
+cost saving solution should center around better training for housekeeping services to bring avg. 
+service time down to 30 minutes and the laying off of excess employees (assume 0 severance).
+–
+Drumpf Hotel: 2012 (1 employee for every 6 rooms), 2015 (1 employee for every 4 rooms) 
+Bilton: 1 employee for every 6 rooms (2012 & 2015)
+–
+Sparriott: 1 employee for every 6 rooms (2012 & 2015)
+–
+Staroak: ~1 employee for 7 to 6 rooms (2012 & 2015)
+•
+Avg time to service rooms – 40 minutes in Drumpf as opposed to ~30 for other chains.  Ask candidate to 
+discuss why this may be the case.  If he/she is able to, he/she can mention that the opening of 10 new 
+hotels in the past 2 years is probably why there is an increased service time due to the lack of 
+training/familiarity per employee (2nd level insight) which leads to higher avg service time (40 min).
+•
+Avg occupancy rate – This can be used in conjunction with the total number of hotels, average 
+number of hotel rooms, and the price elasticity of demand (if asked about from Exhibit 2) to 
+determine a potential increase in revenue from decreasing price per room. Price elasticity of 
+demand of -2.0: if prices drop by $25 (10%), then demand will increase by 20% (and vice versa).  At 
+the moment, rooms occupied is 70% or 21,000 rooms in total. Increasing this by 20% brings us to 
+25,200 rooms @ $225 ($5.67M) vs 21,000 @ $25 ($5.25M). Multiply the difference ($420k) by 360 
+days will give us $151.2M in increased revenue just from lowering the price.
+•
+Avg Salary per Employee – Can be used to calculate potential total savings. If Drumpf is able to 
+decrease employees to one every 6 rooms, this will be an average of 50 employees saved per 
+hotel. 50 employees * 50 hotels = 2,500 employees. 2,500 employees * Avg salary of $40k = $100M 
+in wages saved.
+252
+Exhibit #3 Guidance:
+Analysis:
+
+
+===== PDF p257 =====
+Exhibit #4
+253
+I/S for GTHC Airlines 
+I/S for Tarheel Airways
+
+
+===== PDF p258 =====
+Interviewer guidance on Exhibit 4
+If the candidate decides to begin by examining the 
+two different airlines, let them go down this path.  
+The information provided will help the candidate 
+perform a discounted cash flow valuation. If the 
+candidate addresses the internal business first and 
+doesn’t address the airlines, challenge them as to 
+why and ensure they rationalize why.
+To perform a DCF valuation, the candidate must first 
+calculate Free Cash Flow which is defined as 
+EBIT(1-Tax rate) + Depreciation – Change in net 
+working capital – capital expenditures.
+Provide the following information only if asked:
+Tax Rate: 30%
+Discount rate: 12%
+Growth rate: 2%
+•
+Free Cash Flow for Tarheel:
+–
+EBIT = 3600
+–
+Tax = 1080
+–
+EBIT – Tax = 2520
+–
+Divide FCF by (discount rate – growth rate) = 2520/0.1 = 25,200
+–
+Valuation of this Company is $25,200M, or $25.2B
+•
+Free Cash Flow for GTHC:
+–
+EBIT = 2800
+–
+Tax = 840
+–
+EBIT – Tax = 1560
+–
+EBIT – Tax – Capital expenditures = 1560 – 100 = 1460
+–
+Divide FCF by (discount rate – growth rate) = 1460/0.1 = 14,600
+–
+Valuation of this Company is $14,600M, or $14.6B
+•
+Metrics
+–
+Tarheel Operating Margin = 14%, Net Income Margin = 20%
+–
+GTHC Operating Margin = 8%, Net Income Margin = 26%
+There is no correct answer for which Company to purchase as buying a Company is 
+not the right option. For whichever Company the candidate decides to purchase, 
+ensure that they rationalize it and challenge them on it (see below for example of 
+questions). Once you do, if they haven’t addressed the declining profit margins from 
+the core hotel business, ask them what they think about that and direct the case that 
+way. 
+(e.g. Can the Company afford this? This isn’t even their core competency. GTHC may 
+have a higher Net Income Margin, however this is primarily due to the Gain on sale of 
+assets, their operating margin is small. Tarheel may have higher margins, but $25.2B is 
+a lot of money.  Tarheel requires an additional $5B in costs, GTHC only requires $1.5B)
+254
+Exhibit #4 Prompt:
+Analysis:
+Exhibit #4 Guidance:
+Tarheel Airway: This airline is similar to Southwest 
+Airlines, competing on price yet providing stellar service. 
+However, as they currently only fly one type of airplane, 
+costs to make this airline great again are estimated to 
+be $5B due to the need to lease new airplanes
+GTHC Airline: This airline is similar to Virgin America 
+with stellar service and great amenities already.  As a 
+result, renovation costs to make this airline great again 
+are only estimated to be $1.5B
+We have been provided with the income statement for 
+the last fiscal year for each of these airlines.
+
+
+===== PDF p259 =====
+Make Airlines Great Again
+255
+• By how much can Drumpf increase his profits for his hotel business? Assume that hotel 
+room revenue is the only revenue for his hotel business.
+Prompt #2:
+Given the prompt, the candidate should begin to calculate increase in profit by decreasing the labor force and 
+decreasing the avg price per hotel room.
+Increase in profit by decreasing labor costs: # of employees * # of hotels * Avg annual salary
+•
+50 employees per (see Exhibit #3 for calculation) * 50 hotels * $40k = $100M
+Increase in profit by decreasing price: New $ * new demand * 360 days – Old total revenue
+•
+($225 * 25,200 rooms/day (see exhibit #3 for calculations)* 360) - $1.89B = $2.0412B - $1.89B = $151.2M
+Total Hotel Revenue: Average $/room * Avg # Rooms * Occupancy rate * # of hotels * 360 days
+•
+$250 * 600 rooms * 70% occupancy * 50 hotels * 360 days = $1.89B
+Total potential increase in profit = $151.2M + $100M = $251.2M
+No need to ask the candidate for profit margin, but if he/she wants to calculate it, it is below.
+Increase in profit margins: previously, salaries was 43% of every $100 in room revenue (or 0.43 cents per dollar).  We 
+will have decreased labor costs by 33% (150 employees to 100), therefore salaries will decrease by 0.143 cents per 
+dollar, a direct increase to profitability. Without decreasing prices, profitability will be 28.3% (14% + 14.3%). Therefore, 
+@ a price of $250, profit will be ~$70 ($250 *28.3%) which means costs are $180.  If we decrease prices (say 10%) in 
+order to increase top line revenue, profit will be $45 ($225-180), or 20%, still an increase from the 14%.
+Interviewer Guidance:
+
+
+===== PDF p260 =====
+Make Airlines Great Again
+256
+• Donald Drumpf has just finished with his hair appointment at the salon and is swinging by in a few 
+minutes.  Please wrap up your thoughts and provide a recommendation.
+Recommendation 
+•
+The candidate should provide a conclusion that clearly identifies the recommendation, the rationale behind the 
+recommendation, and the risks associated with the strategy. An excellent candidate will identify that although the idea to 
+“Make Airlines Great Again” could increase profit margins, decreasing profit margins can be addressed through other means 
+(training labor to be more efficient and decreasing price of hotels) that are far less expensive and that would increase top 
+line revenue.  Furthermore, for a Company that has top line revenue of ~$3.8B per year, purchasing an airline for ~$15B-
+$30B is unrealistic.
+•
+Risks: 
+–
+Internal backlash from laying off 50 employees per hotel
+–
+Decrease in customer service if employees are laid off.
+–
+By decreasing prices, competitors may respond and this could lead to a potential price war
+–
+Reputation of Drumpf hotels if prices are lowered
+–
+If airline is acquired: Financing, synergies, cultures, etc.
+•
+Next Steps: 
+–
+Begin to identify hotels where average service time is high and understand how to make the process more efficient
+–
+Conduct a competitive analysis in order to understand what their response would be to a 10% decrease in your hotel 
+prices
+Interviewer Guidance:

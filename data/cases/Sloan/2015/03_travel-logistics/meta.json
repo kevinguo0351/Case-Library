@@ -1,0 +1,22 @@
+{
+  "case_id": "Sloan_2015_03_travel-logistics",
+  "school": "Sloan",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2015.pdf",
+  "idx": 3,
+  "case_name": "Travel Logistics",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Logistics",
+  "difficulty": "Difficult",
+  "pdf_page_start": 28,
+  "pdf_page_end": 31,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    31
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p031.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2015\\03_travel-logistics"
+}

@@ -1,0 +1,293 @@
+===== PDF p84 =====
+Orange Music
+69
+Industry:                  Media and Entertainment
+Case Type:     
+Growth/Cost
+Led by:            
+Interviewee
+Case Level:   
+Medium
+
+
+===== PDF p85 =====
+Behavioral Questions
+70
+• Most significant achievement in life
+Question 1:
+• Why consulting?
+Question 2:
+
+
+===== PDF p86 =====
+Orange Music
+71
+Orange Music, a music streaming app, is losing market share to its primary competitor 
+Soundhaven, for the past 3 years. Additionally, Orange Music’s Ad Spend as a % of 
+revenue has been increasing and has become higher than Soundhaven’s. Orange 
+Music needs your help to turn things around.
+Prompt #1:
+• Background information –
+– OM’s main goal is to increase market share and reduce Ad Spend (% of revenue)
+– OM operates in NA (North America), LAD (Latin America Division), and EMEA 
+(Europe, Middle East, and Africa)
+– OM has 4 main competitors; all have a higher YoY growth than OM
+– OM earns revenue through in app ads, user subscriptions, and partnerships
+Case Background:
+
+
+===== PDF p87 =====
+Orange Music
+72
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional)
+Framework Buckets:
+Growth Levers
+Ad Spend 
+Reduction
+Implementation 
+Strategy
+•
+Organic
+•
+UX/ UI changes
+•
+Exclusive content
+•
+Bundling options 
+with cell phone 
+carriers
+•
+Partnerships with 
+hardware 
+companies
+•
+Inorganic
+•
+Acquisitions
+•
+Changing marketing 
+channel mix
+•
+Moving from Google Ads 
+to Google SEO
+•
+Improve CTR (Click 
+through rate) and 
+conversions of digital ads
+•
+Explore influencer 
+marketing
+•
+Use pilot – scale 
+approach for organic 
+growth strategies
+•
+If inorganic, conduct 
+commercial due diligence 
+for potential acquisition 
+targets
+•
+Change marketing 
+channel mix for certain 
+target segments and 
+check success rate
+•
+Launch-Learn-Iterate-
+Launch model
+Push candidate towards competitive landscape
+
+
+===== PDF p88 =====
+Exhibit #1
+73
+Market Share
+YoY Growth
+Ad spend 
+(% of revenue)
+Geographies
+Orange Music
+22%
+2%
+20%
+NA, LAD, EMEA
+Play 360
+5%
+15%
+40%
+LAD, APAC
+Audio Auteur
+12%
+10%
+15%
+NA, APAC
+Soundhaven
+30%
+5%
+18%
+Global
+Boss Music
+17%
+5%
+25%
+Global
+Music streaming market landscape 2022
+NA – North America, LAD – Latin America Division, EMEA – Europe, Middle East, and Africa, APAC – Asia Pacific
+
+
+===== PDF p89 =====
+Guidance for Exhibit #1
+• Candidate should see the market 
+landscape and realize that there is a 
+potential for inorganic growth through 
+acquisitions
+• Candidate should finalize Audio Auteur as 
+the primary acquisition target
+• Post clearing this exhibit, nudge candidate 
+towards the second problem – Ad spend
+• Objective is to increase market share 
+rapidly – inorganic growth is a good 
+strategy
+• Play 360
+–
+Market share of 5% is good; growth of 15% is 
+good; but ad spend is very high (our second goal is 
+to reduce CAC)
+• Boss Music
+–
+Almost as big as Orange Music – difficult to 
+acquire, may lead to a merger; Growth rate not as 
+good as Audio Auteur or Play 360; ad spend is very 
+high at 25%
+• Audio Auteur
+–
+Good market share, double digit growth, low ad 
+spend – better acquisition target than the rest
+–
+Second order – Will unlock Orange Music’s 
+presence in APAC
+74
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p90 =====
+Exhibit #2
+75
+Orange Music’s Ad Spend Breakdown 
+(% of total Ad Spend)
+10%
+25%
+35%
+50%
+25%
+25%
+25%
+40%
+35%
+20%
+2020
+5%
+2021
+2022
+5%
+Social Media
+Google Ads
+Display Ads
+BTL Ads
+2019
+2020
+2021
+0,60
+1,00
+0,80
+0,50
+0,60
+1,00
+0,50
+0,60
+0,75
+0,55
+0,75
+1,00
+Social Media
+Google Ads
+Display Ads
+BTL Ads
+Orange Music’s Cost per Click ($ per click)
+1. Ad Spend = (#Clicks)*($ per click)                    2. BTL – Below the Line, Offline ads
+
+
+===== PDF p91 =====
+Guidance for Exhibit #2
+• In Exhibit #2, no math is needed
+• Candidate should highlight the following 
+critical insights –
+–
+Candidate should remember from the prompt that 
+the increase in ad spend is as a % of total revenue
+–
+Display Ads spend as a % of total Ad spend is 
+increasing and that might lead to the increase in 
+total ad spend (as % of revenue)
+–
+Display Ads spend can increase due to either 
+increase in $ per click or increase in #clicks
+–
+The line chart suggests that its not a $ per click 
+issue
+–
+Increase in #clicks is increasing ad spend (% of 
+revenue) as OM is not getting the same revenue 
+for the same #clicks (low conversion rate)
+• Once the candidate gives this insight, ask 
+the for the final recommendation
+• Bar chart
+–
+We know that ad spend is increasing YoY for OM. 
+From 2019 to 2021, we see that there has been a 
+significant share shift from Social Media Ads to 
+Display Ads. Google Ads and BTL (Below the Line) 
+ads have largely stayed the same
+–
+This share shift might be due to
+•
+Increase in cost per click for Display Ads
+•
+Increase in #clicks for Display Ads
+•
+Increase in both
+• Line Chart
+–
+We see that cost per click for Display Ads have 
+gone down. This suggests that the share shift 
+happened due to an increase in the #clicks in 
+Display Ads
+–
+This increase in number of clicks led to an increase 
+in Ads spend (as % of Revenue). This is because 
+the conversion rate for these clicks is lower than 
+other channels. Hence, for the same ad spend, OM 
+is getting lower revenues
+76
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p92 =====
+Orange Music
+77
+• To gain market share, OM should consider the acquisition of Audio Auteur given the 
+company has good market share, growth, and lower Ad spend. It will also unlock 
+OM’s presence in APAC
+• To reduce Ad spend, OM should focus its marketing efforts away from Display Ads 
+as conversion rates are low
+Recommendation 
+• Risks –
+– Acquisition gone wrong due to poor synergies
+– Soundhaven acquiring Play 360
+– Volatility in conversion rates and $ per click for current digital marketing channels in use
+• Next Steps –
+– Launch Perform commercial due diligence of Audio Auteur
+– Change marketing channel mix for certain target segments and check success rate
+Risks and Next Steps:

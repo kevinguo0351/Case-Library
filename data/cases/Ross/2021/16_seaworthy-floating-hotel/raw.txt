@@ -1,0 +1,258 @@
+===== PDF p167 =====
+163
+Ratings:
+Quant - 3
+Qual - 2
+Overall - 3
+Seaworthy Floating Hotel
+Hospitality | Market Entry
+Interviewee Led
+Case 16
+
+
+===== PDF p168 =====
+164
+Case 16 – Seaworthy Floating Hotel
+•	Your client is a successful entrepreneur based in Manhattan.  She is always thinking of creative ways to start new 
+businesses.  Her latest idea is to build a floating hotel (think of a skyscraper on a barge, and the combined structure is 
+seaworthy).
+•	Today is Oct. 1, and she must make a decision ASAP –her preferred construction company and barge manufacturer 
+conveniently have openings on Nov.1 for projects.  If she misses this window it will be another two years before both 
+companies can simultaneously work together.
+•	The entrepreneur hires you to assess whether she should spend $20M to build a ‘floating hotel that is seaworthy’.
+•	 If the candidate finds the case odd, let him/her know the entrepreneur‘s success rate is 100%, and the hotel project is vapid compared to previous endeavours
+•	 Potential clarifying responses (only provide if asked):
+•	 The hotel can travel on water like a sea vessel
+•	 Time for construction and validation: 1 year
+•	 Location for hotel & barge fabrication: New Jersey
+•	 Locations of interests: Two city strategy. Miami 11/1 to 4/30 and Manhattan 5/1 to 10/31 to take advantage of high seasons year-round
+•	 $20M is a sunk investment and represents all labor, material and testing costs to manufacture and validate the seaworthy floating hotel
+•	 The financial objective is 20% ROI in the first year
+•	 She wants to begin operating the hotel as soon as construction and testing conclude; that is, Nov. 1 of the following year
+•	 Assume no construction delays
+•	 Assume the client has sufficient funds
+Prompt
+Clarifying Information
+
+
+===== PDF p169 =====
+165
+•	Initial Investment
+•	Revenue
+•	Revenue Streams
+•	Rooms
+•	Restaurants
+•	Souvenir Shops
+•	Cost
+•	Fixed Cost
+•	Licensing
+•	Salary
+•	SG&A
+•	Variable Cost
+•	Hourly Labor
+•	Material (sheets, toiletries, etc.)
+•	Payback period / NPV
+•	Size
+•	Competition
+•	Market Share
+•	Preemptive Advantage 
+•	Barriers to Entry
+•	State Restrictions
+•	Federal Restrictions
+•	Marketing Strategy
+•	Target segment(s)
+•	Safety
+•	Built to withstand tropical 
+storms/hurricanes?
+•	Expertise
+•	Management Expertise 
+•	Hospitality
+Market Analysis
+Financial Analysis
+Implementation Considerations
+Potential Framework
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p170 =====
+166
+Part 1: Background Info &
+Basic Market Analysis
+•	The candidate may want to start with ROI. Guide him/her to the Market Analysis first.
+•	Please ensure the candidate explains why s/he wants information before providing it
+•	Market Analysis:
+•	Travel & Tourism Industry: good growth in tourist cities
+•	Competitors: there are no other seaworthy floating hotels in the US (East or West Coast)
+•	Other Competitors and Substitutes: numerous & fragmented – chain hotels & motels, 
+small business operators, bed & breakfast, campers/RVs, weekly apartment rentals, etc.
+•	The exact size of the industry is unknown, ditto for market share
+•	The client is only considering the US market (East Coast to be specific)
+•	Government regulations will be addressed and met during the construction and validation 
+phases
+•	Once the candidate sufficiently addresses the market and any potential regulations, ask him/her 
+what location(s) the client should consider for the hotel?
+•	(Proceed to the next slide)
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p171 =====
+167
+Part 2A: Will the Hotel Meet the
+Client’s Objective?
+Data for Revenues
+•	Ask the candidate how s/he would assess ROI
+•	After a sufficient explanation, start with revenues
+•	Please ensure the candidate explains why s/he wants information before providing it
+•	Proceed to the next page for the annual revenue calculation
+How many floors does the hotel have?
+26
+Floors 2-26 have rooms (25 floors)
+Good question! Assume all rooms are the same
+80% year round for both cities
+Restaurant, bar/discotheque, convenience shop
+$200,000/month
+Is there any room segmentation?
+How many rooms per floor?
+Hotel occupancy rate?
+What’s on the first floor?
+In aggregate, what is the first floor’s revenue?
+What’s the room’s daily rate?
+Each floor layout is the same: a 5x5 grid
+(candidate should immediately calculate 25 rooms per floor)
+Possible Candidate Questions
+The Interviewer’s Respone
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p172 =====
+168
+Part 2A: Will the Hotel Meet the
+Client’s Objective?
+Calculating Total Annual Revenue
+•	First Floor Revenue: $200,000 x 12 months/year = $2.4M/year
+•	Annual Room Revenue: Rooms/floor x Floors x Occupancy Rate x Room Rate x 360 days/year
+•	Annual Room Revenue: 25 x 25 x 0.80 x $200 x 360 = $36M/year
+•	Total Annual Revenue = $38.4M/year
+•	Proceed to the next page for the annual revenue calculation
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p173 =====
+169
+Part 2A: Will the Hotel Meet the
+Client’s Objective?
+Cost Breakdown
+Ask the candidate what cost buckets s/he would consider for the hotel
+•	For VC, guide the candidate to external house keeping if it is omitted
+•	For FC, docking fees and insurance are significant. Guide the candidate to these topics if they are omitted
+House keeping
+Docking fees (significant)
+External house keeping
+(daily exterior inspections)
+Etc.
+Food & drink
+Insurance (massive!)
+Yearly regulatory fees
+Etc.
+Variable Costs (VC)
+Fixed Costs (FC)
+•	Proceed to the next page for the Cost Data
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p174 =====
+170
+Part 2A: Will the Hotel Meet the
+Client’s Objective?
+VC
+FC
+$150/day/room
+$3M/season
+$100/day/room
+$1M/season
+Note 1: Seasonality doesn’t affect VC or FC
+Note 2: Federal regulations mandate that internal & external house 
+keeping is required regardless of occupancy
+Manhattan
+Miami
+Miami Total Cost = Total VC + Total FC
+Miami Total Cost = Floors/rooms x Rooms/floor x VC/rm/day x 180 days per season + Fixed Cost
+Miami Total Cost = 25 x 25 x $100 x 180 + $1,000,000 = $12,250,000
+Manhattan Total Cost= 25 x 25 x $150 x 180 days per season + $3,000,000
+Manhattan Total Cost = $19,875,000 (can round to convenience, within reason)
+Total Annual Cost = $32,125,000
+•	 Note 1 indicates VC and FC are the same 
+in high and low seasons
+•	 Note 2 indicates VC impacts all rooms 
+every day (assume housekeeping is 100% 
+of VC)
+Part 2A: Will the Hotel Meet the
+Client’s Objective?
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p175 =====
+171
+Part 2A: Will the Hotel Meet the
+Client’s Objective?
+ROI
+Part C: ROI
+The ROI is calculated as follows:
+Investment = $20M
+Profit = Total Revenue - Total Cost = $38,400,000 - $32,125,000 = $6,275,000
+ROI = Profit / Invest x 100% = $6.275M / $20M = 31.375%
+Client’s target = 20% ROI within the first year
+Once the ROI is complete, instruct the candidate that the client wants the final report in 60 seconds. 
+Case 16 – Seaworthy Floating Hotel
+
+
+===== PDF p176 =====
+172
+Conclusion
+Examples of risks and mitigating 
+factors: 
+•	 Risk of being the first seaworthy 
+floating hotel and not achieving the 
+anticipated 80% occupancy rate
+•	 Promotions and advanced sales to 
+secure early bookings.  Since the 
+ROI > objective, the client can trim 
+the top line to achieve the desired 
+occupancy rate while maintaining 
+the financial target 
+•	Competitors will enter the market 
+due to the strong profits.  As a 
+result, docking fees may increase 
+and upset the profit equation
+•	The candidate’s recommendation 
+should follow a similar format: 
+•	Client’s target  =  20% ROI within 
+one year
+•	Resulting ROI  =  > 31% in the first 
+year
+•	Based on surpassing the financial 
+objective, the client should proceed 
+with construction on Nov. 1 to 
+fabricate a seaworthy floating hotel. 
+•	The hotel’s unique feature to operate 
+as a sea vessel enables it to capitalise 
+on the high tourism seasons in Miami 
+and Manhattan. 
+•	Additionally, the client has adequate 
+funding to finance such a project. 
+•	Ensure contracts are drawn up for 
+hotel and barge manufacturers
+•	Scout port locations in Manhattan 
+and Miami
+•	Since the client is first to market 
+and has, at least, a one year lead, 
+she should secure a multi year 
+contract for docking fees in Miami 
+and Manhattan 
+•	Begin advertising campaign at 
+least 6 months in advance of the 
+hotel’s opening
+Recommendation
+Risks
+Next Steps
+Case 16 – Seaworthy Floating Hotel

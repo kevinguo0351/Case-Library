@@ -1,0 +1,82 @@
+===== PDF p47 =====
+Case 12: Pharma Acquisition              -medium-        McKinsey&Company, Round 1 
+42 
+ 
+ (Source: Case Interview from McKinsey&Company, Round 1) 
+ 
+Context: 
+ 
+Our client is a global pharmaceutical company that produces over the counter drugs and has its 
+headquarter in Frankfurt, Germany.   
+They are thinking of acquiring another pharmaceutical company located in San Francisco, that 
+produces nutritional drugs (for weight loss, diabetes, etc). 
+The CEO hired us to advise whether they should acquire the company or not. 
+ 
+ 
+Interviewer:  What are the key areas to investigate in order to determine whether the acquisition is a 
+good idea or not? 
+ 
+A good answer will identify the following: 
+- 
+First I would need to understand the rationale for the acquisition, that can be for: 
+o  acquiring resources (increase capacity, increase distribution, broaden product line, 
+technology, human capital, R&D, brand name, customer base) or  
+o cost reduction (economies of scale, economies of scope). 
+It is very important that the acquisition makes sense economically (positive NPV), but we also need to 
+look into the organizational issues (will potential synergies be realized, is the firm in the position to 
+perform the integration).  
+In addition, I would assess the geographic differences of the two companies under discussion. 
+Finally I would look into the likely response of competitors if the acquisition occurs and maybe 
+alternatives to acquisition and compare it to the acquisition itself (other target, organic growth) 
+ 
+Information provided upon request: 
+ 
+• 
+Purpose of acquisition: increase profits 
+• 
+The SF company has 4 drugs in the market 
+• 
+Both companies are selling their products globally. 
+• 
+The R&D department is based in the same location with the HQ 
+• 
+Revenues from an approved drug of the San Francisco based company is $1.5M 
+ 
+(show the next chart to the candidate) 
+ 
+ 
+ 
+ 
+
+
+===== PDF p48 =====
+Case 12: Pharma Acquisition        - medium-             McKinsey&Company, Round 1 
+43 
+ 
+Interviewer: We just discovered that we can improve the yield form phase 2 to phase 3 by investing 
+$150K in the R&D technology. 
+By how much should the yield increase so as to break even? 
+ 
+Other information given upon request: 
+The present value of launching a product is $1.5M 
+ 
+Solution guide: 
+To break even, cost needs to be equal to revenue 
+If x = the increase in the success rate from phase 2 to phase 3 then: 
+$150,000 = x * 70% * 90% * $1,500,000 
+ => x = 15.8% 
+(it means that the success rate should increase by approximately  15.8%/40% = 40%) 
+ 
+Interviewer: What are the risks involved with this acquisition? 
+ 
+(The candidate should be able to recognize the different risks involved) 
+• 
+ the strategic rationale 
+• 
+ likely response of competitors if acquisition occurs 
+• 
+ organizational issues: different locations for the HQ, integration of the two organizations 
+• 
+ profitability of the acquisition (NPV calculation) 
+• 
+ alternatives to the acquisition 

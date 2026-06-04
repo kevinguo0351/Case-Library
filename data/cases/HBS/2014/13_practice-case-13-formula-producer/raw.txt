@@ -1,0 +1,67 @@
+===== PDF p123 =====
+Practice Case 13 (Formula Producer) 
+Question 
+The client is a manufacturer and distributor of infant formula. They sell their product nationwide, and are in the middle of the pack in terms of market 
+share.  They are currently trying to boost their market share while maintaining profitability.   
+There is a government welfare program called WIC (Women, Infants, Children) that allows individuals living below the poverty level to receive vouchers 
+for infant formula for their children.  Unlike most welfare programs, this one is subsidized by the actual producers of infant formula.  On a state-by-state 
+basis, infant formula producers bid for the right to be the sole supplier of infant formula to welfare recipients in that state.   
+In addition to paying the government for the WIC contract, the client also provides rebates to retailers for WIC sales. As a result, income received from 
+WIC sales is substantially less than that received from normal formula sales. In fact, sales to mothers that remain in the WIC program for more than 12 
+months result in a net loss. 
+In trying to determine how much to bid on a WIC contract for a given state, what factors should you consider? 
+Background 
+This case is fairly wide open, and presents an issue that is most likely unfamiliar and ambiguous. One challenge will be for the interviewee to find one or 
+more issues that they can explore more in-depth. The basic focus of their analysis should deal with the relative profitability of a WIC contract. 
+Response 
+Candidate:  
+I think for this case I would first look at who the typical WIC customer is, and the dynamic of the relationship, meaning how long are they 
+a customer, and what kind of loyalty is there.  Since I don’t have any children, could you tell me more about a typical WIC customer, in 
+regards to buying formula? 
+
+
+===== PDF p124 =====
+Interviewer: 
+Sure.  Obviously the typical WIC customer is poor, since this is a form of welfare.  But some things you might not know are that 1) the 
+average WIC recipient stays in the program for less than 12 months, 2) mothers typically remain loyal to a brand through infancy for their 
+first child, but for subsequent children recipients often switch back and forth between brands, and 3) infants typically require formula the 
+first 22 months of their life. 
+Candidate: 
+Thanks. With that knowledge, I can start to think about the issues facing this company. In trying to decide the terms for the contract, 
+profitability is the primary driver. There's obviously some issue of social-enterprise here, but even so, I think profitability will drive much 
+of the decision. Since the WIC recipient gets rebates in addition to the subsidized cost of the product, we need to quantify that rebate in 
+order to understand what the profitability per recipient is. Can you tell me that?  
+Interviewer: 
+For the purposes of this interview, let's assume that the rebates average an additional 10% (off of the retail price). 
+Candidate: 
+OK. So the profit per customer might be determined by (WIC revenue - rebates - COGS). So if the revenue is $100/customer/year, and the 
+rebates are $10, and COGS are $75, we make $15 per customer per year. As long as we're paying less per customer for these rights to be 
+the sole-supplier, we're in the black. 
+Interviewer:  
+For the most part, your logic is correct. But is there anything else that might be a factor in determining profit? 
+Candidate: 
+Well, related to the actual profitability of the WIC product I'm not sure. But maybe there are some hidden costs or revenues that I'm not 
+thinking about. In fact, maybe there are some synergistic revenues that the company can achieve. If they get the contract, that gets them 
+additional shelf-space in the stores. And not just WIC recipients shop in the stores. So maybe they will be able to increase market-share, 
+just by being on the shelf. Of course, they are getting full retail price for those sales. So I might add in an additional sales minus COGS to 
+the equation. But to try and get an idea of that figure might be tough. How long to these contracts last? 
+Interviewer: Typically, several years. 
+
+
+===== PDF p125 =====
+Candidate: 
+Ok, so knowing that a contract is several years, say 5, we can begin to get a total dollar value for the contract. If we know how many WIC 
+recipients there are in this state that we're bidding, we can calculate expected revenues. Also, if we can get an idea of how much shelf 
+space we would have, we can quantify the synergistic sales. 
+Interviewer:  
+Good. I'm not going to make you go through the math on it, because we're about out of time, but you're right. There are 1.2 million WIC 
+recipients in the state, and shelf-space is awarded based on volume sales. So for this company to get the contract, it can help them have 
+more sales volume, and thus more shelf-space, and hopefully then more market share. 
+General Summary Comments 
+Ultimately, they should come up with some sort of explanation for how numbers would be run to estimate an appropriate contract bid.  One example might 
+be: 
+(WIC revenue - rebates - COGS) + (synergistic non-WIC revenue - COGS) >= Contract Bid 
+COGS takes into account economies of scale. 
+Real world situation is that synergies are strong, and WIC recipients bounce in and out of program but stay loyal to product for first-borns. Not only are the 
+synergies positive, but also on average WIC recipients are profitable because they pay retail for nearly half of the formula that they purchase over the first 
+22 months of their child's life. 

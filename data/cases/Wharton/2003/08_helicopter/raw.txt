@@ -1,0 +1,125 @@
+===== PDF p43 =====
+39 
+Case Interview Study Guide © 
+ 
+HELICOPTER 
+Category: Profitability 
+ 
+ 
+Question (posed by interviewer): 
+ 
+The firm’s new client has come to you with a new business idea.  He wants to start a helicopter 
+service between midtown Manhattan and JFK airport.  How would you begin to evaluate this 
+opportunity and what are the basic economics behind it?  He has asked you to brief him on your 
+conclusion in a 1 minute elevator ride from the 50th floor to the ground floor. 
+ 
+This question requires a cost/benefit analysis as well as an estimate for market size.  
+Because the interviewer explicitly asked for the “economics,” you know you will have to do 
+some basic number crunching.  While coming up with an analysis, the candidate should 
+also make sure to include alternatives as to what else the client could do with the helicopter.  
+One possible approach would begin by asking why the client wants this new route, in order 
+to try and keep in mind the company’s objectives.  
+ 
+Suggested Sample Response: 
+ 
+Does the client’s helicopter service idea have anything to do with the company’s current business 
+activities?   
+ 
+Yes, the client has a fleet of helicopters it purchased during the dot-com boom days and has 
+excess capacity 
+ 
+So the fixed costs for purchasing the helicopters are already sunk.  Can you tell me the costs 
+involved with the up keep of one helicopter? 
+ 
+What would you expect the costs involved to be? 
+ 
+I would assume some of the costs that go along with owning a helicopter include: 
+ 
+Pilot salary/benefits 
+ 
+Maintenance 
+ 
+Gas 
+ 
+Insurance 
+ 
+Taxes 
+ 
+That’s a good list.  Let’s just say that these all cost about $20,000 per helicopter per month. 
+ 
+How many helicopters does the client have? 
+ 
+They recently sold off most of the fleet, but retained two helicopters for company use. 
+ 
+
+
+===== PDF p44 =====
+40 
+Case Interview Study Guide © 
+ 
+At this point you have determined the cost portion, you should now move on to the revenue 
+stream. 
+ 
+The people who would most value the time saving and convenience of this offer would be top 
+executives.  The economics are similar to a limo service.  In order to determine the revenue, I 
+will need to know how much to charge per person and the number of people who would use this 
+service.  For the latter, I can estimate this based on the total possible capacity.   
+ 
+To begin, I’ll assume the service is used mainly during rush hours when convenience is most 
+greatly valued.  This includes four hours in the early morning and four hours in the evening, or 
+eight “rush hours” worth of flights a day.  Assuming a helicopter can land every 15 minutes, 
+there would be 32 flights per helicopter with potential passengers to pick up (four 15-minute 
+intervals in each hour * eight relevant hours = 32).  
+ 
+Assuming 10 passengers per flight and a 10% usage rate, I would expect each flight to carry 
+about one person (10*0.1=1), which equals 32 passengers per helicopter per day.  I would also 
+assume that the service is not used through out the week, but only early on and late in the week.  
+Let’s say it’s most needed about 16 hours per week.  This gives me a weekly customer potential 
+per helicopter of 64 customers and a monthly potential of 256 passengers per helicopter 
+(64*4=256).  For ease of calculations, I’ll round this to about 250 people per month per 
+helicopter.   
+ 
+Now that I have a number for customers, I’ll need to figure out how much to charge them.  At 
+the very least, the price should cover the $25,000 monthly costs per helicopter.  As an initial 
+price, let’s assume we charged $100 per person.  This would yield $100*250 = $25,000 in 
+revenue per helicopter.  For a month, this would give us a profit of $5,000 per helicopter 
+($25,500-$20,000 = $5,000).  For two helicopters, that’s $10,000 in total profit per month.  
+ 
+So what other issues are involved? 
+ 
+Well, I would like to know the alternatives to running this service, such as selling the helicopters. 
+To see whether it’s a good investment, I would find out the life of the helicopters as well as their 
+saleable value, and see if the discounted cash flows during the life of the helicopters exceeds 
+what I could get by selling them today.   
+ 
+That’s a good way to consider the investment.  Assume it makes sense to run the service.  What 
+else should you consider? 
+ 
+I would want to know what additional sources of revenue the helicopter could generate when it’s 
+not being used.  For instance, the client can rent it out for private use, especially in the summer 
+when the wealthy are looking to be out in the Hamptons or other vacation homes in the area.  In 
+addition, the client could work with the city to set up an emergency helicopter service for 
+hospitals during off hours.   
+ 
+That’s a good idea.  So what would you recommend to the client? 
+
+
+===== PDF p45 =====
+41 
+Case Interview Study Guide © 
+ 
+ 
+At initial glance, this seems to be a good business idea.  Given initial assumptions that will need 
+to be validated, annual profits could be $120,000.  There may also be other revenue streams to 
+consider since there will be excess capacity during off airport transport hours.  However, there 
+are other issues that will need to be tested to see if they will affect the cost structure such as legal 
+and regulatory issues.  My suggestion for next steps would be to validate all economic 
+assumptions and to look into legal rules and restrictions. 
+ 
+Remember that it’s okay to make certain assumptions but always do a sanity check at the 
+end.  The interviewer will look for that.  Also, you don’t have to do complicated 
+calculations.  No one expects you to cover all issues in the economic model, as long as 
+you’ve brought up the pertinent issues.  Lastly, remember to “think out loud”.   
+ 
+ 
+ 

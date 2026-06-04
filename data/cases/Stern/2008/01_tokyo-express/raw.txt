@@ -1,0 +1,88 @@
+===== PDF p9 =====
+Torch the Case 2008 
+ 
+4 
+1. Tokyo Express                                     
+    
+ 
+ 
+Type of Case: Market Sizing 
+Difficulty: Low 
+ 
+Opening 
+ 
+Estimate the number of passengers that pass through the Tokyo Main Station each day. 
+(Tokyo Main Station is one of the primary transportation hubs in Japan.) 
+ 
+Background  
+ 
+Generally, no background information is provided for market sizing.  Applicants should make 
+reasonable assumptions. 
+ 
+• Population of greater Tokyo is approximately 8 million. 
+• Trains run from 5am to 1am daily. 
+ 
+Areas of Discussion  
+ 
+Bottom-up: 
+The applicant should consider what types of passengers (i.e. revenue streams) go through the 
+station on a daily basis.  There are subways, bullet trains, surface lines, buses, and taxis. 
+ 
+Top-down: 
+Estimate the population for whom Tokyo station is the nearest station (residences, offices, 
+schools) and would presumably use public transportation to get to a different station.  
+ 
+However, Tokyo station is also used by many for transit, even if it is not the starting point or 
+final destination. 
+Recommended Conclusion 
+ 
+There is no right or wrong answer.  Analysis should be Mutually Exclusive and Collectively 
+Exhaustive (MECE). 
+ 
+The “mutually exclusive” part can be difficult because simply calculating the number of people 
+that use the subway, train, bus, etc. respectively, and then adding those numbers together leads 
+to an overstatement.  Someone might take the subway to get to Tokyo station then transfer to 
+the train, but counting this one individual in both groups is wrong. 
+ 
+ 
+ 
+ 
+
+
+===== PDF p10 =====
+Torch the Case 2008 
+ 
+5 
+1. Tokyo Express continued…                          
+__    
+ 
+The “collectively exhaustive” part is also difficult to estimate.  Reasonable assumptions would 
+need to be made about peak hour traffic vs. off-peak hour traffic and occupancy/capacity of all 
+modes of transportation which pass through the station. 
+ 
+If a top-down approach is taken, the interviewee also needs to consider those people who may 
+live in the area but walk/ride a bicycle/drive a car to school or work. 
+ 
+A strong answer will include solid assumptions, as MECE an approach as possible, and 
+confidence when working through the calculations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

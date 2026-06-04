@@ -1,0 +1,519 @@
+===== PDF p51 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+By Íñigo Arteche
+47
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p52 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+CASE FLOW – FOR INTERVIEWER
+48
+(*) Refers to the manufacturing and installation of reception devices (antennas), transmission infrastructure (Wiring), and end-terminals (set-top-boxes, smart TVs, phones…)
+Prompt & exhibit I
+Time: 5-7 mins
+Main Objectives:
+•
+Understand the 
+industry & company 
+size
+•
+Address the problem 
+to be solved: synergy 
+calculation
+Structure
+Time: 6-10 min
+Main Objectives:
+•
+Elaborate a structure 
+to address the 
+problem
+•
+Use main levers (cost 
+and revenue) as part 
+of the structure
+Exhibit II & quant
+Time: 12-15 min
+Main Objectives:
+•
+Calculate the main 
+synergies
+•
+Notice one-off costs
+•
+Understand the 
+difference between 
+target and potential 
+synergy
+Risk brainstorming
+Time: 8 mins
+Main Objectives:
+•
+Elaborate a list of 
+risks associated with 
+the NewCo synergy 
+implementation and 
+future operations
+Recommendation
+Time: 5 mins
+Main Objectives:
+•
+Outline target 
+synergy
+•
+Comment on main 
+synergies
+•
+Elaborate on risks 
+and mitigation 
+actions
+Total time: 36-45 min
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p53 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+PROMPT
+CLARIFYING POINTS (if asked)
+CASE GUIDANCE
+49
+Two technologic firms within the audio-
+visual tech industry have decided to join 
+forces. Their market*: manufacturing of 
+Hardware components for audio-visual 
+transmission has been declining at a 14% 
+rate and this has affected their 
+profitability jeopardizing their future 
+operations. 
+Both of their CEOs have agreed on 
+contracting a consulting firm to help them 
+navigate the process.
+Your job is to size the potential synergies 
+that the operation may yield for the 
+NewCo in the future
+•
+If the interviewee asks to know more about the audio-visual industry, show exhibit I
+•
+The companies work on a per project basis, mainly for hospitality segment (75% of their revenue)
+•
+Their operations are limited to the manufacturing & assembly of the Hardware components, the 
+installation is done by a third party
+•
+The companies are not based in the same country, one company is in France and the other in Poland
+•
+They are both of similar size  and have similar operations
+•
+The French company owns two plants (one in Southern France and the other next to Paris) while the 
+Polish part owns one bigger plant near Warsaw 
+•
+The objective is to improve their common profitability by a 10% of the aggregated revenues
+The objective of this case is to test the candidate’s ability to navigate through an M&A operation between 
+technological firms. It is designed to test brainstorming and focuses on a not very known industry to test 
+the candidate’s capacity of applying a structured approach to divide the problem into more manageable 
+parts.
+The case is not to test the specific knowledge on the AV infrastructure market, but to test the proficiency on 
+how to confront a merger operation, more concretely, how to approach the synergy calculation.
+(*) Refers to the manufacturing and installation of reception devices (antennas), transmission infrastructure (Wiring), and end-terminals (set-top-boxes, smart TVs, phones…)
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p54 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Country
+LY Revenue M€
+150
+85
+83
+75
+70
+3Y CAGR
+-20%
+-10%
+-5%**
+-12.5%
+-15%
+Eurotech – Exhibit 1
+INDUSTRY INSIGHTS
+PRODUCT CATEGORIES – HW TRANSMISSION
+MAIN COMPETITORS AND 3Y CAGR
+50
+•
+80% of TAM1 depends on Hospitality 
+purchases
+•
+Hotels have recently been moving to 
+Software services, reducing 
+dependence on Hardware providers
+•
+Market size for HW companies has 
+been declining for the last 3Y (see 
+graph)
+Notes: (*) An encoder/converter is a device that converts different signals (Satellite, Terrestrial, IP…) into playable content (video and/or audio). (**) The Swedish competitor has 
+recently acquired a SW company which is offsetting its decline in sales. | Glossary: (1) Total Accessible Market
+RECEPTION
+TRANSMISSION
+TERMINALS
+Antennas, Encoders, & 
+Converters*
+Wiring for different 
+signals and network 
+devices
+End user devices such 
+as Smart TVs, Tablets, 
+computers…
+CLIENT
+CLIENT
+800
+680
+660
+2018
+2019
+2020
+EU Total Accessible Market (M€)
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p55 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech – Exhibit 1
+51
+GUIDANCE
+This exhibit is for the candidate to understand better the industry, it is important to try to link it to the reason behind the M&A operation
+The candidate should notice that:
+1. The market is experiencing an overall decline ( (660-800)/800 = -140/800 = -7/40 = -17.5%). If the candidate makes the calculation, it would be 
+considered positive
+2. This decline is caused by the fact that clients are switching traditional Hardware for Software services. If the candidate notices that the Swedish 
+sales have declined less due to the acquisition of a Software firm it would be considered a plus
+3. The operation will create the biggest company in the market (75+80 = 155M€)
+4. The Polish company initially presents a better financial outlook (lesser decline than most competitors and bigger revenues)
+5. The market relies heavily on one type of client: hospitality. If the candidate links the fact that consumers now bring the content linked to their 
+devices (i.e. Netflix, Hulu…) to the increased importance of software services it would be considered a good understanding of the industry 
+behaviour
+6. Finally, the candidate should try to guess that since the industry is experiencing such a decrease, the operation might help capture synergies 
+that help both companies survive in such a demanding market
+If the candidate does not suggest the reason for the operation, the interviewer might ask him/her to brainstorm a set of possible reasons. When 
+synergies come up, the interviewer might suggest moving on to the structure.
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p56 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+52
+STRUCTURE GUIDANCE
+The candidate needs to identify the information that will help him solve the problem:
+•
+He should indicate that there are two main sources of synergies: sales and costs
+•
+In terms of sales synergies, the candidate should indicate that there is potential due to access to new clients, countries, 
+and products that were exclusive to each of the companies
+•
+In terms of cost synergies, the candidate should explain that there are potential synergies and elaborate on the 
+different lines where the companies can save costs from merging (i.e.. Purchase of raw materials, direct labour 
+reductions and/or relocations, R&D costs, and selling/administrative)
+•
+Last, the candidate could create a bucket to assess the feasibility/risks associated with the synergy calculation
+STRUCTURE QUESTION
+The interviewer will ask the candidate to create and present a structure to address the potential synergies upcoming from the
+M&A operation
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p57 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech – Proposed structure
+53
+Notes: (*) An encoder/converter is a device that converts different signals (Satellite, Terrestrial, IP…) into playable content (video and/or audio). (**) The Swedish competitor has 
+recently acquired a SW company which is offsetting its decline in sales. | Glossary: (1) Total Accessible Market
+COST SYNERGIES
+Raw Materials
+• Potential Savings in terms of purchasing and supplier optimization
+Direct Labour
+• Cost reduction derived from optimization of production process
+R&D
+• Savings associated to duplicated R&D functions
+Structure Costs
+• Potential savings in centralizing Selling & Administrative costs
+OTHER 
+CONSIDERATIONS
+Risks
+• Risk analysis for determining potential threat to synergy consecution i.e.. 
+cannibalization, high costs associated with terminations, reputational risks, 
+liquidity issues…
+Feasibility
+• Feasibility of the merger operation: action plan, funding & liquidity, stage of the 
+industry (i.e. mature close to obsoletion…)
+SALES SYNERGIES
+Products
+• New potential cross-selling opportunities coming from gaining access to: 
+
+New products 
+
+New countries 
+
+New clients
+Geographies
+Products
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p58 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech – Exhibit 2
+REVENUES FY20
+54
+All Numbers in M€
+French Company
+Polish Company
+Revenues
+70
+85
+Variable Costs 
+10
+11.5
+Raw Materials (components, 
+wirings, hardware pieces…)
+9
+9.5
+Transportation
+1
+1.5
+Energy 
+1
+0.5
+Fixed Costs
+55
+50.5
+Production (Salaries of employees)
+42
+33.5
+Research & Development
+10
+15
+Sales and Administration
+3
+2
+Operational Profit
+5
+23
+•
+Variable Costs have remained 
+stable over the last 10 years and 
+are not expected to change 
+since relation with the provider 
+is good
+•
+Fixed costs have been increasing 
+over the last 5 years at a slow 
+steady pace (no hiring nor firing 
+has occurred for the last 6 years)
+ADDITIONAL INFO
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p59 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech – Exhibit 2
+55
+GUIDANCE
+If the candidate asks:
+1.
+There is enough capacity in Poland to move production from France, with the associated increase in Fix Cost (salaries)
+2.
+Termination costs in France (associated with production employees in France) have been estimated to be 10M€ (one-off)
+3.
+The sale of the French Plant would lead to a net profit of 2M€
+4.
+The candidate can consider a target of 70% consecution of the potential synergy. The candidate should indicate that 100% of the synergy is 
+not attainable.
+The candidate should notice that:
+1. Raw Materials (small electronic components that both companies assemble to create their products) are being managed more efficiently in 
+Poland, it could be an effect of volume but with such a difference it is more likely that they are working with different providers
+2. French salaries are consuming a big portion of profitability. The candidate should be able to associate this to the fact that wages in France are 
+much higher than in Poland, and ask if it is possible to shift production from France to Poland
+3. He should also notice that Poland is spending more on R&D and state that for a technologic company this is a relevant issue, if he links it with 
+the lesser decline seen in Exhibit I it would be considered a plus
+In conclusion, candidate should state that the Polish have a leaner operation and that this gives them the possibility to invest more in R&D and 
+retain sales with more advanced products.
+Gathering all this information the candidate should propose to move on with the structure and start the synergies analysis.
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p60 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+QUANTITATIVE ANALYSIS
+56
+For the quantitative analysis, the interviewer will ask the candidate to calculate the synergies between the two players using the information contained in the first exhibit.
+(It is important that the candidate makes the calculation with at least 2 decimals, specially for the ratios)
+SOLUTION
+•
+Sales synergies (0M€): here the candidate should brainstorm some ideas on where he thinks the synergies are (i.e. cross-selling of non-common products, access to 
+new countries…). He should state that this type of synergy is more uncertain and speak about the possibility of cannibalization. The interviewer should indicate the 
+candidate to consider zero in terms of sales synergies.
+•
+Raw Materials: here the candidate should use the purchasing ratio from Poland to quantify the potential synergy behind Raw Materials. 9 – (70 x 9.5/85) = 1.17M€
+•
+Production: in terms of salaries, the candidate should try to explore the possibility of moving production to Poland, as it is more cost-efficient this would yield: 42 –
+(70 x 33.5 / 85) = 42 -27.588 = 14.41 M€
+•
+Research & Development: here the candidate should notice that this cost is duplicated, with one R&D department they would be able to serve the whole organization, 
+and since the Polish one seems to be more effective (in terms of sales) he could propose to move all R&D to Poland maintaining the Polish budget. 10M€, all French 
+R&D cost
+•
+Sales & Administration: same reasoning as before yet more unclear since Spain would need to retain some Financial controllers/administrative staff. 2-3M€
+Target Recurrent Saving of:
+(1.17 + 14.41 + 10 + 2.5) x 0.7 = 28.09 x 0.7 = 19.66 M€
+One-off Profits/Losses:
++2 – 10 = -8 M€
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p61 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+BRAINSTORMING QUESTION
+57
+SAMPLE ANSWERS
+Last, the interviewer must ask the candidate to elaborate on the last point of the plan, which is risks/feasibility. The candidate 
+must elaborate a list of risks that could harm the synergies and the profitability of the NewCo in the future. (Broader scope)
+REVENUES
+VARIABLE COSTS
+FIX COSTS
+•
+Substitute products
+•
+Competitive environment (i.e., 
+price-war)
+•
+Failure in the R&D process
+•
+Harming client relations
+•
+…
+•
+Increase in the price of 
+components
+•
+Decline in bargaining power 
+against suppliers (i.e., bankruptcy 
+of current providers)
+•
+Increase in the price of utilities…
+•
+Moving production from France 
+to Poland might not be possible 
+(gov. pressure, legal procedures…)
+•
+Employee dismissal may harm 
+reputation in the French market
+•
+Loss of capacity in the R&D 
+function…
+The candidate should explore the different risks associated with the future of the NewCo. If he proposes a structure that is 
+linked to profitability, it would be considered a plus, i.e.:
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p62 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+Eurotech
+RECOMMENDATION QUESTION
+58
+SAMPLE RECOMMENDATION
+After this analysis, the client has called us, they want us to have a call with them and propose them our main conclusions over 
+the synergy analysis. You have 2 minutes to elaborate an adequate response that captures what we have been discussing during 
+the project.
+•
+The response should start by first answering the question of how much potential does the operation has in terms of 
+synergies ( ~20M€).
+•
+The candidate should explain that this number has been calculated using a safety coefficient that assumes that the NewCo 
+will be able to capture a 70% of the potential synergy
+•
+Then he should move to explain where the synergies are mainly being captured: Production and R&D
+•
+He should talk as well about one-off profit/losses: in Year 0 (2021) the company would experience a -8M€ loss due mainly to 
+the termination costs associated with the employees in the French plant
+•
+Present a brief risk analysis, if he speaks about the French employment laws and the fact that moving production to Poland 
+might be difficult/costly it would also be considered a plus. Presenting risk mitigation initiatives would also be considered
+positive.
+•
+Last, he should try to establish a small action plan or suggest a follow up to the call
+TMT
+M&A
+Profitability
+Easy
+Medium
+Hard

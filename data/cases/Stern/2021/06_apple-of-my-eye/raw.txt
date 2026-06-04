@@ -1,0 +1,276 @@
+===== PDF p94 =====
+© 2021 NYU Stern MCA
+Apple of My Eye
+Case Overview:
+Industry: Food & Beverage
+Case Type: Market Entry
+Concepts Tested:
+•
+Operations
+•
+Brainstorming
+•
+Revenue
+Overview Information for Interviewer:
+•
+This is a math heavy case that requires the candidate to be very 
+organized and accurate. If the candidate is organized, they should be 
+able to solve Question 3 quickly.
+•
+Question 2 (brainstorming) allows candidate to display creativity
+Case Prompt:
+Bob is a master brewer and has been brewing beer for the past decade. Upon graduating from Stern, he opened a brewery on the 
+Upper West Side called Something Witty that features Belgian Witbier styled brews. While he found early success, he has noticed an 
+increase in customers asking for gluten-free alternatives, such as cider. Bob has hired us to help him analyze his options.
+Authors: Chelsea Dias & Briana Brickell (Stern ‘20)
+[Interviewee-Led]
+Quant: 7
+Structure: 6
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+90
+© 2021 NYU Stern MCA
+
+
+===== PDF p95 =====
+Apple of My Eye: Case Guide
+Clarifying Information:
+•
+Bob’s goal is to continue to be profitable 
+regardless of what expansion opportunity 
+he explores
+•
+Currently, Bob only sells bottled beer 
+direct to consumers.
+o
+Costs
+o
+Market
+Interviewer Guide:
+•
+A Good Framework Will Include:
+o
+Alternatives
+▪
+Other drinks- wine/cocktails/cider
+▪
+Experiences - live music, themed nights
+▪
+Food
+▪
+Renovations
+▪
+Equipment
+▪
+Licensing
+▪
+Break-even point?
+▪
+Size
+▪
+Competitors
+▪
+Customer Tastes / Preferences
+▪
+Cannibalization
+o
+Capabilities
+▪
+Organic
+▪
+Equipment
+▪
+Training
+▪
+Ingredients
+▪
+Sufficient space
+▪
+Outsource -> purchase from other manufacturer
+▪
+Current capacity utilization
+91
+© 2021 NYU Stern MCA
+
+
+===== PDF p96 =====
+Apple of My Eye: Question 1
+Question #1a:
+•
+Bob has decided to explore expansion into cider. Based on his initial research, he has created the following Exhibit (Exhibit 1) 
+detailing impacts to his current production if he were to undergo renovations to the brewery to accommodate cider production. What 
+are your thoughts on these two options?
+Notes to the Interviewer:
+-
+Candidate should recognize that there are other ways (building a new factory, buying cider from an existing company and reselling 
+etc.) to expand into the cider industry outside of renovating the factory.
+-
+Current State:
+-
+Pros: specialization in one product (one clear consistent marketing message, specialized labor force)
+-
+Cons: not meeting demand for gluten free customers, not increasing revenue potential
+-
+After Renovations:
+-
+Pros: New product offering, Cider has a higher selling price than beer
+-
+Cons: Beer production decreases by 6 cases/day, costs of renovation
+92
+© 2021 NYU Stern MCA
+
+
+===== PDF p97 =====
+Apple of My Eye: Exhibit 1
+Bottled Beverage Production
+Beer
+Cider
+Current State
+30 cases / day
+-
+After Renovations 
+for Cider Production
+24 cases / day
+12 cases / day
+Selling Price
+$5.00 / bottle
+$6.00 / bottle
+93
+© 2021 NYU Stern MCA
+
+
+===== PDF p98 =====
+Apple of My Eye: Guide to Exhibit 1
+Question #1b:
+•
+What will be the change in Bob’s annual revenue if he begins to produce cider?
+Math Information:
+•
+Wait for candidate to ask for 
+information below:
+•
+Bob only sells by the bottle. 
+Cases are used as a unit for 
+production.
+•
+30 bottles per case
+•
+Production runs Monday- Friday
+(assume 20 days per month)
+Math Solution:
+•
+Revenues would increase by $302,400 annually.
+•
+Note: Student can also calculate difference in beer revenue in the future (6 less
+cases produced per day; decrease of 20%) and add this to cider production.
+94
+© 2021 NYU Stern MCA
+
+
+===== PDF p99 =====
+Apple of My Eye: Question 2
+Question #2:
+•
+Besides potential revenue, what other factors should Bob consider before expanding into the cider market?
+Notes to Interviewer:
+Candidate should quickly identify cost as a key factor, but let them brainstorm other ideas such as those listed below.
+•
+Cost
+○
+Labor training
+○
+Equipment
+○
+Labeling
+○
+Marketing
+○
+Raw Materials (apples etc.)
+•
+Market Size / Demand
+○
+Cider vs Beer
+○
+# of new customers
+○
+expected future demand
+○
+Growth rate of both markets
+•
+Go to Market Strategy
+•
+Impact to Core
+○
+Cannibalization
+○
+Brand Equity
+•
+New Distribution Channels
+○
+Grocery
+○
+Liquor stores
+95
+© 2021 NYU Stern MCA
+
+
+===== PDF p100 =====
+Apple of My Eye: Question 3
+Question #3:
+•
+Bob has determined that he needs to capture at least 0.5% of the NYC take-home cider market annually in order to 
+break-even. Will he be able to produce enough cider to capture the 0.5%?
+Math Solution:
+Candidate should be able to use math from previous question to realize that Bob produces 
+86,400 bottles per year. For the sake of time, interviewer can provide this number to 
+candidate if needed.
+•
+Bob will be able to produce enough bottles to capture the 0.5%
+Math Information:
+•
+When candidate asks provide 
+following information:
+15.5 million bottles of cider are 
+expected to be sold in New York 
+City next year
+96
+© 2021 NYU Stern MCA
+
+
+===== PDF p101 =====
+Apple Of My Eye
+Recommendation:
+•
+Bob should make the investment to 
+produce cider. He will see an increase 
+in revenues of $302,400 per year and 
+should be able to breakeven based on 
+his 0.05% calculation.
+Bonus: Guide to an excellent case
+•
+An excellent caser will realize that demand for Bob’s cider has not been considered. While he can produce enough to breakeven, can 
+he actually sell that amount?
+•
+A great caser will also realize that the calculations in Question 2 can be completed by calculating changes in revenue, simplifying 
+overall calculation.
+Risks:
+•
+What is happening to the cider 
+market going forward?→ Can Bob 
+really meet the demand?
+•
+Cannibalization of beer products
+•
+Competition in the cider industry
+Next Steps:
+•
+Competitive analysis
+•
+Pressure test Bob’s assumptions 
+about 0.05%
+•
+Market research to determine if there 
+is a specific price point, flavor and 
+packaging that will sell best
+97
+© 2021 NYU Stern MCA

@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2010_15_vitaminco",
+  "school": "Ross",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2010.pdf",
+  "idx": 15,
+  "case_name": "VitaminCo",
+  "case_type": "Market Entry",
+  "round": "1",
+  "industry": "Consumer Health",
+  "difficulty": "null",
+  "pdf_page_start": 102,
+  "pdf_page_end": 108,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    102,
+    103,
+    104,
+    105,
+    106
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p102.png",
+    "exhibits/exhibit_p103.png",
+    "exhibits/exhibit_p104.png",
+    "exhibits/exhibit_p105.png",
+    "exhibits/exhibit_p106.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2010\\15_vitaminco"
+}

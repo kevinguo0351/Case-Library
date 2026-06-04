@@ -1,0 +1,217 @@
+===== PDF p143 =====
+CASE 14:
+Transportation TechCo.
+Firm Style
+Interview Round
+Parthenon
+1
+Clarifying information (provide only if corresponding questions are asked) 
+•
+The device transmits location and ETA info to schools and parents/legal guardians. 
+Parents, bus drivers, and school administrators access transmitted data and messages 
+via a proprietary phone/tablet application 
+•
+The client’s primary goal is to figure out the best context/industry in which this 
+product should be rolled-out. Success is defined as profit maximization.
+•
+Our client will generate revenues by (1) initial sales of the device (2) technology 
+service plans. For purposes of this case, we are primarily focused on (1)
+•
+The device would have a 5 year life span
+Case Question
+Our client, Transportation TechCo., is a key player in the transportation technology space. 
+Recently, the client developed an innovative GPS fleet tracking device which it believes 
+could prove valuable to K-12 schools in the U.S. We have been engaged to help our client 
+determine whether this product should be rolled out as a school bus tracking device. 
+
+
+===== PDF p144 =====
+Transportation TechCo.
+• Interviewer guidance:
+• Candidates should create a structure addressing the most salient 
+issues concerning the question posed in the prompt. For example: 
+• Customers – Who would our client be selling to in a school bus context?
+• Competitors – What, if any, similar products are being used?
+• Financial Considerations – (1) Potential market size and (2) profit tree
+• Push the candidate to think through the buying process. If the 
+candidate asks, you can tell them that purchasing decisions are 
+made by different decision-making-units across school settings (i.e. 
+district-level, school-level, bus drivers, etc.). 
+• If they don’t do so on their own, push candidates to consider the 
+specific benefits which could be derived from this product. 
+• Force them to (very quickly) brainstorm how the product might benefit 
+key stakeholders (i.e. schools, bus drivers, students, parents, etc.)
+
+
+===== PDF p145 =====
+Transportation TechCo.
+• Interviewer guidance:
+• Candidates should think about the potential sources and 
+drivers of revenues & costs associated with the product 
+• If they exclude this from their framework or if you are unsatisfied 
+with what they have provided, force them to brainstorm revenue & 
+cost drivers. These should be case/industry specific!!
+• Once you are satisfied, move onto Question 1
+
+
+===== PDF p146 =====
+Transportation TechCo.
+Question #1: What is the potential addressable year 1 market size for this device in the 
+U.S. school bus space?
+Tip: Candidates should begin market-sizing by verbalizing their formula/approach to size 
+the market. For each variable laid out, candidates should verbalize what information 
+would be needed to solve for that variable (i.e. sometimes there will be multiple layers) 
+and then confirm that the approach is reasonable to the interviewer.  This will help 
+candidates identify potential “traps” in the market-sizing. The candidate should then ask 
+for the relevant info as they tackle each variable in solving the market-sizing problem.
+(1)                                   
+(2)                            (3)                                          
+Example Formula: # School Buses in U.S. * # units per bus * Selling price per unit
+(a)                                        (b)                           (c)
+(1) # School Buses in US= # K-12 students in U.S.* % Students Riding Bus)/(# Students per bus))
+•
+(a)  Assume school-aged kids are 4-18; assume 320M people in U.S. evenly distributed across ages, with life 
+expectancy of 80 yrs. (i.e. 4M per yr) = 15 * 4M = 60M
+•
+(b) Assume 60% of students aged 4-13 ride and 30% of students aged 14-18 ride = (10/15 * 60%) + (5/15 *30%) = 
+120%/3 + 30%/3 = 120%/3 = 50%
+•
+(C) Assume average bus has roughly 13 rows on each side and can seat 2 students per row = 13*2*2 = 52 
+students per bus (appropriate to round down to 50 or up to 60)
+•
+((a) * (b)) / (c) = (60M * 50%) / 50 = 600k buses
+(2) # units per bus = 2 (give to candidate once they ask)
+(3) Selling price per unit = $200 (give to candidate once they ask)
+Total potential addressable Yr 1 Market Size: (1) * (2) * (3) = 600k * 2 * $200 = $240M 
+
+
+===== PDF p147 =====
+Transportation TechCo.
+Question #2: If the client were to enter the school bus market, what do you think its 
+year 1 new device sales would be? 
+•
+Year 1 revenues = Potential year 1 market size * year 1 product adoption 
+percentage
+•
+There is no correct response to this question. Here the interviewer should be 
+looking for the candidate to demonstrate business acumen and support his/her 
+response. For example, most schools are  very resource constrained, so year 1 
+adoption of 10% might be reasonable. Whatever the case, the interviewer 
+should push the candidate for supporting rationale for the product adoption % 
+chosen. 
+Question # 3: What would you expect to be the annual revenues (in terms of new 
+product sales) in year 5?
+•
+If they ask, candidates can assume that the overall market will not grow
+•
+Year 5 revenues = (Potential year 1 market size - year 1 revenues - year 2 
+revenues – year 3 revenues - year 4 revenues) * year 5 product adoption 
+percentage
+•
+Here the key is to remember that the product has a 5 yr. life, so any schools 
+purchasing the device in years 1-4 would be “out” of the market in year 5
+•
+Candidates should state their assumptions about adoption rates for years 2-5
+
+
+===== PDF p148 =====
+Transportation TechCo.
+Question #4: What are some other sectors and outlets 
+that could make sense for this new technology?
+• Push the candidate to brainstorm
+• Some examples might include commercial freight, shipping, 
+public transportation, flight, cruise ships, rescue boats, tour 
+buses, drone fleets, etc.  
+Question #5: Looking at the following data, which 
+additional outlets do you think appear attractive? Why?
+
+
+===== PDF p149 =====
+Exhibit 1
+0
+20
+40
+60
+80
+100%
+Commercial Freighters
+Other
+N
+M
+L
+K
+J
+I
+H
+G
+F
+E
+D
+C
+B
+A
+$750,000
+Cruise Liners
+Other
+M
+Q
+L
+H
+F
+P
+O
+C
+$500,000
+Other
+S
+R
+O
+H
+L
+$175,000
+Other 
+Prior Year Sales by Competitor Product (in 000’s)
+Tour Buses
+Commercial
+Drones
+$75,000
+Note: Competitor break down does not represent or approximate real life industry landscape. 
+All figures are made up for educational purposes. Colors represent competitor companies. 
+Letters indicate products
+Expected 5-yr
+CAGR
+1%
+3%
+1%
+10%
+
+
+===== PDF p150 =====
+Transportation TechCo.
+• Interviewer guidance:
+• The candidate should avoid getting confused by the high amount of 
+detail included within the Exhibit. They should quickly drive to 
+insights once they understand the data presented. 
+• The key insights are that (1) commercial freighters and cruise liners 
+are the two largest markets and lack dominant competitors (highly 
+fragmented) (2) high growth rate in the commercial drone segment 
+is not compelling enough to merit entry as annual segment sales 
+would only reach $120M in 5 years (using the rule-of-72, sales 
+wouldn’t double for 7.2 years), still making it the smallest segment.
+• Thus, commercial freighters & cruise liners would be the two most 
+attractive additional segments from the Exhibit However this 
+does not necessarily mean the client should necessarily launch into 
+these segments
+
+
+===== PDF p151 =====
+Transportation TechCo.
+Question #6: How should the client proceed?
+• A strong interviewee will provide a recommendation about 
+whether the client should enter the school bus segment and why 
+(using data from the case). 
+• Candidates should also discuss risks to their recommendation and
+next steps
+• Recommendations should also address any other segments 
+(commercial freight, etc.) which might be attractive for the 
+product 

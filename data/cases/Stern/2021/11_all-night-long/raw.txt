@@ -1,0 +1,268 @@
+===== PDF p138 =====
+© 2021 NYU Stern MCA
+All Night Long
+Case Overview:
+Industry: Entertainment/Media
+Case Type: Cost-Benefit Analysis
+Concepts Tested:
+•
+Profitability
+•
+Mental Math
+•
+Brainstorming
+Overview Information for Interviewer:
+•
+This is a math heavy case that will test the candidate’s ability to take a
+structured approach to making calculations, as well as his/her ability to
+demonstrate mental math skills.
+•
+The candidate will also have to pay attention to details in the case (cost of
+tickets, # of days in weekend) while driving towards the profitability calculation.
+Case Prompt:
+Your client is CNB Movies, a national movie theater company with $2 billion in annual revenue. In recent years, movie theaters have 
+seen record high demand for Marvel and DC Comics movies, and CNB is considering ways to capitalize on this demand. One option is 
+to offer 24-hour opening weekend screenings for these movies. The company has hired you to advise on the decision. Should they offer 
+this experience?
+Authors: Justin Sable, Sam Knopf, Molly Joyce (Stern ‘20)
+[Interviewee-Led]
+Quant: 7
+Structure: 4
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+134
+© 2021 NYU Stern MCA
+
+
+===== PDF p139 =====
+All Night Long: Case Guide
+Clarifying Information:
+•
+CNB Movies wants to implement this
+immediately.
+•
+Opening weekend starts Thursday night 
+and ends Sunday at 11:59 PM.
+•
+CNB wants to test one theater first. If 
+successful, The company would roll out to 
+all 400 theaters in the US.
+•
+Ticket prices are $15 adults / $10 
+children/seniors.
+•
+None of CNB’s competitors currently offer
+this experience.
+•
+CNB Movies is capable of financing this 
+on its own.
+Interviewer Guide:
+A Good Framework Will Include:
+o
+Revenue
+o
+Ticket sales
+o
+Concessions
+o
+Costs
+o
+Staff (cashiers, ticket checkers, cleaning, extra security)
+o
+Maintenance of projector, concession machines (popcorn, 
+slushies)
+o
+Utilities
+o
+COGS
+A Great Framework Will Mention:
+o
+Financial risks of 24-hour model (can projector operate 24 hours? 
+Will that increase capital maintenance?)
+o
+Competitive response
+o
+Potential to sell these tickets at a premium price
+o
+Fluctuations in concession sales at these showtimes
+o
+Alternative project options (opportunity cost)
+135
+© 2021 NYU Stern MCA
+
+
+===== PDF p140 =====
+All Night Long: Exhibit 1
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+12:00 AM
+3:00 AM
+6:00 AM
+Expected seat utilization per showing
+Children
+Adults
+Seniors
+Note: Each theater has 300 seats
+136
+© 2021 NYU Stern MCA
+
+
+===== PDF p141 =====
+All Night Long: Guide to Exhibit 1
+Notes to Interviewer:
+•This exhibit will test candidate’s ability to structure math. The candidate should use the chart to calculate how many seats 
+will be filled during each showtime, and at what ticket price. From there, he/she should solve for the total revenues from 
+ticket sales PER NIGHT.
+• Reminder: Tickets - $15 Adults, $10 Children/Seniors. Experience offered for 3 nights
+One potential approach is below:
+Ticket Rev. @ time = (# seats) * [(% children)*($ children) + (% adults)*($ adults) + (% seniors)*($ seniors)]
+@ 12:00 AM = 300 * [(30%)*($10) + (60%)*($15) + (10%)*($10)] = 300 * [$3 + $9 + $1] = 300 * 13 = $3,900 
+@ 3:00 AM
+= 300 * [(10%)*($10) + (40%)*($15) + (10%)*($10)] = 300 * [$1 + $6 + $1] = 300 * 8 = $2,400 
+@ 6:00 AM = 300 * [(20%)*($10) + (40%)*($15) + (20%)*($10)] = 300 * [$2 + $6 + $2] = 300 * 10 = $3,000
+Total Ticket Revenue = $3,900 + $2,400 + $3,000 = $9,300
+A strong candidate will notice that this is only revenue from ticket sales, and that there will also be revenues from 
+concessions. If asked, provide that average concession revenue is $10 per person. If candidate does not raise this, ask 
+them about other sources of revenue.
+Concessions = $10 * [(300)(100%) + (300)(60%) + (300)(80%)] = $10 * (300 + 180 + 240) = $7,200
+Total Revenue under new model = Revenue per night * # of nights
+= ($9,300 + $7,200) * 3 = $16,500 * 3 = $49,500
+137
+© 2021 NYU Stern MCA
+
+
+===== PDF p142 =====
+All Night Long: Exhibit 2
+Current Costs
+Staff
+$2,600
+Concessions
+$2,000
+Concession Maintenance
+$400
+Projector Maintenance
+$5,000
+Daily cost structure per theater
+Note: Staff includes cashiers, ticket collectors, film operators, maintenance/cleaning, and security
+138
+© 2021 NYU Stern MCA
+
+
+===== PDF p143 =====
+All Night Long: Guide to Exhibit 2
+Incremental profits of 24-hr. model = Total Revs – Total Costs = 49,500 – 38,700 =
+10,800
+Current Costs
+Expected Costs
+Staff
+2,600
+(2600) * (1.50) =
+3,900
+Concession
+2,000
+(2000) * (1.50) =
+3,000
+Concession Maintenance
+400
+(400) * (1.25) =
+500
+Projector Maintenance
+5,000
+(5000) * (1.10) =
+5,500
+Total Costs/Day
+10,000
+12,900
+Total Costs/Weekend
+(12,900) * (3) = 38,700
+After giving the candidate Exhibit 2, provide the following:
+- Under this new model, CNB Movies projects that for the 24-hour weekends:
+• Staff costs will increase 50%
+• Concession costs will increase 50%
+• Concession maintenance costs will increase 25%
+• Projector maintenance costs will increase 10%
+Solution:
+139
+© 2021 NYU Stern MCA
+
+
+===== PDF p144 =====
+All Night Long: Brainstorm Question
+Note: The candidate should speculate about other potential costs and benefits of the model. If they don’t and 
+time permits, ask the below question.
+Question:
+•
+What are some additional factors that our client should consider before making their final decision?
+Notes to Interviewer:
+•
+This is a brainstorming exercise where the candidate will have to think big picture about this decision.
+•
+The candidate should consider both internal and external factors, including but not limited to:
+•
+Potential to cannibalize our current customer base
+•
+Upfront marketing costs
+•
+Long-term marketing benefits (word of mouth, additional market share)
+•
+Whether CNB should roll out to all their theaters or a subset
+•
+Customer/demographic analysis by region
+•
+What movies should we offer this for – do further market analysis on blockbusters
+•
+How will competition react to this model? If CNB does not do this, do they lose customers to competition?
+140
+© 2021 NYU Stern MCA
+
+
+===== PDF p145 =====
+All Night Long: Recommendation
+Recommendation:
+•
+CNB Movies should implement this
+24-hour experience. The expected
+incremental profits are $10,800
+(10800/49500 = 22% profit margin) for
+one theater.
+•
+In addition, offering this experience 
+gives CNB a competitive advantage 
+for high-grossing movies.
+Bonus: Guide to an excellent case
+•
+Excellent candidates will drive this entire case themselves and not need course correction. Strong candidates will be creative in their 
+brainstorming and consider a wide range of internal, external, short-term and long-term factors.
+Risks:
+•
+CNB’s demand and cost 
+assumptions may need further 
+analysis
+•
+Projections may vary by theater and 
+geography
+•
+Movies could be a flop
+Next Steps:
+•
+Develop marketing strategy
+•
+Sensitivity analysis on demand, as 
+well as costs
+•
+Look for optimal roll-out strategy 
+across the US and develop criteria 
+on which movies to select for this 
+model as well as which markets to 
+implement
+141
+© 2021 NYU Stern MCA

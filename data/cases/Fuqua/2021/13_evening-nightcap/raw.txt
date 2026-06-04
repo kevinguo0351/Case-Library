@@ -1,0 +1,296 @@
+===== PDF p140 =====
+Evening Nightcap
+136
+Industry:                  Media
+Case Type:     
+Growth 
+Led by:            
+Interviewee
+Case Level: 
+Hard
+This case is meant to mimic Deloitte case
+
+
+===== PDF p141 =====
+Behavioral Questions
+137
+• Tell me about a time you had conflict with a team member or colleague? 
+Question 1:
+• What’s your greatest strength and weakness? 
+Question 2:
+
+
+===== PDF p142 =====
+Evening Nightcap
+138
+• Our client, Evening Nightcap, is a media company based in New York that 
+specializes in a daily email newsletters recapping world news and top business 
+stories in an easily digestible manner. Founded in 2013, Evening Nightcap has 100 
+employees and over 1 million subscribers. The CEO wants to expand the company’s 
+growth while keeping its brand identity and wants your help to determine what they 
+should do. 
+Prompt #1:
+–
+Client/Company information – It is a daily e-newsletter that goes out daily Monday to Friday at 6pm EST. 
+Evening Nightcap has a loyal customer following and strong advertising partners. The brand relies on 
+talented writers to communicate the proper voice, which resonates with its audience.
+–
+Industry/Competition information – N/A
+–
+Timeframe – N/A 
+–
+Product information – Subscribers do not pay a fee to read the newsletter, but advertisers pay anywhere 
+between $50,000-$100,000 for a week (5 days) of email advertisements. At this time, the rate is a flat fee, 
+regardless of subscribers There are currently 2 sponsors per email. 
+–
+Value Chain/Revenue information – Makes money by selling advertisements. Revenues of 7.5 million if take 
+average of 75,000/week using 50 weeks per year * 2 sponsors
+–
+Any constraints on the case – The CEO wants to keep the newsletter free to subscribers. 
+–
+Define growth: revenue growth over subscription growth. 
+Case Background:
+
+
+===== PDF p143 =====
+Evening Nightcap
+139
+Framework Buckets:
+Internal
+External
+Other 
+Considerations/
+Risks
+•
+Charge current  
+advertisers more
+•
+Add additional sponsorship 
+options to current 
+newsletter
+•
+Charge subscribers via a 
+paywall
+•
+Expand current product to 
+Saturday & Sunday
+•
+Affiliate marketing with 
+advertisers 
+•
+BUILD: Launch a new 
+product 
+•
+New newsletter for 
+specific industry –
+•
+Podcast
+•
+Events
+•
+Ability to cross-sell
+•
+BUY: Buy another 
+company in the newsletter 
+space
+•
+BORROW: Partner with 
+another company and 
+cross-promote
+•
+Marketing Costs: more 
+eyes = more subscribers = 
+more audience for 
+advertisers
+•
+Marginal costs –
+•
+Every writer needs an editor –
+hiring/talent cost
+•
+Need salespeople to sell additional 
+advertisements – hiring/talent cost
+•
+Tech capabilities on the backend for 
+operations
+•
+Is there audience demand?
+•
+Is their enough news to cover on 
+weekends / specific industries? 
+•
+Market saturation 
+
+
+===== PDF p144 =====
+Exhibit 1 
+140
+Sports
+Marketing
+Tech
+Audience 
+interest
+Grow new 
+demographics
+Ability to 
+implement
+Competition
+Grow sponsors
+Cross-sell
+28
+10
+35
+6
+6
+6
+9
+15
+4
+Sports
+Tech
+Marketing
+26
+6
+17
+4
+34
+7
+25
+19
+12
+IT
+Salary
+Advertising
+Costs
+Sponsor Type
+WTP
+B2B
+DTC
+CPG
+
+
+===== PDF p145 =====
+Interviewer guidance on Exhibit
+• Product Launch = industry specific newsletter. 
+Because the newsletter would be new, the 
+company wants to do a slow rollout – share if 
+prompted
+–
+One advertiser per newsletter
+–
+One newsletter per week 
+• This is a graph heavy exhibit meant to throw the 
+candidate off
+•
+The candidate should acknowledge that the costs graph is 
+irrelevant at this time because we are focused on revenue. 
+•
+The candidate would be wise to take note of potential costs for a second level 
+insight regarding risks in the recommendation. 
+• Quickly scanning, the candidate should realize 
+that marketing is no longer a contender based 
+on the Harvey Ball graph.
+–
+If prompted, the full Harvey ball in competition under 
+Sports suggests that competition is quite saturated in 
+this industry. 
+• The numbers in the sponsor type graph indicate 
+sponsor interest within that category (B2B, DTC, 
+CPG) for each industry vertical. 
+–
+I.e. interest is highest in Sports for DTC
+–
+There are 50 sponsors total per to match up to one per 
+week 
+•
+Candidate should calculate the WTP x 
+Sponsor Type (B2B, DTC, & CPG) for both 
+Sports & Tech. It is unnecessary to do 
+Marketing.
+–
+It is suggested they take the average WTP at this 
+time, which is marked by the X
+–
+Sports: 
+•
+B2B x Ave WTP = 7*$70,000 = $490,000
+•
+DTC x  Ave WTP =26*$80,000 = $2,080,000
+•
+CPG x Ave WTP = 17*$75,000 = $1,275,000
+•
+TOTAL = $3,845,000 revenue
+–
+Tech
+•
+B2B x Ave WTP = 34*$80,000 = $2,720,000
+•
+DTC x  Ave WTP =12*$70,000 = $840,000
+•
+CPG x Ave WTP = 4*$60,000 = $240,000
+•
+TOTAL = $3,800,000 revenue
+–
+Sports > Tech by an additional $45,000 in revenue
+•
+However, due to Harvey Ball chart, candidate should see that Tech 
+has more synergies for launch and should be prompted to choose 
+Tech over Sports
+•
+Additional support can be found by calculating highest WTP for most 
+desired sponsored type across both Sports & Tech (should the 
+launch be well-received)
+–
+Sports: DTC x  Max WTP =26*$120,000 = $3,120,000
+–
+Tech: B2B x Max WTP = 34*$100,000 = $3,400,000
+–
+Tech is $280,000 more revenue here
+–
+Should candidate be tempted to calculate Max 
+WTP across all sponsor types – Sports > Tech
+•
+Yet, qualitative analysis should be applied with synergies in Harvey 
+Ball chart 
+141
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p146 =====
+Brainstorming
+Choose any of the below?
+1.
+What are potential barriers to entry for a 
+successful product launch? 
+2.
+How would you begin thinking about a 
+go-to-market plan? 
+Brainstorm should remain structured and 
+creative
+Example buckets:
+1. Customers, competitors, costs
+2. Promotion, financial
+142
+Prompt:
+Analysis:
+
+
+===== PDF p147 =====
+Evening Nightcap
+143
+• The CEO is ready to hear your recommendation! 
+Recommendation 
+• Recommend launching a new product, specifically a newsletter focused on the 
+technology space. This would bring additional revenues of $3.8M (if use Average 
+WTP) for the company within the first year.
+• Risk: 
+– Potential dilution of brand with poor writing voice for new newsletter and audience doesn’t 
+respond in same way to core newsletter 
+– Cannibalization of current advertisers to new newsletter – doesn’t create additional or enough 
+revenue growth 
+• Next steps: 
+– Ensure proper hiring process for talent
+– Smooth integration of new newsletter into EN brand.
+– Expand current advertisers to spend across both newsletters
+Risks and Next Steps:

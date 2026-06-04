@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2018_35_remco-rubbers",
+  "school": "Kellogg",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2018.pdf",
+  "idx": 35,
+  "case_name": "Remco Rubbers",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 262,
+  "pdf_page_end": 268,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    263,
+    264,
+    266,
+    267,
+    268
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p263.png",
+    "exhibits/exhibit_p264.png",
+    "exhibits/exhibit_p266.png",
+    "exhibits/exhibit_p267.png",
+    "exhibits/exhibit_p268.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2018\\35_remco-rubbers"
+}

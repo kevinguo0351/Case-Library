@@ -1,0 +1,74 @@
+===== PDF p44 =====
+Table of Contents 
+ 
+40
+ 
+Practice Case 19: Bank Mauritius  
+(Mckinsey - Round 2) 
+ 
+I. Case scope provided by interviewer: 
+ 
+Your client is a bank in the Mauritius. The population of Mauritius is 1 
+million and the average income is $10,000 per year. The bank has 
+hired you in to find ways of boosting their revenues. 
+ 
+How can the bank increase its revenues? 
+ 
+ 
+II. Additional Information 
+ 
+None 
+ 
+II. Sample solution 
+ 
+Discuss the range of different means of revenue generation for the bank: 
+1) Interest bearing accounts: Can they offer a range of accounts targeting 
+different parts of the market? 
+2) Credit cards: can they issue credit cards as a means of gaining additional 
+revenue. This would depend on how wide spread credit card usage was in the 
+Mauritius. 
+3) Extend other financial services such as insurance or share dealing options. 
+4) Look to expand to other islands such as La Reunion or other territories. 
+ 
+Interviewer: Letís focus on the opportunities available in the life insurance 
+market. Describe whether or not a bank has any sources of competitive 
+advantage in this market. 
+ 
+Answer: The main sources of competitive advantages are: 
+Trust: the bank has established relationships, and people believe that the 
+bank is going to be around long term to pay out on any life insurance policy. 
+Branch presence: the bank has a wide reach, allowing easy marketing of life 
+insurance in branch.  
+Information: the bank knows details of each customerís accounts and can 
+thus target those customers who would be most valuable to them. 
+Cross Selling: linked to the last point, the bank can cross sell to itís existing 
+customers. 
+ 
+Interviewer: OK, so how large do you estimate the life insurance market to 
+be? 
+ 
+
+
+===== PDF p45 =====
+Table of Contents 
+ 
+41
+People who are going to buy life insurance are those who have dependents 
+and want to leave them money in case they pass on. Letís assume the 
+average marriage age in Mauritius is 20 and the average lifetime is 80 years. 
+Then total number of people who might be interested in a life insurance is 
+around 600,000 ((80-20)*1,000,000). 
+ 
+Interviewer: What price would you charge a 25 year old? 
+ 
+Answer: Present Value of future earnings will on average be a continuity of 
+$10,000 per year for 40 years discounted to today. If we approximate this to 
+a perpetuity and assume a 10% discount rate, then this value is $100,000. If 
+we assume that 1:1000 25year old die, then the cost of us of a pay out is 
+$100.  
+Allowing some additional room for cost, profit and adverse selection, letís say 
+we charge $150. 
+ 
+Interviewer, that sounds low, say $200. In which case how big is the market? 
+ 
+Answer: The total market would be about $120 Million 

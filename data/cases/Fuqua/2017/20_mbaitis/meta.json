@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2017_20_mbaitis",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 20,
+  "case_name": "MBAitis",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Pharma",
+  "difficulty": "Medium",
+  "pdf_page_start": 232,
+  "pdf_page_end": 241,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    235,
+    236,
+    237,
+    238,
+    239
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p235.png",
+    "exhibits/exhibit_p236.png",
+    "exhibits/exhibit_p237.png",
+    "exhibits/exhibit_p238.png",
+    "exhibits/exhibit_p239.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\20_mbaitis"
+}

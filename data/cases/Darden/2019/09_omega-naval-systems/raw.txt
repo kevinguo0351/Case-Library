@@ -1,0 +1,419 @@
+===== PDF p116 =====
+112
+Omega Naval Systems
+Aerospace & Defense
+
+
+===== PDF p117 =====
+113
+Aerospace and Defense
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+OMEGA NAVAL SYSTEMS
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  Te l l  m e  a b o u t  
+a  t i m e  y o u  
+u t i l i z e d  d a t a  t o  
+i n f l u e n c e  
+s o m e o n e .
+UVA Darden School of Business 2019-20 Casebook
+Clarifying Information:
+Only sell to US Navy with no intention of expanding to other branches.
+Omega makes money on the sale of the radar system, no ongoing service contracts.  One time sale.
+No new products are expected to be developed or launched.
+No target improvement goal, just better than what it currently is.
+No historic profitability figures.
+All options on the table regarding the 3 product lines.
+Expect 100% conversion of customers from products 1 to 3 or 3 to 1 if either is shut down.
+Omega is an aerospace defense contractor with three naval radar systems in 
+its product lineup. 
+These systems are equipped on naval destroyers and aircraft carriers.
+They have three radar systems in their product lineup, Products 1, 2 and 3.  
+1 and 3 are substitutes for one another.
+The company has experienced declining profits in recent years and has 
+brought us in to advise how to turnaround their financials.
+
+
+===== PDF p118 =====
+114
+•
+Candidate should recognize this is a profitability problem and should drive the case here first.  Strong candidates will mention the margin of each product line as a 
+potential driver of the profit problem(mix issue).
+•
+Candidate should also infer about potential changes at the company in recent years and if these changes have impacted capacity, supplier relations, pricing, etc.
+•
+A thoughtful framework, though unnecessary for this case’s success, will include external pressures from competitors and potential changes in customer buying 
+behaviors(peace time vs. war time, repeat customer purchases, fixed contract pricing, etc.)
+RECOMMENDED FRAMEWORK
+Profit
+Revenue
+Price 
+Volume
+Mix
+Servicing Revenue? (if not clarified in 
+prompt)
+Cost
+Labor
+Materials
+Software
+R&D
+Warranty 
+Overhead
+Opportunities to explore
+Remove a product line
+Insource v. outsource
+Value based price
+Digitizing value chain
+Expanding capabilities/product into other 
+industries
+Market
+We serve one customer
+War time v. peace time
+Political influence of military budget
+New competitors (deep tech)
+• A powerful starting voice over of this framework states first I want to diagnose where the 
+problem is occurring comparing our profitability YOY. Once we know, we can explore ideas 
+for improving profitability. Of course, we also need to consider the unique market conditions 
+for this company since we serve only one customer and they are the government. Then 
+circling back to read through the details of each bucket. 
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p119 =====
+115
+EXHIBIT 1: REVENUES AND COSTS BY PRODUCT
+* Externally Sourced
+27%
+6%
+12%
+6%
+6%
+5%
+18%
+12%
+29%
+19%
+20%
+34%
+17%
+17%
+10%
+24%
+18%
+19%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+Product 1
+Product 2
+Product 3
+Costs as Percentage of Revenue per Unit
+Service
+Research and Development
+Software*
+Semi Conductor Parts*
+Labor
+Fixed Costs
+Revenues and Historic Product Information
+Product 1
+Product 2
+Product 3
+Year of Product Launch
+2017
+2000
+1986
+Units Sold(2017)
+5
+10
+5
+Revenue per Unit(millions of $)
+5
+7
+5
+Cumulative Units Sold since Launch 
+5
+185
+520
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p120 =====
+116
+•
+Candidate should be able to drive where profitability/loss of company is coming from.
+•
+Question 1: Why do you think there are such significant differences in costs as a % of revenue?
+-
+Product 1- new product, heavy on service early in product life cycle. High fixed costs relative to 2 and 3(opportunity to 
+realize EOS with volume). Total costs are 111% of revenues. 
+-
+Product 2- only profitable product. Highest revenue/unit.  Model for what is working in the company.  Total costs are 
+79% of revenues.
+-
+Product 3- old product. Heavily outsourced(few suppliers can supply the old tech needed, pricing bargaining power is 
+not in Omega’s favor). Total costs are 109% of revenues.
+•
+Question 2: Calculate profitability by product line and total current profitability for the firm.
+•
+Question 3: Conceptually, what would happen if you doubled the sales of product 1?
+-
+Fixed costs would be shared across more units, cost per unit drops to 99% of revenue.  All else equal, the product line 
+becomes profitable. 
+EXHIBIT 1 INSTRUCTIONS(FOR INTERVIEWER)
+Profitability per unit(millions)
+Product 1 Product 2 Product 3 Total
+Revenue
+5
+7
+5
+Total Cost
+5.55
+5.53
+5.45
+Profit per unit
+-0.55
+1.47
+-0.45
+Total Profit
+-2.75
+14.7
+-2.25
+9.7
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p121 =====
+117
+•
+Let’s assume that Omega cannot sell more contracts.  How would you determine areas for 
+improvement in cost structure for each product line to raise profitability?
+-
+Supply chain network assessment
+-
+Relationship pricing for externally sourced products
+-
+Compare to industry averages on labor
+-
+Identify historic cost behavior with other Omega product lines(most important inference).
+•
+When identified, provide exhibit 2.
+•
+If not mentioned, ask what you would look for in historic pricing to understand cost reduction 
+opportunities?
+-
+Candidate should mention any patterns about cost behavior and savings in production over time 
+from continuous improvement, economies of scale, software efficiency, etc.
+BRAINSTORM AFTER EXHIBIT 1
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p122 =====
+118
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Cumulative Units Produced
+Total Production Costs 
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+EXHIBIT 2
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p123 =====
+119
+•
+Ask the candidate what he/she sees
+-
+Every time a product doubles its cumulative production after its first 5 units, total production costs are 
+reduced by 20%(help guide the candidate if the scale of the exhibit is not easy to establish)
+-
+Reduction in cost persists until 80 units are cumulatively produced and then no more improvement
+-
+(Referencing Exhibit 1) Product 1 has best opportunity for cost improvement.  Accelerate production as 
+quickly as possible to achieve profitability more quickly.
+-
+Product 2 has achieved its best cost behavior and peak profitability.  Cash cow.
+-
+Product 3 is too expensive to continue producing. No more opportunity to reduce cost.
+•
+Knowing what we know, how should we proceed and why?
+-
+Sunset production of Product 3 and absorb all sales to product 1.  Accelerate cost reduction on Product 1
+-
+Risks of sunsetting Product 3?
+•
+Customer preferences, internal pushback, shutdown costs, production capacity for Product 1
+-
+Now let’s quantify the financial impact of this decision(next slide)
+EXHIBIT 2(FOR INTERVIEWER)
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p124 =====
+120
+•
+Assume we can convert 100% of sales of Product 3 to Product 1 this year. Calculate the profitability improvement by 
+product, in total, and net margin improvement as a percentage.
+•
+Old Profitability
+•
+New Profitability(Product 1’s new cost should now be 20% lower than at previous production, or 111% of revenue* 80%, 
+or 88.8% of revenue)
+•
+Change in Net Margin 
+Profitability per unit(millions)
+Product 1 Product 2 Product 3 Total
+Revenue
+5
+7
+5
+Total Cost
+5.55
+5.53
+5.45
+Profit per unit
+-0.55
+1.47
+-0.45
+Total Profit
+-2.75
+14.7
+-2.25
+9.7
+Profitability per unit(millions)
+Product 1 Product 2 Product 3 Total
+Revenue
+5
+7
+0
+Total Cost
+4.44
+5.53
+0
+Profit per unit
+.56
+1.47
+0
+Total Profit
+5.6
+14.7
+0
+20.3
+Old
+New
+Change
+Total Profit
+9.7
+20.3
+10.6
+Net Margin
+8.1%
+16.9%
+109%
+CALCULATE FINANCIAL IMPACT(INTERVIEWER ONLY)
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p125 =====
+121
+•
+The candidate’s recommendation should entail shutting down Product 3. 
+•
+Rationale should include improved EOS opportunities in Product 1, lack of profitability in Product 3, and 
+opportunity for 100% conversion of customers due to the substitution of 1 for 3.
+•
+Recommendation should quantify the improvement in $(10.6million) and %(109) terms.
+•
+Risks should include monetary cost of shut down and customer pushback
+•
+Next steps should include a cost analysis of the shutdown and/or communications plan internally and 
+externally about the proposed plan
+RECOMMENDATION
+0 9  |  C A S E :  O M E G A N AVA L  S Y S T E M S
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p126 =====
+122
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

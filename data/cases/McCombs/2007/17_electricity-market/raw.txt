@@ -1,0 +1,152 @@
+===== PDF p40 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 37 
+ 
+Case No.17: Electricity market 
+Company: The Boston Consulting Group 
+ 
+You are on a project to study the economics of the electricity market in a hypothetical country called 
+Riveria. The market has three types of electricity plants coal fired, oil fired and gas fired. The table 
+below summarizes the economics of each type 
+ 
+Type of power plant 
+based on fuel source 
+Cost per unit of 
+electricity 
+Price per unit of 
+electricity 
+Annual market supply 
+available (units of 
+electricity) 
+Coal 
+35 
+50 
+10 
+Oil 
+75 
+100 
+15 
+Gas 
+125 
+175 
+25 
+ 
+The market operates on a ‘Marginal Price’ basis – That is the price of all units sold will be equal to the 
+price of the last unit sold. For example if the market demand equals 50 units then the price of all 50 
+units sold will be $175 per unit irrespective of it is coal fired, oil fired or gas fired. 
+ 
+Instructions to the interviewer: This case tests the economics fundamentals of the candidate and the 
+quantitative skills. The candidate just needs to answer the following questions 
+ 
+1) Draw a demand curve for a demand range 0 to 50 units  
+ 
+Answer: 
+                  
+Demand curve for electricity market in Riveria
+0
+25
+50
+75
+100
+125
+150
+175
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Demand (units)
+Price per unit
+ 
+ 
+2) Who makes the most profits ($) when the market demand is 35 units?  
+ 
+Answer: The oil fired power plants will make more $ profits. At demand = 35 units the market 
+price per unit will be $175 per unit  
+Type of power  
+Cost per unit 
+Price per unit 
+Capacity sold at demand = 35 units 
+Profits 
+Coal 
+35 
+175 
+10 
+1400 
+Oil 
+75 
+175 
+15 
+1500 
+Gas 
+125 
+175 
+10 
+500 
+
+
+===== PDF p41 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 38 
+ 
+3) Assuming no further capacity addition, within what demand ranges 
+1) Coal fired plants make more $ profits than others 
+2)   Oil fired plants make more $ profits than others 
+3) Gas fired plants make more $ profits than others 
+ 
+Answer: 
+a. Coal fired plants are the most profitable for all values of demand between 1 and 25 units. 
+b. Oil fired plants are the most profitable when demand is between 26 and 50 units 
+c. Gas fired plants are never the most profitable. They make the least dollar profits among 
+the 3 in the given demand range 
+ 
+Calculations: Profits in dollars 
+ 
+Plant type 
+Demand =10 
+Demand = 25 
+Demand = 50 
+Coal 
+150 
+650 
+1400 
+Oil 
+0 
+375 
+1500 
+Gas 
+0 
+0 
+1250 
+ 
+4) What are the implications of this kind of market conditions for your client who is in this 
+market? 
+- A new competitor who may enter the market can change the market economics depending 
+on what type of plant he sets up and how much capacity he installs 
+- It is important to forecast demand accurately and if required diversify the portfolio with a 
+combination of different types of plants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,334 @@
+===== PDF p50 =====
+Take Inc.
+46
+Industry:                  Tech
+Case Type:     
+Profitability
+Led by:            
+Interviewer
+Quantitative Level: Medium
+Qualitative Level:
+Easy
+
+
+===== PDF p51 =====
+Behavioral Questions
+47
+• Tell me about a time that you had to make a decision without complete 
+information/enough data.
+Question 1:
+• What is your proudest accomplishment to date?
+Question 2:
+
+
+===== PDF p52 =====
+Take inc.
+48
+Hyper is a mobile application that connects drivers with passengers. Launched 
+successfully in 2010, it has been experiencing declining profitability for the last year. 
+The COO of Take has requested your services to understand why.
+Prompt #1:
+Background information:
+Client/Company information – Headquartered in California; Services all of North 
+America
+Industry/Competition – One new entrant, Elevate, entered the market in 2013
+Product information – Mobile phone application for all operating systems that needs 
+to be downloaded by passenger to link up with drivers in the neighborhood
+Value Chain – Pricing is based on a proprietary algorithm which looks at supply of 
+drivers, demand of passengers and length of demanded trip; Drivers are not permanent 
+employees of the Take, simply contractors
+Revenue – Ride fares and transaction fees
+Case Background:
+
+
+===== PDF p53 =====
+Take inc.
+49
+Framework Buckets:
+Ride Revenue
+Take inc. Costs
+Macro factors
+•
+Inflation
+•
+Weather/Climate
+•
+Economic Downturn
+•
+Competition (direct, 
+public transit, scooters)
+•
+Regulatory issues
+Price/Fare
+Quantity
+• Algorithm-
+based 
+(supply, 
+demand, ride 
+length)
+• Quality-
+based pricing
+• # of rides: by 
+length, time, 
+area
+• # of 
+passengers: 
+by location / 
+customer type 
+(business, 
+leisure)
+Fixed
+Variable
+• New 
+investments
+• Corporate 
+office space 
+(rent)
+• Tech 
+infrastructure 
+costs
+• Salaries
+• Insurance
+• Commission 
+paid to 
+drivers
+• Marketing 
+and 
+advertising 
+to acquire 
+new 
+customers 
+and drivers
+
+
+===== PDF p54 =====
+Exhibit #1
+50
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Costs
+Revenue
+Profit
+Take’s financials since launch1
+1Costs, Revenue, and Profit Figures are in Millions of Dollars
+Winter
+Spring
+Summer
+Fall
+Legend
+0
+20
+40
+60
+80
+100
+120
+140
+Quarterly Revenue
+
+
+===== PDF p55 =====
+Interviewer guidance on Exhibits
+• Interviewer should ask candidate to 
+calculate number of rides undertaken by 
+Take in 2014
+– (DON’T PROMPT – Candidate should ask 
+for the following details)
+•
+Average price of rides in 2014: $15
+• Interviewer should ask candidate to 
+calculate the total number of customers 
+who have taken rides in 2014
+– (DON’T PROMPT – Candidate should ask 
+for the following details)
+•
+Average number of rides taken per 
+customer in 2014: 50
+• Interviewer should ask candidate to 
+calculate the total number of customers 
+who have taken rides in 2016
+• Candidate should point out that:
+– Basic: Profits are flat because:
+•
+Costs continue to rise
+•
+Revenues grow a slower rate after 
+2014
+-
+Second order insights: 
+•
+Costs are rising at a constant rate; this 
+rate is the same rate that revenues are 
+growing from 2014
+•
+Slower revenue growth in 2014 could 
+be attributed to new entrant Elevate
+• Public Math analysis:
+– # of rides taken in 2014: 300,000,000/$15 = 
+20,000,000
+– Total # of customers who have taken rides 
+in 2014: 20,000,000/50 = 4,000,000
+51
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p56 =====
+Interviewer guidance on Exhibits
+• Interviewer should ask candidate to 
+calculate number of customers who took 
+rides in 2018
+– (DON’T PROMPT – Candidate should ask 
+for the following details)
+•
+Average price of rides in 2018: $10 
+more than in 2014 ($25)
+•
+Average number of rides per customer 
+in 2018: Remains the same (50)
+– Total # of rides taken in 2018: 
+400,000,000/$25 = 16,000,000
+– Total # of customers who have taken rides 
+in 2018: 16,000,000/50 = 3,600,000
+– Second order insights: 
+•
+Decrease in number of customers by 
+20% compared to 2014 10%
+•
+Compare number of customers to total 
+population to understand penetration 
+rates
+•
+Candidate should hypothesize that the 
+$10 price increase likely impacted 
+volume negatively
+•
+Candidate may also wonder if new 
+entrants have undercut them in price, 
+causing Take to lose customers
+52
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p57 =====
+Brainstorming
+• After further analysis, the 
+COO concluded that it 
+was losing customers to 
+Elevate and needed to 
+find a solution to retain 
+customers. How can Take 
+accomplish this?
+Example Bucket #1: New vs. Existing Customers 
+Keep Existing Customers: Loyalty/Rewards/Points Program; 
+Access to special offers or deals (X rides for $Y); Credit card 
+partnerships; personalized deals based on customer profile/data
+Gain New Customers: Location-based targeted advertising; 
+Referral program w/ unique codes; discounts for students, 
+corporations, launch in new cities
+Example Bucket #2: 4Ps of Marketing
+Advertising (Promotion): Targeted based on location/customer 
+profile/media type; advertising campaigns against Elevate
+Pricing: Discount codes; referral discounts; loyalty program; 
+partnerships with bars, events, etc. Competitive pricing
+Product: Accessibility on more operating systems (Android, 
+iPhone); feature updates and enhancements
+Placement: Expansion into other cities, countries. 
+Second Order Insights: Include risks such as competitor 
+retaliation, price wars, increase costs of customer 
+acquisition costs and marketing and potential low ROI
+53
+Prompt:
+Analysis:
+
+
+===== PDF p58 =====
+Take inc.
+54
+• Based on this information, the COO of Take is ready for your recommendation.
+Recommendation 
+Take has seen a declining profitability due to a 10% decrease in ride volume by losing 
+customers to Elevate. Recommendation is to implement a marketing campaign to 
+acquire new customers and recurring revenue from existing customers.
+• Risks
+– Costly to implement marketing and advertising
+– Long-term sustainability, potential entry from against other new entrants
+– Lack of internal technological infrastructure to implement solution end-to-end
+• Next steps:
+– Understand costs related to launching marketing plan and explore grassroots or organic 
+(unpaid) options
+– Synergy mapping to decrease costs in other ways
+Risks and Next Steps:
+
+
+===== PDF p59 =====
+Evaluation Criteria
+55
+Candidate Level
+Assessment
+Average Candidate
+-
+Framework included Revenues and Costs
+-
+Cleared exhibit with first order insights
+-
+Math was directionally correct
+-
+Detailed brainstorm
+Good Candidate
+-
+MECE Framework covered Revenue, Costs and Other considerations
+-
+Asked relevant clarifying questions
+-
+Related prompt back to personal experience with ride hailing
+-
+Cleared exhibit with first order insights
+-
+Math was precise and correct
+-
+Detailed brainstorm with MECE buckets
+-
+Synthesized all parts of the case for recommendation with risks and next 
+steps
+-
+Made recommendation case specific
+Excellent Candidate
+-
+MECE Framework covered Revenue, Costs and Other considerations
+-
+Asked relevant clarifying questions
+-
+Cleared exhibit with second order insights
+-
+Math was precise and correct; drew out implications and second order 
+insights
+-
+Detailed brainstorm with MECE buckets, with a focus on how to 
+implement each brainstorm idea
+-
+Synthesized all parts of the case for recommendation with risks and next 
+steps
+-
+Made recommendation case specific
+-
+Drove case with minimal prompting

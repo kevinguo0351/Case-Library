@@ -1,0 +1,34 @@
+{
+  "case_id": "Anderson_2019_15_brazilian-road-concessions",
+  "school": "Anderson",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2019.pdf",
+  "idx": 15,
+  "case_name": "Brazilian Road Concessions",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Infrastructure",
+  "difficulty": null,
+  "pdf_page_start": 130,
+  "pdf_page_end": 138,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p131.png",
+    "exhibits/exhibit_p132.png",
+    "exhibits/exhibit_p133.png",
+    "exhibits/exhibit_p134.png",
+    "exhibits/exhibit_p135.png",
+    "exhibits/exhibit_p136.png",
+    "exhibits/exhibit_p137.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2019\\15_brazilian-road-concessions"
+}

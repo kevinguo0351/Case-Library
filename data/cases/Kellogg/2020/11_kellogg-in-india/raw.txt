@@ -1,0 +1,309 @@
+===== PDF p131 =====
+127
+Case author(s): Abhilash Sridharan (Kellogg 2015), Rashaad Jamaal (Kellogg 2015)
+Edited by: Rohan Maini (Kellogg 2020)
+Case 11
+Kellogg in India
+Primary sector(s)
+• X07 Government & Public Sector
+Concepts tested
+• Z08 Market sizing (2)
+• Z07 Market share (3)
+• Z03 Breakeven analysis 
+(3)
+Similar cases
+• Big Public High School 
+(Darden 2012)
+• Busch’s Barber Shop 
+(Kellogg 2020)
+• Chic Cosmetology (Kellogg 
+2020)
+Case type
+• Y04 New product / Market entry
+
+
+===== PDF p132 =====
+128
+Kellogg in India
+Case prompt
+• Our client is the Dean of Kellogg School of Management. She has hired you to advise her on an idea, which struck her during the 
+previous week – To consider starting a satellite campus of Kellogg in India. She has asked you to determine whether Kellogg should 
+enter the Indian market.
+Interviewer guide
+• This case is a quintessential market entry case. 
+• The two main quantitative concepts on which the candidate is being tested are on market size estimation and breakeven analysis.
+1. Develop a structure to address the problem
+2. Confirm market attractiveness (sizing)
+3. Market share and breakeven analysis
+4. Conduct risk analysis
+5. Provide client recommendation
+Interviewer guide
+
+
+===== PDF p133 =====
+129
+Kellogg in India
+Case prompt
+• Our client is the Dean of Kellogg School of Management. She has hired you to advise her on an idea, which struck her during the 
+previous week – To consider starting a satellite campus of Kellogg in India. She has asked you to determine whether Kellogg should 
+enter the Indian market.
+Clarifying information
+• Strategic Rationale: India is a fast growing economy with huge demand for MBAs. Kellogg’s Dean believes that an India campus 
+would help Kellogg become a Top 3 global MBA program. The caliber of India candidates is the same as in the US.
+• Objective: The Dean wants the satellite campus to breakeven in 4 years
+• Competition: Eight top-tier business schools: 7 IIMs and the ISB (ISB has a partnership with Kellogg, for its pedagogy).
+• Candidate selection: IIMs select based on CAT test results. The ISB admits candidates based on the GMAT.
+• Pricing: Indian MBAs cost $20k per year (US MBAs cost $70k). Indian schools don’t offer scholarships but banks offer loans.
+• Product: Kellogg would only launch the 2Y MBA program in India.
+Fit: Tell me about a time when you were provided feedback and what action you took.
+
+
+===== PDF p134 =====
+130
+Kellogg in India
+Exhibit A – Indian business schools
+Category
+Indian Institutes of Management (IIMs)
+Indian School of Business (ISB)
+Description of  
+program
+• IIMs select via the Common Admission Test (CAT)
+• IIM interviews candidates with the top 6% CAT scores
+• 5 candidates are interviewed for every available seat
+• 85% of admitted candidates matriculate
+• 70% of admitted students 
+matriculate
+• Two campuses with a total class 
+size of 1,400
+Cost incurred 
+by Student
+• INR 1,200,000 per year*
+• 1 USD = 60 INR
+Notes:
+• Assume the total cost incurred by a student annually at Kellogg is $70k per annum
+
+
+===== PDF p135 =====
+131
+Kellogg in India
+Exhibit B – Admitted students
+Year
+Expected admits per 
+year
+1
+600 
+(7.5% of 8,000)
+2
+600
+3
+900
+4
+900
+Notes:
+• Only source of revenue is the fee charged to students
+
+
+===== PDF p136 =====
+132
+Kellogg in India
+Exhibit C – Estimated cost structure
+Fixed Costs
+Annual Variable Costs
+Year 0
+Year 1
+Year 2
+Year 3
+Year 4
+$100M (land)
+$50 (support 
+infrastructure)
+$30M
+$30M
+$30M
+$20M
+
+
+===== PDF p137 =====
+133
+Kellogg in India
+Part 1
+1. Develop a structure to address the problem
+Market Entry
+Qualitative
+Quantitative
+Impact on ranking
+Brand Kellogg & Kellogg India
+Revenue
+# of students
+Costs
+Fixed
+Cannibalisation
+Job Prospects, ROI
+Variable
+- Salaries
+- Marketing
+- SGA
+- Cost/student
+Fee per annum
+Market Sizing
+
+
+===== PDF p138 =====
+134
+Kellogg in India
+Part 2
+2. Confirm market attractiveness (size)
+The candidate can choose to size the market either top-down or bottom-up.  A top-down approach becomes too dependent on 
+assumptions. Exhibit A can be used for a bottom-up approach. 
+A. Estimate the Total Addressable Market from competition
+1. IIMs
+• 500,000 applications per year
+• Top 6% are interviewed = 30,000 applicants
+• 1 in 5 are accepted = 6,000 eligible students
+2. ISB
+• 1,400 matriculated students / 70% of total admitted students = 2,000 eligible students
+• If interviewee gets this wrong, ask which student pool are we most interested in: matriculated students or all accepted students.
+Total Addressable Market = 6,000 + 2,000 = 8,000 high quality applicants
+B. Market Size 
+Fee to be charged annually needs to be calculated. A value somewhere in between $20,000 and $70,000 is acceptable. $50,000 per 
+year for 2 years: 8,000 * $50,000 * 2 = $800M
+Provide Exhibit A when the candidate requests any of the information that it contains
+
+
+===== PDF p139 =====
+135
+Kellogg in India
+Part 3
+3. Market share and breakeven analysis
+• The candidate should  mention a target market share in 
+the year of launch. A lower number would be preferable 
+to start with. After letting the candidate present their 
+logic, ask them to assume 7.5% market share in the 
+year of launch.
+Provide the information below when requested:
+• Breakeven Analysis: Expected breakeven in 4 years
+• The candidate should note that from the second year 
+onwards, last year’s fee should be included in the 
+current year.
+• Costs: Ask the candidate to brainstorm for costs
+• The candidate must move towards a NPV Calculation:
+• When asked for a discount rate, confirm there is none.
+• Conclusion: The project should go ahead: by the 4th year, the project 
+doesn’t breakeven by only $5M. Given rising revenues and declining 
+costs, breakeven would be achieved in the first month of year 5.
+Provide Exhibit B when asked about Revenue
+Provide Exhibit C after Cost brainstorming
+Y0
+Y1
+Y2
+Y3
+Y4
+Number of students
+600
+600
+900
+900
+Yearly Fee per student ($)
+50,000
+50,000
+50,000
+50,000
+Revenue $m from students in year 1
+30
+30
+45
+45
+Revenue $m from students in year 2
+30
+30
+45
+Total Revenue ($ M)
+30
+60
+75
+90
+Costs ($ M)
+150
+30
+30
+30
+20
+Profits
+-150
+0
+30
+45
+70
+
+
+===== PDF p140 =====
+136
+Kellogg in India
+Part 4
+4. Conduct risk analysis
+Ideally, the candidate will raise risks related to the project. If not, ask them to brainstorm:
+Brand impact
+Rankings impact
+Cannibalization
+Brand parity
+Job prospects
+Support
+• No top US 
+schools is 
+successful in 
+India
+• Satellite 
+campus might 
+dilute brand
+• Diversity
+• International 
+presence
+• Proximity to 
+Asia
+• Job prospects
+• 50-60 Indian 
+students 
+matriculate at 
+Kellogg US
+• Impact on US 
+MBA 
+candidate pool 
+across Asia
+• Kellogg US 
+MBA = Kellogg 
+India MBA
+• Premium for 
+Kellogg India 
+versus IIM / 
+ISB
+• Parent campus 
+pedagogical 
+support for 
+satellites
+
+
+===== PDF p141 =====
+137
+Kellogg in India
+Part 4
+6. Provide client recommendation
+Overall
+• While starting a satellite campus makes financial sense, further scrutiny is needed on the impact of this move on Kellogg’s brand 
+and other factors that impact rankings
+• Other additional points, which the candidate may add, could be:
+• Negotiate on the costs for initial investments, to lower it down from $150M. 
+• Support from Indian government on subsidies to be offered
+• Develop additional sources of revenue, from supporting programs and corporate training sessions
+Risks
+• Brand dilution / considering the impact of a satellite campus on Brand Kellogg
+• Cannibalization of existing revenue from Indian students
+• Admission percentage is projected to increase from Year 2 to Year 3 by 50% (This is quite high)
+• The salaries of Indian graduates, as per Indian Market conditions, (considering Indian PPP) may influence the average salary of 
+Kellogg School of Management given global reporting, eventually impacting the ranking negatively
+• Given Kellogg’s new building being constructed, the $150M additional investment for a satellite campus, may require additional 
+rounds of fund raising for the India campus
+Next Steps
+• Employ a Brand agency / consultant to figure out the impact of starting a satellite campus on Brand Kellogg
+• Fund Raising for $150M to be worked out
+• Potential Partners for promoting the program and supporting with faculty initially
+• Discussions to be started with the government of India for the land, infrastructure investment and licenses. 

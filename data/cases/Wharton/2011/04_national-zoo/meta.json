@@ -1,0 +1,26 @@
+{
+  "case_id": "Wharton_2011_04_national-zoo",
+  "school": "Wharton",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2011.pdf",
+  "idx": 4,
+  "case_name": "National Zoo",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Non-profit / Public Sector",
+  "difficulty": null,
+  "pdf_page_start": 45,
+  "pdf_page_end": 49,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    46,
+    47,
+    48
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p046.png",
+    "exhibits/exhibit_p047.png",
+    "exhibits/exhibit_p048.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2011\\04_national-zoo"
+}

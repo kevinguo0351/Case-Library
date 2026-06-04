@@ -1,0 +1,184 @@
+===== PDF p62 =====
+ICC Handbook 2020 
+58 
+ 
+ 
+Difficulty: Medium 
+Quant: Easy 
+Company: OC&C Strategy 
+ 
+9.17 Vitamins Retailer 
+ 
+Part 1: Context 
+Our client is a leading specialist vitamins retailer, directly operating 
+c.500 stores in the UK. Their products include vitamins, minerals 
+and supplements, all sold as pills in bottle format (for the sake of 
+simplicity). 
+Part 2: Market Sizing and Growth Drivers 
+Question 2a: How large is the UK vitamins market? (i.e. total 
+annual spend on vitamins) 
+Answer 2a: A good answer will introduce two possible approaches 
+(bottom-up and top-down) and discuss benefits/drawbacks of 
+each. One solid approach would be bottom-up starting with the UK 
+population and based on average spend,  segmented  by age 
+bracket. You should make sensible assumptions around 
+penetration & volume consumed by age bracket and support your 
+assumptions with a clear rationale. 
+1) Introduce approach 
+• Market Size = Number of People (by age bracket) * Penetration 
+rate * Annual spend per person 
+• Specify differences in both inputs by client segment 
+2) Analyse each input separately 
+• Number of people: start with the total UK population and break 
+into sensible brackets with similar consumption levels 
+• Penetration rate: explain rationale behind your assumptions 
+and why the penetration levels are different across the age 
+brackets 
+• Annual spend: keep it simple and be practical. Think about the 
+fact that vitamin is typically sold in bottles that can last several 
+months, meaning that this is not a monthly purchase, making   an 
+annual spend the better metric to use here (as opposed to 
+monthly) 
+Example calculation shown in Exhibit 1, resulting in a £1bn UK 
+market. 
+Question 2b: Let us assume that the UK vitamins market is £1bn, 
+what are its underpinning growth drivers? Moreover, do you 
+believe that this market will grow in the future? 
+Answer 2b: A good approach is to structure the growth drivers   in 
+line with the metrics used to size the market in the previous 
+question 
+• Ageing population means will shift the weight to the higher 
+spenders therefore driving the market size up 
+• Greater public awareness about the benefits of vitamins and 
+supplements is likely to drive up penetration across all age groups 
+• More government campaigns about nutritional requirements is 
+ 
+ 
+ 
+ 
+ 
+ 
+similarly likely to drive higher consumption 
+• Product innovation, such as the introduction of multi-vitamins, 
+is likely to drive consumption 
+» (bonus) worth flagging that new products can drive high 
+adoption at first, but may just be a temporary fad 
+• The rise in specialist diets can drive higher penetration levels 
+and spend (e.g. supplements for people on a free-from/vegan diet 
+or with intolerances) 
+• (bonus) Increased availability of products as they are 
+accessible via more retail channels, such as grocers, online and 
+D2C subscription services 
+Part 3: Product Margins 
+Question 3a: The client sells both branded products and own- 
+label products. Which are more attractive to sell from a margin 
+perspective? 
+Answer 3a: Here you should break down the product economics 
+and highlight the differences between the two product types. 
+The own-label products will be cheaper to sell, but substantially 
+cheaper to purchase (because there are many potential suppliers 
+relative to branded products). The branded sellers may be able to 
+exhibit supplier power. 
+(Bonus) When thinking about price promotion, the Client has more 
+control on depth of promotion for own-label products but on the 
+downside, the investment in promotion has to be fully covered (i.e. 
+not shared with the brand). 
+(Second Level Bonus) You can ask if the Client manufactures their 
+own-label products, and if they do then their margins are higher 
+than on branded products because the Client captures both the 
+RSP and MSP, as opposed to losing the MSP to the manufacturer 
+of branded products. 
+Part 4: Investment Thesis 
+Question 4a: Given what we have learnt about the market, and by 
+looking at below two charts on the channel shift & our client’s 
+revenues, would you invest in this business? Why? 
+ 
+ 
+Answer 4a: This is a very attractive business due to several 
+reasons, which you should be able to derive following a logical 
+framework far 
+1) Is the market attractive? 
+• Yes, as established in Part 3, the market is growing 
+2) Is it aligned with channel trends? 
+• Mostly yes, using Exhibit 2 the specialist retailer channel mix 
+appears stable 
+• (Bonus) Another good point to add here is that the threat from 
+online might be a concern in the future, therefore the business 
+
+
+===== PDF p63 =====
+ICC Handbook 2020 
+59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+should be prepared to expand their offer online if the market starts 
+to shift in that direction 
+3) Is the business well positioned with consumers? 
+• Yes, the Client is clearly to dominant player in this market. From 
+Exhibits 2 and 3, you can derive the Clients’ market share (18-
+20%) 
+4) Is the business growing? 
+• Yes, you should first note from Exhibit 3 that Clients’ revenues 
+have consistently grown over the past 5 years, and from Exhibits 2 
+& 3 that their growth was far ahead of market growth (11% vs 4%) 
+Question  4b:  As  the  new  owner,  how  would  you  grow  this 
+business? 
+Answer 4b: Here, you should come up with several ideas to grow 
+the business and elaborate on each. These questions are often to 
+test your creativity rather than focusing on a particularly clever 
+structure. Some examples are: 
+• Introduce new products and new formats (e.g. different size of 
+bottles, new vitamin mix) 
+• Rollout more stores in the UK with similar catchment 
+characteristics to strong performing existing stores 
+• Introduce online sales via own website. (Bonus) Discuss that 
+this is a pre-emptive move in the face of Amazon and online pure 
+plays entering this category 
+• Introduce products in adjacent categories to drive basket size 
+(e.g. healthy snacking, natural beauty products) 
+• Introduce a subscription scheme 
+• Expand to attractive international markets with similar 
+characteristics to the UK. This can be by opening own stores, 
+franchising stores, and/or wholesales to local retailers. Conditions 
+for market selection include: 
+o Large and growing vitamins market 
+o Similar consumption per capita & comparable consumer 
+attitude to vitamins 
+o Similar competitive landscape 
+o Easy product compliance processes (no import challenges) 
+o No regulatory challenges (e.g. do not enter countries where 
+vitamins are only sold at pharmacies by law) 
+
+
+===== PDF p64 =====
+ICC Handbook 2020 
+60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT 1: ANSWER TO PART 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT 2: VITAMINS MARKET BY CHANNEL (£BN), 2012-16 
+ 
+ 
+ 
+ 
+ 
+ 
+EXHIBIT 3: CLIENT REVENUE (£M), 2012-16 
+ 

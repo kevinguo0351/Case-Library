@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2012_16_big-truck-company",
+  "school": "Darden",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2012.pdf",
+  "idx": 16,
+  "case_name": "Big Truck Company",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Automotive/Trucking",
+  "difficulty": null,
+  "pdf_page_start": 164,
+  "pdf_page_end": 179,
+  "n_pages": 16,
+  "exhibit_pdf_pages": [
+    167,
+    170,
+    172,
+    174
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p167.png",
+    "exhibits/exhibit_p170.png",
+    "exhibits/exhibit_p172.png",
+    "exhibits/exhibit_p174.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2012\\16_big-truck-company"
+}

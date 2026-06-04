@@ -1,0 +1,152 @@
+===== PDF p18 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 15 
+ 
+Case 6: Power gas retail 
+Company: Booz Allen Hamilton 
+ 
+Power gas retail is a gasoline retailing company and is a big player in the US. They have invested 
+significantly in brand building in the past to differentiate themselves from other competitors. A new 
+CMO has joined the company and wants to know if this brand building exercise makes sense and if it 
+is worth pursuing. You are his consultant and have only 4 weeks to present your findings. How would 
+you go about this? 
+ 
+Suggested Structure: 
+This type of case is usually not given to candidates. The idea is to see if the candidate can quickly 
+come up with a structure. The candidate may want to first explore ways in which results of branding 
+campaign can be measured. Some ways could be 
+ 
+- 
+Conduct a branding campaign and see if there is increased sales during that period 
+- 
+Mine past data when branding campaigns were undertaken, perform statistical modeling and 
+measure the ‘Advertisement elasticity of demand’ 
+- 
+Measure ‘Brand Recall’ 
+- 
+Select a few retail outlets and conduct a consumer survey. Find out what percentage of Power’s 
+customers go their gas stations because of brand perception and loyalty. 
+ 
+In this case, we will use the last approach as we are trying to measure the overall benefits. The 
+investment in branding is continual and not limited to occasional campaigns. Guide the candidate to 
+this if he/she doesn’t get there soon. Assume that we will do the consumer study at only one retail 
+outlet. 
+ 
+Data to be provided to the candidate:  
+- A consumer survey was conducted over 1 month in 1 retail gas station 
+- The following charts show the percentage of customers who fill gas at the station for the ascribed 
+reason 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regular Unleaded
+15%
+30%
+35%
+15%
+5%
+Location and convenience (15%)
+Lower Price (30%)
+Brand perception (35%)
+Quality of fuel (15%)
+Availability of convenience store (5%)
+
+
+===== PDF p19 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other data: To be provided only when the candidate asks for it. 
+- 
+Assume the above percentage of customers is a fair representation of revenues. 
+- 
+The total monthly sale of gasoline in the gas station is 200,000 gallons of which 60% is regular 
+unleaded and 40% is premium unleaded. 
+- 
+Average spending on branding is 2 cents per gallon 
+- 
+Margin on one gallon of ‘Regular’ is 5 cents 
+- 
+Margin on one gallon of ‘Premium’ is 7 cents 
+ 
+Calculations to be done by the candidate: All on a per retail outlet basis 
+ 
+Monthly gasoline sales in the outlet (Gallons) 
+200000 
+Cost of branding - Dollars Per gallon 
+0.02 
+Type of gasoline 
+Regular 
+Premium  
+% of type of gasoline 
+60% 
+40% 
+% of revenues because of branding 
+35% 
+50% 
+Gasoline sold because of branding (Gallons) 
+42000 
+40000 
+Margins per gallon excluding branding expenses ($)
+0.1
+0.15
+Total margin contribution due to branding ($) 
+4200 
+6000 
+Total cost of branding ($) 
+2400 
+1600 
+Net monthly profits from branding ($) 
+1800 
+4400 
+If the company had 5000 gas stations across the country then the total profits from the branding 
+spend is = 5000 * (1800 + 4400) * 12 months = $372 million per year 
+ 
+Conclusion: It is clear that investment in branding is a profitable proposition. Especially the return on 
+branding spend is higher for ‘Premium’ gasoline than for ‘Regular’ gasoline.  
+Risks: Ask the candidate for the potential risks with this approach of determining branding 
+effectiveness. Some answers could be 
+- 
+This is based on a study at one retail station and may not be representative of all retailoutlets 
+- 
+A customer may have a combination of reasons for buying and not necessarily just one reason 
+- 
+Though this seems to be a profitable proposition on an absolute scale, the ROI can be higher on 
+some other initiative on a relative scale 
+ 
+Premium Unleaded
+20%
+10%
+50%
+15%
+5%
+Location and convenience (20%)
+Lower Price (10%)
+Brand perception (50%)
+Quality of fuel (15%)
+Availability of convenience store (5%)
+ 

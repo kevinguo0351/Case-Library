@@ -1,0 +1,146 @@
+===== PDF p11 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business 
+Page 8 
+ 
+Case 3: Velocity - Luxury Bus Case 
+Company: McKinsey & Co 
+ 
+A bus manufacturing company is the market leader in semi-luxury bus segment. The customers are 
+typically passenger transport companies who carry passengers over long distances. Currently it has 
+product called ‘Speed’ in the market and is their best selling product. However they have another 
+product developed called ‘Velocity’ that they plan to launch soon. But they are not sure if there will 
+be acceptance for the product from the customers. Your task is to help them understand how to 
+convince the customer to buy ‘Velocity’.  
+ 
+Notes for the interviewer: There are three main objectives to the case 
+1. The candidate has to consider those attributes that will be important to the customer – Guide 
+the candidate to this. 
+2. Try to understand the benefits of ‘Velocity’ over ‘Speed’ and do a bunch of math 
+3. Provide creative recommendation to avoid cannibalization 
+ 
+Structure: Given the objective of marketing this product to the customers, the key elements here are 
+ 
+- 
+Find out what aspects of a bus the customer values 
+- 
+The benefits of ‘Velocity’ over ‘Speed’ and quantify the benefits 
+- 
+Risks of launching Velocity 
+- 
+Final recommendation 
+Assume there is no direct competition for the product now and for next 2 years. 
+ 
+Answers:  
+Attributes that the customer values: 
+- 
+Price 
+- 
+Fuel economy 
+- 
+Reliability of the vehicle 
+- 
+Appearance, design and styling 
+- 
+Features and comfort for passengers 
+- 
+Maintenance cost 
+- 
+Warranty period 
+- 
+Enough service support and network 
+- 
+Availability of spare parts 
+- 
+Ergonomics for the drivers 
+- 
+Safety features 
+- 
+Financing options 
+- 
+Life of vehicle 
+- 
+Delivery lead time 
+ 
+Benefits of ‘Velocity’ over ‘Speed’: Provide the following details to the candidate. Here we focus only 
+on benefits from reduced maintenance cost, reduced fuel cost and increased load factor due to 
+comfort. Don’t provide the candidate with any data unless asked for. The question to be asked is – 
+Calculate the total annual benefits. 
+
+
+===== PDF p12 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business 
+Page 9 
+ 
+Data to be provided to calculate cost benefits - All data on a per vehicle basis 
+  
+Speed 
+Velocity 
+Average miles traveled per day 
+600 
+600 
+No. of days in a year 
+250 
+250 
+Miles per gallon 
+10 
+12 
+Cost per gallon 
+2 
+2 
+Maintenance cost per mile 
+0.3 
+0.25 
+  
+Data to be provided to calculate revenue benefits- All data on a per vehicle basis 
+Annual revenue increase 
+5% increase in load factor due 
+to added luxury and comfort 
+Load factor is the actual number of passengers in a bus divided by the total number of seats 
+in a bus 
+Current load factor 
+80 
+New load factor 
+85 
+Available No. of seats 
+40 
+Seats occupied on average – Speed 
+32 
+Annual profit in dollars per occupied seat per bus 
+1750 
+  
+Final Calculations - To be performed by the candidate 
+  
+Speed 
+Velocity 
+Fuel cost per year in $ 
+30000 
+25000 
+Annual maintenance cost in $ 
+45000 
+37500 
+  
+Annual Reduction in fuel cost for 'Velocity' over 'Speed' 
+5000 
+Annual Reduction in maintenance cost  
+7500 
+Seats expected to be occupied – Velocity 
+34 
+Increased annual profit because of improved load factor 
+3500 
+Total incremental annual benefits per year per vehicle 
+16000 
+ 
+Question: If you have to price this vehicle, how would you do that? Assume that the life of the 
+vehicle is 3 years and customers retire all vehicles after 3 years. Assume that the current price of 
+‘Speed’ is $ 107000 
+ 
+Expected Answer:  
+The maximum price = Current price of 1 ‘Speed’ + 3 * (total annual incremental benefits) 
+ 
+ 
+          = 107000 + 48000 = $ 155,000 
+ 
+Question: What are the risks? Answer: Cannibalization 
+ 
+Question: How would you manage this conflict? Expect some creative answers from the candidate. 
+At the end ask for a 30 second summary of the candidate’s finding 

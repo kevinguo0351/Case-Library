@@ -1,0 +1,253 @@
+===== PDF p230 =====
+CASE 23 – TEXAS OIL
+226
+
+
+===== PDF p231 =====
+Case 23: Texas Oil
+Prompt 1
+Your client, Texas Oil, is a large, integrated oil and gas  company which competes with the likes of ExxonMobil, Shell, and Chevron. They 
+have assets in 72 countries, on 5 continents, and own one-quarter of the  US oil market. They recently purchased a large area of land 
+from a small, independent oil company and are attempting to integrate it into their portfolio in West Texas. They hired your firm to 
+help them determine how to develop the purchased land.
+While the company is large, it is “capital constrained”. This is because of low crude oil prices and an over-budget refinery in Angola. As 
+a result, the company cannot develop all of the purchased land in the coming years.
+How would you frame this problem for the client?
+Behavioral Questions
+• What was your favorite team moment?
+• Can you tell me a time when you exhibited strong leadership qualities? 
+Interviewer Guidance
+Background information (if requested): 
+• All of the purchased land has proven oil and gas reserves (with 90% confidence)
+• Other major competitors are also in West Texas.
+• Oil and Gas are commodities, and traded on an international, liquid market (meaning the quality of the reserves is not important for 
+the case)
+• Texas oil does not have enough market share to influence the price of oil/gas
+• The purchased lease will expire in 3 years
+• The total amount purchased is 320,000 acres
+227
+Deloitte Case Writing 
+Competition Finalist
+
+
+===== PDF p232 =====
+Case 23: Texas Oil
+Interviewer Guidance Continued
+The candidate should frame this as a prioritization problem. The key value measure for prioritization is a cost/benefit analysis:
+Costs: Land development (building roads, infrastructure), appraisal costs (geological analysis), construction and drilling costs, labor 
+costs, production costs (pipelines, etc.)
+Benefits: Revenue, market share, production
+228
+
+
+===== PDF p233 =====
+Case 23: Texas Oil
+Prompt 2
+The land on which the drilling rights were purchased is owned by the government and leased to companies on a five-year timeline. If a 
+lease holder does not develop that land in that time, the lease expires and the lease holder can no longer develop it.  Texas Oil’s 
+purchased land has only three years remaining on its lease agreement. 
+How many acres can Texas Oil  develop before their lease expires? What percentage of their purchased land does this represent?
+Interviewer Guidance
+This is a short, back of the envelop calculation. The candidate should ask for figures, but if they are having difficulty you can start from 
+the top with information.
+Historically, the company has been able to develop (drill and produce) land at a rate of 100 square miles per year.
+640 acres = 1 square mile
+Texas oil has three years remaining on the lease, so 3*100 = 300 square miles
+300*640 = 192,000 acres can be developed in 3 years
+Company purchased a total of 320,000 square acres
+192,000 / 320,000 = 60% of its purchased land
+229
+
+
+===== PDF p234 =====
+Case 23: Texas Oil
+Prompt 3
+OK, now that we’ve determined how much of the land can be developed, we need to prioritize. The company has categorized the land 
+into five “focus areas”, each with 64,000 acres (show exhibit 1 to candidate). 
+How would you go about prioritizing focus areas?
+Interviewer Guidance
+This is purely a brainstorming question, and if the candidate asks for specific figures, you can indicate that they are forthcoming.
+NPV is the base answer (i.e. prioritize land based on expected revenue from reserves minus expected costs of development), but you 
+should push the candidate to be a bit more creative.
+2nd Level Insights:
+• Capital efficiency (some areas may have slightly higher profits but cost much more to develop)
+• Total cost of development (the prompt indicated that the company is “capital constrained”)
+• Total production 
+o Some companies may be more production focused than profit because it boosts stock price and/or valuation of the company 
+(e.g. independent oil companies looking to sell)
+230
+
+
+===== PDF p235 =====
+Case 23: Texas Oil
+Exhibit 1
+Focus Areas
+Eagle 
+Mountain
+Midland
+Nag River 
+Head
+Fox Path
+Coyote 
+Tooth
+231
+
+
+===== PDF p236 =====
+Case 23: Texas Oil
+Prompt 4
+Each one of these areas can be developed independently, but not at the same time. The firm has provided you with exhibits 2 and 3 
+and asked you to determine its optimal course of action. According to the head of the West Texas Business Unit, the company has 300 
+million available to spend.
+How should Texas Oil develop its purchased land?
+Interviewer Guidance
+The Oil, Gas, and NGL figures are a distraction, and feed directly into revenue. If the candidate asks about priorities, suggest that the 
+company wants to “maximize profitability given its capital constraints”
+The key to answering this question is capital efficiency.
+The correct answer is : Eagle Mountain, Midland, and Fox Path. 
+Coyote Tooth can also be substituted for Fox Path, but it spends more money and gets the same amount of revenue. Nag River Head is 
+attractive because it has a higher NPV, however, it violates the 300 million  limit set by the business unit head (when developed with 
+any 2 other areas), and is not capital efficient. If the company decides to develop Nag River Head, then, it must give up developing a 
+third segment, thus forgoing profits on that segment as well.
+2nd level insights:
+• Texas Oil could re-categorize land within those segments  and achieve higher  portfolio efficiencies (i.e. not all land in one segment is 
+equally profitable)
+• Texas Oil should sell the excess acreage to other competitors, rather than sitting on the lease and allowing it to expire.
+232
+
+
+===== PDF p237 =====
+Case 23: Texas Oil
+Exhibit 2
+Focus Area Figures
+Acres
+Oil Revenue 
+($MM)
+Gas Revenue 
+($MM)
+NGL Revenue 
+($MM)
+Revenue 
+($MM)
+Total Cost 
+($MM)
+NPV 
+($MM)
+Eagle Mountain
+64,000
+100
+30
+9
+139
+94
+45
+Fox Path
+64,000
+110
+45
+3
+158
+108
+50
+Midland
+64,000
+90
+50
+1
+141
+96
+45
+Nag River Head
+64,000
+180
+10
+15
+205
+150
+55
+Coyote Tooth
+64,000
+80
+80
+0
+160
+110
+50
+Total
+320,000
+560
+215
+28
+803
+558
+245
+233
+
+
+===== PDF p238 =====
+Case 23: Texas Oil
+Exhibit 3
+Focus Area Capital Efficiencies
+234
+
+
+===== PDF p239 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

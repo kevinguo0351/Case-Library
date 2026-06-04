@@ -1,0 +1,325 @@
+===== PDF p281 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 24: Acme Packaging, Bain (Sample from Website)
+Gulf Partners, a private equity fund specializing in leveraged buyouts, has 
+asked Bain to evaluate an investment in Singapore-based Acme 
+Packaging.  A private equity firm is a company that has raised money from 
+individuals and institutions to invest in companies that may be a riskier 
+investment but offer the promise of higher returns.  Acme Packaging 
+manufactures and sells intermediate bulk containers (IBCs), which are 
+metal frame crates stacked within shipping containers for the transport of 
+goods. Acme Packaging has manufacturing operations in Singapore and 
+sales offices throughout Asia. 100% of sales are from Asian markets with 
+80% of sales from rubber customers - mostly tire manufacturers from 
+Japan and Southeast Asia. Acme Packaging has 65% market share within 
+the rubber IBC market and has increased share in the Asia IBC market by 
+5% over the past 3 years. Gulf Partners prefers to sell their investments 
+within 5 years with a minimum 40% return on their investment. In order to 
+evaluate whether Acme Packaging can generate high returns, Gulf 
+Partners would like Bain to assess the growth potential for Acme 
+Packaging. 
+• Industry: Private 
+Equity/Packaging
+• Difficulty: Hard
+• Format: Investment
+• Concepts Tested: 
+Revenue Analysis / 
+Business Growth
+This case is a good case for understanding how 
+a B2B business is dependent on the growth of 
+the customer industries. This is also a case 
+which requires inferences and assumptions to 
+get the correct answers.
+Gulf Partner wants to know
+Question 1: Can Acme Packaging double its 
+operating income by year 5 (2006)?
+Question 2: What growth opportunities should
+
+
+===== PDF p282 =====
+278
+Possible Framework
+Framework
+Company
+Revenue (Sales by region and customer) trends for 
+•
+5 years
+Cost trends for 
+•
+5 years (Valuation will follow from the revenue and cost trends)
+Sales force effectiveness
+•
+Competitors
+Market share by customer segment and geography
+•
+Customers
+Segmentation (tire manufacturers, rubber footwear, industrial goods of rubber, non
+•
+-rubber customers etc.)
+Growth in the customer industries
+•
+Price sensitivity/Selection of products
+•
+Potential Buyers
+IBC competitors looking to expand in Asia or acquire the rubber customers
+•
+Manufacturers looking at vertical integration (e.g., a tire manufacturer wants to manufacture IBCs for shipping)
+•
+Private Equity Company
+Players in portfolio (e.g., a manufacturer in the portfolio could have needs for shipping containers and would result in syne
+•
+rgies after 
+the acquisition of the company)
+Management expertise
+•
+Others – IBC Industry growth rate
+Other
+
+
+===== PDF p283 =====
+279
+Exhibit 1
+• The chemical IBC industry in Asia is larger than the rubber IBC industry and is 
+increasing at a faster rate. The market is fairly fragmented, and a fragmented 
+market is easier to penetrate than a market dominated by strong competitors. 
+Acme’s presence in the chemical industry, as well as other companies selling 
+across industries, indicates that selling across industries is possible.
+Exhibit 2 – Operating income percentage has been steadily increasing.
+Exhibit 3 – Any of the companies in the portfolio (e.g., consumer products or 
+manufacturing) which ships bulk of items would result in synergies for the private 
+equity company. 
+Exhibit 4 – Potential buyers exist and are especially looking for Acme’s presence 
+in Asia and the rubber market. In order to keep increasing the value of Acme, 
+opportunities should be pursued in Asia and the rubber industry.
+Exhibit 5 – Prices have been increasing in IBC industry
+Exhibit 6 – IBC sales in Asia increased at 15% CAGR and now is $180M in 2006 
+compared to $90M in 2001.
+Exhibit 7 – It takes 4 years after setting up the office to generate profits.
+Exhibit 8 - Asia is seeing a growth rate of 15% compared to U.S (5%) and 
+Exhibit Insights
+Acme Packaging – Exhibit Key Takeaways
+
+
+===== PDF p284 =====
+280
+Can Acme Packaging double its operating income by year 5 (2006)?
+Math Question
+Math Question and Solution
+Math Solution
+1. Step 1: Determine market size in year 5 – 2006
+• 100% of Acme’s sales comes from Asia. As a result, the relevant market 
+to size is the IBC market in Asia
+• According to Exhibit 6, the sales of IBC in Asia in 2006 is $180M
+2. Step 2: Estimate Acme’s market share in 2006 
+• According to Exhibit 2, revenue for Acme is $15M. According to Exhibit 
+6, total IBC sales in Asia is $90M.
+• Market share in 2001 was $15M/$180M = 17%
+• Assumption: Acme will maintain or increase their share.
+3. Step 3: Calculate revenue
+• Based on assumption that share in 2006 will be 17% and using the 
+2006 IBC Asia sales figure of $180M, revenue of Acme in 2006 = 17% * 
+
+
+===== PDF p285 =====
+281
+1. Expand presence in Asia by increasing sales in non-rubber customer 
+industries
+• The chemical IBC industry in Asia is larger than the rubber IBC industry and is 
+increasing at a faster rate. The market is fairly fragmented, and a fragmented 
+market is easier to penetrate than a market dominated by strong competitors. 
+Acme’s presence in the chemical industry, as well as other companies selling 
+across industries, indicates that selling across industries is possible.
+2. Aggressively increase market share within the rubber IBC market in Asia
+• Acme currently has a 65% share in the rubber IBC market. Although Acme 
+could leverage its current position to gain additional market share, the 
+opportunity is not large. The remaining market share is divided between only 
+two companies, and the remaining customers may not be as profitable. The 
+rubber tire sales has been increasing by 30% from 2001 to 2003
+Brainstorming solution
+Brainstorming questions and solution
+What growth opportunities should Gulf Partners pursue to increase the value of 
+Acme Packaging?
+Brainstorming question
+
+
+===== PDF p286 =====
+282
+Recommendations
+Look to reduce COGS and provide better 
+•
+prices to customers. A reduction in product 
+variety could decrease COGS through 
+economies of scale
+Reduction in variety may also reduce costs 
+•
+of delivery as there would be fewer products 
+to carry in vehicles (more deliveries 
+possible) and may reduce the 
+time/complexity of refilling a machine 
+Identify shipping needs and potential 
+•
+customers in the PE portfolio
+Focus on sales to consumers in chemical 
+•
+industry as the industry is growing at a 
+higher rate. Keep focusing on the rubber 
+industry as well because of the predicted 
+growth in tire sales
+Enter the U.S. market as it is more 
+•
+Recommendation
+Conclusion
+• Increase spend on delivery to 
+improve customer satisfaction 
+(more research needed) 
+• More drivers 
+• Better vehicles 
+• More efficient delivery 
+routes 
+• Define the sales strategy to 
+cater to chemical customers
+• Find out variations needed in 
+metal crates to cater to 
+customers in chemical industry
+Next Steps
+Candidate would identify who the potential buyers would be and explore the 
+concept of leveraging synergies with the existing portfolio. As the case does not 
+have some data points, the candidate would brainstorm ways to use the existing 
+data to get to estimate the operating income.
+Excellent case answers
+
+
+===== PDF p287 =====
+283
+Exhibit 1: IBC Market in Asia by Industry (Singapore dollars)
+
+
+===== PDF p288 =====
+284
+Exhibit 2: Acme Packaging Income Statement ($M)
+1999
+2000
+2001
+Revenue
+10.0
+12.0
+15.0
+COGS
+5.0
+6.0
+7.5
+Gross Margin
+5.0
+6.0
+7.5
+Operating Costs
+4.1
+4.8
+5.7
+Operating Income
+0.9
+1.2
+1.8
+Net Income
+0.8
+0.8
+1.5
+Gross Margin %
+50%
+50%
+50%
+Operating Income %
+9%
+10%
+12%
+
+
+===== PDF p289 =====
+285
+Exhibit 3: Gulf Partners’ Portfolio
+Consumer 
+products
+Financial 
+Services
+Manufacturing
+Retail
+Other
+•
+Lennon
+•
+Johnston
+•
+Mellon
+•
+Asia Bank
+•
+Astratech
+Extronics
+•
+FX Convers
+•
+Medco
+•
+Home Store
+•
+Go-mart
+•
+Consumer
+depot
+•
+Instar 
+Services
+•
+JNXE
+
+
+===== PDF p290 =====
+286
+Exhibit 4: Potential buyers
+•
+A Pack sells IBCs in all geographies and has been growing through acquisition. Acme Packaging would 
+fit its’ growth strategy and strengthen A Pack’s position in Asia
+•
+Hoover sells IBCs primarily in Northern Asia due to its’ limited sales and distribution network. Acme 
+would provide it with a larger network as well as entry into rubber IBCs.
+•
+Grief, the leading IBC company in Europe, is investigation entry into Asia, and they have previously 
+expressed interest in acquiring.
+
+
+===== PDF p291 =====
+287
+Exhibit 5: Worldwide IBC Pricing Trends
+
+
+===== PDF p292 =====
+288
+Exhibit 6: Size and growth of IBC Sales in Asia (Singapore dollars)
+
+
+===== PDF p293 =====
+289
+Exhibit 7: Profitability/Average financials of a new sales force office 
+(Singapore dollars)
+
+
+===== PDF p294 =====
+290
+Exhibit 8: Worldwide IBC Market by Geography 2001 (Singapore dollars)
+
+
+===== PDF p295 =====
+291
+Exhibit 9: Annual Tire Sales for Asian Tire Market (Singapore dollars) 
+
+
+===== PDF p296 =====
+292
+Exhibit 10: Customer acquisition costs indexed to Acme Packaging
+
+
+===== PDF p297 =====
+293
+Exhibit 11: Customer Purchasing Criteria

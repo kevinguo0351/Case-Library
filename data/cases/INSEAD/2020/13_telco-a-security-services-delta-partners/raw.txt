@@ -1,0 +1,121 @@
+===== PDF p54 =====
+ICC Handbook 2020 
+50 
+ 
+ 
+Difficulty: Medium 
+Quant: Easy 
+Company: Delta Partners 
+ 
+9.13 Telco A Security Services 
+ 
+ 
+ 
+Note 
+• This is a broad, qualitative stragegy case and is to be given in a very open and conversational manner. No hard 
+data is provided - instead, the interviewer should ask the candidate to come up with assumptions and estimates 
+to drive the case forward. Therefore, there is no “right” answer, but the candidate must be able to come up with 
+reasonable assumptions and then follow them logically to a conclusion. 
+Problem 
+• Teleco A is the nation’s largest provider of local telephone services. They are considering entering the home 
+security market. Should they? 
+Expected questions and answers 
+Framework/ 
+structure 
+The candidate should explain what framework / structure he / she is going to use to solve the problem 
+Good Answer: 
+• I am going to look at the market size and what share of that the telco can get based on 
+- Competition 
+- Internal capabilities 
+- xxx 
+• Then I will look at the cost structure to deploy this services for the telco 
+• If this mets xx, yy conditions then I would say yes, go for it 
+Priority discussion areas 
+Market size 
+If the candidate asks for the size of the market, make him/her come up with assumptions and calculate the total 
+market size. A sample calculation based on sample assumptions follows: 
+• Total Households in US: 100M 
+• % Households Serviced by Telco A: 50% 
+• % Households That Can Afford Service: 50% 
+• Annual Subscription Price: $250 
+• Total Addressable Market: 100M x 50% x 50% x $250 = $6.25B 
+Cost 
+structure 
+Ask the candidate to discuss what the cost structure might be for Telco A to enter this market. What are the fixed 
+costs? Variable costs? Does Telco A have a cost advantage over other players? 
+Good Answer: The business has very little fixed cost beyond the infrastructure already installed in potential 
+customers’ homes (i.e. the existing phone wiring). Customer would need door / window / motion sensors installed, 
+which could be done by a third-party installer and billed to the customer at cost + markup and owned by the 
+customer 
+Variable costs are also very small - essentially just the cost to maintain enough call centre operators to dispatch 
+police when alarms are triggered. Telco A does not seem to have much or a cost advantage over other players, 
+since they are all using the common carrier phone network. Telco A might have some economies of scale in 
+operating the call centre, but this effect would be slight. 
+
+
+===== PDF p55 =====
+ICC Handbook 2020 
+51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expected questions and answers (1) 
+Customer 
+segment 
+Ask the candidate to speculate on the various customer segments and their relative importance, size, and value 
+Good Answer: We can reasonably divide the customer base into urban and suburban customers, having different 
+needs and different price sensitivities. Urban customers are likely to have lower incomes but a high willingness to 
+pay due to thd increased crime rate of the city. Suburban customers are likely to have a higher income but a lower 
+perceived threat due to a lower suburban crime rate. By first-degree price discrimnation, it may be reasonable to 
+charge the suburban customers a higher price because they are presumably less price sensitive. We can assume 
+that 50% of customers are urban and 50% suburban 
+Pricing 
+Have the candidate come up with a pricing scheme and prices for each of their identified customer segments. There 
+is no right answer, but they must justify why they are setting the price they are. Some areas they might consider: 
+• Insurance companies generally give breaks on homeowner’s insurance for having an alarm. This will increase the 
+EVA to the customer and can inform pricing. 
+• What other services to homeowners pay for monthly? Cable, phone, DSL. How are the values of these services 
+perceived compared to the value of the alarm? 
+• Pricing will need to be competitive with other market players. 
+• The candidate might assume a net margin based on the competitive landscape and use this with assumed 
+market size to determine attractiveness rather than determining an end-consumer price. 
+2nd priority discussion areas 
+Competition 
+• The market is composed of a large number of mom-and-pop alarm company operators. No firm has over5% 
+market share overall, although there are some strong regional players 
+ 
+ 
+ 
+ 
+ 
+ 
+Expected questions and answers (2) 
+Regulation 
+• The market is not regulated and government regulation is not expected to play a role 
+Marketing 
+Ask the candidate what advantages Telco A might have in marketing via a vis its competitors. Keep points the 
+candidate should identify include: 
+• Telco A has monthly customer contact with a large pool of potential alarm services customers through its phone bills 
+• Telco A already has brand loyalty for phone service, why not alarm service? 
+• Shear size of the company (and deep pockets) make it more able to achieve scale economies in marketing 
+and reach a broad audience. 
+Conclusion 
+A star condidate will see that his/her time is nearly up and will present a recommendation for the client without 
+prompting. If the interview is within 3 minutes of the end, ask: 
+Good Answer: Yes. Telco A possesses several small but important competitive advantages for entering into this 
+new market. It has economies of scale in call center operations that will enable it to be highly cost-competitive in 
+operating a security network. It has an established brand that the consumer associates with reliability as well as 
+with networking and communications - the primary function of a home security system. More importantly, Telco A 
+already reaches 50M households every month through its phone services bill that it could leverage to launch and 
+market this new service. Also, the company has deep pockets and the ability to advertise such a service far more 
+effectively than the small, regional competitors. 
+The size of the opportunity is large enough for Telco A to consider. Assuming a potential market size of $6B in Telco 
+A’s territory, even at only a 10% share, Telco A can add $600M in revenue. Given the low cost structure of this 
+business and the high perceived value to the customer, this is likely to be highly profitable revenue as well. 
+With Telco A’s marketing clout and customer reach, the company should be able to gain significant market share 
+and become the national leader in this. 

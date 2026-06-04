@@ -1,0 +1,313 @@
+===== PDF p194 =====
+Sternofi
+Sternofi
+Author: Jeremy Russell ‘21 Firm Style & Round: L.E.K. Consulting (Round 1 and Final)
+Interviewer-led
+Quant: 8
+Structure: 6
+Case Overview:
+Industry: Pharmaceutical
+Case Type: M&A
+Concepts Tested:
+•
+Algebra
+•
+Market sizing
+Overview Information for Interviewer:
+•
+This case is intended to emulate the quantitative cases in both rounds of LEK 
+recruiting. It is essentially a math puzzle that, once they find the right place to start, 
+should unravel fairly seamlessly. The key is for the interviewee to think in a structured 
+manner by recording data in tabular form, which will make the path towards solving 
+the question clear.
+•
+The decision to acquire or not acquire is necessarily ambiguous, so the candidate 
+can choose either option, so long as it is logically supported.
+Case Prompt: 
+Hamilton & Hamilton (H&H), a multinational pharmaceutical company, is considering acquiring Sternofi, a 
+biotechnology company with a promising drug candidate in phase 2 clinical trials called Deanraghutumab. Should 
+H&H go through with this acquisition?
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+190
+© 2021 NYU Stern MCA
+
+
+===== PDF p195 =====
+Sternofi: Case Guide
+Clarifying Information: 
+•
+The drug candidate treats pancreatic 
+cancer.
+•
+Sternofi has several other drugs in its 
+pipeline, but they are in earlier stages of 
+development and it is too hard to predict 
+how successful they will be at this point.
+•
+Clinical trial data suggests 
+Deanraghutumab may be more efficacious 
+than the current standard of care, though, 
+like many cancer drugs, it cannot treat 
+100% of cases.
+•
+Focus only on the US market.
+•
+H&H has few oncology products and is 
+looking to expand into that therapeutic 
+area.
+Interviewer Guide: 
+All frameworks should attempt to understand the market size and 
+composition, if it does not, re-direct the interviewee to focus on this. An 
+acceptable framework will seek to understand:
+•
+How good the drug is; and 
+•
+Sternofi’s potential profits and return on investment.
+An ideal framework will consider:
+•
+The target company’s position within the acquirer’s portfolio;
+•
+Consider potential synergies; and
+•
+Highlight key risks.
+Necessary information that should be given only when specifically asked 
+for by interviewee: 
+>
+Approximately 65,000 people are diagnosed with pancreatic cancer in the US per year 
+(this information will be given in Question 1).
+>
+The pancreatic cancer market is $1.5B per year in the US (this information will be 
+given in Question 1).
+>
+Deanraghutumab has 12 more years of patent protection from today (necessary for 
+Question 3). The financials calculated in Question 1 are based on the period of 
+exclusivity.
+>
+H&H wants to break-even within 8 years of acquisition.
+191
+© 2021 NYU Stern MCA
+
+
+===== PDF p196 =====
+Sternofi: Illustrative Framework
+• Understanding the market / drug indication
+–
+Product: Comparison vs. existing care
+–
+Patients: who are they
+–
+Costs: price relative to existing care
+• Understanding the company / understanding benefits 
+to acquisition
+–
+Synergies – sales, drug development, post-market safety, 
+manufacturing
+–
+Access to a new therapeutic area (oncology)
+–
+Access to new geographical markets
+• Economics of the deal
+–
+Expected profits, revenues, and costs
+–
+Price and/or ROI
+–
+Method of financing
+• Risks
+–
+Drug approval risk (FDA)
+–
+Merger approval (DoJ)
+–
+Patents protection period
+–
+Ability to market overseas
+–
+Insurance reimbursement
+–
+Competitor response – development of new drugs
+192
+© 2021 NYU Stern MCA
+
+
+===== PDF p197 =====
+Sternofi: Question 1 
+Question 1 (interviewer is to read the whole prompt):
+Sternofi has conducted research and developed the following annual projections once Deanraghutumab is approved. It is based on annual 
+revenues and annual pancreatic cancer diagnoses. Assume that the price charged to each patient diagnosed in a given year is the expected present 
+value of the course of treatment.
+
+There are four major companies in this space: Sternofi and competitors A, B, and C, and several other smaller companies that capture the 
+balance of the market.
+
+Competitor A has 50% greater market share by patients than Competitor B. Competitor C has two thirds less market share by patient than 
+Competitor A. We expect that Sternofi will capture twice Competitor B’s market share by patient. The other companies capture the balance, 
+which is 15,000 patients per year. Overall, approximately 65,000 people are diagnosed with pancreatic cancer each year.
+
+From a revenue perspective, “other” companies capture one fifth of the $1.5B annual market.
+
+Competitor C is priced the same as the average of the “other” contingent. Competitor B charges 25% more than that, and Competitor A 
+charges $10,000 per treatment less than C.
+
+What are the expected revenues and unit prices for Sternofi?
+193
+© 2021 NYU Stern MCA
+
+
+===== PDF p198 =====
+Sternofi: Question 1 (cont.)
+Notes to the interviewer: 
+
+Notes
+o
+Candidates are welcome to ask to repeat any information given –
+this is an opportunity to assess their poise in willingness to ask for 
+help. However, note that all necessary information is provided to 
+the candidate in the prompt, and no clarification should be 
+necessary.
+o
+Focus on annual new revenues (i.e., 65,000 patients is the market 
+size by patient each year).
+o
+The “other” companies should be considered as one entity.
+
+After calculating the required information, an astute candidate will 
+contextualize the data and may mention some of the following:
+o
+Sternofi will reach the largest position in the market by revenue 
+(approximately half of the market by revenue).
+o
+Sternofi will be the market leader by patients (approximately 30% of 
+patients).
+o
+If the candidate asks why Sternofi cannot capture the entire market, 
+mention that patients respond differently to treatments.
+Company
+Market Share 
+(000s, 
+relative)
+Market 
+share 
+(000s, 
+absolute)
+Price per 
+patient 
+(000s)
+Revenues 
+(millions)
+Sternofi
+2X
+20
+35
+700
+A
+1.5X
+15
+10
+150
+B
+X
+10
+25
+250
+C
+0.5X
+5
+20
+100
+Other
+15
+15
+20
+300
+Total
+65
+65
+1500
+Note: information shaded in orange is provided in the prompt, and 
+information shaded in green is to be calculated by the candidate.
+194
+© 2021 NYU Stern MCA
+
+
+===== PDF p199 =====
+Sternofi: Question 2
+Question 2: 
+•
+It sounds like Deanraghutumab is going to be a major player in this market. What are some of the risks facing Sternofi if H&H acquires it? If the 
+candidate does not offer ways to mitigate these risks, ask about how to avoid them.
+Notes to Interviewer: 
+Some example risks (copied from the illustrative framework):
+•
+Drug approval risk (FDA)
+•
+Merger approval (Department of Justice)
+•
+Patents protection period
+•
+Ability to market overseas
+•
+Insurance reimbursement
+•
+Competitor response – development of new drugs
+195
+© 2021 NYU Stern MCA
+
+
+===== PDF p200 =====
+Sternofi: Question 3
+Question 3: 
+It sounds like Deanraghutumab shows a lot of promise, and Sternofi is willing to be acquired for $2.3b in cash. Should H&H purchase it?
+Math Solution: 
+Math Information: 
+Years 1 to 4 net income = $0 revenue - $50m costs = -$50m
+Years 5 to 8 net income = $700m revenue - $20m fixed costs – 20k x $4k variable costs = $600m 
+net income
+Cumulative net income by end of year 8 = 4 x -$50m + 4 x $600m = $2,200m
+Given break even target of 8 years, $2,300 price > $2,200 revenue, thus it does not meet the 
+break-even criterion.
+Alternatively: Break even time = ($2,300m price + [4 x $50m] development costs) / $600m net 
+income = 4.17 years
+Adding in the four years of development (with zero revenues), the figure becomes 8.17 years
+Since it is very close to the break even target, go and no-go are both valid responses if adequately 
+supported.
+•
+Reasons to acquire – (1) the break-even figure is very close; (2) there may be revenue and 
+cost synergies to make net profit higher; (3) Sternofi can look to commercialize the product 
+abroad; (4) the other drugs in development might be worth $100m.
+•
+Reasons not to acquire – (1) break-even period is slightly longer than required, (2) risks 
+outlined in question 2 could prove insurmountable.
+•
+H&H’s intended break-even time: 8 
+years
+•
+Annual revenue: $700m
+•
+Annual fixed costs: $20m
+•
+Variable costs per treatment: $4,000
+•
+Number of treatments: 20,000 (from 
+question 1)
+•
+Development costs per year: $50m
+•
+Development time remaining: 4 years
+•
+Revenue growth: 0%
+•
+Notes:
+–
+H&H does have the financial resources to 
+acquire Sternofi
+–
+A good candidate will mention something 
+about present value of cashflows – assume all 
+values are present values but valid for the 
+candidate to mention this as a potential 
+reason for a “do not acquire” 
+recommendation
+196
+© 2021 NYU Stern MCA

@@ -1,0 +1,34 @@
+{
+  "case_id": "Ross_2013_15_chef-s-best-cutlery-co",
+  "school": "Ross",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2013.pdf",
+  "idx": 15,
+  "case_name": "Chef's Best Cutlery Co",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Consumer Products",
+  "difficulty": "Medium",
+  "pdf_page_start": 176,
+  "pdf_page_end": 184,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    177,
+    178,
+    179,
+    180,
+    182,
+    183,
+    184
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p177.png",
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png",
+    "exhibits/exhibit_p182.png",
+    "exhibits/exhibit_p183.png",
+    "exhibits/exhibit_p184.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2013\\15_chef-s-best-cutlery-co"
+}

@@ -1,0 +1,256 @@
+===== PDF p247 =====
+243
+Case author(s): Adam J. Louras (Kellogg 2011) [formerly A+ Airlines]
+Edited by: Deepika Singh (Kellogg Class’16), Rohan Maini (Kellogg 2020)
+Case 23
+Wildcat Wings
+Primary sector(s)
+• X01 Aerospace & Defense
+• X15 Transportation & Logistics
+Concepts tested
+• Z08 Market sizing (2)
+• Z12 Creativity (4)
+• Z16 Vertical integration (4)
+Similar cases
+• case, casebook + year
+Case type
+• Y06 Opportunity assessment
+• Y05 Operations
+
+
+===== PDF p248 =====
+244
+Wildcat Wings
+Interviewer guide
+Case prompt
+• Our client is Wildcat Wings, the third largest airline in the United States by passengers carried. This week, the CEO flew with our 
+primary competitor, Phoenix Air, and she noticed something interesting: Phoenix has stopped accepting cash for in-flight food and 
+beverage services and they now only accept major credit cards.
+• The CEO of Wildcat Wings wants to know why Phoenix Air switched to Card only, and if Wildcat Wings should follow them.
+Interviewer guide
+• Problem: Should Wildcat Wings go cashless for in-flight purchases?
+• Problem solving steps:
+1. Develop a structure to address the problem
+2. Analyze current in-flight purchases
+3. Explore cost impacts of switching to card only
+4. Brainstorm additional benefits
+5. Provide client recommendation
+
+
+===== PDF p249 =====
+245
+Wildcat Wings
+Case prompt
+• Our client is Wildcat Wings, the third largest airline in the United States by passengers carried. This week, the CEO flew with our 
+primary competitor, Phoenix Air, and she noticed something interesting: Phoenix has stopped accepting cash for in-flight food and 
+beverage services and they now only accept major credit cards.
+• The CEO of Wildcat Wings wants to know why Phoenix Air switched to Card only, and if Wildcat Wings should follow them.
+Clarifying information
+• Card Use: Roughly 99% of all consumers purchase their airline tickets using a credit card, i.e. all consumers on an airplane have a 
+credit card available to them.
+• Items Sold: Only food and alcoholic beverage items are sold on Wildcat flights.
+• Competitive Dynamics: Phoenix is the only airline that has made the switch; however all other airlines are evaluating the switch.
+• Competitors: For the purposes of this case, Phoenix and Wildcat should be considered to be exactly the same in all regards.
+Fit: Tell me how about a time someone convinced you to take a differnet approach.
+
+
+===== PDF p250 =====
+Wildcat Wings
+Exhibit A – Flight economics
+Fleet size: 50
+Average Wildcat Wings flight
+Boeing 737-800
+Total seats
+200
+Cabin
+Cabin share 
+of seats
+Traveler type
+Seat 
+utilization
+Business
+Leisure
+First Class
+25%
+100%
+0%
+100%
+Economy
+75%
+50%
+50%
+80%
+Traveler type
+Purchase rate
+Average purchase value
+Business
+40%
+$10
+Leisure
+25%
+$5
+Method of payment
+Cash
+20%
+Card
+80%
+246
+
+
+===== PDF p251 =====
+247
+Wildcat Wings
+Exhibit A – Cash and Credit Card management processes
+Wildcat Wings Cash Management Process*
+Wildcat Wings Credit Card Process
+On ground
+Cash handler 
+loads plan with 
+$50 in change
+Cash handler 
+collects flight 
+lockbox from 
+plane (EOD)
+Cash handler 
+collects flight 
+lockbox from 
+plane (EOD)
+Flight lockboxes 
+deposited to 
+onsite cash 
+processing 
+center
+Armored car 
+service collects 
+cash
+Armored car 
+service 
+reconciles cash 
+for counterfeit
+Cash (less fees) 
+deposited to 
+Wildcat Wings 
+bank account
+In flight
+Flight attendant 
+collects cash 
+from passengers 
+and issues 
+change
+Flight attendant 
+deposits cash 
+into flight 
+lockbox
+On ground
+Merchant 
+service receives 
+and processes 
+card transaction
+In flight
+Flight attendant 
+swipes credit 
+card in wireless 
+terminal
+Cash (less fees) 
+deposited to 
+Wildcat Wings 
+bank account
+2% fee on all 
+cash collected
+End-to-end process: 31 days
+End-to-end process: 24 hours
+Additional information:
+• 5 cash handlers per airport
+• 2 employees onsite cash processing center at each airport where Wildcat operates
+
+
+===== PDF p252 =====
+248
+Wildcat Wings
+Part 1
+1. Develop a structure to address the problem
+• Case Structure – Interviewee’s structure should be a before and after comparison of the switch from Cash & Card to Card only and
+should include:
+• Revenue Changes: Loss of Cash Only customers vs. Increase in Credit Card customers
+• Cost Changes: Benefit of Cash Management Cost Removed vs. Incremental Cost (Fee) of Credit Card
+• Cash Flow Changes: Interest and Time Value of Money (TVM), and Working Capital impacts due to an increase in collection 
+speed
+
+
+===== PDF p253 =====
+249
+Wildcat Wings
+Part 2
+2. Analyze current in-flight purchases
+• Ask the interviewee to determine the Total Market Size in ($) for food and beverage purchases on an average flight
+• The interviewee should calculate the current allocation of purchases (Cash vs Card) for an average flight.
+• The interviewee should begin with the correct assumption that revenue will be lost due to unhappy, cash-only passengers
+• First class business passengers = 200 seats x 25% share x 100% utilization x 100% business = 50 passengers
+• Economy business passengers = 200 seats x 75% share x 80% utilization x 50% business = 60 passengers
+• Economy leisure passengers = 200 seats x 75% share x  80% utilization x 50% leisure = 60 passengers
+• Business spend = (50 + 60) x 40% x $10 = $440
+• Leisure spend = 60 x 25% x $5 = $75
+• Cash payments = $515 x 20% = $103
+• Card payments = $515 x 80% = $412
+• Takeaway: Lost revenue = 1/3 x 103 = ~$35
+Provide Exhibit A when the interviewee asks about market sizing
+When asked, state we will lose 1/3 of cash customers when we move to card-only
+
+
+===== PDF p254 =====
+250
+Wildcat Wings
+Part 3
+3. Explore cost impacts of switching to card only
+• Interviewee should make mention of Cost changes due to the shift to a Card Only strategy.
+• The interviewee should notice the following information:
+• Cash Management & Card Management both have 2% fees associated, so this is a “wash” in terms of savings.
+• Cash Management requires additional overhead, 7 total employees per airport, that could be eliminated for further savings.
+• Interviewee should notice that the $35 savings offsets the $35 loss in revenue. A good candidate will notice that savings go straight 
+to the bottom line whereas revenue doesn’t.
+Provide Exhibit B when the candidate after cash and credit card processing cost brainstorming
+When asked, explain that the total, per flight, savings from eliminating overhead due to Cash 
+Management Operations is $35/flight
+
+
+===== PDF p255 =====
+251
+Wildcat Wings
+Part 4
+4. Brainstorm additional benefits
+• The interviewee should qualitatively mention that there are benefits to eliminating the longer cash management process:
+• Time Value of Money: Wildcat Wings will receive their money 30 days sooner, and this money could be used to:
+• Invest in interest earning accounts or growth projects
+• Pay off suppliers early and take advantage of discounts
+• Pay down lines of credit faster
+• Working Capital Improvement: $50 per flight in change can be eliminated, thus freeing up cash flow.  Additionally, there will be
+a reduction in loss of cash due to theft and damage
+• Happier Customers: The majority of customers will be able to place and receive their order faster on the plane which will also 
+increase sales
+If the candidate does not mention TVM, ask them about benefits of collecting payment early
+
+
+===== PDF p256 =====
+252
+Wildcat Wings
+Part 5
+5. Provide client recommendation
+• Overall, our client Wildcat Wings, should switch to a Credit Card only system for in-flight food & beverage because:
+• Quantitative Benefits: We calculated that there would be a loss of 3 business customers and 1 economy customer per flight 
+which amounted to a Revenue loss of $35.  We also found that we could save $35 in overhead expenses by eliminating the 
+Cash Management process.  In sum, the decision to switch is in favor because the savings are to the bottom line and the 
+revenue losses are top line.
+• Qualitative Benefits: We also found that we will receive payment 30 days sooner by only accepting credit cards.  This improves 
+our cash flow and could allow us to earn interest, pay down creditors, or invest in projects.  Additionally, by reducing cash
+losses and eliminating “Change” tied up on airplanes, we can improve our Working Capital and also put this money to work for 
+us.  Finally, it appears as though customers, in general, might actually be happier because the speed of transactions on the 
+airplane will improve.
+• Outstanding interviewees will note:
+• Due to the increased transaction speed, probability of purchase for both Business and Economy passengers in the AFTER 
+state should go up due to a reduction in frustration.  The people on the back of the airplane often abandon a purchase if it 
+takes too long to place an order.  Making change takes a lot of time!
+• Average purchase amount should also increase. There is a proven psychological phenomenon that shows how consumers 
+who do not carry cash purchase less when a cash option is offered because they feel guilty using their card.  A card-only 
+option eliminates this guilt and consumers don’t mind using the card.
+• Being creative when listing the change of costs as: Wifi cost (connect with banks and verify transaction), Fraud cost 
+(increased chance of fraud to happen after implementing card only payment).

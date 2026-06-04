@@ -1,0 +1,328 @@
+===== PDF p26 =====
+22 
+Guidance 
+Important: Try not to laugh… This is a real case from Bain & Company. It’s a hard case. The candidate 
+will have to think out of the box to solve it. Therefore, it’s not a case for beginners. 
+ 
+Before the candidate start his/her framework, ask him/her what he/she knows about penguins. 
+ 
+Prompt 
+Penguins have evolved. Now they can talk and they are organized as an advanced society. 
+ 
+The ambassador of Penguinland (former Antarctica) has reached out to Bain & Company because he is 
+worried about the growing population growth of penguins. Currently, there are about 23 million penguins 
+and the population is growing 32% per year. 
+ 
+How many penguins can live at Penguinland and what is the best way to accommodate 
+everyone? 
+ 
+Guidance 
+The candidate must calculate how many penguins can live in Antarctica. That means, the candidate 
+should be thinking on what the penguins eat (fish), how far can they be from the ocean, etc. 
+ 
+The penguins are not involved in commercial activities. They still act as penguins. 
+ 
+Orient the candidate to think out of the box. 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+
+
+===== PDF p27 =====
+23 
+Guidance 
+The candidate should present a framework touching on food habits, predators, space for building their 
+nests, etc. The key driver in this case is how far they can live from the ocean. 
+ 
+Information to be given upon request: 
+•  Predators: the penguins negotiated with all predators. The polar bears now live in a Zoo in San Diego 
+and the whales lives at Sea World. 
+•  Food: There are a lot all over the ocean. It’s more than enough to feed every penguin. 
+•  Penguin habits:  
+•  They are all married and have a baby penguin  
+•  They need space for both penguins to live and a nest for the baby 
+•  Penguins do not need space for leisure. They need space just to sleep 
+•  Penguins must eat everyday 
+•  Penguinland (Antarctica) area: Provide exhibit 1. Allow the candidate to approximate the map to a 
+square. 
+ 
+If the candidate does not realize that he needs to calculate the Antarctica area, ask him to do so. 
+ 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+
+
+===== PDF p28 =====
+24 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+4,000 Km 
+Exhibit 1: Penguinland Map 
+
+
+===== PDF p29 =====
+25 
+Guidance 
+Calculation: 
+Approximating the map to a square: 
+Area = 4,000 x 4,000 = 16,0000,000 km2 
+ 
+Now that the candidate has calculated the Antarctica area, he needs to calculate how far can a penguin 
+live from the ocean. He/she will need to calculate how fast can a penguin walk and how many hours per 
+day can a penguin walk. 
+ 
+Information to be given: 
+•  Penguins only walk and eat during the day. They must sleep the whole night 
+•  Penguins must eat every day or they will die 
+•  Even if a penguin stays in the ocean for only 1 second, it’s enough to eat one fish 
+•  The longest day of the year has 22 hours of sunlight 
+•  The average size of penguin leg is 20cm. The average size of a human leg is 1m 
+•  Humans can walk at an average of 5km per hour 
+ 
+The candidate must realize that the walking speed can be written as a function of the leg length. 
+Therefore, if a penguin has a leg that is 1/5 of a human’s, the penguin speed will also be 1/5 of the 
+human’s speed. In this case: 1 km per hour. 
+ 
+Since the longest day of the year has 22 hours of sun light (and 2 hours of night), the shortest day of the 
+year has only 2 hours of sunlight. 
+ 
+Since the penguins must walk from their nest to the sea and from the sea to their nest, they cannot live 
+from more than 1 hour (1km) from the sea. 
+ 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+
+
+===== PDF p30 =====
+26 
+Guidance 
+Now that the candidate figured that the penguins can live only 1km away from the sea, he/she needs to 
+calculate the total habitable area and how many penguins can be fit in this area. 
+ 
+The total habitable area can be approximated* to 4 rectangles of 1km by 4,000km. 
+Area = (1 x 4,000) x 4 = 16,000 km2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*Note: The correct area calculation is (4,000 km x 1 km) + (4,000 km x 1 km) + (3,998 km x 1 km) + 
+(3,998 km x 1 km) = 15,996 km2, but is ok to round to 16,000 km2 
+ 
+Orient the candidate to estimate the number of penguins. He/she will need to know the size of the 
+penguins. 
+ 
+Information to be given upon request: 
+Penguin size = 1 m2 
+Nest size = 1 m2 
+ 
+Remember the candidate that the penguins need space to move from their nests to the sea. Therefore, 
+they will need roads. 
+ 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+1 km 
+4,000 km 
+
+
+===== PDF p31 =====
+27 
+Guidance 
+Tip: the penguins will need roads. Ideally, they will need 2 roads, so some penguins can go to the sea 
+while others are coming back the their nests. 
+ 
+The optimum solution is to allocate the penguin as follow: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+According to this layout, it’s possible to accommodate 3 penguins (1 male, 1 female and 1 baby) for 
+each 5 square meters. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+Male 
+Penguin 
+Female 
+Penguin 
+Nest & 
+Baby 
+Road 1 
+ 
+Road 2 
+ 
+1 meter 
+1 meter 
+1 meter 
+1 meter 
+1 meter 
+1 meter 
+!"#$%!!"#$%&!!"!!"#$%&#' =!!"#$%"#&'!!"#$! !"!!!
+!"#$!!"#$%&!!"#$
+!!3!!"#$%&#'!
+!"#$%!!"#$%&!!"!!"#$%&#' =!16,000,000,000!!!
+5!!!
+!!3!!"#$%&#'!
+!"#$%!!"#$%&!!"!!"#$%&#' = !9,600,000,000!!"#$%&#' = 9.6!!!!"#$%&#'!
+
+
+===== PDF p32 =====
+28 
+Performance 
+Evaluation 
+Expected: 
+• 
+Correctly calculates the number of penguins 
+• 
+Needed some help to understand the drivers to calculate the maximum penguin population 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Suggests that the map can be approximated to a square or circle 
+• 
+Develops a framework that contains important issues such as Predators, Feeding Habits, etc. 
+• 
+Understands that the penguins must walk 1km to reach the sea and then they need to come 
+back 
+ 
+Excellent: 
+• 
+Completes all “Good“ requirements 
+• 
+Understands that the calculations must consider the shortest day of the year 
+• 
+Suggests the same allocation layout 
+• 
+Could solve the case without much help from the interviewer 
+Market Sizing 
+Bain & Company 
+Case 2: Penguins?!? 
+
+
+===== PDF p33 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+29 

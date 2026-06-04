@@ -1,0 +1,480 @@
+===== PDF p125 =====
+KNOWLEDGE FOR ACTION
+Phighting Phillies
+
+
+===== PDF p126 =====
+KNOWLEDGE FOR ACTION
+Phighting Phillies
+Level of Difficulty: Hard
+Case Similar to Cases at Firms: Bain
+Topics Tested: M&A Due Diligence, Finance/Private Equity, Valuation, Mathematical
+Calculation, Business Model Brainstorming, Graphs Analysis
+Prompt: Our client, Alpha Capital, is a private equity firm that is considering buying the
+Philadelphia
+Phillies.
+The
+current
+team
+owners
+approached
+Alpha
+about
+purchasing the team for $1.1B.
+Alpha engaged our firm in the due diligence
+process and wants us to help them understand:
+A.  What is the team worth?
+B.  Should they make this investment?
+Wharton Casebook 2017
+CASE 11
+122
+
+
+===== PDF p127 =====
+KNOWLEDGE FOR ACTION
+Clarifying Questions
+Wharton Casebook 2017
+Sample Clarifying Questions and Answers
+Fund structure, previous investments
+This asset will go into a new fund without hold period constraints or 
+previous investments
+Hurdle rates, hold periods, other constraints
+Assume these are not major issues
+Impetus / motivation for the deal?
+We want to maximize our investment. Also assume that fund 
+leadership is filled with avid Phillies fans who want the team to be 
+successful
+How does the team make money?
+[Before answering, ask the interviewee to brainstorm some ideas]  
+The major revenue streams are: ticket sales, concessions, 
+merchandise, media rights, and advertising/ sponsorships
+What are the major cost drivers?
+[Before answering, ask the interviewee to brainstorm some ideas]  
+The major cost drivers are:  Player salaries, front office costs, sales 
+& advertising, and stadium/facilities costs
+Does the team own or lease its stadium and other facilities?
+Assume the city of Philadelphia owns these and we are paying 
+annual leasing costs.
+Should we be considering revenues and costs associated with Spring 
+Training and the farm system?
+Great question, but let’s not consider these in our analysis
+Are there other potential bidders for the team?
+Assume there are not other bidders and we have the first shot at 
+buying the team.
+CASE 11
+123
+
+
+===== PDF p128 =====
+KNOWLEDGE FOR ACTION
+Sample Framework
+Wharton Casebook 2017
+•
+Key Points of background
+o
+Fund structure and previous investments
+o
+Hurdle rates, hold periods and other constraints
+o
+Deal thesis and motivation
+•
+How much is the team worth?
+o
++ Revenues
+
+Ticket Sales
+
+Concessions
+
+Merchandise
+
+Media Rights
+
+Sponsorships and Ads
+o
+- Costs
+
+Player Salaries
+
+Front Office Costs
+
+SG&A
+
+Stadium and Facility Costs
+
+COGS/Other
+o
+Potential Revenue and Cost Synergies
+
+Expected Increased Revenues
+
+Expected Lower Costs
+o
+Discount Cash Flows
+•
+Should Alpha make the investment?
+o
+Management Team Considerations
+
+Existing team management quality?
+
+Would we have to replace management
+o
+Ability to Execute
+
+Asking price below our valuation?
+
+Do we have access to capital to purchase the 
+team?
+
+Our expertise in running a sports business 
+enterprise
+
+Ability to achieve synergies we identify?
+o
+Other Factors
+
+Fan-base reaction to PE buyer?
+
+League approval of our purchase?
+
+Potential tension between maximizing the 
+investment and winning?
+
+Regulatory/legal risks?
+
+Risks to sport of baseball (e.g., lower fan interest)
+
+Other investments we could make with better ROI?
+CASE 11
+124
+
+
+===== PDF p129 =====
+KNOWLEDGE FOR ACTION
+Current Revenues and Costs (1 of 2)
+Wharton Casebook 2017
+Information for Interviewee
+Revenue Size (Keep Private)
+Ticket Sales
+See table at right.  Give blue 
+font figures to interviewee
+80,000,000
+$                           
+Concessions
+See table at right.  Give blue 
+font figures to interviewee
+40,000,000
+$                           
+Merchandise
+Sell 1M items per year, at $50 
+per item.  The team earns 20% 
+royalty on total sales
+10,000,000
+$                           
+Media Rights
+Local Media: $40M, National 
+Media: $80M
+120,000,000
+$                         
+Sponsorships/Ads
+$50M
+50,000,000
+$                           
+Total Revenue
+300,000,000
+$                         
+Revenues
+Note for Interviewer: If you have not discussed revenue and cost drivers yet, have the candidate 
+brainstorm these.  Keep pushing them until they are out of ideas or have covered the topics in the 
+tables below.  Give hints as needed.  
+Seats/Stadium
+50000
+Standard Seats Share
+90%
+Standard Seat Fill Rate
+55.56%
+Standard Seat Price
+25
+$                    
+Premium Seats Share
+10%
+Premium Seats Fill Rate
+75%
+Premium Seat Price
+100
+$                  
+Standard Seat Revenue
+625,000
+$          
+Premium Seat Revenue
+375,000
+$          
+Revenue/Game
+1,000,000
+$       
+Number of Home Games
+80
+Total Ticket Sales
+80,000,000
+$    
+Ticket Sales
+Fans Buying/Game
+20000
+Spend/Fan/Game
+$25
+Revenue/Game
+500,000
+$          
+Number of Home Games
+80
+Total Concessions
+40,000,000
+$    
+Concessions
+CASE 11
+125
+
+
+===== PDF p130 =====
+KNOWLEDGE FOR ACTION
+Current Revenues and Costs (2 of 2)
+Wharton Casebook 2017
+Note for Interviewer: At this point, the candidate should see that the valuation is less than the 
+asking price.  If necessary, prompt the interviewer to compare this value to the asking price.  If they 
+do not bring up synergies, guide them to this topic.
+Information for Interviewee
+Cost Size (Keep Private)
+Player Salaries
+$110M
+110,000,000
+$                         
+Front Office Costs
+$20M
+20,000,000
+$                           
+Sales & Advertising
+$50M
+50,000,000
+$                           
+Stadium/Facility Costs $20M
+20,000,000
+$                           
+Total Costs
+200,000,000
+$                         
+Costs
+Revenue
+300,000,000
+$                             
+Costs
+200,000,000
+$                             
+Annual EBIT
+100,000,000
+$                             
+Taxes
+Assume $0
+Discount Rate
+10%
+Valuation
+1,000,000,000
+$                          
+Valuation
+CASE 11
+126
+
+
+===== PDF p131 =====
+KNOWLEDGE FOR ACTION
+Synergy Analysis (for Interviewer)
+Wharton Casebook 2017
+Note for Interviewer:
+Ask the candidate to look at the graphs on the next slide and give you
+his/her thoughts.
+The candidate should spot cost synergies with sales and advertising and
+connect the revenue percentages to the topline revenue figure previously calculated.
+These
+synergies increase the valuation beyond the asking price.
+See below for calculations on potential synergies and associated impact on the valuation.
+Phillies Costs
+League Benchmark
+Savings Potential
+Player Salaries
+110,000,000
+$                          
+110,000,000
+$         
+-
+$                              
+Front Office Costs
+20,000,000
+$                            
+20,000,000
+$           
+-
+$                              
+Sales & Advertising
+50,000,000
+$                            
+40,000,000
+$           
+10,000,000
+$                
+Stadium/Facility Costs
+20,000,000
+$                            
+20,000,000
+$           
+-
+$                              
+Potential Boost to Revenues
+Topline Revenue
+Incremental Revenue
+Dynamic Ticket Pricing
+4%
+300,000,000
+$         
+12,000,000
+$                
+Renegotiated Local Media Deal
+3%
+300,000,000
+$         
+9,000,000
+$                  
+Attract Higher Value Sponsors
+2%
+300,000,000
+$         
+6,000,000
+$                  
+Revamped Concessions Offerings
+1%
+300,000,000
+$         
+3,000,000
+$                  
+Total Cost Synergies
+10,000,000
+$                            
+Total Revenue Synergies
+30,000,000
+$                            
+Total Synergies
+40,000,000
+$                            
+Valuation Impact
+400,000,000
+$                          
+New Total Valuation
+1,400,000,000
+$                       
+Impact on Valuation
+CASE 11
+127
+
+
+===== PDF p132 =====
+KNOWLEDGE FOR ACTION
+ $-
+ $40
+ $80
+ $120
+ $160
+ $200
+Phillies Costs
+League Benchmark
+Team Cost Comparison ($MM)
+Player Salaries
+Front Office Costs
+Sales & Advertising
+Stadium/Facility Costs
+Synergy Analysis (for Candidate)
+Wharton Casebook 2017
+0%
+1%
+1%
+2%
+2%
+3%
+3%
+4%
+4%
+5%
+Dynamic Ticket
+Pricing
+Renegotiated
+Local Media Deal
+Attract Higher
+Value Sponsors
+Revamped
+Concessions
+Offerings
+Potential Boost to Total 
+Revenues
+CASE 11
+128
+
+
+===== PDF p133 =====
+KNOWLEDGE FOR ACTION
+Other Considerations
+Wharton Casebook 2017
+Note for Interviewer: If the candidate does not drive us to the “other considerations” bucket,
+ask them what other types of factors they would want to consider in deciding whether to
+recommend that Alpha buys the team. See below for some example considerations.
+•
+Management Team Considerations
+o
+Existing team management quality?
+o
+Would we have to replace management?
+•
+Ability to Execute
+o
+Do we have access to capital to purchase the 
+team?
+o
+Our expertise in running a sports business 
+enterprise
+o
+Ability to achieve synergies we identified?
+•
+Other Factors
+o
+Fan-base reaction to PE buyer?
+o
+League approval of our purchase?
+o
+Potential tension between maximizing the 
+investment and winning? (e.g., whether to 
+increase spend on player salaries)
+o
+Regulatory/legal risks?
+o
+Macro risks to sport of baseball (e.g., lower fan 
+interest)
+o
+Other investments we could make with better 
+ROI?
+CASE 11
+129
+
+
+===== PDF p134 =====
+KNOWLEDGE FOR ACTION
+Wrap-Up
+Wharton Casebook 2017
+The MD at Alpha Capital is walking down the hallway and she wants to know what 
+our initial findings and recommendations are.  What do you tell her?
+Note for Interviewer:
+This case hinges on the candidate realizing that revenue and cost
+synergies are required to make this a viable investment.
+Strong math skills are required,
+including intuition around the synergies. The candidate could use the prompt to underpin a
+strong framework (a pre-packaged framework will likely lead to problems. Finally, strong
+candidates will continue to drive the case throughout, particularly moving from a basic financial
+analysis to a discussion of the other considerations.
+CASE 11
+130

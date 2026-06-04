@@ -1,0 +1,331 @@
+===== PDF p89 =====
+Chemical Imbalance
+85
+Industry: Chemicals
+Quantitative Level: Medium - High
+Qualitative Level: Medium - High
+
+
+===== PDF p90 =====
+Behavioral Questions
+86
+• Describe a time when you had to “burn a bridge”.
+Question 1:
+• Tell me about a situation where you had to lead by influence rather than by authority.
+Question 2:
+
+
+===== PDF p91 =====
+Chemical Imbalance
+87
+• Your client, ChemCo, is a large multinational company in the chemicals industry.  
+ChemCo is a leading industry player with a diverse portfolio comprising of commodity 
+and specialty products. However, in recent years, ChemCo has been facing declining 
+margins. You have been brought on to help reverse the downward slide.
+Prompt #1:
+• If asked, ChemCo sells its products across the globe.
+• Describe commodity and specialty products, if asked. 
+– Commodity products are standard products, processed in large batches. These are low cost, 
+low margin products with end-use in multiple industries. 
+– Specialty products are  highly customized products, processed in small batches. These are 
+made to order based on specific customization instructions of the clients and hence, they are 
+typically high cost, high margin products.
+• If asked, clarify that ChemCo sells its products through “direct sales” approach where 
+sales representatives do site visits to all their clients to share information about 
+ChemCo’s products, understand the client’s requirements, and record orders. 
+Interviewer Guidance:
+
+
+===== PDF p92 =====
+Chemical Imbalance
+88
+• The interviewee should recognize that at its core, this is profitability problem: 
+Revenue-Costs framework and External Factors. They should detail each “bucket”. 
+For example, Sales: Volume x Price. Costs: Raw materials, Labor, Sales, etc. 
+External Factors: Industry is declining, Poor economic conditions, Regulatory 
+restrictions/ fees increasing etc. 
+• If asked, say that sales are growing in line with industry and ChemCo is the market 
+leader in sales, but its margins are lagging the industry.
+• Provide Exhibit # 1 if asked about comparative analysis of cost vs. competitors. In 
+case the interviewer does not ask about this, guide them towards this exhibit.   
+Interviewer Guidance:
+
+
+===== PDF p93 =====
+Exhibit #1
+• Break-down of costs* for ChemCo and other industry players ($M)
+89
+128
+65
+98
+45
+25
+40
+90
+32
+49
+37
+22
+33
+300
+144
+220
+0
+50
+100
+150
+200
+250
+300
+350
+ChemCo
+Poly Co
+Prop Inc
+Raw Materials
+Labor
+Sales
+G&A
+* Costs are proportional to sales
+
+
+===== PDF p94 =====
+Interviewer guidance on Exhibit#1
+• This Exhibit shows a break-down of the 
+costs of the top 3 players in the industry. 
+The number at the top of each bar is the 
+total cost.
+• If candidate asks about margin/ sales or 
+seeks clarification on footnote, state that 
+while our sales are higher than 
+competitors, our competitors have better 
+margins (re-direct them to this Exhibit and 
+focus on costs).
+• The key takeaway is that Sales cost for 
+ChemCo is much higher than the other 
+industry players
+• For added quantitative testing, the 
+interviewee should be asked to calculate 
+each component of cost as a % of the 
+total cost.
+• The % calculation works out as below:
+90
+Exhibit #1 Guidance:
+Analysis:
+ChemCo
+Poly Co
+Prop Inc
+Raw Materials
+43%
+45%
+45%
+Labor
+15%
+17%
+18%
+Sales
+30%
+22%
+22%
+G&A
+12%
+15%
+15%
+
+
+===== PDF p95 =====
+Chemical Imbalance
+91
+• Once the candidate identifies “Sales” costs as the driver of lower profitability, ask 
+them to brainstorm some of the potential reasons for higher Sales cost. 
+Prompt #2:
+• Some of the potential causes for higher Sales cost:
+–
+Overstaffed sales org (higher # of employees)
+–
+Higher salary/ commission compared to industry (higher cost per employee)
+–
+Poor internal controls for expenditure reimbursement for Sales staff
+–
+Higher marketing/ advertising spend compared to industry
+Interviewer Guidance:
+• PROMPT: In case the candidate has not earlier asked about the sales model, clarify 
+that ChemCo sells its products through “direct sales” approach where sales 
+representatives do site visits to their clients to share information about ChemCo’s
+products, understand the client’s requirements, and record orders.
+• Further, hand the candidate Exhibit # 2 and explain that ChemCo has collected 
+some data about customers in their biggest geographical market, US.
+Prompt #3:
+
+
+===== PDF p96 =====
+Exhibit #2
+• ChemCo’s customer and product profiles in the US market
+92
+# of customers
+Sales ($M)
+# of customers
+Sales ($M)
+Consumer goods manufacturers
+390
+                   
+130
+                   
+180
+                   
+81
+                     
+Industrial goods manufacturers
+750
+                   
+1,875
+                
+450
+                   
+1,575
+                
+Automobiles manufacturers
+95
+                     
+1,140
+                
+65
+                     
+1,625
+                
+Total
+1,235
+                
+3,145
+                
+695
+                   
+3,281
+                
+Product categories
+Commodity
+Specialty
+ Customer segments by industry 
+
+
+===== PDF p97 =====
+Interviewer guidance on Exhibit#2
+• This Exhibit shows the breakdown of 
+number of customers and sales figures for 
+each product and customer category. 
+Customer categories are based on 
+industry.
+• If candidate asks about costs, state that 
+all customers are serviced through direct 
+sales approach and cost of serving all 
+types of customers is somewhat similar.
+• The candidate should proceed to calculate 
+the revenue per customer for each of the 
+categories:
+• The key insight is that consumer goods 
+manufacturers are generating the least 
+amount of revenue per customer, but 
+account for 30% of the total number of 
+customers. Given the cost of servicing all the 
+customers is similar, there is an opportunity 
+to optimize sales cost here.
+93
+Exhibit #2 Guidance:
+Analysis:
+Sales per 
+customer ($M)
+Sales per 
+customer ($M)
+Consumer goods manufacturers
+0.33
+$                
+0.45
+$                
+Industrial goods manufacturers
+2.50
+$                
+3.50
+$                
+Automobiles manufacturers
+12.00
+$             
+25.00
+$              
+ Customer segments by industry 
+Specialty
+Product categories
+Commodity
+
+
+===== PDF p98 =====
+Chemical Imbalance
+94
+• Once the candidate delivers the key insight from Exhibit # 2, ask them to brainstorm 
+some potential ways to reduce the cost of serving consumer goods manufacturers.
+Prompt #4:
+• Some of the potential ways to optimize the cost of serving the consumer goods 
+manufacturers:
+–
+Sales through distributors
+–
+Changing internal sales model (use indirect sales model)
+•
+E-commerce (sale through website/ app)
+•
+Sales through mailed paper catalogues
+•
+Sales through in-house call center (remote sales)
+Interviewer Guidance:
+The CEO of ChemCo is about to walk-in. What is your recommendation to him?
+Prompt #5:
+
+
+===== PDF p99 =====
+Chemical Imbalance
+95
+• Recommendation: I recommend that ChemCo should adopt indirect sales or sale 
+through distributors to service consumer goods manufacturers (for Commodity 
+products). 
+• Result: This will result in optimization of salesforce headcount and associated Sales 
+cost, which is currently much higher than competitors. 
+• Justification: Direct sales approach is expensive and consumer goods manufacturers 
+do not yield enough revenue to justify the cost of direct sales approach.
+• Risks/ Challenges: Customer concerns for quality of service, Employee backlash due 
+to headcount reduction, Building new capabilities/ relationships with dealers, etc.
+• Next step: Get more data on costs of direct and indirect sales approach, estimate 
+costs for introducing recommended mode to determine cost savings
+Recommendation 
+• There is room for optimizing the sales model for servicing the consumer goods 
+manufacturers. The recommendation is designed to be somewhat flexible as long as 
+the interviewee suggests selling through distributors or changing internal sales 
+model for these customers backed by sound reasoning, that should be considered 
+as a valid recommendation.
+• An exceptional candidate will note that specialty products require more customer inputs 
+and hence, recommend distributor/ indirect sales approach for commodity products only.
+Interviewer Guidance:
+
+
+===== PDF p100 =====
+Evaluation Criteria
+96
+Candidate Level
+Assessment
+Average Candidate
+Framework may be high level Revenue – Cost. Follows 
+the path towards changing sales model for the 
+consumer goods manufacturers. Small math errors. 
+Moderate brainstorming
+Good Candidate
+Framework may be Revenue – Cost and contains 
+detailing about different categories of cost. Follows the 
+path towards changing sales model for the consumer 
+goods manufacturers, but is cognizant of associated 
+risks. Small math errors. Strong brainstorming.
+Excellent Candidate
+Framework may be Revenue – Cost, but customized 
+for industry and contains detailing about categories of 
+cost, including sales cost. Drives towards changing 
+sales model for consumer goods manufacturers for 
+commodity products, but is cognizant of associated 
+risks and mentions concrete next steps. No math 
+errors. Strong, creative brainstorming and business 
+intuition.

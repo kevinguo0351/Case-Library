@@ -1,0 +1,258 @@
+===== PDF p99 =====
+Case 14: Rock Energy 
+By:  Mauricio Atri (Kellogg Class of ‘12); Edited by: Ron Mantel (Kellogg Class of ‘15) 
+Case tracker 
+Fit Questions 
+Case Question 
+ Rock Energy, an Oil & Gas company, is evaluating the purchase of one of three oil fields in Latin America.  After Rock 
+Energy has decided which oil field to purchase, it will outsource all drilling related activities. You have been brought in to 
+identify the best investment for Rock Energy. 
+ How would you evaluate the three oil fields, and which oil field should Rock Energy purchase? 
+ 
+Spend first 15 min on fit 
+ What are you most 
+proud of? 
+ Describe a time at 
+Kellogg where you 
+worked with a team to 
+achieve a challenging 
+goal 
+Guide to interviewer 
+ Main steps the interviewee should take: 
+— You will likely see something similar to the 
+Revenue/Cost framework where the interviewee assess 
+the investment opportunity for each field; provide 
+Exhibit #1 once they are ready to approach 
+Revenues/Costs (after initial questions) 
+— With the info from Exhibit #1, interviewee is expected 
+to calculate Revenues and Costs (interviewee should 
+identifying that they need to ask for price of oil and 
+cost to secure initial rights) 
+— The price and barrels extracted by day will allow the 
+interviewee to estimate the total revenue and profit by 
+well. 
+— After calculating profit, the interviewee should 
+consider other factors, risks that could affect the 
+decision investment 
+95 
+Quants. 
+Structure 
+5 
+Invest. 
+Creativity 
+7 
+ Industry:   Energy 
+ Level of Difficulty: 
+Medium 
+ Case Format: 
+Opportunity 
+Assessment 
+ Concepts Tested: 
+- Investments 
+- Creativity 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p100 =====
+96 
+Clarifying answers and case guide  
+Guide to case / Guide to handouts 
+Part 1 – Hand out exhibit #1 once the interviewee is at the point in their 
+framework where they will analyze Revenue & Costs 
+- This handout should lead the interviewee to understand that each region will 
+have different geological characteristics which will affect the drilling time, 
+production, revenues and costs for Rock Energy 
+Part 2 – Profitability  
+- Provide the price of oil ($50/bbl) if the interviewee does proactively ask for it 
+when trying to calculate profitability; ask the interviewee to work out the 
+profitability for each field, and not only by well. 
+- The answer will be a function of the investment, variable costs, and quantity 
+of oil extracted by field.  This last variable will depend on the number of wells 
+drilled in one year.  
+Part3 – Conclusion and other issues 
+- Rock Energy should choose to buy the rights for Region 2 because it will offer 
+the best profits, but there are other factors that could impact the decision to 
+invest: 
+- Insurance costs; political stability of the region; labor contracts and 
+unions; volatility of oil prices; oil quality differences 
+Clarifying answers to provide 
+Industry Characteristics/Market Economics 
+- The rights being offered to Rock Energy 
+gives them the right to drill during year 
+1, and produce oil for 20 years.  Assume 
+that no oil is produced until the 
+beginning of year 2. 
+- Rock Energy can get the drilling 
+operator to deploy a maximum of 10 
+rigs in each of the regions 
+- The cost of the rig day includes crew, 
+consumables and services 
+- Any amount of oil being extracted will 
+be sold at the spot market price of the 
+moment 
+- For simplicity assume that the oil wells 
+will produce the same amount of oil for 
+the next 20 years with no maintenance 
+costs  
+- The rights to extract oil cost $40M in 
+each region 
+ 
+ 
+ 
+ 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p101 =====
+97 
+Math question and solution 
+Math solution 
+•
+Time to complete a well = (Depth/Penetration Rate): Region 1 = 60, Region 2 = 90, Region 3 = 180 
+•
+Production per well by region =  Daily production * 360 days:  Region 1 = 36K, Region 2=72K, Region 3= 108K 
+•
+Cost per well = Days to complete well*Cost per rig day. Yearly Revenue per well = Price * # barrels per year. Number of wells per year = 
+360/(Time to complete a well) * number of rigs. Profit Margin = (Profit per well)/(cost per well). Total Revenue =(Yearly Revenue) *( Number of 
+wells per year).  Total Cost = (Cost per well)*(number of wells)+(Rights to extract oil).  Profit = Total Rev – Total Cost. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Math question 
+ What are the first profits during the first year of production (i.e. 1st year spent on drilling, and production begins in 2nd year) 
+Concept 
+Region 1 
+Region 2 
+Region 3 
+Investment Cost (Rights to extract oil) 
+ $          40,000,000  
+ $          40,000,000  
+ $          40,000,000  
+Cost per well 
+ $                300,000  
+ $                900,000  
+ $             3,600,000  
+Yearly Revenue per well 
+ $             1,800,000  
+ $             3,600,000  
+ $             5,400,000  
+Profit per well 
+ $             1,500,000  
+ $             2,700,000  
+ $             1,800,000  
+Profit margin per well 
+500% 
+300% 
+50% 
+Number of wells per year 
+(360/60)=6x10 
+Rigs=60 
+40 
+20 
+Total Revenue 
+ $        108,000,000  
+ $        144,000,000  
+ $        108,000,000  
+Total Cost 
+ $          58,000,000  
+ $          76,000,000  
+ $        112,000,000  
+Profit 
+ $    50,000,000.00  
+ $    68,000,000.00  
+ $    (4,000,000.00) 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p102 =====
+98 
+Solution and recommendations 
+Solution & Recommendations 
+ Rock Energy should invest in buying the rights for Region 2 
+  It is important to recognize that even though the profit margin for Region 1 is significantly higher on a per well 
+basis, the return of the investment depends on the total number of wells that you can drill in the first year and the 
+upfront cost for the rights to extract oil in that Region 
+ Additionally, the interviewee should be able to identify other qualitative aspects of the investment that might affect 
+the decision to invest in a certain Region 
+ 
+Bonus/Guide to an Excellent Case 
+ An excellent answer would mention and briefly summarize the impact of including an expected value analysis, which 
+would assign different probabilities of extracting the expected barrels per day 
+ 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 
+
+
+===== PDF p103 =====
+99 
+Exhibit #1: Oil Field profiles, 2010 
+20 
+30 
+20 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+Region 1
+Region 2
+Region 3
+Drilling rates by Region 
+1200 
+2700 
+3600 
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+Region 1
+Region 2
+Region 3
+Average depth of wells by Region 
+Average depth (meters)
+Meters/day 
+Avg. Depth (meters) 
+Region 1 
+Region 2 
+Region 3 
+Max number of Rigs that would operate concurrently 
+10 
+10 
+10 
+Average well production (barrels per day) 
+100 
+200 
+300 
+Cost per rig day ($US) 
+$5,000  
+$10,000  
+$20,000  
+*Note: Wells are continuously dug during year 1 (assume 360 days), and oil is extracted beginning of year 2.  Wells are 
+dug by “Rigs”. Once a Well has been completed, the Rig moves on to dig another well. 
+© 2014 Kellogg Consulting Club  - All Rights Reserved - Distributed to Fuqua School of Business 
+ 

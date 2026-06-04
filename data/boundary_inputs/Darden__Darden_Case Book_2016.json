@@ -1,0 +1,902 @@
+{
+"school": "Darden",
+"file": "Darden_Case Book_2016.pdf",
+"rel_path": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2016.pdf",
+"page_count": 151,
+"bookmarks": [
+{
+"level": 1,
+"title": "Darden Consulting Club Case Book",
+"pdf_page": 5
+},
+{
+"level": 1,
+"title": "Table of Contents",
+"pdf_page": 6
+},
+{
+"level": 1,
+"title": "The Consulting Case Interview",
+"pdf_page": 7
+},
+{
+"level": 1,
+"title": "Structure of the Case Interview",
+"pdf_page": 8
+},
+{
+"level": 1,
+"title": "Structure of the Case Interview",
+"pdf_page": 9
+},
+{
+"level": 1,
+"title": "Structure of the Case Interview",
+"pdf_page": 10
+},
+{
+"level": 1,
+"title": "Structure of the Case Interview",
+"pdf_page": 11
+},
+{
+"level": 1,
+"title": "Frameworks",
+"pdf_page": 12
+},
+{
+"level": 1,
+"title": "Frameworks",
+"pdf_page": 13
+},
+{
+"level": 1,
+"title": "Frameworks",
+"pdf_page": 14
+},
+{
+"level": 1,
+"title": "Math",
+"pdf_page": 15
+},
+{
+"level": 1,
+"title": "Math",
+"pdf_page": 16
+},
+{
+"level": 1,
+"title": "Math",
+"pdf_page": 17
+},
+{
+"level": 1,
+"title": "Company Overviews \u000band Interview Processes ",
+"pdf_page": 18
+},
+{
+"level": 1,
+"title": "Accenture",
+"pdf_page": 19
+},
+{
+"level": 1,
+"title": "Accenture",
+"pdf_page": 20
+},
+{
+"level": 1,
+"title": "A.T. Kearney or ATK\u000b\\ Car-Knee\\",
+"pdf_page": 21
+},
+{
+"level": 1,
+"title": "A.T. Kearney or ATK\u000b\\ Car-Knee\\",
+"pdf_page": 22
+},
+{
+"level": 1,
+"title": "Bain & Company",
+"pdf_page": 23
+},
+{
+"level": 1,
+"title": "Bain & Company",
+"pdf_page": 24
+},
+{
+"level": 1,
+"title": "The Boston Consulting Group",
+"pdf_page": 25
+},
+{
+"level": 1,
+"title": "The Boston Consulting Group",
+"pdf_page": 26
+},
+{
+"level": 1,
+"title": "Deloitte",
+"pdf_page": 27
+},
+{
+"level": 1,
+"title": "Deloitte",
+"pdf_page": 28
+},
+{
+"level": 1,
+"title": "McKinsey & Company",
+"pdf_page": 29
+},
+{
+"level": 1,
+"title": "McKinsey & Company",
+"pdf_page": 30
+},
+{
+"level": 1,
+"title": "The Parthenon Group",
+"pdf_page": 31
+},
+{
+"level": 1,
+"title": "The Parthenon Group",
+"pdf_page": 32
+},
+{
+"level": 1,
+"title": "PwC",
+"pdf_page": 33
+},
+{
+"level": 1,
+"title": "PwC",
+"pdf_page": 34
+},
+{
+"level": 1,
+"title": "ZS Associates",
+"pdf_page": 35
+},
+{
+"level": 1,
+"title": "ZS Associates",
+"pdf_page": 36
+},
+{
+"level": 1,
+"title": "Practice Cases",
+"pdf_page": 37
+},
+{
+"level": 1,
+"title": "Case Index",
+"pdf_page": 38
+},
+{
+"level": 1,
+"title": "CASE 1:\u000bBank Savings for Savings Bank CIO",
+"pdf_page": 39
+},
+{
+"level": 1,
+"title": "Bank Savings for Savings Bank CIO",
+"pdf_page": 40
+},
+{
+"level": 1,
+"title": "Exhibit 1 - Bank Savings for Savings Bank CIO ",
+"pdf_page": 41
+},
+{
+"level": 1,
+"title": "Bank Savings for Savings Bank CIO",
+"pdf_page": 42
+},
+{
+"level": 1,
+"title": "Question 1 Calculations\u000bBank Savings for Savings Bank CIO",
+"pdf_page": 43
+},
+{
+"level": 1,
+"title": "Bank Savings for Savings Bank CIO",
+"pdf_page": 44
+},
+{
+"level": 1,
+"title": "Bank Savings for Savings Bank CIO",
+"pdf_page": 45
+},
+{
+"level": 1,
+"title": "Bank Savings for Savings Bank CIO",
+"pdf_page": 46
+},
+{
+"level": 1,
+"title": "CASE 2: \u000bTo automate or not?",
+"pdf_page": 47
+},
+{
+"level": 1,
+"title": "To automate or not? – Sample framework",
+"pdf_page": 48
+},
+{
+"level": 1,
+"title": "To automate or not? – Sample framework",
+"pdf_page": 49
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 50
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 51
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 52
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 53
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 54
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 55
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 56
+},
+{
+"level": 1,
+"title": "To automate or not?",
+"pdf_page": 57
+},
+{
+"level": 1,
+"title": "CASE 3:\u000bBroche Laboratories",
+"pdf_page": 58
+},
+{
+"level": 1,
+"title": "Broche Laboratories",
+"pdf_page": 59
+},
+{
+"level": 1,
+"title": "Broche Laboratories",
+"pdf_page": 60
+},
+{
+"level": 1,
+"title": "Broche Laboratories",
+"pdf_page": 61
+},
+{
+"level": 1,
+"title": "Broche Laboratories",
+"pdf_page": 62
+},
+{
+"level": 1,
+"title": "Broche Laboratories\u000bExhibit 1 (Calculations for Interviewer)",
+"pdf_page": 63
+},
+{
+"level": 1,
+"title": "Broche Laboratories \u000bExhibit 2",
+"pdf_page": 64
+},
+{
+"level": 1,
+"title": "Broche Laboratories",
+"pdf_page": 65
+},
+{
+"level": 1,
+"title": "Broche Laboratories ",
+"pdf_page": 66
+},
+{
+"level": 1,
+"title": "Broche Laboratories ",
+"pdf_page": 67
+},
+{
+"level": 1,
+"title": "CASE 4:\u000bCEO of Your Favorite Company",
+"pdf_page": 68
+},
+{
+"level": 1,
+"title": "CEO of Your Favorite Company",
+"pdf_page": 69
+},
+{
+"level": 1,
+"title": "CEO of Your Favorite Company",
+"pdf_page": 70
+},
+{
+"level": 1,
+"title": "CASE 5:\u000bCopier, Co.",
+"pdf_page": 71
+},
+{
+"level": 1,
+"title": "Copier, Co.",
+"pdf_page": 72
+},
+{
+"level": 1,
+"title": "Copier, Co. – Exhibit 1",
+"pdf_page": 73
+},
+{
+"level": 1,
+"title": "Exhibit 1: Copier, Co.",
+"pdf_page": 74
+},
+{
+"level": 1,
+"title": "Copier, Co. – Exhibit 2",
+"pdf_page": 75
+},
+{
+"level": 1,
+"title": "Exhibit 2: Copier Co.",
+"pdf_page": 76
+},
+{
+"level": 1,
+"title": "Exhibit 2: Copier Co. (Solutions)",
+"pdf_page": 77
+},
+{
+"level": 1,
+"title": "Copier, Co.",
+"pdf_page": 78
+},
+{
+"level": 1,
+"title": "Copier, Co.",
+"pdf_page": 79
+},
+{
+"level": 1,
+"title": "CASE 6:\u000bHenry’s Furniture",
+"pdf_page": 80
+},
+{
+"level": 1,
+"title": "Henry’s Furniture",
+"pdf_page": 81
+},
+{
+"level": 1,
+"title": "Henry’s Furniture",
+"pdf_page": 82
+},
+{
+"level": 1,
+"title": "Henry’s Furniture",
+"pdf_page": 83
+},
+{
+"level": 1,
+"title": "Henry’s Furniture\t",
+"pdf_page": 84
+},
+{
+"level": 1,
+"title": "Henry’s Furniture",
+"pdf_page": 85
+},
+{
+"level": 1,
+"title": "Henry’s Furniture",
+"pdf_page": 86
+},
+{
+"level": 1,
+"title": "Henry’s Furniture\t",
+"pdf_page": 87
+},
+{
+"level": 1,
+"title": "Henry’s Furniture\t",
+"pdf_page": 88
+},
+{
+"level": 1,
+"title": "CASE 7:\u000bCDC Pharmaceuticals ",
+"pdf_page": 89
+},
+{
+"level": 1,
+"title": "CDC Pharmaceuticals",
+"pdf_page": 90
+},
+{
+"level": 1,
+"title": "CDC Pharmaceuticals",
+"pdf_page": 91
+},
+{
+"level": 1,
+"title": "CDC Pharmaceuticals",
+"pdf_page": 92
+},
+{
+"level": 1,
+"title": "CDC Pharmaceuticals",
+"pdf_page": 93
+},
+{
+"level": 1,
+"title": "CDC Pharmaceuticals",
+"pdf_page": 94
+},
+{
+"level": 1,
+"title": "CASE 8:\u000bWorld Vision",
+"pdf_page": 95
+},
+{
+"level": 1,
+"title": "World Vision",
+"pdf_page": 96
+},
+{
+"level": 1,
+"title": "World Vision",
+"pdf_page": 97
+},
+{
+"level": 1,
+"title": "World Vision",
+"pdf_page": 98
+},
+{
+"level": 1,
+"title": "World Vision",
+"pdf_page": 99
+},
+{
+"level": 1,
+"title": "World Vision",
+"pdf_page": 100
+},
+{
+"level": 1,
+"title": "World Vision Exhibit 1",
+"pdf_page": 101
+},
+{
+"level": 1,
+"title": "World Vision Exhibit 1 (For Interviewer Only)",
+"pdf_page": 102
+},
+{
+"level": 1,
+"title": "World Vision",
+"pdf_page": 103
+},
+{
+"level": 1,
+"title": "CASE 9:\u000bMaxicure\t",
+"pdf_page": 104
+},
+{
+"level": 1,
+"title": "Maxicure",
+"pdf_page": 105
+},
+{
+"level": 1,
+"title": "Maxicure",
+"pdf_page": 106
+},
+{
+"level": 1,
+"title": "Maxicure",
+"pdf_page": 107
+},
+{
+"level": 1,
+"title": "Maxicure",
+"pdf_page": 108
+},
+{
+"level": 1,
+"title": "Maxicure",
+"pdf_page": 109
+},
+{
+"level": 1,
+"title": "CASE 10:\u000bRailroad Budget Blowout",
+"pdf_page": 110
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 111
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 112
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 113
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 114
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 115
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 116
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 117
+},
+{
+"level": 1,
+"title": "Railroad Budget Blowout",
+"pdf_page": 118
+},
+{
+"level": 1,
+"title": "CASE 11:\u000bSaving the Payphone Company",
+"pdf_page": 119
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 120
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 121
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 122
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 123
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 124
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 125
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 126
+},
+{
+"level": 1,
+"title": "Saving the Payphone Company",
+"pdf_page": 127
+},
+{
+"level": 1,
+"title": "CASE 12:\u000bSelling Abayas in Bahrain",
+"pdf_page": 128
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 129
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 130
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 131
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 132
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 133
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 134
+},
+{
+"level": 1,
+"title": "Selling Abayas in Bahrain",
+"pdf_page": 135
+},
+{
+"level": 1,
+"title": "CASE 13:\u000bStarbucks’ Ice Cream Dream ",
+"pdf_page": 136
+},
+{
+"level": 1,
+"title": "Starbucks’ Ice Cream Dream",
+"pdf_page": 137
+},
+{
+"level": 1,
+"title": "Starbucks’ Ice Cream Dream",
+"pdf_page": 138
+},
+{
+"level": 1,
+"title": "Starbucks’ Ice Cream Dream",
+"pdf_page": 139
+},
+{
+"level": 1,
+"title": "Starbucks’ Ice Cream Dream",
+"pdf_page": 140
+},
+{
+"level": 1,
+"title": "Starbucks’ Ice Cream Dream",
+"pdf_page": 141
+},
+{
+"level": 1,
+"title": "Starbucks’ Ice Cream Dream",
+"pdf_page": 142
+},
+{
+"level": 1,
+"title": "CASE 14:\u000bTransportation TechCo.",
+"pdf_page": 143
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 144
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 145
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 146
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 147
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 148
+},
+{
+"level": 1,
+"title": "Exhibit 1",
+"pdf_page": 149
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 150
+},
+{
+"level": 1,
+"title": "Transportation TechCo.",
+"pdf_page": 151
+}
+],
+"toc_pages": [
+6
+],
+"toc_text": {
+"6": "Table of Contents\n1. The Consulting Case Interview\n1.\nStructure of the Case Interview\n2.\nFrameworks\n3.\nMath\n2. Company Overviews\n3. Practice Cases\n4. Acknowledgements\n"
+},
+"page_index": [
+"p1\t[47.4] Darden Casebook 201\tCareer Consulting Darden Casebook 2016 Casebook\t",
+"p2\t[24.6] TURNING POINT CAREER CONSULTING\t1 Copyright 2020 by Turning Point Career Consulting All righ\t",
+"p3\t[21.0] Turning Point provides systematic methodology and real \t2 Copyright 2020 by Turning Point Career Consulting All righ\timg3",
+"p4\t[19.0] Contact Us\t12 Copyright 2020 by Turning Point Career Consulting All rig\timg9",
+"p5\t[54.0] Darden Consulting Club\tDarden Consulting Club Case Book 2016-2017 Edition Copyright\t",
+"p6\t[36.0] Table of Contents\tTable of Contents 1. The Consulting Case Interview 1. Struct\t",
+"p7\t[44.0] The Consulting Case Interview\tThe Consulting Case Interview\t",
+"p8\t[36.0] Structure of the Case Interview\tStructure of the Case Interview The case interview typically\t",
+"p9\t[36.0] Structure of the Case Interview\tStructure of the Case Interview Case Overview/ Prompt • The \t",
+"p10\t[36.0] Structure of the Case Interview\tStructure of the Case Interview Structure/ Framework Buildin\t",
+"p11\t[36.0] Structure of the Case Interview\tStructure of the Case Interview Recommendation • Once you ha\t",
+"p12\t[36.0] Frameworks\tFrameworks Structure/ Framework Building & Explanation • The\t",
+"p13\t[36.0] Frameworks\tFrameworks Additional advice • Rehashing a generic framework\t",
+"p14\t[36.0] Frameworks\tFrameworks Things to Note • The framework is customized for \t",
+"p15\t[36.0] Math\tMath The Math! • For some people, doing calculations is the \t",
+"p16\t[36.0] Math\tMath Talking through the process • The toughest part about “\t",
+"p17\t[36.0] Math\tMath Things to Note • The more you can structure information\t",
+"p18\t[44.0] Company Overviews\tCompany Overviews and Interview Processes\t",
+"p19\t[36.0] Accenture\tAccenture Firm Overview “Whether it's business strategy, tec\t",
+"p20\t[36.0] Accenture\tAccenture Interview process • First and second rounds are bo\tEXH",
+"p21\t[36.0] A.T. Kearney or ATK\tA.T. Kearney or ATK \\ Car-Knee\\ Firm Overview “A.T. Kearney \t",
+"p22\t[36.0] A.T. Kearney or ATK\tA.T. Kearney or ATK \\ Car-Knee\\ Interview process • First ro\t",
+"p23\t[36.0] Bain & Company\tBain & Company Firm Overview “Bain & Company is the manageme\t",
+"p24\t[36.0] Bain & Company\tBain & Company Interview process • First round is at Darden \t",
+"p25\t[36.0] The Boston Consulting Group\tWhat they look for • BCG looks for intellectually curious ca\t",
+"p26\t[36.0] The Boston Consulting Group\tThe Boston Consulting Group Interview process • Round 1: On \t",
+"p27\t[36.0] Deloitte\tDeloitte Firm Overview “As the world’s largest management co\t",
+"p28\t[36.0] Deloitte\tDeloitte Interview process • First and second round are back\t",
+"p29\t[36.0] McKinsey & Company\tMcKinsey & Company Firm Overview “McKinsey & Company is a gl\t",
+"p30\t[36.0] McKinsey & Company\tMcKinsey & Company Interview process • First round (on-groun\t",
+"p31\t[36.0] The Parthenon Group\tThe Parthenon Group Firm Overview • The Parthenon Group is a\t",
+"p32\t[36.0] The Parthenon Group\tThe Parthenon Group Interview process • Format is the same f\t",
+"p33\t[36.0] PwC\tPwC Firm Overview “From expansion into emerging markets, to \t",
+"p34\t[36.0] PwC\tPwC Interview process • Round 1 (on-Grounds): 2 behavioral i\t",
+"p35\t[36.0] ZS Associates\tZS Associates Firm Overview • A mid-sized management consult\t",
+"p36\t[36.0] ZS Associates\tZS Associates Interview process • First round interview held\t",
+"p37\t[44.0] Practice Cases\tPractice Cases\t",
+"p38\t[36.0] Case Index\tCase Index Case Name Firm Round Difficulty* Page Number Bank\t",
+"p39\t[32.0] CASE 1:\tCASE 1: Bank Savings for Savings Bank CIO Firm Style Intervi\t",
+"p40\t[36.0] Bank Savings for Savings Bank CIO\tBank Savings for Savings Bank CIO • Framework • A good frame\tEXH",
+"p41\t[36.0] Exhibit 1 - Bank Savings for Savings Bank CIO\tExhibit 1 - Bank Savings for Savings Bank CIO Total Annual C\tEXH",
+"p42\t[36.0] Bank Savings for Savings Bank CIO\tBank Savings for Savings Bank CIO Question #1: We’re conside\t",
+"p43\t[32.0] Question 1 Calculations\tQuestion 1 Calculations Bank Savings for Savings Bank CIO Th\t",
+"p44\t[36.0] Bank Savings for Savings Bank CIO\tBank Savings for Savings Bank CIO Question #2: The internati\t",
+"p45\t[36.0] Bank Savings for Savings Bank CIO\tBank Savings for Savings Bank CIO Question #3: • What are so\t",
+"p46\t[36.0] Bank Savings for Savings Bank CIO\tBank Savings for Savings Bank CIO Question #4: • What would \t",
+"p47\t[32.0] CASE 2:\tCASE 2: To automate or not? Firm Style Interview Round BCG 2\t",
+"p48\t[36.0] To automate or not? – Sample framework\tTo automate or not? – Sample framework • A strong framework \t",
+"p49\t[36.0] To automate or not? – Sample framework\tTo automate or not? – Sample framework • Product • Considera\t",
+"p50\t[36.0] To automate or not?\tTo automate or not? Guidance: • If the candidate hasn’t alre\tEXH",
+"p51\t[36.0] To automate or not?\tTo automate or not? Exhibit 1 – Current Process Shipping Hol\tEXH",
+"p52\t[36.0] To automate or not?\tTo automate or not? Guidance: • After confirming their under\t",
+"p53\t[36.0] To automate or not?\tTo automate or not? Guidance: • After doing the above calcul\tEXH",
+"p54\t[36.0] To automate or not?\tTo automate or not? Exhibit 2 – Automated Process Shipping H\tEXH",
+"p55\t[36.0] To automate or not?\tTo automate or not? Guidance: • Once they obtain the above i\t",
+"p56\t[36.0] To automate or not?\tTo automate or not? Guidance: • Strong candidates should rev\t",
+"p57\t[36.0] To automate or not?\tTo automate or not? Recommendation: • “The CEO is about to c\t",
+"p58\t[32.0] CASE 3:\tCASE 3: Broche Laboratories Firm Style Interview Round Bain \t",
+"p59\t[36.0] Broche Laboratories\tBroche Laboratories Framework / Structure Question 1: What o\t",
+"p60\t[36.0] Broche Laboratories\tBroche Laboratories Interviewer Tips • With the recommendati\tEXH",
+"p61\t[36.0] Broche Laboratories\tBroche Laboratories Axaflax Bentazine Cialtrix 2015 Volume (\tEXH",
+"p62\t[36.0] Broche Laboratories\tBroche Laboratories • Question 2: • Show Exhibit 1: “This ex\tEXH",
+"p63\t[36.0] Broche Laboratories\tBroche Laboratories Exhibit 1 (Calculations for Interviewer)\tEXH",
+"p64\t[36.0] Broche Laboratories\tBroche Laboratories Exhibit 2 International Bentazoate marke\tEXH",
+"p65\t[36.0] Broche Laboratories\tBroche Laboratories • Question 3: • Show Exhibit 2: “The cli\tEXH",
+"p66\t[36.0] Broche Laboratories\tBroche Laboratories Recommendation Question: Of the two opti\t",
+"p67\t[36.0] Broche Laboratories\tBroche Laboratories Recommendation Interviewer Tips • Push t\t",
+"p68\t[32.0] CASE 4:\tCASE 4: CEO of Your Favorite Company Firm Style Interview Ro\t",
+"p69\t[36.0] CEO of Your Favorite Company\tCEO of Your Favorite Company • Interviewer guidance: • Candi\t",
+"p70\t[36.0] CEO of Your Favorite Company\tCEO of Your Favorite Company Question #1:Why do you want to \t",
+"p71\t[32.0] CASE 5:\tCASE 5: Copier, Co. Firm Style Interview Round BCG 1 Clarify\t",
+"p72\t[36.0] Copier, Co.\tCopier, Co. • Question #1 - Framework/Structure A profitabil\t",
+"p73\t[36.0] Copier, Co. – Exhibit 1\tCopier, Co. – Exhibit 1 • Question 2 - Examining declining p\tEXH",
+"p74\t[36.0] Exhibit 1: Copier, Co.\tExhibit 1: Copier, Co. 2000 2500 3000 3500 4000 4500 5000 55\tEXH",
+"p75\t[36.0] Copier, Co. – Exhibit 2\tCopier, Co. – Exhibit 2 • Question 3 – Determine margin base\tEXH",
+"p76\t[36.0] Exhibit 2: Copier Co.\tExhibit 2: Copier Co. Copier Co Successful Bid Info Competin\tEXH",
+"p77\t[36.0] Exhibit 2: Copier Co. (Solutions)\tExhibit 2: Copier Co. (Solutions) Copier Co Successful Bid I\tEXH",
+"p78\t[36.0] Copier, Co.\tCopier, Co. • Question 4 – Solutions to small margins (Brain\t",
+"p79\t[36.0] Copier, Co.\tCopier, Co. • Question 5 – Recommendation The CEO is anxious\t",
+"p80\t[32.0] CASE 6:\tCASE 6: Henry’s Furniture Firm Style Interview Round BCG Rou\t",
+"p81\t[36.0] Henry’s Furniture\tHenry’s Furniture • Candidate should recognize quickly that \t",
+"p82\t[36.0] Henry’s Furniture\tHenry’s Furniture • While still on the candidate’s framework\tEXH",
+"p83\t[36.0] Henry’s Furniture\tHenry’s Furniture Exhibit 1 - Financial Data – 2015 (All in \tEXH",
+"p84\t[36.0] Henry’s Furniture\tHenry’s Furniture • If the candidate does not automatically \tEXH",
+"p85\t[36.0] Henry’s Furniture\tHenry’s Furniture Exhibit 2 - Financial Data – 2015 (All in \tEXH",
+"p86\t[36.0] Henry’s Furniture\tHenry’s Furniture • Because these stores are of different si\t",
+"p87\t[36.0] Henry’s Furniture\tHenry’s Furniture • Have the candidate brainstorm reasons wh\t",
+"p88\t[36.0] Henry’s Furniture\tHenry’s Furniture • Final Recommendation – Can Henry’s regai\t",
+"p89\t[32.0] CASE 7:\tCASE 7: CDC Pharmaceuticals Firm Style Interview Round McKin\t",
+"p90\t[36.0] CDC Pharmaceuticals\tCDC Pharmaceuticals • Question 1: How would you evaluate the\t",
+"p91\t[36.0] CDC Pharmaceuticals\tCDC Pharmaceuticals Financial Non-Financial Revenues Costs O\t",
+"p92\t[36.0] CDC Pharmaceuticals\tCDC Pharmaceuticals • Question 2: At what unit volume are th\t",
+"p93\t[36.0] CDC Pharmaceuticals\tCDC Pharmaceuticals • Question 2 Answer: • Candidate should \t",
+"p94\t[36.0] CDC Pharmaceuticals\tCDC Pharmaceuticals • Question 3: Suppose you are the govern\t",
+"p95\t[32.0] CASE 8:\tCASE 8: World Vision Firm Style Interview Round Deloitte Sec\t",
+"p96\t[36.0] World Vision\tWorld Vision Clarifying information (provide only if corresp\t",
+"p97\t[36.0] World Vision\tWorld Vision • Question 1: What are your recommendations for\t",
+"p98\t[36.0] World Vision\tWorld Vision Population 2M People Served 20,000 Penetration \t",
+"p99\t[36.0] World Vision\tWorld Vision The interviewee should have identified the need\t",
+"p100\t[36.0] World Vision\tWorld Vision • Question 3: Finally, the non-profit did want \tEXH",
+"p101\t[36.0] World Vision Exhibit 1\tWorld Vision Exhibit 1 Packages Premium Price per Kit $350 C\tEXH",
+"p102\t[36.0] World Vision Exhibit 1 (For Interviewer Only)\tWorld Vision Exhibit 1 (For Interviewer Only) Packages Premi\tEXH",
+"p103\t[36.0] World Vision\tWorld Vision • Question 3: Based on your analysis, what are \t",
+"p104\t[32.0] CASE 9:\tCASE 9: Maxicure Firm Style Interview Round McKinsey 1 Clari\t",
+"p105\t[36.0] Maxicure\tMaxicure Question 1: What options does Maxicure have for pur\t",
+"p106\t[36.0] Maxicure\tMaxicure Question 2: Maxicure has narrowed down it’s decisio\t",
+"p107\t[36.0] Maxicure\tMaxicure Question 2 Solution: • Margin in-house : $2.5 • Mar\t",
+"p108\t[36.0] Maxicure\tMaxicure • Question 3: Maxicure has decided to build a new p\t",
+"p109\t[36.0] Maxicure\tMaxicure • Question 4: What is your final recommendation to \t",
+"p110\t[32.0] CASE 10:\tCASE 10: Railroad Budget Blowout Firm Style Interview Round \t",
+"p111\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Clarifying information (provide only\t",
+"p112\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Framework / Structure This interview\t",
+"p113\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Interviewer Tips • Amongst several o\tEXH",
+"p114\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout $0 $20 $40 $60 $80 $100 $120 $140 Bu\tEXH",
+"p115\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Exhibit 2 Observed Daily Activity Av\tEXH",
+"p116\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Candidate should immediately drive t\t",
+"p117\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Brainstorm Solutions Candidate shoul\t",
+"p118\t[36.0] Railroad Budget Blowout\tRailroad Budget Blowout Recommendation The candidate’s recom\t",
+"p119\t[32.0] CASE 11:\tCASE 11: Saving the Payphone Company Firm Style Interview Ro\t",
+"p120\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Profit Revenue # of phones insta\t",
+"p121\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Good candidate: • Builds a profi\t",
+"p122\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Question 2: Our client has two o\t",
+"p123\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Interviewer: Provide the informa\t",
+"p124\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Math Microchip phone Traditional\t",
+"p125\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Insights: • Microchip phone is m\t",
+"p126\t[32.0] Saving the Payphone Company\tSaving the Payphone Company Question 4: In order to generate\t",
+"p127\t[32.0] Saving the Payphone Company\tSaving the Payphone Company What would be your final recomme\t",
+"p128\t[32.0] CASE 12:\tCASE 12: Selling Abayas in Bahrain Firm Style Interview Roun\t",
+"p129\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Framework / Structure This intervi\t",
+"p130\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Interviewer Tips – Provide this in\t",
+"p131\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Question #1 You have some idea abo\t",
+"p132\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Question #2 Can you evaluate now w\t",
+"p133\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Calculations • Total female domest\t",
+"p134\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Recommendation There is a clear ca\t",
+"p135\t[36.0] Selling Abayas in Bahrain\tSelling Abayas in Bahrain Recommendation (continued) “Go Rec\t",
+"p136\t[32.0] CASE 13:\tCASE 13: Starbucks’ Ice Cream Dream Firm Style Interview Rou\t",
+"p137\t[36.0] Starbucks’ Ice Cream Dream\tStarbucks’ Ice Cream Dream • Interviewer Tips • This case is\t",
+"p138\t[36.0] Starbucks’ Ice Cream Dream\tStarbucks’ Ice Cream Dream Framework/Structure •The intervie\t",
+"p139\t[36.0] Starbucks’ Ice Cream Dream\tStarbucks’ Ice Cream Dream Profitability •Revenue •Based on \t",
+"p140\t[36.0] Starbucks’ Ice Cream Dream\tStarbucks’ Ice Cream Dream • Interviewer Tips • In the first\t",
+"p141\t[36.0] Starbucks’ Ice Cream Dream\tStarbucks’ Ice Cream Dream • Interviewer Tips • Ask the inte\t",
+"p142\t[36.0] Starbucks’ Ice Cream Dream\tStarbucks’ Ice Cream Dream • Interviewer Tips • The intervie\t",
+"p143\t[32.0] CASE 14:\tCASE 14: Transportation TechCo. Firm Style Interview Round P\t",
+"p144\t[36.0] Transportation TechCo.\tTransportation TechCo. • Interviewer guidance: • Candidates \t",
+"p145\t[36.0] Transportation TechCo.\tTransportation TechCo. • Interviewer guidance: • Candidates \t",
+"p146\t[36.0] Transportation TechCo.\tTransportation TechCo. Question #1: What is the potential ad\t",
+"p147\t[36.0] Transportation TechCo.\tTransportation TechCo. Question #2: If the client were to en\t",
+"p148\t[36.0] Transportation TechCo.\tTransportation TechCo. Question #4: What are some other sect\t",
+"p149\t[32.0] Exhibit 1\tExhibit 1 0 20 40 60 80 100% Commercial Freighters Other N M\tEXH",
+"p150\t[36.0] Transportation TechCo.\tTransportation TechCo. • Interviewer guidance: • The candida\tEXH",
+"p151\t[36.0] Transportation TechCo.\tTransportation TechCo. Question #6: How should the client pr\t"
+]
+}

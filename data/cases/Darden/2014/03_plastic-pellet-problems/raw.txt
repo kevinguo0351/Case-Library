@@ -1,0 +1,185 @@
+===== PDF p55 =====
+CASE #: 3
+Plastic Pellet Problems 
+Firm Style
+Interview Round
+AT Kearney
+1
+Clarifying information (provide only if corresponding questions are asked) 
+•
+Current EBITDA is $100M
+•
+Plastic pellet manufacturing is the process of procuring waste or recycled plastics and 
+transforming them into a pellet form so that it can be sold  to companies needing to 
+reproduce other plastic products.
+•
+They sell these pellets exclusively to companies who produce plastic products
+•
+She wants to improve the value of the firm by at least 3x
+Case Question
+The client is a Private Equity investor who has recently purchased a plastic pellet 
+manufacturing company based in South Carolina. She has approached our company 
+searching for several alternative strategies to improve EBITDA and firm value so that she 
+can sell the firm for a profit within within five years. 
+
+
+===== PDF p56 =====
+Plastic Pellet Problems 
+• Framework
+• A poor framework will include only a profit tree
+• A good framework will include:
+• A profit tree that isolates pricing, volume, product mix, and 
+fixed/variable costs
+• An analysis of the strengths and weaknesses of the pellet company
+• A review of the customer base and opportunities to expand the base
+• Potential additional revenue streams (e.g., specialized products)
+• Attributes of the product 
+• Market and competition trends
+• An exceptional framework would include
+• Opportunities to create synergies within the PE companies portfolio
+
+
+===== PDF p57 =====
+Plastic Pellet Problems 
+• Case Facts
+• Plastic pellets is a highly commoditized market
+• Currently all national demand is being filled
+• There are two types of plastic pellets that the company makes, post‐consumer 
+and scrap manufacturing. Post‐consumer plastics can only be used to make 
+new consumer products while the scrap manufacturing plastic can be made 
+into anything.
+• Due to the commoditized and unionized nature of the market, labor and 
+material costs cannot be cut
+• Market growth is relatively flat
+• There are no synergies possible within the PE firms portfolio and there are no 
+plans to acquire any new companies
+• Plant capacity is currently maxed out
+• Allow the intervieweree to walk through their framework
+• The intervieweree should drive the case, but steer them to a relevant 
+solution if they become overly bogged down in an irrelevant area
+
+
+===== PDF p58 =====
+Plastic Pellet Problems 
+• Product Mix
+• Prompt the intervieweree to brainstorm potential issues around product mix
+• Provide the following information if the interviewee asks:
+•
+Currently more of product A (post‐consumer plastic) is being made than product B (manufacturing 
+scrap)
+•
+Product B has a higher margin than product A
+•
+The company has an excess of inventory to produce product A
+•
+We are currently producing at full capacity
+•
+The company can sell all of the product it manufacturers
+•
+We currently make more of product A than product B because of an excess of inventory for product 
+A
+• Key takeaways
+• The interviewee should realize that the company should try to move into the product that is 
+higher margin
+• A strong candidate would identify that excess of inventory needs to be addressed and could 
+be resolved by selling it to a competitor
+
+
+===== PDF p59 =====
+Plastic Pellet Problems 
+• Capacity Constraints
+• Steer interviewee to explore the capacity constraints problem. Are there other 
+ways operations can impact EBITDA? Good responses include:
+• Cost cutting & Waste reduction
+•
+Interviewee should explore opportunities to make the factory work more efficiently/cheaper
+• Prompt the interview to list areas they may review to determine operational
+efficiency
+• Lead times, turn‐around time, inventory, throughput, maintenance cost, downtime, etc
+• Once interviewee explores operational areas, prompt to explain why that 
+would reduce costs ( interviewee should provide a specific and tangible way 
+that would reduce costs).
+• Key takeaways
+• Good candidates would recognize that any changes would need to pay off in the given 
+time frame, and that increasing capacity would not be realistic in 5 years.
+
+
+===== PDF p60 =====
+Plastic Pellet Problems 
+• Supplier Issues
+• If the interviewee has not mentioned suppliers of raw materials, the 
+interviewer should steer them in that direction
+• The following is a list of suppliers that the company currently uses 
+• Create the optimal sourcing plan to procure 1000 tons of plastic
+Supplier
+A
+B
+C
+D
+Capacity (tons)
+1000
+500
+200
+100
+Price ($K)@100tons
+3.00
+2.40
+2.40
+2.50
+Price ($K)@500tons
+2.50
+2.35
+N/A
+N/A
+Unit Transport Cost*
+0.25
+0.50
+0.10
+0.50
+*No other unit costs are different across the suppliers
+
+
+===== PDF p61 =====
+Plastic Pellet Problems 
+• Solution: The objective is to calculate the unit cost for all suppliers based on 
+potential order quantity and procure based on cheapest sources
+Supplier
+A
+B
+C
+D
+Unit cost @100tons
+3.25
+2.90
+2.50
+3.00
+Unit cost @500tons
+2.75
+2.85
+N/A
+N/A
+• Based on the above,
+• C is cheapest, so procure all 200 tons
+• A is next cheapest but only if you buy 500tons, so procure 500tons from A
+• B is next cheapest for procuring less than 500tons, so procure remaining 300tons from B
+• Sourcing plan = A:500 tons, B:300 tons, C:200tons
+• Bonus (not necessary): Procurement cost for 1000tons is $2,745K 
+• Notes to interviewer: Push the interviewee to think about other factors they 
+would consider while picking suppliers
+
+
+===== PDF p62 =====
+Plastic Pellet Problems 
+• What recommendations would you give to the owner?
+• Switch product mix to focus on the higher margin product
+• Sell excess inventory of product A
+• Review operations for cost cutting opportunities
+• Seek new contracts with companies A, B, and C
+• Risks
+• Changes not coming online within timeframe
+• PE firm restructuring could shake the companies foundation
+• Competitive landscape or customer demand prohibits a move into 
+the higher margin product
+• Next steps
+• Seek contracts with ABC
+• Begin a review of operational practices

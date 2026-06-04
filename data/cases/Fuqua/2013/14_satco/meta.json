@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2013_14_satco",
+  "school": "Fuqua",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2013.pdf",
+  "idx": 14,
+  "case_name": "SatCo",
+  "case_type": "Market Entry",
+  "round": "2",
+  "industry": "Telecommunications/Satellite",
+  "difficulty": null,
+  "pdf_page_start": 113,
+  "pdf_page_end": 121,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    113,
+    114,
+    117,
+    118
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p113.png",
+    "exhibits/exhibit_p114.png",
+    "exhibits/exhibit_p117.png",
+    "exhibits/exhibit_p118.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2013\\14_satco"
+}

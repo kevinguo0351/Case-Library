@@ -1,0 +1,150 @@
+===== PDF p98 =====
+Table of Contents 
+ 
+94
+Practice Case 41: London Museum  
+(Mckinsey - Round 1) 
+ 
+I. Case scope provided by interviewer:    
+ 
+Your client is a London Museum which has an ìencyclopedicî range 
+of attractions. They receive 5M visitors a year and currently break 
+even with 50M £ of revenues and costs. 
+ 
+The government has told them that they are withdrawing 5M £ of 
+funding next year and the museum has hired us in to look at some of 
+their costs and revenues streams. 
+ 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+Touring Exhibits 
+• 
+One revenue stream is touring exhibitions. Each year the museum sends 
+on average 12 exhibitions to another museum. The average cost per 
+exhibition is 60k.   
+• 
+Revenues for touring exhibits over the last seven years: 80K, 70K, 70k, 
+60k, 40K, 40K and 50K. 
+• 
+Variable costs comprise most of the exhibits cost (insurance, traveling 
+curator, transportation) 
+ 
+Capital Investments 
+• 
+Each year they get 6M £ to invest in capital projects and they want us to 
+determine their returns. 
+ 
+Previous year investments 
+• 
+£1.5M in building maintenance 
+• 
+£3 in fixing the main courtyard and advertising that it was fixed.  (most of 
+it was spent on advertising) 
+• 
+£1.5M on installing security cameras. 
+ 
+ 
+• 
+The additional advertising brought in an extra 10% of visitors.  
+o Each visitor brings in £3 in contributions from fees and £3 
+contribution from profits in the gift shop.  
+o Assume visitors will not come again and will not tell any friends. 
+ 
+• 
+The security cameras are part of a 5 year project where the same amount 
+of money will be invested each year.  
+o Museum saves 500K on security guards for first 5 years 
+and £1M in perpetuity.  
+ 
+
+
+===== PDF p99 =====
+Table of Contents 
+ 
+95
+ 
+III. Sample Solution:   
+What are your thoughts? 
+ 
+Well the total average income over the last 7 years is 410K and the total 
+average cost is 420k. Hence on the average we loss money ñ ignoring any 
+discount factor. 
+ 
+OK, What do you propose: 
+ 
+An number of options: 
+Focus on the big exhibits which make money and cut out the small, less 
+profitable ones. 
+See if we can send exhibits to more than one location 
+Only do exhibits in the Good years, and store them during the bad years. 
+ 
+OK, lets focus on sending them to more than one museum. What do you 
+think the costs are? 
+ 
+Obviously there will be some fixed costs to get each exhibit ready, but the 
+main costs will be variable, in particularly insurance and specialized 
+packing/transportation. So it may only be profitable to send to more than 
+one location if the additional transport costs are smaller than the net 
+revenues. 
+ 
+Excellent, they also send a curator along with each exhibit. The museum 
+asked us to look at their capital budget. Each year they get £6M to invest in 
+capital projects and they want us to determine their returns. 
+ 
+This year they invested º in building maintenance,  in fixing the main 
+courtyard ñ but actually when we dove into the costs we found that the 
+majority of the money was spend advertising to people that they had fixes 
+the main court yard ñ and º on installing security cameras. 
+ 
+Extra info: 
+The additional advertising brought in an extra 10% of visitors and the 
+security cameras is part of a 5 year project where the same amount of 
+money will be invested each year. We expect during the installation that we 
+wills save 500K on security guards and after the project is complete we will 
+save 1M / year on security guards. The building maintenance is fixed and 
+hard to calculate a return on. 
+ 
+Each customer brings in a £6 contribution. 500,000 visitors extra = £3M 
+additional revenues. Was told to assume that these extra visitors will not 
+come back and that they will not tell their friends. Expenditure is £3M, hence 
+a zero NPV project.  
+Suggested looking at other ways to better spend their advertising money to 
+increase their NPV.  However, on the whole as museums will be stewarded 
+
+
+===== PDF p100 =====
+Table of Contents 
+ 
+96
+towards maximizing the number of people that come through so this 
+advertising investment makes some sense even if the NPV is negative. 
+ 
+During the building of the security cameras the net costs are: 
+ 
+• 
+Year 1 ñ 5, 1M net costs. Then from year 6 onwards I make 1M savings 
+• 
+Assumed a 10% cost of capital and a perpetuity for the savings, although 
+stated that a) the cameras will need annual maintenance and b) they will 
+need to be replaced every 10 - 20 years or so. However can approximate 
+to a perpetuity of savings. 
+• 
+Perpetuity of savings is 10M in year 6. 
+• 
+Present Value of savings (I had to estimate) is 6M 
+• 
+Present value of net costs is (again estimates) at 4M 
+• 
+Hence the NPV is +2M. 
+• 
+Hence this is a positive NPV project and should be encouraged.  (n.b 
+actual NPV calculation is +1.8M) 
+ 
+Also said that all these investments are sunk costs and what we also needed 
+to look at was future investment plans. 
+ 
+ 
+ 
+ 

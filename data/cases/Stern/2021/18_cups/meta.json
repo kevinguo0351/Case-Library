@@ -1,0 +1,40 @@
+{
+  "case_id": "Stern_2021_18_cups",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 18,
+  "case_name": "Cups",
+  "case_type": "Market Sizing",
+  "round": null,
+  "industry": "Consumer Packaged Goods",
+  "difficulty": null,
+  "pdf_page_start": 201,
+  "pdf_page_end": 215,
+  "n_pages": 15,
+  "exhibit_pdf_pages": [
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    211,
+    212,
+    213,
+    214
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p204.png",
+    "exhibits/exhibit_p205.png",
+    "exhibits/exhibit_p206.png",
+    "exhibits/exhibit_p207.png",
+    "exhibits/exhibit_p208.png",
+    "exhibits/exhibit_p209.png",
+    "exhibits/exhibit_p211.png",
+    "exhibits/exhibit_p212.png",
+    "exhibits/exhibit_p213.png",
+    "exhibits/exhibit_p214.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\18_cups"
+}

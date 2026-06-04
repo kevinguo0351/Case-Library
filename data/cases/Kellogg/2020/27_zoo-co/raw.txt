@@ -1,0 +1,194 @@
+===== PDF p282 =====
+278
+Case authors: Aneri Jambusaria (Kellogg 2011)
+Edited By: Ron Mantel (Kellogg 2015), Matthew Heintz (Kellogg 2016), Michael Eidem (Kellogg 2020)
+Case 27
+Zoo Co
+Primary sector(s)
+• X06 Financial Services
+Concepts tested
+• Z12 Creativity (1)
+• Z02 Net Present Value (2)
+• Z02 Breakeven analysis 
+(3)
+Similar cases
+• Car Wash Chain      
+(Columbia 2017)
+• National Zoo           
+(Wharton 2011)
+Case type
+• Y03 Mergers & Acquisitions
+
+
+===== PDF p283 =====
+279
+Zoo Co
+Case prompt
+• Our client is a zoo that is thinking about acquiring a famous zebra from an African preserve.
+• It’s a huge investment, but they believe the new zebra would be a great contribution to their animal community. You have been
+engaged to help decide whether this is a good idea. What would you consider when trying to help your client make this decision?
+Interviewer guide
+• Even though the client is a zoo, we’re undertaking a similar process to what is done when underwriting an insurance policy. The 
+case evaluates basic concepts but involves many calculations and the use of financial assessment techniques.
+1. Develop a structure to address the problem 
+2. Investment valuation - Walk through the valuation process of an asset.
+3. Breakeven analysis – Determine the revenue increase needed for a positive NPV
+4. Risk assessment – Should the zoo use an insurance contract to hedge downside risk?
+5. Provide CEO recommendation
+• Note: Rounding numbers is generally okay but should not be done to the extreme as it will alter the results.
+Interviewer Guide
+
+
+===== PDF p284 =====
+280
+Zoo Co
+Case prompt
+• Our client is a zoo that is thinking about acquiring a famous zebra from an African preserve.
+• It’s a huge investment, but they believe the new zebra would be a great contribution to their animal community. You have been
+engaged to help decide whether this is a good idea. What would you consider when trying to help your client make this decision?
+Clarifying information
+• Goal: Zoo’s primary concern is whether the zebra acquisition would be profitable. No specific timeline, but zebras do have a finite
+lifespan.
+• Client Characteristics: Major zoo within the US. Majority of revenue generated through admission sales to daily zoo visitors.
+• Competitive Dynamics: No other zoo within the local market.
+Fit: Talk about a time when you had to influence someone who initially disagreed with you.
+
+
+===== PDF p285 =====
+281
+Zoo Co
+Exhibit A – Market Research Findings
+Possible Attendance 
+Increases
+Annual Revenue
+Probability
+3% Increase
+$135,000
+20%
+5% Increase
+$225,000
+40%
+7% Increase
+$315,000
+30%
+9% Increase
+$405,000
+10%
+Expected Additional 
+Annual Revenue
+$252,000
+Plus: Current Annual 
+Revenue
+$4,500,000
+Expected Total Annual 
+Revenue
+$4,752,000
+
+
+===== PDF p286 =====
+282
+Zoo Co
+Part 1
+1. Develop a structure to address the problem
+An ideal structure should resemble the typical M&A framework. Focus should be on determining whether the acquisition of this zebra 
+is a smart financial decision. Key elements expected to be included in this framework are:
+• Market: What does local competitive landscape look like? (Not necessarily other zoos, but substitutes for how families/individuals 
+spend their leisure time) How has the zoo attendance market been trending? Who are the target customers and what do they care
+about? (i.e. more concerned with animal selection, activities hosted by the zoo, general cleanliness and layout, etc.)
+• Target (the zebra): 
+• Financial evaluation – What are the expected costs (purchase price, transportation, ongoing maintenance, update in habitat 
+space) vs the expected revenue increase (increased attendance, change in ticket price, merchandise sales)
+• Non-financial evaluation – How old is the zebra? What is its expected lifespan? Why is the zebra famous, does that matter?
+• Transition: 
+• What synergies does the zebra provide? Are there ways to reduce cost by sharing food production/habitat/maintenance 
+investment with a similar animal? Are there revenue synergies (example: being able to promote a complete African exhibit)
+• How will the zoo market the acquisition of this new zebra?
+• Does adding a zebra benefit/fit the zoo’s brand? 
+• Deal execution: What will the payment structure look like? Are there opportunities to lease a zebra from another zoo instead of 
+purchase? 
+
+
+===== PDF p287 =====
+283
+Zoo Co
+Part 2
+2. Walk through the valuation process of an asset.
+Data to provide when asked more about expected revenues and costs:
+Revenue:
+• 300K people visit the zoo annually; admission is $15 per person
+• Benefits from zebra acquisition could lead to increased attendance. Another zoo that acquired a similar zebra had an 8% increase.
+Costs from zebra acquisition:
+• Immediate costs: Acquisition cost ($235K), new facilities ($850K), transportation ($110K)
+• Annual maintenances: Food, health costs, and additional trainers ($90K)
+• Discount rate = 20%, Assume that the immediate costs are paid today, and annual costs and benefits are realized beginning next 
+year and sustained into perpetuity, even though the Zebra will not live on to perpetuity.
+The interviewee should use the above data to calculate the NPV of the acquisition:
+• Assume that the attendance benefits are realized immediately and maintained thereafter
+• Annual benefits = (300K)*($15)*(0.08) = $360K
+• Upfront costs = $235K + $850K + $110K = $1.195M
+• Annual costs = $90K
+• NPV = -$1,195K + (($360K - $90K)/0.20) = $155K
+• Takeaway: Acquisition is NPV positive. Financially (assuming assumptions are accurate), this is a smart decision.
+
+
+===== PDF p288 =====
+284
+Zoo Co
+Part 3
+3. Breakeven analysis – Determine the revenue increase needed for a positive NPV
+• Additional prompt: Zoo Co is concerned about using the other zoo’s attendance benefits as a proxy. They think that attendance 
+could increase by less than 8%. What analysis could you perform to address their concerns? What is the breakeven attendance 
+increase required?
+• The interviewee should think about performing a break-even and a sensitivity analysis. Afterwards, they need to think about 
+performing a risk assessment.
+Break-even Analysis:
+• Break-even = 0 = -$1,195,000 + ((revenue - $90,000)/0.20)
+($1,195,000) * 0.20 = revenue - $90,000
+Revenue = $239,000 + $90,000 = $329,000              (this is the required additional revenue to break even)
+$329,000 = (300,000) * (15) * (% increase in attendance)
+% increase in attendance = ($329,000 / $4.5M) = 7.3%
+• Takeaway: We already knew from the previous calculation that the acquisition of the zebra was profitable if attendance increased 
+by 8%. This new calculation shows us that our 8% assumption is barely above the break-even calculation. If our attendance 
+assumption is wrong be even 1%, the investment may end up NPV negative.
+
+
+===== PDF p289 =====
+285
+Zoo Co
+Part 4
+4. Risk assessment – Should the zoo use an insurance contract to hedge downside risk?
+• Since the zoo is very risk-averse, they’re interested in hedging some of their downside risk. An insurance company has offered to 
+provide the zoo with a constant revenue to increase revenue to $250K per year if attendance increases are less than or equal to 
+5% (example: If post-zebra acquisition is only 3% and thus revenue increases by only $135K, the insurance will give the zoo $115K 
+to reach a total increase of $250K). In exchange, the insurance company wants the zoo to pay 1% of the zoo’s total annual 
+revenues as a premium. What might you do to determine if this was a good deal?
+• The interviewee should recognize that additional information is needed and that a market research study could aid in this process. 
+Hand out exhibit after interviewee identifies this notion.
+The interviewee should use the market research to determine the probable attendance increase:
+• Annual cost to zoo:                              1% of total zoo revenues = (0.01) * ($4,752,000) = $47,520
+• Annual expected benefit to zoo:         ($250,000 - $225,000) * (0.40) + ($250,000 - $135,000) * (0.20) = $33,000
+• Takeaway: Costs > Benefits, so this is not a good deal.
+Provide Exhibit A
+
+
+===== PDF p290 =====
+286
+Zoo Co
+Part 5
+5. Provide CEO recommendation
+• It is unlikely that the zebra acquisition is a good idea for the zoo to undertake given the information provided. At other zoos,
+attendance has gone up substantially due to a new zebra; however, based upon our market research, it seems less likely that we 
+can breakeven on the investment through increased attendance. We have received an insurance contract to help mitigate some of
+the downside risk; however, it is too expensive to create value.
+Other items to consider:
+• In order to make the investment more palatable, we may consider negotiating with the insurance company to either increase the
+revenue benefits provided or decrease the premium cost. 
+• There are other creative options to drive zebra related revenue (merchandise) or decrease cost (look for a less expensive zebra)
+• Excellent interviewees: 
+• Identify that we can use another zoo’s attendance increase as a proxy for estimating our own attendance increases.
+• Notice in Exhibit A that it is unlikely that attendance will increase sufficiently enough for the zoo to break even.
+• Outstanding interviewees: 
+• Notice that the insurance company’s premiums and benefits are both impacted by attendance increases; so if attendance 
+increases are always greater than 5%, the zoo will be paying even more but getting no benefit.
+• Notice that the insurance company’s contract is essentially an option; so a different structure to the contract may be more 
+suitable for the zoo.

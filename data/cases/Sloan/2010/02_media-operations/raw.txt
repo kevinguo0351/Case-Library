@@ -1,0 +1,145 @@
+===== PDF p14 =====
+2.) Media Operations (BeG, Round 1) 
+Stem: Our client is a large media company in Los Angeles. It currently has two offices. One in 
+Santa Monica and one in Century City. They have made the decision to combine operations into 
+one building and will choose one of their existing buildings, but are unsure which one to choose. 
+What should they do? 
+Candidate should look at two main things: 
+1) The economics of the move 
+2) The softer issues about integration 
+Phase 1 - The Economics 
+Candidate should identify rent, capacity requirements, switching costs associated with the 
+move, the cost to upgrade the existing structure to make it usable by the increased number of 
+employees, etc. Candidate should also ask if the client leases or owns the locations and what 
+each office is used for (i.e. what divisions of the operation are housed in each). 
+Once they ask for these things, you can provide the following information ... 
+The client requires lOOk ft2 of space. Yearly lease for 10 years. Will sub-lease (rent) any 
+space it doesn!t use. 
+Santa Monica 
+Purpose 
+Video Games 
+S pace (in ft2) 
+200,000 
+Cost / ft2 / year 
+$40 
+Build-out cost (over 10 years) 
+$1,500K 
+A vg. vacancy rate of city 
+10% 
+Key Assumptions: 
+• 
+Assume they can sub-lease any and all unused space. 
+....... Management 
+1111111111 Consulting 
+~~!~I~,~~ Club 
+-
+2010-2011 1st Year Case Book 
+Century City 
+DVD1s 
+400,000 
+$40 
+$500K 
+18% 
+60 
+
+
+===== PDF p15 =====
+• 
+The remaining time on the current leases is 10 years. 
+Interviewer: Ask the candidate what they think about the vacancy rate as it pertains to the rent 
+they can charge for the sub-lease. 
+Candidate: Answer should be that the higher the vacancy rate, the more supply, and therefore 
+the lower the price they will able to charge. 
+Interviewer: Given that, allow them to assume that the price they can charge per sq ft is $40 for 
+Santa Monica and $30 for Century City. 
+If the interviewer has does not begin to do so on their own, ask them to calculate the financial 
+impact of each option (may be in total OR per year): 
+Note: The candidate should realize that the client is already locked into a 10 year lease with both 
+buildings. 
+Annual Financial Impact of each alternative: 
+($) 
+Santa Monica Rent 
+Century City Rent 
+Build-out Cost (per year) 
+Total Cost I Year 
+Sub-lease Income - Santa Monica 
+Sub-lease Income - Century City 
+Total Sub-lease Income 
+Net Impact 
+Formulas: 
+~ 
+Management 
+1111111111 Consulting 
+~~;~t~:.~ Club 
+Occupy Santa Monica 
+only 
+($8,000,000) 
+($16,000,000) 
+($150,000) 
+($24,150,000) 
+4,000,000 
+12,000,000 
+16,000,000 
+($8,150,000) 
+2010-2011 1 st Year Case Book 
+Occupy Century City 
+only 
+($8,000,000) 
+($16,000,000) 
+($50,000) 
+($24,050,000) 
+9,000,000 
+8,000,000 
+17,000,000 
+($7,050,000) 
+61 
+
+
+===== PDF p16 =====
+• 
+Santa Monica Rent = 200k sq ft * $40 
+• 
+Century City Rent = 400k sq ft * $40 
+• 
+Build-out Cost = Total build-out cost / 10 years 
+• 
+Sub-lease Income of Client occupied building = (Total sq ft - lOOk sq ft) * sublease rate 
+• 
+Sub-lease Income of 100% subleased building = (Total Sq ft) * sublease rate 
+Candidate should quickly see that moving to Century City is optimal. 
+Note: A good candidate will note that so far, we've only looked at the financial aspects of the 
+situation. This is NOT enough information on which to base a decision. 
+Phase 2: The integration issues 
+Interviewer: Besides the economics, what else should they consider? 
+Candidate: Answers should include the following. (Allow the candidate to think about this and 
+come up with a short list of possibilities, explaining each) 
+• 
+Workforce integration issues 
+• 
+Proximity to clients/customers 
+• 
+Proximity to employee homes 
+Interviewer: Ask the candidate to recommend how he/she would inform the employees of the 
+move, and the pros and cons for each approach. 
+Note: There is not necessarily a perfect answer but a good candidate will identify several 
+alternatives (which could a few possibilities froln the following list). It is important that they 
+identify the pros and cons of each alternative and clearly cOlnmunicate the ramifications of each 
+option (business strategy, talent retention, office politics, etc.) 
+• 
+Office wide-meeting 
+• 
+Starting with top employees to ensure they are retained 
+• 
+E-mail or memo 
+• 
+One on one discussions between managers or employees 
+Interviewer: Ask the candidate to make a formal recommendation. It should be direct while 
+providing potential risks. Extremely good answers will have next steps such as identifying 
+where employees live using HR to look up the zip codes, drafting up a survey to ask employees 
+where they want to work, etc. 
+......... Management 
+1111111111 Consulting 
+~~;~I~,a.~ Club 
+2010-2011 1
+st Year Case Book 
+62 

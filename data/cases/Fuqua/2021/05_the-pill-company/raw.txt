@@ -1,0 +1,207 @@
+===== PDF p56 =====
+The Pill Company
+52
+Industry:                  Healthcare
+Case Type:
+Growth
+Led by:            
+Interviewer 
+Case Level: 
+Medium
+
+
+===== PDF p57 =====
+Behavioral Questions
+53
+• Discuss your most difficult ethical decision and how you arrived at a conclusion.
+Question 1:
+• Tell me about a time when you had to reconcile being right with being a good 
+teammate.
+Question 2:
+
+
+===== PDF p58 =====
+The Pill Company
+54
+• Your client is a multinational pharmaceutical company. The client has a portfolio of 
+drugs for major disease areas, including cancer, cardiovascular, and gastrointestinal 
+diseases. The client has experienced a decline in revenue over the last 18 months, 
+and is fearful of further declines, especially given that its most commercially 
+successful drug, which treats acid reflux, a gastrointestinal disease, will be going off 
+patent in the next year. What are the areas they should investigate to change the 
+course of this trend?
+Prompt #1:
+• Geography: Multinational company (stated in first line); can think of PillCo. like a GSK 
+or AZ that operates around the world
+• Product Mix: Current disease areas includes Neuroscience, Respiratory, 
+Gastrointestinal, and Cardiovascular 
+• Each disease area includes a portfolio of drug products
+• Business model: like that of a typical large pharmaceutical company producing brand 
+name drugs from in-house R&D to a commercial sales teams that sell through typical 
+channels with doctors needing to prescribe the drug
+• Competition: Generic companies will be new competitors
+Case Background (provide if prompted):
+
+
+===== PDF p59 =====
+The Pill Company
+55
+• The candidate should come up with a MECE framework that covers the following 
+areas: product mix, market (industry trends & competitors), how to grow (build, 
+buy, partner)
+– The candidate should identify that this is a revenue problem, given the prompt.
+– A good candidate will identify the patent expiration impact on revenues quickly.
+– A good candidate may also discuss sales by region (since it is a global company) in addition 
+to product mix.
+– Additional information should be provided upon request:
+•
+Exhibit 1 Revenues by disease area (Product Mix)
+Framework Buckets:
+Drive towards revenue mix by disease area
+
+
+===== PDF p60 =====
+56
+Exhibit 1
+Company Revenues by Disease Area (in $B)
+Neuroscience
+Respiratory
+Gastrointestinal
+Cardiovascular
+Drug
+Disease Area
+% of Total 2021 Revenue1
+YOY % Change Revenue
+Market Share
+Green Pill
+Neuroscience
+8%
+-33%
+Blue Pill
+Respiratory
+14%
++10%
+Purple Pill
+Gastrointestinal
+15%
+-10%
+Red Pill
+Cardiovascular
+22%
+-10%
+Steady
+2020
+2021
+23
+21
+Note: 1. Each drug does not make up the whole portion of Revenue by Disease Area 
+
+
+===== PDF p61 =====
+Interviewer guidance on Exhibits
+57
+• Give the candidate 20-30 seconds to review the chart. Then, prompt them to start 
+sharing insights. Examples:
+– Overall business is declining ~10%, driven by neuroscience, and cardiovascular & oncology
+– Respiratory is driving growth, driven by the blue pill; has also gained market share
+• Ask: Which drug is the largest source of dollar declines from 2020 to 2021? 
+– Allow candidate to round the following:
+•
+2021 revenue from $21B to $20B
+•
+% of 2021 revenues accordingly
+– No need to calculate blue pill since it's a positive % change
+Exhibit #1 Guidance:
+Key Formula: new/old - 1 = % change
+2021 Rev / 2020 Rev = 1 - % decline 2021 Rev / (1 - % decline) = 2020 Rev 
+Green Pill is the largest source of dollar declines at $1B
+Math:
+1.) Calculate 2021 Rev
+2.) Calculate 2020 Rev
+3.) $ Decline = 2020 Rev - 2021 Rev
+Green Pill
+$20B * 10% = 2B 
+2B / (1-(1/3) = 3B
+3B - 2B = 1B
+Purple Pill $20B * 15% = 3B 
+3B / (1-(1/10) = 3 1/3B = 3.33B
+3.33B - 3B = 0.33B
+Red Pill
+$20B * 20% = 4B 
+4B / (1-(1/10) = 4 4/9B = 4.44B
+4.44B - 4B = 0.44B
+
+
+===== PDF p62 =====
+Brainstorming
+• Ask: What are some issues that could 
+have caused this decline?
+• Additional information to be provided as 
+confirmation:
+• In addition to other issues, the decline is 
+attributed to the introduction of generics in 
+the US and other established markets. It’s 
+fair to attribute 50% of the decline to 
+generics. The additional declines were 
+related to Medicaid liability and other 
+inventory related issues.
+• Continue with prompt on next page…
+• Acceptable answers: lower price, lower 
+tablet sales volume, generics coming on 
+market, regulatory restrictions, out of 
+stocks, changing payer mix, currency, 
+geographic trends, new competitors
+• Good candidates will connect generics 
+coming on market to reduced market 
+share in Exhibit 1.
+58
+Prompt:
+Analysis:
+
+
+===== PDF p63 =====
+Additional Analysis (Math)
+59
+• Given these issues with the Green Pill, the client would like your help to determine 
+specifically how to maintain as much revenue as possible from the Purple Pill when it 
+goes off patent next year. It has 2 options that it would like for you to evaluate.
+• Options: 1.) Do nothing; 2.) License
+1. Do nothing: Green Pill lost 1/3 of volume annually to generic; assume same for Purple Pill
+2. License: License the brand to an over the counter (OTC) manufacturer for $1B one-time 
+revenue, but 50% of Purple Pill volume transfers to OTC brand; similar annual volume 
+decline with Option 1 of 1/3
+– State when prompted: Current revenue per pill is $1 at a 75% margin; revenue $3B rounded
+• Ask: What is the gross profit for the next 2 years? Which option would you 
+choose and why? 
+Prompt
+• Math (use rounded $3B Purple Pill revenue, but do not round anything else)
+1. Do nothing: $3B x 2/3 retained (1/3% lost) = $2B revenue x 75% margin = $1.5B gross profit
+Year 2: $2B revenue x 2/3 retained (1/3% lost) = $4/3B revenue % 75% margin = $1B gross profit
+2. License: $1B + $1.5B do nothing gross profit / 2 (50% volume loss) = $1.75B gross profit
+Analysis
+Year 1 (2022)
+Year 2 (2023)
+Total
+Do Nothing
+1.5
+1
+2.5B
+License
+1.75
+0.5
+2.25B
+
+
+===== PDF p64 =====
+The Pill Company
+60
+• The head of The Pill Company is coming up the elevator and needs to make a 
+decision quickly based on our analysis and recommendation.
+Recommendation 
+• The math is important, but more important is that the candidate can think through 
+short-term and long term scenarios. For example, licensing may look good in year 
+one and retain the brand, but it is a long-term loss as incremental revenue decreases 
+more rapidly. You would want there to be little to no cannibalization.
+• This case gauges the candidates' comfort with making assumptions and making 
+strategic decisions.
+Risks and Next Steps:

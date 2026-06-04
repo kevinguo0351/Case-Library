@@ -1,0 +1,378 @@
+===== PDF p35 =====
+Practice Cases – Case 2: Magna Health 
+McKinsey & Co. 
+ 
+ 
+31
+(Source: Sample case from McKinsey website) 
+ 
+Context 
+The interviewer will typically start the case by giving a brief overview of the context, 
+ending with a question that is the problem definition.  At the end of the description 
+you will have an opportunity to ask any questions you might have to clarify the 
+information that has been provided to you.  
+Our client is Magna Health, a health care company in the 
+Midwest.  It both insures patients and provides health care 
+services.  Employers pay a fixed premium to Magna for each 
+of their employees in return for which Magna covers all 
+necessary health services of the employee (ranging from 
+physician care, and medications to hospitalization) 
+Magna currently has 300,000 patients enrolled in its plan.  It 
+has 300 salaried physician employees who provide a broad 
+range of services to patients in 6 centers.  These physicians 
+represent a wide range of specialty areas, but not all areas.  
+When a patient needs medical treatment in a specialty area 
+not covered by a Magna physician, they are referred outside 
+of the Magna network for care, and Magna pays all referral 
+costs on a fee-for-service basis.  Magna doesn’t own any 
+hospitals itself, instead contracting services from several 
+local hospitals. 
+Over the past six months, Magna has been experiencing 
+declining profitability.  Magna’s CEO has retained McKinsey 
+to help determine what is causing the problem and how 
+Magna might fix it. 
+How can Magna Health improve its financial situation? 
+ 
+Interviewer: How should Client determine how to improve its financial situation? 
+ 
+Some possible areas are given below. Great job if you identified several of these and perhaps 
+some others.  
+• 
+Magna's revenues  
+o 
+Price paid by employer for employee health coverage.  
+o 
+Number of employees covered by Magna.  
+• 
+Magna's costs (or fixed and variable costs)  
+o 
+Magna's main cost components consist of administrative (non-medical) and 
+medical costs (e.g., hospital, drugs, outpatient care)  
+o 
+Outpatient costs can be split into internal physician costs versus external 
+referral costs  
+Magna's patient base demographics/overall risk profile which may affect medical costs 
+ 
+Interviewer: The team discovers that the demographics of Magna’s subscribers have 
+changed significantly in the past 5 years, from majority industrial workers/laborers 
+to majority office employees. Knowing this, are there any specific areas you would 
+investigate first? 
+ 
+We are looking for a few responses, similar to the ones below:  
+
+
+===== PDF p36 =====
+Practice Cases – Case 2: Magna Health 
+McKinsey & Co. 
+ 
+ 
+32
+• 
+Claim costs, as the change in the subscriber base will change the profile of diseases 
+(e.g., more heart disease/stress and less work related injury)  
+• 
+External referral costs, due to the change in the disease profile for which they have in-
+house competency 
+Interviewer: After reviewing the basics of Magna's business, your team believes that 
+one of the root causes of Magna's financial problems is how it manages medical 
+costs, particularly the cost of referrals to specialists outside of its physician network. 
+Your team has gathered the following information on Magna and its primary 
+competitor, Sunshine HMO: 
+  
+Number of 
+patients 
+Average cost of referral(per member 
+per month) 
+Magna Health 
+300,000 
+$20 
+Sunshine HMO 
+500,000 
+$15 
+ 
+What are the most likely reasons that the average cost of referral at Magna is higher 
+than at Sunshine? (At this point you should feel free to offer hypotheses, and you 
+could ask your interviewer questions to clarify the information) 
+ 
+A good answer would include some of the following suggestions: 
+• 
+Referral pricing: Magna might be paying more than Sunshine for specialist services 
+(e.g., its outside contracts with oncologists might be at higher rates than Sunshine's 
+contracts).  
+• 
+Number of referrals: Magna's physicians might have different practice patterns than 
+Sunshine physicians, i.e., they may be less comfortable treating heart disease patients 
+or have different training/protocols.  
+• 
+Mix of specialties: Magna's mix of specialties that requires referrals (cardiology and 
+neurosurgery) are probably more expensive specialties (than cardiology and 
+psychiatry, Sunshine's referral specialties).  
+• 
+Mix of patients: Magna has sicker or older (>65) patients (individuals over 65 are 
+more likely to need medical care in the specialty areas outside of Magna's network, 
+particularly cardiology). 
+ 
+Interviewer: What analyses would you do if the things you suggest were 
+contributing to this problem? 
+ 
+You might take the following approach, where we’ve outlined different areas of analysis:  
+• 
+Referral pricing:  
+o 
+Gain data on prices currently being paid by Magna for a sample of common 
+specialties  
+o 
+Gain similar data for a competitor if possible for an industry average (perhaps 
+through interviews with non-Magna specialists)  
+• 
+Number of referrals:  
+o 
+Interview Magna physicians and non-Magna physicians to see if any obvious 
+behavioral differences exist  
+o 
+Consult industry publications on this issue  
+• 
+Mix of specialties:  
+o 
+Check number of referrals by specialty for Magna and estimate similar for 
+Sunshine  
+o 
+Interviews with external specialties used by Sunshine may help again here  
+
+
+===== PDF p37 =====
+Practice Cases – Case 2: Magna Health 
+McKinsey & Co. 
+ 
+ 
+33
+• 
+Mix of patients:  
+o 
+Compare demographic data for Magna and Sunshine: should be easy to obtain 
+from Magna; a scan of the employee schemes covered by Sunshine should 
+give a good general picture of their demographic profile  
+o 
+See if Magna's referral cost has increased in line with the change in 
+demographics of the subscribers  
+(Helpful Tip: In giving the answer, it's useful if you are clear about how the analysis you are 
+proposing would help to answer the question posed.) 
+ 
+Interviewer: Magna's CEO has a hypothesis that Magna is paying too much in 
+cardiology referral costs for its patient population. He asks the McKinsey team to 
+look at Magna's cardiac patient population more closely and tell him how many 
+referrals he should expect on an annual basis. Assume the following:  
+• 
+Magna has 300,000 patients in any one year  
+• 
+20 percent of its patients are age 65 or older  
+• 
+In the U.S., patients with serious heart disease visit specialists (cardiologists) 
+on average of five times per year 
+You should always feel free to ask your interviewer additional questions to help you 
+with your response. In this case, you should recognize the need to know the 
+prevalence rate of serious heart disease to complete this calculation. Once asked, 
+your interviewer would provide you with the following information:  
+• 
+The prevalence rate of serious heart disease in the 65+ population is 30 
+percent  
+• 
+The prevalence rate of serious heart disease in the under age 65 population is 
+10 percent 
+Based on the correct calculations, your response should be as follows: Magna should expect 
+210,000 cardiac referrals annually based on its patient population. You should have 
+approached the calculations as follows to arrive at that answer:  
+• 
+300,000 total patients  
+• 
+20 percent x 300,000 = 60,000 patients age 65+  
+• 
+18,000 x 5 = 90,000 referrals per year  
+• 
+240,000 Magna patients under the age of 65  
+• 
+240,000 patients x 10 percent = 24,000 patients under age 65 with serious heart 
+disease and 24,000 x 5 visits per  
+• 
+year = 120,000 visits per year total  
+• 
+90,000 + 120,000 visits per year = 210,000 total Magna patient external cardiology 
+visits  
+Interviewer: When the team tells Magna's CEO that based on Magna's patient 
+population he should expect about 210,000 cardiology referrals a year he exclaims, 
+"We currently pay for 300,000 annual cardiology referrals for our patient 
+population!" 
+ 
+Why might Magna's annual cardiology referrals be significantly higher than U.S. 
+averages? What would you do to try to verify if any of these were a key cause of this 
+problem? 
+
+
+===== PDF p38 =====
+Practice Cases – Case 2: Magna Health 
+McKinsey & Co. 
+ 
+ 
+34
+There are a number of answers to these questions, and you are on the right track if your 
+responses included some of the ones below: 
+• 
+The prevalence rate of heart disease in Magna's patient population is higher than 
+average. To see if this was a cause of the problem, McKinsey should audit the internal 
+data on heart disease prevalence and compare it to US National data.  
+• 
+Magna's primary care physicians are referring patients who do not have serious heart 
+disease to specialists. The team should interview specialists to get their opinion, or 
+follow through a sample of patients who were referred.  
+• 
+Primary care physicians are not comfortable (e.g., they are poorly trained or 
+inexperienced) treating cardiac patients, even those with minor problems; they want 
+to avoid malpractice suits. McKinsey should interview Magna physicians and institute 
+an external review.  
+• 
+Magna doesn't have clear guidelines on when physicians should be referring patients 
+to specialists (or if guidelines exist, physicians are not complying with them). The 
+team should gain an expert opinion on the current guidelines to see if this was a key 
+cause of the problem.  
+• 
+There are no incentives or penalties to prevent physicians from referring patients with 
+less serious problems to specialists. In order to verify this is a key cause of the 
+problem, the team should review incentive schemes if they exist. They should also 
+compare similar companies/situations (e.g., prescription control mechanisms, etc.).  
+Interviewer: At this point in the study, you bump into Magna's Head of Health 
+Services in the corridor. He is responsible for all matters related to the provision of 
+services to subscribers, both inside and outside the Magna Network. He asks you if 
+you have made any progress. How would you respond? 
+The ability to come to a logical, defensible synthesis based on the information available at any 
+point in an engagement is critical to the work we do. Even though we'd consider ourselves to 
+be early in the overall project at this point in the case, we do want to be able to share our 
+current perspective. One ideal answer would include the following points: 
+ 
+Findings  
+• 
+We have investigated all the drivers of profit for Magna. Although there is likely to be 
+room for improvement in a lot of areas, it seems the claims cost is a big area for 
+improvement.  
+• 
+Relative to the market and to competitors, Magna seems to have high claims cost per 
+patient. Our initial indication is that there may be highest room for improvements in 
+the cost of referrals outside the network.  
+• 
+There are a number of reasons as to why this may be happening (list as in previous 
+question).  
+Next Steps  
+• 
+We are working to pin down the most significant reasons why Magna has high claims 
+cost per patient.  
+• 
+We are going to be looking into other areas such as reduction potential in other costs, 
+as well as improvement potential in terms of premiums or other sources of revenue. 
+Interviewer: After some additional investigation, your team decides that changing 
+the behavior of Magna's primary care physicians has potential to reduce cardiac 
+referral costs while maintaining high quality care. The team believes that 
+introducing some sort of incentive plan for physicians might help reduce the referral 
+rate. You propose the following pilot plan: 
+
+
+===== PDF p39 =====
+Practice Cases – Case 2: Magna Health 
+McKinsey & Co. 
+ 
+ 
+35
+• 
+Magna pays bonuses of $100,000 per year to each of the 10 primary care 
+physicians with the lowest cardiac referral rates consistent with good patient 
+outcomes.  
+• 
+Magna increases overall fees paid to primary care physicians to handle more 
+of their patients’ basic cardiology needs. Overall fee increases would total $1 
+million.  
+How many fewer cardiology referrals will Magna need to have in order to recoup the 
+cost of the pilot incentive plan? For simplicity’s sake assume:  
+• 
+The cost of a cardiology referral is $200.  
+• 
+Magna currently has 300,000 cardiology referrals per year.  
+If the incentive plan reduces cardiology referrals by 3.3 percent or 10,000 referrals, Magna will 
+recoup the cost of the incentive plan. One potential approach to the calculation:  
+• 
+$1 million + (10 * $100,000) = $2 million for incentive plan  
+• 
+$2 million/$200 =10,000 referrals  
+• 
+10,000 referrals/300,000 total referrals = 3.3 percent reduction would pay for 
+incentive program  
+Interviewer: Your team projects that the incentive plan has the potential to reduce 
+referrals by 5 percent in its first year, and an additional 2 percent in its second year. 
+If these projections are correct, by how much would Magna's referral costs be 
+reduced over a two-year period with this program? 
+Referral costs would be $4.14 million lower in the second year. Over the two years Magna 
+would save $7.14 million. One potential approach to the calculation: 
+ 
+Year 1 Savings with Program  
+• 
+300,000 total referrals  
+• 
+5 percent reduction in referrals = 15,000 referrals  
+• 
+15,000 x $200 = $3.0 million in savings in year 1  
+Year 2 Savings with Program  
+• 
+285,000 total referrals  
+• 
+2 percent reduction in referrals = 5,700 referrals  
+• 
+5,700 x $200 = $1.14 million in savings  
+• 
+$3 + $1.14 = $4.14 million in savings  
+Therefore, total cumulative savings over the 2 years = Year 1 savings + Year 2 savings = 
+$3.0m + $4.14m = $7.14m. 
+Interviewer: Your team presents its physician incentive proposal to Magna’s CEO. 
+The CEO, in consultation with his Medical Director, agrees that this is feasible and 
+says that they will pilot it for cardiac referrals. 
+ 
+At the end of the meeting the CEO says, "I like the work you’ve done, but it's not 
+enough to address our current financial situation. Physicians are professionals who 
+care deeply about patient care and I think there's a limit to how much cost we can 
+expect to reduce utilizing financial incentives exclusively. Besides cardiac financial 
+incentive programs, what other ideas should we consider to reduce the cost of 
+Magna's specialist referrals?" 
+
+
+===== PDF p40 =====
+Practice Cases – Case 2: Magna Health 
+McKinsey & Co. 
+ 
+ 
+36
+Based on what we have discussed today, and any other ideas you might have, how 
+would you respond to the CEO? 
+This question is a good one for demonstrating creativity because there's a long list of possible 
+ideas. You might give some of the following responses:  
+• 
+Pursue additional ways to change physician behavior  
+o 
+Provide training on how to treat patients with minor or stable medical 
+problems  
+o 
+Define and clarify medical guidelines for referrals (e.g., establish a medical 
+committee to define the difference between “serious” and "minor" heart 
+disease)  
+o 
+Institute peer review committee charged with approving a subset of referrals 
+(e.g., those that are considered "high cost") 
+• 
+Spend time investigating "outlier" physicians (i.e., those who seem to refer patients to 
+specialists at much higher rates than others) to determine how widespread the referral 
+problem is and whether simply focusing on a few physicians will dramatically reduce 
+referral costs  
+• 
+Determine whether Magna can reduce referral costs in the other medical areas where 
+it does not have specialists (i.e., neurosurgery)  
+• 
+Look at the contracts Magna has for specialist services to determine if it is paying too 
+much relative to competitors  
+• 
+Consider whether bringing cardiology, neurosurgery, and oncology specialists in-house 
+(i.e., within Magna) might reduce cost

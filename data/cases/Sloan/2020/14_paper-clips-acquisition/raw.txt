@@ -1,0 +1,198 @@
+===== PDF p102 =====
+Casebook | 2019-20 Edition 
+98 
+ 
+14. Paper Clips Acquisition (Bain R2, CPG/Retail, M&A, Quantitative) 
+Stem: Our client is Paper Clips, a publicly-traded office supplies manufacturer based in the US. Due to slow 
+growth in the office supplies market, the client is considering an acquisition of a company in another industry 
+to boost sales growth. Bain has identified the safe industry as a good fit for the client and is helping the 
+client to find the right target company to acquire. The CEO of the company has stated that she has three 
+primary criteria for an acquisition target: 1) the acquisition candidate must have high sales growth potential, 
+2) the acquisition candidate must be a leader or have the potential to become the leader of at least one 
+segment within the U.S. safe market, and 3) the acquisition candidate cannot dilute Paper Clip’s EBIT 
+margin – which is currently 12%. How would you select the best acquisition target for the client? 
+ 
+Candidate’s structure should focus on the three areas that the CEO has prioritized: 1) sales growth potential, 
+2) relative market share, 3) impact on operating profitability (EBIT margin). Candidate can point to other 
+factors and areas to consider but should clearly prioritize these areas that the client has highlighted. Let the 
+candidate drive the case and ask for the appropriate data. If the candidate asks for clarification on the 
+market segments within the safe industry, state that there are three primary market segments: commercial 
+safes, premium home safes, and value home safes. Commercial safes are safes provided to businesses. 
+Premium home safes are higher end safes for residential homes while value home safes are lower end 
+safes for residential homes. 
+ 
+Candidate: Given that high sales growth potential is a key requirement for the company, I’d like to see if 
+we have any information on sales projections for companies in the safe industry or for the industry overall. 
+ 
+Interviewer: Our analyst put together these projections for sales in the safe industry. Which segment looks 
+most attractive from a sales growth perspective? 
+ 
+Note: If the candidate asks whether the data is for U.S. or global market, state that the client is focused on 
+the U.S. market and that all data is for the U.S. market. 
+ 
+Projected Safe Sales for the Next Five Years 
+ 
+Market Segment 
+Unit Sales CAGR* 
+Average Selling Price per Unit 
+CAGR 
+Commercial 
+0% 
+6% 
+Premium Home 
+6% 
+5% 
+Value Home 
+8% 
+3% 
+*CAGR = Compound Annual Growth Rate 
+ 
+Candidate should get to projected sales by using the data on unit sales and average selling price per unit. 
+Candidates can estimate the sales growth rates without doing all of the calculations and be able to quickly 
+see that sales growth is projected to be stronger for the Premium Home and Value Home segments (11% 
+CAGR vs. 6% CAGR for Commercial). 
+ 
+Commercial Segment Projected Sales CAGR = 6% 
+Premium Home Segment Projected Sales CAGR = 11.3% (1.06 * 1.05 – 1) or approx. 11% based on 6% 
++ 5%. 
+Value Home Segment Projected Sales CAGR = 11.3% (1.08 * 1.03 – 1) or approx. 11% based on 8% + 
+3%. 
+ 
+Candidate: Based on these numbers, the projected sales growth rate for the Premium Home and Value 
+Home segments are above 10% annually while the projected sales growth rate for the Commercial segment 
+is only 6%. Therefore, the Premium Home and Value Home segments look to be more attractive segments 
+
+
+===== PDF p103 =====
+Casebook | 2019-20 Edition 
+99 
+ 
+and we’re more likely to find an attractive acquisition candidate in those segments. I’d like to now consider 
+the CEO’s focus on segment leadership. Do we have any market share data that could help us identify 
+market leadership in these segments? 
+ 
+Interviewer: Here’s the data that we have on market shares within each segment. What can you tell from 
+this? 
+ 
+Market Share By Segment 
+ 
+ 
+ 
+Commercial 
+Premium Home 
+Value Home 
+ 
+Note: Market share data based on annual sales 
+ 
+ 
+ 
+Candidate: Based on this chart, it looks like the Value Home segment is much more fragmented than either 
+the Premium Home or the Commercial segment. The market leader in the Value Home segment has less 
+than 15% market share and there are a number of close competitors. In the Premium Home segment, Shiny 
+Safes has close to 50% market share and a relative market share of over 2. Combining this data with the 
+sales growth data, Shiny Safes looks like a strong acquisition candidate because it has clear market 
+leadership in a high growth segment of the industry. However, I’d also like to look at profitability since the 
+CEO is concerned about any dilution of operating margins. Do we have any data on profitability? 
+ 
+ 
+ 
+ 
+Case continues on next page. 
+Others
+8% 
+ 
+20% 
+ 
+ 
+Guardian 
+31% 
+ 
+ 
+ 
+Commercial Safeco 
+41% 
+Others 
+9% 
+ 
+Safes R Us 
+20% 
+ 
+Vanguard Safes 
+23% 
+ 
+ 
+ 
+ 
+Shiny Safes 
+48% 
+ 
+ 
+ 
+Others 
+40% 
+Norton Safes 
+9% 
+Safety First 
+11% 
+Safes R Us 
+13% 
+Vanguard Safes 
+13% 
+Valuesafe 
+14% 
+
+
+===== PDF p104 =====
+Casebook | 2019-20 Edition 
+100 
+ 
+Interviewer: Yes. Here’s some data on profitability of the leading company in each market segment. 
+ 
+If the candidate recommends Commercial Safeco based on current EBIT margins, push the candidate to 
+think about synergies and changes in cost structure that may happen post-acquisition. 
+ 
+Candidate: Based on current EBIT margins, only Commercial Safeco can be acquired without diluting our 
+client’s operating profits of 12%. However, there may be potential for the client to improve the targets profits 
+margins through cost reductions or revenue improvements. Do we have any data on expected synergies 
+from an acquisition? 
+ 
+Interviewer: In past acquisitions, the client has consistently been able to reduce SG&A expenses of 
+acquired companies by approximately 10% and the client believes that similar reductions are achievable 
+for this acquisition. In addition to SG&A expense reductions, the client can also reduce freight expenses at 
+Shiny Safes by 10% because of significant overlaps in distribution channels. We expect only a 5% reduction 
+in freight expenses for Valuesafe and no freight expense reductions for Commercial Safeco. 
+ 
+Candidate: For Shiny Safes, the expected SG&A reduction will boost EBIT margins by 3% (30% * 10%) 
+and the expected freight expense reduction will boost EBIT margins by a further 1.5% (15% * 10%). This 
+will boost Shiny Safes post-acquisition EBIT margin to 15.5% (11% + 3% + 1.5%). For Commercial Safeco, 
+the expected SG&A reduction will boost EBIT margins by 2% (20% * 10%). This will boost Commercial 
+Safeco’s post-acquisition EBIT margin to 14%. Valuesafe’s EBIT margin looks too low to make the company 
+an attractive acquisition candidate even after accounting for synergies so I’ll ignore it for now. Combining 
+this analysis with our earlier analysis of expected sales growth and market share, Shiny Safes looks to be 
+the best acquisition candidate. 
+ 
+Interviewer: Great. What are some other factors that you would consider in evaluating potential acquisition 
+candidates for the client? 
+ 
+Candidate should brainstorm some key factors while using a structured approach. There are many other 
+potential factors to consider including financial considerations (e.g., price of acquisition, ability to finance 
+acquisition), operational factors (e.g., access to distribution channels), and people issues (e.g., cultural fit 
+of target company, quality of target’s management team). 
+ 
+Interviewer: Those all seem like good things to consider but we’re running out of time. Can you wrap things 
+up by presenting a recommendation to the client’s CEO based on the work we’ve done so far? 
+ 
+Candidate: We recommend that Paper Clips acquire Shiny Safes as it is the most attractive acquisition 
+candidate based on the factors that you’ve prioritized. First, Shiny Safes competes in a relatively fast- 
+growing segment of the market that is expected to experience over 11% annual sales growth over the next 
+
+
+===== PDF p105 =====
+Casebook | 2019-20 Edition 
+101 
+ 
+five years. Second, Shiny Safes is a dominant market leader in its segment with a relative market share of 
+over 2. Third, the acquisition of Shiny Safes will be accretive to Paper Clip’s operating profits after 
+accounting for expected synergies. As we continue with our work, we’ll focus on other factors such as 
+financing considerations and cultural fit to make sure that this is the best acquisition candidate for Paper 
+Clips. 

@@ -1,0 +1,162 @@
+===== PDF p137 =====
+Case: Mighty Mining Company 
+(inspired by) McKinsey, Round  2 
+Your client is a global mining company with a location in South Africa. This particular location is performing below average  
+financially. McKinsey has been hired to identify the problem and make recommendations to address it. What would you do first to  
+approach this problem? 
+(Note to interviewer: This  leadoﬀ ques[on  is meant  to  focus on ac[ons  one  would  take  before diving into  the  framework 
+– ac[ons  such  as  collec[ng data, visi[ng the  loca[on to observe opera[ons, interviewing employees,   etc) 
+Problem statement narrative 
+74 
+This question is intentionally vague, as many Partner level  
+cases can be, to encourage the candidate to ask questions at  
+this stage. 
+This is command and control, so start with the first question,  
+then provide the detail to the right and ask for a full analysis  
+(framework). After the framework is developed by the  
+candidate, dive deeper into cost and operations and ask  
+follow-up questions. 
+Case Type: Operations 
+Case Style: Command & Control 
+Overview for interviewer 
+The processing plant is located 160 miles inland and it uses a  
+fleet of large trucks to transport minerals from the plant  
+(which is located near the mineral source) to a port city. The  
+minerals are then loaded onto barges and shipped to clients  
+around the world. The plant needs to operate at maximum  
+capacity to meet customer  demand. 
+The  minerals produced are commodities with low margins. 
+Information to be provided after actions identified 
+
+
+===== PDF p138 =====
+Case: Mighty Mining Company 
+(inspired by) McKinsey, Round  2 
+Sample Framework 
+
+
+===== PDF p139 =====
+Potential Issue  Tree & Approach to Solving the  Case 
+Key elements of analysis to solve the  case 
+Revenue: explore historical data,  
+trends, product specific data 
+Benchmark against competitors and  
+other corporate locations. 
+Revenues 
+Explore operational issues that might lead  
+to poor performance such as interruptions  
+in operations (is plant operating at full  
+capacity, is it running 100% of the time or  
+are there power outages or other 
+Operations 
+Costs: explore fixed costs (PP&E,  
+overhead) and variable costs (material,  
+labor) 
+Transporta8on: considering this  
+product is a commodity, transportation 
+Costs 
+75 
+disruptions, are there local protests, is  theft 
+or local unrest impacting plant),  employee 
+skill level, employee morale, etc 
+Possible follow-up and guidance to  
+interviewer 
+If the interviewer gives a vague response  
+such as “I would want to understand the  
+local market conditions” then push for  
+specific examples of operational issues  
+that would impact a plant in the middle of  
+South Africa. 
+It is important that the candidate identify  
+general operating issues and locally  
+impacted issues. 
+Possible follow-up and guidance  
+to interviewer 
+Although important to mention, the  
+focus of this case is cost and operations  
+so don’t let the candidate spend too  
+much time here. 
+makes up a large portion of the  
+product cost and should be separated  
+out. 
+Possible follow-up and guidance  
+to interviewer 
+If the candidate has not already done  
+so, ask them to identify the key cost line  
+items on the income statement and  
+elaborate on the COGS for this  
+industry. 
+COGS: Labor, Materials,  
+Shipping/Logistics  
+Opera8ng Expenses 
+Administrative, Overhead, D&A 
+
+
+===== PDF p140 =====
+Follow-up Questions 
+Guidance for interviewer: 
+Follow-up question #1 
+In gathering data from the client, you find that transportation costs are significantly higher as a portion of COGS than any other  
+African plant location. Why might this be? (If the 160 mile trip from plant to port has not been mentioned, inform interviewer of the  
+transportation details here) 
+76 
+Response should cover a range of ideas as the interviewer is looking for out of the box thinking. Some ideas might be: the plant is  
+sending trucks that are not full increasing trips needed, drivers are not going directly to the port (poor route planning, sleeping on  the 
+job, etc), trucks are hijacked along the route, drivers must pay bribes to get through certain road blocks. 
+Follow-up question #2 
+You collect historical data on the average time it takes a truck to make the 200 mile trip from the plant to the port, what should you  
+expect the graph to look like? 
+ 
+Interviewer: (The graph should be a normal distribution) You expected the graph to be normally distributed but your data reveals  
+the following graph.  What can you draw from this   data? 
+The candidate should identify that the first peak is expected (per the normal distribution) but the second peak needs to be analyzed.  
+Ask  for ideas of what might cause  the second  peak.  These  could include certain drivers taking too many breaks, traffic patterns,   etc. 
+Guidance for interviewer: 
+
+
+===== PDF p141 =====
+Mighty Mining Trip Time  Distribution 
+1000 
+77 
+Total round trip time (hours) 
+0 
+# of trips 
+24 
+
+
+===== PDF p142 =====
+Final Question and Sample  Recommendation 
+Follow-up question 
+You discover that the port closes at 10pm and any truck that does not arrive by 10pm must wait until the port opens again at 4am to  
+drop off its load and return to the plant. The minimum roundtrip travel time is 7 hours and the plant owns 20 trucks; however, a  barge 
+needs 30 truckloads to reach capacity and ship out.      What would you recommend Mighty Mining to do about this situation? 
+Remember: the plant must  operate at max capacity to meet customer   demand 
+78 
+Rather than crunch numbers around optimization, it is sufficient that the candidate identify that there are  
+several bottlenecks in the supply chain (travel time, port hours of operations, capacity of trucks versus  
+barge) and recommend potential solutions that may be  considered: 
+•  In the short term, the company needs to identify the latest a truck can leave and still arrive by 10pm.  
+They could use employee incentives to encourage drivers to reduce rest stops along route to make the  
+10pm cut-off.  Driver shifts should be rearranged to optimize material delivered to the   port. 
+•  In the long term, see  if they lobby that 24 hour port operations is more profitable for all   parties. 
+•  Evaluate the costs of setting up a storage facility by the port for night deliveries against purchasing  
+more trucks. 
+•  Analyze costs  of upgrading fleet to larger size trucks. 
+•  Consider leasing trucks vs.  purchasing. 
+Since location already is poor performing, must analyze cost of capital to ensure that investing in  
+capital improvements is highest NPV alternative (ship from other better   plants?). 
+Changes in customer demand could lead to an investment that is not needed long term. 
+I would analyze these options and present a final recommendation for the client including justification  
+for any investment needed by the company to mitigate the risk of senior management not wanting to  
+invest. 
+ 
+ 
+ 
+ 
+Sample  
+Recommendation 
+ 
+ 
+ 
+Risks  Next 
+Step 

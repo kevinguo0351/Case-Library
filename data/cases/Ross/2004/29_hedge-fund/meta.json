@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2004_29_hedge-fund",
+  "school": "Ross",
+  "year": "2004",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2004.pdf",
+  "idx": 29,
+  "case_name": "Hedge Fund",
+  "case_type": "Other",
+  "round": "1",
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 69,
+  "pdf_page_end": 71,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    70
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p070.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2004\\29_hedge-fund"
+}

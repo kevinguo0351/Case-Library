@@ -1,0 +1,152 @@
+===== PDF p46 =====
+!
+!
+!
+!
+!
+!!!!!!!!!!!!!!!!!Business'Cases'!
+1!
+Sandy&Coffee&Shop! !
+!
+!
+!!!!!!!!Business'Cases'!
+Consulting!Club!at!MIT!
+Category:!Retail,!Diversification!
+!
+!
+!
+!
+Difficulty:!Easy!
+!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!Case!written!by!Bangqi!Yin,!MS,!MBA!
+!
+!
+!
+1)!Presentation!
+!
+!
+Our!client!“Sandy”!owns!a!coffee!shop!located!in!a!small!town!named!White!Plain.!It!
+is! currently! considering! diversifying! its! business! by! selling! bagels.! What! kind! of!
+advice!you!would!give!to!her?!!!
+!
+!
+2)!Type!of!Case!and!Expectations!
+!
+!
+N!Market!entry!question!
+N!Understand!the!market!and!competitive!landscape!
+N!P&L!analysis!!
+N!Identify!potential!risks!
+!
+!
+3)!Suggested!Framework!
+!
+!
+N!Market!size!
+N!Economics!
+N!Barriers!to!entry!
+N!Potential!risks!
+N!Entry!strategies!
+!
+!
+4)!Recommended!Strategy!for!Interviewee!
+'''''(Q:'Question,'M:'Math,'C:'Creativity)'
+!
+!
+M:!Estimate!the!market!size!by!making!reasonable!hypothesis?!
+Q:!How!is!the!competition!landscape,!how!much!market!can!client!expect!to!acquire?!
+M:!Analyze!profitability!by!segmenting!and!calculating!the!cost!(P&L).!
+C:!Brainstorm!list!of!risks!
+!
+
+
+===== PDF p47 =====
+!
+!
+!
+!
+!
+!!!!!!!!!!!!!!!!!Business'Cases'!
+2!
+!
+5)!Data!
+!
+'
+Competition!=!low!(expect!to!acquire!market!share!of!10%)!
+'
+Market!Sizing:!
+Data:!
+N 
+YearNround!population!in!White!Plan!is!10,000!
+N 
+Tourist!population!amounting!to!an!additional!30,000!people!for!6!months!of!
+the!year!
+N 
+25%!of!the!yearNround!population!are!bagel!buyers;!they!buy!4!bagels!per!
+week!
+N 
+50%!of!the!tourist!population!are!bagel!buyers;!they!buy!2!bagels!per!week!
+Solution:!
+1. Annual'consumption'of'year>round'population:'
+N 
+25%!of!yearNround!population:!10,000*0.25!=!2,500!yearNround!bagel!buyers!
+N 
+2,500!yearNround!bagel!buyers*4!bagels!per!week!=!10,000!bagels!bought!
+weekly!
+N 
+10,000*50!=!500,000!bagels!per!year!
+2. Annual'consumption'of'tourist'population:'
+N 
+50%!of!tourist!population:!30,000*0.5!=!15,000!bagel!buyers!
+N 
+15,000!tourist!bagel!buyers!*!2!bagels!per!week!=!30,000!bagels!bought!
+weekly!
+N 
+30,000!*25!(approximately!6!months)!=!750,000!bagels!per!year!
+3. Total'bagel'market''
+500,000!+!750,000!=!1.25M!bagels/year!
+!
+Profitability!Analysis:!
+Data:!
+2!Manufacturing!Models:!
+1. In!house!built!Model!
+1) Monthly!equipment!cost!of!$1,000!
+2) All!other!cost!amounts!to!$0.5/bagel!
+2. Outsource!Model!!
+Cost!of!one!bagel:!$0.7!
+N 
+Price!to!sell:!$1.25/bagel!
+Solution:!
+1. In'house'model'cost:'
+1.25x!–!(1,000!+!0.5x),!to!be!profitable,!x!must!>!1334!
+2. Outsource'cost:'
+1.25x!–!0.75x,!always!be!profitable!
+When!the!two!costs!equals!to!each!other,!x=!4,000!bagels/month,!48,000!bagels/year!
+Since!expected!sales!is!125,000!bagels/year,!client!should!select!the!first!model.!
+!
+
+
+===== PDF p48 =====
+!
+!
+!
+!
+!
+!!!!!!!!!!!!!!!!!Business'Cases'!
+3!
+!
+6)!Proposed!Conclusion!
+!
+!
+I!recommend!our!client!to!enter!this!bagel!market!by!developing!in!house!
+manufacturing!capability.!Because:!
+a) The!market!is!attractive!!
+b) The!competition!is!not!intensive!
+c) The!business!is!more!profitable!by!having!in!house!manufacturing!capability!
+!
+As!they!continue!to!pursue!this!diversification,!some!potential!risks!are!the!potential!
+drawbacks!brought!by!different!product!mix!(cannibalization!effect),!by!using!
+different!marketing!channels,!etc.!
+!
+!

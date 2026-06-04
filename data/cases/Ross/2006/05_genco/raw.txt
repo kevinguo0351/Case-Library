@@ -1,0 +1,348 @@
+===== PDF p46 =====
+Practice Cases – Case 5: GenCo             
+BCG 
+ 
+ 
+42
+(Source: Sample case from BCG website) 
+ 
+Context 
+Your client is GenCo, a large, international, diversified company with a health care 
+division that produces a wide variety of medical instruments and related services. 
+Five years ago, it expanded into the health care software industry by purchasing 
+MedCount, which markets administrative systems to large U.S. hospitals. These 
+systems are designed primarily for back-office functions; they are not designed for 
+managing patients or providing other physician and technical support. Since it was 
+purchased, the software division has failed to deliver the growth needed to justify 
+the multiple GenCo paid for it. GenCo feels it has already squeezed margins as much 
+as possible, and now is looking for new sales opportunities. MedCount turned to BCG 
+to help identify potential ways to increase revenues. How would you approach this 
+problem?  
+Establish understanding of the case 
+Interviewee: First, let me make sure I understand the problem. The parent company produces 
+medical devices and services, but before the acquisition was not involved in health care 
+software. The company it purchased, MedCount, sells only administrative systems software to 
+large hospitals. It is now looking for opportunities to increase revenues.  
+Interviewer: That is correct. 
+Interviewee: Could I take a moment to jot down a few thoughts?  
+Interviewer: Sure, that would be fine. 
+Set up the framework 
+Interviewee: I would suggest using the following structure to approach the problem:  
+• 
+First, I'd want to understand the market size and growth rates for MedCount's market 
+and related software markets.  
+• 
+Next, I would like to explore the competition and their market shares.  
+• 
+Third, I would like to examine customer requirements and then, given those external 
+conditions, look at the division's capabilities to understand how well prepared it is to 
+meet the needs of the marketplace. 
+Interviewer: That sounds fine. So what do you want to know about the market?  
+Evaluate the case using the framework 
+Interviewee: Well, the first hurdle would be to identify the markets the company would be 
+interested in. Besides administration systems, what other types of medical software systems 
+do large hospitals purchase?  
+Interviewer: There are many software systems, but for the sake of time, the team 
+focused on three primary markets: administration systems, patient administration, 
+and physician support systems.  
+Interviewee: What do those systems do?  
+
+
+===== PDF p47 =====
+Practice Cases – Case 5: GenCo             
+BCG 
+ 
+ 
+43
+Interviewer: Patient administration includes systems such as admissions and 
+tracking. Physician support systems are more specialized, for individual physician 
+procedures. 
+Interviewee: I would like to know how large each market is and how fast each is growing. I 
+would use secondary sources such as press releases, analyst reports, and published market 
+studies, to obtain this information.  
+Interviewer: Great! That is what we did during the market study. Our information 
+revealed the following market sizes and growth rates.  
+  
+Administration
+Patient 
+administration 
+Physician 
+support 
+Market size 
+($M); 
+1,500 
+1,000 
+1,200 
+Growth rate 
+5% 
+5% 
+12% 
+Interviewee: From a size and growth perspective, physician support systems looks like a 
+very attractive market. I'd like to know a little about the customers themselves. The client is 
+currently targeting large hospitals. Approximately what percentage of the market do they 
+represent?  
+Interviewer: We were unable to get an exact breakdown, but we know that these 
+hospitals make up the vast majority of the total medical software market. 
+Interviewee: That would make sense, since the more sophisticated procedures at a hospital 
+might necessitate more advanced software solutions. I know that there have been a lot of 
+changes in the industry as a result of managed care. I don't know much about the industry, so 
+I would want to look at market studies and press clippings to get a better sense of the hospital 
+market in general and any technology or software trends more specifically.  
+Interviewer: Okay. Let's say that you did that and were presented with this 
+summary of market trends:  
+• 
+Consolidation in the industry, with three to four large hospital networks 
+dominating 45 percent of the market  
+• 
+Cost controls instituted, particularly as these large hospital networks acquire 
+smaller hospitals (centralization of functions being a key cost issue)  
+• 
+Many hospitals seeking to consolidate their vendor base  
+• 
+With regard to technology, many hospitals upgrading their older systems  
+Interviewee: If hospitals are consolidating vendors, perhaps our client has an advantage in 
+being part of a larger medical company. Maybe the client could also gain some advantages by 
+expanding into other software segments. Are the people responsible for purchasing software 
+at the hospital the same for all three segments?  
+Interviewer: Like all things, it differs by hospital, but the larger hospital networks, 
+have tried to consolidate their purchasing not only within but also across hospitals.  
+Interviewee: Is the decision maker for medical software the same as for medical 
+instrumentation and devices?  
+ 
+
+
+===== PDF p48 =====
+Practice Cases – Case 5: GenCo             
+BCG 
+ 
+ 
+44
+Interviewer: In some cases, the head of purchasing influences both decisions, but 
+the person who makes the final choice is different. Software decisions are usually 
+made by the hospital IT function, and those for instrumentation by the medical staff. 
+Interviewee: I think I have a pretty good understanding of the market for now. Let's look at 
+competition next. We could identify all the competitors and build up the market shares using a 
+combination of public data and estimates.  
+Interviewer: Well, let's assume that you don't have an infinite amount of time to 
+look at all the competitors. You can only look at the top five competitors in each 
+market. You are given the following data:  
+Administration Systems 
+Sales ($M)
+Growth (%)
+ 
+MedCount 
+700
+4%
+HCS Software Systems 
+100
+7%
+Morningside Software 
+80
+3%
+Admin Systems Solutions  
+70
+2%
+HTI Software 
+50
+15%
+ 
+Patient Administration  
+Sales ($M)
+Growth (%)
+ 
+HTI  
+300
+5%
+Registration Software Solutions
+240
+4%
+Signup Software 
+60
+3%
+HCS Software Systems 
+30
+16%
+Patient Software 
+20
+-1%
+ 
+Physician Support  
+Sales ($M)
+Growth (%)
+ 
+HCS Software Systems 
+150
+16%
+Physician Support Systems 
+100
+11%
+Medical Technology Inc 
+25
+18%
+HTI 
+20
+32%
+MedSys 
+5
+15%
+Interviewee: Very interesting. The first thing I would note from the data is that the market 
+concentrations are very different. In administrative systems, the top five competitors control 
+66 percent of the market and in patient administration, they control 65 percent. But in the 
+physician support market, they control only 25 percent.  
+I would want to know what gross margins look like in each of these markets as well. I might 
+turn to analyst reports and look at competitors' financial statements to deduce whether they 
+are making money in each market.  
+Interviewer: Gross margins vary, of course, but the analyst reports have margins of 
+25 to 30 percent for administrative systems and for patient administration. For 
+physician support, the margins tend to be higher, more like 45 to 50 percent.  
+Interviewee: I see that two competitors, HTI and HCS Software Systems, have very large 
+revenue growth in all three sectors, although they each dominate one. I would want to look at 
+their financials, annual reports, and press releases to find out a bit more about their strategy 
+in each of these areas.  
+
+
+===== PDF p49 =====
+Practice Cases – Case 5: GenCo             
+BCG 
+ 
+ 
+45
+Interviewer: You'd find that they recently entered these noncore markets. Why 
+might they have done that? 
+Interviewee: Perhaps, like our client, each had a strong position in its own segment, HTI in 
+patient administration and HCS Software Systems in physician support. Maybe they too 
+decided to branch out into the other segments to find additional growth.  
+Interviewer: That is a very good hypothesis. Let's say there is evidence in the 
+sources you consult that supports your assertion.  
+Interviewee: Well, if that were true, these two companies could be a threat not only in the 
+other two segments, but also in our client's segment, administrative systems. It looks as if the 
+client is slowly losing market share in its segment, since it is growing more slowly than its 
+market.  
+Interviewer: Good observation. 
+Interviewee: The market and competitor trends could also suggest that the client may want 
+to enter these other markets. In particular, the physician support market looks attractive, 
+given it has high growth and lack of a dominant competitor. The higher gross margins may 
+provide attractive returns on the necessary investment in software development. 
+However, the patient administration market may also be attractive. Although it is more 
+concentrated and offers lower margins than physician support, the client may be able to enter 
+this segment with a smaller up-front investment. Given the trend toward upgrading existing 
+computer systems, it may be important for MedCount to have a product offering in each of the 
+three market segments. That should not be too difficult, since the company is already in the 
+software industry.  
+Interviewer:  Perhaps, but you should think a little more closely about these types of 
+software. Are all software systems alike?  
+Interviewee: Well, let me think about that for a moment. I suspect patient administration 
+would have relatively low entry barriers. From your earlier description, these systems appear 
+to be pretty basic, dealing primarily with admissions and patient tracking. However, the entry 
+barriers in physician support might be higher, since these systems are more complex and 
+there are probably multiple systems for the various physician procedures. I guess it would be 
+harder to get into those types of systems.  
+Interviewer:  That would make sense. 
+Interviewee: Since the company might want to go into only some of the segments, I would 
+want to know how important it is to have products in all three segments. Do we know if the 
+competitors are marketing their products as a bundle?  
+Interviewer:  How might you find that out? 
+Interviewee: Since it would be difficult to talk to a competitor directly, I would probably 
+target a competitor's customer, particularly one that just converted from our client's software.  
+Interviewer:  Let's say you get an interview with a customer that recently switched 
+to HTI. You discover that the competitor was offering it a better pricing deal and 
+service for software products in all three segments. 
+ 
+
+
+===== PDF p50 =====
+Practice Cases – Case 5: GenCo             
+BCG 
+ 
+ 
+46
+Interviewee: How were MedCount's software and service perceived in relation to those of 
+competitors?  
+Interviewer:  The customer thought that its administrative systems were adequate, 
+"the old standby," but not stellar.  
+Interviewee:  Were there any other key reasons it switched from MedCount's system?  
+Interviewer: When it decided to upgrade its systems, it tried to contact MedCount, 
+but could never get a representative to describe its options.  
+Interviewee:  Interesting. How did HTI perform?  
+Interviewer: The HTI representative had heard that the company was considering 
+switching software vendors and provided a sales representative to pitch HTI's 
+administrative product the next day.  
+Interviewee:  It definitely sounds as if there was a problem with the sales function and that 
+customer relations need to be improved, particularly for the larger hospital chains. There also 
+seems to be an advantage from both a marketing and sales perspective in having multiple 
+software products. I would want to confirm those views by doing further interviews.  
+Interviewer: Let's say further interviews support those assumptions. 
+Interviewee:  Since we have already looked at the external conditions, I would like to move 
+on to the client itself. I'd like to know more about its marketing and selling organization as 
+well as its software development skills. 
+ 
+So far, we know that our client offers administrative software and that there may be a 
+problem with sales and marketing. Could you tell me a little about the marketing department?  
+Interviewer: The marketing department is organized regionally. Teams are assigned 
+to hospitals within each state or geographic region, such as New England.  
+Interviewee:  That could explain some of the problems with MedCount's marketing and sales. 
+If hospital purchasing is centralized, the marketing organization may be outdated. Does the 
+company have any teams dedicated to the four or five biggest hospital networks?  
+Interviewer: No, there are no dedicated teams. They talked about doing that for a 
+while, but it conflicted with the regional structure it had in place.  
+Interviewee:  With regard to software, does the company feel it has any strengths or 
+weaknesses?  
+Interviewer: It feels that their administrative product is very strong ("best of breed") 
+and is the dominant technology. Also, the product is modular in design, which allows 
+for easier upgrades. Although the company has never branched out into other 
+market segments, the software developers believe that certain modules could be 
+used to build the foundation for other administrative software programs. The 
+company feels customer support is also an area in which it excels.  
+
+
+===== PDF p51 =====
+Practice Cases – Case 5: GenCo             
+BCG 
+ 
+ 
+47
+Summarize and make recommendations 
+Interviewee:  Let's start with our client's market. The client dominates the administrative 
+software market, which is fairly large but growing slowly, and the company appears to be 
+slowly losing market share. Patient administration is also growing relatively slowly. 
+Interviewer: Both markets are relatively concentrated and appear to offer lower 
+margins than physician support. The physician support market is large and less 
+concentrated, and could potentially provide higher margins, but would require a 
+larger investment. The hospital market itself is becoming more concentrated and is 
+pushing to consolidate vendors. The purchasing agent is often the same for the three 
+types of software. 
+Interviewee:  Looking at our client's competitors, two, HTI and HCS Software Systems, 
+appear to be particularly threatening. Each has a dominant position in one segment and is 
+branching out into other areas. They appear to be marketing their products and services as a 
+bundle and are using service as a key point of differentiation. 
+The client offers only one type of system and appears to have some weaknesses in its 
+marketing organization, particularly in marketing to the larger hospital networks, which offer 
+the most promising market opportunities.  
+Interviewer: How would you recommend proceeding?  
+Interviewee:  The first priority should be to fix the marketing organization, particularly for 
+the large hospital networks. MedCount will have trouble expanding into new markets if it can't 
+defend its current position and shore up its existing customer relationships. There should be a 
+team dedicated to each of the major chains. The client should also look at improving customer 
+tracking so that it is clear when its customers are going to upgrade. There should also be clear 
+contacts so that the customer can easily keep in touch with MedCount. 
+Next, I would recommend that the client explore entering the other market segments by 
+leveraging its dominant position in administrative systems. At first glance, patient 
+administration does not appear to be very attractive, with slow growth, low margins, and large, 
+dominant competitors. There appears to be some advantage, however, in having products 
+across the product range. I would recommend that we interview some of MedCount's existing 
+customers to better understand their needs and future IT requirements. If the customer base 
+is interested in one software provider for both back-office administration and patient 
+administration functions, this segment looks promising. 
+If the client does decide to enter this market, it should look at the lowest-cost method of entry, 
+either developing a product internally or acquiring a competitor. The modular design of its 
+existing administrative software suggests internal development of the patient administration 
+product may be the way to go, but we would need a more thorough comparison of the internal 
+development and acquisition options, including both cost and time to market. I think that 
+physician support offers our client an exciting growth opportunity, given its high margins, high 
+growth, and fragmented competition. I would definitely think about an acquisition strategy, 
+since the client may lack the technical capabilities to enter this specialized market. I would 
+recommend going for one of the larger companies, as that would give the client a stronger 
+position. Smaller companies would probably not offer an important enough position in the 
+market. More research would be needed, however, for us to better understand the intricacies 
+of the market and each potential acquisition.  
+Interviewer: Those are very interesting conclusions. Thank you. 

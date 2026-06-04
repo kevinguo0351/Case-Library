@@ -1,0 +1,237 @@
+===== PDF p154 =====
+Telco Towers
+150
+Industry:                  Telecommunications
+Case Type:     
+Growth strategy
+Led by:            
+Interviewer 
+Quantitative Level: Medium
+Qualitative Level:   Low
+
+
+===== PDF p155 =====
+Behavioral Questions
+151
+Why “x” city? [Note: fill in the “x” with the city they are recruiting for – Chicago, Dallas, 
+etc.]
+Question 1:
+Tell me about a time you had to persuade your team members of your opinion on a 
+matter? 
+Question 2:
+
+
+===== PDF p156 =====
+Telco 
+Towers
+152
+Telco Towers is a cell tower company in the United States which leases space on its 
+towers to wireless providers (i.e. AT&T, Verizon, etc.) who install their respective 
+antennas / technology on its towers. With the advent, and expansion, of 5G across the 
+country, Telco Towers is locked into a contract to upgrade its suite of towers to support 
+5G technology and now needs a strategy to grow its business to cover the cost of 
+upgrading its towers. 
+Prompt #1:
+• Client/Company information
+–
+Leasing to wireless providers is currently Telco Towers sole form of revenue 
+• Industry/Competition information
+–
+Fragmented market overall with new competitors entering the market and providing rental space on towers for a fraction of 
+Telco Tower’s price; eroding the margins on these types of leases
+–
+Wireless providers are also pursuing their own tower builds to minimize costs
+• Product information
+–
+Telco Towers has ~20K towers across the United States (note to interviewer: this is not critical to case) 
+• Value Chain/Revenue information
+–
+Rental space is charged per antenna installed by the lessee; each antenna can support service to a certain number of households so at times 
+the lessee needs multiple antennas to support service to all of its customers in a given area
+• Any constraints on the case
+–
+The contracts and costs to upgrade the towers have already been signed and are therefore not negotiable at this point
+Case Background:
+Telco Towers 
+
+
+===== PDF p157 =====
+Case Name
+153
+Note, important to de-prioritize costs in framework given build expense will be the same 
+regardless. Want to focus on new business revenue opportunities. Once cleared, 
+inform them we have information on potential new customers in our footprint.  
+Framework Buckets:
+Revenues
+Costs
+New Business
+Existing 
+Business
+Fixed
+Variable 
+•
+Adjust pricing
+•
+Sign current 
+customers to new 
+leases on other 
+towers
+•
+Extend term of 
+existing contracts
+•
+Identify new 
+customers
+•
+Identify new use 
+cases for which 
+businesses may need 
+to rent tower space 
+(Fixed Wireless 
+Access)
+•
+Salaries 
+•
+Utilities 
+•
+Rent 
+•
+Property Taxes
+•
+Expense of 
+upgrading towers to 
+5G 
+•
+SG&A
+Telco Towers 
+
+
+===== PDF p158 =====
+Exhibit #1
+154
+
+
+===== PDF p159 =====
+Interviewer guidance on Exhibits
+Interviewee should identify that this graphic will 
+help them size the opportunity (starting with 
+identifying the company with the greatest number 
+of users inside Telco Tower’s footprint).
+Blue Devil Broadband is largest opportunity by 
+number of users in Telco Tower’s footprint. This 
+company is a start-up providing upgraded 5G fixed 
+broadband to household’s and is therefore a new 
+use case for Telco Towers. 
+Push the interviewee to think about what other 
+types of information they would need to size 
+this! 
+Additional Statistics Needed to Size Revenue 
+Opportunity: 
+Avg. # of People per Household: 5 
+# of Households per Antenna: 1,200
+Telco Tower’s monthly charge per Antenna: $1,500  
+Basic Analysis (# customers inside Telco 
+Tower’s footprint by company)
+Note: encourage interviewee to round where logical as seen 
+below, except do not round on “Duke Wireless” calculation 
+Blue Devil Broadband: 50% * 60M = 30M
+NC Communications:  40% * 50M = 20M 
+Duke Wireless: 95% * 30M = 28.5M 
+Tar Heel Broadband: 20% * 15M = 3M
+27701 Wireless: 30% * 14M = 4.2M 
+Calculation of annual revenue opportunity 
+pursing tower rental to Blue Devil Broadband
+30M (users in Telco Tower / Blue Devil footprint) / 5 
+(people per household) = 6M households
+6M (households) / 1,200 (households per antenna) = 5K 
+antennas
+5,000 (antennas) * 1,500 (monthly charge per antenna) = 
+$7.5M per month
+$7.5Mper month * 12 = $90M per year
+155
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p160 =====
+Brainstorming
+What non-financial factors should we 
+consider when considering partnership with 
+these companies? 
+Ideas for Brainstorm Answers
+Viability of business model (start-ups vs. 
+strong-holds in the space) 
+Likelihood to win partnership 
+Existing connections / relationships with 
+each company 
+Share of business Telco Towers is likely to 
+win (95% with Duke Wireless but only 50% 
+with Blue Devil Broadband?) 
+Rental capacity available on existing 
+towers (enough to service certain 
+customers?)
+156
+Prompt:
+Analysis:
+
+
+===== PDF p161 =====
+Telco 
+Towers
+157
+Telco Tower’s should pursue a lessor/lessee partnership with Blue Devil Broadband. In 
+addition, Telco Tower’s should consider simultaneously pursuing a similar arrangement 
+with the other companies with sizeable customer bases in our footprint  (Duke Wireless 
+and/or NC Communications) assuming the capacity exists on its towers. 
+Recommendation 
+• Potential Risks: 
+– Decrease in quality of service to existing customers given increase of usage on the towers through 
+the addition of new customers
+– Lose RFP / partnership proposal to cheaper competitor in the marketplace 
+• Next Steps:
+– Schedule a meeting with leadership at Blue Devil Broadband (possibly also Duke Wireless and/or NC 
+Communications)
+– Test reasonability of our monthly pricing against competitors in the space to ensure we’re offering a 
+competitive price point at $1,500 per month per antenna
+Risks and Next Steps:
+Telco Towers 
+
+
+===== PDF p162 =====
+Evaluation Criteria
+158
+Candidate Level
+Assessment
+Average Candidate
+•
+MECE framework (might be missing a few items)
+•
+Needs a lot of input/direction from interviewer to clear exhibit
+•
+No self-guidance into the market sizing calculation
+•
+Difficulty identifying even 1 – 2 additional considerations around 
+partnership during the brainstorm
+Good Candidate
+•
+MECE framework 
+•
+Clears exhibit with minimal guidance from interviewer
+•
+Puts the market sizing calculation in motion with assistance from 
+interviewer 
+•
+Identified half or more of additional considerations during the 
+brainstorm 
+Excellent Candidate
+•
+Includes but de-prioritizes costs in the framework given 
+additional information provided on where Telco Towers is in the 
+contracting/upgrade process
+•
+Clears exhibit with no issues
+•
+Structures the math (asks for inputs) for market sizing
+•
+Identifies most (if not all) of the additional considerations during 
+the brainstorm 

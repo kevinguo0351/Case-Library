@@ -1,0 +1,50 @@
+===== PDF p40 =====
+ 
+Haas Consulting Club Case Book 
+ 
+36  
+5.10. CD Stockouts 
+Length: Medium (30 Minutes) 
+ 
+Problem: 
+Your client is a large music company that developed via a merger several years ago 
+between an American and a European business.  It is currently the #2 player in the market 
+with 25% market share and $75 billion in revenue.  During the last holiday season, the 
+company suffered an abnormally large degree of stockouts, causing its retailers to be 
+unable to replenish the CDs on its shelves.  What went wrong and what should the 
+company do to prevent this in the future? 
+ 
+Information To Be Provided If Requested: 
+The “music industry supply chain” can be structured as follows: 
+Artists & Content  Physical Production  Distribution  Retailers 
+  
+Time, communication, and transportation costs must be factored into each “handoff” in the supply chain. 
+ 
+Supply chain phase descriptions: 
+• Artists & Content: Typically the longest phase, with a wide range of variability in length 
+• Physical Production: Typically the shortest phase, often a few seconds, managed in-house by the client 
+• Distribution: Storage and transportation via distribution centers between manufacture and retail locations 
+• Retailers: Store shelves, hot-selling items have lead times that are short, but not unreasonable 
+ 
+Supply chain relations: 
+• Artists & Content: No standard operating procedures in place to deal with music content providers 
+• Physical Production: In-house 
+• Distribution: Good relations and variability management mechanisms with 150-200 distributor network 
+• Retailers: Strong relations, good communications, and information sharing with end retailers 
+ 
+Artists & Content Process Detail (if requested): 
+• Content relationships are often contractual arrangements with recording studios and independent artists 
+• There are no guidelines to manage “the creative process”, which rarely conforms to set timetables 
+• There are no standardized decision-making procedures for how and when contacts come up for review 
+• The above factors contribute to the extremely high rate of variability in this phase of the supply chain 
+ 
+Analysis: 
+Detailed probing of the “music industry supply chain” should reveal bottlenecks in the 
+Artist & Content phase and resulting handoff, even when the rest of process is generally 
+marked by best-in-class procedures.  The interviewee should demonstrate understanding 
+that high process variability and front end delays can lead to supply chain disruptions and 
+ultimately product stockouts.  These factors are particularly likely to cause problems 
+during periods of high demand, such as the retail holiday season.  A detailed supply chain 
+management process needs to address the unusual circumstances and variability of “the 
+creative process.” 
+ 

@@ -1,0 +1,38 @@
+{
+  "case_id": "Stern_2021_27_green-dreamz",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 27,
+  "case_name": "Green Dreamz",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Cannabis / Retail",
+  "difficulty": null,
+  "pdf_page_start": 298,
+  "pdf_page_end": 312,
+  "n_pages": 15,
+  "exhibit_pdf_pages": [
+    300,
+    301,
+    302,
+    303,
+    304,
+    309,
+    310,
+    311,
+    312
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p300.png",
+    "exhibits/exhibit_p301.png",
+    "exhibits/exhibit_p302.png",
+    "exhibits/exhibit_p303.png",
+    "exhibits/exhibit_p304.png",
+    "exhibits/exhibit_p309.png",
+    "exhibits/exhibit_p310.png",
+    "exhibits/exhibit_p311.png",
+    "exhibits/exhibit_p312.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\27_green-dreamz"
+}

@@ -1,0 +1,78 @@
+===== PDF p13 =====
+EXAMPLE CASES BY TYPE 
+PROFIT IMPROVEMENT  
+ 
+FRUIT JUICE PRODUCERS 
+ 
+Situation:   
+ 
+This company is an association of 900 producers of juice that supply the fruit to make juice. The profits of the total 
+company get shared among the producers based on how much they supplied (sold) to the company.   
+ 
+Market Share
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+1997
+1998
+1999
+2000
+Competitor
+Company
+Company results
+0
+1000
+2000
+3000
+4000
+5000
+6000
+1997
+1998
+1999
+2000
+Revenues
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+Profits
+Revenues
+Profits
+ 
+Question:  
+What has gone wrong?  
+ 
+Additional information (only if asked):  Price is the main differentiator in this "commodity" market. Currently our 
+price is the same as our competitor's.   
+ 
+Answer:  The main problem here is that demand for juice is going down, that puts pressure on the competitors to 
+drop prices to maintain their production level, as a result, not only do they have a decline in sales, but also a bigger 
+decline in profits.  
+On the inside, since individual producers want to take more profits, they produce more, and this leads to excess 
+supply, which in turn, creates waste.  Since the producers are not able to sell everything that they produce, they 
+incurs losses, which make them "sell" at lower prices, which in turn creates even more pressure on their profits.  
+This is a vicious cycle that started with the decrease in overall demand, and continues further and further. 
+Things to consider in order solving the problem: 
+• 
+Look for alternative places to sell the excess supply 
+• 
+Limit the production per producer 
+• 
+Decrease the number of producers 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 39 
+ 

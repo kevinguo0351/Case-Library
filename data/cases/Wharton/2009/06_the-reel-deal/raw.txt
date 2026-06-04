@@ -1,0 +1,114 @@
+===== PDF p84 =====
+Case: The Reel Deal
+Bain, Round 1
+A movie studio client has an extensive library of hit movies from prior years. As part of your effort to find new sources of profit for 
+the company, you are to assess the viability of digitizing the movie reels and making them available online for a fee.
+Problem statement narrative
+80
+This case is intended to test the candidates ability to react to 
+a broadly worded scenario, determine the key data needed 
+to make a decision and navigate several basic but 
+potentially tricky math questions. The interviewer should 
+begin by asking the candidate what information they will 
+need to analyze the problem and make a recommendation.  
+A  brief discussion on industry analysis (including consumer 
+trends and competition) as well as company position 
+(including market share and firm specialization) is 
+appropriate, BUT this is a math case focused on profitability 
+(other data is irrelevant). The interviewer should quickly get 
+to the data and ultimately offer any information (see right 
+panel) that is not asked for.
+Case Type: Profitability / Market Entry
+Overview for interviewer
+Expected revenues: $200/clip
+100 clips per movie
+50/50 revenue split per clip (50% goes to royalties for other 
+parties)
+Studio estimates there would be a 25% yearly utilization 
+rate
+Information to be provided upon request
+
+
+===== PDF p85 =====
+Case: The Reel Deal
+Case Questions
+Key elements of analysis to solve the case
+What would be the revenue per movie 
+per year?
+Calculate expected revenue
+Say the studio only had fixed costs 
+(once the movie was digitized, any 
+revenue is pure profit). It costs $30M to 
+complete. The studio would like to see a 
+positive return on any investment within
+Breakeven analysis, part 1
+The studio realizes upkeep of the digital 
+files and service for the online business 
+would have additional variable costs of 
+$18 per utilized clip. Will they be able to 
+break even in 2 years?
+Breakeven analysis, part 2
+81
+positive return on any investment within 
+2 years. 
+break even in 2 years?
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+($200*.5)*100*.25 = $2500 per 
+movie per year
+Give demand when asked: another 
+studio with similar offerings is seeing 
+demand of 8,000/ year 
+…$30M/$2500 = 12,000 customers 
+to break even. Assuming we can get 
+close to the competitor’s demand of 
+8,000/yr, we can break even within 2 
+years.
+$100-$18=$82 CM per year per clip
+($200*.5)*82*.25 = $2050 per movie 
+per year
+$30M/$2050 = 14,634 customers to 
+break even …still achievable within 2 
+years based on 8,000/yr forecast.
+
+
+===== PDF p86 =====
+Case: The Reel Deal
+Sample Recommendation
+Based on the data provided, all scenarios suggest the digitization move is a prudent endeavor.
+Recommendation
+General competitive threats; new technology making this strategy obsolete; assumptions do not hold 
+true; some movies are more popular than others; partners may demand higher royalty payments.
+Risks
+Although not central to the case recommendation, potential next steps could include: deeper competitive 
+l
+i
+d t
+i
+ti
+f
+ifi t
+h
+l
+l tf
+l
+l
+t
+Next Steps
+82
+analysis,  determination of a specific technology platform, any necessary legal agreements
+Next Steps
+Disregarding any ancillary information provided 
+earlier, what risks exist in making this decision based 
+on demand seen by a competitor?
+Some potential answers:
+•Competitor has large market share, making entry 
+difficult
+•One year of demand data does not allow trend 
+analysis
+•Data may not be accurate
+BONUS

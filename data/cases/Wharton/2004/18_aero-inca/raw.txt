@@ -1,0 +1,114 @@
+===== PDF p42 =====
+CASE 18:  AERO INCA (McKinsey – Round 1)          
+ 
+Your client is Aero Inca – Latin America’s 2nd largest airline.  The airline has a hub in Mexico 
+City and flies to North, South, and Central America as well as a handful of European and Asian 
+destinations.  Recently, a number of smaller airlines have expanded and are flying to North 
+America directly, taking market share from our client and decreasing revenue and profitability 
+(which is heading towards the red).  Your job is to advise on what we need to increase revenue. 
+ 
+ 
+Additional Information Provided After Relevant Questions: 
+ 
+• Customers basically come from two areas:  
+1) frequent fliers who depart from Mexico City 
+2) Through put transfers to smaller cities that go through the Mexico City hub. 
+ 
+ 
+Interviewee’s Solution: 
+ 
+McKinsey:  How would you think about increasing revenue? 
+Me: I would first think about the product mix that we offer in the following manner: (draw 2X2) 
+• We can continue selling the same product to the same customer 
+• We can sell the same product to new customers (maybe capitalize more on tourists than business 
+travelers for example) 
+• We can sell a new product to the same market (maybe offer new destinations to business travelers) 
+• We can sell a new product to new markets (maybe new destinations to tourists) 
+ 
+McKinsey:  That sounds good.  Aside from the revenue side, what else should you think about? 
+Me:  I’d also want to think about costs both fixed and variable that will ultimately affect the 
+profitability of these options.  Fixed costs could include planes, the hub, and other equipment (like 
+baggage handling machines) that we need to run our business.  Variable costs would include fuel and 
+labor. 
+ 
+McKinsey:  What are some of the things that you can do to control costs? 
+Me:  With regarding to planes, you can evaluate whether or not it makes sense to buy them or lease 
+them.  With regard to the hub, we can consider keeping the hub in Mexico City or moving it to another 
+location.  With regards to fuel, you can construct a hedge against future rises in prices (maybe build a 
+reserve).  For labor, we could consider unionized vs. non-unionized sources. 
+ 
+McKinsey: Ok.  So, when evaluating some of these options, the VP of network design comes to you 
+with a question that he needs the answer to by the end of the week.  He needs to know whether or 
+not to increase flights to NY (which we already serve).  This would mean that we would have to 
+cancel our two daily flights to Mango, Brazil as we need to use that aircraft to go to NY.  How 
+would you decide whether or not to go to NY? 
+Me:  At its core this is a profitability question.  I would first want to calculate revenue for the new 
+route based on the expected price of the ticket and volume we expect.  Then I’d want to calculate the 
+costs that we discussed before in terms of the NY route.  I’d then compare this profit number to what 
+we were making on the Brazilian route. 
+ 
+McKinsey: Assume costs are a wash.  How would you figure it out? 
+Me: I’d want to know the capacity of the plane used and the expected utilization of both routes as well 
+as the price per ticket.  Do we have this information? 
+ 
+ 
+37
+
+
+===== PDF p43 =====
+ 
+38
+Interviewee’s Solution (cont.): 
+ 
+McKinsey: The plane holds 200 people.  For the Mango run, we get 60% utilization and a ticket 
+costs $500.  For the NY trip, we would add 3 additional trips at a ticket price of $500.  Utilization 
+is currently 80% on these flights. 
+Me:  Ok, I can start doing some calculations.  We would make $120,000 on the Mango route 
+(200*2*0.6*500).  As far, as the NY trip, do we expect the same utilization to hold for new flights?   
+ 
+McKinsey: No, we expect utilization across all flights to be 70%. 
+Me: Ok, so we need to take into account the lost utilization on the first set of flights.  How many are 
+we currently flying? 
+ 
+McKinsey: 12 
+Me: Ok so we are currently making $960,000 (12*200*0.8*500).  Before beginning, the new route 
+calculation, do we expect any competitive response from our change in routes? 
+ 
+McKinsey: Yes.  We expect the cost of a ticket to drop to $450. 
+Me:  So, our total revenue on the revised flight schedule would be $945,000 (15*200*0.7*450).  
+That means overall we make $135,000 less on the new structure. 
+ 
+McKinsey:  If that’s the case what could our client do to maximize profitability on its current 
+Mango route? 
+Me:  The first thing we should focus on is utilization.  If we can get more passengers on each flight 
+then we can increase profitability. 
+ 
+McKinsey:  Assume we can’t. 
+Me:  Ok, we can also evaluate the cost structure and what we specifically offer passengers.  For 
+example, do passengers on these flights need meals or would they pay for them.   We may be able to 
+reduce the number of flight attendants.  As mentioned before, we can also look into the options of 
+leasing vs. buying the plane and hedging fuel costs. 
+ 
+McKinsey:  Assume we’ve done all we can on the cost side. 
+Me:  We may want to evaluate whether or not our profits would be increased if we only flew one 
+flight per day.  Even though we wouldn’t get as many customers it still may be more profitable for 
+us to only fly one flight. 
+ 
+McKinsey:  Do you really want to leave customers behind? 
+Me:  Maybe.  I know that above a certain level additional passengers represent pure profit.  So, if our 
+added 40% of utilization on one flight adds more profit than we are getting from only running 60% 
+on both flights, we may want to consider it.  This also assumes that there would be no ill will from 
+the customers that now can’t fly with the airline. 
+ 
+McKinsey:  Sounds good. 
+ 
+ 
+Commentary/Recommendations: 
+ 
+On the whole this is a good solution. The candidate manages the analysis of the NY alternative 
+effectively and clearly defends the recommendation for one Mango flight rather than two in response 
+to questioning.  The Candidate sets out a framework for revenue improvement (the 2x2 matrix) and  
+for assessing elements of costs. Potential weaknesses are that not all elements are necessarily covered. 
+The revenue framework does not mention the potential for increasing price, or driving higher volume 
+through lowering price and the cost framework does not necessarily capture all of the elements of the 
+cost structure. 

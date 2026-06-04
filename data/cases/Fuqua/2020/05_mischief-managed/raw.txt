@@ -1,0 +1,405 @@
+===== PDF p75 =====
+Mischief Managed
+71
+Industry:                  Finance – Private Wealth
+Case Type:     
+Growth Strategy
+Led by:            
+Interviewer
+Quantitative Level: Medium
+Qualitative Level:   Medium
+
+
+===== PDF p76 =====
+Behavioral Questions
+72
+• How do you maintain balance in your work and personal life? What strategies have 
+been successful in helping you organize your time?
+Question 1:
+• Give me an example of a time that you showed resilience in your previous role? What 
+was the situation and how did you persevere?
+Question 2:
+
+
+===== PDF p77 =====
+Mischief Managed
+73
+• After successfully servicing the needs of ultra-high net worth individuals in the Atlanta 
+area for ten years, our client, Smith Wealth Management (SWM), is looking to 
+expand geographically. Specifically, the CEO of SWM has brought you in to 
+recommend a plan of action for evaluating potential expansion opportunities. How 
+would you approach both sizing the market and making a final recommendation on 
+an expansion strategy?
+Prompt #1:
+• Background information to be divided into these categories:
+– Client/Company information
+•
+SWM provides holistic wealth management services, including fixed income, public and private equity investing. Unlike some 
+of their competitors, they do not provide ancillary legal or tax services. 
+•
+SWM has $30B AUM (assets under management) across 5,000 clients. They have a minimum of $3M investable assets and 
+the average account size is $6M (candidate should also be able to quickly calculate this).
+•
+No clear revenue or AUM goal but candidate should be able to contextualize the opportunity size to decide if expanding is 
+worthwhile.
+– Industry/Competition information
+•
+The wealth management space is highly competitive, with both large players (ex: Goldman Sachs, JP Morgan) and smaller, 
+more niche and local firms competing for the same clients.
+– Product information
+•
+SWM offers access to fixed income and equity mutual funds, ETFs, and separate accounts, as well as alternative investment 
+vehicles such as hedge funds and private equity funds.
+Case Background:
+
+
+===== PDF p78 =====
+Mischief Managed
+74
+Framework Example Buckets:
+Opportunity 
+Size
+Competition
+Market 
+Similarities
+Geographical or 
+demographic 
+similarities that 
+indicate one market 
+could make more 
+sense than others? 
+(For ex, Dallas and 
+Atlanta share similarities 
+in size and lifestyle that 
+NYC and Atlanta do not.)
+Regulations
+Demand for wealth 
+management 
+services
+# of potential clients
+Average per capita 
+wealth
+# of existing 
+wealth 
+management firms
+Market share
+Financials
+Potential revenue 
+(average account size, 
+client fees)
+Investment/start up 
+costs (ex: hiring costs, 
+legal fees, marketing 
+expense, etc.)
+On-going costs / 
+overhead (building 
+rental/lease, salaries, 
+manager fees, advisory 
+fees, etc.)
+Interview Guidance
+At it’s core, this case is about evaluating a new opportunity, while taking into account multiple 
+factors that could make entry into a new region more/less attractive. Sample buckets and 
+considerations are above.
+
+
+===== PDF p79 =====
+Exhibit #1
+75
+City
+Metro Population 
+(M)
+Demand for PWM 
+Services
+Est. Average 
+Account Size 
+($M)
+Dallas
+7.2
+5%
+10
+Nashville
+2
+15%
+4
+San Francisco
+4.7
+10%
+7
+Raleigh
+1.2
+10%
+12
+Demand for PWM Services given as % of metro population
+
+
+===== PDF p80 =====
+Interviewer guidance on Exhibit #1
+• The interviewer should place the exhibit in 
+front of the candidate and note that SWM 
+has identified several potentially attractive 
+markets considering the statistics shown 
+in the table
+• Candidate should analyze the data to 
+calculate the opportunity size in each 
+location
+• Math guidance:
+–
+(1) City Population x Demand for PWM Services
+•
+Dallas: 360K
+•
+Nashville: 300K
+•
+San Francisco: 470K
+•
+Raleigh: 240K
+–
+(1) x Est. Avg. Account Size = Total Opp. Size
+•
+Dallas: 3.6B
+•
+Nashville:1.2B
+•
+San Francisco: 3.29B (3.3B rounded)
+•
+Raleigh: 1.44B
+• Analysis for the exhibit to have 2 parts –
+– Basic
+•
+There are clear differences in all factors: 
+population size, demand for services, and 
+estimated avg. account size
+•
+Should be able to immediately eliminate 
+Nashville as a potential option given smaller 
+population and low average account size
+•
+After calculating, should be able to 
+recommend Dallas given it has the largest 
+opportunity size
+– Second order insights
+•
+Dallas, Nashville, and Raleigh all share some 
+geographic or demographic similarities, that 
+could make any of these a more natural 
+choice than San Francisco regardless of 
+market size
+•
+Calls out other factors that could influence 
+opportunity size: average fee charged per 
+account, number of competitors, population 
+growth, etc. à this should lead into the 
+brainstorm!
+76
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p81 =====
+Brainstorming
+• Although Dallas seems to be an attractive 
+opportunity, what other factors should be 
+assessed when entering into a new 
+market?
+• Note to interviewer: The candidate should 
+mention either number of competitors or 
+fees charged to clients in their analysis, 
+after taking them through the full 
+brainstorm, come back to this to move to 
+Exhibit #2.
+• Analysis of brainstorming to have 2 parts:
+– High level structure of the 
+brainstorming, some potential options 
+include:
+•
+Internal vs. External
+•
+Revenue vs. Cost
+– Specific details
+•
+Internal: Capacity to expand, hiring needs, 
+management structure, potential revenues 
+and costs
+•
+External: Competitors in market, expected 
+population growth, health of economy overall, 
+increased competition from “robo-advisors”, 
+feasibility of traditional wealth management 
+model
+•
+Revenue: fees charged per account (do they 
+differ across locations?), expected market 
+share, competitors, etc.
+•
+Costs: Overhead, expansion costs, 
+regulations, etc.
+77
+Prompt:
+Analysis:
+
+
+===== PDF p82 =====
+Exhibit #2
+Competitive Landscape
+78
+22%
+13%
+10%
+50%
+5%
+12%
+10%
+8%
+70%
+30%
+23%
+17%
+8%
+17%
+5%
+10%
+8%
+7%
+64%
+3%3%5%
+Firm C
+Firm B
+Other
+Firm A
+Firm D
+Firm C
+Firm B
+Firm E
+Other
+Firm A
+Firm B
+Other
+Firm F
+Firm C
+Firm E
+Firm D
+Firm A
+Firm B
+Firm D
+Firm C
+Other
+Firm A
+Dallas
+San Francisco
+Raleigh
+Nashville
+
+
+===== PDF p83 =====
+Interviewer guidance on Exhibit #2
+• After the candidate mentions competitors 
+in the brainstorm, give the interviewee 
+Exhibit #2
+• The candidate should realize they need to 
+analyze the competitive landscape in 
+each location, strong candidates will also 
+recognize that they should tie this 
+information into the opportunity size 
+values from Exhibit #1
+• Note to interviewer: “Other” is a further 
+indicator of opportunity size and indicates 
+potential market share not currently 
+covered by a competing firm
+• Analysis for the exhibit to have 2 parts –
+– Basic
+•
+Each market has a different number of 
+competitor firms so it’s necessary to do a 
+competitive analysis
+•
+San Francisco is clearly not an attractive 
+market, as there are a number of entrenched 
+competitors that dominate the market
+•
+This confirms Dallas is an interesting 
+opportunity for SWM, 50% of the market is still 
+up for grabs ($1.8B based on previous calcs.)
+– Second order insights
+•
+Although San Francisco has the second 
+biggest opportunity size, Raleigh could also 
+be interesting as there are very few 
+competitors with a large market share
+•
+Nashville has the most competitors but no one 
+firm has managed to secure more than 10% 
+of the market, could this imply something 
+deeper about the difficulty/feasibility of 
+entering into this location?
+79
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p84 =====
+Mischief Managed
+80
+• Your team is preparing to brief the CEO on your findings when she stops by the 
+office a day earlier than anticipated, how would you summarize your findings to her?
+– A good recommendation will include the following actions: move forward with expansion into 
+Dallas (if interviewee can justify a different city or not expanding at all, that’s ok too)
+– Interviewee should identify Dallas as the most attractive market and quantify the opportunity 
+size ($3.6B in additional AUM, or 12% of current $)
+– Should also comment on the competitive analysis and how this confirms/changes the 
+recommendation 
+Recommendation 
+• Risks
+– Feasibility of gaining new clients and capturing market share from entrenched competitors 
+(unlikely to gain all 50% of available market share)
+– We have not yet assessed actual revenue or cost implications, could this analysis potentially 
+change our recommendation?
+– Threat from low-costs “robo-advisors”, will people still want/need human advisors in 20 
+years?
+• Next Steps
+– Assess feasibility of expansion: costs of setting up new operations (overhead, labor, etc.) vs. 
+expected revenue (number of expected clients * account size * fee charged to client)
+Risks and Next Steps:
+
+
+===== PDF p85 =====
+Evaluation Criteria
+81
+Candidate Level
+Assessment
+Average Candidate
+•
+May ask some clarifying questions about the industry but afterward can put together a 
+solid framework
+•
+Needs prompting or significant correction on math calculations in Exhibit #1
+•
+Brainstorm is good but not case-specific, only addresses typical market entry factors
+•
+Conclusion does include recommendation, but doesn’t effectively tie in both market 
+size and competitive landscape
+•
+Conclusion lists risks and next steps, but is not tailored to SWM specifically
+Good Candidate
+•
+Identifies important areas to explore when considered a new market entry and 
+drives the case forward from the framework
+•
+Understands how to pull the information from Exhibit #1 together to calculate market 
+size with no prompting
+•
+Brainstorm is tailored to finance/private wealth management and adequately lists 
+several factors to consider, especially the competitive landscape
+•
+Conclusion references information from both exhibits appropriately
+Excellent Candidate
+•
+Creatively addresses all potential factors in a market expansion and drives case 
+forward with little interviewer prompting
+•
+Calls out less-obvious factors that are private wealth specific: will SWM be able to 
+charge the same fees to clients in each location? Are there additional factors such 
+as age, employment, etc. that we haven’t fully considered yet?
+•
+Appropriately quantifies the opportunity within the context of SWM’s business, at 
+$3.6B, this would represent roughly 10% growth over the firm’s existing AUM, is that 
+worth it?

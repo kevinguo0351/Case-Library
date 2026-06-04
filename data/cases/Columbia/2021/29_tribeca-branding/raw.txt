@@ -1,0 +1,291 @@
+===== PDF p265 =====
+TriBeCa Branding
+Difficulty: Medium
+Industry: Professional Services
+Case Type: Market Entry
+Written by Scott Cesta ’22 and Kat Boorstein ‘22
+Concepts Tested
+Case #29 : TriBeCa Branding
+• Profitability, math, creativity
+• New business models (SaaS)
+Tribeca Branding is a NYC-based brand strategy firm. They operate using a traditional consulting model – partners bring 
+in new work, and teams of employees complete the projects, delivering recommendations to the client about their 
+branding, marketing, and advertising strategy. In recent years, Tribeca Branding has developed an internal software tool 
+that helped project teams optimize advertising strategy for clients. It has been so effective that clients are asking to 
+purchase the tool to use themselves
+Should Tribeca Branding launch this software tool as a standalone SaaS product to its clients?
+Problem Statement Narrative
+This is an candidate led case that rests on the candidate breaking down the differences between consulting/ professional 
+services and SaaS business models, and evaluate whether the Tribeca in question should change its business for this new 
+opportunity
+Case Notes
+261
+
+
+===== PDF p266 =====
+TriBeCa Branding
+Question #1 / Framework 
+Should Tribeca Branding launch the software tool as a standalone SaaS product?
+1.
+Profit
+a.
+Profitability of Existing Business Model
+i.
+Revenue per project
+ii.
+Costs
+b.
+Profitability of Tech Opportunity
+i.
+Monthly Recurring Revenue
+ii.
+Operating Costs
+iii.
+Switching Costs 
+2.
+Market
+a.
+Market
+i.
+Size of Market for Consulting Services
+ii.
+Size of Market for SaaS service
+iii.
+Market Trends (automation?)
+b.
+Competition
+i.
+Primary competitors for consulting
+ii.
+Primary competitors for SaaS
+3.
+Operations
+a.
+Method of Entry
+i.
+Divert Resources from Existing Business
+ii.
+Invest to expand the business
+b.
+Transformation Costs
+i.
+Retrain staff vs. hire new salesforce
+ii.
+Customer service/maintenance costs
+c.
+Brand & Marketing
+i.
+Reach and marketing costs
+ii.
+Brand dilution/customer loss
+Sample Framework
+This case is all about managing a large amount of 
+information and keeping one’s “eyes on the prize” of 
+profitability comparison. If stuck, remind the candidate to 
+drive towards this goal
+Guidance for Interviewer
+•
+The software is already developed and fully functional 
+– some investment would be needed to get it “client 
+ready” (UX design, IT improvements)
+•
+The software helps clients optimize web advertising 
+content and placement
+•
+The primary objective is to maximize profitability over 
+the next two years
+Clarification Answers if  Asked 
+262
+
+
+===== PDF p267 =====
+Question #2
+Question
+Solution
+Your team has gathered some information on potential customer businesses for the SaaS product (Exhibit #1).
+(A) Where do you think Tribeca’s current client base falls on this perceptual map? 
+(B) Which additional segment should they target? 
+(C) How many clients can they expect to reach in the new segment?
+(A) The candidate should identify that Segment #2 most likely contains Tribeca’s current client base, as those large 
+organizations are the most likely to be willing to pay for bespoke consultancy services to support their advertising
+(B) The candidate should identify that Segment #1 is the most attractive new target; though it less voluminous than 
+Segment #4, the higher percentage of customers “on the web” makes it the best fit for this digital-focused product. In 
+addition, it is more appealing than Segment #3 because smaller companies tend to be better targets for SaaS products, 
+lacking the capital to develop in-house capabilities or hire consultants to perform the same jobs
+(C) The candidate should work to identify how many clients they can expect to reach by targeting Segment #1. First, they 
+should count the number of companies in the segment (8 dots * 500 companies/dot = 4000 companies)
+Then, they should realize that they do not have the other piece of information they need to solve this problem – expected 
+segment penetration. When they ask, you should tell them that Tribeca expects to see a 5% penetration rate in Y1, and a 
+10% penetration rate in Y2 and beyond
+TriBeCa Branding
+263
+
+
+===== PDF p268 =====
+Question #3 
+Question
+(A) Let’s compare the operating profitability of the two possible business models: 1) traditional consulting and 2) SaaS 
+subscription. What do you think the primary revenue drivers and cost drivers would be for each of these business models? 
+(Allow candidate to complete brainstorm before reading part B.)
+(B) Our team has gathered some data and estimates the following. What would be the associated profit per year?
+Consulting: Tribeca has 100 consulting clients, and clients purchase a project about once every 2 years
+•
+Tribeca charges an average of $300k/project
+•
+It costs about $10k to sell a project (time spent by the partner who sells the project)
+•
+The average project requires a team of 6 consultants, who bill 200 hours each, at $200/hr
+SaaS: Tribeca would charge $10k/yr for an annual subscription
+•
+It costs about $1k to sell a subscription
+•
+The average annual subscription requires 10 hours of support staff time, at a cost rate of $100/hr
+•
+Tribeca expects to see a 5% penetration rate in Y1, and a 10% penetration rate in Y2 and beyond of the 
+segment identified in Exhibit 1
+•
+For simplicity, assume that SaaS business cannibalizes 100% of existing consulting clients (100 additional SaaS 
+clients)
+TriBeCa Branding
+264
+
+
+===== PDF p269 =====
+Question #3 (continued)
+Solution
+(A) A sample brainstorm might look like:
+Consulting
+Revenue Drivers: contractual project payments
+Cost Drivers: consultant billed hours, cost of project sales, overhead, consultant expenses
+SaaS
+Revenue Drivers: subscription fees
+Cost Drivers: cost of project sales, customer support, product development costs (upfront and ongoing)
+(B) Candidate should first calculate the profit per project (contribution), and then annualize. If necessary, remind candidate 
+of calculated total addressable market in previous exercise. 
+Consulting
+SaaS
+Cost per project 
+(or annual subscription)
+6 consultants * 200hrs * $250 = $240k
++ $10k sales = $250k / project
+10 support hours/year * $100 = $1000
++ $1k sales = $2000/ subscription
+Contribution/ project
+$300k - $250k = $50k / project
+$10k - $2k = $8k / subscription
+Profit in Y1
+100 existing clients *
+.5 projects/yr = 50 projects/yr * 
+$50k/project = $2.5M operating profit
+4000 possible clients * 5% + 100 existing 
+clients = 300 subs/yr * $8k/sub 
+= $2.4M operating profit
+Profit in Y2
+$2.5M operating profit
+4000 possible clients * 10% + 100 existing 
+clients= 500 subs/yr * $8k/sub = $4M
+Total Profit
+$5M operating profit
+$6.4M operating profit
+TriBeCa Branding
+265
+
+
+===== PDF p270 =====
+Question #4
+Question
+Solution
+Outside of financial profitability, what are some of the risks and challenges that could be associated with the decision to 
+pivot to the SaaS product? 
+A sample brainstorm for could look like:
+TriBeCa Branding
+Operations
+•
+Probability of success: is this the Tribeca’s core competency? Will customers 
+tolerate a shift like this? How reasonable are our sales projections?
+•
+Additional software development costs could be higher than expected
+•
+Changing operating model: shortened sales cycle, higher volume business
+Competitive
+•
+A lack of network effects leaves room for competitor firms to launch similar 
+products
+•
+Cannibalization of existing consulting business
+Human Capital
+•
+Dramatic shift in personnel: fewer consultants needed, more sales staff and 
+customer support
+•
+Change in culture of Tribeca would present a challenge to current employees
+266
+
+
+===== PDF p271 =====
+•
+Yes – over the 2Y time horizon specified, launching 
+the SaaS product is more profitable
+•
+Yes, with reservations – although the SaaS product is 
+more profitable over the specified time horizon, the 
+operational challenges of executing a shift like this 
+present significant challenges
+(Either of these recommendations is appropriate)
+Recommendation
+•
+There is a sizeable target segment of small companies 
+with web-focused consumers; we expect eventual 10% 
+penetration
+•
+The annual margin for consulting in this market is 
+$2.5M,; the annual margin of the SaaS product would 
+be $4M once scale is achieved.
+•
+Ramp-up to selling the new SaaS product would 
+dampen profitability in Y1
+Rationale
+•
+Challenges of switching business models may be 
+overwhelming
+•
+Sales projections may not hold
+•
+Upfront and ongoing software development & 
+marketing costs may be meaningfully large
+•
+Competitors may launch similar products
+•
+Firm may take reputational damage in other areas (“its 
+services are replaceable by software”)
+Risks
+•
+Investigate equity/debt funding sources that could 
+push out investment timeline
+•
+Research ongoing development and marketing costs 
+in-depth
+Next Steps
+TriBeCa Branding
+267
+Conclusion
+
+
+===== PDF p272 =====
+Exhibit #1
+Perceptual Map – Potential Market for SaaS Product
+TriBeCa Branding
+1 dot = 500 businesses
+Large
+Small
+100%
+0%
+Tribeca Size:
+% of  Tribeca’s Target Customers who 
+Spend 5+ Hrs per day online:
+#1
+#3
+#4
+Note: Average spend per Tribeca across all ad media in specified segment
+#2
+268

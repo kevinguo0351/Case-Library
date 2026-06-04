@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2012_07_global-bank-corp",
+  "school": "Fuqua",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2012.pdf",
+  "idx": 7,
+  "case_name": "Global Bank Corp.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 57,
+  "pdf_page_end": 65,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    57,
+    58,
+    61,
+    62
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p057.png",
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p062.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2012\\07_global-bank-corp"
+}

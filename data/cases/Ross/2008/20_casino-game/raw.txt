@@ -1,0 +1,87 @@
+===== PDF p66 =====
+Case 20:Casino Game                      -easy-                                       Accenture, Round 1 
+61 
+ 
+ (Source: Interview Case from Accenture, Round 1) 
+ 
+Context: 
+ 
+You own a Casino and are considering unveiling a new game.  The rules of the game are as follows: 
+• 
+ The player pays an amount X to play the game 
+• 
+ The player than rolls a single standard 6-sided die 
+• 
+ After the 1st
+• 
+ The player then has the option to give up that prize and roll a 2
+ roll, the player is awarded the amount on the die times $1000 (i.e., if you roll a 4, 
+you win $4000) 
+nd
+• 
+ The player can again accept the amount on the die in thousands or choose to roll a 3
+ time 
+rd
+• 
+ The maximum number of rolls is 3, and the player only gets the amount of money in 
+thousands shown on the die on the last roll 
+ time 
+ The goal of the case is to determine the minimum amount X that the Casino should charge to play the 
+game 
+ 
+(This case has no additional information; it is simply a look at the interviewee’s approach to a real 
+options/statistical analysis problem. 
+Do not let the interviewee veer off into tangents about other miscellaneous concepts. 
+Assume that all parties act rationally, and although it is obvious the casino will charge some amount 
+of margin above the expected value of the game, the goal is to simply find the minimum amount they 
+would be willing to charge, which is the expected value. 
+It is helpful to understand the concept of “Real Options”, but is not necessary to solve the case.) 
+ 
+Solution: 
+ 
+1 Roll Game: 
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣𝑣 𝑜𝑜𝑜𝑜 𝑎𝑎 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟= 1 + 2 + 3 + 4 + 5 + 6
+6
+= 3.5 
+ 
+(Therefore the expected payout of a single roll is $3,500) 
+ 
+2 Roll Game: 
+ 
+The price of a 2 roll game will be higher than the price of a 1 roll game 
+ 
+We will assume a certain price P for 1 roll game and will further determine the expected value of a 2 roll 
+game. 
+ 
+At P=$4,000, 1/3 of the players ( those who roll a 5 or 6) will quit after the first roll. The expected payout 
+for these players is =
+5+6
+2 ∗$1,000 = $5,500  
+Therefore 2/3 of the players will continue to play the 2nd roll. The expected value of their roll (which is 
+now a single roll game), as established before is $3,500. 
+ 
+1/3*$5,500 +2/3*$3,500 = $4,250 
+The price of a 2nd roll game will be greater than $4,250 
+
+
+===== PDF p67 =====
+Case 20: Casino Game                               - easy-                            Accenture, Round 1 
+62 
+ 
+3 Roll Game: 
+ 
+The price of a 3 roll game will be higher than the price of a 2 roll game 
+ 
+We will assume a certain price P for 2 roll game and will further determine the expected value of a 3 roll 
+game. 
+ 
+At P=$4,500, 1/3 of the players ( those who roll a 5 or 6) will quit after the first roll. The expected payout 
+for these players is =
+5+6
+2 ∗$1,000 = $5,500  
+Therefore 2/3 of the players will continue to play the 2nd roll. The expected value of their roll (which is 
+now a single roll game), as established before is $3,500. 
+ 
+1/3*$5,500 +2/3*$4,500 = $4,833.33 
+The price of a 3rd roll game will be greater than $4,833.33 
+ 

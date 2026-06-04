@@ -1,0 +1,73 @@
+===== PDF p41 =====
+ 
+Haas Consulting Club Case Book 
+ 
+37  
+5.11. Test Equipment Manufacturer 
+Length: Long (30-45 Minutes) 
+ 
+Problem: 
+Your client is a manufacturer of test equipment for electronics companies.  This is a high 
+complexity, low volume business, where products range from $10,000 to $1 million.  
+Products are built from sets of standard subassemblies, which the manufacturer holds in 
+stock.  When customers order a product, the Sales department determines customer 
+requirements and configures the product using these subassemblies. 
+ 
+Currently, the client holds 183 days worth of inventory on average.  Best-in-class 
+companies hold 39 days. The client would like you to help reduce inventories to 85 days 
+or less.  How would you go about achieving this? 
+ 
+Guidelines for Building the Supply Chain: 
+The candidate should begin by trying to understand the supply chain.  The following 
+information can be provided as the candidate works through the supply chain model: 
+1. After the order is received, the client assembles the product out of subassemblies 
+and base units 
+2. Subassemblies are essentially circuit boards, which are designed by the client.  
+Manufacturing of these circuit boards is outsourced, with a cycle time of 
+approximately 1-2 weeks 
+3. Components used to manufacture subassemblies are purchased and maintained by 
+the client, and sent to the outsourced manufacturer for assembly.  These 
+components fall in two categories of approximately equal dollar value: 
+a. A large number of “standard” off-the-shelf components are purchased 
+from distributors as needed.  Lead times for standard components are 
+approximately 1-2 weeks 
+b. A smaller number of “custom” components are designed by the client and 
+manufactured in low volumes by large semiconductor manufacturers.  
+Lead times for custom components are approximately 9 months, with little 
+opportunity for improvement 
+4. For a typical subassembly, 33% of the cost is made up of standard components, 
+33% of the cost is made up of custom components, and 33% of the cost is 
+assembly at the outsourced location 
+ 
+Additional Information: 
+1. The client currently guarantees 4 weeks delivery time to the customers upon order 
+receipt 
+2. Inventory is comprised mainly of base units (little dollar value) and subassemblies 
+(high dollar value).  Although there are only a few base units in the final offering, 
+the total number of product configurations with different features and 
+subassemblies is as high as 26,000 
+3. Some subassemblies move very fast, while some others move slowly, and 
+occasionally have to be scrapped because a new version of the product is offered 
+ 
+
+
+===== PDF p42 =====
+ 
+Haas Consulting Club Case Book 
+ 
+38  
+Solution: 
+There is no “aha” to this case, however, the candidate is to be tested on developing an 
+understanding of the supply chain, and asking the right questions to extract all the above 
+information.  A few key points: 
+• Has the client looked into reducing the number of subassemblies? One way to do 
+this could be making subassemblies that do a large set of functions, but enabling 
+only a smaller set requested and paid for by the customer.  This would allow for 
+pooling of the demand and reduce its variation, which would in turn lead to lower 
+inventories 
+• Standard components can be procured by the outsourced manufacturer if they 
+have demand for these components for their other customers.  This would reduce 
+the inventory being carried by the client, again because of pooling 
+• Given that the client promises 4-week delivery, it might be possible to hold 
+inventory in raw components rather than subassemblies and have it manufactured 
+on demand. If feasible, this could reduce the cost of inventory by one third 

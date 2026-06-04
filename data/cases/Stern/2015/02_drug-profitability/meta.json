@@ -1,0 +1,24 @@
+{
+  "case_id": "Stern_2015_02_drug-profitability",
+  "school": "Stern",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2015.pdf",
+  "idx": 2,
+  "case_name": "Drug Profitability",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Pharma",
+  "difficulty": "Hard",
+  "pdf_page_start": 49,
+  "pdf_page_end": 57,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    50,
+    57
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p057.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2015\\02_drug-profitability"
+}

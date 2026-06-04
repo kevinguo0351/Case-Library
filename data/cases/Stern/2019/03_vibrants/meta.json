@@ -1,0 +1,28 @@
+{
+  "case_id": "Stern_2019_03_vibrants",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 3,
+  "case_name": "Vibrants",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Consumer Packaged Goods",
+  "difficulty": null,
+  "pdf_page_start": 56,
+  "pdf_page_end": 62,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    58,
+    59,
+    61,
+    62
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p059.png",
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p062.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\03_vibrants"
+}

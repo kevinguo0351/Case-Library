@@ -1,0 +1,536 @@
+===== PDF p94 =====
+Tuck Consulting Club
+90
+Maple Leaf Airlines
+Good: Candidate should realize 
+this is a profitability case with 
+some Go/No Go elements and 
+market sizing. Structure should 
+reflect specifics of the airline 
+industry.
+Better: Relevant clarifying 
+questions. Detailed brainstorming 
+of costs and revenue specific to 
+aircraft and airports.
+Best: Nuanced consideration of 
+the interactions between the 
+choices of which aircraft to use 
+and which airport to serve. 
+Candidate draws linkages 
+between factors on his/her 
+framework. 
+Candidate Evaluation
+“Your client is Maple Leaf Airlines, a midsize regional carrier catering to fliers who 
+need access to rural airports in remote parts of Canada. They are looking at 
+expanding the network of routes they offer to customers. The COO of Maple Leaf 
+Airlines wants your help figuring out if they should open a new route, if so which 
+airport they should expand service to, and then based on that, which aircraft they 
+should use to run the route.”
+Case Prompt
+Clarifying Information
+• Maple Leaf is headquartered out of Toronto
+• There are three midsize regional airports the Maple Leaf is considering
+• Maple Leaf has only two aircraft available. Only one will be chosen, either a 
+Bombardier CRJ 700 or an Embraer E190
+• Maple Leaf’s COO will consider it a worthwhile project as long as revenues exceed 
+costs by at least 10%
+Two big decisions to make; which airport to expand to and which airplane to use to 
+service that route. The revenues and costs that will drive each decisions are 
+separate. Ticket prices, customer segment, fees, municipal taxes and operating 
+hours restrictions will determine the airport chosen. Fuel consumption, speed, # of 
+seats, and aircraft turnaround rate will determine the aircraft chosen. The constraints 
+of time and aircraft characteristics will ultimately force the candidate to choose the 
+second most profitable airport.
+Case Commentary (Notes to Interviewer)
+Type: Go/No Go, Profitability, 
+Market Entry
+Author: Kevin Moyer T’16
+
+
+===== PDF p95 =====
+91
+Sample Framework
+Sample Framework
+Candidate should be thinking about what 
+kinds of factors would be critical to driving 
+a decision about where to expand service 
+to.
+Must-haves:
+Revenues & Costs associated with 
+expanding service. New ticket revenue, 
+new fees, taxes, staff required. Some 
+thought should be given to customer 
+demand for flights, how often they should 
+fly etc.
+Nice to haves:
+Non-financial impacts of decision and 
+factors that would also influence where to 
+expand to. Also consider how ticket price 
+and flight frequency would influence 
+customer demand for tickets.
+Differentiators:
+Risks associated with the expansion, 
+additional wear and tear on aircraft, detail 
+around the types of fees likely to be 
+charged. Not taking expansion as a given 
+- considering the idea that it might not be 
+in the customer’s best interest to expand.
+Behind the Framework
+▪
+Profit
+▪
+Revenues
+▪
+Ticket Price x incremental # of tickets sold
+▪
+Baggage Fees x # of bags checked
+▪
+Food & Beverage prices x quantity sold
+▪
+Costs
+▪
+Fixed; type of aircraft? lease/mortgage payments 
+on aircraft; Airport related costs - Gate fees, Rent 
+for ticket counter space, Municipal taxes
+▪
+Variable; Fuel, Labor, Maintenance
+▪
+Brand/Perception impacts, risks
+Company
+▪
+How do they compete with our client? Routes? Pricing? Frequency? 
+Customer segment?
+▪
+How do they differentiate?
+Competition
+▪
+Who/Segments? Business v. tourist/personal travel
+▪
+Willingness to pay?
+▪
+Needs? Underserved destinations? # of flights / day? Timing of 
+flights?
+Customer
+▪
+Local, regional and national government rules on quiet hours
+▪
+Environmental impacts
+Regulation
+
+
+===== PDF p96 =====
+Make the candidate brainstorm the following types of costs and revenues. Allow them to pull this data from you.
+Airport
+Opens Closes Municipal Taxes and Fees Market Size (passengers/day) % Business Travelers
+Sudbury
+6:00
+23:00
+12,000,000
+$                           
+2000
+30%
+Mosoonee
+7:00
+20:00
+8,000,000
+$                             
+1200
+10%
+Saguenay
+5:00
+23:00
+7,000,000
+$                             
+1100
+20%
+Tuck Consulting Club
+92
+Airport Selection
+Once framework walk-through is done, hand the candidate Exhibit A and tell them “The airline has narrowed it down to three 
+airports which they might expand to. Which one should they pick?”. Assume that each passenger makes a round trip so that 
+one on an outbound leg is replaced by one on an inbound leg for each round trip flight.
+Question 1
+Data
+The candidate now has all the information they need to figure out the revenues and costs associated with each airport. The 
+hours of operation information will seem irrelevant right now but will come into play later in the case. They should quickly 
+bucket the data into revenues and costs. The challenge here are the large amount of data to deal with, the metric/imperial 
+conversions and remembering to do the $/day -> $/year conversions. The candidate should be able to understand the exhibit 
+and draw accurate conclusions regarding price and willingness to pay in developed and developing countries respectively.  
+They should also accurately calculate market size. Solution is on the next page.
+Candidate Insights
+• Maple Lead can capture 10% of any market
+• Maple Leaf operates 350 days/year.
+• Business Travelers pay an average of a 20% price 
+premium due last minute bookings.
+• Tickets are priced at $0.50/mile flown. 
+• There are roughly 1.6 kilometers in a mile. 
+• Ground support personnel and ticket counter space rental 
+costs at each airport are $1.2M/year.
+
+
+===== PDF p97 =====
+Tuck Consulting Club
+93
+Airport Selection Calculations
+Revenues
+Costs
+Airport Profit
+Based on this data the candidate will want to choose Moosonee as the best airport to expand 
+service to. However as they will learn in the next phase of the case, it is impossible to capture 
+all that revenue due to the speed and time constraints of the aircraft available to serve that 
+route. If they don’t automatically move on to aircraft selection remind them of the prompt.
+Airport
+Share of Market 
+(passengers/day)
+# Business 
+Travelers
+# Personal 
+Travelers
+Ticket 
+Price
+Revenue from 
+Business Travelers
+Revenue from 
+Personal Travelers
+Total Potential 
+Daily Revenue
+Total Yearly 
+Revenue
+Sudbury
+400
+120
+280
+350.00
+$   
+50,400
+$                          
+98,000
+$                         
+148,400
+$                
+51,940,000
+$   
+Mosoonee
+240
+24
+216
+600.00
+$   
+17,280
+$                          
+129,600
+$                       
+146,880
+$                
+51,408,000
+$   
+Saguenay
+220
+44
+176
+500.00
+$   
+26,400
+$                          
+88,000
+$                         
+114,400
+$                
+40,040,000
+$   
+Airport
+Municipal Taxes & 
+Fees
+Staffing & 
+Ticket 
+Total Airport 
+Costs
+Sudbury
+12,000,000
+$              
+1,200,000
+$     
+13,200,000
+$   
+Mosoonee
+8,000,000
+$                
+1,200,000
+$     
+9,200,000
+$     
+Saguenay
+7,000,000
+$                
+1,200,000
+$     
+8,200,000
+$     
+Airport
+Profit
+Sudbury
+38,740,000
+$              
+Mosoonee
+42,208,000
+$              
+Saguenay
+31,840,000
+$              
+
+
+===== PDF p98 =====
+Tuck Consulting Club
+94
+Aircraft Selection
+Ask the candidate “Which aircraft should be used to service the airport?” Hand them Exhibit B. Once they ask for data on 
+aircraft specific costs, if they have not already done this, make them brainstorm what kinds of aircraft costs they think would 
+be a factors. Then hand them Exhibit C. 
+Question 2
+Calculations
+It is critical that they realize this isn’t just about money. There is a seat capacity constraint and a flying time constraint which 
+restrict them from choosing the most profitable airport or the cheapest aircraft. If they focus only on the costs and 
+recommend using the Bombardier jet to serve Mosoonee, nudge them to consider the implications of the aircrafts’ speed and 
+seat capacities.
+Candidate Insights
+Exhibits B & C will lead to the following calculations:
+Airport
+Aircraft
+Total Yearly Costs
+Embraer E190
+10,600,000
+$                 
+Bombardier CRJ 700
+10,400,000
+$                 
+Embraer E190
+12,200,000
+$                 
+Bombardier CRJ 700
+11,800,000
+$                 
+Embraer E190
+11,400,000
+$                 
+Bombardier CRJ 700
+11,100,000
+$                 
+Sudbury
+Mosoonee
+Saguenay
+These costs lead to a 
+profit calculation that 
+looks like this:
+Airport
+Aircraft
+Profit
+Embraer E190
+28,140,000
+$  
+Bombardier CRJ 700
+28,340,000
+$  
+Embraer E190
+30,008,000
+$  
+Bombardier CRJ 700
+30,408,000
+$  
+Embraer E190
+20,440,000
+$  
+Bombardier CRJ 700
+20,740,000
+$  
+Sudbury
+Mosoonee
+Saguenay
+The candidate may not do all of the above calculations because they may have already settled on Mosoonee as the best 
+airport. At first glance, it would seem that serving Mosoonee with a Bombardier CRJ 700 would be them most profitable 
+option. However that recommendation is not the best option. There is another dimension to this case. The speed and 
+capacity constraints of the aircraft lead to a different conclusion.
+
+
+===== PDF p99 =====
+Tuck Consulting Club
+95
+Aircraft Constraints
+If the candidate considers the speed and seat capacity constraints of the aircraft, they will realize that in some cases at some
+airports, one or both aircraft cannot move the number of people who want to fly within the daily operating hours of the airport.
+Guidance to Interviewer
+Calculations
+An exceptional candidate will account for the hours of operation, speed and seat constraints before making a decision.
+Candidate Insights
+Exhibits B & C will lead to the following calculations. Tell the candidate it is fine to round to the first decimal place.
+Once the candidate completes these calculations, it becomes clear that serving Sudbury with an Embraer jet is actually the 
+best option. The speed and capacity of the jet overcome it’s higher costs. At Sudbury, you can capture all of the potential 
+market of 400 passengers. At Mosoonee, the best you can do is capture 210 of the 240 passengers meaning you lose (240-
+210)/240 = 12.5% of the revenue or $51,408,000 x 12.5% = $6,426,000. That reduces yearly profit on the Mosoonee route 
+to $30,008,000-$6,426,000 = $23,582,000.
+Airport
+Aircraft
+Time/ Round 
+Trip (hours)
+Turnaround time 
+on each end
+Time to complete 
+1 round trip
+Round Trips/ 
+day
+Round Trips 
+possible
+Total # Passengers 
+able to fly 
+Able to Satisfy 
+Demand?
+Embraer E190
+1.8
+0.5
+2.8
+6.2
+6.0
+420.0 Yes
+Bombardier CRJ 700
+1.9
+0.5
+2.9
+5.9
+5.0
+300.0 No
+Embraer E190
+3.0
+0.5
+4.0
+3.3
+3.0
+210.0 No
+Bombardier CRJ 700
+3.2
+0.5
+4.2
+3.1
+3.0
+180.0 No
+Embraer E190
+2.5
+0.5
+3.5
+5.1
+5.0
+350.0 Yes
+Bombardier CRJ 700
+2.7
+0.5
+3.7
+4.9
+4.0
+240.0 Yes
+Sudbury
+Mosoonee
+Saguenay
+
+
+===== PDF p100 =====
+Maple Leaf Airlines should expand service to the Sudbury airport using the Embraer 
+E190 aircraft. This will yield annual profit of roughly $28M. This is based on the 
+following factors;
+• Which airport is most profitable to serve
+• Speed and seat capacity constraints of the aircraft which would be used
+• Hours of operation of the airports
+Good: Gives clear 
+recommendation with profit 
+number and supporting analysis 
+from case.
+Better: Some creative thoughts 
+around risks associated it this 
+move, possible next steps, 
+competition’s response to this 
+move. Find a way to continue to 
+serve this client by helping with 
+optimizing fleet allocation, 
+implementation etc.
+Best: NPV analysis of the lifetime 
+value of this expansion to the 
+airline. Recommending that the 
+airline lobby the Moosonee 
+municipal authorities to expand 
+their airports operating hours as 
+this would make that the most 
+profitable airport to serve. Finding 
+a faster or more efficient aircraft to 
+run the route and capture more of 
+the market.
+• Opportunity costs around not expanding to Moosonee or Saguenay
+• Our calculations’ sensitivity to assumptions about the % of business travelers 
+using the route and each airport’s operating hours
+Suggest helping the client figure out how to reach the kinds of customers who would 
+want to go to this airport. Could also suggest refining the ticket pricing model to 
+further maximize market % while undercutting competition.
+Tuck Consulting Club
+96
+Airport and Aircraft Recommendations
+Recommendation
+Candidate Evaluation
+Risks
+Next Steps
+
+
+===== PDF p101 =====
+Exhibit A
+97
+Footnote: Map is not to scale
+563 km
+805 km
+965 km
+
+
+===== PDF p102 =====
+Exhibit B
+98
+Embraer E190
+Seats (All economy)
+70
+Average Speed
+400 mph
+Bombardier CRJ 700
+Seats (All economy)
+60
+Average Speed
+370 mph
+Footnote: Both aircraft require 30 minutes to clean and refuel after each leg of a trip.
+
+
+===== PDF p103 =====
+Exhibit C
+99
+Airport
+Aircraft
+Fuel Costs
+Maintenance Costs
+Crew Costs
+Sudbury
+Embraer E190
+$5,100,000 
+$2,500,000 
+$3,000,000 
+Bombardier CRJ 700
+$5,000,000 
+$2,600,000 
+$2,800,000 
+Mosoonee Embraer E190
+$6,000,000 
+$3,000,000 
+$3,200,000 
+Bombardier CRJ 700
+$5,800,000 
+$3,100,000 
+$2,900,000 
+Saguenay Embraer E190
+$5,500,000 
+$2,800,000 
+$3,100,000 
+Bombardier CRJ 700
+$5,300,000 
+$2,900,000 
+$2,900,000 
+Footnote: All figures are in cost/year terms

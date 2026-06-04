@@ -1,0 +1,389 @@
+===== PDF p65 =====
+TTP Specialty
+61
+Industry: Insurance
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p66 =====
+Behavioral Questions
+62
+• Tell me about a time you had to overcome an obstacle.
+Question 1:
+• What’s one thing that makes you stand out from the rest of the candidates?
+Question 2:
+
+
+===== PDF p67 =====
+TTP Specialty
+63
+TTP Specialty is a specialty insurance carrier. They provide niche insurance coverage 
+for non-traditional risks such as damage to oil tankers, pollution, medical malpractice, 
+and injuries to professional athletes. Over the past 3 years, they have set and met 
+aggressive growth targets by doubling their premium written annually. However, they 
+have also seen their profits decline by 50% to $10 million in spite of this growth. 
+They’ve hired us to diagnose their profitability problem. 
+Prompt #1:
+•
+Case type: profitability
+•
+Framework should reflect standard profitability breakdown (revenue, cost, external considerations)
+•
+Interviewee should be able to drive towards cost as the main problem (they’ve met aggressive revenue growth 
+targets). Once they do, provide Exhibit 1.
+•
+If asked: insurance companies make money in two ways: (1) collecting more money in premium than they pay in 
+claims and (2) earning interest on their assets held. 
+•
+In 2016 TTP collected $1B in premiums and made a profit of $10 million.
+•
+TTP is only in the US. Headquartered in Philadelphia, PA with underwriters spread across the US.
+•
+TTP’s customers, like its products, are wide-ranging: city/state governments, federal agencies, hospitals, 
+professional sports organizations, and oil drillers are some of their biggest clients. 
+•
+Competition: There are 5 major specialty players in the US. They have not experienced the same profitability 
+decline. 
+•
+Goal: Increase profits to $40 million annually within next two years.
+Interviewer Guidance:
+
+
+===== PDF p68 =====
+TTP Specialty
+64
+A sample framework could look like this:
+-Revenue
+-Pricing – Lowered prices leading to smaller margin?
+-Volume – Candidates could list a few considerations here such as types of 
+products, customer segments, etc., but they should not spent much time here since it’s 
+clear volume is not the problem.
+-Cost
+-Claims (variable) – Is TTP paying out more in claims than usual?
+-SG&A (fixed)
+Note: Candidates may break cost down by variable and fixed costs. This is fine, as long 
+as they identify claims as an important variable cost. Before giving Exhibit 1, make 
+sure a candidate at least identifies rising costs as the area they’d like to explore.
+-External
+-Competition – Has the market become more competitive, driving margins 
+down? Are competitors experiencing the same margin issues?(This isn’t the case, but 
+it’s a fair consideration)
+Interviewer guidance (cont’d):
+
+
+===== PDF p69 =====
+2016
+2015
+2014
+65
+Exhibit 1
+75
+100
+75
+300
+350
+400
+100
+150
+150
+100
+150
+200
+500
+50
+1,000
+750
+50
+Container Ships
+Professional Athlete Injury
+Pollution
+Medical Malpractice
+Natural Disaster
+Oil Tankers
+Revenue ($MM)
+Costs ($MM)
+SG&A
+125
+150
+190
+Claims and adjustments
+355
+585
+800
+
+
+===== PDF p70 =====
+Interviewer guidance on Exhibit 1
+• This exhibit shows TTP’s revenues and 
+costs over the last 3 years – but the 
+interviewee should focus on the costs.
+• Costs are broken down into two high-level 
+buckets: SG&A and claims.
+• “Claims and adjustments” refers to 
+payments to insureds for their covered 
+losses and associated loss adjustment 
+fees. 
+• Once the interviewee identifies claims as 
+the root cause – ask them to brainstorm a 
+couple reasons these costs could be up. 
+Once they’ve named 3, move on to 
+Exhibit 2. 
+• As we discussed in the framework, the 
+interviewee should realize the problem 
+isn’t the revenue, it’s costs.
+• The key observation that the interviewee 
+should make is that the % of revenue 
+spent on claims (also known as loss ratio) 
+has increased from 71% to 80% and is 
+driving down profitability.
+• Potential causes for increased claims $:
+–
+Bad underwriting
+–
+A couple unusual catastrophic losses 
+–
+New products are riskier
+–
+Increased number of claims
+–
+Increased severity of claims
+66
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p71 =====
+Exhibit 2
+84
+74
+80
+76
+78
+82
+0
+75%
+79%
+Professional 
+Athlete Injury
+Container Ships
+79%
+Pollution
+Natural Disaster
+76%
+83%
+Medical 
+Malpractice
+Oil Tankers
+80%
+81%
+75%
+79%
+74%
+75%
+75%
+TTP
+Industry average
+2016 Loss ratio* by product
+*An insurer’s loss ratio is the cost of claims divided by the written premium
+2016 Underwriter information
+Headcount
+Years of experience
+% new hires
+TTP 
+125
+3.4 years
+43%
+Industry average 
+122
+6.9 years
+20%
+
+
+===== PDF p72 =====
+Interviewer guidance on Exhibit 2
+• This exhibit provides the interviewee with 
+more information about the causes of the 
+high loss ratios
+• The first graph is self-explanatory – loss 
+ratios by product for TTP and the industry. 
+(Loss ratio is defined at the bottom to help 
+the interviewee).
+• The second chart provides the 
+interviewee with information about the 
+makeup of the Underwriting team. 
+• More background info, if needed: an 
+underwriters’ role is to assess risk and 
+provide quotes to potential insureds. In 
+specialty insurance, their expertise is 
+critically important because the risks are 
+much more obscure but larger in value 
+than a typical home or auto policy. 
+• The interviewee should identify that there 
+is not one specific product that is 
+experiencing high losses – it is happening 
+across the board.
+• The candidate should ultimately identify 
+that TTP’s high percentage of newly-hired 
+underwriters is likely leading to poorly-
+underwritten policies, causing TTP’s loss 
+ratio to increase.
+• A lack of industry understanding may 
+make it difficult for some candidates to 
+identify this underlying cause, so try to 
+nudge them in this direction if they are 
+struggling.
+68
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p73 =====
+TTP Specialty
+69
+The CEO of TTP agrees that their underwriting has gotten sloppy as they’ve expanded 
+the past few years. He has agreed to hire SpecialtyTrain, a specialty insurance training 
+company, to provide supplemental training to the existing underwriting teams. 
+SpecialtyTrain has guaranteed that this training will decrease TTP’s loss ratios to the 
+industry average. Due to time constraints, TTP can only choose 3 of the 6 product 
+underwriting teams to undergo the training. Which of the teams should they choose? 
+Will this get them to their two-year profitability goal (Assume no growth in written 
+premium)?
+Prompt #2:
+•
+If confused about the “3 out of 6” options, remind the candidate of the 6 products listed in exhibits 1 and 2: Oil 
+tankers, Pollution, Medical Malpractice, Natural Disaster, Professional Athlete Injury, and Container Ships. They 
+must choose three of these underwriting teams to go through the training. 
+•
+All of the remaining needed information has been given to them in exhibits 1 and 2. 
+•
+The two-year profitability goal is $40 million
+•
+A good candidate will walk you through their calculation process before running the numbers. There are a few 
+ways to do this, but this is the simplest:
+1.
+For each product, subtract the industry average loss ratio from TTP’s loss ratio (these numbers are on exhibit 2) to calculate the 
+potential improvement percentage.
+2.
+Multiply that number by the corresponding 2016 written premium in exhibit 1 to determine the potential savings
+3.
+Repeat for each product, determine which 3 offer the best opportunity for savings
+(Math on next page)
+Interviewer Guidance:
+
+
+===== PDF p74 =====
+TTP Specialty
+70
+As you can see from the math above, the greatest opportunity for savings comes from providing the training to the 
+underwriting teams focused on Oil Tankers, Pollution, and Medical Malpractice.
+Additionally, this should bring TTP to its profit goal ($40M profit). The training will result in $36.5M in savings in 
+addition to the existing profit of $10M, so $46.5M total.
+Prompt #2 Interviewer Guidance continued:
+Oil Tankers
+Pollution
+Medical 
+Malpractice
+Natural 
+Disasters
+Professional 
+Athlete Injury
+Container 
+Ships
+TTP loss 
+ratio
+80%
+83%
+79%
+79%
+81%
+79%
+Industry 
+average
+75%
+76%
+75%
+74%
+75%
+75%
+Improvement 
+opportunity
+5%
+7%
+4%
+5%
+6%
+4%
+2016 written 
+premium 
+($M)
+200
+150
+400
+75
+100
+75
+Potential 
+savings ($M)
+10
+10.5
+16
+3.75
+6
+3
+
+
+===== PDF p75 =====
+Case Title
+71
+• TTP’s CEO is about to walk in – please prepare a recommendation for him.
+Recommendation 
+• Interviewee should identify bad underwriting as the problem and recommend TTP 
+train the Oil Tanker, Pollution, and Medical Malpractice groups. This will result in 
+savings of $36.5M and get us to the $40M profit target.
+• Interviewee should also identify risks – here are a few possibilities:
+–
+Training won’t be as effective as promised
+–
+Other causes to increased loss ratio
+–
+Training may cost a lot – not mentioned in case
+• Interviewee should end with potential next steps. Best answers will connect back to the risks 
+previously mentioned. Some examples:
+–
+Ask for a trial run from SpecialtyTrain to see if the training is as effective as they say
+–
+Work with actuaries to ensure proper underwriting guidelines in place
+–
+Evaluate cost impact of adding training
+Interviewer Guidance:
+
+
+===== PDF p76 =====
+Evaluation Criteria
+72
+Candidate Level
+Assessment
+Average Candidate
+An average candidate will successfully get through the 
+case but will need a few nudges along the way. An 
+average candidate should be able to build a standard 
+profitability framework to start the case. An average 
+candidate should complete most, if not all, of the public 
+math fairly easily.
+Good Candidate
+A good candidate will get through the case with minimal 
+assistance. Public math will be spelled out clearly and 
+calculations will be done correctly. A good candidate 
+should be able to identify that claims costs, driven by 
+bad underwriting, were causing the decrease in 
+profitability.
+Excellent Candidate
+An excellent candidate will build a strong framework, 
+move through the case efficiently, and easily identify 
+the root causes of the decreased profitability. An 
+excellent candidate should have provided a number of 
+creative options during the brainstorm. Lastly, an 
+excellent candidate should also be able to clearly 
+explain their public math and correctly calculate the 
+answers. 

@@ -1,0 +1,214 @@
+===== PDF p174 =====
+Optic-Eye
+Difficulty: Medium 
+Industry: Technology
+Case Type: Product Entry
+Concepts Tested
+Case #18 : Optic Eye
+• Brainstorming
+• Option Evaluation
+• Customer Acquisition
+Our client is Hudson Electronics, a manufacturer of high-tech electronic devices based in the US. They have just 
+developed a new product called the Optic-Eye. This is an augmented reality tool that users wear around their eyes. This 
+product is new to the market and needs WiFi to work, but also could potentially be bundled with a cellular service 
+provider. The way that it could be sold is similar to how cell phones are currently sold, in an annual contract.
+Our client is debating between partnering with Verizon/ATT vs partnering with other providers, but is unsure of which of 
+these two options will work best.
+Problem Statement Narrative
+This is a BCG style case, where the candidate will guide the discussion and come to a conclusion on which option would 
+work best for the company.
+Case Notes
+170
+
+
+===== PDF p175 =====
+Optic-Eye
+Question #1 / Framework 
+What factors would you consider in making the decision on a telecom provider? 
+1.
+Market Structure: 
+a.
+Size of market through each set of providers
+b.
+National and regional reach
+c.
+Competitors in the space
+2.
+Customer Preferences: 
+a.
+Customer profile (e.g. demographic, income 
+differences),
+b.
+WTP for this type of product
+c.
+Preference for new technology
+3.
+Channels: 
+a.
+Online vs. in-store format
+b.
+National footprint
+c.
+Distribution channels
+4.
+Risks: 
+a.
+Market power of the providers
+b.
+Regulatory risks with consumer electronics
+c.
+Customer perception
+Sample Framework
+This is an unusual case that should not use a cookie-cutter 
+framework. The candidate should recognize that the 
+drivers for growth will be customer adoption and cost of 
+the contract
+The candidate should take the time to structure their 
+framework and then walk through it
+Guidance for Interviewer
+•
+The candidate should ask more questions on the types 
+of providers that could be a part of the “Other” 
+Category. If they ask, the providers would be 6 
+national level carriers: Sprint, T-Mobile, U.S. Cellular, 
+Cricket, Boost Mobile, and MetroPCS
+•
+If the candidate asks, the objective for this case is to 
+achieve $1B in revenue in 2 years
+Clarification Answers if  Asked 
+171
+
+
+===== PDF p176 =====
+Question #2
+Question
+Solution
+What is the market size of each telecom provider, and how many customers do they serve? How many do we need to 
+fulfill our requirements? 
+Optic-Eye
+If the candidate asks for the market size, show them Exhibit 1.
+•The contract price for Verizon/ATT is $400, and for Others is $500
+The candidate should identify that the current market for ATT and Verizon is smaller than the Other market by 33%
+The Candidate should calculate how many customers they feasibly need to achieve the $1B target (2.5M for ATT/V and 
+2M for Others)
+However, the candidate should also intuit what the difference is between ATT/Verizon and Other customers, and think 
+through how likely they might be to use a new technology. This will lead to the next question
+172
+
+
+===== PDF p177 =====
+Question #3
+Question
+Solution
+What is the difference between each type of customer? I.e. how will their preferences drive adoption of this new 
+technology?
+Optic-Eye
+If the candidate correctly identifies that we still need to identify how many of those customers are willing to try a new 
+product, show Exhibit 2
+Exhibit 2 should show that ATT/Verizon customers are more focused on features and speed, and in general are less price 
+sensitive.
+They should identify that ATT/V is more promising, suggesting that it might be much easier to sell to those customers
+173
+
+
+===== PDF p178 =====
+Question #4
+Question
+Solution
+How will we reach, and sell to those customers?
+Optic-Eye
+Now they have a good sense of which customers are more likely, the candidate should start to think about the channels, 
+and how do you demonstrate the value of this product and how you sell it
+If they ask for it, show them Exhibit 3. They should only focus on US, and correctly identify that ATT has a wider 
+network of channels
+174
+
+
+===== PDF p179 =====
+Conclusion
+•
+In the final recommendation, the candidate should 
+mention that (1) the market is more promising and (2) 
+it is easier to reach and sell to customers directly 
+through ATT and Verizon than Other Providers
+Recommendation
+•
+Though the Other Providers have more total 
+customers, and also have potential revenue per 
+customer, it is far harder to convince those customers 
+of the value of this product because they are so price 
+sensitive. ATT/Verizon customers are more likely to 
+sign up
+Rationale
+•
+Regulatory risks around a new product
+•
+The quality of the product itself, and if it will work as 
+advertised
+Risks
+•
+Do a deeper analysis into customer preferences to 
+analyze the % of customers for ATT/Verizon who 
+will buy Optic-Eye
+•
+understand the contracting process end to end
+Next Steps
+Optic-Eye
+175
+
+
+===== PDF p180 =====
+Exhibit #1 : Customer Base
+Optic-Eye
+There are currently ~50M consumer wireless data service customers in the US. 
+Wireless Data 
+Service Providers
+Current Customer 
+Base
+ATT
+11M
+Verizon
+9M
+Other carriers
+30M
+176
+
+
+===== PDF p181 =====
+Exhibit #2 : Customer Feedback
+Optic-Eye
+Reliable, High 
+Quality Systems
+Customer Service
+Brand
+Speed
+Price
+Price
+Contract Terms
+Customer Service
+Network Size
+ATT/Verizon
+Others
+Customer Preferences
+177
+
+
+===== PDF p182 =====
+Exhibit #3 : Stores Per Company
+Optic-Eye
+Wireless Data Service 
+Provider
+Number of US Retail 
+Stores
+Number of non-US 
+Retail Stores
+ATT
+2,200
+1,600
+Verizon
+1,800
+1,000
+Other Carriers
+3,000
+6,500
+178

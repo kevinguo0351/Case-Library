@@ -1,0 +1,129 @@
+===== PDF p112 =====
+Case 11: University Apartments
+Introduction
+Introduction
+P
+bl
+St t
+t N
+ti
+/Q
+ti
+1
+108
+Problem Statement Narrative/Question 1
+Your client is a real estate development corporation. It is looking to build an apartment complex on a vacant lot near a 
+leading university in Philadelphia. What are some areas that should be examined to decide, whether this is a good idea?
+Overview for interviewer
+This is a profitability case.  Discussion should quickly turn to P=R-C and the various drivers of costs and revenues.
+On the REVENUE side, price and volume (number of units built, % rented) should be considered, with some discussion about different  price 
+and purchase scenarios – i.e. how long would it take to sell all units, is there seasonality of occupancy? 
+On the COST side, fixed and variable costs should be discussed, such as land purchase, apartment construction, utilities, labor, insurance, 
+etc.
+Additional factors:
+What is the current MARKET for land and apartments, including zoning for the vacant lot?
+How do the future tenants’ WTP (willingness to pay) depend on the quality of apartment units built?
+RISKS such as lower than expected demand for units,  drop in real estate value
+
+
+===== PDF p113 =====
+Case 11: University Apartments
+Question 2
+Question 2
+Breakeven Question
+109
+Assuming an average apartment size, how much must our client charge in rent per apartment per month to break even within 
+three years? See following information sheet.
+Solution 
+Costs
+Provide information if asked
+Detailed explanations on following page
+Costs: 
+Land: (200*200)*100=4M
+Construction: .80*40,000=32,000*3*50=4.8M
+Utilities: 5,000*12=60,000*3=180,000
+Insurance: 2,500*12=30,000*3=90,000
+Labor: 3*40,000=120,000*3=360,000
+Detailed explanations on following page: 
+Land: 
+•40,000 sq ft. (200*200)
+• $100 per sq ft.
+Construction
+B ildi
+k
+80% f l
+d
+abo : 3
+0,000
+0,000 3 360,000
+Total Costs: 4M+4.8M+180,000+90,000+360,000=9.43M
+Revenues:
+Total apartment Sq. Ft.: 
+.80*(200*200)=32,000*3=96,000*.80=76,800
+•Building takes up 80% of land space
+•Construction cost is $50 per sq. ft. per month
+•Building is 3 stories high
+•Labor is $40,000 per year; 3 staff required
+Operating costs:
+$
+Total apartment units: 128,000/512=150 units
+Total units occupied: 150*.80=120 units
+Breakeven:
+9.43M/(120*3)=26,194/12=$1310 per unit per month
+•Insurance is $2,500 per month per floor
+•Utilities is 5,000 per month per floor
+Total apartment Sq. Ft.: 
+•80% of land space is building 
+•5 stories
+•20% is common space
+•512 sq ft. per unit 
+•Vacancy rate is 20% 
+
+
+===== PDF p114 =====
+Case 11: University Apartments
+Information Sheet
+Information Sheet
+ The vacant lot is square, measuring 200 ft. on one side and costs $100 per 
+f
+110
+sq. ft.
+ Building regulations specify that no more than 80% of the lot can be covered 
+with buildings, given the need for grass, sidewalks, etc.., and construction costs 
+are $50 per sq ft
+are $50 per sq. ft.
+ The vacant lot is zoned for buildings up to 3 stories tall; no apartments are 
+allowed in the basement.
+ Utilities cost $5,000 per month, insurance costs $2,500 per month, and labor
+ Utilities cost $5,000 per month, insurance costs $2,500 per month, and labor 
+costs $40,000 per full-time employee per year.
+ The highest paying customers prefer apartment buildings that have at least 
+20% of the apartment building dedicated to amenities, i.e. non-apartment 
+unit use.
+ Preliminary market research estimates indicate a 80% occupancy rate per 
+year during the first 3 years; additionally, apartments that are 512 sq. ft. in 
+size would provide the most profit
+size would provide the most profit.
+ Full-time employees include 1 custodian, 1 rental office staff, 1 grounds staff.
+
+
+===== PDF p115 =====
+Case 11: University Apartments
+Question 3
+Question 3
+111
+Strategy Question
+Considering that our client can only build on 80% of the lot and can build apartments on 80% of the building itself, what are some 
+other ways that they can earn revenue on the site or otherwise increase tenants’ willingness to pay?
+Suggested Solution
+Earn extra revenue:
+Store
+Restaurant
+Dry cleaners
+Other small businesses
+Increase customers’ WTP:
+Gym
+Garage
+Laundry
+Pet zone
+Guest services (concierge, etc..)

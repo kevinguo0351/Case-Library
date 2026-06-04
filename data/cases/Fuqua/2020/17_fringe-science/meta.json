@@ -1,0 +1,36 @@
+{
+  "case_id": "Fuqua_2020_17_fringe-science",
+  "school": "Fuqua",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2020.pdf",
+  "idx": 17,
+  "case_name": "Fringe Science",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Healthcare/Pharmaceuticals",
+  "difficulty": "Hard/Hard",
+  "pdf_page_start": 220,
+  "pdf_page_end": 232,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    229,
+    230
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p222.png",
+    "exhibits/exhibit_p223.png",
+    "exhibits/exhibit_p224.png",
+    "exhibits/exhibit_p225.png",
+    "exhibits/exhibit_p226.png",
+    "exhibits/exhibit_p227.png",
+    "exhibits/exhibit_p229.png",
+    "exhibits/exhibit_p230.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2020\\17_fringe-science"
+}

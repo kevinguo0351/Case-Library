@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2012_11_bell-computer-inc",
+  "school": "Kellogg",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2012.pdf",
+  "idx": 11,
+  "case_name": "Bell Computer Inc.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 94,
+  "pdf_page_end": 101,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    95,
+    96,
+    99,
+    100,
+    101
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p099.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2012\\11_bell-computer-inc"
+}

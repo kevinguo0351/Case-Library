@@ -1,0 +1,125 @@
+===== PDF p27 =====
+Case 3: Verizon Security Services 
+Mercer, 2nd Round 
+ 
+About This Case 
+ 
+This case was given by Mercer in second-round interviews.  This is a broad, qualitative 
+strategy case and was given in a very open and conversational manner.  No hard data was 
+provided – instead, the interviewer asked the candidate to come up with assumptions and 
+estimates to drive the case forward.  Therefore, there is no “right” answer, but the 
+candidate must be able to come up with reasonable assumptions and then follow them 
+logically to a conclusion.   
+ 
+The Problem 
+ 
+Verizon is the nation’s largest provider of local telephone services.  They are considering 
+entering the home security market.  Should they? 
+ 
+Information Gathering 
+ 
+Read this information well before you give the case.  Give this case in an open-ended 
+manner.  Make the candidate come up with his/her own assumptions and estimates for 
+everything.  One set of reasonable assumptions is listed below – use these to steer the 
+candidate back on track if they seem to be off the reservation.   
+ 
+Market Size – If the candidate asks for the size of the market, make him/her come up 
+with assumptions and calculate the total market size.  A sample calculation based on 
+sample assumptions follows: 
+ 
+Total Households in US: 100M 
+% Households Serviced by Verizon: 50% 
+% Households That Can Afford Service: 50% 
+Annual Subscription Price:  $250 
+Total Addressable Market:  100M x 50% x 50% x $250 = $6.25B 
+ 
+Cost Structure – Ask the candidate to discuss what the cost structure might be for 
+Verizon to enter this market.  What are the fixed costs?  Variable costs?  Does Verizon 
+have a cost advantage over other players? 
+ 
+Good Answer:  The business has very little fixed cost beyond the infrastructure 
+already installed in potential customers’ homes (i.e. the existing phone wiring).  
+Customer would need door / window / motion sensors installed, which could be done 
+by a third-party installer and billed to the customer at cost + markup and owned by 
+the customer.   
+ 
+
+
+===== PDF p28 =====
+Variable costs are also very small – essentially just the cost to maintain enough call 
+center operators to dispatch police when alarms are tripped.   
+ 
+Verizon does not seem to have much or a cost advantage over other players, since 
+they are all using the common carrier phone network.  Verizon might have some 
+economies of scale in operating the call center, but this effect would be slight. 
+ 
+Competition – The market is composed of a large number of mom-and-pop alarm 
+company operators.  No firm has over 5% market share overall, although there are some 
+strong regional players.  
+ 
+Customer Segments – Ask the candidate to speculate on the various customer segments 
+and their relative importance, size, and value. 
+ 
+Good Answer:  We can reasonably divide the customer base into urban and suburban 
+customers, having different needs and different price sensitivities.  Urban customers 
+are likely to have lower incomes but a high willingness to pay due to the increased 
+crime rate of the city.  Suburban customers are likely to have a higher income but a 
+lower perceived threat due to a lower suburban crime rate.  By first-degree price 
+discrimination, it may be reasonable to charge the suburban customers a higher price 
+because they are presumably less price sensitive.  We can assume that 50% of 
+customers are urban and 50% suburban. 
+ 
+Pricing – Have the candidate come up with a pricing scheme and prices for each of their 
+identified customer segments.  There is no right answer, but they must justify why they 
+are setting the price they are.  Some areas they might consider: 
+ 
+• Insurance companies generally give breaks on homeowner’s insurance for having 
+an alarm.  This will increase the EVA to the customer and can inform pricing. 
+• What other services to homeowners pay for monthly? Cable, phone, DSL.  How 
+are the values of these services perceived compared to the value of the alarm? 
+• Pricing will need to be competitive with other market players. 
+• The candidate might assume a net margin based on the competitive landscape and 
+use this with assumed market size to determine attractiveness rather than 
+determining an end-consumer price. 
+ 
+Regulation – The market is not regulated and government regulation is not expected to 
+play a role. 
+ 
+Marketing – Ask the candidate what advantages Verizon might have in marketing vis a 
+vis its competitors.  Keep points the candidate should identify include: 
+ 
+• Verizon has monthly customer contact with a large pool of potential alarm 
+services customers through its phone bills. 
+• Verizon already has brand loyalty for phone service, why not alarm service? 
+
+
+===== PDF p29 =====
+• Shear size of the company (and deep pockets) make it more able to achieve scale 
+economies in marketing and reach a broad audience. 
+ 
+ 
+Conclusion 
+ 
+A star candidate will see that his/her time is nearly up and will present a 
+recommendation for the client without prompting.  If the interview is within 3 minutes of 
+the end, ask: 
+ 
+“So, should Verizon enter into the home security market?” 
+ 
+Good Answer:   Yes.  Verizon possesses several small but important competitive 
+advantages for entering into this new market.  It has economies of scale in call center 
+operations that will enable it to be highly cost-competitive in operating a security 
+network.  It has an established brand that the consumer associates with reliability as 
+well as with networking and communications – the primary function of a home 
+security system.  More importantly, Verizon already reaches 50M households every 
+month through its phone services bill that it could leverage to launch and market this 
+new service.  Also, the company has deep pockets and the ability to advertise such a 
+service far more effectively than the small, regional competitors.   
+ 
+The size of the opportunity is large enough for Verizon to consider.  Assuming a 
+potential market size of $6B in Verizon’s territory, even at only a 10% share, Verizon 
+can add $600M in revenue.  Given the low cost structure of this business and the high 
+perceived value to the customer, this is likely to be highly profitable revenue as well.  
+With Verizon’s marketing clout and customer reach, the company should be able to 
+gain significant market share and become the national leader in this space. 
+ 

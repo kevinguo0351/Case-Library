@@ -1,0 +1,222 @@
+===== PDF p29 =====
+CASE 1:  
+BIKE DVD RENTAL SERVICE IN NYC 
+Case Question: 
+Your friend has approached you with a business idea and wants your advice.  He 
+wants to open a DVD Rental service in New York City, specifically Manhattan.  
+DVDs would be delivered to customers via delivery people on bicycles.  What 
+would you tell your friend? 
+ 
+Firm Style 
+Interview Round 
+All 
+1, 2 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+What kind of competition exists? 
+Assume that Netflix and comparable services 
+are not available.  Push the student to come up 
+with large chains (Blockbuster), local video 
+rental stores, movie theaters, live theater, etc. 
+What is your friend’s acceptable breakeven 
+period? 
+1 year 
+Where will the DVDs be stored? 
+They will be stored in your friend’s apartment 
+(he has plenty of space for the collection). 
+
+
+===== PDF p30 =====
+BIKE DVD RENTAL SERVICE IN NYC 
+Framework / Structure 
+This is a primarily a Market Sizing and Profitability case, but also includes 
+other elements. The analysis may include, but is not limited to, the following 
+areas: 
+ 
+Market Sizing Analysis (Details shows in calculations at end) 
+a.
+Estimate the population of Manhattan – Push the student to pick a 
+number around 2 million people. 
+b.
+Estimate the average household size in Manhattan – Push the 
+student to pick 2 (lower than the 3 person average for the country 
+due to a higher number of singles) 
+c.
+Estimate the portion of the households that your friend will be able 
+to serve based on having one central location for the DVDs – Push 
+the student to pick 25% of the population. 
+d.
+Estimate the percentage of the market that your friend’s service will 
+capture in the first year. – Push the student to pick a number around 
+1%. 
+e.
+Estimate the rentals per month.  There can be some flexibility here, 
+but push the student to make assumptions that yield around 2,000 
+movie rentals/month for your friend’s business 
+ 
+
+
+===== PDF p31 =====
+BIKE DVD RENTAL SERVICE IN NYC 
+Profitability and Breakeven 
+Give the following information when asked: 
+a.
+Assume you know someone who has a sizeable DVD collection that 
+they are willing to sell to you to $10,000 
+b.
+Assume you have a friend who can set up a website and maintain it 
+for you for a one-time fee of $10,000 
+c.
+Variable cost to deliver DVD is $4 (pay bicycle delivery person) 
+d.
+Assume an infinite supply of bicycle delivery people 
+e.
+Choose prices between $5 and $8 and calculate the breakeven 
+time in months (see excel sheet at end) 
+ 
+ 
+Operations Analysis 
+a.
+What time and what days would you operate your service? 
+b.
+How would DVDs be returned (likely dropped off at central location) 
+c.
+How will the service function in the winter months or when it rains? 
+ 
+Marketing and Advertising Analysis 
+a.
+What is the competitive advantage of this business? 
+b.
+How would you attract customers? 
+c.
+How can you advertise effectively and inexpensively? 
+
+
+===== PDF p32 =====
+BIKE DVD RENTAL SERVICE IN NYC 
+Calculations 
+ 
+ 
+Market Analysis 
+ 
+ 
+People in Manhattan 
+ 
+2,000,000 
+ 
+People/Household 
+ 
+2 
+ 
+Households in Manhattan 
+ 
+1,000,000 
+ 
+% of population that can be served 
+ 
+25% 
+ 
+% of population that rents regularly 
+ 
+40% 
+ 
+% of market that we can capture 
+ 
+1% 
+    
+Market Potential (Households) 
+    1,000 
+ 
+Market Breakdown 
+ 
+Size 
+DVDs/
+Month 
+    
+Low Renters 
+    
+500 
+    
+1 
+    
+Medium Renters 
+    
+250 
+    
+2 
+    
+High Renters 
+    
+250 
+    
+4 
+ 
+DVDs / Month for your friend 
+ 
+2000 
+
+
+===== PDF p33 =====
+BIKE DVD RENTAL SERVICE IN NYC 
+Calculations 
+ 
+ 
+Profitability Analysis 
+ 
+ 
+DVD Capital Costs 
+ 
+10,000 
+ 
+Website Costs 
+ 
+10,000 
+ 
+Variable Delivery Costs 
+ 
+$4 
+ 
+Price/DVD 
+ 
+Breakeven time (in months) 
+ 
+$5.00 
+ 
+10.0 
+ 
+$6.00 
+ 
+5.0 
+ 
+$7.00 
+ 
+3.3 
+ 
+$8.00 
+ 
+2.5 
+
+
+===== PDF p34 =====
+BIKE DVD RENTAL SERVICE IN NYC 
+Recommendation 
+ 
+ 
+The recommendation should include the following: 
+a. The answer – Based on the market and profitability analysis along with 
+my friends target of breaking even in less than a year, I would 
+recommend that he goes forward with the business 
+b. The number(s) – At a price of $5, the friend can breakeven in 
+approximately 10 months 
+c. Risks or considerations – Demand might not materialize, delivering 60+ 
+videos via bicycle might not be practical, and competition such as 
+internet movies could make the service obsolete 
+d. Next steps – Purchase the video collection, set up the website, and start 
+advertising 
+ 
+Further Challenge Questions 
+What challenges would be faced if your friend wanted to expand the 
+service to serve more customers? 
+ 

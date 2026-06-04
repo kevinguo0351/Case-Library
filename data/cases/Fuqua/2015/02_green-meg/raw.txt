@@ -1,0 +1,225 @@
+===== PDF p35 =====
+Case #2: Green MEG
+Industry: Chemicals
+Quantitative Level: Very Difficult
+Qualitative Level: Medium
+Quantitative level: Very Difficult
+Qualitative level: Medium
+30
+
+
+===== PDF p36 =====
+Behavioral Questions
+32
+• What’s the craziest thing you have done?
+• Tell me about a time you burned a bridge.
+Question 1:
+Question 2:
+
+
+===== PDF p37 =====
+Green MEG
+33
+• Your client, Glycolia, is the manufacturer of mono-ethylene-glycol (MEG), a chemical which is mainly 
+used in producing plastic bottles and antifreeze. Currently, MEG is produced using conventional sources 
+through natural gas. Greenya, a research company, has recently registered a patent to manufacture 
+environmentally friendly, green MEG using corn-based ethanol. Glycolia is thinking it may be able to 
+charge a price premium for the green MEG and it is considering to buy the patent from Greenya. Should 
+they do it?
+Prompt #1:
+• This is a hybrid profitability/market entry case. The financial analysis is key here and this is where the 
+case is supposed to be driven towards.
+• Background information if the interviewee asks for it:
+– This patent is the first of its kind. All the current market players are producing MEG using the 
+conventional method.
+– Glycolia is currently the second biggest player in the market with 20% market share with annual 
+sales of 1 M metric ton/year. The biggest and third largest players have market shares of 25% and 
+15% respectively.
+– Glycolia sells its MEG to major consumer brands globally.
+– Greenya is interested in selling its patent to the highest bidder.
+• One way to structure the framework is:
+– Revenue: additional revenue from pricing green MEG at higher level, stronger PR and increasing 
+market share, by-products from this new process, patent leasing to other suppliers
+– Costs: Investment cost (patent, land, plant construction, etc), operational costs (raw materials, labor, 
+maintenance, etc)
+– Risks: similar patents in the future, reverse engineering, customers are not willing to pay premium 
+for the green MEG
+Interviewer Guidance:
+
+
+===== PDF p38 =====
+Green MEG
+34
+• The market research team has performed some surveys asking Glycolia’s current customers about their 
+willingness to pay (WTP) for the green MEG. The average customers say that they are willing to pay 
+20% for the green MEG over the market price for the conventional MEG. Exhibit 1 shows the market 
+prices for conventional MEG over the past 3 years.
+• Greenya is willing to sell its patent to Glycolia for 2 USD billions. The plant construction and all startup 
+costs are expected to be 1 USD billion.
+• Greenya and Glycolia have put together the following Exhibit 2 to show the operational costs associated 
+with the green vs conventional MEG production. (Give the candidate exhibits 1 and 2)
+Prompt #2:
+•
+The interviewee can assume that prices and costs will 
+grow annually at 2%
+•
+The interviewee should project the prices for green MEG 
+by factoring the 20% premium.
+•
+If Glycolia buys the patent, it can commission the plant in 
+2016.
+•
+All the construction costs are all depreciable over 20 
+years
+•
+Our consulting fees = 50 M USD (sunk costs)
+•
+SG&A costs are $20/MT for both conventional and green
+•
+Taxes = 30%
+•
+Assume no additional capex or change in working capital
+•
+Assume discount rate of 12%
+•
+Perpetuity formula can be used to calculate the terminal 
+value
+Exhibit #1 Guidance:
+Analysis:
+•
+This is a DCF analysis to assess the feasibility of 
+the green MEG plant as of 2016.
+•
+Step 1: EBIT (per MT 2016) = Rev- costs
+•
+Revenue = 1000 * (1+20%) = 1,200
+•
+Costs = cogs + SG&A = 930 + 20 = 950
+•
+EBIT = 1,200 – 950 = 250
+•
+FCF = EBIT * (1-taxes) + Depreciation= 250*(1-
+30%) + 50 = 225 $/MT
+•
+FCF (annual) = 225 * 1 M = 225 M USD
+•
+Terminal value = FCF/(discount rate-growth rate) 
+= 225 M/(12%-2%) = 2.25 B USD
+•
+NPV (2016) = PV(benefits) – PV(costs) = 2.25 B –
+3 B = -0.75 B
+
+
+===== PDF p39 =====
+Exhibit 1: Revenue
+35
+924
+942
+961
+981
+2014
+2013
++2%
+2012
+2016*
+2015*
+* Projected prices
+MEG prices/MT
+1000
+
+
+===== PDF p40 =====
+Exhibit 2: Costs
+36
+* Projected prices
+120
+120
+370
+530
+140
+120
+50
+65
+Shipping
+Raw materials
+Labor
+Green
+930
+Utilities
+Maintenance
+45
+40
+45
+Conventional
+755
+Depreciation
+40
+MEG operating costs/MT, 2016*
+
+
+===== PDF p41 =====
+Green MEG
+37
+• Drinkya, a major bottled beverage manufacturer and one of Glycolia’s current customers, heard 
+about your interest in the green MEG. Drinkya is very interested in producing environmentally 
+friendly bottled drinks using your green MEG, so it offered Glycolia to sign an offtake agreement 
+for 5 years, where Drinkya will buy all of Glycolia’s green MEG for 35% premium. What should 
+Glycolia do? What strategic considerations to be kept in mind?
+Prompt #3:
+• This prompt is to test the interviewee’s ability to adjust numbers quickly:
+– Revenue = 1000*(1+35%) = 1,350
+– EBIT = 1,350 – 950 = 400
+– FCF = 400*(1-30%) + Dep = 330
+– FCF Annual = 330 * 1 M = 330 M USD
+– Terminal value = 330 M/10% = 3.3 B USD
+– NPV = 3.3 B – 3 B = 0.3 B USD
+• Given the positive NPV, financially it is a feasible venture. However, there are other strategic 
+considerations that should be considered here:
++ Dealing with only one customer will result in multiple savings: shipping costs, overheads, demand 
+forecast stability, etc.
++ Having an offtake agreement will reduce the risk of having unsold product and hence, optimize revenues.
+- Being totally dependent on one buyer has non-diversification risks, as being more susceptible to your 
+customer’s cyclicality.
+- Drinkya may ask to renew the contract at lower terms after 5 years, hence affecting the 
+venture’s financials.
+Interviewer Guidance:
+
+
+===== PDF p42 =====
+Green MEG
+38
+• Glycolia CEO is about to come in. What is your final recommendation?
+Recommendation 
+• As the NPV analysis shows, this is an unfeasible venture. Even with offtake scenario, 
+the number is slightly positive given the large investment of 3 B.
+• A Good candidate can propose ways to improve the NPV such as considering 
+partnering with Greenya rather than buying the technology. Also, explore the 
+possibility of buying and then licensing the technology to other players.
+• Explore further the PR benefits of entering such an industry and possibly growing 
+further business by being the preferred supplier since it has exclusive rights to the 
+green MEG.
+• An excellent interviewee should highlight the risks arising if one of the other 
+competitors buys this technology.
+Interviewer Guidance:
+
+
+===== PDF p43 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Can go through the case with further approximation of 
+numbers. Also, may miss a few points by not adding 
+depreciation or including sunk costs
+Good Candidate
+Can do all the math correctly, but miss the strategic 
+dimension of the case by missing the potential strategic 
+partnerships that could be formed either with Greenya
+(other alternatives) or growing business in the future.
+Excellent Candidate
+Can do all the math correctly without approximations. 
+Capture the key strategic considerations and 
+alternatives to be explored with Greenya. Identify the 
+potential risks if any of the competitors buys this 
+technology.
+39

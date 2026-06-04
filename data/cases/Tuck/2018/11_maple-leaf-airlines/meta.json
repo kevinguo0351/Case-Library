@@ -1,0 +1,30 @@
+{
+  "case_id": "Tuck_2018_11_maple-leaf-airlines",
+  "school": "Tuck",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2018.pdf",
+  "idx": 11,
+  "case_name": "Maple Leaf Airlines",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Airlines",
+  "difficulty": null,
+  "pdf_page_start": 94,
+  "pdf_page_end": 103,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    96,
+    98,
+    101,
+    102,
+    103
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p098.png",
+    "exhibits/exhibit_p101.png",
+    "exhibits/exhibit_p102.png",
+    "exhibits/exhibit_p103.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2018\\11_maple-leaf-airlines"
+}

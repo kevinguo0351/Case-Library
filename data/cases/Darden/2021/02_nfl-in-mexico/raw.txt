@@ -1,0 +1,393 @@
+===== PDF p46 =====
+42
+NFL in Mexico
+Round 1 | Entertainment
+
+
+===== PDF p47 =====
+43
+Round 2 | Entertainment
+0 2  |  C A S E :  NF L IN M E X IC O
+NFL IN MEXICO
+B E HAVIO R A L  
+INT E R VIE W  
+Q UE S T IO N:
+1 .  W h e r e  d o  y o u  
+s e e  y o u r s e lf  in  5  
+y e a r s ?
+2 .  W h a t  d o  y o u  
+t h in k  m a k e s  y o u  
+a  g r e a t  f it  f o r  
+o u r  f ir m ?
+UVA Darden School of Business 2021-22 Casebook
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. Does the client have a financial target in mind?
+The client wants a positive NPV on owning and operating the team.
+2. How do NFL franchise owners make money?
+Teams make money through a league-wide share of TV-contract revenues and a mix of team-specific revenue streams such 
+as advertising, tickets, etc.
+3. What kind of company did the wealthy client found?
+The telecoms industry. The company has a reputation as a highly innovative company, including recent technology boosting 
+mobile internet connections in high-density places. Although our client is no longer involved with day-to-day operations, as 
+founder he retains a strong relationship with the company.
+4. Does our client have any experience with sports franchises?
+No, this would be their first foray into the sports industry
+Prompt:
+Your client is a wealthy former founder and CEO of a multi-national company interested in a new 
+investment opportunity. The National Football League (NFL) wants to expand into Mexico by 
+establishing an expansion franchise in Mexico City. This will be the NFL's first internationally based 
+franchise, although the NFL has recently featured some games between American-based teams in 
+Mexico City and London. The NFL is seeking owners for the team. Our client has sought our advice 
+on whether they should pursue ownership.
+
+
+===== PDF p48 =====
+44
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 2  |  C A S E :  NF L IN M E X IC O
+How to Move Forward:
+Given the positive NPV goal, the candidate should drive directly towards the NPV analysis by seeking information on any of its components (CapEx, Revenues, 
+Expenses, …).
+Financials
+•
+Initial CapEx: team purchase, stadium 
+construction, … 
+•
+Annual revenues
+•
+Tickets
+•
+Advertising
+•
+…
+•
+Annual expenses
+•
+Player salaries
+•
+Back-office
+•
+…
+Mexican Market for Football
+• Plentiful substitutes
+• Soccer!
+• TV/Movies
+• …
+• Government relations and interventions
+• Public funding for stadium construction
+• Mayoral support for team
+• Market research for a novel “product”
+• Willingness to pay
+• Viewing experience preferences (in-
+stadium, TV, mobile)
+• Ease of doing business in Mexico
+• Construction permitting
+- Security
+- Infrastructure, like transportation to 
+stadium and broadband
+Owner considerations
+• Alternate investment opportunities
+• Time remaining in harvest period (and 
+alignment with sports team opportunity)
+• Synergies with other portfolio companies
+• Expertise in sports ownership
+• Exit strategy
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p49 =====
+45
+Question 1 (The location of these question slides in your case is completely up to you)
+•
+What is the NPV of the team ownership?
+0 2  |  C A S E :  NF L IN M E X IC O
+Exhibit or Question Guidance:
+The candidate should break down the problem into the following elements
+•
+Cost to buy team – The team will cost $2.25B plus a $250M expansion franchise fee
+•
+Startup costs (e.g. building stadium, offices, etc.) – This is $500M
+•
+# of games per year – 17 total per year, 8 of which will be played at home
+•
+Annual revenues (see “Revenue Breakdown”)
+-
+Interviewer should work with the candidate to brainstorm the list of revenue drivers, if not covered in framework already, then give quantities.
+•
+When ticket revenues are brought up, show the candidate Exhibit 1
+•
+Annual expenses (see “Expenses Breakdown”)
+-
+Interviewer should work with the candidate to brainstorm the list of cost drivers, if not covered in framework already, then give quantities.
+•
+Holding period – Client does not plan to sell team anytime soon, assume cash flows in perpetuity
+-
+Hurdle rate of 14%, growth rate of 4%
+•
+NPV Calculation
+-
+Initial CapEx - 2.25B + 0.25B + 0.5B = 3.0B
+-
+Annual Profit - 530M – 250M = 280M
+-
+NPV – (280M/[14% - 4%]) – 3.0B = -0.2 B
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p50 =====
+46
+EXHIBIT 1
+0 2  |  C A S E :  NF L IN M E X IC O
+Ticket breakdown
+UVA Darden School of Business 2021-22 Casebook
+Ticket Location
+Quantity
+Price
+Expected 
+Occupancy
+Lower Bowl
+20,000
+200
+90%
+Mezzanine
+35,000
+100
+80%
+Upper-Deck
+80,000
+50
+75%
+Luxury Box
+1,200
+500
+100%
+
+
+===== PDF p51 =====
+47
+EXHIBIT 1 (INTERVIEWER)
+0 2  |  C A S E :  NF L IN M E X IC O
+Ticket breakdown
+UVA Darden School of Business 2021-22 Casebook
+Ticket 
+Location
+Quantity
+Price
+Expected 
+Occupancy
+Revenue
+per Game
+Lower Bowl
+20,000
+200
+90%
+3,600,000
+Mezzanine
+35,000
+100
+80%
+2,800,000
+Upper-Deck
+80,000
+50
+75%
+3,000,000
+Luxury Box
+1,200
+500
+100%
+600,000
+Total
+-
+-
+-
+10,000,000
+
+
+===== PDF p52 =====
+48
+INTERVIEWER EXHIBIT
+0 2  |  C A S E :  NF L IN M E X IC O
+Revenue breakdown
+UVA Darden School of Business 2021-22 Casebook
+•
+Candidate should be careful around units – some revenues are on a per game basis while other revenues are on a per year basis
+•
+“Advertising” can include both on-jersey and in-stadium ads
+•
+Tickets are calculated using tiered-pricing from Exhibit 1
+Revenue category
+Per Game
+Annual
+Per Year
+Tickets
+10 M
+-
+80 M
+Advertising
+7 M
+-
+56 M
+Merchandise
+8 M
+-
+64 M
+Concessions
+5 M
+-
+40 M
+TV Contract
+-
+290 M
+290 M
+Total (have candidate calculate)
+30 M
+290 M
+530 M
+
+
+===== PDF p53 =====
+49
+INTERVIEWER EXHIBIT
+0 2  |  C A S E :  NF L IN M E X IC O
+Cost breakdown
+UVA Darden School of Business 2021-22 Casebook
+Cost category
+Amount 
+(per year)
+Salaries
+200 M
+SG&A
+30 M
+Maintenance
+10 M
+Travel
+10 M
+Total (have candidate calculate)
+250 M
+
+
+===== PDF p54 =====
+50
+New revenue streams:
+•
+Utilize the stadium for non-football 
+events
+•
+Host training camps for local 
+colleges or high schools
+•
+VIP experiences or tours
+0 2  |  C A S E :  NF L IN M E X IC O
+UVA Darden School of Business 2021-22 Casebook
+Best candidates display:
+Good candidates should generate ideas that do more than squeeze additional dollars out of existing revenue streams. A candidate can rely on 
+their own stadium experiences to recommend monetization opportunities that haven’t been covered so far. An excellent candidate will 
+recognize that the owner owns the stadium, which is only utilized a few days per year for games.  
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+In-game revenue:
+•
+Paid stadium wifi
+•
+In-game gambling
+•
+Purchase of messages to be 
+displayed on jumbotron screen
+Change league structure:
+•
+Advocate for more home games
+•
+Playoff payouts
+•
+Re-negotiate revenue sharing 
+model
+BRAINSTORMING
+How could the owner drive more revenue from this asset to increase its NPV?
+
+
+===== PDF p55 =====
+51
+CONCLUSION
+0 2  |  C A S E :  NF L  IN M E X IC O
+UVA Darden School of Business 2010-20 Casebook
+To conclude, the candidate should provide the following:
+Recommendation:
+•
+The owner should not invest in the football team
+•
+The NPV is -0.2 B
+Risks:
+•
+Given the novelty of this opportunity, many of the 
+estimates used (i.e. stadium occupancy) have high 
+uncertainty. The “real” NPV could be much higher!
+Next Steps:
+•
+Find an alternative investment that generates a higher 
+return
+•
+A candidate could also recommend investing. To do this, the candidate should acknowledge that the NPV is negative but lean heavily on the 
+ideas cited in the brainstorming session to argue that there is opportunity for increased profit.
+
+
+===== PDF p56 =====
+52
+INT E R VIE W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

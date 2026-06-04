@@ -1,0 +1,537 @@
+===== PDF p205 =====
+Race to 270
+Difficulty: Hard
+Industry: Political Election
+Case Type: Asset Optimization
+Written by Daniel Krimowski ‘21 and Anthony Villamagna ‘21
+Concepts Tested
+• Creativity
+• Math Structure
+• Professionalism
+The United States Presidential election is 2 weeks from today. Our client is the campaign manager for President Rump 
+who is seeking re-election and is locked in a tight race with Former Vice President Widen. The US presidential election is 
+decided by a general election which earns each candidate electoral votes. States are given electoral votes based upon their 
+population ranging from 55 for California to 3 for 8 states. With a total of 538 electoral votes at stake, a candidate needs to 
+earn 270 to win the election outright. A candidate wins the electoral votes by 50 popular-vote elections in each state. This 
+allows every state to matter as for the most part, candidates and their parties are unable to predict which will be the key 
+swing states. What factors would you consider in advising our client on how to pursue winning the election?
+Problem Statement Narrative
+This case has difficult math, but the overall lesson of the case is to support a client no matter your opinion of the work. 
+The candidate should work to a solution with the best interest of the client in mind
+Case Notes
+Case #22 : Race to 270
+201
+
+
+===== PDF p206 =====
+Race to 270
+Question #1 / Framework 
+What factors would you consider in advising our client on how to win the election?
+1.
+Winning Election
+a.
+Current Standings
+i.
+Won States
+ii.
+Lost States
+iii.
+Battleground States
+1)
+Available Electoral Votes
+2)
+Population
+a)
+Voting Population
+b)
+Non-Voters
+1.
+Campaign Events
+a.
+Event Options
+i.
+Presidential Rally
+ii.
+VP Rally
+iii.
+Ad Campaign
+1)
+TV
+2)
+Radio
+3)
+Mail
+b.
+Effect of Events
+i.
+New Voters
+ii.
+Excitement
+Sample Framework
+Politics are an inherently uncomfortable topic, especially 
+given the vitriol of the 2020 presidential election. 
+However, candidates should not let this affect them
+The math in this case is unwieldy and the candidate 
+MUST have good paper hygiene to be successful
+Guidance for Interviewer
+•
+What is the goal of the client?
+To win the election
+•
+What political party is Rump?
+Republican
+•
+What time does it need to be completed by?
+The election is 2 weeks away
+•
+How much of  the population is of  voting age?
+75%
+•
+Of  the eligible voters, how many will vote?
+2/3
+•
+Current Projected Electoral Votes that are 
+guaranteed to go to each candidate:
+Rump- 162
+Widen- 176
+Clarification Answers if  Asked 
+202
+
+
+===== PDF p207 =====
+Race to 270
+Question #2
+Question
+Solution
+During our leadership meeting this morning, the client's campaign manager called twice to check on our progress. What 
+ideas do you have that our client's campaign could do to increase their chances of winning re-election?
+Candidate should start to brainstorm ideas utilizing a structured approach. An example brainstorm is below:
+Awareness
+Positioning
+1.
+Buying more advertising (digital, print 
+media, etc.)
+2.
+Send candidate to state
+3.
+Send VP on campaign trail
+4.
+Public interactions
+1.
+Identify top initiatives and policies once re-
+elected
+2.
+Segment what undecided voters want and 
+will convince them to vote for candidate
+3.
+Create a new platform
+4.
+Highlight contrast vs opponent
+203
+
+
+===== PDF p208 =====
+Race to 270
+Question #3
+Question
+Notes
+We have compiled information on 10 battleground states (states where either candidate can win) with information on their 
+electoral votes, the current standings, and undecided voters. Due to budget restrictions from an early spending blitz and 
+lower donations due to the pandemic, we can only use one of each of the four campaign events and can only use one 
+event per state to get the desired effect. Which states should we target to help our client win the election and which 
+campaign event should we use for each? (Give Exhibit #1 now, Exhibit #2 when they ask for information about 
+Battleground states, and Exhibit #3 when they ask about the events)
+The candidate should talk through the exhibit in a structured top-down approach.
+Candidate can round. If they do not, encourage them to do so
+Clarifying Questions:
+Rump is a Republican
+Event Efficacy:
+If we use multiple events on one state, we will only get the result of the highest efficacy event.
+How much of  the population is of  voting age?
+75%
+Of  the eligible voting population, how many will vote?
+2/3
+Current Projected Electoral Votes that are guaranteed to go to each candidate:
+Rump- 162
+Widen- 176
+204
+
+
+===== PDF p209 =====
+Race to 270
+Question #4
+Question
+Solution
+We just received intel that former Vice President Widen and his campaign will host a rally in Washington. Additionally, his 
+potential VP and running mate Senator Ferris is doing rally in Michigan. Studies have shown that they are half as 
+influential as President Rump’s and Vice President Fence’s rallies and will have half the impact compared to our client. 
+How will this affect our client's strategy? Don’t write it down, just walk me through your immediate thoughts
+Candidate should start to brainstorm ideas utilizing a more conversational approach. 
+•
+Figure out what they’re doing
+•
+Analyze impact their moves have on our client
+•
+Mitigate their successes while protecting our client’s gains
+205
+
+
+===== PDF p210 =====
+•
+The candidate should realize that after the moves by 
+Widen President Rump has no chance of winning the 
+election
+•
+Ideally the candidate says that they approach the client 
+with a best of strategy but acknowledge that the 
+numbers don’t look good now, but that elections can 
+be unpredictable
+Recommendation
+•
+The election of Rump becomes mathematically 
+impossible as those moves by Widen put Washington 
+state out of reach and would force Rump to campaign 
+in Michigan to win the state, meaning that he is 
+guaranteed to lose either Michigan or Colorado, 
+ultimately losing the election
+Rationale
+•
+Planning not to win
+•
+Razor thin margins, too much up to chance
+•
+Don’t fully know the extent of other moves by the 
+Widen team (such as additional TV ads, etc)
+Risks
+•
+Get funding to have more events
+•
+Understand the Widen team’s future moves to better 
+respond
+•
+Figure out other events, ads, etc that can have an 
+impact on the campaign with such little time
+Next Steps
+Race to 270
+Conclusion
+206
+
+
+===== PDF p211 =====
+Race to 270
+Exhibit #1 : Electoral Map of  US
+Represents 
+Battleground State
+Note: The numbers next to the state represent their number of  Electoral Votes
+207
+
+
+===== PDF p212 =====
+Race to 270
+Exhibit #2 : Battleground States
+State
+Population
+% Democrat
+% Republican
+California
+39,512,223
+47%
+40%
+Colorado
+5,758,736 
+46%
+42%
+Florida
+21,477,737 
+32%
+48%
+Massachusetts
+6,949,503 
+50%
+40%
+Michigan
+9,986,857 
+43%
+40%
+Missouri
+6,137,428 
+39%
+48%
+North Carolina
+9,380,884 
+35%
+47%
+Texas
+28,995,981 
+40%
+51%
+Virginia
+8,535,519 
+47%
+35%
+Washington
+7,614,893 
+45%
+41%
+Note: Anyone that is not labelled ‘Democrat’ or ‘Republican’ is undecided, meaning they are equally likely to vote for Rump or Widen
+208
+
+
+===== PDF p213 =====
+Race to 270
+Exhibit #3 : Campaign Strategies
+Strategy
+Impact*
+President Rump Rally
+50%
+Vice President Hence Rally
+30%
+TV Ads
+20%
+Door-to-door campaign
+15%
+Note: Impact means that % of voters are confirmed for your political party. For example, a 10% impact with 10 undecided voters means your 
+party now has 1 confirmed voter with 9 undecided voters left
+209
+
+
+===== PDF p214 =====
+Race to 270
+Exhibit #1 Math Solutions
+Solutions
+State
+Electoral 
+Votes
+Population
+Rounded
+Voters (75%)
+Will Vote (2/3)
+Dem
+# (candidate)
+Rep
+# (candidate)
+California
+55
+39,512,223 
+40,000,000 
+30,000,000 
+20,000,000 
+47%
+9,400,000 
+40%
+8,000,000 
+Colorado
+9
+5,758,736 
+6,000,000 
+4,500,000 
+3,000,000 
+46%
+1,380,000 
+42%
+1,260,000 
+Florida
+29
+21,477,737 
+21,000,000 
+15,750,000 
+10,500,000 
+32%
+3,360,000 
+48%
+5,040,000 
+Massachusetts
+11
+6,949,503 
+7,000,000 
+5,250,000 
+3,500,000 
+50%
+1,750,000 
+40%
+1,400,000 
+Michigan
+10
+9,986,857 
+10,000,000 
+7,500,000 
+5,000,000 
+43%
+2,150,000 
+40%
+2,000,000 
+Missouri
+10
+6,137,428 
+6,000,000 
+4,500,000 
+3,000,000 
+39%
+1,170,000 
+48%
+1,440,000 
+North Carolina
+13
+9,380,884 
+9,000,000 
+6,750,000 
+4,500,000 
+35%
+1,575,000 
+47%
+2,115,000 
+Texas
+38
+28,995,981 
+29,000,000 
+21,750,000 
+14,500,000 
+40%
+5,800,000 
+51%
+7,395,000 
+Virginia
+13
+8,535,519 
+9,000,000 
+6,750,000 
+4,500,000 
+47%
+2,115,000 
+35%
+1,575,000 
+Washington
+12
+7,614,893 
+8,000,000 
+6,000,000 
+4,000,000 
+45%
+1,800,000 
+41%
+1,640,000 
+Note: A strong candidate will realize that they don’t need to do most of the calculations. They can leave 
+everything in percentages as the goal is simply to get more than 50% of the total votes in a state
+210
+
+
+===== PDF p215 =====
+Race to 270
+Exhibit #1 Math Solutions Continued
+Solutions
+State
+Undecided 
+Voters
+# (candidate)
+To Win:
+Votes Needed
+If we do 
+nothing
+Pres Rally 
+(50%)
+VP Rally (30%)
+TV (20%)
+D2D (15%)
+California
+13%
+2,600,000 
+10,000,001 
+2,000,001 
+1,300,000 
+1,950,000 
+1,690,000 
+1,560,000 
+1,495,000 
+Colorado
+12%
+360,000 
+1,500,001 
+240,001 
+180,000 
+270,000 
+234,000 
+216,000 
+207,000 
+Florida
+20%
+2,100,000 
+5,250,001 
+210,001 
+1,050,000 
+1,575,000 
+1,365,000 
+1,260,000 
+1,207,500 
+Massachusetts
+10%
+350,000 
+1,750,001 
+350,001 
+175,000 
+262,500 
+227,500 
+210,000 
+201,250 
+Michigan
+17%
+850,000 
+2,500,001 
+500,001 
+425,000 
+637,500 
+552,500 
+510,000 
+488,750 
+Missouri
+13%
+390,000 
+1,500,001 
+60,001 
+195,000 
+292,500 
+253,500 
+234,000 
+224,250 
+North Carolina
+18%
+810,000 
+2,250,001 
+135,001 
+405,000 
+607,500 
+526,500 
+486,000 
+465,750 
+Texas
+9%
+1,305,000 
+7,250,001 
+(144,999)
+652,500 
+978,750 
+848,250 
+783,000 
+750,375 
+Virginia
+18%
+810,000 
+2,250,001 
+675,001 
+405,000 
+607,500 
+526,500 
+486,000 
+465,750 
+Washington
+14%
+560,000 
+2,000,001 
+360,001 
+280,000 
+420,000 
+364,000 
+336,000 
+322,000 
+Note: A strong candidate will realize that they don’t need to do most of the calculations. They can leave 
+everything in percentages as the goal is simply to get more than 50% of the total votes in a state
+211

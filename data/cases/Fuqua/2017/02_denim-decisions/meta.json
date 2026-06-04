@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2017_02_denim-decisions",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 2,
+  "case_name": "Denim Decisions",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Apparel/Retail",
+  "difficulty": null,
+  "pdf_page_start": 34,
+  "pdf_page_end": 44,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p036.png",
+    "exhibits/exhibit_p037.png",
+    "exhibits/exhibit_p038.png",
+    "exhibits/exhibit_p039.png",
+    "exhibits/exhibit_p040.png",
+    "exhibits/exhibit_p041.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\02_denim-decisions"
+}

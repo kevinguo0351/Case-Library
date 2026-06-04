@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2011_17_euro-seafood",
+  "school": "Fuqua",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2011.pdf",
+  "idx": 17,
+  "case_name": "Euro Seafood",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 91,
+  "pdf_page_end": 96,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    91,
+    93,
+    94,
+    95,
+    96
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p093.png",
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2011\\17_euro-seafood"
+}

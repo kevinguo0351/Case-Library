@@ -1,0 +1,332 @@
+===== PDF p94 =====
+EduCo
+Your client is EduCo, one of the oldest and the largest corporate training and learning service provider in the US. Over the
+last two years, EduCo has been facing increasing competition from new and upcoming digital learning providers and
+MOOC start-ups.
+The CEO believes that EduCo is operating in a very dynamic industry and needs to diversify and adapt to the changes for
+continued survival. The CEO has asked your firm to come up with a diversification strategy to ensure the firm maintains
+its market share in this evolving industry. How would you approach this?
+Problem Statement Narrative
+Difficulty: Medium 
+Industry: EdTech
+Case Type: Growth Strategy
+Written by Rachit Agarwal ‘21 and Wineeta Paul ‘21
+• Mental math
+• Acquisition analysis
+• Extracting insights from exhibits
+Concepts Tested
+Case #9 : EduCo
+Case Notes
+Problem statement should lead candidate to create a turnaround strategy/growth framework
+Case will require candidate to analyze exhibits and perform mathematical calculations
+The exhibits are connected to one another – interviewer should let the candidate lead
+90
+
+
+===== PDF p95 =====
+Sample Framework
+Guidance for Interviewer
+•
+Products:
+Currently
+provides
+in-person
+learning
+services to working professionals (post K-12) in two
+areas: 1) software programming and applications 2)
+soft skills such as communication, teamwork and
+negotiation
+•
+Customers: Pure play B2B firm with presence across
+the US; US market continues to remain the focus
+•
+Changing industry trends: 1) demand for certification
+in certain niche areas 2) requirement for online and
+hybrid learning and training formats
+•
+What are MOOCs? Massive open online courses
+Clarification Answers if  Asked 
+EduCo
+Candidate should dive right into creating a framework
+After the candidate creates the framework, the interviewer
+should nudge the candidate to think of new areas/themes
+for company to diversify into in terms of content offering,
+before providing Exhibit 1
+1.
+Understanding the Market
+a.
+Customers
+–
+Demographics,
+Demand,
+WTP
+b.
+Business Model – B2B, B2C, B2B2C
+c.
+Content delivered – Topics, Mode (offline,
+interactive, hybrid)
+d.
+Size and players (Segment size and growth,
+# of players)
+2.
+EduCo Options
+a.
+Organic
+(Geographies/Offering,
+investment requirement, capabilities)
+b.
+Inorganic
+(available
+options
+and
+their
+assessment on qualitative and financial
+metrics, post merger integration efforts,
+new branding)
+3.
+Risks (market, regulatory, integration, etc.)
+Question #1 / Framework 
+What diversification strategy will maintain EduCo’s position?
+91
+
+
+===== PDF p96 =====
+Which segments/area(s) do you think the company should diversify into in order to expand its offerings?
+Provide Exhibit 1 after the candidate has brainstormed 4-5 ideas
+Question #2
+Question
+The candidate should be able to identify the three variables shown in the exhibit and interpret their significance. Each of 
+these indicators impact the learning budget of the corporations –
+•
+Estimated market size: Industry size determines the revenues of the firms, hence, impacting their employment costs 
+•
+Excellent candidate should be able to highlight the impact of estimated size is unclear without having 
+further information on industry averages on employment costs
+•
+Annual historical % increase in job postings: Job postings impact budget for new hire trainings for the industry 
+•
+Excellent candidate should be able to identify this metric only has a one-time impact on employment costs, 
+and is missing the component of on-the-job training, including corporations’ efforts to upskill and reskill 
+their workforce
+•
+Projected % market growth: Future growth determines how quickly the learning needs will increase
+Candidate should be able to highlight that EduCo should focus on only one of the five segments, given the complexity in 
+launching new training catalog and customer acquisition. Rationale for segment selection: 
+•
+Candidate should be able to identify fintech as an obvious options to focus on
+•
+Candidate should be able to rule out genetics due to its smallest industry size & robotics due to lowest job postings
+•
+Candidate should indicate cyber security and blockchain as two potential areas to consider for the second viable option 
+for EduCo; and ask for more information on learning budget to further narrow path forward to one segment 
+Solution
+EduCo
+92
+
+
+===== PDF p97 =====
+Does the information given in the table further help you finalize the segment to be targeted?
+Provide Exhibit 2 to the candidate
+Question #3
+Question
+The candidate should realize that the potential market size in this case is the learning budget of companies in particular 
+industries. The candidate should multiply the three columns to calculate the market size and conclude that the segment to 
+go ahead is Fintech
+Solution
+EduCo
+Segment
+Market Size (Learning budget)
+Fintech
+$30.0 B
+Genetics
+$4.4 B
+Robotics
+$13.0 B
+Big Data and Analytics 
+$18.9 B
+Cyber Security 
+$16.0 B
+93
+
+
+===== PDF p98 =====
+What are the potential ways for the client to tap into the target segment of fintech? 
+Question #4
+Question
+The candidate should provide pros and cons of entering this space, through both organic and inorganic options and 
+enquire about any time or budgetary constraints and about any data related to existing players
+Excellent candidates should be able to provide additional reasoning using their personal experiences as well
+Solution
+EduCo
+94
+
+
+===== PDF p99 =====
+The client decides to acquire an existing start-up in this space. Which start-up do you think the client should acquire and 
+why? 
+Provide Exhibit 3 once the candidate has provided satisfactory answer to the previous question
+Question #5
+Question
+Solution
+EduCo
+EdTech Start-ups in FinTech 
+Space
+Option A
+Option B
+Option C
+Total yearly profit
+$ 78M
+$ 40M
+$ 81M
+Pay-back period (years)
+2.6
+3.0
+2.5
+The candidate should calculate the total yearly profit by multiplying the first three rows in the table and also calculate the 
+pay-back period by dividing total yearly profit by acquisition cost. The candidate should eliminate Option B from the 
+consideration post these calculations. The candidate should give reasons for choosing either of Option A or C. Some 
+possible answers are:
+Option A: both online and off-line presence, high average profit – increasing number of courses and customers can boost 
+the profit further
+Option C: shortest pay-back period, highest yearly profit, dominant player in the market
+95
+
+
+===== PDF p100 =====
+Conclusion
+•
+EduCo should diversify its corporate training and 
+learning services offering in Fintech space 
+•
+It should acquire a smaller startup – Option A or C –
+to execute this expansion/diversification
+Recommendation
+•
+Fintech space (based on Exhibit 1 & 2) provides the 
+largest market for learning services ($30 billion)
+•
+Within Fintech space, EduCo should go ahead with 
+inorganic growth options (acquisition) instead of 
+building out course offerings because of speed of 
+diversification. Option A/C is a good option due to 
+its short pay-back period and great future potential 
+Rationale
+•
+Regulatory risks – Fintech is heavily regulated sector, 
+and employee trainings may need to be compliant 
+with SEC and Fed rules
+•
+Post merger integration risks – Acquisition of 
+Option A/C presents inherent integration risks (e.g.: 
+business operations, SG&A, and firm culture) 
+•
+Brand Dilution – EduCo is an established offline 
+learning provider, and this acquisition might cause 
+brand dilution
+Risks
+•
+Initiate acquisition process for Option A/C – due 
+diligence, identify synergies, make an offer, and plan 
+for post merger integration
+•
+Expanding current course catalog to other platforms 
+– creating online/ hybrid course offerings 
+•
+Create a customer acquisition plan for new course 
+offerings with a focus on maintaining brand capital
+Next Steps
+EduCo
+96
+
+
+===== PDF p101 =====
+Exhibit #1 : Potential New Segments
+0
+50
+100
+150
+50
+0
+10
+20
+30
+40
+Genetics
+% Projected Market Growth 
+(CAGR - 5 years)
+% Annual Increase 
+in Job Postings 
+(2010-20)
+Cyber Security
+Robotics
+Fintech
+Big Data and Analytics
+Estimated market size ($ Bn.)
+97
+EduCo
+
+
+===== PDF p102 =====
+Exhibit #2 : Potential New Segment Details
+Segment
+Industry Size
+($ B)
+Employee costs (as 
+a % of  revenue)
+Learning spend (as 
+a % of  employee 
+costs)
+Fintech
+1000
+30%
+10%
+Genetics
+100
+20%
+22%
+Robotics
+400
+25%
+13%
+Big Data and Analytics 
+450
+30%
+14%
+Cyber Security 
+400
+20%
+20%
+98
+EduCo
+
+
+===== PDF p103 =====
+Exhibit #3 : Potential Acquisition Targets
+EdTech Start-ups in FinTech 
+Space
+Option A
+Option B
+Option C
+# of courses offered
+40
+40
+45
+# of customers
+13,000
+10,000
+20,000
+Average yearly profit / course / 
+customer
+$ 150
+$ 100
+$ 90
+Mode of delivery
+Online + Hybrid
+Offline
+Online
+Acquisition Cost
+$ 200M
+$ 120M
+$ 200M
+99
+EduCo

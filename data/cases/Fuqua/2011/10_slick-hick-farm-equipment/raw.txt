@@ -1,0 +1,107 @@
+===== PDF p54 =====
+Profitability 
+Case 10: Slick Hick Farm Equipment 
+Prompt 
+Your client is Slick Hick, a large agricultural equipment manufacturer. Its primary product line, 
+farming tractors, is losing money.  
+ 
+What questions would you ask of your client to help them solve their profitability problem?  
+Guidance 
+The candidate should outline a general profitability framework (P*Q – (FC + VC*Q)) and identify 
+competitors as a necessary piece of understanding. 
+ 
+Competitors - Two direct competitors. 
+ 
+Market share 
+Current: Client has 40% of the market, competitor #1 has 30% competitor #2 has 15%, with the 
+remaining 15% belonging to many small manufacturers. 
+Trends: Five years ago, your client had 60% of the market, competitor #1 had 15%, and competitor 
+#2 had 10%. Your client has lost significant market share to its two main competitors over the last 
+few years. 
+ 
+ 
+Customers - All three competitors sell to the same customers. 
+ 
+Price 
+Client's product is priced higher than others. This has always been the case. 
+Differences that allow for a premium price: Client has a strong reputation/image of quality in the 
+market and the market has always been willing to pay a premium for that reputation because it 
+implied a longer lasting more reliable product. This is critical for some farmers because they cannot 
+afford to have a piece of equipment break down. 
+ 
+Features 
+The products all have the same basic features. However, tractors are not commodity items and a 
+few differences do exist. 
+Unknown Round 
+DMCC 
+50 
+
+
+===== PDF p55 =====
+51 
+Analysis 
+(PQ – (FC + VC*Q)) 
+ 
+Revenue insight: Quantity decrease driven by market share loss has driven revenues down 
+ 
+Costs insight: VC increases are driving unprofitability.  The specific VC driving this is finished part 
+prices.  The client assumed customers would pay more for better products, but they are not. 
+Guidance 
+ 
+Candidate should explore reasoning for profitability decline by asking the following questions: 
+Change in sales revenues: Revenues are down. 
+Change in sales quantities: Quantity is down. 
+Change in price: Prices are up. 
+ 
+Change in costs: Costs are up 
+Change in fixed costs: Unchanged. 
+Change in variable costs: Variable costs have increased tremendously. The client does not know 
+why material prices have gone up so staggeringly. 
+ 
+Candidate should deep dive on variable cost breakdown by identifying potential buckets 
+Type of operation (manufacturing or assembly-only): Primarily assembly. 
+Change in finished part prices: Finished part prices have gone up. 
+Change in raw material prices for suppliers: Not to client's knowledge. 
+Change in supplier labor costs: No change.  Also, no change in suppliers. 
+ 
+Candidate should then probe on why finished part prices have gone up. 
+Reason for suppliers charging higher prices for the same products: They're not--the prices have 
+increased as a result of product improvement efforts. Client has tightened tolerances and improved 
+the durability of component parts. 
+Reason for product improvements: Client strives to sell the world‘s best tractors. 
+Customer willingness to pay for product improvements: Client assumed yes. 
+Profitability 
+Case 10: Slick Hick Farm Equipment 
+Unknown Round 
+DMCC 
+51 
+
+
+===== PDF p56 =====
+52 
+Analysis 
+Prices have been raised to cover the costs of improvements, but customers do not place a high 
+value on the improvements, so the price increase has resulted in a drop in sales. The client needs to 
+incorporate a cost/benefit analysis procedure into its product improvement process. The client 
+should also evaluate their marketing plans to ensure their customers are aware of product 
+improvements and understand their value. Before scaling back their product improvement process, 
+the client needs to evaluate competitor's R&D and product improvement positions. 
+Performance 
+Evaluation 
+Expected: 
+ - Profitability framework 
+ - Market share probing 
+ 
+Good: 
+ - Identify need to understand profitability decline in terms of changes in revenue and cost levers 
+ - Key in on variable cost increases and identify key buckets that go into building a tractor 
+ 
+Excellent: 
+ - Asking probing questions on why part prices have increased and if these increases have been 
+passed to the customer 
+ - Making recommendations for cost repositioning and assessing market risks 
+Profitability 
+Case 10: Slick Hick Farm Equipment 
+Unknown Round 
+DMCC 
+52 

@@ -1,0 +1,143 @@
+===== PDF p139 =====
+CASE 12:  
+RADIATOR FINS FOR DEFENSE AIRCRAFT 
+Case Question: 
+Our client is negotiating the price of radiator fins which are used in defense 
+aircrafts. What should be an appropriate price for a radiator fin? 
+Firm Style 
+Interview Round 
+Booz, A.T. Kearney 
+2 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+What does the client do? 
+They are a defense aircraft manufacturer. 
+Who is the client negotiating with? 
+An existing supplier who has been supplying 
+these products for the last 10 years. 
+Where is the client based? 
+They are based in the United States. 
+What is the function of a radiator fin in aircraft? 
+Cooling the aircraft engines. 
+Is there specific leverage for our client in the 
+negotiation? 
+By regulation, defense manufacturers can 
+obtain the cost structure from their suppliers. 
+
+
+===== PDF p140 =====
+RADIATOR FINS  
+FOR DEFENSE AIRCRAFT 
+Framework / Structure 
+This is a typical pricing case.  The analysis may include, but is not limited 
+to, the following areas:  
+• Industry Analysis 
+• Pricing Strategy – Market-based pricing, value-based pricing, cost-
+based pricing. 
+ 
+Strong Plan 
+A strong plan should discuss the analysis along with the drivers such as 
+market based pricing is driven by market competition and cost base 
+pricing is driven by supplier’s cost structure 
+Weak Plan 
+Weak plan will discuss only the pricing strategy without any drivers. For 
+example it can include cost structure in cost based pricing but will not 
+break it further into components and its drivers. 
+ 
+
+
+===== PDF p141 =====
+RADIATOR FINS  
+FOR DEFENSE AIRCRAFT 
+Interviewee:  How many suppliers are there in the market? 
+Interviewer: Our client’s supplier is the only one in the market. 
+ 
+Expected Insight: We don’t need to consider market-based pricing 
+since there is no competition. Interviewee:  Is there a substitute product 
+for radiator fins? 
+ 
+Interviewer:  No, the client cannot substitute the radiator fins with any 
+other product. Interviewee: What is the value proposition of this 
+product? 
+Interviewer: The radiator fins are essential for the aircraft to function. 
+ 
+Expected Insight: The product has high value for the client but given 
+that our client is a defense manufacturer who can obtain the suppliers‟ 
+cost breakdown, value-based pricing is not viable. 
+ 
+Interviewee: Let’s discuss the cost structure of the supplier. 
+Interviewer: Excellent, what do you need? 
+Interviewee: Recommended cost structure is as follows: 
+
+
+===== PDF p142 =====
+RADIATOR FINS  
+FOR DEFENSE AIRCRAFT 
+Cost Component 
+Old 
+New 
+Production Cost 
+Material 
+$300 
++7% 
+ 
+Labor 
+$100 
+-2% 
+ 
+SGA 
+13% 
+  
+ 
+Total 
+$452 
+  
+Transportation 
+12 fins per box 
+$5000/box 
+-12% 
+Margin 
+  
+20% 
+  
+Final Price 
+  
+$1042.4 
+  
+Cost Components 
+Drivers 
+Raw Material 
+Prevalent market price 
+Labor 
+Geography and labor market 
+SGA including overhead 
+Efficiency 
+Allocated fixed cost 
+Utilization and scale 
+Transportation 
+Geographical distance, weight, 
+volume and mode of transport. 
+Note: An average interviewee will only calculate the change in cost structure and 
+then decide on the negotiation price, while a strong interviewee will challenge even 
+the old cost structure. 
+
+
+===== PDF p143 =====
+RADIATOR FINS  
+FOR DEFENSE AIRCRAFT 
+Calculations 
+Old price after margin is $1042.4 per fin and as per calculations 
+the new price is $1008.16. 
+ 
+Recommendation 
+The recommendation should include the following: 
+• The answer – as per cost modeling, final price should be $1008 
+and we should negotiate for the lower price.  
+• Risks or considerations – we added margins on top of 
+transportation cost, if that is not the case final number may be 
+different.  
+• Next steps – Do the cost modeling for the old cost structure to 
+make sure it is accurate. 
+ 

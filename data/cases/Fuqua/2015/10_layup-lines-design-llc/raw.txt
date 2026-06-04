@@ -1,0 +1,236 @@
+===== PDF p113 =====
+Case #10: Layup Lines Design 
+LLC
+Industry: Retail
+Quantitative Level: 
+Qualitative Level:
+Quantitative level: Easy
+Qualitative level: Medium
+108
+
+
+===== PDF p114 =====
+Behavioral Questions
+110
+• Describe a time you were on a team that failed
+• STAR story, emphasize what learned and how applied in future. 
+Question 1:
+• Describe a time you convinced a peer or manager to take action
+• STAR story, heavy focus on actions taken to convince. The actions more important 
+than the context.
+Question 2:
+
+
+===== PDF p115 =====
+Layup Line Designs LLC
+111
+• Three friends, Laura, Isabel, and Dom, are creating a t-shirt company, Layup Line 
+Designs, LLC in Nashville, TN. They are annoyed with the lack of “cool” Nashville 
+based t-shirts in the market, and have decided to take matters into their own hands. 
+They have hired us to think through key considerations in starting this company.
+Prompt #1:
+• If asked the following background information should be given: want to stay local, 
+have no experience in small business, are planning to both design and screen print 
+but will source the actual t-shirt, Nashville MSA is 1.8M, 13M tourists visit/year
+• Key considerations that should be included: profit analysis, competitor landscape, 
+industry trends, target customer
+Interviewer Guidance:
+
+
+===== PDF p116 =====
+Layup Line Designs LLC
+112
+• Laura, Izzy, and Dom are especially concerned with costs as they do not want to 
+finance Layup Line Designs using any loans. Noting that Layup Line Designs will 
+both design and print t-shirts, what are the key cost considerations for this company?
+Prompt #2:
+• Break down into fixed costs and variable costs. 
+• Fixed costs: salary, equipment for printing, marketing
+• Variable costs: ink, t-shirts, screens
+Interviewer Guidance:
+
+
+===== PDF p117 =====
+Exhibit #1
+113
+Variable costs
+Dollars
+Purchase Qty
+Unit costs (per shirt)
+ink
+$6.42
+8 oz bottle
+$0.13
+shirt
+$5.00
+per shirt
+$5.00
+screen
+$30.00
+per screen
+$0.60
+transparency
+$2.00
+per design
+$0.04
+emulsion
+$15.00
+per bottle
+$0.03
+total variable costs/shirt
+$5.80
+Revenues
+avg retail price per shirt
+$25.80
+Operating margin
+$20.00
+Fixed costs (annual)
+salary
+0
+website/mkting
+$10,000
+other (rents, etc)
+0
+total fixed costs
+$10,000
+
+
+===== PDF p118 =====
+Interviewer guidance on Exhibit 1
+• Currently, Laura, Izzy, and Dom all have 
+jobs outside of Layup Lines Design LLC. 
+Based on the P&L, if they did not require 
+any salary, and could utilize a repurposed 
+basement for free, how many t-shirts 
+would they need to sell to breakeven? 
+How many shirts/week?
+• Breakeven volume is
+– 10,000/20 (total fixed costs/unit profit) 
+= 500
+• Fixed costs = $10,000
+• Unit profit = $20.00
+• Weekly volume = 500/50 = 10
+• Interviewee should organize equation and 
+talk through inputs and assumptions
+114
+Exhibit 1 Prompt #3:
+Analysis:
+
+
+===== PDF p119 =====
+Layup Line Designs LLC
+115
+• Based on your calculations, does this seem feasible? What else would you want to 
+consider
+Prompt #4:
+• 10 shirts/week seems possible
+• Should return to original framework, could mention: competitive landscape, space in 
+basement, industry trends, population of Nashville, tourism to Nashville 
+• Want to have 2-3 strong reasons to support whether or not feasible
+Interviewer Guidance:
+
+
+===== PDF p120 =====
+Exhibit #2
+116
+Variable costs
+Dollars
+Purchase Qty
+Unit costs (per shirt)
+ink
+$6.42
+8 oz bottle
+$0.13
+shirt
+$5.00
+per shirt
+$5.00
+screen
+$30.00
+per screen
+$0.60
+transparency
+$2.00
+per design
+$0.04
+emulsion
+$15.00
+per bottle
+$0.03
+total variable costs/shirt
+$5.80
+Revenues
+avg retail price per shirt
+$25.80
+Operating margin
+$20.00
+Fixed costs (annual)
+salary
+?
+website/mkting
+$10,000
+other (rents, etc)
+0
+total fixed costs
+?
+
+
+===== PDF p121 =====
+Interviewer guidance on Exhibit 2
+• Laura, Izzy, and Dom are hoping that 
+Layup Line Designs could grow into a 
+business large enough so that they could 
+quit their respective day jobs. If they each 
+want to earn minimally 50,000/year, how 
+many t-shirts would they need to sell per 
+year? Per week?
+• Breakeven volume is 8,000 (total fixed 
+costs/unit profit);
+– 160,000/20 = 8,000
+• Fixed costs = $160,000 (50,000*3 for 
+salary + 10,000 in mkt costs)
+• Unit profit = $20.00
+• Weekly volume = 8000/50 = 160
+• Interviewee should organize equation and 
+talk through inputs and assumptions
+117
+Exhibit 2 Prompt #5:
+Analysis:
+
+
+===== PDF p122 =====
+Layup Line Designs LLC
+118
+• Based on the analyses performed and insights derived thus far, what would you 
+recommend to Laura, Izzy, and Dom in terms of starting up Layup Line Designs?
+Recommendation 
+• Could easily breakeven if do not want to quit current jobs. If want to quit normal jobs, 
+volume increases dramatically. Most likely infeasible as would need to hire more 
+people, would need to rent more space, would require a large portion of the 
+population to buy a t-shirt.
+• Strong rec will return to framework to illustrate why infeasible
+Interviewer Guidance:
+
+
+===== PDF p123 =====
+Evaluation Criteria
+119
+Candidate Level
+Assessment
+Average Candidate
+Profit analysis framework, does not bring in industry 
+trends, or competitive analysis; completes math slowly 
+with minimal mistakes may require reminder for 
+breakeven equation, brainstorms many ideas but does 
+not offer any structure
+Good Candidate
+Offers complete framework, brainstorms are structured 
+and MECE, recognizes and correctly applies breakeven 
+formula, uses framework to support recommendations 
+and math conclusions
+Excellent Candidate
+Offers complete framework, creative and structured 
+brainstorm that is specific to t-shirts, recommendations 
+and math conclusions supported by logical, sound 
+business reasoning, breakeven formula applied 
+correctly; math is organized and quickly performed

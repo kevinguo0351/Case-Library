@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2012_20_delson-hard-drive",
+  "school": "Ross",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2012.pdf",
+  "idx": 20,
+  "case_name": "Delson Hard Drive",
+  "case_type": "Growth",
+  "round": "2",
+  "industry": "Technology / Hardware",
+  "difficulty": null,
+  "pdf_page_start": 178,
+  "pdf_page_end": 183,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    178,
+    179,
+    180,
+    181,
+    182
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png",
+    "exhibits/exhibit_p181.png",
+    "exhibits/exhibit_p182.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2012\\20_delson-hard-drive"
+}

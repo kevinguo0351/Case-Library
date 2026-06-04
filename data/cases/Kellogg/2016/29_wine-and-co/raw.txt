@@ -1,0 +1,310 @@
+===== PDF p216 =====
+Wine & Co.
+Case tracker
+Case Question
+ Wine & Co. is a niche wine manufacturer in the San Francisco Bay area. Wine & Co. recently acquired 12 acres of land 
+outside San Francisco. The company wants to investigate opportunities to best use the land and needs a 
+recommendation from you.
+Guide to interviewer
+ The case tests the interviewee's ability to:
+a. Structure the problem and brainstorm
+b. Determine valuation and discounting 
+c.
+Recommend a marketing strategy
+d. Synthesize the answers. 
+ This case is a McKinsey style case and has to be asked in 
+a question and answer format. The interviewer should 
+ask each question given below and wait for the 
+interviewee to respond. If the interviewee is stuck, 
+direction should be provided based on the information 
+given below. The interviewee should be able to drive the 
+case while at the same time seek direction based on the 
+question asked.
+212
+By: Anil Goteti (Kellogg Class of ’11), Edited By: Mauricio Atri (Kellogg Class of ‘12)
+ Industry:
+CPG
+ Case Format:  Opportunity Assessment
+ Concepts Tested:
+- Marketing strategy
+- Basic NPV
+Quant: 7
+Structure: 5 
+Industry: CPG
+Framework: Opportunity 
+Assessment
+Interviewer-Led Case
+
+
+===== PDF p217 =====
+213
+Clarifying answers and case guide 
+Guide to case / Guide to handouts
+ Question 1. What are the different ways in which Wine 
+& Co. can use the land?
+ Question 2. Wine & Co. has decided to use the land to 
+manufacture wine. Each acre of land produces 1000 kg 
+of grapes annually. Wine & Co. has an option to 
+manufacture Merlot or Bordeaux. The two wines use 
+different grapes and the grapes have varying yields. 
+While the Merlot grapes yield 2litres/kg, the Bordeaux 
+grapes yield 1litre/kg. Wine & Co. can charge $20 per 
+liter of Merlot and can charge $40 per liter of Bordeaux. 
+Which wine yields more profits annually?
+ Question 3. Aging has an effect on the revenues and 
+profitability. Merlot has to be stored for 6 years while 
+Bordeaux has to be stored for 12 years before revenues 
+can be generated. Which wine would you choose for 
+manufacturing?
+ Question 4. Wine & Co. has decided to manufacture 
+Merlot. How should they market this product in the San 
+Francisco Bay area?
+ Please summarize your recommendations to the CEO of 
+Wine & Co.
+Clarifying answers to provide
+• Question 1. Some interviewees ask which geographical regions the 
+company serves, the type of wines they manufacture and if they 
+have other types of products (like other liquors or wine tasting 
+tours in Napa valley). The following information can be provided if 
+asked. a) They only manufacture red wines. b) The company serves 
+only the local market (the San Francisco Bay area). c) The company 
+does not sell any other products. d) The company is currently very 
+healthy and does not face any problems. 
+• Question 2. Profit Margins on Merlot are 10% while the margins on 
+Bordeaux are 15%. 
+• Question 3. a) Discount rate is 12% (provide only when asked). 
+Many people forget the time value of money and add profits across 
+years without discounting. b) Assume the costs are only incurred 
+when the revenues are realized after aging (no costs until year 6 for 
+Merlot and no costs until year 12 for Bordeaux). c) If people are 
+struggling with the division or approximations, suggest the "Rule of 
+72" (If r is the discount rate, 72/r is the number of years it takes to 
+double your money)
+• Question 4. Customer segments that are currently served by Wine 
+& Co.- niche wine enthusiasts.
+Product, Channel, Customer
+Profit margin should be asked
+NPV
+
+
+===== PDF p218 =====
+214
+Key elements to analyze
+Topic 1 being tested
+ What are the different ways in which Wine & Co.wines can 
+use the land?
+Topic 2 being tested
+ Which wine yields more profits annually?
+Notes to interviewer
+ The interviewee should create a framework and structure 
+the problem. The interviewee should suggest options 
+including manufacturing the wine, creating adjacent 
+products (like wine tasting tours), using the land for other 
+uses (commercial real estate/selling the land for a 
+profit/other opportunity costs). A good candidate would 
+provide a detailed structure (eg. profitability framework for 
+manufacturing feasibility with customization of the 
+framework - yield of grapes, cost per liter of wine, etc.) and 
+outline the risks or considerations involved in some of 
+these options (like usability of land for manufacturing or 
+company competency in pursuing in other opportunities 
+unrelated to wine manufacturing).
+Notes to interviewer
+ A good candidate would ask for the profit margins/costs 
+without being prompted. Look for organization and 
+structure when the candidate evaluates the annual profits 
+for each wine (a good candidate would use a table like 
+structure when doing the math). The revenues would be 
+$480,000 for both wines annually but the margins would 
+be higher for Bordeaux ($72,000 for Bordeaux vs. $48,000 
+for Merlot). After the candidate arrives at the profits, look 
+for interpretation. A good candidate would recommend 
+using Bordeaux while at the same time consider other 
+factors (competency in manufacturing either of the wines, 
+customer demand in the bay area, sensitivity to product 
+yields, customer reservation price, etc.). A creative 
+candidate might suggest that we compare the age of the 
+two wines (and hence will impact when the profits might 
+actually start)
+
+
+===== PDF p219 =====
+Math for Topic 2
+Value
+Comments
+A
+Acres of Land
+12
+Given
+B
+kg of grapes produced/acre
+1000
+Given
+C
+kg of grapes produced total
+12000
+=A*B
+Merlot
+Bordeaux
+Comments
+D
+Yield (Litre/kg)
+2
+1
+Given
+E
+Total Yield (Litre)
+24000
+12000
+=C*D
+F
+Price / Litre
+$20 
+$40 
+Given
+G
+Total Revenue
+$480,000 
+$480,000 
+=E*F
+H
+Profit Margin
+10%
+15%
+Given
+I
+Total Profit
+$48,000 
+$72,000 
+=G*H
+
+
+===== PDF p220 =====
+216
+Key elements to analyze
+Topic 3 being tested
+ Which wine would you choose for manufacturing?
+Topic 4 being tested
+ How should they market this product in 
+the San Francisco Bay area?
+Notes to interviewer
+ Candidate should identify that the cash flows for Merlot would be $48,000 
+annually starting year 6. Cash flows for Bordeaux would start in year 12 
+($72,000 annually). A good candidate would then consider the time value 
+of money and discount the two perpetuities to the same year for an 
+apples-to-apples comparison. Merlot: Annual Cash flow starting year 6: 
+$48,000 Perpetuity value of cash flow (value in year 6) = $48,000/0.12 = 
+$400,000 Bordeaux: Annual cash flow starting year 12: $72,000 Perpetuity 
+value of cash flow (value in year 12) = $72,000/0.12 = $600,000 Value of 
+perpetuity in year 6 = $600,000 / (1.12^6) = $300,000 (Rule of 72). Provide 
+help here if the candidate is struggling with the division. Look for the 
+candidate's approach than the exact number. Since value of pursuing 
+Merlot ($400,000) is higher than value of pursuing Bordeaux ($300,000), 
+the company should manufacture Merlot. A good candidate would 
+interpret the result and suggest we take into account other factors like 
+inventory costs, sensitivity to discount rate, etc.
+Notes to interviewer
+ Candidate should ask for the customer 
+segments that the company might sell to 
+and suggest appropriate marketing 
+channels/strategies to consider. Look for a 
+MECE structure here. Suggestions should 
+include retail strategies, direct to 
+consumer strategies (like wine clubs, wine 
+tasting), traditional media and print 
+advertising and online advertising.
+
+
+===== PDF p221 =====
+Math for Topic 3
+Merlot
+Bordeaux
+Comments
+A
+Annual Profit
+$          48,000 
+$          72,000 
+See Q. 2
+B
+Years to maturity
+6
+12
+Given
+C
+Discount Rate
+12%
+12%
+Given
+D
+Merlot NPV once ripe 
+- at year 6
+$        400,000 
+=A/C
+E
+Bordeaux NPV once 
+ripe - at year 12
+$        600,000 
+=A/C
+Method 1
+F
+Bordeaux NPV at year 
+6 (using discount rate)
+$        300,000 
+=E/(1.12)^6
+Method 1
+G
+Comparison at year 6 $        400,000 
+$        300,000 
+=D and F
+Method 2
+I
+Merlot NPV at year 12 
+(using discount rate)
+$        800,000 
+$        600,000 
+=D*(1.12)^6
+Method 2
+J
+Comparable 
+comparison at year 
+12
+$        800,000 
+$        600,000 
+=I and E
+Alternative method 
+using "Rule of 72" 
+instead of (1.12)^6
+Value
+Comments
+Discount Rate
+12%
+Given
+Years to double value 
+= 72/Discount rate
+6
+=72/12
+Bordeaux: changing from year 12 to year 6 = halving the value of 
+year 12
+Merlot: changing from year 6 to year 12 = doubling the value of 
+year 6
+
+	6	12
+
+
+===== PDF p222 =====
+218
+Solution and recommendations
+Solution & Recommendations
+ A good candidate would recommend a solution (manufacturing Merlot) but would detail out the risks/next steps 
+associated with the recommendation. Next steps may involve market research, land usability testing, evaluation of 
+opportunity costs. Risks have been outlined above already.
+Bonus/Guide to an Excellent Case
+ An excellent answer should include:
+a) Identification of opportunity costs, particularly of not selling/leasing the land, which might be more 
+profitable considering the current value of land in the Bay Area and/or Napa
+b) Considering industry specific issues like aging of wine 
+c) Considering time value of money/perpetuity of cash flow 
+d) Considering risks like customer demand, land usability
+e) Potential benefits of diversifying the acreage and producing multiple types of grapes (compensate for shifts 
+in consumer demand, broader appeal to local market, etc.)
+

@@ -1,0 +1,212 @@
+===== PDF p245 =====
+Problem Statement
+Case 21: Marie’s Café, McKinsey (Round 1)
+• Marie’s Café is a small local coffee shop that serves coffee and latte. Marie’s has been around for decades and is 
+known for its high quality drinks and cozy atmosphere. The café has seen declining profits over the last few quarters, 
+and the owner has hired you to increase its profits. 
+ Industry: Hospitality
+ Difficulty: Hard
+ Format: Profitability/Operations
+ Concepts Tested: Profitability, 
+Operations, Process Optimization
+• This is an interviewer led case. It is a case heavy on quant and has 
+certain elements of brain-storming.  
+Type of Case
+Interviewer Guidance
+
+
+===== PDF p246 =====
+242
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+• There are two other coffee shops in the nearby area that 
+sell coffees and pastries. (There is no further information 
+on these competitors.) 
+• Café currently serves two items (coffee and latte) in 
+three different sizes. 
+Clarifying Information and Case Guidance
+•
+If the candidate touches on prices or costs, show Exhibit 1 
+and ask to calculate avg. profit/customer
+•
+Next give candidate the relevant data points including Exhibit 
+2 and ask to calculate avg. profit/day 
+
+
+===== PDF p247 =====
+243
+Possible Framework
+Framework
+External factors
+Market
+Market growth
+•
+Changing consumer preferences (Product, atmosphere)
+•
+Competition
+New low cost competitors
+•
+New substitutes (restaurants or fast food chains close
+•
+-by)
+Internal factors
+Company
+Foot traffic in the coffee store (Increase number of customers)
+•
+Process Efficiency (average time to cater to each customer)
+•
+Capacity of the cafe
+•
+Product
+Product Diversification (limited product range)
+•
+Price sensitivity of customers
+•
+Complimentary products and services (wireless services)
+•
+Quality of products/brand image (Building on brand)
+•
+
+
+===== PDF p248 =====
+244
+• How much profit Marie’s café currently makes per customer?
+• Each customer only purchases one drink per visit.
+Math Question
+Math Questions and Solutions
+•
+Strong candidates will point out the larger sizes yield larger profit margins, and suggest new profit increasing strategies 
+(like promoting sales of larger sizes, introducing a 20 oz size, eliminating 8 oz sizes, etc.). Profit here does not include 
+the baristas
+•
+Average Profitability = $1.5/customer. See calculations below in the table.
+Math Question and Solution
+
+
+===== PDF p249 =====
+245
+Ask the candidate, what is the average profit that Marie’s café earns per day?
+• Each customer purchases exactly one beverage.
+• Two baristas are working at any given time. Baristas are paid $15 per hour.
+• Hours: 7 am to 10 pm, Monday through Friday. Closed on weekends
+• The number of customers per hour is listed below. Customers leave if they cannot be served quickly
+• On average, it takes 2 minutes for a barista to complete an order. Coffee is served fairly quickly while latte takes 
+significantly longer to make.
+Candidate should realize that the café is losing money in the evening hours. Candidate should suggest adding or
+Math Question
+Math Questions and Solutions
+Candidate should realize that the café is losing money in the evening hours. Candidate should suggest adding or 
+subtracting baristas based on demand. Assuming 2 baristas per hour, the average profitability would be $607.50. By adding 
+a third barista in the morning shifts and reducing one at night, the new profit would be $787.50. See the next page for the 
+complete solution.
+Math Solution
+
+
+===== PDF p250 =====
+246
+Math Questions and Solutions
+Math Solution
+
+
+===== PDF p251 =====
+247
+• Marie’s Café does not offer wireless access for its customers. Should the café add this service? 
+Brainstorming Question
+Brainstorming Questions and Solutions
+Positives
+• More customers
+• Potentially charge customer for services
+• Customers may order larger size of drinks
+Negatives
+• Cost of wireless setup, outlets
+• Sufficient room for customers
+• Customers stay longer, slowing sales during busy period
+• Image of café – may change current atmosphere
+Brainstorming Solution
+
+
+===== PDF p252 =====
+248
+• If candidate mentions that competitor sells pastries, while Marie’s café does not. What factors should Marie’s café 
+consider before purchasing an oven to sell pastries?
+Brainstorming Question
+Brainstorming Questions and Solutions
+Revenue
+Doughnut sales, increased synergies with coffee/volume of customers
+•
+Costs
+Fixed costs 
+•
+– purchasing/maintaining oven, setting up display case, storage, advertising.
+Variable costs 
+•
+– ingredients, hiring/training staff
+Capacity
+Rooms in café for oven and ingredients
+•
+Baristas available to accommodate for increase in demand
+•
+Brand Image – Marie’s is known for its coffee and atmosphere; adding pastries may change image and drive away loyal 
+customers, especially if they are low quality. 
+Competition – price and quality compared to competitors. 
+Alternative Opportunities – purchasing doughnuts from somewhere else. 
+Brainstorming Solution
+
+
+===== PDF p253 =====
+249
+• A new espresso machine, priced at $2000, can greatly decrease the time it takes to make a latte. The average time it 
+takes to complete an average customer’s order decreases from 2 minutes to 90 seconds. How long would it take to pay 
+back the machine?
+Math Question
+Math Questions and Solutions
+• Daily Profit shown below, calculated with the optimal number of baristas
+• Machine would be paid back in 14.8 days(2000/(922.5 – 787.5) from Question 3)
+• 4 Baristas in the 7-10 AM would also yield similar profits with the advantage of turning away few customers.
+Math Solution
+
+
+===== PDF p254 =====
+250
+Recommendation
+Focus on driving profits through larger size of coffee due to higher 
+•
+profit margins
+Hire 
+•
+4 Baristas during peak time and 2 Baristas during down-time
+Offer complimentary add on services such as wireless services
+•
+Diversify product range. Include food
+•
+Risks
+Offering wireless services might make customers stay for longer 
+•
+and the capacity of the café might not be enough to hold the 
+customers.
+Baristas unable to accommodate demands
+•
+Recommendation
+Conclusion
+• A star caser will provide both pros and cons of starting wireless services. He/she would also be able to highlight capacity 
+and process optimization issues. 
+Excellent Case Answers
+Next Steps
+•
+Hire 4 baristas for peak time or use the new 
+machine.
+•
+Sell food along with coffee. As baristas are 
+fewer currently, think about buying 
+food/pastries from third-party
+Next Steps
+
+
+===== PDF p255 =====
+251
+Exhibit 1: Products, costs and customer split
+
+
+===== PDF p256 =====
+252
+Exhibit 2: Demand of coffee per hour

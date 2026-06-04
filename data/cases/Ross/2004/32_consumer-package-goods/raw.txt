@@ -1,0 +1,103 @@
+===== PDF p77 =====
+Table of Contents 
+ 
+73
+Practice Case 32: Consumer package goods   
+(BCG - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is one of the worldís leading consumer packaged goods 
+producers. They are going to launch a new product and need to 
+decide which of two alternative methods to use to go to market. One 
+is the ìdirect storeî system, the other is ìwarehouse deliveryî. 
+Which one should they chose?  
+ 
+Interviewer Hot Tip: Profitability is the main driver. Therefore you need to 
+compare the cost structures of both thorough the value chain and potential 
+revenues. But never forget to consider other issues.  
+ 
+II. Additional information provided after relevant questions:   
+ 
+Currently both systems are used by 50%. 
+Per product costs through the value chain for both options: 
+ 
+Direct Store Delivery: 
+plant 
+To distribution 
+center 
+In dist. 
+Center 
+To 
+store 
+In 
+store 
+SG&A 
+TOTAL 
+$1.75 $0.40 
+$0.35 
+$1 
+$1 
+$0.50 
+$5 
+  
+Warehouse Delivery: 
+plant 
+Retailer dist. 
+center 
+Retailer 
+ships 
+Store clerk 
+merchandiser 
+TOTAL 
+$1.75 
+$0.30 
+$0.70 
+$0.25 
+$3 
+ 
+ 
+III. Sample Solution:     
+ 
+My recommendation to our client will be based on the most profitable 
+delivery system. Therefore I will first compare both systems in terms of costs 
+and revenue potential. 
+Good.  
+ 
+(Then I got the above data). So direct store delivery seems more costly. 
+What are the prices we charge for both?  
+Price per product charged in direct store delivery is $7 and $6 for warehouse 
+delivery. 
+ 
+So contribution margin for direct store delivery is $2 and it is $3 for 
+warehouse delivery.  
+So will you recommend warehouse delivery? 
+
+
+===== PDF p78 =====
+Table of Contents 
+ 
+74
+ 
+Not so quick. I presume that direct store delivery might have some 
+advantages over warehouse delivery that affects sales positively. So at the 
+end, direct store delivery may be more profitable.   
+Like what?     
+ 
+We probably attach more importance to keep our products in healthy 
+conditions in our own distribution centers. We can take additional precautions 
+to prevent waste. However the retailers might not be that sensitive because 
+most of the cases they return the waste products to the manufacturers.  
+Second, we can also ship with less damage, because our current trucks that 
+we use in direct delivery are designed for our own products. However the 
+retailer is carrying lots of stuff. 
+In direct delivery, our own employees will put our products to the shelves. 
+They take care of shelf design more than the retailer. 
+All those factors might contribute to the sales increase. 
+Good. Thank you.     
+  
+The important point in this case was not to limit the analysis with the 
+profitability per product. There are also qualitative issues (which can be 
+quantified if the interviewer has data) to consider in order to come up with a 
+recommendation.  

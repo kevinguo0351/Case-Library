@@ -1,0 +1,138 @@
+===== PDF p62 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+58 
+Please do not duplicate, copy, print or photocopy 
+ 
+ 
+Our client is a major provider of long-distance telephone service in the United States.  It owns a 
+subsidiary that is a communications satellite company – in the business of launching satellites 
+and then marketing (selling or leasing) the transponders on the satellite to companies or to phone 
+service providers.  The subsidiary has proposed a $400 million expansion involving new 
+satellites, and the client would like to know whether this is a good investment or not.  The 
+satellite subsidiary has not been making a return on capital up to the parent company’s standards, 
+and the client is not even sure if it should be in this business – they may want to sell it.  What do 
+you tell them? 
+ 
+Okay, clearly the first question is whether or not to keep the business – before investing $400 
+million, you’d want to know if you were going to keep owning the subsidiary.  So the first 
+question I’d have would be to find out how profitable the company is and whether its 
+profitability can be improved.  This might include making the investment, but it might not. 
+ 
+!"Good.  Let me tell you about their performance last year.  They had $50 million in revenues, 
+and $48 million in cost, for a profit before taxes of $2 million.  The parent doesn’t think 
+that’s a good return. 
+ 
+Where did the revenues come from? 
+ 
+!"$40 million was from annual leases for 20 of the firm’s 100 transponders; these do not 
+include service charges.  $10 million was from annual service charges on the 80 
+transponders used by customers outside the parent company, including both the 20 that are 
+being leased out and 60 transponders that were sold before the satellite was launched – 
+something that satellite companies frequently do to raise capital in the expensive 
+development and launch phases of the business.  20 of the company’s 100 transponders are 
+used by the parent company (the client) for their phone service, and the subsidiary receives 
+no revenue for that. 
+ 
+Okay, well the first thing that comes to mind is that the subsidiary’s revenues should include the 
+value of the services provided for free to the parent company – because the parent will have to 
+pay for them if the subsidiary is sold.  So, the parent uses 20 transponders, which apparently have 
+an annual value from leasing of $40 million.  Then there’s also the service charge on each 
+transponder, which is $10 million/80.  So that’s a total value of $45 million in annual revenues 
+that the subsidiary is providing the parent.  So, in fact, the subsidiary’s revenues should be more 
+like $95 million.  What about the subsidiary’s costs? 
+ 
+(Note: I made a math error here, and didn’t notice it until later.  The service charge on each 
+transponder is $125,000, and for 20 transponders it should have been $2.5 million, not the $5 
+million I said). 
+ 
+!"The costs include $28 million for tracking and otherwise operating the satellite, and $20 
+million that the parent company is charging the subsidiary each year for 5 years to cover the 
+cost of a satellite that was destroyed upon launch a few years ago. 
+ 
+What?  Wasn’t it insured? 
+
+
+===== PDF p63 =====
+Business Type Cases (full answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+59 
+ 
+!"Satellites are a very risky business – 1 in 7 of all new satellites fail when launched – and thus 
+satellites are frequently insured for far less than their value because insurance is very 
+expensive.  In fact, there is a 10% chance of failure over five years for every satellite in 
+operation. 
+ 
+Wow.  Okay, but the loss the subsidiary suffered when the satellite failed was a one-time loss 
+that should not affect current income – it’s a sunk cost, and should have been taken as a one-time 
+charge rather than a recurring expense.  It shouldn’t even be considered when judging the 
+subsidiary’s profitability.  Therefore, the subsidiary had revenues of $95 million on costs of $28 
+million – that’s a very profitable subsidiary, and they should definitely keep it! 
+ 
+!"Good.  That’s exactly right.  Let’s jump ahead.  Say we tell the client this, and our further 
+analysis says that the $400 million investment will be as profitable as the subsidiary claims 
+it will be.  But the client still doesn’t think they should be in this business, and that they think 
+they want to sell.  What factors should we consider? 
+ 
+The first thing is that they’d be losing a lot of future revenue, even though they could get much 
+of it in a sale of the subsidiary.  However, there are other considerations.  For example, the 
+parent uses those 20 transponders – would they be able to get the same service if the subsidiary 
+were separate?  Do they need to keep the ability to expand their own satellite use if there are too 
+few satellites to keep up with demand?  Would they be able to get as good a price? 
+ 
+!"Well, assume that the satellite market is fairly commodified, and that they don’t need to own 
+a satellite company to protect their usage – they could get transponder leases for the same 
+price from any number of providers with the same quality of service, and there’s no shortage 
+expected at all. 
+ 
+Okay, then there’s the question of whether it’s a good idea to take the risk that a competitor 
+might buy the firm.  If the future of telecommunications is moving more towards cellular and 
+satellite-type communications, then maybe they want to keep the subsidiary in case technology 
+makes it important to own one in the future, or to deny that capability to the competition. 
+ 
+!"Fine.  So you tell them all this, and it makes sense.  But what if they still say that they want to 
+sell the subsidiary.  What could be promoting that? 
+ 
+Hmm.  Maybe they need capital for their core business, for the long-distance business, and they 
+don’t want to go to the markets.  Maybe they just want to pare down the business to focus on 
+their core competency, and they think that both companies can do better as separate entities 
+rather than joined – like AT&T spun off Lucent. 
+ 
+!"Anything else. 
+ 
+Can’t think of anything. 
+ 
+!"That’s good.  The reason they still wanted to sell it despite its profitability was really that the 
+long-distance business is a fairly steady business – the returns are small but low-risk.  
+
+
+===== PDF p64 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+60 
+Please do not duplicate, copy, print or photocopy 
+ 
+Satellites are very risky, and the parent company felt that their shareholders were too risk-
+averse to be comfortable with it.  Essentially, they saw that they had a different risk/return 
+profile from their subsidiary, and decided that the two weren’t a good match. 
+ 
+(Leaving this interview, I realized how dumb I had been to miss the implications of the high-risk 
+data that he had given me when discussing the subsidiary’s finances.  The lesson is not to 
+discount anything the interviewer mentions – I latched onto the services the subsidiary provided 
+to the parent, which was good, but did so to the exclusion of the more important risk factor.  In 
+fact, I realized that he had given me enough information to calculate the cost of the risk.  This 
+only compounded the fact that I had gotten the math wrong earlier.  What it proves, though, is 
+that some errors are okay, and that it’s tough to judge how interviews go – it turns out that this 
+interviewer recommended that I be hired!) 

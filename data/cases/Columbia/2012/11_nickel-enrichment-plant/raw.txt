@@ -1,0 +1,145 @@
+===== PDF p89 =====
+84 
+Nickel Enrichment Plant 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+Case: Nickel Enrichment Plant 
+Your client is Nickel Inc., a company in the nickel enrichment industry in Brazil. Its business consists of: 
+•
+purchasing brute nickel and nickel additives from producers; 
+•
+transporting them to Nickel Inc.’s plant in Southern Brazil; 
+•
+enriching the brute nickel at the plant; and 
+•
+delivering the enriched nickel to factories in Southeastern Brazil 
+Nickel Inc. is currently the #3 nickel enrichment company in Brazil, producing a total of 10 tons of 
+enriched nickel per month. Due to increasing demand, Nickel Inc. wants to increase its production to 20 
+tons per month. 
+Candidate should identify that this is a cost 
+case. No revenue analysis is needed 
+Case is Math-heavy. It also tests the candidate’s 
+creativity and ability to identify and ask for 
+relevant information 
+Will be provided in later portions of the case. 
+
+
+===== PDF p90 =====
+85 
+Question #1:  
+Question #1 Solution:  
+Nickel Enrichment Plant 
+Question 1 
+What are some ways in which Nickel Inc. can increase its production? 
+How to Increase Production 
+•
+Utilizing existing plant 
+•
+Increase efficiency of existing production 
+Expand plant 
+•
+Utilizing another plant 
+•
+Build new plant 
+•
+Acquire a competitor 
+•
+Joint venture (e.g. subcontracting) 
+
+
+===== PDF p91 =====
+86 
+Question #2:  
+Question #2 Solution:  
+Nickel Enrichment Plant 
+Question 2 
+Nickel Inc. has determined that the only two alternatives to increase production are expanding its 
+existing plant or building a new plant in Southeastern Brazil. What factors would you consider in 
+deciding between these two options? 
+Some factors candidates should mention: 
+•
+Costs (variable and fixed) are a major factor, as well as the initial investment required in each case 
+•
+New plant would be closer to factories, potentially decreasing transportation costs 
+•
+Cost of nickel and additives may vary between two locations (different transportation costs, 
+producers, etc) 
+•
+There might be economies of scale in having a plant producing 20 tons, instead of two plants 
+producing 10 tons 
+•
+There might be additional costs to running two plants instead of one 
+
+
+===== PDF p92 =====
+87 
+Question #3:  
+Data to be provided upon request 
+Nickel Enrichment Plant 
+Question 3 
+What are the financials that we can draw upon to decide whether to expand the existing plant or build 
+a new plant? 
+  
+Expand 
+Build New 
+Variable Costs 
+Brute Nickel: $270,000/ton/month 
+Sulfur: $150,000/ton/month 
+Other additives: $100,000/ton/month 
+Brute Nickel: $150,000/ton/month 
+Sulfur: $200,000/ton/month 
+Other additives: 
+$200,000/ton/month 
+Fixed Costs 
+$200,000/month 
+$700,000/month 
+Initial Investment 
+$2,000,000 
+$10,000,000 
+To produce 1 ton of enriched nickel, the following proportions are necessary: 
+•
+Brute nickel: 0.67 ton 
+•
+Sulfur: 0.1 ton 
+•
+Other additives: 0.05 ton 
+
+
+===== PDF p93 =====
+88 
+Question #3 Solution 
+Nickel Enrichment Plant 
+Question 3 
+Variable cost of producing 1 ton of enriched nickel: 
+Expand 
+Build New 
+(0.67)*(270,000)+(0.1)*(150,000)+(0.05)*(100,000) 
+= $200,000/ton/month 
+(0.67)*(150,000)+(0.1)*(200,000)+(0.05)*(200,000) 
+= $130,000/ton/month 
+Cost of producing 10 extra tons (variable cost + fixed cost): 
+Expand 
+Build New 
+(200,000)*(10) + 200,000 
+= $2,200,000/month 
+(130,000)*(10) + 700,000 
+= $2,000,000/month 
+Therefore, building a new plant generates $200,000 in savings per month if compared to expanding 
+the current plant. Since building a new plant costs $8,000,000 more than expanding the current plant, 
+this extra investment would be paid off in 40 months (8,000,000/200,000) = 40. 
+
+
+===== PDF p94 =====
+89 
+Nickel Enrichment Plant 
+ 
+If Nickel Inc. is willing to wait 40 months to recoup the extra investment, then it should build a new plant. 
+This will depend upon the company’s cash constraints and sources of finance. 
+ 
+Recommendation 
+There are issues outside the Math that Nickel Inc. should consider, such as the difficulty of running two 
+separate plants, the extra time it would take to build a new plant instead of expanding the existing one, and 
+whether not having a plant closer to the factories could hurt Nickel Inc.’s client relationships 
+Risks 
+Conclusion 

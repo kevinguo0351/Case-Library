@@ -1,0 +1,24 @@
+{
+  "case_id": "Anderson_2019_06_town-mayor",
+  "school": "Anderson",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2019.pdf",
+  "idx": 6,
+  "case_name": "Town Mayor",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Public Sector",
+  "difficulty": null,
+  "pdf_page_start": 60,
+  "pdf_page_end": 67,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    64,
+    67
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p067.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2019\\06_town-mayor"
+}

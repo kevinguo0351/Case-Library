@@ -1,0 +1,106 @@
+===== PDF p152 =====
+Casebook | 2019-20 Edition 
+148 
+ 
+32. Pest Control (BCG R2, Other, Profitability, Balanced) 
+Stem: Our client is a major pest control company operating in the US South East. The client sells 
+extermination services for the home and garden. The client is looking to improve their profitability, and is 
+asking for specific recommendations to effect this. They do not have a target profit margin, but they are 
+interested in exploring the full range of options presented to them. What areas should we consider? 
+ 
+Candidate should lay out a structure that looks specifically at profitability for this business. The structure 
+need not follow a specific format, it is more important that it be logical, MECE, and specific to this 
+industry/client. It should address at a high level how we reduce costs and increase revenues (e.g. 
+assessing product offerings, efficiency of territory coverage, customer acquisitions/marketing, etc.) 
+ 
+It is important for this case to allow the candidate to brainstorm as much as possible. The goal is for them 
+to be specific to the industry and to speak clearly and logically as to why their recommendations make 
+sense. Ask them for the rationale behind their thinking frequently. 
+ 
+Phase 1: Brainstorm 
+ 
+Once the candidate has presented their structure, guide them towards a discussion on revenues, 
+specifically pricing and customer acquisition/retention. Make sure that they hit on these in some way 
+(they are analyzing P * Q but it should be done in an industry specific way). 
+ 
+Interviewer: These all seem like reasonable options to consider, but as we look at our client’s revenues 
+what aspects do you think are important for a pest control company? 
+ 
+Candidate: The price that they charge for their different services, for instance the charge for a one-time 
+fumigation vs. routine sprayings, as well as their customer acquisition and retention. 
+ 
+Interviewer: Can you brainstorm some of the factors that would play into a customer’s decision of 
+whether or not to buy our client’s services? 
+ 
+Candidate should brainstorm ideas with a logical structure. Allow the candidate to exhaust their list and 
+then prod for one / two more. 
+ 
+Phase 2: Analysis 
+ 
+Interviewer: It turns out the client has seen their customer acquisition stagnate over the last year, 
+although the market for pest control is growing at a healthy rate, they are currently operating at 0% 
+customer growth (i.e. not gaining nor losing clients). We have information on the effectiveness of their 
+call-center, which we’ll assume covers all of their customer interactions. 
+ 
+Present candidate with the figure below. 
+ 
+Interviewer: On the left you’ll see how effective the client is at turning a prospective caller into a 
+customer, and on the right we have the turnover of the customer base. How many clients are gained/lost 
+from each? 
+ 
+Candidate should double check the right side is an annual figure if they are uncertain. Ask that they 
+round the annualized calls figure to 50K from 4,200 * 12 = 50,400 once they complete the calculation. 
+ 
+Candidate: You had mentioned initially that we aren’t gaining or losing customers, so I’d expect that the 
+net effect should be 0, and after doing the math I see we would gain 10k from call-in’s and lose 10k from 
+our annual turnover. 
+
+
+===== PDF p153 =====
+Casebook | 2019-20 Edition 
+149 
+ 
+Interviewer: Great, you had brainstormed pricing as one of the areas we should look into, can you 
+calculate the average price that the client charges for their services? 
+ 
+Candidate: Yes, I know from the figure that we have 500K accounts, but I’ll need the revenue of the 
+company in order to calculate P. 
+ 
+Interviewer: The company generates $50M in revenue. 
+ 
+Candidate: In that case our average price would be $100 since $100 * 500K = $50M. 
+ 
+Interviewer: That’s right, given all this information what could we hope to change? 
+Phase 3: Additional Brainstorms 
+Allow the candidate to list off ideas or brainstorm again. They should come to the conclusion that 
+adjusting pricing would be difficult in this industry, and that 2% attrition is already rather low. Therefore, 
+we should look to improve our 20% yield from calls. 
+ 
+Candidate: I think that we should look to improve the yield of our calls from prospective customers. 
+Interviewer: Yes this is an area that they can consider, how do you think they could improve their yield? 
+Candidate brainstorms further – ensure it remains structured. 
+Interviewer: The company has looked into the performance of their call center staff and found that 1/3 
+have a 30% yield, 1/3 have a 20% yield, and 1/3 have a 10% yield. Based on this, what would you 
+suggest the company do to improve their overall yield? 
+ 
+Candidate brainstorms further, ideally on a new sheet to remain clear and not simply laundry list ideas. 
+Should they ask, the employees within each bucket are indistinguishable from one another and it seems 
+within the first week you can determine relatively quickly if an employee will be in the top bucket or the 
+bottom bucket. 
+ 
+Phase 4: Conclusion 
+ 
+Once the candidate has concluded their list, end the case abruptly but in a friendly way. Do not accept a 
+recommendation. The goal is that the candidate not get flustered, and remain engaged, potentially 
+asking how the case ended or transitioning to the next talking point in a professional way. 
+ 
+Interviewer: Great, these all seem like solid ideas and I appreciate your continued interest in our firm. 
+We think you’re a great candidate and are really looking forward to potentially having you here this 
+summer. 
+ 
+Candidate: Thank you, I’ve really enjoyed our conversation, out of curiosity was this a case you worked 
+on? I’d be interested to know how it turned out. 
+ 
+Interviewer: Yes actually, this was the first case I ever worked on as a partner. We ended up 
+implementing a training program where the top 1/3 coached new hires. We also turned over the bottom 
+1/3 in order to have more high-quality customer interactions. 

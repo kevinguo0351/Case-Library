@@ -1,0 +1,420 @@
+===== PDF p49 =====
+Case Prompt 
+Our client is a pharmaceutical company that has developed a remedy for female balding. The drug has cleared a 
+lengthy and delayed testing process. The drug will be off patent in five years. Before initiating drug production, the 
+client wants us to determine whether the drug will be profitable and whether or not to go ahead with production.  
+Case Tracker 
+ 
+•
+Led By: Candidate 
+ 
+ 
+•
+Industry: Pharma 
+ 
+ 
+•
+Level of Difficulty: 
+Hard 
+ 
+ 
+•
+Case Type: Market 
+Sizing, New Product 
+Launch 
+Fit Questions 
+ 
+•
+Describe the last 
+mistake you made on 
+the job. 
+•
+What would you like me 
+to know about you that 
+is not on your resume? 
+•
+Give me an example of 
+how you would 
+motivate a co-worker 
+who was performing 
+poorly on a team 
+project. 
+Guide To Interviewer 
+This is a candidate led go/no go case based on 
+profitability followed by development of a launch 
+strategy. The candidate will be required to make 
+several assumptions, based on little input, in order 
+to estimate the potential market size.  
+ 
+After the candidate has made a go/no go 
+recommendation, he or she will then be asked to 
+review market research related to two possible 
+versions of the product and recommend a launch 
+strategy. For the launch strategy, the candidate 
+needs only make a recommendation about which 
+formulations to launch and should not revisit other 
+aspects of the case.  
+Introduction 
+© NYU Stern MCA - All rights reserved 
+45 
+Case 2: Drug Profitability 
+
+
+===== PDF p50 =====
+Clarifying answers to provide 
+Market: 
+• One comparable substitute currently exists that will divide market share equally 
+with client once client’s drug is in market 
+• Post-patent expiry client’s share will shrink to 20% of share pre-patent expiry 
+• No information on current market size – ask candidate to size the overall market 
+and the client’s market share  
+ 
+Product: 
+• Assume that the price of the product is comparable to the substitute at 
+$2,000/treatment, and that one treatment is needed per year 
+• Average woman starts balding at age 40 and between the ages of 30-40 the drug 
+has some preventative benefits 
+• Starting at 60, even the most effective drugs cannot remedy female balding 
+• Assume that our drug and current comparable substitute have no comparative 
+advantage over the other (both will charge the same price and split the market) 
+• Payment for the product is not covered by most health insurance plans 
+ 
+Costs: 
+• $ spent on testing: $8B (The interviewer should let the candidate know that the 
+$8B spent on testing is a sunk cost if this item is missed during analysis) 
+• Production: $1B/year 
+• Marketing and sales efforts: $2.5B/year 
+• Distribution: $800M/year 
+Guide to case 
+•
+The interviewer should 
+direct the candidate to 
+spend more time on 
+revenue than cost.  
+ 
+•
+A good candidate will 
+approach the market-
+sizing exercise by looking 
+at both the demand for 
+the product and product 
+affordability.  
+ 
+•
+The assumptions are 
+more important than the 
+final values, and the 
+interviewer should 
+challenge the candidate 
+to justify the 
+assumptions made.  
+ 
+•
+Provide Exhibit #1 for 
+Question #2 
+Case 2: Drug Profitability 
+Clarifying answers and case guide 
+© NYU Stern MCA - All rights reserved 
+46 
+
+
+===== PDF p51 =====
+Question #1: Market Sizing 
+Notes to Interviewer 
+• U.S. population ~ 320 M, while females make up roughly 50% or 160 M of this population 
+• Not all women will have the same interest for our product. With a life expectancy of 80 years, let’s say that 
+women aged 40-80 are largely at risk of balding, with roughly 60% of women in this group interested in our drug 
+• Let’s revise that to be 60% of women between 40 and 60 and 0% of women between 60 and 80 years of age are 
+interested in our drug (if candidate doesn’t ask, inform him of the relevant fact stated in the ‘information’ section 
+of this case) 
+• Additionally assume that 40% of women between 30 and 40 are also interested in the drug for prevention 
+• Assumption: each 10 year age bracket is evenly distributed 
+Case 2: Drug Profitability 
+Key elements to analyze 
+© NYU Stern MCA - All rights reserved 
+47 
+Age bracket 
+Population 
+% interested 
+0 - 10 
+20 
+0 
+10 - 20 
+20 
+0 
+20 - 30 
+20 
+0 
+30 - 40 
+20 
+40 
+40 - 50 
+20 
+60 
+50 - 60 
+20 
+60 
+60 - 70 
+20 
+0 
+70 - 80 
+20 
+0 
+Total 
+160 M 
+# interested 
+0 
+0 
+0 
+8 
+12 
+12 
+0 
+0 
+32 M 
+US population 
+% women 
+US female 
+population 
+320M 
+50% 
+160M 
+
+
+===== PDF p52 =====
+Notes to Interviewer (contd.) 
+• 32 M seems a little high, this is likely because the estimate of the % interested should be revised down. Let’s say 
+that 20% of women aged 30-40 and 30% of women aged 40-60 are interested; this would mean that a total of 16 
+M women are interested in the product 
+• With a price tag of $2,000/treatment, not all of those that are interested in the drug will be able to buy it 
+• I am going to assume that 60% of the population is middle class while the remainder is evenly distributed 
+• In terms of affordability, I will assume that 100% of the upper bracket can buy the drug, 30% of the middle 
+bracket, and 0% of the lower bracket 
+• Given that we will split this market evenly with the comparable substitute, the target population is about 3M 
+• Expected annual revenue is therefore about $6B pre-patent expiry 
+• Given that the market share will shrink to 20% after patent expiry, our client will earn roughly $1.2B/year at the 
+current price post-expiry 
+• Since testing is a sunk cost, total yearly cost is about $4.3B Given these assumptions, the drug is only profitable 
+pre-patent expiry (assuming constant market sizing and costs) 
+ 
+ 
+ 
+Case 2: Drug Profitability 
+Key elements to analyze 
+© NYU Stern MCA - All rights reserved 
+48 
+Income bracket 
+% total 
+Interested Population 
+Low 
+20 
+3 
+Middle 
+60 
+10 
+Upper 
+20 
+3 
+Total 
+16 M 
+% able to pay 
+0 
+30 
+100 
+# able to pay 
+0 
+3 
+3 
+6 M 
+Interested 
+population 
+16M 
+Key takeaway:  The drug is profitable pre-patent expiration but may not be so after patent expires  
+(post-patent profitability being positive will depend on market sizing and costs) 
+
+
+===== PDF p53 =====
+Recommendations 
+• Given our assumptions, 
+client should pursue 
+drug production for 
+next five years if the 
+market size allows it to 
+be profitable 
+• Drug will become less 
+profitable after patent 
+expiry and decision on 
+whether drug 
+production should 
+continue will be 
+determined by the 
+market size and 
+profitability estimation 
+Bonus / Guide to an Excellent Case 
+•
+A superior candidate will bring in other relevant dimensions of market sizing such as consumer awareness or 
+pricing of the product, and will also evaluate to what degree his or her final estimates are reasonable 
+•
+A superior candidate will immediately catch that the $8B spent on testing is a sunk cost. Additionally, a superior 
+candidate will recognize that expenses will vary substantially over the lifecycle of the product, and that market 
+share and price can be impacted by a strong competitor response 
+Risks 
+• Estimated marketing costs may not be 
+adequate to educate customers regarding the 
+existence of this product 
+• Analysis needs to factor in the competitive 
+response of the comparable product that exists 
+in market today, particularly if the product has a 
+lower cost structure, and can therefore be sold 
+at a lower price 
+• If the competitor’s product goes off-patent in 
+under 5 years, the client’s drug will likely lose 
+market share or be forced to lower the price 
+• Given that the market appears very attractive 
+and the need is relatively unmet (only 2 
+products), other products might enter the 
+market 
+Next Steps/Comments 
+• The client can continue 
+production after patent 
+expiry if they can lower 
+price to gain market share 
+profitably 
+ 
+• May be worthwhile to look 
+at international markets 
+where testing in the U.S. 
+would be readily accepted, 
+or other U.S. market 
+segments (e.g., men, hair 
+regrowth) 
+Case 2: Drug Profitability 
+Solution and Recommendation for Question #1 
+© NYU Stern MCA - All rights reserved 
+49 
+
+
+===== PDF p54 =====
+Question #2 
+Based on the results from clinical trials, the client received approval for the product in two different formulations: 
+ 
+• Formulation 1: 
+• Once-daily application 
+• Less effective 
+• Lower price 
+• Formulation 2: 
+• Twice-daily application 
+• Most effective 
+• Higher price 
+ 
+The client conducted market research among customers of different ages. Using the results of this research, 
+formulate a market entry strategy and recommend which formulation the client should launch. 
+Case 2: Drug Profitability 
+Key elements to analyze 
+© NYU Stern MCA - All rights reserved 
+50 
+
+
+===== PDF p55 =====
+Notes to Interviewer 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 2: Drug Profitability 
+Key elements to analyze 
+© NYU Stern MCA - All rights reserved 
+51 
+• There is no single right answer; candidates should interpret the graph to match the different formulations to the 
+correct customer segments, and then decide on a strategy, indicating rationale and potential risks 
+• Formulation 1 appears better suited to customers aged 40-50 and 50-60, because of their focus on 
+convenience and cost 
+• Formulation 2 would be preferable for customers aged 30-40, whose focus is on effectiveness 
+Formulation 1 
+Formulation 2 
+• Conversely, younger consumers may 
+use the product over a longer period 
+of time resulting in greater lifetime 
+value 
+• The younger demographic forms a 
+smaller potential market 
+ 
+• The older demographic form a larger 
+potential market 
+• The older demographic has a smaller 
+lifetime value 
+Formulation 1 
+Formulation 2 
+
+
+===== PDF p56 =====
+Recommendations 
+• Given that primary market for 
+this product will be women aged 
+40+, the client should produce 
+formulation A 
+• The product branding strategy 
+should focus on once-a-day 
+convenience, and be marketed 
+primarily to women aged 40-50 
+• The client should not pursue 
+both formulations at launch, as 
+this might confuse branding to 
+customers and divide limited 
+marketing resources  
+Bonus / Guide to an Excellent Case 
+•
+Candidate may suggest other additional recommendation such as “Post-launch, once the brand has a solid base, 
+the client may want to consider launching the second formulation as a “premium” or “extra-strength” 
+alternative, offered at a mark-up” 
+Risks 
+• There is a large difference in price-
+sensitivity between ages 40-50 and 50-
+60 
+ 
+• This strategy may cause the client to 
+lose out on a segment of the 
+population which is younger and would 
+be willing to pay more for better 
+results 
+ 
+Next Steps 
+•
+For launch, need to look 
+into if the product should 
+be launched in certain 
+geographies or markets 
+first (‘soft launch’)  
+ 
+•
+Start working on 
+marketing plans and 
+training the sales-force 
+Case 2: Drug Profitability 
+Solution and Recommendations for Question #2 
+© NYU Stern MCA - All rights reserved 
+52 
+
+
+===== PDF p57 =====
+Case 2: Drug Profitability 
+Exhibit #1 (to be handed to the candidate) 
+© NYU Stern MCA - All rights reserved 
+53 
+Exhibit #1: Customer Survey 
+0
+1
+2
+3
+4
+5
+Effectiveness
+Convenience/
+Ease of Use
+Cost
+Importance of Product Characteristic by Age Cohort 
+50 - 60
+40 - 50
+30 - 40

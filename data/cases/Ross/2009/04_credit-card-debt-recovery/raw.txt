@@ -1,0 +1,142 @@
+===== PDF p24 =====
+You are a consultant for a credit card company that is 
+trying to reduce sizable losses from customers with bad 
+debt.
+• INITIAL FACTS
+• The company’s in house agents call these
+Criteria for identifying “delinquent” customers:
+• Those who have not paid their bills in 1-6 months are 
+contacted by the credit card company
+• After 6 months, the customers are contacted by a 
+collection agent, who collects a certain percent of any 
+money recovered.
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+Credit Card Debt Recovery (1 of 3)
+Opera Solutions, Round 1
+• The company’s in-house agents call these 
+customers, with the goal of reaching a settlement 
+with the customers for them to pay a percentage 
+of their balance
+•PROBLEM
+• How should the credit card company go about 
+evaluating this process and ultimately recovering 
+the maximum amount from these delinquent 
+customers? 
+• NOTE TO THE INTERVIEWER
+• Objective is to guide the candidate to consider 
+how to segment customers and then estimate the 
+debt that can be recovered based on those 
+segments
+The current negotiation process: 
+• The in-house agents usually offer that customers can pay 
+70% of their balance without incurring any extra finance 
+charges; they must submit requests for less than 70% to 
+a supervisor
+• The supervisor has a 30% floor (cannot go below this), 
+and he usually offers 30%
+• 30% of all settlements are approved by the supervisor
+Volume:
+• $600M is the total balance of those who are targeted for 
+settlements, from 120K customers
+• 42% of this total balance is currently recovered through 
+these settlements
+• The client does not yet have any data on the percentage 
+of customers by segment that sign up for settlements
+
+
+===== PDF p25 =====
+Key issues that the candidate should identify during brainstorming: 
+Example of a candidate calculation:
+• No customer segmentation
+• Customers should be segmented, and then given different offers depending on which 
+segment they are in
+• Little, if any, negotiation before the case is passed onto a supervisor
+• Intermediate offers should be provided before the case is passed on to the supervisor
+Credit Card Debt Recovery (2 of 3)
+Opera Solutions, Round 1
+Current state: $600M x 42% = $252M that is currently being 
+recovered
+New state: $105M + $36M = $141M estimated to be recovered
+Therefore, based on these assumptions, the current method of 
+recovery is more financially desirable
+Segments
+# of customers 
+in each 
+segment  
+(assumption of 
+even spread)
+Total balance
+(assumption of 
+even spread)
+% of customers 
+that sign up
+(assumption)
+Avg. % that can be 
+recovered; i.e., the 
+terms of the offer 
+provided by the 
+company
+(assumption)
+Calculation
+1-3 months 
+past due
+60K
+$300M
+70%
+Pay 50% of balance
+$300M x 70% x 50%
+= $105M recovered (est.)
+3+ months 
+past due
+60K
+$300M
+40%
+Pay 30% of balance
+$300M x 40% x 30%
+= $36M recovered (est.)
+Note to interviewer:  
+This is just a part of a sample calculation.  
+The candidate can also consider debt 
+recovered by collection agents, terms of 
+settlements offered by supervisors, etc.
+
+
+===== PDF p26 =====
+Candidate should 
+articulate sound 
+reasoning . . . 
+The candidate will need to state and explain the assumptions he or she is using.  There is no right 
+answer for this case, but the candidate must explain the reasoning for the chosen segmentation 
+and the logic behind the assumptions.
+In our example:
+• Segmentation is based on how long payment is past due is because the client is less likely to 
+recover payments from the customers that are long past due
+• Assumptions:
+• Total balance is evenly spread across customers and across segments
+• 70% of customers 1-3 months past due will accept a settlement, and 40% of customers 3+ 
+th
+t d
+ill
+t (h
+d
+t
+t
+t th
+t
+)
+Credit Card Debt Recovery (3 of 3)
+Opera Solutions, Round 1
+A solid interviewee 
+will recognize the 
+following:
+• The recommendation that the candidate provides will be highly dependent on the assumptions 
+that he or she makes
+• Candidate should provide creative suggestions (if not, interviewer should prompt for these) for 
+how the client can arrive at accurate assumptions
+• Candidate should also discuss the implications of other issues, such as providing intermediate 
+offers (not calculated in our example) and terms of agreement with collection agencies
+months past due will accept (harder to contact these customers)
+• The client will need to offer a more attractive settlement to customers 3+ months past due, 
+because they are the least likely to pay any of their debt

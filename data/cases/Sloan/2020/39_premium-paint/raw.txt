@@ -1,0 +1,103 @@
+===== PDF p167 =====
+Casebook | 2019-20 Edition 
+163 
+ 
+39. Premium Paint (L.E.K. R1, Retail, New Market, Quantitative) 
+Interviewer: Our client is a premium paint manufacturer based in the UK. They have an established 
+brand and stable market share in the UK, but are interested in pursuing other markets. Although they 
+currently do not have a presence in the US, they are interested in entering the market and have hired us 
+to help. Specifically, the client has hired us to size the market opportunity for the residential interior paint 
+market in the US as part of their overall decision to enter the market. 
+ 
+Note: if asked, the paint market is broadly divided into premium and value. Premium paint is typically ~4x 
+as expensive and typically comes in curated colors. Residential includes places where people live 
+(houses, apartments, etc.) and excludes commercial properties. Interior paint covers all locations inside a 
+house and is less resistant to wear from weather. 
+ 
+Candidate: This is a market sizing question, so I’d like to structure my thoughts using the following 
+structure. I’ll then make some assumptions and we can work through the numbers to get the total size of 
+the US residential interior paint market. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: an candidate should lay out the approach and explain the reasoning. Then, reasonable 
+assumptions should be made to get to the final market size. Alternative structures could include second 
+or third homes, segment the market by apartments vs. houses, segment the market by rural vs. urban, 
+etc. 
+ 
+Candidate: Painting a house happens either when you repaint a room or when you build a new house. I 
+will make some assumptions to get to the US residential interior paint market. Starting with population, 
+there are about 330 million people in the US. With a household size of 3 people per house, that gives 
+us 110 million households. 
+ 
+Repainting a room happens every few years. I’ll assume that on average, homeowners repaint every five 
+years, which means in any given year, 20% of households are repainting. That means that 22 million 
+households are repainted each year (110million x 20%). A typical house has a kitchen, living room, 
+dining room, three bedrooms, plus 3 bathrooms that I will count as one full room for a total of seven 
+rooms per house. It seems like a room might need two gallons of paint per room, so that would be 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p168 =====
+Casebook | 2019-20 Edition 
+164 
+ 
+gallons per household. Multiplying that by the number of households, that gives 308 million gallons of 
+residential interior paint for renovations. 
+ 
+New construction replaces some old housing and also accommodates the growing population. Assuming 
+that new housing adds an extra 2% of housing to the market, that gives 2.2 million households. 
+Multiplying by the same 14 gallons per household we found earlier, that gives 30.8 million gallons of 
+residential interior paint for renovations. 
+ 
+Interviewer: Ok, great. As you may know, the new housing market is very cyclical. Some years it can be 
+more than 10% per year and others it can be near zero. Given that information, how cyclical do you 
+expect the paint market to be? 
+ 
+Candidate: Since most of the market - >90% in these calculations – is made up of the renovation portion 
+of the market, I would expect paint to be somewhat insulated from swings in new housing construction 
+when compared with other building products like lumber. However, if the new housing market downturn 
+happens at the same time as a general recession, homeowners may be less likely to splurge on 
+repainting. 
+ 
+Interviewer: How should the client think about entering the US market? 
+ 
+Candidate: You can enter a new market organically or inorganically. On the organic side, the client 
+could use existing capacity in the UK and ship material to the US market. This would have a low capital 
+cost and allow the client to control quality, but potentially risk shipping heavy chemicals across the US 
+and potentially have regulation issues. Inorganically, the client could either acquire or do a joint venture. 
+An acquisition target would need to fit with the brand or be able to meet the quality standards our client 
+demands, but would already have access to distribution channels and some brand recognition. A joint 
+venture seems unlikely because our client does not have any assets in the US to contribute to the new 
+entity. Given these, I’d like to explore entering the market organically more and see if we have the 
+capacity or cost structure to allow this. 
+ 
+Interviewer: Can you give a quick summary of what we know so far and where you’d like to evaluate 
+next? 
+ 
+Candidate: Sure. We’ve looked at the size of the US residential interior paint market as part of a market 
+entry evaluation for our client, a UK based paint manufacturer. The market is about 340 million gallons of 
+paint per year, more than 90% of which is used in remodels and renovations, which could reduce volatility 
+in the market despite a housing market prone to swings. Pursuing an organic market entry might make 
+sense as we can control the quality and product better, but a key area of concern is distribution and 
+customer awareness. I’d also like to explore the marketing strategy – how we might actually get 
+consumers to buy this premium product and who to target (such as interior designers and luxury 
+homeowners). 

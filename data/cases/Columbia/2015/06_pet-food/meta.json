@@ -1,0 +1,38 @@
+{
+  "case_id": "Columbia_2015_06_pet-food",
+  "school": "Columbia",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2015.pdf",
+  "idx": 6,
+  "case_name": "Pet Food",
+  "case_type": "Market Sizing",
+  "round": null,
+  "industry": "Consumer Goods / Pet Food",
+  "difficulty": null,
+  "pdf_page_start": 43,
+  "pdf_page_end": 51,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p043.png",
+    "exhibits/exhibit_p044.png",
+    "exhibits/exhibit_p045.png",
+    "exhibits/exhibit_p046.png",
+    "exhibits/exhibit_p047.png",
+    "exhibits/exhibit_p048.png",
+    "exhibits/exhibit_p049.png",
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p051.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2015\\06_pet-food"
+}

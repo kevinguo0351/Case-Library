@@ -1,0 +1,212 @@
+===== PDF p7 =====
+2 
+Case: Biologics Supplier 
+Case Type: Open-ended / Strategy / Revenue growth. Difficulty: Hard. 
+ 
+ 
+Biologics Supplier 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+Your client is a supplier to manufacturers of biological drugs, also known as biologics. Biologics are 
+manufactured through a complex process, and your client provides tanks, chemicals, steel pipes, and other 
+inputs to that process. The biologics industry has been growing at a CAGR of 14% per year, and your client 
+once shared similar growth. In the last few years, however, your client‟s growth has fallen to a CAGR of 4%. 
+What could be causing the slowdown, and how can we fix it? 
+ 
+This is a case about a complex industry that tests a 
+candidate‟s ability to focus on the key drivers of 
+growth without any industry-specific knowledge.  
+-Our client‟s primary objective is to increase 
+revenues. We‟re not focusing on profitability. 
+ 
+-Other suppliers to the biologics industry have been 
+experiencing a similar slowdown in sales growth. 
+ 
+- This is a new industry; our client is only about a 
+decade old, and our client‟s customers have been 
+manufacturing biologics for a relatively short period 
+of time. 
+
+
+===== PDF p8 =====
+3 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+Biologics Supplier 
+Sample Candidate Framework 
+Revenue Economics 
+Price (have we decreased 
+prices?) 
+Quantity (is our volume 
+growth stagnating?) 
+Product Mix (are we 
+selling cheaper supplies?) 
+Competitors 
+Customers 
+Customer Segments 
+(large, small, specialty, 
+etc.) 
+Customer Mix 
+Customer Needs 
+ 
+“Market” would be another fair area for analysis. However, the candidate should know from the initial 
+information that the market is growing at a 14% CAGR.  
+ 
+Current Competitors (are 
+they scaling up?) 
+New Entrants (is the 
+market getting crowded?) 
+Substitutes (are our 
+products replaceable?) 
+
+
+===== PDF p9 =====
+4 
+Potential Areas for Analysis 
+Biologics Supplier 
+Customers (key area in this case) 
+Revenue Economics 
+Competitors 
+Price: There‟s been no change in our prices over 
+the past few years. 
+ 
+Quantity: Quantities have grown at a CAGR of 4% 
+a year. (Takeaway: Problem is on the Q side.) 
+ 
+Product Mix: Our product mix has remained 
+relatively stagnant. 
+Other suppliers to the biologics industry have been 
+experiencing a similar slowdown in sales growth. 
+ 
+There have been no notable new entrants to the 
+market. 
+ 
+No substitutes have developed for our products. 
+Our customers are pharmaceutical companies 
+(both major and minor) who produce biologics. 
+ 
+What could be causing customers to purchase 
+fewer supplies? (have candidate brainstorm) 
+ 
+True answers in this case: 
+- Tanks and pipes are long-lived assets; after an 
+initial ramp up in capacity, they don‟t need to be 
+replaced for many years.  
+- Learning effects/experience curves allow our 
+customers to manufacture drugs more efficiently 
+with less equipment. 
+- Technological innovations have made our 
+products last longer. A certain tank used to last 2 
+weeks before replacement, but now lasts 2 months. 
+- Biologics manufacturers haven‟t been investing 
+in enough capacity to match expected demand 
+(key point for next part of case) 
+
+
+===== PDF p10 =====
+5 
+ 
+Exhibit #1 and Math 
+ 
+Biologics Supplier 
+Questions 
+Solution:  
+Question #1: Hand candidate Exhibit #1. Our team has put together some historical data and projections 
+on demand and manufacturing capacity for biologics. What do you think?  
+Question #2: Candidate should get here on his or her own, but prompt if necessary. Why do you think 
+demand is outstripping capacity? 
+Question #3: Math. What‟s the CAGR for the shortage between now (2011) and 2014?  
+Exhibit #1: A good response identifies that after a brief period of overcapacity, demand is skyrocketing and leaving 
+capacity in the dust. A great response tries to quantify the shortage and lays out one or more hypotheses for why it 
+might be. For example: 1) Does it take a long time to add capacity in this business? (Yes.) 2) Are manufacturers 
+colluding to try and keep prices high? (No.) 3) Are there regulatory hurdles preventing additional plants from being 
+constructed? (No.) 
+Math Question: Approximations are fine here. This is a question designed to panic the candidate and test their 
+comfort with numbers – they shouldn‟t fall for it! Using the CAGR formula would take several minutes; it’s much 
+better to approximate. Shortage in 2011 is ~20 and grows to ~60 by 2014. Approximating, we know a 50% CAGR 
+would be (20 -> 30 > 45 > 67.5) so that‟s too high. A 40% CAGR is a bit too low (20 -> 28 -> ~40 > ~56 ). 45% fits 
+much better (20 > 29 > ~42 -> ~60).Alternate method: 20 * (1 + x)^3 = 60, so (1 + x)^3 = 3. Approximating the cube 
+root of 3, it‟s <1.5 and >1.4, so .5 > x > .4. 
+Key Implication: The shortage is growing at an astounding rate – 45% compared to demand growth of 14%. 
+Gravity has to take hold at some point – will there be a massive upswing in capacity in 2015/2016?  
+
+
+===== PDF p11 =====
+6 
+ 
+Brainstorming 
+ 
+Biologics Supplier 
+Question 
+Question #2 Solution:  
+Assume that we‟re pretty confident the numbers in Exhibit 1 are true and demand won‟t pick up through 
+2014. What are some other ways our client could increase revenues? 
+Candidate should brainstorm as many (and as creative) options as possible. Two important areas: 
+- Gain share: 
+-Cut prices or increase marketing and direct sales 
+-Innovate with better-quality product 
+-Change product mix toward items that need to be replaced more often 
+-Acquire a competitor and try to gain supplier power to increase prices 
+- Create new revenue streams: 
+-Get into services to help customers meet the upcoming capacity shortage 
+- Begin selling additional inputs into the biologics manufacturing process 
+- Get into the biologics industry ourselves! (Massive growth + capacity shortage.) 
+ 
+
+
+===== PDF p12 =====
+7 
+ 
+Conclusion 
+ 
+ 
+Biologics Supplier 
+ 
+o Our client should take advantage of the upcoming capacity shortage by getting into services to help 
+our customers (the biologics manufacturers) ramp up capacity. 
+ 
+Note: Any recommendation is appropriate as long as it involves  
+taking advantage of the capacity shortage in some way.  
+ 
+Example Recommendation 
+ 
+o Risk #1: Manufacturers aren‟t interested in ramping up capacity, prefer to try and drive prices up 
+ 
+o Risk #2: We don‟t have any expertise in services 
+ 
+o Risk #3: The market for services may be saturated 
+ 
+Risks 
+ 
+o Next Step #1: Speak to our customers to ensure this is a viable model 
+ 
+o Next Step #2: Assess our own expertise 
+ 
+o Next Step #3: Assess the market for services 
+ 
+Next Steps 
+
+
+===== PDF p13 =====
+8 
+Exhibit: Biologics Demand and Capacity  
+(millions of units) 
+ 
+Biologics Supplier 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+2008 
+2009 
+2010 
+2011 
+2012e 2013e 2014e 
+Demand 
+Capacity 

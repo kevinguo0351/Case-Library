@@ -1,0 +1,134 @@
+===== PDF p131 =====
+McKinsey & Co. 
+Round 1 
+Market Entry: Entry / Exit Decision 
+Case 27: K. Grace Hospital Chain 
+Prompt 
+Your client is a large hospital chain, K. Grace.  There have been proposed legislation changes to 
+Medicare that will affect your client.  For example, some surgeries will no longer be reimbursable at 
+the same rate.  As a result, this has caused the hospital to consider a strategy that would shift its 
+focus toward less profitable surgeries by using alternative therapies.  However, the client is 
+concerned about the decreased revenue potential from this proposed shift in strategy.   
+ 
+Currently the client has a $4 billion top line.  Surgeries represent half of this total.  Half of the 
+hospitals in the chain perform all of these surgeries. For this case, let‘s say that all patients are on 
+Medicare (private insurance is not a factor).  Should we close part of the chain?  All of the chain?  
+None of the chain?  What drivers will help us arrive at a close / no close decision? 
+Guidance 
+Allow the candidate some time (<1.5 min) to create a structured framework.   
+ 
+Some issues to discuss could be the profitability (revenues and costs) of the surgeries.  Look for a 
+basic framework that includes a revenue breakdown into prices and quantities and a simple cost 
+structure with fixed and variable costs.   
+ 
+Next, ensure that the candidate is considering the percentage of surgeries that is actually impacted. 
+ 
+Prompt the candidate by asking: Maybe we should explore whether the hospital chain has any 
+capabilities in providing alternative therapies—could we make money there?   
+ 
+Let‘s see external things, too, like the ability to influence the regulatory environment, the needs and 
+preferences of our end users (would they pay out-of-pocket?).   
+ 
+Lastly, the candidate should not fail to address the strategies competitors are adopting. 
+ 
+127 
+
+
+===== PDF p132 =====
+128 
+McKinsey & Co. 
+Round 1 
+Guidance 
+Steer the candidate toward profitability information.  What does he/she want to know?  Allow the 
+candidate to make assumptions regarding profitability (guide them if their assumptions are way off 
+base).  This case is not about the specific numbers, rather the analysis conducted. 
+Analysis 
+Typical impacted hospital (annual):  
+Patients: 1,000 
+ 
+Price (revenue) per patient: $1,000 
+ 
+Cost per patient: $800 
+ 
+Fixed Cost of facility: $100,000 
+ If the candidates numbers are very different, suggest they use the numbers provided above for 
+simplicity.  
+Simple breakeven calculations should be made—The hospital must serve at least 500 patients to 
+remain open.  Each patient delivers a $200 contribution margin. 
+Prompt— 
+Part II 
+How many patients would you have to lose below breakeven (500) to close the hospital? 
+ 
+Guidance 
+The candidate needs information on the cost of exiting the business.  Let them ask for it.  Once they 
+request the information, you can give them the following:  The exit cost is $50,000. 
+Analysis 
+The profitability over time, discounted back to today, minus the PV of the exit costs, should equal 
+zero to breakeven:  Q*$200 – $100,000 = -$50,000.  Q = 25 
+  
+Another way to look at this is the value of lost customers to the business over time, taken as a 
+perpetuity.  Or, loss / hurdle rate = exit cost.  Assume a discount rate of 10%. 
+  
+Loss / .10 = 50,000.  Loss = $5,000, which equals 25 patients that you would have to lose below 
+breakeven to close the hospital.  500 - 25 = 475 patients to remain open 
+Market Entry: Entry / Exit Decision 
+Case 27: K. Grace Hospital Chain 
+
+
+===== PDF p133 =====
+129 
+McKinsey & Co. 
+Round 1 
+Prompt— 
+Part III 
+If fixed costs change to $150,000, how many patients will you need to break even?  How many 
+patients would you have to lose to close the hospital?  
+Analysis 
+$150,000 / $200 = 750 patients to stay open 
+  
+Loss / .10 = $50,000.  The loss of future value that one gives up by incurring the exit costs equals 25 
+patients.  Below 725 patients, the facility should close. 
+ 
+Prompt— 
+Part IV 
+The hospital does some research and finds that 3/8 of its surgeries will not be reimbursable.  A 
+government report says it will save 6-9% by passing the new legislation.  You know that someone 
+has botched the research.  How is the information contradictory? 
+ 
+Guidance 
+The candidate should ask for the national market share of the company.  Otherwise, the data above 
+is like comparing apples to oranges.   
+ 
+The market share for your client is 20%.   
+ 
+This means that, according to your client, 7.5% (.375 * .20 = .075) of the government savings will 
+come from its surgeries, which represent only 20% of the total national market.   
+Market Entry: Entry / Exit Decision 
+Case 27: K. Grace Hospital Chain 
+
+
+===== PDF p134 =====
+130 
+Performance 
+Evaluation 
+Candidate should provide a crisp recommendation – By McKinsey standards, a crisp 
+recommendation should be roughly 30 seconds long and should include clear bullet points that 
+support an overall recommendation.  For example, ―Close the chain for reasons 1, 2, and 3.‖ 
+ 
+Expected: 
+ Accurate arithmetic 
+ Solid profitability and breakeven calculations 
+ 
+Good: 
+ Framework that includes exploration of all possible options 
+ Clear recommendation that summarizes key findings in under 30 seconds 
+ 
+Excellent: 
+ Considered possibility of alternative therapy surgery market entry 
+ Understanding of, and clear answer to, the final question (Note: this question is very complicated) 
+ 
+ 
+McKinsey & Co. 
+Round 1 
+Market Entry: Entry / Exit Decision 
+Case 27: K. Grace Hospital Chain 

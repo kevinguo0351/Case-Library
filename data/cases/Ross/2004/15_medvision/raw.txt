@@ -1,0 +1,81 @@
+===== PDF p37 =====
+Table of Contents 
+ 
+33
+Practice Case 15: Medvision  
+(Mckinsey - Round 1) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is Medvision, an X-ray equipment manufacturer. Its 
+products are currently 98% analog and 2% digital, both of which are 
+sold directly by sales force. The clientís European division is suffering 
+from declining profit. The client has brought us in to find why its 
+profit are declining and what to do about it. 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+Market: There is price pressure by buyers (hospitals) to control costs. 
+• 
+Company:  
+-Revenue breakdown: 
+machine/equipment 
+ 
+800M 
+films  
+ 
+ 
+ 
+2500M 
+service 
+ 
+ 
+ 
+100M 
+within films: 
+1999 price 
+ 
+ 
+6.67  
+2003 price 
+ 
+5.00 
+1999 volume 
+ 
+300M  
+2003 volume 
+500M 
+1999 revenue 
+ 
+2000M 
+2003 revenue 
+2500M 
+ 
+-Some salespeople give more discounts to clients than others. 
+ 
+ 
+III. Sample solution 
+ 
+• 
+Explored the product mix and was told three kinds of revenue sources 
+for the company. Looked into revenue and cost and was told costs 
+were already cut to the bones.  
+• 
+Focused on revenue for films as it was the biggest revenue stream, 
+and I would first explore the changes over the years. I have found the 
+price went down by 25% over 4 years. The interviewer confirmed that 
+the buyers were exerting pressure on the price.  
+• 
+Then he pulled out a table of sales revenue and discount given by 
+salesperson. I pointed out that some salespeople were giving far more 
+discount than other people and this could adversely affect the actual 
+price the company can get.  
+• 
+The interviewer asked to give recommendation at that point. The 
+reason for declining profit is decrease in price of films. Key drivers 
+were buyersí pressure and problematic sales force practices. The 
+company should focus on the driver it can control (i.e. the sales force) 
+and change its commission structure to align the sales force interests 
+with companyís interests. 
+ 

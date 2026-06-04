@@ -1,0 +1,297 @@
+===== PDF p333 =====
+Going Green
+328
+Industry: Market Entry
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p334 =====
+Case 10: Going Green
+Behavioral Questions
+•
+Describe a time a teammate was not pulling their weight. What did you do about it?
+•
+What three things would your previous supervisor identify as your areas of improvement?
+Prompt
+Over the last few years some states have legalized medical marijuana sales on a prescription basis, and some have even legalized recreational use. 
+The cultivation and sales of marijuana most often take place in small storefronts called dispensaries. In most states, limits have been created on 
+how many dispensaries are allowed to exist at any one time.
+Your client, North Carolina Tobacco Company, made $8 Billion in revenue and $2 Billion in profits last year, but has seen declining use of cigarettes 
+in the United States, which currently makes up 25% of its total revenue and profit. NC Tobacco is considering moving into the recreational 
+marijuana market. What should they do? Assume that federal regulations are not a concern in this case.
+Interviewer Guidance
+Provide if requested: 
+•
+Global use of tobacco has not declined and is even increasing in some areas
+•
+NC Tobacco is interested in diversifying their portfolio of products 
+•
+NC Tobacco is normally focused on long-term profitability, but because this is a very new market they aren’t completely sure what else they 
+should be thinking about.
+•
+NC Tobacco only interested in entering the recreational market, as medical marijuana is highly regulated and requires the dispensary to be a not 
+for profit organization. (Assume recreational dispensaries are for-profit)
+A good candidate will recognize that this is a market entry question. The framework can include:
+•
+Market Evaluation: Market Size, barriers to entry, 
+•
+Entry: Buy, Build, Partner
+•
+Economics: Costs, Revenue, synergies with cigarette business, NPV
+•
+Risks: Political fallout in NC (tobacco centric state), Negative PR for getting in drug business, potential substitution of cigarette sales, consumer 
+distaste for ‘big corporate’, problems with financing (banks don’t want to finance due to risks associated with Marijuana).
+329
+
+
+===== PDF p335 =====
+Case 10: Going Green
+Prompt
+NC Tobacco is interested in Washington and Colorado, which are two states that have legalized recreational use of marijuana. What is 
+the potential market size in Washington and Colorado?
+Interviewer Guidance
+Guide the candidate toward a top-down approach. Provide the following information if requested: 
+• Colorado Population: 5 Million
+• Colorado Population that smokes: 15%
+• Washington Population: 7 Million
+• Washington Population that smokes: 10%
+• Number of grams consumed per week: 1
+• Price per gram (assume this is the equivalent of 1 marijuana cigarette): $15
+Candidate should lay out information requested on an organized chart or data table.
+Analysis
+Washington Market size: $15/gram * 50 grams/yr * 7M people * 10% = $525 M
+Colorado Market Size: $15/gram *50 grams/yr * 5M people * 15% = $562.5 M
+Candidate should note a fairly large market size relative to current NC Tobacco profits, and a relatively larger market size in Colorado.
+330
+
+
+===== PDF p336 =====
+Case 10: Going Green
+Prompt
+Now that NC Tobacco understands the market size, how should they enter the market?
+Interviewer Guidance
+The candidate should analyze the cost/benefits for buy, build or partner. Guide them to the primary analysis of buy or build, if they 
+don’t arrive there quickly. If candidate inquires about JV, assume NC Tobacco wants full control of the process. The candidate should 
+approach this in a structured way that analyzes the positives and negatives of each. Utilizing a table is one way to facilitate this:
+Analysis
+Strategy
+Buy
+Build
+Benefits
+•
+Quick to ramp up and capitalize on first mover advantage
+•
+Utilize local expertise
+•
+Few states have marijuana cigarettes so easy to consolidate
+•
+Utilize local brand recognition
+•
+Easier to build culture
+•
+Few consolidated competitors means less competition
+•
+Similar products may allow ease of  entrance into market
+Disadvantages
+•
+Integration into new company
+•
+Scattered, independent operators may make consolidation 
+challenging
+•
+Financing may be challenging for marijuana dispensary 
+purchases
+•
+Limited licenses distributed restrict ability to build from scratch
+•
+Time to grow plants, establish brand name and sell may take too 
+long – other competitors may enter
+Recommendation
+Candidate should recall limited amount of licenses distributed and recognize that building would be more difficult. Client should buy 
+rather than build.
+331
+
+
+===== PDF p337 =====
+Case 10: Going Green
+Prompt
+NC Tobacco is interested in purchasing a portion of the dispensaries currently in the market. What do they need to know in order to 
+determine the worthiness of the investment, and which market they should enter, if any?
+Interviewer Guidance
+Potential avenues of pursuit could be an ROI, a Breakeven, or an NPV analysis. Guide the candidate towards an NPV analysis and a
+determination of the value of the purchases to NC Tobacco. Once they have asked for financial information, provide Exhibit 1.
+The first step of this analysis is to determine the revenue for each individual dispensary. Candidate should recognize that they require 
+the number of individual dispensaries in each state. See below for information – individual revenue numbers are on interviewer copy 
+of Exhibit 1.
+• Total number of dispensaries in Colorado: 100
+• Total number of dispensaries in Washington: 200
+One they calculate the individual revenue, the candidate should begin pursuing an NPV valuation with the data at hand.  Provide the 
+following information upon request
+• Total number of dispensaries in Colorado available for sale: 10
+• Estimated purchase price of each Colorado dispensary: $4M
+• Total number of dispensaries in Washington available for sale: 30
+• Estimated purchase price of each Washington dispensary: $1.5M
+• Discount rate: 10% (assume the NPV is in perpetuity)
+332
+
+
+===== PDF p338 =====
+Exhibit 1
+Estimated Income Statement for a Future NC Tobacco Dispensary
+Colorado
+Washington
+Revenue
+?
+?
+Cost of Goods Sold
+$2,175,000
+$1,050,000
+Overhead
+$1,100,000
+$450,000
+Salary
+$525,000
+$375,000
+333
+Case 10: Going Green
+
+
+===== PDF p339 =====
+Exhibit 1: Interviewer Guidance
+Estimated Income Statement for a Future NC Tobacco Dispensary
+Colorado
+Washington
+Revenue
+$5,625,000 
+$2,625,000 
+Cost of Goods Sold
+$2,175,000
+$1,050,000
+Overhead
+$1,100,000
+$450,000
+Salary
+$525,000
+$375,000
+334
+Case 10: Going Green
+
+
+===== PDF p340 =====
+Case 10: Going Green
+Recommendation
+A good candidate will immediately note the higher NPV for Washington over Colorado. An excellent candidate will realize that both are viable 
+options due to the positive NPV..
+Analysis
+335
+Colorado
+Washington
+Market Size
+$562,500,000 
+$525,000,000 
+# of Dispensaries
+100
+200
+Revenue/Dispensary
+$5,625,000 
+$2,625,000 
+Cost of Goods Sold
+($2,175,000)
+($1,050,000)
+Overhead
+($1,100,000)
+($450,000)
+Salary
+($525,000)
+($375,000)
+CF/store
+$1,825,000 
+$750,000 
+# of stores available for purchase
+10
+30
+Total CF/Store
+$18,250,000 
+$22,500,000 
+Discount Rate
+10%
+10%
+DCF of purchased stores
+$182,500,000 
+$225,000,000 
+Cost to purchase 1 store
+($4,000,000)
+($1,500,000)
+Cost to purchase available stores
+($40,000,000)
+($45,000,000)
+NPV
+$142,500,000 
+$180,000,000 
+
+
+===== PDF p341 =====
+Case 10: Going Green
+Prompt
+Should NC Tobacco move forward with purchasing dispensaries? What are some other factors that NC Tobacco might want to consider 
+before moving forward with their decision?
+Interviewer Guidance
+Candidate should provide a conclusion slide clearly identifying the recommendation, along with the risks associated with the strategy. 
+Recommended action would be to move forward with purchase of both Colorado and Washington dispensaries due to NPV, but the 
+candidate can make a case for either moving forward or for not purchasing as long as sufficient support is provided. This is a good 
+opportunity to push the candidate with ‘what else’ questions, particularly during the risk assessment.
+336
+
+
+===== PDF p342 =====
+Case 10: Going Green
+Analysis
+Potential Rationale for moving forward with purchase: 
+• Positive NPV
+• Higher profit margin than cigarettes
+• First mover advantage
+• Potential high-growth market as more states legalize
+• Synergistic opportunities in supply chain, marketing, etc.
+• New (and highly loyal) customer base
+• Cigarettes inviable for long term
+Potential Rationale for not continuing: 
+• NPV small for company making $8 Billion/yr in revenue
+• Potential variability in projected vs. actual income statement estimates
+• Potentially low estimate of purchase price (given low NPV/store)
+• Potential first mover disadvantage
+• Negative PR for getting in ‘drug’ business
+• Potential substitution of cigarette sales
+• Potential consumer distaste for ‘big business’
+• Problems with financing (banks don’t want to finance due to risks associated with Marijuana)
+• Cigarette sales still strong abroad – focus on international opportunities
+337
+
+
+===== PDF p343 =====
+Case 10: Going Green
+Performance Evaluation
+• This case tests the candidate’s ability to:
+o Work through complicated math
+o Develop structured  approaches to problems
+o Recall key facts discussed earlier in the case
+o Understand key factors that drive market entry and M&A cases
+o Make a recommendation in the face of ambiguous information
+o Remain professional in a business case that may otherwise encourage individuals to lose their professionalism 
+• Good interviewees will:
+o Will have an understanding where the case is going throughout
+o Have 1-2 math errors but recovers appropriately
+o Displays good ability to utilize public math
+o Creates basic MECE structure (bucketed approach, etc.) to  analyze  problems
+o Provides conclusion with support
+o Provides a recommendation after analysis with 3-4 potential risk factors
+o Maintains professional composure throughout
+• Exceptional interviewees will
+o Drive the case forward throughout with hypothesis based inquiry
+o Have 0 math errors
+o Will maintain composure throughout the math
+o Add creative ideas to qualitative analysis
+o Addresses prompts with advanced matrices or analytical structures that show depth of thinking and organization
+o Is engaging, displays interest in the subject and has appropriate body posture and presence
+o Provides a strong, efficient, concise recommendation with at least 4-5 risk factors.
+338

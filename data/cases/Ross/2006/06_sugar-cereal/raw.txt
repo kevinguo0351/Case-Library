@@ -1,0 +1,337 @@
+===== PDF p52 =====
+Practice Cases – Case 6: Sugar Cereal 
+BCG 
+ 
+ 
+48
+(Source: Sample case from BCG website) 
+ 
+Context 
+Your client is the sugar cereal division of Foods Inc., a U.S.-based distributor and 
+manufacturer of packaged foods. According to the division president, Foods Inc.'s 
+traditional strength has been with grocery stores, which still account for the 
+majority of its $1.1 billion in sugar cereal sales. But Big M Mart, a discount chain, has 
+been growing at a healthy rate of almost 15 percent per year and has now become 
+Food Inc.'s largest customer. Your client is not sure how to react, and has asked BCG 
+for assistance with its distribution strategy 
+ 
+Establish understanding of the case 
+Interviewee: First, let me make sure I understand the problem. Our client specializes in 
+sugar cereals traditionally distributed through grocery stores. Sales to Big M Mart, a discount 
+chain, have been growing at 15 percent per year, and the chain has recently become the 
+largest distributor of the client's product nationwide. We are here to help evaluate the 
+distribution strategy in light of Big M Mart's growth.  
+Interviewer: That is correct.  
+Interviewee: Could you explain to me how grocery stores differ from discount stores?  
+Interviewer: Sure. Grocery stores generally specialize in food, as well as selling 
+some household goods and over-the-counter pharmaceuticals. Discount stores, on 
+the other hand, offer food alongside a wide variety of merchandise, including 
+clothing, home electronics, and housewares.  
+Interviewee: Does Big M Mart market its food products differently than do grocery stores?  
+Interviewer: Discount stores advertise lower prices for a wide variety of foods, 
+particularly staple, nonperishable foods.  
+Interviewee: Could I take a moment to write a few notes to myself?  
+Interviewer: Please feel free. 
+Set up the framework 
+Interviewee: Before making recommendations, I think we would need to evaluate 
+whether sales growth at Big M Mart is good or bad for Foods, Inc. To do that, I would 
+first look at how its sugar cereal performance at Big M Mart compares with that in 
+other distribution channels. Second, I would look at its performance at Big M Mart in 
+relation to competitors' performance. Next, I would determine what drives customer 
+purchases. Finally, I would want to understand the supply chain.  
+Interviewer: That certainly sounds like a reasonable approach. Let's proceed.  
+Evaluate the case using the framework 
+Interviewee: First, I would like to get a better sense of where Big M Mart stands in relation 
+to our client's other distribution channels by examining the client's sales data and margins, by 
+distributor.  
+
+
+===== PDF p53 =====
+Practice Cases – Case 6: Sugar Cereal 
+BCG 
+ 
+ 
+49
+Interviewer: The marketing department does not have margins by channel, but 
+tracks sales and volume for its top five distributors.  
+Sales ($M) 
+1997
+1999
+2001
+5-Yr CAGR 
+Big M Mart 
+142
+162
+246
+14.7% 
+R.J.'s  
+157
+185
+200
+6.2% 
+Bozo Mart  
+143
+175
+189
+7.3% 
+Ace Grocery  
+101
+109
+153
+11.0% 
+Shoppers Mart  
+57
+62
+67
+4.0% 
+Total Top 5  
+600
+693 
+856 
+9.3% 
+Total All Distributors  
+1,000
+1,079
+1,150
+3.6% 
+  
+  
+  
+  
+  
+Volume (M boxes) 
+1997
+1999
+2001
+5-Yr CAGR 
+Big M Mart 
+65
+74
+113
+14.7% 
+R.J.'s 
+72
+81
+85
+4.2% 
+Bozo Mart 
+65
+77
+80
+5.2% 
+Ace Grocery 
+46
+47
+64
+8.8% 
+Shoppers Mart  
+26
+27
+28
+2.0% 
+Total Top 5 
+274
+307
+370
+7.8% 
+Total All Distributors 
+450
+468
+487
+2.0% 
+What does this imply about Big M Mart as a distribution outlet?  
+Interviewee: It looks as if the top distributors have been growing more important, but 
+particularly Big M Mart, which is growing faster than all the others. This is particularly true 
+when we look at volume, where Big M Mart's growth is much higher than that of the other four 
+channels.  
+Interviewer: And how could you interpret what these data says about margins? 
+Interviewee: While the client's sales through other distribution channels are growing faster 
+than volume, Big M Mart volume and sales growth are the same, so the average price paid by 
+Big M Mart has remained constant. That implies that sales growth at Big M Mart could have 
+negative implications for our client's margins.  
+Next, I would like to look at how our client is doing in relation to the competition within Big M 
+Mart. Have they been gaining or losing market share?  
+Interviewer: How might you find that out? 
+Interviewee: I would try to interview Big M Mart's purchasing personnel, since they would 
+probably track those data for their own purposes.  
+Interviewer: Why would they want to talk to you? How might you approach such an 
+interview? 
+ 
+
+
+===== PDF p54 =====
+Practice Cases – Case 6: Sugar Cereal 
+BCG 
+ 
+ 
+50
+Interviewee: I would approach the purchasing personnel and suggest that our client and Big 
+M Mart work together to identify best practices to reduce costs and increase sales of sugar 
+cereals at Big M Mart.  
+Interviewer: Let's say in a perfect world you could get a breakdown of Big M Mart 
+sales for the four largest competitors (see market shares below). 
+ 
+What can we infer about our client's competitors within this channel? Who should 
+they be worried about? 
+Interviewee: It looks like our client is losing market share, as is Tasty Breakfast, while 
+Cereal Co. and Private Label are gaining share. Private Label, however, looks to be growing 
+from a very small base.  
+I would like to explore why our client is losing market share to Cereal Co. at Big M Marts. Are 
+their prices better than those of our client?  
+Interviewer: After a period of price wars six to seven years ago that lowered 
+industry margins, the cereal companies have refrained from price competition within 
+the same channel.  
+Interviewee: If prices are not driving the difference, I would look at other factors such as 
+brand selection, percentage of shelf space, product placement, and in-store promotions.  
+Interviewer: Visits to Big M Marts indicate that each name-brand company holds 30 
+percent of the shelf space, while private label has 10 percent. Cereal Co. brands, 
+however, tend to be placed lower on the shelf than your client's products.  
+Interviewee: Well, I suspect that children are a large target market for the sugar cereal 
+manufacturers. The lower shelf placement could be especially important to children who are 
+looking at the different types of cereals. Are there any other promotions?  
+Interviewer: Some Cereal Co. brands have sales promotion tags, and the team notes 
+that store flyers advertise specials on Cereal Co. brands for Big M Mart customer 
+cardholders.  
+Interviewee: So, even if all the companies are maintaining product prices, maybe Cereal Co. 
+is strategically discounting prices to gain market share.  
+It seems as if there is evidence of cooperation between Cereal Co. and Big M Mart. Do we 
+know anything about their relationship?  
+
+
+===== PDF p55 =====
+Practice Cases – Case 6: Sugar Cereal 
+BCG 
+ 
+ 
+51
+Interviewer: During earlier discussions with Big M Mart, you discovered that your 
+client's competitors have 50 sales representatives dedicated to the Big M Mart 
+account. Your client has seven.  
+Interviewee: Cereal Co. appears to be dedicating more resources to its relationship with Big 
+M Mart than our client is. This may explain its better product placement and promotion 
+programs.  
+I think I have a good sense of distribution and competition. I would now like to look at the 
+customers and understand why they select the products they do. One hypothesis I have is 
+that shifting brand loyalties are hurting our client's market share at Big M Mart. 
+Interviewer: That's interesting. What do you think might motivate purchases of 
+sugar cereals?  
+Interviewee: There are lots of factors, such as the games in the boxes, the price of the 
+cereal itself, how it tastes. To better understand consumer behavior, we might conduct market 
+research, possibly through focus groups, customer observation, and price sensitivity studies.  
+Interviewer: BCG teams often do such research. Let's assume your team conducts 
+some analysis. Your research concludes that most buyers tend to fall into two 
+categories. Approximately 60 percent of buyers go straight to one cereal and grab it. 
+We can call this group the "brand-loyal" shoppers. Another 40 percent of shoppers 
+look at all the cereals and then select one that interests them. Let's call this group 
+the "impulse" buyers.  
+Interviewee: For the brand-loyal shopper, the priority would be product availability, while 
+product placement would be important for consumers who like to shop around.  
+Within these groups, are consumers price sensitive such that one brand can lure shoppers 
+loyal to another brand?  
+Interviewer: In general, your research indicates that consumers are not price 
+sensitive and are extremely loyal to their preferred brand. But when the preferred 
+cereal is unavailable, the brand-loyal customers will purchase discounted cereals 
+approximately 35 percent of the time.  
+Interviewee: Well, from that information, it appears that price is not a major driver of 
+purchases unless the preferred cereal is out of stock. In these stock-out situations, you said, 
+brand-loyal customers will purchase discounted cereals 35 percent of the time. What happens 
+when the customer does not purchase a discounted cereal?  
+Interviewer: In approximately 25 percent of cases, the customer walks away 
+without purchasing any cereal at all. In the remaining 40 percent of cases, the 
+brand-loyal customer will act like an impulse shopper and select another brand. 
+Interviewee: Interesting. It seems as if product availability could be a major driver of total 
+cereal volume for Big M Mart. Of course, we would need to know how often stock-outs occur 
+that cause consumers to walk away without purchasing cereal occur.  
+Since I have a pretty good understanding of customer motivation, I'd now like to ask a few 
+questions about the client's supply chain. I would want to talk to our client's distribution 
+personnel to understand the distribution process and to determine how often stock-outs occur. 
+Can you describe how our client's cereal is distributed at Big M Mart?  
+ 
+
+
+===== PDF p56 =====
+Practice Cases – Case 6: Sugar Cereal 
+BCG 
+ 
+ 
+52
+Interviewer: Cereals are distributed from the factory to the distributor's warehouse 
+twice monthly. The retailer then stocks the shelves itself.  
+Interviewee: Do we have any knowledge about when the individual stores are out of stock?  
+Interviewer: No, we do not, since our client only delivers to the warehouses and has 
+no direct access to in-store inventory information. 
+Interviewee: Since we identified product availability as a key success factor earlier on, I 
+would want to make sure that the stores were stocking the product correctly.  
+Interviewer: Let's say that in your earlier in-store investigations, you found out that Big M 
+Mart stores averaged 15 percent of sugar cereal brands out-of-stock, across all brands. 
+Interviewee: Stock-outs would be a major problem for our client, since 60 percent of 
+customers look for a specific brand of cereal and 35 percent of them would buy a discounted 
+brand in a stock-out situation. Big M Mart would also have an incentive to reduce out-of-stock 
+incidents, since 25 percent of the time, a brand-loyal customer will walk away without buying 
+anything.  
+Summarize and make recommendations 
+Interviewee: Big M Mart is our client's leading customer, accounting for more than 20 
+percent of our client's sugar cereal revenue. Although sales to Big M Mart are increasing on an 
+absolute basis, our client's margins there are lower than in its other channels and its 
+competitive position is eroding in that channel. 
+At Big M Mart, our client faces competition from both private label and Cereal Co., although 
+the latter appears to be the greater threat. There appears to be a relationship between Big M 
+Mart and Cereal Co. as evidenced by their joint promotions, the superior placement of the 
+Cereal Co. product, and the substantial resources that Cereal Co. has dedicated to the Big M 
+Mart account. 
+We learned that 60 percent of customers are brand-loyal, implying product availability is most 
+important. However, 40 percent like to try different kinds of cereal, indicating product 
+placement is also important. Purchasers do not appear to be price conscious, unless the type 
+of cereal they are looking for is out of stock, in which case there is a stronger tendency to 
+base purchases on price promotions.  
+In terms of distribution, our client is making deliveries twice a month to Big M Mart's 
+warehouses. Big M Mart, in turn, is responsible for stocking the shelves. We currently have no 
+direct knowledge of when our client's items are out of stock at the individual stores, but there 
+is evidence that stock-outs do occur with some frequency.  
+Interviewer: Well, it sounds as if you understand the situation. What would you 
+recommend the client do?  
+Interviewee: The sales through Big M Mart appear to have a negative impact on the bottom 
+line, as they have lower margins than sales through grocery stores. The client could work with 
+grocery stores to ensure that they are able to compete effectively with Big M Mart in the sugar 
+cereal market. This strategy could be risky, however, since Big M Mart is a large and important 
+customer. Therefore, I would recommend that our client work more collaboratively with Big M 
+Mart.  
+To defend its current position at Big M Mart stores, the client should move toward a 
+partnership with Big M Mart and dedicate more resources to the relationship. The customer  
+
+
+===== PDF p57 =====
+Practice Cases – Case 6: Sugar Cereal 
+BCG 
+ 
+ 
+53
+and competitor data indicate that our client's first priority should be to improve distribution to 
+ensure better product availability. In addition, it should push for product placement equal to, if 
+not better than, that of its competitors.  
+Interviewer: Why would Big M Mart be willing to enter into a partnership with Foods 
+Inc?  
+Interviewee: Foods Inc could offer to share its information about customer behavior to help 
+increase revenues for both itself and Big M Mart. Stock-outs hurt Big M Mart in two ways. First, 
+some brand-loyal customers simply walk away without purchasing cereal whenever their 
+preferred brand is unavailable. Second, we know that other brand-loyal customers purchase 
+lower-priced cereal whenever they encounter a stock-out of their preferred brand. Both of 
+these instances lower Big M Mart's revenue. 
+By eliminating stock-outs, Big M Mart could increase its sales by simply ensuring that 
+customers don't walk away without making a purchase. Converting these purchase occasions 
+to sales would increase Big M Mart's sales of sugar cereals by more than 2 percent(1). 
+Better availability also helps Big M Mart and our client increase their revenue by deterring the 
+brand-loyal shoppers from trading down to lower-priced cereals. Recall that 35 percent of the 
+brand-loyal shoppers purchase a discounted cereal if their preferred brand is not available. If 
+improved distribution now makes the preferred brands more consistently available, the 
+customers will pay a higher price for these products. 
+Finally, we could use the information about consumer purchase behavior to help persuade Big 
+M Mart to share information about product availability in its individual stores. We could work 
+with our client and Big M Mart to improve the current distribution system to allow for more 
+economical deliveries, while at the same time ensuring that our client's product is consistently 
+available in the store.  
+Interviewer: Thank you. Those sound like solid recommendations, but I would 
+suggest that you fully understand the root cause of the stock-out situations and the 
+cost to eliminate them before moving ahead. 
+(1) 15 percent out of stock x 60 percent brand-loyal customers x 25 percent willing to forgo 
+purchase = 2.25 percent 

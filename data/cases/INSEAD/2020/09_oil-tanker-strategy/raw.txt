@@ -1,0 +1,101 @@
+===== PDF p48 =====
+ICC Handbook 2020 
+44 
+ 
+ 
+Difficulty: Easy 
+Quant: Easy 
+Company: Strategy& 
+ 
+9.9 Oil Tanker 
+ 
+Step 1: Background and question 
+My grandfather has just died and left me an oil tanker. I need     a 
+valuation for tax purposes, and I have hired you to tell me what it 
+is worth. For your information, there are 3 types of tankers      in 
+the world: small, medium, and large. Within these three classes, 
+each tanker is identical to every other. I have just inherited a 
+medium tanker 
+ 
+Step 2: To be given as a response to student inquiries: 
+Supply-side information 
+ 
+Small 
+Medium 
+Large 
+Number 
+100 
+100 
+100 
+Capacity 
+1 unit 
+2 units 
+4 units 
+Number of trips 
+per year 
+1 
+1 
+1 
+Operating cost 
+$50,000/trip 
+$75,000/trip 
+$100,000/trip 
+ 
+ 
+ 
+Demand-side information 
+Scenario I: fixed demand for 500 units of capacity per year 
+(transport costs are a negligible part of total oil-cost structure, and 
+demand is completely inelastic for purposes of this analysis). 
+Scenario II: fixed demand for 650 units of capacity per year (note: 
+change demand-side scenario to this only if student correctly 
+determines value of tanker under first scenario and if time permits). 
+ 
+The market is highly fragmented and therefore competitive. The 
+discount rate is 10%. 
+ 
+Step 3: Solution 
+Because the market is competitive, the market price will be the 
+lowest price sufficient to cause enough capacity to enter the 
+industry to serve the fixed demand, and the marginal unit will earn 
+revenue just sufficient to cover its costs. 
+ 
+Clearly, the large tankers have the lowest cost structure, followed 
+by the medium tankers and finally the small tankers. The large 
+tankers can supply 400  units  of  oil  transportation  services,  the 
+medium tankers 200 units, and the small tankers 100 units. 
+ 
+If demand is fixed at 500 units, then medium tankers will be     the 
+marginal capacity, and we can say directly that the market- 
+clearing price will be just sufficient to cover the costs of operating 
+such tankers. So my tanker has no value (or, alternatively, scrap 
+value only). 
+For completeness, the market-clearing price will be $37,500 per 
+unit. Large tankers, all of which will be employed, will earn profits 
+of $50,000 per year and be worth $500,000. Half of medium 
+tankers will be employed at rates that just cover their costs, while 
+the other half sit idle. Finally, small tankers will not have costs low 
+enough to enter the market and will also be worth zero or scrap 
+value only. 
+ 
+If demand is instead fixed at 650 units, the small tankers will be 
+the marginal capacity and medium tankers will earn profits and 
+have positive value. The equilibrium price will now rise to $50,000 
+per unit. Medium tankers will earn $25,000 per year and be worth 
+$250,000; large tankers will earn $100,000 per year and be worth 
+$1,000,000. 
+ 
+Step 4: Discussion 
+This case is a business problem that at its core is a relatively 
+simple problem in microeconomics. 
+ 
+Students need not get all the way to a numerical answer for the 
+value of the tanker, and few should be expected to give both 
+answers depending on demand assumptions. Nevertheless, 
+students should first demonstrate a good conceptual framework 
+for determining the tanker’s value, and be reasonably creative 
+about asking for the right kind of data to get at least part way     to 
+the solution. 
+ 
+Note that both the revenue and cost side of the problem need    to 
+be understood in order to reach a valuation. 

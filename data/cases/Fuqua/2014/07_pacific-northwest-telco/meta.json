@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2014_07_pacific-northwest-telco",
+  "school": "Fuqua",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2014.pdf",
+  "idx": 7,
+  "case_name": "Pacific Northwest Telco",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Telecommunications",
+  "difficulty": null,
+  "pdf_page_start": 78,
+  "pdf_page_end": 84,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    80,
+    81,
+    82,
+    83
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p080.png",
+    "exhibits/exhibit_p081.png",
+    "exhibits/exhibit_p082.png",
+    "exhibits/exhibit_p083.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2014\\07_pacific-northwest-telco"
+}

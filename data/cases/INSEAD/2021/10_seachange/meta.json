@@ -1,0 +1,26 @@
+{
+  "case_id": "INSEAD_2021_10_seachange",
+  "school": "INSEAD",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2021.pdf",
+  "idx": 10,
+  "case_name": "Seachange",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Tourism & Leisure",
+  "difficulty": null,
+  "pdf_page_start": 105,
+  "pdf_page_end": 111,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    107,
+    110,
+    111
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p107.png",
+    "exhibits/exhibit_p110.png",
+    "exhibits/exhibit_p111.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2021\\10_seachange"
+}

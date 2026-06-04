@@ -1,0 +1,201 @@
+===== PDF p103 =====
+Case 8: SunFury (1/7)
+Tell me about a time when you had to
+give a team member unpleasant 
+feedback. How did you approach the
+situation? What would you do
+differently?
+What’s the hardest feedback you’ve
+received? How did you take it?
+Keys to the case
+−The residential solar market is a huge
+potential market that has only been
+partially tapped
+−Competition is very fierce, as many 
+different players are trying to compete.
+−Market is unprofitable without ITC, and
+SunFury cannot recoup investment
+costs in time.
+Recommendation is that SunFury allocate 
+resources to utility projects.
+Our client, SunFury, is a publically traded solar developer and the largest builder of
+utility scale solar projects across the US. They have experienced incredible growth
+over the last 6 years, due largely to the rapidly falling solar module prices from China
+and the consistent US tax credit for solar projects. In 2017 the Solar Investment Tax
+Credit (ITC) will drop from 30% for all solar to 10% for utility and 0% for residential,
+forcing the industry to compete more closely with cheap coal and natural gas.
+It is August 2015, and SunFury has decided to expand their operations into the 
+residential arena to better capture the ITC while it still exists. They have asked us to
+(1) estimate the potential value at stake, and (2) determine whether they should go
+ahead with their residential launch in 2016.
+Fit question #1
+Fit question #2
+Case Overview
+Interviewer Guide
+Case Prompt
+-
+Interview style: Interviewer-led
+-
+Difficulty Level: Medium
+-
+Case type: Market entry
+-
+Industry: Energy
+-
+Concepts tested: market sizing, 
+strategy analysis
+
+
+===== PDF p104 =====
+Case 8: SunFury (2/7)
+Good candidate:
+Understands that this is a market sizing
+and requires no prompting
+Makes reasonable assumptions about
+home ownership and population density
+Understands what information they will
+need to answer the question as it comes
+up
+Better candidate:
+Lays out the steps to the problem in 
+advance; knows how they will get to a
+number and the information they need
+before they start
+Reads the footnotes to find out the solar
+cutoff is >5 kWh/m2/day
+TASK: Estimate number of homes in the US that have suitable roofs
+a) Assume 320M people in US and (80-100M)families
+b) Assume (40-80%) of families live single or multi-family domiciles (homes),
+and that others live in large apartment complexes, mobile homes, etc (not
+suitable for solar)
+Things they should then ask:
+1. “Can we build solar everywherein the US?” (GIVE HANDOUT 1, NEXT PAGE)
+a) Follow on question should be “Ok, what is population density?” or some 
+deviation thereof (GIVE HANDOUT 2, NEXT PAGE)
+b) Based on 2 handouts, acceptable estimates of population living in solar 
+radiation zones >5kWh/m2/dayis between 30-50% (CA+TX is 80M)
+c) This yields a PAM of (9.5-40Mhomes)(Give 15M once math is complete)
+2. “How many homes alreadyhave solar?”Can assume 20-50%, then provide
+40%
+a.) This means the TAM is 9M homes
+If candidategets stuck at any point, or work at this question passes 10 minutes, 
+provide 9 million homes as the answer and move to question 2.
+Interviewer Guide
+Market Sizing
+“Given that SunFury is targeting US residential solar, how
+many homes can we target?”
+QUESTION
+If candidate starts to make a framework, 
+redirect them to answer the question
+
+
+===== PDF p105 =====
+Case 8: SunFury: Handout 1 (3/7)
+Footnote:
+(1) SOURCE: National Renewable Energy Laboratory (NREL) 1961-1990
+(2) Expert analysis has shown that residential solar with SunFury™solar panels is profitable when kWh/m2/day is >5 on an annualized basis
+101
+For 
+candidate
+
+
+===== PDF p106 =====
+Case 8: SunFury: Handout 2 (4/7)
+Footnote:
+(1) SOURCE: US Census Bureau
+For 
+candidate
+
+
+===== PDF p107 =====
+Case 8: SunFury (5/7)
+Good candidate:
+Given the prompting, lays out the rough structure
+in advance
+Knows the information they need at each point in
+the process
+Does math correctly and quickly
+Better candidate:
+Lays out the correct structure in advance and
+knows therefore knows what information they
+need before they begin the math
+Quickly realizes that the size of the roof and the
+size of the panels aren’t perfectlydivisible, and 
+therefore need to be calculated by row x column
+Candidate should understand they will need to find the number of panels per
+home, which requires knowing:
+1.
+Size of average roof:
+a) “The average American home is single story, and roughly 1600sqft”
+b) 1600sqft means that there is 40’x40’ of roof
+2. Size of the SunFury solar panel: “Each solar panel is 2m x 3m”
+3.
+Numberof panels that can fit on a roof:
+a) The panel can be estimated to be 6’x9’, which yields 54sqft/panel (55’ OK)
+b) This means that 1600’/55’= ~29 panels COULD fit on the roof
+Note: A great candidate will recognize that you can’t fit panels extending over 
+the edge of the roof, so you can really only fit 6 wide (roof is 40’ wide, so 6 
+panels at 6’ is 36’) and 4 panels tall.
+The number of panels/home is therefore 6*4=24 panels (tell them to round to
+25) The final number of panels SunFury could potentially sell is 225M panels
+Help candidatealong if needed;if timeon this question passes 10 minutes
+with no endpointin sight, give them assumptionsas necessary to reach 225M
+panels
+Interviewer Guide
+Market Sizing
+“The client would like to know how many solar 
+panels they could sell based on your estimate of 
+9M homes. How would you structure this 
+problem?”
+QUESTION
+225M panels: critical information is provided below in bold
+ANSWER
+
+
+===== PDF p108 =====
+Case 8: SunFury (6/7)
+Good candidate:
+Creates a framework that catches the major
+levers and risks
+Determines the profit that SunFury could
+capture based on Profit Tree
+Comes to the conclusion competition will drive
+down market share to <10%
+Notices the initial negative profit, and recalls
+the ITC without prompting
+Better candidate:
+Looks back to their notes and remembers that
+the ITC goes away in one year
+Comes to the conclusion that the upper
+bounds are not profitable
+Interviewer Guide
+“The client is excited, and wants to launch 
+immediately. What information do you still need
+to recommend that SunFury move into 
+residential solar?”
+QUESTION
+Suggested frameworks and sequence of events
+Expect the candidate to make a framework that covers the relevant information
+ANSWER
+
+
+===== PDF p109 =====
+Case 8: SunFury (7/7)
+(GOOD) SunFury should not enter the
+residential market.
+(BETTER) SunFury should instead focus on
+locking in and completing utility projects before 
+the ITC lowers by 20%, reducing their profit
+margin significantly.
+Recommendation
+As appropriate to case outcome
+Risks
+The fierce competition reduces market share 
+available to <20%
+Duration of ITC is only one year from launch 
+date
+Startup costs make this an unprofitable 
+endeavor
+Rationale
+As appropriate to case outcome
+Next steps

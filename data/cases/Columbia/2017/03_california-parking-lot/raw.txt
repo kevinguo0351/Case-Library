@@ -1,0 +1,198 @@
+===== PDF p46 =====
+Case # 3 - California Parking Lot
+Your client is a local municipality in California. The town recently built a complex of six parking lots, 
+encircling a nearby community center and outdoor mall, which features shopping, restaurants, and some 
+light attractions. In total there are 20,000 parking spots in these lots. Our client wants to maximize the 
+profit it generates from the parking lots, with a focus on revenue. Help our client think through the issue -
+how could you think about different types of pricing structures and revenue models for the parking lots?
+Problem Statement Narrative
+Case #3: California Parking Lot
+Case has a lot of brainstorming and requires interviewee to remain structured and organized throughout 
+every step of brainstorming.
+Case Notes
+Industry: 
+Public Services
+Case Type: 
+Market Entry
+Firm:
+BCG
+• Brainstorming
+• Mental math
+• Revenue & Utilization
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Medium
+Medium
+42
+
+
+===== PDF p47 =====
+Sample Framework
+Candidate can run a pros/cons analysis, cost / 
+revenue analysis, or any type of analysis to go 
+through the different options she/he comes up 
+with, such as:
+•
+Daily/Hourly vs. Monthly Passes; 
+•
+Valet and Self-Parking; 
+•
+Validation model (store “validates” parking for 
+customers)
+•
+Higher prices for spots nearer to the stores and 
+lower prices for spots further away
+Sample Framework
+•
+Main idea is how to best monetize the parking 
+lot
+•
+Framework should be based on brainstorming 
+but remain as structured as possible
+Guidance for Interviewer
+•
+All additional information will be given in 
+exhibit (see question 1)
+Clarification Answers if Asked 
+43
+Case # 3 - California Parking Lot
+
+
+===== PDF p48 =====
+Question #1
+Give Exhibit 1. Have candidate walk through the Exhibit. Then ask candidate to calculate the revenue the 
+parking lots generate per day.
+Question #1
+Solution
+Tourists / Shoppers
+Quantity
+Hours
+Daily Revenue
+3 Hour Tourists
+4,500 
+13,500 
+27,000 
+5+ Hour Tourists
+1,500 
+7,500 
+15,000 
+Total
+6,000 
+21,000 
+42,000 
+Quantity
+Permit Revenue
+Daily Revenue
+Store Owners
+1,000 
+240,000 
+8,000 
+Total Revenue:
+50,000 
+44
+Case # 3 - California Parking Lot
+
+
+===== PDF p49 =====
+Question #2
+Is there a way we could generate revenue from someone other than the people actually parking their cars? 
+Let candidate brainstorm here. 
+If we move to a store validation model, in which a store validated the ticket of any customer that bought an 
+item, the spots taken would increase to 10,000 and the cost per validation would be $5 to the store. Assume 
+every person parking a car would purchase an item. The number of permits would drop to 750. What would 
+be the impact on daily revenue?
+Question #2
+Solution
+Sample Solution
+Tourist / Shopper Revenue10,000 spots x $5 per spot = $50,000; $8,000 increase in Tourist / 
+Shopper Revenue
+Store Owner Revenue750 permits x $240 / 30 days = $6,000; $2,000 decrease in Store 
+Owner Revenue
+Total Change in Revenue$8,000 increase in tourist revenue - $2,000 decrease in Store Owner 
+Revenue = $6,000 increase in revenue
+45
+Case # 3 - California Parking Lot
+
+
+===== PDF p50 =====
+Question #3
+Do you see any risks to a validation pricing model? Do you think you're likely to run into any resistance? 
+From which types of stores and why?
+Question #3
+Solution
+Stores with high margins and high profits per transaction (like Tiffany & Co.) would be fine with paying this 
+$5 flat fee. Stores with low margins and low profit dollars per transaction (like an ice cream store) would 
+likely lose money on every sale they make because all of their profits would be eaten up by the $5 validation 
+fee.
+46
+Case # 3 - California Parking Lot
+
+
+===== PDF p51 =====
+Question #4
+How else could you structure a validation model in order to get less pushback?
+Question #4
+Solution
+Instead of charging each store a $5 fee per validation, charge each store a validation fee that is equal to a 
+percentage of the transaction, or a percentage of the profit on each transaction.
+47
+Case # 3 - California Parking Lot
+
+
+===== PDF p52 =====
+Question #5
+How else could we monetize the excess parking spaces?
+Question #5
+Solution
+Concerts, street fair, roller hockey rinks, rent out the extra parking spaces to large sporting events like the 
+U.S. open. Use it for commuter parking and have buses pick up commuters in the parking lots.
+48
+Case # 3 - California Parking Lot
+
+
+===== PDF p53 =====
+Conclusion
+• Validation model can increase revenue generated 
+by the parking lot
+• The utilization of the parking lot will increase 
+and the municipality will enjoy a steady revenue 
+stream from the stores
+Rationale
+• Move to validation model for parking lot
+Recommendation
+• Negotiate accepted validation model with store 
+owners
+• Run analysis to find best validation model in 
+terms of revenue vs store push-back (flat fee, 
+percentage of transaction etc.)
+Next Steps
+• Push back from store owners 
+Risks
+49
+Case # 3 - California Parking Lot
+
+
+===== PDF p54 =====
+Exhibit #1
+Rate
+Occupancy
+Tourists / 
+Shoppers
+$2 / hour
+$10 maximum
+30% total 
+occupancy
+75% park for less 
+than 5 hours, 
+average 3 hours
+25% park for 5 
+hours or more
+Store Owners
+$240 / month
+5% occupancy for 
+permits
+California Parking Lot
+50

@@ -1,0 +1,407 @@
+===== PDF p202 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+198
+Is Teleconferencing a Good Call?
+Author: Yang Liu, Wilson Keng (Stern ‘20)
+Case Style: Interviewer-Led
+Difficulty: Hard
+Case Overview:
+Industry: Financial Services
+Case Type: IT, Cost Analysis
+Concepts Tested:
+•
+Exhibits
+•
+Brainstorming
+•
+Structured Math
+Overview Information for Interviewer:
+•
+This case will be interviewer-led. It will assess candidates on 
+three-key areas:
+•
+Ability to think creatively on data requests to 
+approach the case
+•
+Cost/Benefit analysis of a major capital expenditure
+•
+Brainstorming qualitative factors of a buying decision
+Case Prompt: 
+Your client is a national wealth management firm within a larger bank. The current CIO has created a test 
+pilot of a cutting-edge virtual conferencing software in the NYC office. The firm currently employs many 
+Wealth Advisors who meet clients at satellite offices around the country and is deciding whether to roll-out 
+this software across all locations. The aim is to reduce Advisor travel costs, which is currently borne by the 
+firm, at cost. How should the client proceed?
+
+
+===== PDF p203 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+199
+Is Teleconferencing a Good Call?: Case Guide
+Clarifying Information: 
+Interviewer Guide: 
+•
+Time Frame: As soon as possible
+•
+Purpose: Assess whether or not Teleconferencing 
+should be used by Wealth Advisors in lieu of traveling 
+to meet new/current clients at satellite offices
+•
+Geography: US Only. All Advisors are located in 
+NYC, Houston, Chicago, and San Francisco. Satellite 
+offices are scattered throughout the Midwest and 
+southern United States, which require extensive, 
+frequent travel to meet current and prospective clients
+•
+Current State: Primarily via in-person meetings. 
+Occasionally phone and email. There is no virtual 
+conferencing in use, with the exception of the test pilot 
+(which was implemented 6 months ago)
+•
+Technology: The virtual conferencing allows for 
+instant messaging, video chatting, screen share/share 
+control, conference calling, and call forwarding to a 
+mobile phone
+•
+Goal: The goal is to reduce costs; revenue growth is 
+not in scope
+•
+Competitors: Unknown
+•
+A Good Framework Will Include:
+o
+A focus on cost factor comparisons 
+between travel and 
+implementing/operating 
+teleconferencing system at all 
+locations
+o
+Opportunity costs of investment in 
+teleconferencing
+o
+Alternative options, such as 1) outside 
+vendors 2) hybrid models 3) 
+restructuring travel reimbursement 
+scheme 4) benefits and disadvantages 
+of relocating advisors to satellite 
+offices
+•
+An Excellent Framework Will Include:
+o
+Qualitative Factors: 1) impact on client 
+experience 2) headcount reduction 
+among advisors post implementation 
+3) confidentiality or compliance 
+concerns regarding recorded 
+conversations and complaints
+
+
+===== PDF p204 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+200
+Is Teleconferencing a Good Call?: Question 1
+Question #1: 
+Notes to Interviewer: 
+•
+This is a brainstorming exercise to guide the interviewee towards asking for the exhibits you have on 
+hand
+•
+Good answers would consider the use cases of the software, cost to implement, current office 
+locations, current capital expenditures being planned, and available budget
+•
+Examples of data requests include:
+•
+Current organization structure of the firm
+•
+Employee handbook / standard operating procedures (SOP) to conduct sales calls and 
+meetings
+•
+Current costs incurred for employee travel [Exhibit 1]
+•
+Location of offices in the United States
+•
+List of any current or planned capital expenditures
+•
+Current and/or next year’s IT budget
+•
+Employee and/or customer satisfaction surveys
+•
+Cost of teleconferencing software being considered [Exhibit 2]
+What would you include in your data request to address this problem? 
+
+
+===== PDF p205 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+201
+Is Teleconferencing a Good Call?: Question 2
+Question #2: 
+Notes to Interviewer: 
+•
+Remind the interviewee to read the footnote, if needed
+•
+Conclusion to draw is that each employee costs ~$1.3 million in travel (rounding is fine). This cost is driven 
+primarily by cities where employees need to travel more frequently (SF and Chicago), despite equivalent 
+M&E (meals & entertainment) and roughly similar travel costs. This may imply a strong need for 
+teleconferencing to minimize costs and travel burden on the Advisors
+•
+How much is spent on travel per year?
+•
+On average, how much travel cost does each employee incur per year?
+•
+What insights can you draw?
+City
+Average No. of Trips 
+per week
+Number of Weeks 
+Traveled per Year
+Total Cost per Round-Trip
+M&E Cost per Trip
+# of Advisors
+Total Cost (Annualized)
+New York
+2
+10
+$600
+$50
+10
+$ 6,000,000 
+Houston
+2
+25
+$500
+$40
+5
+$ 5,000,000
+San Francisco
+3
+20
+$700
+$50
+10
+$ 21,000,000
+Chicago
+3
+30
+$600
+$30
+10
+$ 16,200,000
+Total
+35
+$ 48,200,000
+
+
+===== PDF p206 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+202
+Is Teleconferencing a Good Call?: Exhibit 1
+Travel Cost per Advisor
+As of 5/1/2019, the number of Advisors: NY (10); Houston (5); SF (10); Chicago (10)
+City
+Average No. 
+of Trips per 
+week
+Number of Weeks 
+Traveled per Year
+Total Cost per 
+Round-Trip
+M&E Cost per Trip
+New York
+2
+10
+$600 
+$50 
+Houston
+2
+25
+$500 
+$40 
+San 
+Francisco
+3
+20
+$700 
+$50 
+Chicago
+3
+30
+$600
+$30 
+
+
+===== PDF p207 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+203
+Is Teleconferencing a Good Call?: Question 3
+Question #3: 
+Notes to Interviewer: 
+•
+If prompted, assume the teleconferencing solution will reduce travel expenses by 10% ($4,820,000)
+•
+If needed, remind the interviewee that the below are figures per month
+•
+Interviewee does not need to calculate payback exactly; the main insight is that both are very close
+•
+Inter-company billing is still considered a cost to the department and should be included
+•
+A strong candidate will notice that the Outside Vendor and the Build In-House options have the same 
+monthly cost and can avoid calculating the run-rate more than once
+•
+What is the annual cost of each solution?
+•
+How long will each solution take to reach break-even?
+•
+How much would each solution save in travel costs annually?
+Options
+Dev. 
+Cost
+Implementatio
+n Cost
+Monthly 
+Maint. 
+Cost / 
+User
+Monthly 
+Subscripti
+on Cost / 
+User
+No. of 
+Advisors
+Annual 
+Run-Rate 
+Cost
+Travel 
+Savings 
+per Year
+Break-
+Even
+Outside Vendor
+-
+$11,000,000 
+-
+$2,000 
+35
+$840,000
+$3,980,000
+~2.8 Months
+Build In-House
+$500,000 
+$8,500,000 
+$1,500 
+$5001
+35
+$840,000
+$3,980,000
+~2.1 Months
+Note: Run-Rate cost is Monthly Cost * Number of Advisors * 12 Months
+Note: Break-even is calculated by Implementation Cost / Travel Savings per Year
+
+
+===== PDF p208 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+204
+Is Teleconferencing a Good Call?: Exhibit 2
+Cost Comparisons: Outside Vendor vs. Build In-House
+1 – Inter-company billing
+Options
+Developm
+ent Cost
+Implementa
+tion Cost
+Monthly 
+Maint. 
+Cost / 
+User
+Monthly 
+Subscript
+ion Cost / 
+User
+Travel 
+Savings 
+per Year
+Break-
+Even
+Outside Vendor
+-
+$11,000,000 
+-
+$2,000 
+NA
+NA
+Build In-House
+$500,000 
+$8,500,000 
+$1,500 
+$5001
+NA
+NA
+
+
+===== PDF p209 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+205
+Is Teleconferencing a Good Call?: Question 4
+Question #4: 
+Notes to Interviewer: 
+•
+Provide an expansion upon any qualitative factors previously mentioned in the framework; instruct 
+the candidate to brainstorm and group factors into buckets if they did not already do previously
+•
+Candidate can mention compliance issues regarding telecommunication, cybersecurity concerns, 
+negative impact on client experience, additional training required, large upfront investment required, 
+and the potential impact on each Advisor’s relationship with clients via virtual conferencing
+•
+An excellent candidate would have covered these factors earlier and can move forward with 
+recommendations
+•
+It is recommended that the interviewer push the interviewee to choose one option and defend. The 
+payback period is essentially equivalent, so financials are not the main reason to choose over the 
+other
+What other factors should we consider before making a decision?
+
+
+===== PDF p210 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+206
+Is Teleconferencing a Good Call?: Recommendation
+Recommendation:
+•
+It is not clear which option is 
+the better choice due to 
+similar payback periods
+•
+Pro/Con of Vendor: Less 
+internal manpower needed to 
+maintain, but more 
+expensive subscription cost
+•
+Pro/Con of In-House: 
+Customized solutions and 
+control of design, but more 
+manpower needed to 
+maintain (especially across 
+multiple offices)
+Bonus: Guide to an excellent case
+•
+An excellent candidate will find shortcuts in the mental math required. The candidate should notice that 
+neither solution is a clear choice and will need to discuss the qualitative factors of pros/cons before 
+deciding which software to implement
+Risks:
+•
+Potential impact on Advisor 
+relationships with clients
+•
+Cybersecurity concerns
+•
+Large upfront investment 
+required
+Next Steps:
+•
+Conduct employee and 
+customer studies to 
+understand the impact of the 
+recommendation
+•
+Better understand in-house 
+capabilities vs. an outside 
+vendor’s

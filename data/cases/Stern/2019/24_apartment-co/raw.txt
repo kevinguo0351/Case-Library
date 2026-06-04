@@ -1,0 +1,414 @@
+===== PDF p230 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Apartment Co.
+Authors: John Malfetano (Stern ‘20), Andrea Monzón (Stern ‘20), Hart Zeitler (Stern ‘20)
+Firm Style & Round: Deloitte Round 1
+Difficulty: 
+Hard
+Case Overview:
+Industry: Real Estate
+Case Type: Profitability
+Concepts Tested:
+•
+Sustainability 
+•
+Investment Decision
+•
+Cost reduction
+Overview Information for Interviewer:
+•
+This case prompt is modeled after a Deloitte case, and is meant to put 
+the candidate out of their comfort zone.
+•
+This case will test the candidate’s ability to quickly process a large 
+volume of information while paying little attention to superfluous details
+•
+The case will will test three concepts:
+○
+Profitability
+○
+Ability to effectively brainstorm
+○
+Investment Decisions
+Case Prompt: 
+Apartment Co is a residential real estate company that owns and operates 10 buildings throughout three different boroughs within New York. The 
+buildings were built between 1975 and 1990 and have been under Apartment Co.’s management. since that time. Apartment Co. prides itself on offering 
+affordable, quality apartments for everyday New Yorkers. The only permanent staff in Apartment Co.’s buildings are the doormen. The company operates 
+leasing from their central location in Manhattan, and has contracted with a maintenance service, which will be up for renegotiation soon.
+Over the last three years, Apartment Co has decided to invest $5M in its infrastructure with the hope of commanding higher apartment rent prices. The 
+company has upgraded many of its apartment unit amenities, including kitchen appliances, bathroom fixtures, and flooring. These improvements have 
+yielded high renter demand as well as increased rent prices. Recently, half of Apartment Co.’s buildings added washers and dryers in the basement; the 
+remaining buildings have no laundry facilities. Even in light of these changes, however, management has not seen the increase in profitability it was 
+hoping for.
+Apartment co has asked your team to assess ways to achieve higher long-term profitability.
+226
+
+
+===== PDF p231 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Apartment Co: Case Guide
+Clarifying Information: 
+•
+The company’s sole revenue 
+source is tenant rent (other 
+sources like vending machines 
+and laundry machines are 
+negligible)
+•
+50 Units per building
+•
+5 Buildings are in Manhattan, 3 in 
+Brooklyn, and 2 in Queens
+•
+All buildings under management 
+are fully owned (e.g. no 
+outstanding loans) 
+•
+The company contracts a staff of 
+30 to maintain the apartment 
+complexes
+•
+There have been no recent 
+additions to their real estate 
+portfolio.
+•
+Tenants are mostly young working 
+professionals
+Interviewer Guide: 
+•
+A Good Framework Will:
+o
+Discuss all aspects of profitability: 
+o
+Revenue: Occupancy rates, rent prices, yearly rent 
+increase rates
+o
+Costs:
+▪
+VC: Utilities (electricity, gas, water), 
+amenities, hourly labor, maintenance, 
+▪
+FC: management team, insurance, property 
+tax
+o
+External Factors: Competing prices in the market, is 
+profitability declining in the market as a whole
+•
+Necessary Information that should be given only when 
+specifically asked for by interviewee: 
+o
+The focus is on long-term profitability (not necessarily 
+immediate profitability turn-around)
+▪
+Expenditures in the short-term must equate to long-
+term profitability increase
+NOTE: After profitability framework, candidate should ask for 
+financial data - provide with Exhibit 1 to 5 
+227
+
+
+===== PDF p232 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Apartment Co.: Brainstorm
+Question #1: 
+Transition to Brainstorm once candidate begins questioning utility costs:
+Reveal to candidate that beginning in 2017, management decided to pay for utilities as part of the rental lease agreement 
+in order to be competitive in the marketplace.
+QUESTION: What are some ways that Apartment Co. can reduce their utilities expense?
+Notes to Interviewer: 
+•
+Brainstorm should be simple but bucketed into logical categories. Examples include:
+•
+Demand vs Supply Side: 
+■
+DS: Encourage turning AC off; Turn lights off
+■
+SS: Building upgrades, solar paneling, automatic on/off, more efficient 
+lighting
+•
+Water, Gas and Electricity reduction strategies
+Once candidate identifies either efficient lighting and/or solar paneling as potential options, 
+proceed with investment scenarios for each (Next Slide). If candidate does not suggest either of 
+these options, prompt them until they do. 
+Great brainstorm goes above and beyond basic solutions. Gives creative solutions to the above (i.e. 
+rewards for people with least energy consumption)
+228
+
+
+===== PDF p233 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Apartment Co: Math Question #1
+Investment Decision 1: Energy Efficient Lighting
+Math Solution: 
+Math Information
+(Provide Verbally):
+Annual Energy Savings:
+●
+Killowatt Hours Saved/Bulb: 100
+●
+Killowatt Hours Saved Total (100 x 50,000 bulbs): 5,000,000
+●
+$/Killowatt Hour Saved (From exhibit 2): $0.15
+Total Annual Savings:  5,000,000 kWh x $0.15/kWh: $750,000
+Installation Cost:
+●
+Cost to Install: $30/bulb
+●
+# of Bulbs (5,000 bulbs/bldg x 10 bldgs): 50,000 bulbs
+Total Cost: $30/bulb x 50,000 bulbs: $1,500,000
+Note, the candidate should quickly realize the breakeven point for this 
+investment is two years, with annual savings of $750K for 8 years (assuming 10 
+year bulb lifespan)
+Installation Cost: $30/bulb 
+# of Bulbs/Bldg: 5,000
+# Killowatt Hours (kWh) 
+saved/bulb: 100
+Savings Calculation (offer if 
+candidate struggling): 
+$/kwh (per exhibit 2) x # of 
+kWh saved
+Avg. LED bulb lifespan:
+10 years 
+Next Question (read to candidate): After further review, we have determined that the two most attractive electricity 
+reduction strategies are installing more energy efficient lighting and installing solar paneling. Evaluate these two options.
+Candidate should request information necessary to determine which option is best. 
+229
+
+
+===== PDF p234 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Apartment Co: Math Question #2
+Investment Decision 2: Solar Panels
+If running out of time, ask candidate to present formula to calculate the solar panels payback and then provide answer.
+Math Solution: 
+Math Information:
+(Provide Verbally)
+Annual Energy Savings:
+●
+Kilowatt Hours Saved/per square foot of solar panel  = 400
+●
+Kilowatt Hours Saved Total (400 x 16,000 square feet): 6,400,000
+●
+$/Kilowatt Hour Saved (From exhibit 2): $0.15
+Total Annual Savings:  6,400,000 kWh x $0.15/kWh: $960,000
+Installation Cost:
+●
+Installation Cost: $200 X $1,600 X 10 buildings
+Total Cost: $3,200,000
+Note, the candidate should quickly realize the breakeven point for this 
+investment is about three years, with annual savings of $960K for 17 years 
+(assuming 20 year life span)
+Installation Cost: $200/per 
+square foot (all-in maintenance 
+and labor cost)
+Usable Area of Roofs = 40 ft 
+W X 40 ft L = 1,600 Sq ft
+# Kilowatt Hours (kWh) 
+saved/sq foot of panel: 400
+Avg. Solar Panel lifespan: 20 
+years
+230
+
+
+===== PDF p235 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Apartment Co.: Recommendation
+Recommendation:
+•
+There are many possible 
+recommendations, the candidate 
+should pick one and support it with 
+data from the case. Options include:
+•
+Install solar panels (greatest 
+savings per year, more savings 
+overall, tax benefits)
+•
+Install light bulbs (quick payback, 
+lower cost)
+•
+Do both (candidate notes strong 
+cash financial condition allows for 
+both)
+•
+Do nothing (candidate shows total 
+savings are not high enough to 
+justify risk)
+Bonus: Guide to an excellent case
+•
+A great candidate will be able to focus on the important information given and be able to quickly identify that utilities 
+are main cause for cost reduction (depreciation is due to recent amenities investment).
+•
+A great candidate will be able to creatively think about the risks and benefits  associated with both investments:
+○
+Solar panels: state/federal subsidies, government regulation
+○
+Lighting: residents breaking/replacing bulbs
+Risks:
+•
+Volatile energy prices
+•
+High upfront costs
+•
+Fickle consumer tastes
+•
+Opportunity costs: where else can 
+the building make an investment 
+with this money?
+•
+Tenants pilfering bulbs given high 
+cost 
+Next Steps:
+•
+Research solar panel providers, 
+light-bulb providers
+•
+Secure subcontractor partners to 
+install paneling and/or lighting 
+installation
+•
+Pilot in one building to ensure 
+savings calculations are as 
+expected
+231
+
+
+===== PDF p236 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Exhibit #1: Apartment Co. Financials
+In ‘000s
+2016
+2017
+2018
+Revenues:
+Tenant Rent
+17,000
+20,000
+20,500
+Costs:
+Property Management
+5,000
+5,300
+5,400
+Repair and Maintenance
+2,000
+2,000
+2,100
+Property Taxes
+800
+800
+800
+Occupancy (Utilities, Insurance)
+1,200
+1,900
+2,000
+Depreciation
+300
+1,000
+1,000
+Total Costs: 
+9,300
+11,100
+11,600
+232
+
+
+===== PDF p237 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+233
+Exhibit #2: Apartment Co.
+$0.08 
+$0.14 
+$0.15 
+$0.07 
+$0.09 
+$0.21 
+$0.12 
+$0.08 
+$0.15 
+ $-
+ $0.05
+ $0.10
+ $0.15
+ $0.20
+ $0.25
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Historic Electricity Rates (in $/kWh)
+Historic Electricity Rates (in $/kWh)
+
+
+===== PDF p238 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+234
+ $-
+ $10.00
+ $20.00
+ $30.00
+ $40.00
+ $50.00
+ $60.00
+2016
+2017
+2018
+Avg. Monthly Apartment Spend on Utilities
+Gas
+Water
+Exhibit #3: Apartment Co.
+
+
+===== PDF p239 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+235
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2
+5
+10
+20
+30+
+Real estate management salaries (2017)
+Avg. management salary
+Avg. annual raise
+Exhibit #4: Apartment Co.
+Note: The average salary for Apartment Co Management is $67K/year
+
+
+===== PDF p240 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+236
+Exhibit #5: Apartment Co.
+5%
+10%
+15%
+50%
+20%
+Income level of residents
+<$25K
+$25K-$50K
+$50K-$75K
+$75K-$100K
+$100K+

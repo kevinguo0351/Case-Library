@@ -1,0 +1,177 @@
+===== PDF p88 =====
+Echo Yankee Games
+The client, Echo Yankee Games, has approached the firm to help them boost profitability. EYG is a mobile gaming 
+development agency that makes game applications for the iOS and Android platforms and has four genre of games: Trivia, 
+Action, Puzzle, and Word games. In the last few years, they have done well financially, but still want to increase 
+profitability. What should they consider?
+Problem Statement Narrative
+Difficulty: Easy
+Industry: Technology
+Case Type: Profitability
+Concepts Tested
+Case #3 : Echo Yankee Games
+This is a simple case that is meant to test comfortability with mental math
+It is entirely interviewer-led
+Case Notes
+• Pricing strategy
+• Mental math
+• Actual math
+84
+
+
+===== PDF p89 =====
+Echo Yankee Games
+1.
+Revenue
+a.
+Number of users
+i.
+Core Demo - kids
+ii.
+Growth/trends
+b.
+Price per user
+i.
+In-app purchases
+ii.
+App downloads
+c.
+Product mix / high performers
+i.
+Action
+ii.
+Trivia
+iii.
+Puzzle
+iv.
+Word
+2.
+Costs
+a.
+Fixed
+i.
+Development
+ii.
+Marketing
+b.
+Variable
+i.
+Server costs
+3.
+Overall market
+a.
+Competitive landscape / response
+b.
+Benchmarks
+Sample Framework
+The framework doesn’t really matter for the case but 
+should at least reflect some knowledge of profitability and 
+specificity to the mobile game industry
+Guidance for Interviewer
+•
+EYG is US based.
+•
+Market is extremely fragmented with no clear leaders
+•
+There is no specific revenue / cost target
+•
+Revenue from two streams:
+•
+In-app Purchases
+•
+Downloads
+Clarification Answers if  Asked 
+Question #1 / Framework 
+What should Echo Yankee Games consider to improve their profitability ?
+85
+
+
+===== PDF p90 =====
+EYG’s current profit margins by game genre are Trivia 10%, Action 20%, Puzzle 30%, and Word 20%. The CMO says that 
+by optimizing marketing efforts they can double the profit margins on any genre. By how much will EYG increase overall 
+profit margins if they double the profit margin of Trivia games?
+Echo Yankee Games
+Question #2
+Question
+Solution
+If asked, tell the candidate the following:
+•
+The user base will not decrease with the increase in profit margin
+•
+Category by percentage of current profit: Trivia 20%, Action 50%, Puzzle 20%, Word 10%
+Current Profit Margin: 20% = (10%*20%+20%*50%+30%*20%+20%*10)
+New Profit Margin: 22% = (20%*20%+20%*50%+30%*20%+20%*10)
+A great candidate will note that they would do better by increasing the profit margins on Action games, their most popular 
+genre
+Doubling Action games would see an increase in the company-wide profit margin from 20% to 30% overall
+86
+
+
+===== PDF p91 =====
+EYG has done some analysis and knows that to break even on developing an action game in one year they have to sell 40 
+thousand downloads. They know that their core demographic, children, primarily play in the summer break. On these high 
+volume days, a game is downloaded 300 times per day. During the school year, the app is downloaded 50 times per day.
+The app store is down for maintenance 65 days per year. How many high volume days in one year does Echo Yankee need 
+to break even on this action game? 
+Echo Yankee Games
+Question #3
+Question
+Solution
+Use algebra to solve a system of equations:
+Two Equations:
+40,000 = 300H + 50L
+300 = H + L
+Subtract H from both sides of 2nd equation to get: 300 – H = L
+Plug L into 1st equation to get: 40,000 = 300H + 50(300 – H) 
+Answer: H = 100 days
+Note: A strong caser will note the feasibility of this result. Are there 100 days in a summer for students? Many students 
+have a summer that is less than 90 days, so a new action game isn’t likely to break even in the first year
+87
+
+
+===== PDF p92 =====
+Echo Yankee’s marketing team has found that by placing ads for their games on other free-to-play games, they can acquire 
+each new user for $4.00. These users, on average, will spend $2.00 per year on in-game purchases. Should they use this 
+marketing campaign?
+Echo Yankee Games
+Question #4
+Question
+Solution
+Variable costs can be assumed to be zero; all $2 of revenue is profit
+If asked, CLV formula:
+CLV = m * ( r / ( 1 + i – r ) ) – AC
+Candidate must recognize that the retention, the discount rate for the CLV formula
+If asked, i = 10% and r = 55%
+Answer: No, the acquisition costs of campaign outweigh the absolute CLV by $2.00 per user. 
+The retention rate is too low
+Brainstorming session can be held for ways to improve retention rate
+Extra bonus: the retention rate must be greater than ~75% to break even on the campaign; probably don’t ask this unless 
+the candidate wants to try it
+88
+
+
+===== PDF p93 =====
+Echo Yankee Games
+Conclusion
+• Action games are 50% of all profits
+• Game will break even in 1 year and will be all profits 
+after that
+• Retention rate or per-user revenue is too low; or 
+acquisition costs are too high 
+Rationale
+• Focus on increasing profitability in Action genre and 
+develop the proposed new game; do not go ahead with 
+the marketing plan unless CLV can be raised
+Recommendation
+• Ensure dev team is on the path to success
+• Re-analyze assumption numbers and competition
+• Re-work marketing plan
+• Expand into other genres
+Next Steps
+• Many assumptions were made around expected users 
+and expected spend/user
+• Platforms change and development must pivot
+• Players can quickly lose interest in a game
+• Other market players
+Risks
+89

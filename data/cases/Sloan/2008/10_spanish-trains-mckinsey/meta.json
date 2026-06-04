@@ -1,0 +1,22 @@
+{
+  "case_id": "Sloan_2008_10_spanish-trains-mckinsey",
+  "school": "Sloan",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2008.pdf",
+  "idx": 10,
+  "case_name": "Spanish Trains (McKinsey)",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Transportation",
+  "difficulty": null,
+  "pdf_page_start": 88,
+  "pdf_page_end": 89,
+  "n_pages": 2,
+  "exhibit_pdf_pages": [
+    88
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p088.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2008\\10_spanish-trains-mckinsey"
+}

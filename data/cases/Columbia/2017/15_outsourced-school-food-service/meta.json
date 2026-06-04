@@ -1,0 +1,24 @@
+{
+  "case_id": "Columbia_2017_15_outsourced-school-food-service",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 15,
+  "case_name": "Outsourced School Food Service",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Education / Food Service",
+  "difficulty": null,
+  "pdf_page_start": 125,
+  "pdf_page_end": 129,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    127,
+    129
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p127.png",
+    "exhibits/exhibit_p129.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\15_outsourced-school-food-service"
+}

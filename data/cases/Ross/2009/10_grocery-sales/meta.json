@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2009_10_grocery-sales",
+  "school": "Ross",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2009.pdf",
+  "idx": 10,
+  "case_name": "Grocery Sales",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 53,
+  "pdf_page_end": 55,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    54
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p054.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2009\\10_grocery-sales"
+}

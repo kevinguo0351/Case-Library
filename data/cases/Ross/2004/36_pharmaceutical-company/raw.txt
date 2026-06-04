@@ -1,0 +1,82 @@
+===== PDF p85 =====
+Table of Contents 
+ 
+81
+Practice Case 36: Pharmaceutical company  
+(Booz Allen Hamilton - Round 1) 
+ 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+The client is a pharmaceutical company with manufacturing plants in 
+the US, Mexico and other locations. The client recently undertook a 
+benchmarking exercise. They observed that one particular plant had 
+very high per unit costs. 
+ 
+This plant produced only one type of drug in three different types of 
+packaging. This drug requires a unique manufacturing process. It is 
+an OTC drug. 
+ 
+The management is trying to figure out what is driving such high unit 
+costs and then what could be done about it. 
+ 
+II. Additional information provided after relevant questions:    
+ 
+General Information 
+• 
+Plant located in New Jersey. 
+• 
+Wage rates in New Jersey are higher by about 40% 
+• 
+Utilization in New Jersey plant is about 33% of capacity 
+ 
+Cost data for anomalous plant 
+ 
+Variable 
+• 
+Total cost is at least double of the other plants 
+• 
+Variable costs are estimated to be at least 40-50% higher. 
+• 
+Cost of direct labor was 40% higher than other plants 
+• 
+Worker productivity was comparable 
+• 
+Other costs (Direct material, administrative, transportation costs, 
+etc.) are comparable 
+Fixed 
+• 
+The plant utilization was 33% against an average of 70%. Cost 
+allocation used total fixed costs proportioned to the produced lot.  
+ 
+III. Sample answer:    
+ 
+The basic framework that I laid out initially wasñ  
+1. Cost structure of the anomaly plant and the other plants 
+2. Process specific questions 
+3. Capacity utilization 
+ 
+After figuring out that cost overruns were caused by labor and capacity 
+issues the interviewer pushed me for potential cost cutting solutions.   
+
+
+===== PDF p86 =====
+Table of Contents 
+ 
+82
+ 
+Possible solutions: 
+Manufacture other drugs on the same line 
+Not possible since the equipment is set up uniquely for this drug and other 
+drugs produced by company cannot be manufactured at this plant 
+ 
+Sell plant, outsource production to competitor 
+Interviewer said that the management was not in favor of this since they did 
+not want to lose control of manufacturing 
+ 
+Enter a joint venture with someone where they sell the plant but tie up close 
+to 40% of the capacity captive to their requirements in the contract. So unit 
+costs are lowered. 
+This, the interviewer told me, was what the company actually did. 
+  

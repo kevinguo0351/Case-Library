@@ -1,0 +1,299 @@
+===== PDF p257 =====
+Timeless Watches
+Your client is Timeless, one of the world’s largest and most successful watchmakers. Based in the U.S., they are renowned 
+for offering fashionable designs and quality craftsmanship at an accessible price. Timeless sells watches under several 
+different proprietary brand names and also has licenses to design watches on behalf of other popular fashion brands. 
+Timeless watches are sold in Timeless stores, in major department stores, online, and through other specialty retailers
+Timeless has noticed in the past few years that consumers have grown increasingly interested in “smart watches.” Timeless 
+currently makes only “traditional” watches, but they have been considering adding a smart watch line to their product 
+offerings. Timeless has hired your firm to help them analyze this opportunity
+Problem Statement Narrative
+Difficulty: Hard
+Industry: Fashion Retail / Tech
+Case Type: Market Entry
+• Market sizing
+• Creativity
+• Mental math
+Concepts Tested
+Case #28 : Timeless Watches
+This case should be interviewer-led. There is no specific goal for the market entry (gain x% of share, etc.). Encourage the 
+candidate to be creative throughout, but especially in question 3 and 4. The best interviews will pull together 
+considerations from the retail brand portfolio aspect and the tech aspect to build a well-rounded perspective on the 
+opportunities and risks of entering into the smart watch market
+Case Notes
+253
+
+
+===== PDF p258 =====
+Timeless Watches
+Question #1 / Framework 
+Should Timeless should enter the smart watch market?
+1.
+Market Size & Share
+a.
+What is the size of the US smart watch market?
+b.
+Is the market fragmented or consolidated, and do we 
+expect this to change over time? 
+c.
+Who are the main competitors? 
+2.
+Customers
+a.
+Who is Timeless’s current customer? Would they also 
+buy a smart watch? Potential cannibalization?
+b.
+Segmentation by use case (ex. fitness, work)
+3.
+Timeless’s Capabilities
+a.
+Does Timeless mgmt have the technical capabilities to 
+make this jump? What needs to be added?
+b.
+How would design & production change? 
+c.
+How can/should the Timeless brand be leveraged?
+d.
+Does Timeless have sufficient capital to invest?
+4.
+How to Enter?
+a.
+Joint venture with an existing brand
+b.
+Licensing
+c.
+Acquisition
+d.
+Build in-house
+These are some basic ideas. Creative additions might include 
+discussion of operating systems, the consumer “watch closet,” 
+expansion into watch accessories sales, and opportunity costs.
+Sample Framework
+This case presents a lot for the candidate to consider – not 
+only do we need to think about the market opportunity, 
+but we also need to think about whether Timeless is 
+capable of making such a pivot, and if so, how it would 
+effect their current business. Push the candidate to be 
+creative throughout the discussion
+Guidance for Interviewer
+•
+This case focuses on the US market
+•
+For the purposes of this case, a “smart watch” is a 
+watch that can communicate with a user’s phone to 
+receive text, call, or email alerts and can also support 
+additional apps, like GPS or advanced fitness tracking 
+(think Apple Watch, not a FitBit basic tracker bands)
+•
+Timeless’s current sales have been holding steady over 
+the past few years
+•
+Timeless’s brands cover many different market 
+segments and price points
+Clarification Answers if  Asked 
+254
+
+
+===== PDF p259 =====
+1. US Population: ~300M people
+2. Create approximate age groups and assume even distribution of 75M people per group: 0-20, 21-40, 41-60, 61-80+
+3. Apply a percentage estimate of the people in each group who would buy a smart watch:
+0-20: 10% 7.5M people
+21-40: 25% 18.75M people
+41-60: 20% 15M people
+61-80+: 5% 3.75M people 
+4. Add each group’s estimate to get a total of 45M people 
+5. Estimated Average Smart Watch price: $250
+6. Estimate the number of smart watches owned per person: 1.1 (most people will only buy one, but some people may 
+periodically “trade up”)
+7. Estimate that people purchase a smart watch every 4 years
+8. Total Market Size: 45M people x $250 x 1.1 watches per person / 4 (years between purchases) = ~$3B
+Candidate will likely ask about the share of the market Timeless could capture. Hand them Exhibit 1. 
+Question #2
+Question
+One Possible Solution
+Timeless Watches
+Estimate the size of the US smart watch market 
+255
+
+
+===== PDF p260 =====
+Question #3
+Question
+This question tests the candidate’s ability to draw “second level insights” from the information provided in Exhibit 1. They 
+should note that the market is rather consolidated, which means Timeless might have a tough time breaking through. 
+However, being a major player in the traditional watch market does come with some advantages, and we are starting to see 
+some market segments emerge (fitness users, productivity needs, etc.). The candidate should consider the different benefits 
+and risks associated with entering the market through joint ventures, acquisition, or building in-house. A potential 
+framework might include the following: 
+Solution
+Timeless Watches
+Acquisition
+Joint Venture
+Build In-House
+•
+Faster revenues
+•
+Leverage Timeless sales & 
+marketing assets
+•
+Is there an affordable 
+acquisition target available?
+•
+Integration risks
+•
+Can their tech keep up?
+•
+Collaborate with tech company, 
+get best of both tech & watch
+•
+Leverage both brands for 
+customer acquisition
+•
+Choice of JV partner is key
+•
+Limited control over project
+•
+Full control of process, costs
+•
+Expand an existing brand’s line
+•
+Takes longest to build out; 
+Timeless doesn’t have tech 
+capability currently
+•
+Demands of new project could 
+cannibalize internal resources
+Looking at Exhibit 1, what inferences can you draw about the smart watch market in the US and Timeless’s options for 
+entering the market?
+256
+
+
+===== PDF p261 =====
+Question #4
+Question
+CanCan’s annual gross margin = ($200 avg. sale price - $150 variable cost) x 200,000 watches = $5M
+Annual Fixed Costs = $300k per month x 12 months = $3.6M
+Annual Cost of Giveaways = 200 watches/month x 12 months x $150 variable cost per watch = $360k
+CanCan annual profit = $5M revenue - $3.6M fixed costs - $360k giveaways cost = $1.04M
+If the candidate asks for an acquisition price, tell them that current estimates are between $15M-$20M
+Possible Answers: Can argue “yes” or “no” with thoughtful rationale. Some possible discussion points include:
+Acquire: Lots of potential synergies: Timeless can leverage its marketing, distribution, and production expertise to 
+increase sales and reduce fixed costs. Timeless can access capital to invest in expanding CanCan’s production capacity. 
+Timeless can cut back on the giveaway, which are currently costing CanCan a lot of money
+Don’t Acquire: Synergies are uncertain given Timeless doesn’t currently produce smart watches (doesn’t know how to 
+manufacture them, market them, integrate new department of techies/programmers, etc.). Productivity-focused smart 
+watch is a small market and may not be trendy in 1-2 years. There may be other acquisition targets that are more attractive
+Solution
+Timeless Watches
+Timeless has identified a potential acquisition target called CanCan, a 3-year old start up that makes a smart watch focused 
+on providing top-notch productivity apps and features. Their product has developed a small but enthusiastic customer 
+base. Looking at Exhibit 2, should Timeless proceed with the acquisition? 
+257
+
+
+===== PDF p262 =====
+Conclusion
+• Timeless should pursue the acquisition of CanCan, 
+pending confirmation of an agreeable price. 
+• (Candidate can also argue they should not proceed; 
+Rationale, Risks, and Next Steps should support that 
+argument)
+Recommendation
+• Purchasing an up-and-coming smart watch brand will 
+help Timeless enter the market faster than building in 
+house, and there are several opportunities for synergies 
+that will help CanCan grow its sales much faster than it 
+could on its own
+Rationale
+•
+Work culture integration risks
+•
+Competitive responses (ex. Apple starts increasing 
+emphasis on productivity features)
+•
+Continual investments in tech development
+•
+Cannibalization of internal resources towards smart 
+watches
+•
+Opportunity Costs – other potential acquisitions, etc
+•
+Market-wide risk of low-cost manufactures creating a 
+super cheap “good enough” watch
+Risks
+•
+Timeless should confirm acquisition price and ensure 
+they have adequate capital to invest
+•
+Timeless should research other potential acquisition 
+targets to make sure that CanCan is the best option
+•
+If CanCan is the best, they should create a plan & 
+timeline for the integration (ex. Will CanCan
+employees move to Timeless HQ, or stay separate?)
+Next Steps
+Timeless Watches
+258
+
+
+===== PDF p263 =====
+Exhibit #1 : US Smart Watch Market
+Timeless Watches
+Company Name
+Market Share, 
+2019
+Avg. Sale Price of 
+Watch
+Other Products
+Apple
+35%
+$400
+Consumer electronics, 
+Apple Music
+FitBit
+20%
+$200
+Fitness tracker bands, 
+pedometers
+Fossil
+10%
+$200
+Traditional watches, 
+leather accessories
+Garmin
+5%
+$350
+GPS electronics, 
+fitness monitoring 
+equipment
+Samsung
+5%
+$300
+Consumer electronics 
+& components
+Other Companies, 
+Aggregated
+25%
+$200
+Varies
+259
+
+
+===== PDF p264 =====
+Exhibit #2 : CanCan Acquisition
+Timeless Watches
+CanCan Information
+Avg. Watch Selling Price
+$200
+Annual Unit Sales
+100,000
+Monthly Watch Giveaways*
+200
+Variable Cost per Unit
+$150
+Monthly Fixed Costs
+$300,000
+Note: Giveaways are in addition to 100k annual unit sales. These are watches given to influencers, bloggers, tech reviewers, etc. for 
+promotional purposes. 
+260

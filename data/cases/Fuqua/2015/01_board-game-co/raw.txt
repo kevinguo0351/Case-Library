@@ -1,0 +1,379 @@
+===== PDF p23 =====
+Case #1: Board Game Co. 
+(BGC)
+19
+Quantitative Level: 3
+Qualitative Level: 2
+Quantitative level: Difficult
+Qualitative level: Medium
+
+
+===== PDF p24 =====
+Behavioral Questions
+20
+• Tell me about something that’s not on your resume.
+Question 1:
+• Tell me about a time you failed.
+Question 2:
+
+
+===== PDF p25 =====
+Board Games Co.
+21
+Board Games Co. (BGC) is a small board game distributor in the U.S. As board games 
+like Settlers of Catan and Monopoly have made a resurgence in the market place, so 
+has BGC. However, recent financial reports show that BGC’s profit have declined over 
+the last three years, and they’ve hired us to diagnose the issue.
+Prompt #1:
+• BGC sells to boutique gaming retailers
+• BGC sells 5 SKUs
+• BGC has 3 distribution centers (Georgia, Nevada, and New York)
+• Financials (Interviewer should wait to provide to interviewee until after framework)
+– BGC’s sales were $20M in 2012, $22M in 2013, and $25M in 2014
+– BGC’s profits were $2.0M in 2012, $1.8M in 2013, and $1.4M in 2014
+• Interviewee should recognize this as a profitability case. Their framework will most 
+likely have three columns (revenue, costs, market/other)
+Interviewer Guidance:
+
+
+===== PDF p26 =====
+22
+Exhibit 1
+Historical Financials ($M)
+Sales & Profit Graph
+2012
+2013
+2014
+Sales
+20.0
+22.0
+25.0
+COGS
+8.0
+9.0
+10.0
+Gross
+Margin
+12.0
+13.0
+15.0
+SG&A
+10.0
+11.2
+13.6
+Profit
+2.0
+1.8
+1.4
+6%
+8%
+10%
+0%
+5%
+10%
+15%
+20%
+$10M
+$30M
+$20M
+Profit %
+2014
+$25M
+Sales ($M)
+2013
+2012
+$20M
+$22M
+Sales
+Profit Margin
+
+
+===== PDF p27 =====
+Interviewer guidance on Exhibit 1
+• Exhibit represents high-level three-year 
+financials for BGC
+• Interviewee should want to dig deeper 
+into SG&A costs (Exhibit 2) – interviewer 
+should help them get to that point
+• Interviewee should draw the following 
+insights:
+–
+Sales are rising steadily (10% in 2013 and 14% in 
+2014)
+–
+COGS are rising with sales, so no issues there
+–
+SG&A rising faster than sales is the MAIN insight 
+from this exhibit
+23
+Exhibit Guidance:
+Analysis:
+
+
+===== PDF p28 =====
+24
+Exhibit 2
+SG&A Historical Financials Deep Dive ($M)
+2012 ($M)
+2013 ($M)
+2014 ($M)
+Salaries & Wages
+3.0
+3.3
+3.8
+Rent
+1.3
+1.3
+1.3
+Advertising
+1.6
+1.8
+2.0
+Utilities
+0.3
+0.4
+0.4
+Travel & Entertainment
+0.5
+0.6
+0.6
+Shipping & Delivery
+2.0
+2.5
+4.0
+Maintenance & Repairs
+0.4
+0.5
+0.5
+Miscellaneous
+0.9
+1.0
+1.1
+Total
+$10.0M
+$11.2M
+$13.6M
+
+
+===== PDF p29 =====
+Interviewer guidance on Exhibit 2
+• This exhibit is the line-item SG&A breakout – the interviewee should have pointed out 
+SG&A costs as being the main profitability driver and now wants to look at the deep dive
+• Interviewee should recognize that shipping and delivery costs are rising much faster than 
+sales
+25
+Exhibit Guidance:
+
+
+===== PDF p30 =====
+26
+Exhibit 3
+2014 Forecast, Actual Demand, and Fill Rates
+Forecasted
+Demand
+Actual 
+Demand
+Primary
+Fill Rate
+Secondary 
+Fill Rate
+Tertiary
+Fill Rate
+SKU 1
+500,000
+500,000
+70%
+20%
+10%
+SKU 2
+420,000
+400,000
+50%
+25%
+25%
+SKU 3
+510,000
+500,000
+40%
+60%
+0%
+SKU 4
+420,000
+400,000
+50%
+50%
+0%
+SKU 5
+550,000
+500,000
+50%
+20%
+30%
+Note 1: Fill rates refer to the ability of the supply chain to fill and deliver the product from the 
+nearest distribution center to the customer (e.g., primary fill means the product was delivered from 
+the closest DC, secondary means 2nd closest DC, tertiary means 3rd closest DC)
+Note 2: It costs BGC $1(per item shipped) for primary fill, $2 for secondary fill, and $4 for tertiary fill
+
+
+===== PDF p31 =====
+Interviewer guidance on Exhibit 3
+• Interviewer should now provide insight 
+that shipping and delivery costs have 
+been an increasing concern, mainly 
+because of low primary fill rates from the 
+three distribution centers
+• There are two main take-aways:
+–
+The company actually does a good job with 
+forecasting, which means inventory holding costs 
+are not the issue
+–
+The company has poor inventory allocation (e.g., 
+they’re holding the right amount company-wide, but 
+not allocating it correctly across its distribution 
+centers – leading to poor primary fill rates) – which 
+is costing a ton of money
+• To analyze the additional costs from not 
+having all orders ship from the primary 
+distribution center, the interviewee should:
+–
+First, calculate the number of units going 
+secondary and tertiary for each SKU
+–
+Second, calculate the savings from filling an order 
+primary vs. secondary, and primary vs. tertiary
+–
+Third, multiply units by savings
+–
+Fourth, get a maximum savings possible of ~$1.7M
+• See Exhibit 3 Back-Up slide for filled in 
+chart plus calculations
+27
+Exhibit Guidance:
+Analysis:
+
+
+===== PDF p32 =====
+28
+Exhibit 3 (Back-Up)
+2014 Forecast, Actual Demand, and Fill Rates
+Actual 
+Demand
+Secondary 
+Fill Rate
+Secondary 
+Units 
+Filled
+Savings If 
+Primary Fill
+Tertiary
+Fill Rate
+Tertiary 
+Units 
+Filled
+Savings If 
+Primary Fill
+Total 
+Possible 
+Savings
+SKU 1
+500,000
+20%
+100,000
+100,000
+10%
+50,000
+150,000
+250,000
+SKU 2
+400,000
+25%
+100,000
+100,000
+25%
+100,000
+300,000
+400,000
+SKU 3
+500,000
+60%
+300,000
+300,000
+0%
+0
+0
+300,000
+SKU 4
+400,000
+50%
+200,000
+200,000
+0%
+0
+0
+200,000
+SKU 5
+500,000
+20%
+100,000
+100,000
+30%
+150,000
+450,000
+550,000
+1,700,000
+Interviewee should recognize there are possible inventory allocation savings of ~$1.7M 
+which would nearly double current 2014 profit ($1.4M to $3.1M)
+
+
+===== PDF p33 =====
+Interviewer guidance on Recommendation
+• Interviewee should make a recommendation that states:
+–
+The company is having a profit issue due to rising costs
+–
+The main reason for rising costs is due to poor fill rates driven by poor inventory allocation (leaving ~$1.7M on the 
+table)
+–
+Recommendation should be to take another look at the inventory allocation process to understand whether or not 
+inventory could be allocated in a more efficient manner
+–
+Additional recommendation would recognize the trade-offs between holding more inventory at each distribution 
+center versus simply re-allocating – which would increase inventory holding costs, but ultimately might be a better 
+idea 
+29
+
+
+===== PDF p34 =====
+Evaluation Criteria
+30
+Candidate Level
+Assessment
+Average Candidate
+•
+Framework may be weak (e.g., revenue and costs 
+suggestions may not be broken out)
+•
+Candidate may understand the need to calculate savings 
+after prompted and math may be weak
+Good Candidate
+•
+Concrete framework (e.g., revenue and costs broken out 
+separately with examples)
+•
+Candidate will draw insights regarding SG&A costs being 
+the basis for profitability issues
+•
+Recognition of the need to calculate savings, but may 
+stumble through setting up the problem
+Excellent Candidate
+•
+Solid framework (see bullet 1 in “Good”)
+•
+Few math errors
+•
+Concrete summary
+•
+Will suggest the company is good at forecasting, but poor at 
+inventory allocation – will suggest follow-up supply chain 
+inventory deep dive

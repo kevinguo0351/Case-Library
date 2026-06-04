@@ -1,0 +1,108 @@
+===== PDF p155 =====
+18 / Stew’s Connections
+Our client is a start-up with the ability to deliver broadband internet to commercial airlines. How would you help them think about
+their offering?
+Overview for Interviewer
+Industry: Airlines / Tech
+Case Format: Market Entry
+Concepts Tested:
+• Market Entry
+• Market Sizing
+• Breakeven
+• Risk Evaluation
+Notes
+• This case is interviewer guided/lead.
+• This is a market entry case where candidate is required to evaluate the
+feasibility of a new product entry in the airline industry.
+• Candidates should use a comprehensive framework, and be willing to
+guide the interviewer through a logical progression.
+• Calculations are only one approach - please allow flexibility for other
+approaches that are logically sound.
+• Interviewee should mention industry and market size as a major bucket
+in the case structure.
+
+
+===== PDF p156 =====
+Core Case Question 1
+1 / Market Sizing
+Present Exhibit 1 and inform candidate there are 3,000 planes. Then ask candidate to estimate the market size for broadband for
+airlines based on the provided information.
+Notes to Interviewer
+Provide the following information as necessary
+• Broadband for Airlines: there is general interest from the airlines. The start up would have to invest relatively little, and would
+keep most revenues. The airline would charge customers on a per flight pricing model.
+Example Analysis /
+
+
+===== PDF p157 =====
+Core Case Question 2
+Present Exhibit 1 
+Present Exhibit 2, at which point the candidate should recognize they need to produce a breakeven analysis. If they don’t
+recognize this probe them and ask them to think beyond market size as to what they should consider next.
+Notes to Interviewer
+Probe the candidate for breadth and understanding of new market entry - ask about some other factors to consider - keep asking
+what else until they can’t come up with other factors to consider.
+• Competition: candidate should dig deeper into competition, especially with regard to intellectual property. For this case, the
+company has the patent on the high speed connection.
+• Risks: ask candidate which risk are associated with business model. Use your judgment when considering answers.
+Information to be given if asked
+• The company has discovered that if they can generate $250,000 per
+plane in annual revenue, they will be profitable.
+Guidance
+• 250,000 / 2,000 legs/plane = $125/leg
+• $125 / $15 = 8 users/leg
+• 50 laptop users/leg, and at $15 there is 20% penetration (Exhibit 2)
+so we estimate 10 users.
+• Assume
+100
+passengers
+at
+various
+price/penetration combinations
+• 30 users @ $5 = $150/flight
+• 25 users @ $10 = $250/flight
+• 20 users @ $15 = $300/flight
+• 5 users @ $25 = $125…
+• Set Price at $15
+
+
+===== PDF p158 =====
+Closing Thoughts 
+Wrap it Up
+Please provide an overview of the issue at hand, and a concise recommendation as to how we should proceed.
+Notes to Interviewer
+Candidate should provide a crisp recommendation in under one minute.
+The recommendation should provide clear and succinct guidance on why the company should or shouldn’t enter the market, as
+well as next steps to proceed.
+
+
+===== PDF p159 =====
+Potential Structure
+Market Size
+• Number of planes
+• Segmentation
+• Growth & Trends
+• Number of Passengers
+• Type of Passengers
+• Laptop Penetration
+• Price Sensitivity/Elasticity
+Go to Market
+• Pricing/Revenue Model 
+• Launch Strategy
+• Installation Capabilities
+• Maintenance and Training
+Risks
+• Barriers to Entry
+• FAA & Regulatory
+• Existing Competition
+• Emerging Competition
+• Capital Investment 
+• Airline/Economic Risk 
+
+
+===== PDF p160 =====
+Exhibit 1 
+
+
+===== PDF p161 =====
+Exhibit 2

@@ -1,0 +1,38 @@
+{
+  "case_id": "Kellogg_2020_21_tacotle",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 21,
+  "case_name": "Tacotle",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Agriculture & Food",
+  "difficulty": null,
+  "pdf_page_start": 221,
+  "pdf_page_end": 236,
+  "n_pages": 16,
+  "exhibit_pdf_pages": [
+    224,
+    225,
+    226,
+    227,
+    228,
+    231,
+    232,
+    234,
+    235
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p224.png",
+    "exhibits/exhibit_p225.png",
+    "exhibits/exhibit_p226.png",
+    "exhibits/exhibit_p227.png",
+    "exhibits/exhibit_p228.png",
+    "exhibits/exhibit_p231.png",
+    "exhibits/exhibit_p232.png",
+    "exhibits/exhibit_p234.png",
+    "exhibits/exhibit_p235.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\21_tacotle"
+}

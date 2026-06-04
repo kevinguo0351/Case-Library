@@ -1,0 +1,365 @@
+===== PDF p56 =====
+51 
+Case: PayCo Credit Cards 
+Case Type: New Market Entry 
+ 
+ 
+PayCo Credit Cards 
+Case Commentary (Notes to the interviewer) 
+Problem Statement Narrative 
+Data Set (To be provided upon request) 
+PayCo is a credit card company with over $5B in revenues in 2010. Their recently developed Tap & Go 
+proprietary technology  has been very successful, and they now want to leverage it to the cash-
+dominated public transportation sector. 
+PayCo has asked for our help in commercializing Tap & Go for transit transactions. 
+This is an exhibit-driven case. The interviewee 
+should base the analysis on the information 
+provided in the exhibits and identify the most 
+important data points. 
+• Tap & Go is a feature that allows consumers to 
+pay by simply tapping their credit card or mobile 
+phone on a payment reader at checkout.  
+ 
+• Tap & Go is currently used for small purchases 
+(<$25) at places like supermarkets, fast-food 
+outlets, bars and parking lots. 
+ 
+• Our client has a 5 year investment horizon 
+(2011-2015). 
+
+
+===== PDF p57 =====
+52 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+PayCo Credit Cards 
+Sample Candidate Framework 
+Market 
+Market Size / Growth 
+(What‟s the potential 
+of Tap & Go for 
+transit?) 
+Current Competitors 
+/ New Entrants 
+(similar offerings?) 
+Substitutes 
+(competing 
+technologies such as 
+the Google Wallet?) 
+Company 
+Execution 
+• Access to 
+transportation 
+authorities 
+• Regulatory barriers 
+• Money on hand for 
+investment 
+• Opportunity cost 
+ 
+Customers 
+(segmentation, 
+average spend on 
+public transportation, 
+willingness to adopt 
+new technologies) 
+Capabilities (patent, 
+expertise with Tap & 
+Go, partnerships that 
+can be leveraged) 
+ 
+Economics 
+Revenue 
+Price (lump sum fee 
+from retailer + per 
+transaction 
+fee)  x Quantity (# of 
+transactions) 
+Costs 
+Fixed (R&D, SG&A, 
+advertising, IT, 
+support center) 
+Variable (cost per 
+transaction) 
+Upfront investment 
+ 
+
+
+===== PDF p58 =====
+53 
+Potential Areas for Analysis 
+PayCo Credit Cards 
+• See Exhibit 2 
+ 
+• Assume a discount rate of 0% 
+Economics 
+No additional information to provide. 
+These points should be taken into consideration 
+when assessing the risks. 
+Execution 
+• Market size: See exhibit 1 
+ 
+• Competitors: There are two major competitors in 
+the market, including PayCo. They both offer Tap & 
+Go services. 
+ 
+• Substitutes: Assume that the main payment 
+method for public transportation is cash 
+Market 
+• Customers: Commuters, the majority of whom 
+have credit cards 
+ 
+• Capabilities: PayCo has a strong track record 
+with Tap & Go and a good brand name. Since public 
+transportation is currently cash dominated, it does 
+not have strong relationships with transit providers 
+Company 
+
+
+===== PDF p59 =====
+54 
+ 
+Question #1 
+ 
+PayCo Credit Cards 
+Question #1:  
+Question #1 Solution:  
+PayCo has identified three key cities on which it would like to focus. As a first step, it would like to enter one 
+city and service one mode of transportation. Based on the information we gathered and given a 5 year 
+horizon (2011-2015), which city and mode of transportation should PayCo target? 
+(Present the interviewee with Exhibit #1) 
+• Not all data points in the exhibit are necessary for reaching a conclusion. The interviewee should focus on 
+the most relevant information. 
+ 
+• The industry in question is credit cards, and so the interviewee can assume that the main source of 
+revenues will be fees (as a % of transactions). Since we don‟t know anything about potential differences in 
+the size of the fees, costs or penetrations rates, we‟ll assume they‟re the same for all three cities. 
+ 
+• An expected value approach can be used to assess which city / mode of transportation are most attractive. 
+Expected Value = Revenue * Number of Years * Probability of Implementation (* unknown % fee). 
+For example, the value of the New York Subway is (% fee) * ($12B*4*90%) = $43.2B*%fee. 
+Repeating the same exercise for  the New York Bus: $5.4B*4*80%*fee = $17.3B*%fee 
+London: Subway = $36.4B; Bus = $16.2B 
+Tokyo: Subway = $9.6B; Bus = $13.8 
+ 
+• Based on the expected value analysis, the New York Subway seems like the best target. 
+The New York population growth and GDP also support entering this market. 
+
+
+===== PDF p60 =====
+55 
+ 
+Question #2 
+ 
+PayCo Credit Cards 
+Question #2:  
+Question #2 Solution:  
+Our analysis of the New York subway market yielded the following results. Would PayCo be able to break 
+even within 5 years? 
+(Present the interviewee with Exhibit #2) 
+2011 
+2012 
+2013 
+2014 
+2015 
+Revenues 
+License 
+250K 
+250K 
+250K 
+250K 
+250K 
+Proc. Fee 
+7.5M 
+10M 
+12.5M 
+15M 
+15M 
+Costs 
+Per Trans. 
+6M 
+8M 
+10M 
+12M 
+12M 
+A&D 
+2M 
+1M 
+500K 
+0 
+0 
+SG&A 
+50K 
+50K 
+50K 
+50K 
+50K 
+Profit 
+-300K 
+1.2M 
+2.2M 
+3.2M 
+3.2M 
+• Upon request, provide the information that the upfront investment in the launch is $5M. 
+• PayCo will break even in 2014 (see further information on the calculations on the next page) 
+
+
+===== PDF p61 =====
+56 
+ 
+Question #2 (Continued) 
+ 
+PayCo Credit Cards 
+Question #2 Calculations:  
+• Transaction fee: 0.2% of transaction. 
+In 2011 there are transactions worth $3.75B, so the revenue would be 3,750,000,000*0.2% =  
+3,750,000,000*(2/1000) = 3,750,000*2 = 7.5M 
+ 
+• Cost per transaction: $0.004 per transaction. 
+In 2011 there are transactions worth $3.75B. Given an average transaction size of $2.5, the total number of 
+transactions is 3,750,000,000/2.5 = 1,500,000,000. 
+The cost per transaction is hence 1,500,000,000*0.004 = 1,500,000*4 = 6M 
+ 
+• Annual profit = (license fee + total transaction fees) – (total transaction cost + A&P + SG&A) 
+ 
+• Breakeven will be reached when total profits will cover the upfront investment of $5M. 
+This will happen in 2014. 
+
+
+===== PDF p62 =====
+57 
+ 
+Conclusion 
+ 
+ 
+PayCo Credit Cards 
+ 
+o PayCo should enter the New York Subway market: it has a high revenue potential, a high probability of 
+implementation and a shorter-than-required break-even period 
+ 
+o It would make sense to enter additional cities / modes of transportation in the next 5 years 
+ 
+Recommendation 
+o Our projections of the implementation probability and number of transactions may be inflated 
+ 
+o Response from our major competitor 
+ 
+o Regulations resulting from privacy and security concerns 
+Risks 
+o Create an implementation plan for entering the New York Subway market 
+ 
+o Build relationships with the Metropolitan Transportation Authority 
+ 
+o Analyze additional markets to identify further opportunities 
+Next Steps 
+
+
+===== PDF p63 =====
+58 
+ 
+Exhibit #1 
+ 
+PayCo Credit Cards 
+City 
+New York 
+London 
+Tokyo 
+Population 
+8.2M 
+7.8M 
+13.1M 
+Pop. Growth 
+0.9% 
+0.7% 
+0.8% 
+GDP 
+$1,406B 
+$565B 
+$1,479B 
+Subway 
+NYC 
+London 
+Tokyo 
+Annual ridership 1.604B 
+1.107B 
+3.160B 
+Annual revenues 
+$12B 
+$13B 
+$16B 
+Expected Year 
+of Implement. 
+2012 
+2012 
+2014 
+Probability of 
+Implement. 
+90% 
+70% 
+20% 
+Bus 
+NYC 
+London 
+Tokyo 
+Annual ridership 0.747B 
+1.780B 
+1.946 
+Annual revenues 
+$5.4B 
+$9B 
+$11.5B 
+Expected Year 
+of Implement. 
+2012 
+2014 
+2013 
+Probability of 
+Implement. 
+80% 
+90% 
+40% 
+
+
+===== PDF p64 =====
+59 
+ 
+Exhibit #2 
+ 
+PayCo Credit Cards 
+2011 
+2012 
+2013 
+2014 
+2015 
+Average Size of 
+Transactions 
+$2.5 
+$2.5 
+$2.5 
+$2.5 
+$2.5 
+Annual 
+Transactions 
+$3.75B 
+$5B 
+$6.25B 
+$7.5B 
+$7.5B 
+Advertising and 
+Promotions 
+$2,000,000 $1,000,000 $500,000 
+$0 
+$0 
+SG&A 
+ 
+$50,000 
+$50,000 
+$50,000 
+$50,000 
+$50,000 
+Economics of  the New York Subway Tap & Go Market 
+License Fee: $250,000/year 
+Transaction Fee: 0.2% of transaction 
+ 
+Transaction Cost: 0.004 cents/transaction 

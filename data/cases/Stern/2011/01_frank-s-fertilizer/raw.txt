@@ -1,0 +1,246 @@
+===== PDF p35 =====
+Case 1: Frank’s Fertilizer 
+Type of Case: Profitability, Market Sizing 
+Difficulty: Moderate 
+Our client, Frank’s Fertilizer, makes agricultural soil fertilizer. The client’s research division has created a new fertilizer supplement for 
+grape production, and wants our advice on whether or not they should commercialize it. What are the key issues we need to examine? 
+This case involves some market sizing, some analysis of pricing dynamics, and ultimately an investment decision. Candidates must be able 
+to organize and process a fair bit of quantitative data in addition to draw some high level insights. Judgment is particularly important 
+when determining how to present a summary of all the arithmetic. 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+31 
+
+
+===== PDF p36 =====
+Question – What are the key issues we need to examine? 
+This is a profitability question, so we want to know: 
+• How big is the market? (What revenues can we generate?) 
+• How will customers value the product?  What are the drivers of demand? 
+• What can we charge for the product?  What are industry dynamics? 
+• What kind of volume can expect? 
+• What are our margins?  (What are our variable costs?) 
+• What are our fixed costs? 
+32 
+
+
+===== PDF p37 =====
+Background Information 
+Frank’s Fertilizer would like to target the California grape market for sales of its new grape supplement.  California grapes are exclusively 
+used for wine making, and firms in the industry specialize in growing either green grape for white wine, or purple grapes for red wine.  
+Firms in both markets average 250 acres, which they harvest once per year.  The market is fairly stable, and is growing at pace with GDP. 
+Additional Background 
+(to be said to the interviewee) 
+Revenues and Competitors 
+(to be provided when requested by interviewee) 
+Provide exhibit #1 
+33 
+
+
+===== PDF p38 =====
+Exhibit #1 
+(to be provided to the interviewee as background information for second question) 
+34 
+
+
+===== PDF p39 =====
+Question – How big is the California grape market?  What 
+conclusions can we draw from this? Is the California grape market 
+big enough to justify commercializing the fertilizer supplement? 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Total Purple Grape Revenue** 
+(Average purple grape revenue * # purple grape firms) 
+$15M 
+Total Green Grape Revenue** 
+(Average green grape revenue * # green grape firms) 
+$20M 
+Market Size (annual)** 
+Sum of revenues 
+$35M 
+35 
+
+
+===== PDF p40 =====
+Question – What is the potential value add of the supplements? 
+The total potential is the combined value from extra revenue (from improved yield) and reduced costs (from earlier harvests). 
+Question – What is the savings produced to farmers from early 
+harvests? 
+In tests, the supplements allow grape growers to harvest their grapes 16 days earlier than with the current fertilizer product on the 
+market. This saves growers approximately $5 per acre per day costs, which normally are needed to keep animals away from crops. 
+Cost Savings 
+(NOT to be shown to interviewee) 
+Additional Background 
+(to be said to the interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Savings per farmer** 
+(Daily cost savings * Harvest days reduced *  
+Average number of acres per farm) 
+$20K 
+Total number of farmers 
+Found in exhibit #1 
+230 
+Total Savings** 
+(Savings per farmer * Total number of farmers) 
+$4.6M 
+36 
+
+
+===== PDF p41 =====
+Question – What is the savings produced to farmers from better 
+yields? 
+Furthermore, the increase in the size of grapes directly increases the amount of grape juice produced annually.  The supplement can 
+increase purple grape yields by 10% and green grape yields by 15%. 
+Cost Savings 
+(NOT to be shown to interviewee) 
+Additional Background 
+(to be said to the interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Savings for purple grape farmers** 
+(Purple grape market size * Increased purple grape yield) 
+$1.5M overall, $50K per farmer 
+Savings for green grape farmers** 
+(Green grape market size * Increased green grape yield) 
+$3M overall, $15K per farmer 
+Total Savings** 
+(Savings per farmer * Total number of farmers) 
+$4.5M 
+A strong candidate will question whether California grapes are a substantial piece 
+of the overall grape market to determine  whether this will reduce grape prices 
+37 
+
+
+===== PDF p42 =====
+Question – What is the total value of the product per farmer?  
+overall? 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Early harvest savings per farmer 
+Found in previous pages 
+$20K 
+Increased yield savings per purple grape farmer 
+Found in previous pages 
+$50K 
+Increased yield savings per green grape farmer 
+Found in previous pages 
+$15K 
+Total savings for purple grape farmers** 
+(Early harvest savings per farmer +  
+Increased yield savings per purple grape farmer) 
+$70K per farmer 
+Total savings for green grape farmers** 
+(Early harvest savings per farmer +  
+Increased yield savings per green grape Farmer) 
+$35K per farmer 
+Total savings** 
+(Savings per purple grape farmer * # of purple grape farmers + 
+Savings per green grape farmer * # of green grape farmers) 
+$9.1M 
+Question – How much of the $9.1M value can Frank’s Fertilizer 
+capture? What will determine this? 
+Candidate should identify issues of buyer power and rivalry: 
+• Price discrimination 
+• Brand value 
+• Consumer confidence in our marketing 
+• Presence of substitutes 
+38 
+
+
+===== PDF p43 =====
+Question – What will be the costs of producing enough 
+supplements for the entire California market? Half the market?  
+What kind of penetration should we expect? 
+Commercializing the supplement will require annual capital leases 
+costing $2.2M, with additional production costs of $4K per 
+hectoliter. Purple grape fields require 5 hectoliters per 250 acres, 
+while green grape fields require 2 hectoliters per 250 acres. 
+Additional Background 
+(to be said to the interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+# purple grape farms 
+Found in exhibit #1 
+# green grape farms 
+Found in exhibit #1 
+Total demand for supplements** 
+(# purple grape farms * Purple grape farm supplement required +  
+# green grape farms * Green grape farm supplement required) 
+550 hectoliters 
+Total variable cost** 
+(Total hectoliter demand * production cost per hectoliter) 
+$2.2M 
+Total fixed cost 
+As stated above 
+$2.2M 
+Cost of supplying to entire market** 
+(Fixed cost + Variable cost) 
+$4.4M 
+Cost of supplying to half market** 
+(Fixed cost + Variable cost/2) 
+$3.3M 
+Candidate may inquire about the timeframe of fixed costs and 
+recovery.  The fixed cost is one time; recovery should be based on 
+reasonable assumptions. 
+Cost 
+(to be provided upon request) 
+Penetration analysis should return to the issues of buyer power.  
+Candidate should identify tradeoff between margin and initial penetration. 
+39 
+
+
+===== PDF p44 =====
+Question – What kind of penetration lets us break even if we price 
+at $10K per hectoliter?  What about if we price at $8K?  $15K? 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Variable Cost 
+Found in previous pages 
+$4K 
+Break even for $10K price** 
+(Fixed cost / Marginal profit) 
+365 hectoliters 
+Break even for $8K price** 
+(Fixed cost / Marginal profit) 
+550 hectoliters 
+Break even for $15K price** 
+(Fixed cost / Marginal profit) 
+200 hectoliters 
+Use contribution margins to solve the problem: 
+Quantity*Price – Quantity*Variable Cost – Fixed Cost = 0  
+Quantity*(Variable Cost + Margin) – Quantity*Variable Cost – Fixed Cost = 0  
+Quantity*Margin = Fixed Cost  
+Quantity = Fixed Cost/Margin 
+40 
+
+
+===== PDF p45 =====
+Recommendation 
+Risks 
+•
+It would not be a good move to commercialize the product based on the California grape 
+market alone 
+•
+Comparing the break even quantities and the total size of the California grape market we 
+see that Frank’s Fertilizer would have to capture substantial market share just in order to 
+break even 
+•
+Before deciding to commercialize the supplement it would be wise to size additional 
+markets to see if there is potential for additional sales elsewhere 
+•
+Demand for supplement is not as high as projected 
+•
+Willingness to pay is not high enough to make business profitable or makes breakeven 
+quantity unreasonable to reach 
+•
+Supplement does not perform as expected 
+Case Closing 
+41 

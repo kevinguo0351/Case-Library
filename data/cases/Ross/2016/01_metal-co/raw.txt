@@ -1,0 +1,270 @@
+===== PDF p63 =====
+59
+•
+Your client, Metal Co, is a global company 
+involved in manufacturing parts of made from 
+metals, plastics and glass. They have an 
+expertise in a stamping process whereby they 
+use heavy machines to stamp and cut parts from 
+sheets of those raw materials. All their parts are 
+usually made to order. Some examples of those 
+parts include car doors, window panes, 
+dashboards of cars etc.
+•
+They are headquartered in the US but operate in 
+200 countries. Like most of the economy, they 
+experienced a severe downturn in 2009. 
+However, they have been able to recover well 
+from revenue standpoint and the year on year 
+revenues have stabilized. But, their profitability is 
+much lower compared to competition and this 
+has put severe pressure on the CEO. The CEO 
+thinks that there are concerns with the cost 
+structure of the company and wants you to 
+specifically analyze their cost structure.
+•
+Before we begin, do you have any questions?
+•
+Target: There is no target, the greater the savings the better it is.
+•
+Revenue: We don’t have the numbers but we know that they are 
+stable (low growth).
+•
+Activities: Design of parts and manufacturing. They have plants 
+in all the countries since they are involved in heavy and volumetric 
+parts. Sometimes, they outsource a part of their activities to 
+smaller companies.
+•
+Customers: Auto makers, construction companies, electronics 
+companies
+Case 1: Metal Co., Ross Original (Interviewer Driven)
+Prompt
+Additional Information (if requested)
+A strong candidate will:
+•
+Identify that this is a cost problem and avoid too many 
+questions on revenue or customers.
+•
+Absorb following key takeaways – global nature, focus on 
+cost structure
+•
+Point to the fact that most companies managed to bring their 
+costs down during recession but maybe Metal Co did not
+Evaluation Guide
+
+
+===== PDF p64 =====
+60
+Question 1: Can you list the cost components you 
+would like analyze and how?
+•
+Raw Material – Steel, plastic, glass, etc.
+•
+Labour – plant workers, designers, engineers
+•
+Utilities – Electricity, Water, Gas
+•
+PP&E – Depreciation of Machines 
+•
+Sales & Marketing – including lobbying 
+•
+Transportation – Raw material and finished goods 
+transportation
+•
+Outsourcing costs – manufacturing of parts, designing
+Strong Candidate Will Cover:
+•
+Mention outsourcing costs as a key costs component. 
+They will identify that if a higher margin activity like 
+designing is outsourced, their margins will be lower. 
+However, if low margin activities like manufacturing is 
+outsourced, the margins will be higher. 
+•
+Want to benchmark the costs with those of the 
+competition
+•
+Will prioritize on Raw Material, Labour and/or Utilities 
+as key items to focus on.
+Exceptional Candidate Will Cover:
+
+
+===== PDF p65 =====
+61
+Question 2: We obtained some cost figures from Metal 
+Co and this is what we found (hand Exhibit 1). Please 
+share your thoughts and next steps based on this.
+•
+The costs for Steel & Plastic have increased by 50% in 
+two years. 
+•
+This is a commodity item and the costs should not 
+have increased dramatically.
+•
+The costs for Heating and Air-conditioning as well as 
+Electrical went up for 2 years ago and then came back 
+down. 
+•
+This means that the company has either controlled the 
+costs, or the projects with such requirements have 
+reduced. This would happen if the proportion of 
+infrastructure projects increased in the last year.
+Strong Candidate Will Cover:
+•
+Ask if the revenues increased in line with costs. This is 
+a key point that highlights business acumen. 
+•
+Answer this by saying that revenues did not increase 
+at such a high rate.
+•
+Will mention the next steps saying they want to further 
+analyze steel costs because the jump is highest in 
+steel ($200M)
+Exceptional Candidate Will Cover:
+
+
+===== PDF p66 =====
+62
+Question 2: We looked deeper into steel and found the following about 
+steel prices (hand Exhibit 2). Metal Co anticipates that their steel 
+consumption will increase 20% by volume next year. Can you calculate 
+how much they will save by procuring from China?
+•
+Identify that the share of costs is to be divided in $ 
+terms whereas increase in consumption is in terms of 
+volume (tons).
+•
+Compare the final savings to $600M and $1525
+•
+Mention that there are risks associated with procuring 
+form China
+Strong Candidate Will Cover:
+•
+The costs mentioned included transportation and customs duties
+Additional Information for Candidate:
+
+
+===== PDF p67 =====
+63
+Question 2: What do you think are the challenges associated with 
+procuring from China? (This is a brainstorming question)
+•
+Take some time to structure their thoughts and talk through the thought process
+•
+Some of possible answers include:
+•
+Quality considerations
+•
+Longer lead times to deliver across the world
+•
+Capacity constraints in Chinese steel manufacturers
+•
+Foreign exchange fluctuations associated with CNY
+•
+Existing relationships with current suppliers which might be supplying other 
+raw materials as well
+•
+Political considerations because many steel producers in China are state 
+owned
+•
+Increase in transportation costs
+Strong Candidate Will Cover:
+
+
+===== PDF p68 =====
+64
+Exhibit 1: Total Costs for Metal Co
+3 YEARS AGO
+2 YEARS AGO
+1 YEAR AGO
+STEEL
+400
+500
+600
+PLASTIC
+300
+350
+400
+GLASS
+200
+300
+250
+ALUMINUM
+150
+200
+175
+OTHERS
+50
+75
+100
+TOTAL
+1100
+1425
+1525
+$MN
+
+
+===== PDF p69 =====
+65
+SHARE OF
+TOTAL COSTS
+AVG LOCAL 
+COSTS FOR
+METAL CO
+AVG COSTS 
+FOR STEEL 
+FROM CHINA
+HIGH GRADE 
+STEEL
+60%
+$1500
+$1200
+LOW GRADE 
+STEEL
+40%
+$1200
+$1000
+Exhibit 2: Steel Prices for Metal Co
+Per ton
+
+
+===== PDF p70 =====
+66
+Solution to Exhibit 2:
+TOTAL 
+COSTS
+LAST YEAR
+TOTAL 
+VOLUME
+LAST YEAR
+VOLUME 
+NEXT YEAR
+SAVINGS
+PER TON 
+FROM CHINA
+TOTAL
+SAVINGS
+HIGH GRADE 
+STEEL
+60%*600 = 
+360
+=360M/1500  
+=240K TONS
+=240 * 120%
+=288K TONS
+$300 PER 
+TON
+=288K * 300
+=$86.4M
+LOW GRADE 
+STEEL
+40%*600 = 
+240
+=240M/1200
+= 200K TONS
+=200*120%
+=240K TONS
+$200 PER 
+TON
+=240K * 200
+=48M
+=134.4M

@@ -1,0 +1,142 @@
+===== PDF p111 =====
+Our client is TNT Funds, a small asset management firm. 
+TNT Funds manages investments in mutual funds from 
+wealthy individuals. Their account portfolio varies in the 
+average account balance and in the range of financial 
+assets invested. TNT Funds’ revenues derive from a fixed 
+annual management fee for their accounts.
+Candidate should layout a structure
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+TNT Funds (1 of 6)
+McKinsey, Round 2
+TNT Funds is owned by a parent company, an insurance 
+company. The firm has 2 main sales channels – an online 
+platform, by which clients can buy and sell mutual funds, 
+and direct sales through agents of the parent company. 
+TNT Funds reported losses during the last 2 yrs and its 
+future projections are not bright either. They have hired 
+McKinsey to determine why they are not profitable and 
+what they can do to turn around their current position?
+
+
+===== PDF p112 =====
+Suggested Case Structure
+Decreasing Revenues
+Internal Factors
+Efficiency of sales 
+channels
+incentives
+methodology
+pricing
+customer trends
+TNT Funds (2 of 6)
+McKinsey, Round 2
+External Factors
+customer trends
+competition 
+(rivals/substitutes)
+Increasing Costs
+Overhead
+IT investments 
+Increase in headcount
+Office/Administration costs
+Sales Channels
+commissions
+Transaction costs
+
+
+===== PDF p113 =====
+After the big 
+picture structure, 
+ask the candidate:
+Ok. Now, TNT Funds would like to generate more revenue to balance their fixed overhead costs. By 
+how much should they aim to increase the average account balance of their clients in order to 
+achieve a 10% profit margin? 
+Consider the following data: 
+Current average account balance is $5K
+Total fixed costs are $35M
+Total funds managed are $5B
+Variable cost is $20 per account managed
+Management fee (revenue) is 1%
+TNT Funds (3 of 6)
+McKinsey, Round 2
+Management fee (revenue) is 1%
+Candidate should 
+determine that:
+First, calculate the total cost per account:
+Total # of accounts is 5B/5K = 1M
+Allocated fixed cost is 35M/1M = $35 per account
+Total cost per account = variable + fixed = 20 + 35 = $55
+For a 10% margin, revenue per account will need to be 55/0.9 ~ $61
+For a $61 revenue from a 1% management fee, average account balance should be 100 * 61 = $6100
+That would require average account balance to grow by $1100 which is growth of 22%
+
+
+===== PDF p114 =====
+Next ask the 
+candidate:
+In the mutual fund industry, most firms operate only one sales channel – either indirect (call center, 
+online) or direct (agents). Why would you think that is the case?
+TNT Funds (4 of 6)
+McKinsey, Round 2
+Example answer:
+I believe companies tend to focus on one channel for 2 main reasons: 
+Customer focus: the 2 channels address different segments. High amount investors require 
+personalized service, whereas small investors require quick access to their invested funds and 
+should be ok with standard service.  
+Company: the 2 channels require a different set of capabilities from the company. The indirect 
+channel should be followed by an efficient operation or a good IT infrastructure (high fixed costs, 
+low marginal), whereas the direct channel would require deep understanding of mutual funds (low 
+fixed costs, high management costs). 
+
+
+===== PDF p115 =====
+Next ask the 
+candidate:
+Now, let’s assume TNT was to focus on the direct sales channel to grow their customer base. What 
+% of the insurance clients they will need to capture in 5 yrs, if they wanted to manage 1% of the 
+mutual funds industry volume?
+When asked, reveal:
+-Total number of insurance customers is 4M and will remain as is
+-Mutual funds industry volume is $1 Trillion and will grow at 10% CAGR
+-Average balance of insurance customers account in 5 yrs will be $10K
+TNT Funds (5 of 6)
+McKinsey, Round 2
+Solution:
+First, calculate the volume of the mutual funds industry in 5 yrs (with 10% CAGR):
+Current 
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+1 TR
+1.1 TR 
+1.21 TR
+1.33 TR
+1.46 TR
+1.61 TR
+1% of this volume will be 1%* 1.61TR ~ $16 Billion (that’s the target volume)
+# of customers needed to reach target volume is: 16 B/ 10K = 1.6 M
+1.6 M is 40% of the total number of insurance customers (4M)
+
+
+===== PDF p116 =====
+Lastly:
+Based on our discussion, what would recommend the CEO of TNT Funds?
+TNT Funds should recover from its poor profitability by focusing on the direct sales channel and 
+divesting the indirect efforts. The reasons are:
+1- Through the direct channel they could leverage the parent company customer base and focus 
+on high $ investors
+TNT Funds (6 of 6)
+McKinsey, Round 2
+Example Answer:
+on high $ investors
+2- By focusing on one channel they could eliminate some of the fixed costs associated with the 
+indirect operations (a small company like them will have difficulties amortizing those costs by 
+achieving scale)
+One the crucial next steps should be training the sales agents of the parent company to make sure 
+that they can serve the high-end customers well. Furthermore, TNT Funds needs to verify that the 
+sales agents are incentivized properly

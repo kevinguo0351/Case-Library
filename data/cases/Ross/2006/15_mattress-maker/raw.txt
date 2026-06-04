@@ -1,0 +1,147 @@
+===== PDF p95 =====
+Practice Cases – Case 15: Mattress Maker 
+Bain & Co. 
+ 
+ 
+91
+(Source: Interview case from Bain Round II, 2006) 
+ 
+Context 
+Your client is a manufacturer of a revolutionary mattress that uses a new technology 
+that promotes great nights of sleep. It’s a small company run by the original 
+inventor, who is fanatical about this technology. They currently have annual 
+revenues of about $100M, selling in all kinds of retail stores.  
+ 
+They are now interested in entering the health care applications market, where this 
+technology has been proven to alleviate the common problem of bed sores in the 
+elderly and chronically ill. The inventor has hired Bain to help him determine 
+whether or not to enter the health care market. 
+ 
+This is a market entry case. A good initial structure will recognize it as such and outline the 
+key factors necessary to assess the market space. 
+ 
+Sample structure might include probing 3 areas: 
+• 
+Market size 
+1. 
+three different health care segments 
+ 
+hospitals  
+ 
+nursing homes 
+ 
+assisted living  
+2. 
+for each, calculate a revenue potential by identifying the number of 
+establishments, number of beds per establishment, and the price they’d pay 
+per bed 
+3. 
+Also determine the growth rates for each, noting that growth will be fueled by 
+demographic factors and any additional health care trends 
+• 
+Competitive Space 
+1. 
+number and concentration of current competitors 
+2. 
+similarity of their product offerings to our client’s  
+3. 
+other product offerings 
+• 
+Cost of entry (what would it take to get into these spaces) 
+1. 
+cost of mattress (presumably unchanged) 
+2. 
+distribution 
+3. 
+sales  
+4. 
+marketing 
+ 
+Sample case discussion dialogue: 
+ 
+Interviewer: Great. That looks like a good structure. Where would you like to start? 
+ 
+Interviewee: I’d like to start with the market sizing piece to get an initial read on what the 
+magnitude of these opportunities might be in the context of a $100M business. 
+ 
+Interviewer: Sounds good. We have some data, but instead of looking at hospitals, 
+nursing home and assisted living, we’re going to look at hospitals as one pool and 
+long term care, which we’ll call LTC, as another. So here’s what we know. There are 
+approximately 950,000 hospital beds in the US and 1,700,000 LTC beds. One factor 
+you didn’t mention in your set-up was replacement frequency – hospitals replace 
+each bed after 7 years while LTC facilities replace beds after 8 years. So how many 
+beds per year are being purchased in each market? 
+ 
+Interviewee: If the hospital beds are replaced every 7 years, we could think of this as a 
+continuous process in which 1/7 of the beds are replaced each year. So this would be [do the 
+math] about 135,000 hospital beds and 212,500 LTC beds, which I’ll round to 215,000 if that’s 
+alright with you.  
+ 
+Interviewer: Yes, that’s fine. We also know that the premium portion of the hospital 
+market is 25% while in the LTC market it’s only about 2%. 
+
+
+===== PDF p96 =====
+Practice Cases – Case 15: Mattress Maker 
+Bain & Co. 
+ 
+ 
+92
+Interviewee: Ok, so that would be 35,000 premium beds being sold to hospitals and 4,000 to 
+LTC facilities. What is the price point we would sell the beds at? 
+ 
+Interviewer: Our data indicates that hospitals would pay $500 per bed and LTC 
+facilities would pay $300 per bed.  
+ 
+Interviewee: So that would indicate a $17.5M market for hospitals and a $1.2M market for 
+LTC facilities. Although I can already see that the LTC market is very small and even the larger 
+hospital market isn’t terribly promising in the context of a $100M company, I’d still like to 
+continue with my explorations here to make sure that we’re understanding the full picture. 
+What is the growth of each of these markets? 
+ 
+Interviewer: Hospitals are growing at 1% per year and LTC at 3%. 
+ 
+Interviewee: Although we might expect the LTC to grow a little faster in the next 10+ years 
+as the baby boomers approach this phase of life, neither of those markets is growing at a very 
+promising rate. Let’s turn now to the competitive space: who is already selling premium beds 
+to these markets? 
+ 
+Interviewer: It’s an extremely fragmented market. 
+ 
+Interviewee: Ok, how do their beds compare to ours? 
+ 
+Interviewer: Our client is positive that ours are superior. 
+ 
+Interviewee: Are premium beds the only product these companies are selling to hospitals 
+and LTC facilities? 
+ 
+Interviewer: No, actually, nearly all of the competitors are suppliers of a broad array 
+of medical equipment and supplies. 
+ 
+Interviewee: That is another red flag for us because it hints at an access problem we might 
+have as a vendor of just one product. I’m cognizant of the time here and am going to push 
+through to this last point about what it would cost our client to get into these markets. What is 
+our current cost structure and what are the current price points? 
+ 
+Interviewer: It costs $350 to manufacture a bed, and current SG&A allocation is 
+$100 per bed, and each bed currently sells for $700-750. 
+ 
+Interviewee: So current costs are $450, but we can expect that SG&A could be higher 
+because of the additional sales and marketing resources it would take to enter a new market. 
+At current price points, the company is used to fairly high margins. If the best-case cost 
+scenario for these new markets is $450, we will still be losing money in the LTC market selling 
+at $300 and gaining only a tiny margin in the hospital market. Neither of these markets is 
+looking very promising. 
+ 
+Interviewer: What would you tell the client? 
+ 
+Interviewee: May I take a minute to pull my thoughts together? [yes]  
+ 
+We have taken a close look at both of these markets and recommend that you not enter either. 
+Neither market is very large and both are growing relatively slowly. More importantly, 
+however, the price points these markets buy beds at are either lower or at your current cost 
+levels, so the potential for profit is nearly zero. Furthermore, based on the profiles of current 
+competitors we believe access to the procurement departments of these markets might be 
+difficult. It’s clearly a great product, but these aren’t the right markets to extend into. 
+ 
+Interviewer: Great. Thank you! 

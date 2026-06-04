@@ -1,0 +1,133 @@
+===== PDF p51 =====
+Case 6: Semi Co.
+Prompt #1
+Semi Co. is an international semiconductor company that designs and manufactures chips that are 
+used in three industries including: consumer electronics, healthcare and automotive. The CEO of 
+Semi Co. has witnessed decreasing profit over the last three years. 
+Semi Co. has hired you to fix the decline in profit.  What are the areas that they should look 
+into to identify their problem?
+Guidance
+The candidate should come up with a MECE framework that  covers the following areas: industry 
+trend, product mix, competitors, revenue and cost (profitability).
+When the candidate tries to clarify whether it is a revenue problem or a cost problem, give the 
+following information below: 
+• 70% of revenue is from consumer electronics, 20% from healthcare and 10% from automotive.  
+• Revenue over the past three years have been stable.
+• The profit margin for consumer electronics declined from 50% to 25%
+• The profit margin for healthcare increased from 50% to 70%
+• The profit margin for automotive declined from 100% to 80%
+The candidate should be able to identify consumer electronics is the client’s major problem.
+First Round
+47
+
+
+===== PDF p52 =====
+Case 6: Semi Co.
+Prompt #2
+What are the reasons that caused profit declined in consumer electronics ?
+Guidance
+The candidate is expected to bring up the following costs with the value chain structure.
+Provide the following information when asked:
+• The price of consumer electronics chips has decreased.  The CEO mentioned that there are lots 
+of players in consumer electronics industry, therefore Semi Co. has high price pressure. They 
+cannot increase the price for their current products.
+• The volume sold has increased. But they need to be a price leader to get high volumes in the 
+future.
+The candidate should figure out the client needs to decrease cost.
+R & D
+Manufacturing
+Packaging
+Customers
+Shipping
+First Round
+48
+
+
+===== PDF p53 =====
+Case 6: Semi Co.
+Prompt #3
+Semi Co. has determined, with your help, that they need to decrease cost to increase their profits.  
+They have determined that the best way to do this is by cutting the size of their chips down. 
+If Semi Co. wants to decrease the chip cost by 10%, by what percentage  should the chip size be 
+decrease? 
+Guidance
+Provide the following information to the candidate:
+• The chip is cut from a wafer. 
+• The current dimension of the chip is 10mm x 10mm. Semi Co. can get 10,000 chips from one 
+wafer.
+• The cost of wafer is $500.
+• Packaging cost per chip is $0.08.
+• The wafer test cost per chip is $0.02.
+• The Final Test cost per chip is $0.02.
+• The labor rate is $3.5 / hr. The labor time per chip is roughly 30 sec.
+• Shipping cost per chip is 5% of total above cost. 
+• Overhead per chip is 15% of total above cost.
+• Profit per chip is 30% of total above cost, or 25% including shipping and OH.
+First Round
+49
+
+
+===== PDF p54 =====
+Case 6: Semi Co.
+Guidance
+The candidate should realize that:
+1. The wafer cost per chip is $0.05 ($500 / 10,000 chips)
+2. The total cost per chip is $0.30  
+(0.05 for wafer, 0.03 for labor, 0.12 for packaging and testing, 0.10 for shipping OH&P).
+3. The total cost per chip after 10% cost reduction is $0.30 * 90% = $0.27
+4. Assume all cost reductions come from the wafer costs, thus the new wafer cost is $0.02 / chip
+5. Semi Co. should decrease the chip size by 60%. (Which is very challenging)
+6. The number of chips per wafer is $500 / $0.02 = 25,000
+7. The chip size should be 10,000 * 100 / 25,000 = 40 (mm^2)
+8. The detailed calculation is:
+25,000
+First Round
+50
+
+
+===== PDF p55 =====
+Case 6: Semi Co.
+Prompt #4
+The CEO is walking in the room in 1 minute and expect a summary, please summarize your 
+recommendation?
+Guidance
+The candidate should have a structured approach about the final recommendation:
+1. Semi Co. should focus on consumer electronics since it accounts for 70% of the revenue.
+2. If they could decrease the chip size by 60%, their cost can be decreased by 10%, and increase 
+their profits by roughly 4% (not big impact).  They should not work on this as it is difficult to 
+achieve and low cost impact.
+3. Semi Co. should check if they can decrease the packaging cost since it is the key cost 
+driver (around 27% of the total cost)
+4. To further increase profit in the long term, Semi Co. should find methods to increase their price. 
+For example, invest more in R&D to be technology leader and get a price premium. 
+5. In the long term, develop healthcare and automotive revenue sources.
+First Round
+51
+
+
+===== PDF p56 =====
+Case 6: Semi Co.
+Performance 
+Evaluation
+Expected:
+•
+Provides a MECE framework, mentioning industry trend, product mix, revenue and cost
+•
+Realizes that consumer electronics should be their major focus
+•
+Correctly answers all questions
+Good:
+•
+Correctly provides the value chain structure and think logically of the reasons for profit declining
+•
+Asks relevant clarify questions right after the prompts are given
+•
+Performs all calculations with no errors and with little prompting
+Excellent:
+•
+Correctly and quickly performs all calculates in the case with no assistance from the interviewer
+•
+Keeps the interviewer engaged during the calculations and brainstorm sessions, demonstrating 
+strong communication skills
+First Round
+52

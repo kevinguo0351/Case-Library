@@ -1,0 +1,24 @@
+{
+  "case_id": "Tuck_2018_10_zika-virus-vaccine",
+  "school": "Tuck",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2018.pdf",
+  "idx": 10,
+  "case_name": "Zika Virus Vaccine",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Pharmaceuticals / Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 88,
+  "pdf_page_end": 93,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    90,
+    93
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p093.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2018\\10_zika-virus-vaccine"
+}

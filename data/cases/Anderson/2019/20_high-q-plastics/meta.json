@@ -1,0 +1,32 @@
+{
+  "case_id": "Anderson_2019_20_high-q-plastics",
+  "school": "Anderson",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2019.pdf",
+  "idx": 20,
+  "case_name": "High Q Plastics",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 172,
+  "pdf_page_end": 181,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    173,
+    176,
+    177,
+    178,
+    179,
+    180
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p173.png",
+    "exhibits/exhibit_p176.png",
+    "exhibits/exhibit_p177.png",
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p180.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2019\\20_high-q-plastics"
+}

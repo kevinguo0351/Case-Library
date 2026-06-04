@@ -1,0 +1,30 @@
+{
+  "case_id": "IESE_2021_10_blue-red-airlines-group",
+  "school": "IESE",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\IESE\\IESE_Case Book_2021.pdf",
+  "idx": 10,
+  "case_name": "BLUE & RED AIRLINES GROUP",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Aviation / Airlines",
+  "difficulty": null,
+  "pdf_page_start": 138,
+  "pdf_page_end": 146,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    141,
+    142,
+    143,
+    144,
+    145
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p141.png",
+    "exhibits/exhibit_p142.png",
+    "exhibits/exhibit_p143.png",
+    "exhibits/exhibit_p144.png",
+    "exhibits/exhibit_p145.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\IESE\\2021\\10_blue-red-airlines-group"
+}

@@ -1,0 +1,59 @@
+===== PDF p16 =====
+Table of Contents 
+ 
+12
+Practice Case 5: Aerosol can manufacturer  
+(Bain Round 2) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Your client is an aerosol can manufacturer. They buy sheet steel, cut 
+it into shape, paint it, weld it into a cylinder, apply a top and bottom 
+and then sell them to their customers. They do not fill the can. Over 
+the last 5 years their sales have increased from 80M to 120M, but 
+their profits have decreased from+10M to -40M. They want to know 
+what they should do. 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+Depreciation costs are the same and there has been no additional fixed 
+asset expenditure. 
+• 
+We have seen a steep increase in labor cost. The increases account for 
+about a third of the total cost increase. 
+• 
+Their pricing basis is Steel price + Value added, so they automatically 
+pass on all cost increases/savings to their customers.  
+• 
+5 years ago the average price we get for a can is 1p and now it is 3p. 
+What does it mean? 
+• 
+The costs of paint have increased by 40M over the last 5 years. 
+• 
+Painting is a capacity limiting step.  
+• 
+Company is foregoing additional sales ñ and have an opportunity cost 
+associated with this, but that hits the top line, not the bottom line.  
+• 
+Our customer requirements have changed: they are demanding higher 
+quality. 
+• 
+Historically we sold 40% to industrial clients, 30% into household 
+applications and 30% into consumer packaged goods. This has now 
+changed to 20/30/50. 
+• 
+For industrial clients we used stickers rather than paint. 
+ 
+III. Sample solution: 
+ 
+The cost basis increased by 90M over the last 5 years and I will started by 
+looking at why these costs may had increased.  
+ 
+The reason our client is loosing money is their shift to the higher priced 
+consumer segment. The additional quality requirements in this segment, in 
+particularly on the painting side, have limited our capacity and increased our 
+cost basis. Over the next weeks my team is going to look at: costs and 
+benefits of capacity addition, Outsourcing the painting to a 3rd party and 
+growing their industrial part of the business again. 

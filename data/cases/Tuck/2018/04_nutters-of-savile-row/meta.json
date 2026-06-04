@@ -1,0 +1,26 @@
+{
+  "case_id": "Tuck_2018_04_nutters-of-savile-row",
+  "school": "Tuck",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2018.pdf",
+  "idx": 4,
+  "case_name": "Nutters of Savile Row",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Luxury Apparel",
+  "difficulty": null,
+  "pdf_page_start": 35,
+  "pdf_page_end": 41,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    37,
+    40,
+    41
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p037.png",
+    "exhibits/exhibit_p040.png",
+    "exhibits/exhibit_p041.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2018\\04_nutters-of-savile-row"
+}

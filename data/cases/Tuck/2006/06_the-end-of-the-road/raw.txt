@@ -1,0 +1,130 @@
+===== PDF p48 =====
+© Tuck Consulting Club, 2006 
+Page 43 
+ 
+Tuck Consulting Club 
+The End of the Road 
+Case Description:  This case explores the economics of fleet car after sales and the value chain 
+ 
+Inventory: [no exhibits] 
+ 
+Industry: Automotive 
+ 
+Suggested frameworks:  
+ 
+ Profitability  
+    3 C’s 
+ 
+ Value Chain  
+ Microecon. Analysis 
+ Market Entry     
+    4 P’s 
+ 
+ Supply Chain  
+ Internal / External 
+ Competitive Threat     Porter’s 5 Forces 
+ Market Sizing 
+ Other 
+ 
+ 
+Introduction 
+ 
+Car manufacturers (this case will use GM as a proxy for the hypothetical client name) sell vehicles 
+to car rental agencies, corporations, and nonprofits under the umbrella of “fleet sales.” At the end 
+of that period, GM essentially recalls the vehicle and manages its sale into the aftermarket (used 
+car market). It is easiest to think of this as GM owns the car and leases it out for a fixed period. 
+The client has initiated a small pilot that is exploring more profitable ways of disposing of fleet 
+vehicles. Your job is to determine if we should roll out this pilot more broadly. 
+ 
+Under the old system, a fleet vehicle comes available in LA. GM contacts an auctioneer who 
+purchases the vehicle from GM for $500. The auctioneer picks up the vehicle, refurbishes it, and 
+sells it to a local dealer. The local dealer sells the car to local customers. 
+ 
+Under the pilot scheme, GM has built an online auction site for customers located in Milwaukee. 
+Online customers visit the site and can choose from fleet cars located anywhere in the US. Once a 
+customer chooses a car, she can buy it online using GM financing or other personal means. The 
+average auctioned car price is $2500, so the new system has incremental revenue of $2000.  
+ 
+ 
+
+
+===== PDF p49 =====
+© Tuck Consulting Club, 2006 
+Page 44 
+ 
+The End of the Road (continued) 
+ 
+Case Details 
+ 
+Question 1: Should we roll it out further? 
+ 
+Info to be given as case progresses: 
+• GM would continue to sell other fleet vehicles through the existing channel. It would 
+cherry pick the best 30-50% of cars for this program. 
+• An auctioneer near the vehicle would pick up the car and refurbish it 
+• The vehicle would be transported to a dealer local to the customer 
+• The customer would test drive the vehicle at the local dealer, confirm terms, and take 
+home the vehicle 
+ 
+Info to be given if asked: 
+• Customer can buy a car from any physical location 
+• The customers are the same type as before 
+• The auctioneer realizes the same margin on refurbishment but loses the margin on sale 
+to dealer 
+• The dealer sells both new and used GM cars. The dealer realizes the same margin on 
+services, but loses the margin on sale to customer  
+• Fleet sales comprise 10% of sales 
+• Resale revenues(profits) under the old system comprise $25 MM (on 50K vehicles) 
+• GM costs under new system: 
+o $600—Auctioneer for refurbishment 
+o $100—Transportation to customer 
+o $400-$700—Dealer for transfer costs / warranty service 
+o $200—Administration and online infrastructure 
+ 
+
+
+===== PDF p50 =====
+© Tuck Consulting Club, 2006 
+Page 45 
+ 
+The End of the Road (continued) 
+ 
+Recommended Solution 
+ 
+Question 1 Details 
+• Additional GM profit per vehicle is $400-$700. ($2000 incremental revenue minus 
+costs GM now bears as the car owner, totaling $1300 - $1600) 
+• Total profit is now $900-$1200 (ask them this, they will likely forget that the $400-
+$700 is incremental and think the new system only generates $400-$700 profit) 
+• So the new system is more profitable for GM 
+• Auctioneer and dealers lose out on margin from value chain sales 
+ 
+ 
+Overall Recommendations 
+ 
+A good answer includes: 
+• Calculating the math to derive unit profits 
+• Understanding that auctioneers and dealers lose out on this 
+ 
+A better answer includes: 
+• Reference to the fact this is creating only $20-$35 MM additional profit for GM, and 
+yet is disrupting the channel to do it 
+• Reference to the complicated logistics of owning the vehicle in the channel, including 
+when GM should post the vehicle? Where does the vehicle sit while waiting to be 
+bought online? Is there a time limit? 
+• Reference to the microeconomic effects that cherry picking cars for GM program will 
+have on fleet sales that continue to operate though original channel 
+ 
+A superior answer includes: 
+• Recognizing that GM could lose significantly if the channel revolts or if customers 
+react to lesser quality vehicles available through existing sales channels 
+• A very measured approach for rollout that monitors effect on channel / partners with 
+channel in a unique way 
+• Alt: Cancels the pilot to protect the channel 
+• Alt: Recognizes that the problem is having two channels; migrates all sales to online 
+and eliminates old system 
+ 
+Things to avoid: 
+• Spending a long time calculating total MM impact – unit is sufficient  
+• What goes into GM profit calc in old system – auctioneer buys from GM for $500. 
+Done. Profit. Don’t talk about depreciation – assume fleet sales prices cover all that 

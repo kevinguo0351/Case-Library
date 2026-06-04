@@ -1,0 +1,195 @@
+===== PDF p32 =====
+28 
+SoCal Hospital 
+Our client is a mid-to-large size hospital in CA. The hospital is struggling with falling 
+profitability, and has asked us to help improve its margins.  
+Problem Statement Narrative 
+Company:  
+Strategy&, Round 1 
+Difficulty:  
+Easy 
+Industry:  
+Healthcare 
+Case Type:  
+Profitability, cost-cutting 
+Written by Revti Gupta ’15 
+ 
+• Profitability 
+• Creativity 
+• Supply Chain 
+Concepts Tested 
+Case: SoCal Hospital 
+The case is a bit more interviewer-led/ conversational than a typical Booz case, but the idea is to 
+test the candidate’s ability to quickly drill down to the root cause with very limited information 
+about the hospital structure 
+Case Notes 
+
+
+===== PDF p33 =====
+29 
+• Hospital is not managed by professionals. 
+Company 
+Market 
+• Ask the interviewee to identify potential 
+costs for the hospital 
+Costs 
+• Falling, since patients and insurers willing 
+to pay less, and fewer patients coming in. 
+Hospital has tried increasing patients by 
+improving its branding and service 
+offerings, without much success 
+Revenues 
+SoCal Hospital 
+Potential Areas for Analysis 
+•
+All competitors facing same scenario 
+because of the changing nature of the 
+industry 
+
+
+===== PDF p34 =====
+30 
+SoCal Hospital 
+Sample Framework 
+Profit= 
+Revenues  
+•No of patients (insured v uninsured) 
+•Avg price paid by insurance/ patients per procedure 
+•No of days hospital stay required 
+•Price per night 
+•Other factors – pro bono patients 
+ 
+Costs 
+•Doctors & nurses 
+•Administrative staff 
+•Malpractice insurance 
+•Equipment & Maintenance of equipment 
+•Ambulances 
+•Basic medical supplies (gloves, scalpels, etc) 
+•Hi-tech Medical supplies (e.g. pacemakers, stents, etc) 
+• Supply chain/ sourcing 
+ 
+Other factors: 
+•Competition in area 
+•Brand value of hospital & doctors 
+•Service quality 
+•Relationship with insurers 
+Sample Framework 
+Probe the interviewee on the costs side of the framework. 
+If he/she asks how the hospital supply chain/ 
+procurement is set up, provide the information that it is 
+decentralized, with doctors ordering parts like pacemakers, 
+artificial hips, etc. directly as and when they need them. If 
+not, guide them into thinking about how the procurement 
+structure  of a poorly-managed hospital might look, and 
+zero in on the medical supplies procurement 
+Guidance for Interviewer 
+Every surgeon orders their medical supplies directly from a 
+different vendor.   
+If interviewee asks, there is no difference in the quality of 
+the different supplies. 
+Clarification Answers if Asked  
+
+
+===== PDF p35 =====
+31 
+SoCal Hospital 
+Exhibit #1: Hip replacements 
+% of surgeries 
+Price of artificial 
+hip ordered 
+10% 
+$1000 
+50% 
+$1400 
+20% 
+$2000 
+20% 
+$2200 
+# of surgeons 
+25 
+# of procedures 
+each per year 
+20 
+ 
+
+
+===== PDF p36 =====
+32 
+SoCal Hospital 
+Question #1 
+For a sample procedure, hip replacements, you compile the data as given in Exhibit 1, which shows the different costs of 
+the artificial hips ordered by different doctors from different vendors. What conclusions can you draw from this? There are 
+about 30 basic procedures like hip replacements, which have similar costs and ordering patterns.  
+Question #1 
+20*25= 500 hip replacements performed every year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By centralizing the purchase of artificial hips, the hospital can order the $1400 hip for 90% of the procedures (the 
+$1000 one is also a fair answer but it may be a reasonable assumption to stick with the vendor half the doctors are 
+comfortable with). We could allow the 10% that use the $1000 hip to continue ordering the cheaper one if they’re 
+happy with it.  
+Total potential savings across 30 procedures if this process is repeated= 140,000*30= $4.2mn saved annually 
+ 
+Solution 
+% of 
+surgeries 
+Price of 
+artificial hip  
+Total expense 
+Potential saving 
+10% 
+$1000 
+=500*.1*1000= $50000 
+0 
+50% 
+$1400 
+=500*.5*1400= $350000 
+0 
+20% 
+$2000 
+=500*.2*2000= $200000 
+=600*500*.2=60000 
+20% 
+$2200 
+=500*.2*2200= $220000 
+=800*500*.2= 80000 
+Average price= 820000/500= $1640  
+Total savings= $140,000 
+
+
+===== PDF p37 =====
+33 
+SoCal Hospital 
+Conclusion 
+• The current system results in wildly varying 
+prices, without much difference in quality of 
+supplies, and drives up average cost.  
+• Ordering in bulk would allow them to further 
+negotiate prices than what we estimated 
+Rationale 
+• The hospital should institute a central purchasing 
+department that orders expensive parts like 
+artificial hips, stents, valves, pacemakers, etc, 
+since this will save them over $4.2mn annually. 
+Recommendation 
+• They might need a proper inventory 
+management system to ensure availability of 
+these parts when needed 
+ 
+Next Steps 
+• They might damage some vendor relationships 
+• Surgeons may be upset about the change of their 
+vendors, and may even leave the hospital 
+• Purchase department may not be as well 
+informed about the technical specs for these 
+supplies as the surgeons are 
+Risks 

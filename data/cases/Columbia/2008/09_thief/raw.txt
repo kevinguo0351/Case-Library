@@ -1,0 +1,204 @@
+===== PDF p44 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 40 - 
+Case 9: Thief 
+ 
+ 
+BACKGROUND 
+ 
+Firm: Booz Allen  
+Round: 2007 Full-Time, First Round 
+Content: Quantitative 
+ 
+CASE QUESTION 
+ 
+It’s noon, a thief has to decide which store is convenient for him to rob: a bakery, a 
+flower shop or a luxury chandelier store. Which one should he choose, what factors 
+should he consider? 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: The interviewee should immediately focus on cash-on-hand 
+and sales/day because the robber cannot re-sell goods. The thief should which shop has 
+more cash, which is probably the one with more sales and less use of credit cards and 
+checks.  Good candidates should be able to do this with both methods. 
+ 
+Key facts:   
+The most important factors are 
+ Cash delivery: 
+o All three shops deliver the cash to the bank every night 
+o There are no differences in the alarm systems for the shops, this case is about 
+cash-flow and not about thieving techniques 
+ Forms of payment: 
+o Bakery clients only pay with cash and don’t use credit card 
+o Flower shop clients pay using either credit card or cash 
+o Chandelier buyers pay only using credit card or check 
+ The three stores are family owned: 
+o The three families have the same life style, and probably have the same net 
+incomes from their business 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: So, if you were this thief what would you do? 
+ 
+Interviewee:  Honestly, I have never thought about this problem. Can I take a second to 
+understand they key aspects of the question? 
+ 
+
+
+===== PDF p45 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 41 - 
+Interviewer: Sure, take your time. The police are not around 
+ 
+Interviewee:  Can the robber resell the items he steals? 
+ 
+Interviewer:  No. 
+ 
+Interviewee: Then, I think the thief should robber the shop with more cash on hand 
+ 
+Interviewer: That is probably true, how would you estimate the cash on hand for each 
+shop? 
+ 
+Interviewee:  The cash comes from the customers of the shop who paid cash and not 
+using credit card.  
+ 
+Interviewer: Ok, so what would you do? 
+ 
+Interviewee:  I want first to analyze the sales s for each store and than I will estimate the 
+percentage of customers paying cash 
+ 
+Interviewer: That sounds like a good starting point. 
+ 
+Interviewee: Sales are volume * price. Do we have any information about number of 
+customers for the three stores? What about the average prices? 
+ 
+Interviewer: We know this: 
+ 
+Shop 
+Traffic 
+Price 
+Chandelier store: 
+2 customers /day 
+$500 average price 
+Flower shop: 
+16 customers/ day 
+$15-$25 average price 
+Bakery: 
+2 assistants, 10 customers/hour/assistant, 
+opens at 6am 
+$1 per item 
+ 
+Interviewee: Perfect. Let’s calculate the number of customers for each shop. Assuming 
+that the stores have been open for half day so far, and that the distribution of customers is 
+uniform during the day, we can say that: 
+ 
+Chandeliers store: 1 customer 
+Flower shop: 8 customers 
+Bakery: 10 customers/hour/assist * 6 hours * 2 assistants = 120 customers  
+ 
+With these assumptions we can finally calculate revenues: 
+ 
+Shop 
+Traffic 
+Price 
+Revenues 
+Chandelier store: 
+1 customer 
+$500 average price 
+$500 
+
+
+===== PDF p46 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 42 - 
+Flower shop: 
+8 customers 
+$20 average price 
+$160 
+Bakery: 
+120 customers 
+$1 per item 
+$120 
+ 
+Interviewer: That sounds reasonable. So should he rob the chandelier store? 
+ 
+Interviewee: Most likely not. The chandelier store sells expensive products and probably 
+100% of the customers don’t pay with cash. I would exclude the chandelier store also 
+because there is too much risk that with only one expected customer nothing has been 
+sold so far.   
+ 
+Interviewer: What about the other two stores? 
+ 
+Interviewee: I assume that all the bakery customers pay by cash. Some of the flower 
+store customers pay by cash and the reaming would likely use debit or credit card. Is that 
+correct? 
+ 
+Interviewer: Yes, that is correct. What percentage of customers of the florist should use 
+cash so that it would be more convenient to robber the florist? 
+ 
+Interviewee: Since the bakery has $120, we need at least $120/$160 = 75% of the florist 
+customers paying by cash.  
+ 
+Interviewer: Do you think this is possible?  
+ 
+Interviewee: No, I would rather think that the percentage is 50%-50%.  If I were the thief 
+I will visit the bakery. 
+ 
+ 
+Interviewer: Very good. I want you to analyze the same problem from a different 
+perspective. Let’s assume that the thief knows neither the number of customers in the 
+shops nor the average prices. How could he estimate the cash on hand of each store? 
+ 
+Interviewee: What information the shoplifter has? Does he know the income of the 
+owners of the store? 
+ 
+Interviewer: Let’s assume that all the three stores are family owned. The three families 
+have the same life style and most presumably have the same net income from the stores. 
+Where the shoplifter should go? 
+ 
+Interviewee: Since the three families have the same income, we can assume that the 
+bakery has more sales. 
+ 
+Interviewer: Why? 
+ 
+
+
+===== PDF p47 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 43 - 
+Interviewee: Because profit margins are much lower for bakery stores than for luxury 
+chandeliers stores and flower stores. 
+ 
+If we assume that all three family earns, for example, $3,000/month and that margins are: 
+ 
+Shop 
+Income/month 
+Margins 
+Sales/month 
+Chandelier store: 
+$3,000 
+50% 
+$6,000 
+Fleur shop: 
+$3,000 
+20% 
+$15,000 
+Bakery: 
+$3,000 
+2% 
+$150,000 
+ 
+ 
+Since the shoplifter cares about sales and cash-on-hand, under these assumptions, I would 
+still visit the bakery. 
+ 
+Interviewer:  Very good. 

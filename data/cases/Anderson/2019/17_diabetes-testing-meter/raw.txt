@@ -1,0 +1,180 @@
+===== PDF p148 =====
+17 / Diabetes Testing Meter
+• Our client is a laboratory that provides diabetes testing services to hospitals in the UK. They have developed a self-diagnosis meter
+that patients can use to do testing on their own. They have hired us to determine if we should take this product to market.
+Overview for Interviewer
+Industry: Pharma
+Case Format: Market Entry
+Concepts Tested:
+• Market Entry
+• Market Sizing
+• Break-Even / Profitability
+Notes
+• This case is interviewer guided/lead.
+• This is a market entry case where the candidate is required to evaluate
+the feasibility of a new product in in the pharmaceutical/healthcare
+space.
+• The candidate should use a comprehensive framework, walk the
+interviewer through it, and be prepared for analytical detours throughout
+the flow of the case.
+• Major Buckets Include:
+• Customer Demand
+• Competition
+• Costs & Revenues
+• Candidates should answer following questions during the case:
+• Is there enough long term demand for this product given current
+competition?
+• What options does the company have, in terms of taking this
+product to market?
+• Note: UK Population is ~60M
+
+
+===== PDF p149 =====
+Interviewer Guidance
+Clarifying Answers to Provide if Asked
+Demand Estimation
+• UK Population = ~60M
+• 30% of people have diabetes
+• 5% > 65 have diabetes
+• 20% population is > 65
+• No growth in % or population
+Competition
+• 4 competitors
+• Market share 25%, 25%, 15%, 15%
+• Client has 20% share
+• Growth was 20% until two years ago
+• Growth since is flat
+Revenue & Costs
+• Fixed cost is $25M
+• Marginal Cost is $20
+• Per Unit Revenue is $25
+Additional Points
+• Patients could op to use both methods
+• Product
+could
+be
+promoted
+as a
+prevention device (low cost option for
+testing diabetes)
+Interviewer Guide to Case and Handouts
+Case Structure
+The first question will focus on long-term demand given current competition. 
+Candidate should first focus on break-even and profitability, and then 
+understand the size of the total market. 
+The remainder of the case should follow a “call and response” in which the 
+interviewer is asking direct questions, and is looking for thorough and 
+structured thought from candidates in each answer. 
+Answers 
+Candidates should identify the breakeven point, then recognize that even at 
+100% capture the firm won’t be profitable. Candidate should work to use 
+industry-specific language, and identify that there are potential cannibalization 
+issues for the company.
+
+
+===== PDF p150 =====
+Core Case Question 1
+1 / Break Even & Market Potential 
+Is there enough long term demand for this product given the current landscape?
+Notes to Interviewer
+Candidate should conduct a break-even analysis here:
+• Per Unit Profit = $25 - $20 (MC) = $5
+• Fixed Cost = $25M / $5 = 5,000,000 units to break even
+How Big is the Total Market?
+• 80% pop. < 65 = 48M @ 30% Prevalence = 14.4M
+• 20% pop > 65 = 12M @ 5% Prevalence = 0.6M
+• Total Diabetic Population = 15M
+• Client’s Market Share = 20% * 15M = 3M
+Assuming they capture 100% of their market share, they
+still won’t be able to make a break even point. Given no
+population growth, there is not enough long term demand
+for a profitable or break-even product.
+Exceptional Candidates Will Mention…
+•
+This number doesn’t account for canibalization, or taking market
+share from existing competitors. This product, if it brings positive
+PR and attention, could act as a loss-leader to get customers to
+purchase other medications from the brand. Because this is zero-
+sum, every customer you gain is lost from a competitor.
+•
+Note that there could be opportunities outside of the UK, such as the
+USA and Mexico which are the two countries, globally, with the
+highest rate of diabetes.
+
+
+===== PDF p151 =====
+Core Case Question 2 & 3
+2 + 3 / Break Even & Market Potential 
+What options does the company have in terms of taking this
+product to market?
+Notes to Interviewer
+This is a high-level discussion and should touch on delivery 
+channels for the medical industry. Candidate should do best 
+to use industry specific vocabulary, rather than speak in 
+generic distribution methods.
+• Concepts should include: Through National Insurance 
+(U.K. has nationalized insurance) Partnership (i.e. sign w/ 
+national insurance as , partnerships w/ hospitals; door-to-
+door sales; doctor’s offices
+Exceptional Candidates Will Mention…
+Giving patients capability to test glucose levels in home may 
+remove revenue models for hospitals (no longer have patients 
+visiting to have service performed) so revenue would decrease 
+for hospitals from this business line and they would likely 
+decrease orders and eat into our client’s revenue from its 
+hospital business.
+Are there any cannibalization effects with regards to
+hospitals in terms of introducing the product?
+
+
+===== PDF p152 =====
+Core Case Question 4 & 5
+4 / Other Options
+If the product can’t be launched within the UK, what else
+can the lab do with the product?
+Notes to Interviewer
+Consider launching the product in other markets like the US
+or Mexico where diabetes prevalence is high and our client
+may not have hospital testing business, thereby reducing
+cannibalization efforts.
+•
+Due to the limited number of customers available and low future
+growth prospects, the product should not be launched in the UK
+market at this time.
+•
+The company should look at markets outside the US, or sell it to
+hospitals or competitors
+•
+Keys to a good finish: Find a way to deliver difficult news while
+remaining optimistic for future prospects and growth.
+Can
+you
+please summarize and
+give us
+your
+final
+recommendation?
+5 / Summary
+Notes to Interviewer
+
+
+===== PDF p153 =====
+Potential Structure
+Market
+• Number of Patients
+• Competitors
+• Trends
+• Benchmarking similar 
+products
+Customers
+• Hospitals and doctors
+• National Health Insurance
+• Patients
+• Willingness to pay
+• Alternatives
+Company
+• Product Mix
+• Cannibalization Risks
+• Launch Considerations
+• Break-even analysis
+• Fiscal / Time Restrictions

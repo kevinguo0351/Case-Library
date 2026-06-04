@@ -1,0 +1,228 @@
+===== PDF p91 =====
+87 
+Prompt 
+One of our private equity clients recently acquired a leading European seafood restaurant chain.  
+The chain owns and operations 700 restaurants across Europe.  Same store sales (SSS) declined 
+last year.  The private equity parent has aggressive expectations for improved business 
+performance.  How can the client improve SSS? 
+Guidance 
+When the candidate asks about SSS and the main driver of that, please hand them Exhibit 1.  The 
+main takeaway here should be that customer traffic is highly correlated with SSS growth. 
+ 
+When the candidate asks for competitor information, please hand them Exhibit 2.  The main 
+takeaway here should be that there is limited opportunity to increase price or bill size. 
+ 
+When the candidate asks about the current table configurations, please hand them Exhibit 3.  The 
+main takeaway here should be that there is opportunity to reconfigure the restaurants to 
+accommodate more parties of one or two. 
+Analysis 
+The data shows that 4-seater tables are ~50% utilized during peak hours [Look at the chart.  It is 
+hard to read on purpose.  About ¼ of the 4-seat tables are occupied by 3 people.  About ¾‘s of the 
+4-seat tables are occupied by 3 people.  Thus, ¼(75% occupancy)+ ¾ (50% occupancy) = ~50% 
+utilization]; there are on average 2 people sitting at a 4-seater (4-seat capacity*50% utilization). 
+ 
+Lets assume we reconfigure each restaurant so that one 4-seater is separated into two 2-seaters, 
+effectively adding 2 seats.  When the candidate suggests this, prompt him/her by asking ―What 
+is the bottom line impact of adding 2 seats per restaurant? 
+ 
+Additional Seats: 2 
+Peak Hours: 2 (let the candidate make this assumption) 
+Table turns per hour: 2 (let the candidate make this assumption) 
+Additional meals per restaurant= 2 x 2 x 2 = 8 meals 
+8 meals/restaurant x 700 restaurants (give this number when requested) = 5,600 meals total 
+5,600 meals x $50/average meal (give this number when requested) = $280,000 revenue 
+$280,000 revenue x 30% margin (give this number when requested) = $84,000 additional profit/day 
+$84,000/day x 360 days/year (let candidate make this assumption) = ~$30 M additional profit/year 
+Case 17: Euro Seafood 
+Profitability 
+Bain 
+Unknown Round 
+
+
+===== PDF p92 =====
+88 
+Analysis 
+Synthesis of the case facts: 
+Customer Traffic 
+ Traffic is the biggest contributor to SSS growth 
+Client should focus on initiatives that add the most value with minimal investment 
+Improved seat utilization could deliver an extra $30M annually in profits 
+ 
+Number of items 
+Average check size and margins are higher than competition 
+ 
+Price per menu item 
+Client already priced at a premium over competitors 
+ 
+Performance 
+Evaluation 
+Expected:  The candidate will interpret handouts and offer insights  while viewing them.  The 
+candidate will also recognize the opportunity to optimize the table configurations. 
+ 
+Good:  The candidate will do all of the above while also  probing about the table configurations 
+without the interviewer‘s assistance.  The candidate will begin to calculate the bottom-line impact 
+without the interviewer‘s assistance. 
+ 
+Excellent:  Candidate will do all of the above while also remembering to synthesize the entire case 
+before closing out.  Making sure to educate the client on our findings and not focusing on the 
+opportunity to optimize the tables. 
+ 
+Case 17: Euro Seafood 
+Profitability 
+Bain 
+Unknown Round 
+
+
+===== PDF p93 =====
+89 
+Case 17: Euro Seafood – Exhibit 1 
+Profitability 
+Bain 
+Unknown Round 
+-20
+-10
+0
+10
+20
+30%
+-10
+-5
+0
+5
+10 15%
+SSS change
+Unit Price change
+R² = 0.04
+-20
+-10
+0
+10
+20
+30%
+-20
+-10
+0
+10
+20%
+SSS change
+# of items change
+R² = 0.04
+-20
+-10
+0
+10
+20
+30%
+-20 -10
+0
+10
+20 30%
+Monthly Traffic
+change
+SSS change
+R² = 0.82
+Price per item 
+Number of items 
+Customer traffic 
+
+
+===== PDF p94 =====
+90 
+Case 17: Euro Seafood – Exhibit 2 
+Profitability 
+Bain 
+Unknown Round 
+0
+3
+5
+8
+10
+€13
+Average price per menu item
+Client
+10.95
+Chain 1
+9.95
+Chain 2
+9.50
+Chain 3
+9.00
+Chain 4
+8.75
+Items
+per bill
+4.4
+4.6
+4.1
+4.7
+3.9
+30%
+28%
+27%
+27%
+16%
+Margin
+
+
+===== PDF p95 =====
+91 
+Case 17: Euro Seafood - Exhibit 3 
+Occupancy During Peak Hours 
+Profitability 
+Bain 
+Unknown Round 
+0
+20
+40
+60
+80
+100%
+Customer count
+Party size
+4
+5
+3
+1
+2
+6
+Table size
+4
+2
+8
+6
+9
+9+
+87
+
+
+===== PDF p96 =====
+92 
+Case 17: Euro Seafood – Exhibit 3 
+Interviewer Copy.  DO NOT GIVE CANDIDATE 
+Profitability 
+Bain 
+Unknown Round 
+0
+20
+40
+60
+80
+100%
+Customer count
+Party size
+4
+5
+3
+1
+2
+6
+Table size
+4
+2
+8
+6
+9
+9+
+87
+50% efficient 
+75% efficient 

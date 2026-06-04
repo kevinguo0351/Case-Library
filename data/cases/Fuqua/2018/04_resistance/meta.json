@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2018_04_resistance",
+  "school": "Fuqua",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2018.pdf",
+  "idx": 4,
+  "case_name": "Resistance",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Pharmaceuticals",
+  "difficulty": "Medium",
+  "pdf_page_start": 54,
+  "pdf_page_end": 62,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p056.png",
+    "exhibits/exhibit_p057.png",
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p059.png",
+    "exhibits/exhibit_p060.png",
+    "exhibits/exhibit_p061.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2018\\04_resistance"
+}

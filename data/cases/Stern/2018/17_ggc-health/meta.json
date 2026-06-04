@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2018_17_ggc-health",
+  "school": "Stern",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2018.pdf",
+  "idx": 17,
+  "case_name": "GGC Health",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": "Hard",
+  "pdf_page_start": 167,
+  "pdf_page_end": 175,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    169,
+    170,
+    172,
+    174,
+    175
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p169.png",
+    "exhibits/exhibit_p170.png",
+    "exhibits/exhibit_p172.png",
+    "exhibits/exhibit_p174.png",
+    "exhibits/exhibit_p175.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2018\\17_ggc-health"
+}

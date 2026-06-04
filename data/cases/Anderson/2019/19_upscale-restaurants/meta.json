@@ -1,0 +1,28 @@
+{
+  "case_id": "Anderson_2019_19_upscale-restaurants",
+  "school": "Anderson",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2019.pdf",
+  "idx": 19,
+  "case_name": "Upscale Restaurants",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Restaurant",
+  "difficulty": null,
+  "pdf_page_start": 163,
+  "pdf_page_end": 170,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    164,
+    165,
+    166,
+    170
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p164.png",
+    "exhibits/exhibit_p165.png",
+    "exhibits/exhibit_p166.png",
+    "exhibits/exhibit_p170.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2019\\19_upscale-restaurants"
+}

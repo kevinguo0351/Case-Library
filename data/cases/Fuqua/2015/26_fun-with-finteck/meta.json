@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2015_26_fun-with-finteck",
+  "school": "Fuqua",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2015.pdf",
+  "idx": 26,
+  "case_name": "Fun with FinTeck",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Finance/Technology",
+  "difficulty": null,
+  "pdf_page_start": 268,
+  "pdf_page_end": 277,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    270,
+    271,
+    272,
+    273,
+    274,
+    275
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p270.png",
+    "exhibits/exhibit_p271.png",
+    "exhibits/exhibit_p272.png",
+    "exhibits/exhibit_p273.png",
+    "exhibits/exhibit_p274.png",
+    "exhibits/exhibit_p275.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2015\\26_fun-with-finteck"
+}

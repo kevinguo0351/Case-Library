@@ -1,0 +1,167 @@
+===== PDF p68 =====
+Case: Greeting Card Manufacturer
+BCG, Mock Interview
+A greeting card manufacturer has experienced decreased profit.  The CEO has asked you to figure out why.
+Problem statement narrative
+64
+This case involves a discussion of both the revenue and cost 
+drivers of profit.  Greeting card companies operate with a 
+unique revenue system, and this will also affect the cost side 
+of the company.
+Case Type: Profitability
+Overview for interviewer
+The greeting cards are stocked at grocery stores and 
+pharmacies like CVS
+Greeting cards are good for one season only – if a card 
+does not sell by the end of the season, it will be shipped 
+back to the manufacturer at their expense and discarded
+The greeting card industry has experienced moderate 
+growth over the years
+Competitors have experienced steady or slightly increased 
+profit
+Information to be provided upon request
+
+
+===== PDF p69 =====
+Case: Greeting Card Manufacturer
+Potential Categories of Candidate’s Framework
+Notable comments / potential discussion points
+Industry Analysis
+• Greeting cards market: growing, shrinking, stable?
+• Competitors: market share, growth rate
+• Consumers: needs, brand perception, differentiation?
+Profit drivers
+• Revenue
+ff
+65
+• Factors that affect sales volume
+• Card selection
+• Card supply
+•Is it better to overstock or stock just the right amount?
+• Overstock: customers like choices; it looks bad when there is only one card on the shelf –
+creates more goodwill when there are additional cards even if they will not all sell
+• Just the right amount: do not incur additional shipping costs to send unsold cards back to the 
+manufacturer; do not incur variable costs for unsold cards; why make more than you can sell?
+• How does the greeting card manufacturer earn revenue?  What are the revenue streams?
+• Costs 
+• What are the fixed costs?
+• What are the variable costs?
+• Is there anything special about greeting card costs?
+The candidate must figure out how the greeting card manufacturer earns revenue as well as how costs are incurred.
+
+
+===== PDF p70 =====
+Case: Greeting Card Manufacturer
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+How is the greeting card industry 
+doing? 
+How are competitors performing 
+compared to our company?
+Are there changing trends?
+Industry Analysis
+What factors affect sales volume?
+What are the repercussions if a 
+customer walks into a retailer and the 
+card shelves are empty? 
+Is it better to overstock or stock just the
+Revenues
+What are the fixed costs?
+What are the variable costs?
+Costs
+66
+Are there changing trends?
+Is it better to overstock or stock just the 
+right amount?
+What are the revenue streams?
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+• If shelves are empty, the following 
+repercussions are possible:
+• Lose the sale entirely, result in 
+poor brand awareness; lose 
+customers to competitors; create 
+poor relationships with retailers
+• Manufacturer receives payment only 
+when cards are SOLD to consumers.  
+Unsold cards are shipped back at the 
+manufacturer’s expense
+COGS: $1.50
+SG&A: $0.25
+Shipping: $0.05 (only incurred if the card 
+is unsold)
+Fixed Costs: $200,000 (printing presses, 
+plants, admin)
+• The greeting card industry has 
+remained stagnant throughout the 
+years due to threats such as e-cards
+• Competitors have experienced stable 
+or moderate increases in profit
+• Our company’s cards have 
+continuously sold out in retailers as 
+compared to competitors
+
+
+===== PDF p71 =====
+Case: Greeting Card Manufacturer
+Question 1 – Breakeven
+Break even = Fixed Costs / Unit Contribution
+Overall approach, good shortcuts & solution
+N/A
+Information to provide up front
+Math Question
+If greeting cards are sold at $3.00 per card and fixed costs are $200,000 per year, how many cards must the greeting 
+card manufacturer sell to break even?
+67
+Fixed Costs = $200,000
+Unit Contribution = $3.00 - $1.50 - $0.25 = $1.25
+Break even = $200,000 / $1.25 = 160,000 cards
+COGS: $1.50
+SG&A: $0.25
+Shipping: $0.05 (only incurred if the card is unsold)
+Fixed Costs: $200,000
+Provide information if asked
+
+
+===== PDF p72 =====
+Case: Greeting Card Manufacturer
+Sample Recommendation
+The greeting card manufacturer should improve revenues by ensuring a wide selection and supply of 
+cards at each retailer while also keeping in mind the number of unsold cards at the end of the selling 
+season.  The increase in goodwill and brand awareness among retailers and consumers outweighs the 
+added variable costs from unsold cards.
+Recommendation
+Supplying extra cards may not be profitable if the quality of the cards are lacking compared to 
+competitors’.
+Risks
+The manufacturer should perform additional research regarding how consumers choose greeting cards 
+d d t
+i
+if
+ld
+d
+b
+d i
+f
+hi
+(
+l
+l
+)
+Next Steps
+68
+and determine if unsold cards may be re-used in any fashion (salvage value).
+Next Steps
+The number of cards sold during the year depends on 
+the number of cards shipped to the retailer.  If these 
+are the expected sales numbers, which one should the 
+manufacturer choose?
+Shipment Quantity: 2,000, Sales Volume: 1,900
+Shipment Quantity: 2,500, Sales Volume: 2,200
+Shipment Quantity: 2,700, Sales Volume: 2,300
+Profit = ($1.25 * 2,200) – ($1.8 * 300) = $2,210
+BONUS

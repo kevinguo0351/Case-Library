@@ -1,0 +1,304 @@
+===== PDF p87 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 89 -
+© 2005 Michigan Consulting Club
+Case 28: Sandwich Bags (I of VII) 
+The Boston Consulting Group, Sample Case
+Establishing the 
+Case
+Establishing the 
+Case
+Your client is a very small consumer packaging 
+company.  One of their product lines, for which they 
+have one dedicated machine, is plastic bags for food 
+storage.  They have 3 sizes of bags – 4” (sandwich bag) 
+8” quart bag and 12” (gallon bag).  The bags are all the 
+same width – the sizes refer to the length of the bag.
+The client is facing more demand than they think that 
+they have capacity to produce.  They have called us in to 
+figure out a 2 key questions:
+ How can they best utilize their current bag capacity?
+ Should they invest in a new bag machine?
+Let’s start with the capacity question.  How would you 
+want to start to think about this problem?  What 
+information would you want to have?
+• Candidate should be interested in issues such as:
+• Capacity of the machine
+• Demand for each product
+• Revenue / costs for each product
+• Production time for each product
+• Provide candidate with capacity and demand/ blank-
+profitability slides if they ask for that type of data
+• Prompt with “So, based on this information, what 
+would you recommend the company produces on its 
+rollers and why?”
+• Answer should be: 4” and 8” bags w/ 12” bags as 
+overload
+• PART II:  “So, the client has some extra demand they 
+have not met, should they invest in another roller?  
+What information would you like to know?”
+• If asked:
+• Cost: $750K
+• Payback: 5 years
+• Demand growing at population growth
+• Mature market, no dramatic changes
+• Throughput growing at 2% due to efficiency
+Problem statement narrative
+Interviewer guidance & key questions(1)
+(1) If detailed exhibits exist, they will be referenced in this box,
+and included in full on the following slide(s)
+
+
+===== PDF p88 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 90 -
+© 2005 Michigan Consulting Club
+500 “bag-widths” produced per hour
+Runs 20 hours / day
+5 days / week
+50 weeks per year
+Total of 5000 hours of production per year
+Key Capacity Data
+4” bags
+Machine
+Machine
+Machine
+8” bags
+12” bags
+1 “bag-width”
+1 “bag-width”
+1 “bag-width”
+4”
+4”
+4”
+4”
+4”
+4”
+8”
+8”
+8”
+12”
+12”
+Case 28: Sandwich Bags (II of VII) 
+The Boston Consulting Group, Sample Case
+Candidate 
+Handout 
+Capacity
+(Upon 
+Request)
+Candidate 
+Handout 
+Capacity
+(Upon 
+Request)
+
+
+===== PDF p89 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 91 -
+© 2005 Michigan Consulting Club
+4”
+8”
+12”
+# bags / 
+bag-width
+6
+3
+2
+Profit / 
+bag ($)
+.02
+.03
+.04
+Annual Demand
+(# of bags)
+9M
+3M
+3M
+Candidate 
+Handout
+Profits & 
+Demand 
+(Upon 
+Request)
+Candidate 
+Handout
+Profits & 
+Demand 
+(Upon 
+Request)
+Profitability and Demand by Product Type
+Case 28: Sandwich Bags (III of VII) 
+The Boston Consulting Group, Sample Case
+
+
+===== PDF p90 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 92 -
+© 2005 Michigan Consulting Club
+4”
+8”
+12”
+# bags / 
+bag-width
+6
+3
+2
+produced per 
+hour
+3000
+1500
+1000
+Profit / 
+bag ($)
+.02
+.03
+.04
+Demand
+(# bags)
+9M
+3M
+3M
+Total 
+Profit ($)
+180k
+90k
+120k
+Hours of 
+capacity
+3k
+2k
+3k
+Candidate 
+Handout 
+(After 
+completing 
+previous 
+math)
+Candidate 
+Handout 
+(After 
+completing 
+previous 
+math)
+Completed Profits & Capacity
+Case 28: Sandwich Bags (IV of VII) 
+The Boston Consulting Group, Sample Case
+
+
+===== PDF p91 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 93 -
+© 2005 Michigan Consulting Club
+Additional 
+Information
+Additional 
+Information
+• Ask: What would you have to believe to say a new 
+machine is a good idea? (suggestions)
+•
+Demand would increase faster than 2%
+•
+A new product could be introduced
+•
+Capacity could be rented out
+•
+Prices will increase
+• A NEW PRODUCT…
+• Tell candidate: “let’s say the client’s R&D team has just 
+come out with a new bag.  It is a 2-in-1 bag, one side 
+holds your sandwich and the other side holds your 
+chips or lettuce to keep things from getting soggy.  
+This bag is a 6” bag.  Assume that if we stated to 
+produce this bag tomorrow it would be accepted, there 
+would be no lag time for people to catch on to using it.  
+What annual profit per bag would we need to generate in 
+order to make the new roller a good purchase…
+Extra points for mentioning cannibalization
+Don’t worry about discounting 
+• $120K per year from 12” bags
+• $600K profits over 5 years
+• Need $150K over 5 years for payback
+• $30K per year
+• $0.03 per bag at 1M bags
+• $0.015 per bag at 2M bags
+• $0.01 per bag at 3M bags
+• To candidate: “So, if we could get $0.03 per bag and 
+produce 1M bags we would be happy.  Using this 
+graph (next page), please draw me the curve that 
+represents all of the price/quantity combinations 
+where we would be willing to make the investment 
+in the roller.”
+• Does this curve have any endpoints for our client?
+Should we invest in a new machine?
+Getting the answer(1)
+Case 28: Sandwich Bags (V of VII) 
+The Boston Consulting Group, Sample Case
+(1) If detailed exhibits exist, they will be referenced in this box,
+and included in full on the following slide(s)
+
+
+===== PDF p92 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 94 -
+© 2005 Michigan Consulting Club
+# of bags (M)
+profit per 
+bag ($)
+1
+0.03
+x
+Candidate 
+Assignment
+Demand 
+Curve 
+Candidate 
+Assignment
+Demand 
+Curve 
+Case 28: Sandwich Bags (VI of VII) 
+The Boston Consulting Group, Sample Case
+
+
+===== PDF p93 =====
+2005-2006 MICHIGAN CONSULTING CASE INTERVIEW PREPARATION GUIDE
+- 95 -
+© 2005 Michigan Consulting Club
+Endpoints? Lower limit depends on demand sensitivity.  
+Getting $1 profit per bag is probably out as product as 
+production quantities wouldn’t be worth it.  Upper 
+production limit depends on capacity: 4M bags / yr
+Getting the answer
+Sample Solution 
+Elements
+Sample Solution 
+Elements
+ 
+Let’s assume that we take the $0.03 / 1 M bag 
+combination.  We can produce 4 bags per bag width, 
+or 2000 bags per hour.  Total production will take 500 
+hours so we still have 1500 hours of capacity on our 
+new roller.
+ 
+The client would like to come up with yet another 
+innovation.  They would like to find a use for more 12”
+bags, or perhaps a bigger bag.  In the time that we 
+have remaining, just brainstorm what applications you 
+might investigate for a large storage bag. …
+ 
+This is an open-ended question, follow how the 
+candidate constructs thoughts and comes up with 
+solutions.
+Bonus
+# of bags (M)
+profit per 
+bag ($)
+1
+0.03
+x
+0.015
+0.01
+2
+3
+Case 28: Sandwich Bags (VII of VII) 
+The Boston Consulting Group, Sample Case

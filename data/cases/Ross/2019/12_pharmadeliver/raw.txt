@@ -1,0 +1,211 @@
+===== PDF p131 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+127
+
+
+===== PDF p132 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Case Prompt
+Your client, PharmaDeliver, is a large pharmacy that provides both prescription and over the 
+counter medications to patients.  With many new entrants in the healthcare industry, the 
+company is evaluating ways to both improve the customer experience and invest in the future.  
+In one initiative related to this, PharmaDeliver is exploring the use of drone delivery for its’ 
+customers.  The company has hired us to evaluate the potential use of drone delivery.
+Information provided upon request:
+•
+They distribute a wide variety drugs directly to customers through both retail and home 
+delivery channels.  80% of non-controlled prescription substances are delivered via home 
+delivery
+•
+The company only operates in the US
+•
+The company wants to increase their deliveries by at least 15% and have total profits of at 
+least $7B per year by using drones. 
+•
+The company wants this increase in the first year
+Concepts Tested
+Brainstorming, Structuring, Quant
+128
+
+
+===== PDF p133 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Framework
+A good framework will include an analysis of the pharmacy market (including competitive 
+trends, future technological advances, etc.), a breakout of how they will both increase deliveries 
+and hit $7B in total profit internally, and a consideration of mode of entry for using drones 
+(merger, acquisition, partnership).  Candidates should also note regulatory risk for moving into 
+this space, since it is not a mature industry.
+129
+
+
+===== PDF p134 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Question & Exhibit 1
+Calculate how many increased deliveries are possible for both M-F and the weekend, 
+respectively.  
+ParmaDeliver Annual Medication Volume
+Total Medications Sold*
+2.6B
+Prescription Controlled Substances per year*
+350M
+Current Deliveries Weekly Volume Caps
+M-F
+Sat
+Sun
+Controlled Substances
+100%
+0%
+0%
+UPS
+90%
+10%
+0%
+Drone Projected Weekly Volume Caps
+M-F Daily Cap
+Sat
+Sun
+8M
+5M
+6M
+*Total medications include the prescription 
+controlled substances
+*Prescription controlled substances are not 
+included in the home delivery % 
+130
+
+
+===== PDF p135 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Answer 1
+Assume 50 weeks per year. Candidate should ask for the home delivery % (80% of NON prescription 
+controlled substances)
+1.
+Calculate the number of home deliveries per year: (Total Medications – Prescription Controlled 
+Substances)* % Home Delivery of Non-Prescription Controlled Substance Medications = (2600 –
+350)*.8 = 1.8B
+2.
+Calculate the weekly number of deliveries assuming 50 weeks per year.  1.8B/50 = 36M
+3.
+Calculate the number of deliveries for each of the days of the week. 
+•
+M-F Deliveries % * total =90% * 36M = 32.4M; Deliveries / # days = 32.4M/5 = 6.48M
+•
+Sat Deliveries % * total = 10% * 36M = 3.6M
+4.
+Find the difference for both M-F and the weekend between current and new.  For M-F, multiply it by 5 
+and then by 50 to find the increased annual deliveries.  M-F: 8M-6.48M = 1.52M * 5 * 50 = 380M; S/S 
+= 10-3.6 = 6.4 * 50 = 320M.  Finally, take 320M+380M = 700M and confirm that this is 15% higher 
+than the number of deliveries currently (1.8B * 1.15 = 2.07B).  Great answers will also acknowledge that 
+the demand increases may not match this increased capacity.
+131
+
+
+===== PDF p136 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Question & Answer 2
+Question: Please brainstorm possible ways to expand into using drone delivery.
+Answer: A good answer will include an analysis of exploring new clients, partnerships, or 
+acquisitions to go into this business.  Commentary on the benefits of each can lead to a great 
+answer.  A great answer will also acknowledge options other than drone delivery to possibly 
+explore (i.e. autonomous vehicles, uber, etc.)
+132
+
+
+===== PDF p137 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Question 3
+PharmaDeliver has identified a potential partner, DroneCo, for future shipments.  As part of 
+the agreement, DroneCo will take 10% of the profit for each shipment in exchange for its’ 
+services.  Please calculate the annual projected profit by utilizing DroneCo to deliver all 
+packages.  Calculate the expected NPV of this using the projected profit. 
+Tip for interviewer: This profit is inclusive of all potential costs/revenues that the candidate 
+likely covered in the framework.
+133
+
+
+===== PDF p138 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Exhibit for Question 3
+*This does not include the 10% DroneCo will take from each shipment
+Future avg profit per delivery*
+M-F Daily
+Sat
+Sun
+$4.44
+$3.33
+$3.33
+Weekly shipment demand with increased capacity
+M-F Dailly
+Sat
+Sun
+7M
+3M
+2M
+134
+
+
+===== PDF p139 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Answer 3
+Calculate the profit for the new deliveries.  
+Start by finding the projected profit for each by taking off the 10% commission for each of the 
+breakouts.  
+Then multiply the profit by each of the daily and weekly projected demands to get: M-
+F*5*profit = 7M*5*4 =140M, S: 3M*3 = 9M, Sun: 2M*3 = 6M; 
+Total profit per week = 155M, 
+Total per year = 155*50 = $7.75B. 
+Then, using a discount rate of .2, we assume perpetuity and use the formula to find: $7.75B/.2 
+= $38.75B.
+135
+
+
+===== PDF p140 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Question & Exhibit 4
+We are also exploring the acquisition of a similar company, Fly Away, for $9B.  Using the new 
+profit information, please calculate the NPV of this acquisition. 
+These numbers are inclusive of all post-merger synergies.
+Estimated future avg profit per delivery with acquisition*
+M-F Daily
+Sat
+Sun
+5
+4
+4
+136
+
+
+===== PDF p141 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Answer 4
+In a similar calculation, find the profit per year projected with the acquisition.  
+Using this, we find M-F*5*profit = 7M*5*5 =175M, S: 3M*4 = 12M, Sun: 2M*4 = 8M; 
+Total profit per week = $195M, 
+Total per year = $195M*50 = $9.75B. 
+Then, using a discount rate of .2, we assume perpetuity and use the formula to find: $9.75B/.2 
+= $48.75B. 
+Then, subtracting off the acquisition cost we find $39.75B.
+137
+
+
+===== PDF p142 =====
+Case 12: PharmaDeliver
+Pharma| Growth Strategy
+Final Recommendation
+For the final recommendation, the candidate should acknowledge that the acquisition gives us a 
+higher NPV, but that there are some downsides to acquiring a drone company.  Drone delivery 
+is still a relatively new business, and acquiring this company could be a risky investment if 
+regulation does not pass in Fly Away’s favor. 
+138

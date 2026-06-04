@@ -1,0 +1,362 @@
+===== PDF p72 =====
+ICEAP
+Industry:  
+Case Type:  
+Led by:
+68
+Healthcare  
+Investment Decision  
+Interviewee
+Quantitative Level: Medium
+Qualitative Level:
+Medium
+
+
+===== PDF p73 =====
+Behavioral Questions
+• Tell me about a time you’ve been stuck in a project
+Question 1:
+• Tell me about a time you had to absorb a lot of information quickly and how did you  
+do that
+Question 2:
+69
+
+
+===== PDF p74 =====
+ICEAP
+• Your client, Device 3 Ventures is a US based venture fund that invests in attractive
+early medical devices technologies in hopes to quickly gain a positive ROI. Device3  
+is evaluating whether to invest in a joint venture with the Mustard Clinic to fund a  
+new therapy for acute pancreatitis (“AP”) called ICEAP. Device 3 wants to know if  
+they should invest in this technology?
+Prompt #1:
+Case Background:
+• Background information to be divided into these categories (Please mark N/Aif
+information is not provided)–
+–
+Client/Company information
+•
+Device 3 focuses on funding technologies that gain positive ROI within 3 years. Device 3’s strategy is to develop the  
+technology to the point where a strategic buyer (i.e.Medtronic) would want to buy the technology from them.
+–
+Industry/Competition information
+•
+Acute Pancreatitis is a disease that can be deadly and can cause ER stays of up to months.
+–
+Product information
+•
+ICEAP provides therapeutic relief by cooling the pancreas. It has been extremely successful at curing rodent AP,
+reducing mortality rates in AP from 90% to <10%. The technology is patented by Mustard Clinic.
+•
+This therapy is a medical device, and the patient still needs to take additionaldrugs, etc to fully recover from AP.
+–
+Value Chain/Revenue information
+•
+Medical Device manufacturers revenues’ rely on insurance reimbursements. The industry is highly competitive and
+innovation is a clear competitive advantage.
+–
+Interviewees should keep in mind regulations in healthcare
+70
+
+
+===== PDF p75 =====
+ICEAP
+General Framework Buckets:
+• Market
+– AP Market Size and Growth
+– Consumer Base
+• Physicians
+• Insurance Companies
+• Patient effect / Comfort
+– Current Standard of Care
+•
+Competitive analysis in:
+–
+Care level
+–
+Development cost
+–
+Pricing & Patents
+• Product
+– Economics
+•
+Investment Required
+•
+Potential Market Capture
+•
+Pricing
+– Characteristics
+•
+Product ValueAdd
+– Substitutes
+• Team
+– Team expertise to develop the technology
+– Trust and confidence
+71
+
+
+===== PDF p76 =====
+ICEAP
+• Device 3 has observed a trend in the marketplace that shows that insurance providers (Payers)
+have gained bargaining power against device manufacturers. They are concerned this market
+might be a worthy one to invest in.
+• The first question Device 3 wants to know is what the total revenue opportunity in for ICEAP?
+Please Walk me through how you would think about this.
+Question #1:
+– If interviewee does not push towards a market sizing discussion, point them this way.
+– Also note that the question is asking for the market size of AP medical devices, not treatment  
+overall.
+Notes:
+72
+
+
+===== PDF p77 =====
+Exhibit #1
+US Population
+300 Million
+% Adults (>20 yrs. old)
+80%
+% Children (<20 yrs. old)
+20%
+Adult Incidence of AP
+0.05%
+Child Incidence of AP
+0.10%
+Daily cost of AP Treatment*
+$ 7,000.00
+Average Length of Stay (in Days)
+7
+98%
+*All inclusive of the following costs: drug, provider salaries, hospital overhead, and AP devices
+AP Total Cases in the US
+2%
+% Total AP CasesAdult
+% Total AP CasesChildren
+
+
+===== PDF p78 =====
+Interviewer guidance on Exhibits
+• Candidate should drive to find Market size by  
+first walking interviewer through thoughts  
+(interviewer should wait to supply numbers)
+• Candidate should have rough framework
+approximating information in Exhibit 1
+– US Population
+– AP Incidence by Age
+– Average AP Treatment cost
+– % of treatment cost attributable to AP medical  
+devices
+•
+Once candidate provides high level overview,
+provide Exhibit 1
+–
+Candidate should walk through the math smoothly(OK  
+to round hospital costs to $50k)
+–
+Candidate should only focus on Adult Market as it  
+represents a larger size of the market. Redirect them to  
+not calculate child market. Math works out but children  
+is such a low number.
+–
+Good candidate will recognize that the actual profits/  
+ROI will have a multiple to adjust for technologies  
+future potential when selling it to another firm. (No  
+need for calc)
+• Candidate should recognize that this is the size  
+for AP total treatment market NOT medical  
+device market size OR the ICEAP revenue  
+opportunity
+• Additional information
+– Medical devices for AP usually capture ~10% of  
+the value created in the in treatment market.
+– New medical devices usually capture an  
+average of 1% of their market aggressively  
+growing their market share by 50% for the first  
+2 years after introduction
+•
+If this Approach is followed then AP Device  
+market is $588 Million and the ICEAP can  
+have a potential first year revenue of $5.8  
+M and 3 year revenue potential of~$28M
+• Candidate should recognize that revenue  
+number should be compared to investment cost.  
+Total investment cost would be $30M.
+Exhibit #1 Guidance:
+Analysis:
+74
+
+
+===== PDF p79 =====
+Interviewer guidance on Exhibit
+Device 3 Revenue Opportunity
+Units
+Adult Cases
+0.12
+Million
+Total LOS Cost
+$49,000
+Total Adult AP Treatment Market Size
+$5,880
+Million
+AP Device Market Capture
+$588
+Million
+ICEAP revenue Y1
+$5.88
+Million
+ICEAP revenue Y2
+$8.82
+Million
+ICEAP revenue Y3
+$13.23
+Million
+Total ICEAP 3 Year Revenue Potential
+$27.93
+Million
+75
+
+
+===== PDF p80 =====
+just make it worse. You have to wait; ER  
+staffs do not know what to do but to send  
+people to ICUs to wait it out”
+Exhibit #2
+Physician input from panels on AP treatment and views of  
+ICEAP
+•
+“The pancreas arrives red hot. You cannot •
+mess with something like that, you will
+ICEAP
+•
+“This could give us a pistol to enter into
+that gunfight”
+•
+“Any nurse of ED department could  
+implement these”
+•
+“You will see no opposition from GIs”
+“This will give us essential time and allow  
+us to cool red hot pancreas”
+•
+“At first the adoption rate will likely be
+below 10%; however if we can show that it 
+works then it will become the standard of  
+care”
+Current State
+•
+“We are stepping into a gunfight withour
+bare fists”
+•
+“No true standard of care has been  
+developed because nothing has proven to  
+be effective”
+
+
+===== PDF p81 =====
+Brainstorming
+• However total investment costs are  
+projected to be $30M, and Device 3 is  
+concerned they might lose out on an  
+incredible investment opportunity. Since  
+ICEAP has had such success in rodent  
+testing, Device 3 believes that customers  
+would likely adopt ICEAP at a higher rate  
+than historical market rates. Given this,  
+what ideas do you have to make ICEAP a  
+more attractive investment?
+-
+Interviewer Guidance: Basically there is  
+potential for higher revenue than the  
+projected $28M
+• Ensure that interviewee structures
+brainstorm, sample buckets include
+• Revenue
+–
+Obtain high reimbursement rates (i.e. Price)
+–
+Target multiple healthcare sites / channels
+– Involve physicians and hospitals at early stages  
+to increase awareness in the society for faster  
+adoption - Hospital tie-ups to sell quickly
+• Costs
+–
+Obtain Regulatory (FDA)Approval quickly
+–
+Optimize R&D
+–
+Decrease projected marketing costs by leveraging other  
+portfolio companies
+• Product
+–
+Create a more effective product than current Market  
+solutions
+–
+Target customer preferences
+–
+Patent extension
+Prompt:
+Analysis:
+77
+
+
+===== PDF p82 =====
+Interviewer guidance on Exhibits
+• Candidate should drive to find exhibit by
+brainstorming ideas related to customer
+preferences, current standard of care.
+• It is ok / expected that candidate might be
+thrown off by exhibit
+• The candidate should recognize that there
+is a gap between the current state of care
+and the proposed product.
+– The key takeaway from this exhibit is that  
+ICEAP is likely to be a product that would  
+be widely adopted and would specifically  
+target unfulfilled customer needs. If  
+candidate does not get here, push them  
+until they do so.
+Exhibit #2 Guidance
+Analysis:
+78
+
+
+===== PDF p83 =====
+Recommendation
+• The Managing Partner at Device 3 wants to know how you are doing, can you
+summarize your findings?
+Interviewer Guidance - The recommendation can be either to go or not to go in this
+market, but should have strong reasoning in either case
+Recommendation
+Risks and Next Steps:
+• Risks
+– Viability in humans - Product has been rodent tested but no guarantee it will work in humans
+– Regulatory approval potentially not aligning with fund timeline
+– Reimbursement being too low
+– Can easily be developed by competitor
+• Next Steps
+– Device 3 needs to invest in analysis of how tech would affect humans
+– Device 3 to explore Regulatory requirements and how to speed the process before new
+entrants get into the market
+79
+
+
+===== PDF p84 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Candidate needed prompting to complete market sizing.  
+Candidate provided large structure of brainstorming but didnot  
+dive in or prioritize. Candidate provided summary without POV.
+Good Candidate
+Candidate drives market sizing providing solid initial structure.  
+Candidate dives into brainstorming and prioritizes buckets of  
+information. Candidate provides POV in recommendation.
+Excellent Candidate
+Candidate drives market sizing, gets by the math and recognizes  
+missing information. Then candidate provides so what? which  
+leads to brainstorming. In brainstorming candidate clearly  
+structures it and dives into each bucket. Candidate provides POV  
+in recommendation but also recognizes clear risks and provides  
+actionable next steps in technology development.
+80

@@ -1,0 +1,325 @@
+===== PDF p293 =====
+Pūr and Kleen Water Company
+288
+Industry: Mining 
+Quantitative Level: Difficult
+Qualitative Level: Difficult
+
+
+===== PDF p294 =====
+Behavioral Questions
+289
+• Tell me about a time you had a conflict with a coworker. How did you approach the 
+conflict and how was it resolved?
+Question 1:
+• What are three personality traits that you think a good consultant has?
+Question 2:
+
+
+===== PDF p295 =====
+Pūr and Kleen Water Company
+290
+• The Ice Trawler Canterbury is planning to journey from its home port on Ceres to the 
+Jupiter Trojan asteroids on an ice mining mission. Due to a population explosion, 
+water is now a highly valued good and the Canterbury stands to make a significant 
+amount of money for its parent company, Pūr and Kleen Water Company, if they 
+retrieve a large amount of ice. The captain of the Canterbury has approached you to 
+analyze a series of asteroids to determine which are the best targets. What are your 
+first steps?
+Prompt #1:
+The interviewee should determine that this is a profitability case- push them in that 
+direction as they ask questions. They should maintain their focus throughout the case 
+on determining operating income (gross income – operating expenses). 
+They must understand the business model if they are going to be successful with the 
+case: The ship mines ice from asteroids and sells it to space stations. 
+This case is interviewee led. Provide the exhibits as they are asked for.
+If asked for, this information can be given at any time:
+• The capacity of the ship is 20M cubic meters.
+• The price of water is $100 per cubic meter.
+Interviewer Guidance:
+
+
+===== PDF p296 =====
+Calculation Cheat-Sheet
+**** DO NOT GIVE TO INTERVIEWEE****
+291
+
+
+===== PDF p297 =====
+0
+10
+20
+30
+40
+50%
+0
+200
+400
+600
+60
+Size of
+asteroid
+(1,000,000
+cubic m)
+Distance from Ceres (days)
+% of ice
+2895-Memnon
+738-Priam
+1143-Odysseus
+2207-Hector
+625-Ajax
+659-Nestor
+60
+Size of
+asteroid
+(1,000,000
+cubic m)
+558-Achilles
+Exhibit 1a: Seven prospective Jovian 
+Trojans for Canterbury missions
+*All prospecting data is proprietary. Passing this information to unauthorized readers may result in prosecution under UN / Martian law.
+
+
+===== PDF p298 =====
+0
+20
+40
+60
+80
+100%
+Size (1,000,000 cubic m)
+558-Achilles
+10%
+50%
+38%
+150
+2895-Memnon
+35%
+20%
+44%
+75
+738-Priam
+10%
+40%
+40%
+50
+1143-Odysseus
+40%
+30%
+27%
+45
+2207-Hector
+5%
+60%
+31%
+40
+625-Ajax
+8%
+60%
+26%
+35
+659-
+Nestor
+20%
+40%
+35%
+12.5
+Ice
+Carbonates
+Silicates
+Other
+Exhibit 1b: Although all Type-D, each 
+asteroid has a unique composition
+*All prospecting data is proprietary. Passing this information to unauthorized readers may result in prosecution under UN / Martian law.
+
+
+===== PDF p299 =====
+Interviewer guidance on Exhibits
+• Provide 1a and 1b when they ask for 
+information about revenues.
+• The numbers next to the names of 
+asteroids are part of the naming 
+convention of asteroids. They do not 
+indicate any trait relevant to this case.
+• The interviewee has everything they need 
+at this point to determine revenue: Price 
+of ice and the amount of ice on each 
+asteroid.
+• **For the purposes of evaluating 
+potential destination asteroids, do not 
+need to consider implied costs of a 
+return trip when evaluating which 
+asteroids to prioritize for mining. 
+• They should quickly clear the two slides 
+and narrow down the choices to Achilles, 
+Odysseus, and Memnon.
+• After realizing that these three should be 
+the primary targets, they should do some 
+quick math to understand how much ice is 
+on each. (guidance on quantities provided 
+in prior table)
+• The interviewee must think about the 
+capacity of the ship (20M cubic meters) 
+and the price of ice ($100 per cubic 
+meter) at this point if they haven’t already.
+294
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p300 =====
+Costs Prompt
+• When asked for data on costs, ask them 
+to brainstorm what kinds of costs would 
+be associated with mining asteroids.
+• Keep exhibit 3 nearby so you can give the 
+relevant data if it is part of their 
+brainstorming.
+• A good candidate will structure the 
+brainstorming.
+• The candidate should recognize that the 
+bulk of costs will be variable (fuel, live 
+support, mining time, etc.) but if asked if 
+there are any recurring costs related to 
+this mission, just mention the docking 
+fees at Ceres which are identical.
+• Variable costs will be associated with the 
+amount of time spent in space.
+• Each time they identify a relevant cost 
+and you give them the data, they should 
+capture it in a structured way to use it in 
+calculating total cost.
+• At the end of determining the types of 
+costs, they should move toward creating 
+an equation that will give them the total 
+cost associated with each asteroid.
+295
+Prompt:
+Analysis:
+
+
+===== PDF p301 =====
+Exhibit 2: Distances from belt stations 
+during mission corridor
+Eros
+Tycho
+Ceres
+738-Priam
+400
+600
+500
+2207-Hector
+250
+450
+300
+1143-Odysseus
+300
+250
+200
+558-Achilles
+75
+100
+50
+2895-Memnon
+300
+475
+400
+659-Nestor
+125
+200
+150
+625-Ajax
+175
+215
+100
+*All prospecting data is proprietary. Passing this information to unauthorized readers may result in prosecution under UN / Martian law.
+
+
+===== PDF p302 =====
+Exhibit 3: Typical Canterbury cost 
+figures (offer after brainstorm)
+297
+Cost Figures
+Life Support Costs
+$5k per crewmember per day
+Fuel Costs 
+(dependent on projected 
+fuel prices)
+$500k per day of transit
+Mining Costs
+$1M per day of mining
+Ceres Docking Fees
+$50k
+Total Crewmembers
+42
+Ice Mining Rate
+(applied to entire asteroid)
+200k cubic m per day
+
+
+===== PDF p303 =====
+Interviewer guidance on Exhibits
+• Give the interviewee exhibit 2 after 
+completion of the brainstorm. Exhibit 3 
+information can be given as the candidate 
+discovers them during brainstorming, or 
+can be given outright if the candidate 
+is struggling or is running out of time.
+• After the brainstorm, it is straightforward 
+math. They should determine the cost of 
+mining each asteroid.
+• Ensure the candidate walks you through a 
+structured approach to their math 
+including a brief summary of the 
+formula(s) they intend to use to arrive at a 
+total revenue potential and costs implied. 
+298
+Exhibit #2/3 Guidance:
+Analysis:
+
+
+===== PDF p304 =====
+Pūr and Kleen Water Company
+299
+• The interviewee should recommend Odysseus based on calculated profit:
+• Interviewee should give an example of what risks they would face and how it would 
+impact their calculations (eg: Memnon is a close second, what would make it best?)
+• Finally, they should describe next steps: verifying data, negotiating better costs, etc.
+Recommendation 
+• Be mindful of the time and make sure they don’t spend too much time creating the 
+final recommendation. Good recommendations will be actionable (tell you what 
+asteroid to mine), concise, well-reasoned, and have all of the calculations complete.
+• If Memnon is selected as the best, check to see if they violated the Caterbury’s ice 
+capacity when doing their calculations
+Interviewer Guidance:
+1143-Odysseus
+558-Achilles
+2895-Memnon
+1,335,750,000 
+507,000,000 
+1,212,250,000 
+
+
+===== PDF p305 =====
+Evaluation Criteria
+300
+Candidate Level
+Assessment
+Average Candidate
+Understands that this is a profitability case. May not 
+complete all calculations. May not account for ship 
+capacity. May misinterpret slides or make assumptions 
+that are not valid.
+Good Candidate
+Completes all calculations, but may not get all math 
+right. Brainstorm yields %70 of costs. Has a conclusion 
+that is close to an actionable recommendation. May not 
+maintain focus on operating income throughout.
+Excellent Candidate
+Leads the case from beginning to end, checking in 
+with the interviewer throughout. Completes all 
+calculations without major errors. Asks questions to 
+clarify points that are unclear. Maintains composure at 
+all times. Gives an actionable and clear 
+recommendation, complete with thoughtful risks and 
+next steps.

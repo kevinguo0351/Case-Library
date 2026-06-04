@@ -1,0 +1,189 @@
+===== PDF p43 =====
+Practice Cases – Case 4: Meat Processing  
+McKinsey & Co. 
+ 
+ 
+39
+(Source: Interview case from McKinsey Round I, 2006) 
+ 
+Context 
+Our client is a meat processing company. They buy livestock, process and then sell 
+to major retail supermarket chains. In early 90’s, the industry went through 
+consolidation and now there are only 5 big players in the market. During this time 
+our client bought about 8 regional/local players in the market who were not doing 
+well and had old assets that had depreciated.  
+ 
+The CEO has called McKinsey because their profitability is declining and they want to 
+understand what they can do. 
+ 
+Interviewer: What are the key areas you would look into? 
+ 
+A good answer will cover the profitability structure 
+ 
+I would like to know if the revenues are declining or the costs increasing or both.  
+ 
+On the revenue side, I would look at the changes in the two drivers of revenue – price and 
+quantity. Before that, I want to understand how the overall market is doing – is it growing or 
+shrinking (however, I think this would not be a problem). The next thing I would look into is 
+what the competition is doing – are there new competitors in the market – have they reduced 
+the prices or stolen share from us. I would also look at customer trends – for instance, end 
+consumers could be moving towards healthy foods or vegetarianism. Further, the customers 
+i.e. the supermarket chain, might not provide enough shelf space since their bargaining power 
+might be higher or might squeeze our client on the price. These factors would affect the price 
+and quantity we sell.  
+ 
+On the cost side, I would look at the fixed costs and variable costs of the facility.  
+ 
+Fixed costs:  
+ 
+- 
+Plant/Facility – Rent  
+- 
+Equipment for processing 
+- 
+Insurance 
+- 
+SG&A 
+ 
+Variable costs: 
+- 
+COGS 
+o 
+Direct materials such as birds (quality of birds/type of birds) and chemicals 
+needed for processing 
+o 
+Direct labor 
+o 
+Production costs 
+- 
+Transportation cost (was told that each facility is independent and complete so no 
+transportation is required within facilities) 
+ 
+Interviewer: The processing costs are high for the client. We did competitive 
+benchmarking of our “birds” division with King Chicken. Data provided. 
+ 
+ 
+Client 
+King Chicken 
+Average 
+quantity 
+of 
+birds 
+processed each year in each plant 
+300,000 
+500,000 
+Average processing cost/bird 
+$30 
+$20 
+ 
+ 
+Interviewer: What do you think? 
+ 
+A good answer may identify the following: 
+ 
+The processing costs are a lot higher compared to King’s chicken. Reasons could be: 
+
+
+===== PDF p44 =====
+Practice Cases – Case 4: Meat Processing  
+McKinsey & Co. 
+ 
+ 
+40
+- 
+King Chicken sells more chicken and has reached economies of scale, and therefore 
+has lower fixed cost per bird.  
+- 
+King Chicken has better capacity utilization which leads to lower overhead per bird. 
+- 
+King Chicken has more efficient or cheaper processing due to newer equipments or 
+more advanced technology. 
+- 
+We process different types of birds that might require extra care or more specialized 
+process or more specialized labor leading to higher costs 
+- 
+We have a better skilled labor force as we deliver premium products. 
+- 
+Since our average processing cost is higher, it could be that some of our plants have a 
+lot higher processing costs which bring up the average cost.  
+ 
+Interviewer: One of our Associates came running in and told us that one of their 
+plants (out of 10) processes turkey instead of chickens, whereas King Chicken only 
+processes chicken. The processing costs in that plant are a lot higher. He found out 
+that it costs twice the amount to process a turkey than it takes to process a chicken. 
+Can you find out what the costs for processing a chicken and a turkey are in our 
+plants? 
+ 
+ 
+Turkey 
+Chicken 
+Quantity of birds processed each 
+year in each plant 
+600,000 
+266,000 
+No. of plants 
+1 plant 
+9 plants 
+ 
+Interviewee should do the calculation: 
+I would just take the actual costs of processing of both turkey and chicken, and equate it to 
+the total average costs of processing (which we know from the data earlier) in all 10 plants. 
+ 
+Lets say the processing cost of chicken = $X 
+Then, processing cost of turkey = $2X 
+ 
+600,000 * $2X * 1 plant + 266,000 * $X *9 plants = 300,000 * $30 * 10 plants 
+=> X = $25 
+ 
+The cost of processing chicken is $25 and that of turkey is $50. The cost of processing chicken 
+is still higher than our competitor’s cost of $20. 
+ 
+Interviewer: Why do you think? What would you think of doing?  
+ 
+A good answer should include the following:  
+ 
+The cost of processing is still higher by $5 than our competitors. That might not be good. If we 
+produce the same type of meat as our competitors, given the commodity nature of this type of 
+meat we have to take lower profit margin to stay competitive. If our competitors decide to 
+reduce price to gain more market share, we will be very vulnerable.   
+If we produce premium product, the supermarket chains might not be willing to pay much 
+higher price to buy our product as I would think that $5 might be a significant % of the total 
+cost of meat’s tag price.  
+ 
+If our client’s product is a branded premium product and consumers are willing to pay the 
+extra dollars for better taste, packaging or healthy meat (whatever is the criterion that 
+differentiates it), higher cost structure may be fine. However, I am not sure how much extra 
+price consumers will be willing to pay for premium chicken or turkey meat. Let’s say that one 
+bird produces two pounds of meat, which means consumers will have to pay $2.5 extra per  
+pound. It seems very high. Therefore, we should still find ways lower costs. If our product has 
+the same quality as our competitors’, it’s even more important to look at ways to reduce costs. 
+ 
+To reduce both fixed costs and variable costs,  
+- 
+We could look into consolidating the plants, especially if they are underutilized. That 
+might bring down costs as we can consolidate both facilities and equipments.  
+
+
+===== PDF p45 =====
+Practice Cases – Case 4: Meat Processing  
+McKinsey & Co. 
+ 
+ 
+41
+- 
+If we haven’t don’t so, we could look for opportunities to maximize synergies as we 
+acquired so many players, such as consolidating purchasing to have better price from 
+suppliers 
+- 
+We could share best practices across different facilities.   
+- 
+Improve labor productivity or hire cheaper labor without affecting quality of work 
+- 
+Find better suppliers to lower material costs. 
+- 
+Buy cheaper equipments or lease them instead. 
+- 
+Expand to other markets such that capacity utilization increases, or lease/sell the 
+unused capacity. 
+- 
+Stop processing turkey to reduce average processing cost.

@@ -1,0 +1,125 @@
+===== PDF p75 =====
+UCLA Anderson Casebook 2016
+71
+Case 15: Engineering & Construction Co
+Business Problem Statement
+A large engineering, procurement, and construction company has seen its valuation drop recently. It builds 
+large reﬁneries and large industrial plants. It is global in nature and operates in four main regions. This company 
+is a recent roll-up of three smaller companies that operate independently. They have $1B in revenue.
+How would you approach the problem?
+Interviewer Guidance
+The objective of this case is:
+•
+To see if the candidate can comprehensively explore the possible reasons and causes of declining market 
+valuation
+•
+To see if the candidate can structure and articulate an intelligent approach the problem
+•
+To see if the candidate can complete simple mathematical analysis
+The case should start with the candidate hypothesizing the reasons that could lead to declining valuation. This 
+is a simple test  of idea generation. Ask the candidate to list a structure with which they will approach the 
+problem. Does it seem reasonable and comprehensive?
+Information to be shared before framework if requested or after if not requested:
+•
+Revenue growth has been strong organically and from acquisitions
+•
+There is a backlog of work – lots of business
+•
+Margins have been shrinking
+Question 1: What would you think the main reasons for shrinking margins would be?
+Possible Answers:
+-
+Lack of integration of the three units
+-
+Poor reporting
+-
+Competing business units
+-
+Multiple procurement units
+-
+Lack of cross-selling over the units
+-
+Lack of knowledge sharing across units
+-
+High-revenue but unproﬁtable clients
+-
+No prioritization of backlog
+-
+Sales force compensation structure
+-
+Declining business need for their services – long-term
+
+
+===== PDF p76 =====
+UCLA Anderson Casebook 2016
+72
+Case 15: Engineering & Construction Co
+Question 2: Question and Data to be Provided
+Question: The Company thinks they have an idea as to where they could improve their costs after integrating. 
+Their goal  is to increase their margins by 10%.  
+(Note: the candidate has already been told the company has $1B in revenues)
+Data to be provided:
+Question Continued: The industry benchmark for optimal utilization is 80% and engineers make $100k each.
+Will they make their margin goal? Is this a signiﬁcant savings?
+Question 2: Solution
+Calculation of effective man-hours:
+Calculation continued: 
+4,200 = # of Engineers * 80%
+# of Engineers needed = 5,250
+6,000 - 5,250 = 750 positions could be eliminated 750 * $100k = $75M
+$75M / $1B = 7.5% margin increase 
+>> No, they will not make their margin goal of 10% but yes this is a significant savings
+BusinessUnit
+# ofEngineers
+Utilization
+1
+1,800
+50%
+2
+3,000
+90%
+3
+1,200
+50%
+Business Unit
+# of Engineers
+Utilization
+Effective Man-Hours
+1
+1,800
+50%
+900
+2
+3,000
+90%
+2,700
+3
+1,200
+50%
+600
+Total
+6,000
+4,200
+Question 3: What would you think are some possible concerns with integrating the three units?
+Possible Answers:
+-
+Diﬀerent corporate cultures
+-
+Diﬀerent global areas of operations
+-
+Do they operate in fundamentally diﬀerent businesses?
+-
+Lack of a suﬃcient reporting system
+-
+Will the dynamics of the integration be communicated clearly
+-
+Time frame of integration – 3 months versus 3 years
+Final: Ask for a 30-second wrap up
+Interviewee should provide a succinct but comprehensive recommendation with risks and next steps
+
+
+===== PDF p77 =====
+UCLA Anderson Casebook 2016
+73
+Case 15: Engineering & Construction Co.
+Sample Framework

@@ -1,0 +1,168 @@
+===== PDF p123 =====
+119
+ Our client is a dominant spare parts distributor in Europe and they want to enter the US 
+market at end of this year. Our client collects spare parts from the manufacturers and 
+distributes it further within the region. The client has approached Bain to determine the US 
+market size for next year. 
+ Industry: Automotive
+ Difficulty: Easy
+ Format: Interviewee led
+ Concepts Tested: Market Sizing, 
+Back-of-the-envelope estimation
+Case 7: Spare Parts, Bain (Round 1)
+Problem Statement
+Type of Case
+Interviewer Guidance
+ Candidate should focus only on the Market Sizing
+ This case tests the candidate’s logic and reasoning
+
+
+===== PDF p124 =====
+120
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+Clarifying Information and Case Guidance
+ Client has strong relationships with all the spare 
+parts manufacturers in USA, and distributes all 
+possible spare-parts in the market
+ Client distributes the spare-parts to retailers, car 
+manufacturers, workshops etc.
+ Focus on passenger car market for this case
+ Help candidate understand that this is a pure 
+market sizing problem, and the framework 
+should be focused on the question asked
+ Help candidate understand that the overall 
+market size is asked for, and presence of 
+competitors does not affect the overall market 
+size
+
+
+===== PDF p125 =====
+121
+Possible Framework:
+• Number of passenger vehicles in US
+• Frequency of maintenance
+• Number of spare parts used per vehicle per maintenance
+• Number of repair workshops in US
+• Average price per spare part
+
+
+===== PDF p126 =====
+122
+Math Question
+Math Questions and Solutions
+ Break down the US market size by household income levels: High, Medium and Low
+ Take into account non-household passenger vehicles as well.
+ Assumption: High-income households make up 20% of the total households, medium income make up 
+50% and the low income households make up the remaining 30% of the total households
+ Assumption: US population: 350M -> 3.5 members per household on average -> 100M households
+ Refer to Ex 1 for detailed calculations
+ Total number of passenger vehicles in US = 250M
+Math Solution
+How many passenger vehicles you think are there in US?
+
+
+===== PDF p127 =====
+123
+ If you were told that you need to estimate the market size using three more variables, what would those 
+be?
+ Write down the complete equation
+Brainstorming Question
+Brainstorming Questions and Solutions
+Brainstorming Solution
+• Number of spare parts per vehicle
+• Frequency of maintenance
+• Price per spare part
+• Total Market Size = # vehicles* # spare parts per vehicle* frequency of maintenance* $ per spare part 
+
+
+===== PDF p128 =====
+124
+ How would you go about collecting that information/data?
+Brainstorming Question
+Brainstorming Questions and Solutions
+Brainstorming Solution
+• There are 50 states in the US with varying demographics, and I’d interview the repair workshops across 
+each city since they will have the information on # spare parts per vehicle per year and average price 
+per spare part.
+• Assuming 40,000 cities and towns in USA, I believe that conducting a survey for repair workshops 
+across 10,000 cities and towns will give us a good representative sample size to assume the 
+aforementioned data points.
+• Frequency of maintenance: I have owned a car for 5 years, and I take my car to the repair workshop 
+twice a year, and I would assume it would be the same across the target market.
+
+
+===== PDF p129 =====
+125
+Math Question
+Math Questions and Solutions
+• Total Market Size = # vehicles* # spare parts per vehicle per maintenance* frequency of maintenance* $ 
+per spare part 
+• 250M*1*1.5*$10
+• 3.75B USD
+Even if our client can capture 5% market share in the first year, their market share will be $187.5M – a 
+pretty good figure.
+Math Solution
+We conducted the survey and with the following results, calculate the total market size:
+•
+# spare parts per vehicle per maintenance: 1
+•
+Frequency of maintenance: 1.5
+•
+Average price per spare part: $10
+
+
+===== PDF p130 =====
+126
+Exhibit 1: Total number of passenger vehicles in US
+Total number of household passenger vehicles in US, therefore, is (80+100+30) = 210M.
+To this number, add another 40M representing taxis, limos, government cars and rental cars.
+Therefore, the total number of passenger vehicles in US is 250M
+Income category
+# households
+# cars per 
+household
+Total Cars per 
+category
+High
+20%*100M = 20M
+4
+80M
+Medium
+50%*100M = 50M
+2
+100M
+Low
+30%*100M = 30M
+1
+30M
+
+
+===== PDF p131 =====
+127
+¾
+Recommendation
+The total market size in US is 3.75B USD
+- This number is calculated based on number of 
+passenger vehicles in US and information 
+gathered from the repair workshops across the 
+country.
+¾
+Risks
+The total market size, in itself, does not give a complete picture as to 
+how much market share can our client capture and about the upfront 
+investment of entering the new market and costs in general.
+Recommendation
+Conclusion
+¾
+Strict focus on the market sizing and not getting distracted
+¾
+Logical reasoning behind the estimations throughout the case
+Excellent Case Answers
+Next Steps
+¾ Assess how much market share can our client 
+capture within first year and thereafter
+¾ Assess the profits and return-on-investment for 
+our client
+¾ Include the analysis of the non-passenger 
+vehicles into our estimation

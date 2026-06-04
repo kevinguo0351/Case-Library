@@ -1,0 +1,208 @@
+===== PDF p109 =====
+Mapflix Nollywood
+105
+Industry: Tech
+Quantitative Level: Medium
+Qualitative Level: Hard
+
+
+===== PDF p110 =====
+Behavioral Questions
+106
+• Tell me about a time when you had to change somebody’s opinion.
+Question 1:
+• Tell me about a time when you disagreed with a colleague.
+Question 2:
+
+
+===== PDF p111 =====
+Mapflix Nollywood
+107
+Our client is Mapflix, a US-based video streaming company that streams movies/shows over the internet. Mapflix has 
+established market leadership for online content/video streaming in the US/Europe, and has successfully entered 
+emerging/growth markets such as Mexico, Brazil, and India. Mapflix CEO, Chris Bosh, is interested in expanding into 
+Africa, and believes Nigeria would be a great market to enter. Before doing so, Chris Bosh has hired our team to 
+provide a go/no-go recommendation on this opportunity. What are the factors Mapflix should consider when deciding 
+to enter Nigeria?
+Prompt #1:
+•
+This is an interviewer-led case, and requires the interviewer to direct the interviewee through a series of questions/analyses
+•
+Information to provide if asked:
+–
+Mapflix goal is to achieve positive NPV
+–
+Competitors: No other major competitors have entered Nigeria, though there is a relatively small local provider
+–
+Content: Mapflix desires to stream its current content library and acquire the rights to stream local content, as the 
+Nigerian film industry (‘Nollywood’) is the 3rd largest in the world
+–
+Economic conditions: Nigeria’s GDP, wage growth, streaming services market penetration are growing annually by 
+double digits
+•
+Good structure will consider:
+–
+Market/Customer factors: Size/Growth of Nigeria streaming (or cable TV) market, Customer content needs (local vs. 
+US/EU content?), price sensitivity/WTP
+–
+Political/Economic factors: GDP/Wage growth, internet/technical infrastructure, data security/IP protections laws
+–
+Competitor capabilities: exclusivity w/ local content, marketing/distribution (partnerships w/ internet service providers, 
+brand recognition), prices/bundles
+Interviewer Guidance:
+
+
+===== PDF p112 =====
+Mapflix Nollywood
+108
+•
+Nigeria’s video streaming industry is still nascent, as only one local competitor is in operation. Mapflix feels that 
+the demand for video streaming services is largely untapped. How would you size Mapflix Nigerian market 
+potential (in USD) for video streaming services? (tell candidate to ignore F/X translation)
+•
+For penetration rates & market share: ask the candidate which data points he/she could use to 
+estimate/benchmark penetration rates and market share potential before providing values below.
+Prompt #2:
+•
+Provide information when requested:
+–
+Nigerian HHs (50M)
+–
+Nigerian HHs w/ internet access (50%)
+–
+Monthly Fee ($8)
+–
+Video Streaming Penetration Rate (reflecting Mexican rates): 20%
+–
+Mapflix Market Share Potential (reflecting Mexican rates): 75% 
+•
+Market Size Answers:
+–
+Nigerian HHs (50M) x Nigerian HHs w/ internet access (50%) x Monthly Fee ($8) x 12 months x VS 
+Penetration Rate (20%) x Market Share (75%) = $360M
+Interviewer Guidance:
+
+
+===== PDF p113 =====
+Mapflix Nollywood
+109
+Mapflix believes this is a substantial market opportunity, and is interested in exploring market 
+entry strategies. What are Mapflix strategic options for market entry? What are the benefits / risks 
+for each of those strategies?
+Prompt #3:
+• Candidate should leverage a build, buy, partner framework
+• When the candidate provides partner option, mention that Mapflix is interested in partnering with a 
+local internet service provider (ISP), and to consider benefits / risks of this option.
+Interviewer Guidance:
+Description
+Benefits/rationale
+Risks/drawbacks
+Build 
+infrastructure 
+(data centers/ 
+servers)
+•
+Build greenfield w/ best-in-class MPFLX technology/expertise
+•
+Most control over data streaming/content process
+•
+Highest risk exposure– economic uncertainty (wages, 
+consumer spending), regulatory, tech infrastructure (data 
+speed/capacity)
+•
+High up-front  technology development & integration costs
+•
+Slowest time-to-market
+•
+Strategic tech misalignment – developed markets moving to 
+cloud-based infrastructure
+Acquire local 
+competitor
+•
+Local content access – if they have access to ‘Nollywood’ contacts
+•
+Quickest ramp-up – access to local client base and distribution
+•
+Brand recognition w/ current video streaming customers
+•
+Largely unproven execution/scalability of competitor
+•
+High acquisition cost
+•
+Operations/integration challenges
+Partner w/ 
+local internet 
+service 
+providers
+•
+Smallest investment cost - incremental technology costs (data 
+center servers) split w/ partner
+•
+Low-cost distribution
+•
+Lowest data speed/capacity risk - selling data/internet alongside VSS
+•
+Lowest economic/regulatory risk exposure
+•
+Lower CF potential due to profit/revenue sharing model
+•
+Need to alter technology/streaming processes to address 
+partner-specific configuration needs
+•
+Lack of control; Dependence on alignment with 3rd party
+
+
+===== PDF p114 =====
+Mapflix Nollywood
+110
+•
+The client believes partnering with a local internet service provider, and sharing 50% of post-tax profits, is its 
+best option. The client is only interested in pursing this option so long as it is NPV positive. For the purposes of 
+conducting a valuation, what inputs would you need? Should Mapflix pursue this option? (Please provide 
+candidate blue-highlighted inputs below upon request)
+Prompt #4:
+Interviewer Guidance:
+Inputs
+Values
+Formulas
+Rev, $M
+360
+Margin, %
+10%
+Profit, $M
+36Rev x Margin%
+Tax, %
+25%
+Post-tax profit, $M
+27Profit x (1 - Tax%)
+MPFLX Profit Share, %
+50%
+MPFLX PT Profit, $M
+13.5PT profit x MPFLX Profit Share%
+WACC, %
+15.0%
+Growth, %
+5.0%
+Terminal Value, $M
+135Post-tax profit / (WACC - Growth)
+MPFLX Investment Cost, $M
+90
+NPV, $M
+45TV - Investment
+
+
+===== PDF p115 =====
+Mapflix Nollywood
+111
+• Chris Bosh is about to walk into the room and wants to hear our findings and thoughts on whether 
+Mapfix should enter Nigeria. What do you recommend?
+Recommendation 
+• Good candidates will take a moment to gather thoughts and state the following:
+– Mapflix should enter the Nigerian market by partnering with local ISPs given: (1) Size of 
+market / opportunity (2) Growth opportunity (3) Positive NPV valuation
+– Risks: (1) Nigerian internet / data infrastructure (2) Pricing / Customer WTP – wage growth, 
+global pricing model (3) Access to local content / customer preference changes (4) Local ISP 
+capabilities (5) FX volatility
+– Next-steps: (1) Vetting local ISPs – distribution, technology fit, etc. (2) Develop GTM strategy 
+and integration plan
+Interviewer Guidance:

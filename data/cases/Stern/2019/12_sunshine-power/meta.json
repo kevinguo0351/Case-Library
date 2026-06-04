@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2019_12_sunshine-power",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 12,
+  "case_name": "Sunshine Power",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Energy",
+  "difficulty": null,
+  "pdf_page_start": 135,
+  "pdf_page_end": 142,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    135,
+    136,
+    137,
+    140,
+    141,
+    142
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p135.png",
+    "exhibits/exhibit_p136.png",
+    "exhibits/exhibit_p137.png",
+    "exhibits/exhibit_p140.png",
+    "exhibits/exhibit_p141.png",
+    "exhibits/exhibit_p142.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\12_sunshine-power"
+}

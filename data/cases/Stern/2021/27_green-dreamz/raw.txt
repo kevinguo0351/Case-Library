@@ -1,0 +1,512 @@
+===== PDF p298 =====
+Green Dreamz
+Author: Matthew Givner (Stern ‘22) Firm Style & Round: BCG Round 1
+[Interviewee-Led]
+Quant: [9]*
+Structure: [8]*
+Case Overview:
+Industry: Cannabis Retail
+Case Type: Growth Strategy
+Concepts Tested:
+•
+Chart reading
+•
+Profit computation
+•
+Brainstorming
+•
+Valuation
+Overview Information for Interviewer:
+Candidate should ask clarifying questions to better understand this relatively new industry. The case
+includes equal parts calculation and brainstorming. The case begins with profit calculations, but then
+shifts to ideas for revenue growth. Quantitative and qualitative structuring will be key to success.
+Depending on candidate speed, interviewer may move to the final recommendation at any point after
+Question 3.
+Key case steps:
+•
+Extrapolate trends from a sales chart
+•
+Calculate revenue and profit
+•
+Devise creative and relevant options for revenue growth
+•
+Evaluate a potential acquisition
+Case Prompt:
+Your client is Green Dreamz, a vertically-integrated cannabis company based in Colorado, USA. Founded in 2011as a medical cannabis business, Green Dreamz expanded into the
+recreational market following state-wide legalization in 2014.Green Dreamz has since become one of the largest players by store count in Colorado, where it competes with companies 
+ranging from mom-and-pop shops to multi-state operators. Green Dreamz operates a cultivation facility in Denver and 12 dispensary locations (3 of which serve medical cannabis only, 4 of 
+which serve recreational cannabis only, and 5 of which serve both). The 12 dispensary locations are spread across the state: 5 in Denver (all of which serve both medical and recreational 
+cannabis), 3 in Colorado Springs (which only allows medical cannabis), 2 in Fort Collins, 1 in Trinidad, and 1 in Cortez (refer to ExhibitD for a map). Five of its 12 locations were acquired in 4 
+separate transactions between 2014and 2018.
+As the cannabis industry has matured the market in Colorado has become saturated, and Green Dreamz’s organic growth has slowed accordingly. Although Green Dreamzand other 
+companies have invested more in brand-building, consumer preference is still driven primarily by price. Green Dreamz’s CEO has hired your firm to help them find new opportunities for 
+profitable growth.
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+294
+© 2021 NYU Stern MCA
+
+
+===== PDF p299 =====
+Clarifying Information:
+Regulations
+•
+Cannabis companies are heavily regulated, with rules governing everything from zoning
+and operating hours to packaging and advertising
+•
+Up to 2 ounces of medical cannabis flower (or its equivalent in infused products) can
+be legally sold to registered Colorado patients aged 18+ per day
+•
+Up to 1 ounce of recreational cannabis flower (or its equivalent in infused products)
+can be legally sold to adults aged 21+ per day
+•
+Medical infused products can legally have higher potency (100mg+ THC) than
+recreational products
+•
+Federal regulations prohibit cannabis companies from using credit cards. Banks and
+financial institutions are generally unwilling to provide credit or financing
+•
+Cannabis products cannot be advertised, shipped, or sold across state lines
+Operations
+•
+Green Dreamz retails all the cannabis flower it grows in-house, and purchases additional
+flower on wholesale markets to meet demand (especially for its recreational
+dispensaries)
+•
+Green Dreamz does not produce infused products (products that are infused with THC
+oil e.g., edibles, lotions, and vape cartridges), but sells those produced by 3rd party
+manufacturers
+•
+Green Dreamz sells “trim” (parts of the cannabis plant that cannot be sold to
+consumers as flower) to 3rd party manufacturers who extract THC oil for use in the
+production of infused products
+Interviewer Guide:
+A Good Framework Will Include:
+•
+Cannabis Market
+–
+Colorado vs other states
+–
+Market size and growth
+–
+Competitive analysis (market share, etc.)
+–
+Major trends (supply / demand, consumer preferences, brand building, 
+criminal market, product/packaging innovation, industry consolidation,
+online ordering / delivery options, home-growers, etc.)
+–
+Regulations / legal restrictions
+•
+Green Dreamz Profit Structure
+–
+Revenue: B2C and B2B sales, differences between medical and 
+recreational products / prices / customers / avg. spend / visits, etc.
+–
+Costs: fixed vs variable; real estate, utilities, labor, COGS, R&D
+•
+Compliance / legal, SG&A, taxes, etc.
+•
+General Growth Ideas (nothing too detailed, as this will be 
+asked later)
+–
+Organic growth: build new cultivation facilities / dispensaries / 
+infused products division; sell accessories and branded
+merchandise; introduce a loyalty program, etc.
+–
+Inorganic growth: acquire cultivation facilities / dispensaries / infused 
+products companies, etc.
+–
+Out-of-state expansion
+–
+Consulting services
+Green Dreamz: Case Guide
+295
+© 2021 NYU Stern MCA
+
+
+===== PDF p300 =====
+Question 1:
+•
+What can you infer about the cannabis market in Colorado when looking at Exhibit A?
+Notes to Interviewer:
+•
+This is a somewhat difficult chart to read. Candidate should take their time and ask questions to enable their understanding
+•
+The bars indicate median price per pound of wholesale cannabis flower, with prices on the right axis
+•
+Flower prices are for recreational cannabis (not medical)
+•
+The bottom line indicates medical sales, the middle line indicates recreational sales, the top line indicates total sales, with sales on
+the left axis
+Green Dreamz: Question 1
+296
+© 2021 NYU Stern MCA
+
+
+===== PDF p301 =====
+Green Dreamz: Exhibit A
+Key Insights Interviewer Should Look For:
+•
+Fast growth in recreational sales from 2014-2017 following legalization
+•
+Growth moderates from 2017-2019
+•
+Some seasonality is evident in recreational sales, with annual spikes in July / September
+•
+A large spike in growth occurs in 2020 (likely caused by pandemic-induced panic buying, as consumers expected cannabis shops to be
+•
+shut down. Interviewer should ask candidate if they believe this to be an aberration or indicative of future growth trends)
+•
+Medical sales were flat from 2014-2017, then declined somewhat from 2017-2019, reflecting a ceiling on the potential market and/or 
+competition from recreational sales. Medical sales increased slightly in mid-2020, also likely pandemic-induced
+•
+Wholesale flower prices saw a sharp decrease from 2017-2020 (coincident with the moderation in recreational sales growth) and have yet to
+fully recover
+•
+If the candidate doesn’t offer explanations for the trend(s) they identify, interviewer should ask their opinion
+•
+Potential causes for trends: market saturation fewer new customers; decline in cannabis tourism; flower price declines from oversupply;
+increasing cost of regulation / compliance; potential resurgence of criminal market
+297
+© 2021 NYU Stern MCA
+
+
+===== PDF p302 =====
+Math Question:
+•
+Calculate the profitability of Green Dreamz – refer to Exhibit B for initial data
+Math Solution:
+•
+Candidate should quickly recognize they don’t have enough information. When they ask for price information, 
+present them with Exhibit C (Please note this is pre-tax pricing)
+Math Information:
+Avg. Monthly Visits per Store
+•
+Medical: 1,500
+•
+Recreational: 9,500
+•
+Dual Med / Rec: 5,000 (90% of which 
+are Recreational)
+Annual Costs:
+•
+Rent/Utilities: $10 million
+•
+Labor: $12 million
+•
+R&D: $1 million
+•
+SG&A: $6 million
+•
+COGS: 24% of revenue
+•
+Legal: $1 million
+•
+Candidate can use these 2 exhibits to calculate avg. medical and recreational spend (recommended), and/or 
+they may ask for customer visits, in which case provide the visits information on the right
+•
+After calculating revenue, candidate should ask for cost information. Provide the information on the right 
+(interviewer is encouraged to ask candidate to brainstorm what costs should be considered)
+•
+If candidate asks, inform them when they may round their numbers, as indicated below
+Recommended Calculations:
+•
+Avg. Medical Spend = [($120*.5)+($45*.2)+($35*.15)+($40*.1)+($25*.05)] = $79.50 round to $80
+•
+Avg. Recreational Spend = [($75*.6)+($20*.1)+($20*.1)+($30*.15)+($20*.05)] = $54.50 round to $55
+•
+Avg. Monthly Revenue = ($80 * 1,500 visits * 3 Med stores) + ($55 * 9,500 visits * 4 Rec stores) + [(0.9 * 5,000 
+visits * $55) + (0.1 * 5,000 visits * $80) * 5 Dual stores] = $3,887,500 round to $4 million
+•
+Avg. Annual Revenue = $4,000,000 * 12 = $48,000,000
+•
+Avg. Annual Trim Revenue = $2,000,000 (candidate will likely fail to include this, so ask if there are any other 
+revenue streams they should consider before moving on to cost calculations)
+•
+Total Revenue = $50,000,000
+•
+Total Costs: $10m + $12m + $1m + $6m + $12m + $1m = $42,000,000
+•
+Pre-Tax Total Profit = $50,000,000 - $42,000,000 = $8,000,000
+•
+A great candidate will calculate a pre-tax profit margin (16%) and opine on whether they think it’s high or low
+•
+(“Pre-tax” is emphasized here because cannabis companies face unusually high federal tax burdens due to 
+selling a Schedule 1 federally-regulated substance)
+Green Dreamz: Question 2
+298
+© 2021 NYU Stern MCA
+
+
+===== PDF p303 =====
+Key Insights Interviewer Should Look For:
+•
+[The chart is difficult to read. Interviewer should give candidate the exact numbers if their eyeball guess is in the ballpark]
+•
+The left bar represents the breakdown of medical sales by product category
+•
+The right bar represents the breakdown of recreational sales by product category
+•
+Medical: 50% Flower, 20% Edibles, 15% Concentrates, 10% Vapes, 5% Topicals
+•
+Recreational: 60% Flower, 10% Edibles, 10% Concentrates, 15% Vapes, 5% Topicals
+•
+This information, alone, is not enough to calculate revenue. Candidate should quickly ask for price information
+Green Dreamz: Exhibit B
+299
+© 2021 NYU Stern MCA
+
+
+===== PDF p304 =====
+Key Insights Interviewer Should Look For:
+•
+Average medical prices are higher than average recreational prices (Interviewer should ask candidate why they think this is. In 
+general, this is largely due to supply constraints in the medical market. In addition, medical products generally contain more 
+THC/unit. Candidate can also infer lower demand for medical products as a potential cause based on Exhibit A)
+•
+This information combined with Exhibit B will enable the candidate to calculate the average spend for medical and recreational
+consumers
+•
+Interviewer may encourage the candidate to do this calculation first before calculating average monthly revenue
+Green Dreamz: Exhibit C
+Category
+Avg. Medical Price
+Avg. Recreational Price
+Flower
+$120
+$75
+Edibles
+$45
+$20
+Concentrates
+$35
+$20
+Vapes
+$40
+$30
+Topicals
+$25
+$20
+300
+© 2021 NYU Stern MCA
+
+
+===== PDF p305 =====
+Question 3:
+•
+What are some ways Green Dreamz can grow its overall revenue?
+Notes to Interviewer:
+•
+The purpose of this question is to test the candidate’s creativity and ability to devise different, relevant ways to grow the company while 
+keeping in mind the unique constraints faced by the cannabis industry
+•
+Cost mitigation should not be a major focus for this question
+•
+A good candidate will construct buckets to organize their brainstorm, e.g., organic vs inorganic, medical vs recreational, volume vs value, 
+low-risk vs high-risk, near-term vs long term
+•
+A great candidate will construct a 2x2 matrix comparing “existing vs new customers” with “existing vs new products”
+Possible answers include:
+•
+Existing customers & products: loyalty program, new pack sizes for flower, price changes / promotions (e.g., happy hours), bundles, etc.
+•
+Existing customers & new products: branded merchandise, accessories, new 3rd party products, in-house infused products, new flower 
+strains, tours of cultivation facility, cannabis cooking classes, etc.
+•
+New customers & existing products: enhanced marketing (earned / owned / paid media), co-op marketing with 3rd party partners, 
+celebrity endorsements, product placement opportunities, organic expansion to new geographies, online pre-ordering system, partner 
+with event/tourism companies, etc.
+•
+New customers & products: celebrity partnerships, acquisition of infused product companies / dispensaries / cultivation facilities, launch
+CBD-only products, acquire packaging / distribution company, brand licensing, franchising, consulting services, etc.
+Green Dreamz: Question 3
+301
+© 2021 NYU Stern MCA
+
+
+===== PDF p306 =====
+Question 4:
+•
+Green Dreamz is considering acquiring one of its smaller competitors, Treetops. Treetops operates a cultivation facility in Pueblo that
+produces recreational cannabis exclusively for its infused products division (which sells Treetops-brand concentrates and edibles at its 
+own recreational dispensaries). It buys flower and other infused products from wholesalers to sell at its 4 dispensaries (1 medical-only in 
+Colorado Springs, 1 recreational-only in Pueblo, and 2 dual med/rec in Denver). How would you evaluate this opportunity?
+Notes to Interviewer:
+•
+The purpose of this question is to test the candidate’s knowledge of M&A considerations, including revenue and cost synergies, 
+strategic goals, financial / operational concerns, potential risks, opportunity costs, and valuation concepts
+•
+A good candidate will mention one or more of the areas above, without going into much detail
+•
+A great candidate will treat this as a mini-framework exercise and construct buckets to organize their thoughts, (e.g., into the categories 
+listed above) and provide 1-2 examples for each
+Possible answers include:
+•
+Revenue synergies: geographic expansion, price power from increased market share, new customer acquisition, cross-sell 
+opportunities, better product / strain innovation from combined R&D, better customer experiences from best practices adoption, 
+improved value proposition from wider product assortment, higher margins with in-house infused products, potential B2B sales of in-
+house infused products, higher marketing ROI, etc.
+•
+Cost synergies: improved bargaining power with 3rd party suppliers, more efficient distribution, lower cost from best practices adoption, 
+consolidated back-end IT and administrative resources, shorter distance between Pueblo cultivation center and southern stores, etc.
+•
+Potential risks: regulatory fallout, competitor responses, brand damage, cannibalization in Denver & Colorado Springs, culture clash, 
+Green Dreamz capabilities (this would be its largest acquisition to date), buying a medical dispensary despite low growth prospects, 
+need to buy even more wholesale flower to meet demand from new dispensaries, etc.
+Green Dreamz: Question 4
+302
+© 2021 NYU Stern MCA
+
+
+===== PDF p307 =====
+Math Question:
+•
+What price should Green Dreamz bid for Treetops?
+Math Solution:
+Math Information:
+Treetops Financials
+•
+Estimated Total Revenue: 30% of 
+Green Dreamz
+•
+Estimated Profit Margin: 18%
+•
+Candidate should ask for financial information from Treetops in order to calculate the company’s 
+Net Present Value. If so, provide the financial information on the right
+•
+An excellent candidate will note Treetops has a higher profit margin than Green Dreamz. 
+Interviewer may ask their thoughts (e.g., likely driven by the in-house infused products division)
+•
+After calculating the profit, candidate should ask for a discount rate and growth rate. If so, provide 
+a discount rate of 15% and a growth rate of 6%
+•
+(If the candidate seems curious about these rates, ask for their thoughts. In general, cannabis 
+companies face a higher cost of capital than other businesses due to the unwillingness of banks to 
+make loans to the industry and the continued perceived riskiness of such ventures. A 6% growth 
+rate is low relative to previous growth rates achieved in the years immediately following 
+legalization, during which growth reached a CAGR of 58% from 2013-2016)
+•
+After calculating the NPV, the candidate should offer a bid price around $30m
+Recommended Calculations:
+•
+Total Annual Revenue = $50m * 0.3 = $15m
+•
+Total Annual Profit = $15m * 0.18 = $2.7m
+•
+NPV = $2.7m / (0.15-0.06) = $30m
+Green Dreamz: Question 5
+303
+© 2021 NYU Stern MCA
+
+
+===== PDF p308 =====
+Recommendation:
+•
+Acquire: positive revenue synergy 
+opportunities, improve performance with 
+best practices transfer, exposure to new 
+customers, infused products division 
+provides new revenue opportunities, etc.
+•
+Don’t Acquire: acquiring additional medical 
+dispensaries is unhelpful, cannibalization 
+issues, will need to buy more wholesale 
+flower to supply new dispensaries, no 
+experience operating infused products 
+division, potential integration problems 
+given size of acquisition, etc.
+•
+If “Don’t Acquire,” candidate should 
+propose alternative growth ideas from their 
+previous brainstorm
+Bonus: Guide to an excellent case
+•
+There is no correct answer to this case. A great candidate will acknowledge the pros and cons but ultimately come down strongly 
+either in favor or against, with their answer corresponding to the insights they derived throughout the case (especially during 
+questions 3 and 4)
+•
+A great candidate will be very case specific, recognizing the nuances that distinguish the cannabis industry from traditional business
+Risks:
+•
+Acquire: revenue synergies fail to 
+materialize, increased costs from 
+integration and additional wholesale 
+purchases, problems integrating the 
+culture and brand, cannibalization, 
+etc.
+•
+Don’t Acquire: missed opportunity, a 
+competitor acquires Treetops, further 
+declines in growth from lack of 
+expansion, etc.
+Next Steps:
+•
+Next steps should relate directly to 
+the risks the candidate identifies, 
+e.g., if a risk is “problems with 
+integration” a next step would be to 
+review past acquisitions for potential 
+pitfalls and assess likelihood of those 
+occurring with Treetops integration
+Green Dreamz: Recommendation
+304
+© 2021 NYU Stern MCA
+
+
+===== PDF p309 =====
+Green Dreamz: Exhibit A
+Source: Colorado Department of Revenue
+Green Dreamz: Exhibit A
+305
+© 2021 NYU Stern MCA
+
+
+===== PDF p310 =====
+Green Dreamz: Exhibit B
+Source: Green Dreamz
+Green Dreamz: Exhibit B
+306
+© 2021 NYU Stern MCA
+
+
+===== PDF p311 =====
+Category
+Avg. Medical Price
+Avg. Recreational Price
+Flower
+$120
+$75
+Edibles
+$45
+$20
+Concentrates
+$35
+$20
+Vapes
+$40
+$30
+Topicals
+$25
+$20
+Green Dreamz: Exhibit C
+Average Prices by Product Category
+Source: Green Dreamz
+307
+© 2021 NYU Stern MCA
+
+
+===== PDF p312 =====
+Green Dreamz: Exhibit D
+Fort Collins
+Colorado Springs
+Pueblo
+Cortez
+Trinidad
+Boulder
+Denver
+Vail
+Aspen
+COLORADO
+Grand Junction
+308
+© 2021 NYU Stern MCA

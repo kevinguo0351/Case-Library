@@ -1,0 +1,366 @@
+===== PDF p63 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+59
+Case Style: Interviewee Led
+Difficulty: Medium
+Case Overview:
+Industry: Food Services
+Case Type: Profitability
+Concepts Tested:
+•
+Profitability
+•
+Structured Math
+Overview Information for Interviewer:
+This case is math intensive so the candidate will need to stay organized. A great 
+caser will lay out a chart with all the data and calculations as well as talk through 
+the calculations to keep the interviewer apprised of his or her thought process. 
+By the end of the case, the candidate should make a clear recommendation as to 
+how the primary investor can be convinced it is a viable business.  He/she should 
+approach it from an investment perspective and analyze the profitability of the 
+business, along with any risks that aren’t discussed. The total profitability should be 
+framed in the context of other possible ways the father could invest his money.
+Case Prompt:
+Your client is an entrepreneur looking to invest in a new bar. He needs to determine how profitable 
+the company will be and convince his primary investor, his father, that it will be a viable business. 
+What factors would you consider and investigate? 
+Sports Bar
+
+
+===== PDF p64 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+60
+Clarifying Information: Profitability (only give information when asked)
+Revenues:
+•
+The average customer spends $15 on food per visit
+•
+The average customer spends $20 on drinks per visit
+•
+Capacity constraints and benchmarking should also be discussed here
+Costs:
+•
+Lease cost is $10,000 per month
+•
+Labor costs can be seen below
+•
+COGS: Food has a 20% gross margin
+•
+COGS: Drinks have a 50% gross margin
+•
+There is no specific data on utilities, legal, insurance, licenses, training, remodeling , equipment, and other 
+startup costs
+Labor Needs:
+•
+Kitchen (when open): 
+4 people @ $10/hr
+•
+Bar: 
+1 person @ $5/hr
+•
+Wait Staff: 
+3 people @ $5/hr
+Sports Bar: Case Guide
+
+
+===== PDF p65 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+61
+Notes to Interviewer:
+•
+Exhibit 1 should be given when the interviewee asks for information regarding the number of customers
+•
+The interviewee should notice the higher volume on weekends and immediately proceed to calculate profitability
+•
+It is essential that the interviewee remain structured throughout the calculations.  Interviewer should check all figures 
+as they are calculated and prompt the interviewee to verbalize each step.
+Sports Bar: Interviewer Guide to Exhibit 1
+
+
+===== PDF p66 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+62
+Total # of Orders:
+Variables
+Source
+(given in case unless 
+stated)
+Sunday - Wednesday
+Thursday – Saturday
+Food
+Drinks
+Food
+Drinks
+Day orders per hour
+10
+4
+15
+5
+Day time hours
+8 (12pm-8pm)
+8 (12pm-8pm)
+8 (12pm-8pm)
+8 (12pm-8pm)
+Day time orders 
+(hours) x (orders per hour)
+80
+32
+120
+40
+Night orders per hour
+4
+15
+5
+20
+Night hours
+4 (8pm-12am)
+4 (8pm-12am)
+6 (8pm-2am)
+6 (8pm-2am)
+Night orders
+(hours) x (orders per hour)
+16
+60
+30
+120
+Total daily orders
+(night) + (day orders)
+96
+92
+150
+160
+Days per week
+4
+4
+3
+3
+Total weekly orders
+(days) x (daily orders)
+384
+368
+450
+480
+Total weekly food orders
+834
+Total weekly drink orders
+848
+Sports Bar: Calculations
+
+
+===== PDF p67 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+63
+Revenue & Costs:
+Variables
+Source (given in case unless stated)
+Food
+Drinks
+Calculations
+Price
+$15
+$20
+Weekly orders
+Previously calculated
+834
+848
+Weekly revenue 
+(price) x (weekly orders)
+$12,510
+$16,960
+$29,470
+COGS
+88%
+50%
+Weekly COGS 
+(% cost) * (weekly revenue)
+$11,009
+$8,480
+$19,489
+Variables
+Source (given in case unless stated)
+Kitchen
+Bar
+Wait Staff
+Salary per hour
+$10
+$5
+$5
+# people
+4
+1
+3
+Sunday – Wednesday hours
+(4 days x  (12pm-12am))
+48
+48
+48
+Thursday – Saturday hours
+(3 days x  (12pm-2am))
+42
+42
+42
+Total labor cost
+(salary) x (total hours)
+$3,600
+$450
+$1,350
+Total weekly labor cost
+$5,400
+Sports Bar: Calculations
+
+
+===== PDF p68 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+64
+Profitability:
+Variables
+Source (given in case unless stated)
+Calculations
+Weekly revenue
+Previously Calculated
+$29,470
+Weekly COGS
+Previously Calculated
+$19,489
+Weekly labor
+Previously Calculated
+$5,400
+Weekly lease cost (assume 4 weeks/month)
+$2,500
+Weekly Profit 
+(revenue) – (COGS) – (labor) – (lease)
+$2,081
+Weeks per year
+Assumed
+50
+Annual Profit
+(% cost) x (weekly revenue)
+$104,050
+Key Takeaway:  Business is not projected to lose money but cost assumptions may be incomplete
+Sports Bar: Calculations
+
+
+===== PDF p69 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+65
+Question #1: 
+Your client estimates that the start-up capital needed to open the Sports Bar (e.g., renovations, 
+equipment, licenses) is $500K. How long will it take for the business to break even? Over a 5-yr period, 
+what would be the return on this investment? (Assume no interest)
+Notes to Interviewer:
+•
+The client’s father would have to compare this opportunity against other potential investments
+•
+4.1% at the end of 5 years
+•
+Over the 5-yr period, less than 1% return per year
+•
+Although calculations indicate that the business can be profitable, the margin is rather small relative to the initial investment 
+required.  Further, all costs may not be accounted for.
+•
+Given these results, the client’s father could likely find another investment opportunity with a faster payback period and 
+higher ROI
+Variables
+Source (given in case unless stated)
+Calculations
+Up-front costs
+$500,000
+Annual profit
+Previously Calculated
+$104,050
+Break-even Point**
+(up-front costs)/(annual profit)
+4.8 years
+5-year ROI**
+((annual profit)*(5years) – (up-front costs))
+(up-front costs)
+4.1%
+Sports Bar: Question 1
+
+
+===== PDF p70 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+66
+Recommendation:
+•
+From a financial perspective, the 
+sports bar is profitable, but should 
+be compared to other ways the 
+father can invest his money and 
+when he is expecting a return
+•
+The recommendation should focus 
+on convincing the primary investor 
+(his father) that it will be a viable 
+business with strong returns in the 
+long-term
+Bonus: Guide to an excellent case
+•
+Strong candidates may also discuss ways to improve the existing business plan such as tapping other sources of revenue (jukebox, 
+advertising) or following a different operating model (food vs. drinks)
+•
+Strong candidates may also note:
+•
+In order to shorten the break-even period, the client should investigate substitutes for the fixed start-up costs, such as 
+purchasing used equipment or a less significant interior redesign
+•
+Over time, if the business is successful in building a unique brand and customer loyalty, it may be possible to charge 
+higher margins
+Risks:
+•
+There are other costs that have 
+been excluded from this case that 
+will need to be properly calculated in 
+more detail and include:
+•
+Utilities
+•
+Marketing and promotions
+•
+Location could also be an important 
+factor in determining the success of 
+the bar compared to competitors
+•
+Other risks include sudden rise in 
+COGS (food shortage), increase in 
+minimum wages, or decrease in 
+customers after a few months
+Next Steps:
+•
+Incorporate utilities, marketing etc. 
+costs into the profitability calculation
+•
+Explore additional ways to increase 
+the revenue of the sports bar
+•
+Investigate other opportunities for 
+your client’s father to invest money 
+in 
+Sports Bar: Recommendation
+
+
+===== PDF p71 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Sports Bar: Exhibit 1
+Hours
+Sunday – Wednesday
+Food Customers
+Drinks Customers
+12pm – 8pm
+10 customers/hr
+4 customers/hr
+8pm – 12am
+4 customers/hr
+15 customers/hr
+Hours
+Thursday – Saturday
+Food Customers
+Drinks Customers
+12pm – 8pm
+15 customers/hr
+5 customers/hr
+8pm – 2am
+5 customers/hr
+20 customers/hr
+Market Research
+67

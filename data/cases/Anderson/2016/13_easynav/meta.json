@@ -1,0 +1,28 @@
+{
+  "case_id": "Anderson_2016_13_easynav",
+  "school": "Anderson",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2016.pdf",
+  "idx": 13,
+  "case_name": "EasyNAV",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 62,
+  "pdf_page_end": 70,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    64,
+    65,
+    66,
+    67
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2016\\13_easynav"
+}

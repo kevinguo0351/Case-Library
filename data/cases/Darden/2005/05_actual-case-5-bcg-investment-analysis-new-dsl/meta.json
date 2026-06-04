@@ -1,0 +1,24 @@
+{
+  "case_id": "Darden_2005_05_actual-case-5-bcg-investment-analysis-new-dsl",
+  "school": "Darden",
+  "year": "2005",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2005.pdf",
+  "idx": 5,
+  "case_name": "Actual Case #5 (BCG – Investment Analysis / New-DSL)",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Telecom",
+  "difficulty": null,
+  "pdf_page_start": 14,
+  "pdf_page_end": 16,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    15,
+    16
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p015.png",
+    "exhibits/exhibit_p016.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2005\\05_actual-case-5-bcg-investment-analysis-new-dsl"
+}

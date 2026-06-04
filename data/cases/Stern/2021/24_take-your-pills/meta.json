@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2021_24_take-your-pills",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 24,
+  "case_name": "Take Your Pills!",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 266,
+  "pdf_page_end": 275,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    267,
+    268,
+    269,
+    274,
+    275
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p267.png",
+    "exhibits/exhibit_p268.png",
+    "exhibits/exhibit_p269.png",
+    "exhibits/exhibit_p274.png",
+    "exhibits/exhibit_p275.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\24_take-your-pills"
+}

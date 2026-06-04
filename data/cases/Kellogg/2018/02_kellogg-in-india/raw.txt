@@ -1,0 +1,330 @@
+===== PDF p35 =====
+31
+Kellogg in India
+Case Question
+Guide to the interviewer
+Our client is the Dean of Kellogg School of Management. She has hired you to advise her on an idea, which struck her during the 
+previous week – To consider starting a satellite campus of Kellogg in India. She has asked you to determine whether Kellogg should 
+enter the Indian market.
+✓This case is a quintessential market entry case. 
+✓The two main quantitative concepts on which the 
+candidate is being tested are on market size estimation 
+and breakeven analysis.
+Clarifying answers to be provided (If asked by the candidate)
+✓
+•
+Fastest growing economies with a huge demand for business education both 
+in India and students travelling abroad
+•
+Dean Sally believes that it would help Kellogg move to the Top 3
+•
+She wants the satellite campus to breakeven in 4 years
+•
+The quality of students and the selection procedure would be 
+comparable to the current procedure and there would be no compromise on 
+the quality of applicants, to increase revenue.
+✓
+•
+India has it’s own top-tier business schools such as the 7 Indian Institutes of 
+Management (IIM) and the Indian School of Business (ISB) (ISB has a tie-up 
+with Kellogg, for its pedagogy). 
+✓
+•
+The B-Schools in India admit for the MBA program based on the Common 
+Admission Test (CAT). The Indian School of Business admits candidates 
+based on the Graduate Management Admission Test (GMAT).
+✓
+•
+It costs a student about $20,000 per year for an MBA education in India, as 
+compared to an expense of about $70,000 at Kellogg. Indian schools don’t 
+offer many scholarships but banks offer generous educational loans for top 
+MBA schools in India.
+✓
+•
+Only the 2Y MBA program to start with. 
+A Model Structure should include the following
+Market 
+Entry
+Qualitative
+Quantitative
+Impact on 
+ranking
+Brand Kellogg & 
+Kellogg India
+Revenue
+# of students
+Costs
+Fixed
+Cannibalisation
+Job Prospects, 
+ROI
+Variable
+- Salaries
+- Marketing
+- SGA
+- Cost/student
+Fee per 
+annum
+Market Sizing
+By: Abhilash Sridharan (Kellogg ’15) & Rashaad Jamaal (Kellogg ’15)
+Quant: 8
+Structure: 5 
+Industry: Education
+Framework: Market Entry
+
+
+===== PDF p36 =====
+32
+Case Guide
+The candidate can choose to size the market, in anyway he wants – either 
+top-down or bottom-up.  A problem with the top-down approach is that it 
+becomes too dependent on assumptions. Use Exhibit A for a bottom-up 
+approach. (Don’t hand it over right away – Let the candidate ask for it.)
+- Indian Institutes of Management (IIM)
+- Indian School of Business (ISB)
+- Students joining B-Schools abroad (negligible amount)
+-
+Every year, there are around 500,000 applications
+-
+Top 6% get closed listed for an interview = 30,000 applicants
+-
+1 out of 5 are accepted 
+-
+1,400 matriculated students / 70% of total admitted students = 
+-
+If interviewee gets this wrong, ask which student pool are we most 
+interested in: matriculated students or all accepted students (some 
+students may not matriculate due to prestige level of school).
+Total Addressable Market = 6,000 + 2,000 
+Fee to be charged annually needs to be calculated. A value somewhere in 
+between $20,000 and $70,000 is acceptable. Too low or high a value needs 
+to be challenged. Taking a value of $50,000 per year for 2 years.
+Topic 1 Being Tested: Market Sizing
+-
+The candidate needs to mention a target market share in the 
+year of launch. A lower number would be preferable to start 
+with. After letting the candidate present his/her logic, ask 
+him/her to take an assumption of 
+-
+Expected breakeven in 4 years
+-
+Calculate the revenue and cost structure for 4 years
+- Only source of revenue is the fee charged from students. 
+- Revenue each year = Number of students admitted * Fee/year
+- From the second year onwards, add last year’s fee back 
+-
+-
+Land acquisition / leasing
+-
+Setting campus up
+-
+Infrastructure costs
+-
+-
+Salaries to Professors
+-
+Infrastructure Maintenance
+-
+-
+Costs incurred per student
+The candidate must move towards a NPV Calculation, as explained 
+in the next page, to understand the breakeven possibility in 4 
+years.
+Topic 2: Market Share & Breakeven Analysis
+
+
+===== PDF p37 =====
+33
+Breakeven Analysis & Qualitative Insights
+Y0
+Y1
+Y2
+Y3
+Y4
+Number of students
+600
+600
+900
+900
+Yearly Fee per student ($)
+50,000
+50,000
+50,000
+50,000
+Revenue from student in year 1 ($ 
+M)
+30
+30
+45
+45
+Revenue from student in year 2 ($ 
+M)
+30
+30
+45
+Total Revenue ($ M)
+30
+60
+75
+90
+Costs ($ M)
+150
+30
+30
+30
+20
+Profits
+-150
+0
+30
+45
+70
+-
+Candidate must ask for discount rate to do the NPV Calculation. However, there is no 
+discount rate and we could go ahead without it. 
+-
+From the above calculations, by the 4th year, it doesn’t breakeven
+-
+A candidate could say that it doesn’t breakeven even without using discount rates 
+and to not go ahead with the market entry strategy
+-
+A good candidate would conclude that  the venture misses the breakeven mark by 
+only $5M. Given the rising revenues ($90M in Y4) and declining costs ($20M in 
+Y4, vis-à-vis $30M in Y3), the breakeven would be achieved in the first month of 
+year 5 itself. 
+-
+From a quantitative standpoint, the move makes sense
+In addition to the breakeven analysis, a good 
+candidate must discuss the qualitative factors, 
+before moving to a conclusion
+✓
+No Top B-School from the US (except for 
+INSEAD) has successfully ventured to start a 
+satellite campus in India. Whether a satellite 
+campus will dilute the Kellogg brand needs to be 
+studied in detail.
+✓
+What are the factors which may be impacted by 
+the satellite campus:
+-
+Diversity
+-
+International Presence
+-
+Proximity to other Asian countries
+-
+Job prospects, in terms of % placements
+✓
+Kellogg Evanston has about 50-60 students who 
+join every year from India . Will this cannibalise 
+that number? Additionally, there are other 
+students who join Kellogg from other Asian 
+countries. Will this result in those quality 
+applications moving out?
+✓
+Will global employers view an MBA from Kellogg 
+India on the same scale as they would view an 
+MBA from Kellogg Evanston? 
+✓
+A huge premium is being charged on the joining 
+fee vis-à-vis IIMs and ISB. Will students 
+experience a similar increase in ROI?
+✓
+The support on Infra and pedagogy from the 
+parent campus to the satellite campus is critical
+
+
+===== PDF p38 =====
+34
+Suggested conclusion
+Conclusion
+Risks
+Next steps
+A good candidate must highlight that while starting a satellite campus makes financial sense, further scrutiny needs to be done 
+to check the impact of this move on brand Kellogg and other factors that impact the rankings (positively / negatively)
+Other additional points, which the candidate may add, could be:
+-
+Negotiate on the costs for initial investments, to lower it down from $150M. 
+-
+Support from Indian government on subsidies to be offered
+-
+Develop additional sources of revenue, from supporting programs and corporate training sessions
+-
+Brand dilution / considering the impact of a satellite campus on Brand Kellogg
+-
+Cannibalization of existing revenue from Indian students
+-
+Admission percentage is projected to increase from Year 2 to Year 3 by 50% (This is quite high)
+-
+The salaries of Indian graduates, as per Indian Market conditions, (considering Indian PPP) may influence the average salary 
+of Kellogg School of Management given global reporting, eventually impacting the ranking negatively
+-
+Given Kellogg’s new building being constructed, the $150M additional investment for a satellite campus, may require 
+additional rounds of fund raising for the India campus
+-
+Employ a Brand agency / consultant to figure out the impact of starting a satellite campus on Brand Kellogg
+-
+Fund Raising for $150M to be worked out
+-
+Potential Partners for promoting the program and supporting with faculty initially
+-
+Discussions to be started with the government of India for the land, infrastructure investment and licenses. 
+
+
+===== PDF p39 =====
+35
+Exhibit A – B-Schools in India
+Category
+Indian Institutes of Management (IIMs)
+Indian School of Business (ISB)
+Description of  
+program
+- IIMs select via the Common Admission Test (CAT)
+- The CAT has 500,000 applications every year and the 
+Top 6 percentile gets closed listed for an interview by 
+the IIMs
+- 5 candidates are interviewed for every slot available
+- 85% of the admitted candidates end up joining an IIM
+- 70% of admitted students matriculate
+each year between the two campuses 
+for a total class size of 1,400
+Cost incurred by 
+Student
+INR 1,200,000 for each year (All expenses included)*
+Use the conversion rate of 1 USD = 60 INR
+*Assume the total cost incurred by a student annually at Kellogg, Evanston as $70,000 per annum
+
+
+===== PDF p40 =====
+36
+Exhibit B: Number of Admitted Students
+Year
+Expected Number of new 
+students to be admitted each 
+year 
+1
+600 
+(7.5% of 8,000)
+2
+600
+3
+900
+4
+900
+
+
+===== PDF p41 =====
+37
+Exhibit C: Intake and cost structure
+Total Variable Costs per Year
+Year 1
+Year 2
+Year 3
+Year 4
+$30M
+$30M
+$30M
+$20M
+Initial Cost (Incurred in Year 0)
+Acquiring land and setting up the campus = $100M
+Support Infrastructure = $50M

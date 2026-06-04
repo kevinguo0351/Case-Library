@@ -1,0 +1,217 @@
+===== PDF p135 =====
+Case # 17 - Pharma Co.
+Our client is Pharma Co, a mid-size pharmaceutical company focusing on primary care drugs (pain meds, 
+OTC drugs, etc.) and with a target to grow. They are exploring entering the specialty drug market in the 
+auto-immune disorder category and specifically looking at rheumatoid arthritis drugs. They want to know 
+what factors they should be considering when entering the US market with a rheumatoid arthritis drug.
+Problem Statement Narrative
+Case # 17 : Pharma Co.
+This is an open-ended prompt, meant to drive the interviewee into discussion and framework creation. The 
+point is not to test the interviewee on knowledge of the pharma industry, but on the his/her approach to 
+structured thinking, business acumen and market sizing.
+Case Notes
+Industry: 
+Pharma
+Case Type: 
+Market Entry
+Firm:
+Strategy&
+• Market Sizing
+• Mental math
+• Framework Building
+Concepts Tested
+Structure
+Creativity
+Math
+Hard
+Medium
+Easy
+131
+
+
+===== PDF p136 =====
+Sample Framework
+Market Size
+•
+Determine # of patients
+•
+Determine spend per patient
+•
+Current competitive landscape
+•
+Consumer preferences
+Profitability
+•
+Revenue: Market captured*overall 
+market
+•
+Costs: Upfront vs. Ongoing (FC & 
+VC)
+Client Capabilities and risks
+•
+Existing client network with 
+doctors, payers, regulators
+•
+R&D Capabilities
+•
+Expertise in autoimmune 
+disorders/drugs
+Risks
+•
+What is the R&D and commercial 
+risk 
+•
+Payer (private and government 
+health insurer) willingness to pay 
+•
+Patent life time
+Sample Framework
+The interviewee should start with determining the 
+market size for this new drug. They should also ask 
+about competitors and customers (both existing 
+and new). There are no specific objectives or 
+quantifiable goals in this case. 
+Guidance for Interviewer
+•
+There are four main big pharma competitors to 
+our client that are already in this space.
+•
+Our client’s customer base consists of primary 
+doctors but if they produce this new drug, then 
+their clients become specialty doctors and 
+patients will receive the drug from specialty 
+pharmacies
+•
+Drug is good fit with the rest of the client’s 
+portfolio
+•
+No specific details on revenue or costs
+Clarification Answers if Asked 
+132
+Case # 17 - Pharma Co.
+
+
+===== PDF p137 =====
+•
+Profits = Revenue – Fixed costs – variable costs
+•
+Revenue = % of market captured*overall 
+market size
+•
+Fixed costs: R&D, overhead, legal fees, SG&A, 
+overhead
+•
+Variable costs: raw materials, packaging, 
+variable component/incentives for sales force 
+Profitability
+•
+Market Sizing (see question 1)
+•
+Determine # of patients
+•
+1 out of every 500 men and 1 out of 
+every 100 women has rheumatoid 
+arthritis
+•
+50% of these are diagnosed
+•
+30% treated with similar drug
+•
+Frequency of dosage – 1/week
+•
+Price of each dose is $350
+Market
+• Fit with rest of the client’s portfolio 
+• Efficacy of this drug compared with existing 
+drugs in the market in terms of lower frequency, 
+improved outcomes
+• Network with payers, regulators (FDA), and 
+customers (doctors)
+• Once the drug is launched, what will the leftover 
+patent lifetime be for the client to recuperate 
+their R&D investment
+Client Capabilities
+Potential Areas for Analysis
+133
+Case # 17 - Pharma Co.
+
+
+===== PDF p138 =====
+Question #1
+How big is the US market for rheumatoid arthritis drugs?
+Additional information to be given (interviewee should ask for some of the information below):
+•
+# of patients
+•
+1 out of every 500 men and 1 out of every 100 women has rheumatoid arthritis
+•
+50% of these are diagnosed
+•
+30% treated with similar drug
+•
+Frequency of dosage – 1/week
+•
+Price of each dose is $350
+Question #1
+Using the information provided:
+US Population = 300 million (assume even split between men and women)
+# of men with rheumatoid arthritis = 150 million * 0.2% = 1.5 million / 5 = 300K
+# of women with rheumatoid arthritis = 150 million * 1% = 1.5 million
+Total population with disease = 1.5 million + 300K = 1.8 million
+Total population diagnosed = 1.8 million * 50% = 900K
+Total population treated with drug = 900K * 30% = 270K
+Total revenue per week = 270K * $350/dose * 1 dose/week = $94.5 M
+Total annual revenue = $94.5 M * 50 weeks per year = $4,720,500,000 ~ $4.7 billion
+Solution
+134
+Case # 17 - Pharma Co.
+
+
+===== PDF p139 =====
+Sample Dialogue
+Below are some qualitative questions that should be asked while calculating the market size:
+•
+How would you go about figuring out this market? 
+•
+Interviewee should drive this portion and only receives info if prompted
+•
+Why do you think only 50% of the people with rheumatoid arthritis are diagnosed?
+•
+Why do you think 70% of people diagnosed with rheumatoid arthritis are not treated with a drug?
+•
+How might our client take advantage of that if they enter this market?
+After calculating…
+•
+What do you think about the size of that market?
+•
+What else should we consider besides the $4.7 billion in annual revenue?
+Dialogue
+135
+Case # 17 - Pharma Co.
+
+
+===== PDF p140 =====
+Conclusion
+Rationale
+• Client should enter the market
+Recommendation
+• Analyze competitive response and evaluate if we 
+can sustain a price war
+Next Steps
+• R&D risk – what is the probability that the drug 
+will receive all the approvals and hit the market?
+• Commercial risk – what is the probability that the 
+drug will be accepted by payers, doctors, and 
+patients?
+• Patent risk - Once the drug is launched, what will 
+the leftover patent lifetime be for the client to 
+recuperate their R&D investment?
+• Payer willingness to pay – will the drug be 
+accepted by insurers?
+Risks
+• Overall market is substantial at ~$4.7bn
+• Higher efficacy of client’s drug compared to 
+competitors (lower frequency of dosage, 
+improved patient adherence, better outcomes)
+136
+Case # 17 - Pharma Co.

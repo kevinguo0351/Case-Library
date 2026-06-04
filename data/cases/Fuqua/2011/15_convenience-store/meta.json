@@ -1,0 +1,40 @@
+{
+  "case_id": "Fuqua_2011_15_convenience-store",
+  "school": "Fuqua",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2011.pdf",
+  "idx": 15,
+  "case_name": "Convenience Store",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 77,
+  "pdf_page_end": 86,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p077.png",
+    "exhibits/exhibit_p078.png",
+    "exhibits/exhibit_p079.png",
+    "exhibits/exhibit_p080.png",
+    "exhibits/exhibit_p081.png",
+    "exhibits/exhibit_p082.png",
+    "exhibits/exhibit_p083.png",
+    "exhibits/exhibit_p084.png",
+    "exhibits/exhibit_p085.png",
+    "exhibits/exhibit_p086.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2011\\15_convenience-store"
+}

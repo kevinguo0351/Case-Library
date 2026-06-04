@@ -1,0 +1,170 @@
+===== PDF p19 =====
+Pharmaco
+Your client Pharmaco is a retail pharmacy (think CVS), and is considering changing their prescription from 
+monthly pickup to every three months. What are the major considerations to this change?
+Problem Statement Narrative
+Difficulty: 
+Medium
+Industry: 
+Retail Pharmacy
+Case Type: 
+Pricing
+• Pricing strategy
+Concepts Tested
+Case: Pharmaco
+Lead the caser to focus on the prescription adherence elements of the case.
+After interviewee lays out structure- provide exhibit 1 and ask them to comment 
+Case Notes
+15
+
+
+===== PDF p20 =====
+Pharmaco
+Sample Framework
+A good framework will deal with all of the different 
+factors in such a change, yet stay structured.
+1.
+Profit Considerations
+•
+Effect on revenue from prescriptions
+•
+Prescription adherence 
+•
+Effect on revenue from other sales
+•
+Cost savings
+2.
+Market Considerations
+•
+Competitor reaction / advantage
+•
+Regulation
+3.
+Company Considerations
+•
+Brand
+•
+Customer loyalty – may prefer 1 month 
+option
+Sample Framework
+•
+After interviewee lays out structure- provide 
+exhibit 1 and ask them to comment.
+Guidance for Interviewer
+Clarification Answers if Asked 
+16
+
+
+===== PDF p21 =====
+Pharmaco
+Question #1
+Given Exhibit 1: would you recommend moving to 3 months? What else would you need to think about?
+Question #1
+Solution
+Other things to think about:
+•
+Bigger picture- if you are the pharmacy manager and someone is coming into the store fewer times a 
+year to pick up prescription- could have an effect on overall sales (people buy other things when they 
+come to get prescription)
+•
+Addictive drugs – what happens if people loose their pills?
+•
+Insurance regulations
+•
+Potentially less work for pharmacists since presumably will see less traffic
+Interviewee should ask about pricing / revenue differences and pricing segments to lead to question #2
+17
+
+
+===== PDF p22 =====
+Pharmaco
+Question #2
+Given Exhibit 2: Does it make sense to go with 1 month or 3 month? What are some risks to segmenting 
+customers or providing a 3 month options all together?
+Question #1
+Solution
+Compare yearly revenue per customer from different options:
+Segment A
+Monthly: 12*$3=$36;           3 months: 4*$12=$48
+Segment B
+Monthly: 12*$12.50=$150    3 months: 4*$37.50=$150
+Segment C
+Monthly: 12*$5=$60
+3 months: 4*13=$52
+For segment A it makes sense, for segment B it makes no difference in terms of revenue, and for Segment 
+C PharmaCo would see a decline in revenue. It would be best to segment, but the gain in revenue from 
+Segment A is larger than the decline in revenue from Segment C, so providing an option all together still may 
+be profitable. It’s worth noting that average adherence goes up by in the 3 month option, making it even 
+more profitable over the long run.
+18
+
+
+===== PDF p23 =====
+Conclusion
+• 3 month option substantially increases revenue 
+for segment A, and maintains same revenue for 
+segment B. Taking into account the improved 
+adherence, the 3 month option makes sense 
+even for segment B. The gain from Segment A is 
+larger than loss from Segment C, so even if 
+Pharmaco cannot segment – it is still worth 
+moving to the 3 month option. 
+Rationale
+• Pharmaco should switch to the 3 month option, 
+preferably segmenting customers and offering 
+Segment A and B 3 month options while keeping 
+Segment C on the yearly option. 
+Recommendation
+• Estimate loss from other sales to make sure it 
+does not overshadow gain in prescription 
+revenue
+• Check the 3 month option works with insurance 
+regulation
+• Try pilot with specific drugs
+Next Steps
+• Need to take into account loss from other sales 
+because patients come less to the pharmacy in 3 
+month option
+• 3 month option may contradict insurance 
+regulations
+• May lose customers who prefer 1 month option 
+and can get the 1 month option from competitors
+Risks
+Pharmaco
+19
+
+
+===== PDF p24 =====
+Exhibit #1
+Monthly Adherence
+3 Month Adherence
+Adherence 
+%
+Time
+Average Adherence Percentage Over Three Years
+Monthly
+50%
+3 Month
+60%
+Pharmaco
+20
+
+
+===== PDF p25 =====
+Exhibit #2
+Customer 
+Segment
+Price/Fill
+1 Month
+3 Month
+A
+$3
+$12
+B
+$12.50
+$37.50
+C
+$5
+$13
+Pharmaco
+21

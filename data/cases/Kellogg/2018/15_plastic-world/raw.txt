@@ -1,0 +1,213 @@
+===== PDF p117 =====
+113
+Plastic World
+Case tracker
+▪Industry: Financial Services
+▪Case Format: M&A
+▪Concepts Tested:
+- Organizational changes
+- Market share
+- Customer strategy
+Case Question
+▪Our client is a private equity firm interested in PlasticWorld, a plastic packaging manufacturer.
+▪PlasticWorld’s owners are requesting $25M. The offer is final. Should our client buy?
+Guide to interviewer
+▪The case primarily tests the ability to gain insight from
+quantitative data , value a company and find potential
+improvements… As such, it is a little bit more data-
+driven than the average case.
+▪The interviewee should focus on the company value –
+the recommendation regarding the offer depends on it –
+and on feasibility of identified profit-improving changes.
+▪The interviewee should be able to come up with the key
+improvements if (s)he invests some effort in
+understanding the price drop and its relationship to the
+sales force incentives. S(he) should also come up with
+innovation-related costs from the pressure from the
+customers and how to push back.
+By: Milija Medic, Edited By: Peter Manoogian (Kellogg Class of ‘12)
+Quant: 3
+Structure: 4 
+Industry: PE
+Framework: M&A
+
+
+===== PDF p118 =====
+114
+Clarifying answers and case guide
+Guide to handouts
+Begin by handing out exhibit #1 after stating the case question.
+Exhibit 1 – Hand out after introducing case
+- What observations can be made from this P&L statement?
+- Interviewee should calculate the profit margin (-6%), notice that
+sales volume is growing but revenues are dropping, and infer that
+the cause may be pricing (more detail on next page)
+- To check if it’s an industry-wide or company-specific drop in
+profitability, they should request competition profitability data
+Exhibit 2 – Hand out if the candidate requests competition data
+- Note that it’s a company-specific problem
+- Push the interviewee to postulate what would be a realistic profit
+margin goal for PlasticWorld based on this industry profitability data
+(more detail on next page)
+Exhibit 3 – Hand out after discussion of Exhibit 2
+- Sensitivity analysis indicates that the company would be worth the
+offered $25M if the profit margin was brought from –6% to 0%
+- Interviewee should investigate the profitability drop and the low
+prices further and suggest options to get PlasticWorld’s profitability 
+in line with the industry, and their feasibility
+Clarifying answers to provide
+PlasticWorld Characteristics
+- Makes plastic packaging for beverages,
+cosmetics, household and automotive
+chemicals
+- Products are top quality, they have 350
+sets of molds, with different materials,
+finish, colors, always innovating
+- Overall product mix has not changed in
+recent years
+- The sales force is “the best in breed”, 
+they hold market share, and they are
+compensated on market share
+- Two years ago they invested further in
+equipment for product innovation
+Customers
+- PlasticWorlds’ customers exhibit strong 
+loyalty
+- They are experiencing increasing
+pressures in their industries to innovate
+the plastic packaging
+
+
+===== PDF p119 =====
+115
+Key elements to analyze
+Sales Force Incentives
+▪Using Exhibit 1, What could be the reasons behind what
+is in the data?
+Profit Margin Improvement Feasibility
+▪Use Exhibit 2 to conclude it’s a client-specific problem, use
+Exhibit 3 to discuss company’s value if the profit margin is 
+increased to the industry average.
+Notes to interviewer
+• Exhibit 1 – PlasticWorld has experienced a steady drop in
+revenues while the sales volume has been growing.
+• There are three major points to identify: 1) the profit
+margin is dropping and negative; 2) given the unchanged
+product mix and increasing sales volume, the drop in
+revenues is caused by a reduction in prices; 3)
+depreciation change – it was equipment investment.
+• The interviewee should find, asking independently or with
+your help, that sales force is compensated based on
+market share. This gives the sales force incentive to drop
+the prices.
+• Interviewee should ask about the product quality and
+customer loyalty to discard price competition as the
+reason to drop prices. The products are high-quality and
+customers are loyal, so most of them would buy even at a
+higher price.
+Notes to interviewer
+▪Exhibit 2 - the candidate should identify the profitability
+problem is client-specific, all competitors are profitable.
+▪Exhibit 3 – the observation from the graph is that the
+company would be worth the $25M if PlasticWorld
+increased profit margin from –6% to 0%. If the profit
+margin reached the industry average, the company would
+be worth $40M.
+▪Now the question is how easily can the profitability be
+increased above zero (making the company worth more
+than the $25M). The sales force incentive change is easy to
+make.
+▪Looking for other high-impact improvements, the dense
+product line and constant innovation is the next largest
+candidate. Eliminate some molds to cut costs, mindful of
+innovation pressures in PW’s clients’ industries.
+
+
+===== PDF p120 =====
+116
+Solution and recommendations
+Solution & Recommendations
+▪Our client should accept the $25M offer and boost the profitability (and value) of PlasticWorld.
+▪The client should engage in the following easy-to-implement changes:
+▪Compensate sales force based on company earnings instead of market share.
+▪Simplify the product line - eliminate some of the 350 molds to cut costs while leveraging the superior sales
+force to maintain client satisfaction.
+▪Examine the industry best practices to find other areas for improvement.
+Bonus/Guide to an Excellent Case
+▪An excellent interviewee will quickly identify the pricing as the issue behind the revenue decrease and lay out
+potential causes for the price drop, finding the sales force incentive.
+▪Additionally, a strong interviewee will immediately notice that the company would be worth more than $25M if its
+profit margin was at the level of industry average.
+▪A framework comprehensive enough to find the product line size problem would be a plus.
+
+
+===== PDF p121 =====
+117
+Exhibit 1: PlasticWorld P&L statement in the past three years
+2009
+2008
+2007
+Sales ($)
+18,824,000 19,180,000 19,650,000
+Volume (units)
+36,200,000 34,250,000 32,750,000
+COGS ($)
+9,050,000
+8,900,000
+8,650,000
+SG&A ($)
+7,500,000
+7,200,000
+7,300,000
+Depreciation ($)
+3,450,000
+3,450,000
+2,250,000
+EBIT ($)
+-1,176,000
+-370,000
+1,450,000
+
+
+===== PDF p122 =====
+118
+Exhibit 2: PlasticWorld and Industry Peers Profit Margins
+Industry Peers Profit Margins [%]
+-10
+-5
+0
+5
+10
+15
+Competitor A
+Competitor B
+Competitor C
+Competitor D
+Competitor E
+Competitor F
+PlasticWorld
+
+
+===== PDF p123 =====
+119
+Exhibit 3: PlasticWorld Valuation by Profit Margin
+PlasticWorld Valuation Sensitivity Analysis
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+-10
+-5
+0
+5
+10
+15
+profit margin [%]
+company valuation [$M]

@@ -1,0 +1,67 @@
+===== PDF p76 =====
+EXAMPLE CASES BY TYPE 
+INVESTMENT DECISION 
+ 
+ 
+Investment Decision Cases 
+NEW GLASS PLANT 
+ 
+ 
+Question: 
+ 
+A company has an existing glass plant and the scrap rate is 70% (yield is 30%).  They are planning to build a new 
+plant.  Should they use the existing technology from the old plant or should they implement non-implemented 
+technology in the new plant? 
+ 
+ 
+ 
+Additional Information: 
+ 
+If you work on the process in the old plant, you can get the yield in that plant up to 50%.  This modification 
+will still not meet anticipated demand (i.e., you will still have to build a new plant) 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+ 
+If you build a new plant based on the old technology (now up to 50% yield), the two plants will meet current 
+demand.  If demand increases, you will have to build a third plant. 
+ 
+Cost of the new facility is the same - regardless of the technology - but the plant cannot be retooled from one 
+technology to another without a significant investment. 
+ 
+No significant difference in the fixed or overhead costs associated with the two technologies. 
+ 
+The new technology was being run on a small-scale basis.  Although the company is running this process 
+successfully on a small scale, they are worried about the fact that it has been untested in a full-scale 
+production environment. 
+ 
+Customers prefer the product manufactured with the new technology and will pay a price premium for this 
+product.  Since no other companies have this technology, our company would be able to increase market 
+share if the new technology is chosen. 
+ 
+ 
+Possible Solution: 
+ 
+Establish that a new plant is really necessary: demand vs. capacity, improvements to current facilities, 
+possible alternatives such as outsourcing, etc.  (in this case, they had determined that it was necessary to build 
+a new plant.) 
+ 
+Frame the decision by considering the two alternatives' cash flows and NPV. (Ask interviewer for specific 
+information needed.) 
+ 
+Benefits to the new technology include: increased market share, increased capacity, no need for 3rd plant, 
+ability to charge a price premium for new product. 
+ 
+Risks of new technology include: untested in a full production environment. 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 102 
+ 

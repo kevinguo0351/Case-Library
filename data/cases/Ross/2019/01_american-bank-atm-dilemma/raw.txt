@@ -1,0 +1,826 @@
+===== PDF p28 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+24
+
+
+===== PDF p29 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Case Prompt
+Our client, American Bank, is a national retail bank operating in the US. ATMs have 
+traditionally been a profitable channel, but the bank has started seeing declining operating 
+profits from its ATMs. The CEO has hired your firm to help her analyze the reasons for this 
+decline and solutions to improve usage.
+How would you approach this problem?
+Interviewer Guidance
+This is an interviewee led case. Throughout the case, let the interviewee ask for specific data 
+points before presenting exhibits.
+You should gauge the interviewee’s potential for going granular into the problem.
+Concepts Tested
+Graph reading, Setting up calculations, Brainstorming
+25
+
+
+===== PDF p30 =====
+Clarifying Information
+•
+Profits have been declining over the last 5 years
+•
+ATMs contribute to 12% of the bank’s revenues.
+•
+ATMs operated in the US only
+•
+12000 ATMs – no change in number of ATMs or 
+operating structure in the last 5 years (2013 – 2018)
+•
+The bank operates the ATMs itself or through 
+vendors - three operating structures:
+-
+Bank owned and operated
+-
+Bank owned and vendor operated
+-
+Vendor owned and operated (Bank gets 
+commission on transactions)
+•
+Up to 5 competitors observed in vicinity of any 
+ATM
+•
+Any person (Own bank customers and other bank 
+customers) can use any American Bank ATM
+Possible Framework
+Problem: Declining profitability of ATMs
+•
+Revenues falling –
+-
+Average transaction (txn) price falling
+-
+Overall txn prices decreased
+-
+Transaction mix towards cheaper txns
+-
+Fewer customers using ATMs
+-
+Decrease in overall volume of customers
+-
+Higher revenue customers (Own 
+customers) not using
+-
+Customers moving to competition / 
+substitutes such as online banking
+-
+No newer sources of revenue from ATMs 
+introduced apart from core transaction revenues
+•
+Costs increasing –
+-
+Avg variable cost of operating increased:
+-
+Avg cost of operating ATMs increased
+-
+Shift towards expensive operated ATMs
+-
+Fixed costs increased:
+-
+Cost of purchasing new ATMs increased
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+26
+
+
+===== PDF p31 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Interviewer Guidance for case flow
+Drive Insight/Calculations →
+Candidate Data Request →
+Exhibit
+Framework →
+Profitability numbers →
+1
+Ex.1: Revenue problem →
+Revenue breakdown →
+2 and 3
+Ex. 2 and 3: Northeast and West-Pacific facing problems. 
+Both vendor-operated heavy →
+Reasons and breakdown for fall in 
+hits for vendor operated ATMs →
+4 and 5
+Ex. 4 and 5: Calculate extra possible hits in vendor 
+ATMs →
+Revenue earned per hit →
+6
+Ex. 6: Calculate extra revenue
+Ex 6: Brainstorm with candidate for other areas of 
+improvement → drive insight for $0.5 extra in “other” 
+customers and financial transactions each →
+Improve ratio of “other” and fin. 
+transactions by benchmarking →
+6A
+Ex: 6A: Calculate additional revenue potential by taking 
+best-case competitor scenarios
+Give interviewer led question on breakeven (optional)
+Ask for final recommendation
+27
+
+
+===== PDF p32 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 1 – American Bank ATM usage, profits and revenues in last 5 years
+96
+94
+92
+89
+87
+85
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2013
+2014
+2015
+2016
+2017
+2018
+# daily hits1 per ATM across US
+Own Customer
+Other Customer
+Total daily hits
+$1.15
+$1.09
+$1.04
+$0.99
+$0.94
+$0.89
+$1.88
+$1.83
+$1.78
+$1.72
+$1.67
+$1.62
+$0.0
+$0.2
+$0.4
+$0.6
+$0.8
+$1.0
+$1.2
+$1.4
+$1.6
+$1.8
+$2.0
+2013
+2014
+2015
+2016
+2017
+2018
+Millions
+Total Profits and Revenue from ATMs
+Profit
+Revenue
+Note: Own customers are customers of American Bank, while Other customers are not customers of American Bank
+1. hits = number of unique times an ATM was used (the word hits is used interchangeably with the word transactions)
+28
+
+
+===== PDF p33 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 2 – American Bank ATM fall in hits across US (2018)
+WA
+OR
+CA
+MT
+ID
+NV
+AZ
+UT
+WY
+CO
+NM
+TX
+OK
+KS
+NE
+SD
+ND
+MN
+IA
+MO
+AR
+LA
+MS
+AL
+GA
+FL
+SC
+TN
+NC
+IL
+WI
+MI
+OH
+IN
+KY
+WV
+VA
+PA
+NY
+ME
+VT
+NH
+NJ
+DE
+MD
+Washington D.C.
+MA
+CT
+RI
+AK
+HI
+Fall in average daily hits1
+per ATM (2013-2018)
+30 hits
+20 hits
+10 hits
+0 hits (Constant)
+<0 hits (Increase in hits)
+Legend
+1. hits = number of unique times an ATM was used
+Region - States:
+Northeast – CT, ME, MA, NH, RI, VT, NJ, NY, PA
+Midwest – IL, IN, MI, OH, WI, IA, KS, MN, MO, NE, ND, SD
+South - Atlantic – DE, FL, GA, MD, NC, SC, VA, DC, WV
+South – Central – AL, KY, MS, TN, AR, LA, OK, TX
+West - Mountain – AZ, CO, ID, MT, NV, NM, UT, WY
+West - Pacific – AK, CA, HI, OR, WA
+29
+
+
+===== PDF p34 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 3 – Operating costs for American Bank ATMs (2018)
+Region
+Operating Structure
+BO-BO
+BO-VO
+VO-VO
+# ATMs
+Northeast
+250
+750
+1000
+Midwest
+1000
+800
+200
+South - Atlantic
+1500
+250
+250
+South - Central
+1500
+350
+150
+West - Mountain
+1200
+500
+300
+West - Pacific
+0
+500
+1500
+Daily Operating Cost to bank per ATM ($)
+Operating Cost
+$100
+$60
+$0
+Operating Structure:
+BO-BO = Bank Owned, Bank Operated
+BO-VO = Bank Owned, Vendor Operated
+VO-VO = Vendor Owned, Vendor Operated
+Owner pays rent, utilities
+Operator pays for maintenance, cash mgmt.
+Region - States:
+Northeast – CT, ME, MA, NH, RI, VT, NJ, NY, PA
+Midwest – IL, IN, MI, OH, WI, IA, KS, MN, MO, NE, ND, SD
+South - Atlantic – DE, FL, GA, MD, NC, SC, VA, DC, WV
+South – Central – AL, KY, MS, TN, AR, LA, OK, TX
+West - Mountain – AZ, CO, ID, MT, NV, NM, UT, WY
+West - Pacific – AK, CA, HI, OR, WA
+30
+
+
+===== PDF p35 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 4 – Reasons for reduction in hits in vendor operated1 ATMs
+Price correlation2
+$1.00
+$1.01
+$0.99
+$1.00
+$1.01
+$1.02
+94
+95
+96
+97
+98
+99
+100
+101
+Price per txn ($)
+Number of daily transactions
+Uptime3 correlation
+100
+80
+70
+80
+90
+100
+70
+80
+90
+100
+110
+Uptime (%)
+Number of daily transactions
+Competition correlation
+0
+4
+0
+1
+2
+3
+4
+5
+85
+90
+95
+100
+105
+# Competitors 
+in vicinity
+Number of daily transactions
+1.
+Vendor operated ATMs are ATMs where operations are outsourced to a vendor
+2.
+American Bank cannot reduce transaction prices further from current levels
+3.
+Uptime is the % of time the ATM is functional; Downtime = 100% - Uptime
+31
+
+
+===== PDF p36 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 5 – Downtime pattern and causes in vendor operated1 ATMs
+25%
+20%
+50%
+5%
+Downtime Causes (2018)
+Cash-out (Operator)
+Power outage (Owner)
+Machine tech problems (Operator)
+Other technical issues (Operator)
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2014
+2015
+2016
+2017
+2018
+Average Downtime
+Uptime
+Downtime
+1. Vendor operated ATMs are ATMs where operations are outsourced to a vendor (a vendor is the operator)
+Note: Cash-out = Amount of time the ATM is out of cash to dispense ; Power outage = Amount of time the ATM does not have electricity to run
+Note: (Operator) = Operator responsibility ; (Owner) = Owner responsibility
+32
+
+
+===== PDF p37 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 6 – Revenues from ATMs (2018)
+Customer Type
+Operating Structure
+BO-BO
+BO-VO
+VO-VO
+Fin.
+Non-fin.
+Fin.
+Non-fin.
+Fin.
+Non-fin.
+Revenue for American Bank from each hit2
+American Bank (Own) customer1
+$2.0
+$1.5
+$1.5
+$1.0
+$1.0
+$0.5
+Other customer
+$2.5
+$2.0
+$2.0
+$1.5
+$1.5
+$1.0
+Own : Other Ratio
+1 : 1
+Region
+# Average Daily Hits (Own + Other)
+Northeast
+12
+10
+12
+8
+8
+12
+Midwest
+127
+173
+97
+73
+48
+62
+South - Atlantic
+43
+57
+22
+48
+56
+34
+South - Central
+35
+55
+35
+20
+15
+40
+West - Mountain
+32
+48
+21
+16
+19
+11
+West - Pacific
+0
+0
+18
+2
+6
+14
+Operating Structure:
+BO-BO = Bank Owned, Bank Operated | BO-VO = Bank Owned, Vendor Operated | VO-VO = Vendor Owned, Vendor Operated
+Transaction type: Fin. = Financial transactions | Non-fin. = Non financial transactions
+1.
+While American Bank does not charge its own customers, revenue is calculated as estimated savings because customer is not using the branch
+2.
+For vendor-operated ATMs, revenue for American Bank is calculated after deducting vendor commissions on transactions
+33
+
+
+===== PDF p38 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 6A – Metrics comparison with competition (2018)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+American
+Bank
+PNK Bank
+Townbank
+Bells Cargo
+Proportion of Own : Other customers
+Own Customers
+Other Customers
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+American
+Bank
+PNK Bank
+Townbank
+Bells Cargo
+Proportion of Fin : Non-Fin transactions
+Financial
+Non-Financial
+34
+
+
+===== PDF p39 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Exhibit 1 Insights
+Exhibit 2 Insights
+Exhibit 3 Insights
+1.
+Hits (txns) falling – main 
+problem for exploration
+2.
+Other customers smaller 
+portion of transactions
+3.
+Costs are constant across 
+all 5 years
+1.
+Maximum decline in 
+average daily ATM hits 
+in 2 regions - Northeast 
+and West-Pacific
+1.
+Downtime major reason
+2.
+Price increase is not 
+helpful due to high 
+demand elasticity
+3.
+Competitors not 
+affecting transactions
+Exhibit 4 Insights
+Exhibit 5 Insights
+Exhibit 6/6A Insights
+1.
+Downtime increased by 
+25% in last 5 years
+2.
+Operator contributing to 
+80% of downtime issues
+3.
+Vendor management and 
+contracts to be explored
+1.
+Ex.6 - $0.5 more revenue 
+from other customers
+2.
+Ex.6 - $0.5 more revenue 
+from financial txns
+3.
+Ex.6A – competition 
+better at both metrics
+1.
+Northeast and West-
+pacific have high vendor 
+operated ATMs =>
+2.
+Problem with Vendor 
+Operated ATMs (BO-
+VO and VO-VO)
+35
+
+
+===== PDF p40 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Ideas for profitability improvement and revenue potential (1)
+1.
+Manage vendors in Northeast and West-Pacific regions to eliminate downtime:
+•
+Vendor management will increase uptime by 80% (% operator responsibility) * 25% (uptime increase) = 20%
+•
+20% increase in uptime -> Increase in 20 transactions (hits) per ATM in both regions for –VO ATMs
+•
+20 additional daily hits to be allocated proportionally to financial and non-financial transactions:
+•
+Calculating additional revenue from new hits –
+•
+Northeast (BO-VO) increase = [12 (Fin)*$1.75 + 8 (Non-Fin)*$1.25] * 750 ATMs = $23,250
+•
+Northeast (VO-VO) increase = [8 (Fin)*$1.25 + 12 (Non-Fin)*$0.75] * 1000 ATMs = $19,000
+•
+West-Pacific (BO-VO) increase = [18 (Fin)*$1.75 + 2 (Non-Fin)*$1.25] * 500 ATMs = $17,000
+•
+West-Pacific (VO-VO) increase = [6 (Fin)*$1.25 + 14 (Non-Fin)*$0.75] * 1500 ATMs = $27,000
+•
+Total increase in revenue (and therefore profits) = $23,250 + $19,000 + $17,000 + $27,000 = $86,250
+Region
+Given info - Operating Structure (# hits)
+Calculation - Allocation of  20 new hits
+BO-VO
+VO-VO
+BO-VO
+VO-VO
+Fin.
+Non-Fin.
+Fin.
+Non-Fin.
+Fin.
+Non-Fin.
+Fin.
+Non-Fin.
+Northeast
+12
+8
+8
+12
+12
+8
+8
+12
+West - Pacific
+18
+2
+6
+14
+18
+2
+6
+14
+Avg Rev. / hit
+$1.75
+$1.25
+$1.25
+$0.75
+$1.75
+$1.25
+$1.25
+$0.75
+36
+
+
+===== PDF p41 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Ideas for profitability improvement and revenue potential (2)
+2.
+Increase proportion of other customers using ATMs to Bells Cargo levels and proportion of financial transactions to 
+PNK bank levels
+•
+Additional average revenue per hit from new financial and “other” customer transactions =>
+= $0.04 + $0.08 + $0.00 + $0.08 = $0.2
+(Easier method: 20%*$0.5 + 20%*$0.5 = $0.2)
+•
+Total Additional revenue potential = $0.2 * (85 hits {Exhibit 1} * 12000 ATMs {Exhibit 4}) = $204,000
+Total revenue increase = (1) + (2) = $86,250 + $204,000 = $290,250
+Since there are no cost implications, total profit increase potential from both ideas = $290,250
+Bank
+Refer 
+Exhibit
+% Fin txns
+% Other 
+Customers
+American Bank
+6A
+45%
+50%
+Best-in-class competitor
+6A
+65%
+70%
+Improvement potential
+-
+20%
+20%
+Extra revenue per txn
+6
+$0.5
+$0.5
+20% * 80% of all hits
+$0.5 extra rev
+20%*80%*$0.5 = $0.08
+20% * 20% of all hits
+$0.5 + $0.5 = $1 extra rev
+20%*20%*$1 = $0.04
+80% * 80% of all hits
+$0 extra rev
+80%*80%*$0 = $0
+20% * 80% of all hits
+$0.5 extra rev
+20%*80%*$0.5 = $0.08
+Extra Fin. txns
+No-change in txn type
+Extra Other customers
+No-change in customer type
+>
+37
+
+
+===== PDF p42 =====
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+Interviewer question: What is the average break-even number of  daily hits?
+Calculation: 
+•
+Interviewer to ask interviewee to assume both financial : non-financial transactions and 
+own : other customer ratios as 1:1 for simplicity in calculations
+•
+Interviewee must identify that this only applies to bank-owned ATMs, since operating costs to 
+American bank for vendor-owned ATMs is $0.
+•
+BO-BO Breakeven = $100 (cost) / [0.5*0.5*($1.5+$2+$2+$2.5)] (avg. rev. per hit) = 50 hits
+•
+BO-VO Breakeven = $60 (cost) / [0.5*0.5*($1.0+$1.5+$1.5+$2.0)] (avg. rev. per hit) = 40 hits
+Follow-on question -> What can we do with loss making ATMs? (after all tries of improving hits):
+•
+Add other transaction types to ATM (functionalities such as check deposit, cash deposit, etc.)
+•
+Allocate intangible revenues to ATMs in prime locations (marketing of bank, etc.)
+•
+Negotiate operating costs with vendor (if vendor operated)
+•
+Relocate ATM to better spot
+•
+Shut down ATM / Sell off ATM to vendor
+38
+
+
+===== PDF p43 =====
+Recommendations
+Risks
+Next Steps
+Two recommendations to 
+increase revenue (and profits):
+1.
+Improve vendor management 
+practices and look into 
+vendor contract structures in 
+Northeast and West-Pacific 
+regions 
+-
+Impact of $86,250
+2.
+Increase proportion of 
+financial and other customer 
+transactions to best-in-class 
+competitor levels
+-
+Impact of $204,000
+Total revenue (and profit) 
+potential = $290,250
+Risks include:
+1.
+Costs to manage vendors and 
+change transaction types 
+(marketing, etc.) can be very 
+high
+2.
+More ATM usage might lead 
+to branch employees going 
+out of work resulting in the 
+need for firing of employees
+3.
+Investment in ATMs may 
+reduce attention on channels 
+such as online banking which 
+are growing more rapidly
+American Bank should:
+1.
+Start looking into vendor 
+contract structures in 
+Northeast and West-Pacific 
+regions
+2.
+Identify loss-making ATMs 
+and take appropriate action
+3.
+Study customer usage 
+patterns to improve 
+transaction mix
+Case 1: American Bank ATM Dilemma
+Financial Services | Profitability Improvement
+39

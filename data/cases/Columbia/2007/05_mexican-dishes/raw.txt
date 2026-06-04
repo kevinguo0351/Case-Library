@@ -1,0 +1,173 @@
+===== PDF p24 =====
+ 
+Management Consulting Association Case Book 2007 
+- 20 - 
+Case 5: 
+Case 5: 
+Case 5: 
+Case 5: Mexican Dishes
+Mexican Dishes
+Mexican Dishes
+Mexican Dishes 
+ 
+ 
+BACKGROUND 
+ 
+Firm: A.T. Kearney 
+Round: 2007 Summer, First 
+Content: Quantitative 
+ 
+CASE QUESTION 
+ 
+A friend of mine has asked me to invest in his company, which makes dishes for the 
+Mexican market.  He has mentioned that he is going to use my investment to purchase a 
+new manufacturing machine that he expects will allow him to double production.  Should 
+I invest in his venture? 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: Rather than jumping directly to analyze in depth the market, 
+the competition and/or the company’s capabilities, it is recommended that you use a 
+dialogue to seek out more information.  When mentioning the themes you would like to 
+cover explain your reasoning behind each one. 
+ 
+Key facts: 
+ 110 million people live in Mexico.  Assume 100 million for sake of simplicity.   
+ Population growth can be approximated to be 1% per annum. 
+ Income distribution: 5% of population top, 45% middle class, 50% bottom. 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: So, should I invest or not? 
+ 
+Interviewee: Ok, I would like to analyze three key areas that I expect will help me 
+understand whether this is a good opportunity or not.  I believe it is important to first 
+analyze the market, focusing on its size, growth potential and trends in terms of product 
+design, then understand who are my friend’s key competitors and finally understand what 
+this company can leverage from its existing operations once the new machine is in place. 
+ 
+Interviewer: Good idea.  Let’s focus on the market for a moment. How would you go 
+about sizing it? 
+ 
+Interviewee: There are a number of ways to do so.  We can do some research and talk to 
+your potential partner to get some information.  Alternatively, we can visit some of the 
+
+
+===== PDF p25 =====
+ 
+Management Consulting Association Case Book 2007 
+- 21 - 
+store or chains that sell that kind of product to build a market size from the bottoms up. 
+Finally, we can estimate that number based on the population, etc.  
+  
+Interviewer: Ok, let's do the estimation based on the population.  In Mexico there are 
+100 million people.  What else do you need? 
+ 
+Interviewee: Do you have the income distribution pyramid of Mexico?  I believe that 
+income will play a role because households with higher incomes may purchase higher-
+end dishes or may purchase different quantities than households at the other end of the 
+income distribution.  I would also like to get a sense of the replacement rate, if not given I 
+can estimate…. And, whether there are any key substitutes that I can expect in the market 
+in the next few years, to ensure that my estimates are fair. 
+ 
+Interviewer: Assume income distribution is 5% of population top, 45% middle class and 
+50% at the bottom. And, you can assume a 15% per year replacement rate. 
+ 
+Interviewee: Ok.  Let me quickly use these numbers to analyze the size of the market. I 
+will calculate first “the stock”, which is the size of the market given by the replacement 
+of dishes.  Then I will calculate “the flow”, which is the size of the new market.   
+ 
+Item
+Quantity
+Population
+100,000,000
+# per household
+4
+Households
+25,000,000
+Income
+# of different Sets Total # of sets
+Total # of sets (replaced)
+High
+3
+3,750,000
+562,500
+Medium
+2
+22,500,000
+3,375,000
+Low
+1
+12,500,000
+1,875,000  
+ 
+Interviewer: But… Are you sure that we can address the whole market? 
+ 
+Interviewee: No, in fact this was only to calculate the full market size.  I still wanted to 
+ask you which part of the market this company targets, is it within one income class?  
+ 
+Interviewer: Okay, they target the medium segment, which by your calculations is of 
+about 3.4 million sets per year, among medium income households. 
+ 
+Interviewee: Great.  However, I would still want to understand the projected market 
+growth.  If the population growth at 1% per year we can assume that there are about 250 
+thousands (25 millions * 1%) new houses per year, which 45% are of medium segment 
+and they have to equip themselves with 2 sets… So there is an extra 225 thousands more 
+dish sets demanded per year and a replacement rate of 15% on these new dishes.   So, the 
+market size is approximately 3.6 millions sets per year.   
+ 
+
+
+===== PDF p26 =====
+ 
+Management Consulting Association Case Book 2007 
+- 22 - 
+Item
+Quantity
+Population
+100,000,000
+Growth
+1%
+# per household
+4
+Households
+250,000
+Income
+# of different Sets
+Total # of sets (bought)
+High
+3
+37,500
+Medium
+2
+225,000
+Low
+1
+125,000  
+ 
+Interviewer: On the ballpark, my estimation was that it was around 4 million. 
+ 
+Interviewee: Anyway, we are still missing other segments on the markets such as 
+restaurants, hotels, offices, etc. 
+ 
+Interviewer (interrupts): Don’t worry about that.  Let’s continue with this. 
+ 
+Interviewee: Okay, so now, we have to think whether it is convenient for you to enter the 
+partnership.  To do so I would like to do a break-even analysis of buying the machine and 
+figure out the amount of sets that we have to sell…  
+ 
+[The interviewer interrupts again, since time is running low. Remember to practice good 
+time management in interviews and take cues from the interviewer] 
+ 
+Interviewer: Assume that we have already done so and we figure out that we have to 
+produce at capacity (150,000 sets per year).  We don’t have much time.  What would 
+your recommendation be? 
+ 
+Interviewee: So, given that the offer was to take the money to double production it 
+means that you will go from 150,000 to 300,000.  As this estimate represents less than 
+10% of the available market, his proposal at first glance seems feasible.  However, I 
+would want to know our current share versus those of our competitors in this segment.  If 
+a competitor already had 70% of the market, I might be more cautious about entering into 
+this venture.  Furthermore, if I had more time I would focus on what can be leverage 
+from the current cost structure to assure it is a profitable proposition. 
+ 

@@ -1,0 +1,264 @@
+===== PDF p69 =====
+- 64 - 
+Diesel Transportation Co 
+A.T. Kearney, Round 1 
+ 
+ 
+Our client is a national shipping company that 
+focuses on ground transportation of commercial 
+freight.  For the past 15 years, it has been using 
+diesel engines to power its fleet of vehicles, but now 
+wants to explore the possibility of switching to 
+electric powered engines (EV technology) due to 
+rising fuel costs.  The CEO has approached us for 
+guidance and wants to know how to proceed. 
+ 
+ 
+
+Our client has identified a supplier to provide the 
+electric vehicle technology since it does not have 
+in-house capabilities. 
+
+Since it has an extensive fleet of vehicles, our 
+client wants to retrofit existing vehicles instead of 
+buying new ones. 
+
+No other ground transportation company has 
+used EV powered engines.  If our client proceeds 
+with the conversion, it will be the first in the 
+industry to do so. 
+
+The candidate should now ask questions about 
+the current costs of transportation and determine 
+potential cost savings. 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Medium 
+Quant Heavy 
+ 
+Industry: Transportation 
+ 
+Type: Cost Reduction 
+
+
+===== PDF p70 =====
+- 65 - 
+
+The candidate should explain his/her overall 
+framework, then identify that the current and 
+future costs of ground transportation will 
+determine feasibility of project. 
+
+The candidate should then ask questions to 
+determine the initial investment required for 
+EV retrofitting and consider this cost along 
+with the cost savings of the entire project. 
+
+Candidate can assume that the current 
+supplier offers the best EV opportunity in 
+terms of price and efficiency. 
+
+EV technology has the potential to double 
+existing fuel efficiency. 
+ 
+ 
+ 
+ 
+Overall guidance 
+Guidance to Steer Discussion 
+ 
+Revenue 
+
+Explore impact on revenue (e.g. improved 
+business relationships due to sustainable 
+operations or reduced carbon footprint in 
+supply chain for partners). 
+Costs 
+
+Labor, insurance, fuel, maintenance, retrofit 
+initial investment. 
+Competition/Industry 
+
+New technology may create competitive 
+advantage for the client, thereby growing its 
+business. 
+
+Failure to properly implement fleet could 
+disable operations, allowing competitors to 
+take over. 
+Existing Capability 
+
+Company has no knowledge of using EV 
+technology, requiring a learning curve. 
+
+First to test the technology may also pose a 
+risk. 
+Possible framework 
+Diesel Transportation Co 
+A.T. Kearney, Round 1 
+ 
+
+
+===== PDF p71 =====
+- 66 - 
+Costs Page 
+Breakdown of Current Costs 
+Breakdown of Future Costs 
+Provide the following cost data as the right questions are asked but do not give them 
+away freely. 
+ 
+# of vehicles: 2000 
+Fuel tank size: 50 gallons 
+Avg mpg: 10 
+Cost of fuel per gallon: $3.00 
+Avg miles travelled per week: 1000 
+Avg annual maintenance and repair: $500 
+Insurance: 1K / year 
+Labor: 20K / year 
+Of the costs listed below, ask the candidate which would change and why. 
+ 
+# of vehicles: 2000 
+Fuel tank size: 50 gallons 
+Avg mpg: 20 
+Cost of fuel per gallon: $3.00  
+Avg miles travelled per week: 1000 
+Avg annual maintenance and repair: $3500 
+Insurance: 3K / year 
+Labor: 20K / year 
+Diesel Transportation Co 
+A.T. Kearney, Round 1 
+ 
+
+
+===== PDF p72 =====
+- 67 - 
+Current fuel costs 
+Miles driven per tank = 10 mpg * 50 gallons = 500 miles 
+Miles traveled per week = 1000 miles 
+# of times tank is filled per week = 2 
+Total cost of fuel per week = 2 * 50 gallons * $3.00 per gallon = $300 
+Average yearly fuel costs (~50 weeks) * $300 = $15K 
+ 
+Future fuel costs (candidate can perform calculations again or receives a bonus for realizing 
+that doubling fuel efficiency reduces fuel costs by half for the year) 
+Miles driven per tank = 20 mpg * 50 gallons = 1000 miles 
+Miles traveled per week = 1000 miles 
+# of times tank is filled per week = 1 
+Total cost of fuel per week = 50 gallons * $3.00 per gallon = $150 
+Average yearly fuel costs (~50 weeks) * $150 = $7.5K 
+ 
+Annual fuel savings per vehicle: $15K – $7.5K = $7.5K 
+ 
+ 
+Solution Guide – fuel savings 
+Suggested Solution and Structure 
+ 
+Diesel Transportation Co 
+A.T. Kearney, Round 1 
+ 
+
+
+===== PDF p73 =====
+- 68 - 
+Total current costs 
+Fuel: $15K 
+Annual maintenance: $500 
+Labor: $20K / year 
+Insurance: $1K / year 
+Total: $36.5K 
+ 
+Total future costs 
+Fuel: $7.5K 
+Annual maintenance: $3.5K 
+Labor: $20K / year 
+Insurance: $3K / year 
+Total: $34K 
+ 
+ 
+ 
+ 
+Solution Guide – total costs 
+Suggested Solution and Structure 
+ 
+
+Switching to EV thus saves $2.5K per 
+year. 
+
+The current vehicles have a remaining 
+useful life of 10 years. 
+
+Thus, switching to EV saves: 
+$25K – $5K (retrofit cost) = $20K over 
+the lifetime of each vehicle. 
+
+At a fleet level, this would save the 
+company $20K * 2K vehicles = $40M over 
+the lifetime of the vehicles. 
+
+Candidate can ignore time value of 
+money/discounting, but should receive 
+bonus points for considering it. 
+ 
+ 
+Diesel Transportation Co 
+A.T. Kearney, Round 1 
+ 
+
+
+===== PDF p74 =====
+- 69 - 
+
+Given the existing data, our 
+client should proceed with 
+retrofitting its vehicle fleet to 
+EV since it would save 40M 
+over their remaining useful 
+life. 
+ 
+Recommendation 
+Work with suppliers to test 
+the effectiveness of the 
+new technology. 
+Run a pilot test to 
+determine whether EV 
+technology works and does 
+not negatively impact 
+normal transportation 
+operations. 
+Gain input from drivers on 
+efficacy of EV technology. 
+Perform research to 
+determine whether there 
+are government incentives 
+for EV adoption. 
+Perform research to 
+determine whether EV 
+adoption grows customer 
+base/revenue.   
+Next Steps 
+Conclusion 
+ 
+
+Our client would be the first in 
+the industry to use EV 
+technology, therefore its 
+effectiveness in commercial 
+transportation is untested. 
+
+The vehicles need to 
+commute 1000 miles per 
+week and current EV 
+technology is limited to short 
+range use. 
+
+There are limited recharging 
+stations in the US. 
+
+There may be other 
+unanticipated costs to using 
+the new technology.   
+Risks 
+Diesel Transportation Co 
+A.T. Kearney, Round 1 
+ 

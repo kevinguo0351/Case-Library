@@ -1,0 +1,467 @@
+===== PDF p42 =====
+Tuck Consulting Club
+38
+Big Picture Co.
+Satellite imagery is used for a wide range of applications such as border control and military purpose (called Defense & 
+Intelligence), agriculture and forest monitoring (Living Resources), support to Oil & Gas and Mining industries (Natural 
+Resources), infrastructure monitoring and support to arctic maritime transportation (Industry), real-estate and insurance 
+(Services) and support to Local & Regional Planners, emergency services, environmental studies (Public Authorities). 
+Imagery distributors are intermediaries reselling imagery from several satellite operators.
+A Canada-based reseller of satellite imagery wants to accelerate its growth. To do so, they are considering building a new 
+ground station to directly receive imagery from satellites instead of receiving it from the satellite operators (provide exhibit
+#1). The ground station would receive imagery from one satellite only. What should they think about?
+Case Prompt
+Clarifying Information
+The client is already an established actor on the Canadian Market.
+The ground station direct connection to a satellite would allow to:
+•
+Transmit imagery orders (“Task” the satellite) in a very short time frame (30 min vs 6 hours)
+•
+Receive imagery taken in a very short time frame (10 min vs 6 hours)
+Type: Capital Investment
+Author: Stephane Gounari T’17
+
+
+===== PDF p43 =====
+39
+[Optional Sample Framework]
+Things to consider:
+• Market size: Is it a viable opportunity? Is the market growing
+• Potential benefits of having a ground station:
+• Time?
+• Cost?
+• Quality of images?
+• Etc etc
+• Breakeven Analysis:
+• Cost of setting up the station & Ongoing additional costs
+• Incremental Revenue potential
+• Competition
+• Capabilities required to run the new station
+Sample Framework(s)
+Must-haves: 
+• Current & future Segment/Market Size
+• Current Market Share/Revenues
+• Value-proposition (why is it better?)
+• Future Market Share/Revenues (with 
+the Ground Station)
+• Cost & Profitability analysis
+• Competitors
+Nice to haves:
+• Timeframe (for ex. 2y to build the 
+station….)
+• Supply: Satellites currently in-orbit
+Differentiators:
+• Satellite lifetime: Satellites not yet in 
+orbit, satellites close to their end of life
+• Comparison Profitability with vs without 
+the Ground Station
+• How would the client with his Ground 
+Station fit in a satellite operator supply 
+chain (how it would benefit both)
+Behind the Framework
+
+
+===== PDF p44 =====
+40
+#1 – Current Satellite Imaging Process
+Satellite 
+Operator
+Client
+1. Order
+2. Tasking
+3. Imaging
+4. Downlink
+5. Transmit
+
+
+===== PDF p45 =====
+Tuck Consulting Club
+41
+Question 1
+•
+The ground station could be connected either to a satellite providing Optical or Radar imagery. 
+•
+The imagery provided has either a High, Medium or Low resolution. 
+•
+Optical satellites use only one resolution while newest Radar satellites are able to adapt their instrument and provide 
+every resolution. 
+•
+Which segment(s) should they target?
+Question 1
+•
+Provide Chart #2 – Imagery Demand in North America (2016)
+•
+HR/MR/LR: High/Medium/Low Resolution
+•
+When asked: At least 99.5% of the Defense & Intelligence demand comes from non-Canadian D&I organizations. 
+Hint: Therefore, the client can not address this demand
+•
+When asked: The demand for every Radar segment can be considered as one segment (cumulative)
+Guidance
+•
+The Interviewee should immediately point that: a) the HR Optical segment is the largest one by far 
+•
+b) The Defense & Intelligence vertical represents a huge share of the market and, specifically of the HR Optical segment.
+•
+c) The interviewee should read the footnote and ask the interviewer of the origin of the D&I demand. 
+•
+Once the interviewee realizes that the D&I demand should be excluded; go to Question 2
+Candidate Insights
+
+
+===== PDF p46 =====
+#2 Imagery Demand in North America (2016 - $ millions)
+42
+13
+HR Optical
+HR Radar
+96
+342
+MR Optical
+LR Radar
+9
+MR Radar
+36
+56
+LR Optical
+Industry
+Energy & Natural Resources
+Defense & Intelligence
+Living Resources
+Public Authorities
+Services
+Segment Growth by 
+2023
+HR Optical
+130%
+MR Optical
+82%
+LR Optical
+-41%
+HR Radar
+201%
+MR Radar
+62%
+LR Radar
+-15%
+Defense & Intelligence demand is generally captive to local companies (based in the same country as the D&I organization)
+
+
+===== PDF p47 =====
+Tuck Consulting Club
+43
+Question 2
+•
+After further research you realize that most of the demand from Defense & Intelligence customers cannot be addressed 
+by our client 
+•
+Which segment(s) should they target? (provide exhibit 3)
+Question 2
+•
+Provide Chart #3 – Imagery Demand in North America (2016) – D&I Excluded
+Guidance
+•
+The interviewee should immediately point that Optical HR and MR segments are good candidate. 
+•
+The interviewee should also use the market growth rate to calculate the ending markets size and realize that the HR 
+segment will be slightly larger than the MR segment by 2023. 
+•
+A very good candidate will realize that, assuming growth is constant year on year, if the HR segment is larger than the MR 
+segment in 2023, the MR segment will nonetheless represent a larger market over the 7 year period
+Candidate Insights
+
+
+===== PDF p48 =====
+#3 Imagery Demand in North America Excluding D&I (2016 -
+$ millions)
+44
+13
+HR Optical
+HR Radar
+82
+68
+MR Optical
+LR Radar
+8
+MR Radar
+24
+24
+LR Optical
+Industry
+Energy & Natural Resources
+Living Resources
+Public Authorities
+Services
+Segment Growth by 
+2023
+HR Optical
+148%
+MR Optical
+91%
+LR Optical
+-41%
+HR Radar
+235%
+MR Radar
+99%
+LR Radar
+-15%
+
+
+===== PDF p49 =====
+Tuck Consulting Club
+45
+Question 3 - Brainstorming
+•
+A ground station has a footprint that can be represented as a circle centered on the ground station (provide footprint 
+exhibit).
+•
+Once a satellite passes over this footprint, the ground station could order & receive imagery directly from the satellite and
+could thus provide imagery to its clients with a very quick turnaround The client is therefore wondering where to locate its 
+ground station and asked you to assess several locations. 
+•
+After a very quick search you came up with the following information (provide location exhibit). What are the aspects to 
+consider to choose a location? How would a location differ from another? (brainstorming)
+Question 3
+#4 - Ground Station Footprint Example
+#5 - Potential Ground Station Locations – Ensure that the Interviewee use the exhibit #4 with the exhibit #5 to have an idea of 
+where the locations are situated.
+Guidance
+•
+Market served: The market served with direct downlink imagery will differ following the location (surrounded by forest or 
+farm or by mines/oil & gas fields, close to arctic transportation lines or not)
+•
+Costs: Cost of building and operating the ground station. It is more expensive to build (permafrost/iced ground), maintain 
+(snow storms) and operate in arctic climate and/or remote location (construction material and engine on site or not)
+•
+A very good candidate will think about how to transmit the imagery from the ground station back to the final clients and/or 
+to a connectivity hub (easier if the ground station has access to Optic Fiber)
+Candidate Insights
+
+
+===== PDF p50 =====
+46
+#4 - Ground Station Footprint Example
+
+
+===== PDF p51 =====
+47
+#5 - Potential Ground Station Locations
+On the coast, North of Yellowknife
+Arctic Climate
+Extremely remote
+No ground connectivity
+Location 1
+10 miles from Winnipeg
+Humid Continental Climate
+Suburban
+Optic Fiber
+Location 3
+In Vancouver
+Oceanic Climate
+Urban
+Optic Fiber
+Location 2
+500 miles North of Montreal
+Sub-Arctic Climate
+Remote
+No ground connectivity
+Location 4
+
+
+===== PDF p52 =====
+Tuck Consulting Club
+48
+Question 5 – MATH QUESTION
+•
+You find that the ground station would require two years to build and ask for the following investment: Civil work ($480K), 
+Land Acquisition ($50K), Antenna & hardware ($5 millions over two years), License ($1.5 million), Ground Station 
+operations & maintenance ($300K).
+•
+The client currently has costs worth of 80% of its revenues. The client expects this to remain constant
+•
+You expect the revenue to look as follow (provide exhibit #6 – Revenue Forecast)
+•
+Should the client make the investment?
+Question 4
+a)
+Client operation costs (80% of revenues) will remain constant and do NOT include costs related to the  Ground Station 
+(aka: Ground Station costs should be added over those) 
+b)
+Do not take discount rate into account
+c)
+Civil work & Land acquisition costs are fully attributed to year 1
+d)
+Antenna costs are equally split between year 1&2
+e)
+License & Operation & Maintenance costs are “per year” and start only once the station is operational (year 3 onwards)
+Guidance
+•
+A very good candidate will think of the discount rate and will look for incremental costs & revenues
+Candidate Insights
+
+
+===== PDF p53 =====
+Tuck Consulting Club
+49
+Question 5 - ANSWER
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Total
+Current revenue
+$28.1
+$30.0
+$32.1
+$34.4
+$36.8
+$39.3
+$42.1
+$45.0
+Costs
+$22.4
+$24.0
+$25.7
+$27.5
+$29.4
+$31.5
+$33.7
+$36.0
+Profits
+$5.6
+$6.0
+$6.4
+$6.9
+$7.4
+$7.9
+$8.4
+$9.0
+$57.6
+Revenue w/ GS
+$28.1
+$30.0
+$36.0
+$43.2
+$51.9
+$62.2
+$74.7
+$89.6
+CAPEX
+3.0
+2.5
+OPEX
+22.4
+24.0
+30.6
+36.4
+43.3
+51.6
+61.6
+73.5
+Profits
+$2.6
+$3.5
+$5.4
+$6.8
+$8.6
+$10.6
+$13.1
+$16.1
+$66.8
+Delta
+-$3.0
+-$2.5
+-$1.0
+$0.0
+$1.2
+$2.8
+$4.7
+$7.1
+$9.3
+
+
+===== PDF p54 =====
+50
+#6 – Revenue Forecast
+$ millions
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Status Quo 
+revenues
+$28.1
+$30.0
+$32.1
+$34.4
+$36.8
+$39.3
+$42.1
+$45.0
+Status Quo Client 
+Costs
+$22.4
+$24.0
+$25.7
+$27.5
+$29.4
+$31.5
+$33.7
+$36.0
+Revenues with 
+Ground Station
+$28.1
+$30.0
+$36.0
+$43.2
+$51.9
+$62.2
+$74.7
+$89.6
+
+
+===== PDF p55 =====
+As profits with a Ground Station are above those without, the client should procure a 
+ground station
+Good: A good candidate find that 
+this is a good opportunity 
+How risky it is to make a supplier-
+specific investment?
+How will the discount rate impact 
+this opportunity?
+Better: Will this investment 
+threaten our relationship with other 
+satellite operators?
+Risk when satellite reaches end of 
+life and/or when imagery from a 
+better satellite becomes available
+Is there a way to address the D&I 
+demand in the near future?
+Best: Become part of the satellite 
+operator’s ground station network
+Profits will be impacted by the discount rate; how much?
+License price & risks related to having only one supplier
+What happens when the satellite(s) reach(es) its end of life?
+What happens when imagery from a better satellite becomes available?
+Would a ground station threaten our relationship with other satellite operators?
+Ensure licensing agreement is solid
+Check if there is any way to address the D&I demand in the near future (change of 
+legislation and/or policy) as this is a huge market
+Check if there is a way to integrate the ground station into the satellite operator’s 
+network of ground station
+Tuck Consulting Club
+51
+Big Picture Co. - Wrap-Up
+Recommendation
+Candidate Evaluation
+Risks
+Next Steps

@@ -1,0 +1,26 @@
+{
+  "case_id": "Wharton_2010_02_copper-ore-mining-investment",
+  "school": "Wharton",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2010.pdf",
+  "idx": 2,
+  "case_name": "Copper Ore Mining Investment",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Mining",
+  "difficulty": null,
+  "pdf_page_start": 60,
+  "pdf_page_end": 64,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    60,
+    61,
+    62
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p060.png",
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p062.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2010\\02_copper-ore-mining-investment"
+}

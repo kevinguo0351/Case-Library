@@ -1,0 +1,116 @@
+===== PDF p78 =====
+ 
+Consulting Case Interview Question 
+ 
+Case No.: STRAT8              
+Firm:   McKinsey 
+Type of Case:  
+Brain Teaser  (Why are manhole covers round?) 
+Market Sizing  (How attractive is the market for fire trucks?) 
+Operations  (Our client’s profits are down. Why?) 
+Declining Profits  
+Other 
+Marketing 
+Problems 
+ 
+Strategy  (Should our client enter the beer brewing industry? If 
+so, how?) 
+New Product 
+Introduction  
+Competitive 
+Response 
+New Market 
+Response to 
+Changing Environ. 
+Merger or 
+Acquisition 
+Other 
+ 
+Initial Facts offered by interviewer:   
+ 
+John Malone of TCI commissions you to look into a concern that he has.  He has heard that 
+Hughes is planning to launch a commercial satellite that will offer cable TV services to the 
+domestic market.   
+ 
+The Question(s): 
+Is this is a credible threat to John’s monopoly position in cable TV services? 
+If it is credible, what should TCI do? 
+ 
+ 
+Suggested Solution 
+ 
+Desired Framework:  [Check all that apply.] 
+Cost-Revenue and 
+Profitability  
+The 4 P’s of Marketing 
+The 3 C’s 
+Value Chain Analysis 
+Porter’s 5 Forces 
+Microeconomic 
+Analysis 
+Internal-External 
+Factors 
+Other______________
+______ 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic: 
+Upon inquiry you find that it would cost Hughes $5B to get this satellite in the air and 
+operational.  You also find out that it will offer 200 channels whereas TCI only offers 50.  I 
+had a tough time putting a structure to this one.  In the end, after asking a few questions, I 
+determined that we needed to estimate the revenues and costs for Hughes to see if this was a 
+credible threat or not.   
+                                                                                                                                                        129 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p79 =====
+Price: 
+I assumed that on average, current cable bills are $35/month.  In order to be a credible threat 
+Hughes needs to be able to provide service at a price of around $35 (could be a little higher because 
+of additional channel offerings).  
+Quantity: 
+On the quantity side I estimated the number of customers that the satellite TV offering could reach. 
+I start with 100M households, estimate that 60% of those are in the market for cable services 
+(combination of income levels and need for cable service to get any reception, which differs 
+significantly by region) I find out that TCI has 40M customers across the country.  I assume that all 
+of these households could potentially be in the market for satellite service (if it was priced right). 
+Initial Costs and Amortization: 
+The initial $5B cost needs to be amortized over the useful life of the satellite.  Upon inquiry, I 
+discover that in general a satellite could last for 7-10 years.  However, due to the rapid evolution of 
+technology, the actual useful life of 1 particular satellite would be 5 years.  This means that $1B 
+needs to be amortized each year over the customer base of the satellite TV services. 
+Fixed Costs: 
+If you estimate that Hughes can penetrate 50% of TCI’s existing market (20M) than the fixed costs 
+would be $50/year.  In addition to this cost, you have to cover the costs of sales and service as well 
+as attaining rights to cable programming. 
+Variable Costs: 
+An additional cost that needs to be amortized is the cost of the satellite dish for the consumer.  It’s 
+useful to mention that you could also opt to lease dishes to consumers to get around this big up 
+front cost for the consumer.  I discovered that the combined operating costs would, if you choose 
+the leasing of the dish method (like today’s consumers lease the cable box, and it gets rolled into the 
+monthly bill of $35), be low enough to make this a credible threat to TCI! 
+Wrap-up / Recommendations for client: 
+The threat from Hughes is credible! Some suggestions that I had for John and TCI to address this 
+were:  
+1. Attempt to provide their own satellite service,  
+2. Buy out the Hughes offering,  
+3. Improve (increase) the program offerings to your current customers to close the gap on 
+what the satellite would offer, or 
+4. Try to develop exclusive agreements with certain programming to lock out the satellite 
+offering. 
+ 
+Desired Answer / Blinding Insights / Twists and Turns (if any): 
+ 
+ 
+Additional information that might be useful to your fellow Sloanies:  
+ 
+130 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

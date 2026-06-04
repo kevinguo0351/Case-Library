@@ -1,0 +1,561 @@
+===== PDF p74 =====
+69 
+Case: Accountware 
+Case Type: Acquisition Screen 
+ 
+ 
+Accountware 
+Our client, Accountware, is a software company that makes accounting software for public 
+companies. After several strong years, Accountware is looking to make an acquisition. The CEO has 
+narrowed the list of potential targets down to 3 companies: BankWeb, HospitalAccount, and Retail 
+Inventory. Accountware has hired our firm to determine which target it should pursue.  
+Problem Statement Narrative 
+This case is designed so that candidate will compare 
+the 3 firms on both a financial and strategic basis. The 
+prompt is purposefully broad; the candidate should 
+recognize the need to analyze both elements of each 
+target. Ultimately, the candidate will be asked to pick a 
+target and then suggest a buying price.  
+ 
+The case can be given as interviewer-led by asking the 
+questions, or the interviewer can allow the candidate to 
+lead by using the information answering the questions. 
+Case Commentary (Notes to the interviewer) 
+• If asked for more information on goals: the CEO 
+wants the acquisition to make both financial and 
+strategic sense. 
+• BankWeb makes websites for banks, HospitalAccount 
+makes accounting software for hospitals, and Retail 
+Inventory makes inventory software for clothing 
+stores. 
+• If asked, Accountware does not work in web 
+development, inventory tracking, or provide 
+accounting software to hospitals. 
+ 
+ 
+Data Set (To be provided upon request) 
+
+
+===== PDF p75 =====
+70 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+Accountware 
+Sample Candidate Framework 
+Our client 
+Hospital 
+Account 
+same 
+Financials 
+Strategic 
+same 
+BankWeb 
+Financials 
+Strategic 
+Profit 
+Market 
+Capabilities 
+Multiples 
+Retail Inve. 
+Price 
+Competitors 
+Synergy 
+Revenue 
+Cost 
+Size/growth/share 
+Geography 
+Alignment? 
+Differentiators 
+Customer – who? 
+Comparable Multiples 
+Regulatory 
+Other 
+Profit 
+Cash/debt – can buy? 
+Market 
+Capabilities 
+Strengths/gaps 
+Size/growth/share 
+Geography 
+Customer – who? 
+Culture – match? 
+Ownership – want to sell? 
+Culture 
+
+
+===== PDF p76 =====
+71 
+Potential Areas for Analysis 
+Accountware 
+• Strong financials; have 
+$150mn in cash 
+• Serve US public 
+companies under $1bn 
+in revenue 
+• Across multiple 
+industries 
+• Help with reporting for 
+SEC filings 
+• Strong software 
+development team, 
+located in both NYC 
+and Palo Alto, CA 
+• Considered industry 
+leading in space  
+• Culture: professional 
+ 
+Accountware 
+• Makes websites for 
+regional commercial 
+banks 
+• Currently serving 5 
+regional banks on east 
+coast of US 
+• Provide ground-
+breaking websites that 
+have won best website 
+from Forbes 
+• Competes with internal 
+IT departments and 
+other website 
+companies 
+• For regional banks, 
+estimated at 10% 
+market share 
+• Flat market growth 
+• Started by two college 
+grads in 2006 
+• Culture: start-up 
+ 
+ 
+BankWeb 
+• Manufactures 
+accounting software 
+for hospitals 
+• Developing software 
+that accounts for 
+disclosures required 
+by new health care 
+policies 
+• Mid-tier quality 
+• 2% market share 
+• Was 2% market 
+growth; accelerated to 
+5% last 4 years 
+• Has been run by same 
+CEO, the founder, 
+since 1995 
+• Culture: professional 
+Hospitalaccount 
+• Inventory tracking 
+system for clothing 
+retailers 
+• Looking to expand into 
+other retail categories 
+with perishable goods 
+• Competes well with 
+other inventory 
+tracking systems 
+created by larger 
+companies 
+• 5% market share 
+• Market growing at 3% 
+CAGR 
+• PE ownership, 
+purchased the 
+company 18 months 
+ago 
+• Culture: professional 
+Retail Inventory 
+• There are no 
+regulatory concerns 
+with the acquisition of 
+any of the targets 
+Other 
+
+
+===== PDF p77 =====
+72 
+ 
+Question #1 
+ 
+Accountware 
+From a strategic prospective, discuss the advantages and disadvantages of each target. 
+Question #1:  
+• BankWeb 
+• Pros: Industry leading, excellent quality. Rapid growth.  
+• Cons: Flat market growth; not core to what Accountware does 
+• HospitalAccount 
+• Pros: Familiar capability set, positioning for new growth with healthcare disclosures, rapidly growing market 
+• Cons: Middle of the road capabilities, small market share 
+• Retail Inventory 
+• Pros: Strong competitor with larger companies; poised for growth 
+• Cons: Non-core capabilities, low market share 
+Question #1 Solution:  
+
+
+===== PDF p78 =====
+73 
+ 
+Question #2 
+ 
+Accountware 
+From a financial prospective, which looks like the best target? [Give Exhibit 1] 
+ 
+If asked: 
+• Do not expect synergies from BankWeb 
+• Do not expect synergies from Retail Inventory 
+• Prompt candidate to suggest synergies for HospitalAccount 
+ 
+ 
+Question #2:  
+• BankWeb appears to be very attractive because of its high EBITDA margin 
+• A good candidate will recognize that synergies from the merger would make HospitalAccount’s financials more 
+attractive 
+• A superior candidate will observe that HospitalAccount has far more sales people and developers than necessary 
+and will make a specific suggestion as to how those numbers could be brought in line proportionally to 
+Accountware’s numbers (look at Revenue/person ratios for both sales people and developers) 
+• See Exhibit 1 solution (finding these precise answers is not necessary; the key is recognizing that Accountware’s 
+familiarity with accounting software development combined with its scale should help improve HospitalAccount’s 
+financials) 
+Question #2 Solution:  
+
+
+===== PDF p79 =====
+74 
+ 
+Question #3 
+ 
+Accountware 
+Which target should Accountware pursue and why? 
+ 
+ 
+What price should Accountware expect to pay? [Give Exhibit 2] 
+Question #3:  
+• The candidate should use the comparable numbers provided in Exhibit 2 to estimate a price based on their choice of 
+targets.  
+• Candidate should develop an industry average and should ignore one of the companies from each industry. 
+Question #3 Solution:  
+
+
+===== PDF p80 =====
+75 
+ 
+Conclusion 
+ 
+ 
+o Based on both strategic and financial fit, Accountware should pursue Hospitalaccount. This 
+acquisition will allow Accountware access to new customers while using its familiarity with the 
+product to reduce costs at the target. 
+Recommendation 
+o Cultural fit – is the CEO going to retire and is he the key to the organization? 
+Risks 
+o Need to examine willingness to sell of ownership 
+o Look at cultural fit 
+Next Steps 
+Accountware 
+
+
+===== PDF p81 =====
+76 
+ 
+Exhibit #1 
+ 
+Accountware 
+Bank Websites Hospital Accounting Retail Inventory
+Accountware
+Revenue
+15,000,000
+35,000,000
+30,000,000
+100,000,000
+COGS
+7,500,000
+28,000,000
+21,000,000
+60,000,000
+Gross Profit
+7,500,000
+7,000,000
+9,000,000
+40,000,000
+SG&A
+1,500,000
+7,000,000
+3,000,000
+10,000,000
+EBITDA
+6,000,000
+0
+6,000,000
+30,000,000
+Sales people
+15
+70
+30
+100
+Software Developers
+30
+93
+60
+200
+
+
+===== PDF p82 =====
+77 
+ 
+Exhibit #1 Solution 
+ 
+Accountware 
+as % of Sales
+BankWeb
+HospitalAccount
+Retail Inventory
+Accountware
+COGS
+50%
+80%
+70%
+60%
+Gross Profit
+50%
+20%
+30%
+40%
+SG&A
+10%
+20%
+10%
+10%
+EBITDA
+40%
+0%
+20%
+30%
+Revenue/person
+Sales people
+$1,000,000
+$500,000
+$1,000,000
+$1,000,000
+Software Developers
+$500,000
+$375,940
+$500,000
+$500,000
+Revised Forecasts
+BankWeb
+HospitalAccount Retail Inventory Accountware
+Revenue
+15,000,000
+35,000,000
+30,000,000
+100,000,000
+COGS
+7,500,000
+21,000,000
+21,000,000
+60,000,000
+Gross Profit
+7,500,000
+14,000,000
+9,000,000
+40,000,000
+SG&A
+1,500,000
+3,500,000
+3,000,000
+10,000,000
+EBITDA
+6,000,000
+10,500,000
+6,000,000
+30,000,000
+Sales people
+15
+35
+30
+100
+Software Developers
+30
+70
+60
+200
+
+
+===== PDF p83 =====
+78 
+ 
+Exhibit #2 
+ 
+Accountware 
+Company
+Market
+Industry
+Sales
+EBITDA Acquisition Price
+Clothing Tracking
+US
+Inventory software
+50
+10
+50
+Retail Counter
+US
+Inventory software
+70
+15
+75
+Restaurant Tracker
+US
+Restaurant Inventory software
+1,500
+200
+400
+Japan Accounting
+Japan Accounting software
+150
+75
+675
+AccountMan
+US
+Accounting software
+30
+7
+42
+QuickCounting
+US
+Accounting software
+48
+12
+72
+Web Fast
+US
+Web development
+30
+8
+96
+Quick Web
+US
+Web development
+5
+2
+30
+Web Flash
+US
+Web development
+40
+10
+120
+($ millions)
+Recent Acquisitions
+
+
+===== PDF p84 =====
+79 
+ 
+Exhibit #2 Solution 
+ 
+Accountware 
+Company
+Market
+Industry
+Sales
+EBITDA Acquisition Price Sales multiple EBITDA multiple Comparable EBITDA
+Clothing Tracking
+US
+Inventory software
+50
+10
+50
+1.00
+                   
+5.00
+                       
+Retail Counter
+US
+Inventory software
+70
+15
+75
+1.07
+                   
+5.00
+                       
+Restaurant Tracker
+US
+Restaurant Inventory software
+1,500
+200
+400
+0.27
+                   
+2.00
+                       
+Japan Accounting
+Japan Accounting software
+150
+75
+675
+4.50
+                   
+9.00
+                       
+AccountMan
+US
+Accounting software
+30
+7
+42
+1.40
+                   
+6.00
+                       
+QuickCounting
+US
+Accounting software
+48
+12
+72
+1.50
+                   
+6.00
+                       
+Web Fast
+US
+Web development
+30
+8
+96
+3.20
+                   
+12.00
+                     
+Quick Web
+US
+Web development
+5
+2
+30
+6.00
+                   
+15.00
+                     
+Web Flash
+US
+Web development
+40
+10
+120
+3.00
+                   
+12.00
+                     
+Should ignore Resturant Tracker (too big), Japan Accounting (wrong market), and Quick Web (too small)
+($ millions)
+Recent Acquisitions
+5
+6
+12

@@ -1,0 +1,119 @@
+===== PDF p31 =====
+Case 2: Polly Publishing
+Prompt
+Your client is the CEO of a publishing company producing a line of educational magazines and a line 
+of women's magazines. Both businesses are profitable but not growing quickly. He wants to start a 
+third monthly magazine in the US targeted at 25- to 55-year-old men (e.g. GQ Magazine). His stated 
+goal is $12 million in circulation revenues in the first year. Is this possible?
+Guidance
+This  is  a  market  estimation  case.  The  case  is  based  off  estimations  and  the  candidate’s  ability  to  
+work with those estimations. While there are no right/wrong answers in market estimation cases, the 
+interviewer  usually  has  a  range  of  ‘correctness’,  if  you  will.  The  candidate’s  answer  should  fall  within  
+interviewer’s  estimate  to  the  extent  that  your  assumptions  are  realistic.
+Ask the candidate to walk you through his thought process – top-down, bottom-up. Once his /her 
+structure is in place, ask him/her to compute the calculation. Various methods may be used to 
+estimate the answer; one approach is outlined below. 
+Analysis
+Provide these information on request:
+
+The total US population is approximately 300 million.
+
+Based on a normal distribution with the average life span of 80 years, approximately 1/2 of the 
+population falls between 25-55, or about 150 million people.
+
+Approximately 1/2 of them are male, or 75 million.
+
+Of the 75 million 25- to 55-year-old men in the country, assume that at least 1/2 would read a 
+magazine or ~40 million.
+
+Given the wide range of magazines on the market assume that only 10% of magazine readers 
+would want to read a men's journal, or 4 million target customers.
+
+As a new magazine assume that you can generate a 5% share of the men's magazine market in 
+year one, or 200,000 customers.
+
+Based on other magazines selling for $2.50-$5.00, assume a cover price of $4/magazine at the 
+newsstand and $2/magazine for a subscription.
+
+Now make some assumptions on how many customers will buy at the newsstand versus 
+subscription: assume 50% subscribe (100,000 customers) and 50% buy at the newsstand 
+(100,000 customers).
+Market Size Estimation
+Unknown round
+DMCC
+27
+
+
+===== PDF p32 =====
+28
+Analysis
+Monthly revenues amount to $200,000 (subscription) + $400,000 (newsstand) = $600,000. 
+For simplicity assume that all target customers buy a magazine every month. 
+This would generate total annual revenues of $600,000 X 12 or $7.2 million.
+Conclusion: In this case, given the CEO's stated goal of $12 million in circulation revenues, it does 
+not make good business sense to launch the magazine.
+Performance 
+Evaluation
+Expected:
+The candidate recognizes that this is a market estimation case and makes the appropriate 
+assumptions and proceeds in a logical and structured way.
+Good:
+The candidate has a good plan to tackle the problem. The candidate explains his/her plans at the 
+start  and  provides  reasoning  behind  the  approach.  The  candidate’s  assumptions  are  realistic  and  
+the candidate reaches some conclusion.
+Excellent:
+Apart from the criteria above, the candidate also reaches a very sound conclusion based on the data 
+unearthed.  The  candidate’s  assumptions  and  estimations  are  very  realistic  and  the  candidate  is  
+quick in identifying all the elements of the problem. The candidate proceeds with the assumptions in 
+the right direction and estimates the market size without any prompts from the interviewer.
+Market Size Estimation
+Unknown round
+DMCC
+Case 2: Polly Publishing
+
+
+===== PDF p33 =====
+Market Estimation
+DMCC
+Round 1
+Prompt
+How many piano tuners are there in Chicago?
+Guidance
+Ask the candidate to walk you through his thought process top-down,
+bottom-up. Once his /her structure is in place, ask him/her to compute the calculation.
+Various methods may be used to estimate the answer.
+Analysis
+One approach to solve the problem:
+Assume 3 million households in the Chicago area. Make an estimate of how many people have 
+pianos. Break the income of the households into four quarters (750,000 each).
+20% of highest income quartile has pianos
+10% of second quarter
+5% of third
+0% of fourth
+Estimate how often these pianos are tuned:
+Highest income quarter tunes pianos once a year
+Second quarter once every five years
+Third quarter once every 10 years
+Fourth  quarter  doesn’t  tune  at  all
+Case 2: Polly Publishing
+29
+
+
+===== PDF p34 =====
+30
+Analysis
+Estimate a piano tuner can tune five pianos a day, 250 days a year
+Therefore 112,500/250 = 450 pianos a day to tune 450/5 = 90 pianos tuners needed.
+Sanity Check: The yellow pages would be a credible source to check the actual number of piano 
+turners in Chicago. Also it is fair to add another 50% to that figure assuming that some piano turners 
+might rely on word-of-mouth advertising. By the way there are 51 piano tuners listed in the Chicago 
+Yellow Pages.
+Performance 
+Evaluation
+Market estimation cases have no right or wrong answer, rather the interviewer is looking for a
+logical  approach  and  structure  to  the  candidate’s  problem-solving skills. Always clarify the
+assumptions that you make. The above solution is just one of many ways to answer this question
+Market Estimation
+DMCC
+Round 1
+Case 2: Polly Publishing

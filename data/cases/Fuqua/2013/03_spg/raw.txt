@@ -1,0 +1,211 @@
+===== PDF p33 =====
+First Round
+Case 3: SPG
+Prompt #1
+Your client is SPG, an international hotel chain that specializes in boutique luxury vacations. The 
+client has over 500 properties worldwide mostly concentrated in North America and Europe. These 
+markets are highly correlated with the global economy. In an effort to diversify, SPG is focusing on 
+Latin America. SPG is interested in opening another 200 room hotel in Costa Rica and has 
+requested your consulting firm’s help. There are several locations within Costa Rica suitable for the 
+new location as costs are relatively uniform throughout the country. 
+1. What should SPG consider when evaluating site locations?
+2. Since costs will be the same, regardless of the site, which location offers the highest average 
+daily revenue per room?
+Guidance
+Note: The candidate should focus on revenue. A strong candidate will acknowledge that costs are 
+not a concern and may even express skepticism
+Typically Questions and Response:
+• Why Costa Rica? The client has selected this market due to familiarity with the country and ease 
+of doing business. They are not interested in alternatives
+• Do they have other hotels in Costa Rica? Yes, one other located in Manual Antonio
+• What is a boutique luxury hotel? All the client’s hotels have 200 rooms and cater to the wealthy. 
+As a result, these room typically go for 50% more than the average rate and the total spend per 
+room is 100% more then the average room
+Sample Framework: 
+• Entry: Buy, Build, Partner
+• Revenue: Room, Food/Drinks, Activities, etc.
+• Risks: Tourism Trends, Competition, etc.
+Focus on the revenue bucket.  A strong candidate will explain the framework and prioritize 
+revenue.  Push the candidate to brainstorm beyond the initial framework for sources of 
+revenue to a hotel  
+29
+
+
+===== PDF p34 =====
+Prompt #2
+That sounds like a good approach. Please take a look at Exhibit 1. Tell me what you think?
+Guidance
+Interviewer to review candidate calculations using Appendix 2 and 3. 
+Before beginning the calculations:
+• A strong candidate will tell the interviewer initial findings or present a hypothesis
+• A weak candidate will read the exhibit to you or just start doing math
+The candidate should conclude that Arenal Volcano offers the highest average daily revenue 
+at $356.25. 
+$356.25* 360 days/year * 200 rooms = $25.65MM per year revenue opportunity.
+Case 3: SPG
+First Round
+30
+
+
+===== PDF p35 =====
+Case 3: SPG
+San Jose
+Avg. Room/ Day: $100
+Avg. Daily Spend/ Room: $25
+Other SPG Properties: 0
+1
+3
+2
+4
+Map of Potential Locations
+Arenal Volcano
+Avg. Room/ Day: $250
+Avg. Daily Spend/ Room: $50
+Other SPG Properties: 0
+Guanacaste
+Avg. Room/ Day: $300
+Avg. Daily Spend/ Room: $100
+Other SPG Properties: 0
+Manual Antonio
+Avg. Room/ Day: $350
+Avg. Daily Spend/ Room: $150
+Other SPG Properties: 1
+Average Occupancy by Attraction
+= 60%
+= 75%
+= 100%
+= 80%
+= 50%
+= 25%
+= 10%
+• The hotels are open 360 days per year
+• The cost of cleaning each room is $25 dollars 
+per day
+• Presence of another SPG property in the same 
+location will decrease occupancy by 50%
+• All hotels have 200 rooms 
+• There are typically 4 guests per reservation 
+Property Information
+Category
+Room Factor
+Daily Spend Factor
+Budget
+-50%
+-50%
+Luxury
++50%
++100%
+Category Impact on Average Rates and Spend
+Exhibit 1
+31
+
+
+===== PDF p36 =====
+Case 3: SPG
+Start Here
+• Map provides “base 
+rates/spend”
+• Candidate may use the 
+information in the other 
+boxes to calculate revenue
+• The circled information is 
+required. Other is meant to 
+complicate calculations or 
+not relevant.  
+Exhibit 2: GUIDANCE
+32
+
+
+===== PDF p37 =====
+Case 3: SPG
+Location/Site
+1
+2
+3
+4
+Room
+Base
+$            250 
+$            300 
+$            100 
+$            350 
+Luxury Bonus (50%)
+$            125 
+$            150 
+$               50 
+$            175 
+Effective Rate
+$            375 
+$            450 
+$            150 
+$            525 
+Daily Spend
+Base
+$               50 
+$            100 
+$               25 
+$            150 
+Luxury Bonus (100%)
+$               50 
+$            100 
+$               25 
+$            150 
+Effective Rate
+$            100 
+$            200 
+$               50 
+$            300 
+Total spend
+$            475 
+$            650 
+$            200 
+$            825 
+Occupancy
+0.75
+0.5
+1
+0.8
+Cannibalization Penalty (x.5)
+no
+no
+no
+yes
+Effective Occupancy
+0.75
+0.5
+1
+0.4
+Spend per day
+$      356.25 
+$      325.00 
+$      200.00 
+$      330.00 
+Exhibit 3: GUIDANCE - Calculations
+33
+
+
+===== PDF p38 =====
+Prompt #3
+What else should the client consider?  (This is about risks)
+The candidate should briefly outline some risks. Then suggest a recommendation.
+If the candidate does not mention risks, suggest a recommendation. 
+Performance 
+Evaluation
+Expected:
+• The candidate focuses on revenue
+• The candidate engages the interviewer while calculating revenue, talking through the thought 
+process and findings
+Good:
+• The candidate demonstrates structured thinking throughout the case (prompt, brainstorming, and 
+analysis/ calculations)
+• Even though the prompt asks for the daily average, a strong candidate will perform rough 
+calculations to synthesize a “so what” (i.e. annualize the calculations)
+• Candidate performs calculations accurately with little help
+• The candidate drives the case requiring very little interviewer prompting
+Excellent:
+• The candidate shows confidence and creativity throughout the case (Framework, Brainstorming, 
+Risks)
+• The candidate quickly and accurately performs calculations with no help from interviewer
+Case 3: SPG
+First Round
+34

@@ -1,0 +1,265 @@
+===== PDF p126 =====
+- 121 - 
+ 
+Our client, BollyFlix, is an Indian company providing 
+DVD rentals by mail, as well as movie and TV 
+streaming services, to the Indian market, both under 
+a subscription model.  The company serves content 
+made in India for the Indian market (known as 
+“Bollywood” content), and currently has no 
+international operations.  
+Recently, driven by the explosive growth of Indian 
+immigrant and Indian American citizen populations in 
+the United States, as well as the increasing 
+popularity of Indian movies among non-Indians 
+around the world, BollyFlix began to consider 
+launching operations in the United States. 
+ 
+Should the company enter the US DVD rental 
+market, the online streaming market, neither, or 
+both? 
+ 
+
+BollyFlix provides only movies and television 
+content made in India (Bollywood) for the Indian 
+market. 
+
+Major US competitors (like Netflix, Blockbuster, 
+etc.) do not serve any Bollywood content.  
+BollyFlix does not serve any non-Bollywood 
+content. 
+
+There are outlets, in both traditional retail and 
+online, that sell such content, but none offering a 
+rental /streaming model in the US at this time. 
+
+BollyFlix operates their DVD and streaming 
+businesses separately. 
+
+BollyFlix’s only goal is to  establish a profitable 
+business. 
+
+Note that this is a longer case in terms of time. 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Coming to America - BollyFlix 
+ 
+Difficulty: Hard  
+Quant Heavy   
+Industry: Media 
+Type: Market Entry 
+
+
+===== PDF p127 =====
+- 122 - 
+ 
+A good candidate will recognize that a proper market 
+sizing is an essential first step to this problem.  If 
+they do not, steer them toward this exercise with a 
+question like “Who do you think might be the target 
+customers for such a business?”. 
+ 
+Let the candidate brainstorm as to what inputs they 
+would like.   
+Good answers might include (but are not limited to) 
+requests for data on –  
+
+Size of the American and Indian American 
+population 
+
+Segments within these populations 
+
+Data on non-Indian consumption of Bollywood 
+content 
+
+Data on current patterns of non-Bollywood 
+content among target populations 
+Next provide them with the data in the next column 
+and ask them what the market for both their DVD 
+subscription service and video streaming 
+subscription service would be. 
+ 
+ 
+
+The population of the US is about 300M, and 
+about 1% (~3M) claim Indian descent. 
+
+70% of those who claim Indian descent were 
+born outside of the US.  30% were born in the 
+US. 
+
+Based on demographics and market research, 
+we believe that of those born outside the US, 
+30% would be likely customers.  Of those born in 
+the US, 10% are likely customers.  These 
+numbers hold for both lines of business. 
+
+0.1% of non-Indian US residents are interested in 
+Bollywood content and are likely to become 
+customers.  
+
+BollyFlix plans to charge  $100/year for their 
+DVD rental subscription service, and $50/year for 
+a subscription to their online streaming service. 
+Market Sizing 
+Guidance for interviewer and  
+information provided upon request  
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p128 =====
+- 123 - 
+ 
+Market sizing calculations are in the table below.  Tell the candidate to assume that we capture 
+100% of likely customers.  Suggest to round to 1M customers and $150M in revenue if they do 
+not ask. 
+Market Sizing Calculations 
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p129 =====
+- 124 - 
+ 
+Having established a market size, the next step is to 
+determine what it would cost to operate in the US 
+market. 
+Ask the candidate what sorts of costs a company like 
+this are likely to encounter. 
+ 
+Good answers may include –  
+- Content rights fees (streaming) 
+- IT infrastructure/bandwidth (streaming) 
+- Postage 
+- Costs to establish and operate distribution centers 
+- Purchase of DVDs 
+- SG&A 
+- Marketing 
+ 
+ 
+For DVD customers, our variable costs would be: 
+ $60/year/customer to purchase DVDs and 
+cover overhead 
+ $20/year/customer to cover shipping costs 
+It costs $4M/year to lease and operate a distribution 
+center in support of the DVD rental business. 
+Nationwide coverage for DVD distribution would 
+require 6 distribution centers. 
+Rights to stream Bollywood content in the US would 
+cost $20M. 
+IT Infrastructure, bandwidth and other overhead 
+within the streaming business would cost $8M. 
+ 
+ 
+Cost information 
+Guidance for interviewer and  
+information provided upon request  
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p130 =====
+- 125 - 
+ 
+The candidate should compute roughly the numbers below.  They should conclude that given 
+available information, the DVD rental business is not viable, whereas the online streaming business 
+is very high margin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Next, tell the candidate that we have engaged in a market segmentation study, and come to realize 
+that concentrations of our target population vary considerably by region within the United States.  
+Show them Exhibit 1 and ask for their immediate takeaways. 
+Market Sizing Calculations 
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p131 =====
+- 126 - 
+Exhibit 1  
+Distribution Center Service Regions 
+ 
+Note: Assume that likely customers include 0.1% of the general population, and 25% of the overall Indian 
+population 
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p132 =====
+- 127 - 
+If the candidate does not suggest such an analysis on their own, ask them to determine if the 
+DVD business might be viable on a regional basis, if not a national one.  To ease calculations, 
+you may remind them that 80% of revenues are immediately eaten up by variable costs, leaving 
+$20/customer in potential profit, and that the cost to serve a region is $4M (the distribution 
+center). 
+Given time, they should be able to produce roughly the following calculations. 
+ 
+Regional analysis 
+Note to Interviewer: Revenue here assumes $20 per customer (what is left over after subtracting 
+$80 in per-customer fixed costs).  General population numbers are rounded. 
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p133 =====
+- 128 - 
+ 
+
+The candidate should recognize that it is profitable to serve Regions 1 and 6, and very close 
+to profitable to serve Region 3.  Ask them what might change in region 3 that could effect this 
+in the future. 
+
+Good answers could include: 
+-
+A reshaping of the region so that it better encompasses target populations 
+-
+Growth in the Indian population, either organically or via immigration 
+-
+Growth in demand for Bollywood content among either the Indian or non-Indian 
+population (either natural or spurred by increased marketing) 
+-
+Pricing changes that drive revenue or volume 
+-
+Consumption via DVD could increase (or decrease) overall 
+Regional analysis 
+Coming to America - BollyFlix 
+ 
+
+
+===== PDF p134 =====
+- 129 - 
+ 
+The candidate should conclude that BollyFlix 
+should enter the streaming business 
+immediately, and enter the DVD rental business 
+on a regional basis. 
+Changes in demographics or consumer 
+preference could have a large effect on this 
+business. 
+This may be easily copy-able by competitors.  
+Slim DVD margins could disappear overnight. 
+High margins in the streaming business could 
+attract competition, driving up content prices 
+and pressuring consumer pricing power. 
+  
+ 
+Recommendations/Risks 
+ 
+- Begin setting up infrastructure to open the 
+content streaming business. 
+- Move to open warehouses and begin 
+marketing in Regions 1 and 6. 
+- Examine potential levers to move Region 3 
+into profitability. 
+ 
+Next Steps 
+Coming to America - BollyFlix 
+ 

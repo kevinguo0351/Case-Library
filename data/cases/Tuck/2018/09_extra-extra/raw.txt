@@ -1,0 +1,261 @@
+===== PDF p82 =====
+Tuck Consulting Club
+78
+Extra! Extra!
+Good:
+- The candidate asks whether the 
+printers are ready for use or at a 
+R&D stage.
+- The candidate asks about the KPI 
+for this venture.
+Better: additional points
+- The candidate asks about how 
+the engineers will legally obtain the 
+digital versions of newspapers.
+- The candidate points out that the 
+engineers must have drafted a 
+solid business proposal including 
+market research.
+- The candidate states that a VC 
+case is about valuation, so an NPV 
+analysis is expected.
+Best: additional points
+- The candidate acknowledges 
+that one key element is the 
+number of newspapers sold
+Candidate Evaluation
+Our client is a venture capitalist who was recently approached by a team of software 
+engineers who have developed an algorithm to convert the digital version of any 
+newspaper into a one-size-fits-all, high-quality paper document that can be printed 
+by a special printer. The idea is stationing printers in multiple locations in major cities 
+as a way to sell more newspapers.
+Should our client invest in this venture?
+Case Prompt
+Clarifying Information
+The engineers have probed several major newspapers and all of them would be glad 
+to share their digital versions.
+The engineers have conducted market research and concluded that newspaper 
+readers are indifferent between classic newspapers and this new format.
+The engineers have successfully developed and tested a prototype of the printer.
+Our client is considering a different investment opportunity that would yield an annual 
+return of 15% after 4 years.
+This is a straightforward valuation problem. As the case evolves, information to carry 
+out an NPV analysis shall be provided. Different approaches can be taken to come 
+up with an answer, but a break-even analysis is recommended.
+The case also has a component of brainstorming to determine whether this venture 
+makes sense.
+Case Commentary (Notes to Interviewer)
+Type: Venture Capital
+Author: Jorge Nebreda-
+Sánchez T’17
+
+
+===== PDF p83 =====
+79
+Part 1: Problem Structuring
+Framework
+What are the components a candidate 
+should absolutely include vs. the ideas that 
+differentiate an interviewee?
+Must-haves:
+- The candidate acknowledges that an 
+NPV analysis is the best analytical tool
+- The candidate identifies the key elements 
+of a DCF analysis: initial investment, cash 
+flows, discount rate and time horizon
+Nice to haves: additional points
+- The candidate uses case-specific 
+vocabulary
+- The candidate drills down into the main 
+buckets and provides details about profit
+- The candidate enumerates relevant costs
+Differentiators: additional points
+- The candidate notices intellectual 
+property rights must be paid to engineers
+- The candidate creates an outstanding 
+Risks/Opportunities bucket
+Behind the Framework
+Invest?
+Initial 
+Investment
+Printers
+Intellectual 
+Property
+Discounted 
+Cash Flows
+Profit
+Discount 
+rate
+Time 
+horizon
+# Newsp.
+Price
+Costs:
+-Paper
+-Ink/toner
+-Energy
+-IT
+-Royalties to 
+newspapers
+-Taxes
+-Maintenance
+-Insurance for 
+printers
+-Depreciation
+Risks / 
+Opportunities
+Why paper?
+Need to 
+patent
+Potential 
+buyers
+Synergies/e
+xpertise
+
+
+===== PDF p84 =====
+80
+Part 2: Introduction of Questions 
+Should our client invest in this venture?
+Question 1
+What potential benefits or threats should the client take into 
+consideration?
+Question 2
+- No exhibits. Information shall be provided when the 
+candidate either asks the right questions or is stuck.
+- Initial investment: $3,700 (printer); $300 (int. property).
+- Discount rate: 15%. Time horizon: 4 years (see prompt).
+- Newspaper price: $1.80 (wait for candidate to provide 
+reasonable estimate).
+- Costs: 70% of price (ask candidate about relevant costs if 
+framework is poor).
+Guidance
+- This is a brainstorming question that drills down into the 
+Risks/Opportunities bucket of the framework.
+- This question should be asked regardless of the presence 
+or absence of such bucket.
+- Insight from this question should be included in the wrap-
+up pitch.
+Guidance
+- The candidate realizes that the number of newspapers 
+sold is the only missing piece.
+- The candidate asking about sales volume would be a 
+potential dealbreaker.
+- It would be fine if the candidate came up with a 
+reasonable estimate based on own experience.
+- It would be great if the candidate explained the utility of a 
+breakeven analysis.
+- The candidate analyzing the meaningfulness of the 
+breakeven analysis is a differentiator.
+Candidate Insights
+- This question is open to the candidate’s creativity about 
+relevant issues associated with the matter at hand.
+- Potential benefits:
+a) Make-to-order: less paper is used 
+b) Customization: choose what sections to print
+c) Pre-payment & pre-printing: saves waiting time
+- Potential risks:
+a) Paperless world: paper press is in decay
+b) Patents and exclusivity agreements
+c) Exit strategy
+Candidate Insights
+
+
+===== PDF p85 =====
+Tuck Consulting Club
+81
+Part 3: Decision to Invest 
+Should our client invest in this venture?
+Question 2
+NPV = −I0 + ෍
+i=1
+T
+CFi
+1 + r i = if CFi are constant = −I0 + CF
+r · 1 −
+1
+1 + r T
+I0=$3,700+$300; r=0.15; T=4; CF=(100%-70%)·$1.80·x=0.54·x (where x is the number of newspapers sold annually)
+Break-even: NPV=0Æ
+0 = −4000 + 0.54 · x
+0.15
+· 1 −
+1
+1 + 0.15 4
+= −4000 + 1.5417 · x →x = 2595 newspapers
+So what? The candidate must notice that this amount is an annual volume because the discount rate used is annual. 
+Therefore, assuming 300 operating days to make up for fluctuations in demand, the breakeven sales volume is 8.65, that is to 
+say, 9 newspapers/day (with 365 days, the result is 7-8 newspapers/day).
+Math
+The candidate should acknowledge the power of a breakeven analysis: it provides a benchmark against which actual sales 
+can be compared. If this venture requires 8-9 newspapers sold daily to breakeven, this looks like an interesting opportunity 
+because (a) newstands usually sell tens or even a few hundred newspapers every day and (b) market research revealed that 
+readers are indifferent about this new format, so they show the same preference for these newspapers as they do for 
+traditional ones.
+Candidate Insights
+
+
+===== PDF p86 =====
+Tuck Consulting Club
+82
+Part 4: Benefits and Threats
+What potential benefits or threats should the client take into consideration?
+Question 2
+- Potential benefits:
+a) This is a make-to-order service: what is printed is what the readers want. Savings are transferred to newspaper publishers 
+because less paper is used
+b) Customization: readers could potentially choose what sections to print
+c) Pre-payment & pre-printing: readers can pay online and the printers could potentially print the newspapers prior to the 
+reader’s arrival. This could save waiting time
+d) Business extension: this idea could expand to other publications (magazines)
+e) Tracking of consumer habits: our client could take advantage of purchase habits data (watch out for regulation)
+- Potential risks:
+a) Paperless world: paper press is in decay. This venture is counter-intuitive. It could be argued that a more convenient 
+format (A4) and high-quality paper could attract more readers, but market research showed that readers are indifferent.
+b) Patents and exclusivity agreements: the printers and algorithm must be patented before anybody else makes the first 
+move. Additionally, exclusivity contracts should be enforced such that potential competitors are kept at bay.
+c) Exit strategy: what will the client do after 3 years? Interested in selling or keeping? How will market evolve?
+d) Synergies: does our client have another investment that could benefit from or improve this venture?
+e) Newsstand owners may complain about this device because it not only makes them lose newspaper sales but also 
+prevents them from cross-selling to customers.
+Candidate Insights
+
+
+===== PDF p87 =====
+We recommend that our client invest in this venture because it breaks even at 8 
+newspapers sold daily.
+Current newspapers sales volumes are considerably higher, so our client can expect 
+great upside potential that will exceed his profitability target of 20% after 3 years.
+This venture offers additional benefits like prepayment or customization.
+Good: 
+- The candidate provides an 
+answer-first recommendation 
+based on results gleaned during 
+the case discussion.
+Better: additional points
+- The candidate spontaneously 
+brings up additional benefits
+- The candidate transitions from 
+the recommendation to warning 
+about potential risks.
+Best: additional points
+- The candidate shows creativity 
+by suggesting next steps that will 
+result in an engagement extension.
+We suggest taking into consideration several risk factors like the following:
+-The decay of paper press
+-Antagonism by newsstand owners
+-The need for an exit strategy for our client after 3 years, if desired
+-The need to protect this venture by means of patents and exclusivity contracts
+In order to have a better understanding of the potential of this venture, it would be 
+advisable to conduct research to determine the best locations for the printers in 
+major towns.
+Another interesting feature would be examining the client’s investment portfolio to 
+spot potential synergies.
+Tuck Consulting Club
+83
+Extra! Extra! Wrap-Up
+Recommendation
+Candidate Evaluation
+Risks
+Next Steps

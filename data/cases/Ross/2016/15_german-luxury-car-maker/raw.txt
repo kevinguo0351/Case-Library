@@ -1,0 +1,146 @@
+===== PDF p190 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 15: German Luxury Car Maker, BCG (Round 1)
+ The German luxury car maker wants to grow business and is looking into selling cars in Bangladesh. 
+The GDP growth in Bangladesh is 5% per year. Currently, the only luxury car sold in Bangladesh is 
+Mercedes-Benz and they have been in the market for the past 10 years.
+ The CEO wants to find out if the company enters the market, can they break even in three years? 
+ Industry: Automotive
+ Difficulty: Medium
+ Format: Market Entry
+ Concepts Tested: Market entry, 
+Customer Lifetime Value, 
+Competition, Economy
+•
+Interviewer should ask candidate how to estimate market 
+size if the candidate does not bring this up on their own
+•
+A break-even analysis will follow the market share 
+calculation
+
+
+===== PDF p191 =====
+187
+Interviewer Guidance to Case and Exhibits
+•
+Mercedes-Benz imported and sold 10,000 cars 
+in this market over the past 10 years, and has 
+their own dealership in Bangladesh
+•
+There are 1,000 new buyers each year
+•
+The price Mercedes-Benz charges is $100,000 
+per car
+•
+Existing owners replace their car every 10 
+years (the interviewee should calculate how 
+many new cars are sold to existing owners –
+1000 per year, and therefore the total market 
+size per year is 2000 new cars)
+•
+We will have 30% market share (don’t give this 
+info out right away, ask candidate to brainstorm 
+how to estimate market share) each year
+•
+Assume the discount rate is zero
+Clarifying Information on Request
+Ask candidate how to estimate market share
+Possible answers: 
+•
+Understand customer needs through survey 
+and estimate how well we could meet those 
+needs and therefore how much market share 
+we could gain.
+•
+Find benchmark
+•
+It turned out that our client already 
+entered Vietnam and other markets 
+similar to Bangladesh and on average 
+gained 30% market share in each of 
+these markets
+Clarifying Information and Case Guidance
+
+
+===== PDF p192 =====
+188
+ Will the company break-even after within 3 years (Interviewee should determine the need to calculate 
+this after estimating the market share)
+Math Question
+Math Questions and Solutions
+ Cost Structure
+ Initial Investment 
+$7M
+ Variable Cost/Car
+ Manufacturing
+$20K
+ Transportation
+$24K = 120% (manufacturing cost)
+ Customs/Taxes
+$41.8K = 95% (manufacturing + transportation)
+ SG&A
+$10.296 = 12% (all the above costs)
+ The variable cost per car rounds up to $96K/car
+ Therefore the profit on each car is $4K. 
+ With 30% market share, the client’s annual profit will be $2.4M and will break even in 3 years
+Math Solution
+
+
+===== PDF p193 =====
+189
+•
+Evaluate potential risks of entering this market
+Brainstorming Question
+Brainstorming Questions and Solutions
+•
+Assumptions might be inaccurate
+•
+Bangladesh is not stable politically and economically, therefore our client will bear more risk
+•
+There could be other new entrants
+•
+Mercedes-Benz could react to our entry by
+•
+Reducing price (the best answer might also mention that with the low income level in the 
+country, customers who can afford luxury cars might not be price sensitive)
+•
+Ask candidate what price Mercedes-Benz will reduce their car to. 
+•
+Answer: $96K/car or less
+•
+Improving their services if that’s the differentiating factor of our product\
+•
+Blocking some local resources
+Brainstorming Solution
+
+
+===== PDF p194 =====
+190
+Recommendation
+•
+The profit on each car is $4K
+•
+With 30% market share, the client’s annual profit will be 
+$2.4M and will break even in 3 years
+Risk Factors
+•
+Those gained from brainstorming
+Recommendation
+Conclusion
+•
+Star candidates will inquire on their own about ways to estimate market share
+•
+Should recommend a price sensitivity analysis to determine the correct price
+Excellent Case Answers
+•
+Market analysis on competitive 
+response and target customer
+•
+Determine best way to enter the market 
+(JV, Greenfield, etc.)
+•
+Look into ownership structure 
+(franchise or owned showrooms)
+Next Steps

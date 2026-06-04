@@ -1,0 +1,187 @@
+===== PDF p7 =====
+ 
+Management Consulting Association Case Book 2007 
+- 3 - 
+Case 1: 
+Case 1: 
+Case 1: 
+Case 1: University Bank
+University Bank
+University Bank
+University Bank 
+ 
+ 
+BACKGROUND 
+ 
+Firm: Boston Consulting Group 
+Round: 2007 Summer, First  
+Content: Qualitative and quantitative 
+ 
+CASE QUESTION 
+ 
+In Mexico banks prefer not to lend money to hospitals and schools because if one of these 
+institutions defaults the Bank worries that it will be seen as the one responsible for 
+liquidating their assets. We have a client who currently owns several universities.  He is 
+evaluating whether an opportunity exists to start a bank that would lend money to his 
+various universities. There are three questions that he wants us to solve: 
+ Is there an opportunity to lend money to universities? 
+ If an opportunity exists, how big is it? 
+ How should he structure the bank? 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: The purpose of this case is to test the interviewee’s ability to 
+determine whether it makes sense for the client to open a bank that serves universities.  In 
+particular, the interviewee should recognize that he/she needs to gather the necessary 
+information to determine the market opportunity for such a bank.  The interviewee should 
+ask questions to gather the necessary information to determine the market size.   
+ 
+Key facts: 
+ Population in Mexico is: 
+o 0-15 years old: 7 million 
+o 15-30 years old: 6 million 
+o 30-45 years old: 5 million 
+ Total number of universities in Mexico: 200 
+ Population growth:  close to zero (use zero for the sake of simplicity) 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: So, given the facts of the case, how would you consider going about 
+analyzing this question for the client? 
+ 
+Interviewee: I’d like to understand a few things to evaluate this decision. First, I’d like to 
+understand the size of the market to see whether there is an opportunity or not.  Next I 
+
+
+===== PDF p8 =====
+ 
+Management Consulting Association Case Book 2007 
+- 4 - 
+would like to analyze who are the competitors, if any.  In particular, I am interested in the 
+competitors because they may decide to offer similar loans to institutions, like 
+universities.  Finally, I would like to know what the university can leverage from its own 
+operations to develop this idea, etc. 
+ 
+Interviewer: That seems like a good starting point. Let’s start by analyzing the market.  
+How would you do that? 
+ 
+Interviewee: Ok, I will start by analyzing how many people go to university per year.  If 
+the population grows at about 1% per year, this means that next year there could be more 
+people attending universities than space available.  I would use a guesstimate of the 
+percent of population enrolled in universities to calculate the number of students 
+currently enrolled across Mexico.  For simplicity sake I will assume that all potential 
+students attend universities in Mexico, excluding the percent that attends school abroad.  
+ 
+Age range 
+Population 
+% Enrolled in 
+University 
+(guesstimate) 
+Enrolled In 
+University 
+0-15 years old 
+7 million 
+0% 
+0.0 million 
+15-30 years old 
+6 million 
+25% 
+1.5 million 
+30-45 years old 
+5 million 
+2% 
+0.1 million 
+ 
+ 
+ 
+1.6 million 
+ 
+There are roughly 6 million Mexicans between the ages of 15 and 30, and I would 
+assume that they are evenly distributed.  That is, there are 400,000 people in each year of 
+age (e.g. 400,000 people who are 15 years old, 400,000 people who are 16 years old, and 
+so on until the age of 30).  If I assume that 25% of the people between the ages of 15 and 
+30 go to university, that means we have 1.5 million students between the ages of 15 and 
+30. 
+ 
+Interviewer: Those assumptions seem to be very good ones.  What else would you need to 
+consider? 
+  
+Interviewee: Ok, I think that I will need to figure out how many schools there are in 
+Mexico and how many students are enrolled in each school. 
+ 
+Interviewer: Sure, our client has told us that there are 200 universities in Mexico and we 
+can assume there they are all at full capacity. 
+ 
+Interviewee: Ok, so 1.6M divided by 200 means that there are 8,000 students at each 
+school.  I might think that this seems like a high number.  In the United States we have 
+part-time students and full-time students.  If this is similar in Mexico, the universities 
+would likely be able to accommodate more students without any investment. 
+ 
+
+
+===== PDF p9 =====
+ 
+Management Consulting Association Case Book 2007 
+- 5 - 
+Interviewer: No, they can’t do that as the law prohibits it. 
+ 
+Interviewee: Okay, so if the population grows at 1% per year and there are no new 
+people going to university for other reasons (e.g. better economy) this means that in any 
+given year we will have 1.6M multiplied by 1% new students.  We would have 16,000 
+incremental students.  Given that we know the schools are at full capacity, we would 
+need two new schools. 
+ 
+Interviewer: Okay, so now let's focus on how would you segment the schools in order to 
+think about the credit scoring they may have? 
+ 
+Interviewee: I would segment them based on: 
+ New school or just new branch to an existing school.  I believe that it is less risky to 
+lend to a company that already has a business in place.   
+ Flow of people to school: it's much more secure to lend to a school that has plenty of 
+students in each year than to one that has the same number but distributed in a 
+different way (e.g. most of the people finishing their careers and almost nobody in the 
+first or second year). 
+ Geography: We are speaking in averages.  There may be areas with no population 
+growth.  There may be an uneven dispersion. 
+ 
+Interviewer: How would you calculate how much money a typical school would need? 
+ 
+Interviewee: There are two different streams of costs we have to consider.  On the one 
+side the cost of building a new school – including buying the land, the construction, etc. – 
+and the funds needed until the company reaches a state in which it has a positive free 
+cash flow.   
+ 
+Interviewer: Great.  Tell me the number, or at least how to get it. 
+ 
+Interviewee: The better is to rely on our client experience.  He has 15 schools so there 
+are some experiences we can leverage there? 
+ 
+Interviewer: Let’s move on.  How would you fund this project? 
+ 
+Interviewee: I will think about a couple different ideas such as:  
+ Unilateral organizations (e.g. World Bank, etc.) 
+ The Government as it may need to help some private schools that focus on careers 
+that are not available through public university. 
+ Banks: They may not be willing to do this on their own but may want to partner with 
+someone that knows about this industry. 
+ 
+Interviewer: Ok, fair enough.  Our client is asking you to summarize the situation.  What 
+would be your recommendation? 
+
+
+===== PDF p10 =====
+ 
+Management Consulting Association Case Book 2007 
+- 6 - 
+ 
+Interviewee: Can I take a moment to recap all the findings? 
+ 
+Interviewer: Sure. 
+ 
+Interviewee: I will tell the client that it seems to be a pretty interesting opportunity to 
+provide capital to build new schools which would be at least two per year given the 
+growth in the population. 
+ 
+ 
+ 
+ 

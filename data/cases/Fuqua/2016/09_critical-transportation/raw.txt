@@ -1,0 +1,223 @@
+===== PDF p104 =====
+Critical Transportation
+100
+Industry:      Transportation
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p105 =====
+Behavioral Questions
+101
+• What are your three greatest weaknesses?
+• Please provide an example of a time where your moral and/or ethical standards were 
+tested in a prior work experience. How did you handle the situation? What would you do 
+differently in retrospect?
+Question 1:
+Question 2:
+
+
+===== PDF p106 =====
+Your client, Critical Transportation (CT), provides logistical support for the rail industry on the West 
+Coast of the United States.  Due to the recent Panama Canal expansion, CT is expecting a shift in rail 
+volume to the East Coast once the expanded canal opens in early 2016. CT has retained our firm’s 
+services to determine if it should make the investment to expand its business to the East Coast.
+•
+Background information if the interviewee asks:
+•
+Objective: CT wants to determine if their current business model would be profitable on the East 
+Coast; and whether entry into this market makes sense given the shifts in the market.
+•
+Current Market: Currently, CT is a market leader with 25% market share; there are 5 competitors in the 
+West Coast market and the total market size is $2B
+•
+Business Model: CT provides rail transportation services from major port locations on West Coast to 
+distribution centers all over the Western U.S.  Once cargo is loaded (completed by port personnel), they 
+transport via rail to a final location where it is unloaded by their client.  CT does not provide any 
+additional services.
+•
+Trends: It is estimated that 25% of West Coast container traffic will shift to the East Coast beginning in 
+2016. Over time, the West and East Coast ports are expected to equalize in revenue earned per year.
+•
+Possible Market: There are only 3 other comparable companies on the East Coast that focus on CT’s 
+core competency, and these companies have no West Coast presence.
+•
+Costs: CT estimates that entry into the East Coast market will cost a minimum of $450M, but once 
+entered, East Coast operations will cost approximately the same as West Coast operations.
+Critical Transportation
+Prompt #1:
+Interviewer Guidance:
+102
+
+
+===== PDF p107 =====
+•
+This case is meant to be driven by interviewee, allow him/her to drive the case after each 
+prompt and respond with “ands” if depth of explanation does not make path forward clear.
+•
+Most candidates will recognize that this is a profitability case.  A good candidate will see 
+aspects of market entry and tailor their problem solving accordingly. Additionally, he or she will 
+focus not only on current business model but additional value add activities.
+•
+Interviewee should develop a MECE framework. Some example buckets are: 
+•
+External: market factors, customer demand, regulatory concerns 
+•
+Revenue: pricing strategy, volume, service offerings
+•
+Costs: ID variable and fixed cost, benchmarking competitors
+•
+Market: Competition, market share, barriers to entry
+•
+Entry: acquisition, JV, build from ground up
+•
+Drive the interviewee to think outside of the box in terms of product offerings. CT has only 
+operated in the rail transportation industry, but there could be opportunities in trucking, 
+providing value add services (e.g. repackaging for end vendors, pricing updates for tag), etc. 
+Critical Transportation
+Interviewer Guidance:
+103
+
+
+===== PDF p108 =====
+HAND INTERVIEWEE EXHIBIT 1. Our client is chiefly concerned about the profit 
+margins in the East Coast market after its entry.  Based on the provided 
+information, what should CT’s profit margins be in the East Coast?
+•
+A good candidate will describe the logic of their calculation before jumping directly into computing.  If 
+the candidate jumps in first, do not provide guidance unless asked to collaborate by interviewee.
+•
+Answer: 20% profit margin
+•
+Calculations: 
+•
+40% Market Share = $400M; $400-$320M= $80M profit or 20% profit margin
+•
+35% Market Share = $350M; $350-$280M= $70M profit or 20% profit margin
+•
+25% Market Share = $250M; $250-$200M= $50M profit or 20% profit margin
+•
+1 – (Sum of Costs / Industry Revenue) = 1 – ($800M / $1000M) = 1- 0.8 = 0.2 = 20%
+•
+Takeaways: 
+•
+Knowing the East Coast profit margin is 20%, the candidate should want to look at West Coast 
+profitability to determine is the East Coast is an attractive market.  This info isn’t provided, but a 
+good candidate will ask about this. 
+•
+The candidate should also consider the initial investment to enter the market and the portion of 
+the market that CT can expect to capture in order to conduct a break-even analysis. 
+Critical Transportation
+Prompt #2a:
+Interviewer Guidance:
+104
+
+
+===== PDF p109 =====
+Exhibit #1
+Initial Market Analysis for 2015 Port Shipping by Rail (East Coast)
+% Market Share
+Total Costs (Estimated)
+Company A
+40%
+$320 M
+Company B
+35%
+$280 M
+Company C
+25%
+$200 M
+Total Market Revenue (East Coast) 
+Year
+Revenue ($M)
+2015
+1000
+2014
+950
+2013
+920
+2012
+900
+2011
+820
+105
+
+
+===== PDF p110 =====
+Our internal analysts believe that CT can only capture 10% of the East Coast 
+market upon entry in the first year.  The West Coast market size is $2B, and 25% of 
+that market is expected to shift to the East Coast after the canal opens in 2016.  The 
+initial investment to begin operations on the East Coast would be approximately 
+$450M.  Based upon this information when would CT break even?  Ignore time 
+value of money and assume no growth.
+•
+Answer: 15 years
+•
+$1.0B East Coast market in 2015 becomes approx. $1.5B in 2016
+•
+Client expects to have 10% of East Coast market share, or $150M in revenue w. 20% profit 
+margin.
+•
+$30M profit in Y1, but initial invest was $450M.
+•
+Breakeven time period would be 15 years (i.e., $450M / $30M = 15), and the client’s 
+comfort with that horizon would lead next steps
+•
+A good candidate will describe the logic of their calculation before jumping directly 
+into computing.  If the candidate jumps in first, do not provide guidance unless asked 
+to collaborate by interviewee.
+•
+A strong candidate will connect 2015 data and project 2016 after 25% shift from 
+West Coast and drive to the “so what” of the prompt.
+Critical Transportation
+Prompt #2b:
+Interviewer Guidance:
+106
+
+
+===== PDF p111 =====
+Given that it would take many years to recoup initial costs unless CT could gain a 
+larger market share, what are some other recommendations for CT to increase 
+profitability in the East Coast after the Panama Canal expansion?
+•
+A good candidate could mention several options, including:
+•
+Buy/Borrow
+•
+Increasing the number of services provided by CT (e.g. providing additional 
+value add services such as repackaging or tagging)
+•
+Potential substitutes for rail (e.g. transport trucks)
+•
+Aggressive expansion of customer base through pricing strategy and leveraging 
+existing West Coast network
+•
+After candidate finishes, ask if there is anything further that they might consider as a 
+measure to test their confidence.
+Critical Transportation
+Prompt #3:
+Interviewer Guidance:
+107
+
+
+===== PDF p112 =====
+John Gray, CEO of Critical Transportation, is expected to walk in the room in about 
+5 minutes and wants to hear our thoughts about the direction his company should 
+take in the future.  What do you recommend?
+•
+A good candidate will take a moment to structure his or her thoughts.  These 
+thoughts might include:
+•
+Leading with recommendation first to invest or do not invest.
+•
+High-level explanation of the basis of this decision
+•
+Possible opportunities that could be explored in East Coast market
+•
+Risks
+•
+Next Steps
+Critical Transportation
+Recommendation:
+Interviewer Guidance:
+108

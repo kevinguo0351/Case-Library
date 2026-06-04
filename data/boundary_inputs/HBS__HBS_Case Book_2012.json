@@ -1,0 +1,830 @@
+{
+"school": "HBS",
+"file": "HBS_Case Book_2012.pdf",
+"rel_path": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\HBS\\HBS_Case Book_2012.pdf",
+"page_count": 118,
+"bookmarks": [
+{
+"level": 1,
+"title": "TABLE OF CONTENTS",
+"pdf_page": 7
+},
+{
+"level": 1,
+"title": "Introduction: Overview of the Case",
+"pdf_page": 9
+},
+{
+"level": 1,
+"title": "Overview of Case Frameworks",
+"pdf_page": 11
+},
+{
+"level": 1,
+"title": "Porter’s Five Forces",
+"pdf_page": 12
+},
+{
+"level": 1,
+"title": "Marketing/Strategy Concepts Review – Overview",
+"pdf_page": 14
+},
+{
+"level": 1,
+"title": "Marketing/Strategy Concepts Review – The 4 Cs",
+"pdf_page": 15
+},
+{
+"level": 2,
+"title": " ",
+"pdf_page": 24
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 24
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 24
+},
+{
+"level": 5,
+"title": " ",
+"pdf_page": 24
+},
+{
+"level": 6,
+"title": " ",
+"pdf_page": 24
+},
+{
+"level": 7,
+"title": "Strategic Groups",
+"pdf_page": 24
+},
+{
+"level": 7,
+"title": "Strategic Groups and Profitability",
+"pdf_page": 24
+},
+{
+"level": 7,
+"title": "Implications for Formulation of Strategy",
+"pdf_page": 24
+},
+{
+"level": 7,
+"title": "A fragmented industry is an industry in which no firm has a significant market share that can strongly influence the industry outcome.",
+"pdf_page": 26
+},
+{
+"level": 7,
+"title": "The essential characteristics of an emerging industry from the viewpoint of formulating strategy are that there are no rules of the game.  The overriding aspect of emerging industries is great uncertainty, coupled with certainty that change will occur.",
+"pdf_page": 27
+},
+{
+"level": 7,
+"title": "Supplier Strategy",
+"pdf_page": 31
+},
+{
+"level": 1,
+"title": "Marketing/Strategy Concepts Review – The 4 Ps",
+"pdf_page": 32
+},
+{
+"level": 1,
+"title": "Marketing/Strategy Concepts Review – Contribution",
+"pdf_page": 36
+},
+{
+"level": 1,
+"title": "Marketing/Strategy Concepts Review – Market Sizin",
+"pdf_page": 37
+},
+{
+"level": 1,
+"title": "Operations Concepts Review",
+"pdf_page": 38
+},
+{
+"level": 1,
+"title": "Profitability Framework",
+"pdf_page": 39
+},
+{
+"level": 1,
+"title": "Helpful Hints",
+"pdf_page": 40
+},
+{
+"level": 1,
+"title": "Practice Cases",
+"pdf_page": 41
+},
+{
+"level": 2,
+"title": "Practice Case 1 (Retailer)",
+"pdf_page": 42
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 43
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 43
+},
+{
+"level": 5,
+"title": "Recommendations",
+"pdf_page": 43
+},
+{
+"level": 2,
+"title": "Practice Case 2 (Butcher Shop)",
+"pdf_page": 44
+},
+{
+"level": 2,
+"title": "Practice Case 3 (Juice Producer)",
+"pdf_page": 47
+},
+{
+"level": 3,
+"title": "High Level Plan of Attack",
+"pdf_page": 47
+},
+{
+"level": 3,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 47
+},
+{
+"level": 3,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 47
+},
+{
+"level": 4,
+"title": "Key Findings",
+"pdf_page": 48
+},
+{
+"level": 4,
+"title": "Recommendations",
+"pdf_page": 48
+},
+{
+"level": 2,
+"title": "Practice Case 4 (Chemical Manufacturer)",
+"pdf_page": 49
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 49
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 49
+},
+{
+"level": 5,
+"title": "Question",
+"pdf_page": 49
+},
+{
+"level": 5,
+"title": "Recommended Solution",
+"pdf_page": 49
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 49
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 49
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts",
+"pdf_page": 49
+},
+{
+"level": 4,
+"title": "Key Findings",
+"pdf_page": 50
+},
+{
+"level": 4,
+"title": "Recommendations",
+"pdf_page": 50
+},
+{
+"level": 2,
+"title": "Practice Case 5 (VieTire)",
+"pdf_page": 51
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 51
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 51
+},
+{
+"level": 5,
+"title": "Recommended Solution",
+"pdf_page": 51
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 51
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 51
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 51
+},
+{
+"level": 4,
+"title": "Key Findings",
+"pdf_page": 52
+},
+{
+"level": 4,
+"title": "Recommendations",
+"pdf_page": 52
+},
+{
+"level": 2,
+"title": "Practice Case 6 (World View)",
+"pdf_page": 53
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 53
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 53
+},
+{
+"level": 5,
+"title": "Recommended Solution",
+"pdf_page": 53
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 53
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 53
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 53
+},
+{
+"level": 5,
+"title": "Key Findings",
+"pdf_page": 54
+},
+{
+"level": 4,
+"title": "Recommendations",
+"pdf_page": 54
+},
+{
+"level": 2,
+"title": "Practice Case 7 (Le Seine)",
+"pdf_page": 55
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 55
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 55
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 55
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 55
+},
+{
+"level": 4,
+"title": "Key Findings",
+"pdf_page": 56
+},
+{
+"level": 5,
+"title": "Recommendations",
+"pdf_page": 56
+},
+{
+"level": 2,
+"title": "Practice Case 8 (Beer Brew)",
+"pdf_page": 57
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 57
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 57
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 57
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 57
+},
+{
+"level": 5,
+"title": "Key Findings",
+"pdf_page": 58
+},
+{
+"level": 4,
+"title": "Recommendations",
+"pdf_page": 58
+},
+{
+"level": 2,
+"title": "Practice Case 9 (Wheeler Dealer)",
+"pdf_page": 59
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 59
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 59
+},
+{
+"level": 5,
+"title": "Question",
+"pdf_page": 59
+},
+{
+"level": 5,
+"title": "Recommended Solution",
+"pdf_page": 59
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 59
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 59
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 59
+},
+{
+"level": 4,
+"title": "Key Findings",
+"pdf_page": 60
+},
+{
+"level": 4,
+"title": "Recommendations",
+"pdf_page": 60
+},
+{
+"level": 2,
+"title": "Practice Case 10 (Travel Agency)",
+"pdf_page": 61
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 61
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 61
+},
+{
+"level": 5,
+"title": "Recommended Solution",
+"pdf_page": 61
+},
+{
+"level": 4,
+"title": "High Level Plan of Attack",
+"pdf_page": 61
+},
+{
+"level": 4,
+"title": "Lay Out Your Thoughts",
+"pdf_page": 61
+},
+{
+"level": 4,
+"title": "Dig Deeper: Gather Facts/Make Calculations",
+"pdf_page": 61
+},
+{
+"level": 5,
+"title": "Key Findings",
+"pdf_page": 62
+},
+{
+"level": 5,
+"title": "Recommendations",
+"pdf_page": 62
+},
+{
+"level": 2,
+"title": "Practice Case 11 (Hospital)",
+"pdf_page": 63
+},
+{
+"level": 2,
+"title": "Practice Case 12 (E-Grocery)",
+"pdf_page": 66
+},
+{
+"level": 2,
+"title": "Practice Case 13 (Formula Producer)",
+"pdf_page": 69
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 69
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 69
+},
+{
+"level": 5,
+"title": "Question",
+"pdf_page": 69
+},
+{
+"level": 5,
+"title": "Background",
+"pdf_page": 69
+},
+{
+"level": 5,
+"title": "Response",
+"pdf_page": 69
+},
+{
+"level": 2,
+"title": "Practice Case 14 (Pharmaceutical Company)",
+"pdf_page": 72
+},
+{
+"level": 2,
+"title": "Practice Case 15 (Scotch Manufacturer)",
+"pdf_page": 78
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 78
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 78
+},
+{
+"level": 5,
+"title": "Before getting into the details on this particular case, how would you define strategy?",
+"pdf_page": 78
+},
+{
+"level": 5,
+"title": "Here is a little background information on the scotch industry",
+"pdf_page": 80
+},
+{
+"level": 5,
+"title": "What kind of analysis would you complete to quantify the reduction in number of scotch drinkers?",
+"pdf_page": 81
+},
+{
+"level": 5,
+"title": "Here is some additional information on the scotch industry",
+"pdf_page": 81
+},
+{
+"level": 5,
+"title": "Would you think that the scotch industry is profitable?  Explain structurally, and elaborate",
+"pdf_page": 82
+},
+{
+"level": 5,
+"title": "What information would you like to know about the brand?",
+"pdf_page": 82
+},
+{
+"level": 5,
+"title": "If our goal was to make money, and not necessarily to gain/maintain market share, what might be some alternatives?",
+"pdf_page": 85
+},
+{
+"level": 5,
+"title": "Which of these is likely to offer the greatest profit potential and why?",
+"pdf_page": 85
+},
+{
+"level": 2,
+"title": "Practice Case 16 (Regional Jet Corporation)",
+"pdf_page": 87
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 90
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 90
+},
+{
+"level": 5,
+"title": "II. Competitive Position",
+"pdf_page": 90
+},
+{
+"level": 5,
+"title": "IV. Overall Competitive Position",
+"pdf_page": 92
+},
+{
+"level": 6,
+"title": " ",
+"pdf_page": 92
+},
+{
+"level": 7,
+"title": " ",
+"pdf_page": 92
+},
+{
+"level": 8,
+"title": "V. Alternative Generation",
+"pdf_page": 92
+},
+{
+"level": 8,
+"title": "Potential Alternative #3: Enter the Aircraft Leasing Market",
+"pdf_page": 93
+},
+{
+"level": 8,
+"title": "Additional Handout for Interviewee",
+"pdf_page": 94
+},
+{
+"level": 2,
+"title": "Practice Case 17 (British Times)",
+"pdf_page": 95
+},
+{
+"level": 2,
+"title": "Practice Case 18 (Children Clothes E-Retailer)",
+"pdf_page": 99
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 103
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 103
+},
+{
+"level": 5,
+"title": "Possible Response",
+"pdf_page": 103
+},
+{
+"level": 2,
+"title": "Practice Case 19 (Consumer Products)",
+"pdf_page": 104
+},
+{
+"level": 2,
+"title": "Practice Case 20 (The Video Store)",
+"pdf_page": 106
+},
+{
+"level": 2,
+"title": "Practice Case 21 (The English Church)",
+"pdf_page": 110
+},
+{
+"level": 2,
+"title": "Practice Case 22 (HBS as a Business)",
+"pdf_page": 112
+},
+{
+"level": 2,
+"title": "Practice Case 23 (Fast Food Restaurant)",
+"pdf_page": 114
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 116
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 116
+},
+{
+"level": 5,
+"title": "Summary Comments:",
+"pdf_page": 116
+},
+{
+"level": 2,
+"title": "Practice Case 24 (Automobile Producer)",
+"pdf_page": 117
+}
+],
+"toc_pages": [],
+"toc_text": {},
+"page_index": [
+"p1\t[47.4] HBS Casebook 2012\tCareer Consulting HBS Casebook 2012 Casebook\t",
+"p2\t[24.6] TURNING POINT CAREER CONSULTING\t1 Copyright 2020 by Turning Point Career Consulting All righ\t",
+"p3\t[21.0] Turning Point provides systematic methodology and real \t2 Copyright 2020 by Turning Point Career Consulting All righ\timg3",
+"p4\t[19.0] Contact Us\t12 Copyright 2020 by Turning Point Career Consulting All rig\timg9",
+"p5\t[24.0] Harvard Business School\tHarvard Business School Management Consulting Club Case Inte\timg279",
+"p6\t[24.0] Harvard Business School\tHarvard Business School Management Consulting Club Case Inte\timg298",
+"p7\t[14.0] TABLE OF CONTENTS\tTABLE OF CONTENTS INTRODUCTION: OVERVIEW OF THE CASE........\timg298",
+"p8\t[12.0] P\tPRACTICE CASE 13 (FORMULA PRODUCER).........................\timg298",
+"p9\t[14.0] Introduction: Overview of the Case\tIntroduction: Overview of the Case The first question that m\timg298",
+"p10\t[12.0] The case also gives a strong indication of your persona\tThe case also gives a strong indication of your personality \timg299",
+"p11\t[14.0] Overview of Case Frameworks\tOverview of Case Frameworks A complete understanding of the \timg298",
+"p12\t[14.0] Porter’s Five Forces\tPorter’s Five Forces Source: Michael E. Porter, -Competitive\timg298",
+"p13\t[14.0] Porter’s Five Forces\tPorter’s Five Forces Source: Michael E. Porter, Competitive \timg298",
+"p14\t[18.0] 4 Ps\tMarketing/Strategy Concepts Review – Overview The Marketing/\timg298",
+"p15\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs 4 Cs Knowing t\timg298",
+"p16\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs CONSUMER 4 Cs \timg299",
+"p17\t[18.0] 4 Cs\tMarketing / Strategy Concepts Review – The 4 Cs HBS Case Int\timg298",
+"p18\t[18.0] 4 Cs\tMarketing / Strategy Concepts Review – The 4 Cs Key Success \timg297",
+"p19\t[18.0] 4 Cs\tMarketing / Strategy Concepts Review – The 4 Cs HBS Case Int\timg298",
+"p20\t[18.0] 4 Cs\tMarketing / Strategy Concepts Review – The 4 Cs Financial An\timg298",
+"p21\t[18.0] 4 Cs\tMarketing / Strategy Concepts Review – The 4 Cs Developed by\timg298",
+"p22\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs External Analy\timg298",
+"p23\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs EXTERNAL ANALY\timg297",
+"p24\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg299",
+"p25\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg298",
+"p26\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg298",
+"p27\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg299",
+"p28\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg299",
+"p29\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg298",
+"p30\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg299",
+"p31\t[18.0] 4 Cs\tMarketing/Strategy Concepts Review – The 4 Cs Source: Michae\timg298",
+"p32\t[18.0] 4 Ps\tMarketing/Strategy Concepts Review – The 4 Ps 4 Ps PRODUCT I\timg299",
+"p33\t[18.0] 4 Ps\tMarketing/Strategy Concepts Review 4 Ps PRICE Getting the ri\timg298",
+"p34\t[18.0] 4 Ps\tMarketing/Strategy Concepts Review PLACE/DISTRIBUTION 4 Ps A\timg297",
+"p35\t[18.0] 4 Ps\tMarketing/Strategy Concepts Review 4 Ps PROMOTION/BRANDING P\timg297",
+"p36\t[14.0] Marketing/Strategy Concepts Review – Contribution Analy\tMarketing/Strategy Concepts Review – Contribution Analysis C\timg298",
+"p37\t[14.0] Marketing/Strategy Concepts Review – Market Sizing And \tMarketing/Strategy Concepts Review – Market Sizing And Segme\timg297",
+"p38\t[14.0] Operations Concepts Review\tOperations Concepts Review Product Design Manufacturing Stra\timg298",
+"p39\t[14.0] Profitability Framework\tProfitability Framework Many of the cases presented during t\timg298",
+"p40\t[14.0] Helpful Hints\tHBS Case Interview Guide, Page 32 Helpful Hints 1. Keep in m\timg298",
+"p41\t[14.0] Practice Cases\tHBS Case Interview Guide, Page 33 Practice Cases\timg298",
+"p42\t[14.0] Practice Case 1 (Retailer)\tHBS Case Interview Guide, Page 34 Practice Case 1 (Retailer)\timg297",
+"p43\t[12.0] Further analyze the customer for each of the stores and\tHBS Case Interview Guide, Page 35 Dig Deeper: Gather Facts •\timg298",
+"p44\t[14.0] Practice Case 2 (Butcher Shop)\tPractice Case 2 (Butcher Shop) Question A fast food chain re\timg298",
+"p45\t[11.0] Dig Deeper: Gather Facts & Make Calculations\tDig Deeper: Gather Facts & Make Calculations Shop Capacity •\timg298",
+"p46\t[11.0] Key Findings/Recommendations\tHBS Case Interview Guide, Page 38 Key Findings/Recommendatio\timg299",
+"p47\t[14.0] Practice Case 3 (Juice Producer)\tHBS Case Interview Guide, Page 39 Practice Case 3 (Juice Pro\timg298",
+"p48\t[11.0] •\tHBS Case Interview Guide, Page 40 • Let's try to understand \timg298",
+"p49\t[16.0] Practice Case 4 (Chemical Manufacturer)\tHBS Case Interview Guide, Page 41 Practice Case 4 (Chemical \timg297",
+"p50\t[11.0] •\tHBS Case Interview Guide, Page 42 • What about the makers of\timg298",
+"p51\t[16.0] Practice Case 5 (VieTire)\tHBS Case Interview Guide, Page 43 Practice Case 5 (VieTire) \timg298",
+"p52\t[11.0] o\tHBS Case Interview Guide, Page 44 o Assuming shipping cost t\timg297",
+"p53\t[16.0] Practice Case 6 (World View)\tHBS Case Interview Guide, Page 45 Practice Case 6 (World Vie\timg299",
+"p54\t[12.0] out of that market.\tHBS Case Interview Guide, Page 46 • What about substitutes a\timg297",
+"p55\t[16.0] Practice Case 7 (Le Seine)\tHBS Case Interview Guide, Page 47 Practice Case 7 (Le Seine)\timg299",
+"p56\t[11.0] •\tHBS Case Interview Guide, Page 48 • Has the company thought \timg299",
+"p57\t[16.0] Practice Case 8 (Beer Brew)\tHBS Case Interview Guide, Page 49 Practice Case 8 (Beer Brew\timg298",
+"p58\t[11.0] •\tHBS Case Interview Guide, Page 50 • How does that compare to\timg299",
+"p59\t[16.0] Practice Case 9 (Wheeler Dealer)\tHBS Case Interview Guide, Page 51 Practice Case 9 (Wheeler D\timg299",
+"p60\t[11.0] •\tHBS Case Interview Guide, Page 52 • What about price? Have p\timg298",
+"p61\t[16.0] Practice Case 10 (Travel Agency)\tHBS Case Interview Guide, Page 53 Practice Case 10 (Travel A\timg298",
+"p62\t[11.0] o\tHBS Case Interview Guide, Page 54 o [Now you have all the ne\timg299",
+"p63\t[16.0] Practice Case 11 (Hospital)\tHBS Case Interview Guide, Page 55 Practice Case 11 (Hospital\timg299",
+"p64\t[11.0] Candidate:\tHBS Case Interview Guide, Page 56 Candidate: Since revenue i\timg298",
+"p65\t[11.0] General Summary Comments\tHBS Case Interview Guide, Page 57 General Summary Comments T\timg297",
+"p66\t[14.0] Practice Case 12 (E-Grocery)\tHBS Case Interview Guide, Page 58 Practice Case 12 (E-Grocer\timg299",
+"p67\t[11.0] Interviewer:\tHBS Case Interview Guide, Page 59 Interviewer: Your guess is\timg298",
+"p68\t[11.0] Candidate:\tHBS Case Interview Guide, Page 60 Candidate: Those are some \timg298",
+"p69\t[16.0] Practice Case 13 (Formula Producer)\tHBS Case Interview Guide, Page 61 Practice Case 13 (Formula \timg298",
+"p70\t[11.0] Interviewer:\tHBS Case Interview Guide, Page 62 Interviewer: Sure. Obvious\timg298",
+"p71\t[11.0] Candidate:\tHBS Case Interview Guide, Page 63 Candidate: Ok, so knowing \timg297",
+"p72\t[16.0] Practice Case 14 (Pharmaceutical Company)\tPractice Case 14 (Pharmaceutical Company) Question and Backg\timg299",
+"p73\t[11.0] Commentator:  Here the Candidate has done several thing\tCommentator: Here the Candidate has done several things. Fir\timg298",
+"p74\t[11.0] Interviewer:\tInterviewer: Correct. Candidate: What percent of the volume \timg298",
+"p75\t[11.0] want to see what area within the cost structure impacts\twant to see what area within the cost structure impacts prof\timg298",
+"p76\t[11.0] Interviewer:\tInterviewer: No, they are at the top of the pyramid of influ\timg298",
+"p77\t[11.0] Interviewer:\tInterviewer: OK, and what about the third option, to sell, l\timg298",
+"p78\t[16.0] Practice Case 15 (Scotch Manufacturer)\tPractice Case 15 (Scotch Manufacturer) Background We have be\timg299",
+"p79\t[11.0] What would be your process to develop a new strategy?\tWhat would be your process to develop a new strategy? • Posi\timg299",
+"p80\t[11.0] What might be some of the reasons that you would NOT wa\tWhat might be some of the reasons that you would NOT want to\timg297",
+"p81\t[11.0] What kind of analysis would you complete to quantify th\tWhat kind of analysis would you complete to quantify the red\timg298",
+"p82\t[11.0] o\to 20% in low-end, 60% in premium, 20% in super-premium. • Wh\timg298",
+"p83\t[11.0] •\t• How have competitors performed? o #1 has gained share from\timg298",
+"p84\t[11.0] Why has our advertising effectiveness been poor?\tWhy has our advertising effectiveness been poor? • We don't \timg298",
+"p85\t[11.0] If our goal was to make money, and not necessarily to g\tIf our goal was to make money, and not necessarily to gain/m\timg299",
+"p86\t[11.0] Which of these will be easiest for the company to imple\tWhich of these will be easiest for the company to implement \timg297",
+"p87\t[16.0] Practice Case 16 (Regional Jet Corporation)\tPractice Case 16 (Regional Jet Corporation) Initial Handout \timg298",
+"p88\t[12.0] Regional Jet Corporation\tInitial Handout for Interviewee (cont.) Regional Jet Corpora\timg299",
+"p89\t[12.0] Regional Jet Corporation is losing money in one of its \tInterviewer’s Discussion Guide Case Summary (for Interviewer\timg298",
+"p90\t[11.0] o\to Customer Power: In 1999, there were 225 customers. Types o\timg298",
+"p91\t[11.0] •\t• Pricing Position: Question for the student: Based on the d\timg298",
+"p92\t[12.0] •\tIV. Overall Competitive Position Question for the student: D\timg298",
+"p93\t[11.0] Potential Alternative #3: Enter the Aircraft Leasing Ma\tPotential Alternative #3: Enter the Aircraft Leasing Market \timg298",
+"p94\t[11.0] Additional Handout for Interviewee\tAdditional Handout for Interviewee Jet Engine Regional Aircr\timg298",
+"p95\t[16.0] Practice Case 17 (British Times)\tPractice Case 17 (British Times) Case Background: You're a n\timg298",
+"p96\t[11.0] •\t• BritishTimes.com is a spin-off from the newspaper. o Howev\timg299",
+"p97\t[11.0] Interviewer:\tInterviewer: Good. They do some of that already but probably\timg297",
+"p98\t[11.0] There are approximately 60 million people living in the\tThere are approximately 60 million people living in the UK. \timg298",
+"p99\t[16.0] Practice Case 18 (Children Clothes E-Retailer)\tPractice Case 18 (Children Clothes E-Retailer) Part 1: Case \timg298",
+"p100\t[11.0] Your Challenge:\tYour Challenge: • Plan for the client meeting. Structure the\timg298",
+"p101\t[11.0] Customers:\tCustomers: • Who are the client's customers? • What is the v\timg298",
+"p102\t[11.0] Part 2:\tPart 2: Quantitative Analysis: After spending part of the we\timg297",
+"p103\t[11.0] Possible Response\tPossible Response Assume the children's apparel category is \timg297",
+"p104\t[16.0] Practice Case 19 (Consumer Products)\tPractice Case 19 (Consumer Products) Case Situation It's Mon\timg298",
+"p105\t[11.0] Your Challenge:\tYour Challenge: This coming Thursday, you will meet with the\timg297",
+"p106\t[16.0] Practice Case 20 (The Video Store)\tPractice Case 20 (The Video Store) Question and Background I\timg297",
+"p107\t[11.0] These key questions will get behind what is happening (\tThese key questions will get behind what is happening (compe\timg298",
+"p108\t[11.0] [Here the student should begin to think about hypothesi\t[Here the student should begin to think about hypothesis dev\timg299",
+"p109\t[11.0] Summary Comments\tSummary Comments There is no one right way to approach cases\timg299",
+"p110\t[16.0] Practice Case 21 (The English Church)\tPractice Case 21 (The English Church) Question and Backgroun\timg297",
+"p111\t[11.0] There are many ways I could test my hypotheses. I think\tThere are many ways I could test my hypotheses. I think the \timg297",
+"p112\t[16.0] Practice Case 22 (HBS as a Business)\tPractice Case 22 (HBS as a Business) Question and Background\timg298",
+"p113\t[11.0] Dean Clark must focus on maintaining the reputation of \tDean Clark must focus on maintaining the reputation of HBS a\timg298",
+"p114\t[16.0] Practice Case 23 (Fast Food Restaurant)\tPractice Case 23 (Fast Food Restaurant) Question and Backgro\timg298",
+"p115\t[11.0] Suggested \"Excellent\" Response:\tSuggested \"Excellent\" Response: What do you mean by \"losing \timg297",
+"p116\t[11.0] determine how many of the customers are former burger c\tdetermine how many of the customers are former burger custom\timg298",
+"p117\t[16.0] Practice Case 24 (Automobile Producer)\tPractice Case 24 (Automobile Producer) Question and Backgrou\timg298",
+"p118\t[11.0] however, is this is not the case as door locks are typi\tHBS Case Interview Guide, Page 110 however, is this is not t\tEXH,img298"
+]
+}

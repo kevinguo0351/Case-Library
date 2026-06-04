@@ -1,0 +1,36 @@
+{
+  "case_id": "Wharton_2017_06_high-engineer-attrition-at-sls-oil-gas-services",
+  "school": "Wharton",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2017.pdf",
+  "idx": 6,
+  "case_name": "High Engineer Attrition at SLS Oil Gas Services",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Oil and Gas",
+  "difficulty": "Medium",
+  "pdf_page_start": 59,
+  "pdf_page_end": 71,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    61,
+    63,
+    65,
+    67,
+    68,
+    69,
+    70,
+    71
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p063.png",
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p068.png",
+    "exhibits/exhibit_p069.png",
+    "exhibits/exhibit_p070.png",
+    "exhibits/exhibit_p071.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2017\\06_high-engineer-attrition-at-sls-oil-gas-services"
+}

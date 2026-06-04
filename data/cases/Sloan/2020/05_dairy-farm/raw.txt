@@ -1,0 +1,215 @@
+===== PDF p77 =====
+Casebook | 2019-20 Edition 
+73 
+ 
+5. Dairy Farm (Bain R1, Private Equity, M&A, Balanced) 
+Stem: Our client is a private equity firm deciding whether or not to invest in a dairy farm in Iowa. The farm 
+only produces milk. The client doesn’t have any investments in the dairy industry or in farming more 
+broadly. Should they purchase this dairy farm? 
+ 
+Phase 1: Competitive Environment 
+ 
+The interviewer should reveal the following pieces of case information when asked an applicable 
+question: 
+ 
+Dairy farming is a localized market: 
+● 
+Bonus points for candidate who brainstorms why this might be true (e.g. spoilage during 
+transport, government restrictions, and co-operatives) 
+● 
+Our potential target competes with other dairy farms in the same area in Iowa 
+ 
+Competitive sizes: 
+● 
+Our potential target has 10,000 cows 
+● 
+Competitor 1 has 7,500 cows 
+● 
+Competitor 2 has 2,500 cows 
+ 
+Market shares: 
+● 
+Our potential target produces 100 units of milk per cow 
+● 
+Competitor 1 produces 80 units per cow 
+● 
+Competitor 2 produces 50 units per cow 
+ 
+ 
+Not all cows produce the same amount of milk (bonus points to the candidate for asking this 
+question!) Cows produce more milk when they are happy – when they are more comfortable 
+being milked and when they are milked faster. 
+ 
+Candidate should synthesize the above data into a chart such as this: 
+ 
+# of cows 
+Units/cow 
+Total units 
+Market share 
+Potential Target 
+10,000 
+100 
+1M 
+> 50% 
+Competitor 1 
+7,500 
+80 
+600K 
+About 33% 
+Competitor 2 
+2,500 
+50 
+125K 
+< 10% 
+ 
+Candidate: So it looks like our potential target has 50% of the local dairy market in terms of number of 
+cows and 60% of the market in terms of total units of milk. 
+ 
+Phase 2: Revenue Streams 
+ 
+Interviewer: That’s right. And just to give you a little background on how things work in the dairy industry, 
+our potential target’s milk is sent to a processor who makes cheese, yogurt, butter, etc. The processor 
+must purchase all the milk produced by the dairy farms in its co-operative, and the price is set by the 
+government at $16 per unit. 
+ 
+Candidate: OK, so with the price fixed, and the processor required to purchase all the milk produced by 
+the farm, the limiting constraint on the revenue side is the amount of milk produced. Knowing that, I’d like 
+to think a little about costs. 
+
+
+===== PDF p78 =====
+Casebook | 2019-20 Edition 
+74 
+ 
+Phase 3: Cost Drivers 
+ 
+Interviewer: Great. So what are some of the fixed and variable costs that you think go into the dairy 
+farm? Keep in mind that all cows are owned by our client. 
+ 
+Candidate: I would imagine the main costs are cows, cow feed, machinery, machinery maintenance, 
+labor, SG&A, land, transportation, veterinarians, etc. 
+ 
+Interviewer: That’s a pretty good list. And you hit on something there. The primary variable cost is cow 
+feed, which is $10/unit. Fixed costs scale with the size of the farm (the # of cows) and the fixed costs for 
+our potential target are $4M per year. 
+ 
+Candidate: OK, so besides cow feed, I can assume all other variables costs are negligible? 
+ 
+Interviewer: That’s correct. 
+Phase 4: Profitability Analysis 
+Candidate should drive to the numbers. 
+ 
+Candidate: So profits are: 
+ 
+Profits = (1M units x $16 per unit) – (1M units x $10 variable cost/unit) - $4M fixed cost 
+= 
+$2M 
+ 
+Profit margin = $2M/$16M = 12.5% 
+ 
+Interviewer: How would you think about whether or not this is a good profit margin? 
+ 
+Candidate: I would like to compare it to that of other dairies. I would also compare this profit margin to 
+other companies in our client’s portfolio and consider how this level of profitability would affect the client’s 
+break even on this investment. 
+ 
+Interviewer: Well, knowing that the fixed costs scale with the size of the farm (# of cows). How does this 
+profit margin compare to competitors? 
+ 
+Candidate could synthesize the data he/she has collected into a chart such as the one below: 
+ 
+# of 
+cows 
+Total 
+Units 
+Total 
+Revenue 
+Scaling 
+Factor 
+Fixed 
+Costs 
+Variable 
+Costs 
+Profit 
+Profit 
+Margin 
+Potential 
+Target 
+10,000 
+1M 
+$16M 
+1 
+$4M 
+$10M 
+$2M 
+12.5% 
+Competitor 1 
+7,500 
+600K 
+$9.6M 
+7500/10000 
+= 75% 
+$3M 
+$6M 
+$0.6M 
+6.25% 
+Competitor 2 
+2,500 
+125K 
+$2M 
+2500/10000 
+= 25% 
+$1M 
+$1.25M 
+($0.25M) 
+(12.5%) 
+ 
+Candidate: The selling price and variable costs are the same, and therefore our potential target has a 
+higher profit margin, because they are able to produce more units of milk per cow. Competitor 1 is making 
+about half the margin and Competitor 2 is losing money. 
+ 
+You mentioned before that happier (more comfortable) cows produce more milk. Since we are seeing the 
+potential target successfully produce more units of milk per cow, perhaps its larger farm (with more space 
+
+
+===== PDF p79 =====
+Casebook | 2019-20 Edition 
+75 
+ 
+to move around, etc.) is part of the reason. I would hypothesize that this is a business where you will get 
+higher margins with a larger farm. Our client may want to consider acquiring more than just one business 
+or securing more land to expand. 
+ 
+Phase 5: Risk Assessment 
+ 
+Interviewer: OK, and what are some risks associated with acquiring this business? 
+ 
+Candidate may consider developing a mini-framework to categorize the different types of risks (e.g. cost 
+risks, revenue risks, regulatory risks, market risks, etc.) 
+ 
+Candidate: Some things that come to mind are: 
+ 
+● 
+Uncertainty about the acquisition price – competition for the deal may drive price up 
+● 
+Our client doesn’t have expertise in this sector (What if we can’t keep our cows happy enough to 
+produce this much milk?) 
+● 
+Revenue uncertainties: Government could change the price of milk or the co-operative policies 
+● 
+Cost uncertainties: price of feed, risk of cow disease 
+● 
+Risk of change in consumer demand and preferences (substitutes to milk, people may want to switch 
+to soy for health reasons, etc.) 
+ 
+Phase 6: Recommendation 
+ 
+Interviewer: Great, so please summarize your findings for our PE client. 
+ 
+A good answer should have a strong recommendation along with next steps and potential risks. 
+ 
+Candidate: The client should acquire the farm given its strong relative performance in both market share 
+(>50%) and profit margin (12.5%). The client should proceed by performing further due diligence on the 
+acquisition price (e.g. examine other profit multiple comparables) and carefully weighing the risks (e.g. 
+lack of experience, lack of synergies with other portfolio investments, macro trends in the dairy industry, 
+etc.) 

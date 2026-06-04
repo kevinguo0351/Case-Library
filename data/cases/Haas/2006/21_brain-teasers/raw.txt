@@ -1,0 +1,45 @@
+===== PDF p62 =====
+ 
+Haas Consulting Club Case Book 
+ 
+58  
+5.21. Brain Teasers 
+ 
+1. Calendar Cube 
+You have two cubes with 6 sides each (total 12 sides). You want to be able to show all 
+the days of the month with these two cubes (i.e. from 01, 02, 03, ... to 31). What digits 
+would you put on each cube? 
+Sample Answer: 
+0,1,2,3, 4 and 5 go on the one 0, 1, 2, 6, 7 and 8 go on the other. You will notice, that 9 is 
+missing...oh the suspense...the six can be flipped over to act as a nine as well. 
+ 
+2. Chopped Cube 
+You have a large cube made up of small cubes. Each side of the large cube is 10 small 
+cubes wide. How many small cubes make up the outside of the large cube? 
+Sample Answer: 
+Each side of the large cube has 100 small cubes. Remove two opposing sides of the large 
+cube, and you are left with four identical 9 x 8 sides. This gives you 288 small cubes. 
+Now add the small cubes from the two removed sides: 288 + 200 = 488 small cubes. 
+ 
+3. Exporting ping-pong balls: 
+How many ping pong balls can you fit in a Boeing 747 airplane? 
+ 
+Sample Answer: 
+First, approximate the size of the 747 as a large cylinder; let’s say it is 200 feet long and 
+20 feet in diameter.  Calculate the volume of this cylinder – πr2 × l.  Then estimate the 
+volume of a ping pong ball (1 inch sphere, for example) and calculate it’s volume 
+(1.33×πr3).  A division should give an answer.  In addition, one could estimate the air 
+space left when ping pong balls are packed in a cylinder and correct the answer (let’s say 
+25% space is wasted).  To get to more accuracy you could also ask if there are seats in the 
+plane or if the wings could also be filled with ping pong balls.  Don’t stop here – you can 
+always question why we are trying to fit ping pong balls in a 747 in the first place.  Or: Is 
+it possible to pack a ping pong ball machine and lots and plastic raw materials so that 
+many more balls can be made at the destination?    
+ 
+4. How many people fly in and out of JFK everyday?   
+Sample Answer: To answer the above question, you might say there are 5 runways at 
+JFK, a plane leaves/arrives every 15 minutes per runway and planes don’t fly out and 
+land between 11:00 P.M and 5:00 A.M.  So you get 5*18 *4=360 planes per day. 
+Assuming there are approximately 200 passengers per flight, we get 72000 passengers 
+per day or 26 million passengers per year. Note how the analysis used assumptions and 
+kept the numbers simple.   

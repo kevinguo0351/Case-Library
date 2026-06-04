@@ -1,0 +1,240 @@
+===== PDF p81 =====
+Utility Co.
+77
+Industry: Energy
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p82 =====
+Behavioral Questions
+78
+• Tell me about a weakness.
+Question 1:
+• Tell me about a time when you led a team through ambiguous circumstances.
+Question 2:
+
+
+===== PDF p83 =====
+Utility Co.
+79
+Our client is Utility Co., a US-based utility company that operates on the West Coast of the United States. Utility Co. 
+has been profitable over the last several years, and has seen relatively stable/favorable business conditions during 
+that time. However, 2 weeks ago, regulators began pressuring Utility Co. to reduce its costs in order to improve 
+prices/rates for customers. Utility Co. operates in a highly-regulated energy market, and is required to justify the 
+prices/rates it charges customers through an annual process that examines a provider’s cost structure and attaches 
+a “reasonable return” on top of its cost structure in order to arrive at prices/rates. The CEO of Utility Co., Larry 
+“Chipper” Jones, has engaged our team to identify where and how Utility Co. can reduce its costs by $500M.
+Prompt #1:
+•
+This is an interviewee led case, but will require the interviewer to nudge/direct the interviewee during the case. 
+The interviewee is expected to provide structured thoughts backed by evidence/experience. That may not always 
+mean that the interviewee’s initial hypothesis/best guess will align with where the case is going. The key is for the 
+interviewee to “earn” the slide/exhibit before they are provided.
+•
+Information to provide if asked:
+–
+Utility Co. provides both gas and electric services, but both businesses operate the same
+–
+Utility Co. is a fully-integrated utility, performing all functions of the utility value chain: generation, 
+transmission, and retail
+•
+Good structure will segment the utility by activities and consider:
+–
+Generation: cost of fuel (e.g. renewables, gas/coal, nuclear, etc.) and efficiency, efficiency/throughput (TPT) 
+of labor & assets (including maintenance/repairs and capital expenses)
+–
+Transmission/maintenance: cost of maintaining assets (e.g. power lines), construction of new assets, 
+TPT/efficiency of labor
+–
+Retail: call center costs & TPT/efficiency, cost of customer billing/payment, overhead/SG&A, 
+building/infrastructure costs, technology/systems
+Interviewer Guidance:
+
+
+===== PDF p84 =====
+Exhibit #1
+80
+FY18, West Coast Utility Industry Costs
+$B
+Revenues ($B)
+$25B
+30%
+33%
+50%
+44%
+20%
+22%
+$18B
+$20B
+Utility Co.
+100%
+Competitors/Peers
+Fuel/Inputs
+Maintenance
+& Construction
+Depreciation
+$25B
+Asset Age & Use 
+(Index)
+2.0
+2.0
+
+
+===== PDF p85 =====
+Interviewer guidance on Exhibits
+• Exhibit shows revenues and costs of the 
+client and competitors/peers
+• The candidate should calculate relative cost 
+differences and identify that the client’s 
+higher relative cost structure is driven by 
+maintenance & construction costs
+• Asset Age & Use Index should demonstrate 
+that the age and use of underlying assets 
+are not driving depreciation or 
+maintenance/construction costs differences
+• The client and competitors/peers have 
+similar revenues, but the client has higher 
+costs
+• Higher costs are driven by maintenance & 
+construction
+• Asset age & use are similar – demonstrating 
+that the client’s depreciation aligns w/ 
+competitors and that higher relative 
+maintenance & construction costs are not 
+driven by greater use/age
+• Good/Excellent candidates will ask about 
+maintenance & construction costs and 
+identify potential drivers: (1) TPT/efficiency 
+of maintenance & construction teams (2) 
+Labor cost rates & type (union vs. non-
+union) (3) Number of assets to maintain (4) 
+Geographical dynamics – Proximity of 
+assets to service centers
+81
+Exhibit #1 Guidance:
+Analysis:
+Financial Data, $B
+Client
+Competitor/Peer
+Rev
+$25 
+$25 
+Cost
+$20 
+$18 
+-Fuel
+$6 
+$6 
+-Main.
+$10 
+$8 
+-Depr.
+$4 
+$4 
+Profit
+$5 
+$7 
+
+
+===== PDF p86 =====
+Exhibit #2
+82
+Observed Daily Activity
+Average Time per Worker
+Wait for tasks/instructions (in the office)
+30 min
+Driving to job site
+15 min
+Wait for materials
+30 min
+Break
+30 min
+Wrench time
+150 min
+Lunch
+60 min
+Wrench time
+60 min
+Break
+30 min
+Wrench time
+30 min
+Drive time from job site
+15 min
+Team meetings/admin
+30 min
+Maintenance & Construction Activity Log/Observations
+Labor agreements mandate that employees receive at least 60 minutes per day for lunch + breaks
+
+
+===== PDF p87 =====
+Interviewer guidance on Exhibits
+• Exhibit shows time activity for maintenance and 
+construction workers
+• Candidate should identify wasteful activities that 
+drive costs, and begin to ask for information that 
+would provide potential savings. Please provide 
+the following when asked:
+– Cost rate ($/HR): $50
+– Workers: Workers per Job - 10, Annual 
+Jobs - 500K (assume 1 job can be 
+completed in 1 day)
+• Once candidate quantifies time savings 
+opportunities, ask them to brainstorm tactics for 
+reducing wasteful time
+• The candidate should identify the following time 
+activities as addressable opportunities: (1) 
+Waiting for tasks/instructions (2) Wait for 
+materials (3) Lunch (4) Breaks
+• Addressable opportunity = Wasted Time (180 
+min) – Mandatory Breaks/Lunch (60 min) = 120 
+min (2 hours)
+• Brainstorm on tactics for addressing wasteful 
+time:
+– Performance Mgmt.: Measure/incentivize 
+workers and teams based on # of job 
+completed (e.g. gamify by posting 
+standings, offer bonuses/awards for top 
+performing teams, etc.)
+– Planning/Management: Assign jobs the day 
+before (to reduce time waiting for 
+assignments), deliver materials prior to start 
+of job (rather than day of)
+83
+Exhibit #2 Guidance:
+Analysis:
+Hours Saved:
+Hours Saved/Worker
+2
+Workers/Job
+10
+Annual Jobs
+500K
+Annual Hours Saved
+10M
+Cost Rate:
+$/HR
+$50 
+Total $'s Saved:
+$500M
+
+
+===== PDF p88 =====
+Utility Co.
+84
+• Larry “Chipper” Jones is about to walk into the room and wants to hear our findings and thoughts. 
+What do you recommend?
+Recommendation 
+• Good candidates will take a moment to gather thoughts and state the following:
+– Utility Co. can save $500M by improving labor efficiency – reducing wasteful time among field 
+work crews
+– Tactics for reducing wasteful work: (1) Adjust incentives/performance management (2) 
+Ensure that jobs and materials are assigned/ready prior to worker arrival at job sites
+– Risks: (1) Push-back/adoption challenges w/ workers (2) Manager time – additional 
+performance management/measurement and materials coordination/verification processes & 
+responsibilities
+– Next-steps: (1) Working with HR/Tech teams to design performance mgmt. capabilities (2) 
+Work with HR/managers to craft messaging/roll-out of new performance mgmt. policies and 
+systems
+Interviewer Guidance:

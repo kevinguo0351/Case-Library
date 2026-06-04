@@ -1,0 +1,328 @@
+===== PDF p63 =====
+Dam Dam Dam
+Difficulty: Hard
+Industry: Energy
+Case Type: Non-Profit
+Written by Dylain Cohen ‘21
+Concepts Tested
+Case #5 : Dam Dam Dam
+• Math
+• Structure
+• Creativity
+We have just been approached by the council of Dracula, an isolated city of 900,000 people. The council is considering 
+whether to approve the request to allow a steel supplier to open a factory next to an important dam on the outskirts of the 
+city. What advice do we have for the council?
+Problem Statement Narrative
+The case focuses heavily on the use of the dam for hydroelectric power generation
+While candidates should certainly flag externalities such as waste and pollution as hinderances to the construction of the 
+factory, the main focus should be on the reduction of the water level of the dam causing lower power generation
+Case Notes
+59
+
+
+===== PDF p64 =====
+Dam Dam Dam
+Question #1 / Framework 
+What factors should we consider when deciding what advice to give the city of  Dracula?
+1.
+The steel factory
+a.
+Construction issues
+i.
+Pollution
+ii.
+Protests
+iii.
+Unions
+b.
+Bringing jobs to the residents
+i.
+During construction
+ii.
+During operation
+c.
+Generating tax revenue for the city
+d.
+Cost to build the factory
+e.
+Time to build the factory
+2.
+The city of Dracula
+a.
+Current uses of the dam
+i.
+Recreational – swimming, sailing etc.
+ii.
+Hydroelectricity generation
+iii.
+Water resource for residents
+b.
+Demographics of the residents
+c.
+Primary industries in Dracula
+d.
+Population growth
+Sample Framework
+While environmental concerns will likely dominate the 
+candidate’s framework, steer them in the direction of what 
+the water in the dam can be used for
+Guidance for Interviewer
+•
+Why is the dam important?: It is used to generate 
+hydroelectricity for the city
+•
+Are there other energy sources for the city: No
+•
+How long will the construction of the factory take: 1 
+year
+•
+On what basis should this decision be made: 
+Sustainability
+•
+Unemployment rate: 15%
+•
+City population growth rate: unknown
+•
+Why does the plant need to be built next to the dam?: 
+it needs to use the water for its manufacturing process
+•
+Are there other locations the plant is considering?: No
+Clarification Answers if  Asked 
+60
+
+
+===== PDF p65 =====
+Question #2
+Question
+Solution
+What are some of the major inflows and outflows into and out of the dam?
+Dam Dam Dam
+Inflows
+Outflows
+•
+Rain
+•
+Water from wastewater treatment plants
+•
+Runoff from nearby lakes/mountains
+•
+Evaporation
+•
+Hydroelectricity generation
+•
+Water for residents’ homes
+•
+Water for factories in the city
+61
+
+
+===== PDF p66 =====
+Question #3
+Question
+Solution
+We have been given some information by the city. Based on this exhibit, what are the inflows and outflows from the dam 
+per quarter?
+Dam Dam Dam
+Provide the candidate with Exhibit #1.
+The candidate should identify the following:
+•
+At the start of each quarter, the water level is 85 meters
+•
+During the quarter, due to rain, evaporation, and water usage by residents, the dam water level increases by 21 meters 
+to 96 meters
+•
+At the end of the quarter, as stated by the note, the water level falls by 21 meters due to hydroelectricity generation 
+and the quarterly cycle restarts (increasing by 21m and then decreasing by 21m)
+The candidate is not given information about which sources are an inflow or outflow so provide additional guidance as 
+needed (rain is the only inflow)
+Source
+Water Level Change
+(meters per month)
+Water Level Change
+(meters per year)
+Inflow vs outflow
+Water Level Change
+(meters per quarter)
+Rain
+7
+-
+Inflow
+21
+Evaporation
+-
+15
+Outflow
+3.75
+Hydroelectricity 
+generation
+-
+48
+Outflow
+12
+Water for residents
+-
+21
+Outflow
+5.25
+62
+
+
+===== PDF p67 =====
+Question #4
+Question
+Solution
+How much power does the dam generate per quarter and is this sustainable for the city?
+Dam Dam Dam
+Provide the candidate with Exhibit #2.
+•
+Given the fact that the water level in the dam is 96 meters at the end of each quarter, the candidate should realize that 
+the dam will generate 2,400,000 MWh of electricity (per quarter)
+•
+When asked, each resident in Dracula will require 2 MWh of electricity per quarter:
+900,000 residents x 2 MWh per quarter = 1,800,000 MWh per quarter
+•
+The dam therefore generates more electricity than what the city requires (i.e. 2,400,000 MWh vs 1,800,000 MWh)
+•
+Candidates should now realize that the steel factory may impact the water level of the dam – it will reduce the water 
+level by 3 meters per quarter (provide this information to the candidate)
+•
+Initially this additional water outflow won’t be a problem, but it does cause the outflows from the dam to exceed 
+the inflows (24 meters of outflow vs 21 meters of inflow)
+•
+After 9 quarters (i.e. 2.25 years), the water level will drop below 70 meters causing the dam to not generate 
+sufficient electricity for its residents. This assumes no population growth
+Quarter
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Water Level (m)
+96
+93
+90
+87
+84
+81
+78
+75
+72
+69
+66
+63
+63
+
+
+===== PDF p68 =====
+Conclusion
+The mayor of  Dracula would like to know the advice you have for them regarding the new factory
+•
+We would recommend against the construction of the 
+steel factory
+Recommendation
+•
+There are two primary concerns:
+•
+The steel factory will use water from the dam 
+causing the amount of hydroelectricity we 
+generate to fall below sustainable levels after 
+2.25 years
+•
+There are environmental concerns associated 
+with the factory such as chemical runoff and 
+spillage that may contaminate water in the dam
+Rationale
+•
+There may be significant pushback from residents 
+who view the factory as a source of employment
+•
+The steel factory could generate significant taxes for 
+Dracula
+•
+The rejection of the factory could signal to other 
+companies that doing business in Dracula is very 
+difficult
+Risks
+•
+Look at alternative sources of energy generation so 
+that the city is not solely reliant on the dam for 
+electricity
+•
+Discuss with the steel factory to see if it can find an 
+alternative source of water for its production process
+•
+Investigate whether water can be pumped into the 
+dam from a neighboring city so that the steel factory 
+can go ahead with its proposed plan
+Next Steps
+Dam Dam Dam
+64
+
+
+===== PDF p69 =====
+Exhibit #1 : Dam Water Level Changes Over a Year
+Note: Hydroelectricity generation occurs at the end of each quarter
+Dam Dam Dam
+84
+86
+88
+90
+92
+94
+96
+98
+Dam water Level 
+(meters)
+Q1
+Q2
+Q3
+Q4
+Source
+Water Level Change
+(meters per month)
+Water Level Change
+(meters per year)
+Rain
+7
+-
+Evaporation
+-
+15
+Hydroelectricity generation *
+-
+48
+Water for residents
+-
+21
+65
+
+
+===== PDF p70 =====
+Exhibit #2 : Energy Generation From Dam
+Dam Dam Dam
+Water Level (meters)
+Electricity Generation (MWh)
+≥ 110
+3,000,000 
+100 to < 110
+2,700,000 
+90 to < 100
+2,400,000 
+80 to < 90
+2,100,000 
+70 to < 80
+1,800,000 
+60 to < 70
+1,500,000 
+50 to < 60
+1,200,000 
+< 50
+900,000 
+66

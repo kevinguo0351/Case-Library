@@ -1,0 +1,240 @@
+===== PDF p101 =====
+Green Ride
+97
+Industry: Finance/Social
+Quantitative Level: Hard
+Qualitative Level: Medium
+
+
+===== PDF p102 =====
+Behavioral Questions
+98
+• Tell me about a time where a conflict didn’t go your way. 
+Question 1:
+• What do you feel is your greatest accomplishment?
+Question 2:
+
+
+===== PDF p103 =====
+Green Ride?
+99
+• Your client, Clean Ventures (CV), is an impact investment fund that focuses on 
+technologies with the potential to improve the environment or reduce humanity’s 
+carbon footprint. CV has been approached by PickUp, a ride hailing app, regarding a 
+potential investment. Management would like your help determining whether PickUp
+is a worthwhile investment for CV.
+Prompt #1:
+• The candidate should recognize that as an impact investor, their client will have 
+social impact goals in addition to financial goals.
+• If asked, let the candidate know that the impact goals are just as important as the 
+financial goals, and that impact goals are typically measured in tons of CO2 avoided.
+• The candidate’s framework should address both financial and social considerations.
+• Just North America for now
+• Allow the candidate to drive towards either the financial or social considerations and 
+direct them to either the next prompt or exhibit based upon that. They should be 
+expected to work through both problems.
+Interviewer Guidance:
+
+
+===== PDF p104 =====
+Prompt #2
+100
+• How would you go about valuing this opportunity? 
+Prompt #2:
+• Allow the candidate to brainstorm ideas
+• The candidate should identify things like payback period, DCF, NPV and other 
+financial methods of valuation
+• Once they are done brainstorming provide the following info:
+– Your client expects for there to be a liquidity event in 2022
+– In 2022, the overall market for ridesharing will be $15b
+– Your client believes Pickup will command a 20% market share
+– The profit margin for rideshare firms is 30%
+– Valuation multiples are expected to be 8x
+– The firm is being offered a 5% stake for $200M
+• Analysis: $15B x 20% = $3B x 30% = $900M x 8 = $7.2B x 5% = $360M value at 
+exit
+• This looks likely to be a worthwhile investment
+• Bonus points for identifying a need to discount the exit value in order to determine 
+NPV. We will not require the candidate to do this, identifying it is enough
+Interviewer Guidance:
+
+
+===== PDF p105 =====
+Exhibit #1
+Commuters by Type
+(selected cities in millions of passengers per day)
+2017
+2022
+101
+10%
+5%
+20%
+New York
+20%
+LA
+5%
+SF
+25%
+70%
+60%
+10%
+Rideshare
+5%
+55%
+15%
+Car
+Bike
+Public Transport
+20
+10
+15
+Car
+3%
+10
+52%
+New York
+30%
+55%
+70%
+SF
+1%
+25%
+Rideshare
+14%
+20%
+1%
+20%
+9%
+LA
+Bike
+Public Transport
+20
+15
+
+
+===== PDF p106 =====
+Interviewer guidance on Exhibits
+• Ask the candidate to evaluate the exhibit 
+without giving any specific instruction
+• The purpose of the exhibit is to evaluate 
+the investment’s potential impact on the 
+client’s social impact goals
+• The candidate should recognize that 
+additional information is needed to 
+calculate the CO2 impact
+• Some rounding is acceptable
+• Additional data:
+–
+10 miles per person per day commute
+–
+Cars – 25 lbs of CO2 per mile
+–
+Bikes – 0lbs of CO2 per mile
+–
+Public Transport – 2lbs of C02 per mile
+–
+Car Share – 2 passengers per car average
+• Passenger Numbers
+• 2017
+2018
+• Calculating the delta:
+•
+Cars: No change
+•
+Rideshare: 10 – 5.5= 4.5M passengers * 10 miles * 
+25lbs of Co2 = 1,125M / 2 = 562.5M lbs of CO2 per day
+–
+Note the rideshare has the added step of incorporating the 2 passengers per 
+car
+•
+Bike: 0 emissions so no change
+•
+PT: 13.15 – 16.25 = -3.1M passengers * 10 miles * 2lbs 
+of CO2 = -62 lbs of CO2 per day
+•
+Net: 500.5lbs CO2 per day increase
+•
+The candidate should note that this investment will 
+likely increase CO2 emissions which would go 
+against the firms core values
+102
+Exhibit #1 Guidance:
+Analysis:
+NYC
+SF
+LA
+NYC
+SF
+LA
+Car
+5
+5.5
+10.5 Car
+5
+5.5
+10.5
+Rideshare
+2
+2
+1.5 Rideshare
+4
+3
+3
+Bike
+1
+0.5
+0.75 Bike
+0.6
+0.1
+0.15
+PT
+12
+2
+2.25 PT
+10.4
+1.4
+1.35
+Total
+20
+10
+15 Total
+20
+10
+15
+
+
+===== PDF p107 =====
+Green Ride
+103
+• You are about to walk into the investment committee meeting at your client. What is 
+your recommendation to the committee?
+Recommendation 
+• While the investment appears worthwhile from a financial perspective it does not fit in 
+with the firm’s social goals
+• Potential Risks/Next Steps:
+– Perhaps the cities not selected will have different ridership changens
+– How reliable is the forecasting
+– How will autonomous vehicles affect our forecasts
+Interviewer Guidance:
+
+
+===== PDF p108 =====
+Evaluation Criteria
+104
+Candidate Level
+Assessment
+Average Candidate
+Will get through the case, but will need some nudging 
+along the way. Their framework will be relevant, but not 
+that creative The math also may take some time. 
+Good Candidate
+Will get through the case with very little guidance. Their 
+framework will be strong and somewhat creative. They 
+should move through the math at a reasonable pace. 
+They will identify a reasonable risk and next step or two
+Excellent Candidate
+Will require no nudging to get through the case. Their 
+framework will be both strong and creative. They will 
+move through the math quickly and will succinctly 
+summarize the key points of the case with relevant and 
+actionable risks and next steps.

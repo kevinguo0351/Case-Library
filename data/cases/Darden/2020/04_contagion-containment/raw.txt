@@ -1,0 +1,315 @@
+===== PDF p82 =====
+78
+Contagion Containment
+BCG | Round 2 | Non-profit
+
+
+===== PDF p83 =====
+79
+BCG | Round 2 | Non-profit
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+CONTAGION CONTAINMENT
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  Te l l  m e  a b o u t  
+a  f a i l u r e .
+2 .  H o w  h a v e  y o u  
+u s e d  d a t a  t o  
+b r i n g  c l a r i t y  t o  
+a n  a m b i g u o u s  
+p r o b l e m ?
+UVA Darden School of Business 2020-21 case book
+Prompt:
+Your client is the International Olympic Committee (IOC), and the Summer Olympics are a couple 
+months away. A viral outbreak has occurred in a country across the globe and has begun to spread. 
+There is a real threat that the outbreak reaches pandemic levels and arrives in the host country within a 
+few weeks or months. Should the outbreak reach the host country, there is an 80% probability of a low-
+severity outbreak and a 20% chance of a high-severity outbreak. The modern Olympics, which date to 
+1896, have been cancelled previously only during wartime. Recently, the Rio Games in Brazil went on 
+as scheduled in 2016 despite the outbreak of the Zika virus.
+Because countries bear a large cost to host the Olympics, the IOC has decided to be particularly 
+cautious about the host country bearing significant unexpected costs. However, the IOC is unsure 
+whether to cancel or move forward with the Olympics and would like your firm’s insight on how they 
+should proceed.
+
+
+===== PDF p84 =====
+80
+Clarifying Information: Provide only if asked.
+1.
+Objective: Make a decision on whether to proceed or not by considering minimizing unexpected economic costs to host country while 
+maximizing IOC revenue.
+2.
+Timeline: The IOC must make a decision today regarding the event.
+3.
+The IOC: The International Olympic Committee (IOC) is a not-for-profit independent international organization that is committed to 
+building a better world through sport. While the IOC may consider input from the host country, the IOC is the decision-maker.
+4.
+The Virus: Like the seasonal flu, this virus is an infectious respiratory illness. It can spread from person to person through droplets in 
+the air from an infected person coughing, sneezing or talking. However, unlike the flu, no vaccine currently available. Research is being 
+conducted but the timeline is uncertain. 
+5.
+Host Country: The host country is a developed nation. GDP is 3 trillion.
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+UVA Darden School of Business 2020-21 case book
+
+
+===== PDF p85 =====
+81
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+How to Move Forward:
+Key insights include: the types of costs that a host country may bear with an epidemic; quantifying impact of decision and irrelevance of sunk cost; and, impact on 
+human lives.
+To move forward, the interviewee should call the potential financial repercussions of the decisions to cancel or proceed.
+UVA Darden School of Business 2020-21 case book
+Factors for IOC
+Financial
+Non Financial
+Proceed 
+•
+Sources of revenue: sponsorships, tv rights, 
+ticket sales, licensing 
+•
+Outstanding costs: promotion, unfinished 
+construction
+•
+Risk of lack of athlete participation
+•
+Potential lives lost
+•
+Relationship risk with current and future host 
+countries
+•
+Public relations risk
+Cancel
+•
+Sunk costs (and that they are irrelevant)
+•
+Existing insurance policy to soften blow and 
+recoverable cost
+•
+Impact on athletes from no competition
+•
+(Un)happiness of attending Olympics
+•
+New precedent set
+
+
+===== PDF p86 =====
+82
+Question 1 
+•
+What are the sources of revenue for the IOC for each Olympics? What would they keep/lose if they elected to cancel 
+the Olympics?
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+Exhibit or Question Guidance:
+Have candidate provide ideas for sources of revenue before providing the exhibit. After their initial thoughts, provide the precise numbers for 
+each category. A strong candidate will provide some ideas about what percent of each category might be secure regardless of 
+cancel/proceed decision based on potential contract clauses.
+•
+Sponsorships (2.1 billion) are through contractual agreements. 75% of contracts have already been signed and the IOC will keep half of 
+the already secured funds if the event is cancelled. 
+•
+Ticket sales (1.8 billion) are non refundable. 85% of tickets have already been sold.
+•
+Licensing (190 million) are for use of the logo. The IOC will retain the entire amount.
+•
+TV rights (3.9 billion) are on a contract. A clause in the contracts permits that you keep 40% of the contract agreement.
+Solution:
+If proceed, revenue = 2.1B + 1.8B + .19B + 3.9B =  7.99 billion can rounded to 8 billion, if asked
+If cancel: revenue = (2.1B*.75*.5) + (1.8B*.85) + (.19B) + (3.9B*.4) 
+= 787.5M + 1.53B + 190M + 1.56B = 4.0675 billion can be rounded to 4 billion, if asked
+UVA Darden School of Business 2020-21 case book
+
+
+===== PDF p87 =====
+83
+EXHIBIT 1
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+IOC Revenues for Upcoming Olympics
+UVA Darden School of Business 2020-21 case book
+ $-
+ $1
+ $2
+ $3
+ $4
+ $5
+Sponsorship
+Ticket sales
+Licensing
+TV rights
+Billions
+
+
+===== PDF p88 =====
+84
+Question 2
+•
+What percent certainty around the virus making it to the host country would the IOC need in order to 
+proceed with the Olympics?
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+Exhibit or Question Guidance:
+The probability of the virus reaching the host country at all is uncertain.
+UVA Darden School of Business 2020-21 case book
+IOC
+Expected value of loss * x = Expected value of gain * (1-x)
+$4 billion * x = $8 billion * (1-x)
+4B*x = 8B – 8B*x
+12B*x = 8B
+X = 2/3 = 66% to be indifferent about hosting relative to the virus arriving
+
+
+===== PDF p89 =====
+85
+External (to IOC)
+•
+Impact to host country 
+•
+Lives lost
+•
+Fan dissatisfaction
+•
+Impact on athletes
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+UVA Darden School of Business 2019-20 case book
+Best candidates display:
+Creativity in risks identified and will pull in analysis from question 1
+Strong structure – other possible frameworks include: Current vs. Future, Known vs. Unknown
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Internal (to IOC)
+•
+Reputational risk to IOC
+•
+Relationship risk with current and future host countries
+BRAINSTORMING
+What are the other risks to IOC associated with the IOC’s decision to proceed or not?
+
+
+===== PDF p90 =====
+86
+Question 3 (optional)
+•
+The client wants to understand the economic impact of a potential outbreak on the host country because of the 
+relationship risk with this host country and future ones. What factors would you consider?
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+Exhibit or Question Guidance:
+A strong candidate should have a solid framework to work through this mini-brainstorm:
+•
+Healthcare costs: efforts to contain or limit outbreaks (i.e. tracing contacts, implementing quarantines, and isolating infectious cases), 
+increasing demand for consumables: medical supplies, personal protective equipment, and drugs.
+•
+All other sectors of the economy—agriculture, manufacturing, services—face disruption, potentially leading to shortages, rapid price 
+increases for staple goods, and economic stresses for households, private firms, and governments.
+Once the candidate has identified the factors of GDP that might be impacted, tell them that:
+•
+If the pandemic spreads to the host country, economists have predicted a low-severity pandemic could reduce GDP by up to 0.05% 
+percent, whereas a high-severity event could reduce GDP by 0.2%  percent.
+•
+When asked, tell the candidate to assume the annual GDP of the host country is 3 trillion.
+Low-severity outbreak GDP impact = 0.05% of 3 trillion = 1.5 billion loss
+High-severity outbreak GDP impact = 0.2% of 3 trillion = 6 billion loss
+UVA Darden School of Business 2020-21 case book
+
+
+===== PDF p91 =====
+87
+CONCLUSION
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T
+UVA Darden School of Business 2010-20 case book
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+Go or no go are both acceptable answers, but the candidate should have a clear argument why.
+Risks:
+•
+Financial risks should be outlined.
+•
+Other non-financial risks should be noted: impact on athletes, impact on human lives, etc.
+Next Steps:
+•
+Recommended next step should clearly map to a risk identified.
+The IOC must make a decision today and would like to hear your recommendation.
+
+
+===== PDF p92 =====
+88
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p93 =====
+89
+EXHIBIT 1
+0 4  |  C A S E :  C O N TA G I O N  C O N TA I N M E N T  - A P P E N D I X
+IOC Revenues for Upcoming Olympics
+UVA Darden School of Business 2020-21 case book
+ $-
+ $1
+ $2
+ $3
+ $4
+ $5
+Sponsorship
+Ticket sales
+Licensing
+TV rights
+Billions

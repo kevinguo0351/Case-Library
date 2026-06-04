@@ -1,0 +1,52 @@
+===== PDF p107 =====
+Business Type Cases (abbreviated answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+103 
+You work at a large company, which has many divisions.  Each division uses different brands of 
+computers and software packages.  As the new head of procurement at corporate headquarters, 
+how would you go about convincing the divisions to adopt a common standard if you do not have 
+the power or authority to force the change? What advantages would there be if there were a 
+unified standard? 
+ 
+One Approach: 
+ 
+The obvious answer is that there would be cost savings from buying computers in bulk.  Imagine 
+each division needs 25 computers and each picks up the phone and calls around.  Not much 
+buying power.  If you were instead representing the entire company and called around for quotes 
+on 1,000 computers, you could probably get a much better price.  This is a simple marketing 
+concept: power of the buyer.  This would also extend to software licenses, etc. 
+ 
+However, the better answer would then examine more closely the true cost of computer usage.  
+While there would indeed be savings from buying in larger numbers, the majority of cost 
+associated with a computer appears after you open the box.  Just think back when you bought 
+your computer for Columbia - in addition to the actual computer you had to buy software, cables, 
+PC-cards, etc.  And imagine if you had to pay $$$ each time you visited the computer desk.  And 
+don’t forget all the training costs associated with teaching people how to use their computers, etc. 
+ 
+In a large corporation, the major cost associated with computers is probably from tech support.  
+A $5k laptop is nothing compared to the annual salary of a tech support guy.  In this hypothetical 
+company, apparently each division has its own help desk.  Corporate could consolidate these help 
+desks and save money that way.  If you remember queuing theory from Operations, you could 
+argue you would need fewer tech support people since each could now help any employee.  
+ 
+So if the division agreed to follow a unified standard they would receive substantial benefits.  
+They would spend less on the hardware and software because of increased buying power.  They 
+would also save money from not having to support their own help desks.  In addition to cost 
+savings, they would probably also receive quicker and better computer support. 
+ 
+EXTRA: What my interviewer seemed to really like is that I used as a framework the computer 
+situation at my previous employer.  I worked at a large firm and my division had its own 
+computer policy.  The other divisions in the company used Compaqs and Win95.  However, my 
+division wanted to use IBM Thinkpads.  The compromise was that we would use Compaqs and 
+OS/2.  The rumor was that the golfing buddy of our division 
+president was high up in IBM.  We had our own help desk, which had to develop special 
+applications that would work in OS/2, etc.  The line was always busy between 9 am and 1 PM 
+since that was when we needed to place in trades (and therefore use our computers).  And after 1 
+PM the help desk usually just sat around.  For a framework I just used the above points in 
+reference to what was going on at my old firm. 

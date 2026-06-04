@@ -1,0 +1,351 @@
+===== PDF p113 =====
+109
+ Athelas Insurance company is the leading provider of health insurance in its state. The 
+company has consistently been the lowest cost player in that state. This has enabled them 
+to capture 70% of the state’s insured population (4 Mn insured individuals).
+ Recently, Athelas’ senior management has been looking at growth opportunities, and they 
+do not think geographic expansion is a viable option given their expertise. That said, they 
+have been looking to acquire one of the state’s largest hospitals, Apollo Inc., which they 
+think is an attractive target.
+ Athelas Insurance has hired you to evaluate the investment and suggest a future course of 
+action.
+ Industry: Healthcare
+ Difficulty: Hard
+ Format: Interviewee led
+ Concepts Tested: Basic Valuation, 
+M&A, Health industry knowledge
+Case 6: Athelas Insurance, Round 2
+Problem Statement
+Type of Case
+Interviewer Guidance
+ This case is designed to test the candidate’s ability to 
+perform a basic valuation, understand the financial 
+interests of both sides in an acquisition and evaluate 
+ways of creating value from an acquisition
+ Allow the candidate to lead the interview, but ensure 
+they don’t jump the gun to value creation (synergies) 
+without understanding the current position.
+
+
+===== PDF p114 =====
+110
+Interviewer Guide to Case and Exhibits
+Clarifying Information on Request
+Clarifying Information and Case Guidance
+ What was Athelas’ aim in pursuing the deal? 
+They don’t have a particular aim, they are 
+looking to you to evaluate all synergies.
+ What does Athelas want to know? They want to 
+know how much to bid and what to do post-
+acquisition (if they do it)
+ Background of Apollo Inc. - Is among USA’s 
+most reputed general hospitals, known for it’s 
+high quality of care and expertise across all 
+major areas of care. Most patients are extremely 
+loyal and rarely use other hospitals.
+ Does Athelas have a financial goal? - They are 
+looking for a 3 year ROI of 30%. Ignore 
+discounting for this calculation.
+ Questions on Athelas financials – We will get 
+into it later
+Framework - This case’s aims are – how much 
+should they be willing to pay, why, and what they 
+should do post-acquisition. Push back when 
+frameworks don’t address it.
+Valuation (Exhibits 1-3) - Interviewees could start 
+the case with any aspect of Apollo’s stand-alone 
+value (Revenue, costs, growth, discount rate). In 
+this case, please show them one of Exhibits 1,2 
+or 3 depending on what the question is.
+Post-valuation – Once the candidate figures out 
+the $4 Bn valuation and therefore the $1.2 Bn 
+profit needed over 3 years, we need to go to 
+synergies which will need to be at least $450 Mn.
+Once we get there, we brainstorm the various 
+synergies and evaluate the one that is feasible. 
+This is when we go to exhibit 4; push the candidate 
+to try and calculate how many procedures they 
+need to convert to get to $450 Mn
+
+
+===== PDF p115 =====
+111
+ How much should Athelas offer for Apollo hospitals Inc.?
+ How much do they need in synergies for the ROI to make sense?
+ How many procedures do they need to convert to Apollo for the deal to make sense?
+Math Question
+Math Questions and Solutions (1 of 2)
+1.
+The amount they should offer is $4 Bn
+ 𝐹𝑖𝑟𝑚𝑉𝑎𝑙𝑢𝑒=
+ଶ଴ଵହி௥௘௘௖௔௦௛௙௟௢௪
+(஽௜௦௖௢௨௡௧௥௔௧௘ିீ௥௢௪௧௛௥௔௧௘) = 
+$ ସ଴଴ெ௡
+ଵଶ% ିଶ% = $4 Bn
+ 𝐹𝑖𝑟𝑚𝑉𝑎𝑙𝑢𝑒= EBIT * Average multiple = $750 Mn * 5.33 = $4 Bn
+2.
+They need $1.2 Bn over 3 years. On a standalone basis they expect to get $750 Mn over 3 years 
+($250 Mn * 3). So they will need $450 Mn in synergies over 3 years to meet their ROI target.
+3.
+Assuming the premiums and the hospital’s costs to serve patients don’t change. They need to convert 
+112.5k new procedures over 3 years for them to hit their ROI limit. Refer Calculations on next page
+Math Solution
+
+
+===== PDF p116 =====
+112
+Math Solution
+Math Questions and Solutions (2 of 2)
+Current Pricing scheme
+Proposed Pricing scheme
+Revenue
+Cost
+Profit
+Revenue
+Cost
+Profit
+Apollo 
+patients
+Apollo Hospitals
+$10.0 K
+-
+$10.0 K
+$10.0 K
+-
+$10.0 K
+Insurer
+-
+$8.5 K
+-$8.5 K
+-
+$9.0 K
+-$9.0 K
+Total
+$10.0 K
+$8.5 K
+$1.5 K
+$10.0 K
+$9.0 K
+$1.0 K
+Converted 
+patients
+Hospital
+-
+-
+-
+$10.0 K
+$2.0 K
+$8.0 K
+Insurer
+-
+$7.0 K
+-$7.0 K
+-
+$9.0 K
+-$9.0 K
+Total
+-
+$7.0 K
+-$7.0 K
+$10.0 K
+$11.0 K
+-$1.0 K
+Loss on current 
+patients
+$ 500 lost per procedure
+Times
+150k Patients times 3 years
+$ 225 Mn
+New patients needed 
+to Reach ROI target
+($450 Mn needed to meet Target + $225 Mn losses) 
+divided by
+($6.0 K in gains per patient)
+112,500
+Patients 
+over 
+
+
+===== PDF p117 =====
+113
+ How can they make up the additional $450 Mn that they need to meet the ROI target for 3 years?
+Brainstorming Question
+Brainstorming Questions and Solutions
+ There are three broad options:
+ Reduce costs at the hospital – Is probably not realistic, why would an insurance company be 
+the best to reduce costs of providing service at a hospital?
+ Reduce costs for the insurance company – They could pay the hospital less, but this equally 
+reduces revenues at the hospital. Will it attract new consumers either? Probably not given they 
+don’t see any of the benefit.
+ Increase revenues for the insurance company/hospital – We can do this by setting more 
+attractive pricing at Apollo Hospital which can bring in new lives, it can also convert current 
+procedures insured by Athelas to Apollo. The second part can be evaluated, the first is valuable 
+but we don’t have the numbers.
+Brainstorming Solution
+
+
+===== PDF p118 =====
+114
+Exhibit 1: Apollo Hospital – Valuation analysis
+Apollo Hospital Inc. – Free Cash flows (2015)
+Net Income
+$250.0  Mn
+EBIT
+$750.0  Mn
+Taxes
+$300.0  Mn
+NOPAT
+$450.0  Mn
+Depreciation and Amortization
+$175.0  Mn
+Change in Net Working Capital
+$25.0  Mn
+Capital Expenditure
+$200.0  Mn
+Free Cash Flow
+$400.0  Mn
+Discount Rate
+10%
+Growth Rate
+0%
+Approach 1 – Cash Flows
+Approach 2 – Multiples
+Recent Hospital 
+acquisitions
+EBIT 
+Multiple
+Alpha Hospitals Inc.
+6.11
+Beta Hospitals Inc.
+4.44
+Gamma Hospitals Inc.
+5.33
+Delta Hospitals Inc.
+5.45
+Average
+5.33
+
+
+===== PDF p119 =====
+115
+Exhibit 2: Apollo Hospital – Revenue breakdown
+-
+-
+$1.0 K
+$0.5 K
+$1.5 K
+$4.0 K
+$6.0 K
+$24.0 K
+$14.5 K
+$8.5 K
+-
+$5.0 K
+$10.0 K
+$15.0 K
+$20.0 K
+$25.0 K
+$30.0 K
+Medicaid
+Medicare
+Batna Inc.
+Americare
+Inc.
+Athelas Inc.
+$ per procedure
+Insurer
+Avg $ paid by insurance
+Avg $ paid by patients
+Average $ per procedure received by Apollo Hospital
+Total # of 
+procedures
+75 K
+75 K
+100 K
+100 K
+150 K
+Total 
+Revenue
+$0.30 Bn
+$0.45 Bn
+$2.50 Bn
+$1.50 Bn
+$1.50 Bn
+
+
+===== PDF p120 =====
+116
+Exhibit 3: Apollo Hospital – Cost breakdown
+Salaries and 
+benefits, $4.3 Bn
+Supplies, $0.7 Bn
+Pharmaceuticals, 
+$0.6 Bn
+Facilities, $0.4 Bn
+-
+$1.0 Bn
+$2.0 Bn
+$3.0 Bn
+$4.0 Bn
+$5.0 Bn
+$6.0 Bn
+$7.0 Bn
+Apollo Hospital 2015 costs
+
+
+===== PDF p121 =====
+117
+Exhibit 4: Apollo hospital – Occupancy data
+ Apollo Hospital has significantly excess capacity, they can absorb up to 200k excess patients without 
+having to expand their facilities.
+ At current capacity, it costs Apollo a marginal $2,000 to perform every incremental procedure
+ We are investigating the below pricing scheme to convert non-Apollo procedures to Apollo
+Research highlights
+Current contract
+Proposed Contract
+Average at Non-
+Apollo facilities
+Amount Contributed 
+by Patient
+$8.5k
+$9.0k
+$7.0k
+Amount paid to 
+Apollo Hospital by 
+Athelas
+$1.5k
+$1.0k
+$0.5k
+
+
+===== PDF p122 =====
+118
+¾
+Recommendation
+Bid $4.0 Bn for Apollo hospital
+Change the contract to convert procedures to Apollo
+¾
+Risks
+We need to increase procedures performed by ~20% 
+over 3 years; response from medical staff
+What is the nature of these new patients? Do we have 
+the right capacity? Different specializations, etc.
+Recommendation
+Conclusion
+¾
+Completing the case in 30-40 minutes requires excellent structure and math ability
+¾
+Brings out the best opportunities to create value through the acquisition
+¾
+Recognizes the risks involved in expanding the services offered by a high-quality hospital
+¾
+Recognizes the cultural implications of asking doctors to perform 20% more surgeries
+Excellent Case Answers
+¾
+Investigate the surgeries that are most 
+likely to convert
+¾
+Investigate if the better contract with 
+Apollo will attract more people to the 
+insurance products
+Next Steps

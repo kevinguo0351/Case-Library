@@ -1,0 +1,40 @@
+{
+  "case_id": "Darden_2020_03_the-big-shot",
+  "school": "Darden",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2020.pdf",
+  "idx": 3,
+  "case_name": "The Big Shot",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Media/Entertainment",
+  "difficulty": null,
+  "pdf_page_start": 67,
+  "pdf_page_end": 81,
+  "n_pages": 15,
+  "exhibit_pdf_pages": [
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    79,
+    80,
+    81
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p069.png",
+    "exhibits/exhibit_p070.png",
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png",
+    "exhibits/exhibit_p073.png",
+    "exhibits/exhibit_p074.png",
+    "exhibits/exhibit_p075.png",
+    "exhibits/exhibit_p079.png",
+    "exhibits/exhibit_p080.png",
+    "exhibits/exhibit_p081.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2020\\03_the-big-shot"
+}

@@ -1,0 +1,259 @@
+===== PDF p257 =====
+Problem Statement
+Case 22: PD Gas Buyout, Based on BCG & 
+McKinsey (Round 2)
+• Your client is PD Inc., a large US based grocery supermarket chain. PD Inc. also runs 999 gas stations 
+next to its retail stores. 
+• Last week, PD Inc. was approached by a large US based oil and gas distributor which offered to buy 
+out the entire portfolio of 999 gas stations from your PD Inc. 
+• Your PD Inc. immediately reached out to you and has sought your advice on whether to sell these gas 
+stations or not and what factors to consider when making this decision. 
+ Industry: Retail
+ Difficulty: Hard
+ Format: Divestiture 
+ Concepts Tested: Synergy / 
+Revenue Driver Analysis
+This is a interviewee driven case in the first half and an interviewer 
+driven case in the second half. A few answers to general questions: 
+PD Inc. has not been offered a specific price by the buyer. Interviewee 
+can be told to consider price as part of his recommendations though. 
+The key is to first decide whether the PD Inc. should sell or not. 
+PD Inc. cannot choose to sell a part of the portfolio of gas stations. It will 
+either sell the entire portfolio of 999 gas stations or nothing at all. 
+No information on competition is available. 
+No information on the buyer’s scale, geographic presence or reason to 
+buy is available 
+PD Inc.'s stores are spread across the United States. All stores have a 
+gas station next to them. 
+
+
+===== PDF p258 =====
+254
+Possible Framework
+Possible Framework
+Profit = Revenue – Costs
+Revenue:
+•
+Direct Sales – Gas station
+•
+Cross-Selling between grocery and gas station
+•
+Price:
+•
+# of gas stations
+•
+Price per gallon
+•
+Any trends
+•
+Loyalty programs
+Competition:
+•
+Price war
+•
+Consolidation
+Costs:
+•
+Fixed Cost
+•
+Facility and Equipment
+•
+Approval and Licensing
+•
+Insurance
+•
+Utilities
+•
+Marketing
+•
+Variable Cost
+•
+Fuel
+•
+Labor
+Customers:
+•
+Trends in buying – gas because of groceries or 
+vice versa
+
+
+===== PDF p259 =====
+255
+Answers to Additional Questions
+•  A good candidate will identify that initially, PD Inc. needs to value it 
+gas station business based on cash-flows and also identify the 
+synergies with the retail stores. Information to be provided upon 
+request (in Millions):
+Revenue for each gas station each year: 
+60
+Cost of fuel sold at gas stations (COGS): 
+59.98
+Cost of licensing fees paid to distributor: 
+3.02
+Cost of rent, land, and equipment:
+2 
+Cost of labor, utilities, insurance, and
+miscellaneous
+1
+Net Profit
+-6
+• Really good candidates identify that that the Gross Margin is 
+extremely low either because it’s a very low margin business or 
+because PD Inc. is discount prices on purpose to attract customers. 
+In this case, PD Inc. is using its fuel stations as loss leaders 
+• Candidate should ideally then enquire about retail revenue and 
+synergies. 
+Information for Candidates to be Provided Upon 
+Request
+• PD Inc. has been making losses in the 
+gas station business since the past 3-4 
+years 
+•There is no information on the growth of 
+the fuel and the retail business for PD Inc. 
+•The gas industry as a whole has a similar 
+cost structure 
+•The gas station has no additional 
+revenue streams 
+(carwash/repair/convenience store) 
+•PD Inc. has no other business verticals 
+other than fuel and grocery retail 
+Clarifying Information and Case Guidance
+
+
+===== PDF p260 =====
+256
+• For revenue on the retail (grocery) side, upon request, candidate should be told that fuel station revenue accounts for 20% of overall 
+revenue. Hence, retail revenue will be $240 million per store. 
+• Upon request, candidate should also be told that we are very proud of the way we manage our suppliers and have fairly high profits 
+margins relative to the retail (grocery) industry. The margins on the retail (grocery) side are 16.66%. Candidates intuitively good with 
+numbers will identify this as the fraction 1/6. if they don’t, tell the candidate to consider it as 1/6. 
+• The consolidated revenue and cost figures for PD Inc.'s business are given below: 
+Revenue Side
+Solution Frameworks/Guides
+Revenue (in $M)
+Cost (In $M)
+Profit (In $M)
+Gas Stations
+60
+66
+-6
+Retail Stores
+240
+200
+40
+Total
+300
+266
+34
+After Sale
+204
+170
+34
+
+
+===== PDF p261 =====
+257
+• Potential synergies are additional walk-ins to retail stores, joint loyalty program, supply chain synergies (cheaper fuel for 
+PD Inc.'s trucks, same trucks used to deliver goods etc.) 
+• Additional information on synergies: 
+-15% of Inc.'s customers on the retail side come to buy groceries only because they came to the gas station to fill up gas 
+-40% of PD Inc.'s customers on the retail side come to buy groceries but also end up buying gas at the gas stations later 
+(i.e., they don’t really care if there was no gas station next door) Candidate should realize that the 15% of the customers 
+who came to buy gas first are the one which account for synergies on the retail side directly attributable to the gas station
+Candidate should now realize that the losses on the fuel business are getting covered by the synergies from the 
+fuel business on the retail side. Hence, it is a wash. 
+Synergy Side
+Solution Frameworks/Guides
+Revenue (In $M)
+Cost (In $M)
+Profit (In $M)
+15% Synergy 
+Impact
+36 (15% of 240M)
+30
+6 (16.66% or
+
+
+===== PDF p262 =====
+258
+• Now is when you turn the case into a discussion and ask the candidate to evaluate the positive and negatives for PD Inc. 
+if it chose to sell the business. It is important to keep questioning the candidate’s assumptions. 
+• It is important to keep asking candidate for more positives and negatives and question the candidate. “Are there really 
+any negatives from the sale since there seems to be no impact on profits and for a business, profits are the best metric to 
+gauge impact?”, “Why will the 15% customers not come to the stores any more?” Etc. 
+Positives and Negatives from Sale
+Solution Frameworks/Guides
+Positives from Sale
+Increased cash flow due to cash received from sale 
+Lesser working capital (reduced by $5.5 B --- Annual cost of $66Bn divided 
+by 12 months = approx. $5.5 B in working capital) 
+Increased focus on existing business 
+Leaner operation with higher margins (refer to next slide for details) 
+Negatives from Sale
+Drop in economies of scale as PD Inc. no longer buys $30 B worth of 
+goods. This also results in excess warehouse, transportation, store 
+capacity hence downsizing costs 
+These 15% customers will go to competition which will get economies of 
+scale hence lower prices and this may result in further erosion of our 
+customers
+Stock market may react negatively to drop in revenue 
+May impact inventory turnover etc. 
+
+
+===== PDF p263 =====
+259
+•  Most candidates will assume that PD Inc will lose the 15% of the customers once it sells the business but it is important 
+for them to identify the exact reason why PD Inc will lose these customers. 
+•  Question the candidate’s assumption by stating that the gas station is still next door so why will the customers stop 
+coming. 
+•  The correct reason is that PD Inc is currently selling the fuel at discounted prices to get customers to come to the fuel 
+station and then buy groceries but the buyer has no incentive for doing so and is likely to raise prices to market levels and
+hence the customers will stop coming to the gas station. 
+•  You can further question the candidate by showing him the resulting expected impact on margins after selling the 
+business. The actual impact will differ as this margin does not include downsizing and other costs. These figures are given 
+to candidate only to see if he/she can realize that the actual figures may be very different because of the negatives listed in 
+previous slide. The margins as %age of revenue are given below: 
+Loss of Revenue from Transaction
+Solution Frameworks/Guides
+Revenue
+Cost
+Profit
+Pre-Sale
+100%
+86.66%
+11.33%
+Post-Sale
+100%
+83.33%
+16.66%
+
+
+===== PDF p264 =====
+260
+An ideal recommendation is to advise PD Inc to sell the 
+business but contractually obligate the buyer to three 
+conditions: 
+The buyer will keep all fuel stations open/seek approval 
+before closing stations 
+The buyer will not open any competing establishment 
+(convenience stores) at the fuel stations 
+The buyer will keep the prices discounted by allowing PD 
+Inc to subsidize the prices. (the key is to realize that PD Inc
+does not have to discount so heavily since fuel is highly 
+price elastic. Even if the buyer sells fuel at prices 5% below 
+competition (assuming competition sells to entirely 
+breakeven, i.e., at $66 bn, buyer will sell it at ~ 63 bn) the 
+customers will still come. PD Inc. can reimburse ~ $ 3 B to 
+buyer and hence still end up making a net profit of ~ 3 B on 
+the retail side along with getting benefits from all the 
+positives of selling the business. 
+Recommendation
+Conclusion
+1. Conduct a market survey to test price 
+sensitivity of customer 
+2. Discuss the stipulated conditions with buyer. 
+The 40% of customers that end up buying fuel 
+can be used as a leverage 
+3. Discuss potential for co-branded loyalty card to 
+further increase customer overlap 
+Next Steps

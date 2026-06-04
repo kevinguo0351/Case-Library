@@ -1,0 +1,176 @@
+===== PDF p169 =====
+Casebook | 2019-20 Edition 
+165 
+ 
+40. Great Burger (McKinsey Mock, CPG/Retail, M&A, Other) 
+ 
+Interviewer: Our client is Great Burger (GB), a fast-food chain competing with the likes of McDonald’s, 
+Wendy’s, Burger King, etc. GB is the fourth largest fast-food chain worldwide, measured by number of 
+stores in operation. As most of its competitors do, GB offers individual food items and “combos” for 3 
+meals a day – breakfast, lunch, dinner. GB owns some of its stores, but it mainly operates under a 
+franchising model, with 85% of stores owned by franchisees (individuals own and manage stores and pay 
+franchise fee to GB, but major business decision like marketing and setting menu is controlled by GB). 
+ 
+As part of its growth strategy, GB has analyzed potential acquisition targets including Heavenly Donuts 
+(HD), a growing doughnut producer with both US and international presence. HD operates under 
+franchising model too with one difference – GB franchises restaurants, whereas HD franchises areas or 
+regions where a franchisee is required to open a certain number of stores. 
+ 
+GB’s CEO has hired us to advise him on whether or not they should acquire HD. 
+Question 1: 
+Interviewer: What areas would you want to explore to determine if GB should acquire HD? 
+ 
+Answer: A reasonable structure may include the following: 
+ 
+● 
+Value of HD (donut market - size, growth; HD’s market position – market share, growth; HD 
+profitability, competition) 
+ 
+● 
+Synergies/Strategic Fit (rev synergies – cross sell products, open new stores; cost synergies – 
+sourcing inputs (COGS), combining overhead (SG&A), marketing) 
+ 
+● 
+Fit/Implications (acquisition cost, cultural fit between management and employees, GB’s ability to 
+do post-merger integration) 
+
+
+===== PDF p170 =====
+Casebook | 2019-20 Edition 
+166 
+ 
+Question 2: 
+Interviewer: Let’s think about potential synergies that could be achieved by acquiring HD 
+ 
+Present Exhibit to candidate: 
+ 
+Stores 
+GB 
+HD 
+Total 
+5,000 
+1,020 
+North America 
+3,500 
+1,000 
+Europe 
+1,000 
+20 
+Asia 
+400 
+0 
+Other 
+100 
+0 
+Annual growth in stores 
+10% 
+15% 
+Financials 
+GB 
+HD 
+Total Store Sales 
+$5,500M 
+$700M 
+Parent company revenues 
+$1,900M 
+$200M 
+Key expenses (% of sales) 
+Cost of Sales* 
+51% 
+40% 
+Restaurant operating costs 
+24% 
+26% 
+Restaurant property & equipment costs 
+4.6% 
+8.5% 
+Corporate general & administrative costs 
+8% 
+15% 
+Profit as % of Sales 
+6.3% 
+4.9% 
+Sales/Store 
+$1.1M 
+$0.7M 
+Industry Average 
+$0.9M 
+$0.8M 
+*Variable costs, mostly food costs 
+ 
+Interviewer: what potential synergies do you see? 
+ 
+Candidate: Revenue: open HD stores abroad (skills), cross-sell products (but possible 
+cannibalization), transfer GB’s skills in finding good store locations to HD, provide investment capital 
+to HD to grow faster, group/package products and sell as combo 
+ 
+Cost: reduce COGS (inputs) through bargaining power and consolidation, combine overhead (SG&A), 
+transfer skills related to property cost management 
+
+
+===== PDF p171 =====
+Casebook | 2019-20 Edition 
+167 
+ 
+Question 3: 
+Interviewer: We think that with synergies it should be possible to double HD’s US market share in the 
+next 5 years. We also think that GB’s access to capital will allow it to expand the # of HD stores by 
+2.5X. If these goals can be attained, what will be the resulting sales per store? You should assume: 
+ 
+● 
+Doughnut consumption/capita in the US is $10/year today 
+ 
+Provide if asked: 
+● 
+Doughnut consumption is projected to double in 5 years. 
+● 
+Assume US population is 300M 
+ 
+(Candidate sets up table to do math calculations) 
+ 
+Candidate: 
+● 
+Today’s market share is $700M / $3B = 25% approximately 
+● 
+Expected US market in 5 years is $20/person *300M = $6B 
+● 
+IF HD doubles their market share, they will have 50% market share, so their sales will be 
+50%*$6B = $3B 
+● 
+They will also have 2.5*1000 stores = 2500 stores 
+● 
+So, their sales/store = $3B / 2500 = $1.2M 
+ 
+[A good observation is that this is a realistic growth target, because this requires store sales to less 
+than double, since we already provided that per-person consumption of donuts will double] 
+ 
+Question 4: 
+Interviewer: One synergy to focus on is the idea of selling donuts in GB stores. How would you 
+assess the impact of this move on overall profitability? 
+ 
+Candidate: I need to calculate the incremental profit from this move. I should: 
+● 
+Calculate incremental revenues from selling donuts in GB stores (how many, at what price, etc.) 
+● 
+Calculate incremental costs (additional staff, training, marketing, distribution) 
+● 
+Additional store investment (extra space, new equipment, reconfiguring) 
+ 
+[A good answer will also include cannibalization – selling donuts might decrease sales of existing 
+burger products] 
+Question 5: 
+Interviewer: What will be the incremental profit per store if we think we are going to sell 50,000 
+donuts/store at a price of $2/donut at a 60% margin with a cannibalization rate of 10% of GB’s sales? 
+Cannibalization rate = % of GB products we think will not be sold because they will be displaced by 
+donuts. 
+ 
+Info to give when asked: 
+Current units of GB (burgers) sold per store: 300,000 
+Sales price/unit: $3 
+Margin: 50% 
+ 
+● 
+Donut sales will bring in an additional $60,000 in profit/store ($2 price*50,000*60% margin) 
+● 
+Cannibalization loss will be $45,000 ($3*300,000*50%*10% cannibalization) 
+So, this will mean $15,000 incremental profit/store 

@@ -1,0 +1,383 @@
+===== PDF p88 =====
+Papyr Co.
+84
+Industry:                  Industrial Goods
+Case Type:     
+Profitability
+Led by:            
+Interviewee
+Case Level: 
+Medium
+
+
+===== PDF p89 =====
+Behavioral Questions
+85
+• Whom do you view as your mentor and why?
+Question 1:
+• Tell me about a time where you navigated an ambiguous situation.
+Question 2:
+
+
+===== PDF p90 =====
+Papyr Co.
+86
+• Papyr is a paper distributor based in Ohio. Due to the declining demand for paper 
+products, the company downsized the company headcount by 20% across all back-
+office functions. However, after comparing their actuals last year vs. the projected 
+revenues, Papyr is interested in further improving their profitability. How would you 
+advise them?
+Prompt #1:
+• Background information to be divided into these categories (Please mark N/A if 
+information is not provided)–
+– Client/Company information : Papyr is a $5Bn paper-distributor based in Ohio. 
+– Industry/Competition information : Paper distributor but the demand for paper is 
+declining rapidly
+– Product information : Only distribute paper products to their customers (B2B 
+business)
+– Value Chain/Revenue information : $5Bn Distribution company 
+Case Background:
+
+
+===== PDF p91 =====
+Papyr Co
+87
+Framework Buckets:
+Increase Profitability
+Increase Revenue
+Reduce Cost
+•
+Price
+o
+Increase prices
+•
+Quantity
+o
+Increase sales 
+efforts to drive 
+demand
+•
+Product
+o
+Expanding product 
+lines beyond paper
+o
+Expand SKUs 
+distributed
+o
+Recyclable paper
+•
+COGS
+o
+Supplier
+o
+Shipping
+o
+Storage / 
+Warehousing
+o
+Distribution 
+•
+SG&A
+o
+Sales & Marketing
+o
+Corporate 
+functions – HR, IT, 
+Finance etc.
+o
+Admin overhead
+Other Considerations
+•
+Declining demand for 
+paper among consumers
+•
+Availability of raw 
+products
+Drive towards Operating Expense breakdown
+This is meant to pressure test candidate so they can remain calm through their framework
+
+
+===== PDF p92 =====
+OpEx cost breakdown by G&A functions
+88
+Exhibit #1
+$20M
+$65M
+$10M
+$40M
+$8M
+$7M
+Legal
+Compliance
+HR
+IT
+Finance
+Others
+
+
+===== PDF p93 =====
+Interviewer guidance on Exhibits
+• Interviewer should steer towards this being a 
+cost savings case of their back-office functions
+• In order to identify focus / priority areas , the 
+interviewee should look at the total spend 
+across all the back-office functions and identify 
+functions where the client is spending the most
+• The interviewee should quickly identify that IT 
+and Finance contribute to 70% of the total G&A 
+OpEx
+• Steer the interviewee towards IT being their 
+priority function to focus on first and push the 
+interviewee to tell you how they would go about 
+estimating the savings potential
+• The interviewee should think about peer 
+benchmarking (if not steer towards it) and 
+provide the below benchmarks –
+–
+IT Spend as % of revenue -
+•
+Median benchmark - 1.6%
+•
+Top quartile benchmark – 1.1%
+• Analysis –
+• Show exhibit 1 when the interviewee asks for 
+the spend breakdown
+• Upon showing the exhibit, the interviewee 
+should quickly identify that IT and Finance 
+contribute to 70% of the total G&A OpEx
+• Upon seeing the benchmarks, the interviewee 
+should quickly calculate the IT spend as % of 
+revenue ($80M / $5B Revenue = ~1.6%). After 
+calculating, the interviewee should point out that 
+the client is at par when compared to the 
+median benchmark but should aim to be best-in-
+class
+• Upon comparing with the top quartile 
+benchmark, the interviewee should calculate the 
+gap to benchmark and see that there is a 
+$30Mn unconstrained savings opportunity and 
+upon comparing with the median benchmark 
+there is a savings potential of $20Mn
+89
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p94 =====
+Brainstorming
+• The company has already decided to 
+implement a new ERP system which is 
+expected to save the company ~$17 
+million in IT costs. In order to achieve the 
+target $20 - $30 million in savings, what 
+are some of the areas within IT that the 
+client could look into?
+• Analysis of brainstorming to have 2 parts 
+– High level structure of the 
+brainstorming – for example look into 
+applications, infrastructure and 
+personnel
+– Specific details (provide a few, an 
+exhaustive list is optional) – can look 
+at specific initiatives such as 
+application rationalization, software 
+vendor renegotiation under 
+application, moving to cloud, data 
+center consolidation under 
+infrastructure and outsourcing / 
+contracting within personnel
+90
+Prompt:
+Analysis:
+Drive towards comparing costs to outsource
+
+
+===== PDF p95 =====
+Exhibit #2
+91
+Outsourcing
+IT Sub-towers
+# FTEs
+% Internal 
+Employees
+Target employee 
+%
+Internal 
+Employee 
+Salary
+Outsourced 
+Salary
+App Dev.
+20
+85%
+60%
+$130,000
+$70,000
+App Support
+25
+80%
+40%
+$125,000
+$60,000
+Data Center
+18
+100%
+40%
+$145,000
+$55,000
+End User 
+Compute
+16
+70%
+50%
+$90,000
+$30,000
+Service Desk
+15
+80%
+40%
+$85,000
+$20,000
+Network
+6
+70%
+40%
+$140,000
+$65,000
+
+
+===== PDF p96 =====
+Interviewer guidance on Exhibits
+• Interviewer should show exhibit 2 once 
+the interview has provided a good list of 
+areas that the client can look into to 
+identify cost savings opportunity
+• Once the interviewee mentions 
+outsourcing, show the exhibit 2 or push 
+the interviewee to think about the 
+operating model / people / outsourcing
+• Let the interviewee figure out the 
+outsourcing savings by figuring out the 
+math process (shown in the following 
+slide)
+–
+Strong candidate should intuitively utilize math 
+shortcuts (Salary – Labor; FTE x 1 – Target 
+Employee %)
+• There is ~$4M in potential savings from 
+the outsourcing lever
+92
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p97 =====
+Exhibit 2 : Solution (Interviewer reference 
+only)
+93
+IT Sub-towers
+# FTEs
+% Internal 
+Employees
+Target 
+employee %
+Internal 
+Employee 
+Salary
+Outsourced 
+Salary
+Target 
+employees
+# of additional 
+FTEs to be 
+outsourced
+Labor 
+Arbitrage
+Total Savings 
+from 
+outsouring
+App Dev.
+20
+85%
+60%
+$130,000 
+$70,000 
+12
+8
+$60,000 
+$480,000 
+App Support
+25
+80%
+40%
+$125,000 
+$60,000 
+10
+15
+$65,000 
+$975,000 
+Data Center
+18
+100%
+40%
+$145,000 
+$55,000 
+7
+11
+$90,000 
+$972,000 
+End User 
+Compute
+16
+70%
+50%
+$90,000 
+$30,000 
+8
+8
+$60,000 
+$480,000 
+Service Desk
+15
+80%
+40%
+$85,000 
+$20,000 
+6
+9
+$65,000 
+$585,000 
+Network
+6
+70%
+40%
+$140,000 
+$65,000 
+2
+4
+$75,000 
+$270,000 
+Total Savings
+$3,762,000 
+Math shortcut would take FTE x (1 – target employees) x labor arb
+Example with App Dev: 20 x 40% = 8 x 60k = 480k
+Given in exhibit
+
+
+===== PDF p98 =====
+Papyr Co.
+94
+• Based on a detailed analysis of your SG&A costs in the past year, we believe that 
+Papyr can achieve $3.8 million in savings by outsourcing portion of its IT organization
+Recommendation 
+Risks:
+• Buy-ins from stakeholders is key to realize the savings
+• Legacy tech debt can impact realizable savings
+• Other initiatives need to be considered to make sure savings are not duplicative e.g. 
+the new ERP implementation
+Next Steps:
+• Interview key stakeholders to understand current state and start sizing all the savings 
+initiatives 
+• Socialize findings with the stakeholders and gather buy-ins
+Risks and Next Steps:

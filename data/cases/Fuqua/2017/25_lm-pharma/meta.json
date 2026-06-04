@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2017_25_lm-pharma",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 25,
+  "case_name": "LM Pharma",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Pharma",
+  "difficulty": "Difficult",
+  "pdf_page_start": 283,
+  "pdf_page_end": 292,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    286,
+    291,
+    292
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p286.png",
+    "exhibits/exhibit_p291.png",
+    "exhibits/exhibit_p292.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\25_lm-pharma"
+}

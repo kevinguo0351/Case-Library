@@ -1,0 +1,204 @@
+===== PDF p130 =====
+126
+Ratings:
+Quant - 3
+Qual - 2
+Overall - 3
+Attack Helicopter
+Defense | Market Entry
+Interviewee Led
+Case 12
+
+
+===== PDF p131 =====
+127
+Case 12 – Attack Helicopter
+Our client is a US defense contractor and one of its divisions manufactures attack helicopters for military
+operations. The company is considering setting up a new plant to meet increasing demand in the attack
+helicopter space. These helicopters are fully equipped with guns and ammo when delivered to the end 
+customer. Our client has considered three sites to setup operations: Brazil, France, and the US.
+How would you make this decision, and where should our client set up the plant based on that analysis?
+•	 Our client has 3 plants in the US; 2 in Kansas and 1 in Michigan
+•	 The plants operate at full capacity today
+•	 One of the US plants can accommodate an additional assembly line at 
+a cost of $500M; the other 2 are landlocked in residential areas and cannot be expanded
+Prompt
+Clarifying Information
+Notes / Advice to Interview / How to Move Forward:
+•	 Candidate should structure the framework to consider the elements for evaluating 3 countries
+•	 Candidate should start with a financial analysis. If not, nudge them in this direction
+•	 If candidate does not mention examples of variable and fixed costs, prompt them to do so prior to revealing financials
+
+
+===== PDF p132 =====
+128
+Framework
+•	 Cost
+•	 VC
+- Materials
+- Hourly Labor
+- Ship/Distribution
+•	 FC 
+- PP&E
+- Utilities
+- SG&A
+- Initial Cost 
+•	 Revenues
+- Price per helicopter
+- # of helicopters / year
+- How frequently do 
+helicopters get replaced?
+•	 What’s it going to take to get the 
+product to the customer?
+•	 Labor
+•	 Availability of skilled managers 
+& technicians
+•	 Export control restrictions?
+•	 Supply chain considerations
+•	 Do we have an adequate 
+supply base in each location?
+•	 Assembly inputs
+•	 Spare parts
+•	 Raw materials
+•	 Local regulations: can you 
+import what is needed?
+•	 Where are they based?
+•	 Need to be close to the customer 
+for design inputs?
+•	 Additional customer points?
+•	 Do governments prefer to buy from 
+domestic companies? 
+•	 Are there custom designs? Is each 
+helicopter the same? 
+•	 Proprietary information: can you 
+build two helicopters for two 
+countries at once? 
+•	 Is there a market for private 
+security and not just military?
+Profitability Analysis 
+of Each Site
+Logistics
+Suppliers
+Customers
+Case 12 – Attack Helicopter
+
+
+===== PDF p133 =====
+129
+Financial Information
+Initial Plant Set up Cost: $500M (US) | $2B (BR) | $3B (FR)
+Fixed Cost: $100M annually in all three countries
+Variable Cost:  $15M (US) | $20M (BR) | $25M (FR)
+Each helicopter sells for $100M/unit, but if they are imported 
+into the US, the US government requires them to be certified; 
+the certification process costs $15M/unit.
+In the case of attack helicopters, the US and France each have 
+export control restrictions in place prohibiting the sale of attack 
+helicopters to other countries. 
+Implication: If the client manufactures within the US, they will 
+only be able to sell to the US government – no exports are 
+allowed.
+Defense budgets for next 5 years: $100B (US) | $15B (BR) | $10B (FR)
+% of Defense budgets to be spent on our helicopters: 20% (US) | 50 % (BR) | 15% (FR) 
+Cost Information
+Sales Information
+Market Size and Revenue Information
+Case 12 – Attack Helicopter
+
+
+===== PDF p134 =====
+130
+Revenues:
+	
+US revenues over 5 years = 20% of $100B = $20B
+Costs:
+	
+# of copters = $20B / $100M = 200 helicopters
+	
+Variable Cost: 200 helicopters * $15M = $3B
+	
+Fixed Cost: $100M annually
+	
+Initial Cost: $500M
+Profit = Rev – VC – FC – IC
+Profit = $20B  - $3B – ($100M * 5) - $500M = $16B
+Revenues:
+	
+US revenues over 5 years = 20% of $100B = $20B
+	
+BR revenues over 5 years = 50% of $15B = $7.5B
+Costs:
+	
+# of US-bound copters: $20B / $100M = 200 helicopters
+	
+# of BR-bound copters: $7.5B / $100M = 75 helicopters
+	
+Variable Cost: (275 helicopters * $20M)** + (200 helicopters * $15M)* = $8.5B
+	
+Fixed Cost: $100M annually
+	
+Start-up Cost: $2B
+Profit: $27.5B - $11B = $16.5B
+Key Takeaway: Plant in Brazil will give us profits higher than US by $500M
+If plant in the US
+If plant in Brazil
+Math Solution
+Notes
+•	 Interviewee should notice that France is not an attractive candidate due to having the same exact costs as Brazil but significantly smaller revenues in addition to 
+export issues.
+•	 Once interviewee mentions a profitability calculation, nudge them to calculate profit over the next 5 years
+•	 ** = VC to manufacture in Brazil 	
+	
+	
+*= Certification costs to sell to United States
+Case 12 – Attack Helicopter
+
+
+===== PDF p135 =====
+131
+Brainstorming 
+Evaluate the potential risks of acquiring helicopters in Brazil.
+•	 If the interviewee does not provide potential risks for moving forward with Brazil, ask this question.
+•	Political stability
+•	Product quality
+•	Robustness of supply chain
+•	Cultural customs are different and may affect 
+business relationships
+•	Drive the case toward potential risks of launching in Brazil without prompting. 
+Brainstorming Guidance
+Potential Solutions
+Best candidates will:
+•	Know-how in other countries
+•	Brand image and trust in helicopters
+•	National security may be an issue as 
+helicopters/defense equipment will be 
+manufactured outside of US
+Case 12 – Attack Helicopter
+
+
+===== PDF p136 =====
+132
+Conclusion
+•	Those gained from brainstorming
+•	Based on the financials, Brazil 
+appears to be a more attractive 
+candidate for setting up the new 
+plant because:
+•	Our profits over 5 years will be 
+higher by $500M
+•	We won’t be entirely dependent 
+on one single country (US) for 
+sales
+•	What is the potential for selling 
+choppers outside of these 3 
+countries to the global market?
+•	What will labor’s reaction at our
+•	existing plants be if we
+•	Are US relations with Brazil likely to 
+be cordial over the next 5 years for 
+us to benefit from favorable export 
+control policies?
+Recommendation
+Risks
+Next Steps
+Case 12 – Attack Helicopter

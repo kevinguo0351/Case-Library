@@ -1,0 +1,34 @@
+{
+  "case_id": "Stern_2021_02_royal-cinema",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 2,
+  "case_name": "Royal Cinema",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Media & Entertainment",
+  "difficulty": null,
+  "pdf_page_start": 52,
+  "pdf_page_end": 61,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    52,
+    54,
+    55,
+    56,
+    57,
+    60,
+    61
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p055.png",
+    "exhibits/exhibit_p056.png",
+    "exhibits/exhibit_p057.png",
+    "exhibits/exhibit_p060.png",
+    "exhibits/exhibit_p061.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\02_royal-cinema"
+}

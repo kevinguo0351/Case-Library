@@ -1,0 +1,176 @@
+===== PDF p20 =====
+ 
+Management Consulting Association Case Book 2007 
+- 16 - 
+Case 4: Refrigerators in India
+Case 4: Refrigerators in India
+Case 4: Refrigerators in India
+Case 4: Refrigerators in India 
+ 
+ 
+BACKGROUND 
+ 
+Firm: McKinsey & Company 
+Round: 2007 Summer, Second 
+Content: Quantitative and qualitative 
+ 
+CASE QUESTION 
+ 
+A producer of high-end refrigerators in India has hired McKinsey to help him solve a 
+profitability problem.  Two years ago the company had a record year in terms of growth.    
+Though they were correct in understanding the size of the market and how it would grow, 
+their gross profit decreased by approximately 70% and the CEO is very worried about the 
+situation.  The client has asked us to identify what happened and what can be done to 
+restore profitability? 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: This is a typical profitability question.  A good way to go 
+over it is to break down the profit equation into the different concepts, build hypothesis, 
+and test them. 
+ 
+Key facts: 
+ 800 million people in India 
+ Two years ago units sales in India were 5 million and last year 6 million 
+ The client’s company builds and sells high-end units 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: Can I take a minute to think about this problem? 
+ 
+Interviewer: Yes. 
+ 
+Interviewee: Ok. I would start by breaking down the problem into revenues and costs in 
+order to identify the potential drivers of the drop in profitability.  
+ 
+Interviewer: Great.  Let’s start with the costs. 
+ 
+Interviewee: Ok. Given that we know that this market has been growing quickly, I would 
+like to know whether our client has decided to build a new factory to keep up with the 
+
+
+===== PDF p21 =====
+ 
+Management Consulting Association Case Book 2007 
+- 17 - 
+growth.  If that was the case, depreciation and amortization and interest on debt (if it was 
+paid buy issuing debt) could be putting pressure on the profit of the firm. 
+ 
+Interviewer: You are definitively right in your analysis, but I have to tell you that 
+although they have built a new plant, there is no problem on the cost side.  I can tell you 
+that since we have just finished another engagement in which we streamlined all his 
+operations. 
+ 
+Interviewee: So, now I would like to understand a little more about the revenue side of 
+the profit equation.  Perhaps I could learn a little more about the market.  I’m most 
+interested in having some assumptions to determine the size of the market.   
+ 
+Interviewer: Sure.  What do you want? If you ask for specific information I may have it. 
+ 
+Interviewee: Ok, I would like to know the population of India, the number of households 
+and what kind of refrigerators the client produces. 
+ 
+Interviewer: Assume 800 million people and… I am not sure about households… guess 
+something. 
+ 
+Interviewee: I would say that there might be 5 people per household, which leads to 160 
+million households.  Based on my experience I will say people change their refrigerator 
+once every 5 to 7 years.   
+ 
+Interviewer: Sounds reasonable, let's say 7 years.   
+   
+Interviewee: If  I had the number of units sold in the market last year I would be able to 
+understand how many people actually have refrigerators at home in India. Do we have 
+any information around the percent of households that have a refrigerator? 
+ 
+Interviewer: Last year sales were 6 million units and one year before they were 5 million 
+units. 
+ 
+Interviewee: So, 
+ 
+Item
+Quantity
+Population
+800,000,000
+# per household
+5
+Households
+160,000,000
+Income
+# sold
+Years between change
+Market size
+Two years ago
+5,000,000
+7
+35,000,000
+Last year
+6,000,000
+7
+42,000,000  
+ 
+
+
+===== PDF p22 =====
+ 
+Management Consulting Association Case Book 2007 
+- 18 - 
+Interviewer: You are saying that the number of refrigerators for home-use was 35 
+millions two years ago and 42 millions last year? 
+ 
+Interviewee: Yes.  However, I might question whether the 7 million growth of last year 
+could have been in a segment not served by your client. 
+ 
+Interviewer: How do you know that? 
+ 
+Interviewee: Well, we concluded that there are 160 million households and from our 
+estimation we get that only 42/160 = 26% have a refrigerator. On the other hand you 
+mentioned that they produce high-end which may signal that the growth is coming from 
+the low income part of the society, for which your product may not be priced at a 
+competitive level or even the product not designed for their needs. 
+ 
+Interviewer: You are completely right.  What we should do?   
+ 
+Interviewee: There are several options.   Our client can try to use the extra capacity they 
+have in the new plant to focus on building lower-end refrigerators, leveraging their 
+supplier relationships, dealers, etc.  However, we would need to consider how to brand 
+these refrigerators so as to not detract from the quality associated with the higher end of 
+the market.  They can think about exporting the extra capacity to other countries where 
+their product offering is competitive and there is market for growth, they can start 
+offering financing for this particular segment… 
+ 
+Interviewer: Fair enough, let’s imagine that the marketing director came last night and 
+proposed to reduce price by 20% to appeal to this segment, which he thinks will increase 
+sales by 30%.   Should we support him? 
+ 
+Interviewee: Is that all the information we have? 
+ 
+Interviewer: Yes. 
+ 
+Interviewee: Let me think.  Lets denote P = Price, C = Cost of goods sold, Q = Quantity.  
+The general formula to make this decision should be P*Q – C*Q > 0. In this case: 
+ 
+80%*P*130%*Q – C*130%*Q > 0 
+ 
+104%*P*Q – C*130%*Q > 0 
+ 
+Break-even point at: 
+104%*P*Q = C*130%*Q 
+ 
+104%*P = C*130% 
+ 
+
+
+===== PDF p23 =====
+ 
+Management Consulting Association Case Book 2007 
+- 19 - 
+104%/130% = C/P 
+ 
+80% = C/P 
+ 
+COGS of 80% over price does not seem to be completely out of what we would expect in 
+a manufacturing company.  I would worry about COGS being just 25%, which will signal 
+that reducing price by 20% is not a good idea to attain 30% more sales. 
+ 
+Interviewer: Thanks. 

@@ -1,0 +1,243 @@
+===== PDF p69 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+65 
+ 
+ 
+Case 18: Institutional Asset Manager Fees 
+ 
+OVERVIEW 
+Firm:       BCG 
+Round:    2006 FT, Final 
+Content:  Qualitative and quantitative 
+ 
+CASE QUESTION 
+BCG has been hired by an institutional asset manager client.  The client is very profitable and 
+doing well.  However, they know that they are leaving money on the table: they know that they 
+have a lower average percent fee of assets under management than their competition—lower 
+than the industry average.  They’ve hired BCG to tell them why that is, but in the end we told 
+them more than that. 
+ 
+INTERVIEWER BRIEFING 
+Recommended Approach 
+This case dives right into data and question and answer.  There’s a question that the client asked, 
+but the interviewer hinted up front in the case question that he/she wants the interviewee to do 
+more than just answer the client’s question.  This is a good case for practicing looking at data 
+and taking the case interview past answering the question and more towards “fixing” the 
+business problem. 
+ 
+The interviewer should expect the interviewee to drive the case, but should provide the data 
+(exhibits 1 &2) up-front pretty quickly and make sure that the interviewee understands the 
+industry and how the fee structure works very early on. 
+ 
+Key Facts 
+- 
+Institutional asset managers’ revenues are based on fees from clients.  Clients are charged 
+a fee, which is structured by some percentage of assets under management.  You can 
+assume 5% if it makes the discussion easier—though, the percent fee never comes up. 
+ 
+- 
+Institutional asset management companies are companies like Fidelity.  They can serve 
+any sort of large, investing clients—pension funds, CalPers, TIA-CREF, hospitals, 
+foundations, universities, etc.  They do have retail division that serve individuals with 
+their 401Ks and mutual funds, b ut this case focuses on the institutional investor side of 
+the business. 
+ 
+EXAMPLE DIALOGUE 
+Interviewer: So, first do you have any questions? 
+ 
+Interviewee:  Sure, I want to make sure that I understand how the client’s business works.  I 
+don’t know too much about institutional investors or asset managers; so, I’d like to just make 
+sure that I understand the business model before we dive into the problem. 
+
+
+===== PDF p70 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+66 
+ 
+ 
+Interviewer:  Sure, that makes sense.  What can I tell you? 
+ 
+Interviewee:  I imagine that an institutional asset manager is a company like a Fidelity, or 
+Capital Group Companies. 
+ 
+Interviewer:  That’s right. 
+ 
+Interviewee:  And I bet that their clients can range from anyone—you and me investing our 
+savings in a mutual fund to large investors like pension funds. 
+ 
+Interviewer:  Yep, that’s right.  Pension funds like TIA-CREF and CalPers, or foundations and 
+universities are some of the bigger clients.  We’re going to focus on that part of the business—
+the institutional investor part of the business, not on you and me and our individual 401-Ks. 
+ 
+Interviewee:  Great.  And you said that they generate revenues from fees which are based on a 
+percent of assets under management? 
+ 
+Interviewer:  Right.  What’s your sense of how that percent might change? 
+ 
+Interviewee:  My guess is that larger clients—clients with larger amounts of assets under 
+management—might have a lower percent fee charged to tem, because they still generate more 
+revenues with a smaller percent fee. 
+ 
+Interviewer:  That’s right.  In fact, I have an exhibit that shows you what that looks like.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It’s a stepped function. What would you image the cost structure of different size clients is like? 
+ 
+Revenue Structure for Institutional Asset Management
+Fee on 
+Assets 
+Under 
+Management 
+(%)
+$ Under 
+Management
+Exhibit 1
+
+
+===== PDF p71 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+67 
+ 
+Interviewee: Huh.  Well, I don’t know the business to well, but I imagine that it costs about the 
+same to service a large client as it does a small one. 
+ 
+Interviewer:  Yes, that’s correct. So, what does that tell you? 
+ 
+Interviewee:  That tells me that large clients—in terms of assets under management—are highly 
+profitable because they generate more in revenues—even with smaller percentage fees—at 
+basically the same cost as a small client.  Thinking back to the original question of the case: why 
+does the client have a lower average fee than the rest of the industry, I now want to know more 
+about the fees that they’re charging different customers.  
+ 
+(If the interviewee did not get these points, it’s not a big deal.  But it is important to show them 
+how the fees are structured and explain that larger clients generate more revenues and cost the 
+same as any other client—therefore, they’re highly profitable clients.) 
+ 
+Interviewer:  That’s right on track.  Let me show you some data that we collected on the percent 
+fees—and discounts—that they’re giving to their customers.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What does this data tell you? 
+ 
+Interviewee:  Well, it’s not what I would expect.  It looks like they’re giving some of the highest 
+discounts on their fees to their mid-sized clients, not to their largest ones.  This may be keeping 
+the profitability high on their large clients, but it’s probably destroying margins on their mid-
+Discounts by Deal
+% 
+Discount
+$ Under Management
+(in MN)
+10
+1,000
+100
+10,000
+10
+60
+70
+80
+90
+100
+30
+40
+50
+20
+Exhibit 2
+
+
+===== PDF p72 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+68 
+ 
+sized clients, and bringing down their overall fee average.  I think this shows the answer to the 
+client’s question. 
+ 
+Interviewer:  Sure.  Now here’s another question: if you were the client, what would you want to 
+see here? 
+ 
+(Here, the interviewee should generate a few ideas.  A bunch are listed—if they get one or two, 
+that’s great, and you can move on.  Also, it might help the interviewee to give them the exhibit so 
+that they can draw on it—if that makes them more comfortable or helps them at all.) 
+ 
+Interviewee:  Well, I would want to see a few things.  First, I would want to be giving the 
+biggest discounts, or the most discounts, to my larger clients.  Here, it looks like they’re giving 
+the biggest discounts to the mid-sized clients.  Second, there doesn’t seem to be any sort of cap 
+on the amount of discount that can be given.  They’re discounting up to 90% in some cases—I 
+would think that that would destroy all profit margins.  I would expect for there to be a cap 
+around 30% or something.  Last, it all seems pretty random where the discounts are given.  I 
+wonder whether the clusters of discounts represent a certain salesman/  account executive. 
+ 
+Interviewer:  That’s right.  So, what are the key steps that you need to take to fix the problem? 
+ 
+Interviewee:  Well, first, you have to diagnose why the discounts are the way they are right now.  
+So, look-up who discounted what—see whether it’s saleperson-driven, or if it’s driven by the 
+type of client.  Then, you would need to monitor the discounting and keep track of it.  Maybe 
+you can incent the salespeople not to give discounts? 
+ 
+Interviewer:  Yep.  That’s right: monitoring and tracking, and then put in whatever systems are 
+necessary to get the company’s average fee up to at least the industry average.  Great.  That’s it. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

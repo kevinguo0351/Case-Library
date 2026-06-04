@@ -1,0 +1,160 @@
+===== PDF p74 =====
+Casebook | 2019-20 Edition 
+70 
+ 
+4. Commercial Real Estate (Bain R1, Fin Services, Profitability, 
+Balanced) 
+Stem: Your client is a commercial real estate brokerage that focuses primarily on Class A buildings. The 
+basic way the real estate market works is there are Class A, B and C buildings, which correspond to the 
+quality and facilities of the buildings. There’s also the residential market, and our client has considered 
+high volume apartment buildings, but isn’t sure if this is a good place to be. As a brokerage, our client 
+doesn’t own any properties, but rather acts as the intermediary between the buyer and seller. It’s now 
+2008. Last year they had revenues of $500M, and they’re wondering just how bad it’s going to get and 
+whether they need to be worried. This is particularly worrisome for them because they recently acquired 
+another company, and are running lower on free cash to cover any short-falls in business. 
+ 
+Interviewer: What do you think are some of the drivers of profitability in the industry? 
+ 
+Candidate should be sure to use a general profit structure to determine the drivers of profitability, but the 
+candidate should also be sure to include specifics of the industry and information from the stem. Some 
+suggested answers: 
+ 
+Industry: Trends, Competitors, Segments (Location, etc.) 
+ 
+Revenues: Price of the buildings being sold, commission rate, volume of new construction, 
+general economic trends, quality of buildings being constructed, occupancy rates, mix of 
+commercial vs. residential, types of businesses present in the region. 
+ 
+Costs: Salary expense, bonus payments, IT & overhead costs, possibly sourcing/lead costs, 
+insurance. 
+ 
+Interviewer: Last year they sold 2,000 properties, and have a commission rate of 5%. What was the 
+average price of properties sold? 
+ 
+Candidate: We know they have revenues of $500M, so we can figure out the average price given these 
+two extra data points by using: 
+ 
+So average price is going to be total revenues divided by the # of properties times the commission rate, 
+or 500 / (2000 *.05) = $5 million is the average price of properties. 
+ 
+Interviewer: So, it turns out this is in the top quartile of commercial real estate. Given the economic 
+climate, do you think this is a good place to be? 
+ 
+Note: There are plenty of acceptable answers here, just make sure the candidate approaches the 
+problem in a structured manner and arrives at a solid conclusion. Make sure he/she takes a stand – push 
+back and even play devil’s advocate. 
+ 
+Candidate: In the current economic environment, this is going to be one of the worst places to be. The 
+primary reasons are: 
+ 
+1. 
+The client’s customer base likely includes companies that are sensitive to large economic 
+fluctuations: law firms, consulting firms, investment banks, etc. 
+2. 
+As clients reduce costs, one of the first places is to cut back on premium office space and reduce 
+rent expense. 
+3. 
+Their business as a brokerage is based on change: either companies trading up, since they’re in 
+the premium space, or with new companies entering the regions they cover, or new buildings 
+being built. It is unlikely any of these will be happening during a recession. The brokerage could 
+also be left with many properties available for long lengths of time as a result of companies 
+trading down. 
+
+
+===== PDF p75 =====
+Casebook | 2019-20 Edition 
+71 
+ 
+Interviewer: Interesting. We’ve run some analyses, and have a forecast that volume is going to decline 
+about 25%. Will they still be profitable? 
+ 
+Candidate: What is their current cost structure? We also need to know what costs are fixed vs. variable 
+to appropriately project profitability. 
+ 
+Interviewer: Absolutely! Total costs last year were $400M with 50/50 split between variable and fixed. 
+The variable costs are compensation, which is entirely commission based, so it moves directly in 
+proportion with revenues. 
+ 
+Candidate: With a volume decline of 25%, they will now be selling 1,500 properties. If we assume that 
+the average price stays the same at $5M per property and their fees stay at 5%, then we have total 
+revenues of 5% * 1500 * 5M = $375M. 
+ 
+On the cost side, we have $200M of fixed costs (50% of $400M last year). Last year we had $200M of 
+variable costs on $500M of revenues, so this year there will be $375 * 2/5 = $150M of variable costs, for 
+total costs of $350M. 
+ 
+(Another approach would be to realize that with a volume decline of 25%, revenues would be 75% or ¾ of 
+$500M = $375M. Knowing the variable cost portion is $200M, one could take 75% or ¾ of $200M for 
+variable costs for this year of $150M. Adding this to fixed costs of $200M, this would result in total costs 
+of $350M) 
+ 
+Therefore, total profitability will be $375M - $350M = $25M in profits. This is just a quarter of the $100M in 
+profits they made last year. It is interesting to note that a 25% decline in volume actually leads to a 75% 
+decline for the bottom line. (This could also be stated as: the hit to top line revenues resulted in a 3X 
+effect on bottom line profits) 
+ 
+Interviewer: Exactly. Now we’ve also examined the pricing, which we expect to decline 20% on top of 
+the 25% decline in volume. Are they still profitable? 
+ 
+Candidate: Definitely doesn’t seem like it, but let’s run the numbers. We have average price falling to 
+$4M now. So total revenues will be $4M * 1500 * 5% = $300M. 
+ 
+Variable costs will be 2/5 * $300M = $120M (another approach would be to take 4/5 of the already 
+decreased variable costs of $150M: 4/5 * $150M = $120M), since this is all compensation for the brokers 
+and depends not only on the volume of buildings they sell but the price they get as well. 
+ 
+Fixed costs remain at $200M, so total costs are $320M compared to revenues of $300M, so they lose 
+$20M in this case. Not profitable, and definitely not good. 
+ 
+Interviewer: So, what might they do to get through the next several months? 
+ 
+Candidate: Well, they have a couple of options: 
+ 
+1. 
+Enter a new business line, maybe residential or lower class buildings, unlikely to solve their 
+immediate problems 
+2. 
+Look for opportunities to reduce fixed costs (decrease office space by asking employees to work 
+from home, minimize extravagant travel expenses, layoff support staff, shop around for new 
+insurance quotes, etc) 
+3. 
+Ask for brokers to take a lower commission rate in exchange for increased likelihood of keeping 
+their job because the company is less likely to go under. 
+4. 
+Sell the company they recently acquired 
+5. 
+They could try to form a JV of some sort where they get cash in and provide some form of 
+proprietary service or data to their partner, or a stake in the business. 
+6. 
+Look for a strategic buyer. Either a cash-rich competitor or a private equity firm. 
+
+
+===== PDF p76 =====
+Casebook | 2019-20 Edition 
+72 
+ 
+7. 
+Enter into chapter 11 reorganization. Unlikely to be successful as their business is driven by their 
+brokers’ relationships 
+ 
+Given the immediate nature of their problem, a JV or strategic buyer are likely to be the best options. 
+ 
+Interviewer: Turns out, they identified selling a minority stake as the most viable option. Now switch 
+perspectives, you’re the PE firm, what are you thinking about when considering this purchase? You 
+already know everything we’ve discussed about the numbers. 
+ 
+Candidate: I would primarily think about the following… 
+ 
+1. 
+What price am I paying? Is it reasonable or even advantageous given they’re distressed? 
+2. 
+When do I expect an economic recovery to kick in, and what will that mean for this business? 
+Does it lead or lag a recovery? 
+3. 
+How good is the management currently in place? Will I have to find people to replace the 
+management? 
+4. 
+What are my competencies in commercial real estate? Is this something I know where I could 
+stimulate the business? 
+ 
+Interviewer: Great. 

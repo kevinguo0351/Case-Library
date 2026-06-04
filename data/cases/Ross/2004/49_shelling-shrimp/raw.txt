@@ -1,0 +1,40 @@
+===== PDF p116 =====
+Table of Contents 
+ 
+112
+Practice Case 50: Shelling shrimp  
+(Mckinsey - Round 3) 
+ 
+This short problem aims at giving you idea about the difficulty level 
+of numerical questions you will have at McKinsey final interviews. It 
+is a part of a 45-minute case. I got it somewhere in the middle of the 
+case.  
+ 
+Get a timer. After your read the question you have one minute to 
+solve the problem. In the interview you will have maybe 2 minutes 
+but you should be able to solve it in 1 minute to be able to solve it in 
+interview setting in 2 minutes.  
+ 
+Currently, our client ñ shrimps restaurant ñ has a person who shells 
+shrimp manually. The worker needs 15 minutes to set up his work 
+space for shelling shrimps each day. Shelling shrimps is not his main 
+task in the restaurant. It takes him 10 min to shell one pound of 
+shrimps. His wage is $6 per hour.  
+ 
+It is possible to buy a machine for $3285 that automatically shells 
+shrimps. Its useful life is 3 years. Setup time for the machine is 30 
+min each day. The same worker will serve this machine. The machine 
+can process 60 pounds per hour.  
+ 
+What is break-even volume of shrimps needed to be processed each 
+day to justify the investment into the machine?  
+ 
+ 
+Solution: 
+Assume 365 working days. 3 years = 1095 days. Cost of machine per day = 
+3285/1095 = $3. So, we need to recover $3 per day. Now, (variable) cost of 
+shelling per pound is $1. With the machine, this will be $0.1. So, we will save 
+$0.9 variable cost per pound. But we get additional setup time of 15 min per 
+day, i.e. 1.5$. I.e. we need to recover $3+$1.5 = $4.5. To recover $4.5 with 
+$0.9 cost saving we need to process $4.5/0.9=5 pounds.  
+ 

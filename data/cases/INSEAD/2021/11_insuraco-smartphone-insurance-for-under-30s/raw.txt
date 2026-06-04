@@ -1,0 +1,321 @@
+===== PDF p112 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Case Information
+Difficulty level ± Quantitative
+3
+Difficulty level ± Creativity
+3
+Difficulty level ± Structure
+3
+Case led by
+Mixed
+Case type
+New Product Launch
+Industry
+Insurance
+108
+
+
+===== PDF p113 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Case Prompt
+Insuraco is a large US insurer that¶s looking to grow. The\ currentl\ sell a wide range of insurance products to US consumers and are 
+considering developing a new product: $5/month smartphone insurance for under-30s.
+Insuraco¶s management is excited about the opportunity of selling to this large, under-insured group. However, before they develop the idea 
+further, the\¶d like to know whether this is indeed a good idea, and, if so, how the\ should roll-out this new product.
+Information to be used to answer clarifying questions
+y Insuraco¶s primary objective is to maximize profit, particularly in the first year the product is released
+y Insuraco currently sell their products through agents
+y Insuraco are only interested in selling this product in the US (and are licensed to do so in all US states)
+y Insuraco¶s investment income can be ignored in any financial calculations
+109
+
+
+===== PDF p114 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Guide to interviewer
+Guide for use of exhibits
+Exhibit 1 - Present when asked about customer buying preferences or distribution 
+channels
+Exhibit 2 - Present when asked to define the 
+Combined Ratio
+Key Insights:
+a.
+The website is more effective at reaching and signing-up customers
+b.
+However, selling through agents is cheaper to set-up and operate
+c.
+Calculations will show that both distribution channels have the same profit in year 1
+d.
+However, the website is more attractive as development costs are a one-time expense
+Key Insights: 
+a.
+The Combined Ratio is a ³cost-centric´ 
+measure of profitability
+b.
+100% - Combined Ratio § Profit Margin
+ This case tests the candidate on three concepts:
+1. Market sizing: The candidate is first asked to estimate the market¶s annual revenue
+2. Profitability: The case then introduces the ³Combined Ratio´ (used b\ insurers to measure profitabilit\) for the candidate to calculate 
+the profitability of two possible distribution channels
+3. Brainstorming: The case concludes by asking the candidate to discuss non-financial considerations of the product launch
+ Allow the candidate to explore. They will likely go to market-sizing early, but may need guidance towards customer buying 
+preferences/distribution channels
+110
+
+
+===== PDF p115 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Sample Framework & Notes
+Smartphone insurance for under-30s
+Is the market attractive?
+Size & Growth
+Competition
+Customers
+Can Insuraco enter effectively?
+Product
+Capabilities
+- Ask candidate to 
+market size (see next 
+slide)
+- No competitors in this 
+space
+- Most smartphone 
+insurance is included in 
+home/contents 
+insurance, which most 
+under-30s don¶t haYe
+- When asked about 
+buying preferences, 
+present Exhibit 1
+- $5/month smartphone 
+insurance, covering all 
+standard causes of 
+loss/damage.
+- No new, novel types of 
+coverage
+- Considering selling 
+through a website
+- Insuraco has good 
+experience in pricing 
+insurance and has a 
+strong, respected 
+brand
+- When asked about 
+distribution channels, 
+present Exhibit 1
+111
+
+
+===== PDF p116 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Market sizing ± suggested structure
+Sample calculation
+ US Population: ~ 320m
+ % under 30: Average life expectancy in US ~ 80 years. Assume 
+equal distribution across all ages, so ~4m people of each age. 
+(30 x 4m)/320m ~ 35%
+ % that own a smartphone: Need to account for: 
+1) Smartphones are not owned by most  children < ~15. 
+2) Smartphones are extremely popular for those > ~15
+ E.g. assume 0% for under-15s and 80% for 15-to-30-year-olds 
+(~40% overall)
+ % that are interested in smartphone insurance: Insurance is 
+not widely used by this group, so will be low. ~20% acceptable
+ % that would pay for smartphone insurance: Again, expected 
+to be low. ~20% acceptable
+ Annual premium per customer: $5/month x 12 months = 
+$60/year
+ ANSWER ~ $100m/year
+Note: The candidate¶s reasoning and structure is more important 
+than their final answer.
+Market size: 
+under-30s 
+smartphone 
+insurance in 
+the US 
+US Population
+% under 30
+% that own a smartphone
+% that are interested in 
+smartphone insurance
+% that would pay for 
+smartphone insurance 
+Annual premium per 
+customer
+x
+x
+x
+x
+x
+ When the candidate asks for details about the market size, 
+ask that they estimate the market¶s annual revenue
+ Sample structure:
+112
+
+
+===== PDF p117 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Distribution Channels (based on Exhibit 1)
+When the candidate asks about customer buying preferences or distribution channels, present Exhibit 1. They should proceed to calculate the 
+profitability of the two distribution channels. Additional information (only provided to candidate when requested):
+ Definition of the ³Combined Ratio´ ± present Exhibit 2. This is a commonly used metric in the insurance industry
+ Definition of the ³Conversion Rate´ ± % of website visitors or agent enquiries that purchase the insurance
+Profitability of Website in year 1
+a. 120k paying customers expected in first year: 600k visits x 20% conversion rate 
+b. Average annual profit per customer = $0.75: $5 monthly premium x 6 months (average contract length at end of first year) x 2.5% (1-
+97.5% combined ratio)
+c. $90k total operating profit in first year: a x b
+d. -$10k total profit in first year: $90k - $100k development costs
+Profitability of Agents in year 1
+a. 50k paying customers expected in first year: 400k enquiries x 12.50% conversion rate 
+b. Average profit p.a. per customer = $1.50: $5 monthly premium x 6 months (average contract length at end of first year) x 5% (1- 95% 
+combined ratio)
+c. $75k total operating profit in first year: a x b
+d. $25k total profit in first year: $75k - $50k development costs
+Therefore selling via agents looks like the better option«
+113
+
+
+===== PDF p118 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Distribution Channels (based on Exhibit 1) ± continued
+However, tell the candidate that projections indicate a 10% increase in website development costs will change the conversion rate to 30%. 
+Does this change their answer?
+ 180k customers now expected in first year: 600k x 30% conversion rate
+ $135k total annual profit: $0.75 x 180k
+ $25k total profit at end of 1st year: $135k - $110k development costs
+Therefore, both options have first-year profits of $25k. Ask the candidate what their advice is now…
+Additional information (only provided to candidate when requested):
+ Combined Ratios and Conversion Rates are expected to remain unchanged in the future
+ Future # of website visits and agent enquiries are unknown
+ In the long-term, average contract length is expected to be ~3 years
+Candidates should note that since Development Costs are a one-time expense, the website should be more profitable after the first year. 
+However, they should clarify that if the # of visits or enquiries changes in the future (which seems likely) the profitability of the options would 
+change. 
+**Bonus points if the candidate notices that an average contract length of ~3 years makes the website even more desirable**
+114
+
+
+===== PDF p119 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Next Steps (Non-financial considerations)
+Now ask the candidate what other (non-financial) considerations need to be made regarding the roll-out of this new product
+The candidate should discuss qualitative considerations in a structured way. Topics could include:
+
+Marketing/Branding – How are Insuraco going to make insurance (often seen as a stuffy and conservative product) relevant, cool and 
+desirable to the U30s? 
+
+Marketing: Does Insuraco have the capability to pull off marketing to this age group, or does it need to hire new marketing expertise?
+
+Branding: Should Insuraco establish a new brand to sell this product, rather than selling under its existing brand?
+
+Management of existing agent relationships – Insuraco is currently heavily reliant on agents; it sells all its products through them! Will 
+adopting a new distribution channel endanger Insuraco¶s relationships with its agents? 
+
+Competitor response ± How can Insuraco defend its turf? We know that the product is easily replicable (insurers already offer it through 
+home/contents insurance and no new, novel coverages are being offered), so how can Insuraco differentiate its offering? 
+
+Growth opportunities: Could releasing this product ³open the door´ to further growth? What other insurances could Insuraco sell to the 
+U30s (e.g. travel insurance, home renters¶ insurance, auto insurance)? How can we foster brand lo\alt\ so that we are customers¶ insurer of 
+choice for ³bigger ticket´ insurances purchased later in life (e.g. homeowners¶ insurance, life insurance, medical insurance)?
+115
+
+
+===== PDF p120 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Sample Solution & Recommendations
+y Recommendation: Sell this new product via a website for a first-year profit of $25k
+y Why?: Market is expected to be large ($100m annual revenues), competitor-free and profitable (combined ratio <100%)
+y How?: Although the costs of setting up and operating a website are higher than other distribution channels, it is expected to be the most 
+profitable in the long-run because 1) it signs up the most customers, and 2) development costs are a one-time expense
+y Risks: Uncertainty around future # of site visitors and agent enquiries
+y Next steps: Conduct market research to understand future trends in site visits and agent enquiries; develop marketing and branding 
+strategy; manage agent relationships; consider competitor response; explore growth opportunities
+Guide: Good vs Great Case
+A good candidate will:
+A great candidate will:
+a) Confirm that the opportunity does indeed look 
+interesting ± a big, profitable and (currently) 
+competitor-free market
+b) Clarif\ the definition of the ³Combined Ratio´ before 
+starting calculations in Exhibit 1
+c) Identify the website as the favored distribution 
+channel
+a) Identify assumptions that are fixed (e.g. Combined Ratio, Conversion Rate) and 
+variable (e.g. Av. Contract Length, Future # of Website Visits/Agent Enquiries) 
+and proactively discuss what will happen if they change
+b) Notice that 100% - Combined Ratio § Profit Margin
+c) Discuss the growth opportunities of rolling out this new product (e.g. developing 
+and cross-selling new products, effect of winning customer loyalty at early age) in 
+the qualitative discussion
+116
+
+
+===== PDF p121 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+Exhibit 1 ± IQVXUaFR¶V Potential Distribution Channels ± 1st Year Projections
+Development 
+Costs
+Year 1 expected website 
+visits/agent enquiries
+Conversion 
+Rate
+Combined 
+Ratio
+Website
+$100,000
+600,000
+20.0%
+97.5%
+Agents
+$50,000
+400,000
+12.5%
+95.0%
+Average contract length at end of first year is 6 months
+Insuraco will only invest in one channel for this product
+117
+
+
+===== PDF p122 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+Insuraco: Smartphone insurance for under-30s
+Author: Tom DaYies (µ20D)
+𝑪࢕࢓𝒃𝒊࢔𝒆𝒅𝑹𝒂࢚𝒊࢕ൌ𝑻࢕࢚𝒂𝒍𝑪࢕࢙࢚࢙𝒊. 𝒆. 𝑪𝒍𝒂𝒊࢓࢙& 𝑶࢖𝒆࢘𝒂࢚𝒊࢔𝒈𝑬࢞࢖𝒆࢔࢙𝒆࢙
+∗
+𝑻࢕࢚𝒂𝒍𝑹𝒆࢜𝒆࢔࢛𝒆𝒊. 𝒆. 𝑷࢘𝒆࢓𝒊࢛࢓
+* Does not include Development Costs
+Exhibit 2 ± Combined Ratio Definition
+118

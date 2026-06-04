@@ -1,0 +1,169 @@
+===== PDF p38 =====
+ 
+Consulting Case Interview Question 
+ 
+Case No.: OPS9 
+Firm:      
+Type of Case:  
+Brain Teaser  (Why are manhole covers round?) 
+Market Sizing  (How attractive is the market for fire trucks?) 
+Operations  (Our client’s profits are down. Why?) 
+Declining Profits  
+Other 
+Marketing Problems 
+ 
+ 
+Initial Facts offered by interviewer:  [Please relate the facts the interviewer gave to set up the 
+question/problem. Provide sufficient information so the case can be adequately understood!] 
+ 
+A bank has a loan-issuing operation that requires the following steps: 
+ 
+• The loan application is generated at a branch office. 
+• A complete applicant background check is performed at the branch office. 
+• The application and background check are sent to a loan processing office. 
+• The background check is updated and verified (this takes much less time than 
+original check). 
+• The loan is either approved or denied. 
+ 
+The bank is considering getting rid of the first background check and only relying on the 
+loan processor’s check to speed the process.  If the loan processor does the whole check 
+with the proposed new software system, the check takes one additional hour per application 
+at the processor's office. 
+ 
+• The average profit margin for a "good" loan (i.e., loans which are repaid) is $0.20 per 
+dollar loaned. 
+• The average marginal loss for a "bad" loan (i.e., loans which are not repaid) is $0.50 per 
+dollar loaned. 
+• 50% of the applicants pass the first background check. 
+• 90% pass the second background check. 
+ 
+The Question(s): 
+ 
+Should the bank implement the revised system? 
+ 
+ 
+                                                                                                                                                        89 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p39 =====
+The Solution 
+ 
+Desired Framework:  [Check all that apply.] 
+X 
+Cost-Revenue and Profitability 
+ 
+ 
+The 4 P’s of Marketing 
+ 
+The 3 C’s 
+ 
+ 
+Value Chain Analysis 
+ 
+Porter’s 5 Forces 
+ 
+ 
+Microeconomic Analysis 
+ 
+Internal-External Factors 
+ 
+ 
+Other____________________ 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+ 
+Q: "What I would like to do is calculate the annual profits of the original system and compare those 
+to the annual profits of the proposed systems.  With that in mind, how many loan applications are 
+filled out per year…" 
+ 
+What followed were a series of questions designed to help calculate the annual profits of the two systems.  For the sake 
+of brevity, the actual questions have been left out.  The following facts, however, were revealed: 
+ 
+General 
+1. Number of loan applicants is only 1,000 per year 
+2. Average value per loan is $10,000 
+3. Given: Average profit margin for a "good" loan: $0.20 per dollar loaned 
+4. Given: Average marginal loss for a "bad" loan: $0.50 per dollar loaned 
+ 
+Original system 
+1. Default rate under the original system: 10% 
+2. Processing costs under the original system: $100/application 
+3. Given: Acceptance rate under the original system: 45% 
+• 50% of the applicants pass the first background check 
+• 90% pass the second background check 
+ 
+Proposed system 
+ 
+1. Default rate under the proposed system: 5% (estimated) 
+2. Processing costs under the proposed system: $60/hour 
+3. Processing time per application under the proposed system: 1 hr 
+4. Expected acceptance rate under the proposed system: 40%  
+5. Additional costs for the new program: $50/application 
+ 
+Based on the information provided, the following profit calculations could be made. 
+Original System: 
+• Revenues:  
+1. Dollars loaned: 1000 applications * 45% loans per application *  $10,000 per loan = 
+$4,500,000 
+2. Revenues per dollar loaned: [90% Good * $0.20 - 10% Bad * $0.50] = $0.13 
+3. Total revenues: $4,500,000 * 0.13 = $585,000 
+90 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 
+
+
+===== PDF p40 =====
+ 
+• Costs: $100 processing fee per application * 1000 applications = $100,000 
+Profit: $585,000 - $100,000 = $485,000  
+Proposed System: 
+• 
+Revenues: 
+1. 
+Dollars loaned: 1000 applications * 40% loans per application *  $10,000 per loan = 
+$4,000,000 
+2. 
+Revenues per dollar loaned: [95% Good * $0.20 - 5% Bad * $0.50] = $0.165 
+3. 
+Total revenues: $4,000,000 * 0.165 = $660,000 
+• 
+Costs: 
+1. 
+Processing fee: $60/hour * 1 hr/application * 1000 applications = $60,000 
+2. 
+Additional costs: $50/application * 1000 applications = $50,000 
+3. 
+Total costs: $110,000 
+• 
+Profit: $660,000 - $110,000 = $550,000 
+ 
+Wrap-up / Recommendations for client:  [Sum it all up!] 
+ 
+At first glance, it seems that the bank should progress with the new system. There are 
+additional costs, however, that the bank should consider, such as costs associated with 
+retraining employees, system installation costs, and so on.  That said, there might be 
+additional benefits, as well.  For example, a faster loan processing speed may help the bank 
+get more business. 
+ 
+Desired Answer / Blinding Insights / Twists and Turns (if any): 
+ 
+This case obviously tests your analytical skills.  Do not attempt to answer this question 
+without working through the calculations on a piece of paper.  If your math skills are poor, 
+this strategy could easily backfire, making you look stupid. This case is relatively 
+straightforward, but make sure that you have all the information necessary to develop an 
+answer.  
+ 
+• 
+Additional information that might be useful to your fellow Sloanies: 
+                                                                                                                                                        91 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 

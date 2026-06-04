@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2016_01_yachtco",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 1,
+  "case_name": "YachtCo",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Products/Leisure",
+  "difficulty": "Medium",
+  "pdf_page_start": 24,
+  "pdf_page_end": 32,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    28,
+    29,
+    30
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p028.png",
+    "exhibits/exhibit_p029.png",
+    "exhibits/exhibit_p030.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\01_yachtco"
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "Sloan_2008_14_brazilian-highway",
+  "school": "Sloan",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2008.pdf",
+  "idx": 14,
+  "case_name": "Brazilian Highway",
+  "case_type": "Investment",
+  "round": null,
+  "industry": "Infrastructure",
+  "difficulty": null,
+  "pdf_page_start": 98,
+  "pdf_page_end": 99,
+  "n_pages": 2,
+  "exhibit_pdf_pages": [
+    98
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p098.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2008\\14_brazilian-highway"
+}

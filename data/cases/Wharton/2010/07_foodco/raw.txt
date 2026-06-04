@@ -1,0 +1,134 @@
+===== PDF p85 =====
+Case 7: FoodCo
+Introduction
+Introduction
+P
+bl
+t t
+t
+ti
+81
+Problem statement narrative
+Our client is a private equity firm which has invested in FoodCo, a family-owned $19M branded frozen ethnic foods manufacturer 
+operating out of the Northeast. They would like our help to determine how FoodCo can triple their profitability over the next 2 years. 
+Overview for interviewer
+The interviewee may ask some clarifying upfront questions related to the goal of tripling profitability, and then they should develop a 
+framework of potential areas to explore. This will likely be divided into areas such as the external Market, Revenues, and Costs. 
+Additional information related to the client’s goal
+This information may be provided upon request:
+• The $19M figure is revenues
+• Profit is currently $3M (so the target is $3M * 3 = $9M)
+y $
+(
+g
+$
+$
+)
+
+
+===== PDF p86 =====
+Case 7: FoodCo
+Profitability enhancement
+Profitability enhancement 
+B
+i t
+i
+id
+f
+i
+i
+P
+fit bilit
+82
+Brainstorming ideas for increasing Profitability
+The candidate should present a framework to tackle the problem.
+Market: Assume that there are no major changes.
+Revenues
+• Price: we don’t have any flexibility; benchmarking has determined that the ideal price is being charged to customers.
+• Revenue Streams: For the purposes of this case assume that we produce ethnic food sold in “cups” e.g. a cup of noodles. This is the sole 
+revenue generating stream.
+• Quantity
+• Increasing this and expanding is an option but what are the implications?
+Increasing this and expanding is an option, but what are the implications?
+• We can’t build more operations centers. “We know that there is a lot of unmet demand but we are extremely capital 
+constrained and can’t look to increase production by opening a new plant.”
+• Other ideas
+• Expanding nationally through retail and food service channels
+• Expanding into new products, customers, and channels – organically or through acquisitions
+Point the interviewee towards efficiency gains through cutting costs
+Costs
+• Have the interviewee brainstorm a list. These could include food materials, storage (including refrigeration), logistics, labor, and 
+packing materials
+O
+th
+did t
+ith
+li i
+li t f
+t
+th t
+t
+f
+d th t
+j
+it
+f
+t
+ld b
+t
+i
+d i t
+• Once the candidate comes up with a preliminary list of costs, say that our team found that a majority of costs could be categorized into 
+four areas: Labor (50%), Equipment (25%), Administrative (20%) and Other (5%)
+• Ask them which area they would target to find savings. This should point to labor as is this more controllable and an unusually 
+large cost driver for this type of business. Show the following chart.
+
+
+===== PDF p87 =====
+Case 7: FoodCo
+Profitability enhancement
+Profitability enhancement 
+83
+Prompt: What are some ideas to improve efficiency?
+The key should be to reduce repair time, which is controllable. Ask for further ideas of how to do this.
+Indicate that through training and reconfiguration of equipment we can reduce repair time to 5% if we invest $500,000. Should we do 
+this?
+Answer:
+Labor Cost Base is $19 - $3 = $16.  $16 * 50% = $8M
+Savings from reduction = 22% - 5% = 17%.   17% * $8M = $1.36M
+So yes, we should invest.
+
+
+===== PDF p88 =====
+Case 7: FoodCo
+Follow up question
+Follow up question
+B
+84
+Bonus
+You may want to push the candidate here if they don’t realize this -- efficiency savings translate into higher production volumes. Ask them 
+to calculate what this increase would be and how it translates to revenues. For simplicity assume that all savings (in percentage terms) 
+translate directly to the same % increase in volume (e.g.17%).
+Revenue Growth = $19M * 1.17 = $22.23M
+Wrap-up
+Ask for the overall recommendation. Sample:
+B
+d
+i
+i
+i
+h
+h
+i i
+d
+i
+fi
+i
+b h
+d
+d
+b 17% Af
+h
+By reducing repair time through training and equipment reconfiguration, we can both reduce costs and grow revenues by 17%. After the 
+$500K investment, this means a total of roughly $7M profitability. This is not enough to reach the two year target, so we would have to 
+look at other sources/options for growth and expansion.

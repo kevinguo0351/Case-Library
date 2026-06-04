@@ -1,0 +1,28 @@
+{
+  "case_id": "Stern_2021_19_fungicide",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 19,
+  "case_name": "Fungicide",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Life Sciences / Pharma",
+  "difficulty": null,
+  "pdf_page_start": 216,
+  "pdf_page_end": 225,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    218,
+    222,
+    223,
+    224
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p218.png",
+    "exhibits/exhibit_p222.png",
+    "exhibits/exhibit_p223.png",
+    "exhibits/exhibit_p224.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\19_fungicide"
+}

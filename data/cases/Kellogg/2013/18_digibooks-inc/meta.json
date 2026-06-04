@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2013_18_digibooks-inc",
+  "school": "Kellogg",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2013.pdf",
+  "idx": 18,
+  "case_name": "DigiBooks Inc.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Technology / Media",
+  "difficulty": null,
+  "pdf_page_start": 160,
+  "pdf_page_end": 165,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    162,
+    163,
+    164,
+    165
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p162.png",
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p164.png",
+    "exhibits/exhibit_p165.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2013\\18_digibooks-inc"
+}

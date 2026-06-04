@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2014_05_orange-yoga-studio",
+  "school": "Fuqua",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2014.pdf",
+  "idx": 5,
+  "case_name": "Orange Yoga Studio",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Fitness/Wellness",
+  "difficulty": null,
+  "pdf_page_start": 57,
+  "pdf_page_end": 69,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    61,
+    62,
+    63
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p062.png",
+    "exhibits/exhibit_p063.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2014\\05_orange-yoga-studio"
+}

@@ -1,0 +1,152 @@
+===== PDF p16 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 13 
+ 
+ 
+Case 5: QuickEat Fast Food 
+Company: Boston Consulting Group 
+ 
+QuickEat is a fast food chain in the US with National Presence. The CEO of the company is planning to 
+introduce a customer loyalty program called ‘Quick Rewards’. You have been hired as the consultant 
+and they want to know if they should go ahead with this initiative. 
+ 
+Suggested Structure: 
+Step 1: Understand the features of the program 
+Step 2: What will be the incremental benefits to the company? 
+Step 3: What is the cost involved in this program? 
+Step 4: Do benefits exceed costs? 
+Step 5: Any other potential risks or opportunities 
+ 
+Data:  
+Program features: A customer will get 2 points for each dollar he spends. And when he reaches 200 
+points he will get some standard gifts. So for each 200 points they get one gift. 
+ 
+Benefits of the program: Data is for on a per store basis 
+ 
+Customer 
+Segment 
+# Customers 
+per store 
+Avg # visits 
+per year 
+Avg $ 
+per visit 
+% That join 
+program 
+Avg. #  
+additional visits 
+Heavy 
+8,000 
+30 
+4.00 
+20 
+6 
+Light 
+12,000 
+9 
+4.00 
+5 
+3 
+Contribution margin is 20% of the revenues 
+ 
+Costs of the program: Each gift costs the company $1. The customer gets one gift for each 200 points. 
+ 
+Instruction to the interviewer: Please read out the above data and don’t give it in the table format. 
+See how the candidate organizes his data.  
+The candidate is expected to calculate the following to justify his conclusion 
+- 
+Absolute revenue increase and percentage revenue increase for the ‘Heavy’ segment 
+- 
+Absolute revenue increase and percentage revenue increase for the ‘Light’ segment 
+- 
+Total profits from the program 
+The calculations are shown in the below table 
+ 
+ 
+  
+Heavy 
+Light 
+A 
+Total revenue without program 
+960000 
+432000 
+B 
+Additional revenue with program 
+38400 
+7200 
+C 
+% increase in revenue (B*100/A) 
+4.00% 
+1.67% 
+D 
+Incremental income @ 20% of rev (B * 20%) 
+7680 
+1440 
+E 
+Total points scored (A * 2) 
+1920000 
+864000 
+F 
+Cost of gifts (E * 1/ 200) 
+9600 
+4320 
+G 
+Net profit from the program (D Minus F) 
+(1920) 
+(2880) 
+
+
+===== PDF p17 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business Page 14 
+ 
+Conclusion: The results show that the program is a losing proposition. Why – The cost is spread over 
+all the purchases and not just the incremental spending. 
+ 
+Instruction to the interviewer: If the candidate reaches this conclusion, ask for suggestions to make 
+this program profitable. Most candidates may not distinguish between profits from Light and Heavy 
+users. Hence ask if this can be implemented only for heavy segment. Candidates who get creative at 
+this stage will get more points. Some suggestions would be 
+ 
+- 
+Negotiate with the gift vendor and negotiate a better price 
+- 
+Increase the number of points needed for a gift (However the incremental benefits may also 
+change) 
+- 
+Look at co-branded customer loyalty programs with other companies like airlines etc. This 
+way the cost can be shared and opportunities for revenue increase are more. 
+- 
+Explore alternate ways of discriminating between light and heavy users 
+ 
+Instruction to the interviewer: The CEO of the company says that the analysis is good. However he 
+wants you give him advice to increase sales (ideas apart from the loyalty program). This question is to 
+see if the candidate can quickly think of various ways to increase sales. Creativity will win points here 
+ 
+A good candidate would use the following framework 
+ 
+New Customers – New Products 
+ 
+ 
+New Customers – Current Products 
+ 
+Current Customers – New Products 
+ 
+ 
+Current Customers – Current Products 
+ 
+Instruction to the interviewer: Ask the candidate to give a 30 second summary of his findings and his 
+recommendations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

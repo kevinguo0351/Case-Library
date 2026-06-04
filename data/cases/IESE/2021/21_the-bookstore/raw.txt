@@ -1,0 +1,429 @@
+===== PDF p246 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+The Bookstore
+By Víctor Manzanares Bonilla (IESE MBA 2021)
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+242
+
+
+===== PDF p247 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROMPT
+Our client, Classic Bookstore (CB), is a
+traditional bookstore chain in Spain,
+specialized in non-technical books. CB’s
+revenue has stagnated for the past 3
+years, with a stable and loyal customer
+base. Now, as part of its new growth
+strategy, CB is considering whether to
+enter the electronic books market.
+The client is considering to sell a CB
+branded reading device and develop a
+website to sell e-books for it.
+Our client asked us to analyze this
+opportunity
+and
+provide
+a
+recommendation.
+CLARIFYING POINTS (if asked)
+• CB only sells to customers through physical stores, no online business is available.
+• CB has stores in the largest cities in Spain.
+• CB has 3 types of customers: AVID READERS (2 books/month), OCCASIONAL READERS (1 book/2 months)
+and RARE READERS (1 book/6 months).
+• Non-technical physical book market in Spain has been stagnated for the past 3 years.
+• CB has reached an agreement with an e-Reader manufacturer in China. Total cost per device would be 60€.
+These devices can only support the e-books sold on CB’s new website.
+• CB has no specific growth rate in mind and are open to suggestions from us.
+CASE GUIDANCE
+This is a case designed to be led by the candidate. Start by reading the case question and let the candidate
+drive the analysis. Do not provide any information until it is asked.
+This case primarily tests the understanding of market entry and its implications on the current business model.
+For simplicity, taxes and value of money over time have been ignored in this case, although excellent
+candidates should mention them during the case.
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+243
+
+
+===== PDF p248 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+INTERVIEWER GUIDANCE – STRUCTURE
+Candidate’s structure should cover the following key aspects of the problem.
+MARKET OPPORTUNITY: What is the market size of generic e-books in Spain? What is this market’s growth?
+POTENTIAL SHARE: What would be our market share? How many competitors are we facing in this market?
+POTENTIAL PROFIT: What is the potential profit of this new market? Expected revenues vs expected costs? What investment is required to enter
+in this new market? What is the expected return on investment of our client? Payback period?
+CAPABILITIES & RISKS: Does this new market align with our client’s strategy and capabilities? Do they have the know-how required? Have they got
+the financial capabilities to undertake this investment? What is the potential cannibalization of this new business model with the current one?
+The analysis should be led by the candidate, starting for the market size. When the candidate requests information about the market and size,
+ask him to estimate the size of the non-technical books in Spain, both in paper and e-books.
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+244
+
+
+===== PDF p249 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+INTERVIEWER GUIDANCE – MARKET SIZING
+(Suggested approach)
+1. Population of Spain: 45M
+2. Target population that reads: We assume people from 15 to 80
+years old.
+Population 0 – 20 (25%): 11.25M (Population 15-20: 11.25/4=2.8M)
+Population 21 - 40 (25%): 11.25M
+Population 41 – 60 (25%): 11.25M
+Population 61 – 80 (25%): 11.25M
+Total target population = 2.8 + 11.25 + 11.25 + 11.25 = 36.5 M
+3. Percentage of population that buys books: We assume 60% of
+people between 15 and 80.
+Total target population = 36.5M x 0.60 = 22M people
+4. Type of readers: We assume the following categories and quantities
+Avid Readers: 12 books/year x 2M readers = 24M books/year
+Occasional Readers: 6 books/year x 5M readers = 30M books/year
+Rare Readers: 2 books/year x 15M readers = 30M books/year
+Total books: 24 + 30 + 30 = 84M books
+5. Percentage of paper books and e-books and average prices:
+PAPER BOOKS (93% of books): 78M books x 15€/book = 1,170M€
+E-BOOKS (7% of books): 6M books x 8€/book = 48M€
+TOTAL MARKET: 1,170 + 48 = 1,220M €
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+245
+
+
+===== PDF p250 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROFITABILITY ANALYSIS – GIVEN DATA
+In the next step, the candidate should focus on profitability. Hand Exhibit 1 for this part and provide the following information if requested:
+REVENUE
+• Market Annual Growth: 5%
+• Expected Market Share: 1%
+• Paper book Gross Margin: 33%
+• E-book Gross Margin: 40%
+• E-reader price: To be determined by the candidate with
+Exhibit 2. Price range should be between 60 and 100€
+to compete against Kindle.
+• No customers change from paper to e-book after year 1.
+New readers are coming from new customers.
+COSTS
+• Webpage Investment: 150,000€
+• General Expenses website: 50,000€
+• Cannibalization: Candidate needs to calculate the number of users that will
+switch from paper to e-reader with Exhibits 1 & 3
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+246
+
+
+===== PDF p251 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+PROFITABILITY CALCULATION
+(*) This calculation has taken into account a gross margin of 10€ per e-reader. Candidate will have to pick the price in each case. 12,000 readers are sold the first year, 11,000 to 
+customers switching from paper to e-book and 1,000 to new customers.
+(**) No customers switch from paper to e-book after 1st year. New readers are sold to new customers acquired by market growth.
+YEAR
+1
+2
+3
+4
+5
+Market Size
+48M €
+50.4M €
+52.92M €
+55.6M €
+58.38M €
+Revenue e-books
+480,000 €
+504,000 €
+530,000 €
+560,000 €
+584,000 €
+Gross Margin
+190,000 €
+201,600 €
+212,000 €
+224,000 €
+232,000 €
+Profit from e-readers
+120,000 € *
+3,000 € **
+3,250 €
+3,750 €
+3,000 €
+Webpage investment
+- 150,000 €
+-
+-
+-
+-
+General Expenses
+-50,000 €
+-50,000 €
+-50,000 €
+-50,000 €
+-50,000 €
+Cannibalization
+-90,000 € (50,000 
+books x -1.8€)
+-90,000 €
+-90,000 €
+-90,000 €
+-90,000 €
+TOTAL PROFIT
+20,000 €
+64,600 €
+75,250 €
+87,750 €
+95,000 €
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+247
+
+
+===== PDF p252 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXHIBIT 1: NON-TECHNICAL BOOKS MARKET IN SPAIN
+E-BOOKS MARKET IN SPAIN
+PAPER BOOKS MARKET IN SPAIN
+Annual Growth = 5%
+Market Size: 1,170M€
+5%
+7%
+10%
+20%
+27%
+28%
+CB 2%
+2%
+Internet
+Others
+Specialized Store
+Telephone
+Subscription
+Competitor Chain
+Department Stores
+Annual Growth = 0%
+Market Size: 48M€
+5%
+9%
+11%
+75%
+Amazon
+Google
+Apple
+Others
+Average price per book: 15€
+Average price per e-book: 8€
+Average consumption per reader: 10 e-books/year
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+248
+
+
+===== PDF p253 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXHIBIT 2: ELECTRONIC READERS
+CB e-Reader
+Sony e-Reader
+Amazon Kindle
+Amazon Kindle 
+PRO
+Price
+TBD
+120€
+100€
+150€
+Cost
+60€
+-
+-
+-
+Formats accepted
+CB
+All formats
+All formats
+All formats
+Storage
+Up to 1,000 
+books
+Up to 1,500 
+books
+Up to 750 books
+Up to 2,000 
+books
+Extra Features
+Medium
+Medium
+Low
+High
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+249
+
+
+===== PDF p254 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+EXHIBIT 3: CB’S CUSTOMERS INFORMATION
+TOTAL CUSTOMERS: 390,000
+13%
+18%
+69%
+Avid Readers
+Occasional 
+Readers
+Rare Readers
+What do you value the most about CB?
+Customer 
+Service
+22%
+Quality of 
+products
+18%
+Variety of 
+stock
+Promotions
+50%
+10%
+Avid
+Readers
+Occasional
+Readers
+97%
+4%
+Rare
+Readers
+96%
+3%
+2.6%
+97.4%
+No
+Yes
+Would you consider switching to an electronic reader?
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+250
+
+
+===== PDF p255 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BRAINSTORMING 1
+How would you launch this product?
+In this question, the analysis should be carried out by focusing on the following
+main aspects:
+• Segmentation: What users are we targeting? What could be our main target
+considering the company’s strategy and client base?
+• Product: How can we highlight the strong aspects of our product? What do
+the customers want and how can we meet their demands?
+• Price: Although the price has been set before, additional measures can be
+explored, such as promotions, free gifts to great customers, etc.
+• Promotion: How should this product be marketed? What promotions
+should be used?
+• Place: Through which channels should this reader be sold?
+BRAINSTORMING 2
+What other measure could our client implement in order to
+increase revenues?
+In this question, the candidate should come up with additional measures to
+increase the current revenue streams. This measures should include:
+• Increase number of products. Maybe including technical books in our
+offer could increase the number of customers.
+• Creation of a loyalty scheme to try to increase average spending per
+customer.
+• Creation a referral program to increase our customer base.
+• Negotiate with e-reader supplier to include additional features.
+EXPECTED
+BRAINSTORMING 1
+EXPECTED
+BRAINSTORMING 2
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+251
+
+
+===== PDF p256 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+RECOMMENDATION
+What is your final recommendation for Classic Bookstore?
+• The candidate should recommend to enter in this new market of electronic readers and e-books.
+• Based on our calculations and projections, our client should expect a return of 342,600€ over 5 years from an initial investment of 150,000€.
+• RISKS: 1) Calculations have been based on projections of market share and a survey given by the client. Any deviation from this data could affect the profitability of
+the investment. 2) Similar book chains to CB could enter this market and reduce our client’s potential market share. 3) Cannibalization with our client’s current
+business model could damage the company’s results and image.
+• POTENTIAL NEXT STEPS: These risks could be mitigated by producing a deeper market analysis and carrying out further surveys among customers to have a more
+accurate prediction of the market behavior. Different programs could be explored to increase customer loyalty and new customers acquisition.
+Excellent candidate:
+• A candidate who points out that taxes and time value of money have not been considered during the profitability analysis and this would reduce the profitability of
+the investment.
+• A candidate who mentions the lack of experience and knowledge of our client in this new business as part of the risks. This could lead to a reduction in customer
+service, which is very valued by our CB’s clients.
+SAMPLE RECOMMENDATION
+The Bookstore
+Retail
+E-commerce
+Market Entry
+Easy
+Medium
+Hard
+252

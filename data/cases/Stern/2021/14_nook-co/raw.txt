@@ -1,0 +1,423 @@
+===== PDF p162 =====
+© 2021 NYU Stern MCA
+Nook Co.
+Authors: Ben Wang (Stern ‘21), Zoe Ye (Stern ‘21) Firm Style & Round: Bain Round 1
+[Interviewee-Led]
+Quant: 8
+Structure: 7
+Case Overview:
+Industry: PE / Hospitality
+Case Type: Private Equity
+Concepts Tested:
+•
+Market Sizing
+•
+Profitability & ROI
+•
+Business Risks
+Overview Information for Interviewer:
+Interviewee should quickly identify that this is a PE case that will require in depth valuation 
+for the target company.
+Key case steps:
+•
+Identify the PE client might have a specific ROI target
+•
+Understand market size and its relationship with Revenue
+•
+Evaluate target company against client’s ideal ROI
+•
+Creative assessment of risks
+•
+Confidence in recommendation
+Case Prompt:
+Your client Fun Ventures, an established PE firm, is looking to acquire Nook Co., a hospitality group that
+specializes in developing and transforming uninhabited islands into premium and private vacation destinations.
+Nook Co. proposed an initial offer of $1.5 Billion. Fun Ventures would like your advice on whether they should 
+proceed with the acquisition. What would you like to consider?
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+158
+© 2021 NYU Stern MCA
+
+
+===== PDF p163 =====
+Nook Co.: Case Guide
+Clarifying Information:
+Nook Co. Business Model:
+•
+Nook Co. acquire ownerships of islands, 
+construction resorts, and operate all on 
+island activities and the transportation to 
+and from the islands
+Geography:
+•
+Nook Co. operates 10 islands across East 
+Asia, with 5 additional islands in the 
+construction pipeline. But they serve 
+customers internationally
+Timeline:
+•
+Fun Venture is looking to make the
+decision as soon as possible
+•
+And is targeting a 15% ROI
+Competitive Landscape:
+•
+Four other global competitors, details to be 
+given later
+Interviewer Guide:
+•
+A Great Framework will include the following:
+•
+Island Development Market
+•
+Market size & growth
+
+Other competitors (market share etc.)
+
+Trends (increasing customer, AI usage etc.)
+o
+Nook Co.
+
+Services (development / travel agency / hospitality)
+
+Customers (B2B / B2C / demographics)
+
+Capabilities / Assets (operations, distribution, human resources)
+o
+Financial
+
+Valuation & valuation methods
+
+ROI
+o
+Other considerations
+
+Synergy within portfolio (travel agencies, constructions etc.)
+
+Risks (lawsuits, regulations, conflict of interests)
+•
+A great candidate will focus on market as first step. Otherwise, 
+guide the candidate towards market size calculation.
+159
+© 2021 NYU Stern MCA
+
+
+===== PDF p164 =====
+Nook Co.: Market Size
+Question 1:
+•
+What is the potential market size for premium island vacations?
+Notes to Interviewer:
+Market Data to provide to help interviewee （when asked for）:
+•
+World population is 8 Billion
+•
+Top 0.05% of world population has annual income of 100K+
+•
+Assume target customers visit once every 2 years
+•
+2 Guests/Room
+•
+Room rate is estimated to be $10,000 per night, all inclusive 
+(food, service, outdoor activities, etc.)
+Criteria
+Assumption
+World Population
+8 Billion
+Potential Customers
+0.01%
+% likelihood to visit
+10%
+Visit Frequency
+Once every 2 years
+People/ room
+2 People/room
+Average Stay
+5 nights
+Room rate/night
+$10,000
+Revenue/year
+$1B
+160
+© 2021 NYU Stern MCA
+
+
+===== PDF p165 =====
+Nook Co.: Profit Calculation
+Question 2:
+•
+What is the profit of Nook Co. in 2019?
+Notes to Interviewer:
+Provide Exhibit 2, 3 when interviewee asks for market/pricing/competitors information. 
+Provide Exhibit 4 when interviewee asks for cost information.
+Interviewee should provide insights of the graphs. Identify that Campfire Company is constantly the leading player in the market, with 
+highest market share and profit margin. But Nook Co. is growing very fast in terms of its market share.
+Interviewee should calculate the 2019 revenue instantly based on market value and market share %, then push for more information on 
+Nook Co’s pricing and costs.
+Excellent interviewee should
+1.
+Think about the reasons behind its rapid growth, maybe Nook co is superior to the others, or it offers higher value at lower price, etc.
+2.
+Identify that Nook Co. has high administrative cost. This cost may be managed if the company is taken over..
+3.
+Keep in mind about competitor’s margin %. After calculating Nook Co.’s profitability, compare it to the competitors, then conclude 
+that Nook Co. has low profit margin %, because it scarified its profit to penetrate the market.
+161
+© 2021 NYU Stern MCA
+
+
+===== PDF p166 =====
+Nook Co.: Profit Calculation
+•
+Calculate Profitability of Nook Co.
+•
+Refer to Exhibit A for competitive landscape.
+•
+Refer to Exhibit B for Revenue and Cost for Nook Co. and close competitor.
+Math Solution:
+•
+Nook Co. Revenue = 28% * 1B = 280M/year
+•
+Annual # of Stays = 280M / ($10,000 * 5 nights) = 5,600 stays/year
+•
+Nook Co. Cost = 196M
+•
+Variable Costs:
+•
+Labor:
+•
+Service Staffs: 2K/month * 12 month * 1K = 24M/year
+•
+Kitchen Staffs: 3K/month * 12 month * 500= 18M/year
+•
+Food and Supplies: 5K/stay *5,600 stays= 28M/year
+•
+Transport and Activities: 10K/stay * 5,600 stays = 56Myr
+•
+Fixed Costs
+•
+Maintenance and Utilities: 25M/year
+•
+Insurance: 15M/year
+•
+Marketing and Ads: 30M/year
+•
+Profit = 280M – 196M = 84M/year
+•
+Profit Margin = 30 %
+Additional Information:
+Provide when asked for, if candidate do not 
+ask, guide candidates to the information
+- Nook Co.’s price per stay: $10,000/night,
+avg stay is 5 nights
+-Across all islands, Nook Co. hires 1,000 
+service staffs, and 500 kitchen staffs
+162
+© 2021 NYU Stern MCA
+
+
+===== PDF p167 =====
+Nook Co.: ROI
+Question 3:
+•
+Guide the candidate to calculation the ROI on this acquisition. A great candidate will proceed to calculate ROI following Question 2.
+Math Solution:
+•
+NPV of Investment = 84M/0.05 = 1.68B
+•
+ROI = (1.68B – 1.5B)/1.68B = 12%
+•
+A good candidate will identify that this is slightly lower than the 15% ROI target.
+•
+An excellent candidate may calculate that if the PE firm can cut the administrative 
+cost by 5M, the ROI will be greater than 15%.
+Additional Information:
+Discount rate = 5%
+Assume Fun Ventures will hold Nook Co. 
+forever, ideally.
+163
+© 2021 NYU Stern MCA
+
+
+===== PDF p168 =====
+Nook Co.: Brainstorm
+Question #4:
+•
+What other potential risks would you like to consider in the acquisition of Nook Co.?
+Notes to Interviewer:
+Candidate can provide any reasonable answers that establishes logical analysis of the business model and situation. This is a chance to 
+showcase creativity and business acumen on the topic.
+Some potential reasons include:
+•
+Internal to Nook Co.
+- Unsustainable high growth rate
+- Customer churn after raising price level to normal
+- Generic service model has no competitive advantage
+- Manipulated financial statements from Nook Co. management
+•
+External to Nook Co.
+- Global warming and rising sea levels submerges owned islands
+- Conflict of interest with portfolio companies (travel agencies etc.)
+- Shift in consumer selection of vacation destinations
+- Safety and legal regulations from government organization
+Once candidate is done analyzing risks, push for a recommendation.
+164
+© 2021 NYU Stern MCA
+
+
+===== PDF p169 =====
+Nook Co.: Recommendation
+Recommendation:
+•
+The recommendation can be either Yes or 
+No, candidate need a direct 
+recommendation with supporting evidence 
+and confidence.
+•
+Yes Acquisition
+-
+ROI close to 15% target, further 
+improvement through PE management
+-
+High growth rate, limited # of competitors
+•
+No Acquisition
+-
+Does not meet the 15% ROI target
+-
+Growth through promotion is
+unsustainable in the long run
+-
+Slightly low margins vs. competitors
+Bonus: Guide to an excellent case
+•
+A great candidate will take the additional step to sell more work:
+-
+Help client save on costs and improve ROI
+-
+Help redesign pricing strategy to retain client while expand market share
+Risks:
+•
+Candidate should include some risks 
+that they brainstormed in Question 4
+Next Steps:
+•
+Any logical next steps shall be 
+credited
+•
+Sample Next Steps:
+-
+Form a taskforce to conduct further 
+due diligence of Nook Co.’s balance 
+sheet
+-
+Market research current customer 
+base to forecast market growth/pitfall
+165
+© 2021 NYU Stern MCA
+
+
+===== PDF p170 =====
+Exhibit 1: Nook Co. Resort Example (SE Asia Island)
+166
+© 2021 NYU Stern MCA
+
+
+===== PDF p171 =====
+Exhibit 2: Island Resort Market Share
+53%
+45%
+35%
+32%
+31%
+32%
+24%
+25%
+27%
+5%
+38%
+12%
+19%
+23%
+28%
+11%
+18%
+6%
+11%
+4%
+4%
+3%
+-
+200,000,000
+400,000,000
+600,000,000
+800,000,000
+1,000,000,000
+1,200,000,000
+2015
+2016
+2017
+2018
+2019
+Market Share 2015 - 2019
+Campfire Company
+K.K. Vacation
+Nook Co
+DAL
+C.J. Limited
+(In USD)
+167
+© 2021 NYU Stern MCA
+
+
+===== PDF p172 =====
+Exhibit 3: Competitors’ Price and Gross Profit %
+(In USD)
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+$0
+$2,000
+$4,000
+$6,000
+$8,000
+$10,000
+$12,000
+$14,000
+$16,000
+Campfire Company
+K.K. Vacation
+DAL
+C.J. Limited
+Price and Gross Profit % by Competitor
+Room Rate/Night
+Profit Margin
+168
+© 2021 NYU Stern MCA
+
+
+===== PDF p173 =====
+Exhibit 4: Nook Co. Cost Structure
+COGS & Salary (Variable Cost)
+Service Staff
+$2,000/month
+Kitchen Staff
+$3,000/month
+Food & Supplies
+$5,000/stay
+Transport
+$10,000/stay
+SG&A (Fixed Cost)
+Maintenance, Insurance & Utilities
+$25 M/year
+Marketing and Sales
+$15M/year
+Administrative
+$30M/year
+169
+© 2021 NYU Stern MCA

@@ -1,0 +1,40 @@
+{
+  "case_id": "Stern_2020_24_cups",
+  "school": "Stern",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2020.pdf",
+  "idx": 24,
+  "case_name": "Cups",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer Packaged Goods",
+  "difficulty": null,
+  "pdf_page_start": 267,
+  "pdf_page_end": 282,
+  "n_pages": 16,
+  "exhibit_pdf_pages": [
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    277,
+    278,
+    279,
+    280
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p270.png",
+    "exhibits/exhibit_p271.png",
+    "exhibits/exhibit_p272.png",
+    "exhibits/exhibit_p273.png",
+    "exhibits/exhibit_p274.png",
+    "exhibits/exhibit_p275.png",
+    "exhibits/exhibit_p277.png",
+    "exhibits/exhibit_p278.png",
+    "exhibits/exhibit_p279.png",
+    "exhibits/exhibit_p280.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2020\\24_cups"
+}

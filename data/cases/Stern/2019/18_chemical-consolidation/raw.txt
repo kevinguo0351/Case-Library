@@ -1,0 +1,245 @@
+===== PDF p180 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+176
+Chemical Consolidation
+Author: Ben Gottesdiener (Stern ‘20)
+Firm Style & Round: EY – Superday 
+Difficulty: Medium
+Case Overview:
+Industry: Industrials/Chemical
+Case Type: M&A
+Concepts Tested:
+•
+Synergies
+•
+Valuation
+•
+M&A Concepts
+Overview Information for Interviewer:
+•
+The case is intended to test concepts that are central to every 
+M&A case: 
+•
+(1) what is the industry structure before/after merger
+•
+(2) information about company A 
+•
+(3) information about company B 
+•
+(4) understanding of revenue and cost synergies + 
+risks to M&A
+Case Prompt: 
+Dowling Chemical Company, headquartered in Michigan, one of the largest global chemical 
+companies in the world that specializes in plastics with $20bn in sales, is considering a merger 
+with industry rival Chem-X, headquartered in Louisiana, who also specializes in plastics with 
+$10bn in sales. The management team of Dowling has retained your firm to provide a 
+recommendation on whether or not to proceed with the merger and assess the risk/rewards 
+of the recommended path forward.    
+
+
+===== PDF p181 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+177
+Chemical Consolidation: Case Guide
+Clarifying Information: 
+•
+Plastic is each company’s 
+only product
+•
+Plastic is a commodity 
+product with no differentiation
+•
+Both operate mainly in the US 
+and sell to the same set of 
+customers (packaging 
+companies etc)
+•
+The Chem-X team will likely 
+run the combined company
+•
+Plastics industry is 
+consolidated with 4 main 
+producers accounting for 90% 
+of market share (including 
+both Dowling and Chem-X, 
+who each have 25% share). 
+Interviewer Guide: 
+•
+A Good Framework Will:
+o
+Discuss the plastics market structure (size, growth, 
+profitability, pricing power, basis of competition).
+o
+Highlight information needed to assess Dowling and 
+Chem-X individually (revenue drivers, cost structure 
+(fixed and variable), market share, channels, customer 
+base)
+o
+Highlight integration challenges and sources of potential 
+synergies (culture, ability to integrate companies, 
+revenue synergies (i.e. cross selling), cost synergies 
+(fixed costs such as IT, headcount and headquarters and 
+variable costs such as purchasing power of raw 
+materials, distribution efficiencies)
+
+
+===== PDF p182 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+178
+Chemical Consolidation: Question 1
+Question #1 (provide Exhibit): 
+Dowling has determined the merger will cost the company $4bn in up-front costs if they proceed (legal, 
+banking fees, severance, site closures). However, they expect to generate $50mn in annual cost synergies 
+and believe they will be able to raise prices on its combined products by 5%. Will this merger create value?
+Math Solution: 
+Math Information: 
+•
+Current combined 
+sales = $30bn from 
+prompt
+•
+Average peer 
+EV/EBITDA = 11x
+•
+Average peer EBITDA 
+margin = 22%
+•
+Value of Cost Savings
+•
+$50mn in new EBITDA x 11x EV/EBITDA = $550mn value
+•
+Value of New Revenue from Price Increases
+•
+Current Sales: $30bn
+•
+5% increase in sales = $1.5bn
+•
+New EBITDA from increase in sales = $1.5bn x 22% 
+EBITDA margin = $330mn
+•
+$330mn in new EBITDA x 11x EV/EBITDA = $3.6bn value
+•
+Total Increase in Firm Value: $550mn + $3.6bn = $4.15bn 
+•
+Total Cost of Merger = $4bn
+•
+Conclusion: Merger Creates Value ($4.15bn > $4bn)
+
+
+===== PDF p183 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+179
+Chemical Consolidation: Exhibit 1
+Company
+EV/EBITDA 
+EBITDA Margin
+Peer 1
+10x
+20%
+Peer 2
+9x
+15%
+Peer 3
+15x
+30%
+Peer 4
+12x
+25%
+Peer 5
+10x
+20%
+Dowling and Chem-X Direct Peer Valuation and Margin Table
+
+
+===== PDF p184 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+180
+Chemical Consolidation: Guide to Exhibit 1
+Notes to Interviewer:
+•
+The goal of this exhibit is to help provide context to the interviewee on peer valuation multiples 
+and margins to help solve how much value will be created from the synergies and higher 
+revenue
+•
+It is fair to assume Dowling and Chem-X have a similar valuation and margin structure
+•
+The average EBITDA margin from this table is 22%
+•
+The average EV/EBITDA multiple from this table is 11x
+
+
+===== PDF p185 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+181
+Chemical Consolidation: Question 2
+Question #2: 
+•
+The company is attempting to identify major buckets of potential synergies and has asked for your help in 
+laying out potential areas to focus on in realizing synergies from the combination. How should the 
+company think about this? 
+Notes to Interviewer: 
+•
+Synergies are a critical component to an M&A case, and should be divided into revenue synergies and 
+cost synergies – push the candidate to consider both if they are struggling. 
+•
+Cost Synergies
+•
+Fixed
+•
+IT Integration
+•
+Headcount Reduction
+•
+Headquarters Consolidation
+•
+Back-office / Redundant Site 
+Consolidation
+•
+Variable
+•
+Purchasing Power of Raw 
+Materials 
+•
+Manufacturing Costs
+•
+Distribution Efficiencies 
+•
+Revenue Synergies
+•
+New potential markets (selling into 
+new channels or geographies)
+•
+Cross-selling opportunities (selling 
+to one another's customers)
+
+
+===== PDF p186 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+182
+Chemical Consolidation: Question 3
+Question #3: 
+•
+The Dowling management team is comfortable with the financial analysis for the merger, but is concerned 
+about risks. What risks should Dowling be considering that may pose challenges to the merger?
+Notes to Interviewer: 
+•
+This is an opened ended but important question aimed to allow the 
+candidate to explain common challenges with M&A
+•
+Important areas to consider are:
+•
+Culture: do the cultures align and if not, will that present 
+challenges? Will reducing headcount cause culture issues?
+•
+Management: who will run the combined company?
+•
+Headquarters: Where will new HQ be and will employees 
+be willing to relocate?
+•
+Systems: Will IT integration be complex and expensive?
+•
+Scale: will a bigger company be harder to manage? 
+•
+Regulatory: There are frequently anti-trust issues with 
+mega-mergers and the clarifying information noted the top 
+four producers account for 90% of the market 

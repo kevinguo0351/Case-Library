@@ -1,0 +1,204 @@
+===== PDF p56 =====
+Case: Mexico City Airport Taxi Services
+McKinsey, Round:  1
+Overview for interviewer
+Information to be provided upfront (hand candidate 
+attached exhibit)
+The authorities of the Mexico City airport have decided to issue 2,500 new taxi permits for $1,000 each. These permits authorize a 
+taxi to service arriving passengers. Your client has a taxi fleet in the city but does not service the airport. He has excess capacity 
+(meaning he has cars and drivers available). He has asked you to determine if he should buy those new permits. If so, how many 
+should he buy?
+Problem statement narrative
+52
+This is a profitability case, so the formula P = R-C should be 
+brought up quickly in the discussion and inform any 
+framework proposed by the candidate. 
+Use the discussion to guide the candidate towards 
+determining the possible revenue to be made and to talk 
+about costs to determine profitability.
+After the candidate presents his/her framework, give 
+candidate the handout containing information needed to 
+solve the case. The challenge with the handout is that it 
+contains a lot of information which the candidate will need to 
+process quickly to be able to use through the case.
+Case Type: Profitability / Operations
+Case Style: Command & Control
+All the information is given to candidate on the handout.  If 
+candidate asks for data again, refer him/her to the handout.
+•Airport handles 42 million passengers yearly.
+•There are 5,500 taxis operating in the airport.
+•On average a taxi takes 60 minutes to drive passenger and 
+return to airport for next pick up.
+•On average a passenger pays $200 cab fare via 
+regulated rates.
+•On average 40% of domestic flights passengers and 80% 
+of international flights passengers use taxis. 
+•30% of daily demand occurs between 6:00 a.m. and 10:00 
+a.m., 40% occurs between 6:00 p.m. and 10:00 p.m.
+•Assume each passenger uses one cab.
+•On average each taxi requires $8,000 yearly on 
+maintenance.
+•Taxi drivers keep 50% of the fare.
+attached exhibit)
+
+
+===== PDF p57 =====
+Case: Mexico City Airport Taxi Services
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+Estimate the number of passengers 
+arriving each day
+Estimate passengers that will require 
+taxis
+Estimate daily demand for taxis
+Estimate possible revenue 
+List possible costs: permits, car 
+maintenance, drivers’ salary, gas, car 
+repairs, etc
+P = R – C
+Estimate possible profits
+Demand not being met daily: 
+500 passengers in the morning 
++ 8,000 passengers in the evening
+= 8,500 passengers needing service 
+$200 = $1 700 000 d il
+53
+taxis
+Is this demand being met? 
+P  R C
+Profit = Revenue – maintenance repairs –
+driver commissions – permit cost
+P = 571,200,000 – ($8,000 x 2,000 
+taxis – 285,600,000 – ($1,000 x 2,000 
+taxis) = 267,600,000
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+Tell candidate to consider only permits 
+costs, car maintenance and drivers 
+salaries (the numbers for these costs were 
+given to candidate at the beginning of 
+the case interview on the handout)
+x $200 = $1,700,000 daily revenue
+Yearly Revenue = $571,200,000
+See following slide.
+Assume that passenger volume is 
+equally distributed through the year / 
+week / day.
+Assume that 50% of passengers are 
+from domestic flights and 50% 
+international flights.
+
+
+===== PDF p58 =====
+Case: Mexico City Airport Taxi Services
+Question 1 – Math 
+Estimate the number of passengers arriving each day:
+•
+42million/12 months = 3.5 million passengers monthly
+•
+3.5 million passengers / 4 weeks = 875,000 passengers weekly
+•
+875,000 passengers / 7 days = 125,000 passengers daily
+Estimate passengers that will require taxis:
+Overall approach, good shortcuts & solution
+Information needed to solve case is 
+given on the handout, which should have 
+been given to candidate early in the 
+case
+Information to provide up front
+Math Question
+Estimate the daily demand for taxis.  Is this demand being met?  If not, how many more taxis are needed?
+54
+•
+62,500 domestic passengers x 40% of domestic use taxis = 25,000 
+•
+62,500 international passengers x 80% of international use taxis = 50,000
+•
+Total passengers demanding taxis daily = 75,000
+•
+6am – 10am = 22,500 passengers need a taxi (= 75,000 x 30%)
+•
+6pm – 10pm = 30,000 passengers need a taxi (=75,000 x 40%)
+•
+Non-peak hours = 22,500 passengers need a taxi (=75,000 x 30%)
+Is this demand being met? 
+•
+From 6 to 10am, each taxi makes 4 trips (average trip takes 60min).  If we have 
+5,500 taxis operating then capacity serves 22,000 passengers. Excess demand=500 
+passengers.  250 domestic x 40% = 100 passengers + 250 international x 80% = 
+200 passengers for a total of 300 passengers needing a taxi / 4 rides per hour = 
+125 taxis needed to meet excess demand.
+•
+From 6 to 10pm, using the same logic capacity meets 22,000 passengers: 5,500 taxis 
+operating thus excess demand = 8,000 passengers (need 2,000 taxis).
+•
+During non-peak hours (16 hours) 22,500 passengers will need a taxi. With 5,500 
+taxis in operation there is capacity to serve 88,000 passengers during that time. In 
+that time period there is excess capacity. 
+To service demand not being met in the morning and night periods 2,000 taxis are required.
+Provide information if asked
+Assume that passenger volume is equally 
+distributed through the year.
+Assume that 50% of passengers are 
+from domestic flights and 50% 
+international flights.
+Assume all existing taxis can run during 
+peak hours and that maintenance is a 
+minimal time commitment.
+
+
+===== PDF p59 =====
+Case: Mexico City Airport Taxi Services
+Mexico City Airport Taxi Facts & Assumptions
+¨
+Airport handles 42 million passengers yearly
+¨
+There are 5,500 taxis operating in the airport
+¨
+On average a taxi takes 60 minutes to drive passenger and return to 
+airport for next pick up.
+¨
+On average a passenger pays $200 cab fare via regulated rates
+55
+¨
+On average a passenger pays $200 cab fare via regulated rates 
+¨
+On average 40% of domestic flights passengers and 80% of 
+international flights passengers use taxis. 
+¨
+30% of daily demand occurs between 6:00 a.m. and 10:00 a.m., 40% 
+occurs between 6:00 p.m. and 10:00 p.m.
+¨
+Assume each passenger uses one cab
+¨
+On average each taxi requires $8,000 yearly on maintenance
+¨
+Taxi drivers keep 50% of the fare
+
+
+===== PDF p60 =====
+Case: Mexico City Airport Taxi Services
+Sample Recommendation
+Client should buy2,000 permits based on the potential yearly profit of $267,600,000 from excess 
+demand at the airport. 
+Recommendation
+Possible retaliation from other tax companies, such as entering other markets where the client operates 
+and stealing clients.  There is no guarantee airport will not allow additional permits in the future which 
+could increase the number of taxis at the airport.
+Risks
+56
+There is no guarantee that all excess demand will be 
+serviced by client cars, especially because if he is 
+buying only 2,000 permits, another taxi company can 
+buy the remaining 500 permits and compete for the 
+excess demand that isn’t being currently served.
+An option would be to buy all 2,500 permits, and 
+using only 2,000 taxis (blocking another tax company 
+from buying 500 permits) that would reduce profits to 
+$267,100,000 (just subtract from profits the cost of 
+buying the additional 500 permits). 
+BONUS

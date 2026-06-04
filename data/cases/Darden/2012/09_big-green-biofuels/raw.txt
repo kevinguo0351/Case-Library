@@ -1,0 +1,173 @@
+===== PDF p118 =====
+CASE 9:  
+BIG GREEN BIOFUELS 
+Case Question: 
+Big Green Fuel Systems, a large provider of fuel additives required for the 
+production of gasoline, has recently developed a substantially improved form of 
+ethanol that adds 20% efficiency (measured as miles driven on a single gallon of 
+ethanol). This version of fuel is costly to produce but the market is large and 
+growing more rapidly as increased amounts of ethanol are being used in fuel 
+blends. The company has engaged your team to help determine the viability of 
+this new product, and, if it is viable, how to go about the process of launching it. 
+ 
+Firm Style 
+Interview Round 
+McKinsey 
+2 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+Is the company working in the US only? 
+Yes, please concentrate on the US market only. 
+Does the current infrastructure exist to make 
+and support this product? 
+It’s compatible with other infrastructure in the 
+external value chain, but Big Green does not 
+yet have the capacity to mass produce it. 
+Cont’d on next slide 
+
+
+===== PDF p119 =====
+BIG GREEN BIOFUELS 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+What criteria does Big Green want us to use to 
+determine the viability of the project? 
+Please develop your own criteria. 
+What is the value chain for this product from Big 
+Green to the consumer? 
+Ethanol is delivered from manufacturers to fuel 
+blenders, who then sell and deliver in bulk to 
+filling stations, who in turn sell it to consumers. 
+Does Big Green have a patent on this 
+technology? 
+Yes, they have a patent. 
+
+
+===== PDF p120 =====
+BIG GREEN BIOFUELS 
+Structure / Framework 
+This is a value chain analysis case.  The analysis may include, but is not 
+limited to, the following areas:  
+• Standard valuation (ROI + intangible benefits). What is the initial and 
+recurring investment? 
+• What is the incremental profit from this venture? What can be gained 
+beyond the sale of ethanol? 
+• What barriers exist for this product? How will the value chain 
+respond? Can we make it?  
+• What is the standalone value of this product, and what is its value to 
+other producers? Can we sell it? 
+• What will existing competitors do in response? 
+ 
+
+
+===== PDF p121 =====
+BIG GREEN BIOFUELS 
+Strong Plan 
+Includes valuation of the product as part of Big Green and at least 
+considers its value for other firms. It is necessary to consider barriers to a 
+successful launch (both internal capability and external pressures). Also 
+a strong plan considers the competitive response and how it is 
+manifested throughout the value chain. Intangible benefits (spin-offs, 
+positive PR, etc.) should be considered as well. 
+ 
+Weak Plan 
+Valuation is important but not strong enough on its own. Failing to 
+consider costs and investments (both fixed and working capital) is a 
+shortcoming. Failure to consider the possibility of selling the product to 
+another, more capable company shows lack of creativity. Intangible 
+benefits (hard to quantify) are a strong opportunity to showcase 
+creativity as well. Failure to consider competitive response and the full 
+impact on the value chain would also result in a negative hit. 
+
+
+===== PDF p122 =====
+BIG GREEN BIOFUELS 
+Calculations 
+Interviewer:  Thank you for sharing your approach. Now I would like you to size 
+the market for me. But I will give you some data. First, there are two ethanol-
+gasoline blends used in the US, E-85 and E-15. E-85 is 85% ethanol at 10% of the 
+market and E-15 is 15% ethanol at 90% of the market. The number of miles driven 
+in the US last year was 1,800 billion miles. Please give me the market in gallons for 
+ethanol. 
+  
+This is fairly simple, but it’s important to first develop the approach (gallons of 
+ethanol = (1,800 billion total miles / X average gas mileage) * 85% ethanol 
+content * 10% of the market + (1,800 billion total miles / X average mileage) * 
+15% ethanol content * 90% of the market.  
+ 
+A key is seeing that the X mileage is missing and is needed, so the interviewer 
+should ask for it. This will yield a response from the interviewer of 20 miles per 
+gallon on average.  Thus: (1,800 billion / 20) * .85 * .10 + (1,800 billion / 20) * .15 * 
+.90 = 19.8 billion gallons of ethanol. 
+ 
+Expected Insight:  One should notice that there’s not enough information and 
+know to ask for the average mileage in the US (20 miles/gallon). Also, one should 
+ask about the 20% additional efficiency, but the interviewer will instruct the 
+interviewee to ignore it. Once the interviewee calculates the answer, he or she 
+should remark about the size of the market, and immediately want to know how 
+fragmented  it is, and will be told it’s highly fragmented. 
+
+
+===== PDF p123 =====
+BIG GREEN BIOFUELS 
+Interviewer:  Good. Now, the analysis has determined that there is no savings by 
+using this new fuel blend. Basically, the fuel costs exactly as much to develop 
+and deliver as can be gained by selling it. But the CEO has staked his reputation 
+on this product, so he is committed to delivering it. Please explain how you 
+would best appeal to each level in the value chain in order to best promote this 
+improved product. 
+ 
+Expected Insight:  The value chain should be looked at from source to 
+consumer:  
+• Selling to blenders: the fuel blenders will have to blend 20% less (but will pay 
+for it as a price premium). However, they could use it as a competitive 
+advantage by differentiating on its basis. Additionally, it could reduce its 
+distribution costs (delivering less to filling stations). Also, blenders would have a 
+competitive advantage by being positioned for potential future government 
+regulation. 
+• Filling stations: differentiating factor for eco-sensitive consumers. Point of 
+positive public relations. Appeals to drivers who want to spend less time filling 
+up. Less refills needed from the blender, so less delivery costs. Could also make 
+it possible to distribute gas from smaller tanks, making it possible to put new 
+stations in formerly prohibitive locations.  
+• Consumers: eco-friendliness. Higher cost of fuel set off by less need to fuel up 
+(efficiency) and there is an additional value add since they’ll spend less time 
+at the gas station. 
+ 
+
+
+===== PDF p124 =====
+BIG GREEN BIOFUELS 
+Recommendation 
+The recommendation should include the following: 
+•
+The answer – Since the interviewer will make it clear that the CEO is intending to roll out the 
+new fuel, this is a given. The main points from the second question, regarding the value 
+chain, should be included as supporting evidence.  
+•
+The number(s) – The ethanol market number is optional and may not do anything to add 
+value to the argument. 
+•
+Risks or considerations – Rolling out the new fuel could cause a price-perception problem 
+(higher cost to fill up). Attempts to fix this through marketing efforts could also drive 
+marketing costs. There is also the consideration of what it means to release a new fuel, 
+including risk that the fuel is more corrosive than other existing fuels. 
+•
+Next steps – Next step would be launching a pilot program, including marketing efforts, to 
+test the fuel for its efficacy. Lessons learned would be applied to a gradual national roll-out. 
+ 
+Strong Recommendation  
+The CEO has indicated that he wants to roll out the new fuel. The best way to do this is to 
+appeal to blenders and gas stations on the basis of reduced delivery costs and enhanced 
+public relations, and appeal to consumers on the basis of eco-friendliness and fewer required 
+fill-ups. The biggest risk is alienating consumers due to the higher cost perception and 
+alternatively the marketing cost of mitigating this perception. 
+ 
+Weak Recommendation 
+The market size is 20.9 Billion gallons of ethanol each year. Thus Big Green should roll out the 
+new product because it’s more efficient and could cut associated costs and make green 
+consumers happy. 

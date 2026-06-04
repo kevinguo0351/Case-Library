@@ -1,0 +1,261 @@
+===== PDF p49 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+45
+Author: Aatman Chaudhary (Stern ‘15)
+Case Style: Interviewee Led
+Difficulty: Easy
+Case Overview:
+Industry: Luxury Goods
+Case Type: Business 
+Improvement / Optimization
+Concepts Tested:
+•
+Operations
+•
+Math
+Overview Information for Interviewer:
+The case requires the candidate to explore the process involved in making 
+the shoes. The solution lies in a change in the process, deploying 
+resources in a more effective manner. 
+The interviewer should direct the candidate towards asking about the 
+process and existing internal resources rather than external solutions. 
+Once the labor solution has been derived, the interviewee should move on 
+to calculating the maximum weekly output and profitability.
+Case Prompt:
+Our client owns a designer shoe-store that makes high end made-to-measure shoes for customers.
+The high-quality product has gained popularity rapidly and the client wants to ramp up production. 
+However, the highly-skilled labor that our client employs is hard to come by.
+Our client wants us to help them figure out how to increase output without adversely affecting quality 
+and the company’s potential profitability.
+Made to Measure
+
+
+===== PDF p50 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+46
+Clarifying Information:
+•
+There are no additional skilled 
+shoemakers available in the 
+market
+•
+The shoe-making process has 3 
+stages, cutting, stitching and 
+finishing
+•
+Currently there are 15 workers, 
+each of whom take an average of 
+12 hours to produce one pair of 
+shoes
+•
+Each shoemaker performs all 
+three steps of the process under 
+the current system
+•
+If the candidate asks whether the 
+process can be changed to one 
+where shoemakers perform 
+specific tasks, say yes
+Interviewer Guide:
+This case is a simple process re-working. The challenge for the 
+candidate is to ask enough questions about the process to identify the 
+fact that the resources (i.e., the labor) are not being utilized in an 
+optimal manner. The interviewer should steer the candidate away 
+from technology or external solutions.
+The exhibit is a result of a survey and groups the different employees 
+based on their skill sets. The table provides the number of hours a 
+group of employees takes for each task and should be provided when 
+the interviewer asks for more details about the labor model and 
+employee skill sets.
+The key for the candidate is to identify that by getting the workers to 
+perform specialized tasks, the average time per pair of shoes can be 
+reduced from 12 hours to 9 hours, thereby increasing the output.
+For the profitability question, a calculation guide has been provided 
+for the interviewer.
+Made to Measure: Case Guide
+
+
+===== PDF p51 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+47
+Notes to Interviewer:
+•
+The candidate should be able to grasp that there is clearly a misalignment of skills and tasks, 
+and that introducing specialization is a way to boost the output without compromising quality.
+•
+The candidate should realize each group should focus on the activity that takes it 3 hours, 
+reducing the total production hours per pair of shoes to 9 hours.
+•
+The candidate should then continue to drive the case forward recalling the profitability question
+Made to Measure: Interviewer Guide to Exhibit 1
+
+
+===== PDF p52 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+48
+Once the candidate has arrived at the optimal process, they should calculate the new output level, and 
+the total new profit per week, based on the assumptions provided.  The candidate should ask for the 
+price, costs, and employee hours without being prompted.
+Math Solution: 
+Math Information:
+Employees work 9 hours a 
+day, 5 days a week
+Price : $300/pair
+Material cost: $ 40/pair
+Shipping: $ 10/pair
+Employee wages: $15/hour
+Fixed costs: $ 1000/week
+The calculations are relatively straightforward, the critical part is the first 
+step, which involves calculating the new output level. This should be 
+done assuming that under the new system the average time taken for a 
+pair of shoes drops from 12 hours to 9. 
+The per pair hours and the total available hours and the total number of 
+employees are enough to calculate the output level, which can then be 
+followed by the cost calculations. Please refer to the calculation guide 
+after the exhibit.
+Made to Measure: Profitability
+
+
+===== PDF p53 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+49
+Calculation Guide:
+Parameter
+Units
+Value
+Output Calculations
+Hours per pair in new system
+Hours
+9
+Hours per week per employee
+Hours
+45
+Per week output per employee
+Pairs
+5
+Total employees
+Number
+15
+Weekly output
+Pairs
+75
+Profit Calculations
+Shoe selling price
+$/pair
+300
+Materials and delivery cost
+$/pair
+50
+Gross profit per pair
+$/pair
+250
+Total gross profit per week
+$
+18,750
+Employee cost per hour
+$/hour
+15
+Total employee cost
+$
+10,125
+Weekly fixed costs
+$
+1,000
+Weekly profit
+$
+7,625
+Annual profit
+$
+396,500
+Made to Measure: Question 1
+
+
+===== PDF p54 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+50
+Recommendation:
+•
+The process should be 
+changed into one where each 
+group of employees does a 
+specific task. 
+•
+Group 1: cutting
+•
+Group 2: finishing
+•
+Group 3: stitching
+•
+This will reduce the average 
+time per pair of shoes to 9 
+hours, enabling the client to 
+scale up the operation within 
+the specified constraints
+Bonus: Guide to an excellent case
+•
+An excellent case would be marked by a candidate who focuses and quickly understands the process. An 
+exceptional candidate should be able to move quickly from the exhibit to the solution, and leave enough 
+time for the calculations.
+Risks:
+•
+Any process change, especially 
+heavily entrenched processes 
+are fraught with risk. 
+•
+Employees may be used to the 
+old system and there may be 
+bumps in the road in 
+implementation. 
+•
+There may also be one time 
+costs associated with 
+implementing these changes, 
+especially if it involves a layout 
+change in the workshop
+Next Steps:
+•
+Monitor the process as time 
+progresses, consider 
+implementing the change in  
+phased manner, using a pilot 
+group to test whether there 
+are substantial gains to be 
+made, and identify hiccups 
+early.
+•
+This may result in a smoother 
+implementation, however the 
+gains could be slower in 
+coming. 
+Made to Measure: Recommendation
+
+
+===== PDF p55 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Employee Survey
+Hours per 
+activity
+Group 1 (5 
+employees)
+Group 2 (5 
+employees)
+Group 3 (5 
+employees)
+Cutting
+3
+5
+4
+Stitching
+4
+4
+3
+Finishing
+5
+3
+5
+Total Hours
+12
+12
+12
+51
+Made to Measure: Exhibit 1

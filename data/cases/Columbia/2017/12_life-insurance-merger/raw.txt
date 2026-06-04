@@ -1,0 +1,161 @@
+===== PDF p108 =====
+Case 12 - Life Insurance Merger
+Our client is a German insurance company that is merging with another German insurance company. Our 
+client currently utilizes an independent sales force structure, where its sales team can sell any type of 
+insurance to customers. The other insurer utilizes a non-independent sales force structure, where its sales 
+team has less autonomy and can sell only its insurance to customers. It has three options: 1) Keep the 
+independent sales force model under the merged insurance company; 2) Move to the non-independent sales 
+force model under the merged insurance company; 3) Keep the status quo for each company, under one 
+umbrella company.  What should our client’s strategy be moving forward?
+Problem Statement Narrative
+Case 12: Life Insurance Merger
+Case is a relatively simple exercise of all aspects of basic casing: framework. Exhibit analysis and simple 
+mental math. Interviewer should lead interviewee to ask additional questions to uncover full information in 
+the case. 
+Case Notes
+Industry: 
+Insurance
+Case Type: 
+M&A
+Firm:
+Bain
+• Profitability
+• Synergies
+• Creativity
+• Mental Math
+Concepts Tested
+Structure
+Creativity
+Math
+Easy
+Easy
+Easy
+104
+
+
+===== PDF p109 =====
+Sample Framework
+This can be framed in a number of different ways. 
+One option is to simply outline the three options 
+and talk about the pros/cons of each. 
+Another option is to create a company bucket to 
+look at the merged company’s profitability and a 
+market bucket to consider the market dynamics.
+Sample Framework
+After the interviewee goes through their 
+framework, have them brainstorm some of the pros 
+and cons of each option. Especially focus on cost 
+synergies, and encourage them to mention that a 
+positive of an independent sales force is customer 
+retention, while a positive of a non-independent 
+sales force is market share.
+Guidance for Interviewer
+•
+Our client offers life insurance, as does the 
+other insurance company.
+•
+There is no specific timetable or expected 
+return.
+•
+Our client’s independent sales structure means 
+that its sales agents can sell competitors’ 
+insurance.
+•
+There is no information on competitors.
+•
+Our client does not anticipate revenue 
+synergies.
+Clarification Answers if Asked 
+105
+Case 12 - Life Insurance Merger
+
+
+===== PDF p110 =====
+Question #1
+Give Exhibit 1 showing the expected revenue losses for options 1) Move to independent and 2) Move 
+to non-independent; Which option do you think would be best?
+Question #1
+The interviewee has to calculate how much revenue would be lost under each option. Under option 1) the 
+other insurer was generating $200M in revenue, but would lose 20% of its revenue by switching to an 
+independent structure. Under option 2), our client was receiving $400M in revenue, but would lose 20% of 
+its revenue by switching to a non-independent structure.
+Once the interviewee understands the exhibit, he/she should calculate the new revenue under these options. 
+The interviewee should assume that revenue will remain the same under option 3).
+Option 1 (independent): 400 + 0.8*200 = $550M
+Option 2 (non-independent): 0.8*400 + 200 =$520M
+Option 3 (status quo): $600M
+Solution
+106
+Case 12 - Life Insurance Merger
+
+
+===== PDF p111 =====
+Question #2
+Given this information, the interviewer should calculate the new profitability. 
+Interviewee should ask about additional cost information (if she/he doesn’t, interviewer can push 
+interviewee towards discussion about costs)
+Interviewer: we don’t have the specific breakdown of costs, but we know that each one of the options has a 
+10% profit margin, before factoring in the cost synergies.
+Given this new information, the interviewee should calculate that profits are (10% of answers to Q1):
+Option 1: $55M
+Option 2: $52M
+Option 3: $60M
+And then add in the $10M in cost synergies for Options 1 and 2, creating a new profitability of $65M and 
+$62M, respectively. Given this calculation, the interviewee should recommend Option 1.
+Question #2
+The company has also conducted a synergy estimate, and they believe that the merger could generate $10M 
+in cost synergies if the new merged company does not keep the status quo. How does this effect your 
+conclusion regarding the option to choose?
+Question #2
+Solution
+107
+Case 12 - Life Insurance Merger
+
+
+===== PDF p112 =====
+Conclusion
+• The independent sales structure creates $65M in 
+profits, whereas the other two options will create 
+less. 
+Rationale
+• The company should move to the independent 
+sales-force structure post-merger.
+Recommendation
+• Launch pilot to see effect of independent sales 
+force on sales.
+• Review company’s offerings to minimize 
+cannibalization and increase effectiveness of 
+sales.
+Next Steps
+• Competitors may pick off some of the merged 
+company’s customer base or market share.
+• Independent sales force may not push the 
+merged company’s products strong enough.
+• Merged company’s products may cannibalize 
+each other.
+Risks
+108
+Case 12 - Life Insurance Merger
+
+
+===== PDF p113 =====
+Exhibit 1 (all figures in $M)
+Option 1 
+(Independent 
+structure)
+Option 2 
+(Non-Independent 
+structure)
+Option 3 
+(Status quo)
+Client’s revenue
+400
+-20% of status quo
+400
+Second company’s 
+revenue 
+-20% of status quo
+200
+200
+109
+Case 12 - Life Insurance Merger

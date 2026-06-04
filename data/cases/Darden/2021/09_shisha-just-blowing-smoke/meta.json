@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2021_09_shisha-just-blowing-smoke",
+  "school": "Darden",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2021.pdf",
+  "idx": 9,
+  "case_name": "Shisha: Just Blowing Smoke?",
+  "case_type": "Market Entry",
+  "round": "1",
+  "industry": "Public Sector",
+  "difficulty": null,
+  "pdf_page_start": 116,
+  "pdf_page_end": 125,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    119,
+    120,
+    121,
+    122
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p119.png",
+    "exhibits/exhibit_p120.png",
+    "exhibits/exhibit_p121.png",
+    "exhibits/exhibit_p122.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2021\\09_shisha-just-blowing-smoke"
+}

@@ -1,0 +1,185 @@
+===== PDF p20 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 2: Drug Profitability 
+Our client is a pharmaceutical company that has developed a remedy for female balding. The drug has cleared a lengthy and delayed 
+testing process. The drug will be off patent in five years. Before initiating drug production, the client wants us to determine whether the drug 
+will be profitable and whether or not to go ahead with production.  
+This is a candidate led go/no go case based on profitability. There is a market sizing component that is central to the case. The interviewer should 
+direct the candidate to spend more time on revenue than cost. The interviewer should let the candidate know that the $8B spent on testing is a 
+sunk cost if this item is missed by the candidate. Given that there are many ways to approach the market sizing portion of the case, the final 
+recommendation may vary and it is possible to “crack the case” with a recommendation that differs from those highlighted in the Sample 
+Conclusions and Recommendation.  
+ 
+A good candidate will approach the market sizing exercise by looking at both the demand for the product as well as product affordability to 
+arrive at a reasonable market size. Taking the case the to the “next level” requires bringing in other relevant dimensions of market sizing such as 
+consumer awareness of the product or questioning if a lower price would result in greater market share at a profitable level.  A superior 
+candidate will immediately catch that the $8B spent on testing is a sunk cost. 
+Case Prompt 
+(to be read to the candidate) 
+16 
+Interviewer Guide 
+• Candidate Led  
+• Market Sizing 
+• Pharmaceutical 
+Easy  
+Normal 
+Hard 
+
+
+===== PDF p21 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+• The candidate should assume that the price of the product is 
+comparable to the substitute at $2,000/unit 
+• $ spent on testing: $8B 
+• Production: $1B/year 
+• Marketing and sales efforts: $2.5B/year 
+• Distribution: $800M/year 
+ 
+17 
+Case 2: Drug Profitability 
+Continued… (page 2 of 5) 
+Background Information 
+(to be provided when requested by candidate) 
+Costs 
+Market 
+• One comparable substitute currently exists that will divide 
+market share equally with client once client’s drug is in market 
+• Post-patent expiry client’s share will shrink to 20% of share pre-
+patent expiry 
+• No information on current market size – candidate should be 
+asked to size the overall market and the client’s market share  
+• Average woman starts balding at age 40 and between the ages 
+of 30-40 the drug has some preventative benefits 
+• Starting at 60, even the most effective drugs cannot remedy 
+female balding 
+• Assume that our drug and current comparable substitute have no 
+comparative advantage over the other (both will split market and 
+charge the same price) 
+• Payment for the product is not covered by most health insurance 
+plans 
+Product 
+
+
+===== PDF p22 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Age bracket 
+Population 
+% interested 
+0 - 10 
+20 
+0 
+10 - 20 
+20 
+0 
+20 - 30 
+20 
+0 
+30 - 40 
+20 
+40 
+40 - 50 
+20 
+60 
+50 - 60 
+20 
+60 
+60 - 70 
+20 
+0 
+70 - 80 
+20 
+0 
+Total 
+160 M 
+18 
+Sample Analysis 
+Case 2: Drug Profitability 
+Continued… (page 3 of 5) 
+• The U.S. population is somewhere around 300 M, while females make up roughly 50% or 150 M of this population 
+• Not all women will have the same interest for our product, Assuming a life expectancy of 80 years, let’s say that women aged 40-80 
+are largely at risk of balding, Let’s start off by saying that roughly 60% of women in this category are interested in our drug 
+• Let’s revise that to be 60% of women between 40 and 60 and 0% of women between 60 and 80 years of age are interested in our 
+drug (if candidate doesn’t ask, inform him of the relevant fact stated in the ‘information’ section of this case) 
+• Additionally assume that 40% of women between 30 and 40 are also interested in the drug for prevention 
+• I am going to assume that each 10 year age bracket is evenly distributed 
+• I am going to revise my 150 M female population upwards to 160 M for ease of calculation 
+# interested 
+0 
+0 
+0 
+8 
+12 
+12 
+0 
+0 
+32 M 
+
+
+===== PDF p23 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Income bracket 
+% total 
+Total Population 
+Low 
+20 
+3 
+Middle 
+60 
+10 
+Upper 
+20 
+3 
+Total 
+16 M 
+19 
+Sample Analysis (continued) 
+Case 2: Drug Profitability 
+Continued… (page 4 of 5) 
+• 32 M seems a little high, this is likely because the estimate of the % interested should be revised down 
+• Let’s say that 20% of women aged 30-40 and 30% of women aged 40-60 are interested; this would mean that a total of 16 M 
+women are interested in the product 
+• With a price tag of $2,000, not all of those that are interested in the drug will be able to buy it 
+• I am going to assume that 60% of the population is middle class while the remainder is evenly distributed at either tail 
+• In terms of affordability, I will assume that 100% of the upper bracket can buy the drug, 60% of the middle bracket, and 20% of the 
+lower bracket 
+% able to pay 
+20 
+60 
+100 
+# able to pay 
+0.6 
+6 
+3 
+10 M 
+• Given that we will split this market evenly with the comparable substitute, the target population is about 5M 
+• Expected revenue is therefore about $10B pre-patent expiry 
+• Given that the market share will shrink to 20%, our client will earn roughly $2B/year after patent expiry given the current price 
+• Since testing is a sunk cost, total yearly fixed cost is about $4.3B 
+• The drug is only profitable pre-patent expiry. (depends on market sizing) 
+Key takeaway:  The drug is profitable pre-patent expiration but may not be so after patent 
+expires (post-patent profitability being positive will depend on market sizing) 
+
+
+===== PDF p24 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+• Client should pursue drug production for next five years if the market size allows it to be 
+profitable 
+• Drug will become less profitable after patent expiry and decision on whether drug 
+production should continue will be determined by the market size and profitability 
+estimation by candidate 
+• Estimated marketing costs may not be adequate to educate customers regarding the 
+existence of this product 
+• Analysis needs to factor in the competitive response of the comparable product that exists 
+in market today, particularly if the product has a lower cost structure, and can therefore be 
+sold at a lower price 
+20 
+Sample Conclusions & Recommendations 
+Case 2: Drug Profitability 
+Continued… (page 5 of 5) 
+Recommendations 
+Risks 
+• The client can continue production after patent expiry if they can lower price to gain 
+market share profitably 
+• May be worthwhile to look at international markets where testing in the U.S. would be 
+readily accepted  
+Other 

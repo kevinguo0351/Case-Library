@@ -1,0 +1,157 @@
+===== PDF p41 =====
+Sam’s Sushi
+37
+Industry:  Services
+Quantitative Level:  Easy
+Qualitative Level:  Easy
+
+
+===== PDF p42 =====
+Behavioral Questions
+38
+• Tell me about a time you made the wrong decision.  Why did you make the decision, 
+and what did you do when you realized it was a mistake?
+Question 1:
+• If I were to ask your friends about you, what would they say?
+Question 2:
+
+
+===== PDF p43 =====
+Sam’s Sushi 
+39
+• You are out to dinner with a colleague at Sam’s Sushi, a Michelin-starred sushi restaurant in Wichita, 
+Kansas.  Sam’s rose to prominence due to it’s unerring commitment to both quality and simplicity (Sam 
+prides himself on only serving two items:  sushi and sake).  After a few sushi rolls and more glasses of 
+sake than you care to count, your colleague asks you how much you think the restaurant is worth and 
+whether or not buying it would be a good investment.
+• How would you go about determining the value of the restaurant?
+Prompt #1:
+• Candidate should use a revenue – cost framework to determine cash flows.  The value of the restaurant is 
+the present value of the future cash flows.
+• Once candidate has demonstrated that they want to use a revenue – cost framework, prompt them to 
+provide detail about what the revenue and cost buckets consist of:
+– For revenues, bucket consists of the number of items (sushi + sake) ordered and their respective 
+prices
+– For costs, there are two components:  fixed and variable
+•
+Possible fixed costs:  rent, maintenance, insurance, labor, license fees, etc.
+•
+Variable costs:  COGS (rice, fish, soy sauce, wasabi, sake)
+• Additional Info:
+– Only one restaurant
+Interviewer Guidance:
+
+
+===== PDF p44 =====
+Sam’s Sushi 
+40
+1. How would you estimate Sam’s average revenues? (have candidate lay 
+out potential approaches)
+2. What factors might cause variation in revenues? (brainstorm)
+3. Present Exhibit 1 and have the candidate calculate the annual revenue
+Prompt #2:
+• Ways to estimate average revenues:
+– By product (e.g., # of rolls sold * avg. price per roll)
+– By customer (e.g., # of customers per day * avg. spend per customer)
+– By timeframe (e.g., avg. sales per day * total number of operating days per year)
+Interviewer Guidance:
+
+
+===== PDF p45 =====
+Exhibit #1:  Daily Sales
+41
+Fridays and 
+Saturdays
+(per day)
+Rest of Week
+(per day)
+Spring and Summer
+$4,800
+16.667% of Friday 
+and Saturday 
+(Spring and 
+Summer)
+Fall and Winter
+¾ of Spring and 
+Summer (Fridays 
+and Saturdays)
+85% of Spring and 
+Summer (Rest of 
+Week)
+
+
+===== PDF p46 =====
+Interviewer guidance on Exhibits
+• Variability is due to days of the week (Fridays and Saturdays are busier) and 
+seasonality (people tend to want lighter meals like sushi in the summer).
+Fridays and Saturdays
+Rest of Week
+Spring and Summer
+$4,800 * 2 days = $9,600 for Friday and Saturday
+Spring and Summer = 25 weeks (2/4 seasons, 
+50 weeks per year)
+$9,600 * 25 weeks = $240,000 total
+16.667% is 1/6
+$4,800 * 1/6 * 4 days (Sam’s is closed on 
+Mondays) = $3,200
+$3,200 * 25 weeks = $80,000 total
+Fall and Winter
+¾ * $240,000 = $180,000 total
+0.85 * $80,000 = $68,000 total
+Totals
+$240,000 + $180,000 = $420,000
+$80,000 + $68,000 = $148,000
+$420,000 + $148,000 = $568,000
+42
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p47 =====
+Sam’s Sushi 
+43
+•
+Now let’s think about Sam’s cash flows.  We have the following information about their cost structure and growth rates:
+–
+Staff:  A hostess, a waiter, and a sushi chef.  All 3 work the entire evening.
+–
+Tax rate:  40%
+–
+Discount rate:  13%
+–
+Annual growth rate of cash flows: 3%
+–
+Variable costs:  20% of total revenue
+–
+Fixed costs:  $120,000/year
+•
+What are the annual cash flows?
+•
+What is the value of the restaurant?
+Prompt #3:
+• Revenues = $568,000
+• Costs = $120,000 + (0.2 * $568,000) = $233,600
+• Revenues – Costs = $334,400
+• To determine net present value, we need the after tax cash flow number
+– $334,400 * (1-40%) = $200,400
+• Candidate should use the perpetuity formula to perform the valuation.
+– Cash Flows / (Discount Rate – Growth Rate)
+– $200,400 / (.13 - .03) = ~$2M
+Interviewer Guidance:
+
+
+===== PDF p48 =====
+Sam’s Sushi
+44
+• So, your colleague needs an answer.  What do you tell them about the profitability 
+and valuation of the restaurant?  Is it a good investment?
+Recommendation 
+• Candidate should state the restaurant has $200K annual cash flow and is worth $2M 
+based on the previous valuation exercise.
+• $2M is a lot for a single restaurant in a small market, and appears to have healthy 
+annual cash flow and low overhead, thus making it a solid investment.
+• Extra points if candidate also considers strategic angles (restaurant must have 
+significant competitive advantage to be doing so well in such a small market with 
+limited access to fish, is most likely sole high-end sushi restaurant in the greater 
+Wichita area, etc.) to further bolster investment rationale.
+Interviewer Guidance:

@@ -1,0 +1,178 @@
+===== PDF p33 =====
+ 
+Management Consulting Association Case Book 2007 
+- 29 - 
+Case
+Case
+Case
+Case 8
+ 8
+ 8
+ 8: : : : International 
+International 
+International 
+International Airline
+Airline
+Airline
+Airline  
+ 
+ 
+BACKGROUND 
+ 
+Firm: Bain 
+Round: 2007 Summer, First 
+Content: Qualitative and quantitative 
+ 
+CASE QUESTION 
+ 
+Our client is a major international airline with flights to and from the Americas and 
+Europe. The company already operates two daily flights from A to B, offering 
+connections to C. The CEO has hired Bain to evaluate a new route. Should they create 
+this new route from A to C?  
+ 
+ 
+1 
+2
+3 
+A 
+B 
+C 
+1 = 4,800 miles 
+2 = 3,800 miles 
+3 = 2,350 miles 
+
+
+===== PDF p34 =====
+ 
+Management Consulting Association Case Book 2007 
+- 30 - 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: This is a typical Bain case. You can feel free to bring in your 
+understanding of the airline industry as you see fit. This was a real case that the 
+interviewer had worked on during his time at Bain. Take the time to structure your 
+thoughts and discuss the case.  
+ 
+The interviewer was expecting the interviewee to structure a framework, which would 
+look at the big picture that any MBA should have in mind about the airline industry. A 
+strong candidate would have to arrive into final numbers as well as in a final conclusion. 
+Some important elements were: 
+- 
+First player in the market 
+- 
+Cannibalization and complementary business 
+- 
+Discuss trade-offs 
+ 
+Key facts:  
+o At this point there is no other airline flying from A to C, and there is only one 
+competitor flying from A to B. B to C is a domestic route with one competitor 
+o Market grows with GDP 
+o 15% of passengers from A to B (or return) have C as the origin or final destination 
+o Current Load Factor in A to B is 80%  
+o Ticket price to fly from A to B or A to C is $600 one way  
+o Aircraft type:  
+o Airbus 319 (120 seats) has a maximum fly range of 4,000 miles 
+o Airbus 320 (165 seats) has a maximum fly range of 6,000 miles 
+o Airbus 330 (240 seats) has a maximum fly range of 7,000 miles 
+o Costs:  
+o Airbus 319 (120 seats) has a fixed cost of $41,000 
+o Airbus 320 (165 seats) has a fixed cost of $62,000 
+ 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: [Summarize the case and work on a framework]. This case requires us to 
+estimate the potential market size of route A-C, the growth opportunity, the competition 
+as well as our client’s resources. Also, any legal or governmental issue should be 
+discussed. 
+ 
+Interviewer: OK. How would you estimate the market size (demand) for this route? What 
+do you need to know? I have been working with this client for a long time and might have 
+the needed information. 
+ 
+Interviewee: Although we could estimate the size of the market, it might be more 
+reasonable to look at the current information the company has about the indirect route. I 
+
+
+===== PDF p35 =====
+ 
+Management Consulting Association Case Book 2007 
+- 31 - 
+would believe many passengers already fly from C to A by connecting flights in B, right? 
+So I would like to find out the number of flights per day, number of passengers per flight 
+and the percent of these passengers that actually have C as the origin or destination.  
+ 
+Interviewer: Very well thought. It is a smart decision to start more conservative. Our 
+client currently flies twice a day from A to B and back. It currently operates Airbus 320 
+in this route, with 80% load factor. 15% of the passengers have C as the origin or 
+destination. I can also tell you some aircraft limitations: 
+ Airbus 319 (120 seats) has a maximum fly range of 4,000 miles 
+ Airbus 320 (165 seats) has a maximum fly range of 6,000 miles 
+ Airbus 330 (240 seats) has a maximum fly range of 7,000 miles 
+ 
+Interviewee: This gives us 165 * 80% = 132 per flight or 132 * 2 = 264 passengers/day 
+(one way), of which 15% or 40 have C as the origin (and destination). We should have in 
+mind that if the client offers the new route, it will reduce the load factor of the A-B route 
+from 80% to 68%. Aside from our own cannibalization, I would expect that by offering 
+this new route our client will be able to take customers from its competitors, right? 
+Actually, does the client have any competition on its current routes? 
+ 
+Interviewer: There is only one competitor flying from A to B, but this competitor has a 
+code-share agreement with a domestic airline that flies from B to C. From A to B the 
+competitor flies an A330 (240 seats) daily with the same 80% load factor. Also, 15% of 
+its passengers have C as the origin or final destination. 
+ 
+Interviewee: This gives us an additional 240 * 80% * 15% = 30 passengers/day. Before 
+we conclude that our client will be able to steal these customers from the competition, 
+let’s analyze the pricing points. Do you have any information of prices? 
+ 
+Interviewer: Both our client and the competitor charge $600/leg from A to B or A to C. 
+ 
+Interviewee: It is interesting to see that the passenger pays the same fare to fly from A to 
+B (4,800 miles) and from A to C (4,800 + 2,350 = 7,150 miles). So basically we have the 
+same price and potentially a faster trip. Unless we find any competitive advantage other 
+than travel time, we could assume our client is able to steal customers from the 
+competitor. I would also imagine that by entering into this route our client would have 
+first-mover advantage and the competitor would not enter this route if they didn’t think 
+that it could steal share from our client. 
+ 
+Interviewer: This makes sense. Basically you have estimated a conservative demand. 
+What else would you analyze? 
+ 
+Interviewee: We know the potential demand; although there is an expected growth in the 
+industry let’s see whether this route would be currently profitable. What do we know 
+about the cost structure? 
+
+
+===== PDF p36 =====
+ 
+Management Consulting Association Case Book 2007 
+- 32 - 
+ 
+Interviewer: The total fixed cost of operating A319 and A320 are $41,000/per flight and 
+$62,000/per flight respectively. There are some variable costs, but they are marginal.  
+ 
+Interviewee: Basically for route A-B the client must use an A320, but A319 is an option 
+for route A-C. Let’s analyze each route: 
+- 
+Revenues from A to B:  (165 * 80% * 85%) * 600 = $67,320 
+- 
+Cost for A to B: $62,000  
+- 
+Revenues from A to C:  70 * 600 = 42,000  
+- 
+Cost for A to C: $41,000 
+I am assuming the client could use the A320 for the main route and A319 for the new 
+route. As we can see, the former route will remain profitable (8%) and the new route will 
+give a 2.5% margin. 
+ 
+Interviewer: What is your conclusion? 
+ 
+Interviewee: Taking into consideration that 2.5% margin is not a very bad number for 
+the airline industry and that our assumption does not take into consideration an additional 
+demand generated by the new faster route from C to A, the client should at least launch a 
+trial of this new route. The former route, from A to B, will remain profitable. 
+ 
+ 
+ 

@@ -1,0 +1,283 @@
+===== PDF p169 =====
+Case # 22 - Soda Ash Producer
+The client is a private equity firm looking to acquire a natural soda ash producer. Soda ash, also known as
+sodium carbonate, is a chemical that is used primarily in the production of glass and soap. It can be mined
+and refined naturally or produced synthetically, though, synthetic soda ash is twice as expensive to produce
+compared to natural soda ash. However, natural soda ash can only supply about 30% of global demand. The
+good news is that the firm is profitable and benefits from a highly concentrated market with only 5 natural
+soda ash producers globally (4 in the United States, 1 in Turkey). The bad news is that growth has been flat
+for all producers for years. The client is targeting 7% EBITDA growth per annum for 5 years to justify the
+acquisition.
+How can they achieve this target?
+Problem Statement Narrative
+Case # 22 : Soda Ash Producer
+The case focuses on the Brazilian market for the client, and can be used to approximate the EBITDA of the 
+client’s business.
+The Turkish player is currently not present in the Brazil market.
+Case Notes
+Industry: 
+Private Equity
+Case Type: 
+M&A
+• Acquisition analysis
+• Growth strategy
+• Supply & demand
+• Mental math
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Easy
+Medium
+165
+
+
+===== PDF p170 =====
+Sample Framework
+EBITDA:
+•
+Revenues
+•
+$ per ton
+•
+Increase price? (Commodity?)
+•
+Tons sold
+•
+Increase demand
+•
+Offer discounts?
+•
+New Customers?
+•
+Expand geographically?
+•
+Costs
+•
+COGS
+•
+SG&A
+Sample Framework
+•
+Give additional information (see below) if asked 
+about current costs
+•
+Lead interviewee to general analysis such as 
+revenue vs cost
+Guidance for Interviewer
+•
+The producer had already streamlined their 
+costs
+•
+Initial analysis shows that continued 
+improvements in their efficiency and operations 
+could account for about 2% of the target 7% 
+growth each year
+•
+Currently, the Turkish producer is not in the 
+Brazil market
+Clarification Answers if Asked 
+166
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p171 =====
+Question #1
+Give Exhibit 1. Look at the following slide on the soda ash market in Brazil. Taking into account that the 
+producer’s shipping cost is $85/metric ton, what are the producer’s current profits in that market?
+Question #1
+Their shipping cost was $85/metric ton and they were shipping 700 tons at a market price of 
+$180/metric ton.
+Profit per metric ton: $180-$85 = $95
+Total profits: $95 x 700 tons = $66,500
+(shortcut: $100*700 - $5*700)
+Solution
+167
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p172 =====
+Question #2
+Continuing with Exhibit 1: What would happen to profits if they decided to supply 250 additional tons of 
+soda ash to the market (no change in competitor’s output)?
+Question #2
+Shipping cost remains the same, i.e. $85/metric ton.
+New total shipping volume = 700 + 250 = 950 tons
+They would be shipping 950 tons at a new market price of $130/metric ton.
+Profit per metric ton: $130-$85 = $45
+Total profits would be $45*950 tons = $42,750
+Interviewee must comment on this number: profits are much lower in this scenario
+Interviewee can also note the observation of the correlation between price vs. demand and supply. In this 
+case, the increase of supply, leads to downward pressures on the price and a decline of overall market 
+price.
+Solution
+168
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p173 =====
+Question #3
+Give Exhibit 2 & 3. Knowing that increasing volume can’t produce the EBITDA growth that the fund is 
+targeting, how might they raise prices? Why might competitors choose not to enter the market even when 
+higher prices would produce positive margins for them?  What price increase should the company target? 
+Question #3
+•
+As the market is highly concentrated, the company can potentially signal its intention to raise price,  and 
+hope that other major producers will follow suit.
+•
+Increasing prices will allow the Turkish firm to earn a positive margin in Brazil and lead to the Turkish 
+firm entering the market. (Currently, the Turkish firm is not in the market due to the high shipping costs 
+from Turkey to Brazil. Exhibit 1 +2)
+•
+However, due to high shipping costs, although entering the Brazilian market can produce positive 
+margins for the Turkish firm, it may choose to instead focus on higher margin opportunities in EU and 
+Middle East markets that are closer to home.
+•
+The required EBITDA target of 5% increase is 1.05*$66,500 = $69,825.
+•
+Raising the price to $200 will lead to a maximum achievable profit, based on Exhibit 3, at 3.75%
+profit increase for the target : ($200-$85)*600 tons = $69,000.
+•
+The 3.5% profit increase due to price adjustment, combined with the 2% per annum growth from cost 
+improvements will result in a total of 5.5% EBITDA increase, which is lower than the growth target of 
+the client. 
+•
+Given that the client needs a 7% year-on-year EBITDA growth for the next 5 years, further price 
+increases or volume decreases will not lead to the desired results.
+Solution
+169
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p174 =====
+Conclusion
+• Increase in price to the optimal profitability 
+profile at $200 will only result in 3.5% of 
+EBITDA increase, which is below 5%.
+• Combined with 2% yearly operational and 
+efficiency improvement, the 7% EBITDA goal is 
+still not attainable. 
+• The 7% EBITDA growth needed for the next 5 
+years is not likely to be achievable.
+Rationale
+• DO NOT acquire the target.
+Recommendation
+• Not to acquire the target unless there are further 
+information on likely decrease in costs that will 
+lead to increased profitability.
+• Search for other potential acquisition targets.
+Next Steps
+•
+Market assumptions could be wrong, and 
+acquisition may be profitable
+•
+Acquisition may be worthwhile even at a lower 
+than 7% EBITDA growth
+Risks
+170
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p175 =====
+Exhibit #1
+$260 
+$240 
+$220 
+$200 
+$180 
+$160 
+$140 
+$120 
+$100
+$110
+$120
+$130
+$140
+$150
+$160
+$170
+$180
+$190
+$200
+$210
+$220
+$230
+$240
+$250
+$260
+$270
+300
+400
+500
+600
+700
+800
+900
+1000
+Price
+Volume (Metric Tons)
+Soda Ash Sold by Target Firm in Brazil
+At Current Market Output
+Only 4 American firms currently operate in Brazil
+171
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p176 =====
+Exhibit #2
+Soda Ash Shipping Costs
+To Local Market
+To Brazil
+Acquisition 
+Target
+$60
+$85
+American Firm 1
+$60
+$120
+American Firm 2
+$55
+$100
+American Firm 3
+$65
+$90
+Turkish Firm
+$40
+$180
+172
+Case # 22 - Soda Ash Producer
+
+
+===== PDF p177 =====
+Exhibit #3
+Profitability Profile with Price Change
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+120
+130
+140
+150
+160
+170
+180
+190
+200
+210
+220
+230
+240
+250
+260
+Profit ($)
+Price ($)
+Profitability
+173
+Case # 22 - Soda Ash Producer

@@ -1,0 +1,36 @@
+{
+  "case_id": "Fuqua_2017_07_e-mail-e-mail",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 7,
+  "case_name": "E-mail? E-mail!",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Retail/IT",
+  "difficulty": null,
+  "pdf_page_start": 84,
+  "pdf_page_end": 95,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p088.png",
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p092.png",
+    "exhibits/exhibit_p093.png",
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p095.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\07_e-mail-e-mail"
+}

@@ -1,0 +1,198 @@
+===== PDF p283 =====
+LM Pharma 
+278
+Industry: Pharma
+Quantitative Level: Difficult
+Qualitative Level: Medium
+
+
+===== PDF p284 =====
+Behavioral Questions
+279
+• Tell me about a time when you had to resolve a conflict with a colleague, client, or 
+teammate.
+Question 1:
+• What is the most innovative thing that you have ever done?
+Question 2:
+
+
+===== PDF p285 =====
+LM Pharma 
+280
+• LM Pharma is a large pharmaceutical manufacturer with a portfolio of drugs targeting cardiovascular 
+diseases and diabetes. Generating close to $10B in revenue in the past year, LM Pharma is a market 
+leader in the therapeutic areas in which it is active. 
+• Driven by an aggressive corporate development team, the company has grown significantly over the past 
+10 years. However, growth has recently declined dramatically due to a drug patent expiration.
+• With a desire to improve revenue stability, the CEO has hired your team to evaluate whether the 
+company should enter the VMS (vitamins/minerals/supplements) space. 
+Prompt #1:
+Additional Information (provide only if asked)
+• Financial Objective: LM Pharma only invests in NPV positive projects and firm discount rate is 
+10%.
+• Geography: Company operates exclusively in the USA.
+• Timing: If expanding, LM Pharma would want begin generating revenue within 12-18 months.
+Framework
+• An excellent candidate will quickly identify that this is a Market Entry case, and develop a MECE 
+framework that includes the following elements: Market Sizing, NPV, Product Mix, Customer 
+Segmentation, Competitive Landscape, and Entry (i.e., Build/Borrow/Buy).
+Interviewer Guidance:
+
+
+===== PDF p286 =====
+Interviewer guidance on Exhibit 1/2
+• Hand Exhibit 1/2 to interviewee. 
+Explain that a market assessment/ 
+sizing was completed in the first phase 
+of the study. This is the output of that 
+effort.
+• Candidate should identify an NPV 
+analysis as the next logical step, and ask 
+how long it will take to reach “Steady 
+State.” 
+• Inform the candidate that this will occur in 
+Year 1 for simplicity.
+• Provide the following information when 
+asked:
+–
+$20M in initial investment at Y0
+–
+Ignore any implied changes in Net Working Capital.
+• Candidate should calculate the average 
+Factory Price, create an income 
+statement, and then determine the NPV.
+• Average Factory Price = $8.00
+• Year 1 FCF = $48.34M
+–
+Revenue = $116.0M
+–
+Gross Profit = $69.6M
+–
+Operating Profit = 34.6M
+–
+Net Income = FCF = $22.49M
+• A perpetuity formula can then be used to 
+determine the terminal value, which 
+happens to also be the NPV of the project 
+once Y0 investment is subtracted.
+• NPV = $204.9M
+–
+Yr. 1 FCF = $22.49M
+–
+Discount Rate = 10%
+–
+Y0 Investment = $20M 
+281
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p287 =====
+LM Pharma War Game
+282
+• As LM Pharma would need to file an Abbreviated New Drug Application (ANDA) prior to 
+launching the product line, their competitors will have some opportunity to prepare for and 
+defend against the launch. How do you think their main competitor (who has a 60% market 
+share) will respond, and what can LM Pharma do to address this?
+Prompt #2:
+• An excellent candidate will provide a structured brainstorm that clearly answers both aspects of 
+the prompt. There is no “right answer” (and this should be an exercise that solicits creative 
+responses), but a MECE structure will include the 4Ps (product, price, promotion, and place).
+• Once brainstorming is complete, ask the candidate which tactic is most likely to be used 
+by the competitor. 
+Interviewer Guidance/Analysis
+
+
+===== PDF p288 =====
+Interviewer guidance on Prompt 3
+• Explain that the competitor will most 
+likely reduce prices, and our 
+consulting team has decided that we 
+should be priced at parity to the 
+competition, which translates to us 
+taking a 10% price decrease. Ask the 
+candidate what our breakeven unit 
+sales will be at this new price point.
+• Candidate should structure this problem 
+with fixed costs (Marketing, General &  
+Administrative) as the numerator and the 
+per unit Gross Profit as the denominator. 
+Taxes can be ignored as there will be $0 
+in pre-tax income.
+• New Factory Price = $7.20
+• Cost per Unit Sold = $3.20
+–
+$46.4M divided by 14.5M unit sold
+• Fixed Costs = $35M
+• Breakeven Unit Sales = 8.75M units
+283
+Prompt #3 Guidance:
+Analysis:
+
+
+===== PDF p289 =====
+LM Pharma
+284
+• The CEO has just walked into the team room, and would like a status update. Please 
+make your recommendation. 
+Recommendation 
+• An excellent candidate will begin with the key takeaway (whether LM Pharma should 
+pursue this opportunity or not) and provide a quantitative metric to support this 
+recommendation. This should be followed by 1-2 key risks, and next steps intended 
+to solve for these.
+Interviewer Guidance:
+
+
+===== PDF p290 =====
+Evaluation Criteria
+285
+Candidate Level
+Assessment
+Average Candidate
+Makes multiple math errors and requires ongoing 
+coaching to proceed through the case. Framework may 
+also be off topic (e.g., focused on LM Pharma 
+profitability) and incomplete. 
+Good Candidate
+Demonstrates the majority of the criteria for an 
+Excellent Candidate, but makes a math error or needs 
+some coaching on one to two of the case sections. May 
+also have a generic Market Entry framework, or overly 
+wordy/off-topic recommendation.
+Excellent Candidate
+Demonstrates a mostly MECE, customized framework 
+focused on Market Entry, identifies objective and solves 
+each quantitative section with no errors/limited 
+guidance, displays creative responses to War Games, 
+and has a succinct recommendation that brings in 
+information from the prompt.
+
+
+===== PDF p291 =====
+Exhibit #1
+286
+1 This summarizes all revenues and expenses generated by the VMS line
+Note: This scenario assumes LM Pharma develops a product line internally 
+Steady State
+Unit Sales
+14.5M
+Cost of Goods Sold
+$46.4M
+Marketing Costs
+$30.3M
+General & Administrative Costs
+$4.7M
+Tax Rate
+35%
+LM Pharma - Pro Forma Income Statement Key Statistics1
+
+
+===== PDF p292 =====
+Exhibit #2
+287
+96ct, $16.50
+25%
+48ct, $9.50
+15%
+60% 24ct, $5.25
+Variety Split & Factory Prices (price paid to LM Pharma)

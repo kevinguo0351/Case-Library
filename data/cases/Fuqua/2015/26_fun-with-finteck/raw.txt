@@ -1,0 +1,251 @@
+===== PDF p268 =====
+Fun with FinTeck
+264
+Quantitative Level: Medium
+Qualitative Level: Medium
+Quantitative level: Medium
+Qualitative level: Medium
+
+
+===== PDF p269 =====
+Behavioral Questions
+265
+• What is your greatest weakness and how are you working to improve this area?
+After they answer this, ask for another weakness.
+Question 1:
+• Tell me about a time you dropped the ball?
+Question 2:
+
+
+===== PDF p270 =====
+Case Title
+266
+Your client is a large global bank, Bank of FinTeck, and in 2012 it generated $30 Billion 
+in revenue, ranking 3rd among global banks.  However, now in 2015, the bank’s 
+revenue has remained stagnant over the last 3 years, and seen it’s reputation 
+deteriorate.  What should this bank do to inject growth into the business, and avoid 
+declining year over year revenues?
+Prompt #1:
+The candidate should develop a framework that captures industry trends, while 
+demonstrating a basic understanding of the different businesses within banks, and 
+specifically Bank of FinTeck’s:
+• The candidate should identify that the client has a revenue problem.  If asked, state that 
+the client is looking for 5% revenue growth in 3 years, in aggregate. 
+• A good candidate’s framework will address revenue drivers (price x quantity) such as 
+products, services, fees to customers, industry trends, competition, etc.
+• A good candidate will also discuss specific banking industry trends such as complying with 
+new regulation and potential disrupting technologies.
+• A great candidate will ask what businesses the bank operates in, to which you can answer 
+that its core business units are its retail, commercial, investment bank products and 
+services.
+The candidate should drive to focus on the bank’s products and services.  Let them 
+brainstorm some options before showing them the first exhibit.
+Interviewer Guidance:
+
+
+===== PDF p271 =====
+Exhibit #1
+267
+ $-
+ $3
+ $6
+ $9
+ $12
+ $15
+ $18
+Commodities
+Trading
+Investment
+Services
+Wealth
+Management
+Credit Card
+2015 Market Size ($B)
+Bank of FinTeck
+Competitor 1
+Competitor 2
+Competiitor 3
+Other
+
+
+===== PDF p272 =====
+Interviewer guidance on Exhibit #1
+Instruct the interviewee that the client wants 
+to look specifically at investing in one of four 
+products/services that it believes can help it 
+grow.  The following information can be 
+given if asked for:
+• Commodities Trading generates revenue 
+through broker fees and trade transaction 
+fees
+• Investment Services provides services 
+across the investment lifecycle (e.g. 
+trading, distribution of funds, clearing, 
+settlement, and other fee based back-
+office services)
+• Wealth Management charges a 125 bps 
+portfolio management fee.  It is a very 
+localized industry with the most important 
+factor being relationships.
+• Credit Card provides revenue through 
+merchant fees, issuing fees, and interest
+This exhibit should test the interviewee’s 
+ability to do a quick quantitative analysis to 
+identify a target product/service to invest in as 
+a growth driver.
+• Commodities Trading should be eliminated 
+immediately given its small market size.
+• Though wealth management appears to be 
+fragmented and ripe for the taking, it should 
+be re-iterated that wealth management is 
+very localized and relationship driven, thus 
+has huge barriers to entry.
+• The client doesn’t currently have a Credit 
+Card business, requiring a large investment 
+to build, making investment services the 
+best option.
+• A great interviewee will also note that 5% 
+revenue growth for the company is equal to 
+$1.5B, and relate it to the current size of 
+each option.
+268
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p273 =====
+Case Title
+269
+Bank of FinTeck’s Investment Services has been operating since the company’s 
+inception.  It used to be known as the premier Investment Services business, but lack 
+of internal investment and competition has leveled the playing field in the market.  What 
+can Bank of FinTeck do to get back to it’s position as the #1 investment services firm?
+Prompt #2:
+This question is meant to test the candidates ability to brainstorm in a structured way:
+• Steer away the interviewee from any kind of marketing, cross-selling, or customer growth 
+strategies.  Tell the interviewee that there is a huge demand in this space and acquiring 
+customers is not an issue.
+• Adjusting fee structures and pricing is a good thought, but now that there is significant pricing 
+pressure from competition, this will be difficult to implement.
+• Looking to create new and innovative services is a viable option, if the interviewee doesn’t get 
+there, guide him/her to think outside of current offerings
+Once the interviewee exhausts all ideas, tell them that the client is looking to implement a new and 
+innovative technology that would improve the investment services business by increasing settlement 
+speed of their all standard and foreign exchange transactions, allowing them to process more 
+transactions, attract more customers, and grow market share. Proceed to show them Exhibit #2.
+Interviewer Guidance:
+
+
+===== PDF p274 =====
+Exhibit #2
+270
+2016F
+2017F
+2018F
+Transaction Settlements 
+(000’s)
+40,000,000
+42,000,000
+45,000,000
+Settlement Fee
+$0.05
+$0.05
+$0.05
+FX Transactions (000’s)
+5,000,000
+5,200,000
+5,500,000
+FX Fee
+$0.30
+$0.30
+$0.30
+Technology Capital 
+Investment (000’s)
+$150,000
+$10,000
+$10,000
+Other Costs & Overhead 
+(000’s)
+$110,000
+$100,000
+$100,000
+Profit (000’s)
+$3,140,000
+$3,350,000
+$3,590,000
+Forecasted Revenue w/ New Technology
+
+
+===== PDF p275 =====
+Interviewer guidance on Exhibit #2
+This exhibit shows the forecasted revenue if 
+the client were to implement the new 
+technology achieving quicker transaction 
+settlements and FX transactions. Can the 
+client reach their revenue target?
+The interviewee should remember that the 
+growth target is 5% over 3 years, and the 
+current revenue the client captures can be 
+estimated from exhibit 1.
+• If they don’t recognize this guide them 
+there and let them know it can be 
+estimated at $3 Billion.
+The interviewee should also recognize that 
+the last two data elements are costs and 
+can be ignored.
+The fastest way to figure out whether the 
+client hits their target is to simply add back in 
+the cost line items from the profit total (if they 
+choose to do the long math, let them:
+• 2016F Revenue = $3.14B + $.26B = $3.4B
+• 2017F Revenue = $3.35B + $.11B = 
+$3.46B
+• 2018F Revenue = $3.59B + $.11B = $3.7B
+Then determine if it meets 5% revenue 
+growth each year:
+Target = $1.5B over 3 years
+Actual = $.4B + $.46B + $.7B = $1.56B
+After figuring out that the forecasted total 
+revenue, the interviewee should be able to 
+determine that they will meet the 5% goal of 
+$1.5B.
+271
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p276 =====
+Case Title
+272
+Given that the client will meet its goal in all three years, what do you recommend they 
+do?
+Prompt #3 
+This open ended recommendation should test the interviewees ability to make a 
+decision and stick with it.  
+Either decision, whether to go forward with implementing the technology, or not, is an 
+acceptable answer as it only narrowly meets their goal.  But the interviewee must back 
+up the answer and be sure to outline all risks and considerations to their decision.
+Recommendation:
+
+
+===== PDF p277 =====
+Evaluation Criteria
+273
+Candidate Level
+Assessment
+Average Candidate
+An average candidate will get through the case, but will 
+need to be guided all the way through.  They will 
+struggle with some of the ambiguity and waiver on the 
+final decision. They will also miss the opportunity to 
+take a shortcut on the math.
+Good Candidate
+A good candidate will be MECE on framework and 
+other more ambiguous brainstorms.  They will move 
+quickly through the exhibits noticing obvious takeaways 
+and shortcuts on the math.
+Excellent Candidate
+An Excellent candidate will drive this case, which can 
+be straight forward if they realize where it is going.  
+They will come up with robust ideas in brainstorms, and 
+be very decisive on their recommendation.

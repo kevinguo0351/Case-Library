@@ -1,0 +1,246 @@
+===== PDF p163 =====
+Goodbye Horses
+159
+Industry: Healthcare
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p164 =====
+Behavioral Questions
+160
+• When working on a team where you are not the leader, what is the typical role you 
+take?
+Question 1:
+• What is your least favorite aspect of Fuqua?
+Question 2:
+
+
+===== PDF p165 =====
+Goodbye Horses
+161
+• Your client is the CFO of Aperture Laboratories, a leading US biopharmaceutical company with a 
+market cap >$150B. Aperture develops and manufactures a diversified range of products and in 
+particular prides itself on saving millions of human lives every year.
+• The company is under investor pressure because of its slow firm value growth over the next 10 
+years. Investors are very anxious to see significant changes announced at the firm in the next 
+quarter. The CFO has already identified and evaluated a number of high-growth, promising, but 
+capital-intensive projects, and she does not have enough cash to invest in any of the 
+opportunities—what dose she need to do next?
+Prompt #1:
+•
+The prompt can be ambiguous, and many interviewees may drive the case towards evaluating the projects or building a 
+profit tree of the existing business to identify any issues. Neither of these approaches directly answers the prompt, but probe 
+them to realize the goal is to raise capital in order to fund these projects.
+–
+Optional: this case can be a good opportunity for the interviewee to experience a free-flowing, conversational “partner-
+style” case. Consider telling the interviewee to not write anything down for the framework.
+•
+Let the student build a framework, which should be focused on ways to raise capital, but could also include other next steps 
+such as gaining management buy-in to invest in these high growth opportunities
+–
+Ideal framework will include ways to raise capital (issuing equity, raising debt, divesting a portion of business, 
+canceling existing projects to free up budget) and also touch on where to deploy the capital (i.e., into the projects)
+–
+Students may discuss P&L levers in their framework, which is OK, but check to see if they realize any cost-cutting or 
+revenue-boosting measures will not raise capital quickly and do not satisfy investor requirements for significant 
+changes
+–
+Ideal candidate will discuss pros/cons of each way to raise capital
+•
+Guide them towards thinking about divestiture, then provide them with the first exhibit
+Interviewer Guidance:
+
+
+===== PDF p166 =====
+Exhibit #1: Aperture business segments
+3.1
+4.2
+9.2
+9.3
+15.2
+22.7
+-5%
+0%
+5%
+10%
+15%
+20%
+1.3
+Oncology drugs
+Specialty care pharmaceuticals
+Primary care pharmaceuticals
+Emerging market drugs
+5-yr CAGR
+Increasing specialization requirements
+Consumer health
+Animal health
+Nutrition
+Established products
+2.1
+Sales ($B)
+162
+
+
+===== PDF p167 =====
+Interviewer guidance on Exhibit #1
+• Provide the exhibit and let the interviewee walk 
+through it verbally
+• The interviewee should drive the discussion and 
+determine that animal health is the best option 
+to divest, providing sufficient rationale
+• If the interviewee does not choose animal 
+health, discuss with them their rationale and 
+steer them towards choosing animal health
+– The interviewee should take the hint and 
+switch towards animal health
+• Do not prompt the interview towards next steps; 
+make sure they drive conversation towards how 
+much capital they can raise and if they can find 
+buyers for the business unit
+• Chart takeaways (not all necessary to discuss)
+– Animal health is one of the lowest growth 
+business units
+– Animal health is the most different business 
+unit and outside of what Aperture prides 
+itself in (saving human lives)
+– Its low degree of specialization will allow a 
+larger pool of potential buyers (i.e., easier 
+for another company to operate)
+163
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p168 =====
+Goodbye Horses
+164
+• Unknown to the CFO until now, the business development team has retained JP Morgan to 
+assess the sale-ability of the Animal Health business. They have identified that Aperture will likely 
+receive a 3.5x enterprise value to sales multiple for the animal health business.
+Prompt #2:
+• Do not prompt further; let the interviewee work through the next steps
+• The interviewee should drive towards understanding how much capital they will receive from the 
+sale (($4.2B x 3.5 = $14.7B)
+– If asked about taxes, tell the interviewee the deal has been structured by JP Morgan to be 
+tax-free
+• The interviewee should then begin discussing which projects to invest the capital in. Once they’ve 
+begun thinking about this, provide the next exhibit
+Interviewer Guidance:
+
+
+===== PDF p169 =====
+Exhibit #2: Investment opportunities
+165
+Project NPV
+Capital Investment Required
+3
+5
+5
+7
+10
+10
+0
+2
+4
+6
+8
+10
+Research new formulations for existing product portfolio
+License respiratory products from competitor
+Sales force rationalization
+Cost-cutting initiative in US manufacturing plants
+Build R&D center in China
+Acquire newly approved GLP-1 agonist
+NPV ($B)
+3
+3
+4
+5
+6
+9
+0 1 2 3 4 5 6 7 8 9
+Capital investment ($B)
+
+
+===== PDF p170 =====
+Interviewer guidance on Exhibit #2
+•
+Provide the exhibit and let the interviewee walk through 
+it verbally
+•
+If asked, tell the interviewee that the NPV includes the 
+capital investment
+•
+The interviewee should drive the discussion and 
+determine which projects to invest in; an excellent 
+candidate will also look to discuss qualitative aspects of 
+each projects (e.g., how long each project will likely 
+take)
+•
+Given our capital constraint of $14.7B, the interviewee 
+should attempt to maximize NPV. Thus, the most 
+effective use of capital is to invest in:
+–
+Acquire newly approved GLP-1 agonist
+–
+Research new formulations for existing product 
+portfolio
+–
+Cost-cutting initiative in US manufacturing plants
+•
+At this point, tell the interviewee to summarize their 
+recommendation
+–
+Recap we want to sell animal health to raise capital 
+and invest in 3 projects listed above
+–
+Risks: ability to sell animal health (i.e., finding a 
+buyer), timing of deal completion, etc.
+•
+The easiest way to identify which projects to prioritize is 
+to calculate a profitability index (e.g., NPV divided by 
+capital investment)
+•
+The interviewee can then rank projects by profitability 
+index and see how many can be completed given our 
+constraint of $14.7B
+•
+Calculations
+1. $10 / $9 = 1.11
+2. $10 / $6 = 1.67
+3. $7 / $5 = 1.40
+4. $5 / $4 = 1.25
+5. $5 / $3 = 1.67
+6. $3 / $3 = 1.00
+•
+Adding up projects 2, 3, and 5 gives us the highest NPV 
+($22B) given our capital constraint of $14.7B from the 
+sale. It only requires $14B to accomplish.
+•
+A very good candidate will also have a recommendation 
+for the remaining $700M, i.e. share buy back, dividend 
+payment, etc.
+166
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p171 =====
+Goodbye Horses
+167
+• The CFO is out at lunch and the CEO of Aperture walks into your conference room, wondering 
+what you’ve been working on. 
+Recommendation 
+• An ideal candidate will walk through the divestiture and what to do with the influx in capital.
+• Risks
+•
+Ability to sell the Animal Health Division
+•
+Timing of the deal completion
+•
+Timeline for new capital projects
+•
+Potential for new capital projects to fail
+• The ideal candidate will also have a mitigation strategy for each of these risks
+Interviewer Guidance:

@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2012_27_zoo-co",
+  "school": "Kellogg",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2012.pdf",
+  "idx": 27,
+  "case_name": "Zoo Co.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Entertainment/Leisure",
+  "difficulty": null,
+  "pdf_page_start": 204,
+  "pdf_page_end": 209,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p205.png",
+    "exhibits/exhibit_p206.png",
+    "exhibits/exhibit_p207.png",
+    "exhibits/exhibit_p208.png",
+    "exhibits/exhibit_p209.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2012\\27_zoo-co"
+}

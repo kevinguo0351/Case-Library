@@ -1,0 +1,341 @@
+===== PDF p42 =====
+ICC Handbook 2020 
+38 
+ 
+ 
+Difficulty: Medium 
+Quant: Easy 
+Company: BCG 
+ 
+9.7 China Outsourcing 
+Problem set-up 
+The client is a national manufacturer of plastic consumer products 
+that are sold in a variety of retail formats, including supermarkets, 
+discounters, club stores, and dollar stores. The company has 
+three main product lines: 1) freezer bags, 2)  plastic plates  and 
+utensils, and 3) specialty plates and utensils. 
+ 
+The CEO has been reading for some time about American 
+companies outsourcing their production overseas to low-cost 
+countries such as China. She wonders whether this makes sense 
+for her company as well. It worries her that none of her main 
+competitors have established foreign  production  capabilities;  on 
+the other hand, this could be a tremendous opportunity to gain a 
+competitive advantage. 
+We have been asked to help the client understand the benefits 
+and risks of moving its production capabilities to China and to 
+provide a recommendation. 
+ 
+Question and Facts 
+ 
+1. Freezer bags 
+Plastic bags are used mainly to store food items in freezers. 
+According to customers, top purchase criterion is quality, since low 
+quality bags will result in food spoilage. Client is #3 in category, 
+with 200 million lbs. sold. The category leader has a strong brand 
+and strong innovation. 
+ 
+2. Plastic plates and utensils 
+Disposable plates and utensils; intended for single/limited use. 
+According to customers, top purchase criterion is price. Client    is 
+#2 in category, with 300 million lbs. sold. Client is at cost parity 
+with category leader but has a weaker brand. 
+ 
+3. Specialty plates and utensils 
+Plastic plates and utensils produced for specific retailers, 
+customized to their design specs. According to customers, top 
+purchase criterion is  style/design.  Because  many  products  are 
+new and untested, demand is highly variable. Client is #1    in 
+category, with 100 million lbs. sold. No strong competitors. 
+ 
+4. Current client production capabilities 
+All products are made in a single factory in  Ohio. The factory is 
+at capacity and the company is considering building or acquiring a 
+nearby facility. 
+ 
+5. Chinese production options 
+Client has no  previous  experience  in  building  and  managing a 
+factory overseas. Client has met with several Chinese 
+manufacturing  partners  and  has  done  initial  product  testing. 
+ 
+ 
+All three product lines have similar cost structures and savings 
+(Exhibit 1). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quality: lower quality on freezer bags, equal quality on plastic 
+plates and utensils (both regular and specialty). 
+ 
+Lead time: need 3-4 weeks of additional lead time for each product 
+line for transportation from China to U.S. distribution center. 
+ 
+6. Chinese market, current client presence 
+All three categories are relatively underdeveloped but growing, 
+dominated by local manufacturers. Client does not currently  have 
+any sales in China, although a few of their U.S. customers (e.g., 
+Wal-Mart) do have presence there. 
+ 
+Framework and Analysis 
+The candidate should start with a brief overview of the potential 
+benefits and risks of outsourcing to China. The main benefit is lower 
+costs, mostly driven by inexpensive labor. A secondary benefit   is 
+a possible springboard into the emerging Chinese (and other 
+Asian) market. Risks include lower labor productivity, possible 
+quality issues, longer lead times, additional transportation costs, 
+and potential communication/coordination issues. The candidate 
+can be asked about the ramifications of longer lead times – they 
+include greater carrying costs, higher cycle and safety stock, 
+greater forecast error, and less responsiveness to demand. 
+ 
+There are three main questions asked to the candidate: How much 
+cheaper is producing in China? 
+What do consumers value and how would outsourcing affect those 
+criteria? 
+What are the client’s current production capabilities and how would 
+outsourcing part/all of their production affect the remainder? 
+ 
+First, the candidate should size the opportunity – is this a $5 million 
+or a $500 million opportunity? By solving for the last column in 
+Exhibit 1, the candidate will find that the client would save $0.25/ 
+lb. (25% of current costs) by outsourcing to China. Given current 
+production levels, the client would save $50 million by outsourcing 
+freezer bags, $75 million by outsourcing plastic plates and utensils, 
+and $25 million by outsourcing specialty plates and  utensils. Two 
+notes: 1) costs may increase if the Chinese Yuan rises versus the 
+dollar and 2) these estimates do not include a profit margin for the 
+Chinese outsourcing partner. 
+ 
+The candidate should also recognize that cost savings alone are 
+not sufficient to make a decision. It is important to understand how 
+an outsourced product will affect sales. The candidate should 
+suggest market research to understand consumer behavior. 
+ 
+Freezer bags: since customers’ top purchase criterion is quality 
+and outsourcing would produce lower quality bags, the candidate 
+should raise a red flag here. A more sophisticated recommendation 
+would be to conduct market research to see the impact on sales of 
+the lower quality bag at lower prices – even though quality 
+
+
+===== PDF p43 =====
+ICC Handbook 2020 
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+is more important than price, the magnitude of a price change may 
+override the drop in product quality. 
+ 
+Plastic plates and utensils: the top purchase criterion here      is 
+price, which makes this product line an attractive outsourcing 
+opportunity. The candidate can be asked what the client should 
+do with the cost savings – potential recommendations include 
+dropping price to steal share, investing to defend its position      in 
+case competitors begin outsourcing (e.g., brand, innovation, 
+customer service), and milking the product line as a cash cow. 
+ 
+Specialty plates and utensils: the highly variable and unpre- 
+dictable demand for these products means that shorter lead times 
+are critical in order to adjust production quickly. Longer lead times 
+will result in greater forecast errors, higher safety/cycle stock, and   
+more   unsold   inventory   and/or   out-of-stocks. Therefore, 
+specialty plates and utensils should not be outsourced. 
+An analysis of customer purchase behavior indicates that plastic 
+plates and utensils  should  be  outsourced,  specialty  plates  and 
+utensils should not be, and freezer bags probably should  not be. 
+The final step is to understand the impact of outsourcing on the 
+client’s current production capabilities. For example, will it lead to 
+plant closings (resulting in closing costs and possible negative 
+publicity)? Will it lead to underutilization of current facilities? 
+ 
+Since the current plant is already near capacity, moving plastic 
+plates and utensils offshore would actually save the client from 
+investing in new facilities. However, since that product line makes 
+up 50% of total production (in terms of lbs.), removing it may create 
+too much extra capacity in the current plant for the two remaining 
+lines. To compensate, the client could produce a new product line, 
+rent out the extra capacity, or move to a smaller plant. 
+ 
+ 
+ 
+CHINA OUTSOURCING OPPORTUNITY 
+EXHIBIT 1 
+ 
+Costs 
+Costs in 
+U.S. ($/lb.) 
+Costs in China 
+relative to U.S. 
+Costs in 
+China ($/lb.) 
+Labor 
+0.30 
+8% of wage rate 
+8% of productivity 
+Material 
+• 
+Plastic resin 
+0.30 
+80% 
+• 
+Other material (incl. packaging) 
+0.20 
+75% 
+Variable overhead 
+140% 
+Transportation 
+• 
+China to U.S. distribution center 
+N/A 
+$6K to ship 40K lbs. 
+• 
+U.S. distribution center to customer 
+0.05 
+Same 
+Total 
+1.00 
+
+
+===== PDF p44 =====
+ICC Handbook 2020 
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHINA OUTSOURCING OPPORTUNITY 
+SAMPLE APPROACH 
+ 
+ 
+ 
+ 
+ 
+Should plastics manufacturer move production to China? 
+Main question 
+Key areas 
+to explore 
+Cost savings 
+• 
+Would save $0.25/lb. 
+(25% of current costs) 
+• 
+At current production levels, 
+would save: 
+- $50M in freezer bags 
+- $75M in plastic plates 
+and utensils 
+- $25M in specialty 
+plates and utensils 
+Consumer behavior and 
+purchase criterion 
+• 
+Quality is top purchase 
+criterion for freezer bags 
+- lower quality from China 
+• 
+Price is top criterion for plastic 
+plates and utensils 
+• 
+Style is top criterion for 
+specialty plates and utensils 
+- Highly variable demand 
+requires shot lead times 
+Effect on current 
+production capabilities 
+• 
+Current plant is at capacity 
+- Outsourcing would eliminate 
+need to build additional 
+capacity 
+• 
+Plastic plates and utensils are 
+50% of total production 
+- Outsourcing may create too 
+much extra capacity 
+Recommendation 
+• 
+Outsource plastic plates and utensils to China 
+• 
+Do not outsource specialty plates and utensils 
+• 
+Do not outsource freezer bags (although further analysis may be warranted) 
+Other factors 
+• 
+To compensate for extra capacity that would be created in current plant, could produce new product line, 
+rent out spare capacity, or move to smaller facility 
+
+
+===== PDF p45 =====
+ICC Handbook 2020 
+41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHINA OUTSOURCING OPPORTUNITY 
+QUESTIONS AND FACTS 
+ 
+ 
+ 
+ 
+ 
+ 
+Topic 
+Information 
+Raw mats 
+➡ 
+Layering 
+➡ 
+Sheeting 
+➡ 
+Packaging 
+➡ 
+Distrib. 
+Supply chain 
+• Rolls of 
+paper 
+• Adhesive 
+• Non-stick 
+liner 
+• Adhesive 
+and liner 
+applied to 
+rolls 
+• Rolls of 
+layered 
+paper cut 
+into sheets 
+• The client is not capacity constrained in its manufacturing process 
+• The client’s manufacturing and packaging operations are currently configured to package specialty papers in boxes 
+Customers 
+• There are approximately 24,000 commercial printers in the United States 
+• Printers are roughly categorized into three groups: small, medium, and large 
+• Differences among the groups are driven by the type of printing technology employed and the size of print 
+jobs that the printers are able to serve 
+• Printers prefer to receive product from the specialty paper manufacturers in different forms, primarily driven 
+by the type of printing technology employed 
+- Small printers prefer to receive their specialty paper in boxes 
+- Medium printers prefer cartons of specialty paper 
+- Large printers prefer to receive palletized shipments of specialty paper 
+Market share 
+• The client has approximately 30% market share with small printers and only 10% share with medium 
+and large printers 
+Client financials 
+• Margins are currently acceptable but management is against cutting price to gain market share, knowing that 
+competitions can match price cuts 
+• Price and cost to serve per equivalent box are different for each customer type 

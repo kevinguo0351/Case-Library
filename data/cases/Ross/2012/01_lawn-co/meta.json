@@ -1,0 +1,32 @@
+{
+  "case_id": "Ross_2012_01_lawn-co",
+  "school": "Ross",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2012.pdf",
+  "idx": 1,
+  "case_name": "Lawn Co.",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Lawn & Landscaping Services",
+  "difficulty": null,
+  "pdf_page_start": 51,
+  "pdf_page_end": 60,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    52,
+    53,
+    54,
+    55,
+    56,
+    57
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p055.png",
+    "exhibits/exhibit_p056.png",
+    "exhibits/exhibit_p057.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2012\\01_lawn-co"
+}

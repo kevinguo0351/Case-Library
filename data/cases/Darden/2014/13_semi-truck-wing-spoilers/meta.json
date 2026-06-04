@@ -1,0 +1,24 @@
+{
+  "case_id": "Darden_2014_13_semi-truck-wing-spoilers",
+  "school": "Darden",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2014.pdf",
+  "idx": 13,
+  "case_name": "Semi Truck Wing Spoilers",
+  "case_type": "Pricing",
+  "round": "2",
+  "industry": "Transportation/Logistics",
+  "difficulty": "Hard",
+  "pdf_page_start": 139,
+  "pdf_page_end": 151,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    144,
+    145
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p144.png",
+    "exhibits/exhibit_p145.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2014\\13_semi-truck-wing-spoilers"
+}

@@ -1,0 +1,405 @@
+===== PDF p216 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma
+212
+Case Overview:
+Industry: Recruiting
+Case Type: Investment Decision
+Concepts Tested:
+•
+Valuation (DCF)
+•
+Structured Math
+•
+Brainstorming
+Overview Information for Interviewer:
+•
+This case tests the candidate’s ability to weigh the financial implications 
+associated with two offers of employment.
+•
+At a minimum, the candidate should identify that the timing of the 
+cashflows matter: they will need to discount all cashflows to the present 
+day in order to properly compare the two offers.
+•
+A good candidate should think beyond the immediate financial 
+incentives and note that exit opportunities may be important to Jimmy 
+(note: exit opportunities are important here).
+Case Prompt: 
+It is early October, and Jimmy Smith, an MBA2 at NYU Stern, has a decision to make. After a summer interning at Firm A, Jimmy 
+received an offer to return full-time next year. However, Jimmy also decided to re-recruit and received a competing offer from Firm B. 
+Jimmy now needs to decide which offer he should accept, and has looked to you, his best friend, for help.
+Authors: Paul Bentley & Ryan Pennock (Stern ‘20) Firm Style & Round: Deloitte Round 2
+[Interviewee-led]
+Quant: 9
+Structure: 9
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+
+
+===== PDF p217 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Case Guide
+213
+Clarifying Information: 
+•
+Jimmy only cares about money, and is 
+seeking to maximize financial value
+•
+Jimmy is not considering any other 
+opportunities
+•
+If asked: Jimmy’s intention is to work at 
+either firm for 3 years
+•
+Firms A and B are competitors in the same 
+industry
+•
+Firm A is considered second tier, but 
+increasingly competes with top-tier firms for 
+talent
+•
+Firm B is the more prestigious and is 
+considered top-tier in its industry
+Interviewer Guide: 
+•
+A Good Framework Will:
+o
+Identify the potential sources of value/compensation at the 
+competing firms
+o
+Annual salary
+o
+Growth/raises
+o
+Signing bonus/annual bonus
+o
+Relevant methods to assess value of each offer of employment
+o
+Valuation Method (DCF)
+o
+Growth
+o
+Brainstorm Additional Considerations
+o
+Exit opportunities 
+o
+Training
+o
+Firm focus
+o
+Firm financial performance
+
+
+===== PDF p218 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Exhibit #1 & #2 Guide
+214
+Exhibit #1 & 2: 
+•
+The caser should move forward by asking for the compensation packages for each firm. If they don’t, prompt them in that direction. 
+Give Exhibit 1 & 2. The following exhibits have the actual offers Jimmy has received and some independent research Jimmy has 
+conducted. Which offer is best?
+Notes to Interviewer: 
+
+
+===== PDF p219 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Exhibit #1 & #2 Solution
+215
+Solution:
+Firm A - NPV
+Firm B - NPV
+Year
+0
+1
+2
+3
+Year
+0
+1
+2
+3
+Salary
+0
+91
+114
+126
+Salary
+0
+97
+121
+147
+Signing Bonus
+30
+0
+0
+0
+Signing Bonus
+40
+0
+0
+0
+Annual Bonus
+0
+30
+30
+30
+Annual Bonus
+0
+35
+35
+35
+Tuition Reimbursement
+0
+0
+0
+78
+Tuition Reimbursement
+0
+0
+0
+0
+TOTAL
+30
+121
+144
+234
+TOTAL
+40
+132
+156
+182
+Simplified DCF
+30
+110
+120
+180
+Simplified DCF
+40
+120
+130
+140
+NPV of Firm A Offer
+440
+NPV of Firm B Offer
+430
+
+
+===== PDF p220 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Brainstorm Guide
+216
+Brainstorm:
+•
+After calculating the NPV for each firm’s offer, prompt caser to brainstorm other things Jimmy should consider before accepting. Push 
+caser to reach 4 ideas (beyond what they may have included in their initial framework). What other things should Jimmy consider 
+before making a decision? As Jimmy’s friend, you should include additional financial considerations, but also introduce him to some 
+non-financial factors he needs to think about.
+Sample Brainstorm: 
+Financial
+Non-financial
+Exit opportunities
+Focus of firm’s business
+Firm’s performance / financial security
+Location
+Travel time
+Corporate culture
+
+
+===== PDF p221 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Exhibit #3 Guide
+217
+Exhibit #3:
+•
+After brainstorm, lead the conversation towards Exit Opportunities. If caser did not list this, present the idea to him/her. Give Exhibit 3. 
+What do you make of the following data Jimmy was able to collect on the potential opportunities he could receive when leaving the firm 
+after 3 years?
+Notes to Interviewer: 
+Step 1
+Caser should recognize the need to determine an expected value, this can be done either by:
+•
+Calculating the mean using the given data [Firm A = $185k; Firm B = $220k]
+•
+Using the median based on the chart, so long as the interviewer explains his/her choice (ie. each distribution may be skewed 
+by tail) [Firm A = $175k; Firm B = $225k]
+Firm A
+Firm B
+Salary ($'000s)
+x Probability =
+Weighted 
+Value
+Salary 
+($'000s)
+x Probability =
+Weighted 
+Value
+$150 
+20%
+$30.00
+$150 
+0%
+$0.00
+$175 
+40%
+$70.00
+$175 
+10%
+$17.50
+$200 
+25%
+$50.00
+$200 
+20%
+$40.00
+$225 
+10%
+$22.50
+$225 
+50%
+$112.50
+$250 
+5%
+$12.50
+$250 
+20%
+$50.00
+Expected Value =
+$185.00
+Expected Value =
+$220.00
+
+
+===== PDF p222 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Exhibit #3 Guide cont’d.
+218
+Notes to Interviewer: 
+Step 2
+•
+Candidate should realize that the difference in year 4 earnings is either $35k (mean) or $50k (median), depending on their method of 
+calculation in Step 1.
+•
+Candidate should then quickly calculate the NPV of that differential in order to see that the exit opportunities result in Firm B 
+becoming the better option during the fourth year. Note also that the 5% growth rate is a red herring (i.e. it does not change the 
+outcome) and will only further this disparity.
+PV = FV / (1 + r)n
+= 35 / (1.4)
+or
+= 50 / (1.4)
+= 25
+= 35.7
+•
+CONCLUSION: we can see that the PV of the expected value of the exit opportunities exceeds the $10k difference 
+previously established between the two offers.  Thus, Firm B becomes the better option.
+•
+NOTE: an excellent candidate may attempt to undertake a more complex NPV calculation—for example, by treating the exit 
+opportunities as a perpetuity.  While this is very thorough, it is unnecessary because the outcome should be clear without it. 
+
+
+===== PDF p223 =====
+© 2020 NYU Stern MCA 
+Jimmy’s Dilemma: Recommendation
+219
+Recommendation:
+•
+Jimmy should choose Firm B 
+•
+The relative value of the exit 
+opportunities at Firm B more than 
+compensate for the higher 3-year 
+value of Firm A
+Bonus: Guide to an excellent case
+•
+A good candidate will recognize that the three-year economics of the two firms do not tell the whole story, and that the long-term 
+economics are crucial, as is the case with many investment opportunities.
+•
+A good candidate will identify the need for DCF and NPV calculations, and will remain structured throughout
+•
+An excellent candidate may introduce additional macro-economic factors to the discussion, presenting potential risks and assessing the 
+impact these could have on the given projections
+Risks:
+Next Steps:
+•
+Leverage offer at Firm A to negotiate 
+a better deal at Firm B.
+•
+Conduct further due diligence of 
+each firm (including cultural fit, type 
+of work, etc.)
+•
+Make the most of each firm’s ”sell 
+days” and hold off on signing until 
+the last minute
+•
+•
+Firm B encounters financial 
+challenges and lays off staff
+•
+Jimmy underperforms at Firm B and 
+does not realize the benefits 
+associated with its better exit 
+opportunities
+•
+Firm B is a poor cultural fit for Jimmy 
+and he leaves before his three years 
+are u
+
+
+===== PDF p224 =====
+© 2020 NYU Stern MCA 
+Exhibit #1: Jimmy’s Dilemma
+220
+Firm A
+Firm B
+Starting Salary
+$91k
+$97k
+Signing BonusϮ
+$30k
+$40k
+Expected Annual Bonus
+$30k
+$35k
+Tuition Reimbursement*
+$78k
+$0
+Compensation Package by Firm
+Ϯto be distributed before start of employment
+*to be distributed at the end of year 3
+
+
+===== PDF p225 =====
+© 2020 NYU Stern MCA 
+Exhibit #2: Jimmy’s Dilemma
+221
+Note: Annual bonus expected to remain constant
+
+
+===== PDF p226 =====
+© 2020 NYU Stern MCA 
+Exhibit #3: Jimmy’s Dilemma
+222
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%
+60%
+$150
+$175
+$200
+$225
+$250
+Distribution of Expected Starting Salaries for Exit 
+Opportunities 
+Top-Tier
+Second-Tier
+Note: Assume salary will grow at 5% per year indefinitely

@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2018_15_plastic-world",
+  "school": "Kellogg",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2018.pdf",
+  "idx": 15,
+  "case_name": "Plastic World",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Private Equity",
+  "difficulty": null,
+  "pdf_page_start": 117,
+  "pdf_page_end": 123,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    118,
+    119,
+    121,
+    122,
+    123
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p118.png",
+    "exhibits/exhibit_p119.png",
+    "exhibits/exhibit_p121.png",
+    "exhibits/exhibit_p122.png",
+    "exhibits/exhibit_p123.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2018\\15_plastic-world"
+}

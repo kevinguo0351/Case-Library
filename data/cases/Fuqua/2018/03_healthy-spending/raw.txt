@@ -1,0 +1,274 @@
+===== PDF p44 =====
+Healthy Spending
+40
+Industry: Health Care 
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p45 =====
+Behavioral Questions
+41
+• Who has been your best mentor? What made him or her so good?
+Question 1:
+• Tell me about the best team you have ever been on. What made it so great?
+Question 2:
+
+
+===== PDF p46 =====
+Healthy Spending
+42
+• The new CEO of HealthCorp, a not-for-profit health insurer, has recently engaged 
+you to help her solve a budding problem. Over the last 3 years, HealthCorp has 
+experienced revenue erosion while peers are experiencing both top and bottom line 
+growth. HealthCorp would like you to help diagnose the cause of this poor 
+performance, and eventually, help formulate a course of action to improve revenue 
+by $1B in the next two years.
+Prompt #1:
+• This is a growth case centered around customer experience
+• General industry info: health insurers negotiate prices with physicians and hospital 
+networks based system by system negotiations. Prices are typically related to 
+Medicare reimbursements
+• HealthCorp does not have a material number of Medicare or Medicaid patients
+• The provider market with which HealthCorp works has undergone rapid consolidation 
+within the last 5 years
+• HealthCorp has seen a large, for-profit disrupter enter the market in the last 2 years
+Interviewer Guidance:
+
+
+===== PDF p47 =====
+43
+Exhibit #1
+9,800
+9,300
+8,900
+2016
+2015
+2017
+-5%
+HealthCorp Revenue, $M
+HealthCorp Net Promoter Score (NPS)
+2015
+2016
+13.5
+2017
+16.0
+11.5
+
+
+===== PDF p48 =====
+Interviewer guidance on Exhibit #1
+Exhibit
+• Present this exhibit after the candidate 
+has finished his/her prompt
+• If the candidate is unfamiliar with Net 
+Promotor Score (NPS), explain that NPS 
+is a measure that attempts to capture 
+overall customer satisfaction and that a 
+higher NPS indicates a more satisfied 
+customer
+• If the candidate asks, health insurance 
+industry average NPS is 15
+Brainstorm
+• Once the candidate has identified that 
+falling NPS is seemingly related to 
+thedrop in revenue, ask him/her as to 
+what sort of initiatives HealthCorp could 
+undertake to increase NPS
+• The candidate should quickly realize that 
+there is a correlation between the 
+decrease in revenue and the decrease in 
+HealthCorp NPS
+• The candidate should calculate a 
+Revenue per point of NPS ratio and 
+realize that every point of NPS is worth 
+$200M of revenue.
+–
+2016: ($9,800 – $9,300) / (16.0 – 13.5) = $200M
+–
+2017: ($9,300 - $8,900) / (13.5 – 11.5) = $200M
+• The candidate should then be able to 
+conclude that in order to achieve the $1B 
+target, HealthCorp must improve their 
+NPS by at least 5 Points
+44
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p49 =====
+45
+Exhibit #2
+Project
+Cost
+Time to 
+Implement
+Increase 
+in NPS*
+Customer journey mapping
+$4M
+13 months
+2
+Outsource customer service
+$7M
+22 months
+3
+Partner with premier providers
+$3M
+16 months
+2
+Redesign claims process
+$2M
+30 months
+4
+Invest in community initiatives
+$5M
+12 months
+1
+Develop mobile app
+$1.5M
+9 months
+2
+Implement rewards program
+$12M
+6 months
+4
+*NPS increase is realized only after project implementation
+
+
+===== PDF p50 =====
+Interviewer guidance on Exhibit #2
+• Present this exhibit after the candidate 
+has finished Exhibit #1 and the associated 
+brainstorm
+– Narrative: “The CEO and CSO concur with 
+your assessment that NPS seems to be a 
+driving factor behind the drop in revenue. 
+While they engage their internal corporate 
+development team to look for M&A 
+opportunities, they want you to evaluate a 
+portfolio of internal initiatives and help them 
+decide what to do to.”
+– If the candidate asks: “They are cash 
+strapped and only have $10M to spend on 
+initiatives.”
+• The candidate should recall that they 
+need to hit $1B in revenue growth over 
+the next 2 years. In order to do this, the 
+candidate must identify a portfolio of 
+projects that delivers at least 5 pts of 
+NPS.
+• The candidate should calculate the 
+efficiency of each initiative by dividing 
+increase in NPS by the cost to come up 
+with an efficiency index. Calculations have 
+been provided for the interviewer on the 
+following sheet. 
+– Ultimately, the candidate should 
+recommend spending a combined total of 
+$8.5M on a mobile app, partnering with 
+premier providers, and completing a 
+customer journey roadmap
+46
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p51 =====
+47
+Exhibit #2 – Interviewer Guidance
+Project
+Cost
+Time to 
+Implement
+Increase 
+in NPS
+NPS / Cost 
+efficiency
+Priority
+Customer journey 
+mapping
+$4M
+13 months
+2
+0.5
+3
+Outsource customer 
+service
+$7M
+22 months
+3
+0.43
+4
+Partner with premier 
+providers
+$3M
+16 months
+2
+0.66
+2
+Redesign claims 
+process
+$2M
+30 months
+4
+2.0
+Doesn’t meet 
+24 month 
+deadline
+Invest in community 
+initiatives
+$5M
+12 months
+1
+0.2
+6
+Develop mobile app
+$1.5M
+9 months
+2
+1.33
+1
+Implement rewards 
+program
+$12M
+6 months
+4
+0.33
+5
+
+
+===== PDF p52 =====
+Case Title
+48
+• The CEO and her CSO just requested a quick telecon, please present your 
+recommendations.
+Recommendation 
+• The interviewee should immediately begin synthesizing their findings:
+– Which projects to undertake and the total revenue gain expected from the initiatives
+– Risks to the plan and other considerations
+– Mitigating actions and next steps
+Interviewer Guidance:
+
+
+===== PDF p53 =====
+Evaluation Criteria
+49
+Candidate Level
+Assessment
+Average Candidate
+Will consider profitability instead of revenue, fail to drive 
+case, make arithmetic mistakes, forget details, and fail 
+to put numbers into context. An average candidate 
+might need to be reminded of the size and timing of the 
+revenue target.
+Good Candidate
+Will develop a custom and complete framework, make 
+accurate but slow calculations, will remember details 
+and put everything into context
+Excellent Candidate
+Will develop a structured and MECE framework, 
+complete quick and accurate calculations, remember to 
+ask about how much money HealthCorp has to spend 
+on projects, put numbers into perspective, and will drive 
+the case forward at each step

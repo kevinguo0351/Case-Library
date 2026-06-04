@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2015_10_layup-lines-design-llc",
+  "school": "Fuqua",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2015.pdf",
+  "idx": 10,
+  "case_name": "Layup Lines Design LLC",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 113,
+  "pdf_page_end": 123,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    117,
+    118,
+    120,
+    121
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p117.png",
+    "exhibits/exhibit_p118.png",
+    "exhibits/exhibit_p120.png",
+    "exhibits/exhibit_p121.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2015\\10_layup-lines-design-llc"
+}

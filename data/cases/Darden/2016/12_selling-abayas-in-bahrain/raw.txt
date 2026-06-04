@@ -1,0 +1,163 @@
+===== PDF p128 =====
+CASE 12:
+Selling Abayas in Bahrain
+Firm Style
+Interview Round
+A.T. Kearney
+1
+Clarifying information (provide only if corresponding questions are asked) 
+Q: What does the company do?
+A: The company exclusively manufactures and sells Abayas in local Bahrain market.
+Q: What is an Abaya?
+A: Abaya is a full-body garment worn by women in middle east. 
+Q: What is the company’s preferred payback period?
+A: The company typically wants its initial cost back in 5 years.
+Q: Is there a company discount rate? 
+A: You can ignore discount rate for this case.
+Case Question
+The CEO of your client “Middle East Textile” just called you to know whether he should 
+buy a new machine for $1 million which will effectively double his capacity of Abaya 
+production. He has asked you to provide an answer within the next half-hour. How will 
+you advise him?
+
+
+===== PDF p129 =====
+Selling Abayas in Bahrain
+Framework / Structure
+This interviewer is looking for: 
+(i)
+Identification of key parameters you should look at to calculate the profitability of this decision
+(ii)
+Look at drivers of market growth for the company to sell additional abayas manufactured after 
+the purchase of this machine 
+Internal: 
+• Profitability
+• Volume & Price
+• Increase the total number of Abayas sold in Bahrain
+• Explore making Abayas for various age groups and design
+• Exporting Abayas to other countries
+• Costs
+• Variable cost of production from the machine
+• Any other fixed costs such as land, SG&A, etc.
+External:
+• Competitor capacity and response
+• Increasing / Decreasing demand for Abayas 
+• Macro market trends
+• Customers
+
+
+===== PDF p130 =====
+Selling Abayas in Bahrain
+Interviewer Tips – Provide this info if asked
+• The candidate should start with talking about the profitability of buying the machine. 
+He/She should discuss relevant costs (increased expenses, land costs, etc.) and 
+revenues (increase units sold or increase price)
+• After the candidate mentions customers, mention that the client exclusively makes 
+Abayas for women in age group of 19 – 50 years.
+• For competition, the client has 3 competitors in the market, each has 25% market 
+share (with our client having the remaining portion). All competitors are operating at 
+maximum capacity as of now. 
+• The rest of the case should focus on market sizing and a break-even analysis 
+surrounding the purchase of new machine.
+• Market demand is stable and women buy an average of 2 abayas per year in the target 
+age group (19 – 50 years).
+
+
+===== PDF p131 =====
+Selling Abayas in Bahrain
+Question #1 
+You have some idea about the market and decision now. Can you estimate the number of 
+Abayas sold by the client in the Bahrain market?
+Tip: Candidates should begin market-sizing by verbalizing their formula/approach to size the market. For each variable they lay out, 
+candidates should verbalize what information they think they’d need to solve for that variable (i.e. sometimes there will be multiple 
+layers) and then confirm that the approach is reasonable to the interviewer.  This will help candidates identify potential “traps” in the 
+market-sizing. The candidate should then ask for the relevant info as they tackle each variable in solving the market-sizing problem.
+(1)                                   (2)                                           (3)      
+(4) 
+Example : Bahrain population * % of pop wearing abayas * % target demographic * # bought per person per yr
+(1) Population of Bahrain: 1 million
+(2) % Wearing abayas: 50% women * 20% of population is domestic (the other 80% are expats who don’t wear 
+traditional garb)
+Candidates can assume that 50% of the domestic population are women. Additionally, candidates should 
+distinguish permanent residents from expats (candidate should ask about both)
+(3) Target demographic: 40%
+Population distribution: 0 -18 yrs = 45%, 19 – 50 yrs = 40%, 50+ years = 15% (provide this info if candidate 
+asks)
+(4) # Bought per person per year: 2
+(If candidate doesn’t already have this info, prompt them to use 2 per person per year)
+Total Abayas market size = 1m * (50%*20%) * 40% * 2 = 80k per year
+Total sold by Middle East Textile = 80k * market share of 25% = 20k per year
+
+
+===== PDF p132 =====
+Selling Abayas in Bahrain
+Question #2 
+Can you evaluate now whether the client should buy the machine?
+Breakeven calculation:
+•
+Average selling price of an abaya is $200
+•
+Average variable cost of an abaya is $150
+•
+Outside of the $1m up-front, there are no other fixed costs (assume we already have land, 
+SG&A capacity etc.)
+•
+There is no discount rate so candidate can also evaluate breakeven period.
+•
+Candidate should be able to identify that even though market demand for women is stable, 
+the population distribution will increase number of women in our target age group 
+increasing total market size.
+•
+Since competition is already at capacity, we can capture the whole 100% of increased 
+market size if we increase our production capacity.
+•
+Work with the interviewee to drive them towards increased market size and capacity 
+constraints with competitors.
+
+
+===== PDF p133 =====
+Selling Abayas in Bahrain
+Calculations
+• Total female domestic population: 1M * 50% * 20% = 100K
+• Increase in target age group population per year: (45% / 18) x 100K = 2,500
+• Decrease in target age group population per year: (40% / 32) x 100K = 1,250
+• Net increase in target age group population per year: 2,500 – 1,250 = 1,250
+• Total incremental sale of Abayas per year: 1,250 x 2 = 2,500
+• Contribution increase per year = 2,500 x ($200 - $150) = 125K
+• Year 1: 125K, Year 2: 250K, Year 3: 375K, Year 4: 500K, Year 5: 675K
+• Total contribution in 5 years: 1,875K
+Insights
+• Candidate should immediately realize that the cost of machine is much lower than the 
+increased contribution. The company breaks even in roughly 3.5 years. 
+
+
+===== PDF p134 =====
+Selling Abayas in Bahrain
+Recommendation
+There is a clear case for “Go” recommendation in this case. The candidate’s recommendation should 
+include a discussion of: 
+(i)
+a clear “go” or “no go” recommendation regarding the purchase of new machine 
+(ii)
+the project’s breakeven analysis and the client’s criteria 
+(iii) risks around purchasing the machine 
+(iv) a return to the original framework and the identification that there are expansion possibilities 
+for the company
+
+
+===== PDF p135 =====
+Selling Abayas in Bahrain
+Recommendation (continued)
+“Go Recommendation” 
+• Weak: 
+• The client should purchase the new machine. The contribution in next 5 years will exceed the 
+buying cost of the machine and result in net profit.
+• Strong: 
+• The client should purchase the new machine. The contribution in next 5 years of $1,875K 
+exceeds the buying cost of the machine and will result in net profit of $875K.
+• However, even if one more competitor expands its capacity and splits the current 
+contribution equally we will make a loss on the purchase of about $62.5K
+• To avoid that risk, the company should look into either increasing its market share locally 
+(potentially via price reduction) or expanding its business to export in other countries since 
+even after 5 years, the client will only be utilizing about 62.5% of our extra 20K capacity from 
+the machine.

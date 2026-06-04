@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2016_06_polar-bear-pool-float",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 6,
+  "case_name": "Polar Bear Pool Float",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "CPG/Leisure",
+  "difficulty": "Medium",
+  "pdf_page_start": 68,
+  "pdf_page_end": 78,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png",
+    "exhibits/exhibit_p073.png",
+    "exhibits/exhibit_p074.png",
+    "exhibits/exhibit_p075.png",
+    "exhibits/exhibit_p076.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\06_polar-bear-pool-float"
+}

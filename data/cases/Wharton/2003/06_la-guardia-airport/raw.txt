@@ -1,0 +1,66 @@
+===== PDF p38 =====
+34 
+Case Interview Study Guide © 
+ 
+LA GUARDIA AIRPORT 
+Category: Estimation 
+ 
+ 
+Question (posed by interviewer): 
+ 
+A client has just started operating vending carts that sell novelty items in high traffic areas, such 
+as at airports, train stations and subway stops.  The client is considering installing a cart at La 
+Guardia airport.  He wishes to analyze the potential market of this location and has therefore 
+hired you to help him find a way to determine how many people fly in and out of the La Guardia 
+Airport daily.  
+ 
+This is a good example of a case in which an estimate is required to gauge market size.  
+The interviewer here does not wish for the candidate to go through the calculation and 
+arrive at a number; instead, the question tests the interviewee’s ability to make form a 
+structured approach that can be used to find an answer.  The best way to approach this 
+question is to make reasonable assumptions and communicate them to the interviewer as 
+you proceed.   
+ 
+Suggested Sample Response: 
+ 
+In order to get to the number of travelers that come through the airport, I’m going to try and 
+estimate the number of flights that take off and land daily and multiply that by the number of 
+average seats per flight.   
+ 
+That sounds like a reasonable assumption.  What kind of information would you need to do 
+that? 
+ 
+To begin with, I would need to know the hours of operation of the airport, and how many of 
+those are peak hours versus off peak hours.  Would the client be able to provide me with this 
+information? 
+ 
+Unfortunately, the client has no information on airport operations since this is an entirely new 
+venture for them.   
+ 
+In that case, I would make an assumption based on my own experience.  Let’s assume that the 
+airport operate 16 hours a day, 8 of which are peak traffic hours and 8 of which are off-peak 
+hours.   
+ 
+I think that’s a reasonable assumption.  What other assumptions would you need to make? 
+ 
+I would also need to know how often planes take off and land during those two types of hours.  
+I’m going to assume, again based on my own experience, that a plane takes off (or lands) every 2 
+minutes during peak hours, and every 5 minutes during off-peak hours.  In order to get the total 
+
+
+===== PDF p39 =====
+35 
+Case Interview Study Guide © 
+ 
+number of planes, I would need to multiply by the number of runways.  This would give me a 
+total number of planes per day. 
+ 
+That also sounds reasonable, what else would you need to know? 
+ 
+In order to get to the number of travelers, I would need to multiply my number of total planes by 
+the number of passengers per plane.  I would assume that every plane, on average, can seat a 
+maximum of 200 people.  In addition, I would assume that during peak hours, a plane is 90% 
+full, while during off-peak hours, a place is 70% full.   
+ 
+ 
+ 

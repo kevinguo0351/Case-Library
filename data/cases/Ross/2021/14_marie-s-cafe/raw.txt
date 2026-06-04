@@ -1,0 +1,387 @@
+===== PDF p146 =====
+142
+Ratings:
+Quant - 2
+Qual - 3
+Overall - 3
+Marie’s Café
+Food | Profitability
+Interviewer Led
+Case 14
+
+
+===== PDF p147 =====
+143
+Case 14 – Marie’s Café
+Marie’s Café is a small local coffee shop that serves coffee. Marie’s has been around for decades and is known 
+for its high quality drinks and cozy atmosphere. The café has seen declining profits over the last few quarters, 
+and the owner has hired you to increase its profits.
+•	 There are two other coffee shops nearby that sell coffees and pastries. 
+(There is no further information on these competitors.)
+•	  Marie’s currently serves two items (coffee and latte) in three different sizes.
+Prompt
+Clarifying Information
+Note:
+•	 If the candidate touches on prices or costs, show Exhibit 1 and ask to calculate avg. profit / customer
+•	 Next give candidate the relevant data points including Exhibit 2 and ask to calculate avg. profit / day
+
+
+===== PDF p148 =====
+144
+Market
+•	Market growth
+•	Changing consumer preferences (Product, atmosphere)
+Competition
+•	New low cost competitors
+•	New substiutes (restaurants or fast food chains close-by)
+Company
+•	Foot traffic in the coffee store (Increase number of 
+customers)
+•	Process Efficiency (average time to cater to each customer)
+•	Capacity of the cafe
+Product
+•	Product diversification (limited product range)
+•	Price sensitivity of customers
+•	Complimentary products and services (wireless services)
+•	Quality of products/brand image (building on brand)
+External Factors
+Internal Factors
+Framework
+Exhibit Summary
+•	 Exhibit 1: Products, Costs, and Customer Split
+•	 Exhibit 2: Demand of coffee per hour
+Case 14 – Marie’s Café
+
+
+===== PDF p149 =====
+145
+Question 1
+•	How much profit does Marie’s cafe currently make 
+per customer?
+•	Assume each customer only purchases one drink per 
+visit.  (Show Exhibit 1)
+•	Strong candidates will point out the larger sizes yield 
+larger gross profit, and suggest new profit increasing 
+strategies (promoting sales of larger sizes, introducing 
+a 20 oz size, eliminating 8 oz sizes). Profit here does not 
+include baristas.
+•	Avg Profit = $1.50 / customer. 
+See Calculations to the right.
+Questions for Candidates about Exhibit 
+that the Interview should ask:
+Guidance:
+Coffee, 8 oz.
+Coffee, 12 oz.
+Coffee, 16 oz.
+Latte, 8 oz.
+Latte, 12 oz.
+Latte, 16 oz.
+Average Profit
+$1.50
+$1.00
+$1.50
+$2.00
+$3.00
+$4.00
+$5.00
+$0.50
+$0.70
+$0.90
+$1.30
+$1.90
+$2.50
+$0.50
+$0.80
+$1.10
+$1.70
+$2.10
+$2.50
+15%
+15%
+15%
+20%
+20%
+15%
+$0.08
+$0.12
+$0.17
+$0.34
+$0.42
+$0.38
+Product
+Price
+Cost
+Unit Profit
+% of 
+Customer 
+Purchases
+Profits per 
+Customer
+Case 14 – Marie’s Café
+
+
+===== PDF p150 =====
+146
+Question 2
+What is the average profit that Marie’s Café earns per day?
+•	 Each customer purchases exactly one beverage
+•	 Two baristas are working at any given time. Baristas are paid $15/hr
+•	 Hours: 7am to 10pm, Monday through Friday. Closed on weekends
+•	 The number of customers per hour is listed below. Customers leave 
+if they cannot be served quickly
+•	 On average, it takes 2 minutes for a barista to complete an order
+•	 *Show Exhibit 2
+•	Candidate should realize that the café is losing 
+money in the evening hours. Candidate should 
+suggest adding or subtracting baristas based on 
+demand. Assuming 2 baristas per hour, the average 
+profitability per day would be $607.50. By adding a 
+third barista to the morning shift and reducing one 
+at night, the new profit would be $787.50
+Guidance:
+Questions for Candidates about 
+Exhibit that the Interview should ask:
+7AM to 10PM
+10AM to 1PM
+1PM to 4PM
+4PM to 7PM
+7PM to 10PM
+100
+80
+60
+40
+15
+60
+60
+60
+40
+15
+180
+180
+180
+90
+-22.5
+3
+3
+2
+1 or 2
+1
+90
+80
+60
+30 or 40
+15
+270
+225
+180
+90
+22.5
+Time
+Served
+Optimal 
+Served
+Optimal 
+Profit
+Demand per
+Hour
+Current
+Profit
+Optimal
+Baristas
+$787.50
+$607.50
+Case 14 – Marie’s Café
+
+
+===== PDF p151 =====
+147
+Exhibit 1
+Products, Costs, and Customer Splits
+Coffee, 8 oz.
+Coffee, 12 oz.
+Coffee, 16 oz.
+Latte, 8 oz.
+Latte, 12 oz.
+Latte, 16 oz.
+Cup, 8 oz.
+Cup, 12 oz.
+Cup, 16 oz.
+4 oz. of coffee
+4 oz. of latte
+$1.00
+$1.50
+$2.00
+$3.00
+$4.00
+$5.00
+$0.30
+$0.40
+$0.50
+$0.10
+$0.50
+15%
+15%
+15%
+20%
+20%
+15%
+Product
+Product
+Price
+Cost
+% of Customer 
+Purchases
+Note: Food and packaging costs are separate. 
+Case 14 – Marie’s Café
+
+
+===== PDF p152 =====
+148
+Exhibit 2
+Demand of coffee per hour
+7AM to 10AM
+10AM to 1PM
+1PM to 4PM
+4PM to 7PM
+7PM to 10PM
+100
+80
+60
+40
+15
+Time
+Average Demand per Hour
+Case 14 – Marie’s Café
+
+
+===== PDF p153 =====
+149
+Revenue
+•	Doughnut sales, increased synergies with coffee/volume of customers
+Costs
+•	Fixed costs – purchasing/maintaining oven, setting up display case, storage, advertising
+•	Variable costs – ingredients, hiring/training staff
+Capacity
+•	Room in café for oven and ingredients
+•	Baristas available to accommodate for increase in demand
+Brand Image – Marie’s is known for its coffee and atmosphere; adding pastries may change image 
+and drive away loyal customers, especially if they are low quality
+Competition – Price and quality compared to competitors
+Alternative Opportunities – Purchasing doughnuts from somewhere else
+Brainstorming Guidance
+Question 3
+If candidate mentions that competitor sells pastries, while Marie’s Café does not: follow up by asking, 
+“what factors should Marie’s Café consider before purchasing an oven to sell pastries?”
+Case 14 – Marie’s Café
+
+
+===== PDF p154 =====
+150
+Question 4
+A new espresso machine, priced at $2000, can greatly decrease the time it takes to make a latte. 
+The average time it takes to complete an average customer’s order decreases from 2 minutes to 90 seconds. 
+ How long would it take to pay back the machine?
+7AM to 10PM
+10AM to 1PM
+1PM to 4PM
+4PM to 7PM
+7PM to 10PM
+100
+80
+60
+40
+15
+80
+80
+60
+40
+15
+270
+270
+180
+90
+-22.5
+3
+2
+2
+1
+1
+100
+80
+60
+40
+15
+315
+270
+180
+135
+22.5
+Time
+Served
+Profit
+Optimal 
+Served
+Optimal 
+Profit
+Demand per
+Hour
+Optimal
+Baristas
+$922.50
+$607.50
+Math Solution:
+•	Daily Profit shown below, calculated with the 
+optimal number of baristas
+•	Machine would be paid back in 14.8 days
+•	(2000/(922.5 - 787.5) from Question 3)
+•	Baristas in the 7-10AM would also yield similar 
+profits with the advantage of turning away few 
+customers
+Case 14 – Marie’s Café
+
+
+===== PDF p155 =====
+151
+Conclusion
+•	Focus on driving profits 
+through larger size of 
+coffee due to higher gross 
+profit per transaction
+•	Schedule 4 baristas 
+during peak times and 
+2 baristas during slower 
+periods
+•	Offer complimentary 
+add on services such as 
+wireless services
+•	Diversify product range by 
+including food.
+•	An excellent caser will 
+provide both the pros and 
+cons of starting wireless 
+services. He/She would 
+also be able to highlight 
+capacity and process 
+optimization issues.
+•	Hire 4 baristas for peak 
+time or use the new 
+machine.
+•	Sell food along with 
+coffee. As baristas are 
+currently limited, think 
+about buying food/
+pastries from wholesaler.
+•	Offering wireless services 
+might make customers 
+stay for longer and the 
+capacity of the cafe might 
+not be enough to hold the 
+customers.
+•	Baristas unable to 
+accommodate demands
+Excellent Case 
+Answers
+Next Steps
+Risks
+Recommendation
+Case 14 – Marie’s Café

@@ -1,0 +1,316 @@
+===== PDF p107 =====
+Case 7: Freedom Bikes 
+•
+Type: Operations 
+•
+Difficulty: Medium 
+•
+Industry: Automotive 
+•
+Firm Format:  N/A 
+ 
+
+
+===== PDF p108 =====
+104 
+Freedom Bikes  
+Intro: Our client is Freedom Bikes,  the US-based producer of mountain bikes – luxury sport bikes that 
+represent the American spirit of freedom. The bikes are fully designed and manufactured in the US and are 
+sold mainly to US customers, who value independence, freedom and high quality of a US-based 
+manufacturer. 
+The client brought us to help decrease costs, which increased in the resent years and eroded the client’s 
+margins. 
+Notes for the Interviewer: 
+•
+The case was designed to educate students to use 
+the Top-Down approach, focus on 80/20, and be 
+attentive to the details (read footnotes!)  
+•
+The good framework will focus on various elements of 
+costs and possible solutions (outsourcing, Six Sigma 
+etc) 
+•
+Ideally the student shall start with the cost breakdown 
+(Exhibit 1) and proceed with exploring the details. But 
+if the student starts elsewhere, let him wander around 
+providing market, customer, competition and other 
+data to realize he must focus on the company’s costs. 
+General data: 
+•
+The client asks us to look ONLY costs; no 
+revenue/profit considerations are necessary 
+•
+There is no fixed target, the more we save – the 
+better 
+•
+Overseas sales make up 10% of Client’s operations 
+and for this case can be ignored 
+•
+The customers (rich MBA interested in sports) value 
+the US-made bikes so the client will not consider 
+outsourcing or sourcing even from Canada! The 
+student shall remember this fact while considering 
+options 
+•
+There are two major competitors on the market, but 
+they are from Japan and Italy, and we are the only 
+US-based producer 
+•
+The demand for bikes is stable 
+Difficulty: Medium 
+ 
+Industry: Automotive 
+Type: Operations 
+
+
+===== PDF p109 =====
+105 
+Notes for the Interviewer: 
+•
+The student shall focus on attacking the 
+client’s costs to find the opportunity to save. 
+Ideally the student request for main cost 
+categories and then the Exhibit 1 can be 
+displayed 
+•
+If student is stuck, offer him the Exhibit 1 and 
+ask what he sees. The student shall quickly 
+realize (using 80/20 and Top-Down concepts) 
+that the bulk of costs sits in Inventory and 
+Manufacturing, but only Manufacturing cost is 
+rising and shall be addressed. 
+Costs data (Exhibit 1): 
+•
+Sales and promotion is done via specialized 
+magazines and bike shows. This is small fixed 
+cost and can be ignored. 
+•
+Overhead costs are slim and cannot be 
+decreased further 
+•
+Raw materials are purchased in bulk using 
+hedging deals, nothing else can be done to 
+decrease them. 
+•
+Distribution is done via the regional dealers 
+with whom the client has long-term 
+relationships. This cost is small and stable 
+and can be ignored. 
+•
+Inventory levels are high because of 
+customization at Michigan factory. The 
+customers are paying for that and the client is 
+ok to keep inventory high 
+•
+Manufacturing costs are rising! And it is 
+the problem!!! 
+Freedom Bikes  
+
+
+===== PDF p110 =====
+106 
+Notes for the Interviewer: 
+•
+By providing the Costs data to the student (on 
+his request only!) the student shall realize the 
+factories can not be closed down, outsourcing 
+is not an options (the client values its US-
+Made image) so the closer look at the costs is 
+required. 
+•
+Provide the student with the Exhibit 2. The 
+student shall focus on Chrome-plating as the 
+largest cost-element and also mention he 
+would like to explore Re-work cost, caused 
+mainly by the chrome-plating operations 
+Manufacturing data  
+•
+The client operates two factories: in Michigan 
+(the union state) and Tennessee (the right of 
+labor state) 
+•
+Tennessee factory converts raw materials into 
+the pre-assembly kits and ship those to 
+Michigan. 
+•
+Employees at Tennessee are not skilled and 
+paid average salaries.  
+•
+The client’s customers value customization 
+and freedom of choice, so Michigan factory 
+performs customization of bikes ordered by 
+customers’ design.  
+•
+Workers at Michigan factory are hard to find, 
+highly skilled, have unique skills and well-
+paid. The client considers them essential to 
+perform complicated manual operations and 
+won’t consider relocation of Michigan factory 
+or dismissal of workers 
+ 
+ 
+Freedom Bikes  
+
+
+===== PDF p111 =====
+107 
+Notes for the Interviewer: 
+•
+80/20 rule dictates the student shall 
+immediately focus on chrome-plating as 
+the source of cost-saving 
+•
+After investigating options, the student 
+shall realize the outsourcing is an option 
+•
+Tenneco is the best option: it is a US-
+based company (The client will only accept 
+US-based suppliers!), its quality high and 
+is above 120 that helps eliminate rework 
+and it is located close to Tennessee factory 
+of the client, thus minimizing the 
+transportation costs 
+ 
+ 
+Chrome-plating 
+•
+Chrome-plating is the operation of 
+covering metal parts (such as suspension 
+tubes) with shiny chrome 
+•
+In 2008 the client initiated chrome plating 
+operations in-house to react to changes in 
+customers’ taste from paint to shiny 
+chrome 
+•
+The operation requires only few operators 
+but very complex know-how  
+•
+Poor quality of chrome-plating causes 75% 
+of costly rework operations 
+•
+The client cannot improve this operation, 
+so outsourcing is an option – provide 
+Exhibit 3 
+ 
+ 
+ 
+Freedom Bikes  
+
+
+===== PDF p112 =====
+108 
+Now ask the student to calculate the cost saving effect: 
+Tennaco operations cost: 50M*110% = 55M 
+Savings on eliminated rework: 20M*75% = 15M 
+Net effect: 15M-(50-55) = 10M cost saving by outsourcing chrome-plating operations to Tenneco 
+No further cost study is required, ask the student to wrap-up the case.  
+The good recommendation will mention: 
+•
+Positive effects of improved quality of bikes outlook – important and valued by the customers 
+•
+Risks of labor disruptions due to eliminated chrome jobs – mitigated by migration of jobs to Tenneco 
+•
+Risk of production disruption – logistics shall account for movement of parts to and from Tenneco 
+ 
+Freedom Bikes  
+
+
+===== PDF p113 =====
+109 
+0
+50
+100
+150
+200
+250
+300
+2009
+2010
+2011
+2012
+2013
+Overhead
+Sales and promotion
+Distribution
+Inventory
+Manufacturing
+Raw materials
+Exhibit 1: Freedom Bikes cost categories 
+USD, Mil 
+
+
+===== PDF p114 =====
+110 
+Cost category 
+Michigan 
+Tennessee 
+Workers salaries 
+16 
+6 
+Overhead and administration 
+1 
+1 
+Painting  
+1 
+0 
+Chrome plating 
+0 
+50 
+Raw materials processing 
+2 
+23 
+Re-work* 
+0 
+20 
+Total 
+20 
+100 
+* 75% of re-work expenses caused by chrome plating operations 
+2013 manufacturing costs, USD Mil 
+Processing 
+of Raw 
+materials  
+Production 
+of assembly 
+kits 
+Assembly to 
+order of 
+bikes 
+Tennessee factory 
+Michigan factory 
+Exhibit 1: Freedom Bikes production process 
+
+
+===== PDF p115 =====
+111 
+Supplier 
+Location 
+Cost index 
+Quality Index* 
+Freedom Bikes 
+Tennessee, USA 
+100 
+100 
+Magna 
+Ontario, CAN 
+95 
+130 
+SACI 
+Shanghai, CNI 
+45 
+105 
+Tenneco 
+Tennessee, USA 
+110 
+140 
+MetMex 
+Tijuana, MEX 
+100 
+120 
+Delphi 
+Michigan, USA 
+135 
+145 
+* Operations with Quality Index above 120 fully eliminate the need for re-work 
+Exhibit 1: Benchmarking of chrome plating contractors 

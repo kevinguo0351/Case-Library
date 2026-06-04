@@ -1,0 +1,30 @@
+{
+  "case_id": "Darden_2020_04_contagion-containment",
+  "school": "Darden",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2020.pdf",
+  "idx": 4,
+  "case_name": "Contagion Containment",
+  "case_type": "Other",
+  "round": "2",
+  "industry": "Non-Profit",
+  "difficulty": null,
+  "pdf_page_start": 82,
+  "pdf_page_end": 93,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    86,
+    87,
+    88,
+    90,
+    93
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p086.png",
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p088.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p093.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2020\\04_contagion-containment"
+}

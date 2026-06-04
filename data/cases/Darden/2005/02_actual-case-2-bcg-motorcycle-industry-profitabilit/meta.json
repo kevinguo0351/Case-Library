@@ -1,0 +1,24 @@
+{
+  "case_id": "Darden_2005_02_actual-case-2-bcg-motorcycle-industry-profitabilit",
+  "school": "Darden",
+  "year": "2005",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2005.pdf",
+  "idx": 2,
+  "case_name": "Actual Case #2 (BCG – Motorcycle Industry Profitability)",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Automotive / Transportation",
+  "difficulty": null,
+  "pdf_page_start": 8,
+  "pdf_page_end": 10,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    9,
+    10
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p009.png",
+    "exhibits/exhibit_p010.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2005\\02_actual-case-2-bcg-motorcycle-industry-profitabilit"
+}

@@ -1,0 +1,50 @@
+===== PDF p120 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+116 
+Please do not duplicate, copy, print or photocopy 
+ 
+ 
+There are two rooms: The Switch Room and the Bulb Room.  In the Switch Room are three 
+switches (1, 2, 3), all the switches are marked On and Off, and are originally in Off position.  In 
+the Bulb Room there are three light bulbs (A, B, C).  You have to match the switches that turn on 
+each light bulb.  To do it, you start first in the Switch Room and do what ever you want with the 
+three switches.  Then you step into the Bulb Room and without going back to the Switch Room 
+you have to figure out which switch controls which light bulb. 
+ 
+The problem is that there are three unknowns and only two equations.  You need extra input.  
+The solution is to turn on two lights, and turn one of them off after some time (let’s say three 
+minutes), and leave the third switch off, then you walk into the Bulb Room.  There will be one 
+light on which is controlled by the switch you left on.  There will be two light bulbs off, but one 
+of them will be warm (the extra input!), which is controlled by the switch left on for three 
+minutes.  The last light bulb, which will be cold, is controlled by the switch that you always left 
+off.  
+ 
+ 
+ 
+You are in a room with two identical closed boxes.  The boxes have identical tags that read 
+“NPV of the contents of this box is one million dollars.”  What questions would you like to ask 
+before you select one? 
+ 
+· 
+What is the discount rate of each calculation? 
+· 
+What is the time frame (and period length) of the two calculations? 
+· 
+What is the range of possible outcomes of the two packages? 
+· 
+What is the liquidity of each of the two packages? 
+ 
+ 
+ 
+Why are manholes round? 
+ 
+· 
+So that the covers can’t fall in the hole under any circumstances. 
+· 
+So that the covers can be moved by rolling and no lifting is required. 
+· 
+To provide the greatest opening area for the cost- and weight-limited material used. 

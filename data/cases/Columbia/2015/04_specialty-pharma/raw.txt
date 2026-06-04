@@ -1,0 +1,261 @@
+===== PDF p26 =====
+Specialty Pharma
+Your client, Specialty Pharma, is a specialty pharmaceutical company looking to grow its revenue. They are 
+similar to a pharmacy within a CVS however, they are attached to community mental health facilities. What 
+are some ways your client can grow revenues?
+Problem Statement Narrative
+Difficulty: 
+Medium
+Industry: 
+Specialty Pharma 
+Case Type: 
+Revenue Growth
+• Market Sizing
+• Growth Strategy
+• Brainstorming
+Concepts Tested
+Case: Specialty Pharma
+The problem statement should lead into a general brainstorming / framework building. 
+Case Notes
+22
+
+
+===== PDF p27 =====
+Specialty Pharma
+Sample Framework
+The framework should focus on Specialty Pharma’s 
+unique opportunities, and not just general paths to 
+grow revenue (such as “offering more products”).
+For example, the framework could be divided into 2 
+buckets:
+1.
+Internal Growth
+•
+Offer new forms of drugs – expand into 
+non mental-health related drugs?
+•
+Offer new services (such as delivery, 
+passport photos, etc.)
+•
+Increase number of patients at each 
+pharmacy (market to local community, 
+beyond patients of certain health 
+facilities)
+•
+Increase prescription adherence
+•
+Offer loyalty programs
+2.
+External Growth
+•
+Find new facilities to open pharmacies in
+•
+Try opening pharmacies not within 
+mental-health facilities
+•
+Partner with drug companies to offer 
+discounts and increase sales
+Sample Framework
+Notice that the question relates to revenues, not 
+profit. The interviewee can mention costs as a 
+factor, but the focus should be on growing revenue.
+Guidance for Interviewer
+•
+At this point, Specialty Pharma is only 
+interested in growing revenue, without taking 
+costs into account.
+•
+Currently Specialty Pharma only operates 
+pharmacies within community health centers, 
+they have not tried to open pharmacies outside 
+of community health facilities. 
+Clarification Answers if Asked 
+23
+
+
+===== PDF p28 =====
+Specialty Pharma
+Question #1
+What would you estimate the market size for Specialty Pharma to be?
+After general market sizing, provide Exhibit 1 and ask: How many stores does Special Pharma currently 
+have?
+Question #1
+The first part of the question is a classic market sizing. The interviewee can assume that Specialty Pharma 
+only serves patients who need mental-health related drugs, or market size the general pharmacy market.
+Sample market sizing for mental-health related drugs (any reasonable assumptions are okay – the idea is to 
+see a reasonable and structured line of thought):
+US Population: ~320M
+About 1 out of 5 Americans suffers from mental-health related issues (20%): ~64M potential customers
+Only  ~50% of Americans who suffer from mental-health related issues seek treatment; ~20% of those who 
+seek mental treatment go to hospitals and the remaining 80% go to community mental health facilities: 
+64M*50%*80% = 25.6M
+We can assume that all patients who go to community mental health facilities will buy their drugs at the 
+pharmacy on premises, so the size of the market is about 25.6M patients.
+We can assume the average yearly spend on prescription drugs per patient (out-of-pocket and covered by 
+insurance) is about $2,000, bringing us to a market size of 25.6M*$2,000 = $51.2B
+Answer to question about Exhibit 1: 440 x .6 x .7= 176 stores currently owned
+Solution
+24
+
+
+===== PDF p29 =====
+Specialty Pharma
+Question #2
+What additional factors would you consider when thinking about how many additional stores Special Pharma 
+could open?
+Question #2
+This is a brainstorming question. Any relevant factor is good, interviewee should give his answer as 
+structured as possible.
+Possible factors and structuring:
+1.
+Market
+•
+Size and volume of drugs each year
+•
+Trends and changes in drugs market
+•
+Government funding issues
+2.
+Competitive Landscape
+•
+How will competitors react?
+•
+Where does Specialty Pharma have a competitive edge?
+3.
+Location
+•
+Proximity to other pharmacies (both competitors’ and our own)
+Solution
+25
+
+
+===== PDF p30 =====
+Specialty Pharma
+Question #3
+Fixed cost for a pharmacy is 250K per year and marginal revenue per prescription is $25. How many 
+prescription per day would need to be filled to break even for each new pharmacy?
+Question #3
+Simple mental math exercise. If asked – interviewee can be told to disregard variable costs.
+Interviewee can use either ~260 work days a year or 360 days a year for pharmacies that are open on 
+weekends (but must state that she/he is using 360 assuming the pharmacy is open every day); 
+recommended to push interviewee towards 260 works days a year to simplify math.
+$250K/260 = 961 (can and should round to 1000 / round 260 to 250)
+Need $1000 per day of revenue to break even = 40 prescriptions per day for each new pharmacy to break 
+even.
+Interviewee MUST comment about this number: what does it mean? A reasonable thought would be that 40 
+prescriptions a day is not a lot, and is a data point that makes expansion less risky
+Solution
+26
+
+
+===== PDF p31 =====
+Specialty Pharma
+Question #4
+What is the white space opportunity for expansion? 
+Assume 30% of all community health centers are large enough to fit a pharmacy in them.
+Question #4
+The answer is in exhibit 1:
+Total number of health centers: 4000
+30% of 4000= 1200
+Don’t forget to subtract the number of existing pharmacies:
+Existing community health pharmacies: 440
+1200-440=760
+760 future potential
+Interviewee MUST comment about this number: is this a large number? Is there a big opportunity? 
+Compared to existing number of pharmacies, it’s reasonable to see this as a large opportunity
+Solution
+27
+
+
+===== PDF p32 =====
+Specialty Pharma
+Question #5
+What concerns would you have about management in this expansion?
+Question #5
+Again, a general brainstorming question. Brainstorming should be structured and relevant to the specifics of 
+the case.
+For example:
+Internal Concerns
+•
+Management expertise
+•
+Cash / Ability to raise funding
+•
+Brand
+•
+Cannibalization of current pharmacies
+External Concerns
+•
+Competitor reaction
+•
+Changes in the drug market
+•
+Regulation
+•
+Relationships / agreements with mental health facilities
+Solution
+28
+
+
+===== PDF p33 =====
+Specialty Pharma
+Question #5
+You run into the CEO, what do you tell him about your analysis?
+Question #5
+Interviewee should give quick recap of expansion – what is the opportunity and should Specialty Pharma go 
+for it; How the opportunity will be reached; What are the risks; What are the next steps.
+Solution
+29
+
+
+===== PDF p34 =====
+Conclusion
+• There is a large white space in its market
+• Specialty Pharma only needs to supply 40 
+prescriptions per day in each new pharmacy to 
+break even, a relatively low number 
+Rationale
+• Specialty Pharma should expand and open new 
+pharmacies to expand its revenue
+Recommendation
+• Begin locating community mental health facilities 
+in which Specialty Pharma can open pharmacies
+Next Steps
+• Competitor reaction
+• Management ability
+• Funding
+Risks
+Specialty Pharma
+30
+
+
+===== PDF p35 =====
+Exhibit #1
+Specialty Pharma
+4,000
+White Space
+Mental Health 
+Centers with 
+attached pharmacy
+440
+40% 
+Owned by 
+Community 
+Mental Health 
+Center
+60% 
+Owned by 3rd
+Party
+30% 
+Owned by 
+Other 
+Vendors
+70% 
+Owned by 
+Special 
+Pharma
+~440
+# of Community 
+Mental Health 
+Centers in US
+31

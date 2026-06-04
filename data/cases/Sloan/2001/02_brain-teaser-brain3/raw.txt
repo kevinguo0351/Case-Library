@@ -1,0 +1,33 @@
+===== PDF p8 =====
+ 
+Consulting Case Interview Question 
+ 
+Case No.: BRAIN3 
+Firm:  Mitchell Madison 
+Type of Case:  
+X 
+Brain Teaser  (Why are manhole covers round?) 
+ 
+Initial Facts offered by interviewer:  [Please relate the facts the interviewer gave to set up the question/problem. 
+Provide sufficient information so the case can be adequately understood!] 
+ 
+There is a large cube made of many smaller sugar cubes that are sitting in the sun.  Each side of the 
+cube is made up of a 10×10 surface of the smaller cubes.   
+ 
+The Question(s): 
+How many sugar cubes are exposed to the sun? 
+ 
+Suggested Solution 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic: 
+ 
+If 5 sides are exposed to the sun, you can imagine an inner cube size 8x8x9, which is not exposed to 
+the sun. It means that 576 cubes are not under the sun. There are total of 10x10x10 small cubs in 
+the big cube, therefore 1,000 – 576 = 424 cubes are exposed to the sun. 
+ 
+ 
+                                                                                                                                                        59 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 

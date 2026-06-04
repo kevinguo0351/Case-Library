@@ -1,0 +1,322 @@
+===== PDF p242 =====
+MedTrans
+237
+Industry: Medical Transportation
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p243 =====
+Behavioral Questions
+238
+• Tell me about a time you were part of a project or team and had an impact that would 
+have been otherwise impossible if you were not part of that team. 
+Question 1:
+• Tell me about a time you had a difference of opinion with someone more senior than 
+you and how did you resolve this conflict?
+Question 2:
+
+
+===== PDF p244 =====
+MedTrans
+239
+• Montachussett Hospital has hired you and your team to investigate consistently rising costs across their 
+medical transportation benefit program. For context, assume that Montachussett has a series of patients 
+with various afflictions and disabilities, and as a patient undergoing treatment at the hospital, the hospital 
+covers the cost of picking you up and taking you to your appointments. Your team has been asked to 
+identify the key drivers of cost creep, and make strategic recommendations to the hospital as to how they 
+might be able to save money. Specifically, Montachussett is evaluating a technology-based ride 
+scheduling platform to help schedule and track trips, and would also like your opinion on whether or not 
+investing in such a solution would be wise.
+Prompt #1:
+•
+If the candidate asks about how the hospital pays for these services currently, assume that this information is irrelevant – it comes out of 
+a fund of donations given to the hospital by third parties. 
+•
+Additional Information to provide the candidate (ALWAYS) 
+–
+Assume that right now, there are a limited number of vendors (taxi companies, van companies, etc) that the hospital has contracts 
+with, but this is very much something they would be open to expanding if they can force more companies to compete on price. 
+–
+Trips are billed to the hospital using a rate card that each taxi/van company shares with the hospital. This is a blind bidding
+system whereby the taxi/van/ambulance companies have no idea how their prices relate to the other bids submitted by competing
+taxi/van/ambulance companies.
+•
+Transportation is coordinated by a central dispatching system at the hospital, and a scheduler calls taxi companies, wheelchair van 
+companies, and ambulance companies to schedule all patient rides at least 3 days in advance. 
+•
+***Assume that trips which are coordinated on short notice are charged at a significant premium
+•
+If a candidate asks about trip duration/distance – assume that there is some variation, and this will be discussed later on in the case. 
+•
+A well-designed framework would focus on cost drivers – chiefly, number of patients needed to be transported, total distance traveled, 
+how many drivers are available to transport these patients.
+•
+A strong candidate will also realize that segmenting utilizers of this benefit will be vital to understanding the highest-cost populations.
+Interviewer Guidance:
+
+
+===== PDF p245 =====
+Exhibit #1
+Expenditure by Category ($, millions)
+240
+28
+31
+41
+29
+22
+208
+2017
+152
+2013
+186
+2016
+170
+2015
+113
++10%
+2014
+199
+141
+193
+161
+130
+Category 1
+Category 2
+
+
+===== PDF p246 =====
+Exhibit #1B
+241
+Emergency/Ambulance
+208
+30
+Substance Abuse
+Wheelchair-Bound
+28
+99
+Dialysis/Cancer Care
+29
+Routine Check-ups
+22
+134,388
+44,074
+3,581
+8,697
+5,655
+Utilizers
+$10
+$22
+$22
+$31
+$22
+Average Cost 
+Per Trip
+200k
+1.1MM
+3.3MM
+1.9MM
+Total Trips
+1MM
+Annual Expenditure, 2017 
+($, millions)
+
+
+===== PDF p247 =====
+Interviewer guidance on Exhibits
+•
+Allow the candidate to absorb the two charts as they can 
+be quite confusing
+•
+Ask the candidate generally which populations appear to 
+be the biggest drivers of annual costs, then proceed to 
+ask candidate on a per-year basis, which demographic 
+in Category 2 represents the most expensive patients to 
+transport? (*** This is an EXCELLENT opportunity to 
+show SMART ROUNDING, but I have included the 
+exact answers below):
+–
+Wheelchair bound: $99MM / 8,697 = $11,383 per patient 
+per year
+–
+Substance Abuse: $28MM / 5,685 = $4,951 per patient 
+per year
+–
+Dialysis/Cancer Care: $30MM / 3,581 = $8,377
+–
+Routine Check-ups: $29MM / 44,074 = $657
+•
+Brainstorm: What are some of the reasons you think 
+there are such discrepancies of annual expenditure 
+across each of these populations?
+–
+Distance of trips, frequency of trips, trips booked on short 
+notice
+•
+Brainstorm 2: What are some potential strategies the 
+hospital could employ to help drive down cost on non-
+wheelchair bound trips?
+–
+Ride sharing, Trip Pooling, expanding the provider pool, leveraging live-
+bidding platform/technology 
+• Correct conclusions:
+–
+Total expenditure ~6% CAGR YoY since 2013
+–
+Excellent candidate will be able to quickly infer 
+when looking at both exhibits together that 
+everything except ambulance trips are considered 
+Category 2. 
+–
+Candidate should recognize the out-sized spend on 
+transporting wheelchair-bound patients – largely 
+because wheelchair vans are less widely available, 
+and are generally much more expensive to own 
+and operate than a taxi. 
+–
+Good candidate will also see that almost half of the 
+total program cost is from Wheelchair-bound 
+patients
+–
+A great candidate will also see that 28% of all 
+spend is being generated by ~5% of the population 
+who actually uses the transportation benefit 
+(Substance Abuse, Dialysis/Cancer Care) and 
+suggest that this may be an interesting area to 
+explore further for strategic options around 
+rationalizing that cost and perhaps optimizing. 
+242
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p248 =====
+MedTrans
+243
+• After a structured brainstorm around potential mechanisms to drive down costs on a per-trip basis, pose 
+the following:
+• Your team has found that 8% of volume across substance abuse, dialysis, and routine check-ups are 
+being booked on short notice (resulting in trips which cost 2.5x normal base rates). The hospital has 
+identified a start-up called RoundTrip that can help bring down this premium to base rates by opening up 
+trip bids to Uber and Lyft drivers. The initial cost to deploy the platform would be $250k in addition to a 
+$1 fixed per-trip premium for trips scheduled through this service. If Montachussett goes forward with this 
+investment, what is the total potential savings gained from this model?
+Prompt #2:
+Interviewer Guidance:
+8% of Vol.
+2.5x Base Trip rate ($22)
+Substance Abuse
+152,000
+                  
+$55
+Dialysis/Cancer Care
+88,000
+                    
+$55
+Routine Checkups
+80,000
+                    
+$55
+Total
+320,000
+                  
+17,600,000.00
+$                                 
+8% of Vol.
+New Rate (incl. $1 per trip prem.)
+Substance Abuse
+152,000
+                  
+$23
+Dialysis/Cancer Care
+88,000
+                    
+$23
+Routine Checkups
+80,000
+                    
+$23
+Total
+320,000
+                  
+7,360,000.00
+$                                   
++ Fixed Cost
+250,000.00
+$                                      
+Total new Spend
+7,610,000.00
+$                                   
+Implied Savings
+9,990,000.00
+$       
+* OK to approximate to $10MM
+NOW
+ROUNDTRIP
+•
+Candidate should calculate this information error-free.
+•
+Shortcut: Recognize that total trip volume across these 
+categories is 4MM, and you can quickly get to 320K trips by 
+taking 8% of this number. 
+•
+Strong candidate will include a SO WHAT after completing 
+the calculation – despite the up-front cost of this new 
+technology, RoundTrip can potentially reduce total 
+expenditure by 5%
+•
+Excellent candidate will pick up on the fact that this 
+technology is being rolled out by a start-up which implies a 
+whole host of operational risks if the hospital chooses to go 
+all-in with this solution. Potential mitigating factors would be 
+to roll out this via some sort of pilot program to litmus test 
+whether real savings can be achieved. 
+
+
+===== PDF p249 =====
+MedTrans
+244
+Candidate should succinctly summarize key findings from throughout the case (Category 2 patients being the key 
+drivers of program cost, approximately 30% of total cost is being generated by two population groups who account 
+for less than 5% of total users)
+Candidate should also firmly state that going ahead with RoundTrip would be a great solution in the near term. 
+Excellent candidate will also question/realize that RoundTrip has application beyond just short-notice trips, and could 
+be used for all trip scheduling for non-wheelchair bound patients (thereby further reducing costs via Uber/Lyft supply 
+pools) 
+Recommendation 
+• Some risks that the candidate could highlight:
+– RoundTrip is a startup – scale concerns may arise for a startup that would need to handle the 
+scheduling and booking of over 7MM rides/year
+– Transporting medical patients using Uber/Lyft presents all kinds of liabilities which would need to be 
+dealt with – WAIVER PROGRAM may be necessary as mediating tactic. 
+– Customer experience may vary widely depending on the quality of the Uber/Lyft driver who picks 
+them up. 
+– There is a risk that by opening up the current vendor pool to Uber/Lyft drivers, taxi companies and 
+van services who have been serving the hospital for years go out of business or are not able to 
+compete at the prices which are otherwise available in the market – but this is not (necessarily) a 
+concern of Montachussett. 
+Interviewer Guidance:
+
+
+===== PDF p250 =====
+Evaluation Criteria
+245
+Candidate 
+Level
+Assessment
+Average Candidate
+Struggles a bit conceptually to come up with cost savings tools 
+available, misses the subtle hint that expanding the vendor pool 
+via Uber/Lyft would necessarily imply that market forces would 
+drive per-trip prices lower. 
+Good Candidate
+Catches the subtleties of what is being asked of them when 
+calculating the projected savings from RoundTrip.
+Recognizes that the bulk of costs for this program is being driven 
+by a very small percentage of total utilizers. 
+Excellent Candidate
+Further understands that RoundTrip may have applicability 
+beyond just short-notice trips – by expanding the pool of vendors 
+who bid on trips (ideally through an open bidding system), prices 
+should self-regulate and only the true low-cost bidder would be 
+able to get trips. 

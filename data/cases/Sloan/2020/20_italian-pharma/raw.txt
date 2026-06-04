@@ -1,0 +1,155 @@
+===== PDF p120 =====
+Casebook | 2019-20 Edition 
+116 
+ 
+20. Italian Pharma (BCG R1, Healthcare, New Market, Balanced) 
+Stem: Our client is an Italian pharmaceutical company. They have the right to sell a cardiovascular drug 
+that was developed and previously sold by a multinational pharmaceutical company in the Italian market. 
+The multinational company is leaving the Italian market and gave the rights to sell this drug to our client 
+based on a royalty. The drug regulates blood pressure and has 5 competitors (substitutes) in the market. 
+ 
+Our client has asked us to size the field force (sales reps) needed to reach to physicians. 
+ 
+Notes: Sales reps simply go to physicians and illustrate features of the drugs; physicians decide which 
+drugs to prescribe. 
+ 
+Framework: A good framework includes: 
+ 
+Market Size / Competition 
+ 
+• 
+Overall market size 
+• 
+Growth 
+• 
+Client’s and other competitors’ respective market share 
+• 
+Characteristics of the market 
+o 
+Doctor visits by cardiovascular patients 
+o 
+Population 
+ 
+Activities of the Sales Force 
+ 
+• 
+During visit 
+o 
+Telling about product features 
+o 
+Answering physician questions 
+• 
+Before/After visit 
+o 
+Prioritization 
+o 
+Appointment making with physicians 
+ 
+Patterns related to Physicians 
+ 
+• 
+# of physicians 
+o 
+Specialization / Type (General practitioners vs. specialized physicians) 
+• 
+Decision making process of physicians 
+o 
+Other stakeholders? (i.e. insurance companies) 
+o 
+Correlation between # of visits and probability of prescribing client’s drug 
+ 
+Interviewer: OK. Let’s assume that as a result of our studies to date, we’ve determined that there are 
+three basic groups of physicians: 
+ 
+• 
+A: Physicians to be visited 10 times/year 
+• 
+B: Physicians to be visited 5 times/year 
+• 
+C: Physicians to be visited 2 times/year 
+ 
+If we assume that we can place all of the regions in Italy into the below table (figure 1) with the number of 
+potential cardiovascular patients on the X axis and our client’s market share in a given region on the Y 
+axis, can you show me where on the table you would place each of the three physician groups? 
+
+
+===== PDF p121 =====
+Casebook | 2019-20 Edition 
+117 
+ 
+ 
+Figure 1 
+ 
+H 
+ 
+ 
+ 
+ 
+L 
+ 
+L 
+H 
+ 
+ 
+Candidate: Sure. I would definitely put A-type to the southeast and C-type close to the north of the chart. 
+The rest would be B-type. 
+ 
+Interviewer: Why? 
+ 
+Candidate: I want to visit the doctors in the regions where our client’s share is low and market potential is 
+very high the most. The southeast part of the chart has that characteristic and is great for A-type. 
+ 
+Similarly, I want to visit the doctors in the regions where our client’s share is high the least because there 
+won’t be much marginal improvement as a result of those visits. The north part of the chart has that 
+characteristic and this is why I would label that part C-type. To improve our share in potentially big 
+markets, I would put B-type to the rest, probably dedicating most of the reps close to the center of the 
+chart. 
+ 
+Interviewer: Sounds good. Let’s put some numbers to the discussion and try to calculate the number of 
+reps our client needs. This next chart (Figure-2) shows the percentage of physicians serving each part of 
+the market. There are 50K physicians who prescribe cardiovascular drugs. Based on that info can you tell 
+me how many physicians will be A-type and how many visits will be made to them per year? 
+ 
+Figure 2: 
+ 
+10% 
+ 
+40% 
+ 
+30% 
+ 
+20% 
+ 
+20% 
+30% 
+40% 
+10% 
+ 
+ 
+Candidate: Sure. Based on the percentages, I can calculate how many physicians are serving each part. 
+For example, at the lowest row of the matrix there has to be the 20% (i.e. 10,000) of all physicians. As 
+10% of them are serving at the square lying in the southeast end of the matrix, that square represents 
+1,000 (10%x10,000) physicians. A similar calculation for the other 2 squares occupied by A-type doctors 
+gives me a total number of 6,500 A-type doctors and a required 65,000 visits per year to them. 
+ 
+Interviewer: Good. Let’s assume that we did the similar calculation for the whole matrix and calculated 
+total number of required visits per year as 270,000. What is the number of required reps? 
+A 
+A 
+A 
+
+
+===== PDF p122 =====
+Casebook | 2019-20 Edition 
+118 
+ 
+Candidate: To calculate that I need to know on average how many visits a sales rep can do per day and 
+how many working days per year are there for a sales rep. Can I assume that a sales rep can do 5 visits 
+per day and works 220 days per year? 
+ 
+Interviewer: Let’s assume a sales rep can do 7 visits per day and works 200 days per year. 
+ 
+Candidate: OK. Based on that information, our client needs a sales force of 200 people. (270,000 / (200 
+x 7) = around 200) 
+ 
+Interviewer: Thank you. That’s all the time we have today. (No formal recommendation is needed). 

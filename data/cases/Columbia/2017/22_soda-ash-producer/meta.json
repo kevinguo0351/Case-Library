@@ -1,0 +1,32 @@
+{
+  "case_id": "Columbia_2017_22_soda-ash-producer",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 22,
+  "case_name": "Soda Ash Producer",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Chemicals / Mining",
+  "difficulty": null,
+  "pdf_page_start": 169,
+  "pdf_page_end": 177,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    171,
+    172,
+    173,
+    175,
+    176,
+    177
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p171.png",
+    "exhibits/exhibit_p172.png",
+    "exhibits/exhibit_p173.png",
+    "exhibits/exhibit_p175.png",
+    "exhibits/exhibit_p176.png",
+    "exhibits/exhibit_p177.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\22_soda-ash-producer"
+}

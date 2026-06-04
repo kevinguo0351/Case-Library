@@ -1,0 +1,26 @@
+{
+  "case_id": "HBS_2011_01_telecom-co",
+  "school": "HBS",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\HBS\\HBS_Case Book_2011.pdf",
+  "idx": 1,
+  "case_name": "Telecom Co.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Telecom",
+  "difficulty": null,
+  "pdf_page_start": 5,
+  "pdf_page_end": 15,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    10,
+    12,
+    14
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p010.png",
+    "exhibits/exhibit_p012.png",
+    "exhibits/exhibit_p014.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\HBS\\2011\\01_telecom-co"
+}

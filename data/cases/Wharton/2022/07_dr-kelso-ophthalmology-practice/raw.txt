@@ -1,0 +1,241 @@
+===== PDF p71 =====
+Case 7: Dr. Kelso Ophthalmology Practice
+Case Type: M&A
+Difficulty Level: Medium to Hard
+
+
+===== PDF p72 =====
+Dr. Kelso Ophthalmology Practice
+Your client, a PE firm, is considering an investment in Dr. Kelso’s ophthalmology practice, located 
+outside Philadelphia. Should they make the investment?
+●
+How does Dr. Kelso’s business make money? What is ophthalmology?
+○
+An ophthalmologist is an eye doctor
+○
+Dr. Kelso’s practice provides a full range of ophthalmology services including exams, surgeries, and prescribing and 
+administration pharmaceuticals
+○
+Accepts major commercial and government insurance
+●
+What is the ownership structure today? 
+○
+Today, Dr. Kelso and 3 other doctor partners are equity owners in the business
+○
+They are only paid their share of the profits. They do not take a salary
+●
+What are the terms of the deal?
+○
+Dr. Kelso’s Practice is requesting $15M for a 50% stake in the business
+●
+What are the PE firm’s objectives?
+○
+To make a good ROI on the investment
+Problem Statement
+Additional Information (Provide Upon Request)
+
+
+===== PDF p73 =====
+Dr. Kelso Ophthalmology Practice
+1. Market
+A. Market Size
+●
+Number of customers 
+(Insurance vs cash)
+●
+Market growth
+●
+Demand
+B. Competitors 
+●
+Number of other competitors
+●
+Hospital owned vs independent
+●
+Focus - full suite vs focused
+●
+Affiliation with referrers
+C. Trends
+●
+Teleconsultation
+●
+Growth of cosmetic surgeries 
+like LASIK
+2. Financials
+3. Opportunities
+4. Deal Terms
+A. Revenue
+●
+Price (avg service fee, 
+collections rate, insurance vs 
+cash price)
+●
+Volume (number of patients, 
+insurance vs cash mix, service 
+mix)
+B. Cost
+●
+Variable (labor, materials, 
+marketing etc.)
+●
+Fixed (rent, loans, equipment, 
+utilities, etc.)
+A. Revenue Synergies
+●
+Increase reimbursement rates 
+via greater market power
+●
+Increase volume via 
+combination with referrers
+●
+Increase collection rate via 
+better business Management
+B. Cost Synergies
+●
+Decrease practice management 
+costs through scale with other 
+assets in portfolio
+A. ROI/Payback Period/NPV
+B. Ownership structure (PE > 
+50%?)
+C. Why are doctors selling?
+D. Risks 
+E. Other Opportunities
+Sample Framework
+Interviewer guidance 
+-
+After framework, if needed, guide the candidate to focus on the profitability of the company (Market would also be a reasonable 
+place to go but is not the focus of this case).
+
+
+===== PDF p74 =====
+The PE firm prepared a financial projection for Dr. Kelso’s practice for next year before the deal 
+takes place. As a first step, what is the implied valuation of the company today?
+Dr. Kelso Ophthalmology Practice
+Exhibit 1: Financial Forecast
+Revenue
+$20M
+Costs
+$16M
+Operating Profit
+$4M
+Taxes (20%)
+Net Profit
+Product
+2022F
+Note: Dr. Kelso’s has no depreciation, debt, or investment in CapEx
+Assumptions:
+WACC = 13%
+Growth Rate= 3%
+
+
+===== PDF p75 =====
+Dr. Kelso Ophthalmology Practice
+Exhibit 1: Answer Key
+Revenue
+$20M
+Costs
+$16M
+Operating Profit
+$4M
+Taxes (20%)
+$0.8M
+Net Profit*
+$3.2M
+Product
+2022F
+*Note that net profit is equivalent to FCF because we assume no depreciation or capex
+Notes:
+Value = FCF / (WACC-g)
+Valuation = 32M PE stake at 
+50% is worth $16M.
+ROI is $16M/$15M or ~7% 
+(not good) 
+
+
+===== PDF p76 =====
+If the PE firm acquired a stake in Dr. Kelso’s practice, how could they increase the value of the 
+company?
+Sample Response: Cause of Profit Decline 
+Candidate should brainstorm revenue drivers, cost drivers, and synergies (see sample framework 
+for examples)
+Dr. Kelso Ophthalmology Practice
+Question 2 
+Brainstorm
+
+
+===== PDF p77 =====
+After initial research the PE firm believes they can improve revenue by 5% via improved pricing and 
+collections. In addition, through cost synergies, they believe they can reduce practice management 
+costs by $1M. What would the PE client’s stake be worth with these changes?
+Dr. Kelso Ophthalmology Practice
+Question 3
+Revenue
+Revenue = 1.05 * $20M = $21M; Costs = $16M - $1M = $15M
+Operation Profit
+Operation Profit = $6M; Taxes = $1.2M
+Net Profit
+$4.8M; Valuation = $48M. PE stake = $24M
+Takeaway
+PE firm would make a 60% ROI ($24M value / $15M investment) -> a good investment
+Bonus
+An outstanding candidate would say, if volume declines by ~10% from $21M in revenue to $19M in 
+revenue, then the value of the business declines to just $36M and the PE firm would just barely 
+breakeven on its investment
+Answer
+
+
+===== PDF p78 =====
+How would compensation for Dr. Kelso and his 3 partners change after the deal? How do you think this 
+would impact volume?
+Dr. Kelso Ophthalmology Practice
+Question 4
+Current Setup
+Dr. Kelso and partners receive no salary; compensation today (pre-deal) = Net profits of the business, $3.2M
+New Setup
+After the deal, with $4.8M net profit, the partners receive a $24M payout and 50% of the profit stream, or $2.4M 
+per year
+How does this affect 
+motivation?
+As 50% equity owners, the doctors have less incentive to work hard. They only get 50% of incremental profits 
+from their efforts
+How will this affect 
+volume?
+Given this incentive change, we would expect volume to go down, and after receiving a $24M payout, even less 
+incentive to work hard (They’ll have new ski houses to enjoy!)
+Takeaway
+Given the reduced profit, doctors’ incentive decreases, which drives down volume, and reduction of volume 
+leads to the value of the business decreasing.
+Answer
+
+
+===== PDF p79 =====
+How can the deal be changed to make sure we keep current volume growth at 3%?
+Dr. Kelso Ophthalmology Practice
+Question 5
+Incentive-based salaries / bonus tied to volume, contractual requirement to maintain strong effort, vest the payout over multiple years 
+and condition on volume, inspire the doctors to consider the patient impact, hire new doctors/other staff to improve leverage per doctor
+Sample Answer
+Question 7
+Operating profit = $5.4M, or $0.6M lower
+Taxes = $1.08M; Net Profit = $4.3M (ok to round); Valuation = $43M; PE stake = 21.5M; ROI = 43%
+Answer
+The client determines that they need to pay $0.6M in performance-based compensation to Dr. Kelso and his 
+partners to keep them sufficiently incentivized and continue to grow volume. With this change, what would the 
+value of the PE firm’s stake be?
+
+
+===== PDF p80 =====
+Candidate can make an argument either way.
+Dr. Kelso Ophthalmology Practice
+Recommendation
+Sample 
+Arguments
+●Argument to invest: 1) Strong ROI 2) grow revenue by 10%: increase pricing power / 
+collections rate, 3) reduce practice management costs by $2M, 4) good ways to 
+de-risk effort dis-incentives, keeping good volume
+Sample Risks
+●Doctors will not have the proper incentive to continue working as hard
+Sample Next Step
+●Explore which incentive structures will be the most effective and is agreeable to the 
+doctors

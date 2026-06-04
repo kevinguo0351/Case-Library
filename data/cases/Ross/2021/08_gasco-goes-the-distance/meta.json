@@ -1,0 +1,28 @@
+{
+  "case_id": "Ross_2021_08_gasco-goes-the-distance",
+  "school": "Ross",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2021.pdf",
+  "idx": 8,
+  "case_name": "GasCo Goes the Distance",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Oil & Gas",
+  "difficulty": "2",
+  "pdf_page_start": 85,
+  "pdf_page_end": 93,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    87,
+    89,
+    90,
+    91
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p091.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2021\\08_gasco-goes-the-distance"
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2021_05_drinks-gone-flat",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 5,
+  "case_name": "Drinks Gone Flat",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Packaged Goods",
+  "difficulty": null,
+  "pdf_page_start": 86,
+  "pdf_page_end": 93,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    87,
+    88,
+    89,
+    91,
+    92,
+    93
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p088.png",
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p092.png",
+    "exhibits/exhibit_p093.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\05_drinks-gone-flat"
+}

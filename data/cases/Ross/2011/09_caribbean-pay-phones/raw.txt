@@ -1,0 +1,181 @@
+===== PDF p82 =====
+- 77 - 
+Caribbean Pay Phones 
+Bain, Final Round 
+ 
+A Ross MBA student is on a “career trek” to the 
+exotic Caribbean island of Arborea Anna.  Arborea 
+Anna (AA) is not quite as rich or as technologically 
+developed as the US.  About 50% of the population 
+has cell phones, and that percentage is increasing 
+quickly.  As our Ross student wakes up, he looks out 
+his hotel room window and sees a crew of workers 
+from the AA Telephone Company ripping out the pay 
+phone on the street corner and replacing it with a 
+new model.  After putting his curiosity and his broken 
+Spanish to use, he learns from the workers that they 
+are not just installing a new model on this street 
+corner, but replacing all 500 pay phones in the 
+country with new models.  He wonders why they are 
+going through the time, trouble and expense when 
+pay phones are obviously a dying technology.   
+Why are they replacing the phones? 
+ 
+
+ The only significant difference in the new model 
+of pay phone is that it is equipped to accept 
+payment via prepaid phone cards that are 
+available for sale in local convenience stores in 
+addition to traditional payment with coins.   
+
+ Pay phone service in AA has been de-regulated, 
+but no competitors to the privatized former 
+government monopoly have entered the market.   
+
+ There is no government mandate to update pay 
+phone technology.   
+
+ The useful life of a pay phone (both old and new 
+model) is 10 years.   
+ 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Medium  
+ 
+Industry: Telecom 
+Type: Profitability, Cost Reduction 
+
+
+===== PDF p83 =====
+- 78 - 
+This is a profitability case.  The most direct approach to cracking the case is to compare the 
+profitability of one old model phone with one new model phone.   
+If needed, interviewer should encourage the candidate to list drivers of revenue and costs and 
+consider how installation of the new model is likely to affect each driver.  Potential drivers and 
+effects are listed on slide 2.  The interviewer should dismiss effects not listed.  The key driver to 
+identify is the reduction in maintenance costs.  If needed, the interviewer should give the 
+candidate hints until he/she identifies this effect.   
+After the candidate has listed and considered drivers, the interviewer should encourage the 
+candidate to develop quantitative estimates of cost effects, providing guidance as needed.  As 
+outlined on slide 2, there will be no revenue changes.   
+Competition with cell phones and deregulation are red herrings.  This is a case about the 
+management of a stable business with slow or negative growth.   
+ 
+Solution Overview 
+Caribbean Pay Phones 
+Bain, Final Round 
+ 
+
+
+===== PDF p84 =====
+- 79 - 
+Driver 
+Potential Effects of New Model 
+Explanation 
+Customers per day 
+No change 
+Extra payment option for customers 
+without coins brings new customers, 
+but offset by generally declining 
+demand 
+Price per minute 
+No change 
+Supply and demand not affected 
+Average length of call 
+Slight increase, but not relevant 
+Calls priced with flat fee for unlimited 
+minutes 
+Advertising 
+No change 
+No additional ad space on new model 
+Revenue & Cost Effects (Qualitative) 
+Revenue Drivers 
+Cost Drivers 
+Driver 
+Potential Effects of New Model 
+Explanation 
+Installation 
+Significant increase 
+One-time installation fees will be 
+substantial 
+Maintenance 
+Significant decrease 
+Company won’t have to empty coins 
+out of machine as frequently 
+Interchange fees (fees paid to the 
+owners of the phone lines) 
+Slight increase, but insignificant 
+Will increase average length of day 
+increases, but not a big cost 
+Rent 
+No change 
+Value of land unchanged 
+Caribbean Pay Phones 
+Bain, Final Round 
+ 
+
+
+===== PDF p85 =====
+- 80 - 
+Cost Savings (Illustrative) 
+Breakdown of Costs 
+Installation 
+Maintenance 
+Costs (Useful Life) 
+Old Model 
+$0 
+$1000/yr 
+$1000*10=$10,000 
+Assumption 
+$40/visit to unload 
+quarters 
+1 visit/2 weeks 
+50 weeks/yr 
+New Model 
+$2200 
+$250/yr 
+$2200+$250*10=$4700 
+Assumption 
+Equipment cost = 
+$2000 
+10 hours of labor 
+@$20/hr 
+ 
+1 visit/8 weeks 
+Total Cost Savings 
+Cost Savings per Phone * Total Phones = Total Cost Savings 
+ 
+($10,000-$4,700)*500 = $2,650,000 
+*Assume discount rate of zero 
+Caribbean Pay Phones 
+Bain, Final Round 
+ 
+
+
+===== PDF p86 =====
+- 81 - 
+The AA Telephone Company is replacing its 
+phones in order to save maintenance costs.   
+Conclusion 
+1.
+What is the most important assumption 
+made in your analysis?  (Reduction in 
+number of visits to empty quarters because 
+a significant number of consumers will 
+change to card payment).   
+2.
+How could you test that assumption?  
+(Customer survey, benchmarks from other 
+industries that have shifted to cashless 
+payment, install one new phone and run a 
+pilot).   
+3.
+If you were the CEO of the AA Telephone 
+Company, how would you spend your 
+profits?  (Dividends, new services, 
+geographic expansion).   
+Bonus Questions 
+Caribbean Pay Phones 
+Bain, Final Round 
+ 

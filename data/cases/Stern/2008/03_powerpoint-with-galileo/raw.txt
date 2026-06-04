@@ -1,0 +1,162 @@
+===== PDF p13 =====
+Torch the Case 2008 
+ 
+8 
+3. Powerpoint with Galileo 
+ 
+ 
+ 
+ 
+ 
+  
+Type of Case: New business (unconventional context) 
+Difficulty: Low 
+ 
+Opening 
+ 
+You’re a consultant in 17th century Venice and Powerpoint is your art canvas. Your client, 
+Galileo Galilei has just invented the telescope. He’d like you to help him make some money 
+off what he is sure will be a very useful invention. What do you tell him? 
+ 
+Background  
+ 
+Galileo has a workshop, and 6 talented workers who can manufacture the telescopes for him. 
+Each worker is available 6 days a week, for 8 hrs a day, and all-in labor costs are $10 per 
+worker per hour. Raw materials for a telescope come to $5 per piece, and one worker can make 
+one telescope in 2 hours. This data is only for the costs section of the problem. 
+ 
+Skills involved in making a telescope consist of grinding the lenses correctly, building the 
+housing and focal length adjustment mechanism, and assembling the parts.  
+The market being considered is the entire world. 
+ 
+No data is available on the populations of Italy, Venice, military, traders, frequency of travel, 
+building, warfare etc. Respond to all requests for specific information on this stuff with “Why 
+don’t you try and derive an estimate for that?” As long as the assumptions are reasonable, most 
+answers are valid.  This is a brainstorming case – you are looking for creativity in an unusual 
+context.  Cases are not dependent on historical facts so any inaccuracies in the candidate’s 
+display of 17th century Europe knowledge is given leeway. 
+ 
+Areas of Discussion  
+ 
+Typical “buckets” could include: 
+Company 
+Part of the “Company” bucket includes costs.   
+- 
+Work out costs and production capacity based on the data above. 
+- 
+Could suggest cost-based pricing 
+Candidate would also need to discuss the distribution strategy, which would likely involve 
+selling the goods to local merchants for overseas trading.  Also, the company cannot likely 
+produce to keep up with initial demand so the good should be priced accordingly.  Should more 
+laborers be hired to increase production? 
+ 
+ 
+ 
+ 
+
+
+===== PDF p14 =====
+Torch the Case 2008 
+ 
+9 
+3. Powerpoint with Galileo continued… 
+ 
+ 
+  
+ 
+Customers: 
+- 
+Who would need a telescope: 
+o Local 
+ Traders and sailors 
+ The military – army/navy 
+ Explorers – land/sea 
+ Architects and surveyors 
+o Overseas 
+ Similar categories 
+ Geographic categories 
+• Europe is viable 
+• Asia, Middle East, America, Far East secondary markets 
+• Could rank in an Effort/Return quadrant matrix (some firms loves 
+their matrices) 
+ Political considerations 
+ Profit sharing with traders 
+ Overseas monopoly 
+• Large potential demand, relatively slow supply 
+• High likelihood of local imitators 
+o What do you think is the largest market, at each stage of the product timeline? 
+- 
+Extra Credit: Very rough market-sizing (not the focus of the case) 
+o Could suggest (very rough) pricing based on willingness-to-pay  
+ 
+Competitors:  
+- 
+No patent structure means imitation is a serious problem 
+- 
+Ease of construction means reverse-engineering is not difficult 
+o Obfuscation of the mechanism may be necessary 
+- 
+6 workers are skilled engineers. Each is an intellectual property (IP) risk if they break 
+away and start up on their own – keep them happy and well compensated. 
+ 
+Cost Analysis:   
+The math is incidental, and not the focus of the case.  However, interviewer may want to test 
+the candidate’s quantitative ability using the example below.   The candidate should be able to 
+express why s/he would want to calculate the cost.  Reasons can include the desire to assess 
+how many telescopes can be produced relative to an estimated market demand or estimated 
+financial resources required to operate the business. 
+ 
+Interviewer has already provided the following data: 
+- 
+Six talented workers who can manufacture the telescopes.  
+- 
+Each worker is available 6 days a week, for 8 hrs a day 
+- 
+All-in labor costs are $10 per worker per hour.  
+- 
+Raw materials for a telescope come to $5 per piece 
+- 
+One worker can make one telescope in 2 hours 
+
+
+===== PDF p15 =====
+Torch the Case 2008 
+ 
+10 
+3. Powerpoint with Galileo continued… 
+ 
+ 
+  
+ 
+Cost per unit telescope = $5 + 2*$10 = $25 
+One week: 6 * 8 * 6 = 288 worker-hours 
+# of telescopes manufactured in that time = 288 / 2 = 144 telescopes 
+Total raw materials cost = 144 * 5 = $720 
+Total labor cost = 288 * 10 = $2880 
+Total weekly cost = $3600 for 144 telescopes. 
+ 
+Recommended Conclusion 
+ 
+Large market exists, both locally and overseas – will experience a short initial period of 
+monopoly after which imitators will provide serious competition – preventive strategies are 
+necessary to combat this. 
+ 
+Structure the response, but be as creative as possible in terms of your ideas. The math is 
+incidental, and not the focus of the case.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

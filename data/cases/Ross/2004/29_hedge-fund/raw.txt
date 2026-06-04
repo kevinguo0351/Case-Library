@@ -1,0 +1,208 @@
+===== PDF p69 =====
+Table of Contents 
+ 
+65
+Practice Case 29: Hedge Fund  
+(BCG - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+Your client is $2B hedge fund.  Previously they selected investments 
+based on a complex mathematical model.  However, about 2 years 
+ago they started seeing lower returns.  To address this problem they 
+added a research team to help evaluate investments. 
+ 
+If the model recommends an investment money is invested.  If the 
+model and the analysts agree on an investment a larger percentage 
+is invested than if only the model recommends the investment.   
+ 
+The research team consists of 4 Senior Analysts and 3 Junior 
+Analysts.  The CEO is extremely pleased with the new research team 
+and the uplift in returns they have seen as a result of the new 
+investment methodology.  However, he does not feel that the team is 
+properly structured and has asked you to advise him on structuring 
+the team.  What issues would you consider and how would you 
+structure the team. 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+The overall goal of the hedge fund is to maximize returns and they 
+tolerate a high amount of risk 
+• 
+Individual investors invest between $20M-$100M 
+• 
+All seven researchers currently report to the head of trading 
+• 
+When the trading department has a question on an investment the 
+head of trading will contact one of the Senior Analysts and ask him to 
+evaluate an investment. The Senior Analyst will then prioritize the 
+request and divide it between him/herself and the Junior Analysts 
+• 
+Investment research (even an individual request) can usually be 
+broken into several discrete pieces 
+• 
+The CEO does not want to fire anyone 
+ 
+After a brief discussion of compensation/rewards and reporting lines, the 
+interviewer directed me to the issue of leverage.  Upon asking if the work 
+could be broken up between Junior and Senior analysts he provided the 
+following data: 
+ 
+• 
+Both Junior and Senior analysts feel that they are doing work that is 
+beneath them 
+• 
+If investment research work was pushed down to the lowest 
+competent level the work could be divided as follows 
+
+
+===== PDF p70 =====
+Table of Contents 
+ 
+66
+ 
+Sr. Analysts Jr. Analysts Research Assistants 
+ 
+ 
+Data Gathering 
+25%  
+25%  
+50% 
+ 
+ 
+Analysis 
+ 
+20%  
+80%  
+0% 
+ 
+ 
+Synthesis 
+ 
+80%  
+20%  
+0% 
+ 
+If there is 100 hours of research work to do it would be broken up as follows 
+Data Gathering 
+20% 
+Analysis 
+ 
+60% 
+Synthesis 
+ 
+20% 
+ 
+Hot tip: 
+Considerations 
+How to compensate 
+Reporting lines 
+Appropriate leverage 
+ 
+III. Sample Solutions:  Please synthesize how you cracked the case. 
+ 
+Using data provided on work allocation I calculated how many of each level 
+of worker would provide appropriate leverage to the senior analysts. 
+ 
+If a research project takes 100 hours it would be broken down between (in 
+hrs): 
+ 
+ 
+ 
+ total time 
+Sr. Analyst Jr. Analyst 
+Assistant 
+Data Gathering 
+20 
+ 
+5 
+ 
+5 
+ 
+10 
+ 
+Analysis 
+ 
+60 
+ 
+12 
+ 
+48 
+ 
+0 
+Synthesis 
+ 
+20 
+ 
+16 
+ 
+4 
+ 
+0 
+TOTAL HOURS 
+100 
+ 
+33 
+ 
+57 
+ 
+10 
+ 
+Therefore,  one senior analyst should have roughly two junior analysts and 
+one assistant can be shared between 3 Senior analysts. 
+ 
+Thus, based on the current four Senior Analysts our client currently has they 
+should create the following organizational structure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr. Analyst
+Jr. 
+Analyst
+Jr. 
+Analyst
+Sr. Analyst
+Jr. 
+Analyst
+Jr. 
+Analyst
+Sr. Analyst
+Jr. 
+Analyst
+Jr. 
+Analyst
+Sr. Analyst
+Jr. 
+Analyst
+Jr. 
+Analyst
+Asst.
+Asst.
+Shared resources
+
+
+===== PDF p71 =====
+Table of Contents 
+ 
+67
+ 
+The following additional implications/points provide additional insight: 
+There will be additional capacity for the assistants; however, because they 
+are the cheapest resources you do not want them to be the bottleneck 
+There should be little resistance by any involved parties.  While the Jr. 
+Analysts will no longer report directly to the Trading Head, they will no longer 
+be doing work that is ìbeneath themî and will have a manager trained in 
+their field. 

@@ -1,0 +1,237 @@
+===== PDF p64 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+60
+
+
+===== PDF p65 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+Case Prompt
+Our client, an Amsterdam based retail bank, has seen exceptional growth in the last 5 years. 
+They are involved in commercial banking, investment banking and wealth management. 
+Currently, they are looking to acquire another bank in Europe. The CEO of Bank Co has hired 
+our firm to help identify an ideal acquisition target. 
+Interviewer Guidance
+This is a typical McKinsey style case. After the prompt, let the interviewee ask clarifying 
+questions and then begin testing the interviewee’s capability of creating a structure to solve the 
+problem. After that, move onto the other questions as listed below. This case is about 
+comparing various acquisition targets from a financial and non-financial synergies standpoint.
+Concepts Tested
+Graph reading, Setting up calculations, Brainstorming
+61
+
+
+===== PDF p66 =====
+Clarifying Information
+•
+There is no metric for the client to 
+measure success
+•
+The rationale of the acquisition is to 
+expand outside Amsterdam 
+•
+They are open to acquiring organizations 
+with same/different financial products
+•
+Size of Bank:
+•
+Customers: 600K
+•
+Assets Under Management: $10B
+Possible Framework
+1.
+Market Attractiveness
+•
+Market size 
+•
+Market growth
+•
+Consumer trends 
+2. Financial Attractiveness
+•
+Revenue 
+•
+Cost – FC and VC
+3. Synergies
+•
+Product 
+•
+Consumer
+•
+Other Costs
+4. Risks
+•
+Brand Erosion
+•
+Culture
+•
+Regulatory
+Case 4: Orange Bank Co
+Financial Services | M&A
+62
+
+
+===== PDF p67 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+Exhibit Insights & Brainstorming
+Initial Insights: The candidate should start with at least some of these: 
+•
+We are looking at the variety of sizes – from smaller than us to bigger than us
+•
+There is a visible trend that smaller the firm, higher the number of average products sold/ 
+customer
+•
+Average profitability/ customer doesn’t follow a particular trend so there are some 
+differences in the way these firms operate 
+Please drive the candidate to at least 2 of the above insights then ask deep dive questions 
+regarding each of these questions: 
+Question 1: What do you think are the advantages and disadvantages of acquiring these firms 
+based on size? Expected answers: 
+•
+Acquiring a smaller firm will be easier to manage vs. larger
+•
+Difference in financial capital required
+•
+Market perception would vary
+•
+Larger firm would enable faster market entry
+•
+Any other logical reason is also acceptable
+63
+
+
+===== PDF p68 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+Exhibit Insights & Brainstorming
+Question 2: Why do you think the average products sold differ? Expected answers: 
+•
+Better customization at smaller size 
+•
+Larger company might have higher number of products covering large customer segments
+•
+Better customer service/ salesforce
+•
+Better products
+•
+Any other logical reason is also acceptable
+Question 3: Why does the profitability differ? Expected answers:
+•
+Higher price per product 
+•
+Better costs (ask the candidate to split costs)
+•
+Better talent productivity
+•
+Better financial management
+•
+Better overhead management
+•
+Any other logical reason is also acceptable
+64
+
+
+===== PDF p69 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+Questions
+Question 4: Ask the customer 
+based on the data they have –
+if you have to choose one 
+bank to acquire – which one 
+are you inclined towards? Any 
+answer is acceptable with a 
+sound logic. 
+Question 5: If the # of 
+customers for Bank Co is 
+600K and the average 
+profitability is $160. What 
+would be our increased 
+profitability if we acquire Bank 
+A vs. Bank B vs. Bank C? 
+Assume there are no synergies.
+Calculation
+Bank Co profitability: $600K * $160 = $96M
+Bank A profitability: $600K * $100 = $60M
+Bank B profitability: $800K * $90 = $72M
+Bank C profitability: $300K * $75 = $22.5M
+Increase in profitability
+Bank Co. + Bank A: ($96M + $60M)/(600K + 600K) = ~$130/ 
+customer
+Bank Co. + Bank B: ($96M + $72M)/(600K + 800K) = ~$120/ 
+customer
+Bank Co. + Bank C: ($96M + $22.5M)/(600K + 300K) = ~$130$/ 
+customer
+Thus Bank A or Bank C gives us the same profitability
+65
+
+
+===== PDF p70 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+Questions
+Question 6: Now that Bank A 
+and Bank C are giving us the 
+same profitability – what other 
+factors will you look at to 
+decide between them?
+Answer: Synergies & Risks
+Synergies
+Financial synergies 
+•
+Increase in revenue: ease of capturing customers, different 
+products might present cross-sell/up-sell opportunities, price 
+increase possible in case of monopoly, etc.
+•
+Reduction in cost: consolidation of branches, better 
+management of finances, consolidation of labor, less overheads
+Non-financial synergies 
+•
+Specialization sharing: If there are differences in specialization, 
+these could be leveraged such as customer service, product 
+innovation etc.
+•
+Process optimization: Larger processes present an optimization 
+opportunity
+•
+Brand presence: Bank Co will become a multi-national bank 
+leading to increase in stock price
+Any other logical reason is acceptable
+Risks
+Regulations will need to verified in 
+the new geography to understand 
+its impact on the bank operations
+Integration of culture will need to 
+be worked on
+Brand perception will need to be 
+considered if the target bank’s 
+current reputation is not good
+66
+
+
+===== PDF p71 =====
+Case 4: Orange Bank Co
+Financial Services | M&A
+Exhibit 1: Number of  Customers - 600
+Acquisition Target
+Total # of customers
+Average products 
+sold/ customer 
+Average profitability/ 
+customer
+Bank A
+600K
+4.3
+$100
+Bank B
+800K
+3.4
+$90
+Bank C
+300K
+6.1
+$75
+67
+*All targets are located in Luxembourg

@@ -1,0 +1,28 @@
+{
+  "case_id": "Columbia_2017_24_veratech",
+  "school": "Columbia",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2017.pdf",
+  "idx": 24,
+  "case_name": "Veratech",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 188,
+  "pdf_page_end": 194,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    190,
+    191,
+    193,
+    194
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p190.png",
+    "exhibits/exhibit_p191.png",
+    "exhibits/exhibit_p193.png",
+    "exhibits/exhibit_p194.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2017\\24_veratech"
+}

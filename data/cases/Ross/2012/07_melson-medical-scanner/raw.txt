@@ -1,0 +1,138 @@
+===== PDF p97 =====
+- 92 - 
+Melson Medical Scanner 
+McKinsey, Final Round 
+Your client, Melson, is a dominant (98% market share) 
+manufacturer and seller of CT scanners in the US hospital 
+market.  The market is quite stable, and the U.S. demand 
+for images from a CT scan grows 5% every year.  At the 
+beginning of last year, Melson launched a new CT 
+scanner model that is sold at the same price but can 
+produce 20% more images per year than the previous 
+model.  However, apart from the sales due to product 
+replacement, the sales growth of the new model has been 
+stagnant in the last year. 
+The CEO has hired McKinsey to find out the reason for 
+stagnant sales growth, and asked you how to increase 
+sales. 
+ 
+This is a interviewer-led case. 
+•CT scanners produce images of patients for doctor to 
+diagnose disease. 
+•Melson only manufactures and sells one model at any 
+time.  i.e., when the new model goes to market, they stop 
+manufacturing and selling old models. 
+•The life time of old and new model are both 8 years. 
+•Hospitals match their number of scanners with the image 
+demand.  There is no idle capacity, and new purchase will 
+be driven by either replacement or increasing demand. 
+ 
+ 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Medium                       Industry: Retail 
+       Type: Growth strategy 
+
+
+===== PDF p98 =====
+- 93 - 
+• Q1. Why has the sales growth of the new model been stagnant? 
+ 
+ 
+ 
+ 
+ 
+Questions for the candidate 
+Discussion Questions & Solution 
+• The image demand of CT scanning in the US only grows 5% every year, while the new model can produce 
+20% more images than the previous model.   
+• Conclusion: by introducing a new model, the total demand for CT scanner will actually go down! 
+ 
+ 
+ 
+ 
+ 
+Solution Guide 
+
+
+===== PDF p99 =====
+- 94 - 
+• Q2. What is the new sales of the new model (i.e. total sales excluding replacement sales) 
+• Note: when interviewee asks about the revenue, sales price and volume, push her/him back to let her/him 
+assume some figures and figure out what can be calculated! 
+Questions for the candidate 
+Discussion Questions & Solution 
+• Before the new model launch (the year before last year): 
+• Let the total number of existing old-model scanners in all hospitals be X 
+• Let the number of images produced per old-model scanner per year be S 
+• In the last year: 
+• The replacement sales will be X*(1/8) 
+• New model can produce 1.2S images per scanner 
+• Let the new sales of new model be Y 
+• Last year’s image demand: X*S*(1+5%) 
+• Last year’s image production: 
+• From old models: X*(7/8)*S 
+• From replacement (using new model): X*(1/8)*1.2S 
+• From new sales of new model: Y*1.2S 
+• Demand = Production => X*S*(1+5%) = X*(7/8)*S + X*(1/8)*1.2S + Y*1.2S => Y = 2%X 
+• Conclusion: excl. replacement, the new sales of the new model is only 2% of existing  old-model scanners  
+ 
+Solution Guide 
+
+
+===== PDF p100 =====
+- 95 - 
+• Q3. How to increase sales 
+• Note: This is brainstorming, so keep asking “what else” until the interviewer runs out of ideas 
+ 
+ 
+Questions for the candidate 
+Discussion Questions & Solution 
+• Key to brainstorming is being structured.  Creativity is always a great bonus! 
+• 1. Increase price 
+• We are in a monopoly, and we offer a new model that is better than old model.  So increase price! 
+• 2. Increase volume 
+• Enter into new segments, e.g. new geographic regions, medical research center, clinic, etc. 
+• Focus on improvement on image quality rather than number of image produced. 
+• Shorten life time of scanner and educate hospitals on this.  (by significantly improving quality, the 
+old models will be obsolete and needs to be replaced before it is not functioning) 
+• Increase demand of CT scanning: Partner with media, healthcare association, key opinion leader, etc, 
+to educate patients and physicians that CT scanning is safe to use, and the benefit of diagnosing 
+early-stage disease can save people from death. 
+• Improve marketing & sales force. 
+ 
+Solution Guide 
+
+
+===== PDF p101 =====
+- 96 - 
+Recommendation 
+• Opportunities to grow quantity sold 
+• Improve marketing and sales force 
+• Significantly improve quality, the old models 
+will be obsolete and need to be replaced before 
+it is not functioning 
+• Increase demand of CT scanning: Partner with 
+media, healthcare association, key opinion 
+leader, etc., to educate patients and physicians 
+that CT scanning is safe to use, and the benefit 
+of diagnosing early-stage disease can save 
+people from death. 
+ 
+ 
+ 
+Next Steps 
+Conclusion 
+• Sales growth is stagnant because replacement are 
+more effective than previous models 
+• How can Melson increase sales 
+• Increase price for new models – new product is 
+superior and client has a monopoly 
+• Enter into new segments, e.g. new geographic 
+regions, medical research center, clinic, etc. 
+• Focus on improvement on image quality rather 
+than number of image produced. 
+• Risks 
+• Replacement rates drop as a result of the price 
+increase 

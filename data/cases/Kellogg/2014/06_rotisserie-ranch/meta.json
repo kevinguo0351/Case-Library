@@ -1,0 +1,26 @@
+{
+  "case_id": "Kellogg_2014_06_rotisserie-ranch",
+  "school": "Kellogg",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2014.pdf",
+  "idx": 6,
+  "case_name": "Rotisserie Ranch",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 51,
+  "pdf_page_end": 56,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    53,
+    55,
+    56
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p055.png",
+    "exhibits/exhibit_p056.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2014\\06_rotisserie-ranch"
+}

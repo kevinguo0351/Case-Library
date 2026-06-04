@@ -1,0 +1,84 @@
+===== PDF p101 =====
+31.) Global Airline (BeG, Round 1) 
+Stem: Our client is a global airline company that wants to introduce wireless Internet services in 
+its international flights (i.e., flights between US cities and non-US cities). While other airline 
+companies already provide wireless services for domestic flights, different technology is required 
+for flights over water (i.e., no access to wireless towers on land). Currently, there is only one 
+vendor available in the market that provides a new technology that allows wireless Internet over 
+water. The client wants to know at what price they should deploy this service. 
+Candidate could prepare a simple framework with customers (willingness to pay, segmentation, 
+needs), profitability (revenues, fixed costs, variable costs) and risks. 
+Candidate should ask about the customer's willingness to pay for the wireless service. 
+• 
+300/0 of passengers are WTP if price is under $S/hr 
+• 
+lS% of passengers are WTP if price is under $10/hr 
+• 
+S% of passengers are WTP if price is under $20/hr 
+Candidate should ask for fixed and variable costs. 
+• 
+Investment of $600,000 per airplane for installation and access to wireless technology 
+• 
+$4/user hour (includes all variable costs) 
+Candidate should also ask about # of airplanes, # of flights, number of passengers, capacity, etc. 
+• 
+One international flight can carry SOO passengers 
+• 
+On average, flights have 80% capacity ~ 400 passengers 
+• 
+A verage international flight = 8 hI'S ~ assume each user spends 3 hours online 
+• 
+SOD planes flying internationally, 2 flights per day 
+If they don't on their own, direct them to figure out the payback period of the alternative prices. 
+To figure out how long it would take to cover investment of one airplane, candidate should 
+determine the optimal pricing for maximizing profit. In this case, charging less than $S/hr is not 
+profitable. Considering the passenger's WTP above, the client can either charge $9/hr or $19/hr 
+to target 1S% or S% of passengers, respectively. The interviewer should prepare a table (in 
+presentable format) similar to the one below: 
+-........ Management-
+.!!lli!1!!! Consulting 
+~~;;'I.?;".~ Club-
+2010-2011 1 st Year Case Book 
+147 
+
+
+===== PDF p102 =====
+Price 
+$9/hr 
+$19/hr 
+Profitlhr (excl. 
+$9/hr - $4/hr = $5/hr 
+$ 19/hr - $4/hr = $ 15/hr 
+investment) 
+Profi t/passenger 
+($5/hr)(3 hr/pass) = $ 15/pass 
+($15/hr)(3 hrs/pass) = $45/pass 
+Profi t/flight 
+($15/pass)(15% WTP)(400 pass) = 
+($45/pass)(5% WTP)(400 pass) = 
+$900/flight 
+$900/flight 
+Profit/day 
+($900/flight)(2 flights/day) = 
+($900/flight)(2 flights/day) = 
+$1800/day 
+$1800/day 
+Days required to 
+($600,000/plane)/($1800/day) = 
+($600,000/plane )/($ 1800/day) = 
+cover investment 
+333 days 
+333 days 
+Key insight candidate should make on their own: The payback period is about 1 year, regardless 
+of whether the client charges $9/hr or $19/hr to its passengers. Annual profit after payback is 
+about $330M ($1800*365 days*500 planes). 
+Recommendation: The investment in wireless service on international flights is attractive 
+because the payback period is only 1 year and annual profit is about $330M. Revenue potential 
+could be even greater due to the secondary effects of adding such a service - more passengers 
+flying our airline, more passengers using the service, different pricing methods. There are some 
+risks, including reliability of new technology and adoption by competing airlines. 
+...... Management 
+1111111111 Consulting 
+~~~~I!,;!~ Club 
+2010-2011 1st Year Case Book 
+148 

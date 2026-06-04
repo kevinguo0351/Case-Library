@@ -1,0 +1,108 @@
+===== PDF p126 =====
+23. Gasoline Consumption at Fast Food :Qrive Thrus 
+(L.E.K.) 
+Stem 
+This is meant to be a quantitative case completed in 25 minutes. Please help me estimate the . 
+number of gallons of gasoline used daily in the U.S. by cars idling at fast food drive-thrus. 
+l't phase: Market Sizing Framework 
+Behind the scenes: There are a number of different ways this market can be sized; there is no 
+one right answer. Make sure the interviewee makes realistic assumptions for whichever 
+approach they take. Fast food stores include McDonalds, Taco Bell, etc., but not Dunkin 
+Donuts, Starbucks. 
+Interviewer: How would you get to this answer? 
+Possible Answers: Expect a straight-forward market sizing framework. At a high level this 
+should be something like: 
+[#fast food stores w/drive-thrus] * [car idle time per drive-tluu] * [gasoline used per idle time] 
+The number of fast food stores with drive tluus can be estimated with assumptions includinp: 
+• 
+U.S. population (300 million is ok to use) 
+• 
+# of stores/per population 
+e 
+# of stores with and without drive thrus 
+• 
+#hours drive thrus open/day 
+• 
+# of cars/hour (distinguishing busy vs. slow times) 
+• 
+Average wait time at drive tluu/car (distinguishing busy vs. slow times) 
+• 
+Average gasoline consumption rate/vehicle 
+2"d phase: Estimating# of Fast Food Drive Thrus 
+Interviewer: How do we get to the# of fast food restaurants in the U.S.? 
+Behind the scenes: The interviewee will be driving the case based on the market sizing 
+framework. Each assumption should be backed by a brief reason, and if not provided, the 
+interviewer should challenge the interviewee to state and, if needed, sanity check their 
+assumptions. The interviewee should come up with a number on the rough order of 100,000. If 
+it's not in the ballpark of 100,000, then say that there is one fast food restaurant for every 3,000 
+people in the U.S. The interviewee can then calculate: 
+
+
+===== PDF p127 =====
+• 
+• 
+1 restaurant 
+= 
+X restaurants in U.S. 
+100,000 fast food restaurants in U.S. 
+3,000 people 
+300m people in U.S. 
+The interviewee should then make an assumption about the percentage of fast food restaurants 
+with drive-thrus. 50% is a good estimate (make sure reasons are provided). Therefore there are 
+50,000 fast food restaurants with drive tlnus in U.S. 
+3rd phase: Idling Time 
+Behind the scenes: Interviewee should realize that total# of customers is not relevant- what's 
+relevant is the total# of vehicles coming to the drive thms. The interviewee should also realize 
+that demand will vary based on time of day. 
+Sup-stmcture here would therefore be: 
+[Idling time per hour] = [ Cars per hour ] * [Idling Time Per Car] 
+Total idling time is sum peak and off-peak idling time over 24 hour period 
+Interviewer: How would you estimate the number of customers serviced by the drive thm per. 
+day? 
+Possible Answers: Assume the d1ive tluus are: 
+"' 
+Open 24 hours/day 
+0 
+Peak times: !lam- 1pm and 5-8 pm (NOTE: Any other similar timeframes are 
+acceptable, but then following numbers should be adjusted accordingly) 
+Interviewer: We !mow that during peak times customers wait 5 minutes, and dming non-peak 
+times customers wait 2 minutes at the drive thru. 
+· 
+Possible Answers: Interviewee can assume that the 2 minute wait during non-peak represents 
+total throughput time for orde1ing, waiting for food, and paying. But while one car is ordering, 
+another is picking up and paying. So estimate 1 car per minute at peak. Then we have maximum 
+throughput of 60 cars per hour at peak time. 
+[Sanity check- 1 car per minute and 5 minute wait means about 5 cars in the queue at any given 
+time during peak. This seems like a reasonable average J 
+Interviewee should also recognize that at non-peak, the cars are not coming back-to-back but 
+coming through occasionally. E.g. "Every 5-10 minutes sounds about right, let's call it 10 cars 
+per hour dming off-peak" 
+• 
+Peak times: 1 car/min tlu·oughput. So [60 cars/hour]* [5 minutes idling per car]* [5 hour 
+of peak traffic]= 1,500 idling minutes total during peak time per drive-tlu·u 
+• 
+Off-peak times: Assume 10 cars/hour* 2minutes idling per car* 19 hours of non-peak 
+traffic= 380 idling minutes total during non-peak time per d1ive-thru 
+2008-2009 Case Book 
+120 
+
+
+===== PDF p128 =====
+• 
+• 
+TOTAL# of idling minutes= 1,500 + 380 = 1,880 minutes per drive thru 
+4tll phase: Gasoline Usage 
+Behind the scenes: Interviewee should continue to drive the case f01ward and suggest that they 
+now look into gasoline consumption per vehicle. 
+Interviewer: We can assume that the average vehicle consumes l gallon of gas for every l hour 
+of idle time. 
+Possible Answers: We already calculated 1,880 minutes per drive thtu per day. So conve1t to 
+hours then gallons: 
+• 
+Per drive-thru: 1,880 minutes /60 mins/hour = 31.3 homs = 31.3 gallons 
+Total number of galloons = 50,000 drive-thrus * 3 I .3 gallons per drive-thtu = 
+1.57 Million gallons of gasoline 
+Key Insight: Interviewee should realize that this is an over estimation because not all drive thrus 
+are open 24 homs, the percentage of fast food restaurants with drive thrus rriay be lower, etc. 
+Nonetheless, the impact of the gasoline consumption used in drive thnis is a surprisingly large 
+number. 

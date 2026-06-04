@@ -1,0 +1,26 @@
+{
+  "case_id": "Sloan_2008_27_kiki-s-coffee-oc-c",
+  "school": "Sloan",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2008.pdf",
+  "idx": 27,
+  "case_name": "Kiki's Coffee (OC&C)",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 139,
+  "pdf_page_end": 143,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    140,
+    141,
+    142
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p140.png",
+    "exhibits/exhibit_p141.png",
+    "exhibits/exhibit_p142.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2008\\27_kiki-s-coffee-oc-c"
+}

@@ -1,0 +1,127 @@
+===== PDF p60 =====
+ICC Handbook 2020 
+56 
+ 
+ 
+Difficulty:  Medium 
+Quant: Medium 
+Company: OC&C Strategy 
+ 
+9.16 Heavy-Duty Soap (OC&C Strategy) 
+Part 1: Context 
+Our client, Clean Inc., is a manufacturer of heavy-duty soap with 
+most of its £200m in revenues concentrated in Europe and the 
+US. They sell soap to four client segments: healthcare, industry, 
+commercial, and food. 
+They have asked us to help them think about potential growth 
+opportunities in both their existing markets and elsewhere. 
+Part 2: Market Sizing 
+Let us start by looking at one of Clean’s core markets, the UK, 
+where the company generates 20% of its sales. How would you 
+go about sizing the market for Clean’s products in the UK? 
+[A good answer will introduce two possible approaches (bottom- 
+up and top-down) and discuss benefits/drawbacks  of  each.  The 
+selected approach should be bottom-up, at which point the 
+interviewer will provide you with a data table : 
+ 
+ 
+a) Introduce approach 
+• Market Size = number of Employees (i.e. users of soap) * 
+Spend per Employee 
+• Specify differences in both inputs by client segment 
+b) Analyse each input separately 
+• Spend per Employee = Usage per Person * Spend per Usage 
+» Specify time as part of calculations (per day, per year) 
+» (Bonus) Mention distinction between MSP and RSP in 
+value sizing of market 
+» (Bonus) Mention penetration rate by segment (in the UK 
+it’s 100% for this case) 
+• Candidate should proactively estimate numbers based on 
+sensible assumptions 
+» Fill in the blanks in the data table in Exhibit 1 
+• (Bonus) Sense checks you answer. For example: 
+» Market share of Clean in UK is 40% 
+» Personal experience on soap usage (amplified to account 
+for heavier use) 
+• (Bonus) Mention Impact of external factors, such as regulation, 
+health scares, innovation, etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 3: Growth Opportunities 
+Question A: Now let us talk about the potential growth opportunities 
+for Clean. Before we get into specifics, how would you think about 
+the ways that our client could grow? 
+Answer A: Here you should introduce a relevant framework to 
+identify areas of growth. Examples frameworks include: 
+• 2x2 with New/Old Products vs Existing/New Customers works 
+well 
+• Domestic v. International is an important angle 
+• Innovation and new products is also key 
+• (Bonus) Identify growth drivers tied to either Price (Spend per 
+Employee) or Volume (Usage per Employee) 
+• (Bonus) Call out likely evolution of Number of Employees in 
+each sector (e.g., declining in Industry due to automation) 
+Question B: Can you think of a few potential growth opportunities 
+for each of the areas you have identified? 
+Answer B: open ended – no correct answer 
+Part 4: New Product 
+Context: Clean has been working for the past 10 years on an 
+innovative new product: an electronic group monitoring system for 
+soap usage. Their product consists of a sensor attached to a soap 
+dispenser that registers every time someone uses it; sensors are 
+wirelessly linked to a central database to generate reports. 
+Pilot trials have started in two hospitals and the initial results have 
+been encouraging. It is now up to us to advise the CEO if he 
+should go ahead with the project or not. 
+Question A: What do you think will be the impact of this new 
+product for the company? The market? What are the implications 
+for Clean’s strategy? 
+Answer A: you should structure your answer to cover most of the 
+following: 
+• Size of opportunity (potential market) 
+• Time horizon for payback 
+• Investment required 
+• Profitability of product 
+• IRR/NPV or other kind of internal threshold used for go/no-go 
+decisions 
+
+
+===== PDF p61 =====
+ICC Handbook 2020 
+57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Expected market share of Clean 
+• Other competitors 
+• Other types of products that achieve the same results (e.g., 
+badges on users) 
+• Sectors to which this product would be attractive 
+• Demand and expected take-up of potential clients 
+• (Bonus) external drivers to make product attractive (eg, high 
+cost of low hand-washing compliance in healthcare) 
+Question B: Based on the data in Exhibit 3, what are the expected 
+profits by 2018 if they decide to go ahead with this product? 
+Answer B 
+ 
+ 
+• Assume linear market size growth (2014: £10m, 2015: £20m, 
+2016: £30m, 2017: £40m, 2018: £50m) 
+• Calculate yearly revenues with 60% share of product and 60% 
+Clean market share 
+» 2014: £3.6m; 2015: £7.2m; 2016: £10.8m; 2017: £14.4m; 
+2018: £18m 
+» Total Revenues: £54m 
+• 30% Margin = £16.2m 
+• Investment required = £13m (£5m in 2014, £2m in 2015, £2m 
+in 2016, £2m in 2017, £2m in 2018) 
+• Net Profit: £3.2m (25% return) 

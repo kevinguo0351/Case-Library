@@ -1,0 +1,135 @@
+===== PDF p148 =====
+• 
+30. Fancy Truck (McKinsey) 
+Our client is the CEO of Fancy Truck, a producer of trucks that sells mostly to logistics services 
+companies. Fancy Truck's main current product is a truck called Evolution. Now they came up 
+with a new engine, and they want to start selling another type of truck, called Revolution, that 
+will use this engine. The only difference between Revolution and Evolution is the engine and 
+Fancy Truck's plan is to have both Evolution and Revolution in the market. The CEO hired us to 
+help him find out a pricing strategy for Revolution. 
+1'1 phase: Brainstorm on customer needs 
+Behind the scenes: T1y to get as many good customer needs as possible, so keep asking what 
+else until you have a good list. The candidate should use a clear structure e.g. Driver Needs, 
+Purchaser Needs, Maintenance Needs (user change). 
+Interviewer: 
+. 
+{ 
+What do you think customers main considerations are when compaling the two models? When 
+deciding which one to buy? 
+Possf)le Answers: 1 
+/ 
+Plice,yuel efficiency, Durability, Maintainance costs, ... 
+j?1J wW 1 
+znd phase: Pricing- qualitative analysis 
+Behind the scenes: Let the candidate mention different pricing strategies. If they say "let's see 
+competitors' price", tell candidate nobody has a similar model and ask for other methods. 
+Interviewer: How would you come up with a price for the new truck? 
+Expected Answers: 
+Analyze competitors price: 
+Cost-based (cost+ mark-up): 
+Value-based (customers value): 
+3rd h 
+P · ' 
+t't f' 
+l · 
+p ase: ncmg- quan 1 a 1ve ana ys!§. 
+In this case nobody has a similar model, so N/ A. 
+Paramount to understand how much value we are 
+bringing to the customer 
+141 
+
+
+===== PDF p149 =====
+• 
+• 
+Behind the scenes: Don't give all information upfront. Hoid the information about price offitel 
+until the candidate asks for it. Candidate may assume zero cost of capital, but can't do math 
+simplifications. 
+'· 
+Interviewer: Our current truck, Evolution, sells for $100,000. Here is a quick comparison 
+between the Evolution and the Revolution trucks: 
+Evolution 
+Revolution 
+/ 
+Fuel efficiency: 
+lOkm!L 
+Can do 25% more kilomters with same fuel. 
+/ 
+Usefullife: 
+4yrs 
+4yrs 
+./ 
+On average, our clients drive 250 thousand km per year. 
+Salvage value: 
+Same for both. 
+Price ofjitel: $1.50 I L 
+How much do you think we could sell Revolution for? 
+Possible Answers: 
+In four years, the expected fuel costs for customers are: 
+Evolution: 
+4*(250Kkm/ lOkm/L) * $1.50/L=4*37.5K 
+Revolution: 
+4*(250K km I (10*1.25km/L)) * $1.50/L = 4*30K 
+So the difference is 4*(37.5- 30)K = $30K 
+Therefore, assuming eve1ything else is the same, we could charge up to $130 
+thousand for the new Revolution l!uck. 
+41h phase: Market survey: 
+Behind the scenes: Let the candidate ask for the costs, don't give them up front. If candidate 
+forgets, remind him that Evolution sells for $1 OOK. 
+Interviewer: In order to get a better sense of the market, Fancy Truck did a survey and came up 
+with the following results as an estimate for demand in the next years: 
+U Revolution was sold at a price of: 
+$lOOK 
+$115K 
+$130K 
+% customers buying Revolution: 
+90% 
+80% 
+40% 
+% customers buying Evolution: 
+10% 
+20% 
+60% 
+142 
+
+
+===== PDF p150 =====
+Assuming the survey is representative, which of these three ptices would you choose for 
+Revolution? 
+J 
+Behind the scenes: Here interviewer should stop for a while and wait to see what candidate 
+does. Candidate could try to analyze, but he/se must ask about costs because the goal is to 
+maximize profits, not revenues: 
+Interviewer: Fixed costs are the same for both Revolution and Evolution, but because Revolution 
+has a more complex engine, it costs Fancy Truck $10 thousand more to produce each 
+Revolution. 
+Possible Answers: 
+We wouldn't sell for $lOOK. Since there is a $10K extra costs associated with 
+producing Revolution, at $1 OOK it's better to only sell Evolution. 
+@115K, extra profits from selling Revolution would be 80*(15-1 0) = $400K per 
+hundred tmcks sold 
+@130K, extra profits from selling Revolution would be 40*(30-10) = $800K per 
+hundred ttucks sold 
+Therefore, it is better to sell it for $130K. 
+Observation: It's not necessary to know the market size in order to conclude that $130K is the 
+better choice. 
+51h phase: Final brainstorm 
+Interviewer: Why do you think some people would still buy the old model even if the price wa,q 
+the same? 
+Possible Answers: 
+Logistics companies don't want to change all their new fleet before they test the new 
+truck and confirm what the producer says about fuel efficiency. 
+Customers may fear that it would not be easy to find mechanics to fix the new engine 
+when it broke. 
+There are no old revolution engines available, so repair/replacement by third parties 
+could be harder. 
+Observation: The fact that the 250Km figure is an average is not a valid reason given that the 
+price is the same. Regardless of the annual usage, it would always be better to have the engine 
+that is more fuel efficient. 
+Wrap-Up 
+Interviewer: The CEO is coming and you need to tell him what your conclusions are. 
+143 
+T 
+I 
+I 
+I 

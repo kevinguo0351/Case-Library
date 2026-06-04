@@ -1,0 +1,26 @@
+{
+  "case_id": "Columbia_2011_11_madecasse",
+  "school": "Columbia",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2011.pdf",
+  "idx": 11,
+  "case_name": "Madecasse",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Non-profit / Agriculture / Consumer Goods",
+  "difficulty": null,
+  "pdf_page_start": 85,
+  "pdf_page_end": 92,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    88,
+    91,
+    92
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p088.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p092.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2011\\11_madecasse"
+}

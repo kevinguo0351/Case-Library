@@ -1,0 +1,198 @@
+===== PDF p231 =====
+Casebook | 2019-20 Edition 
+227 
+ 
+61. Online Advertising (Other, TMT, New Market, Quantitative) 
+Stem: Our client is an advertising firm with $400 million in annual profits based in the United States with 
+operations all around the world. The client primarily generates revenue through digital display format 
+advertisements and is evaluating whether it should invest resources in alternative digital format ads that 
+are emerging. What should our client do? 
+ 
+Candidate should recognize that this problem requires the emerging markets to be sized and that the 
+client will have to do a forecast on the expected profitability for the alternative markets. 
+ 
+If asked, provide the following information for the candidate: 
+ 
+Digital display: Static image and/or text based ads found on web pages. One of the largest sources of 
+online advertising revenue. 
+ 
+Client is a leading digital advertising demand and supply-side firm; that is, our client connects advertising 
+brands on the demand-side (like P&G and Coca Cola) to online publishers on the supply-side (like ESPN 
+and NYTimes.com). 
+ 
+Candidate: Can I have a few moments to structure my thoughts? 
+ 
+Interviewer: Sure. 
+ 
+Candidate walks interviewer through case framework. The framework should include data points that 
+cover market sizing as well as expected resources and revenue breakdown for entering a new market. 
+ 
+Interviewer: Please take a look at this table and tell me what you think. 
+ 
+Candidate: Sure. I’d like to clarify whether these numbers are global or only cover the U.S.? 
+ 
+Interviewer: This is a global forecast. 
+Online Advertising Market 
+USD, bn 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+Display 
+advertising 
+$10 
+$14 
+$18 
+$19 
+$19 
+$20 
+$21 
+$22 
+Search 
+advertising 
+$5 
+$4 
+$5 
+$6 
+$7 
+$8 
+$8 
+$8 
+Mobile 
+advertising 
+$3 
+$7 
+$10 
+$14 
+$16 
+$19 
+$24 
+$30 
+Video 
+advertising 
+$1 
+$3 
+$6 
+$11 
+$15 
+$20 
+$25 
+$30 
+ 
+Candidate: It appears that the display advertising market has been the largest digital advertising market 
+within the U.S. in recent years but that is no longer going to be the case in the coming years. In fact, 
+growth will slow considerably in the display advertising market while video and mobile advertising will 
+grow rapidly. Mobile and video advertising can represent a better opportunity for our client. Is there any 
+overlap between mobile and video advertising? 
+ 
+Interviewer: Good question. Video is an ad creative format and mobile is a platform. Video ads can run 
+on either mobile or desktop platforms. 
+
+
+===== PDF p232 =====
+Casebook | 2019-20 Edition 
+228 
+ 
+Candidate: So that means that mobile advertising includes video advertising - so in fact, the video format 
+market will be driving growth within mobile. I’d like to move on to understanding what it would for our 
+client to enter the video advertising market. 
+ 
+Interviewer: Okay. 
+ 
+Candidate: Do we have data on what resources the client will need to invest in order to participate in 
+video? 
+ 
+Interviewer: What would you like to know? 
+ 
+Candidate: I’d like the following data: 
+ 
+Fixed costs: up-front engineering cost of building out a video product, marketing costs for spreading 
+awareness about the client’s product 
+ 
+Variable costs: salaries for sales staff needed to acquire new customers that use video, salaries for new 
+product or engineering staff needed to maintain the video product, contractual fees paid to ad supply 
+exchanges to enable ongoing access to video ad inventory online 
+ 
+Interviewer: I have the following data that our analyst put together by reaching out to the various 
+departments in our client’s company: 
+ 
+Show candidate the following data: 
+ 
+Projected resources needed by department: 
+ 
+Engineering and Product: $50K for year 1, $20K - $30K for every year after 
+Sales: $300K for year 1, $300 - $400K for every year after 
+Marketing: $20K for year 1, $30K for every year after 
+ 
+Candidate: Interesting - it looks like we might already have much of the technological infrastructure built 
+out to enter this new market but our client does not have the right industry relationships to actually sell 
+this product and will have to hire new sales staff to bring in and foster those relationships. 
+ 
+Interviewer: That’s right. 
+ 
+Candidate: Okay - I’d like to estimate how much revenue our client might be able to bring in by entering 
+this market so that we can then figure out how profitable this opportunity will be. 
+ 
+Interviewer: Google and AOL will be the leaders in the global video advertising market, with expected 
+shares of 40 and 25 percent, respectively. Given the nature of online ad inventory supply and the slow 
+pace of change in media buying habits across large media buying agencies and brands, we can assume 
+that those shares will remain constant throughout our forecast horizon. 
+ 
+Candidate: That leaves 35 percent of the global video advertising market. Do we have data on our 
+relative market share with our closest competitors? 
+ 
+Interviewer: Yes - there are two other competitors in our peer group and our RMS is 1 with both. There is 
+10 percent of the market that we will not be able to compete in because of existing contractual 
+agreements. It will take our client one year to build the commercial relationships that they need to operate 
+in this market. 
+ 
+Candidate talks through her thought process while creating a neatly formatted table on a new slide that 
+includes the information shown below. 
+
+
+===== PDF p233 =====
+Casebook | 2019-20 Edition 
+229 
+ 
+2016 
+2017 
+2018 
+2019 
+Video market size 
+$15 bn 
+$20 bn 
+$25 bn 
+$30 bn 
+Client market 
+share 
+8% 
+8% 
+8% 
+8% 
+Client revenue 
+$1.2 bn 
+$1.6 bn 
+$2 bn 
+$2.4 bn 
+Client cost 
+$350 - $460k 
+$350 - $460k 
+$350 - $460k 
+$350 - $460k 
+Client profit 
+$1.2 bn 
+$1.6 bn 
+$2 bn 
+$2.4 bn 
+ 
+Candidate: The video advertising market is a very lucrative opportunity for our client, with the potential to 
+quadruple our client’s bottom line to $1.6 billion in year 1 of operation alone. Given the fixed cost and 
+scalable nature of a software product based business, our client will have to focus efforts on expanding its 
+sales force and building the right commercial relationships. For next steps, our client should identify the 
+target verticals and brands and media buying agencies within those verticals that it should try to acquire. 
+ 
+Interviewer: Great, thanks. Let’s talk more about your experiences prior to Sloan. 

@@ -1,0 +1,215 @@
+===== PDF p56 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+52
+
+
+===== PDF p57 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+Case Prompt
+Our client, Bailey Brothers, is a retail bank with several branches in Ann Arbor, Michigan. Their 
+main competitor is Potter & Co., a regional bank that also operates in and around the Ann 
+Arbor area. The CEO of Bailey Brothers, George Bailey, would like us to recommend ways to 
+improve overall profitability in the face of an increasingly modernized industry.
+Information provided upon request:
+•
+Bailey Brothers and Potter both offer checking, savings, and retirement accounts, as well as 
+mortgages and auto loans, CDs, and investment accounts.
+•
+Bailey Brothers and Potter both have well developed mobile apps and online capabilities.
+•
+Bailey Brothers has eight equally sized branches, has been in Washtenaw County for several 
+decades, and is not considering expanding its footprint at this time. 
+•
+George would like to bring his profit margin to that of Potter’s within two years.
+Concepts Tested
+Graph reading, Setting up calculations, Brainstorming
+53
+
+
+===== PDF p58 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+Interviewer Guidance
+Exhibits: Candidate may ask for data specifically, but feel free to dump all the exhibits on them 
+at once without context to allow the candidate to work through it on their own.
+Exhibit 1: Given that the target is to match profit margin, the candidate should recognize that 
+the exact number is given by the graph. A strong candidate will also note that the two firms 
+were similar until recent years.
+Exhibit 2: Candidate should identify that A) Online access is increasing, and B) In-person, 
+branch interaction is not displayed here but can be implied to be dropping as online interaction 
+rises. 2018 data indicates that 85% of customers to interact with BB primarily through online 
+means, so it can be inferred that only 15% primarily use a physical branch.
+Exhibit 3: Each line-item for Potter is exactly 8X that of Bailey Brothers, with the exception of 
+branch expenses. Since branch interaction is falling, the cost-saving solution would be to reduce 
+the number of branches in the Bailey Brothers footprint. A reduction in branches from 8 
+(annual cost of $12M) to 4 (annual cost of $6M) will bring Bailey in line with Potter in relative 
+expenses and therefore profit (which a good candidate will notice), however if the candidate 
+begins to calculate the new margin, let them.
+54
+
+
+===== PDF p59 =====
+Framework
+A solid framework would include both 
+revenue (new product offerings, pricing, 
+account size, etc.) and cost (salaries, 
+marketing, client acquisition expense) 
+buckets. Bonus points if the candidate 
+recognizes that a bank likely won’t have 
+variable costs in the same way a CPG or 
+industrial company will. After sufficient 
+brainstorming of profitability factors, guide 
+the candidate toward costs as this will be the 
+focus of the case.
+Recalculated Income Statement
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+Revenue
+$50
+Salaries and Wages
+$20
+Branch Expenses
+$6
+Marketing
+$8
+Website/App
+$6
+Total Operating 
+Expenses
+$46
+Profit Margin
+20%
+EBITDA
+$10
+55
+
+
+===== PDF p60 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+Exhibit 1
+56
+0%
+5%
+10%
+15%
+20%
+25%
+2010
+2012
+2014
+2016
+2018
+Profit Margin
+Bailey
+Potter
+
+
+===== PDF p61 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+Exhibit 2
+57
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+2010
+2012
+2014
+2016
+2018
+Primary Point of Contact for BB Clients
+Website Alone
+Mobile App Alone
+Website and Mobile
+
+
+===== PDF p62 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+Exhibit 3
+Income Statements, FY18 (MM)
+Potter & Co
+Bailey Brothers
+Revenue
+$400
+$50
+Salaries and Wages
+$160
+$20
+Branch Expenses
+$48
+$12
+Marketing
+$64
+$8
+Website/App
+$48
+$6
+Total Operating Expenses
+$320
+$46
+EBITDA
+$80
+$4
+58
+
+
+===== PDF p63 =====
+Case 3: Bailey Brothers Bancorp
+Financial Services | Profitability Improvement
+59
+Recommendations
+Risks
+Next Steps
+Recommendation:
+Bailey Brothers should close 4 of
+its 8 branches. The brick and
+mortar
+presence
+is
+no
+longer
+necessary and the cost savings will
+boost margins from 8% to 20%.
+Risks include:
+1.
+Loss of remaining clientele 
+that doesn’t use online 
+resources
+2.
+Possibility of longer term 
+leases on branch properties 
+that can’t be exited 
+immediately
+3.
+PR/morale erosion from 
+layoffs of employees working 
+at branches
+Bailey Brothers Bancorp 
+should:
+1.
+Further analysis into which 
+branches to close to 
+minimize customer impact
+2.
+Exploration of leasing 
+contracts and/or selling 
+property assets
+3.
+Campaign to educate 
+remaining 15% of offline 
+customers in online 
+capabilities
+4.
+Retraining (or buying 
+out/shifting location of) 
+branch employees

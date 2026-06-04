@@ -1,0 +1,116 @@
+===== PDF p156 =====
+46.) Scottie's Drive-Thru (McKinsey, Round 2) 
+Stem: 
+Scotty's is a fast food restaurant chain with over 2,000 stores in the US, mostly concentrated in 
+the South. Restaurants are structured as old-fashioned drive-ins - each store has 20 to 30 drive-
+in spots where patrons can order and receive their food while seated in their cars. The stores 
+have no seating areas. The menu at Scotty's menu can be broken down into 3 categories: 
+1) Main courses: Burger, fried chicken 
+2) Sodas: Over 300 varieties, some of which are proprietary 
+3) Desserts: Milkshakes and other ice cream desserts. 
+During the first 20 years of operations, Scotty's business grew steadily. However, Scotty's 
+business declined last year. Their CEO has hired McKinsey to determine a growth strategy for 
+the business. 
+Interviewer: Given this information, brainstorm some initial ideas on a growth strategy? 
+Candidate: I would look at first at the big picture of store placement and profitability. Next, 
+consider the option of opening more stores, closing unprofitable stores, or adopting a franchise 
+model. 
+Next analyze the revenue and cost sides of the business. 
+Under revenue we could look at growing the customer base, or targeting the most profitable 
+customers. For products, you could look at their product pricing, product mix, and 
+differentiation. My first impression is that having more than 300 sodas is a bit much and will 
+cost the business in terms of distribution and inventory costs. We should definitely do some 
+consumer research and see what items in each category the customers really want and what 
+differentiates the brand from other chains. 
+In terms of costs, Scotty's should look at their fixed and variable costs. The first think I would 
+want to look at is the cost of raw materials. This company has such a high variety of products 
+offered at each restaurant; r m wondering how much they are spending for food and drinks? 
+Also, with all of these sodas distribution costs may be high with nlultiple suppliers. Storage 
+costs may be high given the product mix. 
+I'm also curious about competition. How are stores doing in high-density areas with lots of 
+competition, versus areas with low competition? 
+Interviewer: Okay, these are some great ideas. Let's move on. The client has also launched 
+some pilot restaurants that have seating areas. I have some data on the performance of these 
+...... Management 
+1111111111 Consulting 
+~~~~I~,a.:: Club 
+2010-2011 1 st Year Case Book 
+202 
+
+
+===== PDF p157 =====
+pilot stores as compared to the standard stores (show the candidate these charts). 
+STANDARD RESTAURANTS 
+[¢~'~~g~iY,:,:.::J~i!~~IQ.~~.ri!~:~Y.:$~~:~I~i~~.~:.M.~:~g~,~l 
+.J?,~~g~,~,~",~!~.:l~,~,:9.Qi.~"??.Q9.9.",.", .. ",, .. , .... ,""J,1.,?.~,.", .. ",."""",.,.,.,., ..... ,.: 
+l~g~.~~"""""""""..l~,~.:gQi}..Q?.Q9.9.""" ... " .. """"""J1.,9% ".".""""""""""""~ 
+M.~P~~~,~~~~.~ . 
+.l~~.:gQ:.?.QQQ""" .. " .. " ............... "..I~.Q.%. .. , .. ", .................... , .. , .. ! 
+PILOT RESTAURANTS 
+l~,~,!~g~.~y" .. ",I~~i.~~.,Q~.~.~.~~.~y.,.~~~.~!~~~!!.! ... M~Eg~.~! 
+P?~~g~E~".~.t.~.:,~~.:.QQ,??~.QQQ...... . ..... " ... ;.!.?~ ........................... : 
+i~g~,~~ .... , 
+.. '" "",..J~~,:gQl!'?~QQ9. 
+.. ....... J!.Q%.. 
+.. ........ , 
+M,~~,~.~.~~~,~,,!~~.:.?.Qt~g~.Q9.Q.. 
+..j?,?',~""""""""""".", ,.,.,'" 
+Interviewer: What are some of your initial impressions of this data? Can you talk about some 
+of the benefits and drawbacks to the pilot model? 
+Candidate: Immediately I see that the price for milkshakes has increased along with the margin 
+for milkshakes, while sales have doubled. This is interesting. Doubling sales while putting an 
+item at a higher price point is a great move - r m wondering if Scotty's standard restaurant has 
+room to increase their price or if something about the store format is increasing milkshake sales. 
+Thinking about the buying process in the pilot stores, perhaps people buy a their food and a soda 
+first, and then go up to the register again and buy a milkshake. Since they are sitting around 
+enjoying their food with their family, they then have the option of buying a round of milkshakes 
+for everyone (if they aren't completely full). In the standard store format~ people might just 
+have one transaction and drive away while they are still eating so they are already horne when 
+they decide they want a milkshake. 
+It is interesting the pilot stores don't have higher prices for food and sodas. This data suggests 
+that they might have some mark-up potential. This is a possible revenue strategy. Also, these 
+restaurants are doing a higher volume overall. We might want to explore the opening more pilot 
+restaurants or converting some stand locations to this model. 
+Interviewer: Okay, let's get into some calculations on the standard restaurant model. The client 
+thinks their milkshake business has a lot of potential. They are wondering how many soda sales 
+they would have to convert to ;milkshake sales at an average store in order to increase their profit 
+margin to 20% total for all sales. 
+Candidate: Okay, so the client wants to subtract x sodas from 10,000 and add x milkshakes to 
+5,000 in order to reach a 20% profit margin at an average store. I have to start by figuring out 
+~ ........ Management 
+1111111111 Consulting 
+.~~~~,r~;;.~ Club 
+2010-2011 1 st Year Case Book 
+203 
+
+
+===== PDF p158 =====
+what the profit margin is overall at a store. 
+Rev=P x Q 
+Burgers: $2 x 15,000 = 30,000 @ a profit margin of 15% means that profits are $4,500 
+Sodas: $2 x 10,000 = 20,000 @ a profit margin of 10% means that profits are $2,000 
+Milkshakes: $4 x 5000 = 20,000 @ a profit margin of 20% means that profits are $4,000 
+Overall revenue is $70,000 and profit is $10,500. The current margin is 15%. They need profits 
+of $14,000 to make the target margin of20%. So the difference that needs to be made up with 
+more milkshake sales is $3,500. 
+Looking at the overall margin on an individual sale of a soda and then of a milkshake. 
+Soda: $2.00 at 10% margin = 20 cents 
+Milkshake: $4.00 at 20% = 80 cents 
+The difference between the 2 profits is 60 cents. So letting x = required number of conversions 
+(from sodas to milk shakes) => 0.6x = 3,500 => x = 5,833. 
+Interviewer: Alright, so summarize your recommendations for the client? 
+* Recap case: We were hired by Scottie's to determine a growth strategy for a declining 
+business. 
+* From the data analyzed, shifting from the standard drive-in model to the pilot model (with 
+seated areas) should boost both revenues and n1argins per restaurant. 
+* If we maintained some standard restaurants for reasons of branding nolstagia, we should shift 
+consumer beverage purchases from sodas to milkshakes, to drive up margins further within 
+existing standard restaurants. 
+* There are also other big-picture strategies we have not yet explored, such as franchising, but 
+please speak to my Director of Client Services if you wish to extend this engagement and keep 
+the team on for another month. (Tongue in Cheek!) 
+...... Management 
+1111111111 Consulting 
+~~!~~,~~ Club 
+2010-2011 1st Year Case Book 
+204 

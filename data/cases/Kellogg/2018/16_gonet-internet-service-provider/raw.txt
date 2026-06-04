@@ -1,0 +1,142 @@
+===== PDF p124 =====
+120
+GoNet Internet Service Provider
+Case tracker
+▪Industry: Technology
+▪Case format: Market entry
+▪Concepts being tested:
+- Market share
+- Profitability
+Case Question
+▪Our client, GoNet, is a US-based Internet Service Provider (ISP) that is considering entering the European market. They
+are currently the dominant player in the US with two revenue streams: a subscription access fee and by taking a
+percentage of all e-commerce transactions from subscribers.
+▪Examining the European market, GoNet has found that the market is highly fragmented and ripe for entry. You are going
+into a meeting with the CEO and have been asked to perform some quick “back of the envelope” calculations to 
+determine the potential profitability of entering Europe.
+Guide to interviewer
+▪This is a very quantitative case that requires the
+interviewee to run the numbers on European
+profitability.
+▪The candidate will need to ask for additional information
+to solve the problem. After getting the initial calculations
+right, there will be a number of market changes that the
+interviewee will have to react to.
+▪After the quantitative portion is completed, there are
+some open-ended questions for the candidate to answer.
+By: Adam Borchert and Joep Knijn (Tuck Class of ‘04), Edited By: Mauricio Atri (Kellogg Class of ‘12)
+Quant: 8
+Structure: 4 
+Industry: Telecom
+Framework: Market Entry
+
+
+===== PDF p125 =====
+121
+Clarifying answers and case guide 
+Guide to case
+Part 1 – Quantitative discussion
+- This should be the meat of the case and should be completed before
+discussing any general or qualitative responses.
+Part 2 – Qualitative discussion
+- After navigating the math, ask the candidate the following questions:
+- 1) How could we reduce the fixed costs of investment?
+- 2) Would there be any reason to continue with the investment even if
+it looks like it will lose money?
+- 3) Are there are any other risks/benefits that GoNet should consider?
+- 4) How would you sum up the situation and what is your
+recommendation?
+Clarifying answers to provide
+(Provide this information on request)
+Competitive dynamics
+- Highly fragmented industry
+- No information about market leaders or
+trends
+European industry overview
+- GoNet plans to capture a base of 10
+million subscribers
+- Subscriptions will cost $20/month
+- The average GoNet subscriber
+purchases $1,800 of goods on the
+internet annually
+- GoNet receives 3% commission
+- Fixed costs are $1 billion annually
+- Variable costs are $110/subscriber
+annually
+
+
+===== PDF p126 =====
+122
+Math questions (1 of 2)
+Math solution
+1) Revenues each year will be $2.4B for subscription (10 million subscribers X $20/month X 12 months)
+and commissions will be $540M (10 million subscribes X $1,800/year X 3% commission) for a total of
+$2.94B.
+• Fixed costs are $1B and variable costs are $1.1B (10 million subscribers X $110/year) for a total of
+$2.1B each year. Profits are $840M and the annual profit margin is ~29% ($840M/$2.94B)
+2) Annual revenues drop to $1.2B (10 million subscribers X $10/month X 12 months) from
+subscriptions, while commissions remain constant at $540M. Total revenues are $1.74B. Because total
+costs remain $2.1B, we lose $0.36B by halving subscription charges, making the answer “No.” 
+• At this point, ask the interviewee what the elasticity of demand is in this market and the
+implications for GoNet. The market should be highly elastic, meaning that GoNet will not win over
+enough subscribers at $20/month.
+Math question
+1) Please determine the annual net income (before taxes) in Europe, given the current revenue model and set of assumptions. What is
+the annual gross mark-up, in percentage?
+2) GoNet just found out that a new entrant is charging $10/month and capturing market share. Can we lower our fee to $10/month?
+Math information
+• 10 million subscribers
+• $20 month subscription
+fee
+• $1,800/year of online
+spending @ 3%
+commission
+• Fixed costs: $1 billion
+• Variable cost: $110/year
+per subscriber
+
+
+===== PDF p127 =====
+123
+Math questions (2 of 2)
+Math solution
+3) To keep profits at $840B, we know that costs remain at $2.1B so revenue will need to be $2.94B. Subscription revenue will be $1.2B,
+so commissions need to be $1.74B. There are 10 million subscribers, so each subscriber need to bring in $174/year of commission. At
+3%, they will need to buy $5,800/year in goods ($174/3%).
+• Ask the candidate if this realistic. The answer should be “No”.
+4) To breakeven, we will need commission to be $900M over 10 million subscribers. That is $90/year per subscriber ($900M/10M),
+which means $3,000/year in goods purchased online ($90/3%). The candidate should identify that this is also unrealistic, representing
+more than a 50% increase from last year.
+5) To find the answer here, we need to find incremental revenue per subscriber. Each subscriber brings in $174/year ($10/month X 12
+months + $1800/year X 3%) at a cost of $110/year for a profit of $64/year. These profits must cover the fixed costs of $1B/year, so we
+must bring in 15.625 million customers ($1B/$64)
+• Note: many people forget the variable costs during the completion of this case.
+Math question
+3) With high market elasticity, GoNet will not be able to charge more than $10/month. How much would each subscriber have to buy on
+the Internet to keep profits at the same level as $20/month subscription fees?
+4) How much would each subscriber have to buy on the Internet to enable us to break even?
+5) Given that we cannot charge more or realistically increase shopping significantly, how many subscribers would we need in order to
+maintain the same level of expected profits (at $10/month)?
+
+
+===== PDF p128 =====
+124
+Solution and recommendations
+Solution & Recommendations
+1) Some potential ways (not exhaustive) to reduce fixed cost: outsourcing capacity, leasing networks, working in specific
+geographies, etc.
+2) GoNet may still be interested in this move as a way to break into Internet retailing and expanding its subscriber base. Based on
+the math though, this should not be an attractive option long-term either.
+3) Very open ended and reliant on candidate’s creativity.
+4) This is very open-ended and should be evaluated based on the candidate’s argument, not answer. Based on initial estimates, this
+is a very attractive market to enter, but with price pressures and high elasticity the market is far less attractive. If we are to
+undertake this initiative, GoNet needs to find ways to convert a much higher number of customers or differentiate its product,
+which both require market research. There is also potential to reduce costs or establish this foothold as a loss leader, but these
+require strong arguments from the candidate.
+Bonus/Guide to an Excellent Case
+▪This case tests two things – the interviewee’s comfort with numbers and ambiguity. An excellent case interview will result in an
+intuitive grasp on what is being asked quickly and solid execution on the quantitative portion of the case.
+▪Ultimately, the best interviewees will make a very strong argument using the facts provided and support the decision to
+invest/not invest with a strong business sense about the costs and implications of the project.
+▪Creative solutions beyond those listed are possible and encouraged, though should be done within the framework of the
+information available.

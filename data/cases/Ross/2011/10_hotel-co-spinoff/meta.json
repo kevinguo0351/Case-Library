@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2011_10_hotel-co-spinoff",
+  "school": "Ross",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2011.pdf",
+  "idx": 10,
+  "case_name": "Hotel Co. Spinoff",
+  "case_type": "M&A",
+  "round": "2",
+  "industry": "Real Estate / Hospitality",
+  "difficulty": "Difficult",
+  "pdf_page_start": 87,
+  "pdf_page_end": 93,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    88,
+    89,
+    91,
+    92,
+    93
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p088.png",
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p092.png",
+    "exhibits/exhibit_p093.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2011\\10_hotel-co-spinoff"
+}

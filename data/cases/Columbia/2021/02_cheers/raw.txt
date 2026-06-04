@@ -1,0 +1,302 @@
+===== PDF p33 =====
+Cheers
+Difficulty: Medium
+Industry: CPG
+Case Type: Profitability
+Written by Dylain Cohen ‘21
+Concepts Tested
+Case #2 : Cheers
+• Math
+• Structure
+Your client is the American Liquor Sales House (ALSH), an international company known for selling unique and prized 
+wines. ALSH is concerned about their declining profitability over the past few years and have requested our help to figure 
+out why and what they should do
+Problem Statement Narrative
+ALSH is suffering low profitability due to low sales because of a poor reputation. This is due to the company unknowingly 
+selling fake wines. The candidate should first be steered towards calculating ALSH’s profitability and then examine how 
+much they should spend on screening their wines to avoid selling fakes
+Case Notes
+29
+
+
+===== PDF p34 =====
+Cheers
+Question #1 / Framework 
+What is causing ALSH’s profitability issue?
+1.
+ALSH
+a.
+Revenue
+i.
+Number of bottles sold
+ii.
+Price per bottle
+b.
+Costs
+i.
+Fixed costs
+1)
+Advertising
+2)
+Maintenance of online platform
+3)
+Rent of warehouses, stores
+ii.
+Variable costs
+1)
+Cost of wines sold
+2)
+Shipping
+c.
+Reputation / demand for products
+2.
+Wine market
+a.
+Competitors
+i.
+Fragmented/ consolidated
+ii.
+Market share
+b.
+Customers
+i.
+Changes in preferences
+ii.
+Demographics
+c.
+Regulatory issues
+i.
+Licenses required for exporting alcohol 
+internationally
+3.
+Opportunities
+a.
+Exclusive partnerships with vineyards
+b.
+Expansion to non-alcoholic beverages
+Sample Framework
+The case is centered around ALSH’s poor reputation in 
+the industry due to the fake wines that they inadvertently 
+sells
+Guidance for Interviewer
+•
+Does ALSH have a physical presence?: Yes, it has a 
+few stores in major cities in the US, but the bulk of its 
+sales occur online
+•
+Is there a profitability target?: No – aim to increase as 
+much as possible
+•
+Timeframe?: As fast as possible
+•
+Where does ALSH sell to?: Internationally – mainly to 
+private collectors and enthusiasts
+Clarification Answers if  Asked 
+30
+
+
+===== PDF p35 =====
+Question #2
+Question
+Solution
+How profitable is ALSH?
+Cheers
+Ask the candidate what information they need in order to calculate ALSH’s profitability. Provide them with the following 
+information as requested:
+•
+Annual expenses incurred by ALSH total $34,500,000
+•
+Wine sizes, number sold, price, and cost (summarized below)
+Candidates should calculate the following:
+•
+Magnum wines generate $15,000,00 in profit
+•
+Liter wines generate $20,000,000 in profit
+•
+Standard wines generate $20,000,000 in profit
+Total profit = 15m + 20m + 20m – 34.5m = $20.5m annually
+Wine Size
+Number Sold
+Price
+Cost
+Magnum
+1,000,000
+$45
+$30
+Liter
+2,000,000
+$35
+$25
+Standard
+4,000,000
+$30
+$25
+31
+
+
+===== PDF p36 =====
+Question #3
+Question
+Solution
+One of the major problems facing ALSH appears to be the quality of its wine. Specifically, ALSH heard from some of its 
+customers that it has been unknowingly selling fake wines. How much do fake wines cost ALSH?
+Cheers
+Provide the candidate with Exhibit #1
+The candidate should begin to calculate how many fake wines there are for each of the different wine sizes.
+Provide the candidate with the fact that only 50% of fake wines require a refund (some of the fakes are very well 
+concealed)
+The total refunds issued are $2,100,000
+This will hence mean that ALSH’s total net profit is $20.5m – $2.1m = $18.4m
+Wine Sizes
+Number 
+Sold
+Chance of  
+Counterfeight
+Number of 
+Fakes
+Refund 
+Amound
+Chance of 
+Detecting a 
+Fake
+Total refunds
+Magnum
+1,000,000 
+0.30%
+3,000 
+$200 
+50%1,000,000 x 0.3% x $200 x 50%
+= $300,000 
+Liter
+2,000,000 
+0.10%
+2,000 
+$200 
+50%
+$200,000 
+Standard
+4,000,000 
+0.40%
+16,000 
+$200 
+50%
+$1,600,000 
+32
+
+
+===== PDF p37 =====
+Question #4
+Question
+Solution
+ALSH has found that in order to improve demand for its wines it will need to have them screened to weed out the fakes. Thankfully, 
+a third party company can do this screening for them. How much should ALSH be willing to pay as a flat rate per bottle of wine for 
+it to be screened to ensure it is not a fake?
+Cheers
+Candidates may have some trouble getting started with this question so lead them with the following:
+•
+If the third party charged $1 per wine for it to be screened, how much will that cost ALSH?
+•
+This will cost $1 x (1m Magnums + 2m Liters + 4m Standards) = $7m
+•
+ALSH will therefore not need to issue any refunds, saving $2,100,000
+•
+ALSH’s total profit = $55m (gross profit) – $7m (screening cost) – $34.5m (operating costs) = $17m
+The most ALSH should be willing to pay to breakeven is $2.93
+However, to generate the same profits as before, ALSH should pay $0.30 per bottle
+i.e. $55m (gross profit) – $2.1m (screening cost) – $34.5m (operating costs) = $18.4m
+The candidate should also identify the following:
+•
+If wines are found to be fake, ALSH will need to ask their distributor for a refund which would then cause them to spend more
+on screening (perhaps the distributor can reimbursed them for this screening cost)
+•
+A cost of $3 per wine cuts deep into the already slim margins of the standard wines
+•
+Even though screening may be expensive, it has the potential to greatly improve the reputation of ALSH
+Cost of  Screening
+$0.10
+$0.30
+$0.50
+$1.00
+$2
+$3
+$4
+Screening Cost
+$0.7m
+$2.1m
+$3.5m
+$7m
+$14m
+$21m
+$28m
+ALSH’s overall profit
+$19.8m
+$18.4m
+$17m
+$13.5m
+$6.5m
+– $0.5m
+– $7.5m
+33
+
+
+===== PDF p38 =====
+•
+ALSH should partner with a third party screener to 
+filter out any fake wines before they are sold to their 
+customers and should aim to pay around $0.30 per 
+bottle screened 
+Recommendation
+•
+Fake wines greatly tarnish ALSH’s reputation and 
+weeding them out will increase demand
+•
+Fake wines cost ALSH money for refunds
+Rationale
+•
+Depending on the price paid, screening wines can be 
+extremely expensive which would further cut into 
+ALSH’s profitability
+•
+The demand for ALSH’s services may take a while to 
+rebound as customers may be apprehensive about 
+purchasing from them again
+•
+The third part screeners may not be 100% accurate in 
+detecting fakes
+Risks
+•
+ALSH should launch an advertising campaign to 
+announce its efforts to combat selling fake wines
+•
+ALSH may consider selling more expensive wines 
+due to the added screening which may be viewed as a 
+premium service
+•
+ALSH may consider reducing the refunds it provides, 
+particularly with the standard sizes, since the price of 
+the wine is less than the actual cost. This would 
+change the economics of the screening
+Next Steps
+Cheers
+34
+Conclusion
+
+
+===== PDF p39 =====
+Exhibit #1 : Likelihood of  a Wine Being Fake
+Note: Cost of refund and credit is $200
+Cheers
+0.00%
+0.05%
+0.10%
+0.15%
+0.20%
+0.25%
+0.30%
+0.35%
+0.40%
+0.45%
+Magnum
+Liter
+Standard
+35

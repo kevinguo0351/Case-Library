@@ -1,0 +1,77 @@
+===== PDF p40 =====
+First Round
+Case 4: Mexican Tile Company
+Prompt #1
+A large, Mexican Tile company, Azulejo, has  enjoyed rapid sales growth and profitability the last 
+several years.  However, the company’s sales growth has been stagnate so far this year.  The 
+company is also concerned that it over-hired this past year and may need to reduce headcount.  
+The company requests your help to assess the current situation and to determine the optimal next 
+steps.
+Guidance
+The goal of this case  is two fold:
+1) Understand the financial implications of retaining and/or laying off employees
+2) Develop strategies that would allow Azulejo to retain workforce and spark sales growth and 
+profitability
+Provide the following information upon request:
+• Azulejo occupies a very dominant position in the Mexican market.
+• The market growth has slowed down dramatically over the last year.  Many industry experts 
+believe the market has become saturated.
+• Azulejo needs to find a way to generate $5M per year in additional profits to avoid layoffs
+• Azulejo has the ability to move into other markets.  It has access to a warehouse in McAllen, 
+Texas (southern part of the state) where it could store its tiles for US distribution
+Costs associated with expansion into the United States
+Fixed Costs: Warehouse  ($600k/year), US workforce (350k/year), trucks and drivers (500k/year)
+Variable Costs: Cost per tile (.50/tiles), Sales Cost (.08/tile), Shrink (.02/tile), Shipping (.10/tile)
+*assume this list is exhaustive of all Costs
+Total US Market Size – 400 M tiles / year
+Revenue per Tile - $1.30
+Expected Market Capture for Azulejo – 8% within three years
+36
+
+
+===== PDF p41 =====
+Case 4: Mexican Tile Company
+Prompt #2
+What is the NPV of the US expansion opportunity, given a discount rate of 0%?
+Should they enter the US tile market?
+Guidance
+To be given if requested:
+Profit Target - $5M
+Calculations to be performed:
+• US Market – 400M tiles
+• US Revenue – 400M tiles * $1.30 = $520M
+• Azulejo Share – 400M * 8% = 32M Tiles
+• Azulejo Revenue = 32M * $1.30 = $41.6M
+• Azulejo Sales Margin = (Unit Revenue – Variable Cost) * Units = 
+($1.30-$0.70) * 32M = $0.60 * 32M = $19.2M
+• Azulejo Profit = Total Margin – F.C. = $19.2M – $1.45M = $17.75M
+NPV= $17.75 M > $5 M Required Return  = $12.75 M
+Yes, Azulejo should enter the US Tile Market
+First Round
+37
+
+
+===== PDF p42 =====
+Performance 
+Evaluation
+Expected:
+• The interviewee should realize that the Mexican Tile Market is saturated and consider alternatives 
+that don’t involve the Mexican Market.
+Good:
+•
+Candidate should recommend expanding into new geographical markets
+•
+Candidate should consider changing product mix to compete in markets within Mexico
+•
+Walk through the financial viability of expanding into new markets, in this case US
+•
+Give a recommendation, based on financial analysis, to enter the market
+Excellent:
+• Solve the specific case, which is to expand into the US as well as provide viable, creative 
+alternatives. 
+• Discussing competitive response by other US firms.  
+• Discuss the risks as well as recommend a good entry strategy to optimize opportunity for 
+success.
+Case 4: Mexican Tile Company
+First Round
+38

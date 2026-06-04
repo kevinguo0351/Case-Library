@@ -1,0 +1,145 @@
+===== PDF p178 =====
+- 173 - 
+Delson Hard Drive  
+BCG, Round 2 
+Your client, Delson, is a $20B hard drive company that 
+manufactures and sells hard drives to OEMs (e.g., HP).  
+OEMs sell computers and data systems to consumers and 
+all kinds of businesses.  Hard drive industry’s profitability 
+has been cyclical, and recently seen a decline due to 
+increasing competition and slow sales in computers.  
+Therefore, the CFO of Delson decided to acquire a start-
+up company, Small Storage Systems (SSS). SSS 
+purchases hard drives and then manufactures and sells 
+data storage equipment for large companies to store and 
+manage data efficiently.  Software solutions are included 
+with the equipment. 
+Now, the CFO meets the BCG Partner at a dinner and 
+asks for advice: what issues should we be concerned 
+about the newly acquired start-up SSS?  What should we 
+do? 
+•The case presents a very open-ended prompt to test 
+candidate’s ability of dealing with ambiguity and focusing 
+on the most important issue (CEO approach). 
+•Keep pressing the candidate until she/he realizes that  
+how to get customers for SSS is the first step to the 
+success of such a new business. 
+•Candidate should understand that Delson currently has 
+no sales force to reach large companies, but OEMs have 
+the sales force.  Therefore, client can consider building 
+own sales force or leveraging OEMs as a channel.  When 
+candidates comes to this point, give Exhibit 1. 
+Info to be given upon request: 
+•They are few companies in the OEM space, but many 
+hard drive manufacturers. 
+•Hard drive industry has a very high fixed cost.  Major 
+players have very thin profit margin and need to 
+maximize utilization in order to stay profitable. 
+Problem statement narrative 
+Guidance for interviewer 
+Difficulty: Hard       
+Industry: Computer Hardware 
+       Type: Acquisition effectiveness 
+
+
+===== PDF p179 =====
+- 174 - 
+Candidate Handout: to be given after candidate identifies OEMs as potential channels 
+Exhibit 1: SSS’ Profit Margin via own sales force V.S. via OEM channel 
+  
+OWN * 
+OEM * 
+ List price 
+100 
+100 
+ Price to OEM 
+---- 
+75 
+ COGS 
+-60 
+-60 
+ Sales 
+-15 
+-5 
+ G&A 
+-10 
+-3 
+ Profit Margin 
+15 
+7 
+* All the figures are in % 
+
+
+===== PDF p180 =====
+- 175 - 
+• Q1. How to interpret Exhibit 1 and what are your insights? 
+• Note for interviewer:  Some OEMs also sell data systems to businesses.   Such OEMs are called 
+“Enterprise OEM”.  Building own sales force will change the current supplier-buyer relationship with 
+Enterprise OEMs to direct competitor relationship.  Keep pressing candidate until she/he gets to this. Then 
+give Exhibit 2. 
+ 
+Questions for the candidate 
+• Key insights 
+• While OEMs offer excellent channels for our client, they also charge a 25% discount of our list 
+price, leaving us only 7% profit margin. 
+• The profit margin via own sales force is 15%, but client probably can’t sell as many equipment as 
+they could through OEMs, because client is building sales force from scratch and lacks relevant 
+experience. 
+• Most critical insight 
+• If client sell via own sales force, they turn themselves into direct competitors against some OEMs!   
+Solution Guide 
+Suggested Solution 
+
+
+===== PDF p181 =====
+- 176 - 
+Candidate Handout: to be given after candidate identifies negative impact of building own sales force  
+Exhibit 2: Delson’s revenue & profit margin 
+ Total revenue 
+$20B 
+ Overall profit margin 
+6% 
+ Profit Margin on Enterprise OEMs  
+10% 
+ Enterprise OEMs’ share of total 
+revenue 
+20% 
+ Top 3 Enterprise OEMs’ share of 
+total Enterprise OEMs revenue 
+40% 
+Note: top 3 Enterprise OEMs will switch to other drive manufacturers if Delson builds own sales force for SSS 
+
+
+===== PDF p182 =====
+- 177 - 
+• Q2. With Exhibit 2, how would you evaluate whether or not to build own sales force? 
+Questions for the candidate 
+• Profit loss due to top 3 Enterprise OEMs switching to other drive manufacturers: 
+• $20B * 20% * 40% * 10% = $160M 
+• Calculate how many equipment SSS needs to sell to compensate the above loss of hard drive sales profit: 
+• Profit margin difference  between own sales force and OEM channel is 15%-7%=8% 
+• In order to compensate the loss, SSS needs to sell X dollars of equipment via own sales force, then: 
+X * 8% = 160M => X = $2B 
+• Insight: as a new start-up, SSS may not be able to achieve $2B sales in its first year of sales; therefore, 
+building own sales force is not a good idea. 
+Solution Guide 
+Suggested Solution 
+
+
+===== PDF p183 =====
+- 178 - 
+• Q3. If SSS can sell more than $2B in its first year, how would you change your idea? 
+• Note for interviewer: can ask candidate to make a final recommendation after this question. 
+Questions for the candidate 
+• Hard drive industry has a very high fixed cost.  Major players have very thin profit margin and need to 
+maximize utilization in order to stay profitable. 
+• Therefore, if client loses top 3 Enterprise OEMs ($20B*20%*40%=1.6B), their hard drive’s profit margin 
+may go down to negative. 
+• A rough estimation (just for illustrative purpose here): 
+• Current total costs: $20B*(1-6%)=$18.8B 
+• Revenue after losing top 3 Enterprise OEMs: $18.4B 
+• Because client is highly fixed-cost based, the total costs without serving top 3 Enterprise OEMs may 
+be still above 18.4B, leading to negative margin.   
+• Insight: client can’t grow the unpredictable SSS start-up at the risk of losing the whole hard drive business. 
+Solution Guide 
+Suggested Solution 

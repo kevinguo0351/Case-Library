@@ -1,0 +1,108 @@
+===== PDF p33 =====
+ 
+ 
+Torch the Case 2009 
+Copyright © 2009 by the Stern School of Business Management Consulting Association (Stern MCA).  
+This edition is for exclusive use of members of the Stern MCA. No part of this publication may be reproduced, 
+stored in a retrieval library, or transmitted in any form or by any means – electronic or physical – without expressed 
+permission by the Stern MCA 
+29
+12. A PE and a Soda              _________________  
+Type of Case: Profitability/ Exit strategy  
+Difficulty: High  
+   
+Opening  
+   
+Your client is a private equity firm that has purchased a plastic materials manufacturer that 
+makes products such as plastic soda bottles. The client is looking to cash out of their investment 
+within 5 years and are looking to you help them improve the profitability of the manufacturer.  
+   
+Analysis  
+Products  
+Split into bottles and non-bottling goods. The bottles are delivered locally to the clients, large 
+bottlers such as Coke or Pepsi. Non-bottling products (such as advertising displays for stores) are 
+delivered directly to the establishments that will use them, such as gas stations. Bottles are made 
+to spec whereas the non-bottling goods are not.  
+   
+Manufacturing  
+The company has two plants:  
+•       1 in the southeast US that manufactures only bottles with capacity of 1.5 billion 
+bottles  
+•       1 in Canada that produces bottles and non-bottling materials with a capacity of 500 
+million bottles  
+Assumptions:  
+•       No downtime, plants are fully utilized  
+•       Plants are using new, highly efficient machinery  
+   
+The Canadian plant can convert the non-bottling production to bottling to add 500M in capacity 
+to bottle production. Cost of conversion is $3 M.  
+•       After exploring costs, revenues, and margins the respondent should assess whether 
+or not to convert the Canadian plant to bottles only. They should calculate additional 
+profit after conversion to determine if it is worth the $3 M conversion cost:  
+o      Current profit from non-bottling in Canada: $2 M  
+o      Projected profit from additional bottling capacity in Canada:  
+.5 B bottles * $.015 margin per bottle = $7.5 M  
+o      Conversion adds $5.5 M in gross profit annually – breakeven in 1st year  
+       If asked about financing, the firm has sufficient cash on hand to fund 
+the conversion and respondent does not need to discount the cash flows.  
+o      Assume no downtime for conversion  
+   
+Costs / Revenues  
+Revenue  
+•       Bottles sell for $.05 each and utilization is currently at 100% for the factories  
+•       Non-Bottling generates $20M in revenue  
+
+
+===== PDF p34 =====
+ 
+ 
+Torch the Case 2009 
+Copyright © 2009 by the Stern School of Business Management Consulting Association (Stern MCA).  
+This edition is for exclusive use of members of the Stern MCA. No part of this publication may be reproduced, 
+stored in a retrieval library, or transmitted in any form or by any means – electronic or physical – without expressed 
+permission by the Stern MCA 
+30
+Costs  
+•       For each bottle: $.02 for plastic, $.01 for machinery, and $.005 for labor  
+o      Respondent should be prompted to provide potential variable costs  
+•       Non-bottling has total variable costs of $18M  
+•       SG&A across entire firm is $20 M  
+  Margin calculation (respondent should calculate)  
+•       Bottles have 30% margin as they make $.015 per bottle  
+o      (Price – Variable Costs) / Price = ($.05 - $.035) / $.05 = .3 = 30%  
+•       Bottling generates 10% margins  
+o      ($20M - $18M) / $20M = .1 = 10%  
+   
+Market / Sales  
+•       Bottling market growing at 10% a year in North America; for purposes of the case 
+assume both plants can service entire market  
+•       Firm’s sales been growing at 15% per year, projected 15% growth for next year as 
+well  
+•       Company has 30% share of bottling market  
+•       Firm has higher quality products and manufactures at lower costs due to more 
+efficient machinery  
+•       Respondent should calculate total market and projected market expansion next year 
+given the 10% growth. Should use this with projected firm sales growth to assess 
+feasibility of selling additional volume produced by expanding production capacity 
+through Canadian plant conversion.  
+o      Using market share and production levels, calculate market size:  
+30% * market = 2 B bottles; market = 6.67 B bottles  
+o      Projected market growth = 6.67 B * 10% = .67 B  
+o      Firm’s projected sales = current sales + 15% growth = 2 B * 1.15 = 2.3 B 
+bottles  
+o      Firm’s sales growing by .3 B bottles and market expanding by .67 B;  
+       Respondent should comment on feasibility  
+       Respondent could support feasibility argument by looking at 
+required market share to continue sales growth: 
+2.3 / 6.67 = 34% or roughly 1/3 of market instead of current 30%  
+   
+Recommendations  
+The manufacturer should convert the non-bottling manufacturing in Canada to bottling as it 
+offers better margins, assuming they can maintain sales growth. The additional capacity is 
+needed to match next year’s anticipated demand. The firm will still run out of capacity the year 
+after, so one consideration would be adding another plant or expanding existing plants to extend 
+production capacity to keep pace with the market growth. Expansion plans should fit within the 
+PE firm’s goal of exiting within 5 years.  
+Other considerations:  
+•       Negotiate with suppliers / customers  
+•       Increase prices due to higher quality products  

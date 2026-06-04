@@ -1,0 +1,37 @@
+===== PDF p7 =====
+Consulting Case Interview Question 
+ 
+Case No.:  BRAIN2               
+Firm: McKinsey and Company 
+Type of Case:  
+Brain Teaser  (Why are manhole covers round?) 
+ 
+Initial Facts offered by interviewer:  [Please relate the facts the interviewer gave to set up the 
+question/problem. Provide sufficient information so the case can be adequately understood!] 
+ 
+1.5 chickens lay 1.5 eggs in 1.5 days. 
+ 
+The Question(s): 
+How many eggs do 4 chickens lay in 9 days? 
+ 
+Suggested Solution 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic: 
+ 
+24 eggs. 
+ 
+Here is how I arrived at the solution: 
+ 
+If 1.5 chickens lay 1.5 eggs in 1.5 days, and now the 4 chickens have 9 days, then the present 
+4 chickens have 6 times as much time to lay eggs.  Since 4 chickens would lay 4 eggs in the 
+base case, we multiply 4 by this factor of 6, and get 24. 
+ 
+(9/1.5=6; 6*4=24) 
+58 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

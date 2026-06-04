@@ -1,0 +1,220 @@
+===== PDF p36 =====
+Case 8: Apache Helicopters                  -hard-                       Bain&Company, Round 1 
+31 
+ 
+ (Source: Case Interview case from Bain&Company, Round 1) 
+Context: 
+ 
+Our client is a US defense contractor and one of its divisions manufactures Apache helicopters for 
+military operations. The company is considering setting up a new plant to meet increasing demand in 
+the attack helicopter space. These helicopters are fully equipped with guns and ammo when delivered 
+to the client. The client has considered three sites where to setup operations – Brazil, France and US. 
+Q1. How would you go about defining the parameters for decision? 
+Q2. Where should they setup the plant based on that analysis? 
+ 
+(A good structure should include the following elements) 
+1. 
+Export control restrictions between the US and FR & BR; this is important because if the 
+transfer of technology is disallowed, then the only option is to setup the plant in the United 
+States 
+2. 
+Financial analysis of operating up the plant in different locations 
+a. Costs (FC, VC) 
+b. Revenues that accrue from sales 
+c. Where are the profits? 
+3. 
+Customers 
+a. Where are they based?  
+b. Need to be close to the customer for design inputs 
+4. 
+Suppliers 
+a. Spare Parts 
+b. Raw materials 
+5. 
+Logistics 
+a. What’s it going to take to get the product to the customer? 
+6. 
+Manpower (availability of skilled managers, technicians) 
+ 
+(Provide the interviewee with the information she/he asks for, but don’t volunteer any information. 
+The case itself isn’t very hard, but the critical thinking around how a country might alter purchases 
+based on country of origin is a thought that good interviewees will bring up. The other key aspect is 
+the interviewee’s ability to capture data and not get lost in it.) 
+ 
+Data to provide the interviewee, but only upon specific request 
+ 
+• 
+The client has 3 plants in the US; 2 in Kansas and 1 in Michigan 
+Company Information 
+• 
+The plants operate at full capacity today. 
+• 
+One of the US plants can accommodate an additional assembly line at the cost of $500M; the 
+other 2 are landlocked in residential areas and cannot be expanded. 
+• 
+Initial plant setup costs are $500M (US), $2B (BR), $3B (FR) 
+Cost Information 
+• 
+Fixed Costs are $100M annually in all three countries 
+• 
+Variable costs are $15M (US), $20M (BR), $25M (FR) 
+
+
+===== PDF p37 =====
+Case 8: Apache Helicopter                      - hard-                     Bain&Company,Round 1 
+32 
+ 
+ 
+• 
+Defense Budget for next 5 years: $100B (US), $15B (BR), $10B (FR) 
+Market Size and Revenue Information 
+• 
+% of Defense Budget to be spent on our helicopters over the next 5 years 
+ 
+ 
+ 
+Purchases by US Dept 
+of Defense 
+Purchases by BR Dept 
+of Defense 
+Purchases by FR Dept 
+of Defense 
+Plant in the US 
+20% of budget 
+0% 
+0% 
+Plant in BR 
+20% of budget 
+50% of budget 
+0% 
+Plant in FR 
+20% of budget 
+0% 
+50% of budget 
+ 
+The helicopter sell for $100M a piece, but if they are imported into the US, then the US Govt. require 
+them to be certified and the certification process costs $15M per chopper. 
+Sales information 
+SOLUTION: 
+ 
+United States 
+Brazil 
+France 
+ 
+ 
+ 
+ 
+Costs (5 years) 
+ 
+ 
+ 
+Initial Setup 
+ 
+$500M 
+$2B 
+$3B 
+Annual Fixed costs 
+ 
+$100M x 5 
+$100M x 5 
+$100M x 5 
+Variable costs 
+$15M/ chopper 
+$20M/ chopper 
+$25M/ chopper 
+TOTAL COSTS 
+(over 5 years) 
+500M + 500M + (# of 
+units) x ($15M) 
+2B + 500M +  
+{(# of US bound units) 
+x ($20M + $15M} + 
+(# of BR bound units) 
+x ($20M)}  
+No need to calculate 
+since revenues is 
+lower and costs are 
+higher than Brazil, so 
+ignore. 
+ 
+ 
+ 
+ 
+Revenues (5 years) 
+ 
+ 
+ 
+US 
+$20B 
+$20B 
+$20B 
+BR 
+0 
+50% x 15B = $7.5B 
+0 
+FR 
+0 
+0 
+50% x $10B = $5B 
+TOTAL REVENUE (over 
+5 years) 
+$20B 
+$27.5B 
+$25B 
+ 
+ 
+
+
+===== PDF p38 =====
+Case 8: Apache Helicopter                      - hard-                     Bain&Company,Round 1 
+33 
+ 
+ 
+US revenues over 5 years = 20% of 100B = 20B 
+If plant in US 
+# of choppers = $20B / $100M = 200 helicopters 
+Total Cost = 500M + 500M + (200) x ($15M) = $4B 
+PROFIT = $16B 
+ 
+US revenues over 5 years = 20% of 100B = 20B 
+If plant in BR 
+BR revenues over 5 years = 50% of 15B = 7.5B 
+# of US-bound choppers = $20B / $100M = 200 helicopters 
+# of BR-bound choppers = $7.5B / $100M = 75 helicopters 
+TOTAL COST = 2B + 500M + {(# of US bound units) x ($20M + $15M} + 
+{(# of BR bound units) x ($20M)} 
+= 2B + 500M + (200) (35M) + (75) (20M) 
+ 
+ 
+= 2B + 500M + 7B + 1500M 
+ 
+ 
+= $11B 
+PROFIT = $16.5B 
+ 
+Having the plant in Brazil will give us profits higher than the US by $500M 
+ 
+(A good candidate will come up with a recommendation) 
+ 
+Based on the financials, Brazil appears to be a more attractive candidate for setting up the new plant 
+because: 
+- 
+our profits over 5 years will be higher by $500M 
+- 
+we won’t be entirely dependent on one single country (US) for sales 
+However, we need to also explore the following: 
+- 
+what is the potential for selling choppers outside of these 3 countries to the worldwide 
+market 
+- 
+what will labor reaction at our existing plants be if we off shore production to Brazil 
+- 
+are US relations with Brazil likely to be cordial over the next 5 years for us to benefit from 
+export control laws and sales to both nations 
+ 
+ 
+ 
+(Case writers tip: This case is not overly complicated, but allows for the opportunity to bring in your 
+own knowledge from reading about companies in the Defense space. E.g. The issues with EADS and 
+Airbus reference labor relations and plant locations in France can be a point of discussion for bonus 
+point.)

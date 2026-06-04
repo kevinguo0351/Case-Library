@@ -1,0 +1,151 @@
+===== PDF p20 =====
+- 15 -
+Gas station (1 of 7)
+BCG, Round 2
+Your client is a gas company that operates in a town with a 
+population of 1,000.  There is only one other gas company in this 
+town, and it is 1 mile away.  The other nearest gas stations are 
+outside town, and they are 20 miles away (see picture on next 
+page).
+Recently, our client was approached by a supermarket with the 
+idea of selling groceries in the gas station.  Our client is a simple 
+businessman and has hired us to evaluate this proposal.  What  
+should our client consider?
+1. What are the proposed groceries the gas station would now 
+sell? (turn question around and ask the candidate).
+Likely answers include cigarettes, milk, snack foods; 
+probably not fresh produce or healthy foods.
+2. Currently, the gas station is barely scraping by.  Profit is 
+essentially 0.
+3. If asked anything about the other gas station, the answer is “we 
+don’t know, but assume they are identical”
+Candidate should recognize that each gas station serves 
+500 people.
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request(
+
+
+===== PDF p21 =====
+- 16 -
+Map of area (not to scale)
+Gas station (2 of 7)
+BCG, Round 2
+
+
+===== PDF p22 =====
+- 17 -
+What information would you want to consider when 
+deciding whether or not to sell groceries at this gas station? 
+(You as interviewer are trying to get candidate to provide 
+this framework)
+Additional questions for candidate
+• Revenue: Increased revenue from selling groceries in store; 
+more people coming to buy gas from this station instead of 
+station B.
+• Costs: Up front investment costs such as a freezer, shelves, 
+etc.
+• Recurring costs such as labor will be minimal since 
+same staff can handle gas and groceries.
+• Will there be any profit-sharing with the grocery 
+store?
+• Competition: What is keeping the grocery store from going 
+to gas station B as well?
+Solution guide
+Framework
+Gas station (3 of 7)
+BCG, Round 2
+
+
+===== PDF p23 =====
+- 18 -
+What kind of costs could there be?
+Additional questions for candidate
+• Investment in freezers, shelves, utilities.
+• No increase in labor expected.
+• Total increase in costs: one-time cost of $1.25MM.
+Solution guide
+Costs
+Gas station (4 of 7)
+BCG, Round 2
+
+
+===== PDF p24 =====
+- 19 -
+• Groceries:
+• What kind of people will shop for groceries here?
+• How much do they spend per year?
+• What else can be a source of revenue?
+• Candidate should recognize that more people will 
+buy gas here now.
+• What is the total increase in sales?
+• The gas station owner is a simple man and wants to look at 
+this like a perpetuity.  What does this work out to?
+• (discount rate) r = 10%
+• (growth in cash flows) g = 0%
+Additional questions for candidate
+• People who shop here are probably not health conscious, 
+since gas station groceries are not healthy.  They are 
+probably also in a rush, and will make small purchases 
+(milk, cigarettes, jerky, etc.)
+• Out of 1000 people, assume 500 will buy groceries 
+here at $200 per year per person
+• -> $100,000 per year
+• Increase in gas sales: very important distinction: people 
+won’t buy more gas, but more people will buy gas here 
+(stealing customers from station B)
+• We can steal 50% of station B’s customers (250 
+people), who purchase $100 in gas per year -> 
+$25,000 per year
+• Total increase in sales per year: $125,000.
+• As a perpetuity: $1.25MM.
+Solution guide
+Revenue stream
+Gas station (5 of 7)
+BCG, Round 2
+
+
+===== PDF p25 =====
+- 20 -
+What would you advise the gas station owner to do?
+Additional questions for candidate
+• This is a prisoner’s dilemma.
+• If station A does it, it is value neutral, BUT, we can take 
+$250,000 away from station B (good).  But what is keeping 
+station B from retaliating and doing the same thing?  
+Remember, station A is barely scraping by.  If station B 
+responds, we could go out of business since revenue would 
+no longer cover the one-time cost (bad).  If station B does 
+not respond, then we can steal all customers from station B 
+and be profitable (good).
+• If A does not do it, station B might do it.  Then station A 
+would lose $250,000 and it could go out of business (bad).
+• No matter which scenarios the candidate chooses, push 
+hard for the other option and play devil’s advocate.
+Solution guide
+Competition and Should they do it?
+Gas station (6 of 7)
+BCG, Round 2
+
+
+===== PDF p26 =====
+- 21 -
+Recommendation
+Risks
+Next steps
+(based on what candidate decides)
+Do it, and try to push station B out of 
+business.
+Don’t do it, and hope station B doesn’t 
+do it either.
+(based on what candidate decides)
+Station B might respond and bring both 
+stations down.
+Or Station A might miss out on the 
+opportunity and lose first mover 
+advantage.
+Try to form an exclusive contract with the 
+grocery store.
+Gas station (7 of 7)
+BCG, Round 2
+Final Recommendation

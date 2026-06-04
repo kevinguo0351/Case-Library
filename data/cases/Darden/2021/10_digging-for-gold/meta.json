@@ -1,0 +1,26 @@
+{
+  "case_id": "Darden_2021_10_digging-for-gold",
+  "school": "Darden",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2021.pdf",
+  "idx": 10,
+  "case_name": "Digging for Gold",
+  "case_type": "Market Entry",
+  "round": "2",
+  "industry": "Mining",
+  "difficulty": null,
+  "pdf_page_start": 126,
+  "pdf_page_end": 133,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    127,
+    129,
+    130
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p127.png",
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p130.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2021\\10_digging-for-gold"
+}

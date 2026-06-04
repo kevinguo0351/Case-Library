@@ -1,0 +1,273 @@
+===== PDF p35 =====
+Tuck Consulting Club
+31
+Nutters of Savile Row
+Your client is Nutters of Savile Row, a legendary tailoring business that opened in 1969.  At the height of its fame, Nutters
+dressed Mick Jagger, Twiggy, Elton John, and three of the four Beatles on the Abbey Road cover.  Despite the departure 
+of the two founders -- Tommy Nutter and Edward Sexton -- Nutters continues to have an excellent reputation.  It offers 
+customers made-to-measure and bespoke suits.  Industry ruling defines made-to-measure suits as those cut, usually by 
+machine, from an existing pattern and adjusted according to the customer’s measurements.  Bespoke suits are fully hand-
+made and the pattern is cut from scratch. Lately, however, Nutters has heard grumblings from customers.  Fearing 
+declining customer satisfaction, Alan Lewis, the current owner, has approached you for help.  
+Part 1: Problem Structuring
+What could be driving declining customer satisfaction at Nutter’s?
+Case Prompt
+This is a candidate-driven case centered on operations; the case is divided into the following parts:
+Part 1: Problem Structuring
+Part 2: Process Diagram
+Part 3: Adding Capacity
+Part 4: Wrap-Up
+Operations expertise is not necessary – though certainly helpful – to this case.  Depending on candidate’s exposure to 
+operations, interviewer may choose to give more guidance.  It is not important that candidates use operations-specific 
+language (bottleneck, lead time, etc.); rather, this case is meant to test candidate’s business sense and intuition when 
+responding to a new situation.
+Case Commentary (Notes to Interviewer)
+Type: Operations
+Author: Ravi Darda T’17 & 
+Nancy Yang T’17
+
+
+===== PDF p36 =====
+32
+Part 1: Problem Structuring
+Sample Framework
+First, candidates should identity drivers of customer 
+satisfaction.  Options include structuring by customer 
+experience objectives (quality, cost, speed, flexibility), shown 
+here, or by phases of customer engagement (moment of 
+purchase, delivery, usage). 
+Candidate response should recognize the multi-dimensional 
+nature of customer satisfaction and touch on quality, cost, 
+and speed of the product.  Given that we are talking about a 
+high-end tailor, reputation and exclusivity (i.e. perceived 
+quality) matters.  An excellent response will also address how 
+customer expectations – based on past experience, the 
+shop’s reputation, or competitors’ offering – inform 
+satisfaction.
+Prompt the candidate to discuss why customer satisfaction 
+might have declined using his/her structure.  
+Candidate response should identify factors that have 
+changed recently.  A poor response might be ”there’s a long 
+wait time due to the artisan nature of making suits” while a 
+better response would be “wait time has increased due to a 
+spike in demand and poor demand management or due to 
+decrease in shop’s capacity to meet demand like losing 
+staff.”
+Behind the Framework
+Customer 
+satisfaction
+Quality
+Reputation (brand, 
+exclusivity)
+Expertise
+Fit & attention to 
+detail
+"Feel" (space, 
+service, etc.)
+Cost
+Price compared to 
+expectations
+Price compared to 
+competitors
+Speed
+Wait time at intake
+Delivery time
+Flexibility
+Accessibility (hours, 
+location, etc.)
+Selection
+Tuck Consulting Club
+
+
+===== PDF p37 =====
+Tuck Consulting Club
+33
+Part 2: Process Diagram
+As it turns out, customers are unhappy with delivery time.  Nutters has been experiencing increasing delays such that the 
+percent of orders delivered on time has gone down.  What might be causing the delay?  What data would you want to to 
+answer this question?
+Question
+Let this part be conversational: 
+the goal here is to gauge how 
+well the candidate s able to ask 
+questions to get relevant data.  
+If the candidate mentions 
+demand, give Exhibit A.  If the 
+candidate mentions Nutters’s
+capacity or production process, 
+give Exhibit B. 
+Guidance
+From Exhibit A, candidate should observe that delay is increasing even as the total 
+number of orders accepted is declining.  Therefore, the mix of made-to-measure and 
+bespoke suits is the problem.  
+From Exhibit B, candidate should calculate the capacity at each step.  Tell the candidate 
+that one full-time-employee (FTE) works 160 hours per month. For made-to-measure 
+suits, Nutters can measure 160 (160 hours / 1 hour per step * 1 FTE) orders, sew 50 orders, 
+and finish 40 orders, so Nutters can complete, at most, 40 made-to-measure orders a 
+month. For bespoke suits, candidate should realize, from the footnote, that steps 2 and 3 
+should be treated as one combined step.  Therefore, Nutters can measure 40 bespoke 
+orders, pattern & sew 25 orders (160 hours / [14 hours + 18 orders per order] * 5 FTE), and finish 
+40 orders.  Nutters can complete 25 bespoke suits a month.
+Conclusion: Looking back at Exhibit A, candidate should realize that delay is caused by 
+made-to-measure orders exceeding the maximum in April and May.  Further, an excellent 
+candidate should identify spare capacity in the system: because steps are separated 
+sequentially, there is spare capacity in some steps (i.e. measuring), and because made-
+to-measure and bespoke suits are separated by location, there is also spare capacity in 
+the bespoke line.
+Candidate Insights
+
+
+===== PDF p38 =====
+Tuck Consulting Club
+34
+Part 3: Adding Capacity
+Nutters is considering hiring additional tailors.  Anson is an experienced tailor who can do any of the steps involved in either 
+the made-to-measure or bespoke process.  How much would you be willing to offer Anson and which step would you assign 
+him to?
+Question
+The candidate should 
+recognize that compensation 
+depends on the incremental 
+profit generated by Anson, 
+which depends on which step 
+and line he’s assigned to.
+If asked, tell the candidate 
+that made-to-measure suits 
+generate profit of $350 per 
+suit; bespoke suits generate 
+profit of $900 per suit.  
+Candidate should assume that 
+demand is not a constraint: if 
+hiring Anson will produce 7 
+more bespoke suits, there will 
+be buyers for those 7 suits.  
+Guidance
+Since the maximum number of suits Nutters can complete per month is determined by the 
+step withthe lowest capacity (the bottleneck), candidates should realize that Anson needs 
+to be assigned to either the “finishing” step for made-to-measure suits or “patterning and 
+sewing” steps for bespoke suits.
+If Anson is assigned to the “finishing” step for made-to-measure suits, the capacity at that 
+step increases to 80 orders (160 hours / 4 hours per order * 2 FTE).  A strong candidate should 
+notice that the “sewing” step, with capacity of 50 orders, is now the the constraint. Anson 
+has effectively added 10, not 40, more made-to-measure suits to Nutters’s capacity, 
+which is worth up to $3,500 (10 suits * $350 per suit) in salary for Anson.
+If Anson is assigned to the “patterning and sewing” step for bespoke suits, the capacity at 
+that step increases to 30 (160 hours / [14+18 hours per order] * 6 FTE) orders.  Anson has added 
+5 more bespoke suits to the shop’s capacity, which is worth up to $4,500 (5 suits * $900 per 
+suit) in salary for Anson.
+Remember that delay is caused by the number of made-to-measure orders, so an 
+excellent response will weigh the tradeoff between profit and customer satisfaction of 
+assigning Anson to the bespoke versus the made-to-measure line.
+Candidate Insights
+
+
+===== PDF p39 =====
+What’s your final recommendation to Nutters of Savile Row?
+Candidate should conclude that delay was caused by made-to-measure 
+orders exceeding the shop’s capacity, as determined by the step with the 
+lowest capacity.  Candidate can then recommend assigning Anson to either 
+made-to-measure or bespoke line depending on rationale and provide a 
+salary cap of either $3,500 or $4,500.
+This case tests candidates’ ability to 
+reason through what is likely an unfamiliar 
+business problem (operational delay at a 
+high-end tailor).  
+A solid candidate will identify multiple 
+drivers for customer satisfaction and 
+operational delay, execute the math 
+necessary to identify capacity at each step 
+of the production process, and, with some 
+guidance, arrive at the incremental profit 
+generated by Anson. 
+A strong candidate will recognize that the 
+step with the lowest capacity determines 
+capacity of the entire system and that 
+adding capacity to the bottleneck may turn 
+another step into the bottleneck (as when 
+assigning Anson to the made-to-measure 
+line).  A strong candidate will also provide 
+strong rationale in assigning Anson to a 
+particular step and, in addition, brainstorm 
+solutions for Nutters besides adding an 
+employee.
+As noted earlier, candidate should weigh the tradeoff between profit and 
+customer satisfaction involved in assigning Anson to either made-to-measure 
+or bespoke line.  Given Nutters’s brand equity, a longer delay in the form of a 
+waitlist may actually increase the brand’s exclusivity; on the other hand, the 
+client’s original concern was customer satisfaction, and an additional revenue 
+of $1,000 per month ($4,500 - $3,500) is likely insignificant for Nutters.
+As for next steps, a strong candidate should suggest other ways for Nutters
+to alleviate the delay problem.  For instance, if FTEs can be moved between 
+steps, and assuming FTEs are not limited by skill, then spare capacity at the 
+“measuring” step can be used to increase capacity elsewhere.  Additionally, if 
+resource can be pooled between the made-to-order and bespoke lines, then 
+Nutters can avoid having spare capacity in the bespoke line while the made-
+to-measure line struggles to fulfill demand.
+Tuck Consulting Club
+35
+Nutters of Savile Row: Wrap-Up
+Recommendation
+Candidate Evaluation
+Risks and Next Steps
+
+
+===== PDF p40 =====
+Tuck Consulting Club
+36
+Exhibit A
+Orders Accepted
+February
+March
+April
+May
+Made-to-measure
+37
+39
+42
+44
+Bespoke 
+25
+23
+19
+15
+Total
+62
+62
+61
+59
+
+
+===== PDF p41 =====
+Tuck Consulting Club
+37
+Exhibit B
+Made-to-measure orders are taken and completed in a separate workshop on Beak Street: 
+Process for made-to-measure orders
+Bespoke orders are taken and completed in Nutters’s main Savile Row location:
+* For bespoke orders, the same 5 master tailors pattern (step 2) and sew the suit (step 3)
+Process for bespoke orders
+Measuring
+•time/order: 1 hr.
+•FTE: 1
+Sewing
+•time/order: 16 hrs.
+•FTE: 5
+Finishing
+•time/order: 4 hrs.
+•FTE: 1
+Measuring
+•time/order: 4 
+hrs.
+•FTE: 1
+Patterning
+•time/order: 14 
+hrs.
+•FTE: 5
+Sewing
+•time/order: 18 
+hrs.
+•FTE: 5
+Finishing
+•time/order: 8 
+hrs.
+•FTE: 2

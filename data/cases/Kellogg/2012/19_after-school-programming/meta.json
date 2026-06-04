@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2012_19_after-school-programming",
+  "school": "Kellogg",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2012.pdf",
+  "idx": 19,
+  "case_name": "After School Programming",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Non-Profit/Education",
+  "difficulty": null,
+  "pdf_page_start": 147,
+  "pdf_page_end": 156,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    148,
+    150,
+    152,
+    153,
+    155,
+    156
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p148.png",
+    "exhibits/exhibit_p150.png",
+    "exhibits/exhibit_p152.png",
+    "exhibits/exhibit_p153.png",
+    "exhibits/exhibit_p155.png",
+    "exhibits/exhibit_p156.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2012\\19_after-school-programming"
+}

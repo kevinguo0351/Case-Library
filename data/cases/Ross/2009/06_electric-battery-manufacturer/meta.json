@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2009_06_electric-battery-manufacturer",
+  "school": "Ross",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2009.pdf",
+  "idx": 6,
+  "case_name": "Electric Battery Manufacturer",
+  "case_type": "Pricing",
+  "round": "1",
+  "industry": "Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 31,
+  "pdf_page_end": 35,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    32,
+    33
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p032.png",
+    "exhibits/exhibit_p033.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2009\\06_electric-battery-manufacturer"
+}

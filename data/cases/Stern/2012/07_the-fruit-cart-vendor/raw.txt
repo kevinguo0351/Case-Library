@@ -1,0 +1,185 @@
+===== PDF p57 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 7: Fruit Cart Vendor 
+You find out you have a long-lost uncle, and he is a fruit cart vendor at a street corner in downtown Boston. Your uncle knows that you are a 
+business school student, and he thinks you might be able to help him increase the profitability of his business. He wants to increase his profit 
+during this year by 10%, and he will plow these profits back into the business. He intends to achieve this by expanding into selling 
+vegetables.   
+   
+He wants your help to determine if he can reach his goal. 
+This is a good first case for a candidate to take as it is structurally simple and requires little more than a basic profitability analysis. The 
+candidate should spend most of their time exploring all the revenue sources and costs associated with entering the vegetable market. They should 
+calculate the expected profit after the introduction of vegetables and make a recommendation based on their calculations. They should also 
+include other considerations such as competitor response, changes in customer type, the uncle’s knowledge of vegetables, etc. 
+ 
+Much of the background information is not directly relevant to the core of the case, and candidates should retain focus and ignore extraneous 
+information. Expected demand has already been estimated and all the other figures for the profitability calculation are contained in the case. A 
+candidate may justifiably consider the reliability of those estimates and the overall viability of the business, but these extra considerations should 
+be in addition to, not instead of, the core analysis. 
+Case Prompt 
+(to be read to the candidate) 
+53 
+Interviewer Guide 
+• Candidate Led  
+• Profitability 
+• Small Business 
+Easy  
+Normal 
+Hard 
+
+
+===== PDF p58 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Revenues: 
+• By talking to customers, he has estimated a potential demand of 
+20 vegetables per day 
+• He expects to sell each vegetable for $1 
+• Cross-selling to certain customers is expected to generate an 
+additional 5% in revenues 
+Costs: 
+• The annual cost of his permit to operate is $1000 
+• If he sells vegetables, the permit costs will increase by 20% 
+• The cost of each vegetable is 75 cents 
+• Cannibalization will decrease fruit sales by 5% 
+• Your uncle serves 3 types of customers:  morning commuters, 
+evening commuters, and downtowners on lunch breaks 
+• He has more morning and lunch customers but evening customers 
+tend to buy more fruit to take home so he sells roughly equal 
+proportions of his fruits to each type of customer 
+• There are no competing vegetable vendors nearby 
+• Fruit customers generally get their vegetables from 
+supermarkets near their home 
+• Your uncle has been in the fruit business for 20 years and his 
+customers appreciate that he knows the peak seasons for the 
+fruits that he sells. He is a master at picking out the best fruit for 
+his customers, and the quality of his fruity is high 
+• His knowledge in these respects is very limited for vegetables 
+54 
+Continued… (page 2 of 5) 
+Background Information 
+(to be provided when requested by candidate) 
+Profitability 
+Customers 
+Competition 
+Competencies 
+General Information 
+• Your uncle only operates his stand on weekdays 
+• Profit last year was $10,000 
+• He sources high quality fruit from his buddy who is a wholesaler. 
+He plans to use the same source for the vegetables 
+• Your uncle operates in a really good location:  a well-trafficked 
+spot in the business district near a busy train station 
+Case 7: Fruit Cart Vendor 
+
+
+===== PDF p59 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Variable 
+Source (given in case unless stated) 
+Value 
+Desired profit increase/year 
+Profit last year x 10% 
+$1,000 
+Revenue per vegetable 
+$1.00 
+Cost per vegetable 
+$0.75 
+Profit margin per vegetable  
+(revenue/unit) – (cost/unit) 
+$0.25 
+Vegetables sold per day 
+20 
+Extra profit/day from vegetables 
+(profit/unit) x (# of units) 
+$5 
+Days per week 
+Weekdays only 
+5 
+Weeks per year 
+52 
+Extra profit/year from vegetables 
+(profit/day) x (days/week) x (weeks/year) 
+$1,300 
+55 
+Sample Analysis 
+(not to be shown to candidate) 
+First,  determine the desired profit increase in absolute terms. Then determine the expected extra profit from selling vegetables. Then factor 
+in any knock-on effect on fruit sales. Finally, calculate the net overall change in profit and compare to the 10%/$1,000 target.  
+ 
+N.B. The candidate may choose to calculate extra sales (+5%) and cannibalization (-5%) separately. Stronger candidates will notice that these 
+cancel out and move on without doing unnecessary calculations. 
+Continued… (page 3 of 5) 
+Case 7: Fruit Cart Vendor 
+
+
+===== PDF p60 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Variables 
+Source (given in case unless stated) 
+Value 
+Cross-selling additional fruit sales 
++5% 
+Cannibalization of fruit sales 
+- 5% 
+Net % change in fruit sales 
+(cannibalization) + (cross-selling) 
+0% 
+Original annual permit cost 
+$1,000 
+Permit cost increase 
+20% 
+Additional permit cost  
+(original permit cost) x (cost increase) 
+$200 
+Extra profit/year from veg 
+Calculated above 
+$1,300 
+Net impact on fruit 
+Calculated above 
+- 
+Additional permit cost 
+Calculated above 
+-$200 
+Total extra profit per year  
+$1,100 
+56 
+Continued… (page 4 of 5) 
+Case 7: Fruit Cart Vendor 
+Sample Analysis 
+(not to be shown to candidate) 
+Key takeaway:  calculated extra profit of $1,100 > desired profit increase of $1,000 
+
+
+===== PDF p61 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+•
+At current estimated demand levels, your uncle would be able to surpass his profit target 
+of $1,000 by $100 next year.   
+•
+The candidate should also make at least one recommendation for further study or 
+analysis, as there are many grey areas in the case. For example, your uncle may want to 
+do additional surveys of his customers to determine which vegetables would be most 
+popular, which could increase daily demand further.  
+•
+Since he will just make his target by $100, he must be confident that his lack of expertise 
+with vegetables will not affect his ability to sell vegetables, or that this is factored into 
+the estimates. He must also be aware that his lack of expertise may lead to spoilage 
+rates that could eat into his profits to a degree that he did not anticipate. 
+•
+It is also important that he is comfortable that he can find the additional cash flow for the 
+investment (at least $200 to finance the additional permit costs for carrying vegetables). 
+57 
+Sample Conclusions & Recommendations 
+Recommendations 
+Risks 
+Other 
+•
+The reliability of the demand estimates may be called into question, and either a 
+sensitivity analysis (high/low estimates) or further studies to get more certainty on 
+demand may be appropriate. 
+•
+A candidate may call into question the viability of the business: for $11,100 profit a 
+year is this worth your uncle’s time? This is outside of scope for the main question being 
+asked but a legitimate question to address at another time. 
+Continued… (page 5 of 5) 
+Case 7: Fruit Cart Vendor 

@@ -1,0 +1,206 @@
+===== PDF p273 =====
+Alkaline Ash
+Difficulty: Medium
+Industry: Chemicals
+Case Type: Growth
+Concepts Tested
+Case #30 : Alkaline Ash
+• Market analysis
+• Mental math
+• Extracting insights from exhibits
+ChemCo, a U.S.-based manufacturer of chemical products, has come to your firm asking for advice on whether to make an 
+investment. It would like to increase its production capacity for alkaline ash from one million to two million metric tons by
+2020, with a total investment cost of $20M
+Problem Statement Narrative
+This is an candidate led case, based on analysis of exhibits. Instead of asking upfront questions, interviewer gives 
+candidates exhibits based on candidate’s questions. candidate should lead discussion of exhibits to reach conclusion
+Case Notes
+269
+
+
+===== PDF p274 =====
+Alkaline Ash
+Question #1 / Framework 
+Should ChemCo increase its production capacity?
+1.
+Market Demand
+a.
+Current and expected demand for alkaline ash in:
+i.
+The construction industry?
+ii.
+The electronics industry?
+iii.
+Other industries?
+2.
+Market Supply
+a.
+Current and expected supply for alkaline ash in:
+i.
+The construction industry?
+ii.
+The electronics industry?
+iii.
+Other industries?
+b.
+Is there expected to be a competitive response if 
+ChemCo expands its capacity?
+3.
+Incremental Revenues
+a.
+What is ChemCo’s current market share, and how has 
+this trended over time?
+b.
+How much additional market share is ChemCo
+expected to capture if it expands capacity?
+c.
+What is the price now, and how will that change as 
+capacity increases?
+4.
+Incremental Costs
+a.
+CapEx of adding capacity; only the $20M investment?
+b.
+Additional fixed costs, such as managers
+c.
+Ongoing variable costs, and how much this varies at 
+different production levels
+d.
+Opportunity costs; are there more attractive 
+investments available?
+Sample Framework
+This is an candidate-led case. Please hand each exhibit to 
+the candidate as that information is requested, and then 
+wait for the person to share insight or ask questions
+This case is based on current and future projections of 
+the supply and demand of alkaline ash
+Guidance for Interviewer
+Alkaline ash is a chemical product that is commonly used 
+in construction and electronics manufacturing
+Clarification Answers if  Asked 
+270
+
+
+===== PDF p275 =====
+Conclusion
+•
+ChemCo should make the investment
+Recommendation
+•
+The investment will be profitable in the first year that 
+capacity is expanded, and the firm can expect 
+additional profits down the line 
+Rationale
+•
+If Chinese producers can gain access to cheaper 
+raw materials, through new discoveries or alternate 
+production methods, they will be more competitive
+•
+An economic downturn that affects demand for 
+electronics or construction services would be 
+detrimental
+Risks
+•
+Conduct further research on where demand in 
+the Rest of Asia market will be, and establish 
+relationships with potential future buyers
+•
+Start construction process for expanding ChemCo’s
+production facility
+Next Steps
+Alkaline Ash
+271
+
+
+===== PDF p276 =====
+Exhibit #1
+Alkaline Ash
+272
+
+
+===== PDF p277 =====
+Exhibit #2
+Expected Cost Change 2015-20
+US
+China
+Administration
++15%
++10%
+Raw materials/Energy
+-5%
++15%
+Freight
++20%
++5%
+Labour
++20%
++10%
+Alkaline Ash
+273
+
+
+===== PDF p278 =====
+Exhibit #1 Solution
+The candidate should examine the relationship between demand and capacity in the different markets
+Interviewer can lead candidate towards discussion of demand and capacity if she/he does not do so her/him self. If
+the candidate asks, the units for this exhibit are in metric tons
+Conclusions from Exhibit 1:
+1.
+In reviewing this exhibit, candidate should note that in the U.S., Europe, and China, capacity outstrips
+demand, and will continue to do so in 2020
+2.
+By contrast, LatAm, Mideast/Africa, and Rest of Asia all have higher demand than capacity
+3.
+The candidate should realize the rest of Asia is particularly attractive, since its demand is expected to grow by 2 
+metric tons, and its capacity is far from meeting that demand. (If the candidate focuses on LatAm, redirect her by 
+stating that ChemCo has had bad experiences in the region before and would prefer not to engage there)
+4.
+Therefore, Chinese firms, with their large capacity and close location in Asia, will be the key competitor 
+in reaching the lucrative Asian market
+5.
+A good candidate may propose a hypothesis about the cost for Chinese producers, e.g., expecting it to be lower 
+(although that is not the case)
+Alkaline Ash
+274
+
+
+===== PDF p279 =====
+Exhibit #2 Solution
+1.
+The candidate should note that costs for U.S. firms are significantly lower than for Chinese firms, with raw 
+materials/energy being the driving factors. The candidate should propose an explanation, e.g., that the raw materials 
+are from the U.S. and thus are cheaper for U.S. producers than for Chinese producers
+2.
+The candidate should then calculate the production cost for 2020 by applying the percentage changes. The
+correct numbers are shown below:
+3.
+The candidate should then determine how much additional profit the firm will generate from this move
+4.
+What is the selling price? The Chinese firms will sell as low as they can go, which means ignoring the fixed costs
+(administration) and selling at $251 - $55 = $196/metric ton
+5.
+Accordingly, the client can sell at a profit of $19.5/metric ton at this price ($196 - $176.5). The candidate knows
+the cost of expansion, and if asked you can clarify that it is phased as $5M per year for four years (totaling $20M). 
+These costs will be incurred starting in 2020, the earliest that ChemCo would be able to increase its capacity
+6.
+The candidate should then calculate that the profit in the first year that capacity is expanded will be $14.5M,
+with greater profits down the line. Accordingly, this is a good investment
+US
+China
+Administration
+46
+55
+Raw materials/Energy
+28.5
+126.5
+Freight
+66
+42
+Labor
+36
+27.5
+Total
+176.5
+251
+Alkaline Ash
+275

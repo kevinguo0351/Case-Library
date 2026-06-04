@@ -1,0 +1,338 @@
+===== PDF p211 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Case 25: Salty Sole Shoe Co. 
+ 
+Case tracker 
+Industry:                 
+Retail Apparel 
+Level of Difficulty: 
+Medium 
+Case Format:            
+Improving profitability 
+Concepts Tested: 
+- Creativity 
+- Accounting 
+- Microeconomics 
+Case question 
+Your client is a large retail-focused private equity firm that owns Salty Sole, a leading designer of junior women’s 
+footwear, primarily targeting the 14 – 22 year old age group.  Salty Sole was purchased last year by the private equity firm 
+expecting to realize substantial profits upon sale in 2012 by increasing the company’s EBITDA.  The situation, however, is 
+that due to a current recession, annual profit has only grown modestly post the acquisition and is not on track to 
+generate the double-digit returns that the private equity firm originally anticipated.   
+How can the company increase profitability and achieve the private equity firm’s return on investment objectives? 
+Fit questions 
+Spend first 15 min on fit 
+Tell me about a problem 
+you faced in your 
+professional life, how 
+you resolved it, and 
+what the results were. 
+Tell me about a time 
+when you worked in a 
+contentious or high-
+stress situation and how 
+you handled it. 
+Guide to starting the case 
+The case primarily tests an understanding of 
+profitability and profitability growth strategies 
+Begin by reading the case question and asking the 
+interviewee to take a few moments and then explain 
+how they would like to proceed in the client’s problem 
+Quants. 
+Structure 
+Creativity 
+Acct. 
+Micro. 
+7 
+6 
+207 
+By:  Meredith Tierney (Kellogg Class of ’11), Edited By:  Uri Kalir (Kellogg Class of ‘12) 
+
+
+===== PDF p212 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Clarifying answers and guide to giving case 
+Guide to giving the case 
+• Step one: After getting case question, the interviewee should draw a framework 
+that  outlines  the basic concept that profit is driven by revenue (price and 
+volume) and costs (fixed and variable) 
+• Step two: After interviewee presents  framework, provide them with Exhibit 1  
+(Salty Sole Shoe Co’s P&L statement) and lead discussion about costs and 
+revenue. 
+- See section A for key points interviewee should make on costs. 
+- See section B for key points on revenue should make on revenue 
+• Step three: When interviewee asks about pricing during revenue discussion, 
+state that pricing has remained constant at an average of $25/unit and  
+company has determined that it would be imprudent to adjust pricing. 
+(Interviewee can now determine the number of shoes sold for later in the case). 
+• Step four: After interviewee identifies volume as key issue, ask how many units 
+must be sold by 2012 in order for the PE firm to achieve a 20% return on 
+investment, which equals approximately $300 million sale value (give this 
+number). 
+- See section C for math and further discussion. 
+• Step five: After interviewee notes that market size/share information would be 
+helpful, provide them with  Exhibit 2 (Market size  and share exhibit)  
+- Note that the “casual” footwear market is used as a proxy for the junior 
+women’s category in which the client competes and is the market leader. 
+• Step six: See solution and recommendations slide. 
+ 
+ 
+Clarifying answers to provide 
+Industry Characteristics/Market Economics 
+- Client is the market leader in junior 
+women’s footwear in the U.S. only. 
+- Apparel industry is characterized by 
+cyclicality due to economy and 
+consumer preferences. 
+ 
+Client Characteristics 
+- Client designs and distributes footwear 
+to discount retailers (think Kohl’s) and 
+is considered mid-priced. 
+- Client outsources all manufacturing on a 
+fixed-contract basis (i.e. manufacturing 
+costs with outsourced providers fall 
+under Fixed Costs for simplicity). 
+ 
+Competitive Dynamics 
+- Client follows a “me-too” strategy and 
+follows fashion rather than inventing it 
+then offering lower prices than name 
+brands (i.e. not subject to fashion risk). 
+- Client competes on the basis of trendy 
+fashion and value pricing. 
+208 
+
+
+===== PDF p213 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Key elements to analyze 
+209 
+Section A: Costs 
+Using Exhibit 1, have a quick discussion about the 
+company’s cost structure. 
+ 
+Section B: Revenue 
+Once interviewee determines that cost is not the issue, have a 
+discussion on the components of revenue – price and volume.  
+Notes to interviewer 
+• Fixed:  Interviewee should note that fixed costs  have 
+remained flat and are not extremely high (about 23-25%), 
+but could be an area for improvement. Ask how interviewee 
+would reduce fixed costs? Answer: renegotiate contracts, 
+find cheaper manufacturing partners, etc.  
+- State that in-fact fixed costs cannot be adjusted 
+based on the company’s research. 
+• Variable: Interviewee should note that variable costs have 
+held steady at approximately 50% of sales. Ask how 
+interviewee would think about reducing variable costs? 
+Answer: reduce labor/sales force, use technology, 
+renegotiate / volume purchase materials 
+- State that variable costs are currently at the lowest 
+possible rates based on market research. 
+Notes to interviewer 
+Interviewee should point out that the company experienced 
+significant growth during the pre-recession years, but a decline 
+and only gradual pick-up following recession.  
+Price:  Interviewee should ask if pricing has remained constant 
+over time or if the company has adjusted its pricing to reflect 
+lower consumer discretionary income.  
+Ask what considerations the interviewee would have when 
+considering adjusting price? 
+
+Answers should be price sensitivity / elasticity, cost 
+structure, brand equity (dilute brand through price 
+decrease but compete with more upscale brands if 
+increase).  
+Interviewee should now zero in on the fact that  volume is the 
+key issue. 
+ 
+209 
+
+
+===== PDF p214 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Key elements to analyze 
+210 
+Section C: Revenue (cont’d) 
+Now that the interviewee has hopefully zeroed-in on the fact that the issue is volume, ask how many units must be sold by 2012 in 
+order for the private equity firm to achieve a 20% return on the investment in Salty Sole Shoe, which equals approximately $300 
+million sale value (give this number). Note that interviewee should ignore discounts/allowances for simplicity.  
+ 
+Notes to interviewer 
+• Interviewee should determine that if the sale value needs to 
+be $300mm in 2012, then EBITDA will need to be $300 / 6.5 
+= $46.15 (round up to $50 million). 
+• The formula to determine how many pairs of shoes must be 
+sold to reach that EBITDA level is as follows: 
+• $50,000,000 = $25*v – (.5 * 25 * v) – 15,000,000 
+• $65,000,000 = 12.5v 
+• V = 5,200,000 pairs of shoes 
+• Interviewee should note that this is more than double the 
+2008 and 2009 volume levels.  
+• Ask what the interviewee would want to know to determine 
+if this volume is feasible? Answer: market size / share. 
+Market Size 
+• Show the candidate Exhibit 2 when he/she notes that 
+market size/share would be helpful.  Ask interviewee what 
+observations can be made from this chart? 
+• Candidate should note that the client is already the market 
+leader with greater than 35%  and that the market size is 
+not projected to increase. 
+• This should lead to the conclusion that the client can 
+increase volume by stealing share and/or new products in 
+other categories. 
+210 
+
+
+===== PDF p215 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Solution and recommendations 
+Solution & Recommendations 
+The interviewee should zero-in on the fact that since cost-structure is fixed and price is also fixed, volume is the only 
+real way to increase profitability.  
+However, volume must more than double in order to achieve the growth desired by the private equity firm for a 
+20% return, which could be difficult given recession and the fact that the industry as a whole isn’t growing.  
+Interviewee should recommend potentials strategies for achieving that volume growth while outlining the risks of 
+each: 1) Volume:  new products / geographies / distribution channels (international?); increase marketing to steal 
+share; acquire growth (brands); adjust product mix to higher-margin products. 2) Price:  add value / features. 3) 
+Risks:  Capacity, cannibalization if new products. 
+Bonus/Guide to an excellent case 
+An excellent interviewee will quickly identify that volume is the issue by ticking through the parts of the profitability 
+equation. 
+An excellent interviewee will also ask about product mix and question the 50% gross margin.  Interviewer should 
+note that it’s assumed that all products have the same margin, but that’s a great question.  
+An excellent interviewee will also note that since the company is not projected to have to adjust discounts / 
+allowances, then it probably has a good product that is highly-valued by customers and/or this may be aggressive 
+projecting. 
+211 
+
+
+===== PDF p216 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Exhibit #1: Clients Financial Estimates 2006 - 2012 
+Salty Sole Financial Estimates
+($ in millions)
+2006A
+2007A
+2008A
+2009E
+2010E
+2011E
+2012E
+Sales
+50.00
+65.00
+60.00
+61.00
+62.00
+65.00
+70.00
+Less:  Discounts/Allowances
+(0.50)
+(0.65)
+(0.60)
+(0.61)
+(0.62)
+(0.65)
+(0.70)
+Net Sales
+$49.50
+$64.35
+$59.40
+$60.39
+$61.38
+$64.35
+$69.30
+% Increase / Decrease
+20.0%
+30.0%
+(7.7%)
+1.7%
+1.6%
+4.8%
+7.7%
+Cost of Goods Sold
+24.75
+32.18
+29.70
+30.20
+30.69
+32.18
+34.65
+Fixed Costs
+15.00
+15.00
+15.00
+15.00
+15.00
+15.00
+15.00
+Total Costs
+39.75
+47.18
+44.70
+45.20
+45.69
+47.18
+49.65
+EBITDA
+$9.75
+$17.18
+$14.70
+$15.20
+$15.69
+$17.18
+$19.65
+Sale Multiple
+6.50x
+6.50x
+6.50x
+6.50x
+6.50x
+6.50x
+6.50x
+Purchase/Sale Price
+$111.64
+$95.55
+$98.77
+$101.99
+$111.64
+$127.73
+Return on Investment
+2.7%
+Note:  Acquisition occurred on December 31, 2006.
+212 
+
+
+===== PDF p217 =====
+© 2013 Kellogg Consulting Club  -- All Rights Reserved 
+Exhibit #2: Market Size and Share 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2006
+2007
+2008
+2009
+Percent Market Share
+U.S. Casual Footwear Market Size and Share 
+$56B 
+$58B 
+$57B 
+$58B 
+Competitor 5 
+Competitor 4 
+Competitor 3 
+Competitor 2 
+Competitor 1 
+Salty Sole 
+213 

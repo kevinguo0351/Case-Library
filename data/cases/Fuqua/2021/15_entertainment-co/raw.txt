@@ -1,0 +1,408 @@
+===== PDF p164 =====
+Entertainment Co.
+160
+Industry:                  Media
+Case Type:     
+Profitability
+Led by:            
+Interviewer
+Case Level: 
+Expert
+This is meant to mimic a Bain style case 
+
+
+===== PDF p165 =====
+Behavioral Questions
+161
+What does DEI (diversity, equity, and inclusion) mean to you, and how have you 
+explored this in your past roles?
+Question 1:
+What would you look forward to contributing outside of your role to the firm?
+Question 2:
+
+
+===== PDF p166 =====
+Entertainment Co.
+162
+Entertainment Co is the leading, diversified global media company, specializing in family entertainment. 
+Recent earnings reports show Entertainment Co’s. post-covid revenue is slow to return to pre-pandemic 
+numbers, with Box Office and park closures disrupting the traditional profitability model for the company. In 
+addition, the parks & resorts (tourism) arm of the company has faced even greater challenges with 
+temporary closures disrupting revenue streams, as tourism is regularly seen as the second most profitable 
+segment to feature films. Investors are highly concerned about the pandemic’s long-term effects on 
+Entertainment Co. The CEO of Entertainment Co. has hired your firm to address a turnaround strategy 
+helping Entertainment Co. increase profitability by 125% in 2 years from last FY net income of $17M
+Prompt #1:
+–
+Client/Company information – If candidate asks about ‘how company makes money’ or client business 
+segments – share Exhibit 1
+–
+Industry/Competition information – Industry is TMT, B2C, competition includes other media companies that 
+include media distribution, production, and tourism (think NBCUniversal). 
+–
+Product information – If candidate asks, share Exhibit 1. DTC division recently expanded market share in FY 
+2020. 
+–
+Value Chain/Revenue information - If candidate asks, Exhibit 1
+–
+Any constraints on the case – Candidate should be able to calculate $21.5M as new profit goal (4.5M 
+cost reduction or revenue increase)
+–
+Note that this case displays an exhibit before the framework
+Case Background:
+
+
+===== PDF p167 =====
+Alt Exhibit #1
+163
+-$.119
+$7.542
+$2.023
+$2.652
+$5.472
+$7.7
+$3.5
+$1.7
+$3.6
+$1.6
+$2.5
+$1.7
+Linear Networks
+Direct-to-Consumer
+Content, Sales, & Licensing
+Parks, Experiences, & Products
+Q1 FY 2020 
+Revenue
+Q1 FY 2021 
+Revenue
+Q1 FY 2020 
+Operating 
+Income
+Q1 FY 2021 
+Operating 
+Income
+-$1.1
+-$.466
+$.329
+$ in Billions
+$.188
+
+
+===== PDF p168 =====
+Interviewer guidance on Exhibits
+• Exhibit #1 is the breakdown of business 
+segment, revenue and operating income 
+between Q1FY 2020 and Q1 FY 2021. 
+• The second graph below is the % share of 
+revenue and operating income by 
+business segment for FY 2021. 
+• The goal of this segment is to help the 
+candidate gain more information about 
+the company’s financials, pre-pandemic, 
+and during the pandemic. 
+• Guide the candidate towards the insights 
+on the right, if the they do not do so on 
+their own. 
+• This should be a brief 2 min before asking 
+the candidate to draft their framework.
+Analysis for the exhibit to have 2 parts –
+–
+Basic
+•
+Parks, Resorts, & Experiences are suffering the most 
+post-pandemic, as both the revenue declined 
+substantially, as did the operating income
+•
+While DTC was still incurring an operating loss, it 
+improved from 2020, and revenues increased
+–
+Second order insights
+•
+Parks, Resorts, and Experiences faced the largest 
+delta  in revenue and operating loss, between FY 
+2020 and FY 2021 Q1 (34% decrease in revenues and 
+114% decline in operating income). 
+•
+**Let candidate speculate on this insight to drive 
+framework (Isolating on the difference in operating 
+expenses and additional costs could help explain the 
+steep decline).
+•
+Operating loss for DTC improved by 57% between FY 
+2020 and FY 2021, as revenues increased by 73%.
+•
+**Let candidate speculate this secondary insight to 
+drive their framework  (It could be speculated that 
+provided the landscape in DTC, if Entertainment Co. 
+had recently invested in this division, a larger upfront 
+cost could be responsible for the initial operating loss).
+After the framework, candidate should request to steer the 
+case towards examining costs in the parks & resorts arm of 
+the company. If not, please direct candidate there. 
+164
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p169 =====
+Entertainment Co.
+165
+#1 Reduce Costs
+1.
+Examine costs for each business segment
+2.
+Isolate segment with largest costs (from Exhibit #1, the candidate should consider beginning with the parks & resorts segment, 
+considering its $119M operating loss in recent quarter)
+3.
+Determine most appropriate solution towards costs reduction that aligns with corporate values at Entertainment Co., trajectory of the 
+market in the industry, and impact that this reduction will have on profitability.
+•
+Example could include layoffs from parks & resorts segment (con: reduces company morale and brand image), outsourcing most 
+expensive operating costs (con: could come with the challenge of reducing overall quality, time delays for completion if 
+international, additional government regulation, etc.**this is the direction the case will ultimately go), or / re-evaluating current 
+supplier / vendor partnerships (con: dismantling existing relationship with supplier could hurt company morale
+#2: Increase revenues
+1.
+Increase prices (a strong candidate would consider which segment be most beneficial to increase prices provided pandemic and post-
+pandemic landscape, which could be via tourism prices ie. parks / resorts or subscriber fees for direct-to-consumer subscriptions)
+2.
+Grow customer market share (observe market opportunities for expanding to new customer segments / demographics for particular
+business segment – likely direct-to-consumer streaming)
+3.
+Increasing subscription options (a strong candidate could consider opportunities for bundling to increase the quantity sold, for example, 
+expanding linear cable + direct-to-consumer bundles)
+#3: Grow IP through acquisition
+1.
+Identify opportunity cost for acquiring media to immediately increase revenues (ie. Smaller media company). 
+2.
+Identify way to reduce costs by acquiring or partnering with third party who can accomplish the specific business segment cheaper 
+(*this is the direction the case will later head, let candidate discover on own)
+Framework should be highly tailored towards Parks, Experience and Products (PEP)
+Framework Buckets:
+Drive towards cost reduction of PEP
+
+
+===== PDF p170 =====
+Exhibit #2
+Operating Results for Entertainment Co. ‘Parks, Experiences, & Products 
+166
+(in millions)
+January 2, 2021
+December 28, 
+2019
+Operating expenses
+(2,430)
+(3,703)
+SG&A
+(678)
+(758)
+Depreciation and 
+amortization
+(591)
+(594)
+19%
+11%
+27%
+5%
+5%
+10%
+17%
+15%
+FY 2021 Costs*
+Operating Labor
+Cost of Goods Sold
+Infrastruture Costs
+Supplies
+Commissions
+Entertainment Offerings
+SG&A
+Depreciation & Ammortization
+
+
+===== PDF p171 =====
+Interviewer guidance on Exhibits
+•
+Candidate should be able to interpret the revenues / 
+costs attributed to the PEP group, and should pay 
+particular attention to the PEP costs within the segment. 
+A strong candidate will realize that the largest costs are 
+associated with ‘infrastructure’ costs, and should be able 
+to solve for how much this equals (27% * 
+(2430m+678m+591m) = .27*3699m = approx. 1B
+•
+Allow / ask candidate to round to get to reasonable 
+number. 
+•
+If candidate provides you the segment costs # ($1B), 
+but does not drive the case, ask what additional 
+information he or she thinks necessary to dig deeper. 
+•
+Help candidate realize a breakdown of infrastructure 
+costs would be helpful (provide % that each segment 
+makes up infrastructure costs on the right, and let 
+candidate solve for infrastructure costs, and realize that 
+repairs or systems should be the next step to 
+explore based on their higher segment %. (direct 
+candidate to systems though).
+• Analysis for the exhibit to have 2 parts –
+– Basic
+•
+Candidate should deduce that the greatest operating 
+expense comes from infrastructure costs
+•
+Candidate should notice that infrastructure costs are 
+accounting for majority of costs, solve for overall 
+infrastructure cost, then ask for breakdown of 
+infrastructure segment costs. 
+•
+Infrastructure cost = .27(3699)= 998 (round to 1000) = 
+$1B
+– Second order insights
+•
+Candidate should ask for cost breakdown for 
+infrastructure costs. Lead them there if they do not.
+–
+When asked: 
+–
+Information systems expense (30%) (= .3 * $1B = $300M)
+–
+Repairs and maintenance (30%)
+–
+Property taxes (10%)
+–
+Utilities and fuel (5%)
+–
+Retail occupancy costs (10%)
+–
+Insurance (15%)
+–
+Transportation (5%)
+Candidate should suggest exploring information 
+systems expenses or repairs categories as 
+means to cut costs. Direct candidate towards 
+information systems if not suggested. 
+167
+Exhibit #2 Guidance:
+Analysis:
+Drive towards information systems expenses
+
+
+===== PDF p172 =====
+Exhibit #3
+168
+Segment
+Entertainment 
+Co. Information 
+Systems
+Magic Systems 
+LLP*
+Software 
+engineering labor
+45%
+70M
+Design labor
+15%
+10M
+Materials
+10%
+5M
+Cloud storage
+15%
+5M
+Security
+5%
+5M
+Maintenance / 
+Repairs / Updates
+10%
+5M
+*Magic Systems shares outstanding 3M, share price $35
+**TSA would include 6 months of off-boarding Entertainment Co.’s Information Systems in Year 1
+IT Spend Comparison
+
+
+===== PDF p173 =====
+Interviewer guidance on Exhibits
+•
+Share with candidate that Entertainment Co is 
+considering acquiring small off-shore firm ‘Magic 
+Systems LLP, to substitute as information systems for 
+Ent. Co. This would replace current internal system.
+•
+Table compares keeping internal information systems or 
+acquiring third party firm (Magic Systems LLP) to 
+perform the same task.
+•
+Lead candidate towards calculating how much could be 
+saved (or lost) by acquiring Magic Systems. The 
+candidate should be able to ID if the number is less than 
+21.25M saved in two years, Ent. Co should not buy the 
+company.
+•
+A strong candidate will follow-through with the 
+calculations on the right, and realize that acquiring 
+Magic Systems LLP will be successful in reaching goal 
+(if revenues remain the same), of increasing profitability 
+by 125% (21.25M) 
+• Analysis for the exhibit to have 2 parts –
+– Basic
+•
+Information Systems at Entertainment Co. ($300M –
+from last exhibit)
+•
+Software engineering labor (45% x 300M = 135M)
+•
+Design labor (15% x 300M = 45M)
+•
+Materials (10% * 300M =30M)
+•
+Cloud Storage (15% x 300M = 45M)
+•
+Security (5% x 300M =15M)
+•
+Maintenance / Repair / Updates (10% x 300M =30M)
+Compares to Magic Systems to see where they could save. 
+– Second order insights
+A strong candidate will ignore calculating the above, and 
+observe how much Magic costs total, deduct that from 
+300M to see how much the savings is after two years.
+Total cost for Magic Systems is 100M annually.
+Valuation calculation = # of shares outstanding * share price
+Year 1 costs w/ acquisition: valuation (3M * $35 = 
+$105M) + costs of 6 month off-boarding Ent Co. per 
+TSA (.5 * 300M = 150M), + 6 months of Magic (.5*100 = 
+50M) = 305M 
+A good candidate will know that year 2 would save 
+(300M – 100M) = 200M
+So the overall savings would be 195M in 2 years, which 
+surpasses the 21.25M.
+169
+Exhibit #3 Guidance:
+Analysis:
+
+
+===== PDF p174 =====
+Entertainment Co.
+170
+• Recommendations should restate the prompt, that the goal is to increase profitability 
+by 125% in 2 years, so reducing costs by 21.25M or increasing by the same in 
+revenues, provided the other stays the same. Provided the nature of the Covid-19 
+pandemic, the best method for achieving this is by reducing costs, particularly in the 
+PEP segment, in the ‘information systems group.’ Specifically, outsourcing and 
+acquiring information systems group ‘Magic Systems LLP’, which would achieve a 
+net savings in 2 years of 195M. 
+Recommendation 
+•
+Potential risks are that this is a new relationship, and more costs may be assumed, including time to perform tasks 
+(especially if an international company), decrease in quality due to reduction in costs, possible delay in materials 
+supplies international location and parts delays in the pandemic, additional taxes like tariffs etc.
+•
+Revenues may still miss their quarter targets, therefore disrupting the number necessary to achieve a profitability 
+increase of 125% might be too high, and unachievable through this acquisition.
+•
+For next steps it would be recommended to perform a greater diligence on the company, do a greater valuation on 
+the information systems market, as well as the tourism / media markets as a whole, to see if there are less risky 
+ways to reduce costs in case revenues do not remain consistent in next two years.
+Risks and Next Steps:
+This is a very difficult case and meant to pressure test candidates to remain calm under stressful 
+situations  

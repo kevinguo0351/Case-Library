@@ -1,0 +1,164 @@
+===== PDF p148 =====
+Case 13
+Money Bank Call Center
+Primary sector(s)
+• X10 Legal & Professional Services
+• X06 Financial Services
+144
+Concepts tested
+• Z01 Accounting
+• Z05 Capacity
+• Z13 Organizational 
+changes
+Case authors: Guruprasad Sankaranarayanan (Kellogg 2012)
+Edited by Nikola Jakić (Kellogg 2016), Elizabeth Henry (Kellogg 2020)
+Case type
+• Y01 Cost reduction
+• Y05 Operations
+Similar cases
+• Call Center                  
+(Yale 2013)
+• EasyNAV
+(Wharton 
+2009)
+
+
+===== PDF p149 =====
+145
+Money Bank Call Center
+Interviewer guide
+Case prompt
+• Our client is a large financial services firm with multiple locations around the world. Part of their service offering includes a 24-hour 
+helpline. The client has their call centers in New York and Paris.
+• The client has recently acquired a small firm (Firm B) in order to expand its reach in a particular geography. Firm B provides a
+subset of the services and has its call center located in the Philippines.
+• The client has asked us to determine its strategy going forward for handling customer calls. In particular they want us to look into 
+the call center operations.
+Interviewer guide
+• This is an outsourcing case with the following elements: 
+• Use a framework that covers the most important areas of M&A and cost cutting 
+• Read the exhibits to assess the cost effectiveness and efficiency of the 3 locations 
+• Discuss qualitative information on the acquired company – products, culture, customers, etc. 
+• There is no right or wrong recommendation, as it will depend on the interviewees assessment of the qualitative concerns 
+• Key case steps: 
+1. Evaluate existing and potential cost structure
+2. Explore alternative ideas for implementation
+3. Provide client recommendation
+
+
+===== PDF p150 =====
+146
+Money Bank Call Center
+Case prompt
+• Our client is a large financial services firm with multiple locations around the world. Part of their service offering includes a 24-hour 
+helpline. The client has their call centers in New York and Paris.
+• The client has recently acquired a small firm (Firm B) in order to expand its reach in a particular geography. Firm B provides a
+subset of the services and has its call center located in the Philippines.
+• The client has asked us to determine its strategy going forward for handling customer calls. In particular they want us to look into 
+the call center operations.
+Clarifying information
+• Client Characteristics:
+• Provides full range of financial services for individuals and small organizations
+• Acquired firm was started 5 years ago and is still run by the original founders 
+• Call Center Characteristics:
+• New employees are college graduates with basic knowledge of financial services and products
+• Fluency and English and several European languages required 
+• Regulatory Environment: 
+• Very difficult to lay off employees in the Paris location & significant costs will be incurred 
+• Philippines government encourages investment in the country & significant tax advantage possible
+Fit: If you were a partner and could choose to work on any type of case, what would you do? What do you think you would learn?
+
+
+===== PDF p151 =====
+147
+Money Bank Call Center
+Exhibit A – Call Center Performance FY 2010
+Center
+Calls / Year
+Employee Cost / 
+Year ($)
+Overhead Cost / 
+Year ($)
+# Employees
+New York
+600,000
+50,000
+450,000
+75
+Paris
+400,000
+50,000
+600,000
+60
+Philippines
+300,000
+20,000
+300,000
+75
+
+
+===== PDF p152 =====
+148
+Money Bank Call Center
+Part 1
+1. Evaluate existing and potential cost structure
+• Here, the interviewee needs to:
+• Compare the efficacy of the three locations & possible explanations for variance; 
+• Identify the cost effective options & how it is impacted by integration cost
+• Additional information:
+• Total cost incurred by the 2 firms is $9.6M 
+• Philippines currently processes calls at half the efficiency of NY (per employee) 
+• Interviewee could ask about available slack at any of the call centers but should be advised that all call centers are currently
+operating at capacity 
+• If asked, state that currently, we have space, infrastructure necessary to expand. Assume overhead is variable in this case. The
+candidate should be able to calculate that to process total call volume Philippines will need an additional 250 employees to handle 
+the traffic (1.3M total calls/ 4000 calls/employee in Philippines). Operating cost after the change will be $7.8M; net savings of 
+$1.8M. 
+• The interviewee should realize that this does not account for all the costs, including hiring and training costs. When prompted inform 
+the interviewee about a 1 time cost of $5M (includes severance for NY and Paris, expanding the Philippines facility) implying that the 
+move is not profitable
+Provide Exhibit A when the interviewee asks about call center performance
+
+
+===== PDF p153 =====
+149
+Money Bank Call Center
+Part 2
+2. Explore alternative ideas for implementation
+• Client will not budge on two-year breakeven 
+• Prompt the interviewee to explore ways to make outsourcing to the Philippines feasible
+• Other options: decrease $5m investment cost; increase efficiency of Philippines employees (guide interviewee towards the latter)
+• The interviewee needs to identify the difference in calls / employee between the New York and Philippines locations 
+• Ask the interviewee to assume that the best practices can be transferred and implemented within 3-6 months 
+• Potential cost savings if Philippines achieves same effectiveness as New York 
+• # employees required = 1.3M calls / 8,000 calls / employee / year = 162.5 (allow rounding to 160) 
+• New employee cost = 160 * $20,000 = $3.2M 
+• Ask interviewee to assume overheads double with the need for better equipment. Before the efficiency improvement, OH = 
+$1.3M for 1.3M call. New OH = $2.6M 
+• New total cost = $3.2M + $2.6 = $5.8M ($3.8M savings from status quo and $2M better than pre-efficiency improved option) 
+• Other questions interviewee needs to consider 
+• Will the client be able to acquire sufficient talented personnel within the short time frame? 
+• How will customer satisfaction by impacted with the new labor base? 
+• Legal constraints / requirements in NY and Paris – how quickly can we lay off the staff? 
+• How will public opinion be impacted by the news of massive outsourcing?
+
+
+===== PDF p154 =====
+150
+Money Bank Call Center
+Part 3
+3. Provide client recommendation
+• This is an open ended case. The interviewee needs to justify the recommendation based on the qualitative considerations
+• A good recommendation would include 3 sections: 
+• Recommendation: If the recommendation is to outsource the interviewee needs to highlight the risks associated with 
+outsourcing and nature of the acquired firm. If the recommendation uses any other approach sufficient justification needs to 
+be given to overcome the cost savings 
+• Risks: 
+• Risks associated with increasing capacity by more than 200% in the Philippines – people, infrastructure, service quality, 
+gaps in knowledge transfer, organizational changes, etc. 
+• Reputational impact – do customers notice a difference in service, can the competitor leverage this to steal customers? 
+• Next steps: If outsourcing, some of the next steps would be to analyze the infrastructure requirements and capabilities, find
+the right talent, ensure smooth transfer and implementation of best practices, etc.
+• The interviewee should explore the option of improving effectiveness of the Philippines location without being prompted
+• Excellent interviewees need to address the qualitative information provided in the case: nature of merger, nature of markets being 
+served, etc. 

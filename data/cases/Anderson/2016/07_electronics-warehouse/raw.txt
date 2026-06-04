@@ -1,0 +1,108 @@
+===== PDF p34 =====
+Case 7: Electronics Warehouse
+UCLA Anderson Casebook 2016
+30
+Business Problem Statement
+Our client is an electronic warehouse selling all kinds of electronics and home appliances. It was founded in 1990 
+and currently owns 375 stores located in all major cities across the US. They have a healthy proﬁt margin and 
+represent a major player in the electronics retail market, but the CEO hired us to help them grow even quicker.
+The client recently began opening a number of smaller conceptual stores. These stores are less proﬁtable than
+the regular ones. They’ve asked us to them grow aggressively while maintaining the proﬁtability.
+What are the key areas to investigate in order to determine why the new stores are not proﬁtable?
+Sample Initial Response/Framework
+Revenues:
+•
+Type of products sold in these stores
+•
+Product mix
+•
+Number of customers entering these stores
+•
+Type of customers( income levels, family status, etc.) and how the assortment in the stores meets their needs
+Costs:
+•
+As related to the volume sold ( mainly ﬁxed costs)
+•
+Labor costs; maybe higher trained personnel
+•
+Distribution costs( from suppliers to the store)
+Competition:
+•
+What is the presence of competition in the area
+•
+What kind of stores the competition has in the area
+•
+Competition from other channels (e.g. online)
+Other:
+•
+Number of hours open
+•
+Type of stores
+•
+Location of the stores
+•
+What are the customer’s needs and how our client manages to met them
+
+
+===== PDF p35 =====
+Case 7: Electronics Warehouse
+UCLA Anderson Casebook 2016
+31
+Question: How many stores do they need to open to secure a 20% market share in 5 years? 
+Information to be provided upon request:
+•
+Current Electronic Retail Market = $150B 
+•
+Current Market Share = 10%
+•
+Electronic Retail Market in 5 years = $200B
+•
+For simplicity of the calculation, assume that the current stores are all of the same revenue size and the future 
+ones will have the same average revenues; (the candidate should realize that this calculation would be diﬀerent 
+if that was not being assumed)
+Solution:
+•
+Current state: 
+Market = $150B 
+Market share = 10%
+Revenue = 10% * $150B = $15B
+Revenue per store = $15B/ 375 = $40M
+•
+In 5 years:
+Market = $200B
+Market share = 20%
+Revenue = 20% * $200B = $40B
+Growth needed in revenues = $40B - $15B = $25B
+Number of stores needed = $25B / $40M = 625
+Follow-Up Question: Will this strategy of opening new stores to meet their goals be successful?
+Likely not. They have opened 375 stores from 1990 to date. Opening another 625 in the next 5 years is likely not 
+realistic.
+Follow-Up Question: How can the company achieve its objective?
+Possible options:
+•
+Open only the old type of stores
+•
+Choose locations with a  speciﬁc type of inhabitants ( income, family status, hobbies, etc.)
+•
+Introduce new products and use the customer database to sell them
+•
+Implement marketing campaigns and/or a loyalty program
+•
+Make contracts with schools, institutions, hotels, etc.
+•
+Become a distributor for small electronics stores
+•
+Raise prices on non price-sensitive products
+•
+Acquire/merge with a competitor
+•
+Get into other channels like online sales, door to door sales
+•
+Start selling services (repairs, installations, etc.)
+
+
+===== PDF p36 =====
+Case 7: Electronics Warehouse
+Sample Framework
+UCLA Anderson Casebook 2016
+32

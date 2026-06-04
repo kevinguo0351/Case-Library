@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2017_22_ocean-co",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 22,
+  "case_name": "Ocean Co.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Technology/Wearables",
+  "difficulty": "Medium",
+  "pdf_page_start": 251,
+  "pdf_page_end": 260,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    255,
+    256,
+    257,
+    258,
+    259
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p255.png",
+    "exhibits/exhibit_p256.png",
+    "exhibits/exhibit_p257.png",
+    "exhibits/exhibit_p258.png",
+    "exhibits/exhibit_p259.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\22_ocean-co"
+}

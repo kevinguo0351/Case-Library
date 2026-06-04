@@ -1,0 +1,36 @@
+{
+"school": "Darden",
+"file": "Darden_Case Book_2005.pdf",
+"rel_path": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2005.pdf",
+"page_count": 21,
+"bookmarks": [],
+"toc_pages": [
+11
+],
+"toc_text": {
+"11": "Actual Case #3 \nCompany:  BCG \n \nCase Description \nA profitability analysis case. \n \nQuestion \nHeinz recently came up with the idea to double the volume of ketchup in a single-serve \npacket.  How should the CEO approach this idea and what should he do? \n \nInitial data to be given  \nNone. \n \nAdditional data to be provided when asked \n$500 million industry.  Heinz has 60% of the market.  Sells the product directly to large \nchains (McD's etc) and to food distributors (Sysco).  The customers are entirely blind to \nthe process - all they care about is that their cost stays low.   \nEnd users: Only 5% of customers only use 1 packet; 95% use 3-4; usage max out at 16 \npackets per sitting.  \nCompetition: No one else is doing this, but would probably copy the idea if successful. \nSo this idea won't be a source of competitive advantage.   \nRevenue: Expect it to be mostly flat - 60% of $500M market.  Ketchup sold by the ton.  \nAny large increase in amount purchased would be mostly offset by volume discount \ngiven. \nCosts: 20% margins, so prod cost of $240M/year.  Fixed costs are 50% of that ($120M) \nand are expected to be static.  Variable costs: ketchup materials (50% of VC) savings of \nabout 0.3% ($180K).  Packet raw materials are other 50% of VC ($60M).  Assume the \npacket is a 2x2 cube so volume = 8, surface area = 24.   \n \nFrameworks that might be used \nProfitability \n \nSolution \nThe issue here is production cost, specifically the variable cost of the ketchup packet raw \nmaterials.  The candidate should be able to analyze the costs of producing the packets and \nclearly differentiate between those costs and the fact that the new packet will not give \nHeinz a competitive advantage.  The candidate should be able to approximately calculate \nthe surface area of the packet given the information above.  If the size of contents is \ndoubled, volume becomes 16.  Still assume a cube and so each side of the cube is the \ncube root of 16 ~ 2.5.  New surface area is now 2.5*2.5*6 = 37.5 (what the actual units \nare doesn't matter).  Two of the old ketchup packets would have had surface area of 48, \nso have a savings of ~ 25% on materials with the bigger packet.  25% of $60M original \ncost is a savings of $15M.  This is a good idea from Heinz's perspective, if it does not \ninvolve switching costs and they can get buy-in from their customers. \nDarden Casebook Supplement 2005 Version 1.0 \n6\n"
+},
+"page_index": [
+"p1\t[47.4] Darden Casebook 2005\tCareer Consulting Darden Casebook 2005 Casebook\t",
+"p2\t[24.6] TURNING POINT CAREER CONSULTING\t1 Copyright 2020 by Turning Point Career Consulting All righ\t",
+"p3\t[21.0] Turning Point provides systematic methodology and real \t2 Copyright 2020 by Turning Point Career Consulting All righ\timg3",
+"p4\t[19.0] Contact Us\t12 Copyright 2020 by Turning Point Career Consulting All rig\timg9",
+"p5\t[12.0] DARDEN CASEBOOK SUPPLEMENT 2005\tDARDEN CASEBOOK SUPPLEMENT 2005 This year the Consulting Clu\t",
+"p6\t[12.0] Actual Case #1\tActual Case #1 Company: AT Kearney Case Description A profit\t",
+"p7\t[12.0] Candidate’s Copy\tCandidate’s Copy Market Share Data for U.S. Cookie Industry \t",
+"p8\t[12.0] Actual Case #2\tActual Case #2 Company: BCG Case Description A profitability\t",
+"p9\t[12.0] Motorcycle Data\tMotorcycle Data 5 yrs ago Today Company Data Market Size (# \t",
+"p10\t[12.0] Candidate’s Copy\tCandidate’s Copy Scooter and Motorcycle Data – 5 Years Ago V\t",
+"p11\t[12.0] Actual Case #3\tActual Case #3 Company: BCG Case Description A profitability\t",
+"p12\t[12.0] Actual Case #4\tActual Case #4 Company: BCG Case Description Growth strategy\t",
+"p13\t[12.0] Solution\tSolution A cost-benefit analysis shows that our machines are\t",
+"p14\t[12.0] Actual Case #5\tActual Case #5 Company: BCG Case Description An investment a\t",
+"p15\t[12.0] Additional data to be provided when asked\tAdditional data to be provided when asked All the informatio\t",
+"p16\t[12.0] OPTION 2\tOPTION 2 Offer New-DSL only to our retail division 20% of ma\t",
+"p17\t[12.0] Actual Case #6\tActual Case #6 Company: McKinsey Case Description A quantita\t",
+"p18\t[12.0] The market share landscape is like:\tThe market share landscape is like: Company Market Share Nok\t",
+"p19\t[12.0] Solution\tSolution 1. Client needs to produce 1.3M units to breakeven \t",
+"p20\t[12.0] Actual Case #7\tActual Case #7 Company: McKinsey Case Description A revenue \t",
+"p21\t[12.0] Actual Case #8\tActual Case #8 Company: McKinsey Case Description Our client\t"
+]
+}

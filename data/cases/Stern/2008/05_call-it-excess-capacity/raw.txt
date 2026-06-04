@@ -1,0 +1,106 @@
+===== PDF p20 =====
+Torch the Case 2008 
+ 
+15 
+5. Call It Excess Capacity        
+ 
+    
+ 
+ 
+ 
+Type of Case: Pricing Strategy, Competitive Response, Supply Chain 
+Difficulty:  Moderate 
+ 
+Opening 
+ 
+We are consulting for VoiceDirect.  They have been packaging and reselling excess capacity 
+on their cellular network to highly fragmented prepaid phone card buyers.  Over the past year, 
+VoiceDirect has lost significant market share.  What is happening, and how can VoiceDirect 
+recover? 
+ 
+Background and Areas of Discussion 
+ 
+Who are the competitors?  Only three other players (Sprint, AT&T, T-Mobile) 
+ 
+What is the pricing? VoiceDirect charges five cents per minute, all three other competitors 
+charge three cents.   
+ 
+Ask candidate to calculate VoiceDirect's percentage price premium  
+ 
+The price premium is equal to 66% 
+ 
+The candidate should first draw a diagram to understand the market. The cellular market in the 
+US is divided into Contract (or pay after usage) and Prepaid minutes. We are not analyzing the 
+“contract” segment.  The competitors’ strategy is to sell their excess capacity to the prepaid 
+market. In light of current economy conditions and with the assumption that people who rely 
+on prepaid cards are mostly those who have difficulty getting Contracts due to a bad credit 
+history, this segment is growing. 
+ 
+The candidate then should ask what is the excess capacity for VoiceDirect (we can assume near 
+infinite capacity) as well as demonstrate understanding that the marginal cost for providing this 
+capacity is zero. 
+ 
+At this stage the candidate should try to evaluate the issues behind the loss of market share. 
+After computing the VoiceDirect’s price premium (66%) the candidate should establish three 
+hypotheses. (1) There is no differentiation that justifies the price premium, technological 
+(quality of the signal), geographical (geographic availability), customer service, etc… (2) 
+There is differentiation but it is not perceived by the market; (3) there is differentiation, the 
+market perceives it but because of its place on the low end of the segment, people are not 
+willing to pay for it. 
+ 
+For scenarios (1) and (3), a possible strategy would be to match the competitors’ prices, go 
+from five cents/minute to three cents/minute. At this point, the candidate should argue that if 
+VoiceDirect’s prices for postpaid cards are larger than 3 cents/minute, there is the possibility of 
+cannibalization of their customer base. 
+
+
+===== PDF p21 =====
+Torch the Case 2008 
+ 
+16 
+5. Call It Excess Capacity continued…        
+ 
+    
+ 
+For scenario (2) the candidate should suggest possible marketing initiatives (a test to the 
+candidate’s creativity). Possible examples are: joint campaigns with powerful brands offering 
+prepaid cards (remember the marginal cost is zero); offering cards with a phone, offering 
+supplemental postpaid cards; two-for-one campaigns; offering prepaid cards in exchange for 
+competitors’ cards (but need to check if it is possible in light of regulatory restrictions); etc…  
+ 
+At this point the interviewer should ask the candidate for other possible strategies (restart the 
+top-down process) 
+• Can we enter into a contract at a set price to provide minutes to major prepay 
+providers?  The answer is no, Virgin Mobile already has an agreement with one of our 
+competitors.  The rest of the market is very fragmented. 
+ 
+• Can we vertically integrate and repackage the minutes ourselves, creating our own 
+prepay brand?  Or is Virgin’s presence too strong to compete? 
+ 
+• Does the price premium reflect down to the consumer level, or do the repackagers (gas 
+stations, Wal-Marts, etc) eat the price delta? Would it make sense to renegotiate with 
+repackagers to lower their margins? 
+ 
+Analysis  
+ 
+Price premium percentage (as seen above).  The marginal cost of providing extra minutes (it’s 
+zero) 
+ 
+Key Takeaways  
+ 
+Even though five cents versus three cents seem small, the resulting 66% price premium 
+becomes a major issue as purchase volumes go up.  It costs VoiceDirect nothing to provide 
+more minutes, as capacity is unlimited. Providing that there will be no cannibalization of their 
+postpaid customer base, there is only upside in matching the competitors’ prices.   
+ 
+Recommended Conclusion 
+ 
+Immediately cut the price to at least the competitor level for repackaging purposes.  Assess 
+whether it will be effective for VoiceDirect to go into prepay repackaging market.  (This is 
+important since people with bad credit and people under age 18, for example, cannot enter into 
+contracts with VoiceDirect.) 
+ 
+At this point, if there is still time, ask the candidate to estimate the impact of his or her 
+recommendation, in percentage changes in demand. (tell candidate that elasticity for these type 
+of products is approximately -1.25. Candidate should explain what Elasticity is and why it is 
+negative. (ε=(ΔDemand/Demand)/ (ΔPrice/Price)) 

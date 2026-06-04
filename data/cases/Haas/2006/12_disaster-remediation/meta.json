@@ -1,0 +1,22 @@
+{
+  "case_id": "Haas_2006_12_disaster-remediation",
+  "school": "Haas",
+  "year": "2006",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Haas\\HAAS_Case Book_2006.pdf",
+  "idx": 12,
+  "case_name": "Disaster Remediation",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Environmental Services",
+  "difficulty": null,
+  "pdf_page_start": 43,
+  "pdf_page_end": 44,
+  "n_pages": 2,
+  "exhibit_pdf_pages": [
+    44
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p044.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Haas\\2006\\12_disaster-remediation"
+}

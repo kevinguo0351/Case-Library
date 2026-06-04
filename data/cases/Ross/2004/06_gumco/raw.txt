@@ -1,0 +1,146 @@
+===== PDF p17 =====
+Table of Contents 
+ 
+13
+Practice Case 6 GumCo  
+(Bain - Round 1) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Your client is GumCo.  They have 25% margins and have been 
+traditionally focused on gum and mints.  A new CEO has just been 
+appointed and he has promised the GumCo shareholders that he 
+would double revenues, while maintaining margins, over the next 
+four years.  Their current revenue is $2.7B.  The CEO comes to you 
+for help. 
+ 
+II. Additional information provided after relevant questions:   
+• 
+Gum is 75% Revenue, Mints are 25% of Revenue 
+• 
+Gum is growing at 4% annually 
+• 
+Mints are growing at 7% annually 
+• 
+We donít think we can steal any more market share from our US 
+competitors 
+• 
+We have a very strong brand, built over several years. 
+• 
+No possibility of growth through innovation. 
+• 
+Total Size of Asian Market = $2.5B 
+• 
+Total Size of Japan Market = $1.6B 
+• 
+There are two companies we could acquire: 
+o A: Juice Company with strong brand equity and distribution 
+system in Japan 
+o B: Chocolate Company with weak brand equity in the US. 
+ 
+ 
+Worldwide Market Share
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+US
+Europe
+Asia
+Japan
+Share of Local Market
+A
+C
+D
+E
+F
+G
+H
+GumCo
+ 
+
+
+===== PDF p18 =====
+Table of Contents 
+ 
+14
+ 
+US Gum Prices
+$1.20
+$1.22
+$1.24
+$1.26
+$1.28
+$1.30
+$1.32
+A
+B
+C
+D
+E
+GumCo
+Price Per Pack (US$)
+ 
+ 
+ 
+III. Sample solution 
+ 
+First, I structured the case: 
+• 
+Growth In Existing Market 
+• 
+Growth In A New Market (Geographically) 
+• 
+Growth In A Related Market ñ Leverage Skills 
+• 
+Growth In Unrelated Market 
+ 
+Second, as I gained new information, I calculated the exact savings from 
+each action.  The goal, encouraged by the interviewer, was to add up to 
+$2.7B. 
+ 
+Third, I estimated the amount of market share that could be gained in each 
+market based on our brand transferability, the size of the competitors and 
+the growth of the market. 
+ 
+Fourth, I recommended acquiring the Juice Company since it was overall a 
+stronger business and allowed us to enter the Japanese market.  The 
+chocolate company was tempting since it is also sold in the candy aisle, but 
+our brand would not leverage well into the candy segment.  Additionally, the 
+customer in candy was much younger than our average customer (mints and 
+gum are older).  Our customer is more similar to juice customer. 
+ 
+My result was: 
+Home Market Growth: 
+ 
+$0.6B 
+Price Increase 
+ 
+ 
+$0.5B 
+
+
+===== PDF p19 =====
+Table of Contents 
+ 
+15
+Increase in Asia Presence  
+$0.9B 
+Increase in Japan Presence 
+$0.3B 
+Growth through Acquisition 
+$0.4B 
+Total Improvement  
+ 
+$2.7B 
+ 
+Other points would be: implementation risks and challenges of entering new 
+markets. 
+ 

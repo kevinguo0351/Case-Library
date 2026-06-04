@@ -1,0 +1,386 @@
+===== PDF p70 =====
+Case 3: C.M. Burns Manufacturing Company 
+ 
+•
+Type : Consolidation / Synergies 
+•
+Difficulty: Medium 
+•
+Industry: Consumer Electronics / Manufacturing 
+•
+Firm Format: Bain & Co 
+ 
+
+
+===== PDF p71 =====
+67 
+C.M. Burns Manufacturing Company 
+Bain & Co.  
+Information Provided Upon Request 
+Scenario: C.M. Burns Manufacturing Co., a $20B 
+annual revenue consumer electronics company has 
+just purchased Smithers Electronics, a $4B annual 
+revenue consumer electronics company, and is busy 
+integrating the two firms. Both companies spend a 
+significant amount of money on branding and 
+marketing their different products. Both are present 
+in all of the major channels, and both produce DVDs 
+and Blu-Ray players, televisions, MP3 devices, and 
+headphones.   
+The CEO of Burns, Charles Montgomery Burns, has 
+come to your firm to request help on identifying 
+$350M in near-term synergies in order to justify the 
+stock-price premium that Burns Manufacturing paid 
+for the acquisition of Smithers.  
+Problem Statement 
+•
+Product mix is the same, meaning that each 
+company generates the same proportion of 
+revenues from DVD players, Blu-ray players, 
+TVs, MP3 devices, and headphones.  
+•
+Both manufacture proprietary goods and each 
+has its own operations.  
+•
+Both sell products via retailers, neither sell direct 
+(neither is considering direct sales).  
+•
+Products are not differentiated in terms of quality 
+or functionality, but branding sets them apart and 
+distinct customer segments prefer one brand to 
+the other (though this does not matter which 
+segments for this case).  
+•
+These are both US-based firms with operations 
+in the US and both exist in all major channels 
+across the US.  
+•
+Growth of each company is stable. 
+ 
+Difficulty: Medium 
+Industry: Consumer Electronics 
+Type: Consolidation / Synergies 
+
+
+===== PDF p72 =====
+68 
+Directions for this case moving forward 
+The interviewee should immediately recognize a couple of things:  
+• First, because their product mixes are the same and the brand is the differentiator, interviewee 
+should get straight to cost synergies, as revenue synergies are not likely to be relevant in this 
+case. Feel free to challenge the interviewee if they go after revenue synergies. If they provide 
+decent justification, then give them due credit, but then ask: what other synergies are available? 
+If they ID cost synergies, push them forward in the case, but if not, then continue to challenge 
+until they see cost synergies as the clear path.  
+• Great interviewees will immediately notice that Burns Manufacturing Co.’s revenues are 5X those 
+of Smithers’. This ratio plays an important role in the case. If the interviewee does not see this 
+right away, then give them time to ID this element further down the road. When they absolutely 
+have to know it, then lead them to this insight through targeted questioning. Bonus points for 
+anyone who sees it very early in the case, though.  
+A solid framework will: 
+• Focus mainly on cost synergies, breaking costs into its various components: FC and VC, down to 
+PPE, back office, packaging, components for electronics, labor, operations, marketing, etc.  
+• Have a step for quantifying the impact of each of the interviewee’s findings.  
+Guidance for interviewer 
+
+
+===== PDF p73 =====
+69 
+Exhibit Guidance for interviewer 
+Once the interviewee asks about costs generally, go ahead and give them Exhibit 1, detailing the 
+specific cost categories. If they do not ask for this, push them in the general direction. Give them this 
+cost info before giving them any other specific information.  
+Somewhere in here the interviewee needs to have recognized the 5X multiplier in the revenues of the 
+company, but don’t just give it away yet.  
+Once you give the interviewee Exhibit 1, they may reason through it. Pay attention to their logic and 
+take note. If interviewee wants to tackle marketing, note that it’s not a bad idea at first glance. But 
+then ask him/her what we know about these companies and marketing (these are companies who 
+distinguish themselves through their brands, not differentiated products—can’t easily cut marketing). 
+Plus, marketing won’t cut along the lines of the 5X multiplier the same way packaging and 
+components will—because these things are proportionally related to the sales volume, whereas 
+marketing is not.  
+Interviewee may also mention labor or distribution. If he/she wants to tackle this issue, say that labor 
+and distribution is optimized and there’s not a lot of room for improvements in that area.  
+Interviewee should focus in on components and packaging; may also mention overhead, but again, 
+overhead does not match up with the 5X multiplier as well as components and packaging.   
+ 
+Guidance to Exhibit 1 
+
+
+===== PDF p74 =====
+70 
+Exhibit 1: Cost Categories Across Each Company 
+Cost Category 
+CM Burns 
+Smithers 
+Marketing 
+$6,000M 
+$1,000M 
+Distribution 
+$5,000M 
+$1,000M 
+Packaging 
+$1,600M 
+$400M 
+Components 
+$2,600M 
+$800M 
+Labor 
+$1,000M 
+$200M 
+Overhead 
+$1,600M 
+$400M 
+
+
+===== PDF p75 =====
+71 
+Exhibit Guidance for Interviewer 
+As stated earlier, interviewee should prioritize packaging and components. Bonus points to the 
+interviewee who prioritizes components explicitly over packaging because of the cost savings he/she 
+can see from the aggregate numbers.  
+The theory behind these cost synergies is that if CM can buy for a lower price (which it looks like it can), 
+then now that Smithers is merged with CM, Smithers should be able to get the same price (increased 
+buyer power, decreased supplier power).  
+The cost savings look like this (if interviewee can’t eyeball exact numbers, go ahead and tell them): 
+Components 
+ 
+ 
+ 
+ 
+ 
+ 
+Total savings if CM renegotiates w/ Smithers’ component suppliers: $80 M + $40 M + $160 M = $280 M 
+ 
+   
+Cost Category 
+CM Burns 
+Smithers 
+(current) 
+Where cost 
+should be 
+Savings 
+Molded plastic 
+$600M 
+$200M 
+$120M 
+$80M 
+Chips, proc. 
+$800M 
+$200M 
+$160M 
+$40M 
+Metal casing 
+$1,200M 
+$400M 
+$240M 
+$160M 
+Exhibits 2 - 4 
+
+
+===== PDF p76 =====
+72 
+Exhibit Guidance for Interviewer Cont’d 
+A similar process can be done for the packaging costs, which will yield smaller results.  
+Interviewee should notice on this analysis that cardboard is different from recycled materials 
+and that without more information, there is nothing to be done about this category.  
+ 
+ 
+ 
+ 
+ 
+Total savings from re-negotiating packaging costs: $70M 
+If the interviewee wants to analyze overhead costs, let them do the math, but then challenge 
+the feasibility to use the 5X multiplier in this situation—we don’t have enough information to 
+know if the costs are proportional with the revenues (unlike components and packaging)—so 
+these are not realizable savings 
+ 
+ 
+Cost Category 
+CM Burns 
+Smithers 
+(current) 
+Where cost 
+should be 
+Savings 
+Styrofoam 
+$160M 
+$80M 
+$32M 
+$48M 
+Recycled materials and cardboard can‟t be compared 
+Plastic 
+$690M 
+$160M 
+$138M 
+$22M 
+Cost Category 
+CM Burns 
+Smithers 
+(current) 
+Where cost 
+should be 
+Savings 
+Salaried Staff 
+$2,000M 
+$120M 
+$40M 
+$80M 
+IT 
+$1,400M 
+$280M 
+$280M 
+$0M 
+Exhibits 2 - 4 
+
+
+===== PDF p77 =====
+73 
+Exhibit 2: Components Costs 
+Smithers Electronics 
+C.M. Burns Manufacturing Co. 
+1200 
+800 
+600 
+0
+500
+1000
+1500
+2000
+2500
+3000
+Molded plastic
+Chips, processors, etc.
+Metal casing
+400 
+200 
+200 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Molded plastic
+Chips, processors, etc.
+Metal casing
+
+
+===== PDF p78 =====
+74 
+Exhibit 3: Packaging Costs (in millions) 
+Smithers Electronics 
+C.M. Burns Manufacturing Co. 
+750 
+690 
+160 
+0
+400
+800
+1200
+1600
+2000
+Cardboard
+Plastic
+Styrofoam
+160 
+160 
+80 
+0
+100
+200
+300
+400
+500
+Styrofoam
+Plastic
+Recycled materials
+
+
+===== PDF p79 =====
+75 
+Exhibit 4: Overhead Costs (in millions) 
+Smithers Electronics 
+C.M. Burns Manufacturing Co. 
+1400 
+200 
+0
+400
+800
+1200
+1600
+2000
+IT
+Salaried staff
+280 
+120 
+0
+200
+400
+600
+IT
+Salaried staff
+
+
+===== PDF p80 =====
+76 
+Additional 
+Some interviewees will work through the case very quickly—if they do, ask them to think about long-term 
+synergies available to the company 
+Now that we’ve considered short-term synergies, what long-term synergies might we have? 
+Possible long-term synergies: 
+•
+Distribution: using economies of scale, we should be able to decrease distribution costs for the 
+combined company below a 5-to-1 ratio (as it currently is) 
+•
+Overhead: consolidating our various IT systems and corporate functions will be a long project, 
+but should also allow us to decrease costs as processes are streamlined 
+•
+Labor: another long-term project, labor costs should go down as manufacturing operations are 
+brought together—removing excess capacity will allow labor costs on a per-unit-basis to go 
+down over time 
+ 
+ 
+Brainstorming section (if you have time) 
+
+
+===== PDF p81 =====
+77 
+Conclusion 
+Next Steps 
+Re-negotiate supplier contracts so that raw 
+materials for Smithers Electronics will cost the 
+same as raw materials for CM Manufacturing 
+Co 
+Components: $280M in savings 
+Packaging: $70M in savings 
+ 
+This results in exactly $350M in savings 
+ 
+Long-term synergies to consider: 
+Distribution 
+Overhead 
+Labor 
+ 
+Risks: 
+Long-term supplier contracts 
+Recommendation assumes  same level 
+of quality between suppliers/goods 
+ 
+Recommendation 
+
+Examine contract requirements (long-term 
+or no?) 
+ 
+
+Identify relevant suppliers and reach out to 
+them with new deal information 
+ 
+
+Begin a long-term study of possible 
+synergies to be obtained from distribution, 
+overhead, and labor 

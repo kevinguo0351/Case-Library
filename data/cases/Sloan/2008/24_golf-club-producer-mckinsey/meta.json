@@ -1,0 +1,26 @@
+{
+  "case_id": "Sloan_2008_24_golf-club-producer-mckinsey",
+  "school": "Sloan",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2008.pdf",
+  "idx": 24,
+  "case_name": "Golf Club Producer (McKinsey)",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Consumer Goods/Sports",
+  "difficulty": null,
+  "pdf_page_start": 129,
+  "pdf_page_end": 132,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    129,
+    131,
+    132
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p129.png",
+    "exhibits/exhibit_p131.png",
+    "exhibits/exhibit_p132.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2008\\24_golf-club-producer-mckinsey"
+}

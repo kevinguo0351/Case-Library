@@ -1,0 +1,212 @@
+===== PDF p113 =====
+Case 14: SatCo
+Prompt #1
+Your client is a satellite television service provider.  Recently, the client has been experiencing 
+declining revenues and market share because of increased competition from cable based television 
+providers. Cable based providers offer a range of services including phone, internet and television 
+(commonly called a “triple play”). Our client currently only offers television services and has been 
+losing customers to competitors offering triple play services. 
+Our client is exploring the possibility of expanding services to include a bundled phone and internet 
+package.  You are here today to help the client determine if they should expand service offerings or 
+not. 
+Guidance
+Know the details of the case prior to giving.  This should be candidate driven, and they may not 
+follow the exact order of the case.  This is what strong candidates should do.  Weaker candidates 
+will need lots of direction and prompting to get through all sections.
+This is a classic profitability and market entry case. The candidate is welcome to brainstorm a list of 
+competitive responses, but guide them to a discussion of the revenues and costs associated with 
+entering the “triple play” market.
+Background data that the candidate may request
+•
+Satellite television broadcast and business will stay unchanged for the client
+•
+Phone service will be conducted via voice over IP (VOIP) requiring access to broadband 
+towers
+•
+Each individual customer will need one receiver box to power television (which current 
+customers already have) and a separate box to run the phone and internet
+•
+There are only three major players in the television market and we are #3 with 20% market 
+share and market cap of $3Bn
+•
+Provide Exhibit 1 if the candidate is unsure of the infrastructure required
+First Round
+109
+
+
+===== PDF p114 =====
+Case 14: SatCo
+Exhibit 1: Internet and Phone Infrastructure
+First Round
+110
+
+
+===== PDF p115 =====
+Case 14: SatCo
+Prompt #2
+Determine the potential market size for the additional phone and internet bundled service.
+Guidance
+Assumptions:
+• 100M Households in the US
+• 50% have cable
+• 40% of cable customers have triple play currently
+• Client expects to capture 10% of the existing triple play market
+• In addition, client expects to convert 40% of their existing customers to triple play
+Calculations:
+• Total Existing Triple Play Market
+• 100M Households x 50% Cable x 40% Triple Play = 20M Households
+• Client expects to capture 10% existing = 2.0M
+• Converting Existing Customers
+• 50M Cable Subscribers x 20% Market Share x 40% conversion = 4.0M Households
+• Total Market = 2M + 4M Households = 6.0M Households
+First Round
+111
+
+
+===== PDF p116 =====
+Case 14: SatCo
+Prompt #3
+Determine the annual revenues for the additional phone and internet bundled service.
+Guidance
+Assumptions:
+• Average price per month $20
+Calculations:
+• 6.0M Households x 12 Months x $20/Month = $1.440B per year
+First Round
+112
+
+
+===== PDF p117 =====
+Case 14: SatCo
+Prompt #4
+Determine the annual costs for the additional phone and internet bundled service.
+Guidance
+Background information
+• There are three key inputs required for phone and internet broadcast 
+1. Towers
+2. Spectrum
+3. In-home box (also called CPE or “Client Premise Equipment”)
+•
+Client estimates that 200 towers are required across the country to satisfy demand
+Assumptions:
+• Provide candidate Exhibit 2 (Spectrum Price Chart) to determine spectrum pricing. Candidate 
+should use average price of $500M as a basis, but strong candidates will point out the volatility in 
+the auctions and may also go into auction theory.
+• Towers can be bought outright or leased.
+• Purchase price is $15M/tower and requires $0.2M/year per tower  to maintain
+• Lease price is $2.2M/year per tower and includes all maintenance and installation fees
+• CPE cost is $20 per box
+Calculations:
+• Tower calculations
+• Purchase: $15M x 200 + $0.2M x 200 = $3.0B + $40M annual maintenance = $3.08B
+• Strong candidates should notice that this is a HUGE capital outlay
+• Lease: $2.2M x 200 = $440M
+• Spectrum Purchase = $500M
+• CPE = 6.0M Households x $20/house = $120M
+• Total
+• Purchase Towers = $3,000M + $40M + $500M + $120M = $3.7B
+• Lease Towers = $500M +$120M = $620M Capex + $440M Opex = $1.06B in year 1
+First Round
+113
+
+
+===== PDF p118 =====
+Case 14: SatCo
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Average Auction Price BB Spectrum (Millions)
+Auction Number
+Average: $500M
+Exhibit 2: Auction Price Spectrum
+First Round
+114
+
+
+===== PDF p119 =====
+Case 14: SatCo
+Prompt #5
+What factors should the client consider when determining whether to lease or buy?
+Guidance
+Guidance:
+• Excellent answers will include a pro/con list similar to the one below
+Lease:
+• Pros
+• Low capital outlay up front
+• Easy to exit if not profitable
+• No need to create tower maintenance and operations expertise
+• Cons
+• Subject to rising prices
+• Less control over service levels
+• Ultimately less profitable
+Buy: Many of the reverse statements above will be applicable
+First Round
+115
+
+
+===== PDF p120 =====
+Case 14: SatCo
+Prompt #6
+Determine the profitability of the two scenarios.
+Guidance
+Background information
+• Client discount rate is 15%
+• Growth rate is 5%
+• CAPEX is equal to depreciation every year.  No new working capital is introduced
+• Tax rate is 34%
+• Depreciation is $20M annually into perpetuity
+Calculations:
+• Purchase towers
+• Investment: $3,000 Tower Purchase + $500M Spectrum Purchase + $120M CPE = $3,620M
+• Annual Free Cash Flows = ($1,440M  - $40M Maintenance Costs - $20M Depreciation) x 
+66% = $910M
+• NPV = -$3,620M + $924M/(.15 - .05) = $5,488M
+• Lease Towers
+• Investment: $500M Spectrum Purchase + $120M CPE Purchase = $620M
+• Annual Free Cash Flows = ($1,440- $440M) x 66% = $660M
+• NPV = -$620M + $660M/(.15 - .05) = $5,980M
+First Round
+116
+
+
+===== PDF p121 =====
+Case 14: SatCo
+Prompt #7
+The COO has just stepped into the room and will be briefing the CEO on the decision in 15 minutes. 
+What is your recommendation?
+Performance 
+Evaluation
+Expected:
+• Concise recommendation with supporting information
+• Performs calculations with little help
+• Builds MECE profitability framework
+Good:
+• Mentions of the tradeoffs between leasing and buying
+• Performs calculations with no help
+• Needs little prompting to go to the next section
+Excellent:
+• Discusses pricing sensitivity
+• Performs calculations quickly with no help
+• Recommends that client buy towers
+• If candidate recommends leasing the towers, the discuss ways to mitigate risks
+• Clear points for not entering the market if recommending no-go
+• Drives case, and looks for the “so what” of each section
+First Round
+117

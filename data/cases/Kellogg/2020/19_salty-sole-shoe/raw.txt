@@ -1,0 +1,300 @@
+===== PDF p203 =====
+Case 19
+Salty Sole Shoe
+Primary sector(s)
+• X12 Retail and Consumer
+• X06 Financial Services
+199
+Concepts tested
+• Z12 Creativity
+• Z01 Accounting (2/3)
+• Z09 Microeconomics
+Case authors: Meredith Tierney (Kellogg 2011)
+Edited By: Uri Kalir (Kellogg 2012), Derek Wiatrowski (Kellogg 2020)
+Case type
+• Y07 Profitability
+Similar cases
+• US Shoe Manufacturing 
+(Wharton 2017)
+• Kicks 
+(Tuck 
+2009)
+
+
+===== PDF p204 =====
+200
+Salty Sole Shoe
+Case prompt
+• Your client is a large retail-focused private equity firm that owns Salty Sole, a leading designer of junior women’s footwear, primarily 
+targeting the 14 – 22 year old age group. 
+• Salty Sole was purchased last year by the private equity firm expecting to realize substantial profits upon sale in 2012 by increasing 
+the company’s EBITDA. The situation, however, is that due to a current recession, annual profit has only grown modestly post the
+acquisition and is not on track to generate the double-digit returns that the private equity firm originally anticipated.
+• How can the company increase profitability and achieve the private equity firm’s return on investment objectives?
+Interviewer guide
+• The case primarily tests an understanding of profitability and profitability growth strategies. Begin by reading the case question and 
+asking the interviewee to take a few moments and then explain how they would like to proceed in the client’s problem
+1. Develop a structure to address the problem
+2. Analyze client costs
+3. Analyze client revenues
+4. Analyze market size/share
+5. Provide client recommendation
+Interviewer Guide
+
+
+===== PDF p205 =====
+201
+Salty Sole Shoe
+Case prompt
+• Your client is a large retail-focused private equity firm that owns Salty Sole, a leading designer of junior women’s footwear, primarily 
+targeting the 14 – 22 year old age group. 
+• Salty Sole was purchased last year by the private equity firm expecting to realize substantial profits upon sale in 2012 by increasing 
+the company’s EBITDA. The situation, however, is that due to a current recession, annual profit has only grown modestly post the
+acquisition and is not on track to generate the double-digit returns that the private equity firm originally anticipated.
+• How can the company increase profitability and achieve the private equity firm’s return on investment objectives?
+Clarifying information
+• Industry Characteristics/Market Economics: Client is the market leader in junior women’s footwear in the U.S. only. Apparel industry 
+is characterized by cyclicality due to economy and consumer preferences.
+• Client Characteristics: Client designs and distributes footwear to discount retailers (like Kohl’s) and is considered mid-priced. Client 
+outsources all manufacturing on a fixed-contract basis (i.e. manufacturing costs with outsourced providers fall under Fixed Costs for 
+simplicity).
+• Competitive Dynamics: Client follows a “me-too” strategy and follows fashion rather than inventing it then offering lower prices than 
+name brands (i.e. not subject to fashion risk). Client competes on the basis of trendy fashion and value pricing.
+Fit: What is an example of when you showed initiative and leadership?
+
+
+===== PDF p206 =====
+202
+Salty Sole Shoe
+Exhibit A – Salty Sole Financial Estimates
+($ in millions)
+2006A
+2007A
+2008A
+2009E
+2010E
+2011E
+2012E
+Sales $
+50.0
+65.0
+60.0
+61.0
+62.0
+65.0
+70.0
+Less Discounts/Allowances $
+(0.5)
+(0.65)
+(0.60)
+(0.61)
+(0.62)
+(0.65)
+(0.7)
+Net Sales $
+49.5
+64.35
+59.4
+60.39
+61.38
+64.38
+69.3
+% Increase
+20.0
+30.0
+(7.7)
+1.7
+1.6
+4.8
+7.7
+COGS
+24.75
+32.18
+29.70
+30.20
+30.69
+32.18
+34.65
+Fixed Costs
+15.00
+15.00
+15.00
+15.00
+15.00
+15.00
+15.00
+Total Costs
+39.75
+47.18
+44.70
+45.20
+45.69
+47.18
+49.65
+EBITDA $
+9.75
+17.18
+14.70
+15.20
+15.69
+17.18
+19.65
+Sale Multiple
+6.5x
+6.5x
+6.5x
+6.5x
+6.5x
+6.5x
+6.5x
+Purchase/Sale Price $
+111.64
+95.55
+98.77
+101.99
+111.64
+127.73
+Return on Investment %
+2.7
+Notes:
+• Acquisition occurred on December 31, 2006
+
+
+===== PDF p207 =====
+203
+Salty Sole Shoe
+Exhibit B – US Casual Footwear Market Size and Share
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2006
+2007
+2008
+2009
+Competitor 5
+Competitor 4
+Competitor 3
+Competitor 2
+Competitor 1
+Salty Sole
+$125M
+$163M
+$150M
+$153M
+Percent Market Share
+
+
+===== PDF p208 =====
+204
+Salty Sole Shoe
+Part 1
+1. Develop a structure to address the problem
+• After asking the case question, the interviewee should draw a framework that outlines the basic concept that profit is driven by
+revenue (price and volume) and cost (fixed and variable)
+π
+R
+C
+Avg P
+• Discounts
+• Channel variations
+• Product mix
+• Customer segments
+Qty Sold
+Share of market
+• Specific category
+• Competitors
+Size of market
+F
+• Factories
+• Marketing
+• SG&A
+V
+• Canvas
+• Rubber
+• Labor
+
+
+===== PDF p209 =====
+205
+Salty Sole Shoe
+Part 2
+2. Analyze client costs
+• What observations can be made from this chart? Interviewee should point out that the company experienced significant growth 
+during the pre-recession years, but a decline and only gradual pick-up following.
+• Interviewee should pick-up on the fact that the change in net sales is not due to increased discounts/allowances (remains 1% 
+throughout years).
+• Have a quick discussion on the company’s cost structure
+• On the cost side, interviewee should note that variable costs remained flat at 50% and fixed costs remained flat
+• Fixed: Interviewee should note that fixed costs are not extremely high (about 23-25%), but could be an area for improvement. 
+Ask how interviewee would reduce fixed costs? Examples include: renegotiate contracts, find cheaper manufacturing 
+partners, etc.
+• State that in-fact fixed costs cannot be adjusted based on the company’s research.
+• Variable: Interviewee should note that variable costs are approximately 50% of sales. Ask how interviewee would think about 
+reducing variable costs? Examples include: reduce labor/sales force, use technology, renegotiate / volume purchase 
+materials
+• State that variable costs are currently at the lowest possible rates based on market research.
+Provide Exhibit A
+
+
+===== PDF p210 =====
+206
+Salty Sole Shoe
+Part 3
+3. Analyze client revenues
+• Once interviewee determines that cost is not the issue, have a discussion on the components of revenue – price and volume.
+• Price: Interviewee should ask if pricing has remained constant over time or if the company has adjusted its pricing to reflect lower 
+consumer discretionary income.
+• Ask what considerations the interviewee would have when considering adjusting price?
+• Answers should be price sensitivity / elasticity, cost structure, brand equity (dilute brand through price decrease but compete 
+with more upscale brands if increase).
+• State that pricing has remained constant at an average of $25/unit. The company has determined that it would not be 
+prudent to adjust pricing based on industry research. Interviewee can now determine the # of pairs sold for later in the case.
+• Now that the interviewee has hopefully zeroed-in on the fact that the issue is volume, ask how many units must be sold by 2012 in 
+order for the private equity firm to achieve a 20% return on the investment in Salty Sole Shoe, which equals approximately $300 
+million sale value (give this number). Note that interviewee should ignore discounts/allowances for simplicity.
+• Interviewee should determine that if the sale value needs to be $300mm in 2012, then EBITDA will need to be                  
+$300 / 6.5 = $46.15 (round up to $50 million). 
+• The formula to determine how many pairs of shoes must be sold to reach that EBITDA level is as follows:
+• $50,000,000 = $25*v – (.5 * 25 * v) – 15,000,000
+• $65,000,000 = 12.5v      
+• V = 5,200,000 pairs of shoes
+
+
+===== PDF p211 =====
+207
+Salty Sole Shoe
+Part 4
+4. Analyze market size/share
+• Interviewee should note that this is more than double the 2008 and 2009 volume levels. Ask what the interviewee would want to
+know to determine if this volume is feasible? Answer: market size / share.
+• Show the candidate Exhibit B when he/she notes that market size/share would be helpful.
+• Candidate should note that the client is already the market leader with 40% and that the market size is not projected to increase.
+• This should lead to the conclusion that the client can increase volume by stealing share and/or new products in other categories.
+Provide Exhibit B
+
+
+===== PDF p212 =====
+208
+Salty Sole Shoe
+Part 5
+5. Provide client recommendation
+• The interviewee should zero-in on the fact that since cost-structure is fixed and price is also fixed, volume is the only real way to 
+increase profitability.
+• However, volume must more than double in order to achieve the growth desired by the private equity firm for a 20% return, which 
+could be difficult given recession and the fact that the industry as a whole isn’t growing.
+• Interviewee should recommend potentials strategies for achieving that volume growth while outlining the risks of each: 1) Volume: 
+new products / geographies / distribution channels (international?); increase marketing to steal share; acquire growth (brands);
+adjust product mix to higher-margin products. 2) Price: add value / features. 3) Risks: Capacity, cannibalization if new products.
+• Excellent interviewees quickly identify that volume is the issue by ticking through the parts of the profitability equation.
+• They will also ask about product mix and question the 50% gross margin. The interviewer should note that it’s assumed that all 
+products have the same margin, but that’s a great question.
+• Outstanding interviewees will note that since the company is not projected to have to adjust discounts / allowances, then it 
+probably has a good product that is highly-valued by customers and/or this may be aggressive projecting.

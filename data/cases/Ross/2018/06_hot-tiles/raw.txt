@@ -1,0 +1,262 @@
+===== PDF p62 =====
+58
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Case Prompt
+Client Co. manufactures wooden boards (installed on walls of houses) and is thinking into the 
+Hot Tiles product category. Hot Tiles are tiles used to make BBQ decks in the backyards of 
+houses. They want us to help them understand if they should enter this market.
+Interviewer Guidance
+The case will be focused on 1) sizing the BBQ deck tile market 2) identifying operational levers 
+(demand side and supply side) that make this expansion viable
+Interviewer guidance may be necessary to help provide context and data for market size 
+estimation. However, a superior candidate will be able to combine the quantitative as well as the 
+qualitative market drivers to reach an answer.
+Concepts Tested
+Market sizing, identifying cost synergies, marketing levers
+
+
+===== PDF p63 =====
+59
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Clarifying Information
+•
+Client has been in the house-board business for 20 
+years in the US only
+•
+Expansion target: $1B in sales in Year 1; profitability 
+is not a focus
+•
+No direct competitor data in the Hot Tile segment; 
+we know there are substitute tile products in the 
+market called Super Hot Tiles
+•
+Client Co currently sells house-boards through big 
+box retailers such as Walmart, Home Depot, Costco 
+etc.
+Guide to case
+•
+Start with market sizing. Candidate should identify 
+that the market is big enough. The real question is if 
+Client Co can secure ~$1B in this market or 15% 
+market share.
+•
+What levers should be analyzed to understand if 15% 
+is feasible -> candidate should use the operational 
+value chain to identify opportunities that will support 
+the market entry decision
+•
+Candidate should identify that the product segment is 
+1) Discretionary expense 2) Very expensive (based on 
+calculations). Hence, significant risks and volatility 
+would stem from the product characteristics
+
+
+===== PDF p64 =====
+60
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Data to be given (if  asked)
+•
+50% of US households (HH) are living in a house 
+with a backyard (and not in high-rises, apartments, 
+condos etc)
+•
+Factors that candidate should cite -> Income, 
+Location, Weather
+•
+%HH with houses and existing BBQ decks – 30%
+•
+Replacement period of HH with existing BBQ decks 
+– 15 years
+•
+Expected conversion rate of new customers (HH 
+with houses and no existing BBQ deck) – 1%
+•
+Hot Tile vs Super Hot Tile data in Exhibit 1
+•
+Price per tile is $100 per sqft
+•
+Tile dimensions: 1ft x 0.5 ft
+Calculating assumptions
+Quantity
+•
+Population: 300M
+•
+#HH: 100M (#person/HH=3)
+•
+#HH living in houses = 50%*100M=50M
+•
+#HH (old customers) = 30%*50M=15M
+•
+#HH (new customers)=70%*50M=35M
+•
+#old customers= Total old customers/Replacement 
+rate=15M/15=1M
+•
+#new customers = Total new customers*Penetration 
+rate = 1%*35M=0.35M
+•
+Total customers =1.35M
+•
+Total customers adjusting for substitute tiles = 
+25%*1.35M= ~340K
+Price
+•
+Avg size of a deck = 10ft*10ft = 100 sqft
+•
+Size of a tile = 0.5 sqft
+•
+#tiles=200
+•
+Total price=200*100=$20000
+Total opportunity = $20K *340K = $6.8B
+Client Co target share = $1B/6.8B = ~15%
+
+
+===== PDF p65 =====
+61
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Push candidate to following questions
+Raw Materials
+•
+How different are the Hot Tile raw materials from 
+current raw materials?
+•
+Can our current suppliers be used?
+Manufacturing
+•
+How do we manufacture our current products?
+•
+Can we use our current capacity?
+Distribution
+•
+Do we have distribution capabilities?
+Marketing/Branding
+•
+Does our client have a good level of consumer 
+loyalty in its current segment
+•
+How is the brand perceived
+Information for candidate
+•
+Raw materials are the same as current (Wood). 
+However, an extra layer of engineering is required on 
+top of the raw materials to make it heat resistant. 
+This cost is relatively small.
+•
+Exhibit B
+-
+Use Plant 1 (Plant 2 focuses on house boards 
+and Plant 3 will likely cater to regions of lower 
+demand of BBQ decks)
+•
+Candidate should remember initial information about 
+Client Co having existing relationships with big brand 
+retailers
+•
+Strong brand image; known for reliability
+
+
+===== PDF p66 =====
+62
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Exhibit 1 – Historical sales of  Hot Tile vs Super Hot Tiles
+Year
+Hot Tiles
+Super Hot Tiles
+2013
+547
+1585
+2014
+406
+1177
+2015 
+940
+2914
+2016
+913
+2831
+2017
+556
+1556
+•
+Super Hot Tiles on average have 3X the sales of Hot Tiles. If prices are constant, then we can conclude that the Hot 
+Tile Sales penetration in the total addressable market is 25%
+•
+This ratio should be used to narrow down the actual addressable market opportunity
+•
+Additionally, candidates can investigate into why these Super Hot Tiles have higher sales
+-
+Answer: These tiles (because of their larger heat resistant properties) can be used for more applications
+
+
+===== PDF p67 =====
+63
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Exhibit 2 – Manufacturing utilization rates
+•
+Plant 1 had a large capacity expansion in 2016
+•
+Plant 2 is the central hub for house-board products and has been absorbing increasing regional sales
+•
+Plant 3 catering to regions with lower house sales
+•
+Same factories can be used for producing tiles and housing boards
+
+
+===== PDF p68 =====
+64
+Case 6: Hot Tiles
+Industrial Goods | Market Entry
+Recommendations
+Risks
+Next Steps
+Recommend Client Co to enter 
+Hot Tile business as there is a 
+total opportunity of $6.8B. Given 
+their capabilities in raw materials, 
+manufacturing, branding and 
+distribution -> 15% marker share 
+is achievable.
+•
+Post housing market crash, 
+people’s propensity to spend 
+on high-value household 
+assets is low (Price = $20K 
+which is very expensive)
+•
+Product is a discretionary 
+expenditure so volatility can 
+be expected
+•
+Substitute deck tiles prove to 
+me more cost effective
+•
+Lower house (with backyard) 
+sales in the future driven by 
+millennial preference patterns 
+(not owning cars or houses)
+•
+Understand key differentiation 
+between Hot Tiles and 
+substitute tiles (is it product 
+quality, brand?)
+•
+Close all agreements with raw 
+material partners to keep 
+upstream costs low
+•
+Develop branding and 
+marketing strategy for new 
+customers (potentially 
+bundling products at point-of-
+sale)
+•
+Develop service strategy for 
+old customers (to shorten 
+replacement rate)

@@ -1,0 +1,267 @@
+===== PDF p102 =====
+Dark Sky Co.
+Case tracker
+▪Industry: Industrial Goods – Aerospace and
+Defense
+▪Case Format: Growth Strategy
+▪Concepts Tested:
+- Marketing Strategy
+- Creativity
+Case Question
+▪Our client, Dark Sky, is a small manufacturer of unmanned (i.e. remotely piloted) data collection aircraft. Dark Sky
+produces the Assessor, an aircraft originally designed for unmanned weather exploration. In 2006, the United States
+military began purchasing Assessors for use in Intelligence, Surveillance and Reconnaissance (ISR) missions. The Assessor
+is profitable, but sales have stagnated and the client wishes to grow.
+▪What are some steps Dark Sky could take to achieve growth?
+Guide to interviewer
+▪This case intentionally uses terminology that may not be
+familiar to the typical MBA student. This is meant to
+challenge the interviewee to dismiss superfluous
+information and to focus on the business problem.
+▪After asking the initial question, engage in a qualitative
+discussion regarding organic and inorganic growth
+opportunities.
+▪Knowledge of the Aerospace and Defense industry is not
+necessary – creativity is encouraged.
+98
+By: Sean Burrow (Kellogg Class of ‘11), Edited By: Eugene Kim (Kellogg Class of ‘15)
+Quant: 5
+Structure: 5 
+Industry: Aerospace
+Framework: Growth Strat.
+
+
+===== PDF p103 =====
+Clarifying answers and case guide 
+Interviewer Guide to case and handouts
+This case is meant to stimulate the growth conversation and is designed
+to funnel the interviewee toward a new product launch.
+Exhibit 1 – Provide following growth discussion
+• The military started purchasing the Assessor in 2006. The price of the
+aircraft has remained constant at $100,000 per unit. Throughout the
+past decade, The Assessor has been Dark Sky’s only source of revenue. 
+Exhibit 2 – Provide following Exhibit 1 calculations
+• Dark Sky has developed several aircraft prototypes designed
+specifically for military missions. The company has the capability to
+continue producing the Assessor and to introduce one new aircraft.
+• SeaBird is specially designed for maritime (i.e. Naval) operations
+and can be sold to the Navy for $220,000 per aircraft.
+• SandBird is specially designed for desolate land-based operations
+and can be sold to the Army for $210,000 per aircraft.
+• JointBird is designed as a compromise for Army and Navy
+operations and can be sold to either service for $180,000 per
+aircraft.
+• The Military has agreed to a 10% Assessor price increase.
+Exhibit 3 – ONLY PROVIDE IF ASKED
+• The introduction of a new aircraft will have a negative impact on
+Assessor sales.
+- Continue to next page for further detail of the analysis to be
+performed
+Clarifying answers to provide if asked
+Customer / Price:
+- Dark Sky’s only customer is the U.S. Military.
+- Dark Sky has a Cost-Plus-Fixed-Fee contract with the U.S.
+Military for Assessor sales:
+- The contract has been extended in the past and is up
+for renegotiation; the Military has agreed to a
+marginal fee (i.e. price) increase to account for
+inflation
+- Contracts for new aircraft will be structured similarly
+Company:
+- The firm has additional capacity and is positioned to
+strengthen any division of the workforce, if required (e.g.
+sales force, manufacturing, R&D)
+Product:
+- Dark Sky designs a unique aircraft that is launched from a
+catapult device; the aircraft can be launched from ships at
+sea or from harsh terrain (e.g. desert, mountains).
+- Dark Sky only sells the Assessor, but has designed
+prototypes specifically for military operations.
+Competition:
+- There are approximately 20 competitors that
+manufacture unmanned aircraft.
+- Though too small to purchase a competitor, Dark Sky has
+been considered an acquisition target. Dark Sky’s lack of 
+growth in recent years concerns potential buyers.
+99
+
+
+===== PDF p104 =====
+Key elements to analyze
+Current Revenues & Growth Strategy
+▪Exhibit 1: a) How many units were sold in 2014? b) What was
+the growth rate from 2006 to 2010?
+▪What are some steps to achieve growth (original question)
+Opportunity Assessment
+▪Exhibit 2: To maximize short-term growth, which aircraft
+should Dark Sky produce?
+Notes to interviewer
+• Exhibit 1 should be treated as a math warm up. Price = 100K/Unit
+• Organic Growth – the interviewee should consider internal options to could
+stimulate growth. Some potential examples include:
+• Increase penetration – negotiate additional Assessor sales to the
+military.
+• Product development – develop new products that may appeal to the
+military (e.g. new aircraft, training services, aircraft accessories / add-
+ons).
+• New market entry – sell the Assessor in international markets or
+additional domestic markets (e.g. Border Patrol, police, news channels)
+• Diversification – develop a new product to serve a new market.
+• Increase / Reduce prices (based on elasticity of demand)
+• External growth – the interviewee should consider growth options using
+external resources. Some potential examples include:
+• Joint Venture – contract with a firm to increase market accessibility or
+to develop a new product beyond the capability of Dark Sky.
+• Merger / Acquisition – acquire a new firm to add additional capacity
+and/or product mix. Because Dark Sky is relatively small in the Defense
+industry, consider becoming an acquisition target.
+Notes to interviewer
+▪
+Exhibit 2: To maximize growth, Dark Sky should focus on maximizing
+revenue.
+▪
+To calculate the revenue for each scenario, the interviewee should
+add Assessor sales to the sales of the new product.
+▪
+Assessor sales are based on:
+▪
+50 units sold with no new product launch
+▪
+Cannibalization forecast specific to each new
+product launch
+▪
+$110,000 per aircraft
+▪
+New product sales can be easily calculated using shortcuts.
+For example:
+▪
+SeaBird: $220k * 100 = $22m… then half of this
+▪
+SandBird: $210k * 100 = $21m… then half of it and 
+add (10% of $21m)
+▪
+JointBird: Add to get 90… then $180k*100 = $18m, 
+subtract (10% of $18m)
+100
+
+
+===== PDF p105 =====
+• To maximize short-term growth, which aircraft should Dark
+Sky produce?
+• Answer: JointBird
+• Assessor Sales (Units, Revenue):
+• No new product = 50 aircraft, $5,500,000
+• With SeaBird = 50 + (50 * (-40%)) = 50 - 20 =
+30 aircraft, $3,300,000
+• With SandBird = 50 + (50 * (-70%)) = 50 - 35 =
+15 aircraft, $1,650,000
+• With JointBird = 50 + (50 * (-90%)) = 50 - 45 =
+5 aircraft, $550,000
+• New Product Revenue:
+• SeaBird = 50 * $220,000 = $11,000,000
+• SandBird = 60 * $210,000 = $12,600,000
+• JointBird = (38 + 52) * $180,000 = 90 *
+$180,000 = $16,200,000
+• Total Revenue:
+• Assessor Only = $5,500,000
+• Assessor and SeaBird = $3,300,000 +
+$11,000,000 = $14,300,000
+• Assessor and SandBird = $1,650,000 +
+$12,600,000 = $14,250,000
+• Assessor and JointBird = $550,000 +
+$16,200,000 = $16,750,000
+101
+Math Solutions
+Math Exhibit 1
+• How many units were sold in 2014?
+• Answer: 50 units or $5,000k ÷ $100k/unit = 50 units
+• What was the growth rate from 2006 to 2010?
+• Answer: 900% o ($5,000k - $500k) ÷ ($500k ) x 100 =
+900%
+Math Exhibit 2
+
+
+===== PDF p106 =====
+102
+Solution and recommendations
+Solution & Recommendations
+▪Based on 2015 forecasted revenue alone, Dark Sky should introduce the JointBird to the U.S. Military in order to
+boost short-term growth. However, there are several connected issues that Dark Sky should consider to include
+profitability, long-term revenue forecasts, competitive response, etc.
+Bonus/Guide to an Excellent Case
+▪An excellent interviewee will note:
+▪How quickly could Dark Sky start manufacturing a third model (i.e. can Dark Sky produce SandBird this year, and
+be producing SandBird and SeaBird the following year)? If so, what are the revenue implications?
+▪If Dark Sky produces JointBird, is $550,000 in Assessor revenue worth the associated cost to produce the
+aircraft? Should resources be allocated to another project?
+▪How profitable are the four aircraft models in comparison? Note: Because Dark Sky has a Cost-Plus-Fixed-Fee
+contract, profitability for each aircraft is likely equivalent. For this reason, Dark Sky should focus on maximizing
+the number of aircraft sold. • How much and how long is the payback period for the investment in 
+manufacturing each type aircraft?
+▪Potential benefits of have two customer bases for new product (Navy and Army).
+
+
+===== PDF p107 =====
+103
+Exhibit #1
+Revenue
+($, Million)
+0
+1
+2
+3
+4
+5
+2004
+2006
+2008
+2010
+2012
+2014
+
+
+===== PDF p108 =====
+104
+Exhibit #2
+New Product Sales (# of aircrafts)
+New Product Offering
+Navy
+Army
+Price Per Aircraft
+SeaBird
+50
+--
+$220,000
+SandBird
+--
+60
+$210,000
+JointBird
+38
+52
+$180,000
+New Product Sales Forecast, 2015
+
+
+===== PDF p109 =====
+105
+Exhibit #3
+Impact of New Product on Assessor Sales
+New Product Sales (# of aircrafts)
+New Product Offering
+Navy
+Army
+Assessor unit sales lost
+due to cannibalization
+SeaBird
+50
+--
+40%
+SandBird
+--
+60
+70%
+JointBird
+38
+52
+90%

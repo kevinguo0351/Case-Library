@@ -1,0 +1,248 @@
+===== PDF p251 =====
+Ocean Co.
+246
+Industry: Technology
+Quantitative Level: Medium
+Qualitative Level: Difficult
+
+
+===== PDF p252 =====
+Behavioral Questions
+247
+• Tell me about a time when you went ahead and did something that you were not 
+originally supposed to do. What was the biggest resistance you faced and how did 
+you counter it?
+Question 1:
+• What are 2-3 things you bring to a case team?
+Question 2:
+
+
+===== PDF p253 =====
+Ocean Co.
+248
+• Wearable Technology is a quickly growing segment, and your client Ocean Co. is planning to 
+enter the space by introducing a product called “Smart” jeans (denim jeans with embedded 
+electronics to track heart rate, activity, etc). In what was supposed to be a product launch meeting 
+with the SVP (Senior Vice President), you learn that the product has failed the pre-launch testing 
+with 3 out of the 21 samples under test failing the garment wash test. You have worked with the 
+client through the entire product development cycle, and the SVP looks at you seeking a way 
+forward. Should Ocean Co. launch “Smart” jeans?
+Prompt #1:
+•
+Ocean Co. is a giant in the tech industry with annual revenue of $25 billion
+•
+They are one of the largest players in Consumer Hardware
+•
+Competitors: No direct competition, as this is a first-of-its kind product. There are other players in the wearable tech space, but their 
+product portfolio is very different from Ocean Co.
+•
+Product Price point: US$ 200 (can use this when asked about target customers)
+•
+Target market launch: 6 cities in the US (NYC, Atlanta, SF, Boston, Dallas, Denver)
+•
+Wash Test is a normal product testing process for any conventional garment manufacturer to test its new product offerings before 
+launching them in the market. The test includes 100 cycles (for denim trousers/jeans) comprising of 50 minutes of washing, followed by 
+70 minutes of machine drying (at ‘high’ temperature setting). So, totally, 5000 minutes of washing and 7000 minutes of machine drying 
+are included in the test. Wash test is supposed to replicate actual consumer behavior. Wash Test Failure means the product is not 
+functional after the Wash Test.
+•
+“Smart” jeans: can do everything that a smart watch (like, Apple watch) can do.
+•
+Candidate should layout initial structure considering profitability of the product, consumer appetites to buy such a product– with special 
+consideration given to the design of the jeans, as well as a deep-dive into the risks/launch failure downsides, as well as potential exit plan 
+should they decide to totally scrap the project.
+Interviewer Guidance:
+
+
+===== PDF p254 =====
+Ocean Co.
+249
+• To what extent do you think the failure during product testing should be a limiting 
+factor to whether or not the company should move ahead with the launch?
+• How representative do you think the observed failure rate is of real-world use cases?
+Prompt #2:
+• Candidate should determine whether the failure was due to insufficient manufacturing tolerances 
+or over-intensity of the testing parameters.
+• Push the candidate on why they believe the tests are representative or not. Could potentially ask 
+the candidate to run through their normal experience with laundry. 
+–
+Could approach this much like a market sizing where they go bottom-up on how long they keep a pair of 
+jeans, how frequently they wash them, etc. 
+• Candidate could mention that garments come with care instructions – could 
+Interviewer Guidance:
+
+
+===== PDF p255 =====
+Exhibit #1
+250
+Drying, here, refers to machine drying only
+
+
+===== PDF p256 =====
+Interviewer guidance on Exhibits
+• Shows the probability for product failure 
+given the washing and drying times.
+• Probability of failure with 5000 minutes = 
+0
+• Probability of failure with 7000 minutes = 
+0.15 (~ 3/21)
+• Similar trend for washing and drying time
+• Product Testing involved 5000 mins of 
+washing and 7000 mins of drying
+• For 5000 mins of washing, probability of 
+failure = 0
+• For 7000 mins of drying, probability of 
+failure = 0.15. This is very close to 3/21 
+(observed failure rate seen in the lab)-> 
+second level insight!
+• Hence, it makes sense that the failures 
+could have occurred due to excessive 
+drying in the testing process, and not as a 
+result of faulty prototypes. 
+251
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p257 =====
+Ocean Co.
+252
+• The Product Design team has determined that the drying process (in testing) as the 
+root cause of product failure. To validate if the 7000 minutes of drying that the testing 
+process entailed was applicable in the practical context, the consumer behavior team 
+conducted this analysis. For a pair of denim jeans, what is the average drying time 
+per customer per year? Through the product shelf life (7 years, since the date of first 
+wear), for how many minutes would it be ‘dried’ in NYC?
+Exhibit #2:
+•
+Keep an eye on how well is the candidate able to trace back calculations
+•
+Calculations (Average drying time):
+–
+NYC: ((180 / 6) / 2) * 80 = 1200
+–
+ATL: ((140 / 5) / 2) * 60 = 840
+–
+SF: ((300 / 10) / 3) * 60 = 600
+–
+ATL: ((200 / 5) / 4) * 60 = 600
+–
+SF: ((120 / 4) / 2) * 70 = 1050
+–
+ATL: ((240 / 6) / 4) * 60 = 600
+–
+Average: 840 minutes
+•
+Calculation (NYC 7 year drying duration): 1200 * 7 = 8400 minutes
+•
+Once the candidate gets back with the 7-year figure for NYC, then ask them to share the final recommendation
+Interviewer Guidance:
+
+
+===== PDF p258 =====
+Exhibit #2
+253
+City
+No. of days (per 
+year) target 
+consumers wear 
+denim (A)
+No. of denim, on 
+average, owned by 
+a target consumer* 
+(B)
+Number of times a 
+denim is worn 
+between 
+consecutive washes 
+(C)**
+Average drying time 
+per drying cycle 
+(minutes)
+(D)**
+NYC
+180
+6
+2
+80
+Atlanta
+140
+5
+2
+60
+San Francisco
+300
+10
+3
+60
+Boston
+200
+5
+4
+60
+Dallas
+120
+4
+2
+70
+Denver
+240
+6
+4
+60
+*it can be assumed that the target consumer would equally prefer wearing any particular denim in their wardrobe. 
+**the consumer is not expected differentiate between normal denim and ‘Smart’ denim in terms of information provided in columns C and D. 
+
+
+===== PDF p259 =====
+Ocean Co.
+254
+• Ideal recommendation would be to go ahead and launch the product, while taking 
+care of the following:
+– There is adequate warning provided in the wash/care instructions, directing consumers to 
+limit the drying cycles
+– Doing a double-check on the consumer data provided
+– Testing (and recommending, if found better) some other methods of drying the product. E.g., 
+air drying, partial machine+air drying
+Recommendation 
+• There is potential for the candidate to get lost while working on the exhibit. Hence, 
+the interviewer must check if the final recommendation stiches back with the main 
+question – to launch or not to launch
+• Possible Risks: Data inaccurate, issue prevalent in only a certain batch of produce 
+(can be easily rectified by exercising supply chain based controls), some other 
+product performance risks
+• Way forward: Test the data, exercise stronger supply chain control on incoming 
+materials and manufacturing process, must gain deeper understanding of the 
+financials of a launch – how much have we sunk into R&D, what do variable costs of 
+production look like?
+Interviewer Guidance:
+
+
+===== PDF p260 =====
+Evaluation Criteria
+255
+Candidate Level
+Assessment
+Average Candidate
+-
+Needs some guidance on the calculations
+-
+Is not able to understand the main deliverable at the 
+first go
+Good Candidate
+-
+Needs minimal guidance on the calculations
+-
+Is able to understand the main deliverable upon 
+some prompting
+Excellent Candidate
+-
+Needs no guidance on the calculations, and is able 
+to draw out a logical flow of the calculating process
+-
+Tries and understands/maps out the overall value 
+chain
+-
+Is able to provide second level insights (tying back 
+new findings to older ones or to information 
+previously provided)

@@ -1,0 +1,344 @@
+===== PDF p49 =====
+45
+Seven Flags
+Hospitality
+
+
+===== PDF p50 =====
+46
+Hospitality
+0 2  |  C A S E :  S E V E N  F L A G S
+SEVEN FLAGS
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  Te l l  m e  a b o u t  
+y o u r s e l f .
+2 .  Te l l  m e  a b o u t  
+a  t i m e  y o u  
+h e l p e d  a  t e a m  
+o v e r c o m e  a  
+p r o b l e m .
+UVA Darden School of Business 2019-20 Casebook
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. Financial goal: Management wants a payback period less than 10 years. (If the candidate asks, payback period 
+= investment / on-going profit.)
+2. Current price: Tickets are currently $20 and provide visitors full access to the park
+3. Park attendance: The Richmond, VA park is an average sized park within the client’s portfolio
+4. Business model: The park is a typical amusement park (think Six Flags or Busch Gardens). Visitors buy a ticket 
+for entrance (assume same price for adults and children), and all rides / amusements are accessible under the one 
+ticket price. The park also sells merchandise and food / drinks separately.
+Prompt: Our client is a mid-size amusement park chain, with 10 parks around 
+the U.S. serving over 10 million visitors each year. In their Richmond, VA 
+park, it operates both a traditional thrill-ride section, as well as an animal 
+experience. (Show park map.) Currently, the two sections are covered under 
+one entry ticket price. However, management is considering offering a 
+separate ticket for only the animal experience section. They have come to us 
+to determine if this is a good idea.
+
+
+===== PDF p51 =====
+47
+EXHIBIT 1
+0 2  |  C A S E :  S E V E N  F L A G S
+Seven Flags park map
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p52 =====
+48
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 2  |  C A S E :  S E V E N  F L A G S
+How to Move Forward:
+Key insights include pricing decision, cannibalization impact, and recovery of new fixed costs. If candidate does not identify these in his/her 
+framework, push candidate to brainstorm incremental changes in revenue and costs.
+When asked about pricing, ask candidate how he/she would determine price. After the candidate has brainstormed some ideas, 
+present Exhibit 2.
+Incremental profit
+•
+Revenue: ticket prices, food & drink 
+sales, merchandise, visitor volume, 
+cannibalization of “ride + animal” ticket 
+sales 
+•
+Existing costs: maintenance, animal 
+care, labor/operations, COGS 
+(merchandise, food)
+•
+New costs: Build out of new entrance, 
+wall between sections of the park, and 
+new parking
+Competitive landscape
+• Other attractions in the area
+• Zoos, petting zoos
+• Museums
+• Movie theaters
+• State fairs
+• All forms of family friendly recreational 
+activities
+Macro trends
+• Changes in disposable income
+• Weather conditions
+• Consumer entertainment preferences
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p53 =====
+49
+EXHIBIT 1
+0 2  |  C A S E :  S E V E N  F L A G S
+Price elasticity of animal only admissions
+UVA Darden School of Business 2019-20 Casebook
+1,300 
+1,100 
+700 
+500 
+ -
+ 200
+ 400
+ 600
+ 800
+ 1,000
+ 1,200
+ 1,400
+ $10.00
+ $12.00
+ $14.00
+ $16.00
+# of park visitors (daily)
+Ticket price
+1. Cannibalization rate is 50%
+2. Establishment is open 350 days per year
+
+
+===== PDF p54 =====
+50
+Question 1 From Exhibit 2, candidate should want to discover which price would maximize revenue. See below for solution.
+•
+Revenue is maximized at a price point of $16 per ticket for the animal only admission. This equates to ~$1MM in incremental ticket sales or 
+a 5% increase
+•
+From the prompt and clarifying questions, we know that Seven Flags sees about a million visitors a year at $20 per visitor in ticket sales. 
+Thus, current ticket revenue equals $20MM.
+•
+Great candidates will mention that incremental revenue is sensitive to the cannibalization rate assumption
+0 2  |  C A S E :  S E V E N  F L A G S
+Exhibit or Question Guidance:
+UVA Darden School of Business 2019-20 Casebook
+Ticket price
+Number of 
+Visitors
+Cannibalization 
+rate
+New tickets
+New ticket 
+revenue
+Cannibalized 
+tickets
+Cannibalized 
+revenue per 
+ticket (current 
+ticket $20)
+Daily canibalized 
+revenue
+Daily 
+incremental 
+revenue
+Yearly 
+incremental 
+revenue
+A
+B
+C
+D = B * (1-C)
+E = A * D
+F = B * C
+G = A - $20
+H = G * F
+I = H + E
+J = I * 350
+$10
+1,300
+50%
+650
+$6,500
+650
+($10)
+($6,500)
+$-
+$-
+$12
+1,100
+50%
+550
+$6,600
+550
+($8)
+($4,400)
+$2,200
+$770,000
+$14
+700
+50%
+350
+$4,900
+350
+($6)
+($2,100)
+$2,800
+$980,000
+$16
+500
+50%
+250
+$4,000
+250
+($4)
+($1,000)
+$3,000
+$1,050,000
+
+
+===== PDF p55 =====
+51
+Other revenue sources:
+•
+Food / beverages
+•
+Merchandise
+•
+Parking
+•
+Annual passes (individual / family)
+0 2  |  C A S E :  S E V E N  F L A G S
+Best candidates display:
+Great candidates will have asked about specific KPI’s at the beginning of the case (i.e. projects must have a 10-yr. payback period or better). 
+Candidates should remember on his/her own to evaluate the payback period of this project and ask for the relevant information.
+This brainstorming activity is an opportunity for great candidates to leverage their framework. Great candidates will return to their framework to 
+recall the primary objective and other ideas already generated.
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Incremental costs:
+•
+Build out of new entrance, building a wall to separate rides 
+from animal enclosure, and additional parking
+•
+Additional employees to serve higher visitor volume
+•
+Payback period less than 10 yrs?
+BRAINSTORMING
+Aside from ticket sales, what are some other considerations that will factor into the decision?
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p56 =====
+52
+Question 2 What is the payback period of this proposal?
+•
+Great candidates should recognize that they need to do this calculation. If not, help the candidate recall that one metric 
+Seven Flags uses to evaluate projects is a 10-yr. payback period.
+•
+Provide only when asked: Fixed costs for constructing new entrance, wall, and parking lot is estimated to be $2 million.
+•
+Only consider incremental revenue from ticket sales
+•
+Seven Flags profit margin in 20%
+0 2  |  C A S E :  S E V E N  F L A G S
+Exhibit or Question Guidance:
+•
+Candidate only needs to calculate the payback period at the $16 price point
+•
+Payback period = investment / incremental profit
+•
+Incremental profit = incremental revenue x profit margin. Incremental profit = $1,050,000 x 20% = $210,000
+•
+Payback period = $2,000,000 / $210,000 = ~9.5 years 
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p57 =====
+53
+CONCLUSION
+0 2  |  C A S E :  S E V E N  F L A G S
+To conclude, the interviewee should provide the following:
+Recommendation: There is no correct answer, but a likely response could be:
+•
+Move forward with creating an animal only admission ticket
+•
+Incremental revenue / profit is maximized at a price point of $16.00 per ticket, leading to a 5% increase in ticket revenues 
+and profits
+•
+Given the $2M investment, payback period is ~9.5 years – just below management’s requirement of 10 years
+Risks: 
+•
+Incremental revenue / profit very sensitive to cannibalization. If actual cannibalization is higher, incremental profits will
+suffer and payback period will exceed 10 years
+•
+Potential opportunity cost to invest in higher ROI projects
+Next Steps:
+•
+Payback period will decrease (improve) if animal park can sell additional merchandise, food, and beverages to new 
+visitors. Size this opportunity and understand impact
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p58 =====
+54
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

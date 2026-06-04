@@ -1,0 +1,377 @@
+===== PDF p112 =====
+Fintech Startup
+Difficulty: Hard
+Industry: Financial Services, Tech
+Case Type: Opportunity Assessment 
+Concepts Tested
+Case #11 : Fintech Startup
+• Graphical Analysis
+• Mental Math
+• Creativity 
+Your client is an up-and-coming fintech startup that has reached a critical juncture in developing its main product, a 
+machine-learning based platform that will be used by banks to improve their decision-making about whether to accept or 
+reject loan applications. The CEO is wondering if a certain capability should be added to the platform or not. How would 
+you help her think about this issue?
+Problem Statement Narrative
+This case is candidate-led. The best candidates will understand the right questions to ask after being read the prompt, 
+presenting their framework, and throughout the rest of the case as is necessary, and be able to drive the case with minimal 
+guidance
+Please see next slide for answers to critical questions candidates should be asking (best if they ask upfront, but also 
+potentially fine if they ask later on in the case)
+Case Notes
+108
+
+
+===== PDF p113 =====
+Question #1 / Framework
+Should a certain capability should be added to the platform or not?
+Fintech Startup
+1.
+Banks (customer)
+a.
+Do they want / need bias detection feature?
+b.
+Segmentation? Best potential revenue source?
+c.
+WTP / price sensitivity
+2.
+Fintech startup (client)
+a.
+Financials
+i.
+Costs
+1)
+Number of software engineers
+2)
+Salary per software engineer
+3)
+Time for project
+ii.
+Cash on hand
+1)
+Necessary funds?
+2)
+Burn rate?
+iii.
+Sources of funding
+1)
+VC, bank loan, personal funding
+b.
+Non-financial capabilities
+i.
+Necessary coding expertise
+ii.
+Timeline, business needs
+3.
+Bias detection capability (product)
+a.
+Compatible with ML product
+b.
+Ease of integration with product
+4.
+Risks
+a.
+Run out of funding
+b.
+Development puts behind schedule
+i.
+Anger VCs, other investors
+c.
+Regulatory
+Sample Framework
+Strong candidates will describe their plan for answering 
+the client’s question and justify each step
+Potential process for solving this case: first determine if 
+the client’s potential customers want the bias detection 
+feature included, then figure out how much the project 
+will cost, whether the startup has enough funding and if 
+not brainstorm ways to raise $
+Guidance for Interviewer
+•
+CRITICAL: What new feature is the CEO 
+thinking of adding? Bias detection capability 
+•
+What is the goal of the client here? Maximize 
+potential revenue/sales opportunities within reason
+•
+What is the business plan of the startup? How do 
+they plan to make money? Sell the platform to 
+banks for $
+•
+If the candidate asks any other questions, say we’ll get 
+to it later if it happens to become relevant. (including 
+financial situation of startup—which is actually a 
+great question to ask here)
+Clarification Answers if  Asked 
+109
+
+
+===== PDF p114 =====
+Do our potential customers want the bias detection capability included in the end product? 
+Note: Excellent candidates will come up with this question on their own; insights from Exhibits #1 and #2 provide a 
+sufficient answer to this question
+Fintech Startup
+Question #2
+Question
+Solution
+•
+Candidates should exhibit a desire to understand who the potential customers for the startup are, and try to figure out 
+how critical the bias detection feature would be for them
+•
+If the candidate asks for a customer preferences survey, and/or asks for information about what potential customers 
+want, then provide the candidate with Exhibit #1
+•
+From Exhibit #1, the candidate should realize the only relevant information for solving the case lies in the 
+ratings for bias detection capability, the feature in question. For banks with total assets <$100m and $100m-
+1b, it’s probably not necessary to add the feature; for those at $1b-250b and >$250b, it definitely is. KEY 
+QUESTION: which segment is most important for future sales of startup’s product? Is there data on it?
+•
+If the candidate asks about who the potential customers are (and it would be great if they went beyond saying banks, 
+but brought up customer segmentation—i.e. are our potential clients small, mid-sized or large banks), and data related 
+to that, provide the candidate with Exhibit #2. SEE Exhibit #2 – Analysis for calculations
+•
+From Exhibit #2, the candidate should conclude that 1b-250b size banks are the biggest source of potential 
+revenue by a factor of ~2, comprising ~60% of future sales, and their preferences are extremely important
+•
+From both Exhibits #1 and #2, the candidate should conclude that unless the cost is staggeringly high, we should 
+proceed with developing the bias detection capability since it is very important to 1b-250b size banks and they make 
+up such a substantial portion of future sales
+110
+
+
+===== PDF p115 =====
+How are we going to make this project happen? How much will the project cost and what resources will be required? Do 
+we have the financial and non-financial capabilities to complete it and if not what should we do? 
+Insights from Exhibits #3(a) and #3(b) provide a sufficient answer to this question
+Fintech Startup
+Question #3
+Question
+Solution
+•
+Once the candidate asks most of the above questions, provide them with Exhibits #3(a) and #3(b) (they are meant to 
+be analyzed simultaneously)
+•
+See Exhibit #3(a,b) – Analysis for full set of calculations
+•
+Key conclusions:
+•
+Currently have $240k available funds to spend on project
+•
+The project is projected to cost $330k, leaving the startup short by $90k in cash to fund project
+•
+The project is critical to future success of the startup, so the team needs to get creative and secure the $90k 
+in funding 
+•
+Transition to Question #3
+111
+
+
+===== PDF p116 =====
+Brainstorm some ways the startup can get the necessary funding to add bias detection capability to the platform
+Note: The best candidates will not need to be prompted to do this. Indeed, it shows strong business acumen to be able to 
+realize this feature is NEEDED, you’re advising a startup that’s secured funding before and needs more capital now… 
+Fintech Startup
+Question #4
+Question
+Solution
+•
+Internal
+•
+CEO, other founders/employees personally fund venture, reimburse selves once make back money
+•
+Offer engineers % of future profits (or equity) instead of paying in cash upfront 
+•
+Reallocate some of current budget towards this project
+•
+Cut costs elsewhere to free up funding 
+•
+External
+•
+VC fundraising—re-connect with prior sources of funding and explain situation to them
+•
+Strategic partnership
+•
+Crowdfunding 
+•
+Bank loans
+Note: the strongest answers will be structured, and demonstrate 1-2 “out of the box” type ideas, and/or personal 
+experience. 
+112
+
+
+===== PDF p117 =====
+Fintech Startup
+Conclusion
+•
+The client SHOULD develop the bias detection 
+capability
+•
+Because this feature is critical to future sales and the 
+startup is short $90k to be able to fund its 
+development, the startup needs to find a way to get 
+the $90k in cash to make the project happen
+Recommendation
+•
+1b-250b size banks are the biggest source of potential 
+revenue by a factor of ~2, comprising ~60% of 
+future sales
+•
+Per exhibit 1, bias detection capability is a must have 
+for customer segment of 1b-250b
+Rationale
+•
+Costs, and time to complete the project could exceed 
+projections, potentially angering investors and 
+delaying product launch time
+•
+Sales leads are just that—leads, and the WTP is also 
+subject to change depending on competitors entering 
+the market; these numbers could be substantially 
+different in reality, and it could be the 1b-250b 
+segment ends up being a more minor part of the 
+startup’s business—making the feature less relevant 
+Risks
+•
+Assemble team of engineers to complete project in 
+given time frame
+•
+Find either an internal source of cash (e.g. reallocate 
+funds, cut costs, etc.), and or an external source of 
+cash (e.g. VC, bank loans, etc.) to be able to fund 
+entire project
+Next Steps
+113
+
+
+===== PDF p118 =====
+Fintech Startup
+Exhibit #1
+Note: Rated on a scale of 1 (not at all necessary) to 5 (essential)
+114
+
+
+===== PDF p119 =====
+Fintech Startup
+Exhibit #2
+Bank Size by Total 
+Assets ($)
+Number of  Sales 
+Leads
+Projected 
+WTP/sale ($)
+<100M
+51
+50,000
+100M-1B
+5
+75,000
+1B-250B
+34
+150,000
+>250B
+1
+300,000
+115
+
+
+===== PDF p120 =====
+Fintech Startup
+Exhibit #3(a)*
+Note: To be handed out with Exhibit #3(b)
+116
+
+
+===== PDF p121 =====
+Fintech Startup
+Exhibit #3(b)
+117
+
+
+===== PDF p122 =====
+Fintech Startup
+Exhibit #2 Solution
+Relevant calculations—it is fine if candidate asks to round, and gets approximate values (especially for the 
+percentages). 
+bank size
+(# leads)*($/lead) = projected revenue
+% of total proj. rev.
+<100m
+51*50k =
+2550000 2.55m/8.325m = 
+31%
+100m-1b
+5*75k =
+375000 375k/8.325m = 
+5%
+1b-250b
+34*150k =
+5100000 5.1m/8.325m = 
+61%
+>250b
+1*300k =
+300000 300k/8.325m = 
+4%
+8325000
+100%
+Takeaways:
+•
+Assuming these leads are reflective of future sales, and there are no trends we are unaware of, then…
+•
+1b-250b size banks are the biggest source of potential revenue by a factor of ~2, comprising ~60% of 
+future sales
+•
+<100m size banks are the second biggest source of potential revenue, comprising ~30% of future sales
+•
+100m-1b and >250b size banks comprise only ~10% future sales
+•
+For the purposes of this case, 1b-250b size bank’s preferences for the startup’s product are critical for 
+future sales potential, and should be taken very seriously
+•
+<100m size banks preferences are quite important and should be paid attention to
+•
+100m-1b and >250b preferences are less important
+•
+From a product development standpoint, 1b-250b preferences should be given top priority, followed by 
+those of <100m banks
+118
+
+
+===== PDF p123 =====
+Fintech Startup
+Exhibit #3(a,b) Solution
+•
+Financial status calculation—exact values please
+if 92% of total funding has been allocated, assuming all unallocated funds can be put towards the project, then 
+we only have 8% of total funding. Total funding = $3m, so we have (8%)*($3m) = $240k remaining
+•
+How much will the project cost—exact values please
+here’s where the quantitative analysis gets interesting!
+first we need to determine the pay rate for each software engineer: the key is to analyze how the spending 
+changes from month 2 and on. 
+we need to determine the SLOPE of each
+slope from month 0-2: spend rate = 
+∆$
+∆𝑡=
+1.3m −1.2m
+2 −0 months =
+ൗ
+$50k
+month
+slope from month 2-12: spend rate = 
+∆$
+∆𝑡=
+1.2m −0.5m
+12 −2 months =
+ൗ
+$70k
+month
+from Exhibit 3(a), we know the only CHANGE happening is that 2 engineers were added to the team, and the 
+cost per month increased by $20k, that’s $10k/month/engineer
+now for the cost: using the fact that the project will take 3 engineers 11 months to do project
+total cost of project: 1 engineer working for 11 months costs 11*($10k) = $110k, thus
+TC = 3*($110k) = $330k
+•
+Therefore, we are 330𝑘−240𝑘= $𝟗𝟎𝒌short of being able to fully fund project
+•
+We need to find a way to get $90k more in cash so we can include this critical feature in product
+119

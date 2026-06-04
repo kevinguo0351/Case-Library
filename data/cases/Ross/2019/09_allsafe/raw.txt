@@ -1,0 +1,174 @@
+===== PDF p106 =====
+Case 9: Allsafe
+Insurance| M&A
+102
+
+
+===== PDF p107 =====
+Case 9: Allsafe
+Insurance| M&A
+Case Prompt
+Our client, Allsafe, a large insurance company, provides home, auto, renter’s and life insurance.
+Recently, Allsafe acquired a technology firm specializing in data analytics software. As part of
+the acquisition, Allsafe also acquired a smaller subsidiary, MarketMaven, a marketing analytics
+software-as-a-service firm. Our firm has been engaged a few years post-acquisition and Allsafe
+would like to know how to proceed with MarketMaven – AllSafe already has an acquisition offer
+of
+$1.1B for MarketMaven and the choice is between taking the deal (i.e. divesting
+MarketMaven) or integrating it with AllSafe.
+Information provided upon request:
+•
+Allsafe is a large insurance conglomerate that employs an outside marketing agency for all 
+marketing services
+•
+MarketMaven is small firm, but has experienced growth over the last 5 years.
+Concepts Tested
+Valuation, Financial Analysis
+103
+
+
+===== PDF p108 =====
+Case 9: Allsafe
+Insurance| M&A
+Interviewer Guidance
+In this case, the candidate will explore whether Allsafe should integrate or divest MarketMaven.  Due to the 
+fact that there are no synergies between Allsafe and MarketMaven, the candidate should decide that Allsafe 
+should sell the firm. This case requires the candidate to then ask for the information necessary to value 
+MarketMaven. 
+Only when the candidate asks for MarketMaven’s financials should the following information be provided. 
+The candidate will need to build out an income statement based off the following financials in order to 
+determine the cash flows to value MarketMaven.
+•
+2018 Revenues: $200M
+•
+Cost of Revenue: 25% of Revenue
+•
+SG&A: 40% of Gross Profit
+•
+Depreciation + Amortization: $5M
+The candidate needs to value the firm. Have them build out an income statement to EBIT as adding in Tax 
+and Interest make the numbers a little messy. This may not be fundamentally correct in terms of finding the 
+FCF for the NPV, so if you want to finesse the numbers further feel free to do so. 
+104
+
+
+===== PDF p109 =====
+Calculated Income Statement
+Case 9: Allsafe
+Insurance| M&A
+Revenue
+$200M
+Cost of Revenue
+200*25% = $45M
+Gross Profit
+$155M
+Operating Expenses
+155*40%=$60M
+EBITDA
+$95M
+D+A
+$5M
+EBIT
+$90M
+105
+Possible Framework
+Problem: Integrate or Divest MarketMaven
+•
+Integrate
+-
+Firm Synergies: MarketMaven + AllSafe
+-
+AllSafe capabilities -- have they been able to 
+successfully integrate a firm in the past
+-
+Marketing Analytics Market
+-
+# of key players
+-
+# of customers
+-
+MarketMaven's position in current market
+•
+Divest
+-
+MarketMaven's current financials
+-
+Potential buyers
+-
+Comparable firm transactions in the past
+-
+Risks
+-
+Integration Risks
+-
+Divestiture Risks
+
+
+===== PDF p110 =====
+Case 9: Allsafe
+Insurance| M&A
+Interviewer Guidance
+After the candidate finds the EBIT of the MarketMaven, use that amount as the free cash flow 
+to value the firm and brainstorm potential firm strategies. The candidate should be directed to 
+value the firm in perpetuity with the following parameters.
+•
+Growth Rate: 5% (growth will slow due to increased market competition)
+•
+Discount Rate: 15%
+NPV = FCF/r-g=90/(15%-5%)=$900M
+The ideal insight into the NPV calculation should be that since the buy offer for MarketMaven 
+($1.1B) has a $200M premium over the NPV, it should be sold off.
+Brainstorming: What could AllSafe use MarketMavens platform for? Examples could be:
+•
+Track advertising and media insights in-house
+•
+Bring all advertising efforts in-house
+•
+Use it for Market Intelligence and PR purposes to track what is being said about AllSafe in 
+the media
+106
+
+
+===== PDF p111 =====
+Case 9: Allsafe
+Insurance| M&A
+107
+Recommendations
+Risks
+Next Steps
+Recommendation:
+Allsafe should divest 
+MarketMaven for a $200M 
+premium.
+•
+$900M NPV, $1.1B deal size
+•
+Use the cash from the sale to
+reinvest in programming or
+platforms within their firm
+•
+Cost of
+integration and to
+keep on MarketMaven
+not
+worth it to AllSafe
+Risks include:
+1.
+Potential undervaluation of 
+MarketMaven’s intellectual 
+property
+2.
+Negative impact on Allsafe 
+company morale if 
+divestiture news leaks
+AllSafe should:
+1.
+Assemble internal team to 
+begin the divestiture process 
+2.
+Engage a bank to begin the 
+process of divesting 
+MarketMaven
+3.
+Build MarketMavens sell 
+story

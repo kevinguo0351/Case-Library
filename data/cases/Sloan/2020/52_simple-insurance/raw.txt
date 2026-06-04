@@ -1,0 +1,91 @@
+===== PDF p205 =====
+Casebook | 2019-20 Edition 
+201 
+ 
+52. Simple Insurance (McKinsey R1, Financial Services, Profitability, 
+Quantitative) 
+Stem: Our client is a market share leading insurance company called Simple Insurance. They have three 
+business units, auto (50%), fire (30%), and engineering (20%). Currently the ROE is 10%, but the CEO 
+would like to find out if they can make it 15%. 
+ 
+The candidate should ask for a moment to structure his/her thoughts. He/she should write ROE = 
+Profit/Equity with the structure containing market, revenue, cost, options, and risks. 
+ 
+Interviewer: First, how do insurance companies make money? 
+ 
+Candidate: Well, they sell policies to different customers across a range of products (like car insurance, 
+renter’s insurance, etc.). These policies are priced best on risk associated with the policy holder’s profile. 
+Risk is spread out across all policy holders and the insurance company makes a margin off the top. 
+ 
+Interviewer: I like your idea on revenue and cost from your structure, what do you think are the main 
+revenue streams and cost components? 
+ 
+Candidate: Revenue should be from premium and investment return (insurance companies invest 
+payments made by policyholders). Cost should be mainly claims, SG&A, PP&E, and Labor (e.g. claims 
+agents, actuaries, etc.). 
+ 
+Interviewer: Great, let me give you this data. 
+ 
+Business Unit 
+Claim Ratio (claim/total premium) 
+Expense Ratio (non-claim expenses/total 
+premium) 
+Auto 
+40% 
+60% 
+Fire 
+50% 
+30% 
+Engineering 
+60% 
+20% 
+*Key: 
+● 
+Claim-the expense from a policy holder on a yearly basis (e.g., the amount charged for repairs on 
+a damaged car) 
+● 
+Premium-the amount a customer pays on a yearly basis 
+ 
+The candidate should notice that our biggest business, auto, is not making any profit (the Claim Ratio 
+plus the Expense Ratio equals 100%), and the expense ratio is disproportionately high compared to other 
+business units. 
+ 
+Interviewer: Why do you think we are still offering the auto insurance when we are not making money? 
+ 
+Candidate: We are not making money directly but we might be making money off the investment return. 
+Specifically, because auto insurance is so common, it helps drive branding and perception, so the 
+company is willing to not make any profits because is it driving brand value. 
+ 
+Interviewer: That’s the correct answer. Let’s move along to only focus on the auto business. Currently  
+we have 10M policyholders. We have a 6% claim rate and each claim costs us $6,000. If we could reduce 
+each claim to $4,000, what would that do to our ROE, assuming we have $30B in equity. 
+ 
+Candidate: The claim payout at 10M*6%*$6000 = $3.6B. This number is going to come down by 1/3, 
+therefore the additional profit would be $1.2B. Currently we have ROE of 10%, which means our profit is 
+
+
+===== PDF p206 =====
+Casebook | 2019-20 Edition 
+202 
+ 
+$3B. The new profit of $4.2B would give us (4.2/30) = 14% ROE -- still short of our 15% goal. Let’s 
+explore back to the high expense ratio of auto business. 
+ 
+Interviewer: Great idea, one of the main reasons the expense ratio is so high is that we are using 15 
+companies for our dispatching service. They are being paid a flat rate to be on the ground and assess the 
+damage. The car is then sent to the garage where we pay at most $6,000 for each claim (depending on 
+what the dispatcher’s estimate is). Is there any way we can reduce this cost? 
+ 
+The candidate should come up with the list that includes, but is not limited to the following: 
+ 
+1. Renegotiate the flat fee 
+2. Align incentive between the estimate and the fee paid 
+3. Reduce the number from 15 companies 
+4. Build our own, in-house dispatching service 
+Interviewer: So – given these options you have laid out, what would be your criteria to decide which 
+option to investigate first? 
+ 
+The Candidate should provide sound logic behind their reasoning. Feel free to probe and pick at their 
+response. 
+ 
+Interviewer: Okay now you have only 30 seconds to explain all of this to the CEO, what do you tell her? 

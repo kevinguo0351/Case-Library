@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2012_09_american-airlines",
+  "school": "Fuqua",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2012.pdf",
+  "idx": 9,
+  "case_name": "American Airlines",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Airlines",
+  "difficulty": null,
+  "pdf_page_start": 74,
+  "pdf_page_end": 80,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    74,
+    75
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p074.png",
+    "exhibits/exhibit_p075.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2012\\09_american-airlines"
+}

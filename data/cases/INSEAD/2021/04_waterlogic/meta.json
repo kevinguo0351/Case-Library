@@ -1,0 +1,30 @@
+{
+  "case_id": "INSEAD_2021_04_waterlogic",
+  "school": "INSEAD",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\INSEAD\\INSEAD_Case Book_2021.pdf",
+  "idx": 4,
+  "case_name": "Waterlogic",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Electronics",
+  "difficulty": null,
+  "pdf_page_start": 38,
+  "pdf_page_end": 50,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    41,
+    42,
+    43,
+    46,
+    47
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p041.png",
+    "exhibits/exhibit_p042.png",
+    "exhibits/exhibit_p043.png",
+    "exhibits/exhibit_p046.png",
+    "exhibits/exhibit_p047.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\INSEAD\\2021\\04_waterlogic"
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "Tuck_2008_18_is-this-seat-taken",
+  "school": "Tuck",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2008.pdf",
+  "idx": 18,
+  "case_name": "Is This Seat Taken?",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Transportation",
+  "difficulty": null,
+  "pdf_page_start": 100,
+  "pdf_page_end": 102,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    100,
+    101
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2008\\18_is-this-seat-taken"
+}

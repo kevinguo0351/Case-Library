@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2013_07_who-will-buy-our-wine",
+  "school": "Fuqua",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2013.pdf",
+  "idx": 7,
+  "case_name": "Who Will Buy Our Wine?",
+  "case_type": "Market Entry",
+  "round": "1",
+  "industry": "Beverages/Wine",
+  "difficulty": null,
+  "pdf_page_start": 58,
+  "pdf_page_end": 66,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    58,
+    59,
+    60,
+    61,
+    64,
+    65
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p058.png",
+    "exhibits/exhibit_p059.png",
+    "exhibits/exhibit_p060.png",
+    "exhibits/exhibit_p061.png",
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2013\\07_who-will-buy-our-wine"
+}

@@ -1,0 +1,151 @@
+===== PDF p41 =====
+Practice Cases – Case 3: Granite Investments  
+McKinsey & Co. 
+ 
+ 
+37
+(Source: Interview case from McKinsey Round I, 2006) 
+ 
+Context 
+Our client is Granite Investments (financial services company) in the US. It used 
+leading-edge technology in it business. A few years back, since the client did not 
+want to invest more capital into the IT systems and decided to outsource it 
+(hardware and support) to a US-based company called Apolgee. The CEO of the 
+client feels that they are being overcharged for the outsourcing services and hence 
+are wondering what they should do. McKinsey has been hired to help them. 
+ 
+Interviewer: Why do you think the outsourcing costs are high? 
+ 
+A good answer will identify the following reasons: 
+ 
+• 
+Our client pays high price because there are few good outsourcing companies available 
+so the good ones including Apolgee demand high price.  
+• 
+Our client pays high price because they have specialized or complex systems and 
+cutting edge technology that require specialized services and support. Apolgee is a 
+premium service provider with specialized knowledge and skilled labor. 
+• 
+Our client requires high service level and therefore has to pay a premium for it. 
+• 
+Apolgee charges our client high fee because Apolgee has high cost structure. For 
+example, Apolgee might not have economies of scale and therefore pay high price for 
+their components. 
+• 
+If the service is charged per transaction, our client could have too many transactions 
+due to system complexity or process inefficiency. 
+ 
+Interviewer: Following data provided upfront and candidate was asked to calculate 
+the margin of Apolgee. Apolgee pays for all hardware and support required. 
+• 
+Number of employees = 2000 (every employee owns a PC) 
+• 
+Cost/PC = $1200 
+• 
+Cost of each support person who is needed to service computer/year = $60,000 
+• 
+General maintenance cost/PC = $200 
+ 
+Other data provided only when asked: 
+• 
+Price that client pays/yr = $2.4M 
+• 
+Replacement policy of computers = replaced every 4 years 
+• 
+2 support people needed for every 200 computers 
+ 
+Interviewee should do the following calculation: 
+ 
+Total costs 
+1. Cost of PCs = Price/PC * No. of computers needed every year 
+= $1200 * 2000/4 = 0.6M 
+2. Support cost of people = Support staff’s salary/year * No. of support staff needed  
+= 60,000 * 2000/200 = 0.6M 
+3. General maintenance cost = Cost/PC * No. of PCs  
+= 200 * 2000 = 0.4M 
+ 
+Total costs/year for Apolgee = 0.6 + 0.6 + 0.4 = $1.6M 
+ 
+Margin = Profit/Revenue = 2.4M-1.6M/2.4M = 33.33% 
+ 
+Interviewer: What do you think about the margin?  
+ 
+Interviewee: The margin seems very high for the IT industry. 
+ 
+Interviewer: Yes – in fact it is very high for this industry. How can the client do to 
+decrease the price? 
+ 
+
+
+===== PDF p42 =====
+Practice Cases – Case 3: Granite Investments  
+McKinsey & Co. 
+ 
+ 
+38
+A good answer will identify the following options: 
+ 
+- 
+Increase the number of year you use a PC (to 5 years) 
+- 
+Use less PCs (<2000) 
+- 
+Buy cheaper computers (or have a lease with computer manufacturers) 
+- 
+Have a lower service level requirement (so you do not need 10 support people) 
+- 
+Ask Apogee to hire cheaper technicians for them 
+- 
+Do competitive benchmarking to see if you can use another vendor (need to ensure 
+that you can break the existing contract) – even outside the US 
+ 
+Interviewer: Great. OK, one of the systems that they have outsourced is the website. 
+Now, Apolgee has proposed that the client increase its service level from 99% to 
+99.9% for $5M/year. Should they do it?  
+ 
+Interviewee: It will depend on whether doing so is profitable to our client. Our client can 
+estimate the incremental revenue due to increased service level and compare that to the 
+incremental cost ($5M). 
+ 
+Data only provided when asked 
+• 
+Number of total transactions on the website/year = 200M 
+• 
+80% - general inquiries (although these might impact brand etc., and lead to 
+more revenues – but we will ignore that for now) 
+• 
+20% - revenue generating 
+• 
+Average revenue/transaction = $30 
+ 
+Interviewee should calculate the following: 
+ 
+Total revenue from the website (if 100% service level i.e. no transactions are lost)  
+= 0.2 * 200M * $30 = $1200M 
+ 
+If they gain 0.9% of the transactions that they now lose = 0.009 * $1200M= $10.8M 
+ 
+By increasing service level by 0.9%, the client gains $10.8M. If they have to pay Apolgee $5M, 
+they would still make a profit of $5.8M (assuming no other costs). Hence, they should increase 
+the service level as suggested by Apolgee. 
+ 
+Interviewer (Role-Play): Imagine I am the CEO of Granite Investments. I am very 
+frustrated with the Apolgee – that their prices are so high, and now they are asking 
+me to pay another $5M. As a McKinsey associate on this project, I look to you for 
+help. What would you tell me? 
+ 
+Interviewee: Mr. CEO, we analyzed Apolgee’s proposal to increase the service level to 99.9%. 
+Our analysis shows that by getting the extra 0.9% revenue generating transactions you would 
+gain $5.8M in profit. Therefore, we recommend that you take the deal. In addition, because 
+Apolgee’s profit margins seem very high at 34%, in the next a few days we would like to do 
+some competitive benchmark analysis to see if other vendors offer better prices with the same 
+level of services to see if we are overpaying Apolgee. If yes, we can renegotiate contract 
+terms with Apolgee or switch to other vendors. Of course, we need to review the contract to 
+see if there are any restrictions we should be aware of. If we want to switch, we need to 
+assess the impact of switching cost.   
+ 
+Interviewer: In fact, Apolgee has agreed that we can break the contract anytime we 
+find better prices outside. 
+ 
+Interviewee: Great! Then we shall do the benchmark exercise and see if we can find better 
+vendors.  

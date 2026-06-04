@@ -1,0 +1,111 @@
+===== PDF p22 =====
+Case 4: Airplane De-icing
+UCLA Anderson Casebook 2016
+18
+Business Problem Statement
+Your client is AirCo, a U.S. airline that has significant operations at one the of Chicago airports. Due to cold 
+weather, the client’s planes often have to be de-iced, but because the airline’s de-icing need is very unpredictable, 
+the client decided to outsource de-icing to IceCo last year. However, IceCo’s performance has not been 
+satisfactory.
+The client is considering in-sourcing airplane de- icing, but currently does not have enough resources perform the 
+de-icing in-house. The client requires a 4-year payback on investments and wants to know if they should in-source 
+or outsource the de-icing.
+Interviewer Guidance & Information Provided to Interviewee Upon Request
+•
+First, have interviewee outline the major cost buckets
+•
+Second, have interviewee complete the handout on the following page comparing cost of in-sourcing vs. 
+outsourcing and detailing investment costs; providing the below information when requested.
+•
+If the client in-sources the de-icing: they will need to hire 150 people for the whole icy season, but the 
+actual number of workers per month fluctuates and can get as high as 60
+o Workers must be paid for the whole month, even if they only work for one week
+o Each worker costs $4,000 / month
+o There are 5 months in the icy season
+•
+The performance problems result from IceCo taking too long to de-ice the planes, leading to delays; we 
+cannot quantify the impact of this
+Savings and Pay Back Period Calculation
+Calculate in-sourced labor costs per event
+•
+3,000 events/season x 1/5 season/months = 600 events/month
+•
+150 workers/season x 1/5  season/months = 30 workers/month
+•
+30 workers/month x $4,000/worker/month = $120K/month
+•
+Labor cost/event = $120K/600 = $200 per event
+Calculate labor savings per event
+•
+Outsourced cost: $300 + $5 x 40 = $500/event
+•
+In-sourced cost: $200 + $4 x 40 = $360/event
+•
+Savings = $140/event
+Calculate payback period for the investment
+•
+Savings per year: $140/event x 3,000 events/year = $420K
+•
+Payback period: investment/savings per year  = $3M/$420K = 7 years > than 4 year payback requirement
+Conclusion Discussion Guidance
+To decrease payback period:
+•
+Reduce investment costs – lease equipment instead of purchasing it.
+•
+Decrease labor costs to increase savings per event: re-negotiate labor contracts; explore more flexible 
+options instead of hiring by month.
+•
+Try to quantify impact of performance problems so these benefits can be monetized and added to the 
+payback calculation.
+To improve IceCo’s performance:
+•
+Implement contract terms that require IceCo to meet pre- determined performance metrics.
+•
+Tie IceCo fees to meeting contract terms.
+
+
+===== PDF p23 =====
+Case 4: Airplane De-icing
+UCLA Anderson Casebook 2016
+19
+Comparison of Outsourced vs. In-sourced De-Icing Costs
+IceCo
+Client
+Number of Events
+3,000
+3,000
+Fee per Event
+$300
+NA
+Labor Costs
+NA
+?
+Cost/gallon of Chemicals
+$5
+$4
+Gallons of Chemicals per Event
+40
+40
+Cost per Event
+?
+?
+Investment Cost
+($M)
+0
+0.5
+1
+1.5
+2
+2.5
+3
+De-Icing Investment Costs
+Equipment
+Supplies
+Training
+
+
+===== PDF p24 =====
+Case 4: Airplane De-icing
+Sample Framework
+UCLA Anderson Casebook 2016
+20

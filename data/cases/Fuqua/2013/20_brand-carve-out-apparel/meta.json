@@ -1,0 +1,36 @@
+{
+  "case_id": "Fuqua_2013_20_brand-carve-out-apparel",
+  "school": "Fuqua",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2013.pdf",
+  "idx": 20,
+  "case_name": "Brand Carve Out (Apparel)",
+  "case_type": "M&A",
+  "round": "1",
+  "industry": "Apparel/Retail",
+  "difficulty": null,
+  "pdf_page_start": 160,
+  "pdf_page_end": 169,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p161.png",
+    "exhibits/exhibit_p162.png",
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p164.png",
+    "exhibits/exhibit_p165.png",
+    "exhibits/exhibit_p166.png",
+    "exhibits/exhibit_p167.png",
+    "exhibits/exhibit_p168.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2013\\20_brand-carve-out-apparel"
+}

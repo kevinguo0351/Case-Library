@@ -1,0 +1,83 @@
+===== PDF p45 =====
+McKinsey&Company, Round 1 
+Case  12: Pharma  Acquisi1on
+ -medium- 
+ 
+(Source: Case Interview from McKinsey&Company, Round 1) 
+42 
+Context: 
+ 
+Our client is a global pharmaceu8cal company that produces over the counter drugs and has its  
+headquarter in Frankfurt, Germany. 
+They are thinking of acquiring another pharmaceu8cal company located in San Francisco, that  
+produces nutri8onal drugs (for weight loss, diabetes, etc). 
+The CEO hired us to advise whether they should acquire the company or not. 
+ 
+ 
+Interviewer: What are the key areas to inves8gate in order to determine whether the acquisi8on is a  
+good idea or not? 
+ 
+A good answer will idenPfy the following: 
+- 
+First I would need to understand the raPonale for the acquisiPon, that can be for: 
+o 
+acquiring resources (increase capacity, increase distribuPon, broaden product line,  
+technology, human capital, R&D, brand name, customer base) or 
+o 
+cost reducPon (economies of scale, economies of scope). 
+It is very important that the acquisiPon makes sense economically (posiPve NPV), but we also need to  
+look into the organizaPonal issues (will potenPal synergies be realized, is the ﬁrm in the posiPon to  
+perform the integraPon). 
+In addiPon, I would assess the geographic diﬀerences of the two companies under discussion.  
+Finally I would look into the likely response of compePtors if the acquisiPon occurs and maybe  
+alternaPves to acquisiPon and compare it to the acquisiPon itself (other target, organic growth) 
+ 
+Informa8on provided upon request: 
+ 
+● 
+Purpose of acquisi8on: increase proﬁts 
+● 
+The SF company has 4 drugs in the market 
+● 
+Both companies are selling their products globally. 
+● 
+The R&D department is based in the same loca8on with the HQ 
+● 
+Revenues from an approved drug of the San Francisco based company is $1.5M 
+ 
+(show the next chart to the candidate) 
+
+
+===== PDF p46 =====
+Case  12: Pharma  Acquisi1on
+ -   medium-
+ McKinsey&Company, Round 1 
+ 
+Interviewer: We just discovered that we can improve the yield form phase 2 to phase 3 by inves8ng 
+$150K in the R&D technology. 
+By how much should the yield increase so as to break even? 
+ 
+Other informa8on given upon request: 
+The present value of launching a product is $1.5M 
+ 
+SoluPon guide: 
+To break even, cost needs to be equal to revenue 
+If x = the increase in the success rate from phase 2 to phase 3 then: 
+$150,000 = x * 70% * 90% * $1,500,000 
+=> x = 15.8% 
+(it means that the success rate should increase by approximately  15.8%/40% = 40%) 
+ 
+Interviewer: What are the risks involved with this acquisi8on? 
+ 
+(The candidate should be able to recognize the diﬀerent risks involved) 
+• 
+the strategic raPonale 
+• 
+likely response of compePtors if acquisiPon occurs 
+• 
+organizaPonal issues: diﬀerent locaPons for the HQ, integraPon of the two organizaPons 
+• 
+proﬁtability of the acquisiPon (NPV calculaPon) 
+• 
+alternaPves to the acquisiPon 
+43 

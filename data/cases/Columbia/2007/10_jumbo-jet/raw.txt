@@ -1,0 +1,138 @@
+===== PDF p42 =====
+ 
+Management Consulting Association Case Book 2007 
+- 38 - 
+Case
+Case
+Case
+Case 10
+ 10
+ 10
+ 10: Jumbo Jet
+Jumbo Jet
+Jumbo Jet
+Jumbo Jet 
+ 
+ 
+BACKGROUND 
+ 
+Firm: Booz Allen Hamilton 
+Round:  2007 Summer, First 
+Content: Qualitative and quantitative 
+ 
+CASE QUESTION  
+ 
+Our client is a large European airplane manufacturer that is developing a new jumbo jet, 
+which will be able to hold up approximately 800-900 people.  Parts for the plane are 
+manufactured in multiple sites across Europe.  They have provided us the following 
+information on site production:  
+• Cockpits are produced in Northern Spain 
+• The fuselage is produced in Northern Germany 
+• Wings are produced in Northern England 
+• Landing Gears/Interior are produced in Southern France 
+ 
+The client has asked us to determine where it is most economical to assemble the plane. 
+ 
+INTERVIEWER BRIEFING 
+ 
+Candidate should form a structured approach to investigate the components that make up 
+assembly, including costs and capabilities. 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: Well, I would like to look into the specific costs incurred from the 
+assembly process and also determine the capabilities for assembling the planes across 
+different locations (labor skill and supply, etc.). 
+ 
+Interviewer: Ok, I like your approach.  Let’s focus on costs for now. 
+ 
+Interviewee: Great.  I assume that the major costs of assembly would be transportation, 
+labor, and PP&E.  Also, I would think that there would be tax incentives to assembling in 
+one country versus another. 
+ 
+Interviewer: Good.  Let’s focus on transportation and labor for now, as these are the 
+most significant cost drivers.  What are some of the areas that you might analyze for 
+potential assembly locations? 
+ 
+
+
+===== PDF p43 =====
+ 
+Management Consulting Association Case Book 2007 
+- 39 - 
+Interviewee: I would look at the existing sites where our client manufactures parts, as 
+well as other areas in the region that may have low cost propositions, such as Eastern 
+European countries that may have cheaper labor costs than Western Europe. 
+ 
+Interviewer: Let’s take France as one location since it is the mid-point of the four 
+manufacturing locations and compare it to the Czech Republic where labor is 
+significantly less expensive than Western Europe. 
+ 
+Interviewee: Well the location in France would incur less cost because the client would 
+already have the landing gears and interior at the facility, and would have to transport the 
+other three parts over a shorter distance.  However, the labor costs in France would likely 
+be significantly higher than those in the Czech Republic.  Do we have any information 
+about transportation and labor costs in each of these areas? 
+ 
+Interviewer: Well, we have determined that labor accounts for about 70% of the total 
+costs of assembly and transportation accounts for the other 30%. Disregard the other 
+costs such as real estate, etc. 
+ 
+Interviewee: Great.  Well, since labor accounts for 70% of the cost, let’s start there.  Do 
+we have any details about how much labor costs in the Czech Republic relative to 
+France? 
+ 
+Interviewer: Labor in France is 1.5 times higher than labor in the Czech Republic.  What 
+do you think that total transportation costs would be in France relative to the Czech 
+Republic?   
+ 
+Interviewee: Since these parts are so large, I would assume that a major part of 
+transportation is actually packing and loading the pieces on a truck. 
+ 
+Interviewer: You’re right.  In fact, the marginal cost of each extra mile transported is 
+close to zero.  The most significant cost incurred is labor costs associated with the 
+loading of parts for transportation.   
+ 
+Interviewee: I would assume that the landing gears and interior are fairly small and 
+wouldn’t incur as large expenses for loading/unloading compared to the wings or the 
+fuselage.   
+ 
+Interviewer: You’re right.  In fact, the interior and the gears are the easiest to pack of all 
+the four parts and the fuselage is the hardest (most expensive).  What would you 
+recommend to our client? 
+ 
+Interviewee: Well, I would recommend they assemble the plane in the Czech Republic.  
+Since labor accounts for 70% of the total cost, and the labor in Czech Republic is about 
+35% less expensive than France, the client would save a significant amount of money, 
+
+
+===== PDF p44 =====
+ 
+Management Consulting Association Case Book 2007 
+- 40 - 
+assuming that the skill level is constant across the two locations.  Additionally, the 
+transportation costs would not be lower in France since the majority of transportation 
+expense is incurred by loading/unloading the parts and the interior/gears are the easiest to 
+pack.  It might be worthwhile to analyze Germany as a potential assembly location 
+because the fuselage represents a significant portion of our transportation costs.  The 
+transportation savings may balance out the higher cost of labor in Germany (as compared 
+to Eastern Europe). 
+ 
+Interviewer: Excellent. One last question – our client knows the demand will be 200 
+planes per year and they are trying to determine how large an assembly facility they 
+should build.  How would you go about figuring this out? 
+ 
+[Candidate should ask for this data] 
+• It takes 9 months to assemble one plane 
+• One plane requires a space of about 300 ft x 300 ft 
+ 
+Interviewee: Well, we know that it takes .75 of a year to produce one plane, so we need 
+space to produce 150 planes in the facility (200 x .75).  Also, one plane requires 90,000 
+sq. ft. of space.  So the total facility would need to be 150 planes x 90,000 sq. ft. per 
+plane = 13.5M sq. ft. 
+ 
+ 
+The interviewee will now be asked to summarize high level findings and make a 
+recommendation to the client regarding where it should produce and assemble planes 
+and the requirements for this operation. 
+ 

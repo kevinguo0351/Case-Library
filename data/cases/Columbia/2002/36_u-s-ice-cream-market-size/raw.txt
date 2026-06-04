@@ -1,0 +1,115 @@
+===== PDF p112 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+108 
+Please do not duplicate, copy, print or photocopy 
+ 
+How many gallons of ice cream are sold in the U.S. each year? 
+ 
+Ice cream can be sold through retailers and restaurants.  First, let’s analyze the retail sales.  
+Assume that of 250 million people in the US, 80% like to eat ice cream.  That makes 200 million 
+possible consumers.  Ice cream sales are likely to be somewhat seasonal especially in northern 
+states, so assume an average selling season of eight months in the North and ten months in the 
+South, for an average of nine months for the whole country.  During the season, assume that 
+people eat ice cream twice a month, and assume that the average serving is one pint.  Since there 
+are eight pints in a gallon, retail sales will be: 200 million people x 9 months x 2 servings per 
+month x 1 pint / 8 pints per gallon = 450 million gallons. 
+ 
+Assume that 80% of the U.S. population frequents restaurants, and that they do so at a rate of 
+twice per month on average.  That makes 250 million people x 80% x 12 months per year x 2 
+visits per month = 4,800 million restaurant visits per month.  Assume that 50% of these 
+restaurants offer ice cream.  That makes 4,800 million x 50% = 2,400 million possible purchases.  
+Now assume that one out of ten times, the customer will order ice cream.  That adds up to 2,400 
+million x 10% = 240 million purchases.  Now assume that the average serving is half a pint.  
+Since there are 16 half pints in a gallon, the total restaurant purchases come out to be 240 million 
+purchases / 16 servings per gallon = 15 million gallons. 
+ 
+Total purchases of ice cream are 465 million gallons per year.  Do a quick sanity check by 
+dividing this number by 250 million people, which means that the average annual frozen yogurt 
+consumption is 465/250 or a little less than 2 gallons per head of the population – that seems to 
+be reasonable. 
+ 
+ 
+Are there two dogs in the world with the same number of hairs? 
+ 
+After a one-minute silence, the interviewer suggested that I divide the problem in 2 parts: 
+ 
+1. How many different possibilities are there for the number of hairs in a dog? 
+2. How many dogs are there in the world? 
+ 
+To find out the number of different possibilities of hair in a dog, I started by figuring out the hair-
+covered area of the smallest dog in the world and the largest dog in the world. 
+ 
+Approximate the body of a dog using geometrical figures:  1 cylinder for the body, four cylinders 
+for the leg, 1 cylinder for the tail, 1 cylinder for the neck and 1 rectangular prism for the head. 
+ 
+For simplicity, the interviewer suggested that I used only the body area to calculate the number 
+of hairs. 
+ 
+The area around a cylinder equals:  π  x  diameter  x  length. 
+ 
+Each of the cylinders’ two lids has an area of:  π  x  radius 2. 
+ 
+Therefore, the total area of the cylinder equals: 
+
+
+===== PDF p113 =====
+Estimation Cases 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+109 
+π  x  diameter  x  length  +  2  x  π  x  (diameter/2) 2. 
+ 
+I assumed the smallest dog in the world to be a newborn Chihuahua with a length of 10 cm and a 
+diameter of 3 cm.  Thus, the area of the newborn Chihuahua is (the interviewer allowed me to 
+use π=3) 103.5 cm2. 
+ 
+For the largest dog in the world I used an adult Saint Bernard with a length of 150 cm and a 
+diameter of 50 cm.  The area in the Saint Bernard’s body is, therefore, 26,250 cm2. 
+ 
+Then I ran into the problem of estimating the number of hairs in a square centimeter of dog skin.  
+The interviewer suggested that I use 100 hairs.  I asked the interviewer whether I could assume 
+that all dogs, regardless of age and race, have the same hair density.  He encouraged that to keep 
+the problem simple. 
+ 
+So, according to our assumptions, the newborn Chihuahua has a total of 10,350 hairs while the 
+adult San Bernardo has 2.625 million hairs. 
+ 
+Therefore, there are 2.625 million – 10,350 possibilities for the number of hairs in a dog, which I 
+approximated to 2.61 million possibilities. 
+ 
+Now it is time to find out the number of dogs in the world.  I let the interviewer know that I 
+would exclude stray or organization owned (for security, etc) dogs from my analysis because I 
+believe that most dogs live in households.  He let me go ahead with my assumption. 
+ 
+I estimated the world population at 6 billion people.  I assumed the average household size to be 
+5 people.  Thus, there are 1.2 billion households in the world.  I assumed that the percentage of 
+households with dogs in the world was 30% and that the average number of dogs per household 
+with dogs was 2.  Therefore, my calculation for the number of dogs in the world is 720 million. 
+ 
+I now had the answers to the two parts in which the interviewer suggested that I divide the 
+question but did not know what to do with them.  I asked the interviewer whether I could assume 
+if the possibilities of hairs in a dog were evenly distributed.  The interviewer suggested that the 
+probability was the same for any number of hairs. 
+ 
+I therefore assumed that the number of dogs for each possibility of number of hairs was equal 
+and divided the total number of dogs by the total number of hair possibilities. 
+ 
+The result (720 million dogs in the world / 2.61 million hair possibilities) is 275 dogs per hair 
+number possibility.  Therefore, I concluded that YES, there are two dogs with the same number 
+of hair in the world.  But what if the question was “are there exactly two?” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

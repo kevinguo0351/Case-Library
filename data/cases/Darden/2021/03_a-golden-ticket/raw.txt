@@ -1,0 +1,409 @@
+===== PDF p57 =====
+53
+A Golden Ticket?
+Round 1 | Consumer Goods
+
+
+===== PDF p58 =====
+54
+Round 1 | Consumer Goods
+03 | CASE: A GOLDEN TICKET?
+A Golden Ticket?
+BEHAVIORAL 
+INTERVIEW 
+QUESTION:
+1. Why consulting?
+2. Tell me about a time 
+when you had to 
+convince someone to 
+take a particular 
+course of action.
+UVA Darden School of Business 2021-22 Casebook
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. How does the company make money?
+Whizzy Wilco’s develops, manufactures, and distributes its products across the globe. It earns money by selling its 
+products to retailers such as grocery stores, convenience stores, and specialty candy stores.
+2. What is the goal/what does success look like?
+The CEO wants to return to profitability as soon as possible, ideally in a year or less.
+3. What’s the story with the change in management and the new CEO?
+The new CEO, Charles, opened a bar of chocolate and found a golden ticket inside. After a rigorous interview 
+process, Charles was hired.
+Prompt: Your client is Whizzy Wilco’s Chocolate Emporium, a global 
+confectionery manufacturer based in the US that specializes in chocolate 
+bars and unique candies. While Whizzy Wilco’s has a long history of success 
+in its industry, the company has projected negative operating profit this year. 
+This has forced a change in management via a very unusual process. The 
+new (very young) CEO has hired you to discover the root cause of the 
+company’s profitability problems and how to ensure the company’s survival.
+
+
+===== PDF p59 =====
+55
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+03 | CASE: A GOLDEN TICKET?
+How to Move Forward:
+To move forward, the interviewee should call out that this is a profitability case and ask to see Whizzy Wilco’s most recent financial information.
+The interviewee should create a framework centered around the root cause of the profitability issue as well as ways to turn i t around. Additionally, the interviewee 
+should make a hypothesis regarding the root cause of the problem. For example, the interviewee may note that Whizzy Wilco’s i s highly vertically integrated and 
+hypothesize that outsourcing at least one of these functions could return the company to profitability.
+Financial
+•
+Revenues
+○
+Product pricing
+○
+Unit sales
+•
+Costs
+○
+Variable
+■
+Labor
+■
+COGS
+○
+Fixed
+■
+Factories
+■
+Warehouses
+■
+Shipping fleet
+Marketing/Sales
+• Any laggards in product mix?
+• Underperforming markets?
+• New revenue streams
+○
+Confectionaries
+○
+Other products (drinks? 
+snacks?)
+○
+Customers (direct-to-
+consumer? 
+wholesalers?)
+Outsourcing
+• Manufacturing
+• Distribution
+• Product development
+UVA Darden School of Business 2021-22 Casebook
+External Factors
+• Competition
+• New management
+• Global supply chain
+• Economic conditions
+
+
+===== PDF p60 =====
+56
+EXHIBIT 1
+03 | CASE: A GOLDEN TICKET?
+Consolidated Statement of Operations
+UVA Darden School of Business 2021-22 Casebook
+*Dollars in millions
+2018
+2020
+2021
+Sales
+14,000
+14,700
+15,400
+COGS
+6,000
+6,300
+6,600
+SG&A
+7,000
+8,050
+9,100
+Operating Profit
+1,000
+350
+(300)
+
+
+===== PDF p61 =====
+57
+Question 1 
+Provide Exhibit 1 and allow candidate to give insight
+03 | CASE: A GOLDEN TICKET?
+Exhibit or Question Guidance:
+To move forward, the interviewee should notice that SG&A costs have increased faster than net sales, indicating that 
+Whizzy Wilco’s should consider cutting those costs. The interviewee should then request to drill down into those SG&A 
+costs.
+A strong interviewee will quantify how sales and costs are growing. For example, net sales are projected to grow 10% in 2 
+years, which is equal to the growth of COGS. Meanwhile, SG&A costs are projected to grow 30% in 2 years, or at a rate 3x 
+net sales.
+BONUS QUESTION
+If desired, you may ask the interviewee to brainstorm what SG&A costs the client may be incurring. While there are many 
+possible answers, the interviewee should NOT list anything that isn’t an SG&A cost (e.g. manufacturing costs, direct labor, 
+R&D). Some possible responses are below:
+UVA Darden School of Business 2021-22 Casebook
+•
+Sales/marketing costs
+•
+Administrative salaries
+•
+Logistics/shipping costs
+•
+Rent/mortgage
+•
+Utilities
+•
+Insurance
+
+
+===== PDF p62 =====
+58
+EXHIBIT 2
+03 | CASE: A GOLDEN TICKET?
+SG&A Graph
+UVA Darden School of Business 2021-22 Casebook
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+2019
+2020
+2021
+Dollars (in thousands)
+Whizzy Wilco’s SG&A Costs
+Rent/Mortgage
+Salaries
+Logistics
+Sales/Marketing
+Insurance
+Utilities
+
+
+===== PDF p63 =====
+59
+Question 2 (The location of these question slides in your case is completely up to you)
+•
+Walk me through this chart describing our client’s SG&A costs. What conclusions can you draw from it?
+03 | CASE: A GOLDEN TICKET?
+Exhibit or Question Guidance:
+To move forward, the interviewee should notice that logistics (warehousing, inventory management, and order fulfillment) is the fastest 
+growing cost category and is projected to become the biggest share of SG&A costs in 2021, overtaking rent and salaries. The interviewee 
+should want to explore cutting those costs, which will lead into a brainstorming session about possible options.
+Other possible takeaways:
+•
+Rent/Mortgage was the biggest component of SG&A costs in 2019 but has been flat since then. This shouldn’t be a surprise if the 
+interviewee assumes rents and mortgages are fixed.
+•
+Salaries were the second biggest component of SG&A costs in 2019. However, salaries stayed flat in 2020 and dropped in 2021. The
+interviewee might speculate as to why that is, but they should be guided to look elsewhere if they linger on this point.
+•
+Sales/marketing costs have also grown, but not to the same extent as logistics costs.
+•
+The interviewee should NOT conclude that they can determine cost numbers by looking at the tops of each colored segment (e.g.
+logistics = ~$6.5B in 2021). Instead, interviewees may determine cost numbers by looking at the areas of each colored segment (e.g. 
+logistics = ~$2.9B in 2021)
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p64 =====
+60
+Improve logistics operations
+•
+Reconfigure network to maximize 
+fleet efficiency
+•
+Purchase new 
+vehicles/ships/planes (more fuel 
+efficient, lower maintenance)
+03 | CASE: A GOLDEN TICKET?
+UVA Darden School of Business 2021-22 Casebook
+Best interviewees display:
+The interviewee should at least mention outsourcing as a potential solution, so press them to include it if they 
+don’t mention it. The interviewee should stay structured in their brainstorming rather than give a laundry list of 
+ideas. Strong interviewees might also discuss any assumptions being made, what evidence they would need to 
+prove each option is viable, or potential risks.
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Reduce logistics obligations
+•
+Reduce warehouse footprint
+•
+Reduce shipping to 
+underperforming markets
+•
+Adjust frequency of shipping (i.e. 
+change review period)
+Outsource
+•
+Order fulfillment (DHL, UPS)
+•
+Inventory management
+•
+Warehousing
+BRAINSTORMING
+What can Whizzy Wilco’s do to reduce its growing logistics costs?
+
+
+===== PDF p65 =====
+61
+Give the following information to the interviewee VERBALLY:
+•
+I like the idea of outsourcing. Let’s explore that further.
+•
+We’ve drilled down into Whizzy Wilco’s logistics costs. They are broken down as follows:
+-
+$800M for warehousing, $1.5B for order fulfillment, $200M for inventory management
+•
+Whizzy Wilco has received three bids for third-party logistics (3PL) services:
+-
+Daintree – largest 3PL company in the world, based in US
+•
+Bid terms: $550M for warehousing, $1.1B for order fulfillment, $350M for inventory management software 
+(required purchase, would replace Whizzy Wilco’s inventory management system)
+-
+Original Logistics - mid-sized 3PL, based in Germany
+•
+Bid terms: $600M for warehousing, $1.2B for order fulfillment, no inventory management software
+-
+The Long Haul (TLH) – global courier service, based in US
+•
+Bid terms: $1B for order fulfillment, no warehousing capability or inventory management software
+•
+Any services not offered must still be performed by Whizzy Wilco’s
+EXHIBIT 3
+03 | CASE: A GOLDEN TICKET?
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p66 =====
+62
+Question 3
+Should Whizzy Wilco’s outsource their logistics functions? If so, which bid for 3PL services should Whizzy Wilco’s accept?
+03 | CASE: A GOLDEN TICKET?
+Exhibit or Question Guidance:
+Organizing data given verbally will be key to the interviewee’s success in answering this question. For example, the interviewee may create a 
+table like the one shown below:
+The interviewee should discover that all three 3PL bids equal the same amount: $2B. Any vendor would save 20% in logistics costs, so 
+Whizzy Wilco’s should outsource. Since each vendor’s bid equals the same amount, the interviewee may say any of the bids would be 
+acceptable. However, a strong candidate should consider non-cost factors (e.g. Daintree has scale and expertise in all services but 
+converting inventory management could be difficult) and choose a vendor based on that cost-benefit analysis. The interviewee should NOT 
+say “I don’t know which vendor to choose”.
+A strong candidate will also tie these numbers back to the client’s goal. The client projected $300M in operating losses in 2021, so 
+outsourcing and saving $500M will return the company to operational profitability.
+UVA Darden School of Business 2021-22 Casebook
+Whizzy Wilco's Daintree Original Logistics
+TLH
+Inventory Management
+200
+350
+N/A**
+N/A**
+Warehousing
+800
+550
+600
+N/A**
+Order Fulfillment
+1500
+1100
+1200
+1000
+TOTAL:
+2500
+2000
+2000
+2000
+*in millions of dollars
+**N/A = Whizzy Wilco's costs in category
+
+
+===== PDF p67 =====
+63
+CONCLUSION
+03 | CASE: A GOLDEN TICKET?
+UVA Darden School of Business 2010-20 Casebook
+Prompt the interviewee with the following: 
+We have a meeting scheduled with the new CEO tomorrow. If you were in the room with us, what would you tell him? Keep 
+in mind: the CEO is younger than most, so you should keep your recommendation simple without insulting his intelligence.
+Recommendation:
+•
+I recommend that you outsource your logistics functions to a third-party company. Doing so will save the company $500M, 
+returning Whizzy Wilco’s to profitability.
+•
+The interviewee may also recommend a specific vendor. Many choices and justifications are valid.
+Possible Risks:
+•
+This will require selling off assets and firing workers.
+•
+Whizzy Wilco’s will lose control over its logistics functions.
+•
+The interviewee may also list risks of choosing a specific vendor. Many risks are valid.
+Next Steps:
+•
+Enter negotiations with a third-party company and start transition process.
+
+
+===== PDF p68 =====
+64
+INTERVIEWER FEEDBACK FORM
+Case Execution:
+❑
+Clarifying Questions + Framework
+❑
+Good Questions
+❑
+Structured
+❑
+MECE
+❑
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+❑
+Exhibits + Quantitative Ability
+❑
+Accuracy
+❑
+Speed
+❑
+Insights Presented
+❑
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+❑
+Brainstorm + Conclusion
+❑
+Creative & Structured
+❑
+Good Business Judgment
+❑
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+❑
+Presence & Non-Verbal
+❑
+Confidence
+❑
+Poise / Posture
+❑
+Clear & Concise
+❑
+Body Language
+❑
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

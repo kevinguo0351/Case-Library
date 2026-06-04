@@ -1,0 +1,118 @@
+===== PDF p87 =====
+Case: Publishing Company
+Lenovo, Round 2
+Your client is Putter, a company that publishes romance novels that they sell to bookstores. Typically, Putter reimburses its customers 
+at the end of the year for any unsold inventory. Now, one of Putter’s customers, a retail bookstore, has come to it with an offer for a 
+deal. In return for a 10% discount on wholesale prices, the bookstore will no longer send back any books at the end of the year.
+Should Putter do the deal?
+Problem statement narrative
+83
+This is primarily a calculations, margin case. Make the 
+candidate explore the calculus in the case first and foremost; 
+discussion of business and strategic alternatives can come 
+later.
+Case Type: Operations / Profitability
+Case Style: Command & Control
+Overview for interviewer
+Putter’s clients have to sell at a price we dictate, no cheaper.
+Information to be provided upon request
+
+
+===== PDF p88 =====
+Case: Publishing Company
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+Margin calculations
+Math
+• Reduction in operational complexity
+• Good will meeting customer/channel 
+request
+• Open up new business model – may 
+lead to additional distribution
+Opportunities
+• Cash Flow (with new model, get lesser 
+cash flow upfront- problem in this 
+economy)
+• Market Share (assuming fewer units 
+sold)
+Threats
+84
+lead to additional distribution 
+channels?
+sold)
+• May affect other clients’ choices as well 
+(ie first of many, not isolated case)
+• Relationship with client (supply them with 
+less, they view you as less important)
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+• Don’t forget salvage value
+• Explore rationale for # of books 
+ordered (directionally up, down or 
+flat), more in next page
+• When mentioning cash flow, have 
+candidate do the calculations. Previously 
+get $100,000 upfront, now only get 
+$67,000.
+
+
+===== PDF p89 =====
+Case: Publishing Company
+Question 1 – Good Deal?
+Don’t forget salvage value.
+Overall approach, good shortcuts & solution
+• In 2008, Putter sold 10,000 books to this bookstore
+Information to provide up front
+Math Question
+Does this make sense on a profit basis?
+85
+Calculations: 
+Pre-change: profit = 8,000 * (10-5) – 2000 *5 = $30,000
+Post-change: profit = 7,500 * (9-5) = $30,000
+Pre-change: cash-flow:  10,000 * $10 = $100,000 upfront
+Post-change: cash-flow: 7,500 * $9 = $67,500 upfront
+Pre-change: market share at 8,000 books
+Post-change: market share at 7,500 books
+Solution: The expected profit is the same, but initial cash flow is 
+lower and market share is lower.  There does not seem to be a 
+direct financial incentive to take the deal.
+• It costs Putter $5 on average to make a single book
+• Putter previously sold books to the bookstore at $10
+• Note to interviewer: MSRP not relevant
+• Putter’s Salvage Value for unsold books = 0
+• Romance novel sales have been flat for a decade, 
+expected to remain so in the coming years
+• In 2008, the retail bookstore sent back 20% of its books
+• Have interviewee explain how he/she will guess at a 
+figure of how many books the bookstore will order, then 
+give the projected number of 7500 
+Provide information if asked
+
+
+===== PDF p90 =====
+Case: Publishing Company
+Sample Recommendation
+The deal does not seem attractive on a financial or strategic basis.  The expected profitability is the 
+same but cash flow and market share will decline. Such problems are complicated by the fact that 
+others in the industry may follow the lead of the first bookstore. Recommendation is not to accept the 
+deal.
+Recommendation
+By not accepting the request of your client, you risk alienating the bookstore if other publishers shift 
+business models.  
+Risks
+Consider the differences in “blockbuster” books vs. lower-volume books.  Perhaps new business model 
+( t diff
+t
+i i
+)
+k
+f
+titl
+Next Steps
+86
+(at different pricing) may make sense for some titles.
+Next Steps

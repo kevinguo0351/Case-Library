@@ -1,0 +1,134 @@
+===== PDF p122 =====
+Case 13: Big School Bus Company
+Introduction
+Introduction
+Problem statement narrative
+118
+You have been approached by a private equity firm trying to decide whether or not to acquire Big School Bus Company. Big School Bus 
+Company manufacturers, owns, and operates school buses across the United States. The private equity firm wants you to help them 
+estimate the size of the market for school buses and to identify ways in which you might able to extract more value from Big School Bus 
+Company, if acquired. 
+Overview for the interviewer
+Let the candidate begin by performing a market size estimate. Candidates should define the target market, determine how large the 
+market currently is (volume), and identify what portion of the market Big School Bus Company could be reasonably expected to capture, 
+based on present (and future expected) market share.
+Things candidates should consider:
+• Segmenting school children into those who: a) walk; b) are driven to school by parents; and c) take the school bus
+• How many children take school buses every day
+H
+h
+l b
+ld b
+d d
+ll h
+hild
+• How many school buses would be needed to transport all these children
+• That school buses can make multiple trips every morning and afternoon
+• That only a fraction of school buses are replaced every year (candidate should make a reasonable assumption for school bus lifetime 
+– 10-15 years; thus 1/10 to 1/15 of the total school bus market is “addressable”) 
+FYI: every school day, about 500,000 school buses transport ~26 million school children to and from school. Use this information to help 
+y
+y,
+,
+p
+p
+steer the candidate back on track if they are orders of magnitude off. 
+NOTE: Technically there are other uses for school buses beyond simply transporting children to and from school. Depending on how time 
+goes, you may want to ignore this aspect and have the candidate focus on a more limited definition of the market to be sized.
+
+
+===== PDF p123 =====
+Case 13: Big School Bus Company
+Market sizing
+I f
+ti
+t b
+id d (if
+k d)
+119
+Market sizing
+Information to be provided (if asked)
+• The school bus manufacturing industry is dominated by two players. Big School Bus Company is the larger of the two with about 45% 
+market share (by volume). 
+• 40% of school buses are owned and operated by independent companies, such as Big School Bus Company. These independent 
+companies often contract their services out to school districts. The rest are owned and operated by school districts themselves.
+• IF the candidate identifies him or herself as not having been part of the US public school system and specifically asks for clarification, 
+you can tell the candidate that around 60% of US schoolchildren take school buses to school every day. 
+• Average school bus capacity is 20 passengers for smaller school buses and 70 passengers for larger school buses. 
+• 80% of schools buses are larger school buses. 20% are smaller school buses.
+
+
+===== PDF p124 =====
+Case 13: Big School Bus Company
+Extracting more value
+O
+i
+f
+th i t
+i
+120
+Extracting more value
+Overview for the interviewer
+How would the firm extract more value (additional profits) from Big School Bus Company?
+Candidates should then setup a framework that allows them to explore both sides of the profit tree (revenue and costs).
+Before the candidate gets too involved with their framework and analysis, the interviewer should ask the candidate whether their intuition 
+tells them that more value can be extracted from the manufacturing or the operations/services side of the industry. Candidates should 
+realize that the school bus industry is in a relatively mature phase, and most of the market has already been saturated. Thus, operations 
+and services are likely to be more attractive, in general.
+There are many possibilities that candidates can address in operations/services, and this is a chance for the candidate to be creative. 
+Several different areas may be explored, and sample ideas follow on the next slide.
+
+
+===== PDF p125 =====
+Case 13: Big School Bus Company
+Question 2: Extracting more value
+Sample ideas
+121
+Question 2: Extracting more value
+Revenue – explore different business models
+• Customers could be the school districts themselves.
+• Customers could be businesses looking for mass transport services (but unwilling to pay for coach buses); this could potentially
+generate a lot more revenue for Big School Bus Company during hours when school buses might otherwise be sitting idle
+• Customers could also be wealthy parents willing to pay for private “mass” transportation services (perhaps where public school buses
+Customers could also be wealthy parents willing to pay for private mass  transportation services (perhaps where public school buses 
+are lacking, bus stops are too far from homes, or where public school buses are of less than suitable quality to these parents).
+• School children tend to take school buses just before their parents head off to work and before their parents get home from work. 
+Thus, Big School Bus Company may be able to allocate buses to transporting employees to work (think the Google shuttle concept).
+• Service differentiation. For example, provide WiFi so that students can complete their homework while riding the school bus and 
+h
+b l
+d if di t
+t d b i t
+t b
+d
+t
+t i
+t
+perhaps be less rowdy if distracted by internet-based entertainment.
+• From a price perspective, Big School Bus Company could contract out services for a flat fee per year. Or they could charge per 
+passenger. Candidates would ideally discuss the issues of willingness-to-pay versus cost-plus (and other) pricing methods, as well as 
+which business models would better support a “fee-per-person” pricing model. 
+Costs
+When it comes to school districts sourcing buses (and sometimes bus services), school districts may choose to put out contracts to 
+competitive bids. Oftentimes the decision point will be who has the lowest bid that still meets the quality metrics and requirements 
+specified by the school district. 
+• In order to submit a low bid, Big School Bus Company should also examine its cost structure. Candidates may delve into the fixed and
+In order to submit a low bid, Big School Bus Company should also examine its cost structure. Candidates may delve into the fixed and 
+variable cost components of different proposed options for creating value. For instance, fixed costs could include the buses themselves, 
+the internet connectivity hardware and contracts with internet service providers, the corporate headquarters/dispatch center, etc.. 
+Variable costs would include fuel and hourly wages for (potentially unionized) bus drivers.
+
+
+===== PDF p126 =====
+Case 13: Big School Bus Company
+Conclusion
+C
+l i
+122
+Conclusion
+Conclusion
+Candidates should recognize that while the problem narrative focuses mostly on the questions of market sizing and extracting value, the 
+real substantive issue is whether or not to recommend an acquisition of Big School Bus Company. Top candidates will make such a 
+recommendation at the end, without prompting. 
+If a candidate does not make such a recommendation without prompting, ask them at the end of the case what they would recommend 
+and why (the “Our client’s managing director is coming; what do you say to him/her?” executive summary). 

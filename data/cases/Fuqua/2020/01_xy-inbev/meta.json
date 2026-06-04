@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2020_01_xy-inbev",
+  "school": "Fuqua",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2020.pdf",
+  "idx": 1,
+  "case_name": "XY Inbev",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": "Easy/Easy",
+  "pdf_page_start": 26,
+  "pdf_page_end": 36,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    30,
+    31,
+    32,
+    33,
+    36
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p030.png",
+    "exhibits/exhibit_p031.png",
+    "exhibits/exhibit_p032.png",
+    "exhibits/exhibit_p033.png",
+    "exhibits/exhibit_p036.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2020\\01_xy-inbev"
+}

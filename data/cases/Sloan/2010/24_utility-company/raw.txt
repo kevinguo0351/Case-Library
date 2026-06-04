@@ -1,0 +1,196 @@
+===== PDF p79 =====
+24.) Utility Company (Bain, Round 1) 
+Our client is the sole utility provider in Washington state. It is regulated by the government~ 
+which allows it to earn a maximum of 10% of assets as income. Our client's capacity is 1 M 
+megawatt hours (Mwh) per year. 
+The government recently mandated that our client generate 10% of its capacity from renewable 
+sources. The company has two options: 1) buy green credits from a 3rd party and 2) set up a wind 
+farm 
+What should our client do? 
+1 st phase: Economics of each option 
+Behind the scenes: Let the interviewee come up with a framework~ which should emphasize 
+evaluation of costslbenefits for each option. Competition or market issues should not be relevant 
+since the client is a heavily regulated monopoly. Ideally, the framework should address internal 
+capabilities. 
+Example starting framework: 
+Wind 
+LJpr r <)I, t .: oC>5t s 
+... L"Hi·d 
+.. '~C',n slr u( tiD!!. 
+- E<luipIH-=I"lt 
+.. Tr_"n~nji:;:,;k"" ';v;;t~tn 
+t:)r"")g.:---illg costs 
+.. f.,,;) ."til~ t";'I",.=tt''1 (.,;, 
+B-::I't-::"its 
+"ll"tcr~.;.,;:~ I·';;\.c~nu.". p.:.t";'l\tr,;:,1 
+•· .. i th <'6S-::t ha~-;-:: gl'l:.>·,".th 
+Cost I Benefit· 
+- (;, -::-::n p~r c. -::plion in In.u I -::t 
+F-:isl·::; 
+Credits I 
+{)p,i r c<n t <: 0StS 
+• T,·adilig .:1-=:,,1.. 
+• N~'''; t~( hnol()gi~5 OT~ 
+()ngc.ing <:: o"~t::.~ 
+• (r~djts 
+• -;t~'\F 
+B~n"!fit::; 
+• FI-::><ibilitv 
+.. f'J.,:-. c apit al co-sets 
+Risl ;5. 
+• Umit-::d in;'Jnnati~'n on \-.:1II.J.:: 
+• F utUI -= c,uppl~ untnc)·,·:n 
+• ;;.t<:. 
+Suggest focusing on costs for this first part of the interview; ask the interviewee what they would 
+like to know about costs. 
+--....... Management ~ 
+1111111111 Consulting 
+~~~I~.~ Club 
+2010-2011 1 st Year Case Book 
+125 
+
+
+===== PDF p80 =====
+Interviewer: What would you want to know to analyze the options? 
+Possible Answers: 
+Wind farm 
+Credits 
+• 
+Cost of building wind farms ($2,000 per Mwh) 
+• 
+Life of wind farm (30 years) 
+• 
+Maintenance cost (assume $0 for simplicity) 
+• 
+Cost of credits ($20/ megawatt hour) 
+• 
+Change in credit costs over time (price has increased from $5 / Mwh two years 
+ago) 
+Interviewer: 
+For each option, could you figure out how much it would cost the client a year to fulfil the 
+government's mandate? [Note - ideally candidate will proactively volunteer to go in this 
+direction] 
+Possible Answers: 
+Renewable source requirement is 1 0% ~ either purchase green credits for 100,000 Mwh or build 
+a wind farm with that capacity 
+1) Green credit: 100,000 x $20 = $2M 
+2) Wind farm: 100,000 x $2,000 -;-.30 years = $6.7M (assuming straight-line depreciation) 
+Interviewer: Assume the of implementing either option is absorbed entirely by the consumers 
+through rate hikes. If the client buys green credits, utility rate charged to the consumers will be 
+increased from $0.10 to $0.11. 
+What could we expect the rate to be if the client were to set up a wind farm? 
+Possible Answers: For green credit purchase, $2M in cost translates into a 10% increase in rate. 
+The wind farm costs $6.7M ~ the rate would be $0.133 = ($6.7M1$2M) x 10% x $0.10 + $0.10 
+Interviewer: Can you comment on profitability implications of each option? 
+Possible Answers: Under option 1, which is to purchase the green credits, we know that all costs 
+would be absorbed by the consumers so profitability would be unchanged. This is certainly true 
+for building a wind farm as well, but what's interesting is that our asset base has increased due to 
+the CapEx investment for the wind farm. This would lead to a bigger allowance for income 
+earned (under the rule of maximum 10% of total assets) 
+2nd phase: Qualitative assessment 
+~ 
+Management 
+1111111111 Consulting 
+~~;~I~:.~ Club 
+2010-2011 1 sf Year Case Book 
+126 
+
+
+===== PDF p81 =====
+Behind the scenes: This section focuses on qualitative benefit/risk profiles of each option. It 
+would be great if the interviewee suggests going down this path, but it's fine to ask the question 
+directly as well. Ideally, the interview would include internal capability factors, green factors, 
+and governmental view 
+Interviewer: What do you think are the most important pros and cons of each option? 
+Possible Answers: 
+Option 
+Pros 
+Cons 
+Green Credits 
+-
+Limited capital commitment 
+-
+Exposure to market 
+-
+Easy and quick to implement 
+uncertainty (400% increase in 
+-
+Easy to scrape if regulation 
+price in the last two years 
+changes 
+from $5 to $20) 
+0 
+May not be able to 
+pass all costs to 
+consumers in the 
+future 
+-
+Quick fix (not actually green 
+power source in the state) 
+Wind Farm 
+-
+Improve company's image by 
+-
+Large upfront investment 
+being green (taking big step) 
+-
+Require additional expertise 
+0 
+To consunlers 
+and internal capabililties to 
+0 
+To government 
+develop 
+-
+Create more jobs for the state 
+-
+Risk of investment becoming 
+by essentially setting up a new 
+obsolete if gov't eliminates 
+business 
+requirement 
+-
+Potentially earning more 
+income now that total assets 
+are bigger (i.e., get more for 
+the 100/0 cap on earnings on 
+assets) 
+Interviewer: What might the government not like about building a wind farm? 
+Possible Answers: Although it is green, it results in a higher rate hike (officials who are under 
+political pressure may not like this). On top of that, being able to earn more income now that 
+total assets are bigger, the client may push to sell more electricity, which may conflict with the 
+government's goal of limiting energy consumption. 
+Wrap-Up 
+..... Management 
+UIIIIIIII Consulting 
+~~~I~.~ Club 
+2010-2011 1 st Year Case Book 
+127 
+
+
+===== PDF p82 =====
+Behind the scenes: The ideal answer is a hybrid model. However, it is fine to pick either option 
+as long as the interviewee gives compelling reasons. 
+Interviewer: So, what would you recommend? 
+Possible Answers: 
+1) Hybrid model: Look into buying green credits to fulfil the requirement in the short term 
+and investigate the possibility of building a wind farm 
+• 
+This is superior because the company has an option of switching to the wind farm 
+if credit price goes up 
+• 
+The company can buy time to develop internal capability to build a wind farm 
+2) Wind farm 
+• 
+Sustainability is increasingly becoming an important issue so risk of regulation 
+being reversed is very small 
+• 
+More environmentally friendly and will generate positive PR 
+• 
+Could be used to make existing operation more efficiently (i.e., add capacity 
+during peak hours) to mitigate effect of higher rate hike 
+...... Management 
+1111111111 Consulting 
+~~:~I~:.~ Club 
+2010-2011 1 st Year Case Book 
+128 

@@ -1,0 +1,653 @@
+===== PDF p138 =====
+Muni Golf Opportunity
+123
+Industry:                  Real Estate/Private Equity
+Case Type:     
+M&A, Market Sizing
+Led by:            
+Interviewee
+Case Level:   
+Hard
+
+
+===== PDF p139 =====
+Behavioral Questions
+124
+• Tell me about a time you had to make a decision with limited information.
+Candidate should respond with a relevant CAR (Challenge, Action, Result) story. 
+Action portion of the response should delineate how candidate structured the decision-
+making process to reach action in a reasoned manner absent necessary 
+data/information. Strong answers will use #s throughout. Time constraint in Challenge, 
+impact of Results, etc.
+Question 1:
+• What do you consider your greatest strength?
+Candidate should express their personal view of their greatest strength and then relate 
+a CAR story validating how that strength led to personal and professional success. 
+Question 2:
+
+
+===== PDF p140 =====
+Muni Golf Opportunity
+125
+Our client, FSB Capital Holdings LLP is a real estate focused private equity firm, with 
+experience in developing and operating properties over medium to long term time horizons. 
+Recently, the FSB Capital deal origination team has been made aware that the City of San 
+Diego in California is considering divesting one of its municipal golf properties, the Balboa Park 
+Golf Course located near downtown San Diego. FSB Capital has engaged us to value the 
+potential asset, evaluate potential growth strategies for the property if acquired, and provide a 
+final recommendation regarding whether to pursue a deal with the City of San Diego.
+Prompt:
+•
+Client/Company information: FSB Capital has experience operating golf resorts, hotels, and developing 
+commercial and limited residential real estate. 
+•
+Industry/Competition information: Nearby privately-held Riverwalk GC (27-hole course) is being redeveloped into a 
+master-planned community of housing, offices, shops, and an 80-acre riverside park. 
+•
+Product information: Course consists of an 18-hole championship course, 9-hole executive course, driving range, 
+pro-shop, and clubhouse bar/restaurant. 
+–
+Property is situated on the Southeast corner of the larger Balboa Park complex which contains the famed 
+City Zoo, museums, and the Naval Medical Center. (think a corner of Central Park)
+–
+Course is 5 minutes from downtown, Convention Center, hotels, historic nightlife district (Gaslamp)
+–
+Residential communities border the course to the east and south. 
+•
+Value Chain/Revenue information: Golf revenue comes from golfers paying a greens fee for a round of golf. 
+Typical round consists of 4 golfers. Patrons often buy food & alcohol on the course or after a round 
+•
+Any constraints on the case: N/A
+Case Background:
+
+
+===== PDF p141 =====
+Muni Golf Opportunity
+126
+Framework Buckets:
+Valuation
+Growth Levers
+Long-Term Strategy
+I.
+Free Cash Flow 
+Method:
+a.
+Net Income from 
+Operations
+b.
+Appropriate 
+Discount Rate
+II.
+Multiples Method:
+a.
+Comparable 
+deals
+b.
+Raw acreage $/ft 
+on property
+c.
+Sales or earning 
+multiple
+III.
+IRR
+a.
+Acquisition cost
+b.
+Cash flows
+I.
+Roll forward to a 
+secondary fund if 
+asset is generating 
+cash and growth 
+continues
+II.
+Sell to subsequent 
+investor
+a.
+Entire portfolio asset
+b.
+Crack the asset and 
+sell off pieces to cover 
+the initial investment, 
+retain a cash 
+generating piece.
+I.
+Growth on Existing 
+Assets:
+a.
+Pricing play on 
+golf course
+b.
+Grow restaurant 
+revenues
+II.
+Redevelopment:
+a.
+Hotel
+b.
+Residential 
+
+
+===== PDF p142 =====
+Muni Golf Opportunity
+127
+Alternate Framework:
+Valuation
+Free Cash Flow 
+Method
+Multiples 
+Method
+Growth Levers
+Existing 
+Infrastructure
+Golf Facilities
+Bar/Restaurant
+New 
+Development
+Residential
+Commercial 
+1
+2
+
+
+===== PDF p143 =====
+Exhibit #1
+128
+
+
+===== PDF p144 =====
+Interviewer guidance on Exhibit #1
+Candidate should quickly recognize that the existing rate 
+card is too complex to model the Discounted Cash Flow 
+valuation and make key assumptions to simplify the 
+calculations: Prompt candidate if struggling with how to 
+proceed, should approach like market sizing
+•
+Separate rates for resident/non-residents superfluous 
+as the course would no longer be city owned. 
+Candidate should pick a round number to simplify 
+math. Can roll up to ~avg spend per golfer including 
+food & drink
+•
+Separate weekday/weekend rates should remain
+•
+Ignore Sr./Junior rates
+•
+Tee times can be staggered either every 12 minutes (5 
+groups of 4 golfers/hr) or every 15 minutes (4 groups 
+of 4 golfers/hr)
+•
+Cart fees can either be rolled up into higher golf rates 
+(charge everyone, even walkers) or can be applied as 
+a fraction of golfers. *only on the 18 hole course
+•
+Optional: Current rate card has 5 different Twilight 
+times: simplify into 2 seasons, Peak: 8 months (Mar –
+Oct) of 12 hr operating days, Off-Peak: 4 months (Nov 
+– Feb) of 10 hr operating days, twilight rates apply to 
+last 4 hours of operations of 18-hole course. If they 
+choose to ignore/simplify they should state that
+•
+Candidates will not generate the exact revenue 
+numbers in the example math – That is OK
+•
+Focus should be on remaining structured and 
+logical as they conduct a bottoms-up market sizing 
+of the revenue
+1.
+Assume a fee per golfer
+2.
+# golfers per round
+3.
+Rounds per hour
+4.
+Hours per day
+5.
+Days a week
+6.
+Weeks per year
+7.
+Annual Revenue!
+•
+Strong candidates will recognize product dynamics 
+(twilight rates, cart fees, etc.) and incorporate them 
+into their analysis
+129
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p145 =====
+Exhibit #1: Off Peak Revenue
+130
+Weekday Weekend
+Greens Fee w/cart
+$60 
+$80 
+x golfers per tee time
+4
+4
+Revenue per tee time
+$240 
+$320 
+x tee times/hr (10, 12, or 15 
+min)
+5
+5
+Revenue per hour
+$1,200 
+$1,600 
+Peak 
+Off-Peak
+Hours of Operation
+12
+10
+Weeks in Each Season
+30
+20
+Weekend Hourly Revenue
+$1,600
+x Off Peak Hours
+10
+OP Weekend Daily Revenue
+$16,000
+x Days per Weekend
+2
+OP Weekend Revenue
+$32,000
+x Off Peak Weeks
+20
+Total Off Peak Weekend Revenue
+$640,000
+Weekday Hourly Revenue
+$1,200
+x Off Peak Hours
+10
+OP Weekday Daily Revenue
+$12,000
+x Days per Week
+5
+OP Weekday Revenue
+$60,000
+x Off Peak Weeks
+20
+Total Off Peak Weekday Revenue
+$1,200,000
+Data
+Calculations
+
+
+===== PDF p146 =====
+Exhibit #1: Off Peak Revenue (Discount)
+131
+Off Peak Twilight Hours 4/10
+40%
+Twilight Discount 
+~25%
+Total Off Peak Weekday Revenue
+$1,200,000
+% Revenue Twilight hrs
+40%
+Undiscounted WD Twilight Revenue
+$480,000
+x (1 - Discount)
+0.75
+Total OP Weekday Twilight Revenue
+$360,000
++ OP Non-Twilight Revenue (1.2M-480K)
+$720,000
+Total OP Weekday Revenue After Discount
+$1,080,000
+Total Off Peak Weekend Revenue
+$640,000 
+% Revenue Twilight hrs
+40%
+Undiscounted WE Twilight Revenue
+$256,000 
+Round to 
+$250K
+x (1 - Discount)
+0.75
+Total OP Weekend Twilight Revenue
+$187,500 
+Round to 
+$190K
++ OP Non-Twilight Revenue (640K-250K)
+$390,000 
+Total OP Weekend Revenue After 
+Discount
+$580,000 
+Rounded 
+#s
+Total OP Weekday Revenue After Discount
+$ 1,080,000 
+Total OP Weekend Revenue After Discount
+$    580,000 
+Total OP Revenue
+$ 1,660,000 
+Data
+Calculations
+
+
+===== PDF p147 =====
+Exhibit #1: Peak Revenue
+132
+Weekday Weekend
+Greens Fee w/cart
+$60 
+$80 
+x golfers per tee time
+4
+4
+Revenue per tee time
+$240 
+$320 
+x tee times/hr (10, 12, or 15 
+min)
+5
+5
+Revenue per hour
+$1,200 
+$1,600 
+Peak 
+Off-Peak
+Hours of Operation
+12
+10
+Weeks in Each Season
+30
+20
+Weekend Hourly Revenue
+$1,600 
+x Peak Hours
+12
+Peak Weekend Daily Revenue
+$19,200 
+x Days per Weekend
+2
+Peak Weekend Revenue
+$38,400 
+Round to 
+$40K
+x Peak Weeks
+30
+Total Peak Weekend Revenue
+$1,200,000 
+Weekday Hourly Revenue
+$1,200 
+x Peak Hours
+12
+Peak Weekday Daily Revenue
+$14,400 
+Round to 
+$15K
+x Days per Week
+5
+Peak Weekday Revenue
+$75,000 
+x Peak Weeks
+30
+Total Peak Weekday Revenue
+$2,250,000 
+Data
+Calculations
+
+
+===== PDF p148 =====
+Exhibit #1: Peak Revenue (Discount)
+133
+Off Peak Twilight Hours 4/12
+33%
+or (1/3)
+Twilight Discount 
+~25%
+Total Peak Weekday Revenue
+$2,250,000 
+% Revenue Twilight hrs
+33%
+Undiscounted WD Twilight Revenue
+$750,000 
+x (1 - Discount)
+0.75
+Total P Weekday Twilight Revenue
+$562,500 
++ P Non-twilight Revenue (2.25M-750K)
+$1,500,000 
+Total Peak Weekday Revenue After 
+Discount
+$2,062,500 
+Total Peak Weekend Revenue
+$1,200,000 
+% Revenue Twighlight hrs
+33%
+Undiscounted WE Twilight Revenue
+$400,000 
+x (1 - Discount)
+0.75
+Total OP Weekend Twighlight Revenue
+$300,000 
++ OP Non-twilight Revenue (1.2M-400K)
+$800,000 
+Total OP Weekend Revenue After Discount
+$1,100,000 
+Total P Weekday Revenue After Discount
+$2,062,500
+Total P Weekend Revenue After Discount
+$1,100,000 
+Total Peak Revenue
+$3,162,500 
++ Total Off-Peak Revenue
+$1,660,000
+Annual Revenue
+$4,822,500
+Data
+Calculations
+
+
+===== PDF p149 =====
+Exhibit #1 Discounting Cash Flows
+•
+If not asked prompt candidate with following 
+information:
+“FSB Capital demands strict financial discipline within 
+its portfolio companies. Typically, FSB Cap portfolio 
+companies have an average FCF to Sales ratio of 
+0.85”
+•
+Candidate should ask for an appropriate growth and 
+discount rate, r – g in PV calculation denominator 
+should equal 10%, so (15-5, 12-2, etc.)
+•
+Candidate may ask how many years to discount. 
+Prompt them to consider if they expect the FCF to vary 
+year to year. To value the asset on a set # of years 
+they would need to know the cash outflow at Year 0 for 
+the acquisition (what they are supposed to determine: 
+price or valuation). Valuing the asset as a perpetuity is 
+sufficient. 
+•
+Strong candidates should point out that this valuation 
+is solely based on operational revenues. The land 
+value is not included and could potentially be 
+substantially higher.
+$4.8𝑀× 0.85 ≈$4𝑀𝐹𝐶𝐹
+134
+Exhibit #1 Discounting
+Analysis:
+Ask candidate what they think is the best way to triangulate if $40M is attractive. Push 
+them towards comparable, similar business valuations. Hand exhibit 2.1 and 2.2 
+together and ask for their insights.
+
+
+===== PDF p150 =====
+Exhibit #2.1
+Golf Course Satellite Imagery
+
+
+===== PDF p151 =====
+Interviewer guidance on Exhibit #2.1
+136
+• Lower right hand is the Executive 9-
+hole course. Approximately 1M ft2 
+• Eyeballing the map, that 1M ft2 could 
+fit into the rest of the course ~3 
+times. Total area roughly 4M ft2
+If asked:
+• The 18-hole course is extremely hilly 
+with a canyon running through it 
+(dark green area)
+• Off map to the East (right side) and 
+South (bottom) are residential 
+neighborhoods. Mostly Single-
+Family Homes, some low-rise 
+apartments and condos. 
+Exhibit #2 Guidance:
+Analysis:
+Key Takeaways:
+• Sizable land in the middle of urban 
+core
+• Proximity to other attractions
+• Rough land area of ~4M ft2
+• Do there need to be 2 courses? No! 
+
+
+===== PDF p152 =====
+Exhibit #2.2
+Type of Land
+$/ft2
+Residential 
+$700
+Commercial
+$600
+Industrial
+$300
+Undeveloped
+$350
+137
+Average San Diego Real Estate Valuations
+
+
+===== PDF p153 =====
+Interviewer guidance on Exhibit #2.2
+138
+• Candidate should recognize that they can 
+conduct a very general multiples valuation 
+using ~4M ft2 from Exhibit 2
+– This provides a check on the DCF 
+valuation conducted earlier
+– Strong candidates will bracket the 
+multiples approach at the two extreme 
+comparisons to get a sense of 
+boundaries on the valuation. Not just 
+calculate all 4 . 
+If asked for clarification:
+• Commercial refers to office space, hotels, 
+large apartment buildings
+• Industrial is factories, auto repair garages, 
+etc. 
+• Residential is single family homes, 
+townhomes, and small-unit apartments and 
+condos
+Exhibit #3 Guidance:
+Analysis:
+Type
+$/ft2
+X Approx. 
+ft2
+Valuation
+Residential 
+$700
+X 4,000,000
+$2.8B
+Commercial
+$600
+X 4,000,000
+$2.4B
+Industrial
+$300
+X 4,000,000
+$1.2B
+Undeveloped
+$350
+X 4,000,000
+$1.4B
+
+
+===== PDF p154 =====
+Brainstorming
+Should FSB acquire the asset, what are 
+some growth strategies they could 
+pursue?
+Organic:
+• Raise prices
+• Rebrand (more 
+hip)
+–
+Golf facilities
+–
+Restaurant
+–
+Marketing
+• Memberships
+139
+Prompt:
+Analysis:
+Inorganic:
+• Bolt-on 
+acquisitions
+–
+Nearby hotels
+–
+Nearby 
+restaurants
+• Partner with 
+other party
+–
+Top golf or similar
+Redevelopment:
+• Use land for other purposes:
+–
+Hotel
+–
+Residential housing
+–
+Commercial office space
+
+
+===== PDF p155 =====
+Muni Golf Opportunity
+140
+FSB Capital should pursue the acquisition of the Balboa Park Golf Course. It is a cash 
+generating asset that we project to generate $4.8M in annual sales from golf operations 
+alone. Discounting the cash flows at the average FSB port-co rate we’ve estimated a 
+value of the golf operations business as approximately $40M. Further, the property 
+value of the land in the land-constrained urban core justifies the acquisition.  
+Recommendation: Pursue Deal 
+• Risks:
+– California is water constrained, drought could affect ability to maintain quality or regulatory 
+risk. Mitigation: invest in water reclamation infrastructure
+– Progressive state with housing shortage. City could pull out of deal to pursue housing. 
+Mitigation: seek to partner with city subsidies for redevelopment of housing on portion of land
+– Local icon, privatization and redevelopment could face local backlash. Mitigation: community 
+outreach, understand the culture and ensure stewardship
+• Next Steps:
+– Follow on engagement to assess growth lever viability, review property value trends
+Risks and Next Steps:
+
+
+===== PDF p156 =====
+Muni Golf Opportunity
+141
+FSB Capital should not pursue the acquisition of the Balboa Park Golf Course at this 
+time. The land value (billions) and cost of acquiring far exceeds the cash returns the 
+golf business generates. Unlikely that the golf course operations would be able to 
+service the debt burden from the acquisition. Without information on the zoning and 
+feasibility of redevelopment on the property FSB should not move forward.
+Recommendation: Do not pursue deal 
+• Risks:
+– Substantial property in expensive urban core of an expensive growing city. Not pursuing a 
+deal means another developer or PE firm could gain advantage. LPs and investors could pull 
+capital. Mitigation: review LP lockup. 
+• Next Steps:
+– Evaluate other potential acquisition targets. 
+Risks and Next Steps:

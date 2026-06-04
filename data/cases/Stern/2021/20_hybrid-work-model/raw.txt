@@ -1,0 +1,498 @@
+===== PDF p226 =====
+Author: Tom Galante (Stern ‘22) Firm Style & Round: Deloitte Round 1 
+Interviewee-Led
+Quant: 8*
+Structure: 8*
+Case Overview:
+Industry: Entertainment
+Case Type: Cost Savings / Change 
+Management
+Concepts Tested:
+•
+Chart Clearing
+•
+Investment / Breakeven
+•
+Non-Quantitative Benefits
+Overview Information for Interviewer:
+Interviewee should be able to:
+•
+Calculate savings from move
+•
+Identify missing data
+•
+Identify qualitative benefits to moving
+•
+Push back against the CEO’s beliefs of short-term savings
+Key case steps:
+•
+Develop understanding of current operational footprint
+•
+Calculate annual savings and investment required to move to remote work
+•
+Brainstorm qualitative benefits to remote work
+•
+Interpret graphs and incorporate qualitative implications for recommendation
+Case Prompt: 
+You’ve been called into the headquarters of Galloway Entertainment, a small television production company in New York. The 
+company carefully managed employee interactions during the pandemic, and as a result was able to get through without making 
+significant operational changes. However, the CEO has been reading up on the new ‘hybrid work model’ and is excited by the 
+opportunity to consolidate her real estate footprint and generate what she expects will be significant near-term operational 
+efficiencies. Her team has pulled together an initial estimate of what it will take to enable a hybrid workplace, and she has asked 
+you to evaluate whether she should pull the trigger.
+Hybrid Work Model
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+222
+© 2021 NYU Stern MCA
+
+
+===== PDF p227 =====
+Hybrid Work Model: Case Guide 
+Clarifying Information: 
+Background
+•
+A hybrid work model describes an environment in which 
+employees spend some, but not all of their time, in the office
+Business Model
+•
+Galloway Entertainment produces scripted television and is 
+exploring getting into documentary filmmaking
+•
+Galloway makes money by licensing its content to cable 
+television companies and online streaming platforms
+Geography:
+•
+Galloway films in multiple locations across the US
+•
+Operations are currently in New York City, NY, in an office a 
+few blocks away from the CEO’s apartment
+Objectives / Decision-Making Timeline:
+•
+The CEO’s primary focus is making decisions that are cash-
+neutral or better over a two-year timeframe
+Real Estate Timeline:
+•
+The company’s lease is up in three years. If they want to move, 
+they need to break the lease
+Interviewer Guide: 
+•
+A Good Framework Will:
+o
+Start by developing an understanding of the current 
+operational footprint and plan presented to the CEO
+o
+Consider annual savings and operational changes 
+required to support them, and account for one-time 
+costs required to implement changes
+o
+Explore market trends in hybrid work models
+o
+Consider qualitative upside and/or downside to 
+implementing a hybrid work strategy
+•
+Necessary information that should be given only when 
+specifically asked for by interviewee: 
+o
+Lease Breakage Cost: 50% of remaining lease value
+o
+At each stage, the interviewee should drive towards the 
+case completion, and request subsequent information
+•
+This case is intended to test an interviewee’s willingness 
+to push back against a CEO’s beliefs, and make a 
+recommendation after incorporating qualitative benefits. 
+o
+There is not necessarily one correct answer – but 
+interviewee should be able to identify that the CEO’s 
+cost-savings belief is misguided
+223
+© 2021 NYU Stern MCA
+
+
+===== PDF p228 =====
+Current Lease Details
+Effective employees in office
+Space Type
+Square Feet
+Current SQFT / Current effective employees
+Communal Areas & Conference 
+5,000
+50
+100
+ +
+Office and Desk Space
+10,000
+50
+200
+ +
+Server Room
+1,000
+50
+20*
+ =
+Total SQFT
+16,000
+ x
+Cost per SQFT per month
+$8.33 
+ =
+Total annual lease cost
+$1,600,000
+ * this number doesn't make sense. The candidate should consider server volume to be fixed
+Hybrid Work Model: Question 1
+Question:
+•
+How does shifting to a hybrid work model impact the company’s current operational footprint, and how does space utilization change? 
+What does this tell you? 
+Notes to Interviewer: 
+•
+Ideally, interviewees should drive to this on their own, as they were told the company has an existing plan. If the interviewee doesn’t 
+ask for details from the existing plan, provide Exhibit 1. 
+•
+There are two things for candidates to calculate with Exhibit 1 – the reduction in space requirement based on current employee 
+utilization, and the current cost of rent (see calculations below). If the candidate doesn’t identify these calculations, prompt them.
+•
+If the candidate asks if the current space is optimal, the answer is yes.
+•
+Strong candidates will also calculate the square footage needed per employee by space type
+•
+Excellent candidates will note that employee utilization does not impact the size of the server room required. If asked, provide this 
+guidance.
+Once this math is complete, candidates should then consider the alternative, and ask if the company has any new spaces they 
+are considering.
+Time in Office
+Effective Employees In Office
+Employee Type
+# of 
+Employees
+Current
+Future
+Current
+Future
+Reduction
+Field Crew
+50
+0%
+0%
+0
+0
+-
+Production
+20
+100%
+70%
+20
+14
+-30%
+Post-Production
+20
+100%
+55%
+20
+11
+-45%
+Administration
+10
+100%
+50%
+10
+5
+-50%
+Total
+100
+50%
+30%
+50
+30
+-40%
+224
+© 2021 NYU Stern MCA
+
+
+===== PDF p229 =====
+Hybrid Work Model: Question 2
+Question:
+•
+The real estate team found a new space and need to move on the opportunity quickly due to multiple competing bids. Under the new
+location’s lease, how much can they save on an annual basis? 
+Notes to Interviewer: 
+•
+Provide Exhibit 2 when asked about alternatives / the new location and lease (or prompt the candidate if they don’t raise the topic). 
+Ideally, candidates should drive to this on their own, as the new location’s lease is referenced in the question. 
+•
+Candidates may immediately calculate the cost of the new lease and identify the annual savings.  
+•
+Excellent candidates will identify that the square footage per employee has changed, and question if the new space really meets the 
+company’s needs. The interviewer should not give guidance on this – data will come later. 
+•
+Strong interviewees will note that the space does not have a server room. If candidates don’t note this, prompt them by 
+asking how they know the space meets all requirements. 
+•
+Provide the following information only when asked: The company plans to move their server room offsite, and has found a 1,000 
+sf location in New Jersey that costs $5 per square foot per month. 
+Once this math is complete, candidate should then consider the costs and benefits of making this change. If they do not start
+on their own, the interviewer should prompt them to brainstorm some costs that may be incurred in order to make this move.
+225
+© 2021 NYU Stern MCA
+
+
+===== PDF p230 =====
+Square Footage
+Current Lease
+Future Lease 1
+Future Lease 2
+Total Future
+Variance (Fut. V Curr)
+Communal Areas & Conference Rooms
+5,000
+2,500
+2,500
+-2,500
+(+) Office and Desk Space
+10,000
+7,500
+7,500
+-2,500
+(+) Server Room
+1,000
+1,000
+1,000
+0
+(=) Total SF
+16,000
+10,000
+1,000
+11,000
+-5,000
+(x) Cost PSF Per Month
+$8.33 
+$6.67 
+5
+$6.52 
+($1.82)
+(=) Total Cost
+$1,600,000 
+$800,000 
+$60,000 
+$860,000 
+($740,000)
+Exhibit 2: Calculation Guide (INTERVIEWER ONLY)
+Candidate must ask for this 
+information – otherwise they may 
+calculate $800k of savings
+Square Footage Per Effective Employee
+Current
+Future
+SF
+Effective 
+Emp.
+SF / Eff 
+Emp.
+SF
+Effective 
+Emp.
+SF / Eff 
+Emp.
+Communal Areas & Conference Rooms
+5,000
+50
+100
+2,500
+30
+83.3
+Office and Desk Space
+10000
+50
+200
+7,500
+30
+250.0
+Total Employee Used Space
+15,000
+50
+300
+10,000
+30
+333.3
+226
+© 2021 NYU Stern MCA
+
+
+===== PDF p231 =====
+Hybrid Work Model: Question 3
+Question:
+•
+What costs and benefits do you think there are for Galloway Entertainment to make this move?
+Notes to Interviewer: 
+•
+Interviewee should provide a structured brainstorm. Possible brainstorms incur direct vs indirect costs, upside / downside, 
+quantitative / qualitative. 
+•
+They should identify that there are one-time change management costs that will be incurred to accomplish this move. Excellent 
+candidates will identify extra technology costs to support the new working style. 
+Once they have generated sufficient ideas, provide them 
+with the following information
+•
+Moving Costs (One Time): $250,000
+•
+Lease breakage costs: $250,000
+•
+New technology enabling remote work: $500,000 
+implementation cost plus $250,000 annual license
+•
+Once this information is provided to interviewees, they 
+should calculate the adjusted annual savings and the two-
+year cumulative savings, and call out that this does not 
+meet the CEO’s requirements for a two-year breakeven. 
+•
+Calculations can be done on a nominal basis (no PV 
+calculations required).
+Moving Costs / Savings
+Annual Savings
+$740,000 
+(+)
+Incremental Software
+($250,000)
+(=)
+Annual Savings / (Costs)
+$490,000 
+(x)
+Years
+2
+(=)
+2-Year Savings
+$980,000 
+(+)
+One Time Technology Implementation
+($500,000.0)
+(+)
+Lease Breakage Costs
+($250,000.0)
+(+)
+One Time Move Costs
+($250,000.0)
+(=)
+Total Savings / (Expenses)
+($20,000)
+227
+© 2021 NYU Stern MCA
+
+
+===== PDF p232 =====
+Hybrid Work Model: Question 4
+Question:
+•
+We found some data on filmmaking hubs and hybrid / remote work trends. What does this tell you? 
+Notes to Interviewer: 
+•
+Provide the candidate with Exhibit 3.
+•
+This is intended to test the candidate’s ability to incorporate data for a qualitative recommendation. Potential takeaways from the 
+data include opportunity to access new talent for their growing documentary efforts, and competitiveness for hiring by having a more 
+flexible remote work policy.
+Once the candidate has spent sufficient time with the data, ask for the final recommendation
+Final recommendations should note the following:
+•
+Total change is slightly cash negative over a two year time frame
+•
+The risk that the new space doesn’t meet the company’s needs (bonus – note that employees may not like the move to a different 
+part of town)
+•
+The potential benefit of enabling remote work given market trends
+Excellent final recommendations will
+•
+Identify that the CEO’s belief about near term cost savings opportunity is mistaken, but that there may be other qualitative benefits to 
+the move
+•
+Question the CEO’s two-year breakeven as potentially being too short for effectively evaluating a strategic move like this
+228
+© 2021 NYU Stern MCA
+
+
+===== PDF p233 =====
+Exhibit 1: Current Operational & Employee Footprint
+Field Crew
+Production / Post-Production Location
+Space Utilization By Employee Type
+Type
+# of 
+Employees
+Current 
+Utilization
+Est. Future 
+Utilization
+Field Crew
+50
+0%
+0%
+Production
+20
+100%
+70%
+Post-Production
+20
+100%
+50%
+Administration
+10
+100%
+30%
+Current Lease Details
+Space Type
+Square Feet
+Communal Areas & Conference Rooms
+5,000
+Office and Desk Space
+10,000
+Server Room
+1,000
+Other
+•
+Current space is a 4th floor walkup on Union Square
+•
+Lease cost is $8.33 per square foot per month
+Area of Operations
+229
+© 2021 NYU Stern MCA
+
+
+===== PDF p234 =====
+Exhibit 2: Proposed New Lease
+Space Type
+Square Feet
+Communal Areas & Conference Rooms
+2,500
+Office and Desk Space
+7,500
+Proposed Lease Detail
+•
+Monthly Rental Cost: $6.67 per square foot per month
+•
+Description: Soho Office Sublease
+230
+© 2021 NYU Stern MCA
+
+
+===== PDF p235 =====
+Exhibit 3: Hybrid Work Trends & Filmmaking Hubs
+Bubbles indicate volume of students listing ‘film production’ 
+or something similar as their area of concentration for 
+studies.
+Filmmaking Hubs
+4.5
+3.5
+2.5
+5
+5
+4.5
+Age 40+
+Age 30 - 40
+Age 20 - 30
+Expected Days In Office Per Week By Age Group (Pre 
+and Post-COVID)
+Pre-COVID
+Post-COVID
+Remote Work Expectations
+231
+© 2021 NYU Stern MCA

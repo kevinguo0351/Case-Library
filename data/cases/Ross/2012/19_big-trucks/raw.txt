@@ -1,0 +1,202 @@
+===== PDF p170 =====
+- 165 - 
+Big Trucks 
+McKinsey, Round 2 
+ 
+•
+Our client is a manufacturer and dealer of heavy 
+industrial trucks. The currently offer three brands of 
+trucks. Each brand offers trucks in the light-, mid- and 
+heavy duty class.  
+•
+The client currently sells trucks directly to end users 
+and typically includes a clause to repurchase the 
+trucks after a few years. 
+•
+What are some areas our client should be concerned 
+about?  
+•This case is a McKinsey 2nd round interview case, it 
+should be given as a command and control style case 
+•Candidate should brainstorm aloud – a good 
+candidate will note their hypothesis for future 
+reference 
+•Interviewer should push until candidate identifies 
+repurchase agreement, this is the largest factor 
+•It is important to review this case extensively 
+•Additional Information 
+•Market is composed of three players(Companies 
+not brands) 
+•Players are fairly equal in market share 
+•Client’s brands are not distinguished and direct 
+competitors 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Hard      Quant, Graph Heavy Industry: Automotive 
+       Type: Profitability 
+
+
+===== PDF p171 =====
+- 166 - 
+•
+Good brainstorming will highlight the following areas: 
+•
+Repurchase agreement – Key Driver and Step 1 after brainstorming 
+•
+Brand proliferation – opportunity to streamline to one brand 
+•
+In-house and procured materials – area for improvement Step 2 after repurchase exercise 
+•
+Others – Allow candidate to identify as many as the wish, interviewer should question unrealistic 
+guesses and then have candidate indicate which is likely the most important factor 
+Solution Guide 
+Suggested Solution and Structure 
+ 
+
+
+===== PDF p172 =====
+- 167 - 
+Repurchase Agreement 
+Length of service – 3 Years 
+ 
+Repurchase Price - $25,000 
+ 
+Trucks to be Repurchased 
+Year 1 – 20,000 
+Year 2 – 30,000 
+Year 3 – 40,000 
+ 
+Resale Price 
+- Year 1 – $24,000 
+- Year 2 – $22,000 
+- Year 2 – $20,000 
+Data 
+
+
+===== PDF p173 =====
+- 168 - 
+- Candidate should note that repurchase agreement creates liability for company 
+- Follow up and have candidate size the liability 
+- Year 1 – 20K trucks X $1K loss/truck - $20M 
+- Year 2 – 30K trucks X $3K loss/truck - $90M 
+- Year 3 – 40K trucks X $5k loss/truck - $200M 
+- Total Liability of $310M 
+- Candidate should suggest the following potential solutions 
+- Accelerate repurchases to reduced liability (should note this could cannibalize new sales with increases used trucks on 
+the market) 
+- If candidate assumes 50% of years 2 and 3 are repurchased a year earlier 
+- Total Savings 35K trucks X $2K loss reduction/truck - $70M liability reduction – Other feasible 
+acceleration plans are acceptable 
+- Increase resale price through refurbishment (only if net positive) 
+ 
+Repurchase Agreement 
+Suggested Solution 
+ 
+
+
+===== PDF p174 =====
+- 169 - 
+In-house vs. Procured Parts 
+- Sale Price of Truck - $50,000 
+- Total Cost of Truck - $40,000 
+Percentage of Parts 
+Client 
+Competitor A 
+Competitor B 
+In-House 
+40% 
+50% 
+25% 
+Purchased 
+60% 
+50% 
+75% 
+Relative Costs per Part 
+Client 
+Competitor A 
+Competitor B 
+In-House 
+100% 
+80% 
+105% 
+Purchased 
+120% 
+140% 
+80% 
+
+
+===== PDF p175 =====
+- 170 - 
+ 
+ 
+- Ask candidate to calculate costs of in-house and procured parts 
+- In-house - $40K X 40% - $16K 
+- Procured - $40K X 60% - $24K 
+- Have candidate hypothesis why competitors have better costs structures and how client could achieve these: 
+- Economies of Scale 
+- Attempting to move to price leadership of one would hurt the other 
+- Opportunity to increase internal production and sell (Purchase Supplier) 
+- Have candidate calculate new price if they were able to match price leader for both in-house and procured 
+parts 
+- In-House – Savings of 20% X $16K – $3.2K 
+- Procured – Savings of 33% X $24K - $8K (40% reduction of 120% total is 1/3 savings) 
+- Total - $11.2K = 28% - Huge opportunity, but is it feasible? 
+ 
+ 
+ 
+Part Procurement 
+Suggested Solution 
+ 
+
+
+===== PDF p176 =====
+- 171 - 
+ 
+ 
+Candidates will not be required to calculate competitor costs 
+ 
+Part Procurement – Implied Costs 
+Suggested Solution 
+ 
+Implied Total Costs 
+Client 
+Competitor A 
+Competitor B 
+In-House 
+$16K 
+$16K 
+$10.5K 
+Purchased 
+$24K 
+$23.3K 
+$20K 
+Total 
+$40K 
+$39.3K 
+$30.5K 
+
+
+===== PDF p177 =====
+- 172 - 
+Client should look to accelerate repurchases to 
+reduce liability. Additionally, client should 
+investigate changing their part procurement strategy. 
+There may be opportunities to reduce costs.  
+ 
+ 
+ 
+ 
+Better understand market elasticity for used/new 
+trucks as these strategies will cannibalize sales from 
+one another. 
+Recommendation 
+It is important for the candidate to note that these 
+strategies could negative impact one another. More 
+readily available used trucks could reduce demand 
+for new trucks, while cheaper new trucks(if margin 
+isn’t increased) will make used trucks less appealing 
+and could increase the repurchase liability.  
+Interviewer Assessment 
+Conclusion 
+ 
+Next Steps 

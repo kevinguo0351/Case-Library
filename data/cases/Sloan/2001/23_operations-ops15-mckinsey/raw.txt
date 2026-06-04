@@ -1,0 +1,174 @@
+===== PDF p51 =====
+Consulting Case Interview Question 
+ 
+Case No.: OPS15 
+Firm:     McKinsey 
+Type of Case:  
+ 
+Brain Teaser  (Why are manhole covers round?) 
+ 
+Market Sizing  (How attractive is the market for fire trucks?) 
+X 
+Operations  (Pricing) 
+ 
+Declining Profits  
+ 
+ 
+Other (operations efficiency)  
+ 
+Marketing Problems 
+ 
+ 
+ 
+ 
+Initial Facts offered by interviewer:  [Please, relate the facts the interviewer gave to set up the question/problem. 
+Provide sufficient information so the case can be adequately understood!] 
+ 
+Our client is a used car dealership whose business has been stagnating in recent years.  They are 
+located in a low to middle-income area and in the past have only sold cars to customers who are 
+willing to pay 100% of the cost up-front or can achieve bank financing.  In order to boost sales, our 
+client is considering offering loans to customers that the dealership itself will finance.   
+ 
+To be eligible for a loan customers must undergo a complete credit check (which we assume to be 
+accurate).  The credit check rates potential car buyers on a scale of 0 to 100, where 0 corresponds to 
+a 0% chance of paying off the loan and 100 corresponds to a 100% chance of paying the loan in full.  
+Each loan only lasts 1 year in which payments are made monthly and the entire loan will be paid off 
+in 1 year’s time.  Buyers ultimately fall into two categories, those that pay off the loan entirely, and 
+those that default. 
+ 
+The Question(s): 
+What should be the cutoff level where we decide to give potential buyers the loan? 
+What issues might cause you to alter this cutoff-level? 
+ 
+The Solution 
+ 
+Desired Framework:  [Check all that apply.] 
+X 
+Cost-Revenue and Profitability 
+ 
+ 
+The 4 P’s of Marketing 
+ 
+The 3 C’s 
+ 
+ 
+Value Chain Analysis 
+ 
+Porter’s 5 Forces 
+ 
+ 
+Microeconomic Analysis 
+ 
+Internal-External Factors 
+ 
+ 
+Other____________________ 
+ 
+Additional Information for the Interviewer (not to be told to interviewee unless asked) 
+ 
+Average cost of car to dealership:  $6,000 
+Average price of car sold to customer:  $7,000 
+Minimum down payment for all customers:  $1,000 
+Average loan defaulter makes three months of payments before defaulting. 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+ 
+102 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 
+
+
+===== PDF p52 =====
+ 
+I did not really use a framework because this was more of a question of establishing where 
+the breakeven marks would lie.  I did all calculations on the average. 
+ 
+What is the average cost of each car and how much does our client sell them for? 
+ The dealership’s average cost per car is $6,000.  We sell them for an average of $7,000. 
+ 
+What is the minimum down payment?  Do all customers default at an amount relative to their 
+credit report (i.e. a potential buyer with an 80 credit rating will pay the down-payment and 80% of 
+the remaining loan)?  How much to we make on the loans? 
+The minimum down payment is $1,000 regardless of credit rating.  The average default is 
+after three months.  Assume we make nothing on the loans; they are only used to entice in 
+additional customers. 
+ 
+At this point, I stated to crank through some of the math. 
+ 
+We make only a profit margin of only $1,000 on each car. 
+For this to be worthwhile we must make more on additional cars sold and paid for in full 
+than what we lose in loan defaulters. 
+ 
+Average cost of car: 
+ 
+ 
+ $6,000 
+Average defaulter pays: 
+ 
+-$1,000 (down-payment) 
+ 
+ 
+ 
+ 
+ 
+-$1,500 (1/4 of total loan of $6,000) 
+Total loss to the dealership for a default: 
+ $3,500 
+ 
+This means that we need to have 4 good loans for every 1 loan to turn a profit/not lose 
+money. 
+ 
+If 4/5 of loans must be good, then a credit rating of 80 should be our cutoff.  
+ 
+At this point I drew the following graph for the interviewer to illustrate my point and to 
+discuss other issues to consider: 
+ 
+ 
+80%
+cutoff
+0 Profit
+Profits
+Losses
+ 
+                                                                                                                                                        103 
+Management Consulting Club  
+2001-2002 Case Book and Interview Guide 
+ 
+
+
+===== PDF p53 =====
+I would probably be tempted to raise the cutoff above 80, at least in the beginning.  This is for two 
+reasons- (1) We are not sure how successful our client will be with this process, so it would be better 
+to start more conservatively and if successful, ramp up the operation. 
+(2) At the 80 cutoff we are working very hard for diminishing profits, where at the 90 cutoff the 
+potential rewards are much higher. 
+ 
+Alternatives and other possible issues to consider: 
+• Another possible solution would be to lower the cutoff level for higher risk loans but raise the 
+minimum down payment required.  This would change our risk profile. 
+• Look at the cash flow situation of the client.  If a few unexpected bad loans in a row would 
+bankrupt our client, then we may want to raise the cutoff.   
+• Examine expected economic conditions looking forward.  If we sense that the economy will be 
+poor in the future, we also may want to increase the cutoff point. 
+• The use of warranties or add-ons, paid at the time of purchase, that force customers to pay more 
+up-front would also allow us to lower the cutoff levels.  For example, it we allow a customer to 
+purchase a two-year warranty for $1,000 that is paid for in full at the time of purchase, it reduces 
+our overall risk exposure.  
+ 
+ 
+ 
+ 
+ 
+ 
+104 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

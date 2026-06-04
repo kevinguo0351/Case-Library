@@ -1,0 +1,200 @@
+===== PDF p139 =====
+CASE #: 13
+Semi Truck Wing Spoilers
+Firm Style
+Interview Round
+McKinsey
+2
+Clarifying information (provide only if corresponding questions are asked) 
+The wings are useful because they improve a semi trucks MPG.
+WhistleTips has not yet developed specific manufacturing, distribution, or sales 
+strategies.
+Case Question
+Our client, WhistleTips, is an R&D firm located in the United States who has recently 
+patented a semi truck spoiler technology that reduces air resistance for semi trucks of all 
+types (show picture from page 2). When installed, the spoiler improves fuel efficiency by 
+25%. WhistleTips has no experience in the trucking or automotive industry, but they 
+believe that this is a game changing product and want to enter the market.  They have 
+asked us for help identify how they should enter this market and sell their product 
+(continue to question 1).
+
+
+===== PDF p140 =====
+Semi Truck Wing Spoilers
+
+
+===== PDF p141 =====
+Semi Truck Wing Spoilers
+• Question 1: In what ways could WhistleTips enter the market, 
+both on a manufacturing and distribution basis?
+• Manufacturing answers:
+• Production Style: 
+•
+Made‐to‐order
+•
+Large batch production
+• Manufacturing Capabilities:
+•
+Create own manufacturing facility
+•
+Contract manufacturing
+• Distribution answers:
+• Physical storefront
+• Online presence
+• Partnership with current semi truck retailers
+• Wholesale to trucking companies
+• Outreach to independent semi truck drivers
+
+
+===== PDF p142 =====
+Semi Truck Wing Spoilers
+• Question 1 Guidance
+• Ask the interviewee to dive further for an explanation of the 
+benefits and risks for each of the potential options
+• Up‐front‐costs for own manufacturing plant, quality issues with contract 
+manufacturing, difficulties of reaching a new consumer base without 
+partnering with current retailers, 
+• Push the interviewee to find out what additional information would 
+help make the decision easier (i.e.)
+• Initial investment costs
+• The size of the market
+• The patent protection outside of the United States.
+• Potential competitors in the market
+• The willingness of the industry to adopt the new technology
+• The industry’s fragmentation
+
+
+===== PDF p143 =====
+Semi Truck Wing Spoilers
+• Question 2: Our client has provided us the following 
+information on truck driving statistics. How many 
+more miles (on average) will the truck travel per 
+gallon with the spoiler installed?
+
+
+===== PDF p144 =====
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Relative of Frequency Driving 
+Speeds
+>75 mph
+50‐75 mph
+25‐50 mph
+<25 mph
+Percent of Time 
+
+
+===== PDF p145 =====
+0
+5
+10
+15
+20
+25
+<25
+25‐50
+50‐75
+>75
+MPG for each Speed
+
+
+===== PDF p146 =====
+Semi Truck Wing Spoilers
+• Question 2 Guidance
+• Interviewee should determine the following using the graph:
+• Using this information, find the weighted average of MPG:
+• (20*0.1 + 15*0.2 + 12*0.5 + 5*0.2) = 12 MPG
+• Recall that spoiler improves efficiency 25% from prompt:
+• 12*(1+0.25) = 15 MPG
+• Therefore, the truck will travel 3 more miles per gallon with the spoiler 
+installed 
+MPH Range
+MPG
+Time Spent in Range
+<25
+20
+10%
+25‐50
+15
+20%
+50‐75
+12
+50%
+>75
+5
+20%
+
+
+===== PDF p147 =====
+Semi Truck Wing Spoilers
+• Question 4: What is the total savings per truck by 
+installing the spoiler?
+
+
+===== PDF p148 =====
+Semi Truck Wing Spoilers
+• Question 4 Guidance
+• Provide the following only when asked:
+• Miles driven per year: 18,000
+• Cost per gallon: $2.60
+• Expected useful life of wing: 5 years
+• Simplified Math Analysis:
+• Total gallons used without spoiler: (18,000/12) = 1,500
+• Total gallons used with spoiler: (18,000/15) = 1,200
+• Gallons saved per year: 1,500‐1,200 = 300
+• Total savings per year = 2.6*300 = $780
+• Total savings over useful life = $780*5 = $3,900
+
+
+===== PDF p149 =====
+Semi Truck Wing Spoilers
+• Question 5:  WhistleTips has decided to enter the market using a 
+contracted manufacturer. They would like to recoup their R&D costs in 
+the first year.  Based on a market size of 20,000 semi trucks in the 
+United States, how would you suggest WhistleTips price the spoiler? 
+What concerns do you have about this price? 
+
+
+===== PDF p150 =====
+Semi Truck Wing Spoilers
+• Question 5 Guidance
+• First, the interviewee would want to calculate the required contribution 
+margin to cover R&D costs assuming a specific market penetration:
+• Provide when asked: 
+• R&D cost: $8,000,000
+• Production cost (push interviewee to list potential costs)
+• COGS for the spoiler using the contracted manufacturer: $900
+• SG&A per Spoiler: $100
+• Assume 20% penetration: 4,000 trucks (can vary, must justify answer)
+• Required contribution per unit to cover R&D: $8,000,000/4,000 trucks = 
+$2,000
+• Therefore, price must be at least: $2,000 (margin) + 1,000 (cost) = $3,000
+• Recognize that this is less than the total expected savings on the 
+truck, so there is still value being delivered to the truckers
+
+
+===== PDF p151 =====
+Semi Truck Wing Spoilers
+• Question 5 Guidance continued
+• Price could be anywhere between $3,900 and 3,000: push to answer what 
+exact price they would sell at and why
+• Delayed savings (5 years) for truck may lead to low sales at the 
+$3,900 price due to time value of money
+• Selling at $3,000 would cover R&D first year but minimize overall 
+profitability
+• Discuss concerns about selling at your given price target:
+• Market Penetration (is 20% or whichever value they give 
+achievable?)
+• No established brand or sales team
+• Competition (new player entering market undercutting price)
+• Savings based on gas price (variable, if price goes down overall 
+savings per truck go down)

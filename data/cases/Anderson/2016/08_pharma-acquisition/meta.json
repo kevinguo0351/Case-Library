@@ -1,0 +1,24 @@
+{
+  "case_id": "Anderson_2016_08_pharma-acquisition",
+  "school": "Anderson",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2016.pdf",
+  "idx": 8,
+  "case_name": "Pharma Acquisition",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Pharmaceuticals",
+  "difficulty": null,
+  "pdf_page_start": 37,
+  "pdf_page_end": 39,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    37,
+    39
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p037.png",
+    "exhibits/exhibit_p039.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2016\\08_pharma-acquisition"
+}

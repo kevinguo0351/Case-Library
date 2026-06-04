@@ -1,0 +1,386 @@
+===== PDF p120 =====
+116
+Lizard Insurance
+Bain | Round 1 | Acquisition
+
+
+===== PDF p121 =====
+117
+Bain | Round 1 | Acquisition 
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E  
+LIZARD INSURANCE
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  W h a t  i s  t h e  
+g r e a t e s t  a s s e t  
+t h a t  y o u  w i l l  
+b r i n g  t o  o u r  
+f i r m ?
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. Does Lizard Insurance have any experience in the software space? No – they would need to develop 
+capability.
+2. What is TechSize? The TechSize software makes it easier to comply with government regulations when a 
+customer moves from state to state.
+3. Does Lizard Insurance have plans for TechSize? No – they bought MediumSure for other reasons and don’t 
+have plans for TechSize. 
+4. How does Lizard Insurance make money? They sell auto-insurance direct to consumer and collect monthly 
+premiums.
+5. How does TechSize make money? They sell B2B services helping insurance providers comply with 
+government regulations.
+Prompt: 
+Our client, Lizard Insurance, is a US-based auto insurance provider that recently 
+acquired a rival auto insurance company MediumSure. As a part of the acquisition, 
+Lizard Insurance also acquired a subsidiary of MediumSure named TechSize, that 
+provides software for many insurance companies. Lizard Insurance wants to know 
+what they should do with TechSize, and they’ve brought us in to help.
+
+
+===== PDF p122 =====
+118
+Framework Guidance: There are other ways to approach this framework but a strong candidate will 
+realize that there is a binary choice with this asset – to hold it or to sell it. 
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+•
+Keep – and invest or hold 
+•
+Sell – either spinning off part or all of TechSize
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+How to Move Forward:
+•
+If the candidate has a more traditional profitability framework, lead them to the initial question of Keep or Sell. Then ask the candidate to analyze the keep option. 
+UVA Darden School of Business 2019-20 case book
+Keep
+Do Nothing
+Try to Grow
+Grow 
+Inorganically
+Acquire 
+Additional 
+Players
+Grow 
+Organically
+Cross-sell / up-
+sell
+Sell
+Partial Sale
+License IP
+Joint Venture
+Full Sell
+Spin off into 
+new company
+Find a buyer
+
+
+===== PDF p123 =====
+119
+Discussing the keep option: 
+•
+Present the following information if/when asked:
+•
+TechSize requires substantial investments and upgrades in the next 2 years to maintain market position
+•
+Given the vastly different nature of the subsidiary’s product, there are no cross-selling or up-selling 
+opportunities between TechSize (a B2B business) and Lizard Insurance Co. (a B2C business).
+•
+Switching our services over to utilize TechSize would be costly, and would not reduce processing costs by 
+any significant amount (no real cost synergies introduced with TechSize).
+•
+There is no appetite for additional acquisitions by Lizard Insurance of companies in TechSize’s industry.
+•
+There was a recent acquisition by a competitor for a company in the same industry as TechSize
+•
+If the candidate asks for market information – give them exhibits 1 and 2
+•
+From the exhibits, the candidate should realize that the market is not attractive, as it is stagnant and 
+fragmented. 
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+How to Move Forward:
+At this point, the candidate should realize that the Keep option is unpalatable and decide to move into sale. . 
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p124 =====
+120
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Software Guru
+Insurance App Co
+TechSize
+Goggle
+Next Ten Players
+Insurance Software Market Share
+EXHIBIT 1: INSURANCE SOFTWARE MARKET 
+SHARE
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+
+
+===== PDF p125 =====
+121
+$0.00
+$1.00
+$2.00
+$3.00
+$4.00
+$5.00
+$6.00
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Insurance Software Market Size ($B)
+EXHIBIT 2: INSURANCE SOFTWARE MARKET 
+SIZE
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+
+
+===== PDF p126 =====
+122
+Discussing the sale option: 
+•
+Ask the candidate to brainstorm some ways they might be able to determine a sale value for TechSize, 
+options should include: 
+•
+DCF 
+•
+Industry Multiples 
+•
+Comparable transactions
+•
+Lead them to ask for company values. Once they do, present them with Exhibit 3. 
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+How to Move Forward:
+Candidate should move into calculating an EBITDA multiple for TechSize based on Exhibit 3
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p127 =====
+123
+EXHIBIT 3: INFORMATION ON 2020 
+ACQUISITIONS
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+Company Name
+Description
+2020 EBITDA
+Selling Price
+Fill-Your-Forms
+A personalized service for 
+high net worth individuals 
+where a lawyer can be 
+contracted to fill out forms 
+on demand.
+$25 Million
+$125 Million
+Tech Toy Company
+Children’s toy company 
+specializing in developing 
+educational toys for use 
+in schools
+$1.5 Billion
+$20 Billion
+Insurance App Co.
+Insurance software that 
+automates elements of 
+the insurance application 
+process
+$300 Million
+$1.5 Billion
+
+
+===== PDF p128 =====
+124
+Guidance on Exhibit 3: 
+•
+The candidate should realize that they can use the information in exhibit 3 to find EBITDA multiples. 
+•
+A great candidate will also recognize that Tech Toys Co is not a comparable company and exclude that from 
+any analysis. 
+•
+Using the remaining information, the candidate should deduce that they can sell TechSize for 5 x EBITDA. 
+•
+A great candidate will realize that they can find TechSize’s revenue using Exhibits 1 and 2. 
+By taking 15% market share * the total market of $5.5B in 2020, they can get a revenue of $825M. 
+•
+The candidate will need to ask for an operating margin (or EBITDA as a % of revenue) – tell them 25%
+•
+EBITDA = $825 * 25% = $206M 
+•
+Sale value @ 5x EBITDA = $206 * 5 = $1.03B 
+•
+Ask the candidate to provide their recommendation
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+How to Move Forward:
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p129 =====
+125
+CONCLUSION
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E
+UVA Darden School of Business 2010-20 case book
+“The client’s CEO is heading up the elevator, what do you recommend?”
+Recommendation:
+•
+Candidate should recommend selling off TechSize due to limited market potential and lack of synergies 
+•
+Analysis shows the company could be worth $1B based on comparable multiples and 2020 EBITDA 
+Risks include:
+•
+Lack of buyers 
+•
+Small sample size of multiples 
+Next Steps:
+•
+Due diligence on buyers 
+
+
+===== PDF p130 =====
+126
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p131 =====
+127
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Software Guru
+Insurance App Co
+TechSize
+Goggle
+Next Ten Players
+Insurance Software Market Share
+EXHIBIT 1: INSURANCE SOFTWARE MARKET 
+SHARE
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E  - A P P E N D I X
+Services Revenue
+
+
+===== PDF p132 =====
+128
+$0.00
+$1.00
+$2.00
+$3.00
+$4.00
+$5.00
+$6.00
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Insurance Software Market Size ($B)
+EXHIBIT 2: INSURANCE SOFTWARE MARKET 
+SIZE
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E  - A P P E N D I X
+
+
+===== PDF p133 =====
+129
+EXHIBIT 3: INFORMATION ON 2020 
+ACQUISITIONS
+0 7  |  C A S E :  L I Z A R D  I N S U R A N C E  - A P P E N D I X  
+Company Name
+Description
+2020 EBITDA
+Selling Price
+Fill-Your-Forms
+A personalized service for 
+high net worth individuals 
+where a lawyer can be 
+contracted to fill out forms 
+on demand.
+$25 Million
+$125 Million
+Tech Toy Company
+Children’s toy company 
+specializing in developing 
+educational toys for use 
+in schools
+$1.5 Billion
+$20 Billion
+Insurance App Co.
+Insurance software that 
+automates elements of 
+the insurance application 
+process
+$300 Million
+$1.5 Billion

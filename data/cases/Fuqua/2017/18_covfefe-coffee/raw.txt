@@ -1,0 +1,188 @@
+===== PDF p206 =====
+Covfefe Coffee
+202
+Industry: Manufacturing
+Quantitative Level: Hard
+Qualitative Level: Medium
+
+
+===== PDF p207 =====
+Behavioral Questions
+203
+• Tell me about a time when you had to influence a leader in the organization
+– Answer needs to be concise and top down
+– Interviewer should ask for specific examples
+– Interviewer should ask what people’s reactions were and judge the complexity of the situation 
+based on responses
+Question 1:
+• What has been your biggest non-professional achievement
+– Understand what makes the achievement commendable in the interviewee’s mind 
+– Answer needs to be concise and top down
+– Understand the scale of the personal achievement and the change the interviewee had to go 
+through to accomplish this
+Question 2:
+
+
+===== PDF p208 =====
+Covfefe Coffee
+204
+• Covfefe a Colombian coffee company has had issues meeting its customer demand 
+over the past few months. They have one manufacturing plant which used to be able 
+to meet the customer demand, but now for some reason they cannot. Mr. Drumpf, 
+the CEO of Covfefe has hired you to figure out what’s going on, and make a 
+recommendation. Do you have any initial questions before we move on?
+Prompt #1:
+• Manufacturing plant is in the US and only serves the US market
+• Demand has been steady over the time frame considered
+• Covfefe makes 5 types of coffee and all of them have very similar demand
+• Only answer questions directly related to the prompt, this is not where the 
+interviewee should start building a framework 
+Interviewer Guidance:
+
+
+===== PDF p209 =====
+Covfefe Coffee
+205
+• How would you structure this problem? What aspects of Covfefe’s manufacturing 
+plant would you consider? Covfefe wants to be able to make 75k more coffee bags
+Prompt #2:
+• This is an OEE case (Overall Equipment Effectiveness), the interviewee should think 
+in 3 buckets (catering the problems to coffee is an added bonus)
+– Availability: “Lights on time”, was the plant operating long enough to make the customer 
+demand. Things such as scheduled maintenance, planned shutdowns would be considered in 
+this bucket
+– Performance: Of the time that the plant was running, how well did it perform? Any delays or 
+unplanned downtime due to machine breakdowns, operator issues etc. would be considered 
+in this bucket
+– Quality: Coffee bags that were not to quality specification or any other quality issues
+• Give the interviewee the next exhibit once he/she gets all these three buckets
+Interviewer Guidance:
+
+
+===== PDF p210 =====
+Exhibit #1
+206
+3.6
+4.8
+2.4
+1.2
+Running Time
+13.2
+Planned 
+Downtime
+Unplanned 
+Maintenance
+Unplanned 
+Ops
+Actual 
+performance
+12.0
+Quality Loss
+Scheduled 
+Time
+20.4
+Total
+24.0
+Unit of measurement: hours
+
+
+===== PDF p211 =====
+Interviewer guidance on Exhibit 1
+• Ask interviewee to calculate the 
+percentage for planned downtime, 
+unplanned maintenance, unplanned 
+operations and quality losses
+• Interviewee should see that planned 
+downtime and unplanned maintenance 
+are the 2 biggest buckets that need to be 
+focused on
+This are the percentages that the 
+interviewee should get:
+• Planned Downtime: 15% (3.6/24)
+• Unplanned Maintenance: 20% (4.8/24)
+• Unplanned Ops: 10% (2.4/24)
+• Quality Losses: 5% (1.2/24)
+207
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p212 =====
+Exhibit #2
+208
+Unit of measurement: hours
+650
+700
+150
+Maintenance 
+projects
+Capital 
+Projects
+Breaks
+Planned Downtime Breakdown
+890
+750
+520
+Other
+Mechanical 
+Breakdowns
+Electrical 
+Breakdowns
+Unplanned Maintenance Breakdown
+Cycle time per coffee bag: 45 seconds
+
+
+===== PDF p213 =====
+Interviewer guidance on Exhibit 2
+• Ask interviewee how many more bags of coffee 
+can you get if you resolved all the given 
+downtime?
+• Interviewee should figure out that “Other” is the 
+largest downtime and its not classified. This 
+should peak the interviewee’s curiosity and 
+make him/her think about why that is so
+• Interviewee should remember that Covfefe
+wants to make 75k more coffee bags and pick 
+which of the downtime reasons to tackle to be 
+able to make that additional demand
+• Assumption: 50% of Electrical, Mechanical and 
+Maintenance projects gives us 30k, 20.8k and 
+28k which gives us the 75k additional bags that 
+we need to make (important to note that you 
+cannot resolve 100% of any of these issues)
+45 seconds per bag = 80 bags an hour 
+(3600/45 = 80)
+209
+Exhibit #2 Guidance:
+Analysis:
+Downtime
+Extra 
+capacity
+Breaks
+12k bags
+Capital Projects
+56k bags
+Maintenance projects
+52k bags
+Mechanical breakdowns
+41.6k bags
+Electrical breakdowns
+60k bags
+Other
+71.2k bags
+
+
+===== PDF p214 =====
+Covfefe Coffee
+210
+• Mr. Drumpf just walked into the room and wants to hear your recommendation
+Recommendation 
+• In order to make the additional 75k bags, Covfefe should focus on reducing planned 
+downtime and unplanned maintenance issues by at least 50% specifically focusing 
+on:
+– Maintenance projects
+– Mechanical breakdowns
+– Electrical breakdowns
+• There should also be more focus put on identifying the root causes behind the 
+“Other” category 
+Interviewer Guidance:

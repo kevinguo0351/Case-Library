@@ -1,0 +1,30 @@
+{
+  "case_id": "Anderson_2015_29_contract-manufacturer-co",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 29,
+  "case_name": "Contract Manufacturer Co.",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": "medium",
+  "pdf_page_start": 159,
+  "pdf_page_end": 166,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    161,
+    162,
+    163,
+    164,
+    165
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p161.png",
+    "exhibits/exhibit_p162.png",
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p164.png",
+    "exhibits/exhibit_p165.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\29_contract-manufacturer-co"
+}

@@ -1,0 +1,238 @@
+===== PDF p123 =====
+Case 15: Alpha Software, Inc. 
+Prompt #1
+Our client, Alpha Software, provides technology software to pharmacies. Alpha product is a highly 
+customizable inventory tracking system. Because of the necessary customization, the time from sale 
+to delivery is on average 12 months. Alpha is considering buying a competitor, Bravo Software. 
+Bravo also sells an inventory tracking products to pharmacies, however its product is less 
+customizable. The average time from sale to delivery is 3 months. 
+Should Alpha buy Bravo?
+Guidance
+Provide the following information on request:
+• The client’s business process is as follows: 
+1. A sales person sells the software to a pharmacy. 
+2. The customization team customizes the product and delivers it to the client. 
+3. The service team handles customer service requests and coordinates maintenance. 
+The candidate should use an M&A framework, walking through the potential pros/cons of the 
+acquisition. Guide the candidate to hypothesize that Alpha can increase their revenue and reduce 
+costs through consolidating the duplicative cost centers of the merged company. 
+Decision Round
+119
+
+
+===== PDF p124 =====
+Case 15: Alpha Software, Inc. 
+Prompt #2
+What are some costs centers for the two companies?
+Guidance
+Cost Centers for Businesses (a strong candidate should included in their framework)
+• Executive salaries
+• Legal, HR, support function staff
+• Advertising and Marketing
+• Sales team
+• Technology customization team
+• Customer service & maintenance support team
+• Overhead (office space, insurance, etc.)
+It is appropriate to break out the labor by function because consolidation will impact each of these 
+cost centers differently.  The candidate may also identify production and distribution of the software 
+as cost.  This cost is minimal in the case of Alpha and can be disregarded. 
+Decision Round
+120
+
+
+===== PDF p125 =====
+Guidance
+Once the candidate has brainstormed potential costs, provide Exhibit 1.  
+Provide them with the following info upon request:
+Revenue: Alpha- 450M. Bravo- 350M. 
+The candidate should calculate profit margin for both Alpha and Bravo.  If they don’t prompt them:
+• Alpha Profit Margin= (Revenue-Costs)/Revenue= (450-300)/450= 33%
+• Bravo Profit Margin= (Revenue-Costs)/Revenue= (350-210)/350= 40%
+The candidate should note Bravo’s higher profit margin. This indicates Bravo has better control of its 
+costs than Alpha. This suggests Bravo could be a good buy for Alpha. 
+Guide the candidate to calculating the profit margin for the merged company.  A strong candidate should 
+not need this prompting
+Case 15: Alpha Software, Inc. 
+Decision Round
+121
+
+
+===== PDF p126 =====
+Case 15: Alpha Software, Inc. 
+Alpha (millions)
+Bravo (millions)
+Executive/Legal/HR
+100
+76
+Advertising & 
+Marketing
+27
+16
+Sales
+56
+34
+Customization
+49
+22
+Customer Service
+48
+33
+Overhead
+20
+29
+Decision Round
+Exhibit 1: Cost Comparisons for Alpha and Bravo
+122
+
+
+===== PDF p127 =====
+Prompt #3
+After reviewing the cost centers, what amount of savings can the merged Alpha and Bravo company 
+expect for each cost center?  Justify your answer with reasoning.
+Guidance
+There is no correct numerical answer; look for the candidate’s logical thinking. 
+Once the candidate has answered provide Exhibit #2 and have them calculate the overall savings. 
+NOTE: There are two version of Exhibit #2.  One that requires calculating the cost per cost 
+center.  USE THIS FOR STRONG CANDIDATES, OR ONES THAT NEED WORK ON QUANT.
+Candidate should calculate the costs for the merged company (unless using easier Exhibit 2), then the 
+profit margin. Candidate can assume that revenues from the merged company would be equal to the 
+combined revenues from individual companies. If they don’t do this automatically, prompt them..
+Alpha 2.0 Profit Margin = (Revenue-Costs)/Revenue ~ ($800-$350)/$800 ~ 55%
+The candidate should note Alpha 2.0’s higher profit margin. The candidate should come to the conclusion 
+that based upon a comparison of profit margins, Alpha should buy Bravo, assuming the price is right. 
+Case 15: Alpha Software, Inc. 
+% Decrease 
+(New Amount)
+Reason for decrease
+Executive/Legal/HR
+35% (114)
+Fewer employees needed
+Advertising & Marketing
+50% (21)
+Market both products in current channels
+Sales
+10% (81)
+Minimal impact- different clients 
+Customization
+15% (60)
+Minimal impact- product customization requires 
+different skills
+Customer Service
+35% (52)
+Similarly skilled labor force
+Overhead
+60%  (20)
+Office, insurance will decrease
+Decision Round
+123
+
+
+===== PDF p128 =====
+Case 15: Alpha Software, Inc. 
+% Decrease
+Reason for decrease
+Executive/Legal/HR
+35%
+Fewer employees needed
+Advertising & Marketing
+50%
+Market both products in current 
+channels
+Sales
+10%
+Minimal impact- different clients 
+Customization
+15%
+Minimal impact- product
+customization requires different skills
+Customer Service
+35%
+Similarly skilled labor force
+Overhead
+60%
+Office, insurance will decrease
+Decision Round
+Exhibit 2: Cost Comparisons for Combined Alpha and Bravo
+124
+
+
+===== PDF p129 =====
+Case 15: Alpha Software, Inc. 
+% Decrease 
+(New Amount)
+Reason for decrease
+Executive/Legal/HR
+35% (114)
+Fewer employees needed
+Advertising & Marketing
+50% (21)
+Market both products in current 
+channels
+Sales
+10% (81)
+Minimal impact- different clients 
+Customization
+15% (60)
+Minimal impact- product
+customization requires different skills
+Customer Service
+35% (52)
+Similarly skilled labor force
+Overhead
+60%  (20)
+Office, insurance will decrease
+Decision Round
+Exhibit 2: Cost Comparisons for Combined Alpha and Bravo
+125
+
+
+===== PDF p130 =====
+Case 15: Alpha Software, Inc. 
+Prompt #4
+If Alpha were to move forward with the purchase, how would you determine what price 
+would they pay for Bravo?
+Guidance
+The candidate does not need to calculate a numerical value. The candidate can suggest (among 
+other things) that Alpha: 
+• Look to comparable sales, 
+• An NPV calculation using predicted future, 
+• Using an EBITDA multiple.  If the candidate suggests an EBITDA multiple, the multiple should be 
+low (10-20) instead of high (60-70) because the pharmaceutical software industry is low growth. 
+The purchase will also depend on Alpha’s current outstanding debt, and its ability to obtain 
+financing. The candidate can also highlight some additional considerations that will impact the 
+merger such as human capital or technology integration. 
+Decision Round
+126
+
+
+===== PDF p131 =====
+Performance 
+Evaluation
+Expected:
+•
+Provides a MECE framework
+•
+Correctly calculates profit margins
+•
+Lists some cost centers
+•
+Provides at least two ways to value the target company
+•
+Able to articulate reasons for cost savings through consolidation
+Good:
+•
+Before prompted, moves to calculate profit margin of merged company
+•
+Breaks out labor into specific business processes, recognizing that consolidation will impact each 
+labor force differently
+Excellent:
+•
+Probes expected revenue of merged company and identifies the buyout as an opportunity for a 
+competitor to target both companies current customers, with a potential for decreased revenue 
+for merged company
+•
+Suggests some alternative considerations beyond profit margin and financing to consider in the 
+purchase
+Case 15: Alpha Software, Inc. 
+Decision Round
+127

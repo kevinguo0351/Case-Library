@@ -1,0 +1,118 @@
+===== PDF p127 =====
+38.) Carpet Manufacturer (McKinsey, Round 1) 
+Stem: Your client is a carpet manufacturer that sells to both commercial and residential 
+customers. Your current production process is as follows: 
+Buy dyed/pre-colored yarn 
+Load yarn spools in a specific order onto machine 
+Weave yarn into carpet 
+Run carpet through carpet backing machine 
+Cut, roll, and store the finished carpet 
+You are considering investing in a new technology that will cost $25M (initial investment). 
+With the new technology your production process will change to the following: 
+Buy un-dyed yarn 
+Spool yarn 
+Weave yarn into carpet 
+Die carpet through a printing process, much like an inkjet printer 
+Cut, roll, and store the finished carpet 
+The client wants to know if they should invest in the new technology. 
+Phase 1: Differentiating current carpet from new carpet (if asked) 
+Candidate: If I may clarify, will the carpet made with the new technology be different in any 
+way from the current product? 
+Interviewer: We can assume that the new carpet will have a better texture and can therefore be 
+sold at a higher end offering. 
+Phase 2: What do you expect would be the likely impacts on our costs? 
+Yarn costs decrease ~ only buy un-dyed yarn 
+Ink costs increase 
+Labor decreases on spool loading 
+Maintenance costs of new machine 
+Electricity costs increase 
+Training .costs for new machine 
+Warehousing costs decrease from ability to quickly make to order 
+Phase 3: What would you take into account to decide if this was a good investment? 
+Focus on the costs; look for an answer of valuing the cost savings. However,could you also 
+increase your revenue by selling the carpets at a higher price point? 
+-....... Management 
+1111111111 Consulting 
+~~"!'~!~,~~ Club 
+2010-2011 1st Year Case Book 
+173 
+
+
+===== PDF p128 =====
+"We have aggregated the changes in costs, and it turns out that we will save 25 cents per 
+finished yard of carpet. How would you value the investment?" 
+Provide following data when asked: 
+We produce 10M yards of finished carpet per year 
+The machine has a 10 year useful life 
+Possible answer: 10M yards * .25 savings ~ $2.5M savings per year. 
+$2.5M per year * 10 years = $25M savings. 
+Recognize the time value of money, so this wouldn't really break even in today's dollars just 
+based on cost savings. Not to mention that we're not taking into account maintenance costs of 
+the machine, as well as the ink itself. 
+"So what would you have to believe in order to justify this investment?" 
+Possible answers: 
+We would be able to sell for a higher price, and increase revenue 
+We would be able to win market share from our competitors, and increase revenue 
+We would be able to serve new markets, and increase revenue 
+We would be able to be more flexible in our offerings, since we can dye the yarn on demand, 
+instead of forecasting which pattern will be the most successful. 
+Phase 4: Turns out we can sell the new, higher quality carpet for $20/yard, which is a 25% 
+premium over the standard carpet. "Ve would still be able to produce and sell the standard 
+carpet as well. What types of things would you think about in this scenario? 
+Possible answers: 
+Cannibalization of old customers 
+New customers that you couldn't previously serve 
+Phase 5: "Turns out we have done research, and now know that 30% of our existing 
+customers would upgrade to the new carpet. Also, there is a 70M yard/year market for 
+higher quality carpet that we couldn't sell to previously. 'Ve estimate we could capture 5% 
+of that market. What would the incremental revenue be given we start selling the high 
+quality carpet? 
+Possible answer: 
+...... Management 
+1111111111 Consulting 
+~~~I~:.~ Club 
+2010-2011 1
+st Year Case Book 
+174 
+
+
+===== PDF p129 =====
+Standard carpet price must have been $16/yard 
+We're told that we produce 10M yards of finished carpet, so we will assume that all 10 are 
+sold ~ 30% are cannibalized, so we now will sell only 7M yards of the standard carpet. 
+New carpet sales: 3M + 3.5M (5% of 70M) = 6.5 
+Old revenue: 1 OM* 16 = 160M 
+New revenue: 7M*16 + 6.5M*20 = 112M + 130M = $242M 
+Incremental revenue is $82M 
+Phase 6: Given this new information, what would you say about the NET incremental 
+revenue from this machine? 
+Look for: 
+\X/ e are selling 3.51\1 yards more than before so there would be an additional production cost. 
+This would be the difference between the production cost of 10M yards of standard carpet, 
+and 7M standard and 6.5M new carpet. 
+To calculate NET incremental revenue they will need cost figures. When prompted: 
+o The cost per yard of the original carpet was $1 O/yard 
+Old production costs: 10M * $10/yard = 100M 
+New production costs: 
+o 
+Standard carpet: 7M * $10/yard = 70M 
+o 
+New carpet: 6.5M * 9.75/yard = (roughly) 65M - 1.6M = ~63M (exactly 63.36) 
+o 
+Total costs: 133M 
+Net incremental costs: 133M - 100M = 33M 
+Net Incremental Revenue: 82M - 33M = 49M per year 
+Phase 7: Provide Recommendation 
+I would suggest going forward with the acquisition of the new machine. We can definitely tap 
+into a new high-end market, and can make additional $49M net revenue per year. I would look 
+into the expected maintenance costs, and verify the cost trend for the ink itself. 
+~ 
+~~ 
+-
+~~-
+~~--~ 
+........ Management 
+1111111111 Consulting 
+~~~~/!'~.~ Club 
+2010-2011 1st Year Case Book 
+175 

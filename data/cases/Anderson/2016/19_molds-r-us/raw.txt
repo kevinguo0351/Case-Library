@@ -1,0 +1,204 @@
+===== PDF p94 =====
+Case 19: Molds R Us
+UCLA Anderson Casebook 2016
+90
+Business Problem Statement
+Our client is a private equity firm interested in Molds  R Us, small company that makes plastic moldings for  
+houses in Russia. They want to know if we think  investing in this company is a good idea. The firm  also 
+wants to understand what the 2011 market for moldings, particularly in plastics, will look like.
+Interviewer Guidance
+The following information is available to the candidate upon request:
+•
+The PE firm wants to see growth of 20% in the first  year to justify this purchase
+•
+This company only plays in the Russian market and  the PE firm is not interested in expanding across  borders
+•
+This company is the only player in plastic moldings
+•
+Moldings are used where walls meet the ceiling to  add a decorative appeal to houses and are only used in 
+residential buildings
+•
+All housing starts require molding in the year they  are started, and are all completed by the next year
+•
+Molding Product Mix (Exhibit A)
+•
+Market Size and Competitive Landscape (Exhibit B)
+Question 1: Our client wants to know if we think investing in this company is a good idea. The 
+firm also wants to understand what the 2011 market for moldings, particularly in plastics, will 
+look like.
+The interviewer can provide the below additional information as necessary:
+•
+Once the candidate lays out a framework and asks the relevant questions you should give them Exhibits A and 
+B.
+•
+Size of the Market: Ask the candidate to size the market for you and hand over Exhibit A. See chart in 
+
+
+===== PDF p95 =====
+Case 19: Molds R Us
+UCLA Anderson Casebook 2016
+91
+Question 2: After the candidate analyzes the exhibits ask them to calculate their estmate for the 
+number of meters of plastic moldings being sold in 2011.
+Information for the interviewer:
+•
+General approach should be to multiply market share of plastics for 2010 by # of residences in 2011 (2010 total 
+residences + 2010 starts) plus estimated housing starts in 2011. 
+•
+Note – only 1/5 of existing residences replace moldings each year because of every 5 year replacement rate
+Analysis Guidance
+•
+34.3M Residences + ~1.4M Starts = Approx. 35.7M houses in 2011 
+•
+34.3M Residences * 25% market share of plastic moldings = 8.6M houses
+•
+8.6M Residences/5 years (replace moldings) = 1.7M existing houses replacing moldings in 2011
+•
+Estimated 1.4M Housing starts in 2011 *25% market share = .35M
+•
+So, 1.7M existing homes + .35M starts = 2.05M Houses in 2011 using plastic moldings
+•
+2.05M*4K meters of wall per house = 8.2B meters of plastic moldings being sold in 2011.
+Probe the candidate for so what if they don’t take this number to the next level.
+•
+Essential to this case is understanding future growth in plastic moldings, and whether that will allow the P.E. 
+Fund to reach its 20% growth goal.
+Performance and Evaluation
+Recommendation
+•
+The PE firm should not purchase Molds R Us. Plastic molding market share is stagnant among all moldings 
+sold. The overall growth in housing does not make up for the stagnant growth and they will not grow 
+revenues by 20% in their first year.
+Expected
+•
+Accurate arithmetic with solid calculations on meters of plastic molding being sold.
+Good
+•
+Candidate recognizes majority of plastic volume comes from existing homes (85%) instead of new homes (15%) 
+and thus recognize that the overall market growth will fall well short of required revenue growth target of 20%.
+Excellent
+•
+Completes all “Good” requirements
+•
+Candidate identifies strong Next Steps for achieving 20% growth target including: 
+•
+The PE firm should look at rubber molding companies to see if there is an opportunity to purchase an 
+organization because of high growth of market share in the market.
+•
+They should look at the sales and marketing of Molds R Us to see if there is opportunity to spurn sales to 
+increase growth by investing in marketing, distribution, or sales channels.
+
+
+===== PDF p96 =====
+Case 19: Molds R Us
+UCLA Anderson Casebook 2016
+92
+Exhibit 1
+Molding Options
+No 
+Molding
+PVC Plastic 
+Molding
+Rubber 
+Molding
+Wood 
+Molding
+Plaster 
+Molding
+Price per 10Meters
+0
+1Ruble
+1.5Rubles
+5Rubles
+15Rubles
+Installation 
+Requirements
+None
+NeedContractor
+DIY
+Need 
+Contractor
+Need 
+Contractor
+Replacement
+None
+Every 5 years
+Every 7 Years
+Every10 
+Years
+Every 25 Years
+Other important information
+A contractor can lay down 1000 feet of molding perhour 
+A contractor makes, on average, $50 Rubles per hour 
+The average house has 4000 Meters of walls
+
+
+===== PDF p97 =====
+Case 19: Molds R Us
+UCLA Anderson Casebook 2016
+93
+Exhibit 2
+Moldings Used in the Russian Market
+2005
+2006
+2007
+2008
+2009
+2010
+49%
+48%
+47%
+47%
+46%
+45%
+25%
+26%
+26%
+26%
+26%
+25%
+7%
+13%
+9%
+8%
+8%
+8%
+8%
+7%
+11%
+12%
+18%
+16%
+16%
+15%
+0%
+1%
+2%
+5%
+No  Moldings
+PVC Plastic Moldings
+Rubber  Moldings
+Wood Moldings
+Plaster Moldings
+2005
+2006
+2007
+2008
+2009
+2010
+Total 
+Residences
+29,689,297
+30,145,394
+30,696,939
+31,375,374
+32,170,804
+33,122,149
+Housing 
+Starts
+456,097
+551,545
+678,435
+795,430
+951,345
+1,245,890

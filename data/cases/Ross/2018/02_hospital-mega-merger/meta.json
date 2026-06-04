@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2018_02_hospital-mega-merger",
+  "school": "Ross",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2018.pdf",
+  "idx": 2,
+  "case_name": "Hospital Mega Merger",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 37,
+  "pdf_page_end": 44,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p039.png",
+    "exhibits/exhibit_p040.png",
+    "exhibits/exhibit_p041.png",
+    "exhibits/exhibit_p042.png",
+    "exhibits/exhibit_p043.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2018\\02_hospital-mega-merger"
+}

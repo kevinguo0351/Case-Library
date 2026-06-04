@@ -1,0 +1,38 @@
+{
+  "case_id": "Darden_2020_06_a-hairy-ordeal",
+  "school": "Darden",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2020.pdf",
+  "idx": 6,
+  "case_name": "A Hairy Ordeal",
+  "case_type": "M&A",
+  "round": "1",
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 106,
+  "pdf_page_end": 119,
+  "n_pages": 14,
+  "exhibit_pdf_pages": [
+    109,
+    110,
+    111,
+    112,
+    113,
+    115,
+    117,
+    118,
+    119
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p109.png",
+    "exhibits/exhibit_p110.png",
+    "exhibits/exhibit_p111.png",
+    "exhibits/exhibit_p112.png",
+    "exhibits/exhibit_p113.png",
+    "exhibits/exhibit_p115.png",
+    "exhibits/exhibit_p117.png",
+    "exhibits/exhibit_p118.png",
+    "exhibits/exhibit_p119.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2020\\06_a-hairy-ordeal"
+}

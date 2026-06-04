@@ -1,0 +1,231 @@
+===== PDF p93 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+It is 2009. Wally’s Wire Factory makes electronics cables. Like most players in the industry, Wally’s Wire Factory makes a large range of 
+cables, wires, connectors, converters, and basic electronics extras. It has a steady stream of business and has little desire to expand into new 
+products. Wally’s Wire Factory has hired you to help increase profitability from its existing businesses. 
+ 
+ 
+ 
+ 
+ 
+This case tests a number of qualitative skills including reading charts and drawing conclusions from visual data. The case also tests a 
+candidate’s understanding of pricing dynamics and ability to form data- driven hypotheses. Though this case does not have a significant 
+quantitative component, candidates will run into difficulty presenting the discrete elements of their synthesis if they are unstructured. 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+89 
+• Interviewer led  
+• Profitability 
+• Manufacturing 
+Easy 
+Normal 
+Hard 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p94 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Background Information 
+(to be provided when requested by interviewee) 
+Competition 
+•
+There are significant barriers to entry, so there has been no new 
+competitors in the past 5 years, and Wally’s projects it would 
+take 2-3 years for a new competitor to enter 
+•
+Competition varies significantly by region 
+Market 
+•
+Wally’s is the leader of an established mature industry that is 
+growing at the rate of GDP 
+•
+Market share: provide exhibit #1 and #2 
+ 
+90 
+Products 
+•
+There is a range of higher and lower end products, and margins 
+vary considerably by product line 
+Costumers 
+•
+Costumers are mainly IT departments and retail businesses, but 
+there is a sizable number of technology minded individuals who 
+make direct purchases as well 
+Continued… (page 2 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p95 =====
+Exhibit #1 
+(to be provided to the interviewee as background information when asked about industry structure) 
+Wire Market Share Data, 2006 
+52 
+41 
+29 
+34 
+27 
+16 
+14 
+20 
+25 
+12 
+31 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+North
+America
+Europe
+Asia
+Competitor 3
+Competitor 2
+Competitor 1
+Wally's
+91 
+Continued… (page 3 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p96 =====
+Exhibit #2 
+(to be provided to the interviewee as background information when asked about industry structure) 
+What happened over the past three years? In which market are we best able to increase profitability from existing businesses? How should 
+we approach this?  
+92 
+Wire Market Share Data, 2009 
+Question #1 
+54 
+34 
+26 
+35 
+35 
+25 
+11 
+18 
+24 
+13 
+25 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+North
+America
+Europe
+Asia
+Competitor 3
+Competitor 2
+Competitor 1
+Wally's
+Continued… (page 4 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p97 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+93 
+What happened over the past three years? 
+• Our position in North America has grown further, possibly due to weak buyer power since firms are unable to exert much control as our 
+product is a small component of their costs. It is probably the main buyer, with sales to retail firms being a smaller share     
+• Competitor 1 has grown considerably in Europe, mainly at our expense. Given the size of their growth, it is likely that they have reduced 
+prices, which does not bode well for us since we may need to lower prices as well. We may be forced to innovate and cut our own costs 
+• Competition has become fierce in Asia. Competitor 1 has grown at the expense of competitor 3. Since all firms are splitting profits, late 
+stages of pricing parity are likely settling in. Retail is probably the biggest buyer. Since they shop based on price, as our product is an 
+expensive input, industry profits are eroded 
+• Note we cannot say anything about market growth since we are only given market shares 
+ 
+Question #2 
+Question #3 
+In which market are we best able to increase profits from existing businesses? How should we approach this?  
+• It is unlikely that we can increase profitability in Europe and Asia since our product is being commoditized 
+• There is scope to increase profitability in North America 
+• Since margins vary by product line, we need to start there and understand causes of variations 
+Continued… (page 5 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p98 =====
+Exhibit #3 
+(to be provided after market share questions are addressed) 
+94 
+We want to look at the North American market and understand variations in margins across products. We plot gross margin by product on 
+the y-axis. What variable(s) might we want to plot on the x-axis? 
+• Since we do not face extreme competition in North America, there may be room to increase profits by capturing value through pricing. 
+Therefore we should check how gross margins vary by product price elasticity. 
+• There are other reasonable answers. 
+• A strong answer should come with the possibility for some strategic recommendation based on data. For example in addition to naming 
+the axis, the candidate should explain at least one data pattern that comes with a recommended course of action.  
+Question #4 
+Continued… (page 6 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p99 =====
+If we choose to chart price elasticity on the x-axis, what kind of pattern might we expect? What kind of pattern would indicate considerable 
+room for increasing profitability? 
+• Products with high price elasticity normally have the lowest gross margins, because products across companies are close substitutes and 
+consumers use price when shopping.  
+• Products with low price elasticity have relatively high gross margins because products do not substitute well, and consumers are shopping 
+based on different feature offers. 
+• The scatter plot should therefore have a clear downward trend, if the above were to hold true.  
+• Any scatter plot where we do not see a clear downward trend would indicate considerable room for increasing profitability through price 
+adjustments. 
+Exhibit #4 
+(to be provided after market share questions are addressed) 
+95 
+Question #5 
+Continued… (page 7 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p100 =====
+After plotting price elasticity vs. gross margin by product, we produce the chart above. There appears to be little correlation between price 
+elasticity and gross margin. What do you conclude based on the chart? 
+• Should raise prices on products in the lower left quadrant, since we can substantially increase margin without suffering share losses, 
+because products have inelastic demand with respect to price 
+• We should be willing to cut prices on products in top right quadrant, since we can substantially increase our share with only slight losses of 
+gross margin because of high price elasticity 
+• Revenue will increase in top left quadrant through price, and in top right quadrant through quantity 
+Exhibit #5 
+(to be provided after market share questions are addressed) 
+96 
+Question #6 
+Continued… (page 8 of 9) 
+Case 13: Wally’s Wire Factory 
+
+
+===== PDF p101 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Recommendation 
+•
+We are unlikely to increase profitability in Europe and Asia since our product is being 
+commoditized 
+•
+We can increase profitability in North America, our strong hold  
+•
+Since there isn’t extreme competition in North America, we may be able to increase profits 
+through price 
+•
+After looking at price elasticity and gross margins by product, we determined that it is best 
+to increase prices in products with low price elasticity and gross margin, and lower prices in 
+products that have high price elasticity and high margins 
+Case Closing 
+97 
+Continued… (page 9 of 9) 
+Case 13: Wally’s Wire Factory 

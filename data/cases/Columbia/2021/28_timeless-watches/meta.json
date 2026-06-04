@@ -1,0 +1,30 @@
+{
+  "case_id": "Columbia_2021_28_timeless-watches",
+  "school": "Columbia",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2021.pdf",
+  "idx": 28,
+  "case_name": "Timeless Watches",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Fashion Retail / Tech",
+  "difficulty": "Hard",
+  "pdf_page_start": 257,
+  "pdf_page_end": 264,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    259,
+    260,
+    261,
+    263,
+    264
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p259.png",
+    "exhibits/exhibit_p260.png",
+    "exhibits/exhibit_p261.png",
+    "exhibits/exhibit_p263.png",
+    "exhibits/exhibit_p264.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2021\\28_timeless-watches"
+}

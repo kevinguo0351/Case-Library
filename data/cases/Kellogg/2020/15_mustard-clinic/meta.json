@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2020_15_mustard-clinic",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 15,
+  "case_name": "Mustard Clinic",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 167,
+  "pdf_page_end": 176,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    170,
+    171,
+    172,
+    173
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p170.png",
+    "exhibits/exhibit_p171.png",
+    "exhibits/exhibit_p172.png",
+    "exhibits/exhibit_p173.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\15_mustard-clinic"
+}

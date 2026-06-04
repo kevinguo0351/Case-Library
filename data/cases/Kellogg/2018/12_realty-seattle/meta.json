@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2018_12_realty-seattle",
+  "school": "Kellogg",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2018.pdf",
+  "idx": 12,
+  "case_name": "Realty Seattle",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Real Estate",
+  "difficulty": null,
+  "pdf_page_start": 95,
+  "pdf_page_end": 101,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    97,
+    98,
+    100,
+    101
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p098.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2018\\12_realty-seattle"
+}

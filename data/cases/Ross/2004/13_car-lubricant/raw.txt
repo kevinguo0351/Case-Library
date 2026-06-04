@@ -1,0 +1,159 @@
+===== PDF p32 =====
+Table of Contents 
+ 
+28
+Practice Case 13: Car lubricant  
+(Mckinsey - Round 3) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+Your client is a seller of car lubricant. It has historically made 
+significant profits, but recently it has come under threat and we have 
+been hired to address three concerns. 
+ 
+1. Over a few previous years consumers believed that they 
+needed to change their oil every 10,000 miles. They have 
+started to realize that in fact they can get away with only 
+changing their oil every 20 ñ 30,000 miles. 
+2. Historically in the US 80% of the market is in DIY and 20% in 
+DIBSE (Do it by someone else). This has started to shift in 
+favor of DIBSE. Our client has a 2nd position in the DIY market 
+but only a 10th position in the DIBSE market 
+3. The CEO of the lubricant business has promised his 
+shareholders a 200% increase in profits over the next 5 years. 
+ 
+What do you suggest we do? 
+ 
+Note: Push the interviewer not to draw a framework  Just outline and discuss 
+the issues. 
+ 
+II. Additional information provided after relevant questions:  
+ 
+• 
+The DIBSE outlets can be broken down as follows: 
+o 35% of the market is ìQuick Lubeî, of which 60% is owned by 
+one of our major competitors 
+o 20% of the market is OEM related dealerships 
+o 15% is small ìmum and Popî shops 
+o 10% are small regional chains 
+o 5% are owned by Wal-Mart who are entering this market 
+• 
+Our major DIY customer is Wal-Mart, where we are the price leader. 
+• 
+The margins in DIBSE are half the margins in DIY. 
+• 
+Additional data for DIBSE market entry: 
+Fixed Costs:  
+Marketing 
+ 
+45,000 
+Rental 
+ 
+36,000 
+Equipment 
+ 
+15,000 
+Utilities 
+ 
+14,000 
+Fixed Labor     (ask how much they expect)  
+5 mechanics at  
+40,000 each 
+• 
+The client expects to charge $25 for an oil change and the variable 
+costs for an oil change is $20. 
+
+
+===== PDF p33 =====
+Table of Contents 
+ 
+29
+• 
+Each garage has three bays. Each car change takes 15 minutes. Car 
+owners drive their cars themselves onto the bay. 
+ 
+III. Sample solution 
+ 
+First I would explore partnering with Wal-Mart to sell to their DIBSE 
+business? 
+ 
+Interviewer: Why would Wal-Mart want to source from us?  
+ 
+Me: I think we can leverage our relationship to Wal-Mart, pointing out that 
+people are buying our product in the DIY segment because of our value 
+proposition, our brand name and their trust in us. We will continue to 
+advertise our product and people are going to ask after it. Secondly as Wal-
+Mart is new to the DIBSE business ñ and this is not necessarily a logical 
+progression for them ñ using a premium lubricant in their garages will help 
+inspire confidence.  
+ 
+Interviewer: How would you structure a deal to protect your margins in the 
+DIY business? 
+ 
+Me: I think we should be able to negotiate either a volume agreement, or a 
+supply location agreement to protect our DIY business. 
+ 
+Interviewer: OK, what else: 
+ 
+Me: I think we should look at tying up a deal with the OEM garages, by 
+focusing on the OEM producers and advertising with them we can link our 
+brand to their cars. 
+ 
+Interviewer: That is not going to work. In the US each OEM garage has the 
+right to sell what cars he wants to and to use whatever lubricants he wants in 
+his garage. The OEMs have no power over the individual garages. 
+ 
+Me: OK, in which case we will need to use our brand presence in the DIY 
+segment to create a pull effect onto the garages. For example we can co-
+advertise at shows such as the Detroit Auto show to create demand for our 
+lubricants when they get their new, expensive, cars oil changed. This will 
+create an incentive for individual garages to stock our product. 
+ 
+Interviewer: Good. Now the client has been thinking about vertically 
+integrating into the DIBSE business. Do you think that is a good idea? 
+ 
+Me: It will depend on how much margin is available in that business, how 
+easily we are able to cross sell to our existing customers and whether there 
+are any synergies with our existing business. 
+ 
+ 
+
+
+===== PDF p34 =====
+Table of Contents 
+ 
+30
+ 
+Me: In which case, the variable contribution per car change is $5. The total 
+fixed cost is $310,000. Hence we need to process 62000 cars per year to 
+break even. Assuming we are open 300 days a year, we need to process 
+around 200 cars per day to break even. 
+200 cars per day ñ assuming a 10 hour day, means we need to process 
+around 6.5 cars/bay/hour. 
+Our capacity is 4 cars/bay per hour, hence this does not make sense. 
+ 
+Interviewer: So what do you suggest? 
+ 
+Me: Well what we could do is see whether we can use this opportunity to 
+cross sell other products to the car owners while they were at our garage. 
+ 
+Interviewer: Good. If we go with that strategy, our price will go up to $48 
+and our variable costs will increase to $28, but it will take 45 minutes to 
+process each car. 
+ 
+Me: OK, so our variable contribution has now increased to $40, which is 4 
+times higher than our previous case. Hence the number of cars we need to 
+process/bay/hour will drop to around 1.5. Our capacity has, however, also 
+dropped to around 1.2 hence we still can not break even. 
+ 
+Interviewer: good. You bump into the CEO of the firm in the lift, he asks you 
+for a summary update, what do you say? 
+ 
+Me: The reason you are loosing profits is a shift in the industry from DIY to 
+DIBSE. We believe we can capture some market share in DIBSE through a 
+deal with Wal-Mart, and have investigated the possibility of vertically 
+integrating into the garage industry ñ but do not currently believe that the 
+returns justify the investments. Over the next couple of weeks, my team is 
+going to work further to identify further opportunities to use your strong 
+brand name to build your presence in the DIBSE segment. 

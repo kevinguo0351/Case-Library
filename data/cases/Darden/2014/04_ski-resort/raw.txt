@@ -1,0 +1,247 @@
+===== PDF p63 =====
+Clarifying information (provide only if corresponding questions are asked) 
+This is an estimated valuation case. The candidate should ask for several details to know more about the ski resort. 
+This case will follow a simple ‘Revenue – Cost’ estimation of cash flow. The value of the ski resort is the present 
+value of future cash flows.
+Give the Following Information if Requested:
+•
+Product mix: revenue from ticket sales and food purchased on site
+•
+Open Hours: the ski resort is open Thurs‐Sun from December 1 to April 30. In the summer it is used by a private 
+Summer Camp who pays $500,000 for full access.
+•
+Staff: there are 20 staff at the resort
+•
+Tax Rate: 30%
+•
+Discount Rate: 14%
+•
+Annual Growth Rate: 4%
+The candidate may not ask for all of this information up front. 
+CASE #: 4
+Ski Resort
+Firm Style
+Interview Round
+Deloitte
+1
+Case Question
+You are riding up a chairlift at a small ski resort in West Virginia with a fellow classmate. It’s a great spring skiing day 
+and probably one of the last weekends the resort is open for the year. Your friend had heard a rumor that the 
+resort might be up for sale and she asked you how much you think the ski resort might be worth. How might you go 
+about determining the value of the resort?
+
+
+===== PDF p64 =====
+Ski Resort
+• Question 1: How would you measure revenue?
+• Allow the candidate to make some assumption of how you would 
+measure revenue. Watch for realistic assumptions and logical 
+progression.
+• Answers would include things like:
+• ticket sales
+• food/retail sales
+• Lessons, parking, services sales 
+• Question 2: What might drive variation in these numbers?
+• Answers could include:
+• snow conditions
+• Weather
+• Quality of food/lessons
+• Presence of other ski or winter outdoor entertainment offerings in area
+• Macro economy
+
+
+===== PDF p65 =====
+Ski Resort
+• Hand the candidate Exhibit 1 to calculate Revenue.
+• If the candidate has not asked, tell them that the resort is open for skiing from 
+Thurs‐Sun for 20 weeks‐‐8 are off season and 12 are peak season
+• Share with them that, in addition to ticket costs, skiers spend on average $8 
+on food 
+• Revenue should add up to $9,265,600. (see next slide for math)
+• Candidate should recognize that this revenue is only for Dec‐April. They 
+should ask if there is any other revenue from the remainder of the year. 
+Prompt them if not.
+• Tell them that there is an arrangement for a summer camp to use the land for 
+the remainder of the year. The camp pays a flat $500,000 fee for access to the 
+land.
+• Thus annual revenue = $9,765,600
+
+
+===== PDF p66 =====
+Ski Resort
+Adult Ticket
+Child Ticket
+Adult Ticket
+Child Ticket
+Off Season
+50
+$                      
+35
+$               
+45
+$                 
+30
+$                
+(December and April)
+Average Attendance
+1,500
+                   
+600
+               
+500
+                 
+200
+                
+Peak Season
+65
+$                      
+45
+$               
+50
+$                 
+35
+$                
+(January to March)
+Average Attendance
+2,000
+                   
+800
+               
+1500
+600
+                
+Adult Ticket
+Child Ticket
+Adult Ticket
+Child Ticket
+Daily Off SeasonTicket Revenue
+75000
+21000
+22500
+6000
+Daily Peak Season Ticket Revenue
+130000
+36000
+75000
+21000
+Total Weekly Off Season Revenue
+$150,000
+$42,000
+$45,000
+$12,000
+Total Weekly Peak Season Revenue
+260,000
+              
+72,000
+          
+150,000
+          
+42,000
+          
+Total Revenue from Off Season (8 weeks)
+$1,992,000
+Total Revenue from Peak Season (12 weeks)
+6,288,000
+$         
+Total Ticket Revenue
+8,280,000
+$         
+Total Weekly Off Season Skiers
+5,600
+                   
+Total Weekly Peak Season Skiers
+9,800
+                   
+Total Number of Skiers
+92,800
+                 
+ Food Revenue ($8 per person)
+985,600
+$            
+Total Revenue
+9,265,600
+$         
+Total Revenue including $500,000 from camp
+9,765,600
+$         
+Weekend
+Weekday
+• Revenue calculations
+
+
+===== PDF p67 =====
+Ski Resort
+• The candidate should then proceed to costs. 
+• There are two components: fixed and variable. Have the candidate brainstorm 
+potential costs. Under fixed costs they might consider: leasing the land, chair 
+lift machinery, insurance, general maintenance, employees. The only real 
+variable cost is the COGS of the food. Allow the candidate to brainstorm 
+before sharing this data:
+• Variable costs are just 50% of the food revenue. Tell the candidate they can 
+round the food revenue to $1 million
+• Fixed costs are $500,000 per month
+• Total costs equal $6,500,000
+• After the candidate subtracts costs from revenue they should have a profit of 
+$3,265,600. Tell the candidate they can round to $3,300,000
+• Do not forget that we need the after‐tax cash flow number (approximately 
+$3,300,000* (1‐.3))= $2,310,000. You now have the annual cash flows 
+generated by the ski resort.
+
+
+===== PDF p68 =====
+Ski Resort
+• At this point a great candidate will move the case forward and recognize that they 
+need to figure out a stream of cash flow going forward. 
+• Question: how does one perform a valuation of the 
+business?
+• To perform a valuation, the candidate must estimate the cash flows from the 
+business and discount them back using a perpetuity formula. The discount rate is 
+14%. When the candidate asks about the growth rate, say the ski resorts is 
+growing by 4%. Thus whatever numerator the candidate arrives at should be 
+divided by .14‐.4=.1, an easy calculation using the CF/(r‐g) formula for perpetuity. 
+• In this case the answer is $2,310,000/.1=$23,100,000
+
+
+===== PDF p69 =====
+Exhibit 1: Ski Resort Prices and Attendance
+Weekend
+Weekday
+Adult Ticket
+Child Ticket
+Adult Ticket
+Child Ticket
+Off Season
+$             50 
+$       
+35 
+$     
+45 
+$             
+30 
+(December and April)
+Average Attendance
+1,500 
+2/5th the  # 
+Adults 
+1/3rd the # Adult 
+weekend skiers
+2/5th the # 
+Adults 
+Peak Season
+$             65 
+$     
+45 
+$     
+50 
+$         
+35 
+(January to March)
+Average Attendance
+2,000 
+2/5th the # 
+Adults 
+3/4rs the # Adult 
+weekend skiers
+2/5th the # 
+Adults 
+Exhibit #1

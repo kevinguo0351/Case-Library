@@ -1,0 +1,30 @@
+{
+  "case_id": "Ross_2008_02_office-vending-services",
+  "school": "Ross",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2008.pdf",
+  "idx": 2,
+  "case_name": "Office Vending Services",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage / Vending",
+  "difficulty": "hard",
+  "pdf_page_start": 11,
+  "pdf_page_end": 18,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p014.png",
+    "exhibits/exhibit_p015.png",
+    "exhibits/exhibit_p016.png",
+    "exhibits/exhibit_p017.png",
+    "exhibits/exhibit_p018.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2008\\02_office-vending-services"
+}

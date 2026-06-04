@@ -1,0 +1,129 @@
+===== PDF p17 =====
+Case 3: Milk and Cheese, Inc.
+UCLA Anderson Casebook 2016
+13
+Business Problem Statement
+Milk & Cheese, Inc. (MCI) is a leading producer of dairy, ham and sausages in the US. Currently, it produces 
+more than 1,000 products. MCI and two competitors dominate this market.
+MCI wants to increase its profits. It has hired your firm to help on this matter. How would you approach the
+problem?
+Your team has been engaged optimize Milk and Cheese, Inc.’s (MCI) product portfolio. Your role is to analyze 
+which, if any, of the company’s 1,000+ products MCI should stop producing/selling. How would you do that?
+Part 1: Interviewer Guidance & Information Provided to Interviewee Upon Request
+Prompt: Another team in your firm is already working on costs and expenses. Your team is focusing on MCI 
+portfolio. 
+Your role is to analyze which, if any, products MCI should stop producing/selling. How would you do that?
+The interviewee should suggest analyzing some kind of product listing and understand that, in the real world, a 
+product listing would be spreadsheet with 1,000+ lines, and columns describing the product and one of the 
+following options:
+•
+Revenue and COGS
+•
+Price, Cost/unit and Volume
+•
+Margin and Volume
+•
+Margin and Revenue
+We will use margin vs. volume for this case. Therefore, a scatter plot is the best option. Once the interviewee 
+asks for something similar, show him/her the graph on the next page.
+Interviewer Guidance
+The main idea in this case is to bring the graph into discussion and analyze it. Do not share this information with 
+the candidate. The case should be a fast paced conversation and he/she must structure the case like any 
+profitability case:
+•
+Revenue Streams
+•
+Respective COGS
+•
+SG&A
+Considering market trends, the economic environment and competitors’ moves are not wrong, but the 
+candidate must include the abovementioned topics. It is a profitability case. If asked, tell the candidate that MCI 
+is not interested in acquiring a competitor or expanding overseas.
+
+
+===== PDF p18 =====
+Case 3: Milk and Cheese, Inc.
+UCLA Anderson Casebook 2016
+14
+Evaluation Guidance
+Expected
+•
+Structures a sound profitability framework
+•
+Figures out the graph analysis is the best method
+•
+Suggests the scatter plot or the 80/20 chart
+Good
+•
+Complete all “Expected” requirements
+•
+Suggests both analyses methods
+•
+Quickly asks for information to understand the goals of the company (desired/undesired margins)
+Excellent
+•
+Complete all “Good” requirements
+•
+Suggests more than one alternative to deal with the problematic products (stopping, selling, empowering, 
+analyzing potential growth, etc.)
+•
+Analyzes risks of suggested solutions (e.g., selling to major or minor competitors may jeopardize MCI)
+•
+Solved the case with minimal help from the interviewer
+Part 2: Interviewer Guidance & Information Provided to Interviewee Upon Request
+Information to be provided if requested during discussion of scatterplot:
+•
+Assume that there is no relevant difference in prices among the products
+•
+SG&A is not affected by the potential changes in product mix
+•
+Average volume is 35K tons
+•
+Average Margin is 16%
+The interviewee must do his/her own graph analysis: Pareto (80/20) or dividing the scatterplot into quadrants, 
+using the averages as axis.
+If the interview does not take either of these approaches after a few hints, show him/her the handout (page 
+after next) with the Pareto graph and scatterplot divided into quadrants.
+Guidance for discussion of Pareto graph and analyzed scatterplot:
+•
+Pareto Graph: the idea is “all the products in category I are important for the company, and the problematic 
+products are in category II”; there are ~200 products in category II (20% of 1,000).
+•
+Analyzed Scatterplot: assuming there are at least 200 products in each zone; the idea is: “the products in the 
+zone D should be considered our targets to be no longer in MCI portfolio”.
+Case conclusion:
+•
+Finally the interview should arrive at a conclusion along the lines of: “based on our analysis, there are at 
+least 200 products that are not bringing relevant contribution to MCI profit.; therefore, MCI should consider 
+selling these products to minor competitors or simply stop its production, if selling these products to 
+competitors represents a major risk.”
+
+
+===== PDF p19 =====
+Case 3: Milk and Cheese, Inc.
+UCLA Anderson Casebook 2016
+15
+
+
+===== PDF p20 =====
+Case 3: Milk and Cheese, Inc.
+UCLA Anderson Casebook 2016
+16
+80%
+20%
+Products
+Profit
+(Cumulative)
+A
+B
+D
+C
+I
+II
+
+
+===== PDF p21 =====
+Case 3: Milk and Cheese, Inc.
+Sample Framework
+UCLA Anderson Casebook 2016
+17

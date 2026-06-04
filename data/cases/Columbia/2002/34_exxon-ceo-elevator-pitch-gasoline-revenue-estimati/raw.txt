@@ -1,0 +1,168 @@
+===== PDF p109 =====
+Estimation Cases 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+105 
+ 
+ 
+Estimation Cases 
+ 
+Suppose you are flying on a plane with the CEO from Exxon and you want to sell a consulting 
+engagement.  He has just left to use the lavatory and you have about five minutes to estimate his 
+yearly revenues from personal automobile gasoline sales in the U.S. (excluding commercial 
+trucks, boats, etc.) How would you go about coming up with this estimate?  
+ 
+1. Assume the population of the U.S. is 250 million. 
+2. Estimated number of people per household is 2.5, making 100 million households. 
+3. Estimated number of cars per household is 1, which gives 100 million cars in the U.S. 
+4. Assume each car gets filled up once per week (or 50 times per year to use simple numbers) 
+5. Assume the average fill-up is 10 gallons.  50 X 10 is 500 gallons per car. 
+6. Total gallons sold is 500 X 100 million = 50 billion. 
+7. If average price is $1.25, total revenue from U.S. automobiles is $62.5 billion. 
+8. Estimated market share of Exxon is 20% [the interviewer asked me why and I explained that 
+I believed the market was basically an oligopoly with a few players dominating the market.  
+This type of market typically has market share of the dominating competitors of around 
+20%]. 
+9. Calculated total revenues for Exxon from the U.S. household automobile market, therefore, 
+is $12.5 billion. 
+ 
+ 
+How many beer bottles are currently in circulation in the US? 
+ 
+First I decided to figure out the annual beer consumption to get at annual consumption of bottles.  
+I estimated the population of U.S. as 250M, took out children who don’t consume beer 
+(approximately 10%, which gave me the number of 225M).  Then I divided it into men and 
+women as they have different consumption patterns – men probably consume more.  I estimated 
+the number of men and women to be approximately equal at 125M and 125M.  Then I estimated 
+that men probably drink 2 bottles a week on average, making it approximately 100 bottles a year 
+per person (heavy beer drinkers and men not drinking beer will average out), giving a total of 
+12.5B.  Women probably drink 2 bottles a month making it a total of 3B yearly.  The total yearly 
+consumption is 15.5B.  
+ 
+This is where the trick was because my interviewer was not satisfied with a yearly number, he 
+wanted to have a current circulation number.  I used the concept of velocity to come up with the 
+number: yearly consumption = current circulation * some velocity (# times the bottle goes 
+through the economy).  I estimated the velocity to be around 70 assuming an average 5-day 
+purchasing cycle.  Thus the current circulation of beer bottles equals approximately 220M 
+bottles.  
+
+
+===== PDF p110 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+106 
+Please do not duplicate, copy, print or photocopy 
+ 
+ 
+ 
+I have an odd hobby (odd because this interviewer was male) of knitting.  I knit about 10 
+sweaters per year.  I am looking into this as a business opportunity and want you to estimate the 
+size of the hand knitting yarn market. 
+ 
+First I would look at all the places that sell hand-knitted sweaters and … 
+ 
+!"Actually, most of the hand knit sweaters sold in stores are produced abroad and the yarn 
+they use is produced abroad.  I am more concerned with the high quality hand knitting yarn 
+sold in the U.S. for “hobby” type knitting. 
+ 
+OK, then I would try to estimate how many people knit or I could look at how many stores sell 
+knitting yarn. 
+ 
+!"Good, there are 3,000 specialty stores that sell knitting yarn.  Also some bigger stores, like 
+Wal-Mart, sell a small selection of lower quality yarn. 
+ 
+OK, then I would take a sample of these stores and estimate their sales of yarn and then 
+extrapolate that over the remaining stores.  I would try to sample stores that are of typical size 
+and revenues. 
+ 
+!"OK, I have data on 3 stores.  The first is in Rhode Island and has $100,000 in annual 
+revenues.  The second store is in Austin Texas in the owner’s garage.  Its revenues are 
+$40,000.  The third store is in Massachusetts and has revenues of $170,000.   
+ 
+I don’t know if these three are typical and is not a large enough sample to base the system on.  
+Hmmmmm . . . . . . . . . .  I guess if each store stays in business it must be making money.  Maybe 
+I can look at what it would take for each store to stay in business. 
+ 
+!"Good, what expenses would a store like this have? 
+ 
+Rent, Labor, Advertising, and the cost of the products. 
+ 
+!"The mark-up on knitting supplies is about 100%, although with sale items it averages around 
+60%.  Of the expenses, the variable costs make up about 50% of expenses.  What would be 
+your estimates for an average size store’s expenses? 
+ 
+Since these knitting shops are probably not in malls, and one was even in a garage, I would say 
+the rent is fairly low, say $500 per month.  There are probably just a few workers that aren’t too 
+well paid.  Maybe they are making $30,000 a year. 
+ 
+!"Do you know what minimum wage is? 
+ 
+OK, so maybe they make $15,000 a year.  Advertising would consist of just local ads in papers 
+and maybe a knitting magazine.  I would guess that to be about $2,000 a year.  The sum of these 
+
+
+===== PDF p111 =====
+Estimation Cases 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+107 
+costs is $38,000 per year.  If this is 50% of expenses, then the total costs would be $76,000.  So 
+with their 60% markup it would be…. 
+ 
+!"For simplicity just base your initial estimates on break-even. 
+ 
+OK, then 3,000 stores that sell $76,000 annually, it comes to $228 million.  Wow that is bigger 
+than I thought it would be. 
+ 
+!"Actually the knitting yarn market is about $350 million.  Do you know why your numbers are 
+understated? 
+ 
+Well, actually I would say that my number is somewhat overstated because there are other 
+supplies, such as knitting needles, patterns, etc that would be part of the sales.  But I also realize 
+it is understated because we assumed break-even and I am sure most of these stores turn a profit 
+or they would not stay in business.  Also, we only counted the sales at the specialty stores.  I 
+ignored the sales at the Wal-Mart type stores. 
+ 
+!"Good. 
+ 
+ 
+How many people fly in and out of LaGuardia every day? 
+ 
+My first attempt at this was to begin with the number of airlines that fly into/ out of LGA.  I then 
+proceeded to try to figure out how many cities these airlines fly to from LGA.  This was nearly 
+impossible to determine realistically.  I asked to try again and the interviewer said “good idea.” 
+ 
+I looked at the problem again and realized it was a capacity problem.  No two planes could be on 
+a runway at a given time and most likely had to be spaced by a few minutes for safety reasons.  
+With this assumption, I continued to break the day into peak (7am-10am, 3pm-8pm), midpeak 
+(10am-3pm) and off peak times (8pm-11pm).  I assumed no flights in the middle of the night.  I 
+further assumed planes are spaced 5 minutes apart at peak hours, 10 minutes at midpeak and 15 
+minutes apart during off peak times. 
+ 
+Capacity assumptions assumed 100% at peak, 75% at mid peak, and 50% at off peak.  With an 
+average plane holding 200 people, it would be (200 people/plane x 12 planes/hr x 8hrs) + (150 x 
+6 x 5) + (100 x 4 x 3) = 24,900 people. 
+ 
+With 2 runways, LaGuardia has roughly 50,000 people flying in and out every day. 
+ 
+The feedback I got was good (moved onto the next round of interviews).  The interviewer told 
+me he was looking for me to break the problem into peak and off peak times.  To be even better 
+you could give an answer for weekdays and weekends (peak times shift). 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,245 @@
+===== PDF p58 =====
+CASE 3:
+Broche Laboratories
+Firm Style
+Interview Round
+Bain
+2
+Clarifying information (provide only if corresponding questions are asked) 
+•
+What type of growth? The Board wants to see bottom-line, profit growth in the next six months.
+•
+Any specific targets for profit growth? The target is 10% improvement.
+•
+Product offerings and scope? The company currently produces three drugs based on the same key compound in 
+one therapeutic area and sells globally.
+•
+Production capacity and demand? Currently operating at full capacity in production facilities, but demand is 
+unlimited for company’s drugs.
+•
+Why has growth been stagnant over the last 10 years? No change in leadership during time period and no focus 
+on marketing efforts because constant demand for products.
+Case Question
+Our client is the newly appointed CEO of a pharmaceutical company, Broche Laboratories, located in 
+the United States that has seen stagnant growth over the last 10 years. The Board of Directors has 
+tasked her with improving growth in the next six months. The new CEO has brought on our team to 
+provide recommendations for achieving this new growth goal before her meeting with the Board 
+next week.
+
+
+===== PDF p59 =====
+Broche Laboratories
+Framework / Structure
+Question 1: What options does our client have to achieve profit growth in the 
+next six months?
+The interviewer is looking for (i) organic and inorganic growth opportunities (ii) breadth and creativity of 
+thinking in identifying the company’s key drivers for profit. Below is an example of a strong MECE 
+framework. 
+Organic: 
+•
+Profit improvement
+•
+Sales
+•
+Expand operations in other markets
+•
+Consider price changes on drugs in relation to patent years remaining
+•
+Improve salesforce approach/marketing tactics
+•
+Operations
+•
+Analyze capacity of current production facilities
+•
+Distribution network improvements
+•
+Reduce costs- labor, raw materials, SG&A
+•
+Innovation
+•
+Increase R&D focus
+•
+Other approved uses for drug compound currently not being marketed
+Inorganic:
+•
+Acquisition
+•
+Opportunity to acquire a drug patent, compound or company in a different therapeutic area
+•
+Joint Venture/Partnership
+•
+Seek partnership with complementary products
+•
+Leverage expertise of another company to bring drugs to market more quickly
+
+
+===== PDF p60 =====
+Broche Laboratories
+Interviewer Tips
+• With the recommendations, the interviewee should note if the option would require 
+additional expenditures (i.e. acquiring a company) to achieve the profit growth and the 
+risks associated. 
+• The interviewee should also mention regulatory concerns for bringing new drugs to 
+market and the amount of time involved if recommending this option.
+• Push the interviewee to continue thinking beyond a typical profit tree if she has not 
+already done so.
+• Remind the interviewee of the six month timeline for achieving growth in any 
+recommendations.
+• Once the interviewee has provided an initial recommendation, move to Exhibit 1.
+
+
+===== PDF p61 =====
+Broche Laboratories
+Axaflax
+Bentazine
+Cialtrix
+2015 Volume 
+(doses)
+80,000
+35,000
+50,000
+Production Time 
+(days)
+5
+4
+1
+Price ($ per dose)
+$30
+$10
+$15
+Variable Cost ($ per 
+dose)
+$5
+$7
+$13
+Note: All pharmaceuticals are made at Broche Laboratories’ Trenton, NJ facility.
+Exhibit 1
+
+
+===== PDF p62 =====
+Broche Laboratories
+• Question 2:
+• Show Exhibit 1: “This exhibit summarizes the production 
+statistics for the three drugs currently in Broche’s portfolio. 
+Do you have any recommendations based on this 
+information.”
+• Candidate should calculate current contributions from each drug.
+• If candidate asks about meaning of production time, tell her that it is 
+the number of days that it takes to create one batch and that batch 
+sizes are the same for all three drugs.
+• If candidate asks about demand, explain that capacity is limited but 
+we are not meeting demand for Bentazine and Cialtrix. Assume 
+demand is not a constraint on these drugs.
+• If the candidate has not asked about capacity, you should inform her 
+that “manufacturing facility is currently running at capacity” after the 
+initial analysis of the slide.
+
+
+===== PDF p63 =====
+Broche Laboratories
+Exhibit 1 (Calculations for Interviewer)
+• Profit made on Axaflax: (30-5)*80,000 = 2,000,000
+• Bentazine: (10-7)*35,000 = 105,000
+• Cialtrix: (15-13)*50,000 = 100,000
+• Moving Bentazine capacity to Cialtrix:
+• Incremental volume: 50,000*4 = 200,000 doses
+• Incremental profit: 200,000*(15-13) = $400,000
+• 18% Profit Improvement
+
+
+===== PDF p64 =====
+Broche Laboratories 
+Exhibit 2
+International Bentazoate market
+0
+500
+1000
+1500
+2000
+2500
+3000
+South America
+Europe
+Middle East
+Asia
+Market Size in USD ‘000s 
+Market 
+Growth
+Broche  
+Potential 
+Market 
+Share
+Asia
+30%
+20%
+Middle East
+1%
+35%
+Europe
+3%
+25%
+South 
+America
+6%
+40%
+
+
+===== PDF p65 =====
+Broche Laboratories
+• Question 3:
+• Show Exhibit 2: “The client also provided this information with estimates of 
+the international Bentezoates market. Should we consider focus on marketing 
+Bentazine internationally?”
+• Candidate does not need to calculate what these market sizes would 
+represent for Broche.
+• Instead candidate should brainstorm pros and cons of expanding 
+internationally.
+• Pros:
+• Exposure to future growth – share price effects
+• Revenue growth
+• Gain international know-how – second order effects on marketing other portfolio 
+drugs internationally
+• Cons:
+• Requires up front investments in extra capacity
+• Need to get Bentazine approved by other pharmaceutical regulatory agencies
+• Need to invest or acquire local salesforce knowledge.
+• Margins may not be the same in other markets
+• Ask candidate to identify first market to enter as a follow up question
+
+
+===== PDF p66 =====
+Broche Laboratories
+Recommendation
+Question: Of the two options discussed, which one do you 
+recommend our client proposing to the Board next week?
+The candidate’s recommendation should include a discussion of: (i) profit impact from producing 
+Drug B to Drug C, (i) ability to achieve growth target of 10% profit improvement, (ii) risks around 
+switching production from one drug to the other, and (iv) next steps. 
+• Recommendation: 
+• The client should recommend moving forward with the production change from Bentazine
+to Cialtrix, because it will increase profits by 18% which is over the 10% target set by the 
+Board. It will also require no additional capital investment and can be operational quickly.
+• The option to pursue sales in international markets is a riskier option and would require 
+more investment from Broche. 
+• Risks: 
+• If demand changes for the three drugs, the company runs the risk of overproducing Cialtrix
+and delaying entry to international markets could jeopardize future market share.
+• Next steps:
+• The client should develop an implementation plan for the production change after discussing 
+with the Operations managers.
+• Once the change has been implemented, the company can begin to focus on developing 
+additional production capacity to serve emerging markets.
+
+
+===== PDF p67 =====
+Broche Laboratories
+Recommendation
+Interviewer Tips
+• Push the candidate on her recommendation to ask why she did not select the other 
+option. How would she justify this to the Board?
+• The candidate should also remember the profit target and timeline for achieving set by 
+the Board.
+• A key insight is that no additional investment would be required to gain the additional 
+$400,000 from the production change. 
+• A great answer will include implementation as a next step and discussing with the 
+production managers. 

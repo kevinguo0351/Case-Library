@@ -1,0 +1,290 @@
+===== PDF p134 =====
+CASE 13 – FERRY FOLLIES
+130
+
+
+===== PDF p135 =====
+Case 13: Ferry Follies
+Prompt
+Your client is a Department of Transportation for a state in the northwestern United States.  The Department of Transportation controls 
+six modes of transportation: aviation, biking, ferries, rail, public transportation (e.g. busses), and walking.  With budget cuts and rising 
+energy costs projected for the coming fiscal year, your client evaluated each mode of transportation and determined that it must
+improve the financial performance of its ferries. The Department of Transportation has employed your firm to assess the current state 
+of its ferry operations and recommend a strategic plan for improving financial performance.
+Interviewer Guidance
+• Provide this information to the candidate if asked:
+o The client defines “improved financial performance” as increased profit margins.
+o The client wants to cut $70M from its annual budget after 2 years
+o There are 24 ferry vessels and 18 ferry terminals.  The ferries are used by both commuters and tourists.
+o Over 20 million passengers travel on these ferries annually.
+• Note: Not all of this information is relevant to the case; a strong candidate will be able to assess what is salient.
+Behavioral Questions
+• Imagine that it is a Friday afternoon and you have just been given your new client assignment to begin on Monday morning.  What 
+steps will you take to prepare for your first day?  What steps will you take when you arrive at the client site to get up to speed?
+• What type of teammate are you?
+Deloitte Case Writing 
+Competition 2nd Place
+131
+
+
+===== PDF p136 =====
+Case 13: Ferry Follies
+Analysis
+• The candidate should ask about the measurement of financial performance.  If they have not, encourage them to think through 
+various ways to measure financial performance and guide them towards profit margin.
+• Prompt 1: Identify sources of cost and revenue for the Department of Transportation’s ferry system.  
+Recommendation
+•
+These brainstorming questions test the candidate’s ability to think through the underpinnings of transportation operations.  Encourage 
+the candidate to be creative when brainstorming.
+•
+Answers may include but are not limited to:
+COST
+o Ferry Maintenance
+o Fuel
+o Employees: salaries, wages, benefits
+o Overhead (e.g. Executive, HR, Legal)
+o Marketing & Advertising
+o Weather Services
+REVENUE
+o Fares/Tickets
+o Advertising (e.g. promotions)
+o Corporate partnerships
+o Food and drink on board
+•
+Don’t hesitate to ask “what else” to push them.
+o For example, if they list “employees” as a source of cost, encourage them to think through categories of employees (DOT 
+administrators, ferry captains, ferry crews, ticket office staff, etc.)
+•
+Strong candidates will identify that cost is a more salient option than revenue for improvement.
+132
+
+
+===== PDF p137 =====
+Case 13: Ferry Follies
+Analysis
+• Prompt 2: The client has decided to focus on cost control.  Your consulting team investigated the cost structure of the ferries and 
+identified four main cost buckets: diesel fuel, salaries & wages, overhead costs, and miscellaneous (e.g. dock fees and ferry
+maintenance).  We know that:
+o Diesel fuel accounts for 1/3 of the client’s total ferry budget, which is $270 million
+o There are approximately 2000 employees with average salaries of $54,000
+o Overhead is 20% of all costs
+Recommendation
+• This question tests the candidate’s ability to process ambiguous information, identify missing pieces, develop a clear 
+understanding of the client’s cost structure, and perform accurate calculations.
+• Strong candidates will create a table to look at each of the four cost buckets and reach the following conclusions, remarking on
+the implications of each:
+Cost bucket
+Percent of total cost
+Total (in $M)
+Calculations
+Fuel
+33%
+90.0
+33% of $270
+Wages
+40%
+108.0
+2000 x 54k
+Overhead
+20%
+54.0
+20% of $270
+Miscellaneous
+7%
+18.0
+Plug
+TOTAL
+100%
+270.0
+Given
+133
+
+
+===== PDF p138 =====
+Case 13: Ferry Follies
+Analysis
+• Prompt 3: Given the cost structure, the client would like your consulting team to determine if the targeted savings are feasible
+and identify potential areas for cost reduction.
+• Hint: What percentage cost reduction would be needed in order for the client to shed $70M from the ferry budget?
+Recommendation
+• Note: This question is intentionally ambiguous and tests the candidate’s ability to drive the case, handle ambiguity, and think 
+logically under pressure.  If needed, remind the candidate that the client aims to achieve $70M in savings in two years.
+• Calculation: $70M of $270M is approximately a 25% cut.
+• A strong candidate will:
+o A. Investigate the four major cost buckets and brainstorm solutions to each
+- Examples: Using alternative fuel sources other than diesel, explore staff reductions, pooling shared services across 
+Department of Transportation divisions, better understand the “miscellaneous” cost bucket
+o B.  Prioritize solutions that address the client’s primary cost centers
+- Diesel fuel and wages collectively account for over 3/4 of the client’s annual costs; solutions that address these high-
+cost buckets are more likely to help the client achieve significant cost savings than solutions focused on overhead or 
+miscellaneous costs
+o C. Determine if $70M in 2 years is feasible
+- $70M is a ~25% cost reduction in 2 years; this tests the candidate’s logical thinking
+o D. Create a recommendation 
+- A strong recommendation will include an assessment of whether the client’s goal is feasible and specific actions the 
+client may take to reach this goal AND/OR a suggested revision of the client’s goal – either should mention the targeted 
+timeframe
+134
+
+
+===== PDF p139 =====
+Case 13: Ferry Follies
+Analysis
+• Prompt 4: The client has requested that you design an implementation strategy to achieve the targeted savings of $70M in 2 
+years.  They have provided this additional information:
+• Switching from diesel to alternative fuel sources will cut fuel costs by 45% over the next two years
+• The client has told us they can accommodate the following labor reductions over the next two years: 10% cut of ferry 
+captains, 500 cut administrative staff, 100 cut operational staff
+• Is the client’s $70M goal feasible?  What potential hurdles or backlashes could results from these cuts?
+Recommendation
+•
+Provide this additional information if asked:
+•
+Calculations:
+•
+The candidate should conclude that the client can reach the targeted $70M savings by implementing these recommendations. Risks include fuel 
+contract renegotiation challenges and negative PR from laying off state government employees. 
+•
+Request that the candidate articulate succinctly the recommendation, risks, and next steps as if presenting to a client.
+# of Employees
+% of Total
+Salary
+Total Wages
+Drivers 
+50
+2.50%
+$110,000 
+$5,500,000 
+Admin
+1300
+65.00%
+$50,000 
+$65,000,000 
+Operational
+650
+32.50%
+$58,000 
+$37,700,000 
+TOTAL
+2000
+100%
+$54,100 
+$108,200,000 
+Fuel Costs
+Diesel
+$90,000,000 
+Gas 
+45% savings
+Cost cut:
+$40,500,000 
+Labor Costs
+#
+Salary
+Total
+Drivers
+5
+$110,000 
+$550,000 
+Admin
+500
+$50,000 
+$25,000,000 
+Operational
+100
+$58,000 
+$5,800,000 
+$31,350,000 
+Total Cost Cuts (Million)
+GAS 
+40.5
+Labor
+31.4
+Total:
+71.9
+135
+
+
+===== PDF p140 =====
+Case 13: Ferry Follies
+Performance Evaluation
+• This case tests the candidate’s ability to:
+o Understand the underpinnings of profit margins: 
+- Determine appropriate measures of financial performance
+- Brainstorm sources of costs and revenue as they relate to profit margin and determine which area should be 
+investigated
+o Determine what information is salient to “solve” the case
+- Employ critical thinking skills to weed through information 
+o Think logically in ambiguity
+o Complete calculation quickly and accurately
+• A strong candidate will:
+o Hone quickly in on cost reduction 
+o Handle the math of the cost table smoothly and without aid 
+o Drive the case with little prompting by the interviewer
+• An exceptional candidate will
+o Transition between Prompt 2 and Prompt 3 without the interviewer asking the next question
+o Exhibit “what else” thinking and provide creative brainstorming
+o Create a logical, actionable, prioritized recommendation for the client with specific time parameters
+136
+
+
+===== PDF p141 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

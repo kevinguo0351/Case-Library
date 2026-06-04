@@ -1,0 +1,64 @@
+===== PDF p158 =====
+Practice Case 19 (Consumer Products) 
+Case Situation 
+It's Monday morning and as a new Principal/Engagement Leader, you've just gotten a call from a well known and respected French-based 
+Consumer Products company. The company has offices in the US and has been selling through traditional channels throughout its history. It 
+designs and manufactures plastic products like pens, pencils, disposable razors, etc. It's an old company that's been around for about 60 years and 
+wants to take advantage of the Internet, starting with the US sales. 
+Company Background 
+You talked at length with the President of the dot-com part of the company and this is what you learned: 
+x
+This company now wants to sell directly to consumers through their Internet site. 
+x
+Their current online business is nothing more than a small catalog and is not doing very well: sales and hits are less than expected. 
+x
+It offers: 
+o
+More convenience than their other channels. It is open 24x7 and has more product information.
+o
+But, limited selection: only high margin items.
+x
+The President's strategy is to add key functionality to the online business to increase the hit rate and improve revenue. 
+x
+She reports directly to the CEO 
+x
+She wants your consulting team to create: 
+o
+A multi-ship-to-functionality,
+o
+A site-wide search functionality,
+o
+An ability to add checkout sales (e.g. impulse buy items similar to end caps in grocery stores next to the register).
+x
+She wants your consulting team to build this immediately. 
+
+
+===== PDF p159 =====
+Your Challenge: 
+This coming Thursday, you will meet with the President and her team.  
+Her expectation is that you will present a plan for your consulting team to build the functionality ASAP. 
+x
+What will you do on Monday? 
+x
+What will you prepare? 
+x
+What questions will you ask the President? 
+x
+What is your goal for that meeting? 
+Candidate Response: 
+There are many ways to answer this challenge, but the candidate should at least know not to accept the client at face value, realizing that the 
+functionality the President wants will not materially improve the hit rate or revenue, at least as far as the information provided indicates. 
+The candidate should want to create a conversation with the President and her team to present the plan for delivering the functionality (or state that 
+there is a plan), primarily to gather additional information to better understand the online company's business issues and goals.  In other words, the 
+candidate should want to open the eyes of the President and her team through questioning. The candidate will want to offer the notion that the 
+additional functionality will not solve the pressing problem. 
+The candidate's questioning of the President should follow a logic path that includes asking about the value proposition of the line store; for 
+instance: 
+x
+Who is the store trying to target?  
+x
+What is the store's value to the customer—its real offering (e.g. convenience, price, selection)? 
+x
+Why is it a unique and attractive offering? 
+x
+How will the online store deliver on the promise? 

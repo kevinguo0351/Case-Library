@@ -1,0 +1,30 @@
+{
+  "case_id": "Fuqua_2016_14_fresher-breath",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 14,
+  "case_name": "Fresher Breath",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Consumer Goods",
+  "difficulty": "Medium",
+  "pdf_page_start": 156,
+  "pdf_page_end": 164,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    159,
+    160,
+    161,
+    162,
+    163
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p161.png",
+    "exhibits/exhibit_p162.png",
+    "exhibits/exhibit_p163.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\14_fresher-breath"
+}

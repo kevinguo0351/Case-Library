@@ -1,0 +1,91 @@
+===== PDF p62 =====
+Case 18: Mutual Fund                  -medium-                 McKinsey&Company, Round 2 
+57 
+ 
+ (Source: Case Interview from McKinsey&Company, Round 2) 
+ 
+Context: 
+ 
+Our client is an asset management firm with flat revenue and profits. We have been asked to help 
+them to remedy this condition.  
+ 
+Interviewer: How would you think about this problem? 
+ 
+A good brainstorm should include discussions on the following elements: 
+- 
+Revenue 
+- 
+Costs 
+- 
+Regulatory environment (e.g. restrictions on fees, etc) 
+- 
+Competition (currently there is increased competition in funds) 
+- 
+Distribution environment (e.g. the emergence on online brokerage) 
+ 
+ 
+Information provided upon request: 
+ 
+Revenue: 
+• 
+$2 billion in revenue based on 1% management fee of $200B of assets 
+ 
+Costs: 
+• 
+Overhead: $200M 
+• 
+Money management: $800M, 50% based on assets 
+• 
+Distribution/ brokers: $800M, 100% based on assets (i.e. 40% commission of total revenue). 
+All sales are made through independent brokers (they also sell funds from other companies). 
+ 
+Fund strategy 
+• 
+US equities 
+ 
+Interviewer: At what level of assets will the fund owner begin to lose money? 
+(This is a question of fixed and variable costs) 
+  
+Solution: 
+  
+Currently our fund has a $200M in general overhead; I assume that is not going to change with asset 
+size.  
+The brokers are paid purely on commission, so all of their costs are variable.  
+The money managers are paid 50% on commission, meaning $400mm are fixed.  
+ 
+Total fixed costs =  $200M + $400M = $600M 
+ At a 1% management fee, we need a minimum of $60B in assets to cover our fixed costs 
+ 
+ 
+ 
+ 
+
+
+===== PDF p63 =====
+Case 18: Mutual Fund                -medium-                   McKinsey&Company, Round 2 
+58 
+ 
+ 
+Interviewer: Based on what you have found, what would you recommend to the fund manager? 
+ 
+- 
+We need to look at ways to drive revenue first. We could change the incentive structure for the 
+money managers, adjusted more to the fund’s performance.  
+- 
+With the brokers, we could pay them a higher commission to try to encourage them to sell our 
+fund over another (we would have to tease out the quantity/price relationship to see if this 
+makes sense.  
+- 
+There probably is not much to gain with overhead.  
+- 
+Additionally, this is a US fund only. We should consider launching an additional fund- perhaps 
+focusing on international markets- to drive up revenues and leverage our brand.  
+- 
+We are a $200B fund- we probably have a strong brand that we could use to sell more to our 
+existing customers (i.e. new fund) and possibly bring in new customers as well. 
+- 
+Look into new distribution methods 
+- 
+Look into asking brokers to do cold calls 
+- 
+Have the brokers in house (this will increase fixed costs but might provide better productivity) 

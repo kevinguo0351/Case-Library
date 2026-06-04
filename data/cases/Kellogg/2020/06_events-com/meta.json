@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2020_06_events-com",
+  "school": "Kellogg",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2020.pdf",
+  "idx": 6,
+  "case_name": "Events.com",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 80,
+  "pdf_page_end": 89,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p083.png",
+    "exhibits/exhibit_p084.png",
+    "exhibits/exhibit_p085.png",
+    "exhibits/exhibit_p086.png",
+    "exhibits/exhibit_p087.png",
+    "exhibits/exhibit_p088.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2020\\06_events-com"
+}

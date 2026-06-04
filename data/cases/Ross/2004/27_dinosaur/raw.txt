@@ -1,0 +1,81 @@
+===== PDF p65 =====
+Table of Contents 
+ 
+61
+Practice Case 27: Dinosaur  
+(AT Kearney - Round 2) 
+ 
+ 
+I. Case scope provided by interviewer:   
+ 
+This case was given in several parts.  When giving this case discuss 
+the first question and move on to each subsequent question. 
+ 
+Your client is an entrepreneur.  A live dinosaur has just been found in 
+Africa and will be auctioned off.  There is only one.  Your client would 
+like to buy the dinosaur and use it as the centerpiece in a new animal 
+themed park he would like to open.  
+ 
+What is the maximum price that our client should bid for the 
+dinosaur? 
+ 
+How should the park be designed to maximize profits? 
+ 
+Our client will need to go to the financial markets to raise capital to 
+build the park.  How would you determine an appropriate discount 
+rate? 
+ 
+ 
+ 
+II. Additional information provided after relevant questions:   
+ 
+Push the interviewee to make reasonable assumptions for all data that is 
+needed.  The only additional information provided was that the park will be in 
+a major metropolitian area in a developed, Western country. 
+ 
+ 
+III. Sample Solution:   
+ 
+To determine the maximum price it is necessary to figure the amount of 
+profit that can be made by opening a dinosaur theme park. 
+ 
+Revenue = number of visitors x ticket price 
+ 
+ 
+ 
+ancillary sales (food, souvenirs, marketing promotions, 
+etc.) 
+ 
+ 
+ 
+Costs =  
+Fixed costs (building/set up of facility, dinosaur purchase) 
+ 
+ 
+ 
+Variable costs 
+ 
+Assuming that there will be a virtually unlimited number of people who want 
+to see the worldís only dinosaur, the number of visitors is determined by 
+capacity.  Therefore, designing the park to maximum capacity is key. To 
+determine the capacity you must figure out the best layout for the exhibit.  
+
+
+===== PDF p66 =====
+Table of Contents 
+ 
+62
+(There is no right answer, but it is important to evaluate alternatives and 
+propose the ìbestî solution)  The interviewee should draw out several 
+potential alternatives and calculate capacity using Littleís Law 
+ 
+ 
+R= I x T 
+ 
+ 
+Determining an appropriate discount rate may not be possible, but the 
+interviewee should propose a methodology for determining the rate using 
+benchmarks.  The key is to find benchmarks for companies/industries where 
+the key asset has an indeterminate life. 
+ 
+ 

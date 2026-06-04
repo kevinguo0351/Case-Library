@@ -1,0 +1,292 @@
+===== PDF p152 =====
+Case # 20 - Pre-K Education
+Your client is the State Department of Education and it is looking to improve the education outcomes of the 
+general population. The department believes that investment in Pre-Kindergarten education (ages 3-4) is 
+key and wants to increase the capacity of its state accredited Pre-K programs. The client is thinking about 
+running a campaign to raise taxes to fund this initiative and have come to us with three questions: 
+1. How many additional spots for children need to be funded for the Pre-K programs? 
+2. How much will the campaign cost? 
+3. How should they approach the tax increase campaign?
+Problem Statement Narrative
+Case # 20 : Pre-K Education
+Case requires both creativity in dealing with an unorthodox business model and a high level of quantitative 
+analysis. Notice “sample dialogue” to fully simulate case and give all questions and information.
+Case Notes
+Industry: 
+Education
+Case Type: 
+Growth
+Firm:
+BCG
+• Supply and Demand
+• Creativity
+• Mental math
+Concepts Tested
+Structure
+Creativity
+Math
+Medium
+Medium
+Hard
+148
+
+
+===== PDF p153 =====
+Sample Framework
+Financial considerations
+•
+Total addressable market vs. current capacity
+•
+Cost breakdown of adding new schools
+•
+Taxpayer base and how to increase taxes
+Strategic considerations
+•
+Other states who have launched Pre-K 
+education programs (what was their approach)
+•
+Private Pre-K programs and how they might 
+help serve to help State’s goal
+•
+Other pressing issues facing the city and/or the 
+school district – who else is competing for the 
+same resources?
+Operational considerations
+•
+Long-term impact of funding initiative (to help 
+get taxpayers on board)
+•
+What’s being taxed (real estate, sales, soda) and 
+who is most directly affected by it
+Sample Framework
+• Candidate should recognize or clarify that there’s no 
+revenue associated with Pre- K program.
+• It’s a tradeoff between improving education outcomes 
+and cost to the state. 
+• Ask candidate to brainstorm: What are some benefits to 
+improving education ? 
+• Short-term education goals: social and 
+emotional development, colors, letters, etc.
+• Long-term education goals: high school 
+graduation rates, standardized test scores, 
+reading/writing at grade level, etc.
+Guidance for Interviewer
+• Education outcome means college admittance 
+and completion rates. 
+• Private Pre-K programs are highly fragmented 
+and range widely in quality. Therefore, the State 
+Department of Education only wants to rely on 
+state-funded programs in which they can 
+guarantee the quality of the program (education 
+level of the teacher, full-day program with 
+adequate teaching materials/supplies etc). 
+Clarification Answers if Asked 
+149
+Case # 20 - Pre-K Education
+
+
+===== PDF p154 =====
+• The State Department of Education has already 
+launched a similar initiative and provided some 
+funding. Now they want to expand the program.
+• The graduates of last year’s program did not 
+show great results when they were tested on their 
+social and aptitude for learning skills. (How long 
+they can sit still, how they interact with other 
+kids.) The State Department of Education hope 
+that perhaps the poor result is due to flaws in the 
+test. 
+State
+• Population experiencing steady growth. Assume 
+equal distribution of children in each age 
+amongst all kids 3-18 years old.
+• Not in competition with private programs as the 
+public market is only for children from low-
+income families (who could not afford private 
+programs).
+Market
+• Cost per 1 spot is $10,000 a year to the state.
+Costs
+• No revenues since the program will be free. Want 
+to limit capacity to only children from low-
+income families.
+Revenues
+Additional Info / Areas for Analysis
+150
+Case # 20 - Pre-K Education
+
+
+===== PDF p155 =====
+Question #1
+Give Exhibit 1. How many additional spots need to be funded to reach the State Department of 
+Education’s goal of providing Pre-K education to all children of low income families? 
+Question #1
+Turns out in total the State Department of Education would need to fund less than 400 additional spots or 
+reallocate spots between regions.
+Interviewee should recognize that some regions (2, 4, and 5) are overfunded
+Follow up question: Why do you think some of the regions are over funded?
+Solution
+Region
+Population 
+(K-12th
+grade)
+Population 
+(Pre-K)
+% Low 
+Income
+Total Spots for 
+Children 
+Needed
+Current Spots 
+Available
+Current Spots 
+Needed
+1
+13,000
+1,000
+50%
+500
+462 
+38 
+2
+26,000
+2,000
+60%
+1,200
+3,439 
+(2,239)
+3
+13,000
+1,000
+75%
+750
+397 
+353 
+4
+39,000
+3,000
+40%
+1,200
+3,279 
+(2,079)
+5
+26,000
+2,000
+60%
+1,200
+2,025 
+(825) 
+(4,752) 
+151
+Case # 20 - Pre-K Education
+
+
+===== PDF p156 =====
+Question #2
+Give Exhibit 2. After discussion about over funding in certain regions, take a look at this exhibit. What do 
+you make of it?
+Question #2
+•
+Exhibit 2 shows many of the state’s citizens live less than 30 mins from the border of their region 
+(especially in Region 3 and Region 5).
+•
+If many students live close to Region 2 and 4, which have over capacity, perhaps some students from 
+underfunded regions could be sent to schools that have over capacity
+•
+Alternatively, some teachers in overfunded regions could be sent to teach in underfunded regions.
+•
+In general – resources need to be allocated based on local demand: the number of children who qualify 
+(low income) and the number of families that want Pre-K (harder to estimate). 
+Solution
+152
+Case # 20 - Pre-K Education
+
+
+===== PDF p157 =====
+Sample Dialogue
+Candidate: Since overall we only need to fund additional <400 spots, instead of raising tax rates, I want to first 
+focus on if we can reallocate resources amongst the regions. Also, since there are already funded spots, do we have 
+results of how successful the current program is?
+Interviewer: Actually, it turns out that the graduates of last year’s program did not show great results when they 
+were tested on their social and aptitude for learning skills. (How long they can sit still, how they interact with other 
+kids.) But the State Department of Education still has hope, maybe something is wrong with the test and that’s why 
+results are poor. Back to your first point, why do you think some regions are over funded?
+Candidate: Could be because Region 2 and 4 have large populations, the State Department of Education opened 
+more schools there and hired more teachers than what was necessary to serve just the children of low-income 
+families. We could transfer some of the teachers and ask them to teach in other regions. Also depending on how large 
+the state is and how far apart each region is, we could try to see if kids from Regions 1, 3, and 5 could attend 
+school in Region 2 and 4.
+Interviewer: (Give Exhibit 2) What do you make of this? 
+Candidate: It seems 10-20% of residents could possibly attend school in another region. However, I need to know 
+whether these regions are adjacent to Region 2 or 4, also how is the distribution of age and income within each 
+region to assess the likelihood that our target kids just happen to be in that 10-20% of population on regional 
+borders. Lastly, since these are young children of low-income families, they might not have the resources to attend 
+preschool that requires driving to another region anyways (families don’t have cars, or no one to drop off/pick up.)
+Interviewer: Head of the Education department asks for your opinion in an elevator, what do you say?
+Dialogue
+153
+Case # 20 - Pre-K Education
+
+
+===== PDF p158 =====
+Conclusion
+Rationale
+• I would not recommend launching a campaign to 
+raise taxes or to expand the program.
+Recommendation
+• Start with improving the effectiveness of the Pre-
+K program by either changing curriculum or 
+trying out different ways to measure the 
+performance.
+Next Steps
+• Our state continues to fall behind in education 
+standards, making it hard to attract/retain 
+residents.
+Risks
+• Some regions are currently overfunded. I would 
+want to reallocate those resources first before 
+opening new schools.
+• The current results are not conclusive for the 
+effectiveness of the program, we want to focus on 
+replicable results before justifying a tax increase.
+154
+Case # 20 - Pre-K Education
+
+
+===== PDF p159 =====
+Exhibit #1
+Region
+Population 
+(K-12th grade)
+% Low 
+Income
+Current spots 
+Available
+1
+13,193
+50%
+462
+2
+25,870
+60%
+3,429
+3
+13,049
+75%
+397
+4
+39,203
+40%
+3,279
+5
+26,103
+60%
+2,025
+155
+Case # 20 - Pre-K Education
+
+
+===== PDF p160 =====
+Exhibit #2
+156
+Case # 20 - Pre-K Education

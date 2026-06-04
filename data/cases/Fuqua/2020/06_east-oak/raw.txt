@@ -1,0 +1,281 @@
+===== PDF p86 =====
+East Oak
+82
+Industry:
+eCommerce
+Case Type:
+Growth Strategy
+Led by:            
+Interviewer
+Quantitative Level:  Medium
+Qualitative Level:
+Medium
+
+
+===== PDF p87 =====
+Behavioral Questions
+83
+• Consulting is a very demanding and challenging job. How do you think you’ll deal with 
+the demands of the work, and how has your experience prepared you for this?
+Question 1:
+• What has been your biggest accomplishment to date?
+Question 2:
+
+
+===== PDF p88 =====
+East Oak
+84
+Your client, East Oak, is a fast-growing retailer of modern home goods and furnishings. 
+The company has seen tremendous growth over the past 5 years and is considering 
+ways to continue this growth. 
+The CEO is looking for our team to provide recommendations for how to achieve this.  
+Prompt #1:
+• Existing Distribution Channels: Online-only, no physical brick-and-mortar stores
+• Value Chain: Fulfillment method is 100% dropship (does not own any inventory, 
+purchases items from manufacturers and ships directly to the customer)
+• Competition: Some big box stores like Target and Amazon, but mostly higher-end 
+retailers like West Elm and Crate and Barrel
+• Annual Revenue: $240M per year
+• Goal: Increase revenue by 10% (or $24M)
+• Marketplace: Currently only ships in the U.S.
+• Timeline: No specific, just as soon as possible
+Case Background:
+
+
+===== PDF p89 =====
+East Oak
+85
+Revenue Growth for East Oak
+Framework Example Buckets:
+Furniture Price
+Product Volume
+Other
+• Product margins
+• Price increases
+• Shipping
+• Range of products (low to high)
+• Product mix / quality of 
+assortment
+• Variety and product types
+• # of suppliers
+• # of styles
+• Top selling products
+• Product availability / stock
+Interviewer Framework Guidance: A basic revenue framework can look like the above or include a four P’s 
+framework. Costs should not be included in framework since the prompt specifically asks about revenue growth. 
+Candidate should pick where they would like to go next – interviewer can inform the candidate that we have more 
+information on how East Oaks compares to competitors in Exhibit 1.
+• Improve user / customer 
+experience
+• Web design
+• Faster shipping
+• Better customer service
+• Return policy
+• Virtual reality / AI
+• Brand partnerships, 
+marketing
+
+
+===== PDF p90 =====
+Exhibit #1
+86
+Dimension
+East Oak
+Competitor 1
+Industry 
+Average
+Product Quality
+4.8
+3.4
+4.4
+Customer Service
+4.2
+3.9
+4.1
+Product Selection
+2.7
+4.3
+3.9
+Price
+3.3
+3.4
+3.8
+Availability
+4.1
+4.7
+4.3
+Shipping Options
+4.0
+5.0
+4.0
+Average consumer rating (1=bad, 5=good)
+Consumer Ratings
+
+
+===== PDF p91 =====
+Interviewer guidance on Exhibits
+• Hand exhibit #1 to the interviewee 
+and ask which dimensions East Oak 
+should focus on.
+• Basic Insights
+– Candidate should immediately notice the 
+three opportunity areas to be price, product 
+availability, and product selection. East Oak 
+is below competitor 1 and the industry 
+average for these dimensions.
+– Candidate should also notice that East Oak 
+succeeds at product quality and customer 
+service
+– Candidate should realize a low score for 
+price indicates that shoppers believe items 
+are priced too high
+• Second Order Insights
+– Candidate may wonder if poor ratings for 
+selection and availability are tied together 
+and may propose solutions for how to 
+improve those two dimensions
+87
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p92 =====
+Brainstorming
+• What are some ways in which East Oak 
+can improve on product selection and 
+availability?
+•
+Brainstorm should be structured and 
+include some of the following: 
+Existing Supply Chain: 
+– Working with suppliers to procure 
+more product and reduce out of 
+stocks 
+– Hold inventory in warehouse
+– Use technology to improve inventory 
+management
+– Increasing number of suppliers
+New Supply Chain: 
+– Begin manufacturing own 
+merchandise
+– Private label
+– Purchase a furniture supplier
+88
+Prompt:
+Analysis:
+
+
+===== PDF p93 =====
+Exhibit #2
+89
+11
+9
+25
+13
+14
+3
+10
+20
+17
+4
+Private label products
+Tech. investment for inventory management
+Build manufacturing facility
+Acquire furniture manufacturer
+Acquire competitor
+Project cost
+NPV
+Investment Options For East Oak
+*Numbers are in millions
+
+
+===== PDF p94 =====
+Interviewer guidance on Exhibit #2
+• Hand exhibit #2 and tell 
+interviewee that the team has 
+collected financial information on 
+several options for improving 
+product availability and selection. 
+• If candidate did not ask earlier, 
+he/she may ask the goal: 10% 
+increase in revenue (or $24M)
+• Candidate may ask if there are any 
+capital constraints: No
+• The candidate should calculate a profitability ratio by 
+taking NPV/cost of project
+• The candidate should then prioritize the projects and see 
+which investments will reach the goal
+Calculations: (correct answers bolded)
+•
+Technology for inventory management: 11/3 = 3.66
+•
+Acquire furniture manufacturer 9/10 = 0.9
+•
+Build manufacturing facility: 25/20 = 1.25
+•
+Acquire competitor = 13/17 = 0.76
+•
+Private label products = 14/4 = 3.5
+A very good candidate will immediately recognize that 
+acquiring a furniture manufacturer or competitor will not get 
+a positive return, therefore those options can be passed 
+over.
+Candidate should recommend moving forward with a 
+technology investment for inventory management as well as 
+creating a private label to capture an additional $25M
+An excellent candidate will continue driving the case by 
+identifying any risks such as funding the investment (cash, 
+debt)
+90
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p95 =====
+Brainstorming #2
+• The CEO agrees with your 
+recommendation to proceed with a 
+technology investment for inventory 
+management as well as creating a private 
+label. She is particularly interested in 
+private labeling. What are some of the 
+risks associated with this investment?
+Brainstorm should be structured and include 
+some of the following: 
+Manufacturing Risks: 
+– Difficulty getting exclusivity rights to 
+products
+– Will competition copy?
+Financial Risks:
+– Lower prices
+– Could potentially cannibalize sales of 
+other higher margin products
+– Increase marketing spend $
+Operational Risks:
+– Quality – might be lower
+– Design capabilities/expertise
+91
+Prompt:
+Analysis:
+
+
+===== PDF p96 =====
+East Oak
+92
+• You log on to Zoom happy hour early and the CEO joins immediately after. The 
+happy hour starts in two minutes and she asks how your evaluation is coming along.
+Recommendation 
+[Resist the urge to give candidate a minute to collect thoughts] 
+Strong recommendations include the following items or similar reasoning:
+East Oak should prioritize private labeling and a technology investment for inventory 
+management to capture an additional $25M in revenue, which only slightly exceeds the 
+goal of a 10% increase by $1M.
+Risks include:
+– Estimated return being lower than expected and potentially not meeting the $25M goal
+– Having enough cash or access to capital to fund investments
+– Potentially not seeing the return on investment as expected
+– Competitor response
+Next Steps/Mitigation:
+– Exploring suppliers for private labeling and technology platforms for investment
+– Sensitivity analysis on NPV and cost calculations
+Risks and Next Steps:

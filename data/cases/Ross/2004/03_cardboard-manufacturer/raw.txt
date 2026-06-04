@@ -1,0 +1,109 @@
+===== PDF p12 =====
+Table of Contents 
+ 
+8
+Practice Case 3: Cardboard manufacturer  
+(A. T. Kearney - Round 1) 
+ 
+ 
+I. Case scope provided by interviewer: 
+ 
+ 
+Our client is a cardboard manufacturer that has two plants for which 
+we gathered the following data: 
+ 
+ 
+Plant A 
+Plant B 
+Sales (ë000 $) 
+45,000 
+75,000 
+Cost of Paper 
+65% 
+63% 
+Other Goods 
+6% 
+5% 
+Labor 
+18% 
+13% 
+Other Manufacturing 
+6% 
+5% 
+Depreciation 
+3% 
+3% 
+Profit 
+2% 
+11% 
+ 
+What does this data tell you?  
+ 
+You have been hired in to improve the performance of Plant A to 
+similar levels as Plant B. What do you suggest? 
+ 
+Interviewer tip: This case has a lot of math. Put the candidate under 
+pressure to nail the math quickly. Allow them to approximate, but keep them 
+under pressure. 
+ 
+ 
+II. Additional information provided after relevant questions: 
+ 
+• 
+The industry is manufacturing of cardboard boxes for packaging 
+• 
+Both plants are in Benelux, owned and operated by a central HQ 
+division. Each plant has completely delegated authority and is its own 
+profit centre. Each plant manages its own sales and its own customers.  
+• 
+Both plants have similar processes: Print ñ Cut ñ Fold ñ Glue. The last 
+step is optional and is only needed for the premium customers. 
+• 
+Both plants have similar equipment  
+• 
+The average salary in each plant is the same - $45,000. Assume that 
+everyone gets paid this amount. 
+• 
+In Plant A: 15% of the total workforce is in sales; 35% of the 
+workforce is represented by full time employees (management, 
+maintenance): 50% of the workforce is represented by operators. 
+Morale in Plant A is very low. 
+• 
+All we know about Plant B is that they have 35 sales people.  
+• 
+Each plant has different customer mix, but it is not important for the 
+case. 
+
+
+===== PDF p13 =====
+Table of Contents 
+ 
+9
+• 
+Plantís A customers are not very good at forecasting demand and as a 
+result the average production run at A is much less than at B. 
+Changing production runs is a very labor intensive step. 
+• 
+We could bring the number of product changes at A in line with B we 
+could cut operators by 10% and full time staff by 20% 
+ 
+III. Sample solution:  
+ 
+We need to reduce labor from 18% to 13%. A 6% reduction is around $2.3M. 
+ 
+A. The total labor bill for Plant A is around $9M. With an average wage of 
+$45,000, then Plant A has 200 people of which 30 people are sales staff. This 
+is very high compared to Plant B. 
+ 
+In Plant B the 35 sales people sell approximately $75M and in Plant A the 30 
+sales people sell approximately $45M.  Therefore each sales person in Plant B 
+sells approximately $2M of product. If plant Aís did the same, we would only 
+need 20 people. We could layoff 10 people and save $450,000. 
+ 
+B. By bringing down the number of product changes we could then save 
+(200*50%*10%) 10 shift operators and (200*35%*20%) 14 full time staff, 
+a total of 24 staff, or around $1M.  
+ 
+C. If we could improve the morale we could save 10% of the shift costs. That 
+is another $450,000 saved. So we have now identified around $2M of 
+savings, which is the majority. 

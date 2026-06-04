@@ -1,0 +1,167 @@
+===== PDF p84 =====
+ 
+80 
+C O N S U L T I N G  C A S E  I N T E R VI E W  
+Radiator Fins for Defense Aircraft 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p85 =====
+ 
+81 
+Question 
+Our client is negotiating the price of radiator fins which are used in defense aircrafts. What should 
+be an appropriate price for a radiator fin? 
+Note 
+This case is similar to a case that a student may receive in a second round interview with Booz or AT 
+Kearney. 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. What does the client do? 
+They are a defense aircraft manufacturer. 
+2. Who is the client negotiating with? 
+They are negotiating with an existing 
+supplier who is supplying these products 
+for last 10 years. 
+3. Where is the client based? 
+They are based in the United States. 
+4. What is the function of a radiator fin in a 
+defense aircraft? 
+Radiator fins are used for cooling the 
+aircraft engines. 
+ 5. Is there a specific leverage that our 
+client has in this negotiation? 
+By regulation, defense manufacturers can 
+obtain the cost structure from their 
+suppliers. 
+ 
+Plan 
+This is a typical pricing case.  The analysis may include, but is not limited to, the following areas: 
+21. Industry Analysis 
+22. Pricing Strategy – Market-based pricing, value-based pricing, cost-based pricing. 
+ 
+ 
+ 
+ 
+
+
+===== PDF p86 =====
+ 
+82 
+Strong Plan 
+A strong plan should discuss the analysis along with the drivers such as market 
+based pricing is driven by market competition and cost base pricing is driven by 
+supplier‟s cost structure. 
+ 
+ 
+Weak Plan 
+Weak plan will discuss only the pricing strategy without any drivers. For example it 
+can include cost structure in cost based pricing but will not break it further into 
+components and its drivers. 
+ 
+ 
+ 
+Interviewee:  How many suppliers are there in the market? 
+Interviewer:  Our client‟s supplier is the only one in the market. 
+Expected Insight: We don‟t need to consider market-based pricing since there is no competition. 
+Interviewee:  Is there a substitute product for radiator fins? 
+Interviewer:  No, the client cannot substitute the radiator fins with any other product. 
+Interviewee: What is the value proposition of this product? 
+Interviewer: The radiator fins are essential for the aircraft to function. 
+Expected Insight: The product has high value for the client but given that our client is a defense 
+manufacturer who can obtain the suppliers‟ cost breakdown, value-based pricing is not viable. 
+Interviewee: Let‟s discuss the cost structure of the supplier. 
+Interviewer: Excellent, what do you need? 
+Interviewee: Recommended cost structure is as follows: 
+ 
+Cost Components 
+Drivers 
+Raw Material 
+Prevalent market price 
+Labor 
+Geography and labor market 
+SGA including overhead 
+Efficiency  
+Allocated fixed cost 
+Utilization and scale 
+Transportation 
+Geographical distance, weight, volume and 
+mode of transport. 
+ 
+&
+'
+
+
+===== PDF p87 =====
+ 
+83 
+Cost Component 
+Old 
+New 
+Production Cost 
+Material 
+$300 
++7% 
+ 
+Labor 
+$100 
+-2% 
+ 
+SGA 
+13% 
+ 
+ 
+Total 
+$452 
+ 
+Transportation 
+12 fins per box 
+$5000/box 
+-12% 
+Margin 
+ 
+20% 
+ 
+Final Price 
+ 
+$1042.4 
+ 
+ 
+ 
+ 
+ 
+  
+Note: An average interviewee will only calculate the change in cost structure and then decide on the 
+negotiation price, while a strong interviewee will challenge even the old cost structure. 
+ 
+Calculations 
+Old price after margin is $1042.4 per fin and as per calculations the new price is $1008.16. 
+ 
+Recommendation 
+The recommendation should include the following: 
+22. The answer – as per cost modeling, final price should be $1008 and we should negotiate for 
+the lower price. 
+23. Risks or considerations – we added margins on top of transportation cost, if that is not the 
+case final number may be different. 
+24. Next steps – Do the cost modeling for the old cost structure to make sure it is accurate.  
+ 
+ 
+ 
+ 
+ 

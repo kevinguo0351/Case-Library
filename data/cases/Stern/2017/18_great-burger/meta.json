@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2017_18_great-burger",
+  "school": "Stern",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2017.pdf",
+  "idx": 18,
+  "case_name": "Great Burger",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Food",
+  "difficulty": "Hard",
+  "pdf_page_start": 180,
+  "pdf_page_end": 190,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    183,
+    184,
+    187,
+    189,
+    190
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p183.png",
+    "exhibits/exhibit_p184.png",
+    "exhibits/exhibit_p187.png",
+    "exhibits/exhibit_p189.png",
+    "exhibits/exhibit_p190.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2017\\18_great-burger"
+}

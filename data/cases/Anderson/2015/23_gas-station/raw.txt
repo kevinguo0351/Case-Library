@@ -1,0 +1,86 @@
+===== PDF p125 =====
+Case Title: 
+Company:  
+Interview Round:  
+Case Tags:  
+Duration: 
+Gas Station 
+Bain & Company 
+1st Round – Full Time  
+Market sizing 
+25 minutes 
+Question: 
+How many gas stations are there in Japan? 
+ 
+Follow-up question: If you had 2 hours to reJine your data, how would you spend them?  
+(i.e. which assumptions are most important; the “drivers”) 
+Things Interviewee Should Consider / “Framework”: 
+There are several other ways to attack this one, including a simple scale-up (a town of 80k  
+might have 20 gas stations, so just proportion that up to 120M people…) or some sort of  
+parallel to the United States, as long as cultural differences are considered. 
+Facts to Share (if prompted): 
+• 
+Population of Japan = 120 million 
+• 
+Public transportation is very convenient and widely used, so car ownership and usage is  
+much lower than in the U.S. 
+Summary of Key Insights: 
+Be sure to have a couple of suggestions on how to approach the problem. You will be asked  
+for multiple solutions, and why one is better than another. Be organized with your  
+numbers. 
+UCLA Anderson MCA Case Book 2009 
+Page 15 of 42 
+
+
+===== PDF p126 =====
+Case Title: 
+Company:  
+Interview Round:  
+Case Tags:  
+Duration: 
+Gas Station 
+Bain & Company 
+1st Round – Full Time  
+Market sizing 
+25 minutes 
+Sample framework 
+
+
+===== PDF p127 =====
+Walkthrough of Solution: 
+ 
+The following is a sample solution: 
+ 
+Equate supply with demand: 
+Work in tanks Jilled, since we will deal with the amount of time it takes to Jill a tank  
+Demand = households * % car ownership * tanks Jilled per month * days/month 
++ business demand = above # * (ratio of trucks to cars on the road) * (ratio of frequency of 
+Jill-ups, i.e. every day vs. once/month) 
+ 
+40M * 40% * 1 tank/month * month/30 days =  500,000 tanks/day + 
+500,000 * (1 truck/20 cars) * (one Jill-up per month/every day, or 30) = 750,000 
+Total supply = 1.25 M tanks per day  
+Each station has about 10 pumps 
+It takes about 5 minutes for each Jill-up. 
+ 
+Under 100% utilization, that would equal 10 pumps * 12 * 24 = 3000 Jill-ups per gas  
+station per day 
+To Jigure out utilization, divide up the day and make some assumptions  
+0:00 – 6:00 = 5% 
+6:00 – 10:00 (around rush hour)= 50% 
+10:00 – 16:00 = 20% 
+16:00 – 20:00 (around rush hour) = 50% 
+20:00 – 24:00 = 20% 
+Take the weighted average = (6*.05 + 4*.5 + 4*.2 + 4*.5 + 4*.2)/24 = 25%  
+So there are 25% of 3000, or 750 Jill-ups per station per day 
+1.25M/750 = about 6600 gas stations 
+ 
+Follow-up question: 6600 seems low. Go through each assumption and do a gut-check 
+• 
+Over a 24-hour span, are gas stations really 25% utilized? Probably not… 
+• 
+% car ownership and Jill-ups per month will be big drivers 
+• 
+Since business use is so large, the ratios used in that equation are also quite important 
+UCLA Anderson MCA Case Book 2009 
+Page 16 of 42 

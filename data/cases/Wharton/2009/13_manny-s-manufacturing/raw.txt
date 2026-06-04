@@ -1,0 +1,228 @@
+===== PDF p120 =====
+Case: Manny’s Manufacturing
+Inspired by A.T. Kearney, Round 2
+Overview for interviewer
+Information to be provided upon request
+Manny’s Manufacturing is a U.S. based company that produces a consumer packaged good. It currently has manufacturing facilities 
+in the U.S. and an idle plant in South America.  The executive team at Manny’s Manufacturing is trying to determine the health of its 
+business and whether to use the South American plant.
+Problem statement narrative
+116
+The candidate should first determine the profitability of the 
+North American plant by looking at revenue and costs. 
+He/she will most likely do a market size analysis to assist 
+with this.  He/she will then evaluate potential profitability of 
+the South American plant and finally explore some of the 
+qualitative issues that come with operating internationally 
+(additional taxes, environmental concerns, proximity of 
+distributors, product quality, lack of technological 
+advancement etc).  The candidate may decide to use the S.A. 
+plant, sell the S.A. plant,  or maintain status quo.  Depending 
+on the candidate’s assumptions, different answers may apply.  
+Be sure that the logic is sound.
+Case Type: Profitability, Market Size, Strategic Analysis
+Products are sold only in the United States
+North America profitability analysis:
+1.
+Market Size analysis
+1.
+U.S. Population: 300M
+2.
+% of population demanding the product: 10%
+3.
+# of products demanded per person: 20
+4.
+Price of product: $ 0.50
+5.
+Manny’s Market Share: 5%
+6.
+Market is mature and not expected to grow 
+significantly. Competitive market, but difficult to steal 
+market share
+2.
+Costs with N.A. plant (see Question 2)
+3.
+Costs with the S.A. plant (see Question 2)
+4.
+Capacity: N.A. plant can make 50M goods; S.A. can make 
+20M goods
+5.
+The same product with the same quality can be produced in 
+S.A. or N.A.
+
+
+===== PDF p121 =====
+Case: Manny’s Manufacturing
+Question 1 – Market Sizing/ Revenue Analysis
+What is Manny’s Revenue?
+United States
+United States Population (given)
+300,000,000
+Percentage of the population demanding the product (given)
+10%
+Total People demanding the prod ct (300M * 10%)
+30 000 000
+- No information is to be given up front. Simply ask 
+how the candidate would do market share analysis
+Information to provide up front
+117
+Total People demanding the product (300M * 10%)
+30,000,000 
+# of products demanded by person on average (given)
+20
+Total Market Size (# of products) (20*30M)
+600,000,000 
+Price per product (given)
+$0.50 
+Total Market Size ($) ($0.50*600M)
+$               300,000,000 
+Manny's Market Share (given)
+5%
+Manny's Products Demand (5% * 600M units)
+30,000,000 
+Manny's Total Potential Revenue ($0.50 * 30M)
+$                 15,000,000 
+- Market Population = U.S.: 300M
+- % of population demanding the product: 10% 
+-# of products demanded / person: 20
+- Price: $0.50
+- Manny’s Market Share: 5%
+Provide information if asked
+
+
+===== PDF p122 =====
+Case: Manny’s Manufacturing
+Question 2 – Cost Structure
+What are Manny’s costs to operate each plant?
+Costs for N.A. Plant
+Fixed Costs
+$        5,000,000 
+Variable Costs
+Raw Materials ($0.10 per product)
+$        3,000,000 
+Transportation ($0.05 per product)
+$        1,500,000 
+Oth
+VC
+$
+4 000 000
+-No information is given up front. The candidate should 
+ask for each of the numbers.
+- If the candidate asks for “Variable Costs,” ask 
+him/her to give examples of V.C.
+- Ask them to explore what could be in the Other V.C. 
+bucket (labor, variable overhead, etc)
+Information to provide up front
+118
+Other VC
+$        4,000,000 
+Total Costs
+$      13,500,000 
+Costs for S.A. Plant - assuming operating at 100% (20M goods which is not enough to 
+satisfy 100% of demand)
+Fixed Costs
+$      4,500,000 
+Variable Costs
+Raw Materials ($.05 per product)
+$       1,000,000 
+Transportation ($0.20 per product)
+$        4,000,000 
+Other VC
+$        4,500,000 
+Total Costs
+$     14,000,000 
+- Fixed Costs for N.A. are $5M
+- Raw Material Costs for N.A. are $0.10 per product
+- Transportation Costs for N.A. are $0.05 per product
+- Other V.C. in N.A. are $4M
+- Fixed Costs for S.A. are $4M
+- Raw Material Costs for S.A. are $0.05 per product
+- Transportation Costs for S.A. are $0.20 per product
+- Other V.C. for S.A. are $4M
+- Manny’s capacity in N.A. is 50M
+- Manny’s capacity in S.A. is 20M
+Provide information if asked
+
+
+===== PDF p123 =====
+Case: Manny’s Manufacturing
+Issue Tree: Qualitative Factors
+In addition to the previous quantitative slides, candidate can explore various buckets
+-Is there a larger environmental impact 
+associated with transportation from 
+S.A.?
+- Do the same environmental 
+regulations apply to the S.A. plant as
+Environmental Concerns
+-Are there stricter/looser laws in S.A. or 
+N.A.?
+Legal Concerns
+-Is it possible to expand to other markets?
+- What are the tax implications of 
+international expansion?
+International Expansion
+119
+regulations apply to the S.A. plant as 
+the N.A. plant?
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+-Carbon footprint is something the 
+company has been extremely concerned 
+with and would like to keep emissions as 
+low as possible.  Shipping from S.A. would 
+drastically increase the carbon footprint
+- Environmental regulations are not as strict 
+in S.A., particularly with waste disposal 
+and factory cleanliness. This could tarnish 
+the company’s image
+- While laws are stricter in the U.S., 
+Manny’s is not willing to use any of the 
+loopholes in S.A. to gain a competitive 
+advantage for fear of damaging its 
+image.
+-Have the candidate explore the option by 
+asking follow up questions
+- How much capacity is available?
+-Which markets should Manny 
+expand to and why?
+-Where would Manny produce the 
+goods to expand?
+- There will be import/export taxes, but for 
+ease, assume they fall within other V.C. 
+
+
+===== PDF p124 =====
+Case: Manny’s Manufacturing
+Sample Recommendation
+Manny’s Manufacturing should continue to produce in the United States and sell the South American 
+plant if an attractive opportunity arises.  The reasons to continue producing in the U.S. and not in S.A. 
+are 1) Manny’s would actually lose money on sales to the U.S. from S.A. ($10M revenue - $14M cost at 
+full capacity utilization in S.A.); 2) It is cheaper to produce in the U.S. mainly due to transportation costs; 
+3) The environmental impact of producing in the U.S. is significantly lower; and 4) S.A. does not have the 
+capacity alone to meet demand in the U.S. and therefore the N.A. and S.A. plants would both need to 
+be running meaning Manny would incur the fixed costs at both locations.
+Recommendation
+-Manny’s may not find a buyer for the plant or may miss opportunities to expand in S.A.
+-Manny’s many eventually reach capacity in the U.S.
+Risks
+120
+y
+y
+y
+p
+y
+-Try to increase demand in N.A. to get the N.A. plant fully utilized
+- Explore international expansion
+- Find potential buyer for S.A. plant
+Next Steps
+What would it take to make the S.A. plant more 
+appealing?
+- Increased capacity
+- Lower transportation costs
+- Increased demand (the N.A. factory is not running at 
+100% utilization currently) 
+BONUS

@@ -1,0 +1,188 @@
+===== PDF p90 =====
+Table of Contents 
+ 
+86
+Practice Case 38: Biotech technology  
+(Booz Allen Hamilton - Round 1) 
+ 
+I. Case scope provided by interviewer:     
+ 
+Your client is the CEO of a biotechnology company, which has 
+recently found a way to double the carbohydrates and proteins in 
+corn using bioengineering methods.  The client believes the product 
+has commercial value.  They have hired you to determine if the 
+product has value and to whom.  Additionally, it is your job to 
+determine how much value it has. 
+ 
+II. Additional information provided after relevant questions:   
+ 
+The client is looking to enter the U.S. market (which is also its production 
+location). 
+R&D costs are sunk. 
+No money has been spent yet on commercializing the product (i.e., 
+manufacturing, selling, etc.). 
+The additional carbohydrates and protein are the only differences between 
+the new and old corn. 
+Customer segments:  10% human consumption, 10% industrial production, 
+and 80% animal feed. 
+Major value drivers by customer segment: 
+Humans: taste and nutritional content. 
+Industrial production (extracting starch to produce ethanol products):  
+carbohydrate content 
+Animal feed:  nutritional content 
+The following information on nutritional requirements was given: 
+ 
+Animal Feed Information 
+ 
+Carbs 
+Protein 
+Price 
+"Old" corn 
+50g /bussel 
+25g /bussel 
+$2.50  
+"New" corn 
+100g /bussel 
+50g /bussel 
+? 
+Soy 
+0g /bussel 
+50g /bussel 
+$3.50  
+Daily Requirement 
+1000g /day 
+1000g /day 
+ 
+ 
+ 
+III. Sample Solution:   
+Interviewee:  Before structuring my approach, I would like to ask a few 
+questions to understand my client better.  Where are we considering 
+producing this product and what is our geographic market?   
+ 
+Interviewer:  Good questions.  We are only targeting the U.S. market, which 
+is where we are considering production as well.  Consumer preference for 
+corn varies by geographic location so this is an important point. 
+ 
+
+
+===== PDF p91 =====
+Table of Contents 
+ 
+87
+Interviewee:  Is the only difference between our product and traditional corn 
+the additional carbohydrates and proteins?  
+ 
+Interviewer:  Yes. 
+ 
+Interviewee:  Okay, this is how I would like to approach this problem.  I 
+would like to segment the market and look at value drivers for each 
+customer segment.  Once we determine consumer preferences, we can look 
+at the key drivers of our product to determine which segments they add 
+value to.  We can then look at market size, growth, and competitive 
+landscape for the targeted segments to understand our revenue potential.  
+Finally, we need to understand the bottom-line profitability by looking at 
+pricing strategies. 
+ 
+Interviewer:  Sounds reasonable. 
+ 
+Interviewee:  I would think that the primary consumers of corn are people 
+and animals.  Does this seem accurate and are there other major 
+consumers? 
+ 
+Interviewer:  There are three categories of consumers:  humans (10%), 
+industrial proteins (10%), and animals (80%). 
+ 
+Interviewee:  (While my interviewer was talking, I drew a table with the 
+consumer segments by column and possible value drivers by row.)  Okay, for 
+each consumer segment, Iíd like to evaluate consumer behavior and value 
+drivers for each.  Humans probably purchase corn based on taste and 
+nutritional value.  Industrial production is based on starch content, so 
+carbohydrates would be the main driver.  For animals, I would think that 
+nutritional content is very important to keep the animals healthy. 
+ 
+Interviewer:  Thatís correct.  However, human consumption of corn depends 
+on vitamin & mineral content versus carbohydrate & protein content.  Animal 
+feed, contrarily, requires a certain number of carbohydrates & protein. 
+ 
+Interviewee:  Interesting.  What this tells me is that our target segments for 
+our new product would be industrial production and animal feed.  Given that 
+animal feed is 80% of the market, I would like to focus on this segment first. 
+ 
+Interviewer:  Sounds good.  Currently, animal feed consists of two main 
+products:  corn and soy.  Farmers determine mix by choosing the lowest 
+priced combination.  We have the following information on current content, 
+pricing, and daily requirements. 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p92 =====
+Table of Contents 
+ 
+88
+Animal Feed Information 
+ 
+Carbs 
+Protein 
+Price 
+"Old" corn 
+50g /bushel 
+25g /bushel 
+$2.50  
+"New" corn 
+100g /bushel 
+50g /bushel 
+? 
+Soy 
+0g /bushel 
+50g /bushel 
+$3.50  
+Daily Requirement 
+1000g /day 
+1000g /day 
+ 
+ 
+How would you price the new corn product to push the old corn product out 
+of business? 
+ 
+Interviewee:  Letís consider how much a farmer would pay for an old corn 
+and soy mixture.  In order to satisfy the 1000/day carb requirement, you 
+would need 20 bushels of corn (satisfying 500g/day of the protein 
+requirement), which would cost $50/day.  Because soy is cheaper per unit of 
+protein ($3.50 for 50g versus $2.50 for 25g), the farmer would purchase 10 
+bushels of soy to satisfy the remaining 500g/day protein requirement.  This 
+would cost $35/day.  Therefore, the total cost to the farmer is $85/day.  In 
+order for the farmer to be indifferent between new and old corn, the new 
+corn should cost $50/day.  Because the farmer would only purchase 10 
+bushels to satisfy the carb requirement, the price/bushel would be $5.00.  
+However, in order to encourage switching between the old and new corn 
+products, you would have to provide incentives to the farmers (e.g., charging 
+$4.99). 
+ 
+Interviewer:  Is this the profit-maximizing price? 
+ 
+Interviewee:  Letís think about this.  Revenue equals price times volume.  
+Depending on how elastic demand is, we can gain volume by pricing lower.  
+How could we gain volume?  Well, we could encourage farmers to purchase 
+our product alone to satisfy the daily requirements, therefore pushing both 
+the soy and old corn producers out of the market.  If we priced at $3.50, 
+farmers would be indifferent between our product and soy in terms of protein 
+value.  We would earn sales of $70 (20 bushels times $3.50/bushel to satisfy 
+both requirements using new corn), which is higher than the previous 
+scenario of earning $50/day.  Additionally, farmers would be better off 
+because their total cost is now $70/day versus $85/day. 
+ 
+Interviewer:  Good job.  What else would you consider? 
+ 
+Interviewee:  Given that this technology is easily replicable, we would need 
+to focus on R&D to maintain our head start in the industry.  Once others see 
+that we have created a ìmonopolisticî situation, they will jump on this 
+opportunity to enter this business.  Additionally, when we consider pricing 
+strategies, we need to account for switching costs for our customers and 
+factor this into pricing. 
+ 
+Interviewer:  Sounds good.  Do you have any questions about our company? 

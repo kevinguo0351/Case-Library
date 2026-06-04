@@ -1,0 +1,28 @@
+{
+  "case_id": "Anderson_2015_11_beverage-manufacturer",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 11,
+  "case_name": "Beverage Manufacturer",
+  "case_type": "Market Entry",
+  "round": "1",
+  "industry": "Consumer Goods / Beverages",
+  "difficulty": "medium",
+  "pdf_page_start": 59,
+  "pdf_page_end": 66,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    62,
+    63,
+    64,
+    65
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p062.png",
+    "exhibits/exhibit_p063.png",
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\11_beverage-manufacturer"
+}

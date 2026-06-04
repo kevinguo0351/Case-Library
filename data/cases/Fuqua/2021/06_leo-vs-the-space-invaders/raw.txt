@@ -1,0 +1,421 @@
+===== PDF p65 =====
+Leo vs. The Space Invaders
+61
+Industry:                  Media
+Case Type:     
+Profitability
+Led by:            
+Interviewee
+Case Level: 
+Medium
+
+
+===== PDF p66 =====
+Behavioral Questions
+62
+• Why are you interested in consulting?
+Question 1:
+• Give me an example of a time you worked in a team that was not cohesive, and what 
+did you do to improve the situation?
+Question 2:
+
+
+===== PDF p67 =====
+Leo vs. The Space Invaders
+63
+Your client is a production studio looking to release it’s new film, Leo vs. The Space Invaders, in the 
+next year. The film is the fifth movie in the franchise, and the studio is deciding whether to sell 
+exclusive rights to a 3rd party streaming service or stick with the original plan and release the film in 
+theaters. How would you advise the CEO?
+Prompt #1:
+• Background information to be provided when candidate asks.
+• Company:
+–
+American film studio that has released several blockbusters in the Leo franchise.
+–
+The first three movies made over $200M each in the box office, but the fourth finished with only $50M in 
+revenue due to a global pandemic.
+• Market:
+–
+Only focused on the U.S. market for this release.
+–
+It is currently 2021.
+–
+Theaters are opening back up after a global pandemic. Some people may be hesitant to go, but many are 
+excited to get back out to the cinema.
+–
+There were 5,000 theaters in the U.S. as of 2019.
+–
+There are 15 main streaming services, and the one with the most subscribers is offering to buy the film.
+• Financials
+–
+The 3rd party streaming service is offering $150M for exclusive streaming rights of the film.
+–
+A strong candidate will also ask about future DVD sales or purchased downloads post-film release, but we 
+are more concerned about the short-term profitability.
+–
+If the candidate asks about costs, say that we’ll discuss those later.
+Case Background:
+
+
+===== PDF p68 =====
+Leo vs. The Space Invaders
+64
+Framework Buckets:
+Revenue
+Price:
+•
+Avg movie ticket price
+•
+Does studio get a % of 
+incremental concession 
+sales?
+•
+What a 3rd party streaming 
+service would pay
+•
+Paid flat fee or by 
+number of views?
+Volume:
+•
+Number of potential ticket-
+buyers.
+•
+Number of weeks in 
+theaters.
+•
+Does month of release 
+affect sales?
+Costs
+Fixed
+•
+How much will the film cost 
+to market under each 
+format?
+•
+Will actor compensation 
+change depending on 
+format?
+•
+Is there a fee for breaching 
+an existing contract by 
+selling to a streaming 
+service?
+Variable
+•
+What % of revenue do 
+theaters take from the 
+release?
+•
+Are there film shipping 
+costs involved?
+Risks
+Streaming
+•
+Theater chains could 
+retaliate 
+•
+Reputation risk of releasing 
+over 3rd party streaming 
+instead of theaters
+•
+Future contracts could be 
+difficult to negotiate if actors 
+or directors prefer theaters
+Release in Theaters
+•
+Decline in movie 
+attendance as streaming 
+has gotten popular
+•
+A worldwide pandemic 
+could make customers 
+nervous to go out to 
+theaters
+Drive towards benchmarking past releases
+
+
+===== PDF p69 =====
+Leo vs. The Space Invaders
+65
+Additional sample framework
+Costs
+•
+Fixed (Production, 
+salary)
+•
+Variable (additional 
+marketing, royalties)
+Streaming revenue
+•
+# platform viewers
+•
+Viewers who would 
+watch
+•
+Viewers who would 
+pay for theater
+Theater revenue 
+•
+# theaters
+•
+Viewers / theater
+•
+$ capture / viewer
+Competition
+•
+Other movie releases
+•
+Other TV/streaming 
+releases
+•
+Other entertainment
+Seasonality implications
+Consumer segments
+•
+Age
+•
+Genre 
+Marketing capability
+•
+Self vs outsource
+•
+Channel
+Downstream implications
+•
+Cross-sell other or 
+future movies
+•
+Licensee opportunities
+•
+Brand recognition and 
+reputation
+1. Financial
+2. Market
+3. Company
+Drive towards benchmarking past releases
+
+
+===== PDF p70 =====
+Exhibit #1
+Revenue for previous 4 Leo films vs. total US box office
+66
+200
+250
+300
+0
+2
+4
+6
+8
+10
+12
+0
+50
+100
+150
+200
+250
+300
+2017
+USD $M
+USD $B
+2014
+2019
+2020
+50
+Total Box Office (U.S.)
+Leo Film Franchise
+
+
+===== PDF p71 =====
+Interviewer guidance on Exhibit #1
+• The candidate can guesstimate the U.S. 
+box office numbers based on the line 
+graph and right axis (2014 = $10B, 2017 
+= $11B, 2019 = $12B, 2020 = $1.5B)
+• The candidate should ask for projections 
+for next year’s box office, but please 
+provide the following statistics either way .
+–
+# of theaters open in 2022: 80% of 2019 (5,000)
+–
+# of seats per screen: 100
+–
+Avg. # of showtimes per theater each day: 20
+–
+Average price per ticket: $10
+–
+Average occupancy rate for each screen:
+•
+50% on weekend days
+•
+25% on weekdays
+• Using the above data and the data on the 
+chart, the candidate should proceed to 
+estimate the potential revenue of the 
+new film (see next page)
+• Basic:
+–
+The candidate should immediately calculate Leo 
+films’ percentage of overall box office revenue each 
+year (next slide)
+–
+The candidate should draw the insights that the film 
+has grown in popularity with each movie release 
+with the exception of 2020.
+–
+A good candidate will ask about next year’s theater 
+projections, at which point the interviewer can give 
+the data needed to estimate potential revenue.
+• Second-order insights
+–
+The candidate should question whether the 
+numbers from 2020 are the “new normal,” or just 
+an outlier.
+67
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p72 =====
+Additional Calculations
+• Revenue for 4 previous Leo films as a % of U.S. box office:
+– 2014: $200M / $10B = 2%
+– 2017: $250M / $11B = ~2.3% (250M/10,000M = 2.5%, so conclude it’s slightly less)
+– 2019: $300M / $12B = 2.5%
+– 2020: $50M / $1.5B = 3.3%
+– Average Leo film revenue = ~2.5% of U.S. box office
+• Estimated 2022 box office:
+– Number of open theaters = 0.8 x 5,000 = 4,000
+– Number of seats available each day = 4,000 theaters x 20 showtimes x 100 seats x $10 tickets = 
+$80M per day
+– Revenue per weekend = $80M seats x 50% occupancy x 2 weekend days x 50 weeks = $4.0B
+– Revenue per week = $80M seats x 25% occupancy x 5 weekdays x 50 weeks = $5.0B 
+– Total projected box office revenue = $4.0B + $5.0B = $9.0B
+• Estimated 2022 theater revenue for Leo vs. The Space Invaders = 2.5% x $9.0B = $225M
+68
+Theater-release Revenue
+
+
+===== PDF p73 =====
+Exhibit #2
+Costs for each type of release
+Production 
+Marketing
+Distribution Fee
+Release in Theaters
+$50M
+$25M
+20% of Revenue
+Sell to Streaming Service
+$50M
+$0
+$0
+
+
+===== PDF p74 =====
+Interviewer guidance on Exhibit #2
+• The candidate should go ahead and 
+calculate the expected profit for theater 
+release vs. streaming.
+• Assume the production costs include 
+labor, actors’ salaries, special effects, 
+etc.)
+• Shipping costs for film is considered a 
+minimal expense, and can be ignored.
+• Theater release:
+– Distribution fee: $225M x 20% = $45M
+– Expected profit if released in theaters = 
+$225M - $45M distribution fee – $50M 
+production costs – $25M marketing 
+costs  = $105M
+• Sell to 3rd party streaming service:
+– Profit = $150M - $50M production costs = 
+$100M
+• Basic:
+– The candidate should recognize that the 
+difference in profit is minimal between a 
+theater release vs. selling to a 3rd party for 
+streaming. Therefore, the candidate should 
+come up with reasons to justify one vs. the 
+other.
+– One important insight to draw is that the 
+profit for streaming is fixed, whereas the 
+profit for a theater release is only 
+‘expected.’ This should lead the candidate 
+to talk about both the upside and downside 
+of each.
+• Second-order insights
+– A strong candidate will bring in their own 
+experience over the past year if they have 
+preferred one format of watching movies 
+over another.
+– Although the expected numbers for a 2022 
+theater release are positive, there is 
+significant downside if potential customers 
+refuse to return to theaters.
+70
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p75 =====
+Brainstorming
+• What else can the production company 
+due to maximize its profit potential?
+• Revenue
+–
+Structure to release in theaters for a short period of 
+time before exclusive rights move to the 3rd party 
+streaming service.
+–
+Negotiate with other streaming services to see if 
+they will pay more.
+–
+Look into merchandising to see if the production 
+company gets a % of revenue from merchandise 
+sales even if film rights are owned by the streaming 
+service.
+• Costs
+–
+Re-negotiate with theaters to see if they will lower 
+the % of revenue they take from the film release.
+–
+Partner with another production company to split 
+the production costs in return for future deals or a 
+share of revenue
+71
+Prompt:
+Analysis:
+
+
+===== PDF p76 =====
+Leo vs. The Space Invaders
+72
+• The CEO of the production company wants your recommendation on whether to 
+release Leo vs. The Space Invaders in theaters or sell exclusive rights to the 3rd party 
+streaming service. What are you going to tell him?
+Recommendation 
+Either answer can be correct if justified in the analysis
+• Potential risks of streaming:
+–
+Lose out on any future revenue from DVD or digital sales, merchandising, etc.
+–
+Reputation risk from both the industry and customers for not releasing the film in the “traditional” format.
+–
+Angering movie theater chains and losing leverage on future deals
+–
+It’s easier for streamed films to be copied and distributed illegally.
+• Potential risks of theater release:
+–
+Profit is only an estimation, and could be significantly lower if people don’t return to theaters (whether out of 
+preference, or due to unforeseen causes such as a new pandemic strain)
+• Potential next steps:
+–
+Get legal to look at renegotiating existing distribution fee with theaters.
+–
+Survey potential customers to see which format they prefer to see films in going forward.
+–
+Look for other 3rd party streaming services who may offer a higher price for the film.
+Risks and Next Steps:

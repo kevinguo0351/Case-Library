@@ -1,0 +1,307 @@
+===== PDF p103 =====
+Case #9: Koot-Ease
+Industry: Healthcare
+Quantitative Level: 
+Qualitative Level: 
+Quantitative level: Medium
+Qualitative level: Difficult
+98
+
+
+===== PDF p104 =====
+Behavioral Questions
+100
+• Tell me about a time when you were challenged?
+• Interviewer should clarify the situation, and pressure test how the candidate reacted 
+and what the candidate learned.
+• What are your first, second, and third biggest weaknesses?
+• This behavioral question is meant to filter standard interviewee responses and dig 
+deeper into the candidates mindfulness and self awareness.
+Question 1:
+Question 2:
+
+
+===== PDF p105 =====
+Koot-Ease
+101
+• Your company is Miley-Sirus, a pharmaceutical research and manufacturing 
+organization that owns a majority of the Koot market. Koot is an orphan disease that 
+affects the portion of the brain that controls balance, making games such as four 
+square, handball, and tether ball difficult. Currently, the company’s leading product, 
+Koot-Ease, is experiencing tremendous growth in core markets, and the company is 
+looking to grow. What should Miley-Sirus do?
+Prompt #1:
+• Candidates should ask for information regarding:
+– Which core markets? How much of their revenue do the core markets make up? (75%)
+– How much market share does the company own? (65%) How much of that share is Koot-
+Ease? (50%)
+– Are there any other products the company manufactures? (Yes, but focus on Koot-Ease)
+• Candidates should come up with ideas for growth, such as:
+– Expand into new markets directly, by partnering, by buying
+– Expand in current markets by acquiring a company (common in Pharma)
+– Invest further into R&D to develop an even better drug
+– Look into other diseases the company has the capacity to tackle
+• Guide the candidate towards current Koot-Ease market share by core market (Ex 1)
+Interviewer Guidance:
+
+
+===== PDF p106 =====
+Exhibit 1: Koot-Ease Share by Core Koot Market
+USA
+Germany
+Argentina
+China
+India
+Market Share 
+(Patients)
+55%
+60%
+50%
+40%
+30%
+Market Share
+(Annual IU)
+60%
+60%
+40%
+45%
+20%
+Market Share 
+(Revenue)
+50%
+50%
+45%
+40%
+35%
+Total Market 
+Revenue
+$5B
+$3B
+$2B
+$3B
+$1B
+102
+IU (International Unit): in pharmacology, quantity of a substance, such as a vitamin, hormone, or toxin, that produces a 
+specified effect when tested according to an internationally accepted biological procedure. 
+
+
+===== PDF p107 =====
+Interviewer guidance on Exhibit #1
+• Exhibit 1 shows Koot-Ease market 
+share for its 5 core markets. Given this 
+information which markets should 
+Miley-Sirus focus on?
+• For patient share, the candidate should 
+inquire about market size. Does a small 
+amount of patient share in a large market 
+do the company any good?
+• For IU share, this is the amount of product 
+actually used in the country. The 
+candidate should differentiate patient 
+share versus IU share, and how having 
+less patient share but more IU share 
+means your patients are more compliant. 
+This could mean brand loyalty.
+• For revenue share, if the company has 
+more patient share than revenue share, it 
+could mean the company is not 
+competitively priced, or is under-pricing. 
+Questions around this are important.
+• There are 3 different types of market 
+share given here. The candidate should 
+attempt to calculate the company’s 
+revenue for each market, and ask for 
+information regarding how many patients 
+and how many IU’s are in each market.
+• For this case, the company is interested 
+in obtaining more revenue share.
+• Given market share and revenue in India 
+is small, with such a large population, the 
+candidate should focus there.
+103
+Exhibit #1 Guidance:
+Analysis:
+USA
+GER
+ARG
+CHI
+IND
+Market 
+Share 
+(Revenue)
+50%
+50%
+45%
+40%
+35%
+Total 
+Market 
+Revenue
+$5B
+$3B
+$2B
+$3B
+$1B
+Mily-
+Sirus
+Revenue
+$2.5B
+$1.5B
+$0.9B
+$1.2B
+$0.35B
+
+
+===== PDF p108 =====
+Koot-Ease
+104
+• Mily-Sirus has now assessed its core markets and believes it could further grow in 
+India. However, a new revolutionary drug developed by Bynes & Lohan, called 
+Skooter, has just passed Phase 3 trials. Skooter attacks the Koot virus through an 
+innovative neuropathway and produces no antibodies nor side effects. The drug is 
+administered 2/month (compared to Koot-Ease 2/week), and has no co-morbidities 
+for older patients. Skooter is scheduled to go on sale in all markets in 2017. Mily-
+Sirus wants to forecast Skooter’s potential revenue to 2020. What should it do?
+Prompt #2:
+• The candidate should give ideas on the information needed to forecast potential 
+revenue:
+– What is Skooter’s forecasted market share from 2017-2020?
+– How many patients are in the market from 2017-2020, and how many will Skooter win?
+– How much Skooter will each patient use on an annual basis?
+– What is the price of Skooter forecasted to be?
+• A strong candidate will also ask questions regarding:
+– What is the likelihood of Skooter making it to market? Would we then assume a risk-adjusted 
+forecast?
+– How important is brand loyalty in the Koot market? 
+– Does Bynes & Lohan have experience in launching a Koot treatment?
+Interviewer Guidance:
+
+
+===== PDF p109 =====
+Exhibit 2: Skooter Forecast for Koot-Ease core markets
+2017
+2018
+2019
+2020
+Market Share 
+(patients)
+20%
+25%
+30%
+40%
+# of Patients in 
+the market
+100K
+100K
+120K
+130K
+Annual IU 
+usage per 
+patient
+5,000
+5,000
+5,000
+5,000
+Price of Skooter
+per IU
+$1.00
+$0.95
+$0.90
+$0.85
+105
+IU (International Unit): in pharmacology, quantity of a substance, such as a vitamin, hormone, or toxin, that produces a 
+specified effect when tested according to an internationally accepted biological procedure. 
+
+
+===== PDF p110 =====
+Interviewer guidance on Exhibit #2
+2017
+2018
+2019
+2020
+Market Share 
+(patients)
+20%
+25%
+30%
+40%
+# of Patients in 
+the market
+100K
+100K
+120K
+130K
+# of Skooter
+Patients
+20K
+25K
+36K
+52K
+Annual IU 
+usage per 
+patient
+5,000
+5,000
+5,000
+5,000
+Annual IU 
+usage of 
+Skooter
+100M
+125M
+180M
+$260M
+Price of Koot-
+Ease per IU
+$1.00
+$0.95
+$0.90
+$0.85
+Total Skooter
+Revenue
+$100M
+$112.5M
+$162M
+$221M
+106
+
+
+===== PDF p111 =====
+Koot-Ease
+107
+• Given what you now know about Koot-Ease’s current and Skooter’s forecasted 
+market share, do you believe Mily-Sirus should begin looking for ways to expand, and 
+how? 
+Recommendation 
+• When comparing the two drugs in the core markets, the candidate should notice that 
+the overall revenue of the Koot market is decreasing (by 2018, 40% of the Koot
+patient market will account for only ~$220M of revenue; Compared to 2015 Koot-
+Ease which is in the billions). 
+• Given these forecasts, the candidate should recommend that Miley-Sirus look for 
+ways to mitigate the impending disruption known as Skooter.
+• Strong candidates will recommend:
+– Purchasing Bynes & Lohan, or forming a partnership, given their experience in the market
+– Developing a marketing plan that highlights the benefits of Koot-Ease treatment pathway, as 
+compared Skooter’s unknown innovation
+– Look towards undeveloped markets where Koot may be more prevalent
+Interviewer Guidance:
+
+
+===== PDF p112 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Will be able to calculate most quantitative aspects of 
+the case, but be driven to the exhibits and overall 
+recommendation
+Good Candidate
+Will be able to calculate most quantitative aspects of 
+the case, and will drive towards the exhibits given the 
+information needed to solve the case
+Excellent Candidate
+Will be able to calculate all quantitative aspects of the 
+case, and will drive towards the exhibits and overall 
+recommendation by asking insightful and second-level 
+questions 
+108

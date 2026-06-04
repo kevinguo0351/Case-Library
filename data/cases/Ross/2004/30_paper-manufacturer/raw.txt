@@ -1,0 +1,104 @@
+===== PDF p72 =====
+Table of Contents 
+ 
+68
+Practice Case 30: Paper manufacturer  
+(BCG - Round 2) 
+ 
+I.  Case scope provided by interviewer:   
+ 
+Our client is a paper manufacturing company.  Their product is 
+grease-proof paper which they sell in rolls to ìbag converters.î  Bag 
+converters are companies which combine 2-ply paper, popcorn, oil, 
+and a ìreceptorî to make microwaveable popcorn. (When 
+microwaved, the receptor gets hot and pops the corn.)  Converters 
+supply retailers. 
+ 
+Our company uses wood pulp and chemicals to make paper.  A recent 
+innovation at the R&D department has increased the grease 
+resistance of our paper by 10 times.  The client needs help in 
+deciding on whether to switch its production facilities to manufacture 
+this new type of paper.  (This is an either/or decision). 
+ 
+II.  Additional information provided after relevant questions:   
+• 
+The company is operating at capacity 
+• 
+The market is pretty smalló4 primary competitors dominate it 
+• 
+Customers donít care much about how grease-proof the paper is 
+• 
+The costs to a converter are (currently): 
+• 
+30 cents-2-ply paper bag 
+• 
+10 cents-receptor 
+• 
+5 cents-popcorn and oil 
+• 
+5 centsóassembly 
+• 
+Our current cost of producing the paper are (per 2-ply paper bag) 25 
+cents 
+• 
+This cost is 50% fixed and 50% variable 
+ 
+III. Sample Solution:   
+My approach was to evaluate the additional value to customer and compare 
+it with the cost of switching to the new process. 
+ 
+First, I wanted to understand the benefit of this innovation.  As end 
+consumers donít care about the grease, we have to look to converters.  I 
+suggested that they might be able to switch to 1-ply bags now, an important 
+change because bags represent 60% of their costs. 
+ 
+The interviewer confirmed this. 
+ 
+Proceeding from this assumption, I stated that as long as we could charge 
+less than the current 30 cents per bag, the converters would be willing to 
+purchase our product (there is no additional cost to them to use 1-ply instead 
+of 2-ply). 
+ 
+
+
+===== PDF p73 =====
+Table of Contents 
+ 
+69
+The interviewer told me to ignore our switching costs and to look at 
+maintaining profitability. 
+ 
+I then evaluated change in our costs: 
+I assumed that fixed cost per bag will remain the same (50%*25 cents=12.5 
+cents) 
+I assumed that variable cost per bag would be cut in half (50%*50%*25 
+cents=6.25 cents) 
+ 
+The interviewer confirmed these assumptions. 
+ 
+The total cost per bag to us becomes 18.75 cents. 
+In order to maintain the current profit margin (30 cents-25 cents=5 cents) 
+we need to charge 18.75+5=23.75 cents 
+This is a good deal to the converter, who currently pays 30 cents 
+ 
+(You can look on this on per-sheet basis, instead of per-bag basis.  In that 
+case, you need to make twice as much profit per sheet because you are 
+selling only half the volume.  You should then charge 18.75+2*5=28.75.  
+This is still better than 30 cents.) 
+ 
+Strategic Implications: 
+ 
+This is a profitable proposal for both us and our customers 
+ 
+As we are currently at capacity, this innovation would in effect double our 
+capacity 
+ 
+We could capture some new business and increase our market share by 
+selling this cheaper, better paper, and now we have the capacity to meet this 
+increased demand 
+ 
+We should implement as soon as possible and lock in converters in long-term 
+contracts before our competitors can replicate this innovation 
+ 
+There will be switching costs, such as downtime, training, etc. 
+ 

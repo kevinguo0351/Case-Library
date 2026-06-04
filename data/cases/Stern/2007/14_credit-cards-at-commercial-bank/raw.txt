@@ -1,0 +1,305 @@
+===== PDF p41 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+14. Credit Cards at Commercial Bank 
+ 
+ 
+ 
+36 
+ 
+Type of Case: Market Sizing and Segmentation 
+ 
+Opening 
+Our client is Commercial Bank which is analyzing growth strategies for its 
+credit card business in a developing country. The Bank wants to focus on 
+individual clients to whom it offers internet banking and retail channels. The 
+Bank wants to measure the opportunities in individual credit cards as a 
+stand alone business. 
+ 
+The target country has a population of 100 million. The most representative 
+demographic segments are as follows: 
+- 
+ Hi Income: >$3,000/month 
+- 
+ Mid Income: >$1,000/month and <$3,000/month 
+- 
+ Low Income: <$1,000/month 
+ 
+Our client has asked us for the following two analyses:  
+- 
+Estimate the Market Size of the individual credit card business for each of 
+the demographic segments 
+- 
+Identify the most attractive segments for the Bank 
+Before we commence that analysis tell me how you would go about 
+assessing the potential of this new business.  
+ 
+Answer 
+One way to measure market potential is by annual revenues. The different 
+sources of revenue for credit cards are: 
+- 
+Interest Income: interest rate x average outstanding balance 
+- 
+Transaction Income: transaction fee x average consumption 
+- 
+Membership Fee Income: Annual membership fee x number of credit 
+cards 
+ 
+The interviewee should also suggest other factors he/she would take into 
+account including: 
+- 
+Costs associated with the different segments; such as Administrative 
+Costs, Risk Cost, Service Cost and Marketing Costs 
+- 
+Competitor analysis: who are the key players in the market and which 
+segments are most competitive?  
+- 
+Brand positioning: is current brand positioning compatible with the most 
+attractive segments? 
+- 
+Current coverage: is the bank ready to serve the most attractive 
+segments in terms of geographical coverage for retail and in terms of 
+customer service (e.g. sophisticated support for High income and 
+straightforward support for Low income) 
+
+
+===== PDF p42 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+14. Credit Cards at Commercial Bank continued… 
+37 
+ 
+ 
+Analysis 2 
+Let’s now turn to the first analysis our client has requested. What is the 
+approximate market size in dollars for this business? 
+ 
+Answer 
+Below is one suggested answer, but obviously a number of approaches 
+might legitimately be used.  
+The first step is to go from population to number of credit cards. The 
+interviewee should realize that not everybody will have a credit card; people 
+under-age or without any income should be excluded. In a developing 
+country we can assume that 50% of the population might have access to a 
+credit card. Next we should breakdown the qualifying population into the 
+three demographic groups to then calculate the number of credit cards: 
+- 
+Hi Income: 10% of qualifying population, average of 2 credit cards per 
+person 
+- 
+Mid Income: 20% of qualifying population, average of 1 credit card per 
+person 
+- 
+Low Income: 70% of qualifying population, average of 0.5 credit cards 
+per person 
+ 
+The number of credit cards by segment and total would be: 
+ 
+Total population = 100 M 
+ 
+Total Credit Card Customers 
+  
+Customer 
+Segment 
+Customers 
+(M) 
+Credit 
+Cards per 
+Customer
+Total 
+Cards 
+Hi 
+5 
+2 
+10 
+Mid 
+10 
+1 
+10 
+Low 
+35 
+0.5 
+17.5 
+Total 
+ 
+ 
+37.5million
+ 
+The next step is to calculate the Bank’s potential revenues from different 
+sources.  
+ 
+
+
+===== PDF p43 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+14. Credit Cards at Commercial Bank continued… 
+38 
+ 
+ 
+Interest Income. At this point, the interviewee should be provided with the 
+monthly interest rates and average outstanding balances per credit card for 
+the three segments: 
+- 
+Hi Income: 4% interest rate, $0 average outstanding balance 
+- 
+Mid Income: 7% interest rate, $300 average outstanding balance 
+- 
+Low Income: 10% interest rate, $140 average outstanding balance 
+ 
+Transaction Income  
+For this calculation, provide the interviewee with the following information: 
+the transaction fee is 1%, and the average annual consumption per credit 
+card for the three segments is: 
+- 
+Hi Income: $3,000/year consumption 
+- 
+Mid Income: $2,000/year consumption 
+- 
+Low Income: $1,000/year consumption 
+ 
+Annual Membership Fee  
+Provide the interviewee with the following information when he/she gets to 
+this point: the annual fee is fixed and is different for the three segments: 
+- 
+Hi Income: $70 membership fee 
+- 
+Mid Income: $50 membership fee 
+- 
+Low Income: $30 membership fee 
+ 
+Based on this information, the total revenue for the credit card market is 
+summarized as follows: 
+ 
+Customer 
+Segment
+Total 
+Cards
+Interest 
+Rate
+Average 
+Balance
+Interest 
+Income / 
+Customer
+Total 
+Interest 
+Income
+Trans.
+ Fee
+(%)
+Cons.
+per 
+Customer
+Total 
+Trans. 
+Income
+Annual 
+Fee
+($)
+Total 
+Annual Fee 
+Income
+Hi
+10
+4%
+$0
+$0
+$0
+1%
+$3,000
+$300
+$70
+$700
+50 Mid
+10
+7%
+$300
+$252
+$2,520
+1%
+$2,000
+$200
+$50
+$500
+Lo
+17.5
+10%
+$140
+$168
+$2,940
+1%
+$1,000
+$175
+$30
+$525
+Total
+37.5
+$5,460
+$675
+$1,725
+Annual Fee
+Interest Income
+Transaction Fee
+ 
+ 
+Based on this, the total income for each segment is: 
+ 
+Customer 
+Segment
+Total 
+Income
+Hi
+$1,000
+50 Mid
+$3,220
+Lo
+$3,640
+Total
+$7,860  
+ 
+
+
+===== PDF p44 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+14. Credit Cards at Commercial Bank continued… 
+39 
+ 
+ 
+Analysis 3 
+What is your assessment of the most attractive segments for the Bank? 
+ 
+Answer 
+The figures show that the biggest segments are the Mid and Low income 
+segments. But to make a final recommendation the interviewee should take 
+other aspects into account, some of them mentioned above. 
+ 
+ The Low income segment is the largest in terms of income opportunity but 
+will require the following considerations: 
+- 
+Higher default probability (discounted in the interest rate but not in terms 
+of administrative costs) 
+- 
+Higher costs because it requires a higher number of cards and clients to 
+serve 
+- 
+Higher marketing expenses if the current Bank brand positioning is not 
+compatible with the segment (as hinted by the Bank description) 
+- 
+Higher cost to serve, since this segment is less likely to use low-cost 
+automated channels (e.g. Internet of phone banking) and will require new 
+branches to service the segment 
+ 
+On the other hand, the Mid income segment is slightly smaller in terms of 
+income opportunity but may be more attractive given the factors mentioned 
+for the Low income segment. The cost advantages are impossible to quantify 
+with the available information. However, they are strong enough to conclude 
+that the Mid income segment is the most attractive to the Bank. The 
+interviewee should be able to identify some of these items or additional ones 
+and reach to me same conclusion. 
+ 

@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2015_09_koot-ease",
+  "school": "Fuqua",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2015.pdf",
+  "idx": 9,
+  "case_name": "Koot-Ease",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 103,
+  "pdf_page_end": 112,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    106,
+    107,
+    109,
+    110
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p106.png",
+    "exhibits/exhibit_p107.png",
+    "exhibits/exhibit_p109.png",
+    "exhibits/exhibit_p110.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2015\\09_koot-ease"
+}

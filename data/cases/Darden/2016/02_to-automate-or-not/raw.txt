@@ -1,0 +1,228 @@
+===== PDF p47 =====
+CASE 2: 
+To automate or not?
+Firm Style
+Interview Round
+BCG
+2
+Clarifying information (provide only if corresponding questions are asked) 
+•
+The company does not have a specific goal in mind with this decision. This CEO trusts 
+us and will do whatever we advise. This is to test the candidate’s business judgment.
+•
+Shipments are made to roughly 50 grocery stores in the immediate area, and the 
+company does 1M shipments per year 
+•
+Costs to automate – (1) one-time outlay of $4M, plus (2) recurring OH, training, and 
+maintenance costs of $1.4M (make the candidate request BOTH pieces of info)
+•
+The candidate should visualize the distribution process (i.e. receiving, holding & 
+picking, shipping) to think through this question
+Case Question
+After returning from a trade show, the CEO of a large grocery distribution center calls you. 
+He enthusiastically describes a new technology which could be used to automate part of 
+his company’s process. He asks whether you think this would be a good idea for his 
+business. Knowing that this CEO is a tech-enthusiast who loves innovation for the novelty 
+of it, you ponder the implications.  How would you tackle this problem?
+
+
+===== PDF p48 =====
+To automate or not? – Sample framework
+• A strong framework could include:
+• Revenues 
+• Strong candidates will recognize that this is primarily a cost issue
+• The company is not experiencing capacity issues and is satisfying 
+customer demand, so optimizing the distribution process will not result 
+in additional revenues
+• Costs
+• Existing
+• Fixed Costs – Rents/Mortgage/Leases, Overhead, Salaries
+• Variable – Hourly employees, repairs& maintenance, inventory 
+holding, shipping 
+• Incremental –
+• One-time – Initial cost of automating, cost of initial training, 
+downtime (there is none), severance pay for any employees 
+terminated, etc. 
+• Ongoing – Servicing, repairs, additional costs of running upgraded 
+facility (i.e. energy, insurance, etc.)
+
+
+===== PDF p49 =====
+To automate or not? – Sample framework
+• Product
+• Considerations around changes to product quality (there are none) 
+• Ability to distribute additional types of product, etc. (none)
+• Other  
+• Potential for future synergies (i.e. could the new technology interface 
+with other future tech)
+• Impact on relationships with employees, grocers, and/or suppliers 
+
+
+===== PDF p50 =====
+To automate or not?
+Guidance:
+• If the candidate hasn’t already visualized the process flow for a 
+distribution center, press them to do so. 
+• After they’ve conceptualized the company’s business tell them that the 
+3 phases of the company’s distribution process are 1) Receiving, 2) 
+Holding & Picking, 3) Shipping
+Brainstorm:
+• Move them into brainstorming exercise around the potential costs 
+associated each phase:
+• Potential examples: Labor (time), equipment (forklifts, etc.), insurance, storage (i.e. 
+cold and dry)
+• After the interviewer is satisfied with the depth and breadth of the 
+brainstorming, provide Exhibit 1
+
+
+===== PDF p51 =====
+To automate or not?
+Exhibit 1 – Current Process
+Shipping
+Holding & 
+Picking
+Receiving
+2,000 hrs.
+10,000 hrs.
+3,000 hrs.
+* All units are hours per week
+
+
+===== PDF p52 =====
+To automate or not?
+Guidance:
+• After confirming their understanding of the process flow, candidates 
+should focus in on the total time required for the existing process
+• Candidates should attempt to quantify the hours in terms of dollars of 
+cost for each area of the process
+• Info to provide upon request:
+•
+Each employee works 40 hours per week
+•
+Employee pay per hour is as follows: Receiving - $12/hr, Holding & Picking - $17/hr, and Shipping -
+$14/hr
+• Once they obtain the above info, ask the candidate the calculate the 
+total number of employees required in each function and the annual 
+cost of labor (NOTE – Force them to use 52 weeks instead of 50 weeks)
+Total Hours
+# Employees Required
+Cost/Hour
+Cost per week
+Receiving
+2000
+50
+$     12.00 $                   24,000 
+Holding & Picking
+10000
+250
+$     17.00 $                 170,000 
+Shipping
+3000
+75
+$     14.00 $                   42,000 
+$                 236,000 
+x 52 Weeks per year
+$            12,272,000 
+
+
+===== PDF p53 =====
+To automate or not?
+Guidance:
+• After doing the above calculations, strong candidates will want to 
+see how automating the process would change the data above
+• Once they ask for this info, provide Exhibit 2
+
+
+===== PDF p54 =====
+To automate or not?
+Exhibit 2 – Automated Process
+Shipping
+Holding & 
+Picking
+Receiving
+2,000 hrs.
+5,250 hrs.
+6,000 hrs.
+
+
+===== PDF p55 =====
+To automate or not?
+Guidance:
+• Once they obtain the above info, ask the candidate the calculate 
+the change in the # of employees required in each function and 
+the change in the annual cost of labor
+Total Hours
+# Employees Required
+Cost/Hour
+Cost per week
+Receiving
+2000
+50
+$     12.00 $                   24,000 
+Holding & Picking
+5250
+131.25
+$     17.00 $                   89,250 
+Shipping
+6000
+150
+$     14.00 $                   84,000 
+$                 197,250 
+x 52 Weeks per year
+$            10,257,000 
+Current
+Automated
+# Employees Required # Employees Required
+Change
+50
+50
+0
+250
+131.25
+119
+75
+150
+-75
+Employee Decrease
+44
+Current
+Automated
+Annual Costs
+Annual Costs
+$               12,272,000 
+$            10,257,000 
+Annual Savings $              2,015,000 
+
+
+===== PDF p56 =====
+To automate or not?
+Guidance:
+• Strong candidates should revert to the prompt and answer the initial question posed. This 
+requires the candidate to compare the annual cost savings to the costs of automating.
+• Ask the candidate to calculate a break-even in years for this investment:
+• Ask the candidate whether a break-even of 5 years seems attractive
+• There is no correct answer, and the Company does not have any policy on such matters. This 
+should be used as an opportunity to test the candidate’s business sense.
+• Attentive candidates will consider the attractiveness of this payback period in light of the 
+prompt. For example,  if the CEO is potentially interested in the technology simply because 
+of his love for innovation, would he really be willing to tie up his firm’s cash for 5 years?
+Annual Savings: $      2,015,000 
+Annual Increm Costs: $      1,200,000 
+Annual Increm CM: $         815,000 
+One-Time Outlay: $      4,000,000 
+Break-Even Years:
+4.91
+
+
+===== PDF p57 =====
+To automate or not?
+Recommendation:
+• “The CEO is about to call you to ask for your recommendation. 
+What would you say?”
+• A strong recommendation will include:
+• Bottom Line – Automate or Do not automate
+• 2-3 Supporting Reasons 
+• Risks pertaining to the bottom line
+• Next steps
+• Recommendations should be rooted in the prompt and should include 
+numbers/data

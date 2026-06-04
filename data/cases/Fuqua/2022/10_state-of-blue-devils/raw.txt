@@ -1,0 +1,291 @@
+===== PDF p128 =====
+State of Blue Devils
+113
+Industry:                  Public Sector (Construction/Infrastructure) 
+Case Type:     
+Growth/Strategy
+Led by:            
+Interviewer 
+Case Level:    
+Hard
+
+
+===== PDF p129 =====
+Behavioral Questions
+114
+• Tell me about a time you influenced a senior stakeholder 
+Question 1:
+• Tell me about a time you used data to solve an ambiguous problem
+Question 2:
+
+
+===== PDF p130 =====
+State of Blue Devils
+115
+• Your client, state of “Blue Devils” is looking to grow their capital project footprint post-
+Covid-19 now that construction restrictions have been lifted. They are particularly 
+interested in infrastructure and construction projects and have come to you asking for 
+help setting a strategic growth plan. How would you advise your client?
+Prompt #1:
+• Background information to be divided into these categories (Please mark N/A if 
+information is not provided)–
+– Client/Company information – Public sector, state government
+– Industry/Competition information – US market
+– Any constraints on the case – Labour force is currently constrained
+– Specific goal – The current construction investment is $200M. We aim to reach 
+$1B of construction in 3 years
+Case Background:
+
+
+===== PDF p131 =====
+State of Blue Devils
+116
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional) (Organic vs Inorganic not possible here)
+Framework Buckets:
+Financials
+Implementation
+Market
+•
+Where is the money 
+coming from/Financing
+•
+Spending plan
+•
+Budget plan
+•
+Investment and bonds
+•
+Budget ceilings (per 
+year) 
+•
+Jobs
+•
+Public scrutiny 
+•
+Tax department
+•
+Government
+•
+Local population
+•
+Regulations
+•
+Sustainability
+•
+Labour – source and 
+type, availability
+•
+Contractors –
+negotiations of contracts, 
+availability of large 
+contractors in the area
+•
+State economy and 
+capability
+•
+How to compete against 
+private industry
+
+
+===== PDF p132 =====
+Brainstorming
+• The client has identified that labor 
+availability after COVID-19 is challenging 
+in their state. How would you suggest 
+easing this issue?
+• Interviewer Guidance:
+–
+Internal/External also works as long it covers these 
+points
+– Financial
+•
+Financial Incentives to work in the state
+•
+Attractive contract terms and bonuses for 
+meeting goals/deadlines
+•
+Profit sharing when applicable
+– Operational
+•
+Moving machinery and labor around the state
+•
+Supply chain robustness to ensure labor is not 
+affected by lack of supplies or poor inventory in 
+the area
+– Marketing
+•
+Advertising work and scale to contractors and 
+the attractive wages for labor
+•
+Benefits to labor for working on project and for 
+their families
+•
+Advertising the cause for improving people’s 
+lives through infrastructure
+117
+Prompt:
+Analysis:
+
+
+===== PDF p133 =====
+Exhibit #1 – Your client is concerned recent budget forecasts are affecting their 
+project completion timelines, and the overall bottom line, what do you observe in 
+this exhibit?
+118
+Jan-18
+Jul-18
+Jul-21
+Jul-19
+Jan-20
+Jul-20
+Jan-21
+Jan-19
+80
+Jan-22
+Jul-17
+Jul-22
+0
+20
+40
+120
+60
+180
+140
+100
+160
+200
+220
+240
+260
+Actual project spend
+Original Forecast
+Finance Forecast
+Cumulative Project 
+Spend/Investment ($M)
+Year
+Accumulated budget forecast
+vs actual spend, $M
+
+
+===== PDF p134 =====
+Interviewer guidance on Exhibits
+• The chart is for interpretation. This exhibit 
+has 3 lines, the original forecast of the 
+project budget, the budget finance uses, 
+(which has been delayed) and the actual 
+final budget and timeline from 
+construction
+• The finance team is locked to a budget 
+forecast 6 months prior to actual costs 
+due to liquidity issues. 
+• This budget lock is leading to an 
+opportunity cost i.e. the company is not 
+being able to invest the money elsewhere 
+to earn interest (securities, stocks, bonds, 
+etc.) - Push candidate towards this insight 
+and move to the next prompt
+• Takeaways:
+– Project delay at the start
+– Difference in forecast to actual
+– Actual always lower
+– 5-year timeline, $200M actual project 
+spend
+– Optimistic original forecast
+– Opportunity cost due to budget lock –
+Excellent candidates
+119
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p135 =====
+Prompt #2 – How much money is foregone in interest earned due to improper 
+budgetary planning and how would this translate to a $1B portfolio 
+• To calculate FOREGONE REVENUE, the 
+candidate needs to ask for the right 
+information regarding difference in 
+forecasts.
+• Provide if asked: 
+– The average annual difference in actual vs 
+forecast income over this time frame is 
+$15M
+– Interest rate is 8% per annum.
+– Excellent candidate will ask for inflation 
+rate. But we assume that it will be 0%. 
+• For good candidate, the total foregone interest 
+expense: 15M*8%*5=6M
+• Excellent candidates can show second-level 
+thinking – what if this gap is applied to a 2B 
+project? 6M*1B/200M (the $200Mis from 
+the upper bound of the graph for the 
+actual project spend line)
+• The calculation includes 2 parts:
+– Calculating net investment income lost
+– Optional - for excellent candidate: 
+Calculating effect of this loss on a $1B 
+portfolio of projects (based on prompt)
+120
+Prompt #3 Guidance:
+Analysis:
+
+
+===== PDF p136 =====
+Brainstorming
+• The client is interested in making more 
+accurate forecasts moving forward as this 
+is instrumental for appropriate capital 
+management and setting realistic 
+timelines. How would you recommend 
+your client approach this?
+– Internal
+•
+Clear expectations and communication 
+internally between teams
+•
+Using historical benchmarks and iterating
+•
+Improved forecasting and tracking 
+•
+Quantification of processes to better 
+understand factors that cause discrepancies 
+and disruptions
+•
+Optimizing investments to minimize loss due 
+to budgets
+•
+Estimation algorithms 
+– External
+•
+Working with contractors that complete work 
+on time historically
+•
+Better communication with contractors and 
+managers to understand evolution of project 
+timelines and delays
+•
+Favorable payment terms with vendors for 
+better capital management
+•
+Payment plans
+121
+Prompt:
+Analysis:
+
+
+===== PDF p137 =====
+State of Blue Devils
+122
+• The Governor of Blue Devils would like a final recommendation on implementing a 
+strong infrastructure growth plan. What would you recommend?
+• Recommendation should target adding improvements to budgetary and planning 
+processes to ensure viable long-term growth
+Recommendation 
+• Risks
+– Labor market – can the government effectively attract talent
+– Financial strain, Can the government find the money per year
+– Operational training and implementation of improvements
+• Next Steps
+– How to implement changes
+– Working with marketing team to attract talent
+Risks and Next Steps:

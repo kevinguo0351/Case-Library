@@ -1,0 +1,392 @@
+===== PDF p84 =====
+E-mail? E-mail!
+80
+Industry: Retail / IT
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p85 =====
+Behavioral Questions
+81
+• How are leadership and management different to you?
+Question 1:
+• Tell me about your own personal leadership style.
+Question 2:
+
+
+===== PDF p86 =====
+E-Mail? E-Mail!
+82
+•
+Our client is the Chief Technology Officer (CTO) at a Fortune 100 retailer (Store A Co.) located in the United 
+States.  Store A Co. has made an offer to acquire it’s largest competitor (Store B Inc.) and FTC approval for the 
+merger is expected in approximately 3 months.
+•
+Our team is helping with synergy estimation and integration planning for the IT division. Store A Co. currently uses 
+X-Mail as their vendor for corporate email and productivity software while Store B Inc. uses Y-Mail. 
+•
+The CTO has asked us to help her select the go forward vendor for email/productivity software for the combined 
+company and provide her with the information she needs to justify the selection to the CEO and to the Board.
+Prompt #1:
+• Begin by reading the prompt; if the candidate has questions provide any of the following 
+as clarifications, but do not share any additional data until they have brainstormed a 
+framework for solving the problem
+• Productivity software includes word processing, spreadsheet, and slide making applications
+• Both companies use a “cloud” based solution analogous to Gmail and Google Docs or 
+Microsoft’s Office 365 tools
+• If the candidate asks, the company could theoretically pick a solution from an unnamed third 
+vendor if their was a compelling case to do so
+– The candidate should recognize the additional RISK in converting to a third solution
+• Ultimately, the candidate should recognize that the case will involve assessing qualitative and 
+quantitative aspects of the solutions and then pick one to recommend
+Interviewer Guidance:
+
+
+===== PDF p87 =====
+How would you approach our client’s problem?
+• After giving the candidate time to brainstorm a framework, ask: “how would you approach our 
+client’s problem?”
+• Answers will vary, but the candidate should at a minimum recognize the need to evaluate the software 
+solutions both qualitatively (features) and quantitatively (costs; synergy implications)
+• Potential frameworks could include the following buckets (not exhaustive):
+83
+• If the candidate does not include the above three items in some fashion in their framework, 
+suggest that it may also be helpful for the client to consider what they left out…
+–
+Cost of solution and synergy implications
+–
+Features of solution and whether it meets business requirements
+–
+Risks of choosing a solution and implementation plan
+•
+How much does each 
+solution cost? (per user?)
+•
+How many users will be 
+using the solution?
+•
+Are there any one-time 
+costs? (e.g. breaking 
+contract, training, or 
+implementation costs )
+Costs / synergy potential
+•
+What features does the 
+company need?
+•
+What features does each 
+solution have?
+•
+Which is preferred by 
+employees?
+Qualitative assessment
+•
+How many users would 
+have to switch what they 
+were using?
+•
+How long will 
+implementation take?
+Risks / implementation
+
+
+===== PDF p88 =====
+Where would you like to start and why?
+84
+• After the candidate has presented their framework, ask “where would you like to start and 
+why?”
+• There are three exhibits and the candidate will need all three to solve the case; the order that they 
+get the exhibits does not matter, but make sure the candidate figures out what information they 
+need and provide the corresponding exhibit when they ask.
+If the candidate asks for:
+Provide the following exhibit:
+Information about the merger plans, number 
+of employees using solution, number of 
+employees that would have to switch 
+solutions, etc.
+Data related to costs including user costs and 
+implementation costs
+Qualitative information about features
+Exhibit 2: Monthly costs per users
+Exhibit 3: Key metrics and features
+Exhibit 1: Preliminary consolidation plan 
+
+
+===== PDF p89 =====
+Exhibit 1: Preliminary consolidation plan
+85
+Current Company Structure
+Current Company Structure
+Proposed Future Structure
+Proposed Future Structure
+Store A Co.:
+• 2000 employees at corporate HQ
+• 1000 stores w/ avg. of 150 employees per 
+store; 3 managers per store
+Store B Inc.:
+• 1900 employees at corporate HQ
+• 1200 stores w/ avg. of 200 employees per 
+store; 3 managers per store
+Combined Store Co.:
+• 3000 employees at corporate HQ
+• 1900 legacy Store A Co
+• 1100 legacy Store B Co
+• 2000 stores w/ avg. of 150 employees per 
+store; 3 managers per store
+• 950 legacy Store A Co
+• 1050 legacy Store B Co
+
+
+===== PDF p90 =====
+Interviewer guidance on Exhibit 1
+•
+There are two primary things to solve for:
+–
+How many users will need the new solution? (Combine 
+this info w/ Exhibit 2 to determine cost of each solution)
+–
+How many users would undergo a change in picking 
+either of the new solutions?
+•
+The candidate should ask if every employee needs email / 
+productivity access; answer is NO
+–
+All corporate employees require access
+–
+At the store level only managers require access
+–
+ASK the candidate if they think all retail employees 
+need email access if they haven’t brought this up
+•
+[ADVANCED] Top candidates should recall the need to 
+provide a synergy target to the CTO
+–
+Many candidates will stop once they have found the 
+cost of each future solution
+–
+Ideally, they should also find the combined cost of the 
+two legacy companies using their legacy solutions and 
+provide the total “synergy” or “savings” amount that the 
+company can expect
+–
+If the interview has taken along time this isn’t 
+necessary, but for strong candidates that have moved 
+quickly but neglected to calculate give them a gentle 
+reminder that the synergy value would be a useful 
+number for the CTO
+• How many people will need the new solution?
+–
+3000 Corporate employees + 6000 store level employees 
+(3 managers per store; 2000 stores) = 9000 users
+• How many people would undergo a change?
+–
+If X-Mail is chosen anybody that previously worked for 
+Store B would change (since they were on Y-Mail):
+–
+1100 Store B corporate employee + 3 managers for each 
+of 1050 stores = 4250 undergo a change
+–
+If Y-Mail is chosen anybody that previously worked for 
+Store A would change (since they were on X-Mail):
+–
+1900 Store A corporate employee + 3 managers for each 
+of 950 stores = 4750 undergo a change
+–
+OK to make assumption that store level managers stay at 
+their same store 
+• [Advanced] baseline costs for synergy analysis
+–
+Requires Exhibit 2 for calculations
+–
+Store A had 5000 users (2000 corporate + 3 x 1000 at 
+store level) using X-Mail at $6/month x 12 months = 
+$360,000
+–
+Store B had 5500 users (1900 corporate + 3 x 1000 at 
+store level) using Y-Mail at $5/month x 12 months = 
+$330,000
+–
+Total baseline cost before was $690,000
+–
+Baseline vs. X-Mail future is $150K; vs. Y-Mail is $258K
+86
+Exhibit #1 Guidance:
+Analysis:
+When using Exhibit 1, if the candidate requests cost information, please hand them Exhibit 2
+
+
+===== PDF p91 =====
+Exhibit 2: Monthly costs per user
+87
+# of Users
+X-Mail
+Y-Mail
+Z-Mail
+< 1,000
+$10.00
+$7.00
+$2.00
+1,001 – 2,500
+$8.00
+$6.00
+$2.00
+2,501 – 6,000
+$6.00
+$5.00
+$2.00
+6,001 – 15,000
+$5.00
+$4.00
+$2.00
+> 15,000
+$4.00
+$3.00
+$2.00
+
+
+===== PDF p92 =====
+Interviewer guidance on Exhibit 2
+• Costs are charged per user per month
+–
+Please tell the candidate that the CTO will want to 
+think about things in terms of the “annual cost” or 
+“annual synergy value” of each solution
+• Candidate should ask whether there are any 
+other costs to consider e.g. implementation 
+costs, training costs, etc.
+–
+Please tell the candidate that the migration & 
+training cost will $100 per person migrated 
+regardless of solution
+•
+The candidate will need to calculate the annual cost
+•
+Using calculations from Exhibit 1 and the table from 
+Exhibit 2, they can see:
+–
+the annual cost of X-Mail would be 9000 users x $5 / month x 
+12 = $540,000
+–
+the annual cost of Y-Mail would be 9000 users x $4 / month x 
+12 = $432,000
+–
+the annual cost of Z-Mail would be $216,000
+•
+Calculating migration costs
+•
+Using this and $100 per person migration & training fee 
+provided by the interviewer, the candidate can see:
+–
+Migration cost to X-Mail would be 4,250 x $100 = $425,000
+–
+Migration cost to Y-Mail would be 4,750 x $100 = $475,000
+–
+Migration cost to Z-Mail would be 9,000 x $100 = $900,000
+•
+Calculating synergy baseline
+•
+Using calculations from Exhibit 1 and the table from 
+Exhibit 2, they can see:
+–
+Store A was spending 
+–
+Store B was spending
+–
+The total combined cost before the merger was 
+88
+Exhibit #2 Guidance:
+Analysis:
+When using Exhibit 1, if the candidate requests user information, please hand them Exhibit 1
+
+
+===== PDF p93 =====
+Exhibit 3: Key metrics and features
+89
+Feature
+X-Mail
+Y-Mail
+Z-Mail
+Storage Capacity 
+(per user)
+10GB
+50GB
+1GB
+Offline Access
+Productivity Suite
+Calendar 
+Functionality
+Directory
+Security
+Full
+Limited
+None
+
+
+===== PDF p94 =====
+Interviewer guidance on Exhibit 3
+• Ask: What do you takeaway from this data?
+• For context, you can share that this is from an 
+assessment that an independent IT expert did of 
+the key features of each solution
+• If asked, the client has indicated that users 
+today need 3GB of storage; anything less 
+would be very difficult to operate with
+• If asked for Y-Mail:
+–
+Limited “Offline Access” means a user can only see 
+their last 100 emails on their computer if they don’t 
+have an internet connection
+–
+Limited “Calendar Functionality” means a user can 
+see their calendar on their phone, but needs to use 
+the computer to add events to it
+• The candidate can make their own 
+conclusions about whether these features 
+are important or not
+• The candidate should quickly realize that Z-Mail 
+does not have enough storage capacity and can 
+be ignored
+• The candidate can make their own 
+conclusions about whether or not Y-Mail has 
+enough features it should not be explicitly 
+excluded without the candidate justifying 
+why the “limited” aspect of the two features 
+would be unacceptable
+• The candidate should realize that they need 
+to think about these features in the context 
+of the cost difference and make a conclusion
+90
+Exhibit #3 Guidance:
+Analysis:
+
+
+===== PDF p95 =====
+Recommendation & Conclusion
+91
+• We’re expecting the CTO to stop by any minute for an update.  Can you summarize 
+the recommendations we should make to the client?
+Prompt #2:
+• Once the candidate has assessed the costs and features of the solutions they should be asked 
+the above question
+• Do not give the candidate too much time to draw conclusions; they should have the various 
+pieces of their analysis well organized and be ready to make a recommendation immediately
+• The candidate MUST recommend either X-Mail or Y-Mail and should include the following:
+–
+Annual cost of the solution (see Exhibit 2 notes); one-time cost of picking a solution (see Exhibit 2 notes)
+–
+[ADVANCED] Value of synergies vs. the baseline value (see bottom of Exhibit 1 notes)
+–
+Commentary on qualitative features: X has all features or justify why limited on some Y is OK
+–
+THE CANDIDATE SHOULD ALSO TALK ABOUT RISKS; more risk with move to Y-Mail since more users 
+undergo a change and since more corporate employees undergo a change and they probably use it more
+–
+Candidate may also realize that for a Fortune 100 retailer these costs and synergies are relatively small and 
+ultimately either solution is probably OK
+• SAMPLE RESPONSE: “I recommend the combined company select X-Mail because it is a 
+feature rich solution that minimizes transition & training risk. Although the run-rate cost 
+($540K)  is more expensive than alternate options, the company will still have $150K in 
+synergies from combining their email solutions. Additionally, it requires training 500 fewer 
+employees and has less risk since fewer employees need to transition.
+Interviewer Guidance:

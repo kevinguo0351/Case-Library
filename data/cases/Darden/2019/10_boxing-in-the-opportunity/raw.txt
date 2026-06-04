@@ -1,0 +1,278 @@
+===== PDF p127 =====
+123
+Boxing in the Opportunity
+Private Equity
+
+
+===== PDF p128 =====
+124
+Private Equity
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+BOXING IN THE OPPORTUNITY
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  Te l l  m e  a b o u t  
+a  t i m e  y o u  
+s h o w e d  
+l e a d e r s h i p  o n  a  
+t e a m  i n  a  
+c h a l l e n g i n g  
+s i t u a t i o n .
+UVA Darden School of Business 2019-20 Casebook
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. Financial goal, metrics, timeline: GS Capital aims to achieve a 3.0-4.0x cash-on-cash return within five years. 
+For simplicity, assume the transaction is completely funded by equity. (If candidate is still confused – In other words, 
+GS Capital will pay for the company entirely with cash; it wants to sell the company in five years for at least 3-4 
+times more than it bought it.)
+2. Geography: US only.
+3. Business model: The company manufactures large, complex machines to sell to paper and packaging 
+companies and then is exclusive provider of after market servicing and parts. 
+4. Understanding the product: Very large machine that can process 100 boxes per minute taking the box from raw 
+corrugated board to final box you would see when you receive shipment from Amazon.
+5. Other portfolio companies: We’ll get into that later.
+Prompt: Our client, GS Capital, is a private equity firm looking to acquire a 
+new operating company, CorrugatedCo., which manufactures machines that 
+cut, form, and print corrugated boxes. GS Capital has an opportunity to 
+purchase the company for $100M and wants to know if it’s a good idea. 
+
+
+===== PDF p129 =====
+125
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+How to Move Forward:
+•
+Want to voice this over as first understand the current EBITDA scenario, then we can explore the market opportunities for growth, and 
+finally want to consider we can probably bring value as well. Interviewee should drive toward finding current EBITDA first. If they move to 
+financials then hand them exhibit 1.
+Current EBITDA
+•
+Revenue
+•
+Machine (# of machines sold * 
+average price)
+•
+Field Service (function of 
+machine sales?, bill by hour
+•
+Part Sales (function of machine 
+sales?)
+•
+Costs
+•
+Raw Materials
+•
+Labor
+•
+Overhead
+•
+Warranty (big, complex 
+machines)
+Market
+• Growth 
+• GDP Growth
+• Disposable Income 
+(consumer purchases could 
+be a big driver of demand)
+• Industry Focus
+• International Expansion
+• Competition
+• Fragmented
+• Barriers to entry
+• Quality differentiation
+PE Firm
+• Synergies
+• Other portfolio companies
+• Add-on acquisitions
+• Industry expertise
+• Leadership Transition Plan
+• Exit Strategy
+• Strategic
+• PE
+• IPO
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p130 =====
+126
+EXHIBIT 1
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p131 =====
+127
+EXHIBIT 2
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+UVA Darden School of Business 2019-20 Casebook
+*** Revenue based on % of average last three years of machine sales
+EBITDA %
+$ of Machine Sales
+
+
+===== PDF p132 =====
+128
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+EXHIBIT INSIGHTS
+Exhibit 1
+Machine revenue is largest revenues stream, but lowest EBITDA due to low EBITDA %
+Candidate may be tempted to say focus on growing revenue of higher EBITDA% revenue streams, but key insight to this is understanding the 
+business model that the machines build the customer base to drive revenues for the downstream revenue streams. 
+Drive forward should be understanding if your PE firm can drive growth in either EBITDA% or Revenue based on our PE capabilities, portfolio 
+synergies, or purchasing add-on acquisitions
+PE capabilities – Give them Exhibit 2
+Portfolio Synergies – Tell them we have another company that does the folding, packing, and gluing of boxes. We believe machine sales 
+market share will increase to 20% of the overall market by Y5 exit due to this portfolio synergy
+Add-on acquisitions – no opportunities there
+Exhibit 2
+Two key pieces of information on this chart. 
+1.
+Industry EBITDA % averages for Parts and Field Service. Candidate should drive toward our ability to grow toward industry average and 
+input that we are currently not there from Exhibit 1
+2.
+Company can grow downstream sales as a % of Machine Sales Revenue. It is based on last 3 years of sales. Can assume we can get to 
+that % by Y5.
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p133 =====
+129
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+MATH SOLUTIONS
+•
+Candidate should recognize they need to get to Y5 EBITDA 
+amount and then use a multiple. 
+•
+The multiple can be determined by imputing multiple from year 1 
+(10M EBITDA with $100M asking price). Should clarify with 
+interviewer if okay to assume multiple does not change
+•
+Candidate should ask about market growth and market share 
+assumptions to get to year 5. Growth: 5%/year. Share: 10%->20%
+•
+Candidate should realize they only need to calculate machine 
+revenue for intermediate years since only Y5 EBITDA matters and 
+all other numbers are function of machine revenue.
+•
+Easiest way to get to Y5 Revenue is by dividing Y1 machine 
+revenue from market share to get Y1 market share. 
+•
+Then growth market share by 5% per year to get to Y5 market 
+share and then take 20% of that number for Y5 machine revenue. 
+•
+Service revenue = 20% of machine sales (per industry average)
+•
+Parts revenue = 30% of machine sales (per industry average)
+•
+Candidate should recognize that $380M meets target of $380M 
+and then drive to thinking through risks of doing the investment.
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p134 =====
+130
+Firm
+•
+Leadership challenges (incumbent CEO disagreement and/or can’t find go 
+new leader
+•
+Big, complex machines large warranty/liability exposure
+•
+Cannot realize industry average EBITDAs
+•
+Lose talented workforce when transition to PE firm
+•
+R&D spending to keep advantage conflicts with cost efficient manner of PE 
+firm
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Market
+•
+Major purchasers (Amazon switch suppliers) and they are not one of our 
+customers
+•
+Competitor emerges with superior technology
+•
+International competitor emerges with lower labor costs
+•
+PE Exit multiples decrease
+BRAINSTORMING
+What are the potential risks GS Capital may face with purchasing the company?
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p135 =====
+131
+1 0  |  C A S E :  B O X I N G  I N  T H E  O P P O R T U N I T Y
+CONCLUSION
+Answer first…I recommend GS Capital purchases Corrugating Co. for $100M as we estimate they 
+can sell it in 5 years for $380M, equating to a 3.8x cash-on-cash return. This falls on the high side of 
+the funds target of a 3-4x return on cash.
+Risks….I am concerned about the warranty exposure/expense for these machines…
+Next steps… so would like to partner with you to create predictive algorithm for warranty exposure 
+by machine. 
+UVA Darden School of Business 2019-20 Casebook
+
+
+===== PDF p136 =====
+132
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

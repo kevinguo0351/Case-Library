@@ -1,0 +1,162 @@
+===== PDF p112 =====
+Casebook | 2019-20 Edition 
+108 
+ 
+17. National Fast Food Chain (BCG Mock, CPG/Retail, New Market, 
+Quantitative) 
+Stem: Your client is a small National Fast Food Chain considering a frequent diner program. For every $1 
+that is spent, customers will gain one point. With 20 points customers receive a free movie ticket. The 
+Chain’s goal is to increase per-store revenue. Should your client undertake this program? 
+ 
+Candidate should lay out a framework reviewing the following: 
+ 
+● 
+Company (type, size, where stores are located, customer segments, trends, product mix) 
+● 
+Market (trends, size, sub-segments, suppliers, channels) 
+● 
+Incremental Profit of the program (Revenue – Costs) 
+● 
+Risks 
+ 
+ 
+Phase 1: Background 
+ 
+Interviewer should let the Candidate drive the discussion completely. He/she should preview his/her logic, 
+explaining to the interviewer how he/she will go about solving this problem. 
+ 
+Candidate: I know that customer loyalty programs are about changing customer behavior, incentivizing 
+the customer by getting current customers to spend more or by acquiring new customers. Can you tell me 
+a little bit about the Fast Food Chain, how many customers we have, how much they spend, and what our 
+goals are for each of these items? 
+ 
+Interviewer should only respond with the following if asked: 
+ 
+Interviewer: We are a burger and sandwich chain. We have 500 stores nationwide with an average of 
+30,000 customers per store per year. 
+ 
+Candidate: OK, so we have a total of 15,000,000 (500 x 30,000) customers per year. Do we know how 
+these customers are segmented? 
+ 
+Interviewer: Yes, we have some information on customer segmentation. How do you think a fast food 
+chain might segment its customer base? 
+ 
+Candidate: Probably by age, demographics, and loyalty/frequency of visit. 
+ 
+If Candidate does not get to “loyalty,” prompt him or her by asking “how else?” 
+ 
+Phase 2: Revenue Calculations 
+ 
+Interviewer: OK, good. We have two types of customers: loyalists and occasionalists. What would you 
+like to know about these customer segments? 
+ 
+Candidate should preview his/her logic for the interviewer (what information he/she needs and why 
+he/she needs it). If Candidate does not get to this right away, Interviewer may gently prompt the 
+Candidate by, for example, revealing that there is market research proving that neither segment will 
+increase the spend per visit, but that both segments would increase in the frequency of visits. Interviewer 
+should reveal the following graph when he/she feels that Candidate has asked all relevant questions: 
+
+
+===== PDF p113 =====
+Casebook | 2019-20 Edition 
+109 
+ 
+ 
+ 
+Candidate: OK, great. Do we have any information on how many of each type of customer would 
+actually join the loyalty program? 
+ 
+Again, if the candidate does not ask for this right away, gently prompt him/her to do so by referring to the 
+graph. 
+ 
+Interviewer: Yes, we know that 20% of the loyalists would join the program and 5% of the occasionalists 
+would join the program. 
+ 
+Candidate should now have enough information to calculate the additional revenue per store. If he/she 
+does not drive there, prompt him/her to do so: 
+ 
+Loyalists per store: 
+1/3*30,000*20% = 2,000 loyalists will join the program and visit 5 more times per year (still spending 
+$4/visit): 
+ 
+- 
+$4/visit x 5 additional visits per person = $20 additional spend/loyalist 
+- 
+$20*(2,000 loyalists) = $40,000 additional revenue from loyalists 
+Occasionalists per store: 
+(2/3*30,000*5% = 1,000 occasionalists will join the program and visit 2 more times per year (still 
+spending $4/visit): 
+ 
+- 
+$4/visit x 2 additional visits per person = $8 additional spend/occasionalist 
+- 
+$8*(1,000 occasionalists) = $8,000 additional revenue from loyalists 
+ 
+➔ $40,000 + $8,000 = $48,000/year additional revenue from program per store 
+ 
+ 
+Candidate: So now that I have calculated the revenues, I would like to talk about costs. 
+Phase 3: Cost Calculations 
+Interviewer: Good. What kind of costs do you think are associated with a program like this? 
+
+
+===== PDF p114 =====
+Casebook | 2019-20 Edition 
+110 
+ 
+Candidate: There will be both fixed and variable costs associated with this program. I would like to know 
+the cost of the physical frequent diner cards, marketing, food, and cost of movie tickets. 
+ 
+When candidate has developed this list, provide the following information (Candidate may forget the cost 
+of the food itself – let him/her start calculations without this figure, then prompt to ask if he/she forgot 
+anything): 
+ 
+● 
+There is a $10,000 startup cost per store for the program (this includes all cards, marketing, etc) 
+● 
+Redeemed movie tickets cost $1 (candidate should ask about the redemption rate of these 
+tickets: 50% are redeemed) 
+● 
+Margins on food are 50% 
+ 
+ 
+The candidate should now have enough information to calculate the costs of the program (Candidate 
+must recall that the redeemed ticket cost must be based on the ENTIRE spend of the customer, not just 
+the incremental spend): 
+ 
+- 
+Initial startup costs: $10,000 
+- 
+Redeemed ticket costs: $8,200 
+o 
+2,000 loyalists * 35 visits * $4/visit = $280,000 
+o 
+1,000 occasionalists * 12 visits * $4/visit = $48,000 
+o 
+$280,000 + $48,000 = $328,000 
+o 
+$328,000 / 20 points per ticket = 16,400 tickets issued 
+o 
+50% * 16,400 = $8,200 for tickets redeemed (with 1 point = $1) 
+- 
+Food: 50% margin on the additional revenue from food sales = $24,000 
+o 
+(0.5*(2,000 loyalists * 5 more visits * $4/visit + 1,000 occasionalists* 2 more visits * 
+$4/visit)) = $24,000) 
+o 
+Or note 50% of $48,000 is $24,000 
+- 
+Total cost = $10,000 + $8,200 + $24,000 = $42,200 
+ 
+➔ Incremental profit per store = $48,000 - $42,200 = $5,800 
+ 
+ 
+Phase 4: Recommendation 
+ 
+Interviewer: Good. So what is your recommendation for our client? 
+ 
+Candidate: Our client should adopt this program because it will meet the client’s goal of increasing per- 
+store revenue. Per-store profit will increase by $5,800 per year as a result of this program. Potential 
+risks to be mindful of as the program moves forward are shifting consumer preferences and any price 
+increases from the movie tickets supplier. The client may want to roll out a pilot program before 
+instituting the loyalty program firm-wide. 

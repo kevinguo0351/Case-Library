@@ -1,0 +1,134 @@
+===== PDF p41 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+37 
+ 
+Case 11: Credit/Debit Card Processor 
+ 
+BACKGROUND 
+Firm:        McKinsey & Company 
+Round:     2005 Summer, First 
+Content:   Qualitative and quantitative 
+ 
+CASE TOPIC 
+Pierce Processing is a credit/debit card processor.  It provides outsourced services to credit/debit 
+card issuers.  The issuer pays a percentage of transaction fees to Pierce for providing the 
+following services:  
+• credit authorization,  
+• fraud detection,  
+• accounting and reporting.   
+ 
+Issuers outsource this function to companies like Pierce because of the high cost of maintaining 
+their own IT systems to perform this function.  Pierce has hired us to find ways to sustain its 
+double digit growth that the company has enjoyed for the past 20 years.   
+ 
+INTERVIEWER BRIEFING 
+ 
+This case is representative of many of the prepared, McKinsey round 1 cases, in which the 
+interviewer actively walks the interviewee through a set of qualitative and quantitative questions.  
+The interviewer should “stick to the script” of questions.  To the effect that the interviewee 
+struggles, the interviewer can assist the interviewee to get back on track. 
+ 
+The interviewee should be structured in answering qualitative questions and crunch through any 
+numbers thrown his or her way, always keeping in mind how they tie back to the larger issues. 
+ 
+CASE QUESTIONS 
+ 
+Interviewer: What steps could Pierce take to keep a high growth rate? 
+ 
+Interviewee: What is Pierce’s current market position in the credit card market? 
+ 
+Interviewer: Pierce currently serves the 10 of the top 20 issuers of the country.  The 20 top 
+issuers comprise 90% of the credit card market.  The 10 of the top 20 that are not Pierce’s 
+customers either use Pierce’s competition or perform the function in-house. 
+ 
+Interviewee: How fast is the credit card market growing? 
+ 
+Interviewer: The number of credit card transactions is growing at 3% annually. 
+ 
+Interviewee: How does Pierce price currently in the credit card market? 
+
+
+===== PDF p42 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+38 
+ 
+ 
+Interviewer: Pierce earns a percentage of the transaction fee of each transaction. 
+ 
+Interviewee: Is there any other revenue stream? 
+ 
+Interviewer: Someone has suggested that Pierce could license its software as another business 
+model, in addition to being the outsourced processor.  In this case, the issuer would license 
+Pierce software and process the transactions in-house.  Pierce would get an upfront license fee 
+and ongoing maintenance fee.  What should Pierce consider in evaluating the software license 
+model? 
+ 
+Interviewee: Possible answers:   
+• Danger of cannibalization,  
+• Impact of new revenue source- upfront cash and recurring revenue stream 
+• Added cost of maintenance and support of this business model. 
+ 
+Interviewer: Assume that if Pierce offered the software license model, 50% of its existing 
+customers will switch to this model.  50% of the remaining 10 issues that are not currently 
+Pierce customer will sign with Pierce.  The revenue of providing outsourced processing is 
+$1M/year.  The upfront fee of license model is $3M and $300K in annual maintenance fee.  
+Calculate the impact on revenue for the next 5 years if Pierce offers this new licensing model 
+(ignoring time value of money). 
+ 
+Interviewee: Revenue is $70M under new plan for the next 5 years, compared with $50M if the 
+software license model is not adopted. 
+ 
+Interviewer: Good.  What else would you like to know in order to reach a recommendation? 
+ 
+Interviewee: What is Pierce’s current market position in the debit card market? 
+ 
+Interviewer: Pierce has 5% market share. 
+ 
+Interviewee: Who are Pierce’s main competitors in the debit card market?  How much market 
+share do they have? 
+ 
+Interviewer: The market is very fragmented.  No player has more than 10% market share.  What 
+can Pierce do to gain more market share in the debit card segment? 
+ 
+Interviewee: Possible answers:  acquire competitors, set up a partnership with a competitor, use 
+innovate marketing schemes (e.g. incentives) 
+ 
+Interviewer: There is another segment of the market, store value segment, where Pierce 
+currently has no offerings.  This is the market of store-specific gift cards, i.e. Starbucks card or 
+GAP gift cards.  This market is projected to grow at 50% annually over the next 10 years.  What 
+are some of the issues to consider in determining whether Pierce should enter this market? 
+
+
+===== PDF p43 =====
+ 
+Columbia Business School 
+Case Book 2005 
+ 
+39 
+ 
+ 
+Interviewee: Cost of offering this new service vs. potential revenue, difficulty in setting up 
+partnerships and Pierce’s experience with this, complexity of a revenue-sharing scheme, 
+“stickiness” of store-aligned cards vs. regular cards, potential cannibalization of regular cards 
+ 
+Interviewer: Suppose we know that the total market of store value is $1B today.  The transaction 
+fee is 1% of the total value.  Processing firms, like Pierce, would earn about 10% of the 
+transaction fees.  What is expected revenue from this new segment this year? 
+ 
+(Note to interviewer: See if the interviewee asks for a market share number.  If asked, Pierce 
+expects 30% market share.) 
+ 
+Interviewee: So Pierce would expect revenue of $300K ($1B * 1% = $10M total transaction 
+fees, X 30% market share = $3M Pierce-related transaction fees, X 10% = $300K Pierce take of 
+the transaction fees). 
+ 
+Interviewer: Suppose it costs $1M to build the system required to process store cards.  Assume 
+5-year useful life, what’s Pierce’s expected profit (accounting profit) in the first year? 
+ 
+Interviewee: Answer: $300K – ($1M/5) = $100K  

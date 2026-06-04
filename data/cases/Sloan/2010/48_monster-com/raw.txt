@@ -1,0 +1,95 @@
+===== PDF p162 =====
+48.) Monster.com (Bain, Round 2) 
+Stem: You Ire the SVP of Strategy for Monster.com, a job-search website, at the end of 2005. 
+The US economy is good and you were paid handsomely for the year. You have 3 business lines 
+in the US contributing a total of $600m revenue: 
+1) Jobs posting business (60%) - list price is $395 / posting but with discounting is sold at $60 
+2) Resume database business (30%) - sold for $2000 per user per year (eg HR staffer) for access 
+to ~38m resumes 
+3) Online pop-up ad business (10%) - (eg University of Phoenix ad) 
+Now fast forward to 2009. The CEO has asked you to forecast 2009 US revenues. How will 
+you do it? 
+Structure: 
+Should include at least Macroeconomy (trends, population, unemployment), Monster business 
+(competitive share gains, emerging products, declining businesses) and could also include Risks 
+(emerging competitors or job hiring models). The biggest challenge in this case is determining 
+what data is important versus irrelevant. 
+There are no emerging products or competitive gains to consider in this case. The interviewer 
+should guide the candidate towards analyzing the trend with revenues from job posting. (Since it 
+is not clear that this is the focus of the problem, the interviewer needs to be a bit more proactive 
+in helping out) 
+Interviewer: Lets focus on the job posting business. What are the underlying drivers of the jobs 
+posting business? 
+Answer: hnmediate drivers are US population and unemployment rate. 
+A stronger candidate will get to turnover of jobs quickly but leave the candidates to get to this on 
+their own eventually, asking directional questions. For example, ask them what has to happen for 
+ajob to get posted (answer: employee must leave current position). Employees are more likely 
+to leave when the economy is good and jobs are freely available. 
+Interviewer: How do we get relevant information for this study? 
+Answer: Sources include US Labor Department, Department of Statistics, Online research, Wall 
+Street Economic forecasts, etc. 
+~ 
+Management 
+1111111111 Consulting 
+~~;~!~:.~ Club 
+2010-2011 1
+st Year Case Book 
+208 
+
+
+===== PDF p163 =====
+Interviewer: Say we have some data available. What would you like to know to estimate 
+revenues? 
+The candidate must ask for working people, the turnover rate, the trend in turnover etc. 
+Data: In 2005 there were 180m people working and turnover was 20%. 
+There are also 180m people working in 2009. 
+Trends -
+1999: 20%,2001: 10%,2002: 10%,2005: 20%. 
+A strong candidate will comment on the relation between the trend and the macro-economy 
+(recession, growth and relation to job trends) 
+For example, the trend looks interesting. The economy was strong in 1999 so turnover was high, 
+it worsened with 9/11 and tech bubble. So turnover went down as people feared leaving their 
+jobs. As the economy recovered in 2005 turnover went back up. In 2009, unemployment is high 
+and therefore turnover should be back down. 
+Interviewer: That seems logical, in fact, we regressed .the data on turnover versus 
+unemployment and saw that RA2 was .92. Unemployment was 7% in 2001 and 3.50/0 in 2005 
+and 7% again in 2009. What do you think turnover would be in 2009? 
+Answer: Well, with an RA2 of .92, then I'd estimate 2009 turnover would be 100/0 because 
+unemployment is 7% (similar to 2001). 
+Interviewer: Ok, using that data what is the revenue? 
+Answer: If the turnover rate has halved and workers remained constant, then assuming constant 
+pricing (ignoring inflation for now), 2009 revenue would also be half of that in 2005. 
+Revenue in 2005 = 60% * 600 = $360 Million (under a turnover of 20%) 
+In 2009, since turnover = 10%, Revenue = 0.5*360 = $180 Million 
+Interviewer: Ok, now the resume database. What are some ways we could sell it differently? 
+Answer: Subscription model, discounted with job postings, corporate relationships, target 
+experienced hires, universities etc. 
+Interviewer: Lefs say we expect to sell 60,000 user seats in 2009, what would you estimate 
+revenues to be? 
+Answer: 60,000 x $2,000 = $120 million, or $60 million less than they were doing in 2005. 
+-
+--~-
+--~---
+...... Management 
+1lI11l1111 Consulting 
+~~!~l.?~:, Club 
+2010-2011 1 st Year Case Book 
+209 
+
+
+===== PDF p164 =====
+Interviewer: What about the online ad business? What drives its profitability and how do you 
+expect 2009 is different than 2005? 
+Answer: Primarily how much Monster charges advertisers per click. I'd estimate that because 
+there are more job sites today than in 2005, price that monster can charge has probably gone 
+down while visitors have increased because there are more online users. 
+Interviewer: Right, if advertiser's cost per 1000 clicks is down 25% and the number of visitors 
+has doubled, what will ad revenue be? 
+Answer: $60m x (75%) x (2) = 60m x 1.5 = $90m. 
+Interviewer: So what will 2009 revenue be? 
+Answer: $180 + $120 + $90 = $390m. 2009 revenue is down 35% from 2005! 
+....... Management 
+.!!!!!!!!!! Consulting 
+~~;~!.?:.~ Club 
+2010-2011 1st Year Case Book 
+210 

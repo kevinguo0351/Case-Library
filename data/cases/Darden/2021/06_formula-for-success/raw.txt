@@ -1,0 +1,409 @@
+===== PDF p87 =====
+83
+Formula for Success
+Round 2 | Automotive
+
+
+===== PDF p88 =====
+84
+Round 2 | Automotive
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+FORMULA FOR SUCCESS
+B E HAVIO R A L  
+INT E R VIE W  
+Q UE S T IO N:
+1 .  Te ll m e  a b o u t  
+a  t im e  y o u  
+d is a g r e e d  wit h  a  
+b o s s .
+2 .  W h y  o u r  f ir m ?  
+W h y  t h is  
+s p e c if ic  o f f ic e ?
+UVA Darden School of Business 2021-22 Casebook
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. What is Formula 1? Formula 1 is a global racing league with 10 teams each consisting of 2 drivers. Teams can 
+either be constructors (aka make their own cars and engines) or sponsors (aka purchase manufactured parts from a 
+constructor and generate revenue through selling sponsor space on the car). 
+2. How many races are in a season? 20 races in a season. 
+3. What is the client’s objective? Our client is looking for a net positive NPV project. They also base all new 
+projects off a 10% discount rate. 
+4. How do F1 teams make money? Evenly split distributions from F1, race winnings, and advertising.
+Prompt:
+Our client is a major high-end automotive brand (think BMW, Audi, etc.) looking to 
+expand its racing footprint into the Formula 1 (F1) space. Our client understands that 
+this is an area that would require significant capital to produce a competitive team 
+capable of winning at least 3 races each year. Further, our client is interested in the 
+different options of joining, either by sponsoring an existing team or creating a new 
+team as a manufacturer (called a constructor) We are now tasked with helping our 
+client to determine the viability of entering the F1 market. 
+
+
+===== PDF p89 =====
+85
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+How to Move Forward:
+Include a brief description of what the interviewer should be looking for in the framework to move on to the next portion of the case 
+To move forward, the interviewee should call out the need to look at both revenues and costs to calculate NPV for the project. 
+Constructor NPV
+•
+Revenues
+•
+F1 Payout
+•
+Race winnings
+•
+Advertisements
+•
+Costs
+•
+CAPEX
+•
+Production
+•
+Race (fuel/tires/maint)
+•
+Contracts
+•
+Discount Rate
+Sponsor NPV
+• Revenues
+• Details of sponsorship 
+deal
+• Advertisements
+• Costs
+• Driven by sponsorship 
+deal
+• All relevant costs from 
+constructor
+• Discount Rate
+Other Considerations (Internal)
+• Cash on hand to execute
+• Funding sources
+• Risk profile of company
+• Alignment with customer base
+• Technological feasibility to 
+build successful racing car
+UVA Darden School of Business 2021-22 Casebook
+Other Considerations 
+(External)
+• Future of F1 – shift to electric?
+• Changing fuel costs
+• Driver pool – access to suitable 
+drivers
+
+
+===== PDF p90 =====
+86
+Question 1 
+What are the potential sources for revenue? 
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+Exhibit or Question Guidance:
+Candidate should identify that racing earnings and advertising will be the largest sources of revenue. A 
+deeper insight provides that the F1 governing body (FIA) will distribute funds to the teams. 
+Upon identifying distributed funds from the league, racing earnings, and advertising as revenue sources, 
+provide the candidate with the following information:
+•
+Total F1 revenues total $1B
+-
+Half of funds are split evenly across the teams 
+•
+Assume Constructors receive this whole amount, with none going to Sponsors. Assume that the 
+teams would remain at 10 even if the client entered as a Constructor (e.g., another team would 
+exit the league).
+-
+Half of funds are split evenly as race winnings (assume all winnings go to first place)
+•
+Assume the team will win 3 races per year
+•
+Assume that the Sponsorship opportunity the team is looking at provides winnings for the first 3 
+races won and nothing after, as a Constructor they would retain all winnings 
+•
+Advertising revenues for Constructors typically totals $130M
+•
+Advertising revenues for Sponsors is 20% that of a Constructor
+Ask the candidate to calculate the annual revenue that can be expected as a Constructor and as a Sponsor. 
+After finding that the client would make $255M/yr as a Constructor and $101M/yr as a sponsor, the 
+candidate should push the analysis towards the cost side.  
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p91 =====
+87
+EXHIBIT 1: COST ANALYSIS
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+UVA Darden School of Business 2021-22 Casebook
+Constructor
+Sponsor*
+Factory CAPEX
+$525M
+-
+OPEX
+Annual R&D Budget
+$150M
+50%
+Annual Production (per car)
+$15M
+50%
+Fuel (per gallon)
+$15
+-
+Tires (per set)
+$4,000
+25%
+Maintenance (per race)
+$75,000
+83.33%
+Driver Contract (each)
+$5M
+50%
+*Sponsor costs are expressed as a % of constructor costs and are in addition to constructor costs
+
+
+===== PDF p92 =====
+88
+Question 2 (The location of these question slides in your case is completely up to you)
+•
+Ask the candidate to analyze Exhibit 1. 
+•
+Upon completing total costs, ask for the NPV for both options. 
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+Exhibit or Question Guidance:
+•
+The candidate should acknowledge that this is the missing piece to calculate the NPV for both Constructor and Sponsor options.
+•
+Provide the following when asked by the candidate:
+•
+CAPEX under the Constructor option would be incurred in Year 0 (aka no discounting) and would be a one-time expense. 
+•
+R&D incurred is on a per team basis, Production incurred on a per car basis. 
+•
+Fuel – assume F1 cars get 0.75 mpg, with approximately 300 miles run per race weekend, over 20 race weekends. Remember, there are 2 cars per team. 
+•
+Tires – assume F1 cars go through 10 sets of tires on a race weekend, still with 20 race weekends and 2 cars per team. 
+•
+Maintenance – 2 cars per team with 20 race weekends
+•
+Driver contract – team would need 2 drivers, assume both at same contract value.  
+•
+Sponsor – under the deals of the sponsorship, the team would not incur any up front CAPEX nor any fuel costs for race weekends (covered by another 
+sponsor).  The remaining percentages are based off the percentage of Constructor (total) costs. If needed provide the candidate a shortcut noting that 
+83.33% is equivalent to 5/6. 
+•
+Discount rate is 10%, assume a perpetuity. 
+•
+Upon completion of cost analysis tell candidate to round operating costs to $200M and $100M for Constructors and Sponsors, respectively. 
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p93 =====
+89
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+Exhibit or Question Guidance:
+•
+Upon identifying the costs to the left, candidate should identify operating costs of $195M and $100M, with Constructors requi ring a year 0 CAPEX of $525M. 
+•
+Candidate should drive toward NPV on his/her own identifying that the Constructor yields a higher NPV of the two options. 
+UVA Darden School of Business 2021-22 Casebook
+Cost Exhibit 
+Guidance
+Constructor
+Total 
+Constructor 
+OpEx
+Sponsor
+Total 
+Sponsor 
+Opex
+Factory CAPEX
+$525M
+-
+OPEX
+Annual R&D Budget
+$150M
+$150 M
+50%
+75M
+Annual Production 
+(per car)
+$15M
+15 x 2 = 30 M
+50%
+15M
+Fuel (per gallon)
+$15
+15 x 300/0.75 x 
+20 x 2 = $0.24 M
+-
+Tires (per set)
+$5,000
+10 x 20 x 2 x 
+4000 = $1.6M
+25%
+0.4M
+Maintenance (per 
+race)
+$75,000
+75,000 x 20 x 2 = 
+$3M
+83.33%
+2.5M
+Driver Contract (each)
+$5M
+5 x 2 = $10M
+50%
+5M
+Total OpEx
+~$195M
+~$100M
+NPV Calc
+Constructor
+Sponsor
+CapEx
+$525M
+-
+Revenue
+$255M
+$101M
+OpEx
+$195M
+$100M
+Annual Profit
+$60M
+$1M
+Discount
+10%
+10%
+PV
+$600M
+$10M
+NPV
+$75M
+$10M
+
+
+===== PDF p94 =====
+90
+Current Competitive 
+Landscape
+•
+All calcs based on 3 Race win 
+assumption, is this possible? 
+•
+Are drivers available to sign?
+•
+Do we have the cash on hand for 
+the required CAPEX?
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+UVA Darden School of Business 2021-22 Casebook
+Best candidates display:
+Standard brainstorms of internal/external and risk/reward could be used here, though higher level candidates with refrain and tailor a structure 
+to F1. Additionally, ideas of a continued move across the board towards electric vehicles as well as operational feasibility of the entry into F1 
+should be discussed regardless of the structure. 
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Future of F1
+•
+Fuel Prices
+•
+Shift to E vehicles
+•
+Changes in annual production 
+budget
+•
+Changes in revenue split
+Alternatives
+•
+Other racing leagues
+•
+Partnering w/ movies
+•
+Sponsor league itself rather than a 
+team
+BRAINSTORMING
+What qualitative factors should our client consider surrounding this decision? 
+
+
+===== PDF p95 =====
+91
+CONCLUSION
+0 6  |  C A S E :  F O R M UL A F O R  S UC C E S S
+UVA Darden School of Business 2021-22 Casebook
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+Our client should enter F1 by becoming a constructor, a move that would provide returns greater than the client’s required 
+rate of return of 10%. 
+Risks:
+•
+Future of F1 changing to be misaligned with our company brand (e.g., focus on electric vehicles)
+•
+Being competitive within the league early on to actually earn winnings on the projected 3 race wins
+Next Steps:
+•
+Competitive landscape analysis of other teams and drivers to identify the feasibility of obtaining a team that can win and 
+win quickly.
+•
+Note: one of many possible recommendations. 
+
+
+===== PDF p96 =====
+92
+INT E R VIE W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

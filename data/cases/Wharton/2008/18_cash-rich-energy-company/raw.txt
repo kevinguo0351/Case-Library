@@ -1,0 +1,183 @@
+===== PDF p123 =====
+Establishing the case
+Case: Cash-Rich Energy Company
+BCG: mock interview
+Your client is an Atlanta-based energy company that sits 
+on piles of cash. They are looking for a good investment 
+and are currently considering an acquisition and 
+consolidation of small service companies that service 
+heating and cooling systems of other companies and 
+households. 
+The client would like you to help them understand 
+whether this investment financially makes sense.
+Problem statement narrative
+The interviewee should focus on the (financial) soundness 
+of the proposed investment. There are several 
+investment criteria that could be applied: ROI (return on 
+investment), breakeven point/payback time, opportunity 
+costs (consider and compare with other investments) and 
+NPV (net present value or calculating discounted cash 
+flows). 
+If the interviewee jumps into one investment criterion 
+(normally, that would be a simple one-year profitability 
+calculation), the interviewer should push back on the 
+investment criteria and the interviewee should briefly 
+explain how she would proceed under each criterion 
+(i.e. what data would she need, the process of 
+calculating and advantages/disadvantages).
+After that, the interviewee should be asked to use 
+revenues and costs after the consolidation. 
+Guidance for interviewer and information to be 
+provided on request
+
+
+===== PDF p124 =====
+Sample solution element – issue tree & qualitative analysis
+Candidate may propose analysis / action in:
+Target companies: Explore expected 
+revenues of the target companies. 
+Consider how the consolidation would 
+affect the revenues (e.g. potential 
+decrease due to cannibalization or 
+additional streams due to increased
+market power).
+Acquiring company: Consider the 
+effect of the acquisition on the acquiring 
+company and its subsidiaries, if any. 
+Revenue
+Target companies: Explore the costs of 
+the target companies; fixed costs 
+(SG&A) and variable costs 
+(labor, material), and the potential 
+affect of the consolidation on these 
+costs.
+Acquiring company: Explore the 
+acquisition costs (deal price) and any 
+other affects of the acquisition on the 
+costs (e.g. increased SG&A costs etc.).
+Costs
+Customers: Understand the target 
+companies‟ customers by exploring their 
+needs, demographics, loyalty, satisfactio
+n with companies‟ services and any 
+recent changes in their behavior that 
+could affect their needs and/or use of 
+the services (e.g. temperature changes 
+in the environment) and how these could 
+affect future revenue streams.
+Competitors: Understand the 
+competitive landscape of the 
+industry, major market players, their 
+market shares, products, pricing 
+stretegies and geographic focuses, as 
+well as expectations of potential new 
+market entrants.
+Regulation: Understand anti-trust 
+regulation and whether that could be a 
+deal-breaker.
+Industry
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+The interviewee should be specific in 
+asking for revenues streams, e.g. either 
+per company/year (multiplied with the 
+no of companies) or per customer/year 
+(multiplied wtih the no of 
+customers/company and no of 
+companies) or ask for price and volume 
+(no of companies and no of 
+customers/company), and demostrate 
+understanding on how a consolidation 
+can boost revenues (revenue-synergies).
+The interviewee should demonstrate 
+understanding of cost structure for the 
+target companies and the acquisition 
+company, as well as how a 
+consolidation can decrease overall costs 
+(cost synergies). 
+
+
+===== PDF p125 =====
+Sample solution element – Math
+If the interviewer does not attempt to calculate costs and revenues (profits) after the consolidation, the 
+interviewer should ask her to calculate profits for the target companies. For simplicity reasons we 
+assume that there are no changes in the acquiring company‟s revenues and costs, or any other 
+acquisition costs apart from the deal price. 
+Math Question
+Ultimately, the interviewee should calculate profits/cash flows. Given the 
+information it is best to start with a per-company calculation:
+Cost savings:
+5% of $5M = $0.25M (labor)
+5% of $2.5M = $0.125M (shortcut: half of the previous number) (equipment)
+6% of $2M = $0.12M (SG&A)
+Total cost savings/company: $0.25M+ $0.1.25M+ $0.12M=$0.495M (shortcut: 
+round up to $0.5M and recognize this represents 5% of revenue)
+Revenue/company: $10M
+Profit/company (shortcut): recognize that profits before consolidation were 
+5%, cost savings increase the profits for additional 5%, therefore 10% of revenue or 
+10% of $10M = $1M
+Total profit: 500x$1M = $500M (per year)
+NPV (assuming perpetuity): CF/(r-g) = $500M/(0.13-0.03) = $5B (shortcut: when 
+dividing by 0.1, just add another zero)
+Overall approach, good shortcuts & solution
+Cost reduction (for all target 
+companies): 5% decrease in labor 
+costs, 5% decrease in equipment costs 
+and 1% decrease in SG&A costs. 
+Curent cost structure/company: $5M 
+for labor,  $2.5M for equipment and 
+$2M for SG&A or alternatively 50% of 
+revenue for labor, 25% of revenue for 
+equipment and 20% of revenue for 
+SG&A.   
+Number of target companies: 500
+Revenue/company : $10M/year
+Profit growth (g) : 3%/year
+Discount rate (r) : 13%
+Provide information if asked
+Alternative 
+Calculation 
+Approaches
+Note that there are several ways of calculating the NPV in this case, however, most of them are more 
+time consuming. Since none of the information is given upfront, note that the interviewee may make some 
+assumptions (e.g. discount rate), which is all right as long as they are reasonable.  
+
+
+===== PDF p126 =====
+Sample solution element – recommendation et al.
+The decision whether the client should make the proposed investment should be based primarily on the 
+deal price. Given that we have just calculated the NPV of the investment to be around $5B, the client 
+should not pay more than that. The more they can negotiate the price down from $5B, the better the 
+return on the investment will be. However, before they close the deal, they should first gather more data 
+and perform a more careful analysis on revenue, costs, and profit growth especially for the longer-term 
+projections. And second, they should consider other investments, and compare the NPVs and ROIs.
+Recommendation
+First, for the lack of data, we have assumed that there are were no anti-trust issues with the 
+consolidation, but that would have to be verified with an attorney before proceeding with the 
+negotiations. Second, we have not had a chance to analyze the competitive landscape and the customer  
+base which could both importantly impact the revenue projections. Finally, we have not probed and 
+verified any other assumptions on which the costs and revenue projections were made, which could also 
+significantly impact the NPV calculations.  
+Risks
+As suggested above, verify the assumptions on which the revenue/cost projections were made, obtain an 
+opinion from an anti-trust attorney and consider other investment opportunities.
+Next Steps
+The more investment criteria the interviewee considers at the beginning and the more 
+shortcuts used while calculating the NPV, the better. 
+One other twist is to also evaluate pay-back. Say, price is $2B and client typically expects 
+pay-back in 3 years for their projects. Answer will be do not purchase according to the 
+calculation, but see if interviewee tries to persuade you as to why the client should be using 
+DCF/NPV instead as the risk of this acquisition (reflected in discount rate) makes the return 
+worthwhile and using same payback requirement across all project types is likely incorrect.  
+BONUS
+122
+This is not an easy 
+case, especially for people 
+who are not comfortable 
+with finance. The 
+interviewer should be well 
+prepared and provide 
+guidance where and when 
+appropriate. 

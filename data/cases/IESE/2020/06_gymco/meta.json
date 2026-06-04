@@ -1,0 +1,28 @@
+{
+  "case_id": "IESE_2020_06_gymco",
+  "school": "IESE",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\IESE\\IESE_Case Book_2020.pdf",
+  "idx": 6,
+  "case_name": "GYMCO",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Fitness/Leisure",
+  "difficulty": null,
+  "pdf_page_start": 63,
+  "pdf_page_end": 72,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    66,
+    67,
+    68,
+    69
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p068.png",
+    "exhibits/exhibit_p069.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\IESE\\2020\\06_gymco"
+}

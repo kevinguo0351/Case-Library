@@ -1,0 +1,179 @@
+===== PDF p94 =====
+It has come to your attention that the historic Rick’s 
+American Café is up for sale.  Should you purchase it?
+Rationale for Purchasing:
+1. Profit potential
+2. You may assume you are like every other sketchy 
+collegiate club owner – you enjoy lurking around 
+students
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+Ricks American Café (1 of 7)
+RCC Original
+Other notable facts provided upon request:
+• There is another Rick’s in East Lansing, but it is not a 
+franchise; you are buying the rights to the brand name 
+in Ann Arbor.
+• Assume the bar serves only college students – both 
+undergraduate and graduate (no local population)
+• Rick’s is a 21 year old and over establishment
+
+
+===== PDF p95 =====
+Initial Market Sizing Question
+Before we jump into profitability, let’s do a quick market sizing estimation.  What do you think is the total 
+weekly student demand in Ann Arbor for bar visits? 
+Information provided upon request:
+• There are 40,000 students at the U of M –
+• 26,000 are graduate students
+Ricks American Café (2 of 7)
+RCC Original
+,
+g
+• 15,000 are undergraduate students
+• Again, only students demand, do not account for the local population
+Potential Answer:
+I will assume 30% of the undergrads are over 21, and 100% of the graduate students are. That’s 7,800 
+undergrads, of whom I would think 60% go out on a regular basis, or 4,680 undergrads. I think the graduate 
+students go out less, so I’d say only 40% or 6,000, of them go out regularly. On average, each bar-going 
+student will go out twice a week.  That puts the number of weekly bar visits in Ann Arbor at about 21,360. 
+
+
+===== PDF p96 =====
+Profitability Analysis - Revenue
+Now let’s return to the profitability analysis. What is Rick’s annual revenue?
+Information provided upon request: 
+• Avg. male drink purchase/night:                6 drinks
+• Avg. female drink purchase/night:             2 drinks
+• Avg. drink price:                                        $5
+Ricks American Café (3 of 7)
+RCC Original
+g
+p
+$
+• Cover charge (only on Thurs – Sat):         $5
+• Weeks open per year:                               
+38 (due to the summer months, etc.)
+• Percentage male clientele:                        60%
+• Percentage female clientele:                     40%
+• Nightly demand Mon – Wed:                     150
+• Nightly demand Thurs – Sat:                     1,000
+So what is the total revenue for Mon-Wed?
+ANS: (150)( .6)($5)(6) + (150)(.4)($5)(2) = $3,300 * 3 nights = $9,900
+And for Thurs – Sat? 
+ANS: (1000)( .6)($5)($5)(6) + (1000)(.4) ($5)($5)(2) = $110,000 * 3 nights = $330,000
+Which makes the annual revenue? 
+ANS: ($330,000 + $9,900)(38 weeks) = $12,916,200  (student may round total weekly revenue to $340,000)
+
+
+===== PDF p97 =====
+Profitability Analysis - Costs
+What does Rick’s annual cost structure look like?
+(Student should brainstorm various costs.  Monthly data should be provided, and the student should 
+annualize everything.)
+Information provided upon request:
+Ricks American Café (4 of 7)
+RCC Original
+Costs
+Monthly
+Annual
+Insurance 
+$75,000
+$900,000 
+Rent (Monthly) 
+$400,000 
+$4,800,000 
+Maintenance 
+$150,000 
+$1,800,000 
+Alcohol 
+$225,000 
+$2,700,000 
+Labor
+$150,000
+$1,800,000 
+Total Costs =
+$1,000,000
+$12,000,000
+Purchase Price (lump sum) = $7,000,000
+1. If student does not ask if Rick’s is a franchise during initial discussion, 
+provide this figure after some prodding. Note that this is a large 
+number as the infamous Rick’s brand is nearly priceless.
+
+
+===== PDF p98 =====
+Profitability Analysis - Perpetuity
+Ok, good.  So now we have both annual revenue and annual costs.  Let’s assume that you absolutely love Ann 
+Arbor and that you are investing for the long run.  What do you think of this investment?
+(Note: Student should realize that this is an NPV question given the lump sum purchase price and annual 
+profitability numbers. If they only provide annual profitability, ask for the NPV.)
+Ricks American Café (5 of 7)
+RCC Original
+Information provided upon request:
+Cost of capital: 10%
+Calculations:
+Total Annual Revenue =
+$12,916,200
+Total Annual Costs =
+$12,000,000
+Total Annual Profit =  
+$916,200
+Perpetuity =  $916,200/.1 = 
+$9,162,000 
+Purchase Price =  
+$7,000,000 
+NPV = 
+$2,162,000  => Positive NPV.  Buy it!
+
+
+===== PDF p99 =====
+Qualitative Analysis (Time Permitting)
+How would you bring in additional revenue or increase profitability?
+(Creativity is encouraged.  Use the McKinsey “what else” to provoke additional responses.)
+Examples:
+• Smooth Demand - From Monday through Wednesday we have low demand. We could better tap into the 
+huge undergrad population and have an under-21 night with bands and other events, and charge a minimal 
+Ricks American Café (6 of 7)
+RCC Original
+g
+g
+p p
+g
+,
+g
+cover charge. Or, many of the undergrad student clubs have events that require a stage, so we could market 
+ourselves to them and require that they purchase a minimum amount of sodas, on top of a small rental fee 
+for an earlier time slot, say 4-6pm.
+• Consider renegotiating fixed-cost contracts
+• Experiment with raising cover charge and drink prices; do a sensitivity analysis to find true WTP
+• Sell t-shirts and other Rick’s American Café branded products
+• Host more live bands to compete with some of the venues on the west side of town that have bands play on 
+a regular basis, but that are farther away from the students. 
+• A new trend in group fitness classes is pole dancing, so installing a few poles at Rick’s would of course go 
+over well with the current nightclub-going demographic, and could bring in additional revenue on other 
+days. I would market this as “learn to pole dance the Rick’s way” and have fitness instructors teach Sunday 
+– Wednesday. 
+For each of these possibilities, I would determine the incremental profits (for example, having fitness classes 
+may cost more insurance) and make sure the proposed course of action wasn’t stretching our managerial 
+skills and capacity. 
+
+
+===== PDF p100 =====
+A solid interview will 
+address other 
+potential risksP
+• Weak demand Mon – Thurs
+• Student taste in night-life is transient
+• Very large initial investment
+• May be difficult to exit the investment
+Recommendation
+• Purchase Rick’s - it is a positive NPV project that will yield ~$2MM over the life of the asset.
+Ricks American Café (7 of 7)
+RCC Original
+And suggest the next 
+steps prior to 
+investingP
+Research bids for comparable properties to avoid the “winners curse” during auction
+Negotiate fixed cost contracts
+Perform primary research on ways to smooth demand

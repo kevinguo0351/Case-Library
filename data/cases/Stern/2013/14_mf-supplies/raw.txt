@@ -1,0 +1,407 @@
+===== PDF p102 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Marble Front Supplies is a producer of kitchen appliances and kitchen supplies. Marble Front is a strong brand, and historically the company 
+had significant advertising and marketing expenses to maintain their brand. In the past, growth has been steady, driven by a combination of 
+product line extensions and key acquisitions of specialty item producers. Sales go through a number of channels, including superstores, which 
+are increasingly critical. These superstores have gained considerable share in the past few years, and constantly pressure us to lower our 
+margins as they substitute generic products for traditional brand names like Marble Front. Recent drops in sales and profits have made 
+Marble Front an acquisition target. 
+ 
+Our client is a private equity firm considering purchasing Marble Front. The client wants us to do due diligence on Marble Front’s production 
+facilities, and wants us to size the opportunity for production efficiencies. They believe Marble Front needs to lower costs to stay competitive 
+in this market. What are the factors we should examine to determine whether Marble Front can lower production costs?  
+This case tests the candidate’s ability to analyze related pieces of operations data pulled from charts and tables, and has a moderate 
+quantitative piece. Finally, candidates must be able to assess the qualitative drivers of an investment decision and synthesize a 
+recommendation 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+98 
+• Interviewer led  
+• Profitability 
+• Manufacturing 
+Easy 
+Normal 
+Hard 
+Case 14: MF Supplies 
+
+
+===== PDF p103 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Background Information 
+(to be provided when requested by interviewee) 
+Profitability 
+Revenues: 
+•
+Current production generates $475 million in revenues 
+Costs: 
+•
+Provide exhibit #2 
+Manufacturing 
+•
+The client currently produces SKU’s (Stock Keeping Units) in 3 
+factories located in Michigan, Mexico, and New Jersey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•
+Provide exhibit #1 
+99 
+Annual Production 
+Annual 
+Capacity 
+Michigan 
+5,000 SKU’s 
+8,500 SKU’s 
+Mexico 
+4,500 SKU’s 
+12,000 SKU’s 
+New Jersey  
+3,000 SKU’s 
+5,500 SKU’s 
+Continued… (page 2 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p104 =====
+Exhibit #1 
+(to be provided to the interviewee as background information) 
+What is the current capacity utilization? What are the possible improvements and how should we choose which is best?  
+100 
+Continued… (page 3 of 12) 
+5000 
+4500 
+3000 
+8500 
+12000 
+5500 
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+Michigan
+Mexico
+New Jersey
+Used
+Capacity
+Case 14: MF Supplies 
+
+
+===== PDF p105 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Analysis 
+(NOT to be shown to the interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Total production** 
+(production in Michigan + Mexico + 
+New Jersey) 
+12,500 
+Total capacity** 
+(capacity in Michigan + Mexico + 
+New Jersey) 
+26,000 
+Utilization ** 
+(Production/Capacity) 
+~48% 
+Capacity utilization calculation: 
+101 
+Key Takeaways: 
+There are a few ways to increase capacity utilization: 
+1. Combine New Jersey into Michigan 
+2. Combine either Michigan or New Jersey into Mexico 
+3. Combine both Michigan and New Jersey into Mexico while reducing  
+     the total SKU’s produced from 12,500 to 12,000 
+Some candidates may also raise the possibility of looking for new production 
+locations that give a better total cost structure 
+Continued… (page 4 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p106 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Exhibit #2 
+(to be provided to the interviewee as background information) 
+What conclusions can you draw about Marble Front’s fixed and variable costs? 
+102 
+Continued… (page 5 of 12) 
+Question 
+(NOT to be shown to the interviewee) 
+0
+5
+10
+15
+20
+25
+Michigan
+Mexico
+New Jersey
+Fixed Annual Costs ($MM) 
+0
+2000
+4000
+6000
+8000
+10000
+Michigan
+Mexico
+New Jersey
+Variable Annual Operating Costs 
+(per SKU) 
+Case 14: MF Supplies 
+
+
+===== PDF p107 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Production in Michigan 
+Given 
+5,000 
+Annual variable costs per SKU’s 
+Given 
+7,900 
+Annual fixed costs 
+Given 
+$15M 
+Total annual cost (Michigan): 
+(Fixed + Production*Variable) 
+$54.5M 
+Production in Mexico 
+Given 
+4,500 
+Annual variable costs per SKU’s 
+Given 
+4,000 
+Annual fixed costs 
+Given 
+$18M 
+Total annual cost (Mexico): 
+(Fixed + Production*Variable) 
+$36M 
+Production in New Jersey 
+Given 
+3,000 
+Annual variable costs per SKU’s 
+Given 
+8,500 
+Annual fixed costs 
+Given 
+$20M 
+Total annual cost (New Jersey): 
+(Fixed + Production*Variable) 
+$45.5M 
+Total cost: 
+(Total cost in Michigan + Mexico +  
+New Jersey) 
+$136M 
+Current total expenses: 
+103 
+Continued… (page 6 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p108 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Question 
+(NOT to be shown to the interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Annual fixed costs in New Jersey 
+Given 
+$20M 
+Annual variable costs per SKU’s in Michigan 
+Given 
+$7,900 
+Annual variable costs per SKU’s in New Jersey 
+Given 
+$8,500 
+Annual variable cost savings per SKU’s: 
+(Annual variable costs per SKU’s in NJ –  
+Annual variable costs per SKU’s in Michigan) 
+$600 
+Production in New Jersey 
+Given 
+3,000 
+Total savings: 
+(Annual fixed costs in NJ +  
+Production in NJ*Annual variable cost savings) 
+$21.8M 
+What is currently the total expense from running three plants? How much would we save in each of our three scenarios? 
+ 
+Scenario #1 – savings by combining New Jersey into Michigan: 
+104 
+Continued… (page 7 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p109 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Annual fixed costs in Michigan 
+Given 
+$15M 
+Annual variable costs per SKU’s in Mexico 
+Given 
+$4,000 
+Annual variable costs per SKU’s in Michigan 
+Given 
+$7,900 
+Annual variable cost savings per SKU’s: 
+(Annual variable costs per SKU’s in Michigan –  
+Annual variable costs per SKU’s in Mexico) 
+$3,900 
+Production in Michigan 
+Given 
+5,000 
+Total savings: 
+(Annual fixed costs in Michigan +  
+Production in Michigan*Annual variable cost savings) 
+$34.5M 
+Scenario #2a – savings by combining Michigan into Mexico: 
+105 
+Continued… (page 8 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p110 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Annual fixed costs in New Jersey 
+Given 
+$20M 
+Annual variable costs per SKU’s in Mexico 
+Given 
+$4,000 
+Annual variable costs per SKU’s in New Jersey 
+Given 
+$8,500 
+Annual variable cost savings per SKU’s: 
+(Annual variable costs per SKU’s in NJ –  
+Annual variable costs per SKU’s in Mexico) 
+$4,500 
+Production in New Jersey 
+Given 
+3,000 
+Total savings: 
+(Annual fixed costs in NJ +  
+Production in Michigan*Annual variable cost savings) 
+$33.5M 
+Scenario #2b – savings by combining New Jersey into Mexico: 
+106 
+Continued… (page 9 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p111 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Annual fixed costs in Mexico 
+Given 
+$18M 
+Annual variable costs per SKU’s in Mexico 
+Given 
+$4,000 
+New production in Mexico 
+(Capacity in Mexico) 
+12,000 
+Total annual cost (Mexico): 
+(Fixed + Production*Variable) 
+$66M 
+Original total annual cost  
+(calculated before) 
+$136M 
+Total cost savings: 
+(Original total annual cost – new total annual cost)   
+$70M 
+Original total production 
+Given 
+12,500 
+Production decrease 
+(Original total production – capacity in Mexico) 
+500 
+% of lost revenues 
+(Production decrease/Original production) 
+4% 
+Total revenues 
+Given 
+$475M 
+Total revenue loss 
+(Total revenues*% of lost revenues) 
+$19M 
+Total savings: 
+(Total cost savings – total revenue loss) 
+$51M 
+Scenario #3 – savings by combining both Michigan and New Jersey into Mexico while  
+                         reducing the total SKU’s produced from 12,500 to 12,000: 
+107 
+Continued… (page 10 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p112 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+What other costs or revenues might we consider when sizing the opportunity of production consolidation? 
+• The main issues would be the implementation timeframe and the costs of closing plants. This might require buying out union contracts, 
+taking losses on capital leases, and hiring costs for expanding the Mexico plant  
+• We might also face public backlash from outsourcing manufacturing jobs to Mexico 
+How high would closing costs have to be (on a per plant basis) before Scenario #3 is not the best available opportunity? Are there any 
+other disadvantages of Scenario #3? 
+• If per-plant closing costs exceeded $16.5M, Scenario #2a would become more profitable than Scenario #3, because the marginal costs 
+of #3 over #2 would be taken into consideration 
+• Scenario #3 also runs the risk of making expansion impossible, while Scenario #2a leaves some excess capacity and therefore Marble 
+Front would be better positioned to take advantage of any unexpected demand growth 
+108 
+Analysis 
+(NOT to be shown to the interviewee) 
+Scenario 
+Total annual savings 
+#1 
+$21.8M 
+#2a 
+$34.5M 
+#2b 
+$33.5M 
+#3 
+$49M 
+Continued… (page 11 of 12) 
+Case 14: MF Supplies 
+
+
+===== PDF p113 =====
+© 2013 NYU Stern MCA – All Rights Reserved 
+Risks 
+•
+Combining Michigan and New Jersey into Mexico, while reducing the total SKU’s produced 
+from 12,500 to 12,000, the total capacity in Mexico, will result in the highest total savings 
+for Marble Front ($49M, after considering the appropriate decrease in revenues) 
+•
+In using the full capacity of the factory in Mexico, any expansion plans in case of any 
+unexpected demand growth become impossible 
+•
+If the costs for closing the plant in New Jersey exceeded $14.5M, it would make more 
+sense for Marble Front to combine only Michigan into Mexico, which will result in $34.5M 
+cost savings 
+Case Closing 
+109 
+Recommendation 
+Continued… (page 12 of 12) 
+Case 14: MF Supplies 

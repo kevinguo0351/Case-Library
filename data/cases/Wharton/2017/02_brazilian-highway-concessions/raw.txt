@@ -1,0 +1,263 @@
+===== PDF p22 =====
+KNOWLEDGE FOR ACTION
+Brazilian Highway 
+Concessions
+
+
+===== PDF p23 =====
+KNOWLEDGE FOR ACTION
+Brazilian Highway Concessions
+Level of Difficulty: Medium to hard
+Case Similar to Cases at Firms: McKinsey final round
+Topics
+Tested: international expansion, graphical interpretation, market entry,
+mathematical calculations (ROIC).
+Prompt: A leading Brazilian highway concessions company is looking to expand
+internationally. Economic growth in Brazil has stalled, and in order to continue to
+grow both top-line revenues and bottom-line profitability, the client wants to
+diversify its portfolio and decrease its exposure to the Brazilian economy. What
+factors should the client consider as it thinks through its international expansion
+options?
+Wharton Casebook 2017
+CASE 2
+19
+
+
+===== PDF p24 =====
+KNOWLEDGE FOR ACTION
+Opening Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample of Strong Framework
+Sample Clarifying Questions and Answers
+Where else does the client currently operate besides Brazil?
+The client operates only in Brazil, has scoped opportunities in South 
+America. Their staff speaks primarily Portuguese.
+Does the client operate in any industries besides road concessions? Are
+their adjacent industries they could pursue?
+No, the client currently only focusses on road concessions (building and 
+operating public roadways).
+Who are the clients typical customers and how do they typically win 
+business?
+The clients’ customers are always municipal, state, or national 
+governments. They bid, usually through competitive RFPs.
+Does the company want to focus on a specific region, or is it open to all 
+geographies?
+The client wants to consider all geographies, with a bias towards 
+opportunities in South America.
+Culture and management complexity
+• What are the language and cultural barriers?
+• Which countries would be a good fit for current leadership’s 
+working and managerial culture?
+• Can management adapt to the managerial styles of countries 
+that are not similar to Brazil?
+• Is geographical distance a problem to manage assets?
+Political environment
+• What is current regulation for the privatization of public 
+infrastructure? Which governments are pro-private sector 
+participation?
+• Is the political climate volatile in the country? Is there high 
+probability of changes in regulation?
+• Is the country receptive to business overall?
+Pipeline and economic prospects
+• What is the pipeline of projects? Will there be significant 
+privatizations or new projects in the future?
+• What is the size, complexity and value of future projects?
+• Is the country growing? Does it require infrastructure 
+investment?
+• How advanced is the current infrastructure framework?
+Competitive environment
+• Who are the current players in infrastructure in the country? 
+Are there international players?
+• How large are they and how concentrated is the industry?
+• Is it likely to be strong competition on bids for public 
+auctions? How are the valuations of the latest projects?
+CASE 2
+20
+
+
+===== PDF p25 =====
+KNOWLEDGE FOR ACTION
+Graphical Interpretation: Introduction
+Wharton Casebook 2017
+After several conversations with the client and an initial analysis by our team, we’ve decided
+that opportunities outside of South America are not worth pursuing because of 1) cultural
+differences; and 2) managerial complexity. The team has gathered the below data in order to
+assess which countries in South America would be the most attractive (provide the
+interviewee with the graph).
+Based on the graph, which markets should our client focus their efforts on? Which should
+it definitely eliminate? Correct answers here are Mexico, Colombia, Chile and Peru (upper
+right quadrant). You may also be able to argue Argentina as well – for which ease of doing
+business is not enough but pipeline is strong.
+Assuming the client chooses to enter one or more of these markets, how should it
+approach market entry? Correct answers here could be greenfield or primary investment, joint
+venture (JV), or acquire a competitor (M&A).
+What are the primary pros and cons of each market entry approach?
+•
+Primary investment: limited knowledge of market / greater control
+•
+JV: less control / some market knowledge
+•
+M&A: more expensive / lower idiosyncratic risk / local market knowledge
+CASE 2
+21
+
+
+===== PDF p26 =====
+KNOWLEDGE FOR ACTION
+Graphical Interpretation
+Wharton Casebook 2017
+Data for interviewee
+Mexico
+Colombia
+Chile
+Peru
+Argentina
+Ecuador
+Costa Rica
+Panama
+Paraguay
+Honduras
+Bolivia
+Venezuela
+CASE 2
+22
+
+
+===== PDF p27 =====
+KNOWLEDGE FOR ACTION
+Primary Investment vs. M&A (Qualitative)
+Wharton Casebook 2017
+The client has determined that there are no viable JV opportunities, and so wants
+to decide whether to go the primary investment or M&A routes. If you were going
+to evaluate the two opportunities side by side, which inputs would you need to
+compare the value of each investment?
+•
+Primary investment
+•
+Annual profit = (Km*$/km*vehicles)*(1-opex)
+•
+Payback = initial investment/annual profit
+•
+Investment Value = annual profit/discount rate [*assume perpetual concession]
+•
+ROIC = (investment value/initial investment)-1
+•
+M&A
+•
+Annual profit = revenue*(1-opex)+(revenue*synergies)
+•
+Payback = initial investment/annual profit
+•
+Value = annual profit/discount rate
+•
+ROIC = (value/initial investment)-1
+Provide the interviewee with the data sheet after s/he has walked through the 
+major inputs listed above.
+CASE 2
+23
+
+
+===== PDF p28 =====
+KNOWLEDGE FOR ACTION
+Primary Investment vs. M&A (Quantitative)
+Wharton Casebook 2017
+Input
+Primary investment
+M&A
+Km
+300
+NA
+$/Km
+$5
+NA
+Expected traffic 
+(vehicles/month)
+20,000
+NA
+Annual revenue
+Km*$/Km*expected traffic
+$120,000,000
+Opex
+30%
+40%
+Investment
+$150,000,000
+$750,000,000
+Contract term
+Perpetual
+NA
+Discount rate
+10%
+10%
+Synergies
+NA
+15% (of revenue)
+Data for interviewee
+CASE 2
+24
+
+
+===== PDF p29 =====
+KNOWLEDGE FOR ACTION
+Primary Investment vs. M&A (Quantitative)
+Wharton Casebook 2017
+Input
+Primary investment
+M&A
+Annual revenue
+$30,000,000
+(300*5*20,000)
+$120,000,000
+Annual opex
+$9,000,000
+(30,000,000*.3)
+$48,000,000
+(120,000,000*.4)
+Annual profit
+$21,000,000
+(30,000,000-9,000,000)
+$90,000,000
+(138,000,000- 48,000,000)
+Payback period
+7 years
+(150,000,000/21,000,000)
+8.33 years
+(750,000,000/90,000,000)
+Value
+$210,000,000
+(21,000,000/.1)
+$900,000,000
+(90,000,000/.1)
+ROIC
+40%
+((210,000,000/150,000,000)-1)
+20%
+((900,000,000/750,000,000)-1)
+Answers for interviewee
+Once interviewee has come up with an ROIC, ask them for their conclusion.
+CASE 2
+25
+
+
+===== PDF p30 =====
+KNOWLEDGE FOR ACTION
+Wrap-up
+Wharton Casebook 2017
+What should the client do?
+The client should enter a South American market (preferable Mexico, Chile, or
+Colombia) through a primary investment:
+•
+There are high levels of cultural similarity and low levels of managerial
+complexity within the South American markets.
+•
+Mexico, Chile, Peru and Colombia all have large pipelines and attractive
+business environment relative to other South American markets.
+•
+A primary investment in one of these markets is likely to yield a higher ROIC and 
+shorter payback period relative to currently existing M&A opportunities.
+As follow on steps, the client may wish to understand whether further negotiations
+may yield a lower price for an M&A opportunity, how sensitive our investment
+analyses are to macroeconomic factors, and the likelihood of winning deals as a
+primary investor in the new country.
+CASE 2
+26

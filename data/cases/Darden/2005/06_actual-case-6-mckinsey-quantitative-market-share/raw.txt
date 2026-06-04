@@ -1,0 +1,185 @@
+===== PDF p17 =====
+Actual Case #6 
+Company: McKinsey   
+ 
+ 
+Case Description 
+A quantitative case which requires:  breakeven analysis, a market estimation, and 
+recommendation of a long-term strategic position.  
+ 
+Question 
+Our client is a leading computer hardware manufacturer in a developing country. Its cell 
+phone handset division is losing tens of millions of USD this year.  It approaches us and 
+wants to find out why and how to handle it. 
+ 
+Initial data to be given  
+1. The company wants to know whether it's achievable for them to at least break even in 
+next year 
+2. Estimate the trend of the industry for coming years 
+3. Provide a recommendation for long-term  
+ 
+Additional data to be provided when asked 
+Company 
+1. The handset division is a new one and was established only last year. Last year they 
+had reasonable profit. 
+2. Differentiation:  The client has invested significantly in R&D but seems unable to 
+differentiate itself. 
+3. Costs:  The client has cost practice comparable to local competitors. Lack of scale is 
+the main reason for their cost disadvantage. The client's cost structure for next year is 
+expected as (illustrative): 
+ 
+Value Add
+Cost
+Per
+Contracted parts 
+$50
+Handset 
+Other parts 
+$20
+Handset 
+Labor 
+$5
+Handset 
+Utilities (direct & variable) 
+$3
+Handset 
+Transportation 
+$4
+Handset 
+SG&A 
+1,500,000
+Annually 
+R&D 
+1,000,000
+Annually 
+Depreciation 
+2,000,000
+Annually 
+ 
+Market 
+The players in the handset market can be categorized into two groups:  
+• large multinationals such as Nokia, Sony-Ericsson and Motorola 
+• local suppliers.   
+The multinationals have been dominating power in the market for a long time; however, 
+in recent years the local suppliers are beefing up in terms of both quality and design.  
+ 
+Leveraging their knowledge of local preference and strength in selling channeling, during 
+the last two years local suppliers obtained roughly 20% of market share. 
+ 
+Darden Casebook Supplement 2005 Version 1.0 
+12
+
+
+===== PDF p18 =====
+ 
+ 
+The market share landscape is like: 
+Company
+Market Share
+Nokia. Ericsson, Motorola and other Multinationals 
+80% 
+Local supplier A 
+5% 
+Local supplier B 
+5% 
+Local supplier C 
+3% 
+. . .  
+ 
+Client (around 10th local supplier by MS) 
+<1% 
+ 
+Product 
+1. Price: 
+• Handsets have become a commodity and price competition intensified.  
+• Wholesale price (last year): 
+$95 
+• Wholesale price (this year): 
+$90 
+• Wholesale price (next year): 
+5% less (price war on-going) 
+2. Substitutes:  There are some substitutes for the type of handset the client produces, 
+but the threat is not significant. 
+ 
+Customers (client specific) 
+1. Two groups:  Urban and Rural.  
+ 
+Urban
+Rural
+Penetration rate (purchasing power differences) 
+50% 
+4% 
+Penetration growth rate (government has implemented 
+supportive policies which is expected to grow market fast 
+next year) 
+10% 
+50% 
+Average handset change 
+3 yrs 
+5 yrs 
+% of Population 
+30% 
+70% 
+ 
+2. Population of the country: 300M            
+ 
+Frameworks that might be used 
+3C, industry analysis, break-even calculation, market size calculation 
+ 
+Darden Casebook Supplement 2005 Version 1.0 
+13
+
+
+===== PDF p19 =====
+Solution 
+1. Client needs to produce 1.3M units to breakeven 
+Fixed Costs + Variable Costs * Units = Revenue/Unit * Units 
+Fixed Costs   
+= 1.5 + 1 + 2 = $4.5M 
+Variable Costs  
+= 50+20+5+3+4 = $82 per unit 
+Revenue         
+= $90 * 95% = $85.5 per unit 
+Contribution  
+= $3.5 per unit 
+Unit Breakeven 
+= 4.5 M / 3.5 per unit = 1.3M units 
+2. Market Size is ~ 25M units 
+Urban Units 
+Replacement Units = Population * % Urban * Penetration * 1 / Change  
+300 * 30% * 50% * 1/3 = 15M 
+New Units = Population * % Urban * Penetration * Growth 
+300 * 30% * 50% * 10% = 4.5M 
+ 
+Rural Units 
+Replacement Units = Population * % Rural * Penetration * 1 / Change  
+300 * 70% * 4% * 1/5 = 1.7M 
+New Units = Population * % Urban * Penetration * Growth 
+300 * 70% * 4% * 50% = 4.2M 
+ 
+Total Units = Urban + Rural = 19.5M + 5.9M ~= 25.4M units 
+ 
+3. 1.3M units is about 5% of market 
+= 1.3M / 25.4M =~ 5% 
+ 
+4. Since the client current has less than 1% market share, it will need to grow its share 
+over five times next year in a commodity market to just break even. 
+ 
+5. Market growth was 50% or 8.7 M units.  Client would need to capture 15% of this to 
+breakeven. 
+Growth = Change in Units / Last Yr Units = (25.4M – 16.7M) / 16.7 M = 50% 
+Breakeven = 1.3M / 8.7M = 15% 
+ 
+6. Ideal Recommendations: 
+a. Focus on high growth rural population with targeted marketing to capture at 
+least 15% of total growth.  Still not competitive cost position though. 
+AND/OR 
+b. Consolidate with other players to achieve economy of scales (spreads fixed 
+costs over more volume). 
+OR 
+c. Exit (sell) if do not believe can capture growing market since cannot compete: 
+i. Price:  commodity market, need economies of scale (minor player for 
+long-term sustainability) 
+ii. Differentiation:  R&D costs are high and still not differentiated. 
+Darden Casebook Supplement 2005 Version 1.0 
+14

@@ -1,0 +1,220 @@
+===== PDF p256 =====
+252
+Trailer Co. Post Acquisition
+Case tracker
+▪Industry: Industrial Manufacturing / PE
+▪Concepts being tested:
+- Hypothesis driven approach
+- Value chain (i.e., who’s the customer?)
+- Comparing similar companies with very different
+strategies (thinking through post acquisition strategy
+formulation)
+- Ability to quickly calculate/back out
+- Market totals, ratios, implied margins, per unit
+revenue/profitability, etc.
+Case Prompt
+Your client is a large global PE firm that has just acquired a trailer manufacturing company that manufactures open trailers. The PE firm
+owns another trailer manufacturing company that sells similar types of products.  The deal has been approved so you don’t need to
+worry about fit in portfolio, viability of the deal, etc., a good amount of cost synergies have already been identified (mostly
+procurement/purchasing savings) so we don’t need to assess if there are any (this has already been done).  The PE firm has engaged
+your team to help them think through what they should do now that they own both of these manufacturers and their respective
+brands.
+Guide to interviewer (additional detail on next slide)
+▪This case tests the candidates ability to successfully structure
+their approach using a hypothesis. The typical frameworks
+won’t necessarily work here.
+▪Concept of clarifying the prompt/situation. There are 2 types
+of customers in this case the dealerships that the trailer
+manufacturers sell to and the end customers the dealerships
+sell to. To crack the case the candidate needs to figure out
+how each manufacturer interacts with their respective dealer
+networks—not the end consumer.
+▪Key case steps:
+1.
+Understand that the PE firm, at the highest level, is
+faced with a binary decision—keep the
+manufacturers separate or combine them—build the
+hypothesis/analysis around this
+By: Eric Germann (Kellogg Class of ‘18) 
+Quant: 8
+Structure: 10
+Industry: Ind. Mfg.
+Framework: None
+
+
+===== PDF p257 =====
+Guide to Interviewer
+The key to this case is for the candidate to realize that the PE firm has 2 options—combine the manufacturers or keep separate. It is also important
+for the candidate to seek to understand the value chain and how critical the customers (dealers) are to understanding each manufacturer’s unique 
+strategy.
+•
+Trailer Co. A has chosen a “land grab” strategy i.e., find as many dealers as they can and sign them up using a sales force.  Trailer Co. A doesn’t care 
+if a dealer goes out of business because they’ll just sign on 6 more in its place... It’s a volume game that relies on scale and is very transactional.
+•
+Trailer Co. B on the other hand has chosen a “cultivation” strategy i.e., selectively/passively sign up dealers (customers) that they believe have
+significant upside and then execute its proven playbook to help grow the dealer. This means that Trailer Co. B will provide post-sale support with,
+financing, marketing, inventory management, etc. It’s a relationship focused approach that produces a much more effective (top line) and efficient
+(profit) customer.
+The information provided on the next slide is for the interviewer to use during the case—provide Exhibit A when you feel appropriate (when
+candidate asks about price points, product portfolio, competitive landscape). From this data the interviewer can provide answers/guidance to the
+candidate’s questions including:
+•
+Revenue/growth for each mfg.
+•
+Number of dealers in eachs’ network
+•
+Profit per dealer
+•
+Avg. gross margin/product (i.e., who is more efficient in producing)
+•
+Information about the portfolio and segments served, etc.
+The quant portion of the case can be tailored by the interviewer to test the candidate on all of the above points
+•
+If the candidate asks for revenue the interviewer and either provide the overall figure or provide the price points and number of products sold.
+Additionally if the revenue figure has been given in conjunction with the number of trailers the candidate should realize she can back out the
+implied price per trailer, etc. etc.
+Typical candidate mistakes
+•
+Many candidates will assume that the manufacturers sell direct to consumers... This completely misses the critical nature of the actual customers
+(the dealers) and each manufacturers unique approach to growing its customer base
+•
+Most candidates will try to force this into a framework/meander around asking for a bunch of data before trying to present a hypothesis. Without
+an early hypothesis (e.g., the PE firm should combine the two mfgs) this will be a very tricky case given the amount of information (this is meant to
+simulate the real world). A hypothesis is critical.
+•
+Most candidates assume (incorrectly) that something must be done/changed. When in reality the answer to this case is most likely the PE firm
+should do nothing! (See solutions/explanation). This helps candidates understand the danger in making implicit/non data driven assumptions
+
+
+===== PDF p258 =====
+While Trailer Co. A is larger 
+and has a larger number of 
+dealers in its network…
+Key elements to analyze (for interviewer use)
+
+
+===== PDF p259 =====
+255
+Clarifying answers and case guide
+Clarifying answers to provide if asked for
+Customers
+•
+Trailers are purchased by 3rd party dealers (similar to a car dealership)
+•
+3rd party dealers sell the finished product to the end customer
+Competitive dynamics/Market
+•
+The open trailer market is extremely fragmented.  Both trailer manufacturers combined own ~12% of the U.S. market and both are 
+considered two of the largest players in the industry (For interviewer: the candidate should be able to tell you the total size of the market if 
+you’ve provided/they’ve asked for each manufacturer’s revenue)
+•
+Majority of manufacturers (competitors) are extremely unsophisticated and are usually 3-4 locations only 
+•
+Market tracks the economy as trailer sales follow the commercial/industrial real estate market.  Growing at relatively low rate over past few 
+years (~2%)
+•
+Brand is moderately important but quality of product is most important
+Company
+Trailer Co. A
+•
+Operates exclusively in the Southwest of the United States
+•
+Sales have been growing at a CAGR of ~15% (versus market growth of ~2%)
+•
+Recently invested in large CAPEX project to automate their trailer manufacturing assembly line—extremely efficient (~60% GM)
+•
+Operates a large sale force to proactively acquire dealers—limited interaction once added to the dealer network
+Trailer Co. B
+•
+Operates exclusively in the Northeast of the United States
+•
+Sales have been growing at a CAGR of ~7% (versus market growth of ~2%)
+•
+Still manufactures majority of product by hand, relatively low automation (~40% GM)
+•
+Very opportunistic and passive as they recruit dealers to their network.  Only focus on dealers with defensible position and upside
+•
+Proven playbook to help realize a  dealers’ full potential—extremely hands on in helping their dealers be successful (post sale 
+support, etc.)
+Product
+•
+An open trailer is essentially just a flat bed trailer with wheels—sometimes it has sides, but the top is “open”. 
+•
+Materials are basic (wood, metal/steel, rubber, etc.).  Not super differentiable, though Trailer co. B does have nicer “finishes” (nicer tail lights, 
+etc.)
+
+
+===== PDF p260 =====
+256
+Solution and recommendations
+Solution & Recommendations
+Potential Approaches (Hypotheses):
+•
+Merge the two manufacturers
+•
+House of brands (A and B brands coexist)
+•
+Single brand (A overtakes B or vice versa) 
+•
+Don’t merge the two manufactures
+•
+Keep A and B distinct and separate (business as usual i.e., do nothing because its working!)
+•
+Keep A and B distinct but centralize management teams and cross pollinate best practices (‘Playbook’ sharing)
+Potential Answers
+•
+Keep separate—share best practices (A’s scaling ability, B’s dealer efficiency playbook)
+•
+Keep separate—business as usual
+•
+Keep separate--explore cross sell B’s additional products to A’s dealers
+Justifications:
+•
+Can realize majority of cost savings without combining brands/physically combining manufacturing—Procurement/purchasing 
+input volumes
+•
+Separate geographic locations—no overlap in dealers or customers
+•
+Isolated brand reach—A’s geography won’t have heard of B’s products and vice versa—makes combining difficult to justify on 
+brand basis
+•
+Relatively high overlap in product portfolio (with exception of consumer trailers/truck beds) but sold at different price points
+•
+Very different current strategies both of which are working out nicely for each—with only 12% share of all open trailers—large 
+growth opportunity exists in both regions to further gain share from unsophisticated/small players. If it ain’t broke don’t fix it!
+Takeaways
+•
+Before you can decide what a “new” strategy should be, must first understand the current strategy—how is A currently 
+operating? How is B currently operating? What do we learn when comparing A and B to each other (overlap, opportunities, gaps,
+etc.)?
+•
+Never assume that the current state is unacceptable is you don’t have data to prove otherwise—doing “nothing” with regards to 
+combining the firms in this case is a perfectly acceptable and desirable solution/
+•
+Critical to understand the value chain of a business you’re unfamiliar with.  Who is the customer? How does the business make
+money? Never make implicit assumptions!!
+
+
+===== PDF p261 =====
+Exhibit A
+Trailer Co. A $4.7K
+Trailer Co. B $5.9K
+Regional Competitor $2.0K
+Regional Competitor $4.4K
+Regional Competitor $2.9K
+Regional Competitor $2.9K
+Regional Competitor $2.4K
+Regional Competitor $4.0K
+Regional Competitor $2.3K
+Regional Competitor $7.7K
+Regional Competitor $3.8K
+Regional Competitor $4.2K
+Regional Competitor $2.3K
+Note: Height indicates relative company revenue. Only largest regional players shown
+Regional Competitor $3.2K
+Regional Competitor $1.9K
+Regional Competitor $1.7K
+Increasing average price
+Regional Competitor $2.0K
+Regional Competitor $1.9K
+Regional Competitor $1.7K

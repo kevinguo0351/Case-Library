@@ -1,0 +1,228 @@
+===== PDF p74 =====
+ 
+70 
+C O N S U L T I N G  C A S E  I N T E R VI E W  
+New Rubber Plant Investment 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p75 =====
+ 
+71 
+Question 
+The federal government of a country in certain part of the world is investigating whether to restart a 
+rubber factory in the western part of the country. The factory was operational in past but has not 
+been used for 7 years. The plant was closed due to terrorism in the area which has now come down 
+significantly though there are still issues and skirmishes reported in the area. If rejuvenated the plant 
+may become a target for the rebels. All the equipment is considered useable but the government still 
+estimates to spend $12M to rejuvenate the plant which would enable the plant to produce up to 
+10M lbs of rubber per month. The demand of rubber worldwide is strong but rubber must be 
+transported to an export port via trains; up to 2 trains per day can used for this. 
+Note 
+This case is similar to a case that a student may receive in a First round interview with BCG, Bain, AT 
+Kearney, Deloitte* 
+*The case in fictional and is loosely based on a McKinsey first round interview case 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. What are the raw materials 
+Need gum resin. 3lbs of resin after 
+processing results in 1lb of rubber 
+2. Where are the resins coming from 
+They need to be transported from the 
+capital. Up to 4 trains can be used for the 
+same (This is a key question, a candidate 
+not asking the question misses out a key 
+element in the case) 
+3. What price can rubber be sold at?  
+Sell the Rubber at $20 per lb, Gum resin 
+costs $5 per lb 
+4. How may suppliers are there? 
+We have identified one supplier 
+5. Who are our customers? 
+We would be selling the rubber in the 
+commodity market to the entire world. 
+ 
+
+
+===== PDF p76 =====
+ 
+72 
+Plan 
+This is an Operations case mixed with Cost Benefit Analysis.  The analysis may include, but is not 
+limited to, the following areas: 
+1. Analyze the Financial benefits of the investment: 
+a. Analyze the ROI for the investment 
+b. Analyze the production capacity of the plant. Given the equipment capacity is 10M 
+lbs per month production is probably limited by supply and distribution. 
+c. A great approach would be to lay out the value chain for the rubber plant 
+ Raw Material Supplier          Manufacturing Plant              Customers 
+                 After drawing the value chain, the candidate should clearly identify that there is a 
+transportation element here. 
+2. Identify the other benefits associated with this investment considering this is a government 
+investment: 
+a. Employment 
+b. Economic Development 
+3. Identification of Risks 
+a. Assess risks in the investment (timely delivery, terrorism, labor shortage etc) and 
+deliver 
+ 
+After the candidate lays out the plan ask the candidate to calculate the ROI. 
+If the candidate asks about the demand of rubber in the market then state that the market 
+demand is strong and for our analysis assume that whatever the plant produces can be sold. 
+ 
+First step expected to analyze how much the rubber plant can produce. A common mistake is to 
+assume the 10MM pounds per month as the amount of production. Also ask the candidate to 
+perform all calculations on a monthly basis. 
+For the calculation ask the candidate to make the following assumption: 
+ 
+ 
+ 
+Month 
+25 
+days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p77 =====
+ 
+73 
+Outgoing Train Information: 
+No of Trains 
+2 
+Bogies/train 
+8 
+Cases/Bogie 
+25 
+lbs/Case 
+500 
+ 
+Expected Calculation: 
+Daily Capacity: 2*8*25*500 = 200,000 lbs 
+Monthly Capacity 200,000*25 = 5,000,000 lbs  
+ 
+Incoming Train Information: (Carrying Resin) 
+No of Trains 
+4 
+Bogies/train 
+10 
+Barrels/Bogie 
+25 
+pds/barrel* 
+640 
+ 
+Expected Calculation: 
+Daily Capacity: 4*10*25*640 = 640,000 lbs 
+Monthly Capacity: 640,000 * 25 = 16,000,000 lbs of resin => 5.33 M lbs of rubber (using 1:3 
+conversion) 
+ 
+Expected Key Insight: 
+The bottleneck is the outgoing train capacity which implies that the monthly production of rubber 
+would be $5MM. 
+ 
+Other Financial Information for the Plant:  
+Labor: $8 MM per month 
+Other Fixed Overhead costs: $10 MM per month 
+Cost per train trip: $40,000 (both inbound and outbound) 
+ 
+ 
+
+
+===== PDF p78 =====
+ 
+74 
+Expected Calculation: 
+Transportation Cost per month: $40,000* (4+2)[Number of trains per day]*25 = $6MM per month 
+[Ask the candidate to assume that although 15MM pounds of resin will be transported we will be 
+using all the trains.] 
+ 
+Revenue: 5MM * $20 = $100 MM 
+Material Cost: 15MM * $15 = $75MM 
+ 
+Income Statement: 
+Revenue = $100MM 
+Material Cost = ($75MM) 
+Labor Cost = ($8MM) 
+Transportation Cost = ($6MM) 
+Other Fixed Costs = ($10MM) 
+Profit = $1MM per month 
+Key Insights expected 
+The candidate is then expected to state that the ROI is 1 year, however the margins are wafer thin 
+1%. 
+If candidate asks whether a NPV analysis is required, let the candidate that this is not required. 
+ 
+Interviewer: Now ask the candidate what other areas the candidate would explore to help make a 
+recommendation to the government. 
+ 
+If the interviewer asks any of the following questions provide the responses give below: 
+Interviewee: We are limited by our Outgoing capacity. Do we have market demand for 5,000,000 lbs 
+of rubber? 
+Interviewer: Yes we have demand of lot more 
+ 
+Interviewee: Can we increase the number of trains incoming or outgoing? We have additional 
+production capacity. 
+Interviewer: Not right now but good thing to explore in future. 
+ 
+Expected insights from the candidate 
+Highlight the other benefits: 
+x Employment ($8MM per month figure indicates quite labor intensive process) 
+
+
+===== PDF p79 =====
+ 
+75 
+x Economic Development of the area 
+Highlight some of the risks and state mitigation: 
+x Low Margin, exposure to price fluctuations of resin and rubber 
+o Mitigation: Forward contract purchases of resin 
+o Forward contract sale of rubber 
+x Labor risks 
+o Introduce automation 
+o Facilitate migration of labor from other areas 
+x Terrorism Risk 
+o Involve community leaders in the process 
+o Look at getting government or private security for the plant. 
+x Supply Chain Risk 
+o Sole dependency on trains 
+ Mitigation 
+x Maintain enough safety stock of resins and rubber 
+x Ensure the rail tracks are protected sufficiently in sensitive areas 
+x Crucial to diversify into other modes of transportation, invest in 
+building roads and if applicable pursue waterways. 
+o Single Supplier 
+ Mitigation: Diversify Supplier base 
+ 
+ 
+ 
+Recommendation 
+The recommendation should include the following: 
+The answer – Go ahead with investment in the plan as it seems highly profitable 
+The number(s) – With production at 5M lbs of rubber we make a profit of $12M a year. 
+Production is limited by transportation, an area that can be looked at and addressed. This should 
+further increase our profits in future. 
+Risks or considerations – We have highlighted a lot of the risks, key is that the government takes 
+steps to mitigate the risks , the government can take some steps based on our analysis of the 
+mitigation. Some of the steps could mean a long term investment. 
+Next steps – Assess how plant can be staffed, whether transportation bottleneck can be 
+alleviated, the level of terrorism threat and steps to mitigate. 

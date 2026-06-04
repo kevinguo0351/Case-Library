@@ -1,0 +1,112 @@
+===== PDF p58 =====
+54
+Ratings:
+Quant - 2
+Qual - 2
+Overall - 2
+Fertilizer Innovation
+Industrial Goods | Pricing
+Interviewee Led
+Case 4
+
+
+===== PDF p59 =====
+55
+Case 4 – Fertilizer Innovation
+Your client is an agricultural products manufacturer. They invented a product called “Green Nutrient”.
+This product will help farmers by allowing a variable fertilizer rate which measures the specific amount of 
+fertilizer required for a plot of land, reducing the chance of using too little or too much fertilizer.
+The company is interested in a pricing strategy.
+• “Green Nutrient” measures the amount of fertilizer required, allowing for a “variable fertilizer rate”
+• Two main benefits: Avoids over-use (reduce costs) & under-use (increase yield)
+• Benefit #1: 20% reduction in fertilizer cost per bag @ 1 bag / acre @ $15 / bag
+• Benefit #2: Improve yield 2% [Current average yield: 100 bundles / acre @ $2.5 / bundle]
+• No competition
+• Farms are about 400 acres on average
+• 1,000 Large farms: 1,000 acres each
+• 3,000 Medium farms: 400 acres each
+• 6,000 Small farms: 200 acres each
+• Product lasts 10 years after initial use.
+• Product production cost: $1K per unit
+• Unit works the same regardless of farm size
+• Discount rate: 0%
+• Assume no other costs (ex. cust. acq costs)
+Prompt
+Clarifying Information
+
+
+===== PDF p60 =====
+56
+Framework
+• Economic value to customer – savings from
+reduced fertilizer use, increased revenue from
+yield improvement
+• Cost plus – variable cost per unit, margin of
+similar product
+• Competitor based (market) – price of similar
+product, margin of similar product
+Different Pricing Methods
+Notes / Advice to Interview / How to Move Forward:
+• Candidate should clarify if the product is a device or the fertilizer itself.
+• Provide information only when asked.
+• Candidate should argue the pros and cons of each pricing method and
+decide that EVC is the best way to go.
+• Give bonus points if candidate mentions price discrimination or price skimming.
+Case 4 – Fertilizer Innovation
+
+
+===== PDF p61 =====
+57
+Solution
+Pricing Analysis (Interviewee Led)
+•
+$3.00 fertilizer savings per acre
+•
+$5.00 yield increase ($2.5 * 100 * 2%)
+•
+Maximum WTP per acre: $8.00 per acre
+•
+WTP for each farm type: Small - $1.6k ($8 * 200), Medium - $3.2k, Large - $8k
+• Large: If we price the product at $8k, we sell 1,000 and profit $7M
+• Large & Medium: If we price the product at $3.2k we sell 4,000 and profit $8.8M ← Best Option
+• All farms: If we price the product at $1.6k, we sell 10,000 and profit $6M
+EVC/Acre
+Customer Segment Analysis
+Case 4 – Fertilizer Innovation
+
+
+===== PDF p62 =====
+58
+Conclusion
+• Our client should price
+the device at $3.2k/unit
+and target the large and
+medium farms. This will
+allow our client to attain
+the highest profits at
+$8.8M.
+• Skimming: start by pricing
+at $80k and then $31k and
+then $16k
+• Offer a service to the
+farms at up to $8/acre
+that will achieve a price
+discriminiation based on
+acreage (perfect price
+discrimination)
+• Market analysis on actual
+WTP and competitive
+response
+• Research on channels and
+promotion schemes
+• New entrant comes to
+market in next 10 years who
+may price competitively
+• Customers may not be
+willing to pay EVC
+Excellent Case 
+Answers
+Next Steps
+Risks
+Recommendation
+Case 4 – Fertilizer Innovation

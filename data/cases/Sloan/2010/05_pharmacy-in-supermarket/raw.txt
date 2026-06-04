@@ -1,0 +1,174 @@
+===== PDF p24 =====
+5.) Pharmacy in Supermarket (Bain, Round 1) 
+Stem: 
+Your friend owns and runs a single supermarket. The supermarket currently does not have a 
+pharmacy. He is considering setting up a pharmacy corner in his store (show the following figure 
+to the candidate) to sell prescription drugs. He has approached you to ask you if he should do so. 
+Pharmacy 
+SUPERMARKET 
+! 
+I 
+I 
+I 
+Entry 
+Exit 
+Note: A strong candidate will ask about the goals of the investlnent as well as the capital 
+constraints. If asked, advise the candidate that the goal of the investment is to increase 
+profitability and that their friend is quite capital constrained thereby requiring a payback period 
+of two years. 
+Interviewer: To begin, why don't you think about what information you might need for the 
+analysis? 
+Note: The candidate should now draw up an approach that, at a minimum, includes market 
+analysis, profitability (Revenues less fixed and variables costs), and execution strategy if 
+investment is viable. (after -1 In in ute ) 
+Candidate: I would like to approach the problem by first understanding what the market for 
+prescription drugs in the city or the neighborhood of the supermarket looks like, then estimating 
+the profitability of the operations to determine whether it meets the investment criteria, and lastly 
+look at execution strategies and associated risks if the investment does satisfy the criteria. 
+To approach the problem along these three dimensions, I would specifically need the 
+following information about the market: 
+0) 
+Population of the city/neighborhood the supermarket is serving 
+Oi) 
+Its growth rate 
+(iii) 
+The present number of shoppers in the supermarket 
+(iv) 
+Other pharmacies in the area and their share of the market. 
+To estimate the profitability of operations, I would like to find out: 
+0) 
+The fraction of people in the city/neighborhood who take prescription drugs 
+(ii) 
+What is their monthly expenditure? This would help me calculate the expected 
+revenues. 
+......... Management 
+!!!!!!!!!! Consulting 
+~~:~I~::, Club 
+2010-2011 1 st Year Case Book 
+70 
+
+
+===== PDF p25 =====
+(iii) 
+An estimate of the initial investment needed to cover the fixed expenses 
+(iv) 
+The costs associated with running the pharmacy. 
+Phase 1: Profitability of the pharmacy 
+Interviewer: That seems like a good list. Where would you like to start? 
+Note: At this point make sure that the candidate begins by looking at the market. If he/she starts 
+jumping to profitability, ask them to first analyze the market since it may be a logical first step in 
+estimating overall profitability. 
+Candidate: I would like to begin by looking at the market. Do we know where the supermarket 
+is located and what the population is of the area it is serving? 
+Interviewer: The supermarket is located in a suburb. The suburb has a population of around 
+50,000. The population has more or less remained constant for the past decade. 
+Candidate: Does my friend's supermarket cater to the entire population or do people shop 
+elsewhere as well? 
+Interviewer: The supermarket in question on average gets 10,000 customers per month which 
+results in monthly sales of $lM. 
+Candidate: How many pharmacies are located in this suburban area? 
+Interviewer: There are 3 pharmacies within a two mile radius. These are the only pharmacies in 
+the suburb. 
+Candidate: How do these pharmacies compare against each other? 
+Interviewer: They are all similar to each other, and someone looking for prescription drugs can 
+go to any of these stores. 
+Candidate: Okay, I think I understand. Allow me to estimate if the pharmacy can be run 
+profitably or not. Is there any market data available that might tell us how many people take 
+prescription drugs in the suburb and what their average monthly spend on drugs is? 
+Interviewer: There is no study specific. for the suburb. But on an average, 50% of US population 
+takes prescription drugs. The monthly dlUg bills are $50/person. 
+Candidate: I will assume that the usage trends of the population of this suburb are no different 
+than the usage of the rest of the population. So we have a total of 25,000 people (=50,000 
+people*50%) which translates to total prescription drug sales in the suburb of $1.25M/month 
+( =25,000customers*$50/customer/month). 
+~......... Management -
+1111111111 Consulting 
+~~~~t~;;.~ Club 
+2010-2011 1 st Year Case Book 
+71 
+
+
+===== PDF p26 =====
+The supermarket my friend runs already attracts 10,000 shoppers which means that 5,000 (500/0) 
+of them are likely to purchase prescription drugs. If the shoppers have no preference for one 
+pharmacy over the other then those who have to buy drugs may as well buy them from the 
+pharmacy in the supermarket. In addition, there is a potential to attract a fraction of the 
+remaining 20,000 people in the suburb to purchase prescription drugs at the supermarket rather 
+than going to one of the other three pharmacies. 
+Interviewer: I like where you are going. Let us focus on the store's existing customers. 
+Candidate: Let me calculate the revenue my friend can earn by selling drugs to the existing 
+customers. Revenue = No. of customers * Percentage requiring prescription dlUgS * Average 
+spend 
+= 10,000 * 50% * $50/month = $250,0001 month 
+Next I will need to estimate the cost of the initial investment as well as the costs associated with 
+operations. I imagine that the bulk of the variable costs will be related to the drugs themselves 
+whereas the as the primary fixed costs will by the pharmacists salaries and a little bit of 
+overhead. Do we know what these costs are? 
+Interviewer: I like your structure. I know that the pharmacy is expected to run at 10% profit 
+margin and would require an upfront investment of $400,000. 
+Candidate: This information will allow me to calculate the payback period. 
+Payback period = Initial investment I Operating profit = $400,000/($250,000 * 10%) = 16 
+months. Clearly this falls well within the 24 month payback window my friend is looking at 
+making the investment viable. 
+Note: A prudent candidate will recognize that there may be challenges associated with getting 
+all of their current customers who purchase prescription drugs to purchase them at the 
+supermarket. 
+Phase 2: Effect on the overall profitability of the store 
+Interviewer: Your friend is excited to hear this. They then ask you about the other potential 
+benefits of opening up the pharmacy apart from the profitability that comes with the drug sales? 
+Candidate: As I mentioned earlier, the pharmacy can attract other customers to our supermarket 
+who were shopping at other pharmacies until now. When they come to the supermarket, they can 
+also make purchases of other products in the store. 
+Note: In this part of the interview, the interviewer wants the candidate to focus on additional 
+purchases made when the custon1ers are waiting for the drugs. If necessary, lead the candidate 
+in this direction. 
+....... Management 
+1111111111 Consulting 
+~?:~~,~~ Club 
+2010-2011 1
+st Year Case Book 
+72 
+
+
+===== PDF p27 =====
+'. 
+Interviewer: Okay. Another supermarket reported that sales (excluding drugs) went up 30% 
+when it opened a pharmacy. What do you think this Inay be due to? 
+Candidate: Drug purchase would force the customers to spend more time in the store. So while 
+they are waiting for their prescriptions to be filled, customers may be inclined to make impulse 
+purchases of other products. For our friend, this offers additional opportunity for increased 
+profits. 
+Incremental Sales =Total customers * Percentage buying drugs * A vg. monthly spend per 
+customer * (1 + 30%) 
+= 10,000 * 50% * ($1M110,000) * 1.30 = $150,000/month 
+Do we have information about the profit margins on the grocery and other products sold at the 
+supermarket? 
+Interviewer: I do not know the margins, but the supermarket has the following cost structure for 
+every dollar of sales: Fixed cost = $0.15, COGS = $0.75, salary of staff = $0.05. 
+Note: Candidate should recognize that only the COGS (variable costs) are relevant in this case 
+since the grocery store will not need to increase fixed costs to sustain the incremental sales. 
+Candidate: I think the only relevant cost for calculating incremental profitability is COGS. The 
+fixed costs will be incurred regardless. Also, if the additional sales do not require an increase in 
+the number of employees, then the salary costs remain unchanged. 
+So we are looking at a profit margin of 25% which means additional profitability of 
+$37,500/month ($150,000* .25) from the additional sales. This increased profitability will reduce 
+the payback period even further making the investment even more attractive. 
+Note: The candidate may choose to calculate the new payback period but it is not necessary. At 
+this point is should be obvious that opening up a pharmacy is a good decision IF you can at least 
+get your current customers to purchase their prescription drugs at the supermarket. 
+Phase 3: Execution strategies 
+Interviewer: Good. So what should your friend do to get customers to purchase drugs at the 
+pharmacy in his supermarket? 
+Note: This question can have many possible answers. Just make sure that the strategies 
+recommended are practical. Some possibilities include: loyalty programs, promotions, 
+advertising, etc. 
+Interviewer: Good! Do you have any questions for me? (This case does not require a final 
+recommendation) 
+-~--~~~ --
+~ 
+~---~ 
+..... Management 
+1111111111 Consulting 
+~~,!~I~:.~ Club 
+2010-2011 1 st Year Case Book 
+73 

@@ -1,0 +1,32 @@
+{
+  "case_id": "Kellogg_2012_12_shermer-pharma",
+  "school": "Kellogg",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2012.pdf",
+  "idx": 12,
+  "case_name": "Shermer Pharma",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Pharmaceuticals",
+  "difficulty": null,
+  "pdf_page_start": 102,
+  "pdf_page_end": 109,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    103,
+    104,
+    105,
+    106,
+    108,
+    109
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p103.png",
+    "exhibits/exhibit_p104.png",
+    "exhibits/exhibit_p105.png",
+    "exhibits/exhibit_p106.png",
+    "exhibits/exhibit_p108.png",
+    "exhibits/exhibit_p109.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2012\\12_shermer-pharma"
+}

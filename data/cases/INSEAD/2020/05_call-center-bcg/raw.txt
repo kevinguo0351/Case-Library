@@ -1,0 +1,264 @@
+===== PDF p38 =====
+ICC Handbook 2020 
+34 
+ 
+ 
+Required 
+no. of agents 
+Seasonal 
+pattern (%) 
+Gross/net ratio 
+(%) 
+Capacity 
+per agent 
+Working hours 
+per agent (sec) 
+Number of calls 
+per customer 
+Call 
+volume 
+Number of 
+diverted 
+customers 
+Working Time 
+Duration (%) 
+Average 
+settlement time 
+Call time 
+(sec) 
+Wrap-up time 
+(sec) 
+Difficulty: Easy 
+Quant: Easy 
+Company: BCG 
+ 
+9.5 Call Center 
+ 
+There is a company, let’s say a travel agency, that sets up a 
+centralized call center where all incoming phone calls from all 
+branches are diverted to. Shortly after setting up the call center, 
+the travel agency is virtually unreachable because of the large 
+amount of phone calls received. 
+ 
+Before answering any questions, the candidate should check if he/ 
+she completely understands the problem stated. The candidate 
+can ask additional questions if the problem is not completely clear. 
+ 
+The first question tests the candidate’s creativity and ability to 
+come up with more than one idea, at the same time it tests the use 
+of a structure, which helps coming up with more ideas. First, the 
+candidate should think of main causes, and then specify these 
+main causes in more detailed possibilities. 
+ 
+Interviewer: What could cause the overload of the call center? 
+Candidate: I believe there could be different types of reasons: 
+Caused by supply 
+Lack of call center agents (by sickness, by poor planning) 
+Poor organization of the call center (unstructured call-diverting) 
+ 
+Caused by technical difficulties 
+Calls are not transferred to the centralized call center 
+ 
+Caused by demand 
+Peak in client demand (more calls than expected due to international 
+affairs, high- season, bad weather…) 
+ 
+I: Let us assume that the overload in the call center is not caused 
+by technical problems or by peaks in demand, but is solely 
+caused by the fact that the amount of required agents does not 
+match the number of agents in the center. How would you 
+calculate the required number of call center agents needed to 
+fix the problem? 
+ 
+For this question, it  is  important  to  set  up  a  good  structure to 
+tackle it. Not a general structure, but one tailored to this specific 
+situation. This is one of the main things the interviewer tests with 
+this question: can the candidate set up a good structure, tailored 
+to the problem. Furthermore, the interviewer tests if the candidate 
+understands the problem and has some (business) judgment (e.g. 
+in this case: a call center agent is not productive 8 hours per day). 
+ 
+This answer first divides the required number of agents in volume 
+of calls, average time spent on a call and capacity per agent. The 
+next step would be to divide these three main parts into smaller 
+parts. For the volume of calls, the first important driver   is the 
+amount of diverted customers. Furthermore, customers can call 
+up more than once; this is called the average number   of calls per 
+customer. The third driver of the volume of calls is the 
+seasonal pattern. The average time spent on a call is simply the 
+duration of the call and the time needed by the agent to wrap up 
+the call (e.g. enter information in a computer). 
+ 
+FIGURE 1 (POSSIBLE ANSWER): 
+ 
+ 
+X 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
++ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+X 
+ 
+ 
+ 
+The capacity per agent starts of course with the working hours per 
+agent, but an agent is not 100% productive. There are several ways 
+to define the productivity, in this example the productivity  is split 
+up in two parts. The first is gross versus net working hours due to 
+lunch breaks etc. The second is “working time duration”, this is the 
+percentage of the time the agent actually is busy with a phone call. 
+An agent can be busier during prime time and less during other 
+hours of the day. 
+ 
+There is now a clear structure to show what drives the amount  of 
+agents needed, and therewith a way to calculate the required 
+amount of agents. 
+ 
+I: How many agents are required in week 20? 
+Most case interviews have some computation in them. To solve it, 
+the candidate will have to figure out the numbers for all parts of the 
+“driver-tree” to compute the required number of agents. There are 
+several ways to figure out the numbers. First of all, an interviewer 
+might give the candidate some data to start with, and he/she will 
+have to pick out the numbers to use in the calculation. Secondly, 
+the candidate can ask the interviewer for data, and thirdly the 
+candidate can make assumptions using  common  sense. The 
+candidate should always clearly state when he/she is making an 
+assumption and how he/she comes up with it. 
+
+
+===== PDF p39 =====
+ICC Handbook 2020 
+35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In this case interview, the following data is given by the interviewer: 
+ 
+CUMULATIVE NUMBER OF CUSTOMERS WHO ARE 
+DIVERTED TO THE CENTRALIZED CALL CENTER 
+Note: At the moment of set-up of the call center, the graph starts with 0. 
+ 
+ 
+1.200.000 
+ 
+1.000.000 
+ 
+800.000 
+ 
+600.000 
+ 
+400.000 
+ 
+200.000 
+ 
+0 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+Week 
+From this graph, the candidate can deduct the cumulative number 
+of   diverted  customers  in   week  20:  approximately 140.000 
+customers. So in week 20, there are 140.000 clients “in the 
+database of the call center”. To calculate the required number 
+of agents, other data in the driver-tree is needed, and the 
+candidate will have to figure it out. He/she can start off with asking 
+the interviewer for data, but it’s always best to make assumptions 
+and test these with the interviewer. For example: “I assume that 
+on average, a client has contact with an agent of the call center 
+twice per year, so the average number of calls per customer is 2”. 
+And: “I wonder if there are many more calls in week 20 versus the 
+other weeks of the year, for now I assume the seasonal pattern to  
+be  0%”.  The  candidate  then  calculates  the  calls’  volume: 
+140.000 / 52 * 2 + 0% = approximately 5.400 calls in week 20. 
+ 
+To determine the average settlement time, the candidate can ask 
+the interviewer for information. The interviewer may either tell the 
+candidate to make an assumption, or give the numbers. In this 
+case, these are given: “Monitoring talk- and wrap-up-time gave an 
+average call time of 240 seconds and an average wrap-up-time of 
+60 seconds per call”. This information gives the candidate the 
+average settlement time: 240 + 60 seconds = 5 minutes = 1/12 hour. 
+ 
+The last driver is the capacity per agent. The candidate can 
+assume that the number of hours an agent works is 40 per week. 
+To determine the gross/net ratio, the candidate could ask the 
+interviewer, though he/she could also easily make an assumption 
+on own experience: “I assume that of the 8 hours worked in a day, 
+approximately 1.5 hour is lost to lunch and other breaks. This 
+makes the gross/net ratio ~80% ((8-1.5)/8 = 81%). The last number 
+to figure out is the working time duration, this is a hard number  to 
+guess without knowledge of call centers, but the candidate could still 
+give it a try. The candidate should then ask the interviewer    if the 
+assumption is more or less right. From experience, the number is 
+~50%. This gives the capacity of an agent per week: 
+40 * 80% * 50% = 16 hours per week. 
+Now,  the candidate has all numbers to calculate the amount     of 
+agents needed in week 20. The candidate should not forget   to 
+use the same units for all parts of the equation (all in seconds, 
+hours, or weeks) and not make any unnecessary mistakes. In this 
+case, the number of agents needed in week 20 is: 5.400 calls 
+*1/12 hours per call / 16 hours per week = 28.1, so either 28 or 29 
+agents are needed. 
+ 
+I: There are no additional trained call center agents available. 
+What other ways can you think of to help the travel agency with 
+its telephone problem? 
+It is stated that the amount of required agents does not match the 
+number of agents in the center. However, since there are no 
+additional trained call center agents available, the candidate has 
+to find ways to decrease the amount of agents needed. 
+ 
+This question will test if the candidate really grasps the problem 
+and if he/she uses his/her structure in the right way. Looking again 
+at the structure, the answer is clear: There are three levers to 
+decrease the amount of agents needed: 
+ 
+1. Reduce the call volume 
+2. Reduce the average settlement time 
+3. Increase the capacity per agent 
+ 
+To determine specific solutions, the candidate needs creativity 
+and understanding of the problem. 
+ 
+On the first lever: 
+• Stop diverting the calls from branches to call center 
+(and divert back) 
+• Insert a computer-based menu which answers the most 
+frequently asked questions 
+ 
+A possible solution to the second lever is: 
+Reduce the wrap-up time by monitoring it, determine the most 
+common wrap-up actions and shorten these actions where 
+possible. For example introduction of a computer  application that 
+helps the agents with the standard wrap-up actions such as 
+“sending a brochure” 
+ 
+For the third lever, a possible solution would be: 
+Align planning of agents with actual demand for agents by 
+mobilizing more agents during peaks in client demand and less 
+during a low. This solution can be for example achieved by 
+stimulating the agents to work part-time. 
+Number of 
+cusotmers 

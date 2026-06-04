@@ -1,0 +1,302 @@
+===== PDF p118 =====
+Case 15: Pharma Corp 
+Prompt 
+A small pharmaceutical company with $5B in annual revenues and lean operations is looking to 
+invest $2B in its business.  
+ 
+What investment opportunities should they be looking at? 
+ 
+Guidance 
+Provide the following information upon request: 
+ 
+•  The candidate should ask what the business objective of the investment is. They are looking to 
+grow immediately, but sustainably 
+•  The company currently sells approximately 10 FDA regulated products across a number of 
+different therapeutic areas. Their geographic focus is the US. Steer the candidate to focus on US 
+opportunities only 
+•  If the candidate asks about in-house drug development capabilities or interest to expand outside 
+of pharmaceutical products (or anything else really), suggest that the CEO is open-minded and 
+wants to hear from you what opportunities may exist for its company 
+The candidate should provide a framework that touches the different investment opportunities that 
+may exist for this company. Possible options include, but may not be limited to: 
+•  Acquisition of a competitor  
+•  Acquisition of a new portfolio compound 
+•  Licensing of a new portfolio compound 
+•  JV for a new portfolio compound  
+•  In-house development of a new compound 
+•  Entering the generic market 
+•  Entering the diagnostic market or companion diagnostic market 
+•  Utilizing capital to increase operational efficiencies and cut costs  
+Strategy 
+McKinsey & Company 
+114 
+
+
+===== PDF p119 =====
+115 
+Prompt 
+Let’s take a closer look at the acquisition of a competitor and the acquisition of a new portfolio 
+compound. Could you provide me a table of pros/cons of each option? 
+ 
+Guidance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Strategy 
+McKinsey & Company 
+Case 15: Pharma Corp 
+•  Opportunity to increase margins due 
+to reduced competition 
+•  Potential for access to a drug 
+portfolio and pipeline 
+•  Corporate customer database 
+•  Talent pool access 
+•  New customers and sales reps 
+will need to be groomed and 
+trained 
+•  Potentially no in-house 
+expertise in disease area  
+•  Inflates lean operations / 
+backbone, potentially lowering 
+overall margins 
+•  Integration of products and 
+people required 
+•  Opportunity to select compound(s) 
+that best balance growth/risk/
+company position and overall 
+company portfolio composition 
+•  No or limited overhead associated 
+with purchase  
+Competitor 
+Acquisition 
+Pros 
+Cons 
+New Drug 
+Acquisition 
+•  Numerous other valid arguments can be made here in favor or against each option. A 
+candidate can distinguish himself here, by proactively pointing out trade-offs, keeping the 
+company’s lean operating model in mind, thinking high-level ($2B investment is 40% of 
+current revenues) and structuring thoughts clearly and easy to follow for the interviewer.    
+
+
+===== PDF p120 =====
+Case 15: Pharma Corp 
+Prompt 
+Pharma Corp.’s CEO thinks that the acquisition a specific new drug could really strengthen the 
+companies overall portfolio. He has already done some research and is fairly positive that they 
+could buy this drug for $2B.  
+ 
+How would you go about valuing this drug?  
+ 
+Guidance 
+Let the candidate brainstorm a bit (NPV, competitive valuation, etc.) before you provide information, 
+if he/she starts mentioning data that would allow him to value the company, begin to provide the 
+following information. Provide the following information:  
+•  Patient base: 150,000 (assume that is steady) 
+•  Patient dose: Twice daily, for life (irrelevant, just to add confusion) 
+•  For the 30-day supply, patient Co-Pay is $30 and equals 10% of total drug price (health insurance 
+covers the remainder 90%) 
+•  Net Margin: 75% 
+•  Competition: there’s only one competitor with a marginally inferior product 
+•  Expected market-share: since the competitor’s drug is only marginally inferior, the CEO expect to 
+acquire 50% of the market 
+Tell the candidate to calculate expected profits in year 1. If the candidate asks for sales beyond year 
+1, tell them that patent life of 10 years remaining, expecting similar sales. For simplicity’s sake, no 
+discounting is assumed.  
+ 
+Strategy 
+McKinsey & Company 
+116 
+
+
+===== PDF p121 =====
+Case 15: Pharma Corp 
+Guidance 
+Monthly revenues: 150,000 patients x $300 cost per patient = $45,000,000 per month 
+Since you have there is competitor whose drug is marginally inferior, you can capture half the 
+market: $22,500,000 per month 
+ 
+Yearly revenues: $22.5M *12 = $270M 
+ 
+Yearly profit: $270M*0.75 = $202.5M 
+ 
+10- year profit = ~$2B 
+ 
+Strategy 
+McKinsey & Company 
+117 
+
+
+===== PDF p122 =====
+Case 15: Pharma Corp 
+Prompt 
+ 
+Do you think this is a good investment opportunity? 
+Guidance 
+The candidate is expected to bring up the following: 
+ 
+•  Pros: This could be a profitable business if the client can achieve significantly more than 50% 
+market penetration, increases the margin or finds additional indications that widen the patient 
+pool 
+•  Cons: Under current assumptions, the full investment is returned after 10 years when discounting 
+is ignored. In reality the NPV would be significantly below $2B and profits would decline rapidly 
+after patent expiration 
+ 
+Strategy 
+McKinsey & Company 
+118 
+
+
+===== PDF p123 =====
+Case 15: Pharma Corp 
+Performance 
+Evaluation 
+Expected: 
+• 
+Provides a MECE framework, mentioning some growth options (investing within the company, 
+acquire a competitor, expand internationally, partner with another company, etc.) 
+• 
+Correctly answer all questions 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Quickly identifies that acquiring a competitor will not be a good deal for the client 
+• 
+Asks relevant clarifying questions right after the prompt is given 
+Excellent: 
+• 
+Completes all “Good “ requirements 
+• 
+Correctly calculates all parts of this case with minimum assistance from the interviewer 
+• 
+Keeps the interviewer engaged during the calculations and brainstorm sessions, demonstrating 
+strong communication skills 
+Strategy 
+119 
+McKinsey & Company 
+
+
+===== PDF p124 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+120 

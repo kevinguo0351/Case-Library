@@ -1,0 +1,206 @@
+===== PDF p46 =====
+Case 10: Euro Logistics
+UCLA Anderson Casebook 2016
+42
+Business Problem Statement
+Euro Logistics is a large logistics company.  They want to improve their customer satisfaction index.  What 
+should they do?
+Interviewer Guidance
+The candidate should provide a framework that touches upon the value chain of the company.  
+When he/she talks about customer satisfaction, he/she should consider that the customer evaluates the 
+company based on their experience with the service, from start to end.  When the candidate asks how 
+customers evaluate Euro Logistics service level, provide Exhibit A.
+The interviewer should lead/guide the case discussion using the structured question prompts that follow below.
+Question 1: [Present Exhibit A]  What can you conclude from this table? Is there a particular 
+country or measurement that should be of focus?
+The interviewer can provide the below additional information about scoring:
+•
+Billing: Bills should be provided within 30 days before due date without any billing mistakes.  Mistakes or delays 
+reduce the score.
+•
+Customer Service: All orders are received through a call center.  The call center is also used to answer any 
+questions that the customers might have.  Delays in answering calls and/or failing to provide accurate 
+information (the right answer) reduces the score.
+•
+Order Tracking: This is an online tool that allows customers to track their shipments in real time.  Lagged 
+information or lack of detailed information reduces the score.
+•
+Delivery Time:  Shipments are expected to be delivered on-schedule, without delay.  Daly reduces the score.
+The candidate should notice the following:
+•
+Billing and Order Tracking have the lowest average scores, and are considered important by most countries.
+•
+Customer Service is very important and highly rated.
+•
+Delivery Times have some bad ratings, but the delays are caused by delays in customs.  The only thing that 
+Euro Logistics can do is provide a more realistic delivery deadline/timeline.
+
+
+===== PDF p47 =====
+Case 10: Euro Logistics
+UCLA Anderson Casebook 2016
+43
+Exhibit A
+68
+80
+90
+60
+80
+100
+70
+80
+90
+0
+20
+40
+60
+80
+100
+Billing
+Customer Service
+Delivery Pme
+Sweden
+67
+75
+83
+0
+20
+40
+60
+80
+100
+Order Tracking
+Delivery Pme
+Customer Service
+Italy
+65
+75
+80
+0
+20
+40
+Ireland
+60
+80
+100
+Delivery Time
+Billing
+Customer Service
+Germany
+65
+70
+80
+0
+20
+40
+Netherlands
+Billing
+Delivery Pme
+Customer Service
+England
+69
+70
+85
+0
+20
+40
+60
+80   100
+Delivery Time
+Billing 
+Order Tracking
+Norway
+0
+20
+40
+France
+60
+80
+100
+Billing
+Customer Service
+Delivery Time
+65
+67
+73
+0
+20
+40
+Scotland
+60
+80
+100
+Billing
+Customer Service
+Order Tracking
+65
+70
+85
+0
+20
+40
+60
+80   100
+Order tracking
+Billing
+Delivery Time
+60
+80
+85
+0
+20
+40
+60
+80
+100
+Order Tracking
+Delivery Time
+Customer Service
+Customer Satisfaction Survey.
+The tables below represent a survey ﬁlled by over 250 companies. The charts shows in order of what is most important for the 
+companies in each country. Scores above 75 are considered good.
+
+
+===== PDF p48 =====
+Case 10: Euro Logistics
+UCLA Anderson Casebook 2016
+44
+Question 2: Euro Logistics wants to improve it’s Billing and Order Tracking systems. Our team 
+estimates that it will cost them €5M Euros to buy each of these new systems, but we estimate 
+that the new systems will reduce the churn rate (% of customers lost per year) by 20%.  
+Should they do it? What is the payback period of this investment?
+The interviewer can provide the following information upon request from the interviewee:
+•
+Current Yearly Revenue = €150M Euro 
+•
+Current Churn Rate = 25%
+•
+Net Margin = 30%
+•
+Goal: Pay back in less than two years
+Guidance
+•
+Revenue lost per year = €150M * 25% = €37.5M
+•
+Savings of the new system = €37.5M * 20% = €7.5M
+•
+Payback period = Investment ÷ Savings = €10M ÷ €7.5M = 1.3333 years, or about 1 year and 4 months
+The candidate should recommend investing in the new systems. 
+Performance and Evaluation
+Expected
+•
+Provides a MECE framework
+•
+Understands the table in Exhibit A and correctly recommends that the client focus on Billing and Order Tracking
+•
+Correctly calculates the payback period
+Good
+•
+Completes all “Expected” requirements
+•
+Asks relevant questions after the initial prompt is read
+Excellent
+•
+Completes all “Good” requirements
+•
+Provides a framework that touches at least four points of the company’s value chain

@@ -1,0 +1,22 @@
+{
+  "case_id": "Columbia_2006_17_cpg-company",
+  "school": "Columbia",
+  "year": "2006",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2006.pdf",
+  "idx": 17,
+  "case_name": "CPG Company",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Consumer Goods",
+  "difficulty": null,
+  "pdf_page_start": 63,
+  "pdf_page_end": 68,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    65
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p065.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2006\\17_cpg-company"
+}

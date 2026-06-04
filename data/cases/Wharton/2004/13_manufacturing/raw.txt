@@ -1,0 +1,108 @@
+===== PDF p30 =====
+CASE 13:  MANUFACTURING (BCG – Round 2)         
+ 
+ 
+ 
+ 
+Your client is a private company that manufactures switches for machine tools.  The switches 
+serve one purpose:  to stop the machine instantly.  Failure to do so may result in damage to the 
+machine and/or the machine operator.  Given the following constraints, how can the company 
+make more money? 
+• No changes can be made to the product line 
+• You only have your current customers  
+• No international expansion 
+ 
+Additional Information Provided After Relevant Questions: 
+ 
+• Our switches (and our competitors’ switches) have never failed.   
+• Our customers have dealt exclusively with us for several years, although there is no exclusivity 
+contract. 
+• The sales force has strong relationships with the customers, so they just take the orders each year. 
+• Cost of machine tools that our customer makes: $60,000. 
+ 
+Company 
+Price/switch 
+Mkt Share ($1B market) 
+Our Company 
+100 
+30% 
+Competitor 1 
+120 
+60% 
+Competitor 2 
+80 
+10% 
+ 
+ 
+ 
+25
+Interviewee’s Solution: 
+ 
+I asked for revenue information for us and our competitors (provided above).  When I asked about 
+perceived quality of our product, I was told that it is comparable to that of both our competitors.   
+ 
+I made an observation that customers are not very price sensitive and suggested raising the price of 
+our product 20 – 25%.  My interviewer asked why that number and not a bigger number, so I 
+defended my recommendation.  
+ 
+He then changed gears and asked me which company I would acquire if I could acquire one of 
+my competitors.   
+I mentioned anti-trust issues associated with acquiring Competitor 1.  Then I did the math and 
+determined that it would be advantageous to acquire Competitor 2 (C2) and raise the price of our 
+switches to $125.  This would provide increased revenue and would price us only 4% over our only 
+other competitor.  Other aspects of acquiring Competitor 2 include the risk of turning off C2’s 
+customers by a price increase, but they are unlikely to leave, since there is not much difference in 
+price between $125 (us & C2) and $120 (C1). 
+ 
+Commentary/Recommendations: 
+ 
+This is a common type of question that can be simply and effectively answered by using a standard 
+framework. I would approach it as follows: 
+ 
+If we are looking at increasing revenue then obviously we need to look at how we could increase 
+either the quantity sold or the price at which we sell our product. 
+ 
+
+
+===== PDF p31 =====
+Looking first at our quantity, it appears there are a number of restrictions. You have mentioned that we 
+have only our current customers and that we cannot expand internationally. Other things we would 
+need to know are: 
+• Do our current customers take all their product exclusively from us or do they take some 
+product from our competitors also? If they also take product from our competitors then we may 
+be able to increase our sales quantity by some sort of exclusivity arrangement – capturing all of 
+the demand from our existing customers.  
+• I would also want to know whether there are other machines at our existing customers’ 
+factories that are suitable for our product but where it has not been installed. If so then 
+convincing customers to install our product in these other machines would be another way to 
+increase sales and we may need to look at changing or adapting our sales force and marketing 
+strategy. 
+ 
+Next, I would look at ways that we can increase price. We are told that we can’t change the product so 
+we will need to determine if we can persuade our customers to pay more for the existing product. Do 
+we have any information on the prices and volumes sold by our competitors? (In response to this you 
+would expect to get the information provided in the case above) 
+ 
+We can see from our competitors’ sales data that the competitor with the highest price also has the 
+highest market share. This suggests that we may be able to increase our price without adversely 
+affecting our sales (in fact it may even increase our sales if price is seen by customers as a proxy for 
+quality) 
+ 
+Before recommending a price increase however I would want to understand if there are any other 
+factors justifying our competitor’s higher price and high market share. Do they have a bigger sales 
+force? Do they sell through different channels? Are they entrenched as the industry leader/standard? 
+Do they have better after sales service? Do we target a segment that is more price sensitive than our 
+competitor? [The answer to these questions may affect whether recommending a price increase is 
+appropriate. Given the way the case has been set up, it seems like the focus is going to be on price 
+elasticity so presumably most of these avenues would be closed down by the interviewer, but asking 
+these questions would help to complete the case answer in a MECE fashion.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26

@@ -1,0 +1,230 @@
+===== PDF p18 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 14 - 
+Case 3: Airline Promotion 
+ 
+ 
+BACKGROUND 
+ 
+Firm: Seabury Group 
+Round: 2008, Full-Time, First  
+Content: qualitative and quantitative 
+ 
+CASE QUESTION 
+ 
+Our client is a major airline with flights to and from the United States. The CEO has 
+hired Seabury Group to evaluate a promotional campaign for one of its routes, both in 
+terms of the economics and risks involved. The promotion aims to offer full fare 
+passengers a complimentary ticket for one child (under 14) on the same flight. Should 
+they implement this promotion?  
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: This is a typical Bain case (given by a former Bain 
+consultant), involving the airline industry. This was definitively a real case scenario, and 
+the interviewer had clearly had that experience before. Take the time to structure your 
+thoughts and discuss the case.  
+ 
+The interviewer was expecting the interviewee to structure a framework, which would 
+look at the big picture that any MBA should have in mind about the airline industry. A 
+strong candidate would have to arrive into final numbers as well as in a final conclusion. 
+Some important elements were: 
+- 
+Contribution margin (breaking down fixed and variable costs) 
+- 
+Consumer behavior 
+- 
+Market segmentation 
+ 
+In this case, the interviewee focuses only on the full-fare passengers.  The numbers would 
+be different if the interviewee focuses on both sets of fares.  For simplicity, try to make 
+the interviewee focus on the full fares. 
+ 
+Key facts:  
+o Seats available: 1,500,000/year 
+o Seats sold: 1,000,000/year 
+o Customer segmentation: Business (50%) and Leisure (50%) passengers 
+o Only two types of tickets:  
+ Full fare ($300 one way) 
+ Discount fare ($100 one way) 
+
+
+===== PDF p19 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 15 - 
+o Of Business passengers 100,000 fly discount, 400,000 fly full fare 
+o Marginal cost of $10 
+o Percentages of children are given in the case 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewee: (Summarize the case and work on a framework). This case requires us to 
+estimate the financial impact of this promotion – revenue, cost and profit – as well as the 
+risks involved. We want to anticipate any legal or governmental issue and competition 
+response, and evaluate internal constrains, consumer behavior and market demand.  
+ 
+Interviewer: OK. I have some data available if you need. How would you go about 
+estimating the economics of this promotion? 
+ 
+Interviewee: I will start this analysis by looking at Profit = Revenue – Cost. I will break 
+down Revenue and Costs respectively as Price * Volume and Fixed Cost + Variable Cost. 
+Let me start with Revenues. Although we could estimate the size of the market for this 
+route (to calculate for Volume), it might be more reasonable to look at the current 
+information the company has about this route. What is the current sales load factor of our 
+client’s route? 
+ 
+Interviewer: Our client offers 1,500,000 seats per year, of which only 1,000,000 are 
+usually sold (passengers that have actually flown during the year). 
+ 
+Interviewee: This represents a 66% load factor. In terms of pricing, how many different 
+fares does our client sell? I can think of First Class, Business, Economy, and Discounted. 
+ 
+Interviewer: Our client only has two different price points, Full fare and Discount. Full 
+fare is $300 one way and Discount is $100 one way. Discount fare is usually sold al least 
+3 weeks in advance of the departure date. 
+ 
+Interviewee: Do we know the share of each? 
+ 
+Interviewer: Fair enough. 40% of the customers travel with discount tickets.  
+ 
+Interviewee: So I am assuming 400,000 passengers were discount and 600,000 were full 
+fares. Let me estimate the total revenue.  
+ 
+400,000 discount passengers * $100 fare + 600,000 full-fare passengers * $300 fare  
+= $ 220,000,000 
+ 
+Interviewer: Perfect. What would the contribution margin be? 
+ 
+
+
+===== PDF p20 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 16 - 
+Interviewee: As I said before, I will break down costs in Fixed and Variable. Aircraft 
+leasing, crew, maintenance and airport staff are some of the fixed costs. Variable costs 
+are actually marginal, such as meals and ticketing. Fuel would be primarily fixed but 
+would also change according to the number of passengers. 
+ 
+Interviewer: What about if I told you that we outsource luggage handling? 
+ 
+Interviewee: Then it would become a variable cost. 
+ 
+Interviewer: Right. We ran some calculations and found out that the variable cost is $10. 
+ 
+Interviewee: So we should then segment the customer base to estimate the economics of 
+the promotion. Before I start doing so, let me discuss the possible outcomes of this 
+promotion: 
+ 
+- 
+Some of the current passengers might end up bringing their children for free, 
+without generating any additional revenue. 
+- 
+Business passengers might get upset with the increase in the number of children 
+on board. 
+- 
+Competition might start a price war. 
+- 
+Loss of revenue because current paying passengers (children) might get to travel 
+for free. 
+- 
+Customers might get used to the promotion (consumer behavior) which would 
+negatively impact the company in the case of a fare increase or cancellation of 
+this promotion. 
+ 
+Interviewer: Very good points. How would you go about segmenting the customer base 
+then? 
+ 
+Interviewee: I guess we could break it in business and leisure travelers. 
+ 
+Interviewer: That is correct. Out of the discount tickets, 100,000 are business travelers. 
+Out of the full fare, 400,000 are business travelers. 
+ 
+Interviewee: So basically on the other end of the 500,000 business travelers, we have 
+500,000 leisure travelers. We should also estimate the number of passengers that would 
+bring kids along. I believe we should only focus on full fare passengers because with a 
+fare of $300, even with an additional passenger for free the price would still be higher 
+then purchasing two discount tickets. 
+ 
+Interviewer: Good point. We ran a marketing research and found out that out of the 
+business travelers, only 10% would bring children. Out of the leisure passengers, on 
+
+
+===== PDF p21 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 17 - 
+average 50% of them have children but only 50% of those with children are currently 
+traveling with children. 
+ 
+Interviewee: Most likely will face the following scenario: 
+- 
+We will lose 50,000 paying passengers (current full-fare child leisure paying 
+passengers who would be flying for free with parents = 200,000 * 50% * 50%) 
+- 
+50,000 new passengers flying for free (leisure passengers = 200,000 * 50% * (1-
+50%) ) 
+- 
+40,000 new passengers flying for free (full-fare business passengers = 400,000 * 
+10%) 
+What do we know about new passengers that will be attracted by this promotion?  
+ 
+Interviewer: The research shows 150,000 new customers attracted by this campaign.  
+ 
+Interviewee: This is equal to an additional 300,000 passengers (150,000 paying 
+customers along with their children). Let’s see the total impact on margin: 
+ 
+ Total demand: 1,000,000 (existing) + 50,000 + 40,000 + 300,000 (new) = 
+1,390,000, this is still below total capacity of 1,500,000 passengers/year. 
+ Losing contributed income: 50,000 * ($300 - $10) = $14,500,000 in contribution 
+margin. 
+ Additional cost from non-revenue passengers: (50,000 + 40,000 + 150,000) * $10 
+=  $2,400,000 
+ Additional revenue from new passengers: 150,000 * 290 = $43,500,000 
+ Net additional margin = $43,500,000 – $14,500,000 – $2,400,000 = $26,600,000 
+ 
+Interviewer: Are you sure this is your final number? 
+ 
+Interviewee: Absolutely not. As I previously said, we should expect to lose some 
+business passengers which won’t be satisfied with the increase in the number of children 
+on-board. 
+ 
+Interviewer: Our research shows that 50,000 business passengers won’t fly with our 
+client anymore because of that. 
+ 
+Interviewee: This represents a loss of 50,000 * 290 of contribution margin or 
+$14,500,000. But still, our initial $26,600,000 - $14,500,000 = $12,100,000. 
+ 
+
+
+===== PDF p22 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 18 - 
+Interviewer: You are right. Before we analyze whether there are other costs that you 
+haven’t considered, what could our client do to minimize this loss of business 
+passengers? 
+ 
+Interviewee: Our client could try to create different lines for boarding, different check-in 
+lines and keep children seated in the back of the airplane. 
+ 
+Interviewer: I like your idea of different lines for boarding. Any other cost to be 
+considered? 
+ 
+Interviewee: We discussed the $12,100,000 of contribution margin, but we did not 
+discuss overheads and sales expenses. 
+ 
+Interviewer: Actually this promotion will cost our client $3,000,000 per year. 
+ 
+Interviewee: This leaves $9,100,000 as a net result of this promotion.  
+ 
+Interviewer: What is your conclusion? 
+ 
+Interviewee: I would recommend the promotion. 

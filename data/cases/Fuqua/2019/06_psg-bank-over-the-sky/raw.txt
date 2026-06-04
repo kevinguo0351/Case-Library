@@ -1,0 +1,447 @@
+===== PDF p85 =====
+PSG Bank over the sky!
+Industry:  
+Case Type:  
+Led by:
+81
+Personal Banking  
+Growth Strategy  
+Interviewer
+Quantitative Level: Medium
+Qualitative Level:
+Medium
+
+
+===== PDF p86 =====
+Behavioral Questions
+• Tell me about a time that you had a clear point of view and you had to change it?
+Question 1:
+• Tell me about a time you and another party had different points of views about how to  
+manage a situation and how did you moved forward?
+Question 2:
+82
+
+
+===== PDF p87 =====
+PSG Bank over the sky!
+• Your client is PSG - a Latin American private bank. It is one of the oldest banks
+within the region and, despite continuous growth throughout the years, its revenues
+have been constantly declining the past five years. The CEO of PSG is worried and
+has called you and your team to help her reverse this trend.
+Prompt #1:
+–
+Client/Company information: Company presence in most Latin American countries. Not interested in  
+expanding to other regions.
+–
+Industry/Competition information: PSG has two types of competitors. Other large and also “traditional”  
+banks and smaller “start-up” banks, with increasing presence in retail spaces. The latter are seen as an  
+important thread due to important product innovation, especially in credit card products and incentives.
+–
+Value Chain/Revenue information: PSG divides its operations in Retail (personal credit cards, personal
+loans), Commercial (small, medium and large firms products) and Products and Markets (Trading, project
+finance, forex, derivatives). Wewill not focus on deposits.
+–
+Objective: PSG had yearly revenues of around $10B in 2005. The strategy team has determined that it can  
+invest $500M per year for two years to reverse the observed continuous decline in income of 2% per year. By  
+“reverse”, the CEO means to have at least no decline: forecasts project a similar decline the next two years.  
+Profit margins (in %) have remainedconstant.
+Case Background:
+83
+
+
+===== PDF p88 =====
+PSG Bank over the sky!
+Framework Buckets:
+• It is a growth problem. Candidate should ask if there is only a revenue problem or also a margin
+one. Drive her or him into revenues.
+•
+We can divide the possible solutions in “internal” or “external” possibilities to make PSG recover  
+grow. However, since we are talking about banks, external factors like regulation have to be taken  
+into account
+• Inorganic Growth by mergers and acquisitions
+–
+Joint venture with other banks
+–
+Merger
+–
+Acquisition
+• Organic Growth within existing segments
+–
+“Quantity” sold
+•
+New core products: create new app for money transfers (like Venmo), create new loan types (e.g., “group loans”)
+•
+Other income sources: sell permitted data, third party advertising in branches, leverage direct marketing  
+advertising (include advertising in bank statements)
+•
+Growth in existing products: increase credit card usage, increase loan amounts, decrease default rates
+•
+New clients: gain customers from competition (e.g., buy debt from other banks) and / or increase banking
+penetration (people inside the banking system or get people that only have deposits)
+•
+Offer new products to current clients
+–
+Price (interest rates)
+•
+Increase interest rates (but checking price elasticity), increase differentfees
+• Other / external
+–
+Address regulations (both for permitted activities and risk exposure)
+84
+
+
+===== PDF p89 =====
+Exhibit #1
+• PSG bank revenues ($B)
+• PSG bank revenues ($B / year)
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+2001
+2002
+2003
+2004
+2005
+Retail  
+Commercial  
+Others
+6.0
+85
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+PSG bank revenues ($B)
+
+
+===== PDF p90 =====
+Interviewer guidance on Exhibits
+• Tell the candidate the client gave us growth  
+information on their total revenues and also the  
+breakdown by segment.
+• If curiosity also on profit margins arises (should  
+have been addressed before): Mention they  
+have been steady overall and by segments.
+• Candidate, in order to attain the objective,  
+should suggest: grow more in commercial and  
+others or stop the retail decline. Push on the  
+latter
+• Recall that the “forecast decline to be  
+maintained” is that we will continue losing $200  
+M per year
+– Basic
+•
+Its easy to check that total revenues have been declining  
+steadily. Should recall the “2% decline in revenues the  
+past five years” from the objective.
+•
+Push the candidate to give decline number / year but  
+with no need to make exact calculations. Shortcut:  
+“around 11B in 2005 and 10B in 2000, would be 10%  
+less in 5 years, which means around 2% decline / year,  
+ignoring compound growth”.
+•
+Notice that main driver for decline is RETAIL segment.
+-
+Second order insights
+-
+Push for the same logic: $6B to $4B in 5 years: around  
+50% of $4B, so around -10% year (exact numbers are -
+9.1% in retail and +9.3% in both commercial and  
+others)
+-
+Recall this was a “traditional” bank: “industry /
+competition” information. Probably what could be  
+happening is that smaller players are giving better deals  
+to retail customers (credit cards or loans).
+-
+Excellent candidate notices that Retail is now 40%  
+income: would need only soft the decrease rate to  
+achieve our goals and continue growing in other  
+segments. Push candidate to explore Retail segment as  
+suggested by client team (release the agenda!)
+Exhibit #1 Guidance:
+Analysis:
+86
+
+
+===== PDF p91 =====
+Exhibit #2
+• PSG bank Retail Revenue breakdown (in $B)
+87
+
+
+===== PDF p92 =====
+Interviewer guidance on Exhibits
+• Guidance for exhibit 2
+• This is an easy exhibit. It is only intended  
+to make the candidate rapidly notice that  
+credit card segment is bleeding and that  
+something has to be done (and prepare a  
+brainstorm!)
+• Push to avoid any calculations. The big  
+“so what” is that credit card segment is  
+loosing $500 M per year, and that has  
+happened the last five years.
+– Basic
+•
+We have to do something with credit cards! Fast!
+•
+Personal loans and “others” retail segments are small  
+compared to credit cards and increase slow. Even if we  
+duplicate each one in two years (which is not  
+reasonable), if we continue to loose money on credit  
+cards we won’t be able to attain our goal.
+-
+Second order insights
+-
+We are loosing $500M per year in credit cards… tie it  
+back somehow to the main objective. In a simplistic  
+way we need to “just loose” $300M to net the decrease  
+of $200M per year for the next two years. In a more  
+realistic observation, if we stop the decline in credit  
+cards, we would have achieved the bank’s objectives  for 
+the next two years.
+-
+So… what can we do with credit cards?
+Exhibit #2 Guidance:
+Analysis:
+88
+
+
+===== PDF p93 =====
+Brainstorming
+• Make the candidate briefly brainstorm on  
+what can we do to stop the huge  
+decrease on credit cards revenue?
+– High level brainstorming
+– “Quantity”
+•
+Retain customers
+–
+Loyalty programs
+–
+Exclusivity withinstitutions
+•
+Capture new customers
+–
+Marketing campaigns
+–
+Discounts to get newaccounts
+–
+Target new segments
+– “Price”
+•
+Increase revenue per customer
+–
+Increase fixed charges
+–
+Increase interest rate
+–
+Bundles or cross-subsidiesto increase purchases in  
+different types ofstores
+•
+Decrease default rate
+–
+Hire someone specialized to collect money
+–
+Sell customers with high default probabilityto other  
+institutions
+– Others
+•
+Joint venture with start-up
+•
+Acquire the credit card division of smaller bank
+Prompt:
+Analysis:
+89
+
+
+===== PDF p94 =====
+Market sizing ☺
+• The client’s team determined that they we are  
+losing customers in credit card segment  
+because of loyalty programs from competitors.  
+Customers were switching banks because of  
+credit cards that accumulated “miles” for each  
+purchase that PSG was not offering.
+• The client knew the market share of the banks  
+offering this deals was 1/3 of the total credit card  
+market (PSG also had 1/3 of the market)
+• The team estimated that they could maintain  
+100% of customers and revenue if a similar plan  
+was offered.
+• How would you calculate potential expense  
+of PSG in a similar program?
+• Hint: i) If we have 1/3 of the market and the  
+banks offering this also have 1/3, a good proxy  
+is to know how much they are spending! ii)  
+consider that, in this case, airlines have  
+contracts with average prices of flights bought  
+with miles (it could also be the case that airlines  
+charge a price per mile used by type of  
+destination. We consider the first case)
+• One of the most important parts of the  
+market sizing is to remember the “so  
+what”! Candidate should first delineate  
+her or his strategy for solving the problem  
+(lot of teamwork!) and then do the  
+numbers. Important parts of the sizing:
+– Miles accumulated and effectively used
+per month
+– Expense per month on domestic and  
+international flights by the bank  
+(remember the contract!)
+– Expense / year by PSG (remember banks  
+with this perks were 1/3 of market and  
+we have the same size)
+– So what: with this program we will “stop  
+losing clients” which with everything  
+constant is our goal! Have to compare  
+with the $500M / year we have to  
+expend!
+Prompt:
+Analysis:
+90
+
+
+===== PDF p95 =====
+Proposed market sizing solution…
+Bottom up
+Populationin countries of PSG bank
+80
+Populationthat could have a credit card
+75%from 18 years… if live expectancy up until 80 years. 75% of citizens
+Credit cards per person
+1make candidate assume1
+Expenses per person /Month
+1,000
+per month (assume / good candidate asks to extrapolate PSG's expense
+per person)
+Total expenses
+60,000
+Million (60 B)
+Market share of banks that offer miles programs
+1/3
+Total expenses that generate miles
+20,000
+Million (20 B)
+Miles accumulated per $expense
+1Mile
+Total Miles accumulated /month
+20,000
+Million MILES (20B)
+Miles effectivelyused
+50%Not that crazy… is not that you use half of your miles… is that you accumulate and
+then use your stock.However, are people that simply doesn't flight…
+Miles for transactionaccumulated/ month
+10,000
+Million
+Domestic flights (80%) / Internationalflights 20%
+Domestic flights costs
+Miles spent
+8,000
+Million miles
+Average miles required to buy Domestic flight
+50,000
+Miles
+Total domestic flights topurchase
+160,000
+flights (not inmillion)
+Avg cost negotiated w/airlinefor domestic flight
+100
+Total spent /month
+16
+Million$
+International flightscosts
+Miles spent
+2,000
+Million. Its1/3
+Average miles required to buy Intl flight
+100,000
+Miles
+Total intl flights topurchase
+20,000
+flights (not inmillion)
+Avg cost negotiated with airline for intl flight
+500
+Total spent /month
+10
+Million$
+Total spent Dom + Intl /month
+26
+Market share of PSG bank = 1/3 (the samesize!)
+26
+expected expense / month
+Expected expense / year to maintain customers!
+312
+$ MM expected expense /year
+91
+Top Down Approach…
+Total flightsin the market: domestic / international
+% of flights purchased by banks per type and cost per flight
+We do not have the latter information.So push candidate to do it bottom up
+
+
+===== PDF p96 =====
+Recommendation
+• The CEO of PSG bank just entered the room. She has a call in 5 minutes with
+stakeholders and is worried on the continuous revenue decrease of PSG and asks
+for your immediate advice for her call.
+Recommendation
+Risks and Next Steps:
+• Recommendation: make a loyalty plan for retailcustomers
+– Develop loyalty plan for retail customers (where we are losing $500M of revenues / year)
+based on giving miles per dollar spent. We will retain 100% of current customers
+– Yearly cost is around $312 / year, which is inside our budget
+• Risks: i) Loyalty plan works for competitors, but our customers could react differently to these  
+plans , ii) Potentially duplicating the demand of flights exchanged with credit card miles could  
+increase flights estimated costs, iii) Additional marketing efforts and human resources for the  
+loyalty plan could be hard to implement.
+• Next steps (remember… one next step for every risk!): i) Make a pilot to rapidly test the  
+loyalty program on our different customer segments, ii) Start conversations with airlines and draft  
+long term contracts leveraging on our size (monopsony power!) and iii) Train marketing direction  
+on best practices of loyalty programs and define if its necessary to create a new unit to implement  
+this initiative
+92
+
+
+===== PDF p97 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+Over thinks the numbers in the exhibits
+Get frustrated in the market sizing and forgets the “so
+what” of the numbers obtained
+Sees the case as a “finance” problem rather than a
+commercial / marketing problem
+Good Candidate
+Remember the objective is “to stop the declining in  
+revenues” and doesn’t get trapped with profits
+Doesn’t get frustrated if started with top-down market size
+approach and smoothly changes to bottom-up
+Excellent Candidate
+Ties the final cost of the mileage program to the budget the
+CEO initially had and the “no decrease” objective
+Is very coachable. There are lot of assumptions that we  
+sometimes have to make, taking into account market  
+knowledge
+Doesn’t get trapped in the math (exhibits) and make quick
+assumptions, “reading” the interviewer intentions
+Has creative options on how we could get the market back
+93

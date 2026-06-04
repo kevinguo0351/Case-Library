@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2013_03_orrington-office-supplies-oos",
+  "school": "Kellogg",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2013.pdf",
+  "idx": 3,
+  "case_name": "Orrington Office Supplies (OOS)",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Manufacturing / Retail",
+  "difficulty": null,
+  "pdf_page_start": 65,
+  "pdf_page_end": 72,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    66,
+    67,
+    70,
+    71,
+    72
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p067.png",
+    "exhibits/exhibit_p070.png",
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2013\\03_orrington-office-supplies-oos"
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "Anderson_2019_10_shermer-pharma",
+  "school": "Anderson",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2019.pdf",
+  "idx": 10,
+  "case_name": "Shermer Pharma",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Pharmaceutical",
+  "difficulty": null,
+  "pdf_page_start": 89,
+  "pdf_page_end": 96,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    89,
+    90,
+    91,
+    92,
+    94,
+    95
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p092.png",
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p095.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2019\\10_shermer-pharma"
+}

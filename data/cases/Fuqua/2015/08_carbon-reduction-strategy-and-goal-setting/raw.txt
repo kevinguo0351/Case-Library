@@ -1,0 +1,396 @@
+===== PDF p93 =====
+Deloitte Consulting LLP
+Deloitte Consulting LLP
+Case #8
+Mock Case:  GreenCo
+For Internal Use Only
+88
+
+
+===== PDF p94 =====
+- 90 -
+Carbon Reduction Strategy & Goal Setting
+Business Situation 
+Our client, GreenCo, is a $10B global manufacturer and retailer of high end outdoor apparel, with several well known 
+brands. The company has big growth aspirations: through organic and inorganic growth, GreenCo is hoping to grow from 
+$10B in revenue in FY11 to $15B by FY15. At the same time, the CEO has recognized their customers’ and investors’ 
+interest in being an environmentally sustainable company and has asked their Director of Sustainability to develop goals 
+for absolute reduction in carbon emissions despite the growth they have planned (as compared to a “Business As Usual” 
+(BAU) scenario). The CEO expects this to support the company’s overall sustainability vision, help ensure protection of 
+their brands’ value, and bolster the company’s market capitalization. 
+Problem Statement
+What specifically has the company engaged Deloitte to accomplish?
+Deloitte has been asked to help with understanding what the “Business as Usual” scenario would look like in terms of 
+energy consumption, energy spend, and carbon emissions as the company grows to $15B. This analysis includes 
+modeling different options for reducing carbon emissions and energy spend, and setting goals for carbon emissions 
+reductions. Specifically, there are five questions to answer:
+1. Without putting carbon reduction goals in place, how much carbon will the company emit and how much will it spend 
+on energy in 2015 (i.e., what is the Business as Usual scenario)? 
+2. What is the NPV of two potential project groupings that the company could implement? Discount rate of 10%,  
+Assume benefits and costs are immediately realized.
+3. Relative to the BAU scenario, what are the potential energy cost savings if the company chose to adopt a goal of      
+a) 0% absolute increase in emissions or, b) 5% decrease in emissions? Which of the two project groupings should 
+GreenCo pursue to achieve a goal of 5% decrease in emissions?
+4. What other factors should the company consider when setting goals and planning for the implementation? 
+
+
+===== PDF p95 =====
+- 91 -
+NPV Calculation
+Data Sheet
+Table 1 – Company FY11 Data
+Table 2 – Company Growth Data
+Table 3 - Potential Energy Efficiency Projects
+Project Groupings
+Energy Efficiency Project(s)
+CapEx
+Annual 
+Savings
+CO2-e 
+Reductions
+Lifetime
+Grouping 1 –
+Offices
+Lighting & HVAC Retrofits at all 
+Offices
+$4,000,000 
+$1,600,000  
+140,000
+5 Years
+Grouping 2 –
+Manufacturing & 
+Distribution 
+Solar Installations & other controls
+$41,500,000
+$4,400,000
+140,000
+Perpetuity
+Metric
+FY11
+Company Revenue
+$10 billion
+Locations
+Offices:
+Retail:
+Manuf. & Dist.: 
+Total:
+20
+600
+50
+670
+Energy 
+Consumption
+(millions kWh)
+Offices:
+Retail:
+Manuf. & Dist.: 
+Total:
+0.5
+4.0
+2.0
+6.5
+Energy Spend
+$65 million
+Carbon Emissions
+300,000 metric tons of CO2-e**
+Metric
+FY15 (Forecast)
+Company Revenue
+$15 billion
+Locations
+Offices:                
+Retail: 
+Manuf. & Dist.: 
+Total: 
+28
+900
+60    
+988
+** CO2-e is the unit measurement for carbon 
+emissions; one can assume that carbon emissions 
+are directly correlated to energy consumption
+** Assume discount rate of 10%
+
+
+===== PDF p96 =====
+- 92 -
+1. Without putting carbon reduction goals in place, how much carbon will the company emit and how much will it spend 
+on energy in 2015 (i.e., what is the Business as Usual scenario)? (items in red are the answers)
+Note:  a candidate may ask whether energy prices will stay the same.  This is a good question and they should make 
+assumptions.  For the illustration above, we assumed that energy will stay constant at $0.10 per kWh.  A candidate may wish to 
+assume some increase in energy prices, which is perfectly ok (but would make the analysis more complex).
+Answer to questions – one sheet for each question
+Metric
+FY11
+FY15
+Rationale
+Company
+Revenue
+$10 billion
+$15 billion
+Locations
+Offices: 20
+Retail: 600
+Manufacturing & Dist.: 50
+Total: 670
+Offices:28
+Retail: 900
+Manuf. & Dist.: 60
+Total: 988
+Energy 
+Consumption
+Offices: 0.5 million kWh
+Retail: 4.0 million kWh
+Manuf. & Dist.: 2.0 million kWh
+Total: 6.5 million kWh
+Offices: 0.7 million kWh
+Retail: 6.0 million kWh
+Manuf. & Dist.: 2.4 million kWh
+Total: 9.1 million kWh
+The ratio of number of offices to 
+consumption from offices can be used 
+to extrapolate FY15 consumption 
+based on a higher number of offices.  
+Same logic applies for other location 
+types
+Energy 
+Spend
+$65 million
+$91 million
+If 6.5 million kWh cost $65 million in 
+FY11, one could project that, if energy 
+costs stay the same, the FY15 energy 
+consumption will translate to $91 
+million in energy spend
+Carbon 
+Emissions
+300,000 metric tons of CO2-e
+420,000 metric tons of CO2-e
+Ratio of FY11 emissions to FY11 
+energy consumption can be used to 
+estimate FY15 emissions based on 
+FY15 consumption
+
+
+===== PDF p97 =====
+- 93 -
+2. What is the NPV of two potential project groupings that the company could implement? Discount rate of 10%
+Assume benefits and costs are immediately realized.
+Note to interviewer: Ask the candidate for the approach that they would take.  Do not ask them to do the NPV 
+calculation, it will take too long for the allotted time. Discount rate is 10% - if asked.  Investment and payback 
+both happen in FY11.
+•
+Candidate should calculate the NPV of each of the two scenarios that the company could implement. Given the NPV 
+(and other considerations), the candidate should make a recommendation on which grouping the Director of 
+Sustainability should implement.
+•
+Grouping 1: 
+Using the NPV formula,
+NPV = 1.6 M + 1.6M/1.1 + 1.6M/1.21 + 1.6M/1.331 + 1.6M/1.46 less upfront costs (FY11-FY15)
+Just have the candidate set up the formula.  Once they have the concept and formula correct, 
+provide the information that the PV of the cash flows from cost savings is $6.7 MM
+Candidate can then subtract the upfront costs to get NPV: $6.7 MM - $4 M = $2.7 MM
+•
+Grouping 2
+Using the perpetuity formula, 
+𝐶
+𝑖
+NPV = (4,400,000)/.1 – 41.5M = 44 M – 41.5M = $2.5 M
+•
+Based on this, Grouping 1 has the best NPV.
+•
+Candidates may also ask about upfront capital constraints. Given unlimited capital, a candidate could argue that the 
+company should implement both options since they are all positive NPV.  
+•
+Candidates should also consider the lifetime of these investments; different companies may want payback within a 
+shorter time horizon even though the project will last in perpetuity.
+Answer to questions – one sheet for each question
+
+
+===== PDF p98 =====
+- 94 -
+3. Relative to the BAU scenario, what are the potential energy cost savings if the company chose to adopt a goal of      
+a) 0% absolute increase in emissions or, b) 5% decrease in emissions? Which of the two project groupings should 
+GreenCo pursue to achieve a goal of 5% decrease in emissions?
+•
+Using the projected energy spend in 2015 under the business as usual scenario from question 1, the candidate 
+should then calculate the potential energy spend if the company were to adopt one of two goals – 0% reduction in 
+absolute emissions from 2011and 5% reduction.  
+•
+Assuming emissions are directly correlated to energy consumption (as noted in the data tables) and the cost of 
+energy stays constant:
+•
+A 0% increase in absolute emissions would equate to a 0% change in energy consumption.  Energy spend 
+would stay at $65 million, resulting in a savings of $26 million ($91 million - $65 million).
+•
+A 5% reduction in emissions, following the same logic, would equate to a 5% reduction in energy 
+consumption (and thus spend).   Spend would be reduced by 5% to $61.75 million ($65M * 95%) and thus the 
+savings from the Business as Usual number of $91 million is $29.25 million 
+•
+Critical points for the candidate to hit on include the business as usual costs and the potential costs at each level of 
+reductions.
+•
+To get at the answer, the candidate will:
+•
+Convert historical and future energy consumption into carbon emissions
+•
+Convert future consumption into projected spend
+•
+Convert future carbon emissions amounts at each of the three goals back into energy consumption, and then 
+into energy spend at each of the three goal levels
+•
+Subtract energy spend at each of the three goal levels from the spend in the business as usual scenario
+•
+Being methodical will be critical to this question; there are several variables that must be addressed in logical order
+Answer to questions – one sheet for each question
+
+
+===== PDF p99 =====
+- 95 -
+3. (continued)  Which of the two project groupings should GreenCo pursue to achieve a goal of 5% decrease in 
+emissions?
+•
+BAU carbon emissions are forecasted to be 420,000 MT CO2 –e
+•
+A 5% reduction target would require a 135,000 MT reduction (420,000 MT – 285,000 MT), which could be 
+accomplished by both project groupings (140,000 MT each).  
+•
+Since both Grouping 1 and 2 offer the same carbon emissions savings potential, the candidate should choose the one 
+with the better NPV, which is Grouping 1.  
+In addition to getting the NPV calculation right and getting to a recommended goal, a great answer would include:
+•
+Balancing NPV with the non-financial benefits (i.e., carbon emissions) to ensure the goal makes sense from a 
+financial and non-financial (e.g., stakeholder expectations) perspective
+•
+Benchmarking these goals against those of their peers and competitors in the marketplace to understand whether 
+these goals will help meet stakeholder expectations
+Answer to questions – one sheet for each question
+
+
+===== PDF p100 =====
+- 96 -
+4.   What other factors should the company consider when setting goals and planning for the implementation? 
+•
+Key points may include
+•
+Additional Financial Considerations
+•
+Length of availability of tax credits & incentives
+•
+Availability of capital (Grouping 3 requires a very large upfront investment)
+•
+Organizational 
+•
+Internal appetite for adoption of these goals
+•
+External stakeholder expectations
+•
+Management commitment
+•
+Alignment with CEO’s vision
+•
+Operational
+•
+Creation of an implementation roadmap
+•
+Measurement & verification of results (i.e., cost savings, carbon emissions reductions)
+Answer to questions – one sheet for each question
+
+
+===== PDF p101 =====
+- 97 -
+Wrap up
+Wrap Up  
+Deloitte is considered a strategic advisor on sustainability issues
+We differentiate ourselves from our competition by grounding the conversation in business terms, including NPV and 
+other drivers of financial and strategic value
+In this case, Deloitte was brought in to help “sell” the cause to the organization, and having the financial rigor behind 
+the carbon emissions goals was critical to ensure adoption among the executives
+The Deloitte team assisted the client by:
+Creating a business as usual model based on growth plans and historical energy consumption and spend
+Benchmarking what other companies (and peers) are doing in this space to demonstrate sustainability 
+leadership)
+Modeling the costs and benefits of different goal scenarios
+Developing an implementation roadmap, including potential challenges and roadblocks for executive level 
+discussion
+Supporting communication of the goals to the rest of the organization
+Deloitte is viewed as a trusted advisor to the client and is now working on other areas related to the company’s 
+sustainability strategy, including water use risk assessments and waste footprints
+
+
+===== PDF p102 =====
+- 98 -
+NPV Calculation
+Data Sheet
+Table 1 – Company FY11 Data
+Table 2 – Company Growth Data
+Table 3 - Potential Energy Efficiency Projects
+Project Groupings
+Energy Efficiency Project(s)
+CapEx
+Annual 
+Savings
+CO2-e 
+Reductions
+Lifetime
+Grouping 1 –
+Offices
+Lighting & HVAC Retrofits at all 
+Offices
+$4,000,000 
+$1,600,000  
+140,000
+5 Years
+Grouping 2 –
+Manufacturing & 
+Distribution 
+Solar Installations & other controls
+$41,500,000
+$4,400,000
+140,000
+Perpetuity
+Metric
+FY11
+Company Revenue
+$10 billion
+Locations
+Offices:
+Retail:
+Manuf. & Dist.: 
+Total:
+20
+600
+50
+670
+Energy 
+Consumption
+(millions kWh)
+Offices:
+Retail:
+Manuf. & Dist.: 
+Total:
+0.5
+4.0
+2.0
+6.5
+Energy Spend
+$65 million
+Carbon Emissions
+300,000 metric tons of CO2-e**
+Metric
+FY15 (Forecast)
+Company Revenue
+$15 billion
+Locations
+Offices:                
+Retail: 
+Manuf. & Dist.: 
+Total: 
+28
+900
+60    
+988
+** CO2-e is the unit measurement for carbon emissions; 
+one can assume that carbon emissions are directly 
+correlated to energy consumption
+** Assume discount rate of 10%

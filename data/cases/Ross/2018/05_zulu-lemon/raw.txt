@@ -1,0 +1,169 @@
+===== PDF p57 =====
+53
+Case 5: Zulu-Lemon
+CPG | Cost Reduction
+Case Prompt
+Our client is a major US fitness apparel manufacturer that has recently lost market share due to 
+rising costs. Due to lower margin and company earnings, activist investors have threatened to 
+place the company for sale. The CEO feels that the true potential will be lost if the company is 
+sold to a large retail house and has hired you to  help figure out its strategy. First, we want to 
+make sure we’ve identified all potential cost saving levers. 
+Interviewer Guidance
+The case will involve brainstorming on reasons for declining profits. After candidate has 
+prepared an exhaustive list of savings opportunities, hand Exhibit 1. This will lead the candidate 
+to arrive at changing the fabric composition of the apparel. Include mathematical calculations to 
+calculate cost composition of apparel and expected impact of changing composition of fabrics. 
+Final recommendation to include changing composition and expected increase in profit margin.
+Concepts Tested
+Industry knowledge, Chart reading, Quant analysis
+
+
+===== PDF p58 =====
+54
+Case 5: Zulu-Lemon
+CPG | Cost Reduction
+Clarifying Information
+•
+Region: US only
+•
+Value Chain: End to End; 
+-
+Manufacturing
+-
+Distribution
+-
+Retail
+•
+Segment: Fitness; Yoga
+•
+Customer: High end; currently retailing leggings at 
+$80
+•
+Products: Workout gear
+•
+Competition: Pioneer in the industry, recently 2 new 
+companies have been gaining market share
+•
+Volume: 5 million (per year)
+Guide to case
+Part 1: Brainstorming
+•
+The candidate should first put together an exhaustive 
+list of all cost saving strategies for the client. Good 
+answers should include:
+-
+Procurement/Fabric cost
+-
+Production cost
+-
+Distribution cost
+-
+Marketing cost
+-
+Store operations/personnel cost
+Part 2: Hand Exhibit to interviewer
+•
+The candidate should be able to sort through the 2 
+tables and identify that our product has higher 
+composition of Material 1, and reducing to Material 
+2 will reduce cost. 
+Part 3: Quantitative discussion
+•
+The candidate should be able to calculate the net 
+impact of changing the composition to be $25.4M
+
+
+===== PDF p59 =====
+55
+Case 5: Zulu-Lemon
+CPG | Cost Reduction
+Material composition and additional data
+Name
+Material 1 
+(%)
+Material 2
+(%)
+Material 3
+(%)
+Material 4
+(%)
+Zulu lemon
+20
+33
+30
+17
+Over Armor
+19
+21
+28
+32
+Crooks 
+22
+20
+27
+31
+Material Name
+Largest exporter
+Import duty
+(%)
+Price
+($/kg)
+Hazardous
+Material 1
+India
+14%
+140
+No
+Material 2
+China
+16%
+240
+No
+Material 3
+Brazil
+15%
+220
+No
+Material 4
+Peru
+16%
+110
+No
+* Total material composition (100% = 150g)
+
+
+===== PDF p60 =====
+56
+Case 5: Zulu-Lemon
+CPG | Cost Reduction
+Math Solution
+The candidate should calculate the reduction in price caused by decreasing Material 2 by 12% and increasing Material 4 by 
+15%
+Material 2:
+Total decrease in weight of Material 2 = (Change in percentage) * Total weight
+= (33-21%) * 150 = 31.5g
+Total $ reduction due to Material 2 =  (Total decrease in weight) * Price
+= 31.5 * 240 / 1000 = $7.56
+Material 4:
+Total increase in weight of Material 4 = (Change in percentage) * Total weight
+= (32-17%) * 150 = 22.5g
+Total $ reduction due to Material 4 =  (Total increase in weight) * Price
+= 22.5 * 110 / 1000 = $2.48
+Net change in price = $(7.56-2.48) = $5.08
+Total impact = Net savings * Volume = 5.08*5M = $25.4M
+
+
+===== PDF p61 =====
+57
+Case 5: Zulu-Lemon
+CPG | Cost Reduction
+Recommendation
+•
+Zulu lemons current declining profit margin is due to its high cost of raw materials. By 
+changing the composition of its fabric, it can receive cost savings of $25.4M. 
+•
+Risks involve loss of quality/customer, down fall of trade relations with Peru, supply of 
+Material 4, investments into change in production
+•
+Next steps could include: Prepare sample apparel with new composition, Research ability to 
+procure increased volumes of material 4 

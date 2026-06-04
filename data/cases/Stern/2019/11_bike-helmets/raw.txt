@@ -1,0 +1,242 @@
+===== PDF p128 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+124
+Case Overview:
+Industry: Manufacturing
+Case Type: Investment 
+Decision
+Concepts Tested:
+•
+Market Sizing
+•
+Valuation
+Overview Information for Interviewer:
+This case is designed to see how the candidate thinks. The 
+candidate needs to make assumptions and justify them 
+throughout. 
+There is no “correct” answer for this case. A good candidate will 
+identify and weigh factors that are both for and against the 
+investment and decide which decision makes more sense.
+Case Prompt: 
+Your client is a private equity firm considering purchasing a firm that makes bicycle helmets. You 
+have been hired to help advise whether or not to make the acquisition. 
+Case Style: Interviewee Led
+Difficulty: Medium
+Bike Helmets
+
+
+===== PDF p129 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+125
+Clarifying Info: 
+TARGET COMPANY
+•
+The company only sells its products in the U.S.
+•
+The company currently has an estimated market share 
+of 60% of helmets sold in the U.S.
+•
+The company has had a string of ineffective CEOs
+•
+The company’s helmets have an average price of $30
+•
+Helmet prices are not expected to change in the future.
+•
+If candidate asks about acquisition price, tell them they 
+will get that information later
+MARKET
+•
+The market is mature with few new entrants
+•
+U.S. regulations require all riders under the age of 18 to 
+wear a helmet
+PE FIRM
+•
+Holds companies for an average of 7 years
+•
+Has an return target of 10%/year
+•
+Also owns a bicycle manufacturer (possible synergies 
+unknown)
+Interviewer Guide:
+A good framework will consider:
+o Value of Target Company
+o Valuation Method (DCF, 
+comparables)
+o Revenue/Cost/Profit
+o Growth
+o Market Size
+o Top-down (starting with 
+population) will be more 
+common, but there may be 
+bottom-up approaches too
+o Acquisition Structure
+o Consider the timeline of value 
+creation
+o Traditional PE cash flow 
+investment structure
+o Ownership Synergies
+o Consider possible synergies 
+with other companies in the PE 
+firm’s portfolio
+Bike Helmets: Case Guide
+
+
+===== PDF p130 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Sample Market Size:
+This is only an example. As long as candidate can back up their assumptions, let them 
+continue with their own numbers.
+Once candidate has gotten the market size, guide candidate into valuing the company using 
+comparable recent sales. When candidate asks for data, give them Exhibit #1.
+126
+Bike Helmets: Market Sizing
+Variables
+Source
+Calculations
+U.S. population
+Assumed
+320M 
+% of population that rides bikes
+Assumed
+50%
+% of riders that wear helmets
+Assumed
+50%
+# years to replace helmet
+Assumed
+2
+Total market size in # helmets 
+(US pop.) x (% bike riders) / (years 
+to replacement)
+40M / yr
+Average helmet price
+Given
+$30
+Total market size in $
+# market size x price
+$1.2B / yr
+
+
+===== PDF p131 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+127
+Notes to Interviewer:
+•
+Candidate should automatically calculate price/revenue ratio. Then the candidate can choose how many/ 
+which comparable companies to use. Challenge candidate on their choices – as long as they can justify 
+their selection, the answer is “correct”.
+•
+Candidate should notice that the Price/Revenue ratio has been increasing over time.
+•
+The candidate then should have an estimate as to what price the target company can be acquired at
+•
+Price = Market Size * Market Share * Revenue Multiple
+•
+They should then look to calculate the cash flows post-acquisition without needing a prompt
+Bike Helmets: Interviewer Guide to Exhibit 1
+Company X
+Company Y
+Company Z
+Year
+2011
+2014
+2017
+Revenue @ Sale Year
+$700
+$1,500
+$1,200
+Price
+$350
+$1,000
+$1,800
+Price/Rev. Ratio
+1:2
+2:3
+3:2
+(amounts in millions)
+
+
+===== PDF p132 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Notes to Interviewer:
+As the candidate begins to attempt to determine the returns from the acquisition, ensure that 
+they are accounting for both cash flows during the holding period and the final sale price.  
+Push the candidate to address a few factors that effect both cash flows.  A strong candidate 
+may recognize potential for synergies with other portfolio companies.
+When the candidate attempts to find a way to calculate the sale price, tell them that they’ve 
+already done some previous research and have determined that the company will be able to 
+be sold in 9 years with an annualized return of 9%.
+The candidate should remember that our client is a PE firm that holds investments for an 
+average of 7 years with typical returns of 10%.  After some discussion, ask for an overall 
+recommendation.
+128
+Bike Helmets: Divesting the Company
+
+
+===== PDF p133 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+129
+Support for Buy:
+•
+Safe and stable industry
+•
+With prior mismanagement, 
+there may be potential to 
+increase return
+•
+Synergies possible with 
+bicycle company in portfolio
+•
+Ability to invest a lot of 
+money
+Bonus: Guide to an excellent case
+•
+A great candidate will acknowledge the ambiguity in this case and reach a conclusion while 
+making reasonable assumptions and considering the issues that may arise. 
+•
+A great candidate will clearly state why one side has more support than the other and maintain 
+consistency throughout their structured analysis.
+Support for No Buy:
+•
+Return is lower than average
+•
+Hold period is longer than 
+average
+•
+Not much potential for growth 
+in mature industry
+Next Steps:
+If buy:
+•
+Do further due diligence
+If no buy:
+•
+Look for alternative 
+investments
+•
+Negotiate lower selling price
+Bike Helmets: Recommendation
+
+
+===== PDF p134 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+130
+Company X
+Company Y
+Company Z
+Year
+2008
+2013
+2015
+Revenue @ Sale Year
+$1,200
+$1,500
+$700
+Price
+$1,800
+$1,000
+$350
+Bike Helmets: Exhibit 1
+Recent Sales of Similar Manufacturing Companies
+(amounts in millions)

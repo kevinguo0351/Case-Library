@@ -1,0 +1,99 @@
+===== PDF p106 =====
+Casebook | 2019-20 Edition 
+102 
+ 
+15. VAT Tax Processing (Bain R2, Private Equity, M&A, Qualitative) 
+Note: This is a conversational case that is testing the candidate’s ability to talk through a problem logically 
+and think through various drivers. Encourage the candidate to think creatively and logically about all 
+aspects of the case. 
+ 
+Stem: Our client is a PE fund who is considering buying a Value Added Tax (VAT) processing company. 
+A VAT is a form of consumption tax that is utilized is many countries outside the US. Foreign travelers are 
+entitled to a refund on the VAT of purchased durable goods that they plan on taking out of the country. 
+Refunds can be obtained by mailing in a VAT refund form, which can take 4 – 12 weeks, or by taking the 
+VAT refund form to a processing kiosk at their departing airport. 
+ 
+The target makes money by operating refund-processing kiosks in 36 countries and taking a 25% 
+commission on any transaction. The target has an 85% market share for VAT refund-processing kiosks. 
+The PE firm is concerned about their ability to grow the company and wants our opinion on potential 
+growth and risks, particularly those that are outside of their control. The target has been in business for 
+over fifty years, since post WWII, and the management team is comprised of 20-year veterans. 
+ 
+Note: If candidate asks, clarify the VAT business model with an example. “If I travel to the EU, and I buy 
+something in a VAT country, I ask for a VAT refund form. I complete the form and take it to customs. They 
+verify the goods and the form, and stamp it. I then take the stamped form to a VAT refund processor, who 
+then gives me 75% of the refund value on the spot. The processor then sends the receipt to the 
+government and collects the full VAT, thus earning a 25% commission. In EU countries, the VAT is 
+eligible for non-EU citizens who are taking products out of the country.” 
+ 
+Candidate should develop a framework that includes profit growth (revenues and costs) and risks. 
+ 
+Interviewer: Let’s start on the revenue side, what do you think is the biggest opportunity? 
+ 
+Candidate: The main drivers of revenue are the number of transactions processed, the value of the 
+refund, and our commission rate. The value on each receipt is out of our control. I know that when I 
+travel, VAT tends to be an afterthought. This leads me to believe that volume of transactions is the 
+biggest opportunity. Transaction volume would be driven by the percentage of people that are aware of 
+VAT, and the percentage that actually redeem. Do we know what percentages of travelers are aware of 
+VAT? 
+ 
+Interviewer: We know that 40% of VAT purchasers are aware of the refund. 
+Candidate: Do we know of those that are aware, what percentage actually redeem? 
+Interviewer: 50%. 
+Candidate: That means only 20% of the potential transactions that could be processed are. If we can 
+increase this to 30%, that would be a 50% increase in revenue. 
+Interviewer: Great. And what do you think are some ways to drive additional transaction volume? 
+ 
+Candidate: Customer awareness, ease of transaction, and promotion. Awareness may include: retailer 
+incentives to inform customers; general marketing, online marketing on travel websites, target online 
+presence, social media. Ease of transaction may include: moving the kiosks out of airports and into cities 
+or retail hubs where people can obtain immediate refunds and avoid lines, online refunds, or streamlining 
+the in-airport refund process. Also, promotions, such as quicker refunds, get an additional percentage 
+back. 
+ 
+If candidate then tries to go to price as a revenue driver (e.g., commission percentage), push them to 
+determine whether or not price is a big factor, and what determines price. Ask whether or not customers 
+would be price elastic or inelastic. The correct answer is inelastic because 1: there are few other players 
+
+
+===== PDF p107 =====
+Casebook | 2019-20 Edition 
+103 
+ 
+in the market, and 2: VAT refunds are like free money. Should they raise prices...? Open ended. 
+ 
+Interviewer: Great. Now let’s look at the cost side. What do you think some of the costs are? 
+ 
+Candidate: On the fixed side, I would think primarily overhead costs such as finance, sales, marketing, 
+and administration. Also, the costs of the kiosks and kiosk support staff. On the variable side, I would 
+think about any transaction costs such as processing, paper, and any fees we pay. You mentioned the 
+company has been operating for 50+ years, and the management team has been in place for 20+ years. I 
+would hypothesize that they haven’t shaken up their cost structure in quite a while. 
+ 
+Interviewer: What do you think the biggest opportunity is? 
+ 
+Candidate: This sounds like a primarily fixed cost business, where the number of transactions doesn’t 
+really affect our bottom line. We could reduce fixed costs by centralizing operations or technology. We 
+could also look at ways to automate administrative processes, reducing the need for staff. Another big 
+opportunity could be in creating a web-based system for redemption, reducing the need for kiosks and 
+kiosk staff. 
+ 
+Interviewer: Ok, now let’s talk about risks. What do you think? 
+ 
+I think there are three buckets: regulatory, macroeconomic, and competition. 
+ 
+● 
+Regulatory: There is a chance that the government might want to take a piece of the action. Or 
+they could nationalize in certain countries, or take away VAT overall, or change the VAT 
+redemption policies. 
+● 
+Macroeconomic: I know VAT is largely driven off of tourism and international travel, which is 
+cyclical based on the economy. If there is a recession in 3 – 5 years, it may be tough for our 
+target to make money regardless of what the PE firm does. 
+● 
+Competition: For competitors, the fact that we have 85% market share is a bit surprising. It 
+doesn’t sound like there are any real barriers to entry here. I would worry about an upstart 
+competitor coming in with a new model and a better cost structure that is able to undercut us and 
+take share. 
+ 
+There is no formal recommendation at the end of this case. 

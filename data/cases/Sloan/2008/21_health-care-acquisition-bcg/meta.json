@@ -1,0 +1,24 @@
+{
+  "case_id": "Sloan_2008_21_health-care-acquisition-bcg",
+  "school": "Sloan",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2008.pdf",
+  "idx": 21,
+  "case_name": "Health Care Acquisition (BCG)",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 119,
+  "pdf_page_end": 122,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    121,
+    122
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p121.png",
+    "exhibits/exhibit_p122.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2008\\21_health-care-acquisition-bcg"
+}

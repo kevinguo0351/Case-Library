@@ -1,0 +1,238 @@
+===== PDF p50 =====
+Problem Statement Narrative 
+ 
+Our client is a $500M machine manufacturing company with 5 business units in the U.S. He hired us to work with the Electronic Machines 
+division, which is a $25M business and 5% EBITA.  
+ 
+He envisioned to grow the division to a $100M business and 20% EBITA. This machines are used to manipulate steel  in different industries 
+(not relevant which industries) and are about the size of a PC. 
+ 
+The client wants to know whether this goal is possible or what he should do with this business unit. 
+ 
+How would you approach this question and what would you recommend him? 
+The information provided in the statement is all the candidate receives at this point. Once the candidate asks the right questions, 
+information should be given (see next page).  
+Case 5: Electronic Machines Division Turnaround 
+Introduction 
+46 
+How would you approach this question and what would you recommend him? 
+The candidate should : 
+•  Understand the problem and  what 5% EBITA means 
+•  Explore the industry (introduction of new technology), competitors (2 big players), and sales channel (distribution) 
+Focus next on how to increase revenues, then how to improve profitability (reducing costs) 
+46 
+Information to be Provided Up Front 
+
+
+===== PDF p51 =====
+ 
+ 
+The candidate should have understood the competitive 
+landscape , that the company is “new” in the industry 
+and is not leader in the market. 
+ 
+ 
+ 
+ 
+ 
+ 
+The company must sell through distributors, and does 
+not have power of negotiation with distributors. The 
+top 2 competitors have most of the old technology 
+market. 
+In order to increase its revenues, it needs to convince 
+distributors to carry its products.  
+It needs to disrupt the market and create demand of 
+the new technology machines. It could lower the price 
+to make it more attractive to customers and 
+distributors. 
+BUT, how much it could lower the price and maintain/
+increase profitability?. 
+ 
+ 
+About the industry: 
+•  The electronic machine is a $1B industry, stable (not growing, not shrinking) 
+•  Our client is the #3 out of 10 players (the candidate should infer there are 2 main competitors) 
+•  The 2 biggest competitor have  40-42% market share each one 
+•  All companies offer products with same quality, same service, same warranty, etc. (there’s no 
+point of differentiation) 
+•  The machines are sold through distributors (regional, local…size of distributors is not relevant) 
+•  Distributors only carry 2 brands each, they won’t carry more because they need to keep 
+inventories of spare parts, etc. 
+•  Sales of the machines represent only 5% of their revenues. Distributors make money by selling 
+consumables. 
+About the products: 
+•  There are 2 types of machines: old technology  (it has been in the market for 40 years) and new 
+technology  (10 years) 
+•  90% of the market is old technology. Despite the benefits of the new technology, customers are 
+not willing to pay the price 
+•  Prices: old technology sold at $1,800 and new technology sold at $2,800 
+About the company: 
+•  They entered the market 10 years ago, by inventing the new technology.  Hence, 60% of their 
+revenues comes from the new technology machines sales. 
+•  Other business units are more profitable 
+Case 5: Electronic Machines Division Turnaround 
+Revenue stream 
+47 
+Type of 
+machines 
+Market 
+($1B) 
+Client 
+($25M) 
+Old 
+technology 
+90% 
+(900M) 
+40% (10M) 
+New 
+technology 
+10% 
+(100M) 
+60% (15M) 
+Overview for Interviewer 
+(Information to be provided If asked) 
+What could the client do to transform a $25M 
+business to a $100M one? 
+47 
+
+
+===== PDF p52 =====
+ 
+•  Materials: 60% of COGS 
+•  Labor : 15% of COGS 
+•  Fixed costs:15% of sales 
+This is all the information needed (remember EBITA) 
+ 
+a) Materials: 
+• China: 50% (vs. current cost) 
+• Mexico: 50% 
+• Malaysia: 60% 
+ 
+b) Labor : 
+• China: $2/hr 
+• Mexico: $4/hr 
+• Malaysia: $2/hr 
+• US: $15/hr 
+ 
+c) Fixed costs: same 
+ 
+d) Other costs? Distribution 
+• China: $50/machine 
+• Mexico: $20/machine 
+• Malaysia: $50/machine 
+ 
+ 
+ 
+ 
+The candidate should ask what is the current cost, and write down a 
+cost structure.  
+ 
+By how much do they need to reduce costs? 
+The candidate should explore options to improve costs.  However 
+since the client would need to reduce  costs almost by 45% (from 
+$2,660 to $1,440= $1,220), the candidate should come with the 
+idea of outsourcing production or moving it to another country. 
+ 
+Where could they produce (which countries)?... Mexico, China and 
+Malaysia. Provide information upon request (see math in next page). 
+ 
+The company should move the operation to Malaysia. 
+The candidate should mention risks, such as impact on quality, learning 
+curve, culture, leading with government, response of competitors; and 
+opportunities, such as entering new markets. 
+ 
+Case 5: Electronic Machines Division Turnaround 
+Cost stream 
+48 
+If the company decides to sell the new technology machines at the 
+same price that the old ones. What could they do? (Remember that 
+the client want to improve the business) 
+Information to be provided If asked 
+48 
+
+
+===== PDF p53 =====
+Current Situation 
+Proposal 
+Price 
+ $ 2,800  
+ $ 1,800  
+Total COGS 
+ $ 2,240  
+ $ 1,170  
+Materials 
+60% 
+ $ 1,344  
+Labor 
+15% 
+ $ 336  
+Overhead 
+25% 
+ $ 560  
+Fixed costs 15% 
+ $ 420  
+ $ 270  
+EBITA 
+5% 
+ $140  
+20% 
+ $ 360  
+By how much do they need to reduce costs? 
+Case 5: Electronic Machines Division Turnaround 
+Math 
+49 
+Where should they produce? 
+US 
+China 
+Mexico 
+Malasya 
+Price 
+ $    2,800   $    1,800   $    1,800   $    1,800  
+Variable Cost 
+ $    2,240   $       993   $    1,066   $       892  
+Materials savings 
+50% 
+50% 
+70% 
+Materials 
+ $    1,344   $       672   $       672   $       403  
+Cost per hour 
+ $        15  
+ $            2   $            4   $            2  
+Labor 
+ $       336   $         45   $         90   $         45  
+Overhead savings 
+60% 
+50% 
+30% 
+Overhead 
+ $       560   $       224   $       280   $       392  
+Distribution 
+ $          -    $         50   $         20   $         50  
+Fixed costs 
+ $       420   $       270   $       270   $       270  
+TOTAL COST 
+ $    2,660   $    1,263   $    1,336   $    1,162  
+EBITA 
+ $       140   $       537   $       464   $       638  
+TOTAL#COST#
+##
+#$#2,660##
+#
+#$#1,440##
+49 
+
+
+===== PDF p54 =====
+Case 5: Electronic Machines Division Turnaround 
+Conclusions 
+50 
+What would it be your overall recommendation to the client? 
+To move the production from the U.S. to Malaysia, to reduce costs and improve EBITA to 20%. 
+Negotiate with distributors, offer regional exclusivities. And once the operation is stable (quality, distribution, etc), the company can 
+decrease the price (or run promotions) to drive demand from the old technology to the new technology in the US, as the current obstacle 
+on replacing old technology is primarily due to pricing. 
+At the new price, they could sell the new machines in Asia,  under a different  brand, and generate extra revenues. 
+Risks: Competitors can lower price as well.  
+50 

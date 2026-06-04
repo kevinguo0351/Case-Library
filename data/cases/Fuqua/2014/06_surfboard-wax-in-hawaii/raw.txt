@@ -1,0 +1,191 @@
+===== PDF p70 =====
+CASE 6 – SURFBBOARD WAX IN HAWAII
+66
+
+
+===== PDF p71 =====
+Case 6: Surfboard Wax in Hawaii
+Prompt
+Your client is a surfboard manufacturer based in Hawaii. The company has high brand recognition and a strong distribution network in 
+the state. The CEO wants to expand the company’s product line and revenues and is thinking of entering the market for surfboard wax. 
+It has hired us to help them determine how big the market for surfboard wax is in Hawaii.
+67
+
+
+===== PDF p72 =====
+Case 6: Surfboard Wax in Hawaii
+Interviewer Guidance
+Before the Framework:
+The candidate should recognize that this is a market sizing case and confirm this with the interviewer. If the candidate asks what 
+surfboard wax is, you can tell them that the wax comes in a bar form (similar to soap) and is used to coat the top of the surfboard in 
+order to provide surfers with a surface that their feet can grip. The candidate may ask how much the wax costs and is used. You can 
+explain that we will discuss this later in the case. A strong candidate will also ask if the client is looking for an annual dollar amount and 
+you should respond yes. Typically, all market sizing cases are in dollars but it’s good to clarify this upfront.
+Framework:
+A strong candidate’s framework will have the units needed to calculate the market size at the top of the paper. In this case, the units 
+are the average number of bars of wax sold annually * the average price of a bar of wax. The candidate should demonstrate an 
+understanding that he/she needs to know the number of surfboards in Hawaii, usage frequency, amount used and price in order to 
+crack the case. A good framework will outline an approach for how he/she will estimate the numbers for all of these units and present 
+this to the interviewer. For average number of bars of wax sold in a given year, the candidate would need to know the number of 
+surfboards in Hawaii, how frequently wax is applied to each surfboard and how much wax is used with each application. For price, the 
+candidate should show some approach for how the price might be estimated. Some suggested approaches are discussed later in this 
+case.
+A common mistake is that the candidate will immediately attempt to estimate the population of Hawaii without explaining how this
+will determine the market size. If the candidate does this, interrupt them and ask why they are estimating the population of Hawaii. If 
+they are unable to link the population of Hawaii with the number of surfboards and therefore units of wax sold in Hawaii, guide them 
+until they are able to correctly identify the units that are needed to solve the case.
+68
+
+
+===== PDF p73 =====
+Case 6: Surfboard Wax in Hawaii
+Interviewer Guidance
+After the Framework:
+Calculating the Number of Surfboards 
+A strong candidate will recognize that Hawaii has a large tourism industry and would therefore have to estimate the number of
+resident surfers and number of tourists who surf and the average number of boards per surfer for each population.
+Resident Surfers
+One approach is to estimate the population of Hawaii by starting with the estimated US population of 300 million divided among 50 
+states. This gives each state an average population of 6 million. Hawaii is a smaller state – bigger than Wyoming, which has a 
+population of 500k but smaller than Maryland which has a population of 6m. (The actual population of Hawaii is 1.4m). Assuming that 
+the candidate is not wildly off, you can provide this number to the candidate after he/she estimates the population and allow for 
+rounding of 1m or 1.5m to make the math easier.
+The candidate can then calculate the number of surfers by segmenting the population by age (0-20, 21-40, 41-60, 61+ is easiest) and 
+estimating the percentage who surf. An estimate of 25%-50% is acceptable. Another approach is to draw from personal experience. A 
+candidate from Minnesota might say 25% of Minnesotans play hockey, the state’s most popular sport. Since surfing is the most popular 
+sport in Hawaii, I’ll assume that 25% of the population surfs. After the candidate calculates the number of resident surfers, you can tell 
+the candidate that the average number of surfboards per surfer is 2.
+The candidate should calculate the number of surfboards owned by residents is 25%*1m*2=500,000 on the low end and 
+50%*1.5m*2=1,500,000 on the high end. 
+69
+
+
+===== PDF p74 =====
+Case 6: Surfboard Wax in Hawaii
+Interviewer Guidance
+Tourists
+Companies that rent surfboards to tourists comprise the other major segment of the market and there are many ways to estimate the 
+number of surfboards in this segment. Ask the candidate to brainstorm what the number might be and how they would calculate the 
+number of surfboards needed to serve tourists. The key here is to check whether the candidate understands that tourists are 
+sharing/renting boards so the number of surfboards in this segment be much smaller than the number of tourists who visit might 
+imply. It also is meant to showcase the candidate’s ability to structure an approach to solve a very complex problem. One approach is 
+to start by estimating the number of tourists who visit Hawaii. Since Hawaii’s primary industry is tourism, it is safe to assume that the 
+number is going to be a multiple of the state’s population since the vast majority of the state’s jobs depend on it. Think about how 
+many tourists would be needed in a hotel to cover the cost of overhead and pay for the salary of one hotel worker. 
+At the end of the brainstorm, the interviewer should tell the candidate that there are 7m tourists who visit Hawaii a year staying an 
+average of 10 days. Twenty-five percent of tourists surf an average of two days. It is assumed that all of them rent surfboards. The 
+candidate should calculate the number of surfboards needed for rental: 7m*25%*2=3.5m/365 days = 9,589 boards needed per day 
+(Rounding the year to 350 days or the solution to 10k is fine). Therefore, the total number of surfboards in Hawaii ranges from 510k or 
+1.51m. 
+Usage
+If there is time, ask the candidate to brainstorm the amount of how wax used per waxing and how frequently the product is used. One 
+approach is for the candidate to relate it to something they are more familiar with such as car wax. A candidate might say that they 
+wax their car 4 times a year and use 25% of the jar per use. In this case, the interviewer can share that a surfboard is waxed every 
+three months and uses 50% of the bar with each use. Therefore, there are 510k*4*50%=1.02m bars of wax sold annually on the low 
+end and 1.51m*4*50%=3.02m on the high end.
+70
+
+
+===== PDF p75 =====
+Case 6: Surfboard Wax in Hawaii
+Interviewer Guidance
+Pricing:
+If there is time, ask the candidate how they might determine the average price. There are two approaches to this. The candidate can 
+either estimate costs on the value chain or identify comparable products (like car wax) and what their costs are to provide an estimate. 
+Since a value chain approach is more difficult in this case, the candidate should use a comparable product to estimate what the 
+average price of wax is. The interviewer can then share that the average price is $2 per bar.
+Market size:
+The candidate can then calculate the total market size: 1.02*$2=$2.04 M or 3.02*$2=$6.04 M
+Ending the Case:
+Market sizing questions don’t typically need  recommendation but the candidate could end the interview with something like this: The 
+total market size we calculated is $2.04m. We arrived at this estimate by calculating the total number of surfboards in Hawaii among 
+residents and at rental companies and multiplying this by how frequently wax is purchased - which in this case is every three months, 
+and the average price of wax at $2. If our client is looking to expand its product line and revenue, it may want to consider selling higher 
+revenue items like clothing or sell its surfboards in the mainland.
+71
+
+
+===== PDF p76 =====
+Case 6: Surfboard Wax in Hawaii
+Performance Evaluation
+Exceptional Candidate:
+Candidate asks clarifying questions at the beginning of the prompt and recognizes that this is a market sizing case. Framework is 
+appropriately customized and has correct units listed and a clear plan for how the candidate will estimate those units. Candidate drives 
+case, executes mathematical computations flawlessly and provides a market size within the accepted range.
+Strong Candidate
+Candidate asks clarifying questions at the beginning of the prompt and recognizes that this is a market sizing case. Framework is 
+appropriately customized and has correct units listed and a clear plan for how the candidate will estimate those units. Candidate may 
+need some guidance on moving forward in the case and may make small mistakes on mathematical computations. The candidate 
+provides a market size within the accepted range.
+Borderline Candidate
+Candidate recognizes that this is a market sizing case. Framework is appropriately customized and has correct units listed but may lack 
+a clearly defined plan for how the candidate will estimate those units. Candidate may need guidance on moving forward in the case 
+and may make some mistakes on mathematical computations. The candidate provides a market size within the accepted range.
+Weak Candidate
+Candidate recognizes that this is a market sizing case. Framework is not customized, does not have correct units listed and lacks a 
+defined plan for how the candidate will estimate those units. Candidate may begin to estimate Hawaii’s population without conveying 
+how this will help them size the market. Candidate needs guidance on moving forward in the case and makes many mistakes on 
+mathematical computations. The candidate does not provide a market size within the accepted range.
+72
+
+
+===== PDF p77 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

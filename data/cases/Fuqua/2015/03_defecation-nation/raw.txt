@@ -1,0 +1,255 @@
+===== PDF p44 =====
+Case #3: Defecation Nation
+Industry: Other
+Quantitative Level: 2
+Qualitative Level:2
+Quantitative level: Medium
+Qualitative level: Medium
+
+
+===== PDF p45 =====
+Behavioral Questions
+41
+• Tell me about a time you were thrown into an unfamiliar situation and had to learn 
+quickly.
+Question 1:
+• Consulting can be stressful at times. Drawing from your previous experience, how do 
+you manage stress? 
+Question 2:
+
+
+===== PDF p46 =====
+Defecation Nation
+42
+Founded in 1984, your client, Pushman Potties, is a major US manufacturer of portable 
+toilets, commonly referred to as “porta-potties”. Pushman Potties’ porta-potties are 
+typically found in construction sites, agricultural fields, and other industrial settings. 
+However, over the past several years sales of Pushman’s standard porta-potties have 
+stagnated, so the management team has approached your firm for help. With this in 
+mind, what are some potential avenues for revenue growth?
+Prompt #1:
+• Provide if requested:
+– Products: Pushman’s primary product is a standard industrial porta-potty. Several versions 
+exist, but all are variants of the same base model.
+– Geography: Pushman has a broad footprint in the US. It serves all 50 states from regional 
+offices in 32 states. Pushman currently has no international presence. 
+– Business Model: Pushman Potties are typically rented on a weekly or monthly basis. 
+Maintenance is included in the rental agreement, and is provided by Pushman. 
+– Size: In 2014, Pushman recorded approximately $650M in revenue, down from $670M in 
+2013. 
+– Competitors: Pushman has traditionally been the category leader in sales. Competitor 
+financial information is not available. 
+Interviewer Guidance:
+
+
+===== PDF p47 =====
+Defecation Nation
+43
+• This case is meant to be driven along by the interviewee, so wait for him/her to do so 
+after each prompt.
+• A good candidate will understand that the initial prompt asks about revenue growth 
+and not profitability, and thus will focus on revenue.
+• Interviewee should develop a MECE framework that covers most or all of the 
+following: existing/new customers, existing/new products (can be illustrated in a 2x2 
+grid), pricing, competitive landscape, entry strategy (build/buy), risks, among others.
+• If the interviewee does not mention anything about new products, probe further in 
+order to guide him/her towards this direction.
+Interviewer Guidance:
+
+
+===== PDF p48 =====
+Defecation Nation
+44
+Pullman is primarily interested in entering the luxury porta-potty market. Such units 
+feature all the amenities that are found in stationary public restrooms, including running 
+water (both hot and cold), mirrors, lighting, and air conditioning. How would you 
+approach estimating the size of the opportunity for such a product?
+Prompt #2:
+• A good candidate will describe how to arrive at a number instead of jumping into 
+calculations. If the interviewee immediately jumps into calculations, guide him/her to 
+think of an approach first.
+• A logical way to begin is to brainstorm potential use cases for such a product, which 
+can include weddings, film shoots, festivals and high-end events.
+• Given these use cases, a key realization is that such units would be rented instead of 
+purchased (if the interviewee does not make this realization, guide him/her to it). 
+• The interviewee should mention what % of each event type would require such a 
+product, the duration of rental, # of units, and pricing, among other considerations.
+• After the interviewee lays out a sufficiently logical approach, provide Exhibit 1. 
+Interviewer Guidance:
+
+
+===== PDF p49 =====
+Exhibit #1
+45
+West
+Midwest
+NE
+SE
+SW
+Weddings*
+410
+210
+500
+380
+350
+Film Shoots
+790
+400
+650
+340
+420
+Festivals
+700
+410
+500
+490
+400
+Charity Events
+350
+140
+380
+280
+250
+Other Events
+590
+340
+610
+360
+350
+Number of Events/Year by US Region, 2013 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Weddings
+Film
+Shoots
+Festivals
+Charity
+Events
+Other
+Avg. Rental Duration (days)
+* Number in ‘000s
+Price per Unit per Day ($)
+<2 days
+1,500
+3-4 days
+1,300
+5-6 days
+1,000
+>7 days
+700
+Hypothesized Pricing Scheme
+
+
+===== PDF p50 =====
+Interviewer guidance on Exhibit 1
+• Allow the interviewee to round numbers. For simplicity, assume that each rental is for one unit.
+• A key missing piece to this exhibit is the percentage of each event type that will require a luxury porta-
+potty. When this topic is broached, provide the following information:
+–
+Weddings 
+2%
+–
+Film Shoots 
+35%
+–
+Festivals 
+50% 
+–
+Charity Events 
+25% 
+–
+Other  
+20% 
+• A good candidate will make an attempt to put the final revenue number into context, and will make note 
+of the fact that weddings account for ~90% of projected revenue (total revenue may be slightly off due 
+to rounding).
+46
+Exhibit #1 Guidance:
+Analysis:
+Total # of Events
+% Requiring Lux. PP
+Revenue
+Weddings
+1,850,000 
+37,000 
+111M
+Film Shoots
+2,600 
+910 
+4.5M 
+Festivals
+2,500 
+1,250 
+6.3M 
+Charity Events
+1,400 
+350 
+1.4M 
+Other Events
+2,250 
+450 
+1.4M 
+Total Revenue:
+$124.6M
+• Revenue = (total # of events) x (% requiring) x (avg. rental duration) x (price/day)
+
+
+===== PDF p51 =====
+Defecation Nation
+47
+Pushman believes this represents an attractive opportunity. What else should 
+management consider in determining how best to enter the market?
+Prompt #3:
+• A good candidate will mention, among other considerations:
+– Competitive Landscape
+– Buy/Build
+– Product Economics
+– Risks (marriage trends, overall economic conditions, etc.)
+• After candidate finishes explaining, probe further by asking if there is anything else 
+the client should consider.
+Interviewer Guidance:
+
+
+===== PDF p52 =====
+Defecation Nation
+48
+• Patrick Pushman, CEO of Pushman Potties, has just walked into the room and is 
+anxiously waiting to hear your thoughts on the future of his company. Please present 
+your findings.
+Recommendation 
+• The interviewee should immediately begin summarizing his/her findings, which 
+should include:
+– Go/No go recommendation
+– Size of opportunity represented by luxury porta-potties
+– Other considerations
+– Risks
+– Next steps
+Interviewer Guidance:
+
+
+===== PDF p53 =====
+Evaluation Criteria
+49
+Candidate Level
+Assessment
+Average Candidate
+Will consider profitability instead of revenue, fail to drive 
+case, make arithmetic mistakes, forget details, and fail 
+to put numbers into context 
+Good Candidate
+Will develop a custom and complete framework, make 
+accurate but slow calculations, will remember details 
+and put everything into context
+Excellent Candidate
+Will develop a structured and MECE framework, use 
+round numbers to facilitate quick and accurate 
+calculations, remember to ask about the % of events 
+that will require a rental, put numbers into perspective, 
+and will drive the case forward at each step

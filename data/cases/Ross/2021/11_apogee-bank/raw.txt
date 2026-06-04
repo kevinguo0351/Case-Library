@@ -1,0 +1,366 @@
+===== PDF p118 =====
+114
+Ratings:
+Quant - 2
+Qual - 2
+Overall - 2
+Apogee Bank
+Financial Services | Growth Strategy 
+Interviewee Led
+Case 11
+
+
+===== PDF p119 =====
+115
+Case 11 – Apogee Bank
+Our client Apogee bank, a regional bank with 700 branches in US Midwest, has seen a declining trend in 
+revenues in the past 2 years. Blake Moran, the CEO of Apogee bank, hired you to identify the reasons for 
+falling revenues and recommend ways to grow revenues. 
+Prompt
+•	 Apogee Bank offers checking and savings accounts, as well as personal, mortgage and auto loans. 
+•	 On the checking and savings accounts, Apogee bank makes money from service charges and account maintenance fees 
+whereas it earns interests on loans.
+•	 Apogee bank provides services through both brick-and-mortar branches and online applications.
+Clarifying Information
+
+
+===== PDF p120 =====
+116
+Interviewer Information
+•	Apogee Bank offers checking and savings accounts, as well as personal, mortgage and auto loans. 
+•	On the checking and savings accounts, Apogee bank makes money from service charges and account 
+maintenance fees and earns interests on loans.
+•	Apogee bank provides services through both brick-and-mortar branches and online applications.
+•	The candidate doesn’t need to know any other information about the client’s business or the retail banking industry 
+to solve this case. If the candidate asks for any more clarification at this point, reverse the question to ask why that 
+specific information is needed for the case.
+Clarifying Information
+Exhibit Summary
+•	 Exhibit 1: Average Revenue Per Account (ARPA) by Product  
+•	 Exhibit 2: Summary of email survey conducted on churning customers
+•	 Exhibit 3: Partner with WizardTech or Buy Finvest Inc?
+Case 11 – Apogee Bank
+
+
+===== PDF p121 =====
+117
+Potential Framework
+Competition
+•	 New regional banks in the area 
+•	 Better interest rates offered by regional or 
+online competitors
+•	 Increased consolidation amongst regional 
+banks
+Customer Trends
+•	  Less interest in traditional/regional banks 
+amongst the millennial/GenZ userbase
+•	 Inclining towards non-banking companies/
+challenger banks for banking needs
+•	 Lack of rewards/benefits
+
+Government/Regulartory Reasons
+•	 New caps on reserves limitng lending 
+power
+•	 Additional onbaording paperwork limiting 
+new account opening userbase
+•	 Inclining towards non-banking companies/
+challenger banks for banking needs
+•	 Lack of rewards/benefits
+ARPU decreasing
+•	 Volume of services used by customers 
+decreasing
+•	 Mix of transactions shifting to low value 
+products
+•	 Asset/deposit base shrinking
+•	 Decrease in branch/ATM walk ins
+# of customers decreasing
+•	 Customer experience issues
+•	  Lack of online capabilities impacting 
+serviceability and scale
+•	 Trust/Security/Conveience concerns
+•	 No financial education resources
+•	 Lack of rewards/benefits
+Organic
+•	 Play with Price
+•	 Market expansion - acquire new accounts
+•	 Market penetration - focus on cross selling
+•	 Diversification - adding new products for 
+new & existing customers
+
+Inorganic
+•	 Buy market share - acquire fintechs/other 
+banks
+Revenues falling
+Change in Market Dynamics
+Growth Opportunities
+Notes / Advice to Interview / 
+How to Move Forward:
+•	 Candidate should recognize that this is a revenue 
+problem
+•	 Hand Exhibit 1 if the candidate mentions reve­
+nues as the area of initial focus
+•	 If the candidate mentions costs or profitability, 
+ask why and then direct the candidate to focus 
+on revenues
+Case 11 – Apogee Bank
+
+
+===== PDF p122 =====
+118
+Exhibit 1 Guidance
+Average Revenue Per Account (ARPA) by Product
+What additional insight does this chart provide on the potential root causes behind falling revenues at Apogee?
+•	Once the candidate recognizes falling # of accounts or deactivation of accounts in the last 2 years as the reason, 
+ask him or her how this trend translates into # of users active on the platform? (Highlight the footnote if the 
+candidate doesn’t acknowledge it)
+•	Once the candidate figures out the primary reason (Customer Churn) behind the fall in revenues in the last 2 years, 
+brainstorm on potential ways to identify reasons for churn and then move to Exhibit 2 after sufficient brainstorming 
+•	Candidate should recognize: Falling revenues across all products, ARPA remaining constant -> Volumes decreasing
+•	Strong candidates will:
+•	Recognize the relation between ARPA and ARPU (Average Revenue Per User) -> ARPU = ARPA * # of Accounts per user. 
+Since the # of Accounts per user has not changed (as mentioned in the footnote), it can be deduced that customers are 
+leaving the bank 
+•	Start brainstorming reasons for why customers could be churning and what are the best ways to identify reasons for 
+churn i.e. surveys
+Questions for Candidates about Exhibit that the Interview should ask:
+Question/Exhibit Guidance
+Case 11 – Apogee Bank
+
+
+===== PDF p123 =====
+119
+Exhibit 2 Guidance
+Summary of email survey conducted on churning customers
+What additional insight does this chart provide on the reasons for recent increase in customer churn?
+•	Once the candidate identifies the key reasons for churn, push him/her to brainstorm ideas for next steps – adding 
+new investment products.
+•	After sufficient brainstorming, hand out Exhibit 3 to the candidate.
+•	Candidate should recognize: Lack of investment/personal finance products offered digitally as the primary reason for 
+churn as can be deduced from: High interest in digital/challenger banks, and mention of digital investment platforms, 
+access to wealth management products and financial advice as the primary reasons for switching to a different platform.
+•	Strong candidates will: consolidate all the key takeaways to recommend next steps (acting on not having enough 
+personal finance products to offer)
+Questions for Candidates about Exhibit that the Interview should ask:
+Question/Exhibit Guidance
+Case 11 – Apogee Bank
+
+
+===== PDF p124 =====
+120
+Exhibit 3 Guidance
+Partner or Buy?
+•	The client here wants to finalize which mode of launch makes more financial sense for the bank
+•	Steer towards calculating payback/breakeven period if the candidate doesn’t move in that direction
+•	Candidate can assume that cost synergies as mentioned in the footnote can be realized from inception
+•	Strong candidates will: recognize cost synergies, structure profitability calculations separately and suggest 
+calculating payback period without prompting
+Calculations
+Total yearly cost
+Total yearly revenue
+Yearly incremental profits
+Payback (in years)
+ Total Fixed Cost
+Unit Revenue
+Unit Variable Cost
+Total Variable Cost
+Total Revenue
+Yearly incremental profits
+Payback (in years)
+ 750,000 + 14 * 125,000
+23 * 125,000
+2,875,000 - 2,500,000
+280,000/375,000
+ 150,000 * (1 - 6%)
+800,000/100,000
+8 - 4 * (1 - 5%)
+(125,000 + 100,000) * 3.8
+8 * (125,000 + 100,000)
+180,0000 - 141,000 - 855,000 
+5,000,000/804,000
+ 2,500,000
+2,875,000
+375,000
+7.5
+ $141,000
+$8
+$3.8
+$855,000
+$1,800,000
+$804,000 
+6.2
+Partner with WizardTech
+Buy Finvest Inc.
+Case 11 – Apogee Bank
+
+
+===== PDF p125 =====
+121
+Exhibit 1
+Average Revenue Per Account (ARPA) by Product
+Checking/Savings
+ account
+Loans
+Other products
+ARPA - loans
+2016
+2017
+2018
+2019
+2020
+*# Accounts per cus­
+tomer and the mix and 
+volume of transactions 
+within each account type 
+have remained almost the 
+same across all products 
+in the last 5 years
+250
+200
+150
+100
+50
+0
+80
+70
+60
+50
+40
+30
+20
+10
+0
+ARPA - other products
+Total Revenue in M
+Total Revenue (in M) and Average Revenue Per Account (ARPA)* by Product
+ARPA
+ARPA - checking/
+savings account
+Case 11 – Apogee Bank
+
+
+===== PDF p126 =====
+122
+Exhibit 2
+Summary of email survey conducted on churning customers
+Digital Banks
+National Banks
+478
+780
+Where did the survey respondents switch to?
+195
+78
+29
+Competitor Regional Banks
+Other Institutions
+Reasons for switching
+High interest rates on deposits
+Digital platforms/Online capabilities
+Customer Service
+Low fees
+Acess to wealth managment products
+Advice on financial health
+Access to a banker
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Case 11 – Apogee Bank
+
+
+===== PDF p127 =====
+123
+Exhibit 3
+Partner or Buy?
+Setup cost
+Buy Price
+Annual maintenance cost
+Annual Revenue
+Price charged to Apogee 
+for every user onboarded
+Annual Fixed Cost
+Average Revenue Per User (ARPU)
+Contribution Margin
+Estimated new users
+Estimated new users
+Current Userbase of Finvest
+ $2,800,000
+$750,000
+$14
+$23
+125,000
+ $5,000,000
+$800,000
+$150,000
+$4
+100,000
+125,000
+B2B tech company offering white labelled investment 
+products & services to retail financial services companies
+New Jersey based FinTech startup offering 
+personal wealth management services
+Apogee bank expects Finvest to immediately save 6% on fixed costs 
+and improve contribution margin by 5% if the deal goes through
+Partner with WizardTech
+Buy Finvest Inc.
+Case 11 – Apogee Bank
+
+
+===== PDF p128 =====
+124
+Brainstorming
+What are some other pros and cons of acquiring Finvest Inc. over partnering with WizardTech?
+•	New resources and competencies - access to additional customers as well as employees, assets and IP
+•	Reduced entry barriers to launch wealth management services
+•	Increase bottom line profitability once entities have completed the acquisition
+•	Increased market power; better positioned to fight competition
+•	See immediate and long-term tax advantages
+•	High initial capital for acquisition
+•	Risk losing key employees and customers if combining the two companies is not executed carefully and effectively
+•	Risk financial detriment if the company being acquired turns out not to have enough value to justify the investment
+•	Longer implementation time and distraction from day-to-day operations
+•	Any regulations that limit the acquisition
+Any other logical reason is also acceptable
+Pros:
+Cons:
+Case 11 – Apogee Bank
+
+
+===== PDF p129 =====
+125
+Conclusion
+•	The acquisition might not provide 
+the expected benefits due to a mis-
+managed or prolonged integration
+•	With no experience in selling 
+wealth management products 
+earlier, there may be hiccups 
+that Apogee Bank can face in 
+marketing and opening new 
+investment accounts
+•	 Finvest’s unstated intent to sell 
+and the confidence in maintaining 
+it’s current financials
+•	Customer adoption to these new 
+products by Apogee Bank could 
+be slow
+•	Acquire Finvest Inc. at $5M for a 
+payback in 6.2 years
+•	Extend Finvest’s investment 
+product offerings to all customers 
+of Apogee Bank
+•	Ensure appropriate liquid funds are 
+available to fund the acquisition
+•	Plan an integration strategy to 
+merge with Finvest and to roll-out 
+investment products in phases
+•	Explore ways to realize additional 
+synergies post acquisition
+Recommendation
+Risks
+Next Steps
+Case 11 – Apogee Bank

@@ -1,0 +1,478 @@
+===== PDF p5 =====
+  
+Situation 
+Client provides satellite TV services (DBS) nationally 
+ 
+Complication 
+Customer base being threatened by telcos and cable companies (triple play) 
+Consider deploying wireless network (WiMAX) to offer broadband internet 
+ 
+Key questions 
+Should the client go into the WiMAX business? 
+ 
+Key components 
+Suggested framework: quantify revenues and costs; analyze risks 
+Quantitative: analyze costs and revenue of new venture 
+ 
+Answer 
+The investment is too high and would take years to break even; client should focus on defending core business 
+(satellite TV) 
+Company Provided Case – Telecom Co. (pg. 1 of 11) 
+Bain & Co. 
+21 
+Industry 
+Telecom 
+ 
+Case summary for facilitator only 
+Primary issue 
+Market entry 
+ 
+Other topics 
+Investment business case, break even analysis 
+ 
+
+
+===== PDF p6 =====
+  
+Additional Background 
+•
+Our client is a provider of satellite TV services 
+•
+Client facing increased pressure on its customer base from telcos and 
+cable companies offering “triple play” bundles of TV, internet, and 
+phone services 
+•
+Client considering deploying WiMAX wireless networks across the USA 
+to offer its customers broadband internet (and potentially phone 
+service - VoIP) 
+-
+Offering triple play will allow the client to compete with telcos 
+and cable companies 
+•
+Deploying WiMAX is extremely expensive, driven by: 
+-
+Spectrum costs: acquiring frequencies from the federal 
+government 
+-
+Base stations,: tower that send/receive wireless signal (similar to 
+cellular) 
+-
+CPE: customer premise equipment 
+-
+Additional SG&A  
+•
+Revenue upside consists of 6M subscribers in the USA (based on mgm’t 
+estimates of 5% market share) paying $20/mo 
+•
+Total investment $2.6B; potential revenue upside: $2.44B; since most 
+costs are variable (per customer) could not break even in year 1 
+•
+Client should focus on defending its core market of satellite TV  
+ 
+Company Provided Case – Telecom Co. (pg. 2 of 11) 
+Bain & Co. 
+22 
+Case summary for facilitator only 
+Market share (mgm’t 
+estimate) 
+5 % 
+Base station 
+bandwidth 
+80,000 kbps 
+Bandwidth require 
+per household 
+320 kbps 
+% of concurrent 
+connections* 
+50 % 
+Broadband internet 
+service price 
+$20 per mo 
+* Telecom companies balance the cost per subscriber and 
+required bandwidth per sub by estimating the % of subs 
+who are online at any point in time 
+
+
+===== PDF p7 =====
+  
+•
+Our client provides satellite TV service nationwide. The customer base is being threatened by telcos and cable 
+companies offering “triple play,” so our client is considering deploying wireless network (WiMAX) to offer 
+broadband internet. Should our client go into the broadband business? 
+ 
+Company Provided Case – Telecom Co. (pg. 3 of 11) 
+Bain & Co. 
+23 
+Question 
+
+
+===== PDF p8 =====
+  
+Frame the Problem 
+Costs: 
+• Capital expenditures 
+- Base stations (towers) 
+- Getting the licenses 
+- Additional equipment 
+• Operational excellence/ongoing costs 
+- Maintenance 
+- Leases etc. 
+• SG&A 
+-  Additional sales and marketing efforts 
+ 
+Potential Revenues: 
+•
+Market share 
+- How big is the market? 
+- What is a reasonable market share 
+assumption? 
+•
+Pricing 
+- Market price for broadband services? 
+- How price sensitive are consumers? 
+ 
+Key issues/challenges: 
+•
+Buy vs. build? 
+•
+Competitive moves? 
+•
+Regulatory issues? 
+Company Provided Case – Telecom Co. (pg. 4 of 11) 
+Bain & Co. 
+Recommended Solution 
+24 
+Spectrum 
+Base Stations 
+• How much 
+would the 
+spectrum 
+(license) be? 
+-What can 
+historic 
+data tell 
+us?  
+• Should we buy or 
+lease base 
+stations? 
+-# of towers are 
+required? 
+-Capex 
+associated with 
+building/leasin
+g base 
+stations? 
+-What are the 
+operational 
+(ongoing) 
+expenses? 
+• What is the cost of 
+the equipment that 
+is required on the 
+customer’s 
+premises? 
+• What % of the cost 
+could be passed on 
+to the customer? 
+Customer Premise 
+Equipment* 
+SG&A 
+Network cost 
+Total cost 
+• Do we have to 
+invest in marketing 
+and sales? 
+Assume 
+these costs 
+are minimal 
+initially and 
+focus on 
+network 
+costs 
+
+
+===== PDF p9 =====
+  
+Company Provided Case – Telecom Co. (pg. 5 of 11) 
+Bain & Co. 
+25 
+Recommended Solution 
+Dig deeper 
+Costs: 
+• Spectrum 
+0
+250
+500
+750
+1,000
+$1,250M
+Average
+May-2005
+Verizon
+1,100
+Oct-2005
+T-Mobile
+480
+Dec-2005
+Comcast
+250
+Feb-2006
+Verizon
+450
+Apr-2006
+AT&T
+340
+Aug-2006
+Verizon
+750
+Nov-2006
+T-Mobile
+350
+Mar-2007
+Verizon
+240
+Apr-2007
+AT&T
+620
+Jun-2007
+AT&T
+520
+Sep-2007
+Verizon
+320
+Spectrum auction price
+Assume spectrum price average of $500M 
+
+
+===== PDF p10 =====
+  
+Company Provided Case – Telecom Co. (pg. 6 of 11) 
+Bain & Co. 
+26 
+Recommended Solution 
+Dig deeper 
+Costs: 
+• Base stations 
+Base station cost = # of base stations * Cost per base station 
+US population (~300M) 
+Persons per household (2.5) 
+x 
+Determine # of base stations 
+
+Market share (5%) 
+# of households (120M) 
+= 
+# of serviceable households 
+(120M) 
+= 
+Households per base station 
+(500) 
+
+# of base stations 
+(12,000) 
+Base station bandwidth 
+(80,000 kbps) 
+Bandwitch per household 
+(320 kbps) 
+% of concurrent 
+connections* (50%) 
+= 
+x 
+x 
+= 
+* Telecom companies balance the cost per subscriber and required bandwidth per sub by estimating the % of subs who are online at any point in time 
+
+
+===== PDF p11 =====
+  
+Company Provided Case – Telecom Co. (pg. 7 of 11) 
+Bain & Co. 
+27 
+Recommended Solution 
+Dig deeper 
+Costs: 
+• Base stations 
+Base station cost = # of base stations * Cost per base station 
+ 
+Build 
+Build (Own & Operate) 
+Lease 
+Description 
+•
+Completely plan, construct, 
+and operate a proprietary 
+network of towers 
+•
+Lease towers and 
+bandwidth for a rental and 
+maintenance fee 
+Advantages 
+•
+Complete control over 
+network footprint 
+•
+Best tower real estate can 
+be used for network 
+-
+Higher location on 
+tower preferable 
+•
+Smaller up-front 
+investment 
+•
+Time-to-market advantage 
+as towers already exist 
+Disadvantages •
+Very costly to own & 
+operate 
+•
+Longer time-to-market 
+•
+Availability of towers 
+-
+Coverage not 
+possible if tower real 
+estate unavailable in 
+given location 
+0
+100
+200
+300
+$400K
+Single base station
+CAPEX & OPEX
+Planning &
+Design
+Electronics
+Maintenance
+Cabling/Misc.
+380
+0
+50
+100
+$150K
+Single base station
+OPEX
+Maintenance
+Cabling/Misc.
+Electronics
+Backhaul
+lease
+Tower lease
+150
+Qualitative 
+Quantiative 
+Lease 
+Leasing will require lower initial investment and 
+allow faster time to market 
+Determine cost per base station 
+
+
+===== PDF p12 =====
+  
+Company Provided Case – Telecom Co. (pg. 8 of 11) 
+Bain & Co. 
+28 
+Recommended Solution 
+Dig deeper 
+Costs: 
+• Base stations 
+Base station cost = # of base stations * Cost per base station 
+# of base stations 
+(12,000) 
+= 
+* Telecom companies balance the cost per subscriber and required bandwidth per sub by estimating the % of subs who are online at any point in time 
+Cost per base station 
+($150k) 
+Total base station cost 
+($1.8B) 
+x 
+
+
+===== PDF p13 =====
+  
+Company Provided Case – Telecom Co. (pg. 9 of 11) 
+Bain & Co. 
+29 
+Recommended Solution 
+Dig deeper 
+Costs: 
+• Customer premise equipment 
+ 
+Additional Information upon asking 
+CPE cost is $150 per household 
+Client estimates 2/3 of costs could be passed through to customer 
+ 
+CPE Net cost to the client $300M 
+ 
+
+
+===== PDF p14 =====
+  
+Company Provided Case – Telecom Co. (pg. 10 of 11) 
+Bain & Co. 
+30 
+Recommended Solution 
+Dig deeper 
+Incremental Revenue vs. Costs 
+Total cost: $2.6B 
+Spectrum 
+Base Stations 
+Customer Premise 
+Equipment* 
+SG&A 
+Network cost 
+Total cost 
+Assumed minimal 
+$300M 
+$1,800M 
+$500M 
+Broadband 
+internet only 
+Internet and 
+voice (phone) 
+Triple play 
+(defending core) 
+•To be conservative, assume internet only 
+•Assume price is $20 per month 
+6M subscribers  x  $20/mo  x  12mo = $1,440M 
+Total revenue: $1.4B 
+Revenues 
+Costs 
+
+
+===== PDF p15 =====
+  
+Key Findings 
+•
+Deploying a WiMAX network solution across the USA is extremely expensive; even with leasing base stations, 
+the network cost amounts to $2.6B 
+•
+Revenue uplift from broadband service would total $1.44B and would not enable the client to break even in 
+year 1 
+•
+Additional costs may be incurred 
+•
+Some risks concerning timing of deploying and market pricing need to be addressed 
+ 
+ 
+Company Provided Case – Telecom Co. (pg. 11 of 11) 
+Bain & Co. 
+31 
+Recommended Solution 
+Recommendation 
+ 
+ 
+•
+Investment in a WiMAX solution probably does not make sense due to high up-front costs and 
+lower revenue uplift 
+•
+The client should focus on defending the core business of satellite TV; client should consider the 
+following: 
+- Segment customers and increase share with most profitable segments  
+- Grow scale to reduce cost per subscriber 
+- Go into content: look for acquisition/ partnership to drive differentiated content 
+- Technology innovation:  
+Offer DVR to compete with cables’ VOD 
+Increase number of local and national HD channels 
+- Partner for broadband. E.g., partner with telcos where they are not building video infrastructure 

@@ -1,0 +1,415 @@
+===== PDF p123 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Case Information
+Difficulty level ± Quantitative
+3
+Difficulty level ± Creativity
+3
+Difficulty level ± Structure
+3
+Case led by
+Mixed, but lean towards Candidate
+Case type
+Investment Assessment
+Industry
+Manufacturing
+119
+
+
+===== PDF p124 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Your client, an Australia based PE firm, wants to acquire StarBus Australia which is the biggest bus manufacturer in Australia. Your client has 
+approached you, a Consultant, to assess the transaction. In the end, you should be able to advise the client whether this is a good investment. 
+What factors will you consider first? 
+Provide to candidate only if asked:
+y Customers: StarBus sells its buses directly to both public and private schools throughout Australia; the schools are the only customers of 
+StarBus
+y Product: StarBus only manufactures one type of bus that has a 10-year life cycle
+ This case is designed to test candidates¶ abilit\ to drive a case. Interviewers should deliberatel\ push candidates. Interviewer can use 
+prompt languages such as ³so what«´, ³where do \ou want to start ne[t«´, etc.
+Overall Guide to interviewer
+Case Prompt
+120
+
+
+===== PDF p125 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Market Attractiveness
+ Market size: What is the size of school 
+bus market? (number of buses schools 
+will purchase per year)
+ Growth of the market: over the next 3-5 
+years, will the market grow? 
+Competition Landscape
+ Market shares of StarBus & competitors
+ Prices/margins: compare StarBus¶ 
+prices & margins with its competitors
+ Products: does StarBus sell similar 
+buses? Do they have similar 
+customers? 
+Transaction
+ Pricing: Is the transaction fairly priced? 
+Does return meet client¶s required IRR?
+ Does our client have the financial 
+resources to fund the acquisition?
+ Does the acquisition provide synergies 
+Zith the client¶s portfolio companies?
+Prompt for interviewer
+ Interviewee should at least mention ³market´ and ³competition/margins anal\sis´. If not, push interviewees in these directions.
+ Interviewer should push candidate to elaborate why they want to look at these aspects, and how understanding the three aspects will help 
+them reach a conclusion. Example:
+Interviewer: why do you want to look at products? 
+Interviewee: I want to assess StarBus¶s ability to generate profits by comparing its product margins with its peers. To ensure 
+comparability, I need to understand whether StarBus is selling the same type of products.
+ After the candidate provides a reasonable explanation for transaction, interviewer states: assume the transaction is fairly priced, and 
+financing is not an issue for client (meaning interviewees don¶t need to assess transaction category), what information do you 
+need to assess the Market Attractiveness? 
+Note: This is only one way to tackle the case, and there will be other alternatives to the suggested framework
+121
+
+
+===== PDF p126 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Part 1: Market related analysis ± Market size 
+Guide the candidates to the market size path, and ask the candidate QXHVWLRQ 1: WK\ GRQ¶W \RX HVWLPaWH WKH VL]H RI SFKRRO BXV PaUNHW LQ AXVWUaOLa?
+Information can be shared upon request, or candidates can make their own assumptions:
+ Australian Population = 25M;                Bus useful life = 10 years;                  Bus capacity = 50 students; 
+ Population distributes evenly based on age;             Average life expectance = 80 years;              Students aged 7-18 all attend schools
+School Bus Market 
+size
+# of buses required 
+per day
+# of students taking 
+buses (age 7-12) 
+% students taking 
+buses
+Australia population
+(25M)
+% of 7-12 population
+(6/80)
+# of students taking 
+buses (age 13-15) 
+% students taking 
+buses
+Australia population
+(25M)
+% of 13-15 population
+(3/80)
+# of students taking 
+buses (age 16-18) 
+% students taking 
+buses
+Australia population
+(25M)
+% of 16-18 population
+(3/80)
+# of school days per 
+year (200)
+Bus loading and 
+purchase factors
+X
+X
+X
+=
+=
+=
+Assume
+60%
+X
+X
+X
+X
+X
+X
+Assume
+30%
+Assume
+20%
+X
+÷
+Bus loading capacity
+(50)
+Useful life of school 
+bus (10)
+=
+X
+Answer: 640,000 buses per year
+Good vs Great candidates
+A good candidate will
+Additionally, a great candidate will also
+1) Justify necessary assumptions
+2) Arrive a close answer without serious mistakes
+3) Articulate the building blocks of the equation 
+4) Link the result to the overall problem (does 640k buses per year mean the market is attractive?)
+5) Drive the case forward (is additional information required to determine the attractiveness of the market?)
+122
+
+
+===== PDF p127 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Part 2: Market related analysis ± Market growth
+Candidates should now turn their attentions to market growth. If not, push candidate to this path. When asked, provide the below information:
+ Driver of growth: growth is usually driven by population growth. On average, Australia population has been growing at 2% per year. 
+ Annual growth rate over the past three years: 5% 
+Push the candidate to think about the high growth rate (5% vs 2%), and ask Question 2: what can cause the high growth rate?
+Brainstorming question; provide the following information if candidate mentions µRegulation/Polic\ changes¶: 3 \ears ago, Australian 
+government introduced a new safety regulation that requires all schools to gradually replace their old buses with new buses within 3 years. 
+Good vs Great candidates
+A good candidate will
+Additionally, a great candidate will
+1) Ask the right questions to understand the market growth
+2) Notice the abnormal groZth rate, but didn¶t question Zh\
+3) Provide reasonable and structured answers to the 
+brainstorming question
+4) Proactively considers whether the high growth rate will continue, and 
+questions what drives the high growth rate
+5) Reach an interim conclusion that the 5% growth rate will not continue in 
+the future; in fact, the market is likely to decline in the next 5-7 years. 
+6) Link the result to overall question (is the market attractive? ± Answer is no)
+Interviewer should push candidate to reach an interim conclusion and to drive the case forward to µCompetition Landscape¶ section. 
+123
+
+
+===== PDF p128 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Part 3: Competition landscape ± Market share analysis 
+Guide the candidate to competition landscape. When candidate mentions market shares, present Exhibit 1 and ask
+Question 3: what do you make of Exhibit 1?
+When asked, provide the below information:
+ Products: school buses are traditionally highly commoditized products; StarBus and its competitors manufacture the same type of buses 
+with minimum differences
+Good vs Great candidates
+A good candidate will
+Additionally, a great candidate will
+1) Identify the fact that StarBus has the highest market share in terms 
+of revenue, but its unit market share is comparatively not as high
+2) Deduce that StarBus must be selling its buses at a higher prices 
+than its competitors
+4) Think about why StarBus charges a higher price for its products
+5) Drive the case forward by analyzing cost structure/margins
+124
+
+
+===== PDF p129 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+EXHIBIT 1 (Market share analysis)
+EXHIBIT 1
+Percentage of AU School Bus 
+market share in ($)
+StarBus
+MelBus
+SydBus
+40%
+32%
+28%
+Percentage of AU School Bus 
+market share in units
+StarBus
+MelbourneBus
+SydneyBus
+30%
+34%
+36%
+125
+
+
+===== PDF p130 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Provide Exhibit 2 if candidate requires cost/margins analysis. Ask
+Question 4: what do you make out of Exhibit 2?
+Candidates might rush to reach a conclusion that the purchase of StarBus is not a good investment because StarBus¶ loZer profit margin. 
+Interviewer should push candidates to think deeper: although StarBus¶ current profit margin is not faYourable, candidates need to consider 
+whether the problem can be solved relatively easily, hence providing a good turnaround potential for the PE client.
+Part 4: Competition landscape ± Margins analysis
+Good vs Great candidates
+A good candidate will
+Additionally, a great candidate will
+1) Notice that StarBus¶s gross 
+margin is 10% lower than its 
+peers; operating efficiency is the 
+same as its competitors
+2) Mention that the lower gross 
+margins are caused by higher 
+COGS
+3) Dive deeper into the potential causes of the higher COGS, and explain the rationale behind. 
+For example, the candidate can say: It looks like StarBus occurs higher COGS than the industry average, 
+which probably explains why StarBus is charging a higher price on its buses. HoZeYer, I don¶t Zant to 
+rush to a conclusion yet because if the problem can be solved, it offers a very opportunity for our PE client 
+to turnaround the business and exit at a higher price. 
+COGS is the function of direct material, direct labor and overheads. Can I please look at the data on direct 
+materials first? 
+126
+
+
+===== PDF p131 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+EXHIBIT 2 (Margins analysis)
+EXHIBIT 2
+Gross margin
+Operating margin
+30%
+10%
+40%
+20%
+40%
+20%
+STARBUS
+MELBUS
+SYDBUS
+127
+
+
+===== PDF p132 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Part 5: Competition landscape ± Cost analysis & structured thinking
+This part is essentiall\ a cost issue problem. It is deliberatel\ designed to test the candidate¶s structured thinking ability. 
+The candidate should drive the process step by step and he/she finds the root cause to the higher cost, and concludes that the root cause 
+cannot be fixed easily
+Higher 
+COGS
+Direct 
+Labour 
+Direct 
+Material
+Overheads
+Industry 
+wide?
+Only 
+specific to 
+StarBus?
+Product 
+related?
+Relationship 
+related?
+Process 
+related?
+High quality 
+parts
+More parts 
+per car 
+More 
+wastage
+More 
+storage cost
+Suppliers 
+charge higher 
+margin
+External 
+factors
+Internal 
+Factors
+Competitors 
+have significant 
+equities in 
+suppliers
+Wrong 
+incentives?
+Can it be 
+solved 
+easily?
+YES
+NO
+Bad negotiation 
+skills?
+×
+×
+×
+×
+×
+×
+×
+¥
+×
+×
+×
+(1)
+(2)
+(3)
+(4)
+(5)
+Same 
+suppliers?
+Different 
+suppliers? ×
+128
+
+
+===== PDF p133 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Again, this part is designed for candidates to showcase their structured thinking. If candidates are not driving the case forward, below are 
+questions that interviewers can ask to push candidates towards self-driving the case:
+(1): What can cause higher COGS?
+(2): Yes StarBus is paying higher direct material costs; how to you want to proceed? Do you want to find out why? How? 
+(3): What can cause StarBus to pay a higher direct material costs than its peers
+(4): Why do you think the same suppliers are charging higher prices to StarBus?
+(5): StarBus¶ suppliers industr\ is highl\ consolidated, and sZitching suppliers is Yer\ costl\ to bus manufactuers. Do you think the problem 
+can be solved relatively easily and within a short time frame?
+Good vs Great candidates
+A good candidate will
+Additionally, a great candidate will
+1) Provide reasonably good structure in answering 
+each of the questions
+2) Be able to drive the case forward with few hints 
+(2-3) and find the final root cause 
+3) Be able to defend their answers when challenged 
+by interviewers
+4) Demonstrate strong ability in leading the conversation and driving the case without 
+help from interviewers
+5) Answers are structured and succinct 
+6) Proactively link the answer to the overall framework (Higher gross margin -> cannot 
+solve the problem easily -> disadvantaged by competitors -> unattractive investment)
+Part 5: Competition landscape ± Cost analysis & structured thinking (continued)
+129
+
+
+===== PDF p134 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+StarBus Australia
+Author: Ken Wen (µ20D)
+Part 6: Solution & Recommendations
+To conclude, the candidate should include the following:
+Recommendation:
+ Acquiring StarBus is not a good investment for the client because 
+o School Bus market in AU will decline drastically over the next 3-5 years (schools have replaced all of their old buses with new buses 
+due to the new regulation)
+o StarBus is paying higher prices for direct materials comparing with its competitors, and it is unlikely that StarBus can negotiate a lower 
+price or switch to a new supplier within a short timeframe.
+Next steps:
+ Look at the evaluation model. If the price is heavily undervalued, the investment is still attractive given the above adverse factors
+ Switch target to MelBus or SydBus instead
+ Assess the s\nergies betZeen the bus manufactures Zith PE client¶s portfolio companies
+130

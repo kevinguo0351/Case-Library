@@ -1,0 +1,32 @@
+{
+  "case_id": "Tuck_2009_10_kicks",
+  "school": "Tuck",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2009.pdf",
+  "idx": 10,
+  "case_name": "Kicks",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Apparel / Footwear",
+  "difficulty": null,
+  "pdf_page_start": 69,
+  "pdf_page_end": 77,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    69,
+    70,
+    71,
+    73,
+    76,
+    77
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p069.png",
+    "exhibits/exhibit_p070.png",
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p073.png",
+    "exhibits/exhibit_p076.png",
+    "exhibits/exhibit_p077.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2009\\10_kicks"
+}

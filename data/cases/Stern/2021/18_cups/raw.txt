@@ -1,0 +1,484 @@
+===== PDF p201 =====
+© 2021 NYU Stern MCA
+Cups
+Author: Kamini Khanjee (Stern ‘20) & Connie Meltzer (Stern ‘20) [Interviewer-Led]
+Quant: 8*
+Structure: 7*
+Case Overview:
+Industry: Consumer Packaged Goods
+Case Type: Product Launch,
+Profitability
+Concepts Tested:
+•
+Market Sizing
+•
+Profitability
+•
+Pricing
+Overview Information for Interviewer:
+Interviewee should be able to…
+•
+Assess the market size for such a product
+•
+Read charts and provide insight and analysis based on that information
+Key case steps:
+•
+Conduct market size to assess menstrual cups and evaluate market 
+attractiveness
+•
+Evaluate customer willingness to switch products
+•
+Calculate price to offset cannibalization of current product offerings
+•
+Assess qualitative risks and challenges
+Case Prompt:
+Your client is Proctor & Gamble, which owns Tampax and Always, leading menstrual product brands in the US. 
+With the rise in sustainability focused products, P&G’s in-house R&D team has developed a hypoallergenic and 
+eco-friendly high-grade silicone material for use in upcoming products launches. They are interested in using the 
+material to make menstrual cups to add to their line of consumer care products. Should they sell the silicone 
+menstrual cups?
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+197
+© 2021 NYU Stern MCA
+
+
+===== PDF p202 =====
+Cups: Case Guide
+Clarifying Information:
+Success:
+•
+P&G will manufacture and sell the product if 
+at least 10% of customers willing to 
+purchase menstrual cups are willing to pay 
+for it, and the inherent cannibalization 
+doesn’t negatively impact sales
+Competitors:
+•
+Stand alone brands such as Diva Cup,
+Softcup, Blossom, Saalt, and Lena
+Product Information:
+•
+Environmentally friendly with an average 5 
+year lifespan before recycling
+•
+R&D investment costs of $12M
+•
+Compound discount rate for a 5 year period
+is 10%
+Client Characteristics:
+•
+P&G is a large CPG company that owns 
+other menstrual product brands like Tampax 
+(tampons) and Always (pads).
+Interviewer Guide:
+A Good Framework Will:
+•
+Consider pricing and volume factors: including market size, 
+consumer WTP, competitor prices, cannibalization of other 
+product sales
+•
+Marketing factors - sustainability, price comparison to other 
+products, long term cost savings for customers, target 
+segments, portability
+•
+Competition - new entrants, market saturation
+•
+Risks - product cannibalization, R&D costs, manufacturing 
+costs
+198
+© 2021 NYU Stern MCA
+
+
+===== PDF p203 =====
+Cups: Question 1
+Question 1: Market Sizing
+Calculate the US market size for such a product.
+Notes to Interviewer:
+•
+The interviewee should do a top down approach to this market 
+size. They are allowed to round and give the following 
+information if asked for.
+Market Data to provide to help interviewee if asked for:
+•
+Population of U.S.: 330 Million
+•
+Female Population: 165 Million
+•
+Assume even distribution of population from 0-80
+•
+Assume menstruation starts at 10 and ends at 50
+•
+Assume a 10% willingness to use such a product
+•
+Comparable product price: $40
+•
+Market capture: aggressive 10% in first year, 5%
+Possible Math for Market size:
+•
+Population of U.S.: 330M
+•
+Female Population (50%) 165M
+•
+Even distribution of pop from 0-80 (/8): 20.625M
+•
+Menstruation Ages 10 to 50 (x4): 82.5M
+•
+Estimate 10% of addressable market is willing to use 
+such a product (x .10): 8.25M
+•
+Comparable product price (x$40): $330M
+•
+Market capture in first year: Aggressive 10%: $33M
+Conservative 5%: $16.5M
+199
+© 2021 NYU Stern MCA
+
+
+===== PDF p204 =====
+Cups: Question 2
+Question 2: Survey Analysis
+Proctor and Gamble conducted a survey sent to all US women aged 18-50 to determine their willingness to switch 
+from their current menstrual products to a menstrual cup. This exhibit (Exhibit A) shows the answers from that 
+survey. Based on this information, what adjustments would you make to your market size?
+Notes to Interviewer:
+Additional information:
+•
+Survey was sent to approximately 64M women
+•
+Total survey respondents: 3.2M
+•
+P&G believes this survey accurately represents the population’s interest in this product
+•
+P&G believes they could switch a quarter of the undecided 40% to use the product with 
+10% market capture in Year 1
+Possible answers are:
+•
+My market size looks right. I would just double the market size based on the additional 
+10% of consumers (¼ of 40%) P&G believes they could achieve.
+•
+I’ll add this willingness to use component to my market size (20% after all menstruating 
+females) and calculate potential revenue with any sales data available.
+Possible Adjusted Math
+Based on Market Size:
+20% willingness to use such a 
+product (x .20): 16.5M 
+Comparable product price(x$40):
+$660M
+Market capture in first year:
+Aggressive 10%: $66M
+Conservative 5%: $33M
+200
+© 2021 NYU Stern MCA
+
+
+===== PDF p205 =====
+Cups: Exhibit A
+Key Insights Interviewer Should Look For:
+• 40% of population is unsure about whether they would switch to this product. Marketing will be key to the 
+product’s success.
+• Interviewee should ask if P&G thinks they can break into that subset of the market.
+• If the interviewee did not think about customer willingness to use this product in their market size, this will
+give them the 10% to adjust.
+201
+© 2021 NYU Stern MCA
+
+
+===== PDF p206 =====
+•
+Tampons = $7 x 10 = $70
+•
+Pads = $7 x 2 = $14
+•
+Liners = $6 x 1 = $6
+Affected Annual Sales of Existing Care Products = Addressable Market x Sales 
+per Customer = $148.5M
+•
+Addressable Market from market size adjusted for Market Capture = 16.5M
+customers x 10% market capture in Year 1 = 1.65M customers
+•
+Annual Sales per Customer = $90/year
+○
+1.65M customers x $90/year = $148.5M
+Potential Cannibalized Revenue = Annual Sales x 5-year product lifespan =
+$742.5M
+[Interviewer to provide when Interviewee discusses discount rate] 
+Approximate PV @ 10% Discount Rate = $742.5M/(1 + 10%) =  $675M
+Cups: Question 3 (1/3)
+Question 3: Case Math
+Given the information in Exhibit B and Exhibit C, how should P&G price the menstrual cup in order to offset 
+cannibalization of current menstrual care product sales?
+Math Information:
+•
+Use 10% market capture from 
+‘Clarifying Information’ section to 
+calculate cannibalized annual sales of 
+existing care products
+•
+Redirect interviewees to use 16.5M as 
+addressable market, as needed
+•
+Gross up sales for 5-year cup lifespan
+•
+Provide $675M PV after Interviewee 
+acknowledges 10% discount rate
+•
+Assume that the calculation is based 
+on a woman buying all of the products 
+listed
+Math Solution:
+Annual Sales per Customer = Average Price x Annual Frequency of Purchase =
+$90 using Exhibit B [Rounded]
+202
+© 2021 NYU Stern MCA
+
+
+===== PDF p207 =====
+Cups: Question 3 (2/3)
+Question 3: Case Math
+Given the information in Exhibit B and Exhibit C, how should P&G price the menstrual cup in order to avoid 
+negative cannibalization of current menstrual care product sales?
+Math Solution:
+Calculate Estimated Annual Sales per Customer for Complimentary Products =
+Average Price x Annual Frequency of Purchase = $85 using Exhibit C [Rounded]
+Math Information:
+•
+Use 10% market capture from 
+‘Clarifying Information’ section to 
+calculate cannibalized annual sales of 
+existing care products
+•
+Gross up sales for 5-year cup lifespan
+•
+Provide $637.5M PV after Interviewee
+acknowledges 5% discount rate
+•
+Discs= $15 x 2 = $30
+•
+Wash = $7 x 4 = $28
+•
+Wipes = $6.75 x 4 = $27
+Estimated Annual Sales for Complimentary Products = Addressable Market x Sales 
+per Customer = $140.25M
+•
+Addressable Market from market size adjusted for Market Capture = 16.5M customers
+x 10% market capture in Year 1 = 1.65M customers
+•
+Annual Sales per Customer = $85/year
+○
+1.65M customers x $85/year = $140.25M
+Potential Complimentary Revenue = Annual Sales $140.25M x 5-year product lifespan
+= $701.25M
+[Interviewer to provide when Interviewee discusses discount rate] 
+Approximate PV @ 10% Discount Rate = $701.25M/(1 + 10%) = $637.5M
+203
+© 2021 NYU Stern MCA
+
+
+===== PDF p208 =====
+Cups: Question 3 (3/3)
+Question 3: Case Math
+Given the information in Exhibit B and Exhibit C, how should P&G price the menstrual cup in order to avoid 
+negative cannibalization of current menstrual care product sales?
+Math Solution:
+Breakeven Unit Price = (Cannibalized Revenue + R&D Costs -
+Estimated Complimentary Revenue)/Captured User Market
+•
+Cannibalized Revenue = $675M
+•
+R&D Costs = $12M
+•
+Estimated Complementary Revenue = $637.5
+○
+$675M + $12M - $637.5M = $49.5M
+○
+Breakeven Unit Price = $49.5M/1.65M = $30/cup
+Math Information:
+• Interviewee should approximate 
+break-even price per unit 
+between $25-30
+204
+© 2021 NYU Stern MCA
+
+
+===== PDF p209 =====
+Cups: Question 4
+Question 4: Product Launch Feasibility
+Given the information in Exhibit D and the break-even unit sales price calculated in Question 3,
+Math Solution:
+Interviewees should add all respondents in each category from 21+
+10% of survey respondents: 1,620*.10 = 162(K)
+NLU: 260+156+104 = 520*.25 = 130K 
+L: 40+24+16 = 80
+VL: 40+32+16 = 88
+NLU+L+VL = 298K
+298K > 162K thus they should launch the product.
+Information:
+•
+All respondents for a certain price 
+category will purchase at any price 
+in that category
+•
+Remind Interviewee that at least 
+10% of customers interested in 
+menstrual cup are willing to pay the 
+break-even unit sales price
+•
+Remind Interviewee that P&G 
+estimates that they can convert 
+25% or a quarter of respondents in 
+the “Neither Likely or Unlikely” 
+category to purchasers of the 
+menstrual cup
+205
+© 2021 NYU Stern MCA
+
+
+===== PDF p210 =====
+Cups: Question 5
+Question 5: Marketing Brainstorm
+P&G has noticed consumers increased interest in sustainability. What suggestions would you have for the
+marketing team to promote the menstrual cup? How can P&G lean into this consume interest in their other
+menstrual products?
+Notes to Interviewer:
+Pro Cup
+4Ps
+Product - ease of use, new material
+Pricing - according to customer WTP and previous 
+calculations
+Place - pharmacies, DTC channels
+Promotion - ease of use, sustainability factors, lifetime 
+savings vs. tampons & pads, influencer marketing 
+options
+Non-Cup
+4Ps
+Product - changing to fully biodegradable materials, 
+less packaging, transparency on product ingredients, 
+organic products
+Pricing - same quality product at the price you know 
+Place - pharmacies, online retailers, grocery stores 
+Promotion - sustainability focused ad campaign based
+on new products.
+206
+© 2021 NYU Stern MCA
+
+
+===== PDF p211 =====
+Exhibit A
+Survey response rate: 5%
+207
+© 2021 NYU Stern MCA
+
+
+===== PDF p212 =====
+Exhibit B
+Average Price
+Units
+Price/Unit
+Annual Frequency of 
+Purchase
+Tampons
+$6.99
+28
+$0.25
+10
+Pads
+$6.99
+46
+$0.15
+2
+Liners
+$5.99
+100
+$0.06
+1
+Current sales information for P&G’s menstrual care product line
+208
+© 2021 NYU Stern MCA
+
+
+===== PDF p213 =====
+Exhibit C
+Average Price
+Units
+Price/Unit
+Annual Frequency of
+Purchase
+Single-use Discs
+$14.99
+12
+$1.25
+2
+Wash
+$6.99
+1
+$6.99
+4
+Wipes
+$6.75
+10
+$0.68
+4
+Estimated sales information for new complementary products for the 
+menstrual cup
+209
+© 2021 NYU Stern MCA
+
+
+===== PDF p214 =====
+Exhibit D
+Survey response rate: 5%
+Total survey respondents : 1,620
+210
+© 2021 NYU Stern MCA
+
+
+===== PDF p215 =====
+© 2021 NYU Stern MCA
+Cups: Final Recommendation
+Recommendation:
+•
+The interviewee should have a clear 
+position on whether P&G should 
+produce and sell this product based on 
+their calculations and whether it 
+reaches the threshold for the client.
+•
+An excellent interviewee will include 
+the market size and what price they 
+would sell the product at if producing 
+and why
+Bonus: Guide to an excellent case
+•
+This case builds on itself. An excellent interviewer will remember each aspect of the previous section and bring it into the next one.
+•
+There’s a lot of math in this case. An excellent interviewer will have neatly organized math that makes it easy for them to calculate 
+and keep track of their data.
+•
+An excellent interviewee will have out of the box marketing ideas and note that P&G is focused on sustainability.
+Risks:
+•
+Excessive product cannibalization
+•
+Incorrect estimated revenue and 
+purchasing frequency
+•
+Lower market capture/ customer 
+adoption
+•
+More profitable products to be made
+out of the new material
+Next Steps:
+•
+Begin production of menstrual cups
+•
+Develop comprehensive marketing 
+plan and contact current retailers for 
+promotions and shelf options
+•
+Consider expanding product sales for 
+additional markets
+•
+1:1 donations to developing markets
+211
+© 2021 NYU Stern MCA

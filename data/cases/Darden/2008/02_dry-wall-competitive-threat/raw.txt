@@ -1,0 +1,262 @@
+===== PDF p11 =====
+ 
+8
+ 
+C O N S U L T I N G  C A S E  I N T E R V I E W  
+Dry Wall Competitive Threat 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty (Select level of difficulty) 
+ 
+ 
+ 
+ 
+
+
+===== PDF p12 =====
+ 
+9
+ 
+
+
+===== PDF p13 =====
+ 
+10
+Question 
+Our client is a dry wall manufacturer and is concerned about a new player coming into the 
+market. The new player is perceived to be a low price player and our client is considering 
+lowering its price by 10%. The client seeks our advice regarding its options. 
+Note 
+This case is similar to a case that a student may receive in a first or second round interview with 
+BCG/Bain. 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. How many products does the client 
+produce? 
+One 
+2. Is the new competitor’s product similar 
+to ours? 
+For practical purposes we can assume that 
+our product is similar to the new 
+competitor’s product.  
+3.How are “dry-wall” products 
+differentiated? 
+For our analysis assume all the “dry-wall” 
+products in the market are similar. 
+ 
+ 
+ 
+ 
+ 
+Plan 
+This is a strategy/competitive type case.  A comprehensive plan should include the following 
+areas: 
+5. Client’s impact of reducing price by 10% 
+6.  Market Structure (In terms of number of competitors and their share) 
+7. Customer –  
+a. Who are our customers?  
+b. Their Preferences 
+c. Price Sensitivity 
+8. New Competitor 
+a. Size 
+b. Strength 
+c. Weaknesses 
+
+
+===== PDF p14 =====
+ 
+11
+ 
+9. Our Client’s position 
+a. Market Position 
+b. How long we are in the market 
+c. Brand Strength 
+ 
+Question: After the candidate lays out his or her plan, ask the candidate to analyze the 
+impact of 10% price reduction on our client’s bottom line. 
+When the candidate asks provide the following information regarding revenue and costs for 
+our client: 
+Number of units sold = 100,000 
+Selling Price Per Unit = $10 
+Variable Cost Per Unit = $3 
+Allocated Fixed Cost Per Unit = $2 
+ 
+Key Assumption: 
+If the candidate asks regarding the volume change with the price cut, state that the volume 
+will remain same with the price cut. If the candidate does not ask about the volume change 
+it is expected that the candidate explicitly state the assumption before proceeding to the 
+calculation. 
+ 
+Expected Calculation: 
+Total Fixed Cost = $100,000 * $2 = $200,000 
+This is a key insight, the allocated fixed cost needs to be converted into total fixed cost. 
+ 
+Original Case 
+Revenue = $10 * 100,000 = $1,000,000 
+Variable Cost = $3* 100,000 = $300,000 
+Contribution Margin = $1,000,000 - $300,000 = $700,000 
+Profit = $700,000 - $200,000 = $500,000 
+Price Cut Scenario 
+New Price = $9 
+Revenue = $9 * 100,000 = $900,000 
+Variable Cost = $3 * 100,000 = $300,000 
+Contribution Margin = $900,000 - $300,000 = $600,000 
+
+
+===== PDF p15 =====
+ 
+12
+New Profit = $600,000 - $200,000 = $400,000 
+Impact on bottom line = [(New Profit – Old Profit)/(Old Profit)] 
+Impact on bottom line = ($400,000 - $500,000)/$500,000 = -$100,000/$500,000 = -20% 
+ 
+The candidate is expected to state that the impact on the bottom line is 20% and thus is 
+magnified compared to the 10% price cut. 
+ 
+Question: Now ask the candidate if our client maintains the price how much volume it 
+potentially needs to lose to make it equivalent to cutting the price by 10%. 
+If the candidate takes the initiative and explores this question then it needs to be noted and 
+encouraged (this differentiates a very strong candidate from others) 
+Expected Analysis: 
+Let the new volume of units the client sells be “x”. 
+So if the client sells “x” units @$10, the profit would be: 
+Revenue = 10*x 
+Variable Cost = 3*x 
+Fixed Cost = $200,000 
+Profit = 10x -3x - $200,000 
+A classic mistake is to take the contribution per unit as $5 (effectively treating the 
+allocated fixed cost as a variable cost too) and using $5*x as the profit. 
+ 
+So for this option to be equivalent to cutting the price by 10% the equation would be  
+10x – 3x – 200,000 = 400,000 
+7x = 600,000 
+x = 600,000/7 = 85,700 approx 
+Loss in market share = (85,700-100,000)/100,000 = 14.3% 
+It is expected that the candidate explains what this 14.3% number represents; expected 
+answer would be that the 14.3% is the maximum market share our client can afford to lose 
+before the option of cutting price by 10% appears to be a better choice. 
+ A candidate can differentiate himself or herself by stating that key is to estimate how much 
+the client can potentially lose if it does not reduce price by 10%. 
+ 
+Question: Now ask the candidate that if our client needs to make a choice between these 
+two options how you would help our client make the choice. 
+Now the candidate is expected to make use of his or her plan to help make a decision. 
+If candidate asks the following questions provide the following information: 
+
+
+===== PDF p16 =====
+ 
+13
+What is the Market Structure? (In terms of number of competitors and their share) 
+Answer: Show Exhbit 1, with the shares 
+ 
+What is size of the Competitor? 
+Answer: They are a small to mid size player 
+ 
+Who are our customers?  
+Answer: They are primarily contractors/small business owners. They buy directly from us. 
+  
+What are our Customer’s Preferences or how price sensitive they are? 
+Customers usually buy based on relationships and they build preference on a particular 
+brand. We do not have any information regarding price sensitivity. 
+ 
+How do we sell to our customers? 
+We sell based on their orders. There are no long term contracts. 
+ 
+What are the strengths of the new competitor? 
+Answer: Not much information, they are a new player in the market. They have presence in 
+other market our client does not compete in. 
+ 
+What are the weaknesses of the new competitor? 
+Answer: Not much information, they are a new player in the market. They have presence in 
+other market our client does not compete in. 
+ 
+What is our brand strength? 
+Answer: As a number 3 player, we have strong brand presence and we have been in the 
+market for a significant period of time. 
+ 
+How long we have been in the market? 
+We have been in the market for a significant period of time. 
+ 
+Is there much differentiation in the product? 
+Not much, for practical purposes consider all products to be similar. 
+ 
+
+
+===== PDF p17 =====
+ 
+14
+ 
+Key Expected Insights 
+Based on the information provided the candidate is expected to come up with at least the 
+following insights: 
+ð Dry wall market is a very fragmented, and we are a dominant player 
+ð Considering the size of the competitor, they would be one of the small 30+1 players 
+ð That would mean on an average the new competitor’s market share would be around 
+o 70/31 = 2.3% approx 
+ð New Competitor assuming fair share draw would take 2.3% of our volume, although 
+one can argue that they may not take any volume and compete with the other 
+small/mid size 30 players 
+ 
+Question: Now ask the candidate to make the recommendation. 
+ 
+Recommendation 
+The recommendation should include the following: 
+5. The answer – Client should not reduce price, because this is not a serious threat and 
+cutting price in this market would lead to a price war where everyone would lose. 
+6. The number(s) – Reducing the price by 10% would impact profit by 20%. 20% 
+impact on profit is equivalent to losing 14.3% market share at the current price levels 
+and at most the client can lose 2.5% volume. 
+ 
+ 
+7. Risks or considerations –  
+a. We might underestimate the size or strength of the new competitor (new 
+competitor might be bought by a bigger player) 
+b. One of the major competitors (A or B)  may have a knee jerk reaction and 
+reduce price 
+8. Next steps –  
+a. To mitigate some of the risks our client should aggressively strengthen its 
+client base by 
+i. Providing additional services 
+b. To create a barrier for the new competitor to poach our client’s customers 
+i. Client can enter into long term contracts with its customers 
+
+
+===== PDF p18 =====
+ 
+15
+c. Even if A or B reduces its price, our client should maintain price and 
+aggressively provide value added services to the customers.  
+ 
+Exhibits 
+(Case Exhibits should be on a separate sheet of paper and included or attached to the end of 
+this document.  If there are no exhibits, include any data that the interviewer must provide.) 
+ 
+Exhibit 1 
+ 
+ 
+ 
+ 
+70%
+8%
+10%
+12%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+1
+Dry Wall Market
+A
+B
+Client
+30 other players

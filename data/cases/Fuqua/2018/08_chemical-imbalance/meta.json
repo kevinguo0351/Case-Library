@@ -1,0 +1,34 @@
+{
+  "case_id": "Fuqua_2018_08_chemical-imbalance",
+  "school": "Fuqua",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2018.pdf",
+  "idx": 8,
+  "case_name": "Chemical Imbalance",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Chemicals",
+  "difficulty": "Medium",
+  "pdf_page_start": 89,
+  "pdf_page_end": 100,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p092.png",
+    "exhibits/exhibit_p093.png",
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p098.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2018\\08_chemical-imbalance"
+}

@@ -1,0 +1,104 @@
+===== PDF p61 =====
+ 
+HBS Case Interview Guide, Page 53 
+Practice Case 10 (Travel Agency) 
+ 
+Question 
+A travel agency makes a 10% commission on all of its travel bookings. Their current profit before taxes is $1MM, while the industry 
+average ranges from $2MM to $3.5MM. Why are they making less than the industry average? 
+ 
+Recommended Solution 
+ 
+High Level Plan of Attack 
+• 
+We need to understand the revenue stream and cost structure of the travel agency and conceptualize how each transaction contributes to the bottom 
+line. 
+• 
+Focus on the types of customers the agency services and how each type relates to profitability. 
+ 
+Lay Out Your Thoughts 
+• 
+Use the Profitability Framework, with a focus on the cost side of the equation. 
+• 
+Break your analysis down to the two types of customers: business and leisure. 
+ 
+Dig Deeper: Gather Facts/Make Calculations 
+• 
+What is the total gross revenue for the agency per annum, on average? $10 million. 
+• 
+How does the revenue compare to other agencies with similar size? They are about the same. 
+• 
+What about the product line? Does the agency handle any bookings other than travel tickets? No. They just book tickets for their customers. 
+• 
+What are the different customer segments that the agency services? There's the business traveler segment, which comprises about 40% of total 
+revenue, and the leisure traveler segment with the remaining 60%. 
+• 
+How many total transactions does the agency process and what is the break down for each customer segment? The total number of transactions is 
+around one million per year. On average, about 300K go to the business segment, and 700K to the leisure. 
+• 
+Is there a cost associated with each transaction? Yes, each transaction, regardless of which segment, costs $9. 
+
+
+===== PDF p62 =====
+ 
+HBS Case Interview Guide, Page 54 
+o [Now you have all the necessary information to calculate the profitability of transactions for each segment. If you run the numbers, you 
+will find the following information.] 
+ 
+ 
+Segment 
+ Share  
+Volume  
+Total 
+Revenue 
+ 
+Revenue / 
+Transaction  
+Cost / 
+Transaction  
+Profit / 
+Transaction  
+Gain 
+Business 
+ 
+60%     300,000   $   6,000,000   $      20.00   $        9.00    $      11.00   $   3,300,000 
+Leisure 
+ 
+40%     700,000   $   4,000,000   $        5.71   $        9.00    $       (3.29)   $  (2,300,000)
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 10,000,000   
+ 
+ 
+ $   1,000,000 
+ 
+ 
+ 
+ 
+Key Findings 
+• 
+The leisure travelers are draining your profitability.  Either the cost per transaction is too high or the revenue per transaction made on the leisure is 
+too low. 
+ 
+Recommendations 
+• 
+Benchmark the cost structure of other travel agencies.  
+• 
+Negotiate with the airlines on the possibility of charging a premium for leisure tickets or capture a larger commission through cost charged to the 
+customer.  
+• 
+Look into the possibility of reducing cost per transaction for the leisure travelers.  
+• 
+Offer the leisure traveler other products to increase revenue per transaction such as hotel bookings and travel packages.  
+• 
+Become a niche player and focus only on the business traveler 
+ 
+ 
+ 

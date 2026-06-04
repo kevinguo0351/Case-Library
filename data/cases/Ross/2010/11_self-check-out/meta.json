@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2010_11_self-check-out",
+  "school": "Ross",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2010.pdf",
+  "idx": 11,
+  "case_name": "Self Check-Out",
+  "case_type": "Operations",
+  "round": "null",
+  "industry": "Retail",
+  "difficulty": "null",
+  "pdf_page_start": 81,
+  "pdf_page_end": 84,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    83
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p083.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2010\\11_self-check-out"
+}

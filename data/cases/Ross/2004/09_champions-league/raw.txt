@@ -1,0 +1,82 @@
+===== PDF p25 =====
+Table of Contents 
+ 
+21
+Practice Case 9: Champions league  
+(BCG - Round 1) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is a German television broadcasting company. It has rights 
+for broadcasting Champions League Soccer Tournament in Germany. 
+We have been asked to decide whether to broadcast it on pay-TV 
+channel owned by the client or on the free channel also owned by the 
+client. 
+ 
+II. Additional information provided after relevant questions:   
+ 
+Interviewee has to come up by himself with notion of incremental revenues 
+and cost of serving and acquiring customers.  
+ 
+• 
+The revenue sources for the two options are: Ads for free TV and 
+additional subscribers for pay TV.  
+• 
+In first round, there are 4 groups with 4 teams each. Each team plays 
+with each other team within there group in the first round. There are 3 
+German teams. They are all in different groups. We are going to 
+broadcast only games with their participation. Second round is 
+quarterfinals with home and guest games. Then semifinals come. And 
+then final ñ one game. 30 seconds of ads are $50K at any stage. A 
+game has 25 min of ads. 
+• 
+Can assume that the German teams advance through all rounds 
+• 
+If we decide not to broadcast the game on free TV, we will still get the 
+same minutes of advertising at $20k/minute 
+• 
+If we decide to broadcast on pay-TV, we will get 1M more subscribers. 
+• 
+Pay TV: Subscription fee is $10. Price per month $5. 
+• 
+No customers will leave if you decide not to broadcast on pay-TV. 
+• 
+Project only for 1 year. 
+ 
+III. Sample Solution:   
+ 
+1 round = 3  6 = 18 games broadcasted 
+2 round ñ 8 games 
+3 round ñ 4 games 
+Final ñ 1 game 
+Total: 31 games.  
+ 
+Free TV 
+ 
+Ad revenue per game = 25  2  50K = 2.5M 
+ 
+We have also the opportunity cost. With no game broadcasting we can get 
+$20K per minute.  
+
+
+===== PDF p26 =====
+Table of Contents 
+ 
+22
+Incremental revenue per game = 25  (100 ñ 20) = 2M  
+Total incremental revenue = 31  2 = 62M 
+No additional cost. 
+ 
+Pay TV 
+ 
+Incremental revenue will be 1M  (10 + 5  12) = 70M.  
+But the acquisition cost is $5 per new customer and it costs $6 per year to 
+serve one customer.  
+ 
+Incremental profit will be 70M ñ 1M  (5 + 6) = 59M.  
+ 
+Given this information, the incremental profit for pay TV is $59M and for 
+free-TV is $62M. Our client should broadcast the games on free-TV. 
+ 
+Push the interviewee to come up with exact numbers.  
+ 

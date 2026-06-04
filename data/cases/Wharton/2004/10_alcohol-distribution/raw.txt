@@ -1,0 +1,89 @@
+===== PDF p25 =====
+CASE 10:  ALCOHOL DISTRIBUTION (Booz Allen – Rd 1)        SUPPLY CHAIN 
+ 
+The client is a US market-leading alcohol manufacturer.  They are considering restructuring 
+their distribution strategy and want to know if they should have one or 50 distribution centers. 
+ 
+ 
+Additional Information Provided After Relevant Questions: 
+ 
+20
+ 
+• Distribution centers lie in between the bottling plants (all over the US) and the customers. 
+• Customers are the spirits retailers. 
+ 
+ 
+Interviewee’s Solution: 
+ 
+I drew a list of advantages of 1 versus 50 distribution centers: 
+Advantages of 1: cost of location/real estate; cost of labor in warehouse; less inventory needed (less 
+deviation of demand); better management/infrastructure efficiencies; costs of breakage lower (less 
+moving, less “bumps,” fewer breakage opportunities).   
+Advantage of 50: reduced risk (fire in one distribution center and you have serious problems if that’s 
+the only center); less time involved in order process. 
+ 
+I then drew a map of the United States and determined transportation costs would be less. 
+ 
+Twist added: Given to me that the total cost of 50 distribution centers would be $600MM while total 
+cost of 1 distribution center would be $500MM, but CFO still decided to go with 50 distribution 
+centers.  I was asked why I think he went with that decision.   
+ 
+Conversation included hedging risk is a huge factor not easily quantifiable, but that customer service 
+(proximity to customers makes response faster) would result in more loyal customers and result in 
+higher acquisition and retention rates of customers. 
+ 
+ 
+Commentary/Recommendations: 
+ 
+I would analyze this case using the following framework: 
+ 
+Our client should adopt whichever distribution network is the most profitable unless there are 
+compelling risk factors or long term strategic issues that demand otherwise. So in making the decision 
+there are three primary areas we need to explore: 
+• Costs – what are the incremental costs associated with using 50 distribution centers instead of 
+one central warehouse. 
+o What are the transitional costs or one-time set up costs associated with moving away 
+from the existing distribution network? 
+o What are the real estate/plant costs associated with running 50 warehouses? 
+Presumably this is significantly more than having one enormous warehouse. 
+o What are the transportation costs associated with running 50 separate warehouses? 
+Presumably running 50 warehouses creates some savings because each of the routes is 
+far shorter than if we only have one national warehouse but there may be some 
+interesting issues if running 50 warehouses means we are not operating at scale. 
+
+
+===== PDF p26 =====
+o What are the personnel costs associated with 50 warehouses? Presumably this would 
+involve significantly more staff and we would have a duplication of functions that 
+could be avoided by operating one warehouse? 
+o What are the capacity/stock keeping costs? Pooling resources normally enables 
+smoothing of demand fluctuations. We anticipate that the total inventory held at all 50 
+warehouses would be higher than if fluctuations could be smoothed by using only one 
+warehouse. 
+• Revenue – what is the net revenue impact from expanding the number of distribution centers? 
+o Will we be better able to service our customers’ needs by having 50 distribution centers 
+and therefore be able to increase demand and sales revenue? 
+o Will having a “local” presence enhance the image or reputation of the firm and help 
+increase sales. 
+o Will we have a better understanding of market conditions by having employees on the 
+ground in 50 locations and therefore operate in a more responsive fashion helping to 
+increase sales. 
+• Strategic/Risk Factors – are there factors that cannot easily be quantified in the revenue and 
+cost analysis that make one structure more preferable. 
+o What is our exposure if there is a fire in our one warehouse? 
+o What is our exposure if there is a local transport strike that affects our one warehouse? 
+Similarly what if there is an adverse weather event e.g. snowstorm that impacts our one 
+distribution center? 
+o From a strategic perspective are we better off having 50 centers so that we can more 
+rapidly respond and grow in one area if necessary? 
+o Do we need 50 centers because this is what competitors do and this is what our 
+customers will expect/demand? 
+o Do we need 50 centers from an internal cost monitoring perspective? e.g. the 50 centers 
+can be benchmarked against each other. Best practices rolled out across the whole 
+system. Inefficiency may be less visible if there is only one center. 
+ 
+ 
+ 
+ 
+ 
+21

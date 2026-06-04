@@ -1,0 +1,77 @@
+===== PDF p36 =====
+ 
+Haas Consulting Club Case Book 
+ 
+32  
+5.8. 
+Toothbrush Wars 
+Length: Medium (30 Minutes) 
+ 
+Problem: 
+Your client is the division of a global consumer products company that produces 
+toothbrushes.  Its product portfolio consists primarily of a “manual” toothbrush that 
+retails for $3 and an electric “rechargeable” toothbrush that retails for $50.  One year ago, 
+a new competitor introduced a battery-powered electric “spinbrush” that retails for $5 and 
+now controls 1% of the worldwide toothbrush market.  Your client currently lacks a 
+comparable offering and would like to know whether it should develop a similar product. 
+ 
+Hint: (to be provided only if interviewee struggles significantly with the initial 
+structuring of the problem) 
+The client typically views the market in terms of margins and “per customer per year” 
+metrics. 
+ 
+Information To Be Provided If Specifically Requested: 
+One year ago, the worldwide market was made up of 80% manual and 20% rechargeable 
+toothbrushes.  The spinbrush’s 1% market share gain has come mostly at the expense of 
+rechargeable toothbrush sales. 
+ 
+Manual: 
+• The client’s net profit margin on sales of manual toothbrushes is 66% 
+• The average manual toothbrush user goes through 4 toothbrushes per year 
+• On average, 2 toothbrushes per year are given to manual toothbrush users free of charge by their dentists 
+ 
+Rechargeable: 
+• Rechargeable toothbrushes are sold as two separate components: a “base” that retails for $50 (with a 
+60% net profit margin) and an associated “head” that retails for $5 (with a 90% net profit margin) 
+• 1 base and 1 head are needed at all times for the device to work; no other components are compatible 
+• The average base last 10 years 
+• The average rechargeable toothbrush user goes through 2 heads per year and purchases bases as needed 
+ 
+Spinbrush: 
+• No specific cost data is known for the competitor’s spinbrush offering 
+• Client product development believes it could produce a spinbrush “knockoff” at a cost of $3 per brush 
+ 
+Analysis: 
+The most effective approach should begin by calculating figures in terms of profit per 
+customer per year. 
+ 
+Manual: 
+[2 toothbrushes purchased] x [$3 retail] x [66% profit margin] = [$4 profit per customer 
+per year] 
+ 
+Rechargeable: 
+
+
+===== PDF p37 =====
+ 
+Haas Consulting Club Case Book 
+ 
+33  
+([2 heads purchased] x [$5 retail] x [90% profit margin]) + ([1/10 base] x [50 retail] x 
+[60% profit margin]) 
+= [$12 profit per customer per year] 
+ 
+Spinbrush: 
+Assuming production costs would be the same for the client and its competitor: 
+[2 toothbrushes purchased] x ([$5 retail] – [$3 cost of production]) = [$4 profit per 
+customer per year] 
+ 
+Solution: 
+At this point the analysis becomes more qualitative in nature.  While the manual and 
+spinbrush products are similar in terms of profitability, the manual toothbrush addresses 
+the mass market (80% market share at a $3 retail price point) and is unlikely to lose share 
+to the spinbrush.  However, the rechargeable segment is most profitable for the client and 
+is clearly threatened by the introduction of the spinbrush.  If the client were to respond 
+with a “knockoff” spinbrush, it would likely hasten the demise of its profitable 
+operations.  Therefore, the client should consider alternative means to respond to the 
+spinbrush “disruptive technology”. 

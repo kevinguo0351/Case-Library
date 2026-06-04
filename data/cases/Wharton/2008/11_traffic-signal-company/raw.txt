@@ -1,0 +1,139 @@
+===== PDF p91 =====
+Establishing the case
+Case11 : Traffic Signal Company
+Oliver Wyman:  Round 1
+The client is a company that installs and maintains traffic 
+signals. It is a small company based in California. They 
+are considering expanding into the Tri-state market, 
+especially Manhattan. They want our help to determine 
+whether they should enter the Manhattan market.
+Problem statement narrative
+What is their goal of entry?
+Increase revenues and profits (no specific ROI target)
+Is the scope of the case to determine only entry into 
+Manhattan market?
+Yes
+Does the client manufacture signals?
+No, only installs and maintains
+Guidance for interviewer and information to be 
+provided on request
+87
+
+
+===== PDF p92 =====
+Sample solution element – issue tree & qualitative analysis
+Candidate may propose analysis / action in:
+Size and growth
+Competition
+Business model
+Market
+Revenue drivers:
+Installation
+Maintenance
+Revenues
+Installation costs
+Maintenance costs
+Costs
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+Size and growth - Size the market 
+(next slide)
+Business model – Single contract for 
+maintaining ALL traffic signals in 
+Manhattan. Contracts awarded by 
+bidding to highest bidder.
+Competition – Incumbent is the 
+largest traffic signal company in the 
+North East
+Info on market sizing on next slide
+Costs on “NPV of project” slide
+88
+
+
+===== PDF p93 =====
+Market size of traffic signals in Manhattan
+Math Question
+No. of streets in Manhattan, vertical and horizontal. Use this 
+to determine no. of intersections
+Each intersection has 1 traffic signal system
+Each system lasts for 20 years
+Hence, 1/20 of signals replaced every year
+Installation market - $10M ($100,000 * 2000*1/20)
+Maintenance market - $30M (2000*15,000)
+Approximate to 80 streets long and 25 streets wide to 
+account for the tapered shape of Manhattan. 
+Hence, 2000 intersections
+Overall approach, good shortcuts & solution
+Information to provide up front
+How often signals replaced
+Revenue streams – installation and maintenance
+Maintenance to be done for ALL signals and NOT only 
+newly installed ones
+Price of one signal system - $100,000 (install)
+Maintenance – 15,000 / year
+Provide information if asked
+Sample solution element – Math
+89
+
+
+===== PDF p94 =====
+Sample Solution element - NPV of project
+Calculate the NPV of the project
+Math Question
+Costs
+Cost of signal system = $85,000
+Transportation = $0 (it is sourced locally)
+Installation 
+Labor 
+Cost of installation  = $1050
+Maintenance
+Labor 
+Cost of maintenance/year = $560
+NPV
+Revs
+Year 1 : $40M ($10M instln + $30M maint.)
+Year 2,3 : $30M maint.
+Costs
+Year 1:$8.6M  (100 * (85,000 + 1050)) + $1.12M (maint)
+Year 2,3 : $2.24M (maint.)
+NPV = $88M
+Overall approach, good shortcuts & solution
+Information to provide up front
+Duration of contract = 3 years
+Cost of Installation 
+Labor 
+5 workers
+Wage rate/worker/hr = $35
+Time per signal system = 6 hrs
+Cost of Maintenance
+Labor 
+2 workers
+Time per signal system = 4 hrs
+No of incidents per year = 2
+Provide information if asked
+90
+
+
+===== PDF p95 =====
+Sample solution element – recommendation et al.
+Yes, the client should enter the market and bid (there‟s no right answer but a sample case is for bidding 
+at a loss – say $120M) for 2 reasons –
+1. It is a profitable venture - $88M NPV
+2. It is strategically important – Manhattan is largest market. This will take us to the big time
+Recommendation
+Implementation risk since we have not done such a large city before.
+Risks
+Investigate historical bids by competitors in previous contracts
+Understand the strategic implications of this market entry and figure out how high we can bid in terms 
+of potential economics benefit s in future
+Next Steps
+Why may we want to bid at a loss?
+Strategic importance of the contract – it can get us 
+more cities in future. Manhattan is the largest signal 
+market in the US.
+BONUS
+91

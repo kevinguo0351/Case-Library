@@ -1,0 +1,266 @@
+===== PDF p133 =====
+Grocer Prepared Foods
+Difficulty: Easy
+Industry: Grocery
+Case Type: Profitability
+Written by Anthony Villamagna ‘21
+Concepts Tested
+Case #13 : Grocer Prepared Foods
+• Isolating a problem area
+• Math 
+• Open ended recommendation
+Our client, Best Market, an independent grocer in Manhattan with only 1 location, has been facing increased competition 
+from low-cost competitors. Therefore, they have become increasingly dependent on prepared foods to drive growth
+However, the client has reported that they have experienced zero growth in gross profits over the last 3 years. We have 
+been asked to help the client understand what is causing this lack of growth and what they need to do to turn things 
+around
+Problem Statement Narrative
+This is a straightforward case where the client is expected to give a typical profitability framework while working through 
+some interesting paths to profitability with an open-ended conclusion
+Case Notes
+129
+
+
+===== PDF p134 =====
+Grocer Prepared Foods
+1.
+Best Market
+a.
+Financial Considerations
+i.
+Profit
+ii.
+Product Mix
+iii.
+Recent Investments
+b.
+Operational Considerations
+i.
+Supplier Changes
+2.
+Grocery Market
+a.
+Size
+i.
+Growth in each segment?
+b.
+Consumer Segments
+i.
+Change in tastes?
+c.
+Competitors
+i.
+Number
+ii.
+Size
+iii.
+Threat
+3.
+Other Considerations
+a.
+Demographic changes in neighborhood
+b.
+NYC health restrictions
+Sample Framework
+Let them explore options on what the problem is. For 
+example, if they want to understand what market changes 
+have occurred, ask them to describe what market changes 
+could cause this
+Pay close attention to the rationale for the solutions. 
+Common “solutions” that people think of don’t make 
+sense when probed
+Guidance for Interviewer
+•
+Where is the client located in New York?
+•
+Harlem (Manhattan)
+•
+Does the client have a specific financial target?
+•
+No, they just want to identify the problem and 
+figure out ideas to solve the problem
+•
+Additional detail on the client?
+•
+More than 30 years in community, family 
+owned/operated, mid-tier (i.e. like Safeway or 
+Stop and Shop, not Whole Foods)
+•
+What are the clients' revenues/costs/profits?
+•
+We’ll get into that later in the case
+Clarification Answers if  Asked 
+Question #1 / Framework 
+What is causing this lack of  growth and what they need to do to turn things around?
+130
+
+
+===== PDF p135 =====
+Question #2
+Question
+Solution
+What is the root problem as to why gross profits aren’t growing? (Hand them Exhibit 1)
+Why is the profit margin declining in prepared foods? (Brainstorm)
+Grocer Prepared Foods
+The candidate should quickly realize that while gross margin hasn’t been increasing for the company overall revenues are 
+increasing, meaning that the profit margin is declining over time. Encourage them to specifically talk about what is 
+happening with the profit margins for each category
+Most candidates will zero in on the prepared foods because that is where the “story” is on this exhibit. However, the 
+grocery department is stagnant, which isn’t growing either. A strong candidate will note that, if there is time, they would 
+like to explore the grocery department but first they would like to look at the prepared foods
+Ask them to brainstorm why the profit margin is declining for prepared foods
+•
+Suppliers have changed
+•
+Prices are not optimized
+•
+New products
+Ideally, they get new products, because that segues into the next portion of the case
+131
+
+
+===== PDF p136 =====
+Question #3
+Question
+Solution
+Best Market introduced two new products in 2018, buffalo chicken tenders and made-to-order sandwiches. We have some 
+financial data on the performance of these two products. What do you think? (Hand out Exhibit 2)
+Grocer Prepared Foods
+Buffalo Chicken Tenders: $6 revenue per 10 pieces minus $2.50 of material cost ($0.25 * 10) and $0.5 of
+fixed costs (.25 hours * $20/hr makes 100, divide by 10). Total profit of $3 per order
+Made-to-Order Sandwiches: $240 revenue per day (40 * $6) minus $160 of material cost (40 * $4) and $160 
+of fixed costs (8 hrs * $20). Total profit of $-2 per sandwich
+Most candidates will identify Buffalo Chicken Tenders as being profit makers and sandwiches as profit losers
+However, a strong candidate will note that the buffalo chicken tenders are made in advance in batches and any unsold 
+tenders are thrown away at the end of the day, meaning the material cost can be considered a fixed cost as well. This means 
+they must sell 50 tenders out of every batch of 100 to break even
+Made-to-Order sandwiches have a similar problem. The fixed costs are high. If candidates ask, it isn’t possible to simply 
+cut those hours
+132
+
+
+===== PDF p137 =====
+Question #4
+Question
+Solution
+What are some ideas to make these two items more profitable?
+Grocer Prepared Foods
+If candidate asks to raise prices, ask “How price sensitive do you think these customers are?” People getting lunch/dinner 
+at the grocery store are likely to be price sensitive, making a price increase unlikely
+An example of ideas:
+Tenders Only
+Both
+Sandwiches Only
+Analyze data to better predict 
+demand at any given time
+Advertising throughout the 
+store
+Cut the number of hours to 
+work the station only during 
+lunch
+Establish cut-off time where 
+no new tenders are made
+Bundle with higher margin 
+items like chips, cookies and 
+drinks
+Consider getting rid of station 
+entirely and moving to pre-
+made sandwiches
+Source cheaper supplies
+133
+
+
+===== PDF p138 =====
+•
+The profitability problem lies with the prepared foods 
+department. Two newly introduced items have been 
+dragging down margins. We recommend…
+•
+Anything the candidate produces from the brainstorm 
+that is rational works here
+Recommendation
+•
+Any rational justification is acceptable here if the case 
+giver thinks it is rational
+Rationale
+•
+The main risk of this is that the elephants will be 
+unable to adapt to life in the wild and could be a 
+threat to the ecosystem there without proper 
+management
+Risks
+•
+Considering these risks, our next step is to begin the 
+process of returning them to India
+Next Steps
+Grocer Prepared Foods
+Conclusion
+134
+
+
+===== PDF p139 =====
+Exhibit #1
+Grocer Prepared Foods
+Category
+2018
+2019
+2020
+Grocery
+Revenue
+480
+470
+480
+COGS
+300
+290
+300
+Prepared Foods
+Revenue
+200
+230
+280
+COGS
+160
+190
+240
+Overall
+Revenue
+680
+700
+760
+COGS
+460
+480
+540
+Gross Margin
+220
+220
+220
+Note: All values are in thousands
+135
+
+
+===== PDF p140 =====
+Exhibit #2
+Grocer Prepared Foods
+Buffalo Chicken Tenders
+Price
+$6 for 10 pieces
+Total Material Cost
+$0.25 per piece
+Prep Time
+15 minutes per batch of 100
+Employee Cost
+$20 per hour
+Made-to-Order Sandwiches
+Price
+$6 per sandwich
+Avg. Sales/Day
+40 sandwiches
+Total Material Cost
+$4 per sandwich
+Employee Cost
+$20 per hour
+Dedicated Hours
+8 hours per day
+136

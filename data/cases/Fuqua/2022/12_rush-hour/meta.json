@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2022_12_rush-hour",
+  "school": "Fuqua",
+  "year": "2022",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2022.pdf",
+  "idx": 12,
+  "case_name": "Rush Hour",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Transportation",
+  "difficulty": null,
+  "pdf_page_start": 157,
+  "pdf_page_end": 166,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    164,
+    165
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p164.png",
+    "exhibits/exhibit_p165.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2022\\12_rush-hour"
+}

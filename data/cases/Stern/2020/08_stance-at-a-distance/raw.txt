@@ -1,0 +1,588 @@
+===== PDF p117 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance
+113
+Authors: Natalie Ashbridge, Cortne Edmonds, Stan Tunstall (Stern ‘21) Firm Style & Round: BCG Round 1
+[Interviewee-Led]
+Quant: 4
+Structure: 7
+Case Overview:
+Industry: Education (Public Sector)
+Case Structure: Reducing Costs
+Concepts Tested:
+•
+Accounting
+•
+Brainstorming
+•
+Creativity
+Overview Information for Interviewer:
+This case can also be given in an interviewer-led style, following the math and exhibit question order. However, in 
+an interviewee-led case, it will likely flow this way naturally.
+Interviewee should be able to…
+•
+Identify the major sources of funding and expenses for a school
+•
+Complete basic math efficiently
+•
+Maintain structure and rigor throughout the brainstorms that flow out of the funding analysis
+Key case steps:
+•
+Determine proper levers to pull for school funding and drive in a logical direction
+•
+Evaluate revenue and cost through a pro-forma income statement and quantify cost-savings from provided data
+•
+Assess qualitative risks and challenges of cost-cutting and implementation
+Case Prompt: 
+Our firm has just wrapped up a project with The Stance School, which offers K-12 education in Philadelphia, to help them 
+with developing two major strategic initiatives. The first initiative, which is the priority, is an e-learning platform for their 
+students to facilitate remote learning, in response to a global pandemic that resulted in students having to take classes from 
+home for the last few months of the school year. The other initiative is a professional development tool to help the teachers
+with developing and effectively providing a remote curriculum to the students. The team that worked on the strategic 
+planning determined that the cost would be $1M. You are now tasked with determining how these initiatives will be funded 
+within the next year and whether or not the school should move forward with this project.
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+
+
+===== PDF p118 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Case Guide
+114
+Clarifying Information: 
+•
+Timeframe
+• Currently it is 2020 H1
+• The initiatives will be launched at the start of 
+the 2020-2021 school year
+• The last income statement we have is from FY 
+‘18
+•
+School Details
+• The school is a private school in a major 
+metropolitan city in the US
+• The school consists of a lower and upper 
+school, educating levels K-12
+•
+Student Demographics
+• There are 1000 students in the school
+• Students are primarily middle-upper middle 
+class
+•
+Funding Questions
+• ~10% of the students are on scholarship
+• No need to consider ongoing costs for the 
+program. With the $1M in savings per year, that 
+should also cover ongoing run-rate of the 
+initiatives.
+• Endowment is allocated for specific purposes 
+and to ensure that the school is funded in the 
+long-term. The endowment would not be an 
+option for funding the initiatives.
+Interviewer Guide: 
+•
+Necessary Information that should be given only when specifically asked for by 
+interviewee: 
+o
+To evaluate profitability of the school (Provide Exhibits 1 & 2 together)
+▪
+Exhibit 1 – Pro Forma Income Statement
+▪
+Exhibit 2 – Historical Tuition Data across Competitor Schools
+o
+To calculate cost-savings from staff salaries
+▪
+Exhibit 3 – Roles, Salaries, Headcount, and Benchmark against Competitor 
+Schools
+▪
+Exhibit 4 – Specific Roles, Salaries, Headcount, and Goal Headcount
+•
+Additional Guidance / Case Flow
+o
+After the initial structure, guide candidate to understand the school’s revenue and 
+expenses and explore internal funding opportunities (faster to achieve given timeframe)
+o
+Provide exhibits 1 and 2 together
+o
+After reviewing exhibits 1 and 2, guide candidate to evaluate costs (specifically salaries) 
+if the candidates does not arrive there on their own
+o
+Provide exhibit 3 and have them determine where they see opportunities
+o
+If the candidate notices the salary total on Exhibit 1 differs from the total of 
+salaries on Exhibit 3. This is because the income statement line item item
+includes additional benefits offered, which is usually ~50% of the annual salary 
+for a role. The candidate likely won’t as that math is long and beyond the scope 
+of the question
+o
+Provide exhibit 4 with specific roles outlined by the school and have them calculate the 
+savings
+o
+Conduct the brainstorming questions (can be done interviewer-led, if necessary)
+o
+Wrap up with conclusion
+
+
+===== PDF p119 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Framework Guide
+115
+Below is an example of a good framework
+External 
+Opportunities
+Public Sector
+Lobby to raise 
+federal/state 
+appropriations
+Grants
+Private Sector
+Donations
+Endowments
+Loans
+Internal 
+Opportunities
+Raise Cash
+Tuition
+Alumni Giving
+Cut Costs
+CAPEX
+OPEX
+•
+This is just an example of a suitable framework. A profit tree is also an appropriate approach to use
+•
+Make sure to push back on interviewee to generate additional ideas to raise the money to fund the initiatives
+
+
+===== PDF p120 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Math Question 1
+116
+Math Question: 
+•
+What conclusions or insights can be drawn from examining The Stance School and its competitors’ line items?
+Math Solution: 
+Math Information: 
+Evaluation Criteria:
+•
+Poor Candidate: Attempts to compare expense items in absolute terms. Candidate rounds 
+expense items aggressively and doesn’t offer any deeper insights after figuring out which 
+expenses are out of line with competition. 
+•
+Good Candidate: Examines exhibits 1 and 2 and comes to the conclusion that Stance needs to 
+focus on cutting costs rather than topline growth. Works through math quickly and offers insight 
+into why they’d like to know more about salaries.
+•
+Great Candidate: In addition to what the good candidate does, they drive the case by asking for 
+specific additional information such as average salary by job function, headcount, or staff growth 
+rates (to compare to enrollment growth from exhibit 2).
+•
+Candidates should examine exhibit 2 and 
+realize that the school can not raise 
+tuition without impacting enrollment.
+•
+Exhibit 1 informs them that Stance is not 
+eligible for additional grants (Foot Note 1).
+•
+All expenses are a proportion of Tuition & 
+Fees (Foot Note 2).
+•
+If candidates round within reason, they 
+should still reach the conclusion that 
+salary expenses are out of line with 
+competitor schools, in addition to being 
+the highest line item
+•
+Scholarships are the second largest 
+expense. If candidates consider reducing 
+scholarships, inform them that Stance will 
+receive significantly less grant funding 
+than they currently receive.
+
+
+===== PDF p121 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Math Question 2
+117
+Math Question: 
+•
+The school has determined that these would be the positions they would look to reduce to be able to reallocate funds for the 
+initiatives. Calculate annual cost savings if the school were to match the benchmark ratio of students to position for these 5 positions 
+(refer to Exhibit 4)
+Math Solution: 
+Math Information: 
+The school will be short of it’s $1M goal by $90,000
+Evaluation Criteria:
+•
+Poor Candidate – Will struggle with the math; this is basic division, subtraction, and multiplication 
+so the candidate should go through the math smoothly
+•
+Good Candidate – Will determine how much will be saved by matching the benchmark number of 
+roles per student that can be reallocated to the initiatives.
+•
+Great Candidate – Will say the above and will also move into brainstorm 1 naturally (considering 
+risks and potential costs  that would be incurred from cutting these positions)
+•
+Number of Students in the School: 1000
+•
+Funding Goal: $1M
+
+
+===== PDF p122 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Brainstorm 1
+118
+Brainstorm 1:
+•
+What are the potential risks and associated costs that you anticipate when eliminating these roles?
+Notes to Interviewer: 
+Interviewer should prompt candidate to do this brainstorm if they don’t do it on their own following the calculations and analysis of exhibit 4
+Common Responses:
+•
+Financial Costs
+•
+Severance costs
+•
+Pension costs
+•
+Union negotiations
+•
+Non-Financial Costs:
+•
+Time frame to be able to eliminate roles and how that impacts annual budget/funding
+•
+Negative PR associated with lay-offs
+•
+Potential decline in enrollments
+•
+Negative outcomes for mental health of the student population
+Evaluation Criteria:
+•
+Poor Candidate: Laundry list with no structure
+•
+Good Candidate: Structured, but only gets 4-5 ideas and no creative ideas
+•
+Great Candidate: Structured, with at least 9 ideas and 1-2 ideas that are creative/unique to the candidate
+
+
+===== PDF p123 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Brainstorm 2
+119
+Brainstorm:
+•
+What are some ways that The Stance School could close the funding gap in order to reach the $1M goal?
+Notes to Interviewer: 
+Common Responses:
+•
+Lobby for additional appropriations from the state
+•
+License the teacher training platform or student learning platform to other schools
+•
+Offer remote tutoring or additional classes on the platform for a fee 
+•
+Solicit donations from students, parents, alumni, or other external parties
+•
+Target high net worth alumni to donate a gift (offer rooms or awards named after them)
+Evaluation Criteria:
+•
+Poor Candidate: Laundry list with no structure
+•
+Good Candidate: Structured, but only gets 4-5 ideas and no creative ideas
+•
+Great Candidate: Structured, with at least 9 ideas and 1-2 ideas that are creative/unique to the candidate
+
+
+===== PDF p124 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Recommendation
+120
+Recommendation:
+•
+Move forward with project:
+•
+Eliminate the 5 roles, resulting in 
+$910K of savings per year
+•
+Additional funding can be sourced 
+through alternative routes to make up 
+for the remaining $90K/year
+•
+Do not move forward with project
+•
+Role elimination will not generate 1M; 
+school needs to get in line with 
+benchmarks before it moves forward 
+with any projects 
+Bonus: Guide to an excellent case
+•
+The candidate logically concludes that within a year, the fastest way to funding is through cost-cutting rather than increasing revenue
+•
+When math is done and candidate recognizes that there is a funding gap, the candidate will refer to their original framework to see if 
+there are other ways to close the gap to move the initiatives forward
+Risks:
+•
+Negative PR from lay-offs
+•
+Decline in enrollments due to 
+reduced student-staff ratios
+•
+Negative performance implications 
+(unlikely as this role is not as 
+student-facing as the teacher roles)
+•
+Missing out on key technology for 
+teachers and opportunity to help 
+modernize school
+•
+Negative impacts to school by lay-
+offs of staff 
+Next Steps:
+•
+Ensure no negative impact to 
+enrollments, which impact revenue
+•
+Start contract reviews and process of 
+eliminating roles to finalize budget 
+and savings reallocation for next 
+school year
+•
+Conduct in-depth analysis on the 
+pros and cons of eliminating roles
+•
+See if there are any additional ways 
+to generate revenue 
+
+
+===== PDF p125 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Exhibit 1
+121
+*Grants are not allocated to school expenses 
+$ thousands
+The Stance School
+Rittenhouse Prep
+Chestnut Hill Day School
+Tuition & Fees
+$35,000
+$14,500
+$29,000
+Grant Revenues
+5,250
+2,175
+4,350
+Student Services
+$5,250
+$2,175
+$3,480
+Salaries, Wages, & Benefits
+12,250
+3,625
+6,670
+Scholarships & Fellowships
+10,500
+5,800
+11,600
+Maintenance Expense
+$7,000
+$2,900
+$7,250
+Income Statement Line Items (FY ‘18)
+*The Stance School is currently receiving 100% of eligible grants 
+
+
+===== PDF p126 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Exhibit 2
+122
+Stance Tuition and Enrollment Information, with Benchmarks to Competitor Schools 
+24,000
+26,000
+28,000
+30,000
+32,000
+34,000
+36,000
+2015
+2016
+2017
+2018
+2019
+Annual Tuition
+Stance
+Rittenhouse Prep
+Chestnut Hill Day School
+200
+400
+600
+800
+1000
+1200
+1400
+2015
+2016
+2017
+2018
+2019
+Annual Enrollment
+Stance
+Rittenhouse Prep
+Chestnut Hill Day School
+
+
+===== PDF p127 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Exhibit 2 Notes for Interviewer 
+123
+Stance Tuition and Enrollment Information, with Benchmarks to Competitor Schools 
+Stance has the highest tuition and the highest rate of increase 
+(30k, 4%). 
+Because tuition is the highest of the four schools, you can’t 
+increase it so candidate should look for ways to cut costs 
+Stance enrollment has declined as tuition has gone up. 
+Candidate should infer that people have left Stance to go 
+competitor schools and should look for other ways to cut costs 
+24,000
+26,000
+28,000
+30,000
+32,000
+34,000
+36,000
+2015
+2016
+2017
+2018
+2019
+Annual Tuition
+Stance
+Rittenhouse Prep
+Chestnut Hill Day School
+200
+400
+600
+800
+1000
+1200
+1400
+2015
+2016
+2017
+2018
+2019
+Annual Enrollment
+Stance
+Rittenhouse Prep
+Chestnut Hill Day School
+
+
+===== PDF p128 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Exhibit 3
+124
+Position
+Salary
+Headcount
+Average Headcount at 
+Competitor Schools
+Administrative Assistant
+$45,000
+3
+2
+After-School Program Coordinator
+$40,000
+4
+5
+Assistant Dean
+$80,000
+2
+2
+Custodian/Maintenance Staff
+$40,000
+17
+10
+Dean
+$90,000
+1
+1
+Food Service Specialist
+$35,000
+10
+12
+Guidance Counselor
+$65,000
+15
+9
+IT Technician
+$60,000
+6
+3
+Librarian
+$60,000
+8
+5
+Nurse
+$50,000
+4
+5
+Teacher
+$75,000
+50
+55
+Teacher Aide
+$40,000
+25
+20
+Positions, Salaries, Headcount, with Benchmarks to Competitor Schools
+
+
+===== PDF p129 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Exhibit 3 Notes for Interviewer 
+125
+Key Insights Interviewer Should Look For: 
+Candidate may jump into doing math, but the goal is to look qualitatively to determine which positions they would focus on for savings and provide a 
+rationale. Make sure they focus on roles where the school is: 1) over-hired relative to competitors; and 2) would have minimal impact on the academic 
+performance of the students.
+Evaluation Criteria:
+•
+Poor Candidate: Will pick roles based on what makes the most savings without any qualitative rationale
+•
+Good Candidate: Will note that the school is over indexed in non-educator positions relative to similar school districts and will focus on identifying a 
+few of those roles that they would want more information
+•
+Great Candidate: Will say the above but also deeper insights: note that there are risks in eliminating these roles and what they are. Will move toward 
+asking for data that helps them to understand if there is a good number of these roles that a school should have in order to not affect school 
+performance
+
+
+===== PDF p130 =====
+© 2020 NYU Stern MCA 
+Stance at a Distance: Exhibit 4
+126
+Position
+Salary
+Headcount
+Benchmark Ratio of 
+Students to 
+Headcount
+Administrative Assistant
+$45,000
+3
+500:1
+Custodian/Maintenance Staff
+$40,000
+17
+100:1
+Guidance Counselor
+$65,000
+15
+100:1
+IT Technician
+$60,000
+6
+200:1
+Librarian
+$50,000
+8
+250:1
+Benchmark Ratio of Students to Headcount

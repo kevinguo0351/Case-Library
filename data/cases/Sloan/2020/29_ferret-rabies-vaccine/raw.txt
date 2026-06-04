@@ -1,0 +1,134 @@
+===== PDF p143 =====
+Casebook | 2019-20 Edition 
+139 
+ 
+29. Ferret Rabies Vaccine (BCG R2, Healthcare, New Product, 
+Quantitative) 
+Note: If candidate is practicing for 2nd round interview, the candidate should be driving the entire case. 
+Candidate should be using any information from the case to draw concluding statements and takeaways. 
+Otherwise, interviewer can push candidate to the different phases. 
+ 
+Stem: Our client is a large pharmaceuticals manufacturer, specializing in animal health care. One of their 
+manufacturing plants makes a rabies vaccine. The client has found a new formula of the vaccine that also 
+works on ferrets, in addition to cats and dogs. Currently, the plant is underutilized, and the client wants to 
+know if they should bring the new updated vaccine to market. 
+ 
+Candidate should create structure and ask clarifying questions. The following information can be given 
+upon request. 
+ 
+U.S. Industry: 
+Animal health industry: $4B 
+Total pharmaceutical industry: $50B 
+ 
+Competition: Client is one of the largest players, however, there are other players selling rabies 
+vaccines for similar prices. Client’s market share of veterinarians is 50%. 
+ 
+Customers: Manufacturer sells to veterinarians, veterinarians sell to pet owners. 
+ 
+Product: New vaccine is expandable to ferrets. Vaccines are given to pets only once. 
+ 
+Costs: Assume overhead costs to expand vaccine are $1M – assume this is all overhead, including 
+changing labels, adding formula, etc. 
+ 
+Phase 1: Market Sizing 
+ 
+First estimate how many ferrets there are: 
+ 
+If candidate asks for any info about the pet market: 
+• 
+50M dogs 
+• 
+40M cats 
+ 
+Any logical assumptions are fine, but the intuition should be that there are much fewer ferrets than 
+dogs/cats. Or interviewer can give market size as 1-2M ferrets, or 1.5M to average it out (the rest of the 
+case will use 1.5M). 
+ 
+Interviewer can drive the candidate to estimate the total number of animals who need rabies vaccines per 
+year: 
+ 
+• 
+Avg lifespan for dogs/cats: 10 years 
+• 
+Vaccines (dogs & cats): (50M dogs +40M cats) / 10 years = 9M 
+• 
+Avg Lifespan for ferrets: 5 years 
+• 
+Vaccines (ferrets): 1.5M ferrets / 5 years = 300K 
+• 
+Total: 9M before (dogs & cats only), 9.3M after (dogs, cats, & ferrets) 
+ 
+Candidate: Based on a 50% of market share, the client serves 4.5M animals now, and would serve 
+4.65M with the new formula. 
+ 
+Phase 2: Profitability 
+ 
+Candidate should ask specifically for all data: 
+
+
+===== PDF p144 =====
+Casebook | 2019-20 Edition 
+140 
+ 
+Current vaccine: 
+• 
+Price of drug when client sells to veterinarians: $4 for old vaccine 
+• 
+Price of drug when veterinarians sell to customers: $25 per vaccine 
+• 
+Margin: 70% 
+• 
+Total cost = $1.20 (per unit) 
+• 
+Fixed cost = 75% of total cost 
+• 
+Variable cost = 25% of total cost 
+ 
+Candidate concludes the following: 
+• 
+Margin = $4 * 70% = $2.80 (or = $4 - $1.20) 
+• 
+FC = $1.20 * 75% = $0.90 per vaccine 
+• 
+VC = $1.20 - $0.90 = $.30 per vaccine 
+• 
+Profit = $2.80*4.5M vaccines sold = $12.6M 
+New formula: 
+ 
+Since the new vaccine expands the use and doesn’t offer additional value to the dog/cat population, the 
+candidate can conclude that the price remains the same. Candidate can also touch upon the value 
+proposition of the new vaccine to veterinarians. 
+ 
+Candidate should then recalculate the fixed cost per vaccine, distributing the total fixed cost across the 
+new volume of 4.65M vaccines (due to economies of scale). 
+ 
+• 
+Total fixed cost = 4.5M vaccines * $0.9 fixed cost/vaccine = $4.05M 
+• 
+Redistributed fixed cost: $4.05M / 4.65M = $0.87 fixed cost/vaccine 
+• 
+Variable cost remains at $0.30/vaccine, so total cost/vaccine = $1.17/vaccine 
+• 
+Margin = $4 - $1.17 = $2.83/vaccine 
+• 
+Profit = $2.83 * 4.65M = $13.16M 
+• 
+Incremental profit from the ferret population: ~$560K; break-even is less than 2 years 
+Interviewer: Knowing that animal health market is $4B and the total pharmaceuticals market is $50B, 
+what do you think? 
+ 
+Candidate: Obviously ferrets are a small portion of the overall market. It is possible there are more 
+profitable ways to utilize their excess plant space. Alternatives should be evaluated and considered. 
+However, with a 2-year break-even and an increase in profits, this is definitely not a bad investment. 
+ 
+Interviewer: The manufacturing plant manager asks you what else he can do about the excess capacity. 
+What do you suggest? 
+ 
+Candidate should brainstorm logical ways to use excess capacity. Lease or sell extra space, manufacture 
+for another drug company, look for other new and compatible products, etc. 
+ 
+Interviewer: Given what we’ve discussed, what is your final recommendation? 
+ 
+Candidate should make a clear recommendation that gets to the point. Should include whether or not to 
+expand, other uses for excess capacity, and overall market share. May discuss value to company and 
+customers. 

@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2017_23_took-a-pill-from-ibiza",
+  "school": "Fuqua",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2017.pdf",
+  "idx": 23,
+  "case_name": "Took a Pill from Ibiza",
+  "case_type": "Pricing",
+  "round": null,
+  "industry": "Health Care/Pharma",
+  "difficulty": null,
+  "pdf_page_start": 261,
+  "pdf_page_end": 271,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    265,
+    266,
+    267,
+    268
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p265.png",
+    "exhibits/exhibit_p266.png",
+    "exhibits/exhibit_p267.png",
+    "exhibits/exhibit_p268.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2017\\23_took-a-pill-from-ibiza"
+}

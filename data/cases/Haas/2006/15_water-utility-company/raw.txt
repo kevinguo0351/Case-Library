@@ -1,0 +1,84 @@
+===== PDF p54 =====
+ 
+Haas Consulting Club Case Book 
+ 
+50  
+5.15. Water Utility Company  
+Length: Medium (30 Minutes) 
+ 
+Problem: 
+Your client is a German owned water utility that is headquartered in the Northeast United 
+States.  The water utility serves the majority of the northeast area and is the exclusive 
+provider or water in the region.  Internally, the client measures its performance using a 
+version of the EVA (economic value added) financial valuation technique.  This 
+technique emphasizes the corporate return as a function of profits and a capital charge 
+(essentially the return that capital assets produce).  The EVA function can be written as: 
+ 
+EVA = Net Operating Profits – (WACC*Capital Asset Base); which essentially is “un-
+levered” operating income (after tax) less the fair return on invested capital.   
+ 
+Currently the client is operating at a negative EVA level.  How would you go about 
+getting EVA to the value of zero and eventually turning it positive?  What are the various 
+ideas you would explore: 
+ 
+Solution: 
+When I first got this case, I was only vaguely familiar with EVA based on some work in 
+corporate finance, and I made sure to ask a couple of questions about the formula to 
+ensure I understood it.  It was not critical to the case to be an EVA expert, but you needed 
+to understand what the equation was saying.  The key part was recognizing that the 
+weight of the equation resides with the first term (meaning Operating Profits have a 
+larger effect on EVA because the other component of the equation is the WACC (a 
+percentage figure multiplied by the capital assets of the firm).  A candidate should come 
+to this conclusion on his/her own.  If not, then the interviewer should point it out if the 
+candidate struggles. 
+ 
+Once you understand that Operating Profits drive a large portion of EVA, you need to 
+explore what effects operating profits, but don’t completely ignore the capital asset base 
+as you want to be comprehensive in your analysis.  A good place to start would be 
+exploring top line revenue implications, and then to explore the cost elements (or vice 
+versa).   The candidate should also explore what assets are driving the capital asset base.  
+Lastly, a solid candidate cannot ignore regulatory issues in this case, and should mention 
+them in the course of the discussion. 
+ 
+The case had no real answer per say, but was more about exhaustively testing ideas.  A 
+good interviewer should be creative in challenging the candidate to go in multiple 
+directions beyond the information provided below. 
+ 
+Information To Be Provided If Requested: 
+• Revenues have been relatively flat over the past 12 to 18 months.  Majority of 
+revenue comes from residential and commercial water usage (billed on a 
+consumption basis per month) 
+
+
+===== PDF p55 =====
+ 
+Haas Consulting Club Case Book 
+ 
+51  
+• Pricing is based on usage, and is not really capable of being altered significantly 
+due to regulations  
+• There have not been significant changes to the capital base, which is primarily 
+made up of machinery and equipment for water filtration and delivery 
+• Costs have been relatively stable on the whole. 
+• The water utility has the capacity to serve more customers 
+ 
+Essentially, what you have is a situation where the company needs to grow to increase its 
+revenue base.  An ability to add additional customers would be a good idea, as the 
+company effectively has additional capacity.  The candidate should explore potential 
+growth scenarios and should rebound when he/she hits a dead end.  Some potential 
+growth ideas might include: 
+ 
+• What about providing bottled water (e.g. a different channel?) 
+o Good idea, but likely difficult to implement without incurring additional 
+costs for distribution, packaging, branding, etc 
+• What about expanding into other regions? 
+o Possible barriers could be regulatory concerns and other competitors 
+o Past history dictates local people and businesses are not supportive of 
+expansion by this company 
+ Candidate should ask why? 
+ Recall it is a German company, and there has been a bit of resentment 
+on the socio-political front for this company to expand based on its 
+history of acquiring other local US companies in the past. 
+• Based on past history, merging with another entity and dropping the German 
+name might be a good idea 
+ 

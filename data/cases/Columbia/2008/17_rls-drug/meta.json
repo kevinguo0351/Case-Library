@@ -1,0 +1,22 @@
+{
+  "case_id": "Columbia_2008_17_rls-drug",
+  "school": "Columbia",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2008.pdf",
+  "idx": 17,
+  "case_name": "RLS Drug",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Pharmaceutical",
+  "difficulty": null,
+  "pdf_page_start": 73,
+  "pdf_page_end": 76,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    74
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p074.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2008\\17_rls-drug"
+}

@@ -1,0 +1,378 @@
+===== PDF p175 =====
+Into the Unknown
+171
+Industry:                  Healthcare
+Case Type:     
+Growth
+Led by:
+Interviewer
+Case Level: 
+Expert
+
+
+===== PDF p176 =====
+Behavioral Questions
+172
+• What are three words your friends or former colleagues would use to describe you?
+Question 1:
+• Consulting can be a highly demanding job, what strategies do you use to manage 
+your time wisely and make sure you can recharge when stressed?
+Question 2:
+
+
+===== PDF p177 =====
+Into the Unknown
+173
+Arendelia Pharmaceuticals is a fast growing, innovative pharmaceutical company that 
+has developed best-in-class treatments for Frozen Heart Syndrome (FHS), a rare but 
+devastating progressive disease that significantly shortens a patient’s lifespan without 
+treatment. Arendelia had $6.2B in revenue in 2020 and grew revenues 55% from 2019 
+to 2020. 
+Arendelia has hired your firm to understand whether or not its current growth is 
+sustainable and what they should do to ensure long term growth.
+Prompt #1:
+•
+Client/Company information: US biopharmaceutical company founded in 1989 which focuses on delivering 
+scientifically innovative treatments for diseases with high unmet need.
+•
+FHS is typically diagnosed at a very young age and most eligible patients with healthcare coverage are treated 
+with one of Arendelia’s products. There are an estimated 100k total patients with FHS worldwide (70% in the US, 
+30% International). As this is a rare disease, YoY growth rates are correlated with population growth at ~1% 
+annually.
+•
+Industry/Competition information: Arendelia has a monopoly on the FHS market as they are the only product that 
+treats the underlying cause of FHS rather than the symptoms. Competition is likely in the future but not a current 
+concern.
+•
+Product information: Arendelia sells 4 products to treat FHS each at 300k/year in the US and 100k/year 
+internationally.
+•
+Value Chain/Revenue information: Products are room temperature stable pills making them easy to ship/store. 
+Patients take 1 pill 2x daily for their entire lives.
+Case Background:
+
+
+===== PDF p178 =====
+Into the Unknown
+174
+• Given the revenue/growth focus of the prompt, profitability framework would not be 
+appropriate for this case. 
+• Example Framework:
+– Organic Growth
+•
+Current products
+–
+Increase Price
+–
+Increase Volume
+»
+New markets
+»
+New customers
+•
+New Products
+– Inorganic Growth
+Framework Buckets:
+
+
+===== PDF p179 =====
+Exhibit #1
+175
+200
+400
+500
+1000
+1800
+2000
+3000
+4000
+6200
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+― % of FHS Patients Eligible
+Product Revenues (M)
+Product Revenues (M) vs % of FHS Patients Eligible for Arendelia's
+Products
+FHS-1
+FHS-2
+FHS-3
+FHS-4
+If most eligible patients get on treatment within 2 years, are current revenue growth 
+rates sustainable?
+
+
+===== PDF p180 =====
+Interviewer guidance on Exhibit 1
+The graph shows annual revenues for Arendelia
+Pharmaceuticals for the past 9 years and the percentage 
+of total patients eligible for one or more of Arendelia’s
+products.
+FHS-1, FHS-2, FHS-3, and FHS-4 are Arendelia’s four 
+Frozen Heart Syndrome products launched in 2012, 2015, 
+2017, and 2019 respectively. There is no appetite for price 
+increases due to public pressure/regulation.
+Interviewer Guidance:
+The candidate may be tempted to jump in and do a lot 
+of math, BUT the key takeaway is that at 90% 
+eligibility, there will be a plateau in FHS in the coming 
+years. You can let them get to this conclusion without 
+calculations.
+Once they conclude growth is not possible from FHS 
+alone, the candidate should suggest looking into other 
+disease/product opportunities.
+•
+Basic
+–
+Revenues have gone from ~200M to 6.2B over the 
+9 years shown
+–
+% Eligible goes from 10% to 90% leaving only 
+10% potential additional patients in the future
+•
+Second order insights
+–
+% of treatable patients goes up each time there is a 
+new product launched
+–
+Although they are not explicitly linked, the largest 
+revenue increases are generally aligned with the 
+year after launch as patients begin treatment.
+Solution: It is technically possible to hit 55% growth in 
+2021, but it is highly unlikely and there is not a large 
+enough patient population to sustain current growth 
+rates now that eligibility has hit 90%.
+176
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p181 =====
+Exhibit #2
+Co-founders Anya and Isla agree that Arendelia needs to expand into other disease 
+areas. The company has allocated $15B to invest in both R&D and M&A over the next 
+few years. Which of the following products should they pursue?
+177
+Product 
+Disease Name
+Phase
+Synergy with 
+Current 
+Strategy
+Projected 
+Lifetime 
+Product 
+Revenue ($B)
+Cost of 
+development 
+($B) 
+Likelihood 
+of Approval
+Acquisition 
+Price ($B)
+A
+Interfering Dragon Disease
+2
+High
+20
+5
+50%
+N/A
+B
+Acute Amphibian Disorder
+1
+Medium
+20
+4
+25%
+N/A
+C
+Fruit-induced Narcolepsy
+3
+Medium
+10
+2
+75%
+N/A
+D
+Sea Witch Laryngitis
+3
+High
+20
+4
+75%
+2
+E
+Pinprick Hypersomnia
+1
+High
+50
+10
+25%
+4
+F
+Scottish Bear Syndrome
+2
+Low
+10
+1
+50%
+2
+No NPV calculations required
+
+
+===== PDF p182 =====
+Interviewer guidance on Exhibit 2
+•
+There is no wiggle room on 
+the budget so the 
+candidate’s product 
+prioritization must add up to 
+less than $15B in spend
+•
+You can assume market 
+size and discount rates 
+have already been factored 
+into the projected lifetime 
+revenue figure
+•
+Acquisition price should be 
+included in planning for the 
+budget however it is a sunk 
+cost once the decision to 
+acquire or not has been 
+made and therefore should 
+not be included in expected 
+value calculations.
+EV = (Projected revenues - Development Costs)* likelihood of success + ($0 in 
+revenue for failure - Development Costs)*(1-likelihood of success)
+This equation may or may not be familiar to the candidate so if they are really 
+struggling, you can guide them to the correct formula.
+Correct solution is select D, C & A (Total Cost = 6+2+5 = $13B) which will generate 
+$21.5B in expected value (above) with upside of $50B in revenue (previous slide) if all 
+are approved
+Second level insights:
+•
+Likelihood of success and phases are linked: Phase 1 – 25%; Phase 2 – 50%; Phase 3 – 75%
+•
+Products B & D have identical projected revenues & development costs, but product D is 
+already in phase 3 and much more likely to succeed
+•
+Candidate will address risks to execution (regulatory, manufacturing, supply chain, etc.)
+178
+Exhibit Guidance Analysis:
+Product
+EV Calculation
+Total Cost (R&D + Acquisition) 
+for Budgeting
+A
+(20-5)*.5 + (0-5)*(1-.5) = $5B
+$5B
+B
+(20-4)*.25 + (0-4)*(1-.25) = $1B
+$4B
+C
+(10-2)*.75 + (0-2)*(1-.75) = $5.5B
+$2B
+D
+(20-4)*.75 + (0-4)*(1-.75) = $11B
+$6B
+E
+(50-10)*.25 + (0-10)*(1-.25) = $2.5B
+$14B
+F
+(10-1)*.5 + (0-1)*(1-.5) = $4B
+$3B
+
+
+===== PDF p183 =====
+Brainstorming
+• What should Arendelia consider before 
+confirming their decision to branch out to 
+other disease areas?
+• If candidate already has gone into risks, 
+ask to dive deeper into mitigating or 
+solving something they said
+• Additional questions given time / to 
+pressure test candidate:
+–
+How else could they diversify revenue streams? 
+(license, JV, sell IP)
+–
+What considerations should they look at for go-to-
+market? (Consider USA vs. international, 
+reimbursements, supply chain)
+Example Answer:
+• Risks:
+–
+Unfamiliarity with the science/market in a new 
+disease
+–
+Frozen Heart Syndrome patients may be 
+concerned about losing Arendelia’s single focus
+–
+Expanding too quickly could lead to internal 
+resources (financial/personnel) being stretched too 
+thin
+–
+Products chosen may not receive FDA approval
+• Opportunities:
+–
+Allows for larger/faster growth
+–
+Diversifies the portfolio
+–
+Protects the firm from eventual competition in the 
+FHS market and Loss of Exclusivity (LOE) on their 
+FHS patents
+179
+Prompt:
+Analysis:
+
+
+===== PDF p184 =====
+Into the Unknown
+180
+• Invest in disease areas beyond Frozen Heart Syndrome to maximize future growth
+• Use the $15B allocated budget to invest in Products A, C, and D for an expected 
+value of $21.5B and max potential revenue of $60B
+Recommendation 
+• There is a risk that the products we have chosen to pursue will not receive FDA 
+approval or that the acquisition of Product D will run into difficulty.
+• To mitigate those risks we recommend robust due diligence of the Product D 
+acquisition and continuous monitoring of clinical data to make knowledgeable 
+decisions for the greatest future growth of Arendelia.
+Risks and Next Steps:
+Anya and Isla have just returned from a trip touring their Orlando, Florida facilities and 
+would love to hear your recommendation!
+Prompt
+This is a very difficult case and meant to pressure test candidates to remain calm under stressful 
+situations  

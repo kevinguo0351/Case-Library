@@ -1,0 +1,177 @@
+===== PDF p40 =====
+Problem Statement Narrative 
+The CEO of Zirgin Atlantic Airlines, Richard Branford, is considering starting a new direct airline route from London to Montreal. Zirgin currently runs flights in 
+and out of both cities (as well as other cities globally) but not directly between the two cities. The company is currently at maximum capacity on their existing 
+jets so any new route would require the use of a brand new airplane. 
+ 
+Zirgin Atlantic operates a flat pricing structure for its customers and would like to charge all passengers $500 for a round trip flight on this route ($250 for a 
+one-way ticket). Luckily, Zirgin Atlantic’s strategy group has already conducted preliminary research and has discovered that in this current environment, this 
+pricing could likely draw an average of 200 round trip passengers every day for the company. 
+ 
+Branford has approached us to recommend whether or not to open this new route for the company. If we do decide to go forward with the route, he only wants 
+to use one incremental airplane in order to avoid being over capitalized. 
+ 
+Zirgin Atlantic operates flights around the world and this new route would be a small addition to its global network. In addition, Zirgin Atlantic is a subsidiary of 
+Zirgin, a global conglomerate that also operates in the media and entertainment industry. However, Branford has wanted to provide direct transportation to 
+London for business people in Canada for some time. As a benchmark, the company targets a 6 year payback period on its investments. 
+Overview for Interviewer 
+This case has three main components. First is the stand-alone economics of opening up 
+this new airline route by purchasing a new plane. The interviewee will be asked to 
+calculate a payback period and compare this to the company’s target payback period. 
+ 
+Second, the interviewee will be asked to consider an alternative financing scenario 
+where a plane is leased instead of purchased. He/she will evaluate the economics of this 
+scenario and to provide thinking on the benefits/drawbacks to leasing versus buying. 
+ 
+The third component is qualitative and asks the interviewee to consider upside catalysts 
+and downside risks of opening the new airline route. 
+Information to be Provided Up Front 
+The problem statement gives some initial information. 
+The rest of the information should be given as the 
+interviewee works through the problem. The actual 
+numbers should make for fairly straightforward 
+calculations. The data assumes that prices, demand, and 
+costs stay the same year after year so no need to 
+consider growth or inflation. All the costs are also bundled 
+into a generic variable / fixed split to make calculations 
+easier. 
+Case 3: Zirgin Atlantic Airlines 
+Introduction 
+36 
+36 
+
+
+===== PDF p41 =====
+Revenue 
+Information to provide: 
+Daily passengers = 200 round trip passengers (or 300 one-way) 
+Avg ticket price = $500 for round trip (or $250 for one-way) 
+Days operational / year = 300(1) 
+ 
+Calculation: 
+Daily revenue = Daily passengers * Average ticket price = 200 x $500 = $100,000 
+Annual revenue = Daily revenue * days operational/year = $100,000 x 300 = $30M 
+Case 3: Zirgin Atlantic Airlines 
+Introduction 
+37 
+Expensed Costs 
+Information to provide: 
+Average variable costs(2) = $40,000 for a round trip flight 
+Fixed costs (excluding price of plane)(3) = $3M / year 
+ 
+Calculation: 
+Annual variable costs = Cost / round trip * Days operational = $40,000 x 300 = $12M 
+Total annual costs = variable costs + fixed costs = $12M + $3M = $15M 
+Part 1: If Zirgin decides to purchase one new plane to be used exclusively for the new route, does this investment meet Zirgin Atlantic’s corporate 
+investment criteria? Assume that demand, pricing, and costs stay the same year after year, and that a new plane has a useful life of 25 years. 
+Payback Period 
+Information to provide: 
+Cost of purchasing  a new plane (capital investment)  = $75 
+ 
+Calculation: 
+Payback period = Capital investment / Annual profit = $75M / $15M = 5 years 
+Questions / Answers 
+Optional mini-questions: 
+1. 
+Why would the days operational per year be 300 
+days instead of 365? It is impossible for planes to 
+be utilized all the time due to controllable factors 
+(scheduled maintenance) and uncontrollable 
+factors (weather). 
+2. 
+What are some examples of variable costs for 
+this case? Fuel, on-board labor, food/drinks 
+3. 
+What are some examples of fixed costs for this 
+case? Gate fees, terminal labor, insurance 
+ 
+Main question: 
+Does the investment meet Zirgin’s corporate 
+investment criteria? Yes, on a standalone economic 
+basis, purchasing a new plane should generate a 5 
+year payback period assuming no growth/decline in 
+demand or in pricing. This is below the company’s 
+target of a 6 year payback. The useful life factors into 
+this analysis because, in order for the service to 
+continue, the company will have to buy a new plane in 
+25 years. However, since this useful life is fairly long, 
+the route will payback the initial investment 5x before 
+a new plane is required. 
+37 
+
+
+===== PDF p42 =====
+Annual Profit 
+Information to provide: 
+Annual cost to lease a plane = $10M 
+ 
+Calculation: 
+Annual profit = Annual profit excluding lease costs – annual lease costs = $15M - $10M = $5M 
+Case 3: Zirgin Atlantic Airlines 
+Introduction 
+38 
+Part 2: Richard Branford comes back and tells you that instead of buying a new plane, the company can also lease a plane 
+$12M a year, renewable at the same cost year after year in perpetuity. Do you think the company should pursue this new 
+route with this lease? Assume that demand, pricing, and costs stay the same year after year. 
+Questions / Answers 
+1.  Is leasing a new plane economically profitable for Zirgin Atlantic? Yes. If Zirgin decides to lease a plane, then they will generate a profit of 
+$5M a year without having to buy a new plane. 
+2.  What are the financial and risk implications of buying a new plane versus leasing a plane? If Zirgin buys a plane, the company needs to 
+invest $75M in order to generate $15M a year, or $375M total over the 25 year useful life of the plane. On the other hand, if the company leases 
+a plane instead, then the company generates $5M a year without the heavy initial investment. Just looking at pure numbers, the company will 
+generate a lot more overall profit in a long period of time by buying a new plane. However, buying a plane also encompasses more risks. First, 
+the purchase of a new plane increases the PP&E/asset base of the company, which some investors may be wary about. Second, if the company 
+buys a plane and the route ends up being unsustainable, then the company needs to resell the plane or use it for another route. Leasing a plane 
+presents a much more attractive exit option. Third, buying a plane requires significant initial capital and depending on the financial strength of the 
+company, Zirgin may want to conserve this capital for other means. This capital can also be used for other projects that may generate even 
+better returns. 
+38 
+
+
+===== PDF p43 =====
+Case 3: Zirgin Atlantic Airlines 
+Introduction 
+39 
+Part 3: It seems like based on your analysis and the assumptions used thus far, it is financially attractive to open up this new 
+route. Aside from the pure economics of the route, what are some other potential upsides and risks to the plan?  
+Potential Upside (among others) 
+1.  Increase exposure / marketing: Even if the route was not 
+financially attractive on a standalone basis, opening up a new direct 
+route between cities could generate exposure for the Zirgin brand, 
+especially because of Branford’s desire to increase the company’s 
+presence in Canada. 
+2.  Synergies with other routes: The new route may provide both 
+revenue and cost synergies when combined with existing 
+operations. On the revenue side, a new direct route could mean 
+new alternatives for transferring passengers (which could mean 
+additional demand for other routes). On the cost side, the new route 
+can share administrative and labor costs with existing operations. 
+Potential Risks (among others) 
+1.  Cannibalization: The case mentioned that Zirgin already operates 
+flights in and out of Montreal and London. Opening a direct route 
+between the two cities may cannibalize customers that already 
+make a similar trip (with stops or between nearby cities) 
+2.  Competition: Entering this new route invites competition from other 
+airlines, especially among those with similar routes 
+3.  General airline industry risks: There are inherent risks in the 
+airline industry including high sensitivity to consumer spending 
+levels, large fluctuations in energy costs, administrative risks 
+associated with doing business on a multinational level, etc 
+39 
+
+
+===== PDF p44 =====
+Case 3: Zirgin Atlantic Airlines 
+Introduction 
+40 
+Part 4: You run into Richard Branford in the elevator as he is on his way to a meeting. He knows that you haven’t completely 
+finished your analysis yet but he wants a quick 30 second update on what your recommendation is. 
+Recommendation 
+The new proposed route seems attractive for Zirgin Atlantic. The economics appear most 
+favorable if the company buys a new plane, but depending on the capital situation and risk 
+tolerance of the company, the rental option is also financially viable. We should of course 
+view this in relation to other opportunities that the company is investing. There are also 
+risks to consider including how the new route will impact competition and existing Zirgin 
+operations. However, given the good economic implications of this opportunity, my 
+recommendation is to pursue the new route. 
+40 

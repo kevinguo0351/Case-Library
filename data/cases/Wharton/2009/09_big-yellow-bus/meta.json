@@ -1,0 +1,24 @@
+{
+  "case_id": "Wharton_2009_09_big-yellow-bus",
+  "school": "Wharton",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2009.pdf",
+  "idx": 9,
+  "case_name": "Big Yellow Bus",
+  "case_type": "Market Entry",
+  "round": "1",
+  "industry": "Transportation/Education",
+  "difficulty": null,
+  "pdf_page_start": 97,
+  "pdf_page_end": 102,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    97,
+    100
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p100.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2009\\09_big-yellow-bus"
+}

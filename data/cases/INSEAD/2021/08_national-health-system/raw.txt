@@ -1,0 +1,184 @@
+===== PDF p88 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+Case Information
+Difficulty level ± Quantitative
+2
+Difficulty level ± Creativity
+3
+Difficulty level ± Structure
+3
+Case led by
+Interviewer
+Case type
+Operations/Processes
+Industry
+Health System
+84
+
+
+===== PDF p89 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+Case Prompt
+The Sydney Department of Health recently discovered that elderly people (aged above 60) are not satisfied with the medical services they currently receive both in 
+terms of time and quality. Your consulting firm is brought in by the department of health to fix the problem. 
+Q1. What are the main factors you would like to consider in order to improve the medical services for elderly people?
+Provide the answers only if candidates asked:
+y Current health care process in Sydney: people typically make an appointment at and visit community medical centres first. If the General Practitioners (doctors in
+community medical centres) believe patients should be treated in hospitals, the patients will then go to a hospital (also need to make an appointment online).   
+y Unsatisfaction: Elderly people are generally quite happy with the services they received from community medical centres. But they are not happy with the services 
+provided by hospitals. 
+y Objectives: there are no other objectives other than improving medical services in hospitals for elders
+ This case has a lot of brainstorming questions. Interviewer should push candidate to think the actual processes involved in treating elderly people. 
+Overall Guide to interviewer
+85
+
+
+===== PDF p90 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+ Needs/preferences: what do old patients 
+need/prefer when they seek medical services. 
+How do their needs differ from those of people 
+less than 60 years-old?
+ Which part of the services are they not happy 
+with?
+ Coming to hospital: booking (system too hard 
+to use?); transportation (too far? No direct 
+routes to hospitals?)
+ In hospital: waiting (too long? No designated 
+seats?) treatment (mistreatment? Takes too 
+long? Too expensive?)
+ Out of hospital: lack follow-up cares? Too hard 
+to reimburse medical insurance?
+Customer (Elderly patients)
+Processes (where can things go 
+wrong)
+Feasibility (can solutions be 
+implemented?)
+ Funding: will the solutions require significant 
+government investment? Will government 
+provide funding?
+ Potential push-backs: will the solutions 
+potentially trigger push backs from important 
+stakeholders? (hospitals, unions, etc.)
+Prompt for interviewer
+ Interviewee should have a clear logic linking each block.
+ Interviewee should at least mention ³processes´. If not, push interviewees in these directions.
+Note: This is only one way to tackle the case, and there will be other alternatives to the suggested framework
+86
+
+
+===== PDF p91 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+Q2: Brainstorming ± Customer Journey
+ If candidate asks about older patients¶ preferences in terms of medical care, ask the candidate to brainstorm the possible differences between elderly and younger 
+patients. If candidate does not ask, this part can be skipped.
+ Q2. Now our client would like to turn their attention to the full customer journey of elderly patients seeking medical services, and they would like to find out where 
+things can go wrong (focus is still on hospitals). Please brainstorm a few ideas why elderly patients might not be happy along the customer journey
+Answer: 
+This is a brainstorming question. Performance is assessed on structure and creativity. Suggested structures include: process (coming to hospitals, in hospitals, out of 
+hospitals); time-quality-price; and any other structures that make sense.
+Great candidates should be able to generate at least 5 ideas 
+Coming to Hospital
+ Registration system: is it user friendly? Will 
+elderly people find it easy to use?
+ Available time: Should they want to make an 
+appointment, can they book a time within 3 
+days? Or is the earliest available time in 3 
+weeks from now?
+ Transportation: easy public transportation 
+system to hospitals? 
+In hospital
+ Waiting time: how long do they have to wait in 
+hospital? 
+ Treatment: takes too long? Mistakes/ 
+ineffective treatments? Expensive procedures/ 
+specialist fees/ drugs? 
+ Hospitalization: horrible conditions (beds, 
+toilets, etc)? Poor attitudes? 
+Out of hospital
+ Follow-up advices: lack of follow-up 
+advices/cares
+ Hard to reimburse medical bills
+87
+
+
+===== PDF p92 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+Q3: Brainstorming ± Root Causes
+Q3. After reviewing the customer journey, it became clear that hospital doctors spent too long diagnosing elderly patients and often make mistakes. What could be the 
+reasons that might cause the issues?
+Answer: 
+This is a brainstorming question. Performance is assessed on structure and creativity. Suggested structure (one of many):
+Non-People factors
+ Medical s\stem: ma\be elder generations¶ medical histories are not 
+imported into the existing medical system, so doctors have to spend more 
+time finding elder patients¶ medical histories to complete diagnoses
+ Medical equipment: medical equipment is old or defective
+People factors
+ Doctors are capable, but make mistakes: worked for too many hours due 
+to lack of doctors; don¶t haYe proper incentiYes/policies that promote best 
+practices
+ Doctors are not capable: how can we improve this situation?
+After brainstorming, confirm that the problems are that the medical system does not store medical histories for people over 60 and hospital doctors are working long 
+hours due to staff shortages
+Prompt for interviewer
+88
+
+
+===== PDF p93 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+Q4: Calculations
+Q4. After assessing the situation, the client is looking to start an initiative that converts specialists from community medical centers into special doctors that only cure 
+elder patients, thereby relieving hospital doctors. 
+Currently, there are 1000 specialists in Sydney. How many additional specialists do they need to hire from outside of Sydney to treat all the elderly patients in Sydney? 
+This is a brainstorm question. Push candidates to estimate both of the demand and supply. 
+Answer: 
+Demand:
+Assume total population in Sydney is 16M, and population distributes evenly across ages.
+Assume on average each elderly person visits doctors 4 times per year. 
+16M x (20/80) x 4 = 16M visits per year 
+Supply:
+Provide to candidate that each specialist takes 30 mins to treat patients 
+Assume each specialist works 8 hours a day, 5 days a week and 50 weeks a year. 
+# of patients treated by one specialist = 2 x 8 x 5 x 50 = 8000
+Additional specialists needed = 16M/8000 ± 1000 = 2000 ± 1000 = 1000
+Prompt for interviewer
+Great candidate: apart from calculating the right number, great candidates should be able to proactively state the implication of the number. Is 1000 a large number? 
+Is it easy to hire the 1000 specialists? Both sides of answers would be ok as long as candidate provides logical explanations.  
+89
+
+
+===== PDF p94 =====
+ICC Casebook 2021
+Copyright © 2021 INSEAD Consulting Club (ICC)
+National Health System
+Author: Ken Wen (µ20D)
+Solution & Recommendations
+To conclude, the candidate should include the following:
+Recommendation:
+ Elderl\ patients¶ unhappiness toZards medical serYices in S\dne\ is largel\ caused b\ the long treatment time and inaccurate treatment methods. One of the 
+solutions to reduce mistakes is to establish designated specialists to cure elderly patients exclusively because
+o it promotes specialization (specialists only focus on elderly patients and hospital doctors only treat normal patients)
+o Hiring additional 1000 specialists from outside of S\dne\ doesn¶t seem to be a Yer\ challenging task giYen the\ can hire specialists from Melbourne, 
+Brisbane, Adelaide or even internationally
+Next steps:
+ Look at other Za\s to improYe medical serYice such as: improYe medical s\stem to incorporate elder patient¶s medical histories
+90

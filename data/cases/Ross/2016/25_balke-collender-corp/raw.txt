@@ -1,0 +1,363 @@
+===== PDF p298 =====
+Problem Statement
+Type of Case
+Interviewer Guidance
+Case 25: Balke-Collender Corp. (Ross Original)
+Balke-Collender Corp. (NYSE: BCC) is a publicly traded chemical company. Several Chinese companies
+have entered the market since 2008, putting enormous pressure on BCC’s bottom line. As a result, BCC
+stock has stagnated around $48 since 2010. Raider Capital Partners (RCP), an infamous Wall Street 
+activist investor, has taken a 14% stake in BCC and is threatening to change the board and fire the CEO,
+unless he brings up the stock price. The CEO has asked us two questions:
+1.
+How can we achieve 100% total shareholder return (TSR) within 5 years to get RCP off our back?
+2.
+How can we restore the company’s long-term competitiveness?
+ Industry: Chemicals
+ Difficulty: Hard
+ Format: Investments
+ Concepts Tested: ROI, EPS, other 
+Finance related concepts
+ This case has multiple jargons, candidate should try to 
+understand them all before proceeding to the framework
+Note: Do not hand out Exhibit 1 immediately. There is a math
+question requiring calculation of net income
+
+
+===== PDF p299 =====
+295
+Interviewer Guide to Case and Exhibits
+•
+BCC’s is currently trading at $48, and has a 
+P/E ratio of 20. 
+•
+BCC has 125M shares outstanding.
+•
+Current demand for ethylene is 210M tons.
+•
+There are no opportunities to cut SG&A.
+•
+All D&A comes from our Ethylene cracker
+•
+Company has the ability to raise debt.
+•
+Ethylene is a petrochemical used in a wide 
+variety of applications. It is made from a 
+variety of hydrocarbons, but the most 
+common feedstocks are naptha (derived from 
+oil production), ethane and propane (both 
+derived from natural gas)
+Clarifying Information on Request
+•
+This case has multiple possible solutions and 
+the candidate should try to explore them 
+through the framework. Do not show the Exhibit 
+1 till the candidate gets to the answer of the 
+first question.
+Clarifying Information and Case Guidance
+
+
+===== PDF p300 =====
+296
+Possible Framework
+Framework
+How can we achieve 100% TSR in 
+5 years?
+Increase 
+Share Price
+Increase EPS
+Increase 
+Revenue
+Increase 
+capacity
+Decrease 
+costs
+Decrease VC
+Decrease FC
+Decrease 
+FDSO
+Increase P/E 
+Multiple
+Decrease 
+Cost of 
+Capital
+Increase 
+leverage
+Return Capital 
+to Investors
+Sell Divisions
+Increase 
+Dividends
+P/E Multiple = Price-Earnings Multiple = Share 
+Price / EPS
+EPS = Earnings per share = Net Income / 
+FDSO
+FDSO = Fully-diluted shares outstanding
+
+
+===== PDF p301 =====
+297
+Math Question 1
+Math Questions and Solutions
+ To calculate the required incremental net income, we start from the share price and PE Ratio to 
+calculate Net Income.
+Math Solution 1
+What is the incremental net income required?
+
+Note: Exhibit 1 has the breakdown of net income. Do not show the exhibit 1 before candidate arrives at 
+the answer.
+Share Price
+48
+(/) P/E 
+20
+= EPS
+2.4
+(x) FDSO
+125M
+= Net Income
+300M
+Req. Improvement
+100%
+Incremental NI
+300M
+
+
+===== PDF p302 =====
+298
+What is the price of Ethylene in the market? 
+Brainstorming Question
+Brainstorming Questions and Solutions
+• Because industry demand is only 210M tons, then BCC is the marginal producer. 
+• Therefore prices must be set such that the next producer (Delta Chem) makes zero profit and thus has not 
+incentive to enter the market.
+• The price is therefore just under $750/ton. Candidate may assume $750/ton.
+• BCC has a capacity of 20M units, and full utilization (dividing revenue by $750, gives total units of 20M)
+• Total VC = Unit VC * Units = 550 * 20M = 11B, however COGS = 13B, so there must be $2B in fixed COGS (labor, 
+overhead, etc).
+• Because taxes, interest and D&A cannot be changed, candidate must figure out there are four ways to improve 
+performance:
+• Expand capacity (hand out exhibit #3)
+• Decrease VC (hand out exhibit #3). Candidate should notice Naphta plants are more expensive.
+• Decrease FC (tied to plant layout, goes back to option one)
+• Decrease SG&A (no scope for this)
+Brainstorming Solution
+
+
+===== PDF p303 =====
+299
+Math Question 3 
+Math Questions and Solutions
+•
+If capacity increases by 20M tons then Delta becomes the swing producer and price drops to $650 / 
+tons. Therefore the value of each option is given by:
+Math Solution 3
+ What is the value of all three investment options? (Exhibit 4)
+Feedstock Expansion
+Both
+Plant
+10,000
+15,000
+20,000
+Pipeline
+15,000
+0
+15,000
+Total Investment
+25,000
+15,000
+35,000
+Units
+0
+20
+20
+Price
+750
+650
+650
+VC
+350
+550
+350
+Contribution
+8,000
+4,000
+12,000
+FC
+-4,000
+-2,000
+-7,000
+Gross Income
+4,000
+2,000
+5,000
+D&A
+-2,500
+-1,500
+-3,500
+Tax
+-600
+-200
+-600
+Net Income
+900
+300
+900
+Change Feedstock and 
+doing both expansion and 
+feed stock conversion have 
+the same net income. Since 
+changing feedstock has 
+lower investment than doing 
+both (and hence higher 
+NPV), change feedstock.
+
+
+===== PDF p304 =====
+300
+Recommendation
+• Convert current plant to using ethane feedstock for 
+a $900M improvement in Net Income
+• Investment will increase EPS 1.5x, and will 
+therefore increase share price by 150%
+Risks
+Recommendation
+Conclusion
+The candidate would look at the ratios and reach the income statement. Candidate would realize that 
+there are changes in variable costs as the capacity is expanded.
+Excellent Case Answers
+•
+Determine competitor reaction, e.g. 
+can they and will they also switch to 
+ethane and how will this affect relative 
+cost positions.
+•
+Secure appropriate financing to retool 
+the ethylene cracker.
+•
+Quantify the effects of downtime for 
+all three options and refine 
+calculations.
+Next Steps
+
+
+===== PDF p305 =====
+301
+Exhibit 1: BCC Income Statement
+BCC Income Statement
+(In $ Million)
+Revenue
+15,000.0 
+COGS
+(13,000.0)
+Gross Income
+2,000.0 
+SG&A
+(1,000.0)
+D&A*
+(500.0)
+Operating Income
+500.0 
+Interest
+0.0
+EBT
+500.0 
+Tax
+(200.0)
+Net Income
+300.0 
+*BCC depreciates its assets over a 10 year 
+period using the straight-line method
+
+
+===== PDF p306 =====
+302
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+250
+275
+300
+Variable Cost ($ / ton)
+Capacity (in M tons)
+Exhibit 2: Ethylene Cost Curve
+Alpha Chem
+Beta Chem
+Gamma 
+Chem
+Delta 
+Chem
+Epsilon 
+Chem
+BCC
+Crackers using 
+ethane feedstock
+Crackers using 
+naphta feedstock
+Omega
+Chem
+
+
+===== PDF p307 =====
+303
+Exhibit 3: Estimated VC Breakdown at BCC Plant 
+Feedstock
+Feedstock
+Freight-In
+Freight-In
+Power
+Power
+Freight-Out
+Freight-Out
+0
+100
+200
+300
+400
+500
+600
+Naphta
+Ethane
+Variable Cost  / Ton
+
+
+===== PDF p308 =====
+304
+Exhibit 4: Investment Options
+Feedstock 
+Conversion
+Capacity 
+Expansion
+Both
+Plant Investment
+$10B
+$15B
+$20B
+Pipeline Investment
+$15B
+-
+$15B
+Incremental Fixed Cost
+$4B
+$2B
+$7B
+Change in Capacity
+-
+20M
+20M

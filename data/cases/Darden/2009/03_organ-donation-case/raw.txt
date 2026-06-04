@@ -1,0 +1,257 @@
+===== PDF p19 =====
+ 
+15 
+C O N S U L T I N G  C A S E  I N T E R VI E W  
+Organ Donation Case (McKinsey like) 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty 
+ 
+ 
+ 
+ 
+
+
+===== PDF p20 =====
+ 
+16 
+Note:  This case is typical of a McKinsey structured case interview (though it is not a 
+real McKinsey case).  The interviewer should drive the discussion through the five 
+sections below.  Bold text indicates instructions for the interviewer.  The interviewer 
+should thoroughly review this document before giving the case. 
+ 
+Case Setup  
+ 
+One of the many functions of the New York State Health Commission is to coordinate 
+organ donation amongst the state’s many hospitals.  In recent years the demand for 
+organs has been greater than the supply.  As a result, many patients die each year because 
+there are not enough organ donations.  The Health Commission has hired McKinsey to 
+help it determine how to increase the number of annual organ donations in New York.  
+For the purposes of this case, assume that only New York residents are involved as 
+donors and recipients. 
+ 
+Question 1 
+ 
+What are the factors and drivers that determine the number of organs donated in New 
+York each year? 
+ 
+Note:  The candidate should ask clarifying questions at this point and should feel 
+free to take a minute to construct a response.  The following information should be 
+given either when asked for or when the candidate gets stuck. 
+Information:  In New York, organs will be harvested from terminally ill or 
+injured patients just before death only if they are a registered organ donor or 
+if the hospital receives permission from the next of kin.  New York residents 
+may choose to register as organ donors when they apply for a driver’s 
+license.   
+ 
+Sample answer:   
+ 
+(Terminal patients*% Registered donors *organs/donor) + (Terminal patients*% 
+Not registered*% Family consent*organs/donor) = organs donated 
+ 
+“The number of organs donated is determined by the number of terminal patients times 
+the percent who are registered donors times the number of organs per person, plus the 
+number of terminal patients times the percent that are not registered donors times the rate 
+of family consent times the number of organs per person. 
+ 
+“The number of terminal patients is driven by the age of the population, changes in life 
+spans, medical technology, the size of the population, the overall rate of natural death, 
+plus the rate of accidental death, such as car accidents.  The percentage of registered 
+donors is driven by awareness of the donor program, the ease of registering, whether it is 
+opt-in or opt-out, awareness of the benefits of organ donation and personal things such as 
+religious beliefs.  The rate of family consent is also driven by awareness of the benefits of 
+organ donation and things such as religious beliefs, along with the information provided 
+
+
+===== PDF p21 =====
+ 
+17 
+by doctors in a time of great grief and assurance that organs will only be harvested after 
+death is certain.  The number of organs donated per person is driven by the average 
+number of healthy, usable organs in a donor.   
+ 
+While we’ve identified a number of factors, it’s important to note that we can only really 
+influence the rate of registered donors and the rate of family consent.” 
+ 
+Note:  This question seeks to test a candidate’s breadth of thinking.  A good answer 
+will be logical and structured.  It will examine the factors as an equation, though not 
+necessarily exactly as presented here.  It will be thorough and should include 3-4 
+drivers for each factor.  A great answer examines the implications of the analysis – 
+ie.  There are only two factors that we can influence. 
+ 
+Question 2 
+ 
+The team has decided to focus on increasing the number of registered donors and is 
+specifically interested in kidneys donations.  The Health Commission knows that it needs 
+9,200 kidneys per year.  What percent of New Yorkers need to be registered donors in 
+order for 9,200 kidneys to be donated in a year? 
+ 
+The team has already collected some useful information: 
+The population of New York is 10 million.  The percentage of people that become 
+terminally ill or injured each year is .1% (one-tenth of one percent).  The 
+percentage of families that give consent to harvest organs is 10%.   
+ 
+Sample answer:  The candidate should setup and solve the following equation. 
+ 
+RD = Percent of New Yorkers who are registered donors. 
+ 
+(10,000,000*.001*RD) + (10,000,000*.001*.1*(1-RD)) = 4,600 
+(10,000*RD) + (1,000*(1-RD)) = 4,600 
+10,000RD+1,000-1,000RD = 4,600 
+9,000RD=3,600 
+RD=3,600/9,000 
+RD=.4=40% 
+ 
+Note:  Set the equation equal to 4,600 because there are two kidneys per person.  
+4,600*2=9,200. 
+ 
+Note:  There are other possible ways to setup the equation.  What’s important is 
+that the candidate takes a structured, analytical approach to the problem and 
+doesn’t panic.  The candidate should walk the interviewer through the math, either 
+as she solves the equation or afterwards.  If the candidate gets stuck, give 
+appropriate hints.   
+ 
+
+
+===== PDF p22 =====
+ 
+18 
+A great answer will include implications of the data.  For example, they may 
+conclude that 40% seems reasonable based on their personal experiences knowing 
+people who are registered donors.  Anything to show initiative and critical thinking 
+without prompting is good. 
+ 
+Question 3 
+ 
+What are all of the things that the Health Commission should consider doing to increase 
+the number of registered donors? 
+ 
+ 
+Sample answer: “First, we should conduct benchmarking studies.  Internal benchmarking 
+will reveal what they are currently doing well to drive registrations, and external 
+benchmarking of other states or countries will uncover new ways to increase 
+registrations.  Second, we should conduct a segmentation of current and prospective 
+registrants.  We’ll want to determine the segments where we are strong so we can 
+continue to cultivate them, and at the same time find new segments where few people are 
+registering.  Third, we should conduct a series of marketing communication tests to 
+determine appropriate messaging and channels to increase awareness and drive 
+registrations.  We should consider testing media such as TV, radio, online, direct mail, 
+and may also be able to leverage the word of mouth of our current customers.  We’ll also 
+want to develop messaging that increases the awareness of the donor program, the 
+benefits of donation and the safeguards that are in place.  Finally, we need to optimize 
+our distribution channels.  Currently, people can only register when they get their driver’s 
+license.  We should add ways to register, such as any time someone goes to the doctor or 
+hospital.  We should also make it easier to register.  For example, if New York currently 
+requires people to explicitly opt-in, we can change to an automatic opt-in with an explicit 
+opt-out.   
+ 
+Note:  This question is designed to evaluate the candidate’s depth of thinking.  The 
+above plan is a sample only and there are other approaches.  A good plan will be 
+MECE, with discrete categories (ie.  “Benchmarking”) and multiple items within 
+each category.  The plan should demonstrate common sense and sound business 
+judgment. 
+ 
+Question 4 
+ 
+The team conducted a customer segmentation and your Engagement Manager has asked 
+you to draw some initial conclusions from the data (give candidate the data handout from 
+the end of the case – candidate should clarify that the data are in millions of people).  
+What would you tell her?  Follow up question:  Which segment represents the best 
+opportunity to increase RDs? 
+ 
+Sample answer:  “It looks like the Caucasian segment has the largest number of potential 
+new registrants, but at the same time is already highly penetrated.  The African-American 
+segment is the opposite:  low-penetration but low upside.  The Hispanic segment has a 
+slightly higher penetration than African-American, but is a bigger population.  Based on 
+
+
+===== PDF p23 =====
+ 
+19 
+this data alone, I would target the Hispanic segment because of the low current 
+penetration and large population.  Some of the risks include overcoming the language 
+barrier and dealing with cultural differences.” 
+ 
+Note:  The data table is designed to present the Caucasian, African-American and 
+Hispanic segments as strong possible targets for different reasons.  The candidate 
+should reason through the pros/cons of targeting each segment and come to a firm 
+hypothesis based on this data.  It’s more important that the candidate selects a 
+target for good reasons and less important that she selects Hispanic. 
+ 
+Question 5 
+ 
+The team has decided to focus on increasing the registration rate among Hispanics.  What 
+are some things we can do to increase registrations of Hispanics?? 
+ 
+Note:  This question is designed to test a candidate’s creativity.  Hence, a sample 
+answer is not provided.  It is likely that the candidate will suggest things such as 
+community outreach, Spanish language marketing materials/registration, etc., 
+classic consumer marketing tactics, having vans drive around Hispanic communities 
+encouraging people to register, etc.  A good answer will have a long list of ideas that 
+include typical business tactics along with creative, interesting suggestions.  The 
+interview should push the candidate by repeatedly asking “What else?”, until the 
+candidate can no longer think of things, and to determine how they respond to 
+pressure. 
+ 
+Question 6 
+ 
+The head of the Health Commission just walked in and wants a recommendation for what 
+he should do to quickly reach Hispanics.  What’s your recommendation?  Start talking 
+now. 
+Sample answer:  “Clearly, there is a big opportunity with Hispanics.  We’ve identified a 
+number of things we can do to increase registrations, and since we’re focused on the short 
+term, I recommend that we do X, Y, and Z, because of A and B.” 
+ 
+Note:  A good answer should be short (20 seconds), organized and forceful.  The 
+candidate should be firm and not hedge her answer.  The recommended steps will 
+likely be things discussed in Question 4, and a good answer will choose tactics that, 
+logically, will make the biggest impact. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p24 =====
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Handout 
+ 
+Registered Donors(M) 
+Population(M) 
+Caucasian 
+2.600 
+5.500 
+African-American 
+0.075 
+1.500 
+Hispanic 
+0.250 
+2.500 
+Other 
+0.100 
+0.500 
+ 
+ 
+ 
+ 

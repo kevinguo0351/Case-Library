@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2014_24_consumer-products-strategy",
+  "school": "Fuqua",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2014.pdf",
+  "idx": 24,
+  "case_name": "Consumer Products Strategy",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Consumer Products",
+  "difficulty": null,
+  "pdf_page_start": 240,
+  "pdf_page_end": 247,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    241,
+    242,
+    244,
+    245
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p241.png",
+    "exhibits/exhibit_p242.png",
+    "exhibits/exhibit_p244.png",
+    "exhibits/exhibit_p245.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2014\\24_consumer-products-strategy"
+}

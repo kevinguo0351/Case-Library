@@ -1,0 +1,207 @@
+===== PDF p159 =====
+Howliday Inn
+155
+Industry: Market Sizing
+Quantitative Level: Difficult
+Qualitative Level: Easy
+
+
+===== PDF p160 =====
+Behavioral Questions
+156
+• Describe a time when you had to have a difficult conversation with someone at work. 
+Question 1:
+• Name three traits that describe you. 
+Question 2:
+
+
+===== PDF p161 =====
+Howliday Inn
+157
+• Your client is a private equity firm considering an investment in Howliday Inn, a 
+national chain providing doggy daycare and boarding services. Your client has asked 
+you to size the market for doggy daycare and boarding services in the U.S. 
+Prompt #1:
+• Doggy daycare is essentially childcare for dogs. Daycare is for short-term stays, while boarding is 
+longer stays typically used when the owner goes on vacation, etc.
+• Provide the following if requested or if the candidate raises the item as part of their methodology. 
+If candidate assumes numbers that are close, let them use those.
+– 320m people in the United States
+– 2.5 people per household
+– 40% of households own a dog
+– Average rate of doggy daycare in the U.S. is $20/day
+– Average rate of dog boarding in the U.S. is $40/night
+– If candidate raises the addressability of daycare/boarding services, present relevant exhibits
+• This case uses a top-down approach. Bottoms-up is also fine, but no solution is provided due to 
+variability. If candidate is unsure, guide them toward a top-down approach. 
+• If candidate has assumptions that feel off base e.g. “9 out of 10 friends I know own dogs, 
+therefore 90% of U.S households own dogs”, question those assumptions. 
+• The final number should be a dollar figure, not number of nights, etc. 
+Interviewer Guidance:
+
+
+===== PDF p162 =====
+• A great candidate may recognize that some households own more than one dog. 
+Indicate that the exhibits account for this (e.g. 3-5x a week for doggy daycare would be 
+3-5x a week in total for the household for both dogs)
+• The sample size in either exhibit is not required to do the analysis
+Howliday Inn
+158
+Interviewer Guidance on Exhibits:
+
+
+===== PDF p163 =====
+Exhibit #1
+n=10,000
+95%
+5%
+Yes
+Usage
+No
+9%
+n=500
+5-7 times/week
+1%
+90%
+1 time/week
+2-4 times/week
+Frequency
+Survey of U.S. dog owners
+Q: Does your household regularly use doggy daycare services? If yes, how often?
+
+
+===== PDF p164 =====
+Exhibit #2
+Usage
+n=10,000
+20%
+80%
+No
+Yes
+Survey of U.S. dog owners
+Q: Does your household regularly use dog 
+boarding services?
+Expert Commentary
+“There isn’t a lot of great data 
+available on how many times people 
+bring their dogs for boarding each 
+year, but I’d say most households on 
+average use boarding services twice 
+per year”
+-Data Analyst, ASPCA
+“Most of my customers board their 
+dogs for the weekend, and my 
+customers are pretty representative of 
+the U.S. average. So maybe each 
+stay on average is about 2 nights 
+long”
+-Regional Manager, 
+Howliday Inn
+
+
+===== PDF p165 =====
+General Notes:
+•
+The sample sizes in the exhibits are not necessary to find the market size. 
+•
+Some candidates may raise the fact that some households own more than one dog. In that case, indicate that the exhibits 
+take that into account, e.g. of dog owning households who use doggy daycare services, 9% use doggy daycare services 2-
+4x a week for both dogs.
+Framework: 
+•
+320m people in the U.S. / 2.5m people per household = 128m households in the U.S. 
+•
+128m households x 40% of households own dogs = 51.2m (~50m) dog owning household
+Doggy daycare market size:
+•
+50m dog owning households x 5% regularly using doggy daycare = 2.5m households regularly using daycare
+•
+Of households using doggy day care services, households average 1.2 days of boarding per week. For the math below, 5-7 
+times a week is averaged to 6, 2-4 times a week is averaged to 5, etc. 
+–
+1% x 6 times per week = .06
+–
+9% x 3 times per week = .27
+–
+90% x 1 time per week = .9
+1.23 days of daycare per week (~1.2)
+•
+2.5 m households x 1.2 days of daycare a week x 52 weeks in a year (can use 50) x $20/day = $3b
+Dog boarding market size:
+•
+50m dog owning households x 20% using boarding services x 2 stays per year x 2 nights per stay x $40 per stay = $1.6b
+Total market size: $3 billion + $1.6 billion = ~$4.6 billion
+Howliday Inn
+161
+Interviewer Guidance:
+True market size is $5.6b for dog boarding (and grooming) 
+according to the American Pet Products Association, so 
+variability is fine if they are close to that range
+
+
+===== PDF p166 =====
+Howliday Inn
+162
+• The client has asked for an update and would like to hear your thoughts on the 
+market size of the doggy daycare and boarding industry, and if there is anything else 
+they should be considering.  
+Recommendation:
+• The candidate should provide some high level thoughts on the market size they 
+found, such as an initial judgment on whether the market size seems large enough 
+for an investment. Since answers can be relatively variable for the market size 
+depending on a top down or bottom up approach, you are mostly looking for clear 
+communication and logical reasoning behind their explanation.
+• Candidates can raise several questions that the client should explore, such as:
+– Growth of the market 
+– The competitive landscape/saturation of the market
+– Trends affecting the market, such as ‘humanization of pets’
+– Adjacencies and new offerings that StarWoof can provide to increase revenue, 
+such as grooming, training, retail
+Interviewer Guidance:
+
+
+===== PDF p167 =====
+Evaluation Criteria
+163
+Candidate Level
+Assessment
+Average Candidate
+•
+Completes the market sizing exercise, but either has some questionable 
+assumptions or makes multiple math errors
+•
+Finds the market size but leaves the number ‘hanging’ – market size is not 
+given meaning unless prompted
+•
+Provides limited direction to client during recommendation
+•
+Does not raise the importance of market growth 
+•
+Provides market size in nights/days vs. dollars
+•
+Activity is a relatively quiet process – strong market sizers will be interactive
+Good Candidate
+•
+Methodology is mostly logical and clear. May provide reasoning behind 
+assumptions and have strong math, but not in all cases
+•
+May evaluate the market size without being prompted, but evaluation is 
+limited “market size feels big” vs. “market size feels big…here’s what it 
+means in the context of our client”
+Excellent Candidate
+•
+Methodology is always logical and clear – candidate either ensures 
+interviewer is following, and/or walks through methodology before diving in
+•
+Candidate is engaging and positive 
+•
+Provides reasoning behind assumptions, or is upfront about uncertainty with 
+assumptions
+•
+Sense checks the market size number upon completion and provides 
+meaning behind the number
+•
+During recommendation, a stellar candidate might not only suggest looking 
+at market growth, but also suggest how 
+•
+Picks up on nuances, e.g. “some households may have 2 dogs”

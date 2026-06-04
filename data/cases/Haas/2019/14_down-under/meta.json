@@ -1,0 +1,30 @@
+{
+  "case_id": "Haas_2019_14_down-under",
+  "school": "Haas",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Haas\\HAAS_Case Book_2019.pdf",
+  "idx": 14,
+  "case_name": "Down Under",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Retail / Surf",
+  "difficulty": null,
+  "pdf_page_start": 154,
+  "pdf_page_end": 164,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    157,
+    158,
+    159,
+    160,
+    162
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p157.png",
+    "exhibits/exhibit_p158.png",
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p162.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Haas\\2019\\14_down-under"
+}

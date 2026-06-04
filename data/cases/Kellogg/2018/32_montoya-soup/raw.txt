@@ -1,0 +1,464 @@
+===== PDF p237 =====
+233
+Montoya Soup
+Case Question
+Clarifying answers to provide
+A model framework should include the following
+Profit 
+Down
+Revenue 
+Down
+Costs Up
+Mix
+Volume
+Price
+Fixed
+Cannibalization 
+by lower margin
+Variable
+High margin 
+product exit
+Candidate reflections / initial hypothesis should include
+In F14, Montoya Soup Co., a Business Unit of Izzy’s Healthy Foods, grew revenue and increased the contribution margins on 
+their Traditional and Light Soups.  However, a spike in fixed costs caused them to see a dip in profitability.  To offset this effect in 
+F15, they launched a line of premium soups in an attempt to increase volume and generate economies of sale.  Though they felt
+the new launch was a success, their profitability dropped again in F15.  They have hired you to diagnose the problem and 
+propose a solution for F16.
+Traditional, Light, and Premium are the only product lines in 
+Montoya Soup Co.’s product portfolio.
+Montoya sells cases to buyers at grocery retailers who mark 
+up the units inside to sell to consumers
+The prompt hints that revenue is up and fixed costs haven’t 
+increased in 2015, so the candidate should be thinking 
+about variable costs right away.  That said, this is a portfolio 
+pricing strategy case disguised as a cost reduction case 
+and a strong candidate might recognize that possibility.
+By: Nico Montoya (Kellogg ’16)
+Quant: 8
+Structure: 5 
+Industry: CPG
+Framework: Profitability
+
+
+===== PDF p238 =====
+234
+Deep dive – Why did profitability decline?
+Provide Exhibit A
+If asked: growth was driven by premium 
+line.  There was some cannibalization of 
+traditional and light lines (provide Exhibit 
+B).
+Q: What trends do you see with regard to 
+top line growth?
+Revenue
+Candidate insights
+Provide Exhibit A
+If asked: input prices 
+.  No 
+additional wastage.  No change in 
+formulation
+Q: What happened with fixed costs in F15?  
+Variable costs?
+Q: What could have driven up our variable 
+costs?
+Costs
+Fixed costs were flat at $1.3bn in F15 
+(Gross Margin - Contribution Margin = 
+Fixed Costs), so profit decline was driven 
+by an increase in variable costs.
+Increase in variable costs could have 
+come from pricier mix of inputs, same 
+inputs but increase in input prices, more 
+waste in manufacturing, or change in 
+demand mix for more expensive products.  
+(Provide Exhibit B.) 
+Candidate insights
+Provide Exhibit A
+Q: How can profitability be down if revenue 
+is up, fixed costs are flat, and the cost of 
+our inputs have not changed?
+Q: What information do you need to look 
+into fixing the product mix to optimize 
+profitability
+Product Mix
+Candidate insights
+Revenue grew significantly in F15, much 
+faster than in any other year in recent 
+history
+Revenue outpaced volume, meaning that 
+not only did revenue grow, but it grew 
+even though average price increased
+If revenue is up, input costs are flat 
+(assuming 
+), and profitability is down, then 
+the issue must be with cannibalization of 
+higher margin products by lower margin 
+ones.
+Candidate should want to look at the 
+product lines’ prices, COGS, elasticity, 
+and cannibalization rates.
+
+
+===== PDF p239 =====
+235
+Deep dive – How do we fix profitability? 
+Provide Exhibit B and C when appropriate
+If asked: Competitors aren’t playing in the 
+“premium” space, only in “value” and 
+“super-premium”
+Q: How much profit do we make per case 
+of Premium? Traditional? Light?
+Cost Reduction
+$10 contribution margin on Traditional and 
+Light, $6 contribution margin on Premium 
+(price – sum of variable costs)
+Largest opp. for v. cost reduction would be 
+in packaging, meat, and veg., but reducing 
+these might erode value proposition of a 
+premium product
+Math on next page
+Candidate insights
+Provide Exhibit B and C when appropriate
+If we both raise prices 
+change 
+packaging, we will lose enormous 
+distribution
+Q: What is the optimum price for 
+profitability?
+Pricing (Cannibalization and Elasticity)
+Candidate should infer from Exhibit B that 
+Premium cannibalized Traditional 
+substantially.
+Math on next page
+Candidate insights
+Provide Exhibit D
+Q: What are the long-run effects on 
+customers for changing packaging? For 
+reducing meat/vegetable costs? For 
+increasing prices?
+Q: What about for the end consumer?
+Stakeholder Value Proposition
+Candidate should see that customer are 
+willing to pay for a pricier product, but that 
+reducing variable costs (and thereby 
+reducing quality) is not a viable long run 
+strategy and will hurt the brand
+Candidate insights
+
+
+===== PDF p240 =====
+236
+Math Solutions
+Unit
+Margin
+Vol
+Profit
+(Margin*
+Vol)
+Trad Vol.
+Cannibaliz
+ation
+Trad
+Margin
+Trad
+Profit
+Lost
+Light
+Volume
+Cannibaliz
+ation
+Light
+Margin
+Light
+Profit
+Lost
+Net Profit
+from
+Premium
+Last Year
+$6
+40
+$240
+-20
+$10
+($200)
+-5
+$10
+($50)
+($10)
+If we change packaging
+$9
+32
+$288
+-24
+$10
+($240)
+-5
+$10
+($50)
+($2)
+If we reduce meat and
+vegetable costs
+$9
+40
+$360
+-20
+$10
+($200)
+-5
+$10
+($50)
+$110
+If we raise price to 33
+$9
+20
+$180
+-2
+$10
+($20)
+0
+$10
+$0
+$160
+Below are the calculations the candidate would have to make if they calculated every single scenario. It seems like a lot, but keep in mind that 
+the margins on Traditional and Light are $10, so candidates can simply add a zero to the cannibalized volume number to get cannibalized 
+profit. 
+The candidate should feel free to elect not to even calculate the first two scenarios if they are deemed strategically unwise long-term decisions. 
+Net profit from premium will be the profit from Premium (
+minus and profit lost from cannibalizing Traditional and Light (
+)
+Logic behind the math
+
+
+===== PDF p241 =====
+237
+Exhibit A: Performance metrics
+-10.0%
+-5.0%
+0.0%
+5.0%
+10.0%
+15.0%
+F11
+F12
+F13
+F14
+F15
+Sales Volume % +/-
+Sales Revenue % +/-
+Contribution Margin % +/-
+Gross Margin % +/-
+F10
+F11
+F12
+F13
+F14
+F15
+Sales Volume (millions of 
+cases)
+126.5
+130.4
+131.7
+136.5
+140.0
+155.0
+Sales Revenue (millions)
+$3,282
+$3,366
+$3,409
+$3,560
+$3,680
+$4,200
+Contribution Margin (millions)
+$1,165
+$1,212
+$1,261
+$1,264
+$1,360
+$1,356
+Gross Margin (millions)
+$65.2
+$61.9
+$61.4
+$63.9
+$60.0
+$56.0
+
+
+===== PDF p242 =====
+238
+Exhibit B: Product lines
+$1 
+$1 
+$1 
+$7 
+$3 
+$8 
+$4 
+$4 
+$6 
+$1 
+$1 
+$1 
+$4 
+$4 
+$7 
+$1 
+$1 
+$1 
+$0
+$5
+$10
+$15
+$20
+$25
+Traditional
+Light
+Premium
+Variable Input Cost per Case
+Broth
+Meat
+Vegetables
+Spices
+Packaging
+Wages
+Trad.
+Light
+Prem.
+Wholesale
+Price
+$28
+$24
+$30
+F14 Vol. (m
+cases)
+80
+60
+-
+F15 Vol. (m
+cases)
+60
+55
+40
+“Our research showed that many of our 
+consumers were willing to pay more for a 
+product with more meat and vegetable 
+bounty in a carton (instead of a can).  After 
+testing several price points, we decided a 
+lower margin and higher volume would 
+help us reach the economies of scale we 
+wanted to see.  Consumers loved the 
+product and thought it was a great 
+bargain!”
+
+
+===== PDF p243 =====
+239
+Exhibit C: Demand analysis
+Cost Reduction Effect on 
+Demand
+Price Elasticity 
+and 
+Cannibalization
+Last Year
+Increase 
+Price
+Premium Price
+$30
+$33
+Premium Demand (m cases)
+40
+20
+Traditional cannibalization rate
+50%
+10%
+Light cannibalization rate
+12.5%
+0%
+“We looked into moving premium out of 
+cartons and into cans.  On the plus 
+side, it would gain us $3 of margin per 
+case, but on the con side it would 
+decrease demand by 20% and 
+cannibalization of our Traditional line 
+would spike to 75%”
+“We could decrease our meat and 
+vegetable bounty to be on par with 
+Traditional. That would buy us $3 of 
+margin points and consumers shouldn’t 
+know the difference, in the short run at 
+least.”
+
+
+===== PDF p244 =====
+240
+Exhibit D: Stakeholder input
+Customer Feedback
+Consumer Focus Group Excerpts
+•
+“We really loved the new Premium 
+Montoya Soup offering, it brought a new 
+consumer to the shelf-stable soup 
+category when all of the other players 
+were introducing products that just stole 
+from their competitors.”
+•
+“We’re planning to give more shelf 
+space to Montoya Soup in F16 after 
+their successful premium launch this 
+year.  Our guests really loved the new 
+packaging format and the higher meat 
+and vegetable content.  Product trial
+wasn’t extremely high, but we saw a lot 
+of repeat purchases from the people 
+who were buying.”
+•
+“I’m trying to eat healthier, and I’m really 
+nervous about canned products with 
+their BPA lining.  As soon as Montoya 
+came out with their new carton soup I 
+switched right away from their 
+Traditional line and I’m never going 
+back!”
+•
+“I definitely think their brand is rising 
+with me, the old stuff was mostly broth, 
+this new stuff is a huge bargain and it 
+actually has actual stuff in it.”
+•
+“Glad to see that when everyone else is 
+trying to rip you off, Montoya is making 
+Soup that actually tastes like something 
+I would make at home.”
+
+
+===== PDF p245 =====
+241
+Suggested conclusion
+Conclusion
+Risks
+Next steps
+Profits have declined due to the introduction of a margin-dilutive product line that cannibalized higher margin products. 
+Recommendation: Increase price of product line to $33 per case to maximize profitability (Gross profit would more than 
+quadruple)
+-
+Increases margins (though volume will drop)
+-
+Reduces cannibalization substantially
+-
+Alternative cost-reduction measures hurt value proposition and will cause long-run issues with brand equity
+-
+Pricing measures didn’t consider competitive response (could competitor come in with a lower priced premium soup and 
+force us out of the category?) 
+-
+Raising prices could upset some buyers and lose distribution
+-
+Opportunity Cost: Could be better long-term strategy to keep prices low and start phasing out of old lines, ramping up 
+premium
+-
+Perform due diligence on long-term consumer preference forecast
+-
+Launch advertising campaign to make sure we can justify higher prices and defend from competitors
+-
+Look to reduce high fixed costs so we can protect against potentially price-aggressive competitors or increased commodity 
+prices

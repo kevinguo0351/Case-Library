@@ -1,0 +1,183 @@
+===== PDF p52 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 48 - 
+Case 11: R & D Productivity 
+ 
+ 
+BACKGROUND 
+ 
+Firm: BCG  
+Round: 2008 Summer, Second 
+Content: Qualitative 
+ 
+CASE QUESTION 
+ 
+Our client is the head of the R & D department of a pharmaceutical company. He wants 
+us to advise him on how to improve the productivity in the R & D department 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: Explain a good structure to answering the case.  Suggest a 
+possible framework and a solution. 
+ 
+Key facts:   
+Facts that are disclosed during the course of the case: 
+ 
+There are basically several steps leading from the discovery of the molecule to the 
+launch.  
+ 
+It normally takes about 10 years to discover a drug and get it approved.  
+ 
+The drugs are usually patent protected 
+ 
+EXAMPLE DIALOGUE 
+ 
+Interviewer:  There are basically several steps leading from the discovery of the 
+molecule to the launch. It normally takes about 10 years to discover a drug and get it 
+approved.  
+ 
+ 
+ 
+ 
+ 
+How would you measure the productivity of the R & D department? 
+ 
+Interviewee:  I would look at the success of the R & D department in terms of the drugs 
+discovered.  
+ 
+Interviewer: If you had to measure the productivity in terms of a formula that you could 
+present to the shareholders, what would that be?  
+Preclinical 
+(testing on 
+Animals) 
+Phase 1  
+(testing 
+on 
+humans)
+Phase 2  
+(testing on 
+humans) 
+Phase 3  
+(testing on 
+humans) 
+ 
+Approval  
+&  
+Launch  
+ 
+Discovery 
+(discovery 
+of the 
+molecule)
+
+
+===== PDF p53 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 49 - 
+ 
+Interviewee:  The formula would look like this: 
+ 
+NPV of future cashflows 
+of successful drugs 
+- 
+R & D cost of 
+all drugs 
+R&D cost of all drugs 
+ 
+Interviewer:  What are the big drivers to increase the productivity ? 
+ 
+Interviewe:  Let’s look at each aspect of the formula that we have written 
+ 
+NPV of future cashflows .  
+The big drivers of the NPV of the future cashflows are as follows: 
+ 
+Quality of the compound 
+Quality of the compound is the most important factor that influences the cash 
+flows. Say Lipitor for instance – it’s the highest quality compound that’s out 
+there in the market and its capturing record revenues year after year. Its 
+important to ensure that sufficient tests have been done during the test phase 
+to ensure that there are no side effects to the drugs.  
+ 
+Length of research 
+As it takes around 10 years to discover the drug, reducing the length of time 
+taken will increase the patent time thus maximizing our return 
+ 
+Marketing & Sales promotion efforts 
+While this aspect is beyond the hands of our client, its an important element of 
+the future cashflows. The sales and marketing team are responsible to build 
+awareness and demand for the product.  
+ 
+R & D cost of all drugs 
+The 2nd part of the formula is the cost of the producing drugs. Its important to minimize 
+the cost of research to have the maximum productivity. That can be done in the following 
+manner: 
+ 
+Strict controls and parameters at each stage of the development  
+No drug which has a likelihood of failing the stage should be passed to the 
+next stage. This ensures that costs of failure are kept to the minimum. If the 
+controls are not strict, then a lot more money would be spent on patient testing 
+and the drugs end up getting rejected in the later stages. This not only wastes 
+money but also valuable time which could have been spent on another drug. 
+ 
+Quality scientists 
+In order to control the costs of R & D and make it more productive, we need 
+high quality scientists.  
+ 
+Acquire compounds developed successfully upto certain stages 
+Due to the length of time a complete in-house discovery takes, it might be 
+worthwhile to explore outside and either acquire or obtain partnerships with 
+
+
+===== PDF p54 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 50 - 
+other companies for promising drugs. This diversifies the risk as well as may 
+yield a good return 
+ 
+Interviewer:  Any other ways to increase productivity? What about the R & D 
+organization? 
+ 
+Interviewee:  We need to keep the scientists sufficiently motivated as it’s a very long 
+process before their drug is successful. We need to ensure that they do not move 
+organizations quickly leading to loss of critical talent. 
+ 
+Interviewer:  What is the biggest challenge that the R & D head faces today? 
+ 
+Interviewee:  The biggest challenge the   R & D head faces today is on evaluation of 
+scientist teams. What kind of measurable metrics to set and how to evaluate the scientist 
+against it. 
+ 
+Interviewer:  What is the biggest mistake that an R & D head could make? 
+ 
+Interviewee:  The biggest mistake an R & D head could make is to measure the scientists 
+based on the number of drugs they pass from one stage to the next. This will motivate 
+them to pass certain drugs which maybe borderline or even not fit to be passed to the next 
+stage. This increases the R & D costs significantly and as mentioned before wastes time 
+that could have been spent on other products.  
+ 
+Their incentive structure should be based on compliance, how strictly they have adhered 
+to the guidelines. Any product that fails at a later stage and where the cause can be 
+directly attributed to a prior stage should impact their performance. 
+ 
+Interviewer:  Excellent! Lets summarize and recommend  
+ 
+Interviewee:  We have seen the different stages of drug discovery and know that it takes 
+10 years to discover a drug. We have also looked at the drivers of productivity which are 
+mainly the future cashflows from successful drugs and R & D investment in all drugs. In 
+order to increase the productivity I would recommend that we take steps to  
+ 
+Shorten the length of research so that we get maximum patent protection time to 
+maximize our returns. 
+ 
+Establish strict guidelines at each stage of the process to ensure that failures are 
+discovered more quickly  
+ 
+Change the incentive structure of the scientists so that the metrics for evaluating 
+them is compliance driven and not based on the number of drugs passed to the 
+next stage. 

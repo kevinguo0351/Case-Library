@@ -1,0 +1,28 @@
+{
+  "case_id": "Fuqua_2022_08_i-want-my-em-tv",
+  "school": "Fuqua",
+  "year": "2022",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2022.pdf",
+  "idx": 8,
+  "case_name": "I Want My Em-TV",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Telecommunications/Media",
+  "difficulty": null,
+  "pdf_page_start": 104,
+  "pdf_page_end": 113,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    108,
+    109,
+    110,
+    111
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p108.png",
+    "exhibits/exhibit_p109.png",
+    "exhibits/exhibit_p110.png",
+    "exhibits/exhibit_p111.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2022\\08_i-want-my-em-tv"
+}

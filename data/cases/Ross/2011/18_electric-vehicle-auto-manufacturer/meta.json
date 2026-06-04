@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2011_18_electric-vehicle-auto-manufacturer",
+  "school": "Ross",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2011.pdf",
+  "idx": 18,
+  "case_name": "Electric Vehicle Auto Manufacturer",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Automotive",
+  "difficulty": null,
+  "pdf_page_start": 140,
+  "pdf_page_end": 150,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    141
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p141.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2011\\18_electric-vehicle-auto-manufacturer"
+}

@@ -1,0 +1,342 @@
+===== PDF p95 =====
+EXAMPLE CASES BY TYPE 
+WILD CARD AND MISCELLANEOUS 
+ 
+ 
+ REDEFINING A BUSINESS UNIT DIVISION 
+ 
+Question  
+A Multinational Pharmaceutical and Chemicals manufacturer has a 168 person ERP development center.  
+Having completed over 50% of their business unit’s (in total 5 excluding the ERP center) implementations 
+the parent company is now trying to decide what to do with the organization.  How would you evaluate 
+their situation and what would you tell them to do? 
+ 
+Information to be given if asked: 
+ 
+Economy: 
+ 1995-2003 has been a period of rise and fall with many tribulations for multinationals 
+ German based this organization is facing lagging pick-up in the economy than in the US.  
+Additionally, the major manufacturing businesses of these types of products have seen less 
+turnaround. 
+ 
+Competitors: 
+The company: 
+ Interviewer asks:  Does this matter? 
+ Interviewer asks:  Where and how is this pertinent? 
+ Interviewer response:  None of this matters 
+ 
+The Development Center: 
+ Interviewer asks:  Who are they? What do you think? 
+ Interviewer response:  Accenture, SAP, Deloitte, IBM, a large number of regional and local players 
+ Interviewer asks:  What is the problem with these competitors and the important characteristics? 
+ Interviewer response:  They are all lean, strong, smart, and now they were working on building their 
+power back by acquiring every client possible 
+ Interviewer response:  Some companies are actually willing to purchase their clients relationships 
+ Interviewee asks about prices:  What Ask about prices? What does the ERP development center 
+charge on per hour basis? 
+ Interviewer response:  Our rates are 100 and 140 per hour.   
+ Interviewee asks about competitor prices?  Interviewer gives you the following datasheet. 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 121 
+ 
+ 
+Developer – SAP 
+ 
+ 
+ 
+ 
+ 
+Supplier 
+Intermediate
+Advanced
+Manager Senior
+ 
+Company 1 
+48
+58
+68 
+75
+ 
+Company 2 
+50
+60
+70 
+80
+ 
+Company 3 
+50
+60
+70 
+80
+ 
+Company 4 
+50
+55
+60 
+65
+ 
+Company 5 
+55
+65
+80 
+90
+ 
+Company 6 
+75
+80
+85 
+90
+ 
+Company 7 
+50
+60
+70 
+85
+ 
+Company 8 
+65
+75
+85 
+95
+ 
+ 
+ 
+ 
+ 
+ 
+Functional Analyst – SAP 
+ 
+ 
+ 
+ 
+ 
+Supplier 
+Intermediate
+Advanced
+Manager Senior
+ 
+Company 1 
+65
+80
+95 
+110
+ 
+Company 2 
+60
+70
+80 
+90
+
+
+===== PDF p96 =====
+EXAMPLE CASES BY TYPE 
+WILD CARD AND MISCELLANEOUS 
+ 
+ 
+ 
+Company 3 
+65
+70
+80 
+90
+ 
+Company 4 
+55
+60
+65 
+75
+ 
+Company 5 
+65
+80
+100 
+110
+ 
+Company 6 
+100
+105
+120 
+125
+ 
+Company 7 
+60
+70
+80 
+90
+ 
+Company 8 
+85
+100
+115 
+130
+ 
+ 
+ 
+ 
+ 
+ 
+Technical Analyst – SAP 
+ 
+ 
+ 
+ 
+ 
+Supplier 
+Intermediate
+Advanced
+Manager Senior
+ 
+Company 1 
+48
+54
+60 Senior
+ 
+Company 2 
+55
+6
+70 
+80
+ 
+Company 3 
+55
+60
+65 
+65
+ 
+Company 4 
+55
+60
+65 
+70
+ 
+Company 5 
+60
+75
+90 
+105
+ 
+Company 6 
+90
+95
+100 
+105
+ 
+Company 7 
+49
+54
+64 
+64
+ 
+Company 8 
+56
+61
+71 
+76
+ 
+Company 6 
+90
+95
+100 
+105
+ 
+ You should ask what type of firms these are? 
+o  Are these are regional players? 
+o  Are they the right competitor? 
+ These are regional and they don’t sell on brand so there may be other higher 
+rates, It turns out for most purposes these are the companies our ERP division 
+will be competing with. 
+ 
+Customers: 
+ Five corporate divisions 
+ 3 of the 5 have implemented ERP solutions; each time the solution is implemented the Division sets 
+up their own management and services groups that will perform necessary upgrades, installs and any 
+break-fix level work 
+ Significant system changes will require going back to the Development Centers 
+ The other 2 divisions will be implemented in the next 12-18 months 
+ 
+Company: 
+ The people in the company were originally put together from all of the different divisions, 5 years ago 
+ They are considered a $30 M revenue business in a 5B revenue company.  What are the implications 
+of this? 
+ They serve only an internal customer base and have no external customer base experience 
+ 
+Revenue Data: so what does this mean? 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 122 
+ 
+Headcount 
+ 
+Total 
+168.0 
+Technical Analysts 
+34.0 
+Functional Analysts 
+109.0 
+Non-Billable 
+25.0 
+ 
+ 
+Rates (includes T&E) 
+ 
+
+
+===== PDF p97 =====
+EXAMPLE CASES BY TYPE 
+WILD CARD AND MISCELLANEOUS 
+ 
+ 
+ 
+The Consulting Club at The Darden School of Business  
+ 
+ Page 123 
+ 
+Technical Analysts 
+$100.0 
+Functional Analysts 
+$140.0 
+ 
+ 
+Hours Per Year 
+1,850.0 
+Technical Analysts 
+1,850.0 
+Functional Analysts 
+1,850.0 
+ 
+ 
+This is what they should calculate: 
+Max Revenue Streams  
+ 
+Technical Analysts 
+$6,290,000.0 
+Functional Analysts 
+$28,231,000.0 
+ 
+$34,521,000.0 
+ 
+ They should also calculate if, there are 2000 work hours in a year, what the utilization is:  92.5% 
+ 
+Expense Data:  
+  
+Average Cost per employee is: 220,000 (this is only the 143 people that are analysts) 
+SG&A is considered to be:  500,000 per month (this includes the 25 persons for overhead they should 
+have realized from above) 
+If there are no other expenses/costs they are then the result is?  $2.9 M of loss each year.  
+ 
+Is it reasonable to assume that people will work for clients, either internal or external for 92.5% of their 
+time?  No, that’s tough…more like 80% at best.  What does that mean?  $7.6 M of loss each year. 
+ 
+ 
+Solution: 
+1. Finish the implementations and begin to rotate staff into the different divisions.  EOD close down 
+the Development Center in its current format.  This may be redesigned for corporate needs or for 
+potential other activities 
+a. Next steps: 
+i. Look at what local customer needs could be 
+ii. Evaluate the services needs of the local market 
+iii. Consider expansion of product lines to serve the company divisions 
+ 

@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2021_17_shots-shots-shots",
+  "school": "Fuqua",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2021.pdf",
+  "idx": 17,
+  "case_name": "Shots, Shots, Shots",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Public Sector",
+  "difficulty": null,
+  "pdf_page_start": 185,
+  "pdf_page_end": 196,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p189.png",
+    "exhibits/exhibit_p190.png",
+    "exhibits/exhibit_p191.png",
+    "exhibits/exhibit_p192.png",
+    "exhibits/exhibit_p193.png",
+    "exhibits/exhibit_p194.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2021\\17_shots-shots-shots"
+}

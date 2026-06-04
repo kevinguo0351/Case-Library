@@ -1,0 +1,100 @@
+===== PDF p61 =====
+17.) Broadband Internet Service Provider (Bain, Round 1) 
+Stem 
+A Broadband Internet Service Provider (ISP) has noticed a trend where an increasing number of 
+customers are watching TV over the Internet. They want to know if this trend is good, bad, or not 
+important, and what they should do about it (if anything). 
+Interviewer: This case requires some understanding of technology. The case will refer to both 
+bits-per-second and bytes-per-second. You can tell a candidate that there are 8 bits in a byte. 1 
+Mbps = 1 million bits. 1MBps (capital 'B' for byte) is 8 million bits. 1Gb is 1 billion bits, and 
+1 GB is 1 billion bytes. Note that this is not crucial to the case as a whole, and the interviewer 
+should not allow the candidate to get too fixated on byte and bit conversions. 
+Phase 1: Gathering Information and Structuring the Problem 
+Interviewer: How would you think about evaluating this trend? What information might you 
+need to know? As the candidate asks, the following information can be provided: 
+• 
+How many TVs does the average household have? (3) 
+• 
+How fast is a typical Internet connection? (1 - 10 Mbps.) 
+• 
+What is a typical video stream on the Internet? Let's think ... 
+e 
+How big is a DVD? (4.5 GB single layer, 9 GB dual layer.) 
+• 
+How big is a blue-ray disk? (25GB) 
+• 
+How many households are there in the US? (About 100M) 
+• 
+Assume a 2hr video takes 4GB, even when streamed over the Internet. 
+1- _-_- ,- -- -- --,"-' - -_,::::--:_,_:_:,,::::?"~-::::="'-'----~-""';'_-
+-, 
+• 
+Basic understanding ofthe~Ii1temet video supply chain content 7 distribution 7 end 
+customer. 
+• 
+Crucial to explain why this is likely a problem for our client: many ISPs also offer cable 
+or satellite services (such as Comcast, Verizon, etc.) which will become redundant (and 
+therefore non-revenue generating) if many consumers only purchase a broadband internet 
+connection and watch TV and movies over that connection. Extra points for suggesting 
+that this is analogous to how Von age and Skype and the mobile phone have made the 
+landline connection less valuable over time. 
+• 
+Explanation as to why Internet video is gaining popularity and importance: time spent on 
+computer, ability to watch shows whenever the viewer wants to as opposed to a specific 
+weekly schedule, new potential advertising revenue stream 
+~~ Management' 
+1111111111 Consulting 
+~~~~l~;:'~ Club 
+2010-20111st YearCaseBook 
+107 
+
+
+===== PDF p62 =====
+Interviewer: If candidate does not suggest this, prompt them to think about working the numbers 
+to understand if Internet video is a threat (i.e. what is the required bandwidth to watch an internet 
+video at different levels of quality: standard definition, high definitionlblu-ray) 
+Candidate: If a 2 hr video is 4 GB, this gives a streaming rate of 2GB/hr. Dividing 2GB by 3600 
+seconds in an hour gives 55.6 KBps, which when multiplied by 8 gives 445 Kbps. The candidate 
+may estimate these values if they wish. 
+Interviewer: Does a typical broadband connection have sufficient bandwidth? (yes) 
+Where is there likely to be a problem? 
+• 
+Downstream from the "last mile" house connection, where many houses join 
+• 
+Providing high-quality video at High-Definition and Blu-ray levels 
+If 100 houses share a 100Mbps connection, is there a problem? (No, because that's IMbps per 
+house, and it's unlikely that everybody is watching 3 TVs worth of content simultaneously.) 
+Phase 2: Digging Deeper into the Industry & Conclusion 
+Interviewer: Where does Internet TV content come from? 
+• 
+Aggregators: Hulu.com, Fancast.com 
+• 
+Networks websites: abc.com, nbc.com, cbs.com 
+• 
+Pirate sites 
+How does it get to the provider? (if a value chain has already been discussed this is redundant) 
+• 
+Goes through a 3rd party "internet backbone" company 
+Interviewer: What might we recommend to our ISP? 
+• 
+Crucial to give the "answer" or recommendation first. 
+• 
+Make sure the candidate restates the key issue: the ISP likely also provides TV through 
+another service offering (cable or satellite) and is going to lose money on that revenue 
+stream 
+• 
+Answer Options: 
+o 
+Pricing Bandwidth - if the candidate enlphasizes that the ISP should see itself as a 
+pipe that is providing bandwidth to the home then he/she should be sure to 
+suggest that customers pay a premium for increased bandwidth that will allow 
+them to watch internet video at higher quality levels 
+o 
+Restrict Bandwidth - by restricting bandwidth the ISP is able to make sure that 
+the cable or satellite side of the business is able to survive and focus on delivering 
+high quality viewing experience over that platform 
+...... Management 
+!!!!!!!!!! Consulting 
+~~~I~:'~ Club 
+2010-2011 1 st Year Case Book 
+108 

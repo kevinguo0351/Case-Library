@@ -1,0 +1,367 @@
+===== PDF p43 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+PIPELINE OIL TECHNOLOGY
+By Roberto Carlos De Araujo (IESE MBA 2021)
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+39
+
+
+===== PDF p44 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+PROMPT
+Minerva’s University Fluids Research
+Lab has discovered a more efficient
+way to transport crude petroleum oil
+inside
+pipelines.
+This
+new
+technology
+can
+be
+used
+in
+midstream applications where the oil
+is acquired from the extraction plant
+and delivered to the refinery plant.
+The university invested $ 1,200M in
+this project during the last 12 years.
+The new technology mixes water
+and oil under certain conditions to
+reduce the loss of energy, caused by
+the friction between the oil and the
+pipeline
+surface
+while
+being
+transported. As a result, the transport
+between two given points gets 15%
+faster and the useful lifetime of the
+pipelines increases by 20%.
+Minerva’s
+University
+asked
+our
+help to value for how much they
+should sell the technology.
+CLARIFYING POINTS (if asked)
+What is the market?
+- Mexico.
+How big is the market?
+- 4,800 km of pipeline.
+Who are the competitors and market share?
+- National Oil Company (NOC) is the only player.
+However, the market is open for the last two years.
+Which are the potential buyers?
+- Primarily, NOC. However, other two prospects are
+interested in entering the market.
+Does the university have a patent? How long does it
+last?
+- The university has already filed the patent, which lasts
+for 20 years.
+What is NOC pipelines current capacity?
+- Full capacity. Surplus is transported by more expensive
+means such as rail car, barge and truck.
+How is the demand for crude oil?
+- NOC sells all the crude oil it buys. See Exhibit 2 for the
+next years forecast.
+Can NOC build more pipelines to substitute other
+means of transportation?
+- Yes, it is an alternative. However, there are costs
+involved. See “4. Given Data - Alternative: Expand
+Pipeline Network”
+How long does it take to implement this technology?
+- Minerva’s University estimates that the technology
+would be running in 100% of the pipelines in one year
+at $2,000 M installation cost.
+CASE GUIDANCE
+Crude oil Value chain
+Downstream:
+- Exploration - Extraction
+Midstream:
+- Transportation
+Upstream:
+- Refinery - Marketing/Selling
+Midstream Business Model
+1) Buy from the extractors (*)
+2) Transport crude oil from the extractor to the refinery
+3) Sell to the refineries at $10 per barrel
+(*)
+Assume
+that
+Cost
+of
+transportation
+already
+incorporates the buying price from the extractors.
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+40
+
+
+===== PDF p45 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+INTERVIEWER GUIDANCE – STRUCTURE
+Identify the main drivers of the pricing and evaluate the results by comparing to other investments.
+A) PRICING:
+Value = (1) Savings Costs of transportation + (2) Savings Cost of replacing pipelines – (3) Cost to implement
+(1) Savings in Cost of transportation
+- Increase in flow speed leads to increase in the pipeline’s delivery capacity
+- Save costs of sales by switching from other means of transportation to pipelines
+(2) Savings in Cost of replacing pipelines 
+- Save Costs by using the pipelines for longer, reducing the replacement
+(3) Cost of installation
+- $2,000 M
+B) COMPARISON: Compare the value of the technology to other investments to validate the final pricing
+(4) Research Investment (by Minerva’s University):
+- $1,200 M (spent in the last 12 years by Minerva’s University)
+(5) Alternative investment (for National Oil Company):
+- Investment to expand the pipeline network from 2 M to 2.5 M barrels per day
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+41
+
+
+===== PDF p46 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+REVENUE ANALYSIS
+Handle over Exhibit 1 if the interviewee asks for
+revenues and/or costs breakdown
+PRICING CALCULATION
+(1) Savings in cost of transportations (SCOT):
+SCOT = (I) Sales for 20 years * (II) Savings in switching transportation = $162,000 M * 0.035 = $5,670 M ~ $6,000 M in 20 years (or $300 M / year)
+(I) Sales for 20 years = Chart area (trapezoid) * 360 days * price per barrel: = [(2+2.5) * (20) x (1/2)] x 360 x 10 = $162,000 M
+(II) Savings in switching transportation: = % increase pipeline use * proportional savings = 10% * 0.35 = 0.035
+Switching from truck (5%) and rail (5%) to pipeline: % increase pipeline use = 15% * 70% = 10.5% ~ 10%
+Proportional Savings: = [% truck * (cost truck – cost pipeline) + % rail * (cost rail – cost pipeline)] = 5% * ($6 - $2) + 5% * ($5 - $2) = 0.35
+TIP: ROUND UP / DOWN
+Recommend to the interviewee to round up some numbers to facilitate the calculations. Some suggestions are underline in the
+case. Nonetheless, strong candidates figure out these opportunities by themselves.
+Handle over Exhibit 2 if the interviewee asks about
+the demand for the next years
+DEMAND ANALYSIS
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+42
+
+
+===== PDF p47 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+EXHIBIT 1
+(*) Cost of transportation already includes the buying price from the extractors.
+(**) Assume that Other Operating Costs does not change over the years.
+Table 2: Cost of Sales 
+breakdown per means of 
+transportation
+Table 1: Income statement for 
+Year 0, assuming sales of 2M 
+barrels per day.
+Income Statement
++ Sales
+$7,200 M
+- Cost of transportation (*)
+$1,980 M
+- Cost of replacing pipelines
+$1,000 M
+- Other operating costs (**)
+$3,500 M
+Operating profit
+$720 M
+Means
+Cost
+Barrels
+Pipeline
+$2 per barrel
+70%
+Truck
+$6 per barrel
+5%
+Barge
+$3 per barrel
+10%
+Rail
+$5 per barrel
+15%
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+43
+
+
+===== PDF p48 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+EXHIBIT 2
+Crude oil demand forecast
+1
+1,5
+2
+2,5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Barrels per day
+Year
+(*) Demand in millions
+(*) In a given year, assume that the demand per day is equal for all the 360 days.
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+44
+
+
+===== PDF p49 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+(2) Savings in Cost of replacing pipelines (SCRP):
+= Cost of replacing pipelines per year * 20 years * (1 - new lifetime/current
+lifetime)
+= $1,000M * 20 * [1 - 4/5 years] = $4,000M in 20 years (or $200M per year)
+- Cost of replacing pipelines: $1,000M per year
+- Lifetime of regular pipeline: 5 years
+Expand network pipeline
+Investment to expand the pipeline network:
+= (Additional capacity in 20 years / Additional Capacity) * cost to implement
+= (2.5 M – 2M) / 0.05 M * $700 M = $7,000 M
+GIVEN DATA:
+- Additional capacity: 50,000 barrels per day
+- Time to implement: 2 years
+- Cost per additional capacity = $ 700 M
+GIVEN DATA:
+ALTERNATIVE ANALYSIS
+PRICING CALCULATION
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+45
+
+
+===== PDF p50 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+COMPARISON ANALYSIS
+NEGOTIATION
+The University can recover its investment selling the technology for any price over $1,200 M. Given the estimated savings and cost of installation,
+NOC will pay less than $ 8,000 M to guarantee profits/savings.
+Alternatively, NOC can construct its own pipeline network for a total investment of $7,000 M. Then, it is better to buy the technology for $ 7,000 or
+less than to go forth with this alternative investment. Note that the alternative investment is limited by additional 50,000 barrels/day in two years, while
+the new technology can be put in operation in just one year.
+Therefore, a reasonable price for selling this technology would be between $1,200 M and $7,000 M.
+PRICING
+$8,000 M
+(+) Savings in Cost of transportation
+$6,000 M
+(+) Savings in Cost of replacing 
+pipelines 
+$4,000 M
+(-) Cost of installation
+$2,000 M
+INVESTMENTS
+(-) Research Investment
+(University)
+$1,200 M
+(-) Alternative investment
+(National Oil Company)
+$7,000 M
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+46
+
+
+===== PDF p51 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2020 |
+RECOMMENDATION
+What would be your final recommendation to Minerva’s University?
+SAMPLE RECOMMENDATION
+PIPELINE OIL TECHNOLOGY
+Oil & Gas
+Operations
+Pricing
+Easy
+Medium
+Hard
+The general recommendation is open. One of the possibilities is to sell the new technology for a price of $1,500 M plus a 30% participation in the 
+additional revenue while the patent holds (40% of $10,000M = $3,000M in 20 years, disregarding cost of installation). There are three reasons that support 
+this proposal:
+1) The saving costs by increasing the volume of crude oil transported in pipelines are relevant. According to the calculations, $300 M per year (around 
+40% of the current Operating Profits)
+2) The improvement in the pipeline lifetime is also relevant accounting for $200 M per year (around 25% to 30% of the current Operating Profits)
+3) The alternative of expanding the pipeline network is a higher investment than the saving costs generated by the new technology. Besides that, 
+expanding the pipelines is limited by additional 50,000 barrels/day in two years, while the new technology can be put in operation in just one year.
+A great candidate would also briefly discuss any risks or next steps:
+Next steps:
+- Confront its own calculation with NOC’s 
+calculations/data to validate the assumptions
+- Define a negotiation strategy based on the 
+calculations/assumptions
+- If the negotiation fails, look for other prospect 
+buyers
+Main risks / sensitive assumptions:
+- Delay in the installation of the new technology
+- Limitation in reaching some regions, since it can be done only by a specific mean of 
+transportation
+- High investment to implement ($2,000M). Options: cash surplus, bank loan, increase in 
+equity
+- Crude oil price fluctuation -> Use future contracts to guarantee buying and selling prices
+- Demand changes because of crisis or other external factor
+47

@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2018_05_high-quality-bottles",
+  "school": "Darden",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2018.pdf",
+  "idx": 5,
+  "case_name": "High Quality Bottles",
+  "case_type": "Profitability",
+  "round": "1",
+  "industry": "Hospitality/Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 97,
+  "pdf_page_end": 108,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    99,
+    100,
+    101,
+    107
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p099.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png",
+    "exhibits/exhibit_p107.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2018\\05_high-quality-bottles"
+}

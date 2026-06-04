@@ -1,0 +1,427 @@
+===== PDF p167 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+Case Overview:
+Industry: Healthcare
+Case Type: Revenue growth
+Concepts Tested:
+•
+Brainstorming
+•
+Revenue computation
+•
+Growth strategy
+Overview Information for Interviewer:
+•
+Dismiss any questions about cost, keep the focus on revenue 
+growth
+•
+Pricing increases are not possible
+•
+Candidate should drive towards increasing the number of 
+patients through same site volume increases or opening new 
+ASCs
+Case Prompt:
+Our client, GGC Health, operates eight Ambulatory Surgical Centers (ASC) on the east 
+coast. GGC Health has consistently been a profitable organization, but over the past two 
+years, their ASCs’ cumulative revenues have been flat at $400 million/year. The CEO of 
+GGC Health is concerned about this and has hired your firm to increase revenues by 15%.
+163
+Authors: Jenna Charles, David Sedgwick, Jonathan (Yoni) Farber (Stern ‘18)
+Case Style: Interviewee Led
+Difficulty: Hard
+GGC Health
+
+
+===== PDF p168 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+164
+Clarifying Information: 
+•
+ASCs are modern health care 
+facilities focused on providing same-
+day surgical care, including 
+diagnostic and preventive 
+procedures.
+•
+ASCs are seen as a more convenient 
+alternative to hospital-based 
+outpatient procedures.
+•
+Physicians can perform surgeries at 
+hospitals or ASCs.
+•
+Physicians generally dictate where 
+the surgery is performed.
+•
+Timeline: ASAP
+•
+Candidate should recognize that 
+target revenue is $60M (15% * 400M)
+•
+Business Model: ASC revenue is 
+equal to the number of procedures 
+performed in the facility by the 
+expected reimbursement per 
+procedure.
+Interviewer Framework Guide: 
+Increase revenue of existing ASCs (see brainstorm for detailed tree)
+o
+Number of patients per doctor
+o
+Number of doctors per facility
+o
+Increase procedures per facility, either in volume or in type of 
+surgery
+o
+Types of patients (high reimbursement vs. low 
+reimbursement patients)
+Increase revenue by developing new ASCs
+o
+Analyze the market
+o
+Opportunities for partnership with existing physician 
+groups/hospitals
+o
+Patient demographics for common ASC surgeries 
+(ortho, dermatological etc.)
+o
+Analyze competitors
+o
+Existence of competing ASCs 
+o
+Strength and reputation of hospitals/ groups
+o
+Regulatory/Technological
+o
+Reimbursement criteria of health plans (fee for service 
+vs. value based care)
+o
+Technology/service expectations of ASC
+GGC Health: Case Guide
+
+
+===== PDF p169 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+165
+Question #1 (when candidate asks about expansion):
+•
+I’m glad you brought up external expansion. We have done research and targeted three cities GGC Health 
+could enter: Charlotte, Indianapolis, and Nashville. The Charlotte ASC location would have 30 doctors, 
+Indianapolis would have 25, and Nashville would have 16. 
+•
+Assuming GGC Health has management capacity to open only one new ASC immediately, can you 
+provide a recommendation of which city to enter?
+Solution:
+•
+Multiply # of Doctors in each city by breakdown of specialty in each city
+Information: 
+•
+Give the candidate Exhibit 
+#1
+•
+The candidate should 
+create their own 3x3 chart 
+and calculate the number of 
+doctors per specialty per 
+city
+•
+An excellent candidate will 
+recognize that Nashville 
+can be immediately 
+eliminated (Indianapolis has 
+more doctors of every 
+practice)
+# of Dr's per 
+specialty per city
+Ortho
+Neuro
+Gastro
+Charlotte
+30*.8=24
+30*.1=3
+30*.1=3
+Indianapolis
+25*.4=10
+25*.4=10
+25*.20=5
+Nashville
+16*.5=8
+25*.25=4
+16*.25=4
+City
+# of Doctors
+Charlotte
+30
+Indianapolis
+25
+Nashville
+16
+% of Dr./ 
+specialty
+Ortho
+Neuro
+Gastro
+Charlotte
+80%
+10%
+10%
+Indy
+40%
+40%
+20%
+Nashville
+50%
+25%
+25%
+GGC Health: Question 1
+
+
+===== PDF p170 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+166
+Question #2 (when candidate asks # of patients):
+•
+Say the following: orthopedic brings in 15 patients per doctor per month, neurology is 10, gastroenterology 
+is 12
+•
+Candidate needs to ask about reimbursement rates, when they do give them Exhibit 2
+Solution: 
+•
+Calculate # of 
+patients/year, then * by 
+rate to calculate 
+revenue/Dr/year.
+•
+Then calculate revenue 
+per city per specialty and 
+then sum for total revenue.
+•
+Candidate should identify 
+that Indianapolis is the 
+most attractive option, but 
+alone, revenue falls short 
+of the 15% target ($40M)
+# of Patients/yr.
+Rate/patient Revenue/Dr./Yr:
+Ortho
+15*12 =180
+5K
+900K 
+Neuro
+10 * 12 =120
+25K
+3M
+Gastro
+12 * 12 =144
+15K
+2.16M
+Ortho
+Neuro
+Gastro
+Total
+Charlotte
+24*900K = $21.6 M
+3 * 3M = 9M
+3 * 2.16M = 6.48M
+37.08M
+Indianapolis
+10 * 900K = $9M
+10 * 3M = $30M
+5 * 2.16M = 10.8 M
+49.8M
+Nashville
+8 * 900K = $7.2M
+4 * 3 M = $12M
+4 * 2.16 M = 8.64M
+27.84M
+Information: 
+GGC Health: Question 2
+
+
+===== PDF p171 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+167
+Question #3:
+•
+Probe the candidate until they identify that Indianapolis does not achieve the desired revenue growth. 
+Once they realize this, ask them to brainstorm how GGC Health could increase revenues at their current 8 
+ASC locations?
+Notes to Interviewer: 
+•
+This is a brainstorm opportunity for the candidate to see how to get the additional $10M needed.
+•
+Candidates should be structured and organized during this brainstorm exercise. Topics should include:
+•
+Increase the number of patients visiting the ASC
+•
+Increase the number of patients brought in per doctor
+•
+Make ASC preferred place for doctors, by offering more control over the environment, 
+better scheduling, enhanced efficiency, and better patient outcomes
+•
+Prioritize high volume doctors
+•
+Provide doctors with a higher share of profits for hitting certain targets
+•
+Increase the number of doctors per ASC
+•
+New procedures (and new physicians doing those procedures)
+•
+Improved physician outreach (sales/marketing efforts)
+•
+Product mix
+•
+Prioritize high reimbursement surgeries (that bring in more money per patient)
+•
+Add new high reimbursement surgeries
+•
+Type of patient: Medicaid/Medicare accepted? Increase patients who get higher reimbursements
+GGC Health: Question 3
+
+
+===== PDF p172 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+168
+Question #4:
+•
+Our team thinks there is an opportunity to increase the number of doctors per ASC. GGC Health’s ASC 
+sites do not currently offer urology, but we believe they can add 2 urology doctors to all current ASC sites. 
+Can you calculate the additional revenue from this?
+•
+Candidate will need to ask for the number of patients. Tell them that each doctor will bring in 8 patients per 
+doctor per month.
+Solution:
+•
+Total number of urologists: 8 sites * 2 urologist/site = 16 urologists
+•
+Total number of patients per year: 16 urologists * (8 
+patients/doctor/month * 12 months/year) = 1,536 patients
+•
+After calculation tell candidate to round to 1,500
+•
+Total revenue: 1,500 patients * $8,000/surgery = $12M
+Information:
+•
+Candidates should still 
+have Exhibit 2 and 
+realize they have the 
+reimbursement rate.
+•
+Additional revenue is 
+only applied to the 
+current 8 ASC sites.
+•
+Incremental same site 
+revenue plus new 
+Indianapolis ASC meets 
+$60M revenue target.
+GGC Health: Question 4
+
+
+===== PDF p173 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+169
+Recommendation:
+•
+The candidate should 
+articulate that to meet the 
+revenue target our client 
+should (1) open a new ASC 
+in Indianapolis for $49.8M 
+and (2) increase revenue in 
+current ASC facilities through 
+adding urology surgeries for 
+$12M. Candidate can 
+reference other existing site 
+revenue growth opportunities 
+identified during case.
+Bonus: Guide to an excellent case
+•
+Always keep in mind the goal of the case – to increase revenue by 15% ($60M)
+•
+Eliminate Nashville as an expansion opportunity quickly
+•
+Recognize that opening up one location by itself will not meet the CEO’s revenue targets and 
+independently return to framework for alternative revenue ideas
+•
+Brainstorm extensive solutions to increase revenue in current ASC’s to demonstrate healthcare knowledge
+Risks:
+•
+No costs were considered in 
+adding a new facility or 
+procedure
+•
+Indianapolis market entry is 
+not on the east coast and 
+unfamiliar to management
+•
+ASC capacity to 
+accommodate new surgeries
+•
+Not being able to steal 
+expected market share
+•
+Physicians not bringing in 
+expected number of patients
+Next Steps:
+•
+Cost/Benefit analysis for the 
+Indianapolis location
+•
+If still proves lucrative, begin 
+construction on new ASC 
+center in Midwest
+•
+Add urology surgeries to 
+current ASC’s ASAP
+•
+Consider other types of 
+surgeries to add
+•
+Consider expanding into more 
+than one location in the future
+GGC Health: Recommendation
+
+
+===== PDF p174 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+170
+50%
+40%
+80%
+25%
+40%
+10%
+25%
+20%
+10%
+Nashville
+Indianapolis
+Charlotte
+Physician Group Membership by City
+Orthopedic
+Neurology
+Gastroenterology
+GGC Health: Exhibit 1
+
+
+===== PDF p175 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+171
+Physician Specialty
+Reimbursement Rate 
+per Patient
+Dermatology
+$4,000
+Gastroenterology
+$15,000
+Neurology
+$25,000
+Orthopedic
+$5,000
+Pain Management
+$6,000
+Urology
+$8,000
+Average Reimbursement Rates Per Patient by Specialty
+GGC Health: Exhibit 2

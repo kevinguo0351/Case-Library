@@ -1,0 +1,301 @@
+===== PDF p102 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+By CB2
+98
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+
+
+===== PDF p103 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+PROMPT
+Your client is the CEO of a semiconductor
+material manufacturer. The product they sell
+are ‘lead frames’, which is a technology that
+emerged in the 1970s and is a core component
+to build electronic components such as ICs used
+in automotive solutions. The client is in Asia
+and most of their customers are
+global chip
+manufacturers for automotive and consumer
+electronics (NXP, IDT, etc.…).
+The client’s company is a subsidiary of a global
+conglomerate, and the conglomerate’s HQ sets
+annual goals for all subsidiaries. among many
+parameters the most weight is given to OP
+(operating profit) and Revenue Growth.
+The client did not meet last year’s goal and is
+asking you, the main consultant, for ways to
+achieve this year’s (2020) goal.
+CLARIFYING POINTS (if asked)
+• What is the goal? 2pp over the industry average (for OP and Revenue Growth)
+• What is 2020 goal? What was the previous year’s goal/actuals? (refer to table above)
+*The time of this case is late 2019, so COVID-19 was not a thing. The case ignores the effect of COVID-19.
+**2019 shows minus growth due to the downturn of the semiconductor industry (no relations with COVID-19)
+• Global presence: Client main office located in Taiwan, global business (80% of their revenue) done through local
+agents and distributors (commissions to these agents and distributors are 3% of the final price)
+• Factory: one factory only in Taiwan (20~30% idle capacity, so they did not see the need of another factory)
+• Main costs? 50% materials (Copper), 30% labor, 10% SG&A (including agent/distribution fees)
+• Diversification: they are looking into new technologies/businesses, but it is forecasted to take at least 5 years for
+the revenue to materialize (currently new businesses is less than 0.5% of revenue)
+CASE GUIDANCE
+This case is a profitability case with an extra emphasis on revenue growth.
+Semiconductor materials business is something that most candidates are not familiar with, and this is
+intentional to gauge the candidate’s ability to produce ideas within uncertainty. So, If the candidate asks
+about technical aspects you can respond by saying that the industry and technology is very mature and
+technical details are not relevant.
+Lead frames are basically a thin plate of copper where a chip is mounted. Think of a PCB made of copper.
+99
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+KPI
+2020 (F)
+2019
+2018
+Industry 
+Average
+OP
+11.0%
+8.8%
+7.3%
+Growth
+0%
+(6.9%)
+7.7%
+Goal
+OP
+13.0%
+10.8%
+9.3%
+Growth
+2.0%
+(4.9%)
+9.7%
+Client
+OP
+11.0%
+9.5%
+6.0%
+Growth
+0.9%
+(6.4%)
+9.0%
+
+
+===== PDF p104 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+STRUCTURE GUIDANCE
+100
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+SAMPLE STRUCTURE
+Good structure should branch out from the client’s goal: revenue growth 
+and operating profit and touch upon the below points
+• No overlap on revenue growth and increase OP 
+• Increase in OP should be focused on cutting costs as revenue growth 
+is already another bucket
+• Increase Revenue Growth
+- clear distinction of the next buckets (go by customers // regions // 
+product segments // price & volume, etc.…)
+• Operating Profit (cutting costs) 
+- clear separate buckets regarding costs
+Increase revenue
+Increase OP
+(cut costs)
+Meet client’s goal
+Current customers
+(core businesses)
+New customers
+(new business)
+Material costs
+Labor costs
+Logistics costs
+Agent costs*
+(extra points!!)
+
+
+===== PDF p105 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+EXHIBIT ANALYSIS QUESTION
+101
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+EXHIBIT ANALYSIS SAMPLE SOLUTION
+The candidate should be presented with the following Exhibit (next page) and be asked to analyze it.
+Answers to clarifying questions
+• Client’s forecasted revenue growth? 1% 
+• Client’s forecasted operating profit? 11%
+• The bubbles represent the top 6 players (including our client) in the Lead frame market
+• Biggest bubble (competitor A) revenue is $352M
+• The revenues and operating profit is for the Lead frame business only
+Operating Costs = COGS + Operating Expenditure [Revenue*(1 – Operating Profit)]
+A good analysis of the Exhibit will start by explaining the goal of the client then breaking down the Exhibit into smaller parts
+• Goal and general explanation
+- Client is above industry average in terms of revenue growth (1pp), but in on par in terms of operating profits.
+- However, as the client’s goal is 2pp over the industry average, the client is failing to achieve the goal
+• Breakdown
+- Bubble Size: All 6 players have a very similar Bubble Size, but it seems our client is one of the smallest players among the top 6
+- YoY Revenue : Revenue growth in the market ranges from -0.5% to 5%, which seems to be a narrow/wide range (depending on what they back up with)
+(extra points: as most of the top industry players are over the average in terms of growth, smaller players must be showing negative growth)
+- Operating Profit: Most top 6 players are around the industry average, which makes sense as it is a materials business (upstream, little differentiation)
+
+
+===== PDF p106 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+EXHIBIT (2020 Lead frame Forecasted Revenue and Operating Profit)
+102
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+-1.0%
+3.0%
+-0.5%
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.5%
+4.0%
+4.5%
+5.0%
+E
+B
+YoY Revenue
+Growth(%)
+D
+Operating Profit (%)
+C
+A
+Client
+$237M
+Bubble Size = Revenue ($M)
+Industry Average Growth : 0.0%
+Industry Average OP: 
+11.0%
+*Client’s target is 2pp over industry average
+**YoY = Year over Year
+
+
+===== PDF p107 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+QUANTATIVE ANALYSIS QUESTION (from the same Exhibit)
+103
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+QUANTATIVE ANALYSIS SOLUTION
+2020 Revenue : $237.0M (Given)
+2019 Revenue : $234.7M (237 / 1.01)
+2020 Revenue IF target growth of 2% reached : $239.4M (234.7 * 1.02)
+Assuming that the client meets the revenue growth target, and keeping the absolute value of Operating Costs constant, how much additional costs does
+the client have to save in order to meet the operating profit target? Operating cost are COGS and operating expenditures combined.
+•
+After the prompt, share with the candidate to think of the information they need and ask freely
+•
+If the candidate has a hard time, tell guide them to start with the revenue then the operating costs
+•
+If the candidate still struggles, tell him/her that the $237M revenue in 2020 is assuming 1% growth, and guide them through reaching the revenue if the
+growth was 2%
+Operating Costs = COGS + Operating Expenditure [Revenue*(1 – Operating Profit)]
+2020 Operating Costs (OP of 11%) : $211M ($237 * 0.89)
+2020 Target Operating Costs (OP of 13%) assuming 2% revenue growth:
+$208.3M (239.4 * 0.87)
+Additional OPEX reduction required: $2.7M (221 – 208.3)
+
+
+===== PDF p108 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+BRAINSTORMING QUESTION
+104
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+SAMPLE ANSWERS
+It is mid March 2020. Just as you are about to submit your proposal to the client, you hear that industry specialists are revising their forecasts due to
+the pandemic (COVID-19) having real global impact. While most industry growth rates are revised to ‘minus growth’, you find out that the
+semiconductor industry’s growth rates are being forecasted higher than before. Especially for Lead frames, the forecast has been revised from 0% to
++5% revenue growth. What do you think may be the reason of this phenomenon?
+OPTIONAL QUESTION (if there is time left): how would this increased growth rate change your proposal to the client?
+Many answers are possible, but structure wise value chain analysis can be a good starting point
+- Value Chain: Materials (copper) →client (Lead Frames) →client’s customers (semiconductors) →end customers (electronics)
+1) Materials: price of copper might have gone down, due to decreased demand, pulling the price of copper down.
+2) Client’s customers: disruption of the supply chain might have caused the client’s customers to hoard materials to keep their manufacturing lines
+running and make sure there is no shortage of materials
+3) End customers: Huge demand increase due to going virtual (from PCs, webcams, to data centers and servers)
+Other answers may include:
+1) Automotive and electronic industry are less sensitive to changes compared to retail and tourism (especially from effects of social distancing)
+*Electric components in vehicles are increasing rapidly (also may mention Electric Vehicles and Autonomous Driving)
+2) As Lead frames are upstream, the effects of COVID-19 might come later (but the candidate must still add a reason of the upward trend)
+
+
+===== PDF p109 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+SEMI MATERIALS CO.
+RECOMMENDATION QUESTION
+105
+Manufacturing
+Growth Strategy
+Profitability
+Easy
+Medium
+Hard
+SAMPLE RECOMMENDATION
+You must present your findings to the client, what would you recommend?
+The client is close to their target. A 1pp in revenue growth and 2pp reduction of Operating Cost (2pp increase in operating profit) is doable.
+If the candidate went through the case step by step the recommendation would be pretty clear.
+A good answer may include:
+• The candidate must reiterate the target and the current forecast (which is close to the goal)
+• Includes absolute values (if in percentages even better) of the revenue increase and operating cost reduction required
+• Comments on the change in forecast due to COVID and its implications (from brainstorming)

@@ -1,0 +1,145 @@
+===== PDF p70 =====
+CASE #: 5
+Regional Bank Expansion
+Firm Style
+Interview Round
+Accenture (IT Strategy)
+1
+Clarifying information (provide only if corresponding questions are asked) 
+Does the client have offices in any of the cities? – No: this will be the only site in the city
+Do we know the quality of the talent pool in each of the cities? – see exhibit
+What’s the square footage of the new site, and what kind of construction will be included? – 200,000 
+sqft; with a new data center for software/hardware
+Is the bank leasing or buying the building? – see exhibit
+How many headcounts does the bank want to employ at the new site? What are the costs for 
+equipment and supplies per head? – see exhibit
+Is the bank planning on providing relocation packages for existing app developers? Is it less expensive 
+to train new employees? – Cheaper to retain employees; and costs are in the exhibit
+What’s the culture of the app development team? – Creative and open
+Case Question
+Our client, a regional bank that has been growing inorganically, wants to build a new site for all of its 
+app developers.  The cities that the bank is looking to build the new facility are Detroit, Chicago, and 
+Orlando.  
+Recommend a city for our client to build its site in.  Consider the current economy and employment.
+
+
+===== PDF p71 =====
+Framework / Structure
+What should we consider? (this should be the framework)
+‐ Financials for each city: fixed costs; variable costs; opportunity costs
+‐ Culture/HR: relocation packages; hiring of new talents; level of 
+creativity; life style/commute
+‐ Concerns/Risks: feasibility of repurposing site (exit strategy); talent 
+retention; cultural mix with existing employees
+Take a look at exhibit 1, what do you take away from it? (data analysis)
+‐ Identified risks are factors that the client and employees care for
+‐ Since impact levels are the same for each city, it speaks to how much 
+our client/employees care about the risks
+‐ Probability speaks to the likelihood of the risks becoming real (in a 
+negative way). For example, if the talent risk is high than it is more likely  
+that the client will have a tough time attracting sufficient talent 
+Regional Bank Expansion
+
+
+===== PDF p72 =====
+Regional Bank Expansion
+Insights
+Candidate should work through Exhibit 1 and extract insights to support their hypothesis. Here 
+are some examples of insights that can be extracted from the data. Note that the Exhibit is 
+intentionally designed to be a bit vague. Great candidates will ask a sufficient number of 
+clarifying questions to ensure they understand the exhibit before diving into analysis. 
+Pros
+•
+Detroit: No high probability risks, talent risk is low which is likely the most important
+•
+Chicago: All probabilities are at the same level or lower than the other two, office picture shows a “hip” 
+culture
+•
+Orlando: Palm Trees
+Cons
+•
+Detroit: Office looks stuffy which could stifle creative and open culture
+•
+Chicago: None in the data, but the candidate can be creative here (higher cost of living for employees, 
+more competitive market might mean higher compensation expenses)
+•
+Orlando: 3 high probability risk factors; building does not support culture 
+
+
+===== PDF p73 =====
+Regional Bank Expansion
+Recommendation
+There is no “correct” recommendation in this case, but Orlando is an incorrect recommendation. The 
+candidate’s recommendation should include a discussion of: (i) company culture and building fit (ii) 
+relevant risks and their relative impacts (iii) risks around their desired location. 
+The focus of a strong recommendation should be on the data provided, particularly the high impact 
+factors. Candidates should be encouraged to be creative and they may discuss factors from outside 
+the data provided as part of their recommendation (such as higher costs in Chicago), but extraneous 
+factors should not form the basis of their recommendation. 
+
+
+===== PDF p74 =====
+Exhibit 1: Risks and Impact
+Identified
+Risks
+Detroit
+Chicago
+Orlando
+Impact
+Probability
+Impact
+Probability
+Impact
+Probability
+Talent
+high
+low
+high
+low
+high
+high
+Transportation
+high
+medium
+high
+low
+high
+high
+Lease vs Buy
+low
+medium
+low
+low
+low
+low
+Consolidation
+costs
+medium
+medium
+medium
+medium
+medium
+high
+Not meeting 
+business case
+medium
+low
+medium
+low
+medium
+medium
+
+
+===== PDF p75 =====
+Exhibit 2: Office Space in Detroit
+Detroit
+
+
+===== PDF p76 =====
+Exhibit 3: Office Space in Chicago
+Chicago
+
+
+===== PDF p77 =====
+Exhibit 4: Office Space in Orlando
+Orlando

@@ -1,0 +1,99 @@
+===== PDF p49 =====
+Torch the Case 2008 
+ 
+44 
+15. Wild Card 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Type of Case: Accounting 
+Difficulty: Moderate 
+ 
+Opening 
+Here is information about Companies A, B, and C. What can you make of this data? And can 
+you determine what type of industry each one is in? 
+ 
+ 
+Net Income 
+After Taxes 
+Revenues 
+Assets 
+Liabilities 
+Equity 
+Co. A 
+254M 
+2.6B 
+2.8B 
+1.0B 
+1.8B 
+Co. B 
+7B 
+77B 
+1.121T 
+1.085T 
+35B 
+Co. C 
+11B 
+348B 
+151B 
+89B 
+61B 
+ 
+Areas of Discussion 
+ 
+If interviewee is absolutely stuck, lead him/her to calculate ROA, ROE, Net Profit Margin, etc. 
+The Current Ratio cannot be calculated here because Total Assets and Liabilities are provided, 
+as opposed to Current Assets and Liabilities.  
+ 
+After calculations are complete, have the interviewee interpret the data. Based on the numbers, 
+what kind of companies do you think these are? 
+ 
+Analysis (Calculations to be completed by interviewee.) 
+ 
+ 
+ROA 
+ROE 
+Net Profit 
+Margin 
+Debt-to-
+Assets 
+Debt-to-
+Equity 
+Co. A 
+9% 
+14% 
+10% 
+36% 
+56% 
+Co. B 
+1% 
+20% 
+9% 
+97% 
+3103% 
+Co. C 
+7% 
+18% 
+3% 
+60% 
+148% 
+ 
+Recommended Conclusion 
+Co. A has the highest ROA and Net Profit Margin. However, it has the lowest ROE, Debt-to-
+Assets ratio, and Debt-to-Equity Ratio. This suggests that Co. A is perhaps a low volume, high 
+margin store…such as a jewelry store. (Co. A is in fact Tiffany & Co.) 
+ 
+Co. B has the highest ROE, and Debt-to-Equity is out the roof! Additionally, it has the highest 
+Debt-to-Assets ratio, so it uses a lot of Debt, increasing the firm’s risk-exposure. Co. B has the 
+lowest ROA among the companies. Assets and Liabilities are pretty equal. All of this suggests 
+that Co. B may be a financial institution of some kind. (Co. B is in fact Morgan Stanley.) 
+ 
+Co. C has the lowest Net Profit Margin, and Assets are almost twice the Liabilities. This 
+suggests that Co. C is a high volume, low margin store…like a retailer of some kind. (Co. C is 
+in fact Wal-Mart.) 

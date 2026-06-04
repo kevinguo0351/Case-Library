@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2018_16_bankco",
+  "school": "Stern",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2018.pdf",
+  "idx": 16,
+  "case_name": "BankCo",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": "Hard",
+  "pdf_page_start": 159,
+  "pdf_page_end": 166,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    160,
+    162,
+    163,
+    165,
+    166
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p162.png",
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p165.png",
+    "exhibits/exhibit_p166.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2018\\16_bankco"
+}

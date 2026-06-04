@@ -1,0 +1,180 @@
+===== PDF p119 =====
+Case 10: Hrdwr2Softwr (1/
+Tell me about a time when you had to
+change someone’s mind
+Tell me about a time when you had to
+manage the interests of conflicting 
+stakeholders
+NOTE: Case takes place in 2015
+Keys to the case
+−Understanding the basic
+operations of a business
+−Performmoderate calculations
+−Read charts
+Differentiation: creativity of solutions, 
+whilemaintaining structure
+Your client is a networking equipment provider with roughly $2B in revenue, but 
+sales have declined over the past few years. There is a general trend in the industry
+towards software-defined networking (SDN) so in response, the company acquired
+several software assets over the past few years with one significant acquisition this
+year. Although sales have been stagnant, the client set a very aggressive revenue
+target for the new SDN division.
+The company wants to hear your recommendation on the following: 1) How does
+the Company need to reorganize its departments in order to successfully sell
+software? 2) Evaluate the go forward strategy for additional product offering.
+Fit question #1
+Fit question #2
+Case Overview
+Interviewer Guide
+Case Prompt
+-
+Interview style: Interviewer-led
+-
+Difficulty Level: Medium
+-
+Case type: Market Entry
+-
+Industry: TMT
+-
+Concepts tested: Operations, 
+growth strategy
+
+
+===== PDF p120 =====
+Case 10: Hrdwr2Softwr (2/
+Tips
+−This is an open-style case: goal is to push
+candidate to make assumptions and come 
+up with creative solutions
+−Feel free to describe the general
+operations of a network provider
+Good candidate:
+−Asks general questions  about the client
+−Asks general questions  about the industry
+Better candidate:
+−Structures their thoughts
+−Proposes a path forward
+NEXT STEP: Framework evaluation
+Company-specific:
+−Company is a smaller player in network hardware
+−Customers include businesses of all sizes, public institutions, 
+telecommunication companies, other service providers and
+individuals
+−Other products include: switches, routers, servers,
+interfaces and modules, etc
+−Company is based in Silicon Valley, CA
+Computer networking market
+−Other major players switching to software
+−Trend driven by need for increased automation, cost savings,
+flexibility, and
+application use
+Competition
+−Competes against dozens of competitors globally
+−Amongst the first to move to software
+Interviewer Guide
+Additional information
+All critical information is provided below – any additional information 
+requested can be made up or explicitly stated as irrelevant
+
+
+===== PDF p121 =====
+Case 10: Hrdwr2Softwr (3/
+Interviewer Guide
+Intro:“Why don’t you walk me through your
+thoughts about which department will undertake
+changes?”
+Keys to section:
+−Focus on the most significant areas changing
+−Suggest opportunities for growth or cost savings
+NEXT STEP: Prioritizing areas to change
+Good candidate
+−Presents non-cannedframework in a structured
+manner
+−Able to talk through thought process while 
+developing framework
+Better candidate
+−Unveiling hypotheses along the way and not
+afraid to disregard some of these
+−Thinks about “how” these will impact the existing
+org
+
+
+===== PDF p122 =====
+Case 10: Hrdwr2Softwr (4/
+Good candidate:
+Actively brainstorms relevant tech ideas and
+attempts to structure their thoughts (e.g. top 3
+ideas)
+Actively read the charts and communicate about
+what they are observing
+Quickly understandthe chart and communicate
+what they see
+Perform calculations quickly and accurately
+Better candidate:
+Is not thrown off that the client has decided
+on all strategies
+Demonstrates strong knowledge of the
+technology sector
+Task 1) Could you tell me about some of the major trends in tech that might
+impact the need for SDN (giving computers extra capacity, flexibility, and
+custom ability):
+−Let the interviewee brainstorm then present the charts
+Interviewee shouldcommenton what theyare seeing(e.g. the following):
+- Mobile and video are increasing steadily compared to others
+- Bigdataandcloudhavemajorupticksinlateryears
+- Mobile has the most patents/ Video has the least
+Once the interviewee has commentedthen inform theinterviewee thatthe client
+would like to pursueall strategies.
+Task 2) As a mid-sized networking player valuation is also important. Calculate
+how many years will it take the software business to overtake hardware in
+valuation?
+- Company revenue is $2B today and declining at 5% YoY.
+- Software business is $30M today and growing 100% YoY.
+- How many years will it take the software business to overtake hardware in
+valuation? (Answer: year 3)
+Interviewer Guide
+Sequence of events and required data
+“Which product strategy should the client pursue?”
+QUESTION
+If candidate starts to make a framework, 
+redirect them to answer the question
+
+
+===== PDF p123 =====
+Case 10: Hrdwr2Softwr: Handout 1 (5/
+119
+For 
+candidate
+
+
+===== PDF p124 =====
+Case 10: Hrdwr2Softwr: Handout 2 (6/
+Represents 
+market size
+120
+For 
+candidate
+
+
+===== PDF p125 =====
+Case
+The software business will overtake
+hardware in 3 years and the Company
+should pursue product strategies in Cloud,
+Mobile, Video, and Big Data.
+Recommendation
+As appropriate to case outcome
+Risks
+The software business will overtake hardware in 3
+years. The Company can pursue all product strategies
+as they all represent growth potential. The Company
+should focus on Mobile since it represents the biggest
+market size and revenue while showing the highest
+rate of growth potential.
+Alternatively, the Company can focus on Video as
+they hold the most patents in this area and
+there’s potential to monetize them as the
+product grows.
+Rationale
+As appropriate to case outcome
+Next steps

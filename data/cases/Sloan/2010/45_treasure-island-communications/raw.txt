@@ -1,0 +1,137 @@
+===== PDF p153 =====
+45.) Treasure Island Communications (McKinsey, Round 2) 
+Stem: Our client is the CEO of Treasure Island Communications (TIC), a telecommunications 
+company on Treasure Island which has enjoyed a government-protected monopoly for many 
+years. TIC provides mobile services as well as fixed-line services for both international and 
+domestic lines. 
+. 
+In a year's time, the government will deregulate the industry and invite other companies to enter 
+the Treasure Island market. Our client has engaged McKinsey to discuss ways to deal with this 
+new environment. 
+If candidate asks: "Why does the government want to deregulate this industry?" 
+Interviewer input: "Two reasons: (1) Government collects more revenues in the form of 
+spectrum licensing fees; (2) More competition will reduce prices which is better for consumers." 
+Question 1: Our client would like help in drawing up some possible scenarios. What 
+information would you need in order to flesh out realistic scenarios? 
+The candidate may outline the following high-level issues: 
+- Market Size / Structure: Given the market size and number of customers, is the market more 
+likely to remain a natural monopoly or evolve into a duopoly/oligopoly/monopolistic 
+competition? 
+- Characteristics of Potential Competitors: What are their capabilities and which segments 
+(mobile, domestic/international fixed) are they likely to target? 
+- Entry Barriers: What entry barriers can TIC use or muster? 
+Natural barriers include high set-up costs, high fixed costs etc. 
+Artificial barriers: TIC could lobby government to set higher spectrum-licensing fees etc. 
+Question 2: Could you tell me more about the financial information on TIC that you'd 
+like? 
+The candidate should cover the basics of revenue and cost information. Suggested answers: 
+Revenue: How is pricing done for the diff~rent service segments? What are the volumes? 
+What are the trends across time? 
+Costs: What are the set-up costs, recurring fixed costs, and variable costs? 
+....... Management-
+1111111111 Consulting 
+~~~;'I~:.~ Club 
+2010-2011 1st Year Case Book 
+199 
+
+
+===== PDF p154 =====
+Question 3: I will give you some data on the international fixed-line services. 
+Latest revenue 
+= $90M 
+Total Costs 
+= $30M (all annual fixed costs) 
+Assume that with new entrants and competition, prices will drop 50 % but usage 
+volumes do not change. What market share does TIC need to maintain in order to 
+break even? 
+Candidate's answer should walk through the following logic: 
+New Market Size = 
+50% x 90M = 
+$45M 
+TIC's break-even revenue= 
+$30M 
+TIC's required Market Share 
+= 
+30/45 
+= 
+2/3 
+Implication: TIC can afford to lose only 1/3 market share to competition. 
+Question 4: Let's use more realistic assumptions this time. Assume that volume of usage 
+does increase when prices fall 50 % due to competition. Please take a look at the following 
+data and tell me what you see. Then tell me what market share is needed in order for TIC 
+to break even. 
+INTERNA TIONAL FIXED LINES 
+Usage 
+2009 (latest) 
+2008 
+2007 
+2006 
+....... Management 
+1111111111 Consulting 
+~~;~!.?::; Club 
+[Revenues ($) 
+90M 
+120M 
+. 120M 
+160M 
+2010-2011 1st Year Case Book 
+rrotal User Minutes 
+90,000,000 
+60,000,000 
+60,000,000 
+40,000,000 
+200 
+
+
+===== PDF p155 =====
+Candidate should use the information to (l) derive prices charged in the past and (2) price-
+volume (demand) relationship. 
+IUsage 
+Revenues ($) Total User Minutes Price ($/user min) (Candidate's 
+Calculation) 
+2009 (latest) 
+90M 
+~O,OOO,OOO 
+1 
+2008 
+120M 
+60,000,000 
+2 
+2007 
+120M 
+60,000,000 
+2 
+2006 
+160M 
+40,000,000 
+'fI 
+Candidate may draw a demand curve. 
+If candidate tries (too hard) to extrapolate the demand curve to predict volume based on a price 
+of $0.50, guide him to the simpler heuristic that each time price dropped 50%, volume increased 
+50%. 
+Therefore: 
+New Price 
+= 
+New Vol 
+= 
+New Mkt Revenue 
+= 
+Break-even TIC rev = 
+Reqd Mkt Share 
+= 
+$0.50/ user mins 
+135,000,000 user mins 
+$0.50 x 135,000,000 
+$30M 
+30Ml67.5M 
+= 
+$67.5M 
+= 
+44% 
+Implication: With more competition, user volumes will also rise and TIC's required market 
+share to break-even is not as high as initially assumed. 
+- ........ - Managemerit 
+II !I 11111 1 Consulting 
+~~~!~::.~ Club 
+2010-2011 1st Year Case Book 
+201 

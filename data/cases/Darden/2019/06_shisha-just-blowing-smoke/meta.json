@@ -1,0 +1,28 @@
+{
+  "case_id": "Darden_2019_06_shisha-just-blowing-smoke",
+  "school": "Darden",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2019.pdf",
+  "idx": 6,
+  "case_name": "Shisha: just blowing smoke?",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 86,
+  "pdf_page_end": 95,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    89,
+    90,
+    91,
+    92
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p089.png",
+    "exhibits/exhibit_p090.png",
+    "exhibits/exhibit_p091.png",
+    "exhibits/exhibit_p092.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2019\\06_shisha-just-blowing-smoke"
+}

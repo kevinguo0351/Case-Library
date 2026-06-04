@@ -1,0 +1,36 @@
+{
+  "case_id": "Ross_2021_15_midwest-hospital",
+  "school": "Ross",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2021.pdf",
+  "idx": 15,
+  "case_name": "Midwest Hospital",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": "3",
+  "pdf_page_start": 156,
+  "pdf_page_end": 166,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    157,
+    158,
+    159,
+    160,
+    161,
+    164,
+    165,
+    166
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p157.png",
+    "exhibits/exhibit_p158.png",
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png",
+    "exhibits/exhibit_p161.png",
+    "exhibits/exhibit_p164.png",
+    "exhibits/exhibit_p165.png",
+    "exhibits/exhibit_p166.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2021\\15_midwest-hospital"
+}

@@ -1,0 +1,134 @@
+===== PDF p97 =====
+Case 6: Bike Helmets 
+Type of Case: Private Equity and Market Sizing 
+Difficulty: Low 
+Your client is a Private Equity firm that mainly works in the manufacturing industry. When making a decision about whether or not to 
+purchase a company, they look at expected demand, projected profits and some additional factors. They are considering purchasing a 
+firm that makes bicycle helmets and accessories. You have been hired to determine whether or not they should purchase this firm.  
+This case is really designed to see how the interviewee thinks. The candidate needs to make assumptions and justify them throughout. 
+The interviewer should push back on each assumption.  In the end, the recommendation is flexible, but if the bike company is moving 
+more heavily into the higher margin, not as competitive, and still-growing low end of the market, this could be an attractive investment.  
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+93 
+
+
+===== PDF p98 =====
+Background Information 
+(to be provided when requested by interviewee) 
+Bike Company 
+•
+The company only sells its products in the US 
+•
+Revenue mix from the 2 product lines is split 50/50 
+•
+The company currently has 70% market share 
+•
+They have a good relationship with their suppliers 
+•
+The company was originally in the high-end of the market, but 
+now is in the mass market 
+Market 
+•
+Most new entrants have been at the high-end of the market 
+•
+There are different product lines for high-end and mass 
+market 
+
+High-end = 40% of market 
+
+Mass market = 60% of market 
+Helping the Interviewee Develop Assumptions 
+(have the interviewee quantify his/her assumptions) 
+Market Growth 
+•
+If the candidate asks “Is the overall bike helmet market growing?”  Ask him/her “what do you think?” and make them justify their 
+answer. Ask him/her to provide a percentage growth or shrinking (a range is okay) 
+
+Sample answer: “I believe the bike helmet market is growing because people are exercising more because of health concerns, 
+gas prices are increasing rapidly so more people are using bikes instead of driving. Also, Lance Armstrong has revived an 
+interest in the sport.” 
+•
+If the candidate asks where the company distributes its product, ask them back “Where do you think?”  
+
+Sample answer:  Specialty stores, Sports Authority, Wal-Mart, Target… 
+•
+The products are distributed mainly through specialty stores, but ask the candidate “what are the risks of selling at Wal-Mart?” 
+
+Sample answer:  Buyer power squeezes the profit margins for the bike company  
+•
+What is more profitable, selling to the mass market or selling in specialty stores  
+
+Sample answer:  Selling to the mass market is more profitable because of lower distribution costs 
+At some appropriate point during the interview, ask the candidate to determine the annual revenue of the company (market sizing). A 
+good trick on this part is to realize that since the revenue mix is 50/50, they only have to size one of the product lines, and then double 
+their answer at the end.  It is easier to size the bike helmets, because accessories is a very broad category.  There is no “right way” to size 
+the market, but here are some points to consider: 
+Age , Income, Urban/rural , Bike helmet laws , Delivery  
+The candidate should size the entire market and then take 70% of the total market, since that’s the company’s share. Estimates   
+and factors for consideration will vary, but the candidate must be able to justify the numbers through each step of the process. 
+94 
+
+
+===== PDF p99 =====
+Analysis 
+(NOT to be shown to the interviewee) 
+Example of market sizing calculation: 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+US Population 
+Given 
+320 M  
+% of population who ride bikes 
+Assumed 
+75% 
+% of bike riders that wear helmets 
+Assumed 
+75% 
+# of helmets bought per year 
+Assumed 
+1 
+Total market size in # helmets ** 
+(US pop. * % bike riders * % wear helmets) 
+180 M 
+Price per helmet 
+Assumed 
+$20 
+Annual revenue from helmets ** 
+(Helmet market size * Price of helmet) 
+$3.6 B 
+Annual revenue from accessories ** 
+(Accessories revenue = Helmet revenue) 
+$3.6 B 
+Total annual market size in $ ** 
+(Helmet revenue + Accessories revenue) 
+$7.2 B 
+Bike company market share 
+Given 
+70% 
+Bike company annual revenue 
+(Total market size $ * % of market share) 
+$5.1 B 
+Key Takeaway:  The size of the market represents an attractive opportunity . 
+95 
+
+
+===== PDF p100 =====
+Recommendation 
+Risks & 
+Considerations 
+•
+The recommendation will ultimately depend on the assumptions made by the interviewee 
+in sizing the market 
+•
+If the company is moving into a higher margin, lower competition, and growing then this 
+would be an attractive investment for the private equity firm 
+•
+The risks should be based around the assumptions made by the interviewee 
+•
+Changes in various assumptions could have different impacts on the profitability and 
+investment potential for the private equity firm 
+Case Closing 
+96 

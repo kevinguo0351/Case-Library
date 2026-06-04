@@ -1,0 +1,414 @@
+===== PDF p87 =====
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+83
+
+
+===== PDF p88 =====
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+Case Prompt
+Your client, 6PAQ, is a small-market P.E. firm that specializes in suburban business 
+development. 
+One of its analysts identified two movie theaters in a small suburban area that separately or 
+together might prove to be a good investment. Should your client, 6PAQ, purchase these movie 
+theaters?
+Interviewer Guidance
+This is an interviewer-led case, but the interviewer should gauge the candidate’s ability to drive. 
+The interviewer should assess the interviewee’s potential for structuring math, making 
+calculations easier, and bringing up relevant industry trends (e.g. Netflix, MoviePass, etc.). 
+Concepts Tested
+Market Sizing, Setting Up Calculations, Brainstorming
+84
+
+
+===== PDF p89 =====
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+85
+Clarifying Information
+•
+Theater Specific Info:
+•
+The movie theaters are somewhat dilapidated
+•
+Competition: None, they are the only two in the 
+suburb and surrounding suburbs
+•
+Revenue Streams: 
+•
+Tickets (tix)-movies leased through distributors
+•
+Concessions (cns)-purchased from distributors
+•
+P.E. Company 6PAQ Info:
+•
+Portfolio: Suburban recreational facilities and 
+entertainment (swimming pools, shopping malls, 
+bowling alleys, laser tag facilities, etc.)
+•
+Objectives: 
+•
+6PAQ has a standard of 100% ROI for all 
+investments
+•
+Sell in five years 
+•
+Evaluate modernization project
+•
+Industry-wide Trends from 2010-181:
+•
+Ticket sales have declined by 1.18%
+•
+Average Ticket Price Increased by 15.46%
+Possible Framework
+Problem: Improve Profitability and Investment Valuation
+•
+Financials
+•
+Rev (can include ways to improve here)
+•
+Tickets (P * Q)
+•
+Concessions (P * Q)
+•
+Cost
+•
+FC- movie leases, labor, rent, taxes, electricity 
+(HVAC), cleaning materials, insurance, maintenance
+•
+VC- concession costs
+•
+Revenue Improvement Opportunities (and list of them)
+•
+Marketing/Customer Analysis
+•
+Price Sensitivity Analysis
+•
+SKU Analysis (Concessions and Tix)
+•
+Gap analysis
+•
+Advertising/Discount Spends
+•
+Entrance & Exit
+•
+Purchase Price & Exit Price
+•
+Valuation Methods- Multiple, NPV, Comparables
+•
+Buyers
+•
+Other
+•
+Synergies
+•
+Bundle opportunities w/ portfolio companies (cross-sell)
+•
+Cost (back-office, increased buying power, etc)
+A good candidate will consider possibility for localized monopoly, exit 
+opportunities, synergies with existing portfolio, and innovative ways to 
+improve revenue and decrease costs
+1 https://www.the-numbers.com/market/ and individual analysis
+
+
+===== PDF p90 =====
+Interviewer Guidance (pt. 1)
+Revenue: The candidate should drive towards understanding revenues first. If not, guide them there. Show 
+Exhibit 1 and explain, “We do not know revenues for Theaters A and B for certain but 6PAQ obtained this 
+exhibit. What does it tell you?”
+Key insights: 
+1)
+Revenue has been consistent for both Theaters and they have similar net profits
+2)
+Theater A has much higher revenue
+3)
+Theater A’s costs are much higher as a percentage of revenue, indicating its cost structure could be improved
+Once the candidate nails these insights, indicate, “6PAQ plans to send the same analyst to each theater for a 
+month to estimate the number of yearly visitors and revenue. Neither theater offers demographic discounts 
+(e.g. senior discounts) and the analyst cannot sit at the front of the theaters and count customers or be in 
+multiple places at once. What instructions would you give to the analyst and how would you calculate it?”
+Important Note: All numbers necessary for calculations should be provided and candidates can round to the 
+tens of thousands $x.xx million (see Calculations – Revenue and Profitability by Theater pg. 88)
+•
+After having candidate calculate revenues, ask them to brainstorm ways to improve them (see Ansoff  
+Matrix in Brainstorming Guidance, pg. 89)
+•
+Next, tell them that you believe there are significant synergies and that total costs for theaters as a 
+function of revenue are:      Theater A) 50%     Theater B) 20%
+•
+Ask candidate what could be driving the difference in cost and afterwards, to calculate profitability. (see 
+Brainstorming Guidance, pg. 7, Revenue Calculations pg. 90)
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+86
+
+
+===== PDF p91 =====
+Interviewer Guidance (pt. 2)
+Modernization project: Tell the candidate that the analyst identified an investment for both theaters he 
+believes will significantly lift Net Income. Specifically, it will install arcades in both theaters, nicer seats, a new 
+mobile app for ticket purchasing, and an HVAC system for Theater A which will drive down heating and AC 
+costs. It will cost $4m upfront. After completion one year after development begins, both theaters will 
+generate an additional 50% revenue (in part due to monopoly pricing and improved theater quality), and 
+Theater A’s costs will decrease to what Theater B’s are (due to increased buying power and lower HVAC 
+costs) as a percentage. The theaters will continue to operate as they originally did during the year until 
+completion. Discount rates and opportunity costs should be ignored. Should the firm undergo this project, 
+consistent with their firm investment criteria?
+Note: This is an ROI calculation (see Calculations – ROI modernization project pg. 91)
+A good candidate will realize that during the first year, nothing will change about either theater while improvements are 
+made, so they should consider the investment only for its Net Profit in Years 2-5. A good candidate would also realize that 
+as revenues have doubled, costs have gone down, and the increase in multiple means that they will certainly be able to sell 
+for a 100% ROI. 
+Ask the candidate to calculate whether the overall investment would clear the firm’s 100% ROI hurdle, if the 
+purchase price multiple was 5x Net Income and the exit price multiple is 6x. (see Calculations – Overall 
+Investment, pg. 10). Lastly, ask for a recommendation (see Recommendation, pg. 93)
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+87
+
+
+===== PDF p92 =====
+Exhibit 1 – Revenue and Profitability by Theater
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+88
+2013
+2014
+2015
+2016
+2017
+2018
+Theatre A Revenue
+Theatre A Profitability
+Theatre B Revenue
+Theatre B Profitability
+
+
+===== PDF p93 =====
+Brainstorming Guidance
+Cost Drivers
+Revenue Improvement
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+89
+•
+Alter SKUs
+•
+Implement special/discounts 
+(senior, students, etc)
+•
+Increase prices (w/ new local 
+monopoly)
+•
+Show more movies
+•
+Additional trailers
+•
+Offer other types of 
+entertainment (e.g. local 
+plays)
+•
+Increase ad spend
+•
+Offer theme nights or 
+diversify customer-targeted 
+movies (e.g. cult classics 
+reruns)
+•
+Open additional theater
+•
+Cross-sell to customers of 
+other portfolio companies
+Existing Products
+Existing Customers
+New Customers
+•
+Open alternative space (e.g. 
+arcade)
+•
+Charge for parking if lot 
+owned
+•
+New food or alcohol
+•
+Start movie pass
+•
+Offer premium seating
+New Products
+•
+Electricity/HVAC
+•
+Movie leases
+•
+Rent/real estate
+•
+SKU choices
+•
+Unionized labor
+•
+Taxes if on larger property
+•
+Poor relationships with distributors
+
+
+===== PDF p94 =====
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+Calculations – Revenue and Profitability by Theater
+90
+Tickets:
+# of  Screens * # of  Seats/Screen * Avg Fill Capacity * # of  movies played per screen/month =Total Monthly Visitors
+Theater A) 10 screens * 80 seats per screen * 75% average fill capacity * 20 movies played per screen per  month = 12,000 Total Monthly 
+Visitors
+Theater B) 10 screens * 80 seats per screen * 50% average fill capacity * 20 movies played per screen per  month = 8,000 Total Monthly Visitors
+Total Monthly Visitors * Percentage of  Movies Matinee (or Premium) * Price of  Matinee (or Premium) ticket * 12 months/year = Total Monthly Matinee Revenue 
+(or Premium)
+Theater A) 
+12,000 Total Monthly Visitors * 90% Premium * $10 Premium Price * 12 months/year  = $1.296m (round to $1.29m)
+12,000 Total Monthly Visitors * 10% Premium *     $5 Matinee Price * 12 months/year  = $.072m (round to ($.07m)
+Total Theater A Ticket Revenue = $1.36m
+Theater B) 
+8,000 Total Monthly Visitors * 80% Premium * $10 Premium Price  * 12 months/year = $.768m (round to $.77m)
+8,000 Total Monthly Visitors * 20% Premium *  $5 Matinee Price     * 12 months/year = $.096m (round to ($.1m)
+Total Theater B Ticket Revenue = $870k (round to $870k)
+Concessions:
+Total Monthly Visitors * Average Spend Per Customer * Percentage of  Customers who buy concessions * 12 months/year  = Total Yearly Concession Revenue
+Theater A) 
+12k Monthly Visitors * $6 Avg Cust. Spend * 75% of Cust. Purchase Concessions  * 12 Months/year = $648k (round to $650k)
+Theater B) 
+8k Monthly Visitors * $7 Avg Cust. Spend * 75% of Cust. Purchase Concessions  * 12 Months/year = $504k (round to $500k)
+Total Revenues:
+Total Costs:
+Total Profitability:
+Theater A) 
+1.36m+.65m=$2.01m
+50% * 2.01m=~$1m
+2.01m-1m=$1.01m (round to $1m)
+Theater B) 
+.87m+.5m=$1.37m
+20% * 1.37m=$.27m
+1.37m-.27m=$1.1m
+For both theaters:  $2.1M
+
+
+===== PDF p95 =====
+Calculations – ROI Sub-Investment 
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+91
+Modernization Project: 
+Incremental Profit  = (Total New Profit – Total current Profit) * Years
+Incremental Profit  = ((150% Current Revenue – New Costs) – (Current Revenue – Current Costs)) * 4 Years
+Incremental Profit  = ($5.07m – 20% * ($5.07m))  – ($3.38m – $1. 27m)) * 4 years
+= ($4.06m – $2.11m) * 4 years
+~ $2m * 4 years = $8m
+ROI:
+$8m-$4m / $4m = 100%
+Y0
+Y5
+Y1
+Y2
+Y3
+Y4
+Initial Cost:
+$4m investment
+Yearly Revenue Improvement: $1.7m
+Yearly Cost Improvement: $.27m 
+Yearly N.I. Improvement:: ~$2m
+ROI Calculations: Formula: Net Profit/Invested Capital
+
+
+===== PDF p96 =====
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+Calculations – Overall Investment
+92
+New Revenues
+Current Revenues * (1+Revenue Increase Percentage) = New Revenues
+Current Revenues:      $2.01m + $1.37m = $3.38m
+New Revenues:
+$3.38m * 150% = $ 5.07m
+New Total Costs
+New Revenues * New Total Cost Percentage = New Total Costs (exc. 
+Current Costs:                   $1m + $.27m = $1.27m
+New Costs: 
+$5.07m * 20% = $1.01m
+New Net Income
+New Revenues – New Total Costs = New N.I.
+Total: 
+$5.07m-$1.01m=$4.06m
+Overall Investment:
+Valuation
+=N.I.*N.I multiple
+Purchase Price
+=$2.1m * 5 = $10.5m
+Exit Price
+$4.06m * 6 = ~ $24.4m
+ROI
+$24.4m-$10.5/$10.5m
+= 132%
+
+
+===== PDF p97 =====
+Case 7: 6PAQ P.E. Firm
+Entertainment | Private Equity & Profitability Improvement
+93
+Recommendations
+Risks
+Next Steps
+Recommendation:
+6PAQ P.E. Firm should invest in both 
+theaters and undergo the modernization 
+project
+With its new improvements and 
+monopoly powers, it could make over 
+100% ROI on both the initial and 
+modernization project
+On the modernization project, 6PAQ 
+could make a 100% ROI while on the 
+overall theater investment, 6PAQ could 
+make a 132% ROI
+Risks include:
+1.
+Substitutes and Threats
+•
+New local entrants
+•
+Netflix and streaming 
+services
+2.
+Accuracy of assumptions
+•
+NI multiple increase
+•
+Improved NI from 
+investment
+•
+No opportunity cost or 
+discount rate
+•
+100% ROI on 
+modernization project 
+leaves little room for error
+3.
+Theater owners’ unstated intent to 
+sell
+6PAQ should:
+1.
+Conduct analysis:
+•
+Use its existing 
+relationships in the 
+industry to conduct 
+intelligence gathering
+•
+Purchase market research 
+reports to identify time 
+horizon of threats trends
+•
+Further analyze and 
+triangulate assumptions
+2.
+Approach theater owners to gauge 
+interest and initiate discussions

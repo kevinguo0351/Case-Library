@@ -1,0 +1,296 @@
+===== PDF p175 =====
+CASE 17 – MONEY IN MICHIGAN
+171
+
+
+===== PDF p176 =====
+Case 17: Money in Michigan
+Prompt 
+Your client is Michigan Economic Development Corporation (MEDC), a state agency tasked with economic development for the state of 
+Michigan. Michigan is still recovering from the economic recession in 2009, when Michigan had the highest unemployment rate in the 
+country at 13.4% and also the highest net emigration, with over 86,000 citizens leaving the state, presumably to find work elsewhere. 
+Five years later the state is slowly recovering and MEDC wants to know what to do to make Michigan more attractive.
+Behavioral Questions
+• Tell me about a time you faced a challenging situation in a team and what you did to solve it
+• What is your proudest accomplishment that is not listed on your resume?
+172
+
+
+===== PDF p177 =====
+Case 17: Money in Michigan
+Interviewer Guidance
+Background data that the candidate may request:
+The candidate should confirm that increasing employment is MEDC’s main goal, but a second goal is to increase the CAPEX or capital 
+expenditure in the state. Numbers will be provided later. 
+Suggestions about how the case is to be delivered:
+Interviewers should read the case in advance and be prepared to lead the candidate through and provide answers to questions as 
+necessary.
+What to look for in a candidate’s responses:
+The candidate should come up with a MECE framework that strategically addresses ways to make Michigan more attractive. A few 
+examples include:
+• Determine what industries are new/growing
+• Offer financial incentives:
+o Financial/other incentives for companies to relocate to Michigan
+o Tax credits for companies already in Michigan to expand 
+• Make policy/regulatory changes: 
+o Change policies to make it easier for companies to be successful and grow
+o Examine tax code and ensure it incentivizes growth
+o Improve quality of life for citizens (e.g., education, poverty, health, crime)
+• Create programs:
+o Prepare citizens with training programs (private and public)
+o Offer public work programs
+• Research competition: 
+o Learn what are other states doing to create jobs/ attract Michigan’s workforce
+173
+
+
+===== PDF p178 =====
+Case 17: Money in Michigan
+Prompt 2
+A.
+MEDC is focused on adding 1,000 jobs and bringing in $40MM in CAPEX (capital expenditure) in the next year, what else can they do to achieve 
+this goal?
+B.
+The state of Michigan has created a special fund of $10 MM to spend to incentivize companies to relocate their business to Michigan. The state 
+has given MEDC sole discretion on how to spend the money and MEDC has decided to go “all in” and try and get the best project it can. To do 
+this, MEDC has some information about direct, indirect, and induced job creation. Direct jobs are those created by the new company, indirect 
+jobs are those created by related businesses (e.g., suppliers to the new company), and induced jobs are those created by a stimulated economy 
+(e.g., a hotel increases its employees due to more usage from the new company). For example, if a new company creates 10 jobs and the 
+indirect job multiplier is 1.5, then there would be 15 new jobs total, 10 direct and 5 indirect.
+Analysis
+A.
+This is a quick way to get candidates prepared for the “what else,” question. Have the candidate provide 5 additional ideas not included in 
+his/her framework OR finish when the candidate says “I have a strong list, and I would like to proceed with..” and then gives you a concrete 
+next step.
+B.
+Calculations: (A trick is to subtract 1 from the multiplier and multiply it by the direct jobs (e.g., 3.2*100 =320 indirect jobs instead of 4.2*100 
+=420 total – 100 direct jobs = 320 indirect jobs); another trick is to use relationships between indirect/induced jobs to do calculations quicker
+Name
+Industry
+Direct Jobs CAPEX 
+(MM)
+Indirect 
+Jobs
+Induced 
+Jobs
+Total 
+Indirect
+Total 
+Induced
+Total 
+Jobs
+Gamer Zone
+Software 
+Development
+100
+70
+4.2
+2.6
+320.0
+160.0
+580.0
+Kidoodle
+Retail chain for 
+children
+280
+16
+1.4
+1.2
+112.0
+56.0
+448.0
+PreFab
+Capital-intensive 
+Manufacturing
+70
+420
+7.0
+2.0
+420.0
+70.0
+560.0
+Speedylane
+Call Center
+520
+4
+1.1
+1.05
+52.0
+26.0
+598.0
+174
+
+
+===== PDF p179 =====
+Prompt 2
+Case 17: Money in Michigan
+Projects under consideration
+Name
+Industry
+Direct
+Jobs
+CAPEX 
+(MM)
+Gamer Zone
+Software 
+Development
+100
+70
+Kidoodle
+Retail chain for 
+children
+280
+16
+PreFab
+Capital-intensive
+Manufacturing
+70
+420
+Speedylane
+Call Center
+520
+4
+Job multipliers
+Industry
+Indirect
+Jobs
+Induced Jobs
+Software 
+Development
+4.2
+2.6
+Retail chain for 
+children
+1.4
+1.2
+Capital-intensive
+Manufacturing
+7.0
+2.0
+Call Center
+1.1
+1.05
+175
+
+
+===== PDF p180 =====
+Case 17: Money in Michigan
+Prompt 3
+A strong candidate will have provided a recommendation/thoughts after completing the calculations. Whether a recommendation is provided or 
+not, say the following:
+It is clear that a single project will not achieve MEDC’s goal of adding 1,000 jobs in a single year. Which project do you think most closely achieves 
+the goals and additional concerns/benefits will be provided to the state of Michigan? 
+Analysis
+The candidate should immediately remove Kidoodle and Speedlylane are they do not meet both the job creation or CAPEX goals. Given 
+that Gamer Zone and PreFab both meet the CAPEX goal and are close in terms of job creation, the candidate should create a 
+framework to determine which project to go with and then make a suggestion based on the prompt. The can be done with a chart, or
+any way that shows organization. Brief suggestions below:
+If time, feel free to use the above suggested answers to play devil’s advocate with the candidate – the important part of this is to 
+ensure the candidate does not easily change his/her opinion. 
+Gamer Zone
+PreFab
+Jobs
+580
+560
+CAPEX
+420
+70
+Concerns
+Smaller CAPEX could lead to less permanence; 
+availability of trained employees?; located in 
+already prosperous area?; 
+High indirect jobs multiplier suggests reliance on 
+another industry; manufacturing projects are highly 
+competitive-other states might offer greater incentives
+Benefits
+Software Developers are usually highly 
+educated/white collar; 
+High CAPEX suggests permanence; highest potential 
+to spur indirect/induced job creation
+176
+
+
+===== PDF p181 =====
+Case 17: Money in Michigan
+Recommendation
+The candidate should suggest: Recommendation (and provide a single project), risks (concerns from the last prompt), and offer some 
+next steps (ideas to mitigate the concerns suggested). The candidate should take no longer than 30 seconds to wrap up.
+Prompt 4/Conclusion
+An MEDC official is walking into the room and wants to know where MEDC should send their $10MM. Please take 30 seconds to gather 
+your thoughts and then provide a recommendation. 
+Performance Evaluation
+This case tests a candidates ability to think creatively and should be an easier case due to fewer numbers/much of the information is 
+provided. However, like more difficult cases, it introduces a problem that is not usually top of mind and it does not require a traditional 
+profit formula to complete. 
+A good candidate:
+Asks clarifying questions only to move the case forward
+Remembers MEDC’s goals
+Has minor calculation errors
+An exceptional candidate:
+Reads signs of the interviewer and organizes information without being prompted
+Does not make calculation errors
+Offers insightful next steps without being prompted
+Is able to suggest logical next steps and defend decisions 
+177
+
+
+===== PDF p182 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

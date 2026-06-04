@@ -1,0 +1,38 @@
+{
+  "case_id": "Ross_2018_01_pressing-parts-problems",
+  "school": "Ross",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2018.pdf",
+  "idx": 1,
+  "case_name": "Pressing Parts Problems",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Industrial Goods",
+  "difficulty": null,
+  "pdf_page_start": 26,
+  "pdf_page_end": 36,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p026.png",
+    "exhibits/exhibit_p028.png",
+    "exhibits/exhibit_p029.png",
+    "exhibits/exhibit_p030.png",
+    "exhibits/exhibit_p031.png",
+    "exhibits/exhibit_p032.png",
+    "exhibits/exhibit_p033.png",
+    "exhibits/exhibit_p034.png",
+    "exhibits/exhibit_p035.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2018\\01_pressing-parts-problems"
+}

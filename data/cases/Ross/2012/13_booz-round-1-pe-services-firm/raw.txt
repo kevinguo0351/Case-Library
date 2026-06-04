@@ -1,0 +1,116 @@
+===== PDF p136 =====
+- 131 - 
+Booz Round 1: PE Services Firm 
+ 
+ 
+•
+Your client USCo is a firm that provides services to 
+private equity firms in the U.S. It recently acquired 
+EUCo, a similar company in Europe.  
+ 
+•
+How can they realize synergies both quantitatively 
+and qualitatively over the next 1-2 years? 
+ 
+ 
+•
+How large are the US and EU businesses? – 
+o
+5M and 4.5M respectively 
+•
+What was the reason behind the acquisition? 
+o
+Entry into European markets 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Medium                            Industry: PE                         Type: Merger Effectiveness 
+
+
+===== PDF p137 =====
+- 132 - 
+• Direct candidate away from revenue increases and other non-cost synergies – the focus should be cost 
+savings. 
+• Initial findings indicate that the bulk of the cost savings come from IT. Cost structure for the two 
+companies are in the exhibit. 
+• Focus on licensing and labor (FTE) costs: the main differences between USCo and EUCo is that USCo 
+develops its own software (hence the high labor cost and no licensing fee) whereas EUCo purchases its 
+software from software firms (hence lower labor cost but substantial licensing fees). 
+• Indicate that the two main approaches being considered are to adopt either the USCo approach or the 
+EUCo approach. Get candidate to determine which is quantitatively preferable. 
+• If USCo adopts the EU approach, there will be an additional 1B in licensing fees while FTE costs would 
+drop from 1.8B to 0.5B. 
+• If EUCo adopts the US approach, there will be an additional 0.4B in FTW costs while licensing costs 
+would drop to 0. 
+ 
+ 
+Questions for the candidate 
+Additional Questions to Steer Discussion 
+ 
+
+
+===== PDF p138 =====
+- 133 - 
+Option A: Adopt USCo approach in EU 
+Original licensing + FTE costs = 1.5B + 0.7B = 2.2B 
+New costs = 0B + 0.7B + 0.4B = 1.1B 
+Cost savings using A: 2.2B – 1.1B = 1.1B 
+ 
+Option B: Adopt EUCo approach in US 
+Original licensing + FTE costs = 0B + 1.8B = 1.8B 
+New costs = 1B + 0.5B = 1.5B 
+Cost savings using A: 1.8B – 1.5B = 0.3B 
+ 
+Quantitatively, Option A is preferred. However, qualitative issues to note: 
+•
+Possible long-term software supplier contracts in EU 
+•
+Potential additional costs to localize US software in EU 
+•
+Need to train personnel in EU; potentially sending US personnel to train local staff 
+•
+Other factors to reduce the other IT cost buckets are good (e.g. adopting cloud computing to lower HW 
+costs) 
+ 
+Solution Guide 
+Suggested Solution and Structure 
+ 
+
+
+===== PDF p139 =====
+- 134 - 
+Go with Option A and adopt the US model in EU due 
+to the quantitative costs savings of 1.1B vs. 0.3B for 
+Option B 
+Recommendation 
+Determine additional migration and localization costs 
+Verify if EU customers can use the same software as 
+US customers 
+Identify potential regulatory concerns using US 
+software in EU 
+ 
+Next Steps 
+Conclusion 
+ 
+
+
+===== PDF p140 =====
+- 135 - 
+Provide info to Candidate, 
+as requested 
+Costs Breakdown 
+IT Costs 
+USCo 
+EUCo 
+Licensing Fees 
+0 
+1.5B 
+Hardware 
+300M 
+800M 
+FTE (Labor) 
+1.8B 
+0.7B 
+Others 
+600M 
+400M 

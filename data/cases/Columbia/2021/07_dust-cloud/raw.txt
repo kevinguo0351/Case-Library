@@ -1,0 +1,270 @@
+===== PDF p80 =====
+What is the terrain between Alexandria Station and Darwin?
+•
+There is a variety of terrain including wetlands and marshes, but mostly rolling flatlands
+Our client is the North Australian Pastoral Company (NAPCO). NAPCO is a 143-year-old agriculture enterprise that is 
+one of the leading companies in the space in Australia. They operate 13 cattle stations in Queensland and Northern 
+Territory. Cattle stations are large cattle farms or ranches that raise cattle for slaughter. NAPCO's cattle stations cover over
+60,000 square kilometers and they manage over 200,000 head of cattle. Their largest station is Alexandria Station in 
+Northern Territory that is over 16,000 square kilometers and supports herds of over 55,000 head. 10,000 head are due to 
+be delivered to Darwin next month, but due to heavy flooding in Northern Territory, the train tracks they normally use to 
+deliver their mature cattle from Alexandria Station to market in Darwin are inaccessible and we will be unable to repair the 
+damage until the end of the wet season next April. What factors would you consider in deciding how to advise NAPCO 
+how to deliver the cattle?
+Problem Statement Narrative
+Difficulty: Medium
+Industry: Agriculture
+Case Type: Profitability
+Written by Daniel Krimowski ‘21
+Concepts Tested
+Case #7 : Dust Cloud
+Case Notes
+• Math Structure
+• Revenue
+• Creativity
+Dust Cloud
+76
+
+
+===== PDF p81 =====
+Sample Framework
+Dust Cloud
+1.
+Profitability
+a.
+Revenues
+i.
+10k Cattle
+ii.
+Price per head/pound
+b.
+Costs
+i.
+Transport
+ii.
+Fuel
+iii.
+Feed
+iv.
+SG&A
+2.
+Delivery
+a.
+Location
+i.
+How far away is Darwin?
+ii.
+Where else can we take them?
+b.
+Method
+i.
+How do we get them there?
+1)
+Train – Unflooded stations
+2)
+Plane – Landing strips
+3)
+Trucks – Transport of 10k cattle
+4)
+Cattle Drive – Best option if train is 
+out
+c.
+Timing
+i.
+When do we need to deliver?
+1)
+Contract pricing
+2)
+Late fees
+3)
+Insurance
+3.
+Risks
+a.
+Lost animals
+b.
+Opportunity cost for labor
+c.
+Damaged relationships
+i.
+Buyers
+ii.
+Shippers
+iii.
+Brokers
+Question #1 / Framework 
+What factors would you consider in deciding how to advise NAPCO how to deliver the cattle?
+77
+
+
+===== PDF p82 =====
+Question #2
+Question #2
+Suggested Answer
+1.
+Profitability
+a.
+Revenue factors
+i.
+Selling price per head or per pound
+b.
+Cost factors
+i.
+Feed
+1)
+What do they eat
+2)
+How much do they need per day
+3)
+How much does each bushel cost
+ii.
+Water 
+1)
+Availability of water (flooding)
+iii.
+Cost of extra labor and opportunity cost
+2.
+Operations
+a.
+Capability to drive cattle
+b.
+Security of the route
+c.
+Lost cattle
+d.
+Cattle ability to stay healthy on drive
+e.
+Horses vs trucks
+f.
+Supply points for cattle and drovers
+i.
+Water
+ii.
+Food
+iii.
+Bedding
+Dust Cloud
+As NAPCO must deliver on their order, they have decided to revive an old practice and drive the cattle to another station 
+where they can be loaded onto trains and delivered to Darwin. The station manager for Alexandria Station has come 
+forward with 2 separate stations to drive the cattle: Coorabulka Station or Boomarra Station. What factors should NAPCO 
+consider when comparing these options?
+78
+
+
+===== PDF p83 =====
+Question #3
+Question #3
+Clarifying Questions
+•
+Cattle require 3% of their mature weight in grass feed per day. Cattle will lose half the unreplaced weight every day
+•
+All cattle are Alexandria Composite and are sold by the pound. At mature weight they sell for $800 USD per head
+•
+Alexandria Composite weigh 500 kilograms at mature slaughter weight 
+•
+Km Traveled- This is the distance the cattle are driven every day. Cattle are creatures of habit and during a drive need 
+to be driven approximately the same distance every day
+Dust Cloud
+The station manager has given us details on the routes. Route A is to follow the Georgina River 600 kilometers southeast 
+to Coorabulka Station. Route B is 300 kilometers due east to Boomarra Station. He also passed along this information on 
+the effects of driving a herd on the cattle. Which route and pace should we advise NAPCO to take? Hand candidate 
+Exhibit 1
+79
+
+
+===== PDF p84 =====
+Question #4
+Question #4
+Math Answer
+Cost From Ex 1
+Labor
+Lost Cattle
+Total
+Coorabulka 640k
++  80k  [40 * 20]  +   37k  -->  [460  *  1.6  *  50]  =  757k
+Boomarra
+672k
++  12k  [6  * 20]  +   73k  -->  [458  *  1.6  *  100]  =  757k
+**Rounding is allowed
+Both routes end up costing nearly the same. With time of delivery not being an immediate concern so long 
+as the cattle are delivered, it is better to treat the animals well and not stress them out in their drive by 
+choosing the easier pace. 
+The important part of this answer is the rationale given by the candidate for their answer. If they don’t give 
+a why, ask them why that is the choice they are making. 
+Dust Cloud
+Driving cattle has been an obsolete method of transporting large, commercial herds for decades. Our client will need to 
+hire aboriginal drovers who still practice this profession. The station manager has spoken with one of the Warlpiri, one of 
+the aboriginal tribes in Northern Territory, who has said he and his 19 other drovers will work for $100 per day. He has 
+also said that NAPCO will lose one half percent of the cattle going down the river and 1% of cattle on the route to 
+Boomarra. Which route and pace should we advise the client to take?
+80
+
+
+===== PDF p85 =====
+Exhibit #1 : Cattle Drive Routes
+Legend
+Km Traveled
+Grass Eaten
+15
+30
+50
+15kg
+10kg
+8kg
+Coorabulka Route
+Km Traveled
+Grass Eaten
+15
+30
+50
+10kg
+6kg
+3kg
+Boomarra Route
+Note: Cattle lose 1kg every day on a cattle drive, regardless of grass intake
+Coorabulka
+Boomarra
+Dust Cloud
+81
+
+
+===== PDF p86 =====
+Exhibit #1 Solution
+Math Answers
+Minimize Loss
+Price /Kilo 800lbs
+/
+$500
+=
+$1.60
+Coorabulka Route
+Drive  Calorie Loss    Distance   Pace    Kgs/Day Days   Price   Lost Rev  Cattle  Total
+(1   +  15  - 15  /  2)  *   600  /   15   =   1     * 40   *  1.60  =   64k  *  10k  =  640k
+(1   +  15  - 10  /  2)  *   600  /   30   =   3.5   *  20  *  1.60  =  112k  *  10k  =  1.12m
+(1   +  15  - 8   /  2)  *   600  /   50   =   4.5   *  12   *  1.60  =  87k   *  10k  =  870k
+Boomarra Route
+Drive  Calorie Loss    Distance   Pace    Kgs/Day Days   Price  Lost Rev  Cattle  Total
+(1   +  15  - 15  /  2)  *   600  /   15   =   3.5  *  20  *  1.60  =  112k  *  10k  =  1.12m
+(1   +  15  - 10  /  2)  *   600  /   30   =   5.5  *  10  *  1.60  =  88k  *  10k  =  880k
+(1   +  15  - 8   /  2)  *   600  /   50   =   7    *  6   *  1.60  =  67k   *  10k  =  670k
+The best option is to take Coorabulka Route at a pace of 15km per day. This will cost NAPCO $640k or 8% of the 
+potential revenues.
+Dust Cloud
+82
+
+
+===== PDF p87 =====
+1.
+No Conclusion- McKinsey and Bain often will not ask for a full recommendation and instead you will need to give 
+mini-recommendations throughout the case
+2.
+Math Rationale-Make sure to give rationale behind your math. It is not just about getting to the right answer in a 
+structured manner, but also the reason you came to this decision
+3.
+Advising- A consultant is a trusted advisor who needs to look beyond the page. For Question #4, think about how it 
+would look if word got out that NAPCO was driving cattle 50km per day, just to make $480 more. Use sense and 
+logic when making recommendations
+Takeaways
+Keys to the Case and Feedback
+Dust Cloud
+83

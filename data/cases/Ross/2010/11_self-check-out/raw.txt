@@ -1,0 +1,99 @@
+===== PDF p81 =====
+- 76 -
+Self Check-Out (1 of 4) 
+RCC Original
+Our client is a large retailer.  They would like to add self check-out 
+stations to their stores.  They have asked us to help them 
+determine if this is a good idea.  If it is, they want to know how 
+much it will cost and what the expected savings will be.  
+• Their primary objective is to reduce costs and improve profit.
+• They do not want to lose customers due to this initiative.  
+• Ignore potential revenue benefits such as increased store 
+traffic.
+• The client will only invest if there is a 2 year payback 
+(undiscounted)  
+• They have approximately 900 stores nationwide.
+• Annual revenue is $20 Billion.
+• Cost structure data is available on the next slide.
+• They have almost no experience with self check-out stations.
+• Assume no capital constraints.
+.
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+
+
+===== PDF p82 =====
+- 77 -
+Self Check-Out (2 of 4) 
+RCC Original
+The candidate will need to explore costs and savings associated with the new program in order to determine if the program 
+can break-even.   A good structure should include customer tastes.  A great structure will also include efficiency of self 
+check-out systems.  
+Impact on Costs:
+• Current Cost Structure
+• Required Investment
+• Expected Savings
+1
+2
+Area the candidate should explore:
+Information provided upon request
+• The average store has 16 cashiers per shift.
+• They make $10.00/hour.  Assume they work 8 hours per day.  
+• It is okay to ignore overtime, benefits, etc.
+• Total cost of each machine is $50K.  This includes installation.  
+• Assume annual maintenance is negligible.  It can be ignored for this case.
+• One employee can oversee  four (4) self check-out machines.
+• The store operates on 2 shifts: 8 am- 4 pm and 4 pm to midnight. 
+• Assume constant flow of customers.  No peak.  
+• Assume 350 days/year.  
+Utilization of New Machines
+• Customer Preferences/Tastes/Ability
+• Number of items to scan
+• Size of items to scan
+• Learning curve of customers
+• 10% of customers surveyed  stated they would not use the new machines and 
+would prefer to shop elsewhere if forced to do so.
+• Empirical research (with other retailers) suggests that when a customer has 
+more than 15 items, they prefer a cashier to self check-out stations.  This 
+applies to 15% of check-outs.  
+• Assume no learning curve effects for this calculation (although candidate can 
+bring it up in recommendation/next steps)
+
+
+===== PDF p83 =====
+- 78 -
+Self Check-Out (3 of 4) 
+RCC Original
+Each machine saves 1/4 of an employee per shift.  Since there are two shifts per day, each machine saves 1/2  an employee per day.
+350 days x 16 hours/day x $10/hour = $56,000 in annual savings per machine.  
+You can not replace all cashiers because of some customer preferences and due to order size.  25% of  current cashiers must be retained 
+for these purposes.  Each store will replace 3/4 of its check-out lanes with these machines:  3/4  x 16 =12 machines per store. 
+900 stores x 12 machines = 10,800 machines
+Total cost = 10,800 x 50,000 = $540 Million total investment 
+Total expected annual savings = 56,000  per machine x 10,800 machines = $604.8 Million 
+Sample Calculations
+
+
+===== PDF p84 =====
+- 79 -
+Self Check-Out (4 of 4) 
+RCC Original
+At this point, ask the candidate to take a minute to wrap up their analysis and provide a recommendation.  They should 
+keep in mind the original question which is to determine if this is a good idea, how much it will cost, and what the expected
+savings will be.  
+The client should go ahead with implementing self check-out stations at its stores because each machine will 
+save them $56K per year.  This represents a payback of slightly less than one year.  
+Recommendation
+Risks and Mitigation
+Next Steps
+• Its an investment of nearly $500 million so they may want to consider a trial run and may implement the 
+machines in phases.  
+• The stations may not be as popular with customers as expected.  Phasing in will reduce capital at risk and 
+allow the company to modify plans accordingly. 
+• Employees may resist the change, especially with co-workers losing their job.  The company will need to 
+engage in a PR campaign and highlight that the company’s survival depends on its profitability.  If they don’t 
+do it their competitors will gain a cost advantage. 
+• Assign project manager and draft project plan.
+• Conduct in-store testing.
+• Engage PR firm to help with internal (employee) communications and guard against external backlash.

@@ -1,0 +1,249 @@
+===== PDF p90 =====
+Case 9: Princeton-Plainsboro Hospital
+Case Type: Profitability
+Difficulty Level: Medium to Hard
+
+
+===== PDF p91 =====
+9. Princeton-Plainsboro Hospital - Prompt
+Princeton-Plainsboro Hospital is a large New Jersey single-site hospital serving a wide range of 
+patients. The hospital's board is concerned because they have noticed a decline in the hospital's 
+earnings from medical services even though the number of patients have remained static. The 
+hospital has hired you to help them figure out what the problem is and come up with a strategy for 
+increasing earnings. 
+Problem Statement
+Additional Information (Provide Upon Request)
+●
+The hospital is large and serves a wide variety of range of patients
+●
+No other information is needed
+
+
+===== PDF p92 =====
+9. Princeton-Plainsboro Hospital - Structure
+1. Market
+A. Market Size
+●
+Market growth (global and local)
+●
+Demand (segmented by 
+services or specializations)
+B. Competitors 
+●
+Number of other competitors
+●
+Services offered
+●
+Price per operation / profit 
+margin
+C. Trends
+●
+Private and public insurance
+●
+Pandemics, supply shortages, 
+etc.
+2. PP Hospital 
+(Company)
+3. Financials
+4. Growth 
+opportunities
+A. Product
+●
+Types of operations and 
+services
+B. Customers
+●
+Patient segments (e.g., 
+long-term vs short-term care, 
+check-ups vs operations)
+C. Marketing strategy
+●
+What kind of operations / 
+services are we encouraging?
+ A. Pricing strategy
+●
+Increasing the price and/or ffer 
+more flexible payment plans 
+●
+Bundle services
+B. Volume dynamics
+●
+Marketing towards patients who 
+need more expensive services
+ D. Cost reduction
+●
+Improve efficiency and patient 
+turnover
+●
+Move certain services online 
+(after-visit check up). 
+ D. Expansion
+●
+Expand organically, through 
+partnership, or M&A
+Sample Framework
+Interviewer guidance 
+-
+This case has two main components. First, investigate the decline in earnings for the hospital, then use that as a basis to develop a 
+new corporate strategy. 
+-
+The investigation of earnings will be more structured with defined information and calculations to be completed. However, the 
+strategy development is open-ended and gives the interviewee the opportunity to be creative. 
+A. Revenue
+●
+Price (avg price per operation or 
+department)
+●
+Volume (number of patients, 
+insurance vs cash mix, service 
+mix)
+●
+Payment timelines (how long to 
+receive payment - private vs 
+public insurance, uninsured)
+B. Cost
+●
+Variable (labor, materials, 
+marketing etc.)
+●
+Fixed (rent, loans, equipment, 
+utilities, malpractice insurance, 
+etc.)
+
+
+===== PDF p93 =====
+Given the Exhibit 1, what was the operating margin for the hospital in 2004 and what is it in 2010? 
+9. Princeton-Plainsboro Hospital - Math Prompt
+Math prompt
+●
+Per patient costs: 
+○
+2004: $4,000
+○
+2006: $4,400
+○
+2008: $4,600
+○
+2010: $4,800 
+●
+Patient Mix by Insurance type was constant over time: 
+○
+Private: 50% - Public: 40% - Uninsured: 10% 
+Additional Information (Provide Upon Request)
+
+
+===== PDF p94 =====
+Exhibit 1 - Average Reimbursement per patient
+
+
+===== PDF p95 =====
+9. Princeton-Plainsboro Hospital - Math Prompt
+Calculations
+Product
+Calculations
+Operating Margin % 
+2004
+2004: Average per patient revenue for all patients = 
+6,800*(50%) + 5,300*(40%) + 3,300*(10%) = $5,850. 
+Margin = (Rev-Costs)/Rev = ($5,850-4,000)/$5,850 = 31.6%
+31.6%
+2010
+Average per patient revenue for all patients = 6,300*(50%) + 
+3,700*(40%) + 3,300*(10%) = $4,960. 
+Margin = (Rev-Costs)/Rev = ($4,960-4,800)/$4,960 = 3.2%
+3.2%
+●
+Takeaways: overall, revenues are dropping
+○
+Operating margin has dropped ten fold from 32% to 3.2% 
+○
+Biggest problem is drop in public insurance (Medicare/Medicaid) reimbursement amounts. 
+○
+Private reimbursement also fell
+○
+Costs are rising steadily over time 
+
+
+===== PDF p96 =====
+Given the answer to the first question, what would you recommend the hospital do? 
+9. Princeton-Plainsboro Hospital - Brainstorming
+Final Recommendation
+Interviewer guidance
+Make sure the candidate considers corporate 
+development with a local specialty clinic that has desirable 
+(profitable) patients 
+-
+Can acquire by purchasing
+-
+Can enter into a joint venture or partner to 
+provide some services in hospital, split profits 
+with external specialist doctor
+-
+Can try entering niche specialties alone by 
+opening up a new office and hiring staff 
+1. Revenue
+A.Price
+●
+Charge more for services (could 
+partner with other hospitals in 
+state when negotiating 
+reimbursement rates)
+B. Marketing 
+●
+Attract more high margin private 
+insurance patients via 
+advertising, etc.
+C. Expansion
+●
+Acquire, joint venture, or do 
+some sort of corporate 
+development with local speciality 
+clinic that serves private 
+insurance patients with high 
+reimbursement
+B. Lobbying
+●
+Lobby the government to raise 
+public reimbursement rates
+2. Costs
+A. Suppliers
+●
+Partner with other hospitals in 
+the state when negotiating 
+prices
+B. Customer targeting
+●
+Target lower cost patients with 
+selective advertising, etc. (e.g. 
+target young rather than old)
+C. Synergies through M&A
+●
+Find efficiencies / synergies 
+somewhere with a purchase of a 
+clinic
+●
+Outsource some services that 
+can be handled more efficiently 
+elsewhere (urgent care clinics). 
+
+
+===== PDF p97 =====
+Please make a recommendation for our client. 
+Recommendation
+Recommendation
+Our analysis observed that the operating margin has dropped ten fold from 32% to 3.2% 
+and that the biggest problem is in the public insurance reimbursement amounts. In 
+response, we recommend
+●Partnering to other hospitals to renegotiate reimbursement rates and, in particular, to 
+lobbying the government to raise the public rates. 
+●Adjust the marketing strategy to attract more high margin private insurance patients
+●Consider acquiring a local speciality clinic that focus on high margin operations
+Risks
+●Lobbying efforts could incite public backlash and would need to make a convincing 
+case as to why the rates are to low
+●Targeting higher margin activities could provoke a competitive response
+Next Step
+●Develop a marketing campaign to educate consumers as to the costs and values of the 
+services in order to justify to the increase in reimbursement rates
+●Perform an analysis of competitors current strategy and how they might respond
+9. Princeton-Plainsboro Hospital - Recommendation

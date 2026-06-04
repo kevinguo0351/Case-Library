@@ -1,0 +1,355 @@
+===== PDF p101 =====
+Company 
+Background
+Our client is Roadrunner Railways.  They are a large railway company that ships freight throughout 
+the United States.  Roadrunner is facing declining profitability and the CEO has approached us for 
+guidance.
+Small profit margins
+• Little product differentiation
+Question #1:  To begin, tell me 
+what you expect this industry 
+to look like?
+Revenue
+• Changes in customer demand / operation bases
+Question #2:  What areas would you explore to identify reasons for the 
+declining profits? (Candidate should create well-structured approach 
+to look at Revenue & Cost.  Force Candidate to dig 2-3 levels)
+Roadrunner Railways (1 of 7)
+McKinsey, Round 1
+• Little product differentiation
+• Price sensitive customers 
+(businesses)
+Price competition: benefits to scale:
+• Economies of scale throughout 
+value chain (manufacturing, 
+marketing, sales, etc.)
+Oligopoly with a few large firms
+Should see stable growth with 
+economy
+Substitutes such as trucks, boats, 
+planes
+• Changes in customer demand / operation bases
+• Customers switching to other freight transport methods (trucks, shipping, etc.)
+• Competition offering better prices or contracts
+• New entrants who are leaner / more efficient and not burdened with legacy costs
+Cost
+• Raw materials (Fuel)
+• Maintenance (Spare Parts, Frequency of Repairs)
+• Labor (Train Crew, Maintenance Crew, Office Workers)
+• Sales and Marketing (Freight Contracts requires Relationship Management)
+• Management overhead
+
+
+===== PDF p102 =====
+Show Candidate 
+Exhibit A
+Based on this Exhibit, what areas would you explore?
+Roadrunner
+(% Total 
+Cost)
+Speedy 
+Gonzales
+(% Total Cost)
+Coyote
+(% Total 
+Cost)
+Flash
+(% Total 
+Cost)
+Finance
+7%
+8%
+10%
+10%
+Operations
+48%
+50%
+52%
+55%
+Answer:
+Candidate should be able 
+to do basic mental math 
+normalize Roadrunner 
+costs to industry average 
+percentages.  
+Roadrunner Railways (2 of 7)
+McKinsey, Round 1
+Sales & 
+Marketing
+23%
+10%
+12%
+15%
+HR
+6%
+7%
+8%
+6%
+IT
+13%
+20%
+14%
+12%
+Other
+4%
+5%
+4%
+2%
+Candidate should then 
+identify Sales & 
+Marketing as an area for 
+further exploration. 
+Ask for Primary 
+Sales/Marketing 
+Cost Buckets
+-Labor
+-Advertising
+-Travel Expenses
+How Could 
+Roadrunner 
+Reduce Labor 
+Costs?
+-Outsource vs. Insource
+-Increase Accounts/Employee (then Reduce # Employees)
+-Relocate Sales/Marketing force to area where labor is less expensive
+-Use less costly workforce (e.g. College Grads)
+
+
+===== PDF p103 =====
+Currently the Sales & Marketing Department is outsourced to a firm that has centers across the country; and Roadrunner 
+pays for the allocated employees (called “Marketing Consultants”).  Roadrunner did a comparative analysis within the 
+industry, and obtained the following labor stats.
+# Employees:
+-Outsource = 1,860
+-In-House (Central Location) = 620  
+Cost Per Employee 
+-Outsource = $80K
+-In-House = $120K
+Roadrunner Railways (3 of 7)
+McKinsey, Round 1
+Why might In-House  
+Marketing/Sales 
+require fewer 
+employees?
+-Less employee turnover
+-Increases specialization on Roadrunner-specific products/services
+-Proximity to other functions
+-Increased opportunities for performance management
+What Can You 
+Infer from this 
+Data?
+Candidate should either compare % Change or Total Cost.  Either way, candidate should identify In-
+House as the less expensive option.
+% Change :
+Total Cost :
+-Employees (-67%)
+-Outsource (1860 x $80 = $148,800K = $148.8M)
+-Cost per Employee (50%)
+-In-House (620 x $120 = $74,400K = $74.4M)
+What would you 
+recommend?
+Sales and Marketing department moved In-House due to cost savings.
+
+
+===== PDF p104 =====
+You’ve now dramatically rearranged the sales force, what are potential repercussions? i.e. What additional factors need to 
+be taken into consideration?
+Note: Judge the candidate’s ability to brainstorm ideas.  Following is a list of possible factors that should be considered. 
+Push them to mention the last point as it is important for the next steps.
+-The cost of making such a transition (hiring new employees, obtaining office space, training, telecommunications, etc.)
+-Revenue and client loss during the transition period
+-Impact on relationships that the Marketing Consultants had built
+-Customers may be dissatisfied that their sales person no longer visits them and only calls on the phone.
+-If sales and marketing reps cannot visit the site, they may lose key insights into the customer’s business that cannot be 
+gleaned over the phone
+Roadrunner Railways (4 of 7)
+McKinsey, Round 1
+gleaned over the phone.
+-Fewer employees in-house might not be able to have as many touch points with the various clients, so if that is important 
+to the customers it could lead to loss of customers and revenue (critical)
+Show Candidate 
+Exhibit B
+You mentioned revenue loss as a concern in the previous question, let’s explore that further.  
+Roadrunner did some predictive modeling of account retention and growth under two scenarios: 
+(1) Maintaining outsourced sales and marketing and (2) Moving sales and marketing in-house.
+QUESTION:  Calculate change in revenue if Sales/Marketing is moved In-House.
+Total Revenue
+Revenue expected to 
+be retained in-house
+Projected Revenue
+(Outsource)
+Projected Revenue
+(In-house)
+Change in 
+Revenue 
+(immediate)
+Change in 
+projected revenue
+1,200 
+900 
+1,320 
+972 
+(300)
+(348)
+= 1,200 x 75%
+= 1,200 x 110% 
+= 900 x 108% 
+1,000 
+950 
+1,080 
+1,140 
+(50)
+60 
+= 1,000 x 95%
+= 1,000 x 108% 
+= 950 x 120% 
+550 
+550 
+583 
+688 
+-
+105 
+= 550 x 100%
+= 550 x 106% 
+= 550 x 125% 
+
+
+===== PDF p105 =====
+What are your 
+general observations 
+of the data?
+-Revenues for all segments will decrease in the immediate future from moving operations in-house
+-Growth for Medium and Small segments is higher with in-house operations, while that of the Large 
+segment is lower than with outsourced functions
+What might be some 
+reasons that the 
+growth  of the 
+various segments is 
+affected differently 
+A strong candidate will realize that the “Marketing Consultants” focused most of their efforts on 
+the large segment, possibly due to the larger commissions these contracts entailed.  Shifting 
+operations in-house will increase the contact with small and medium segments, while decreasing 
+that with the large segment.
+Roadrunner Railways (5 of 7)
+McKinsey, Round 1
+by having operations 
+outsourced?
+What are the 
+implications?
+Answer:  Based on these observations, there should be a reorganization of the workforce in the 
+Sales & Marketing Department.  Move the Sales & Marketing force that is responsible for Medium 
+and Small customers in-house, but continue to outsource the function for Large companies.
+Final 
+Recommendation
+Roadrunner should reorganize the workforce in the Sales and Marketing department as a first step 
+towards increasing profitability.  Specifically move the function in-house for the small and medium 
+segments, and leave the large segment outsourced as it is now.
+-Currently, Roadrunner’s Sales & Marketing expenses are much higher than industry benchmarks.
+-Moving operations in-house (Small & Medium) would reduce costs and increase revenue.
+-Functionality for the Large segment should remain outsourced.
+Further analysis should be performed to more accurately gauge the cost of the transition and its 
+impact on operations, specifically focusing on potential integration issues, contract breakage fees 
+with outsourcing firm, ability to smoothly transition client relationships, and potential of the local 
+labor pool.
+
+
+===== PDF p106 =====
+Exhibit A
+Roadrunner
+Speedy 
+Gonzales
+Coyote
+Flash
+(in $M)
+(% Total Cost)
+(% Total Cost)
+(% Total Cost)
+Roadrunner Railways (6 of 7)
+McKinsey, Round 1
+Finance
+140 
+8%
+10%
+10%
+Operations
+950 
+50%
+52%
+55%
+Sales & Mktg
+450 
+10%
+12%
+15%
+HR
+120 
+7%
+8%
+6%
+IT
+260 
+20%
+14%
+12%
+Other
+80 
+5%
+4%
+2%
+2,000 
+100%
+100%
+100%
+
+
+===== PDF p107 =====
+Total Revenue 
+(in $M)
+# Accounts
+Large 
+1,200 
+40 
+Medium
+1 000
+50
+Exhibit B
+Roadrunner Railways (7 of 7)
+McKinsey, Round 1
+Medium 
+1,000 
+50 
+Small 
+550 
+75 
+% Expected 
+account retention
+(over 1yr)
+% Expected 
+Account Growth
+(over 1yr)
+Large 
+100%
+10%
+Medium 
+100%
+8%
+Small 
+100%
+6%
+% Expected 
+account retention
+(over 1 yr)
+% Expected 
+Account Growth
+(over 1 yr)
+Large 
+75%
+8%
+Medium 
+95%
+20%
+Small 
+100%
+25%
+Scenario #1 - Outsource
+Scenario #2 – In-House

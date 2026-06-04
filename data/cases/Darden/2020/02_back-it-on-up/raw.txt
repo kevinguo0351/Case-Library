@@ -1,0 +1,402 @@
+===== PDF p55 =====
+51
+Back IT On Up
+EYP | Round 2 | Tech
+
+
+===== PDF p56 =====
+52
+EY Parthenon | Round 1 | Technology
+0 2  |  C A S E :  B A C K  I T  O N  U P
+BACK IT ON UP
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  D e s c r i b e  a  
+t i m e  y o u ’ v e  
+d i s a g r e e d  w i t h  a  
+m a n a g e r  o r  
+c o l l e a g u e .  H o w  
+d i d  y o u  n a v i g a t e  
+t h e  s i t u a t i o n ?
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. What does BackupCo Produce? / What is data backup and disaster recovery?
+BackupCo produces physical backup appliances that site on site at client locations, as well as software that clients 
+can deploy on their own devices. These products help protect data by duplicating emails, databases, sales data etc. 
+to alternate locations. It only sells B2B. 
+2. Does it sell its products worldwide?
+BackupCo does 100 Million dollars worth of business in North America and the remainder of its business in EMEA 
+and APAC. 
+Prompt: BackupCo is a data backup and disaster recovery company. It’s 
+primary headquarters is in Boston, its client services department is in South 
+Carolina, and its development is split between Texas and Ukraine. To expand 
+its product offerings, reach, and revenue, it is considering purchasing 
+CloudCo, a cloud backup provider headquartered in Southern California. Our 
+firm has been hired to evaluate this potential acquisition. How would you 
+begin considering this deal?
+
+
+===== PDF p57 =====
+53
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 2  |  C A S E :  B A C K  I T  O N  U P
+How to Move Forward:
+To move forward, the interviewee should note that we should look try to get a valuation and compare that to the expected benefit. They should ask for info on potential 
+valuation methods – guide them to a DCF
+Valuation
+•
+DCF
+•
+Comparables
+•
+EBITDA Multiple
+Synergies
+• Revenue
+• Cross-Sell
+• Up-Sell
+• Cost
+• Headcount
+• Reduction/relocation
+• Non-Headcount
+• Scale
+• CAPEX reduction
+• R&D consolidation
+• Shared costs (IT, vendors, licenses)
+• Dis-synergies
+• Lost customers
+• Process breakdown
+Risk (a few of these is fine)
+• Regulatory Risks
+• Key talent retention
+• Loss of key customers
+• Overly optimistic synergy 
+estimates
+• Culture
+• Brand deterioration
+• Overestimate cost savings
+• Cost/Vendor relationship risks
+• Extended timeline
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p58 =====
+54
+Question 1 (The location of these question slides in your case is completely up to you)
+•
+How would you value CloudCo?
+0 2  |  C A S E :  B A C K  I T  O N  U P
+Exhibit or Question Guidance:
+• The candidate should recognize that there are several ways to perform a valuation – DCF, Comparables, Multiples – guide them to a DCF.
+• Candidate should ask if there is a hurdle rate. When this is brought up, provide:
+- Hurdle rate is 13%, expected growth rate will be 3%
+• The candidate should then note they need cash flows – provide them with exhibit 1 and give them the following information
+- In 2019, CloudCo sold 3 tiers of subscriptions based on data size of the customer. Assume these are all inclusive profit numbers.
+• Tier 1 – 10$ per Gigabyte per month, Tier 2 – 8$ per Gigabyte per month, Tier 3 –5$ per Gigabyte per month
+• Candidate should do the math as follows: 
+UVA Darden School of Business 2019-20 case book
+Tier 1
+Tier 2
+Tier 3
+Terabytes Sold
+10
+25 
+40 
+Gigabytes Sold
+10,000 
+25,000 
+40,000 
+Price Per gigabyte
+10 
+8 
+5 
+Monthly Profit
+100,000 
+200,000 
+200,000 
+Sum per month
+500,000 
+Yearly Profit
+6,000,000 
+Should then use the 6M in the 
+discount in perpetuity formula 
+(CF/WACC-G) = 6M/13%-3% = 
+60M
+
+
+===== PDF p59 =====
+55
+EXHIBIT 1
+0 2  |  C A S E :  B A C K  I T  O N  U P
+2019 Revenue in Terabytes of Data Protected
+UVA Darden School of Business 2019-20 case book
+2
+2
+2
+4
+2
+7
+8
+8
+10
+10
+10
+10
+0
+5
+10
+15
+20
+25
+Q1
+Q2
+Q3
+Q4
+Tier 1
+Tier 2
+Tier 3
+Note: 1TB = 1000GB
+
+
+===== PDF p60 =====
+56
+Question 2 (The location of these question slides in your case is completely up to you)
+•
+Assuming we expect a standalone valuation 60M, how much do you think BackupCo should be willing to pay for 
+CloudCo?
+0 2  |  C A S E :  B A C K  I T  O N  U P
+Exhibit or Question Guidance:
+The candidate should realize that the standalone value is typically going to be lower than a combined value if synergies are able to be captured. If the candidate 
+does not realize this, push the candidate to think about this. When they have moved in this direction, provide exhibit 2. 
+UVA Darden School of Business 2019-20 case book
+Revenue Synergies
+Revenue/Gig in 2019
+Gigs
+Increase in Revenue from Tier 1
+1
+10000 10000*1
+=10000
+Increase in Revenue from Tier 2
+1
+2500025000*1
+=25000
+Increase in Revenue from Tier 3
+1
+4000040000*1
+=40000
+Total revenue increase per month
+75,000 
+Revenue increase per year 
+75000*12
+900,000 
+Cost Synergies
+% of Revenue Synergies
+SG&A
+10%=.1*900k
+90,000
+Headcount
+15%=.15*900k
+135,000
+R&D
+5%=.05*900k
+45,000
+270,000
+Total Yearly Profit Increase
+=1,170,000
+DCF to Find Combined Value
+=7,170,000/.1 = 71,700,000
+BackupCo should be 
+willing to pay UP TO 
+71.7M
+
+
+===== PDF p61 =====
+57
+EXHIBIT 2
+0 2  |  C A S E :  B A C K  I T  O N  U P
+Post Acquisition Costs and Revenue Projections
+UVA Darden School of Business 2019-20 case book
+Revenue Synergies
+Revenue Increase Per Gigabyte Sold in 2019
+Tier 1 Expansion
+1
+Tier 2 Expansion
+1
+Tier 3 Expansion
+1
+Cost Synergies
+% of Revenue Synergies
+SG&A
+10%
+Headcount
+15%
+R&D
+5%
+
+
+===== PDF p62 =====
+58
+Question 3 (optional)
+•
+We’ve been asked to develop a proposed M&A structure for BackupCo’s acquisition. How might you design this?
+0 2  |  C A S E :  B A C K  I T  O N  U P
+Exhibit or Question Guidance:
+The candidate should draw the below. Instead of putting functions under IMO/PMO, territory is acceptable, but is not preferred given the type of company 
+UVA Darden School of Business 2019-20 case book
+Executive 
+steering 
+committee
+Integration 
+MGMT 
+Office/PMO
+Product
+Synergy 
+MGMT Office
+Finance/HR
+Supply Chain
+Engineering
+Sales & Marketing
+
+
+===== PDF p63 =====
+59
+CONCLUSION
+0 2  |  C A S E :  B A C K  I T  O N  U P
+UVA Darden School of Business 2010-20 case book
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+BackupCo should look to try and purchase CloudCo for less than 71M 
+•
+Strong synergies and potential for upsell make it very attractive 
+Risks:
+•
+Want to ensure that we can capture the full value of the synergies we projected, so we will want to make sure we validate 
+this information against previous transactions
+•
+Want to devise a strategy to ensure we retain key customers
+•
+Want to make sure we put in place a retention program to prevent loss of key talent
+Next Steps:
+•
+Approach CloudCo to validate interest and gain further information for synergy refinement
+
+
+===== PDF p64 =====
+60
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p65 =====
+61
+EXHIBIT 1
+0 2  |  C A S E :  B A C K  I T  O N  U P  - A P P E N D I X
+2019 Revenue in Terabytes of Data Protected
+UVA Darden School of Business 2019-20 case book
+2
+2
+2
+4
+2
+7
+8
+8
+10
+10
+10
+10
+0
+5
+10
+15
+20
+25
+Q1
+Q2
+Q3
+Q4
+Tier 1
+Tier 2
+Tier 3
+Note: 1TB = 1000GB
+
+
+===== PDF p66 =====
+62
+EXHIBIT 2
+0 2  |  C A S E :  B A C K  I T  O N  U P  - A P P E N D I X
+Post Acquisition Costs and Revenue Projections
+UVA Darden School of Business 2019-20 case book
+Revenue Synergies
+Revenue Increase Per Gigabyte Sold in 2019
+Tier 1 Expansion
+1
+Tier 2 Expansion
+1
+Tier 3 Expansion
+1
+Cost Synergies
+% of Revenue Synergies
+SG&A
+10%
+Headcount
+15%
+R&D
+5%

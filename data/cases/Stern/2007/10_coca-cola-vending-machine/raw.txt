@@ -1,0 +1,79 @@
+===== PDF p26 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+10. Coca Cola Vending Machine     
+ 
+       ______
+Type of Case: New Product Delivery Device 
+ 
+Opening 
+You are meeting with the head of new product development for Coca Cola to discuss a new 
+delivery platform Coca Cola has developed.  Coca Cola does not generally make its delivery 
+platforms – it is usually delivered through fountains or vending machines.  But Coca Cola has 
+recently been looking into developing a new vending machine.  It’s at the first level of 
+screening.  It was born out of an idea the engineers at Coca Cola came up with and this 
+executive needs to know whether to use the vending machine or kill the idea. 
+ 
+This vending machine can change prices as the temperature changes.  If it’s hotter outside, the 
+price to the consumer will be higher.  If it’s cooler, the price goes down accordingly.  Assume 
+there is no extra cost to making these vending machines and that they are easily implemented.  
+How would you evaluate this idea and what is your recommendation? 
+ 
+Background (Provide the following information if requested by interviewee.) 
+ Coca Cola sales are seasonal – about 60% is bought in summer. 
+ A Coke sells for around $1.00.  Costs to produce are: 20 cents manufacturing and 75 
+cents in marketing.  So there is 5 cents profit on each can. 
+ Coca Cola does not expect to make more money on sales through this vending machine.  
+It expects the high prices (in hotter weather) and low prices (in colder weather) to even 
+out to be similar to current revenues. 
+ 
+Areas of Discussion 
+  (If the interviewee is really struggling) What problem at Coke might the engineers 
+have been reacting to when they decided to develop this machine? 
+- 
+What were they trying to solve? 
+- 
+Was it an attempt to reduce frequency with which Coke becomes “flat” in the 
+summer? 
+- 
+Was there an existing delivery problem that prompted Coke to take a shot at 
+delivering Coke themselves? 
+- 
+Anything else? 
+ (If the third bullet has been revealed) Coke isn’t expecting to make more money, but 
+what might they be trying to achieve?  Think about the profit tree. 
+ (If the interviewee thinks this is a no-lose idea) What might Coke want to think about 
+before introducing this delivery system?  How might people react to it? 
+ 
+Recommended Conclusion 
+This is really a problem about two things:  
+1. supply chain management/forecasting  
+2. how customers will react.  
+ 
+21 
+
+
+===== PDF p27 =====
+Torch the Case 2007 
+Provided by the NYU Stern MCA for use by the McCombs School of Business Graduate Consulting Group 
+ 
+10. Coca Cola Vending Machine continued…     
+_
+ 
+The benefit of this machine is that it allows Coke to better forecast demand (by stabilizing 
+demand throughout the year) and therefore better manage its supply chain and make 
+distribution easier.  While that might cut costs slightly, only 20 cents of every 95 cents is from 
+manufacturing.  The major cost is marketing.  If it needs to cut costs it should look at 
+marketing.  Why?  Because the reaction the public could have to this machine is dangerous.  
+Coca Cola is thought of as an all-American product.  Changing prices with weather is not 
+aligned with the way people see the product.  They might feel cheated by the machine. The 
+interviewee should definitely have touched on: cost savings, supply chain/forecasting issues 
+and public perception. 
+ 
+*** One point that the interviewee may want to explore is the fact that the machine only 
+monitors the temperature and price for Coke – it doesn’t necessarily generate more or less 
+demand when it’s hotter or colder – that trick is still confined to consumer behavior. ***  
+ 
+ 
+22 

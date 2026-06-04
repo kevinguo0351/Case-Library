@@ -1,0 +1,24 @@
+{
+  "case_id": "Wharton_2011_05_electronic-machines-division-turnaround",
+  "school": "Wharton",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2011.pdf",
+  "idx": 5,
+  "case_name": "Electronic Machines Division Turnaround",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Industrial Equipment / Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 50,
+  "pdf_page_end": 54,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    52,
+    53
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p053.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2011\\05_electronic-machines-division-turnaround"
+}

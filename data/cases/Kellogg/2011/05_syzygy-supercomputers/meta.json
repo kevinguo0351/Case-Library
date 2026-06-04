@@ -1,0 +1,34 @@
+{
+  "case_id": "Kellogg_2011_05_syzygy-supercomputers",
+  "school": "Kellogg",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2011.pdf",
+  "idx": 5,
+  "case_name": "Syzygy Supercomputers",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Technology",
+  "difficulty": null,
+  "pdf_page_start": 46,
+  "pdf_page_end": 54,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    47,
+    48,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p047.png",
+    "exhibits/exhibit_p048.png",
+    "exhibits/exhibit_p050.png",
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p054.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2011\\05_syzygy-supercomputers"
+}

@@ -1,0 +1,173 @@
+===== PDF p77 =====
+GridMask faces its future
+73
+Industry: Tech
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p78 =====
+Behavioral Questions
+74
+• Tell me about a time where you worked on a project with a team that faced a 
+particular challenge. What role did you play in the process?
+Question 1:
+• Could you talk about a project that didn’t go as you planned, and what you learned 
+from the experience?
+Question 2:
+
+
+===== PDF p79 =====
+GridMask faces its future
+75
+• Our client, GridMask, is a software company that for the last two years has focused
+on developing face-detecting systems. The technology is ready to be deployed in
+2017 and the company is looking at ways to sell it. For instance, to provide payment
+authorization, access facilities, or assist the authorities in tracking down criminals.
+• The client has hired us to (1) identify the best revenue streams to focus on, and (2)
+strengthen venture capitalists’ perception of market feasibility for potential new
+rounds of financing.
+Prompt #1:
+• The interviewee should ask about the current financial situation of the company. 
+How did they finance their project for the two last years? Did they have any revenue 
+during that time? Why are they in need of new financing rounds and what are they 
+looking to achieve with the additional funds? Are there competitors?
+• Information to be given if asked:
+– GridMask covered all its expenses with venture funds and can fully operate until the end of 
+2016 without needing additional money.
+– They only had negligible revenue streams in the past years from small consulting projects.
+– They have identified that they can start generating revenue to sustain their operations a year 
+from now (2018 - just before depleting their current budget)
+– There is one more company already offering a similar but very inferior finished alternative.
+Interviewer Guidance:
+
+
+===== PDF p80 =====
+Exhibit #1: Income & Revenue Streams
+• Selected income statements for GridMask
+(in millions of USD)
+• Identified opportunities for all potential clients
+76
+2016
+2017
+(expected) *
+2018
+(expected) *
+Revenue
+1.2
+1.9
+15.2
+COGS
+0.3
+0.4
+2.1
+Gross Profit
+0.9
+1.5
+13.1
+Operating 
+Expenses
+4.2
+5.3
+6
+Operating Profit
+-3.3
+-3.8
+7.1
+* Expected statements from distributing selling efforts 
+across all identified markets with the same level of 
+marketing efforts
+
+
+===== PDF p81 =====
+Interviewer guidance on Exhibits
+• The left exhibit shows the company’s current 
+income statement and two “expected” 
+statements for the following years. The 
+interviewee should note that the comment at the 
+bottom creates a dependency between acting 
+“equally” across all the industries they could 
+possible cater to, and that this is not set in 
+stone.
+• The right exhibit shows different options of risk 
+and reward across clients.
+• The left exhibit shows serious concerns about 
+the current financial situation of the company, 
+but it seems that the 2018 revenue will switch 
+things. If they could establish solid revenue 
+streams after they get their first clients as they 
+project, the positive ROI is almost immediate 
+after that.
+• Looking at the right exhibit, the untapped 
+potential for “Payment Authorizations” is huge, 
+but GridMask’s competitor is already a solid 
+actor in that space (87%). If GridMask’s product 
+is really good, they could displace the 
+competition, but the distance might be too grate 
+already.
+• On the right side again, “Access to Facilities” 
+offers the better balance between a big market 
+and a smaller share of the competition (18%)
+77
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p82 =====
+GridMask faces its future
+78
+• Dorian Black, GridMask’s CEO, needs to set up the narrative of his presentation for a 
+group of venture capitalists that will meet with him next week. How would you 
+summarize your findings?
+Recommendation 
+• A good interviewee should identify that capitalists will like the positive operating profit for 2018 but 
+that the numbers for 2017 need heavy funding. It is paramount to ensure the sustainability of the 
+company from 2018 onwards.
+• While GridMask’s product seems better than the only competitor in place, they have a hold in part 
+of the market and we might not be able to capture enough share. Dorian Gray should not see all 
+potential revenue streams equally, and focus instead in the ones that could offer more capacity.
+• “Access to facilities” is the most untapped market, and “Payment Authorization” is the biggest 
+one. Both offer a good opportunity to grow, and it is up to GridMask to identify if they could 
+displace the competitor in both spaces.
+• “Criminal Tracking” is a limited sector, but it could lead to stable contract with governments and a 
+solid stream of revenue. It could have negative synergies if our product is associated with 
+invasion of privacy, leaving competitors to dominate the market even with an inferior product.
+• We do not know how our expected price point compares to the competition or the market’s 
+demand. Just adjusting that value might improve our revenue streams.
+Interviewer Guidance:
+
+
+===== PDF p83 =====
+Evaluation Criteria
+79
+Candidate Level
+Assessment
+Average Candidate
+•
+Will answer with a recommendation for GridMask’s
+CEO that clarifies the company plan for 2017 and 
+2018.
+•
+Will recognize that focusing on different revenue 
+streams offer different leverages and risks.
+Good Candidate
+•
+Will use the second exhibit to determine which 
+revenue streams are bigger or more reliable than 
+others.
+•
+Will mention most of the criteria mention on the 
+recommendation slide
+Excellent Candidate
+•
+Will identify the ROI opportunity that represents the 
+project
+•
+Will link its recommendations to the potential 
+retaliations or reactions of the competition
+•
+Will assess how GridMask’s markups can affect the 
+income statements and market capture
+•
+Will explore more aggressive or conservative 
+strategies for both good and bad rounds of funding

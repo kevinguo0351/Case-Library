@@ -1,0 +1,245 @@
+===== PDF p54 =====
+Resistance
+50
+Industry: Pharma
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p55 =====
+Behavioral Questions
+51
+• Can you tell me about a time that you had a lead a team through a difficult or 
+challenging scenario at work?
+Question 1:
+• Tell me about a time that you came up with an innovative solution to a problem.
+Question 2:
+
+
+===== PDF p56 =====
+Resistance: Prompt #1
+52
+• Action Med received many pharma products in clinical development as a result of a 
+recent acquisition, including a drug, called BPL, to treat resistant HIV. The total cost 
+of drug development is 2 Billion USD (includes R&D and anticipated marketing 
+spend). 
+• Action Med wants to know the target patient population for this product, and how 
+many patients will realistically take the drug. They also need to focus their marketing 
+efforts on specific healthcare sites. How would you begin to think about this problem? 
+Prompt #1:
+• Patients have resistant HIV when combination therapy fails to achieve complete viral 
+suppression (virological failure). BPL treats patients who have virological failure after 
+taking 3+ meds. 
+• A good framework will include questions about the cost of development, the need for 
+market sizing, a view of the competitive environment, and the anticipated price of the 
+product. 
+• Interviewer should probe on what kinds of data would be needed to calculate the total 
+market size by healthcare facility. The interviewee should mention number of 
+hospitals, total patients per hospital with resistant HIV, percentage of patients who 
+actually take the drug (uptake), and price of the product
+• Exhibit 1 should be handed out after completion of the framework.
+Interviewer Guidance:
+
+
+===== PDF p57 =====
+Exhibit #1
+53
+Type of 
+healthcare 
+facility
+Number of 
+facilities 
+in the US
+Average 
+patients 
+per 
+hospital 
+with HIV
+% of 
+patients 
+with 
+resistant 
+HIV
+Potential 
+uptake of 
+BPL 
+among 
+resistant 
+HIV 
+patients
+Number of 
+pills/ 
+patient/ 
+year
+Price per 
+pack of 6 
+pills
+Private 
+Hospital
+200
+2,000
+20%
+25%
+24
+$100 
+Academic 
+Center of 
+Excellence
+150
+4,000
+20%
+20%
+24
+$100 
+Small 
+Private 
+practice
+2,000
+500
+5%
+25%
+24
+$100 
+
+
+===== PDF p58 =====
+Interviewer guidance on Exhibit 1
+• The client has already collected some key data points about the potential size of the 
+market for BPL, but has not yet determined whether to go after academic medical 
+centers, private hospitals, or private practices
+• Key Question – how much revenue will the product generate after 5 years at each type 
+of hospital?
+• Assume there is no growth rate, and that the time value of money is not an issue (i.e. 
+you can just multiply 1 year of revenue by 5 to get 5 years or revenue) 
+• They only have the marketing resources to target 1 type of healthcare provider at this 
+time 
+• The uptake % is the percentage of patients with resistant HIV who will end up taking 
+BPL if it goes to market
+• A good candidate should use the numbers provided to calculate the annual revenue for 
+each type of healthcare facility:
+– Private hospital: $192M in annual revenue, $960M after 5 years 
+• (200 x 2,000 x 20% x 25% x (24/6) x 100) = 192M; 192 *5 = 960M
+– Academic Center of Excellence: $230.4M in annual revenue, $1.152BN after 5 
+years – THEY SHOULD CHOOSE ACADEMIC CENTERS OF EXCELLENCE
+– Small Private Practice: $120M in annual revenue, $600M after 5 years
+54
+Exhibit #1 Guidance:
+
+
+===== PDF p59 =====
+Resistance: Prompt #2
+55
+• Action Med also supplies APIs (active pharmaceutical ingredients) to other major 
+pharma companies 
+• Action Med is currently solely focused in the Neurology therapeutic area (hand out 
+exhibit 2), and supplies 70% of Sanofi’s APIs in this area. Action Med’s CEO has 
+also asked us to take a look at competitive dynamics among other API suppliers, in 
+order to predict any increase in profits from increased sales. 
+– Based on the information given, what do you expect Action Med will see in 
+additional revenue due to Sanofi’s predicted 30% increase in market share in 
+the Neurology therapeutic area? (I.e. compare 2018 and 2022)
+– Taking into account the revenue from targeting Academic Medical Centers (5 
+year combined revenue) AND the revenue from Sanofi’s increased market 
+share in 2022, will Action Med recover its R&D investment in BPL?
+– After the calculation has been completed – take a minute to prepare your final 
+thoughts for the CEO of Action Med
+Prompt #2:
+
+
+===== PDF p60 =====
+Guidance/Calculations for Exhibit 2
+56
+• For the purposes of this analysis, assume that Action Med is 100% focused on APIs 
+in the Neurology therapeutic area
+• Assume no growth rates – assume that market size stays the same and that the time 
+value of money is not an issue
+• Correct calculation should be: 
+• 20% * 200M patients = 40 Million Neurology patients
+– Sanofi 2022 share = 40% * 40M = 16M patients
+• Action Med supplies 70% share = .7 * 16M = 11.2M
+• 11.2M * 75$ per year = 848M
+• 848M + 1.152BN (calculated from exhibit 1) = 2BN
+• Key takeaway: Action Med will get enough revenue by 2022 to cover 
+their R&D/Marketing cost of 2BN
+Interviewer Guidance/Calculations:
+
+
+===== PDF p61 =====
+Exhibit 2
+57
+38%
+20%
+42%
+2018 Pharma Product 
+Sales
+Cardiovascular
+Neurology
+Oncology
+Additional information: 
+• Total patients buying prescription 
+medication = 200M
+33%
+31%
+19%
+10%
+21%
+20%
+14%
+40%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Pfizer
+AstraZeneca
+GSK
+Sanofi
+Neurology Market Share, 2018 -
+2018
+2018
+2022
+Additional information: 
+• Action Med Provides 70% of Sanofi’s APIs in both 
+2018 and projected to 2022
+• Avg. Price of Action Med API sold to Sanofi = $75
+
+
+===== PDF p62 =====
+Evaluation Criteria
+58
+Candidate Level
+Assessment
+Average Candidate
+•
+Will need guidance when doing calculations
+•
+Will have a framework that neglects to mention 
+market sizing, competitive environment, and other 
+important factors
+Good Candidate
+•
+Will handle calculations with relative ease, checking 
+understanding with interviewee
+•
+Will have a complete framework/ demonstrate 
+understanding of the pharma industry
+•
+Will arrive at the conclusion that Action Med will 
+recover R&D costs
+Excellent Candidate
+•
+Will easily complete calculations – explaining the 
+“why” behind each step they take
+•
+Will demonstrate understanding of the pharma 
+industry in the framework
+•
+Will ultimately determine that while BPL is 
+expected to recover its R&D/ marketing costs, it 
+doesn’t appear to be a blockbuster drug

@@ -1,0 +1,348 @@
+===== PDF p169 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+CB14
+Manufacturing/ Automotive
+Problem Solving
+Operations
+Easy
+Medium
+Hard
+165
+
+
+===== PDF p170 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+PROMPT
+JoinTech, a German automotive supplier for 
+engineered joining technology, is in backlog 
+with its cash cow product group. Customer 
+satisfaction is plummeting as a result of a 
+drop in on-time delivery; costs are increasing 
+because of overtime and special deliveries, 
+and the atmosphere in the company is tense 
+due to high pressure from senior 
+management.
+The plant manager hired you to develop a 
+strategy that resolves the backlog.
+CLARIFYING POINTS (if asked)
+
+Size of the company: 400M Sales/ year
+
+Size of product group: 50M Sales/ year (12.5% significant portion)
+
+Current Backlog: €1M Backlog roughly 1 week of production (~2.7M parts)
+
+Cause for Backlog: our manufacturing is late, supplier is late
+
+Backlog mainly coming from big sizes and specialized products
+
+Affected Product: Clamping product, BOM: band material with threads, screw, housing 
+for screw, pre-positioner, spring
+
+Capabilities company: 15 major product groups, metal and plastics products, Plastics: 
+injection moulding + assembly, metal: stamping and bending, rolling, heat treating, 
+assembly, semi-part production
+
+Production: Shifts: 15 shifts/week
+
+Equipment: 30 machines: 4 small sizes, 5 big sizes, 16 regular sizes, 5 specialized 
+machines
+
+Supply Chain:
+o
+Supplied: Raw material + housings, pre-positioner, spring from supplier
+o
+Screws from sister plant (intercompany)
+
+Customers that cause the biggest pain points are OEMs that manufacture abroad air 
+freight
+CASE GUIDANCE
+166
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+This Operations case is multifaceted. For the 
+purpose of solving it on time not all possible 
+root-causes need to be solved, however 
+ideally they are mentioned in the structure. 
+
+
+===== PDF p171 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+STRUCTURE GUIDANCE
+167
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+SAMPLE STRUCTURE
+Support Root cause analysis utilizing 5 Why analysis
+What is the problem? Who is the problem? What has impact? What are the levers?
+Product
+Customer
+Production
+Supply Chain
+Other
+Product-group
+Part-numbers
+Special products
+Who is the customer? 
+OEM? Tier? 
+How does the order 
+pattern behave?
+Do customers send an 
+accurate Forecast?
+Shifts/ week
+Process Availability?
+Machines? OEE?
+Personal Availability?
+Qualification/ Training
+Supplier issue?
+Internal/ external
+Multi Sourcing?
+Make or Buy?
+External influences? 
+Alignment within 
+organization  (Sales –
+Operations)
+
+
+===== PDF p172 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+BRAINSTORMING QUESTION
+168
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+SAMPLE ANSWERS
+You have identified possible root-cause to the problem. What would you do to tackle those?
+Product
+Customer
+Production
+Supply Chain
+• Substitutes?
+• Buy from 
+competitor
+• Reduce 
+variability
+• Segmentation
+• Prioritization
+• Forecast?
+• Sales agreements?
+• Push orders to 
+later date
+• Cancel orders?
+• Increase shifts
+• Increase headcount
+• Increase machines build, 
+buy or transform
+• Find external manufacturer 
+with capabilities
+• Increase productivity (OEE)
+• Improve production 
+planning and focus backlog
+• Double sourcing
+• Make or buy
+• Backwards integration
+• Bottle-neck management
+• Closer communication with supplier
+• Improved forecast
+• Install additional capacity
+• Send team to optimize at supplier 
+(operational excellence)
+
+
+===== PDF p173 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+QUANTITATIVE ANALYSIS
+169
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+SOLUTION
+Interviewee will be given Exhibit 1 to perform a capacity analysis and come up solution proposal for internal production and SCM improvements. 
+Before giving the Exhibit, test interviewee if he understood what he should be looking for: Capacity, Demand, Backlog, possible bottlenecks
+Regular
+Small
+Big
+Specialized
+Current Output per week [utilization]
+3,456,000
+1,404,000
+864,000
+918,000
+Run rate backlog [additional backlog/week]
+0
+100-400k
+550k
+500k
+Parts per week [current OEE]
+4,608,000
+1,404,000
+864,000
+1,530,000
+Max parts per week
+5,760,000
+2,160,000
+1,080,000
+1,800,000
+Min OEE to meet target [%]
+56%
+83%
+93%
+78%
+New Output/ week [parts]
+3,240,000
+1,836,000
+1,036,800
+1,530,000
+Saturday Work
+367,200
+207,360
+306,000
+Number of operators per shift
+4
+2
+2
+2
+Cost per operator
+50,000
+50,000
+50,000
+50,000
+Cost of new machine
+250,000
+250,000
+350,000
+400,000
+Cost of rebuild
+100,000
+100,000
+125,000
+175,000
+Regular: no problem
+Small: increase OEE to meet target
+Q: What is the root cause for the low OEE 
+need to investigate further.
+Short run solution: Hire additional operator 
+increases OEE by 20% (given by interviewer)
+Big: Not enough machine capacity. Purchase 
+new machine or if possible rebuild 
+machine(s) to Big Sizes.
+Specialized: The issue is not the machine-
+park but the low utilization. Why: share on 
+request that there is the lack of semi-parts. 
+One of the suppliers is not providing enough 
+pre-positioners and springs and he has a 
+bottleneck in his production.
+
+
+===== PDF p174 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+Machine Park Overview – Exhibit 1
+170
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+Regular
+Small
+Big
+Specialized
+Parts/min
+50
+75
+25
+50
+OEE (Overall Equipment Effectiveness)
+80%
+65%
+80%
+85%
+Utilization
+75%
+100%
+100%
+60%
+Shift-system
+8h/shift | 3 shifts/day |5 days/week
+Demand per week [parts]
+3-3.5M
+1.5-1.8M
+1M
+1.4M
+Backlog [parts]
+0
+500k
+1M
+1.2M
+Regular
+Small
+Big
+Specialized
+
+
+===== PDF p175 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+JoinTech
+RECOMMENDATION QUESTION
+171
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+SAMPLE RECOMMENDATION
+The managing director has to report to the VP Ops this afternoon and would like to take your recommendation to that meeting.
+You have 3 minutes to give him and overview and your recommendation.
+•
+Thank you for trusting me to solve this operational challenge to resolve the backlog situation.
+•
+I was able to identify 3 main reasons that cause the backlog situation:
+•
+For the small clamps the OEE is below the benchmark
+•
+For the big clamps there is not enough machine capacity
+•
+For the specialized clamps we are missing semi-parts from our external supplier
+•
+As a temporary countermeasure I recommend to hire and additional operator which will reduce downtimes of the small machine and 
+increase OEE by 20%. We can then fulfil the weekly demand. Current Backlog will be reduce within XY weeks.
+•
+For the big clamps I suggest to purchase a machine or rebuild one of the regular ones. This would cost 350k or 125k respectively. In 
+general it is possible but we would have to detail this with the process engineering and machine building as well as purchasing 
+department. It would also take roughly 2 months to complete this project.
+•
+For the specialized clamps we are facing a supply chain issue. Installing additional capacity at the supplier is one idea. In order to better 
+assess the scenario I would like to visit the supplier to understand his production, part allocation and challenges. Building up a second 
+source or insourcing part of his production could be possible solutions that I would like to explore as a next step.
+•
+To reduce the current backlog I suggest to install special shifts on Saturdays. Once OEE/ capacity/ utilization have been increased the 
+backlog can be reduced by at least 360k, 210k and 310k for small, big and specialized clamps per week.

@@ -1,0 +1,28 @@
+{
+  "case_id": "Columbia_2011_09_packaging-operations-integration",
+  "school": "Columbia",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2011.pdf",
+  "idx": 9,
+  "case_name": "Packaging Operations Integration",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Packaging / Manufacturing",
+  "difficulty": null,
+  "pdf_page_start": 65,
+  "pdf_page_end": 73,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    65,
+    69,
+    71,
+    72
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p069.png",
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2011\\09_packaging-operations-integration"
+}

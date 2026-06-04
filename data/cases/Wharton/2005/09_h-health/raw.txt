@@ -1,0 +1,153 @@
+===== PDF p42 =====
+Case 9: H HEALTH 
+McKinsey, 1st Round 
+ 
+The Problem 
+ 
+A US health care provider suffered a profit decline last year.  You are hired to solve this 
+problem. 
+ 
+Information Gathering 
+ 
+Read this information well before you give the case.  Basic information should be given 
+as the candidate asks for it, but the rest of the interview is very directive.  The candidate 
+is supposed to follow the direction and do the math confidently.  The interview style is 
+pleasant and helpful. 
+ 
+Background Information  
+• The key revenues come from commissions. 
+• H Health signs contracts with patients and provides medical services. 
+• H Health has 300 contracted physicians. 
+• A “referral” is necessary if certain medical treatment/service can’t be provided by 
+H Health’s contracted physicians. 
+ 
+Question 1: How would you approach this problem? 
+Answer:   
+Profit = Revenue – Cost 
+      
+= No. of patients * (unit price – variable cost) – fixed cost 
+ 
+The candidate can be creative to come up with possible reasons for revenue decrease and 
+cost increase.  Some examples – 
+ 
+Revenue declined: 
+- 
+number of patients dropped 
+- 
+unit price dropped 
+- 
+competition grew their market share 
+Cost increased:  
+- 
+VC: number of visits increased (e.g. major flu), per person cost increased (e.g. cost of 
+the medicine), referral cost increased 
+- 
+FC: physician’s salary increased 
+ 
+Question 2: Competitor analysis – why is our referral cost higher than the 
+competitor? 
+ 
+ 
+ 
+H Health 
+ 
+ 
+ 
+Sunshine 
+Number of patients 300,000 
+ 
+ 
+ 
+500,000 
+Referral cost  
+$20 (per member, per month) 
+$15 (same) 
+ 
+
+
+===== PDF p43 =====
+Answer: (again, the candidate is encouraged to be creative) 
+- 
+Economies of scale 
+- 
+Lower administration costs 
+- 
+More contracted physicians 
+ 
+Question 3: Assuming none of the contracted physicians have the specialty of 
+cardiology, estimate the number of referrals per year for cardiology based on the 
+following information: 
+ 
+Number of patients: 300,000 
+20% of the total population is > 65 years old, and 30% of them need treatment 
+For the rest of the population, there’s a 10% chance for them to require the 
+treatment 
+The treatment usually requires 5 visits to the doctor per year. 
+ 
+Answer: 
+>65 years = 300,000*0.2*0.3 = 18,000 
+<65 years = 300,000*0.8*0.1 = 24,000 
+ 42,000*5 times/year = 210,000 (times/year) 
+ 
+Question 4: The actual number of referrals is 300,000.  Why is it higher than the 
+estimate? 
+Answer: 
+- 
+H Health’s clients do not have the same weight between different ages as the total 
+population 
+- 
+They underestimated the number of visits per year 
+- 
+More demanding patients ask to be referred even if they don’t have such issues 
+- 
+Physicians refer non-cardiology patients because they don’t want to take the risk and 
+are not motivated to provide services even if they are capable 
+ 
+Question 5: How much does the number of referrals have to decrease in order to 
+justify following incentive plan to encourage contracted physicians to be more 
+responsible? 
+ 
+Incentive plan:   
+Bonus: $100,000 / year to top 10 physicians with the lowest referral rate 
+Training: $1,000,000 
+ 
+Referral cost: $200 per referral 
+Current no. of referral: 300,000 
+ 
+Answer: 
+Total cost = 2,000,000 
+2,000,000/200 = 10,000 
+ 
+
+
+===== PDF p44 =====
+Question 6: If the incentive plan can reduce the number of referrals by 5% for year 
+one and 2% for year two, what is the total saving? 
+Answer: 
+Y1 = 300,000*5% = 15,000 
+Y2 = (300,000 – 15,000)*2% = 5,700 
+Total saving = (15,000 + 5,700)*$200 - $2,000,000*2 = $140,000 
+ 
+Question 7: Apart from Cardiology, how can H Health improve the number of 
+referrals in general? 
+ 
+Answer: 
+- 
+Increase training to improve physician’s capability 
+- 
+Extend the incentive program to other departments 
+- 
+Improve the quality of relationship with the patients and build up the trust 
+- 
+Improve/remove physicians who are outliers with extremely high referral rate 
+- 
+Increase the no. of contracted physicians 
+- 
+Partner with other health care provider to lower referral cost 
+ 
+Conclusion 
+According to the example of cardiology, H Health should improve its profitability by 
+lowering the referral cost.  H Health can  
+• reduce the number of referrals, and/or 
+• reduce the cost per referral 
+ 

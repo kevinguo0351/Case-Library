@@ -1,0 +1,142 @@
+===== PDF p63 =====
+18.) Industrial Tools Manufacturer (Bain, Round 1) 
+Stem: Our client is an industrial tools conglomerate. One of their businesses manufactures two 
+lines of products: nail and staple guns, and the fasteners used by the guns. Revenues are $IB. 
+The Fastener product line accounts for 70% of revenues and the Tools product line accounts for 
+30% of revenues. All products are currently manufactured and sold in the U.S. Sales come 
+through three channels: 1) Construction supply stores; 2) Direct-to-Manufacturer sales; 3) Home 
+centers (e.g., Home Depot). The company has seen profit margins fall from 10% to 5% and they 
+are still declining. Our client, the corporate parent company, would like us to figure out what the 
+maximum potential profit is. 
+Structure 
+First review the market to gain understanding of the landscape. Then jump into the company's 
+profit tree. Then step back to think about the company's place within the conglomerate's 
+portfolio and any potential implications. 
+The Market 
+What do we know about the client's competitive position? 
+(~ 
+Market Share: In tools, the client owns ~4Q%JllarkeLshaLe and is lLQ!sl.i!!g~~!.~~~~E~!_~liy~ to 
+)(?JL 
+iRQl]str~_~J:~p~). Client is the marke~ lead~r and has a ?reat brand reputation. In '&. . .VI 
+fasteners, the chent owns 20% mark~t share and IS seeIng that \lechne by about 2 percentage -:'!C:.vJ \ t 
+,~ 
+-
+~-
+-
+._.-
+-
+-
+-
+----
+"<-.....,. 
+~ .. ~'~----~--.-~~~~ 
+points/yr, while the m.:a£ket:grows at about ~%. The client is one of two top players who 
+c)~ 
+alternate in the market lead. 
+Candidate can then infer that the tool market size: 
+$IB (company revenue) x 300/0 = $300m 
+(Total Tool Market Size) x 40% (client's toollnarket share) = $300m 
+Total Tool Market Size = $300mJOA = $750m 
+.' .and the fastener market size: 
+$IB (company revenue) x 70% = $700m 
+(Total Fastener Market Size) x 20% (client's fastener market share) = $700m 
+Total Fastener Market Size = $700m/O.2 = $3.5b 
+Additionally, candidate can note that the client' s performance in the tool business is in line with 
+the market, but it seems like there s something happening on the fastener side to cause the client 
+to lose market share. What's causing this? 
+~ .... 
+~ Management 
+1111111111 
+~onsulting 
+~~:;'I~.~ Club 
+2010-2011 15t Year Case Book 
+109 
+
+
+===== PDF p64 =====
+Have candidate brainstorm different possibilities (price competition, technological 
+improvements, competition should all be touched on). Interviewer reveals that generic fastener 
+guns are gaining share from the client. 
+Candidate can then infer that generics are priced lower than fasteners, interviewer confirms that 
+generics are 25% cheaper than client's. This is largely a commodity market so the lower price is 
+effective at grabbing share from the client's known brand. 
+The Client's Profit Equation 
+Interviewer can suggest that we just look at fasteners since it seems like nothing much is 
+happening with the tools side. We know fastener revenue is $700M. 
+Next let's look at the cost side of the equation. What do we know about fixed costs? The plant 
+in the U.S. is very expensive and generates a lot of overhead. Our total manufacturing cost for 
+fasteners is 800/0 of revenues. Candidate calculates 80% of $700M is $560M. 
+Interviewer asks: What options might we have for lowering that cost? Stops candidate once off-
+shoring has been suggested. Notes that generic competitors' operations are in Asia. Candidate 
+suggests we could examine moving our operations to Asia. 
+Cost Analysis 
+Interviewer says moving operations to China is an available option, how we would think about 
+the cost savings? Interviewer says not to worry about fixed/startup costs. Candidate identifies 
+cost areas, ultimately being categorized as 1) Materials; 2) Labor; 3) Freight; 4) Overhead. 
+Interviewer reads following cost data: 
+Cost Components 
+U.S. 
+Materials -
+50% of cost 
+Labor 
+20% of cost 
+Freight 
+10% of cost 
+Overhead 
+20% of cost 
+Candidate runs calculations, determines 
+Cost Components 
+Materials 
+Labor 
+Freight 
+Overhead 
+-...-... Management 
+!!!!!!!ill Consulting 
+~~;~I~,~~ Club 
+U.S. 
+280M 
+112M 
+56M 
+112M 
+2010-2011 1
+st Year Case Book 
+China 
+50% of U.S. cost 
+90% cheaper than U.S. 
+3x price of U.S. 
+Same as U.S. 
+China 
+140M 
+-10M 
+168M 
+112M 
+110 
+
+
+===== PDF p65 =====
+I Total 
+/S60M 
+/430M 
+Candidate concludes that China option would save $130M per year. Candidate should calculate 
+change in profit margin: 
+We know that profits today n1ust be $50M (since $50M is 5% of $lB). Assuming all the 
+calculated cost savings will go right to the bottom line, that means profits will now be $180M. 
+Therefore if revenues remain flat at $lB, there will be an increase in the profit margin from 
+$50M/$lB (5%) to $180M/$lB (18%) 
+Other Considerations 
+Interviewer asks candidate what other considerations come into play. Candidate suggests 
+revisiting original structure to think about portfolio in1pact. Are there synergies to be realized or 
+lost by this move to China, vis-a-vis conglomerate s other portfolio companies? Looking 
+elsewhere, the move overseas puts a higher weight on freight costs, meaning that the company is 
+more vulnerable to jumps in oil prices. Political factors also weigh in-this market may be 
+especially sensitive to the idea of using American labor so the company's brand image could be 
+hurt by moving overseas. 
+Final Recommendation 
+Relocate manufacturing operations to China. However, other factors (both market-related and 
+logistical) should be carefully considered. 
+- ~ 
+Management-
+1111111111 Consulting 
+~~;~I~E~~ Club 
+2010-2011 1st Year Case Book 
+111 

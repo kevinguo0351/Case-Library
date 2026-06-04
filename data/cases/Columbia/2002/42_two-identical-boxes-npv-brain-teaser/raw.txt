@@ -1,0 +1,112 @@
+===== PDF p120 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+116 
+Please do not duplicate, copy, print or photocopy 
+ 
+ 
+There are two rooms: The Switch Room and the Bulb Room.  In the Switch Room are three 
+switches (1, 2, 3), all the switches are marked On and Off, and are originally in Off position.  In 
+the Bulb Room there are three light bulbs (A, B, C).  You have to match the switches that turn on 
+each light bulb.  To do it, you start first in the Switch Room and do what ever you want with the 
+three switches.  Then you step into the Bulb Room and without going back to the Switch Room 
+you have to figure out which switch controls which light bulb. 
+ 
+The problem is that there are three unknowns and only two equations.  You need extra input.  
+The solution is to turn on two lights, and turn one of them off after some time (let’s say three 
+minutes), and leave the third switch off, then you walk into the Bulb Room.  There will be one 
+light on which is controlled by the switch you left on.  There will be two light bulbs off, but one 
+of them will be warm (the extra input!), which is controlled by the switch left on for three 
+minutes.  The last light bulb, which will be cold, is controlled by the switch that you always left 
+off.  
+ 
+ 
+ 
+You are in a room with two identical closed boxes.  The boxes have identical tags that read 
+“NPV of the contents of this box is one million dollars.”  What questions would you like to ask 
+before you select one? 
+ 
+· 
+What is the discount rate of each calculation? 
+· 
+What is the time frame (and period length) of the two calculations? 
+· 
+What is the range of possible outcomes of the two packages? 
+· 
+What is the liquidity of each of the two packages? 
+ 
+ 
+ 
+Why are manholes round? 
+ 
+· 
+So that the covers can’t fall in the hole under any circumstances. 
+· 
+So that the covers can be moved by rolling and no lifting is required. 
+· 
+To provide the greatest opening area for the cost- and weight-limited material used. 
+
+
+===== PDF p121 =====
+Game show Cases 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+117 
+ 
+Why are soft drink beverage cans cylindrical? 
+ 
+· 
+So that consumers won’t cut their hands on the sharp edges.  The shape is more comfortable 
+and ergonomical.  To maximize the ratio of the container’s volume to its surface area short of 
+using a sphere.  This delivers more liquid per ounce of aluminum (thus, more per $). 
+· 
+A sphere would be impractical because it would not stack or stand up after it was opened.  
+Spheres would also require more air space between cans if they were in a box, vending 
+machine or truck - a fact that could increase shipping and packaging costs. 
+· 
+So that they will roll predictably and in control on assembly lines and vending machines. 
+· 
+Because this container shape requires the least machining, joining, and finishing steps in 
+manufacturing and is therefore the least expensive to manufacture. 
+· 
+Circular structures distribute internal pressure.  Further, structures with comers could 
+develop fractures due to high stress at the edges. 
+ 
+ 
+ 
+Tell me all ways, practical or not, which you could use to determine whether a light goes off in 
+the refrigerator when you close the door? 
+ 
+· 
+With the door open, press the button that makes the light go on and off. 
+· 
+Drill a hole in the door so that you can see inside when the door is closed. 
+· 
+Find out the mean time to failure for these bulbs, close the door, and open it after the 
+expiration time to see if the light is burned out. 
+· 
+Go to the production line and perform a statistically valid test (appropriate number of 
+samples) to determine whether the light always goes off (by pressing the button, etc.). 
+· 
+Hook up and extremely sensitive electrical measuring device to the power source to see if the 
+energy level drops when the door closes. 
+· 
+Hook wires to the socket and perform a similar test when the door is closed. 
+· 
+Place a sensitive thermometer (chilled to the refrigerator’s temperature before testing) near 
+the light bulb and close the door. 
+· 
+Place some light sensitive material in the refrigerator to see if it is activated. 
+· 
+Pick-up the phone, dial the manufacturer and ask if the light goes off when you close the 
+door. 
+· 
+“If no one is in there to see the light go off, does it matter?” 

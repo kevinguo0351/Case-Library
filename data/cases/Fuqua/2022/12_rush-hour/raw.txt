@@ -1,0 +1,264 @@
+===== PDF p157 =====
+Rush Hour
+142
+Industry:                  Transportation
+Case Type:     
+Market entry
+Led by:            
+Interviewer
+Case Level:   
+Hard
+
+
+===== PDF p158 =====
+Behavioral Questions
+143
+• Tell me about a time you worked with someone with a different perspective/point of 
+view 
+Question 1:
+• Tell me about a time you managed conflict at work
+Question 2:
+
+
+===== PDF p159 =====
+Rush Hour
+144
+• The authorities of the Lagos Nigeria airport have decided to issue 2,500 new taxi 
+permits for $1,000 each. These permits authorize a taxi to service arriving 
+passengers. Your client has taxi fleets in different US cities but does not have a 
+presence in Nigeria nor has serviced an airport in the past. She has asked you to 
+determine if she should buy those new permits. If so, how many should she buy?
+Prompt #1:
+– Company information: Company is a big player in the US market but doesn’t have 
+footprint outside the US
+– Industry/competition information: Lagos Airport services is very competitive. 
+Nigeria is densely populated with and the airport is the major airport in Nigeria 
+due to high traffic
+– Business model – makes revenue off transport services. Company takes a 70% 
+cut on revenue from riders 
+Case Background: (to be given to interviewee)
+
+
+===== PDF p160 =====
+Rush Hour
+145
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional)
+Framework Buckets:
+Strategic logic
+Economics of the 
+decision
+Other 
+considerations
+• Does it match our goals
+- Growth rate of airport services in 
+Lagos
+• Do we have resources and 
+capabilities to win in this market?
+■Do we have the brand power to 
+float airport services in Nigeria?
+■Do we have expertise in 
+geographic expansion?
+■Does our drivers have a good 
+knowledge of airport transport 
+rules or do we have capacity to 
+train drivers?
+■Do we have required expertise 
+or partners in airport operations 
+• Potential profit
+- Potential revenues (R)
+- Potential cost
+• Market
+- Competitive landscape
+- Consumer preference
+- Demand availability
+- Trends
+• Investment
+- Investment required
+- Payback period?
+- Cost of capital
+• Execution/entrybarriers?
+- Regulatory barriers outside 
+permit?
+- Implementation risk
+- Political risks?
+- Currency risk?
+- Macroeconomic risk?
+- Tax considerations
+
+
+===== PDF p161 =====
+Question #1
+• Estimate the daily demand for taxis. Is this demand being met? If not, how many
+more taxis are needed? (Information below should be provided to candidates)
+– Airport handles 42 million passengers yearly. There are 5,500 taxis operating in the 
+airport.
+– On average a taxi takes 60 minutes to drive passenger and return to airport for next 
+pick up.
+– On average 40% of domestic flights passengers and 80% of international flights 
+passengers use taxis.
+– 30% of daily demand occurs between 6:00 a.m. and 10:00 a.m., 40% occurs between 
+6:00 p.m. and 10:00 p.m.
+– Assume each passenger uses one cab and drivers keep 30% of the fare
+– On average each taxi requires $8,000 yearly on maintenance.
+146
+
+
+===== PDF p162 =====
+Interviewer guidance on Question #1
+•
+Assume that passenger 
+volume is equally 
+distributed through the 
+year/week/day.
+•
+Assume that 50% of 
+passengers are from 
+domestic flights and 50% 
+international flights.
+•
+Assume that the client has 
+capacity (meaning he has 
+cars and drivers available 
+in Lagos Nigeria at $0 
+investment cost).
+•
+Assume all taxis can run
+during peak hours and that
+maintenance is a minimal
+time commitment.
+•
+This is a very complex 
+exercise; please work with 
+the candidate through the 
+math
+•
+Estimate number of passengers arriving each day:
+✓
+42million/12 months = 3.5 million passengers monthly
+✓
+3.5 million passengers / 4 weeks = 875,000 passengers weekly
+✓875,000 passengers / 7 days = 125,000 passengers daily
+•
+Estimate passengers that will require taxis:
+✓62,500 domestic passengers x 40% of domestic use taxis = 25,000
+✓
+62,500 international passengers x 80% of international use taxis = 50,000
+✓
+Total passengers demanding taxis daily = 75,000
+✓
+6am – 10am = 22,500 passengers need a taxi (= 75,000 x 30%)
+✓
+6pm – 10pm = 30,000 passengers need a taxi (=75,000 x 40%)
+✓
+Non-peak hours = 22,500 passengers need a taxi (=75,000 x 30%)
+•
+Is the demand being met?
+✓
+From 6 to 10am, each taxi makes 4 trips (average trip takes 60min). If we have 
+5,500 taxis operating, then capacity serves 22,000 passengers. Excess 
+demand=500 passengers. 250 domestic x 40% = 100 passengers + 250 
+international x 80% = 200 passengers for a total of 300 passengers needing a 
+taxi / 4 rides per hour = 125 taxis needed to meet excess demand.
+✓
+From 6 to 10pm, using the same logic capacity meets 22,000 passengers: 5,500 
+taxis operating thus excess demand = 8,000 passengers (need 2,000 taxis).
+✓
+During non-peak hours (16 hours) 22,500 passengers will need a taxi. With 
+5,500 taxis in operation there is capacity to serve 88,000 passengers during 
+that time. In that time period there is excess capacity.
+•
+To service demand not being met in the morning and night periods 2,000 taxis
+are required.
+147
+Guidance:
+Analysis:
+
+
+===== PDF p163 =====
+Question #2
+•
+Estimate possible revenue. An average passenger pays $200 cab fare via regulated 
+rates
+– Demand not being met daily: 500 passengers in the morning
+– + 8,000 passengers in the evening
+– = 8,500 passengers needing service x $200 = $1,700,000 daily revenue
+– Yearly Revenue = $571,200,000
+•
+Now that you have the revenue, what do you think are some cost considerations that 
+our client needs to take for taxi operations?
+– Sample answer:
+•
+Fixed cost: Back-end staff cost; General overheads, Permits, Insurance, tech cost
+•
+Variable cost: Drivers' salary, Gas, Car repairs, Car maintenance etc.
+148
+
+
+===== PDF p164 =====
+Interviewer guidance on Exhibit #1
+•
+Candidates should be encouraged to list cost stream for 
+running the taxi operations
+•
+After initial brainstorming, show candidate the exhibit #1 
+on the next page to compute profit calculation
+•
+Outstanding candidates should recognize that cost 
+is needed to estimate profit. The candidate should list 
+the different cost component associated with 
+transport services. Interviewer should prompt if 
+candidate doesn’t list this
+•
+Cost can be calculated by taking XX% of revenue and 
+plugging absolute values. For Gas Prices, ask candidate to 
+divide revenue uniformly across $ quarters to get to period 
+revenue. Calculate: Profit = Revenue – Cost
+149
+Prompt:
+Analysis:
+
+
+===== PDF p165 =====
+Exhibit #1
+150
+Fixed cost
+Back-end staff cost
+0.5% of revenue
+Insurance
+0.5% of revenue
+General O/H
+1% of revenue
+Driver salary
+30% of revenue
+Permit
+$1000 per taxi
+Variable cost
+Maintenance
+$8000 per car per year
+Gas prices
+As below
+Q1
+10% of period revenue
+Q2
+15% of period revenue
+Q3
+20% of period revenue
+Q4
+25% of period revenue
+Assume revenue is earned linearly over the year
+
+
+===== PDF p166 =====
+Rush Hour
+151
+• Client should buy 2,000 permits based on the potential yearly profit of $270,456,000
+from excess demand at the airport.
+Recommendation 
+• Risk: There is no guarantee that the airport will not allow additional permits in the 
+future which could increase the number of taxis at the airport
+• Risk: Consumers in the Lagos airport may favor local brands hence, boycotting client 
+services
+• Next steps: deeper environmental / market analysis to check consumer behavior, 
+stress testing assumptions used in valuation (data may not be accurate)
+Risks and Next Steps:

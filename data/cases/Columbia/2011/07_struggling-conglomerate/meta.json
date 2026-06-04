@@ -1,0 +1,28 @@
+{
+  "case_id": "Columbia_2011_07_struggling-conglomerate",
+  "school": "Columbia",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2011.pdf",
+  "idx": 7,
+  "case_name": "Struggling Conglomerate",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Diversified / Conglomerate",
+  "difficulty": null,
+  "pdf_page_start": 47,
+  "pdf_page_end": 55,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    51,
+    52,
+    54,
+    55
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p051.png",
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p054.png",
+    "exhibits/exhibit_p055.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2011\\07_struggling-conglomerate"
+}

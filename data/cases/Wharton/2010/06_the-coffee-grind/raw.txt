@@ -1,0 +1,1047 @@
+===== PDF p78 =====
+Case 6: The Coffee Grind
+Introduction
+Introduction
+P
+bl
+t t
+t
+ti
+74
+Problem statement narrative
+The CEO of a major client has requested a short-term study examining a small part of the client’s product portfolio. The company has a 
+small division that manufactures automatic drip coffeemakers for the US and Canadian market. The division has been steadily producing 
+coffeemakers for 20 years, and has made few changes to the business over its history. The client has always enjoyed healthy margins for 
+the coffeemaker division, and annual volumes have been steady. Recently, however, the coffeemaker division's profits have been declining. 
+Th CEO
+d
+d
+h
+i
+i
+Wh
+b
+d
+i
+i h
+ld
+l
+fi
+h CEO’
+i
+?
+The CEO wants to understand what is going on. What broader insights would you want to explore first to answer the CEO’s question?
+Overview for the interviewer
+Although this looks and feels like a profitability case (which it
+Information to be provided (if asked)
+Regarding changes in fixed or variable costs the production lines
+Although this looks and feels like a profitability case (which it 
+ultimately is), the point here is to push the interviewee to develop 
+a framework beyond the standard profitability setup. 
+Additionally, the case is meant to train the interviewee to listen to 
+the question being poised: the interviewer is asking for “broader” 
+insights, not basic profitability analysis.
+Regarding changes in fixed or variable costs: the production lines 
+and facilities are mature, the business has been steady, overall 
+production is rather efficient given the advantages of a long-term 
+steady state. No major changes to fixed or variable cost inputs 
+have occurred recently.
+g
+,
+p
+y
+y
+If the interviewee tries to go down the typical profit = price x 
+volume – fixed + variable costs, push him or her a little harder to 
+think bigger picture. This case was done at the partner level, and 
+thus involves a little more ambiguity.
+Production: All production occurs at a facility in Michigan. The 
+plant is operating at about 90-95% capacity.
+Volume: Relatively constant.
+Product Mix: The division produces 4-cup, 10-cup, and 12-cup 
+coffeemakers. The overall mix between these categories has been 
+fairly consistent.
+
+
+===== PDF p79 =====
+Case 6: The Coffee Grind
+Potential Frameworks
+Potential Frameworks
+C
+did t
+ti
+i
+75
+Market
+How are competitors performing? 
+Have new competitors entered?
+Candidate may propose action in:
+Customer
+Are customer preferences changing?
+Has product mix changed?
+Channel
+How do we reach our customers?
+Has distribution changed? 
+p
+Have new substitutes emerged?
+Are we missing new technological 
+developments?
+Where are our prices relative to our 
+competitors? 
+p
+g
+Are customers more or less price sensitive 
+than before?
+Have customers become more 
+concentrated?
+Are customers shopping in new channels?
+g
+Are retail outlets changing?
+How are sales prices established?
+Are channels consolidating?
+Market
+There have been some new entrants, 
+Customer
+Volumes by coffeemaker size have been 
+Channel
+Channel is the real issue. When the 
+primarily for very low priced 
+coffeemakers. The client’s coffeemakers 
+are mid-price range and there are 
+several other competitors at this price 
+point. New technology and substitutes are 
+minimal Try to not let the candidate go
+relatively steady, indicating that customer 
+preferences have not undergone dramatic 
+changes. Again, try not to let the 
+candidate go too far down this path.
+candidate reaches this area, present them 
+with exhibit 1. 
+minimal.  Try to not let the candidate go 
+too far down this area, the real issues are 
+in distribution.
+
+
+===== PDF p80 =====
+Case 6: The Coffee Grind
+Exhibit 1
+Exhibit 1
+N
+b
+f
+ff
+k
+S ld (i th
+d
+f
+it ) b R t il
+C t
+76
+Number of coffeemakers Sold (in thousands of units) by Retailer Category
+2007
+2006
+2005
+2004
+2003
+N ti
+l Ch i
+4
+10
+12
+T t l
+4
+10
+12
+T t l
+4
+10
+12
+T t l
+T t l
+T t l
+T t l
+T t l
+T t l
+2010
+2009
+2008
+National Chains
+4‐cup 10‐cup 12‐cup
+Total
+4‐cup 10‐cup 12‐cup
+Total
+4‐cup 10‐cup 12‐cup Total
+Total
+Total
+Total
+Total
+Total
+Best Buy
+10
+      
+12
+      
+12
+      
+34
+       
+9
+         
+12
+      
+12
+      
+33
+        
+9
+        
+12
+      
+12
+      
+33
+       
+33
+       
+32
+       
+32
+       
+31
+       
+30
+       
+Target
+29
+      
+38
+      
+17
+      
+85
+       
+28
+      
+38
+      
+17
+      
+83
+        
+28
+      
+38
+      
+17
+      
+84
+       
+84
+       
+82
+       
+80
+       
+78
+       
+79
+       
+Walgreens
+1
+         
+1
+         
+1
+         
+4
+          
+1
+         
+2
+         
+2
+         
+4
+           
+1
+        
+2
+        
+2
+        
+5
+          
+5
+          
+5
+          
+5
+          
+5
+          
+5
+          
+Sears
+1
+         
+6
+         
+7
+         
+14
+       
+1
+         
+6
+         
+7
+         
+14
+        
+1
+        
+6
+        
+7
+        
+14
+       
+15
+       
+15
+       
+16
+       
+18
+       
+36
+       
+Office Max
+‐
+     
+6
+         
+10
+      
+15
+       
+‐
+     
+6
+         
+10
+      
+16
+        
+‐
+    
+6
+        
+10
+      
+16
+       
+17
+       
+17
+       
+18
+       
+19
+       
+20
+       
+Kohl's
+1
+         
+3
+         
+2
+         
+6
+          
+1
+         
+3
+         
+2
+         
+6
+           
+1
+        
+3
+        
+2
+        
+7
+          
+7
+          
+7
+          
+7
+          
+7
+          
+8
+          
+Bed, Bath, & Beyond
+8
+        
+8
+       
+7
+       
+24
+     
+9
+       
+9
+       
+8
+       
+25
+      
+10
+      
+9
+      
+8
+      
+27
+     
+29
+     
+30
+     
+32
+     
+33
+     
+34
+     
+Costco
+15
+      
+16
+      
+19
+      
+50
+       
+17
+      
+16
+      
+19
+      
+52
+        
+17
+      
+17
+      
+21
+      
+56
+       
+59
+       
+62
+       
+67
+       
+69
+       
+25
+       
+BJ's
+12
+      
+14
+      
+47
+      
+73
+       
+11
+      
+13
+      
+42
+      
+66
+        
+10
+      
+12
+      
+38
+      
+60
+       
+57
+       
+52
+       
+48
+       
+44
+       
+20
+       
+Walmart
+41
+      
+76
+      
+71
+      
+188
+     
+34
+      
+65
+      
+68
+      
+167
+      
+28
+      
+54
+      
+60
+      
+142
+     
+125
+     
+110
+     
+93
+       
+83
+       
+99
+       
+Total National
+119
+    
+179
+    
+194
+    
+492
+     
+111
+    
+168
+    
+187
+    
+466
+      
+107
+    
+158
+    
+178
+    
+443
+     
+429
+     
+414
+     
+398
+     
+388
+     
+357
+     
+   Memo: Percent of  Sales
+15%
+23%
+25%
+63%
+15%
+22%
+25%
+61%
+14%
+20%
+23%
+57%
+52%
+52%
+50%
+46%
+46%
+Non‐National Retailers
+4‐cup 10‐cup 12‐cup
+Total
+4‐cup 10‐cup 12‐cup
+Total
+4‐cup 10‐cup 12‐cup Total
+Total
+Total
+Total
+Total
+Total
+Grocery
+19
+      
+25
+      
+36
+      
+80
+       
+23
+      
+30
+      
+37
+      
+90
+        
+26
+      
+32
+      
+39
+      
+97
+       
+116
+     
+109
+     
+110
+     
+120
+     
+104
+     
+Medium Retailers
+36
+      
+24
+      
+25
+      
+85
+       
+45
+      
+25
+      
+20
+      
+90
+        
+45
+      
+31
+      
+33
+      
+108
+     
+101
+     
+109
+     
+120
+     
+114
+     
+102
+     
+Smaller Retailers
+38
+      
+21
+      
+15
+      
+74
+       
+10
+      
+24
+      
+19
+      
+53
+        
+16
+      
+25
+      
+20
+      
+61
+       
+100
+     
+91
+       
+95
+       
+112
+     
+106
+     
+Other
+10
+      
+20
+      
+21
+      
+51
+       
+12
+      
+24
+      
+25
+      
+61
+        
+12
+      
+29
+      
+29
+      
+70
+       
+76
+       
+70
+       
+75
+       
+104
+     
+101
+     
+Total Other
+103
+    
+90
+      
+97
+      
+290
+     
+89
+      
+103
+    
+101
+    
+293
+      
+99
+      
+117
+    
+120
+    
+336
+     
+393
+     
+379
+     
+400
+     
+450
+     
+413
+     
+M
+P
+t f S l
+13%
+12%
+12%
+37%
+12%
+14%
+13%
+39%
+13%
+15%
+15%
+43%
+48%
+48%
+50%
+54%
+54%
+   Memo: Percent of Sales
+13%
+12%
+12%
+37%
+12%
+14%
+13%
+39%
+13%
+15%
+15%
+43%
+48%
+48%
+50%
+54%
+54%
+Total Sales
+222
+    
+269
+    
+291
+    
+782
+     
+200
+    
+272
+    
+288
+    
+760
+      
+206
+    
+275
+    
+298
+    
+779
+     
+822
+     
+793
+     
+798
+     
+838
+     
+770
+     
+   Memo: Percent of Sales
+28%
+34%
+37%
+100%
+26%
+36%
+38%
+100%
+26%
+35%
+38%
+100%
+100%
+100%
+100%
+100%
+100%
+
+
+===== PDF p81 =====
+Case 6: The Coffee Grind
+Questions for Exhibit 1
+Questions for Exhibit 1
+Q
+ti
+f
+E hibit 1
+77
+Questions for Exhibit 1
+Opening: We were able to get some quick shelf data on coffeemaker sales by channel.
+Question 1: What conclusions can you make from this data?
+-
+The candidate should identify that National chains increasingly make up a greater share of the client’s sales
+B
+i
+if h
+h
+il
+W l M
+b
+25% f h i
+ff
+k
+-
+Bonus points if they note that one retailer, Wal-Mart, buys 25% of their coffeemakers
+Question 2: What are implications for this shift towards National retailers?
+-
+Larger chains have more bargaining power, and are putting more pressure on the division to provide discounts on its products based 
+on volume, which is squeezing the company’s margins.
+Math Test
+What percent of the market do you think the client has?
+-
+The candidate needs to start by estimating the number of coffeemakers sold in the US and Canada annually: 
+-
+Any logical approach is acceptable. A recommended approach is to start with the population of households in the US and 
+Canada (there are approximately 100k households in the US, 10k in Canada), estimate the percent that have electric 
+coffeemakers (it’s about 65%), and that coffeemakers are replaced about every 5-10 years (can use 7 as an average). Give 
+bonus points if candidate considers other places with coffeemakers (offices, hotels, etc..).
+-
+In the end, the candidate should have an estimate in the range of 10 – 15 million coffeemakers sold annually in the US and 
+Canada.
+-
+Therefore, the client has about a 5-8% market share, and is a relatively small player, so the company has little bargaining 
+leverage with retailers.
+
+
+===== PDF p82 =====
+Case 6: The Coffee Grind
+Follow up Questions
+Follow-up Questions
+F ll
+Q
+ti
+78
+Follow-up Questions
+Question: During a brief meeting with the CEO, you share your early insight that national retailers are squeezing the company’s margins. 
+He states that the dishwashers and cooking appliances division recently launched a website to sell its products. He wants to know if a 
+website would also work for coffeemakers. Do you think it will work?
+A
+A
+h
+i
+bl if h
+did
+l
+i
+ll
+d
+hi
+h
+Answer: Any answer here is acceptable if the candidate can create a logically structured argument to support his or her answer, 
+although the candidate should at a minimum identify a couple of risks. Additionally, the candidate should want to know more about the 
+possible profitability of a website.
+Possible reasons for a website (sample): 
+Profitability: allows client to capture the margin that presently goes to the retailer
+Profitability: allows client to capture the margin that presently goes to the retailer
+Channel: reduces client’s dependency on national retailers, could add additional volume
+Company: the company already has an existing website for dishwashers and cooking appliances, so capabilities may exist
+Possible reasons against a website (sample):
+Profitability: need to understand economics (how expensive are the fixed costs?)
+Customer: coffeemakers are more of an immediate purchase decision than dishwashers or ovens, customers may not want to wait for 
+shipping times for online purchases
+Competition: may face increased competition online from websites such as Amazon.com 
+Channel: customers may already be purchasing our coffeemakers from our retailers on their websites, risk of retailers retaliating by 
+pulling our products from their shelves
+C
+th
+ff
+k
+di i i
+t h
+th
+ti
+kill
+d d f
+li
+k ti
+l
+hi
+i
+t
+Company: the coffeemaker division may not have the expertise or skills needed for online marketing, sales, shipping, etc..
+
+
+===== PDF p83 =====
+Case 6: The Coffee Grind
+Math Question #2
+M th Q
+ti
+#2
+Math Question #2
+79
+Math Question #2
+Question: Given the following information we’ve collected, what percent of the company’s sales would the client need to achieve for the
+website to break-even?
+The interviewer should tell the candidate the following:
+A
+l
+b i
+$500k
+-
+Annual website costs: $500k
+-
+Additional marketing costs: $300k
+-
+Average retail price of coffee maker: $60
+-
+An additional $4 per coffee maker will be required for handling sales through the website
+-
+The customer pays for the cost of the shipping
+The interviewer should only provide the following when asked:
+-
+The margin on the coffee makers is 40% 
+Answer
+With a margin of 40%, the cost of producing the coffee maker is $36 ( 40% = ($60 – COGS)/$60)
+Therefore the profit per coffee maker is $24 before the $4 extra handling cost, and $20 after the extra cost is included.
+The total cost of the website is $800k
+Break-even volume = $800,000/$20 = 40,000 coffee makers
+The client sells approximately 800k coffee makers annually, so about 5% of the clients volume
+
+
+===== PDF p84 =====
+Case 6: The Coffee Grind
+Conclusion and Wrap up
+Conclusion and Wrap-up
+C
+l i
+80
+Conclusion
+Question: The CEO really appreciates all the work you’ve done so far on identifying the issue with national retailers squeezing margins
+and the breakeven analysis on the website. He would also like your insight on other possible ideas. What other solutions might you 
+suggest?
+Answer:
+Anything here is acceptable as long as its reasonable; the idea is to push the candidate’s creativity. After the candidate has provided a 
+few options, continue to ask “what else” until the candidate cannot produce any more ideas (McKinsey often uses this type of questioning 
+during its first and second round interviews). 
+Sample answers:
+Sample answers:
+-
+Investigate selling the division to another coffeemaker
+-
+Move production overseas to increase margins
+-
+Investigate purchasing other coffeemaker manufacturers to gain leverage with retailers
+-
+Consider exclusive retailing rights to one distributor
+-
+Increase marketing efforts to create a pull-strategy from customers to increase leverage with suppliers
+-
+Seek other channels (Starbucks, hotel chains, etc..)
+-
+Consider international expansion
+-
+Increase focus and attention on small to medium retailers
+-
+Consider raising prices to offset margin loss (but with a further investigation of customer price sensitivity)
+Fi
+l
+ti
+A k th
+did t t
+th
+Final question: Ask the candidate to wrap up the case.
+Recommendation: The candidate should either recommend the website or another solution identified above.
+Risks: In his or her conclusion, the candidate should mention risks such as competition from other websites, retaliation by retailers, risk of 
+moving production overseas, etc..

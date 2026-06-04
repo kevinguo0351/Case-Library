@@ -1,0 +1,132 @@
+===== PDF p172 =====
+Casebook | 2019-20 Edition 
+168 
+ 
+ 
+41. Quentin Tarantino (McKinsey Mock, TMT, New Product, 
+Quantitative) 
+ 
+Situation: 
+ Your client received a call last night and was given the opportunity to make a bid for the rights to 
+Quentin Tarantino’s next movie. She has 24 hours to make a bid. How much should your client bid? 
+ 
+Do not disclose the following unless asked. 
+ 
+• 
+Objective: 40% return threshold 
+• 
+Description of film: low budget film, no famous actors 
+ 
+Question 1: 
+Interviewer: What do you think drives box office success? 
+ 
+Candidate should brainstorm a list. Pause for a minute and come up with a few high level buckets, then 
+go into subcategories (organized brainstorming instead of a “data dump”; try to be MECE). Possible 
+answers include but not limited to: 
+ 
+• 
+Actor: famous actor 
+• 
+Type of movie: special effects / 3D 
+• 
+Studio: marketing, distribution 
+• 
+Timing: seasonal effects, other movies to be released at same time frame 
+ 
+Many times it is good to have 1-2 out of the box brainstorms to show you are able to think from a 
+nontraditional perspective. For example: positive could be special partnerships with advertisers that can 
+further bring in publicity, negative could be if the movie is on a controversial topic or has explicit content. 
+ 
+Question 2: 
+Interviewer: How would you estimate film studio profits? 
+Candidate: By looking at the average of his past movie releases. 
+Interviewer: How else? 
+Candidate: By calculating (estimating) revenues and costs. 
+ 
+Interviewer: Ok, let’s walk through that. What information would you need? 
+ 
+Have the candidate ask for information needed to calculate revenues and costs. Do not disclose data 
+unless asked for it. 
+ 
+Box Office Revenue: 
+ 
+• 
+# theatres: 2,000 
+• 
+# shows: 5/week 
+• 
+Capacity: 500 seats/show 
+• 
+Occupancy: 50% 
+• 
+Cost per ticket: $10 
+• 
+Length of showing: 10 weeks 
+Costs: 
+ 
+• 
+Film costs: $25M 
+• 
+Marketing: $25M 
+• 
+Distribution cost: 50% of box office revenue 
+
+
+===== PDF p173 =====
+Casebook | 2019-20 Edition 
+169 
+ 
+Candidate: Box office revenue per movie: 2,000 theaters * 5 shows/week * 10 weeks * 500 seats/show * 
+.5 occupancy * $10/ticket = $250M 
+ 
+Costs: $25M film + $25M marketing + (0.5* $250M) distribution = $175M 
+ 
+Profit: Revenues – Costs = $250M - $175M = $75M  
+ 
+Question 3: 
+Interviewer: What are some additional sources of revenue? 
+Candidate: Brainstorm, including the following: 
+• 
+DVD sales 
+• 
+Merchandising 
+• 
+Royalties 
+o 
+Video rentals (Netflix, Amazon prime) 
+o 
+Video OnDemand (cable companies, airlines) 
+o 
+Movie channels (HBO, Showtime) 
+ 
+Interviewer: Ok, let’s incorporate that into our previous calculation. Assume profits from DVD sales and 
+royalties are $25M and profits from merchandising are $25M. 
+ 
+Candidate: Ok so that would mean… 
+ 
+Total profits: $75M + $25M + $25M = $125M 
+ 
+Total bid: $125/1.4 = $90M 
+ 
+Note that the 1.4 comes from the 40% return threshold (objective). 
+ 
+Question 4: 
+Interviewer: What is your final recommendation for our client? 
+ 
+Note that the candidate should address the total bid (the original question). Final recommendation should 
+be succinct but include a summarizing statement, key points to support it, and risks and next steps. 
+Example statements are given but they do not necessarily need to be exactly this. 
+ 
+Candidate (Summarizing statement): I would recommend that she bid up to $90M for the movie. 
+ 
+Candidate (Support/Findings): First, we know that the movie will be low-budget with no big-name 
+actors. Second, given our estimates of revenues from movie tickets sales and additional revenue from 
+merchandising, royalties, DVD sales less the cost of the movie, we would see total profits of $125M. 
+Targeting a 40% return, we would bid $90M. 
+ 
+Candidate (Risks/Next Step): However, a major risk is that movies often run over-budget, and given 
+Quentin’s past track record, the probability of this may be higher than normal. Also, we need to think 
+about what other movies could be direct competition to Quentin’s movie at the same release time. We 
+should also consider who else may be bidding for this movie and what their risk and behavior profiles are. 
+Next steps would be to work through these and other externalities to iterate on the bid within the 24-hour 
+period. 

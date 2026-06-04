@@ -1,0 +1,280 @@
+===== PDF p59 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+55
+Case tracker
+Fit Questions
+Industry: 
+Consumer Goods
+Level of Difficulty: 
+Medium
+Case format: 
+Developing a new 
+product
+Concepts being tested:
+- Microeconomics
+- Elasticity
+- Customer strategy
+Case Question
+Our client is Rotisserie Ranch, a poultry farming company that specializes in growing chickens for rotisserie roasting.  Its 
+main line customer segment is comprised of large grocery chains, who buy its chickens to fresh roast in the meat 
+departments of their grocery stores. Market research has revealed to Rotisserie Ranch that more and more consumers 
+have begun buying flavored rotisserie chickens recently. 
+Rotisserie Ranch is thinking of pre-flavoring some of its chickens for grocers.  Should Rotisserie Ranch begin selling this 
+new product?
+Spend  first 15 min on fit
+What are your top 9 
+weaknesses? (Stress Test 
+– If interviewee gets 9, 
+ask for 9 more until they 
+cannot answer)
+Ok, what are 9 of your 
+strengths?
+Imply that interviewee 
+answered the strengths 
+much faster than the 
+weaknesses and ask, 
+why?
+Guide to interviewer
+This case is similar in style to a McKinsey & Company 1st
+round case in that the Interviewer should drive the case.
+The case is primarily tests the ideas behind a new 
+product introduction and forces the interviewee to 
+consider market testing, profitability, etc. before rolling 
+out a new product.
+Because  this  is  a  “Market  Introduction”  case,  the  
+interviewee SHOULD ask questions about competition.
+For the purposes of this case, assume that 
+Rotisserie Ranch will only compete against 
+existing Private Label brands at grocery stores.
+Case 7: Rotisserie Ranch
+Quants.
+6
+Structure
+5
+Micro
+Prc. Elas.
+Cust. Stgy
+By:  Brian Fox (Kellogg  Class  of  ‘04),  Edited  By:    Adam  Louras  (Kellogg  Class  of  ‘11)
+
+
+===== PDF p60 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Clarifying answers and case guide 
+Interviewer Guide to case and handouts
+Case Structure – Interviewee’s  structure  should  include:
+- Value to customers (grocery chains) – Will they buy it?
+- Revenue and Cost implications of new venture
+- Cost increase to client is offset by price increase to grocers
+- Competition
+- None.    Competition  freezes  chicken  so  can’t  be  pre-seasoned.
+Prompt 1 & 2 – After Interviewee walks through structure, ask them:
+- Do you think that grocery retailers would be interested in pre-seasoned 
+chickens from Rotisserie Ranch?
+- No correct answer; however, should be logically defended
+- After several interviews, it turns out that the grocers are very interested 
+in  Rotisserie  Ranch’s  proposed  new  product,  but  first  they  want  to  be  
+sure that the Rotisserie Ranch chickens will sell well. How would you 
+make sure?
+- The correct answer is to run a test market.
+Prompt 3 – After discussing Prompt 2, discuss the results of the market test:
+- Assumes that the demand function for Rotisserie Ranch chickens is 
+linear. 
+- Store 1 is comparable to test store A and store 2 to test store B
+Clarifying answers to provide if 
+Asked
+Industry Characteristics/Market 
+Economics
+- Perishability: Predicting demand for 
+cooked chickens is difficult for grocers; 
+any leftover cooked chickens at the end 
+of the day are thrown out; unthawed 
+chickens cannot be re-frozen
+Client Characteristics
+- Competitive Advantage: Client has 
+patented process for sterilely packaging 
+chicken, so that it will remain fresh for 
+30 days, making freezing unnecessary
+- Client is currently the industry market 
+share leader in rotisserie-ready chicken 
+- Four  New  “Flavored”  Products  to  be  
+introduced concurrently: Barbecue, 
+lemon herb, tandori and teriyaki
+Competitive Dynamics
+- No competition in new product market 
+due to patented process
+56
+
+
+===== PDF p61 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Key elements to analyze
+Value to Grocers
+Do you think that grocery retailers 
+would be interested in pre-seasoned 
+chickens from Rotisserie Ranch?
+Market Testing
+After several interviews, grocers are 
+interested  in  Rotisserie  Ranch’s  
+proposed new product, but first they 
+want to be sure that the chickens will 
+sell well. How would you make sure?
+Demand Elasticity
+A test market launch for the new 
+Rotisserie Ranch BBQ chicken was 
+administered (Hand out Exhibit 1).
+Should the grocers carry our product?
+Prompt 1 Sample Answers
+Sample  “YES”    response:
+Labor Cost Reduction:  Meat 
+department  workers;  don’t  need  to  
+spend time seasoning the chickens. 
+Economies of Scale: Seasoning 
+centralization; lower cost.
+Product Consistency: Centrally 
+managed; able to spend more on R&D.
+Sample  “No”  response:
+Loss of Differentiation: Grocery chains 
+differentiate by value-added .
+Attune to Local Needs: Likely to be 
+better at gauging consumer tastes.
+Increases Inventory & SKUs.
+Prompt 2 Answer
+The correct answer is to run a test market 
+for the new products.
+The candidate may begin going into 
+detail on how this test would be run. 
+Cut him or her off as soon as you are 
+comfortable that they understand 
+that:
+
+A pilot test should be run.
+
+The pilot needs to have some 
+control or comparison group.
+Notes on Exhibit 1 & 2
+
+Using Exhibit 1, interviewee should calculate:
+
+Retail Margin ($):
+Store A:
+25% x $4 = $1 Per Unit
+Store B:
+25% x $3 = $0.75 Per Unit
+
+Gross Profit:
+Store A:
+$1 Per Unit x 400 = $400
+Store B:
+$0.75 Per Unit x 1000 = $750
+
+Cannot answer with Exhibit 1 alone, so they 
+should  ask  for  “Control  Group”  information:  
+Hand out Exhibit 2 when this is asked
+Interviewee should calculate (NOTE: Answer is 
+the same for both chicken types):
+
+Variable Margin ($) Rotisserie:
+Store 1:
+30% x $3.33 - $0.20  = $1 /Unit
+Store 2:
+30% x $2.50 - $0.15 = $0.75 /Unit
+
+Gross Profit Rotisserie:
+Store 1:
+$1 Per Unit x 300 = $300
+Store 2:
+$0.75 Per Unit x 800 = $600
+57
+
+
+===== PDF p62 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Solution and recommendations
+Solution & Recommendations
+Overall,  our client should launch the Pre-Seasoned BBQ Chicken product and test other products because:
+Competitive Necessity: Consumers are spending more money on seasoned rotisserie chicken than traditional rotisserie 
+chicken and the market is shifting in this direction
+Benefit to Grocers: Assuming test market was representative, Grocers can expect to earn $100 to $150 more gross 
+profit  using  our  client’s  product  relative  to  their  own  “Private  Label”
+Cannibalization is not an issue because the variable margins and gross profits are the same on standard and 
+seasoned rotisserie chicken, i.e. shifting from either of these products to our clients is a net benefit
+Benefit to Client: Assuming that the increased price to the Grocers offsets the increased cost of production, our client 
+will make more money due to increased sales of the new chicken
+Bonus/Guide to an Excellent Case
+An excellent interviewee will note:
+The benefit to the Grocers based on a linear interpretation of Demand, i.e.  At a $3.50 price point, sales are expected 
+to be 700 units.  This give a variable margin of $0.875 /unit and total operating profit of $612.50
+The benefit to the Grocers as percentages, i.e. Store 1 would gain 33.3% and store 2 would gain 25% to their operating 
+profit  by  shifting  to  our  client’s  product.
+Potential scale benefits to our Client over time as more pre-seasoned chickens are sold
+Potential  labor  reductions  by  grocers  as  the  workload  is  “Outsourced”  down  the  value  chain  to  our  client
+58
+
+
+===== PDF p63 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit #1: Market Test of Pre-Seasoned BBQ Chicken
+$0.00 
+$0.50 
+$1.00 
+$1.50 
+$2.00 
+$2.50 
+$3.00 
+$3.50 
+$4.00 
+$4.50 
+400
+1000
+Rotisserie Ranch Market Test of Pre-Seasoned BBQ Chicken
+P
+Q
+A
+B
+Store:
+25%
+25%
+Retailer
+Margin:
+59
+
+
+===== PDF p64 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit #2: Control Group Stores
+60
+Store 1
+Store 2
+Store 1
+Store 2
+Chicken Type
+Standard
+Standard
+Chicken Type
+Store Seasoned Store Seasoned
+Weekly Sales
+$1,000 
+$2,000 
+Weekly Sales
+$1,200 
+$2,400 
+Retail Price
+$3.33 
+$2.50 
+Retail Price
+$3.99 
+$2.99 
+Seasoning Cost
+$0.00 
+$0.00 
+Seasoning Cost
+$0.20 
+$0.15 
+Retailer Margin
+30%
+30%
+Retailer Margin
+?
+?
+Standard Rotisserie
+Seasoned Rotisserie

@@ -1,0 +1,119 @@
+===== PDF p194 =====
+CASE 19 – QUALITY CONTROL
+190
+
+
+===== PDF p195 =====
+Case 19: Quality Control
+Prompt
+Your client is a leading medical device company and just recently acquired a smaller company to help grow their orthopedics division. 
+Shortly after the acquisition, the parent company found several quality problems within the acquired company’s manufacturing sites 
+that have to be remediated within six months to avoid FDA violations. You have been hired to come up with a plan that will successfully 
+complete all remediation efforts on time.
+Interviewer Guidance
+This care requires a nontraditional framework and requires flexibility and creativity.
+Additional key details if asked: (Provide only after initial framework is given by interviewee)
+• 5 manufacturing sites are affected
+• 25 quality problems found at each site that all need to be remediated
+• Client can not extend beyond six month time frame and assume six months starts from today
+Candidate should focus on first understanding the scope of this remediation effort and if it is feasible to complete given certain 
+constraints. They should consider the costs, constraints/barriers, and offer potential next steps. 
+Behavioral Questions
+• Tell me about a time when you received feedback (positive or constructive) and you acted upon the feedback to further improve?
+• What kind of client interaction would be the most difficult for you to manage and why?
+191
+
+
+===== PDF p196 =====
+Case 19: Quality Control 
+Analysis
+1) There are 5 manufacturing sites that are affected with 25 quality defects found at each site. Their current level of resources can 
+remediate at a rate of .125 defects/day. Will they meet their remediation goals? Let interviewee know that they can assume they 
+are working weekends
+2) What do you suggest that our client do in order to complete remediation on time? What are some potential options?
+3) The CEO of our client is about to walk into the room, please summarize your findings and suggestion to him. You do not have time
+to prepare. 
+Recommendation
+1) No, they will not meet their remediation goals
+5 sites * 25 defects = 125 total defects
+.125 =  1/8 so it takes 8 days to complete one defect
+125 defects * 8 days = 1000 total days to complete all defects
+1000 days / 30 days in month = 33.3 months needed at current rates
+33.3 months / 6 month timeline = over by ~5.5 times
+Conclude that need 5.5x the number of resources at the same rate or improve their productivity
+2) Brainstorming question: many different options (hire more, increase productivity, contract out, etc) with each option the candidate 
+should be thinking about the potential costs associated or other barriers in addition to how feasible. A great candidate would be able 
+to structure their brainstorming (ex: greatest impact, least cost, feasibility)
+192
+
+
+===== PDF p197 =====
+Case 19: Quality Control
+Performance Evaluation
+• Fairly easy case but should test candidate’s ability to structure thoughts and their creativity in suggestions
+• Exceptional candidates will drive to a solution upon discovering the objective is unachievable
+• Exceptional candidates will structure their thoughts logically in response to brainstorming questions (written structure is not 
+required as long as conveyed verbally in a structured manner)
+193
+
+
+===== PDF p198 =====
+Case Interview feedback form
+Case _________________________  Case type _________________ Interviewer ____________________
+Execution
+•Structure
+¾Logical approach
+¾MECE
+¾Appropriate drive to solution
+•Quantitative Ability
+¾Speed
+¾Accuracy
+¾Comfort, reaction to mistakes
+•Business intuition
+¾Practical
+¾Insightful
+¾Breadth & depth across multiple functions
+¾Creativity
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Communication
+•Professionalism
+¾Poise
+¾Confident-Persuasive
+¾Articulate-concise
+¾Client ready
+•Written
+¾Clarity  of writing and page layout
+¾Ability to refer back
+¾Comfort, reaction to mistakes
+1  2  3  4  5
+Comments:
+1  2  3  4  5
+Comments:
+Case start time   ___:____
+Case end time   ___:____
+Framework development
+______ min
+Framework explanation 
+______ min
+Case discussion
+______ min
+Behavioral (optional)
+•Quality of star stories
+1  2  3  4  5
+Comments: 
+•Length
+1  2  3  4  5
+•Clarity
+1  2  3  4  5
+•Relevance 
+1  2  3  4  5
+Strengths 
+Weaknesses
+Overall Rating:  1  2  3  4  5
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 3= 
+middle 50%, 4= 75th-90th percentile, 5=Top 10%

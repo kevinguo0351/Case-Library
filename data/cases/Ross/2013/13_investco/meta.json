@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2013_13_investco",
+  "school": "Ross",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2013.pdf",
+  "idx": 13,
+  "case_name": "InvestCo",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": "Medium",
+  "pdf_page_start": 165,
+  "pdf_page_end": 168,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    167
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p167.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2013\\13_investco"
+}

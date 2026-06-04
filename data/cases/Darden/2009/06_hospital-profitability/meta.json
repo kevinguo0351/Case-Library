@@ -1,0 +1,24 @@
+{
+  "case_id": "Darden_2009_06_hospital-profitability",
+  "school": "Darden",
+  "year": "2009",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2009.pdf",
+  "idx": 6,
+  "case_name": "Hospital Profitability",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 40,
+  "pdf_page_end": 47,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    46,
+    47
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p046.png",
+    "exhibits/exhibit_p047.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Darden\\2009\\06_hospital-profitability"
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "Sloan_2010_50_global-health",
+  "school": "Sloan",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2010.pdf",
+  "idx": 50,
+  "case_name": "Global Health",
+  "case_type": "Market Sizing",
+  "round": "2",
+  "industry": "Healthcare / Non-profit",
+  "difficulty": null,
+  "pdf_page_start": 167,
+  "pdf_page_end": 170,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    169,
+    170
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p169.png",
+    "exhibits/exhibit_p170.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2010\\50_global-health"
+}

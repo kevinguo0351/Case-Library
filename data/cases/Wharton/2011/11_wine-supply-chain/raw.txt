@@ -1,0 +1,151 @@
+===== PDF p85 =====
+Case 11: Wine Supply Chain 
+Introduction 
+Additional information related to the client’s goal 
+This information may be provided upon request: 
+•  Right now, the client spends $20 million on marketing materials ($3 million in freight, and $17 million in materials) 
+•  The corporate marketing team is large and pushes the marketing products without asking the field sales teams 
+•  The field sales teams are regional and can pull marketing materials sometimes when they are needed 
+Overview for interviewer 
+The interviewee may ask some clarifying upfront questions related to the goal of improving the bottom line. The client is looking to 
+improve their profitability by reducing obsolete materials and getting the right mix of marketing materials.  
+Problem statement narrative 
+Our client is a winery located in California and they sell wine all over the US. They produce various marketing materials to be used in the 
+displays in stores where their wines are sold. These marketing materials are either pushed by the central Corporate Marketing team or 
+pulled by regional sales field offices. These marketing materials are stored in a central warehouse in Chicago and over time a lot of 
+obsolete materials have been accumulated.  Our client needs our help in reducing obsolete materials and improving their bottom line. 
+81 
+81 
+
+
+===== PDF p86 =====
+Case 11: Wine Supply Chain 
+Profitability enhancement  
+Brainstorming ideas for increasing Profitability 
+The candidate should present a framework to tackle the problem. 
+ 
+External 
+-Competitors: Are competitors also using marketing materials in the same way? 
+-Customers: Are customers responsive to these materials?  (maybe the company is not making the right ones) 
+-Suppliers: Are the suppliers of these marketing materials efficient? (maybe they are not delivering the materials on time) 
+ 
+Internal 
+-Mix of Corporate and Field Sales Team: Who is more effective? 
+-Corporate Marketing Team:  
+ -How do they push the materials out?  
+ -Is the forecasting accurate? 
+-Field Sales Team 
+ -How are materials pulled? 
+ -is the forecasting more accurate? 
+82 
+The key should be the wrong mix of corporate marketing team pushing out materials and the field sales teams not pulling enough 
+materials. The field sales teams are more knowledgeable in their markets and which materials will work.  
+ 
+External factors are not so much at play as inaccurate forecasting by the corporate marketing team. 
+Additional information related to the client’s goal 
+82 
+
+
+===== PDF p87 =====
+Case 11: Wine Supply Chain 
+Supply Chain Optimization 
+Supplier Map:  
+Instructions for interviewer: 
+Present Exhibit I and II to the interviewee.  
+ 
+Prompt: Given this network of suppliers of marketing materials  
+and wine retailers where these marketing materials end up, what 
+can  you advise the client on how to reduce the obsolete materials 
+and optimize their networks.  
+ 
+Key things the interviewer should notice from the maps: 
+• Many suppliers in the south west (blue) and orange  (west) areas, 
+with less suppliers near the warehouse in Chicago 
+• Many retailers in the south west (blue) and orange  (west) areas, 
+and green (midwest ) areas 
+• Options for optimization might include: 
+• Setting up a second warehouse between the west and the 
+southwest areas 
+• Moving the warehouse to the south west (blue) area so it 
+is more central 
+• Changing suppliers to be concentrated near the 
+warehouses 
+ 
+83 
+Retailer Map:  
+83 
+
+
+===== PDF p88 =====
+Case 11: Wine Supply Chain 
+Follow up question 
+Additional Information to be given during discussion  
+• The current inventory in Chicago is $17 million and is not 
+expected to grow in the future 
+• Inventory will be reduced by 50% only once to $8.5MM going 
+forward 
+• Inventory holding costs are $1MM/year  for $8.5MM of 
+inventory and will be reduced by 10% and the benefit will 
+continue going forward 
+ 
+Question 
+A third party operator has approached our client with the following offer: They will install a website based platform to manage the 
+inventory and will reduce the inventory in the Chicago warehouse by 50%, and reduce inventory holding costs by 10%. The third party 
+will charge $5MM for this website. Should our client accept this deal? 
+84 
+Calculation 
+• Benefits/Costs Analysis 
+• Benefits: 
+• Inventory: Save $8.5 Million ($17MM x 50%) 
+• Inventory Holding Costs: Save  .1MM/Year  ($1MM x 
+10%) 
+• Total Savings: $8.6MM 
+• Costs: $5MM 
+• Benefits in the first year outweigh the costs, and benefits will 
+continue to be realized in the future 
+• The interviewee should also mention that there are other options 
+as better firms or doing this internally which can even bring in 
+more benefits 
+84 
+
+
+===== PDF p89 =====
+Case 11: Wine Supply Chain 
+Recommendation 
+Recommendation 
+Interviewee should mention the following: 
+• Client should optimize its corporate marketing and field sales mix in terms of marketing materials 
+• Client should also consider moving/adding warehouses, but a cost/benefit analysis should be conducted 
+• Client should go ahead with a website based platform to optimize its supply chain but should also look at other options available 
+Interviewee should also mention any risks such as added cost of changing warehouses and risk of investing in a third party operator 
+of their supply chain 
+85 
+85 
+
+
+===== PDF p90 =====
+Case 11: Wine Supply Chain 
+Exhibit I-Suppliers of Wine Marketing Materials  
+Suppliers of Wine Marketing Materials (% of total Marketing Materials Supplied  
+86 
+37%  
+12% 
+28% 
+10% 
+13% 
+Chicago 
+86 
+
+
+===== PDF p91 =====
+Case 11: Wine Supply Chain 
+Exhibit II-Retailers of Wine using the Marketing Materials 
+Retailers of Wine (% of total Marketing Materials  Received)  
+87 
+27%  
+20% 
+28% 
+18% 
+7% 
+Chicago 
+87 

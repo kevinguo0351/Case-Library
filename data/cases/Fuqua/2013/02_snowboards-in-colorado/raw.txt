@@ -1,0 +1,72 @@
+===== PDF p29 =====
+Prompt
+What is the 2013 market size (in revenue) of snowboards in the state of Colorado?
+Guidance
+This is a market estimation case.  The below analysis is one way that it could be solved, and the 
+information may be provided if requested. It is also acceptable for the candidate to make many of 
+these assumptions as long as you find them reasonable.
+Either way, ask the candidate to walk you through his/her thought process for solving the problem 
+before embarking on the calculations. Once you are comfortable with his/her approach, ask him/her 
+to find the answer, explaining as he/she goes.  
+In this case, it is safe to estimate the retail market size for snowboards (not rentals), but a good 
+candidate should suggest evaluating the rental market as well (i.e. those boards purchased by 
+resorts to be rented to day snowboarders)
+Analysis
+The candidate should generate the below calculation. If he/she is stuck, assist him/her in arriving at 
+this equation.
+Market size = Population of CO * % Snowboarders * Avg Snowboard Price * Replacement Rate of 
+Snowboard
+Population of CO
+Population of the United States:  300 million 
+US has 50 states; therefore, the average population per state is 6 million. Candidate should 
+reason that CO is average sized state.  Reasonable estimate is a population of 5-6 million
+First Round
+Case 2: Snowboards in Colorado
+25
+
+
+===== PDF p30 =====
+Analysis
+(cont.)
+% of Population that Snowboards:
+• Have the candidate talk through how to properly segment the population and discuss which 
+segments might snowboard.  Logical way to segment the market is needed for strong 
+performance:
+−Age segmentation (15-25 yrs have higher percentage snowboarding than over 60 yrs)
+−Wealth segmentation (rich can afford to pay for lift tickets)
+−Macroeconomic impacts on snowboard purchases (e.g. elastic demand)
+• Reasonable estimate: Likely around 10% of CO households.  Acceptable answers from 
+candidates range from 5-20% of households, given reasons listed above.
+Average Snowboard Price:
+• Prices vary by brand 
+• Reasonable estimate: $200-$1,000
+Replacement Rate of Snowboards:
+• Candidate should reason that all individuals will not purchase a snowboard each year and should 
+divide the number they have arrived at thus far by the average life of a board (or multiply by the 
+replacement rate).  Again, segmentation here is indication of how strong the candidate is or is not.
+• Reasonable estimate: average boards should last 2-10 years
+Result:
+5 M people in CO * 10% Snowboarders  = 500,000 Snowboarders  *  $500 per board = 
+$250,000,000 Total Market Size / 5 years = 
+$50M PER YEAR
+First Round
+Case 2: Snowboards in Colorado
+26
+
+
+===== PDF p31 =====
+Performance 
+Evaluation
+Expected:
+Candidate will develop a structured approach to finding a solution.  Assumptions will be clarified and 
+based on reasonable logic.
+Good:
+Candidate will use numbers or round appropriately to simplify calculations. He/she will correctly and 
+clearly walk the interviewer through the calculations.  Appropriate segmentation of the population is 
+a must.  Considering rental markets is a plus for good candidates.
+Excellent:
+In addition to the above, the candidate will evaluate his/her final number and provide explanation as 
+to how changes to assumptions would affect the estimation.
+First Round
+Case 2: Snowboards in Colorado
+27

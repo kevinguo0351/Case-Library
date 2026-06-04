@@ -1,0 +1,299 @@
+===== PDF p187 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+183
+Steel Co.
+Author: Adapted by Arati Venkatram (Stern ‘20)
+Firm Style & Round: BCG Round 1
+Difficulty: Medium
+Case Overview:
+Industry: Industrial Goods
+Case Type: Cost Saving
+Concepts Tested:
+•
+Capacity Optimization
+•
+Operations
+Overview Information for Interviewer:
+•
+The case requires the candidate to focus on the logistics of 
+transporting steel and explore the various options given. The 
+goal is to derive potential cost saving
+Case Prompt: 
+Our client is a steel manufacturing company in the Netherlands. They are considering investing in an 
+advanced analytics tool that will help them better predict inventory schedule. They are also looking at 
+immediate methods to save costs and would like your help with the following: 
+A) Steel coils are currently transported from the factory to customers via Railways, Trucks, Vessels and 
+Barges. They would like us to analyze these four methods, and suggest any opportunities for cost saving
+B) Suggest any alternative techniques to save cost in the immediate future
+
+
+===== PDF p188 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+184
+Steel Co.: Case Guide
+Clarifying Information: 
+•
+Operates internationally in 
+100+ countries (the candidate 
+should realize this given use of 
+vessels and barges)
+•
+Customers are predominantly 
+large B2B manufacturers who 
+the company enjoys both short 
+and long-term contracts with 
+•
+For this case, assume steel is 
+only manufactured as coils
+•
+Objective is to identify cost 
+saving with no particular target 
+Interviewer Guide: 
+•
+A Good Framework Will:
+o
+Incorporate steel industry specifics
+o
+Cover profitability, but focus on costs as the prompt is 
+very specific
+o
+Evaluate the question at hand on the four transport 
+methods
+o
+Not forget part B) on alternate cost saving techniques
+
+
+===== PDF p189 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+185
+Steel Co.: Exhibit 1
+RAIL
+TRUCK
+BARGE
+VESSEL
+Deliveries/Week
+10
+20
+4
+3
+Volume/Delivery (ton)
+40000
+20000
+50000
+100000
+Utilization %
+67%
+75%
+80%
+100%
+Cost ($/ton)
+$25 
+$30 
+$25 
+$10 
+Frequency (days)
+5
+1
+20
+14
+
+
+===== PDF p190 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+186
+Steel Co.: Guide to Exhibit 1
+Notes to Interviewer: 
+•Total cost saving potential of $7.3M through better optimization of capacity.
+•Candidate should clarify the meaning of utilization, if unsure. Utilization refers to the % of vehicle 
+capacity used for steel coils. The remaining space is empty. 
+•Candidate should be curious about why the usage of trucks is so high – leads to exhibit 2
+RAIL
+TRUCK
+BARGE
+VESSEL
+A
+Deliveries/Week
+10
+20
+4
+3
+B
+Volume/Delivery (ton)
+40000
+20000
+50000
+100000
+C
+Volume/week (A*B) (ton)
+400000
+400000
+200000
+300000
+D
+Utilization %
+67%
+75%
+80%
+100%
+E
+Cost ($/ton)
+$25 
+$30 
+$25 
+$10 
+F
+Cost/week (C*E)
+$10,000,000 
+$12,000,000 
+$5,000,000 
+$3,000,000 
+G
+Cost saving potential (F*(100%-D))
+$3,300,000 
+$3,000,000 
+$1,000,000 
+$0 
+
+
+===== PDF p191 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+187
+Steel Co.: Exhibit 2
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Transfer of goods from pier to trucks
+No. of coils
+Total volume for delivery: 5,700 steel coils
+1 steel coil = 10 tons
+Week
+
+
+===== PDF p192 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+188
+Steel Co.: Guide to Exhibit 2
+Notes to Interviewer: 
+•Candidate should refer to exhibit 1, to notice that vessels are loaded every 14 days (2 weeks), while trucks 
+leave for delivery daily. They should also refer to exhibit 1 to identify the cost of using vessels vs. trucks.
+•The chart indicates that on Week 1 and 2 combined there are 3,000 coils remaining on the pier, that would 
+need delivery by truck. Week 3 onwards should not be a problem with better inventory management, and cost 
+savings by avoiding shifts to trucks would be as below: 
+•(5700 – 3000)*10 tons*($30-$10) = $540,000
+•An excellent candidate would also notice that this situation may be arising due to vessels going at 100% 
+capacity utilization. KPIs currently require the vessel to be fully loaded. Changing KPIs to state 95%, could 
+potentially reduce the number of coils left behind at the pier. 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Transfer of goods from pier to trucks
+No. of coils
+Total volume for delivery: 5,700 steel coils
+1 steel coil = 10 tons
+Week
+
+
+===== PDF p193 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+189
+Steel Co.: Recommendation
+Recommendation:
+•
+Drive cost savings of 
+~$7.84M, with $7.3M savings 
+through better capacity 
+utilization and $540K from 
+better inventory 
+management for vessels
+•
+Continue to work on the 
+advanced analytics tool as 
+that will help inventory 
+management, which is an 
+identified cost driver, going 
+forward
+Bonus: Guide to an excellent case
+•
+An excellent case would be marked by a candidate who quickly understands the options to consider, and 
+drives the math to cost savings. An exceptional candidate should be able to co-relate exhibits and show 
+operations knowledge with creative solutions to inventory management and capacity utilization.
+Risks:
+•
+Assumptions to derive 
+average utilization may be 
+wrong
+•
+Truck drivers may be 
+unionized/reducing number 
+of trucks may require re-
+negotiation of contracts
+Next Steps:
+•
+Modify vessel labor KPIs to 
+ensure 95% utilization as 
+against 100%
+•
+Gradually start to reduce # 
+trucks being used to improve 
+utilization
+•
+Re-negotiate cost/ton if that 
+is an option

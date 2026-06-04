@@ -1,0 +1,405 @@
+===== PDF p77 =====
+Trouble in ‘Packaging’ Paradise
+73
+Industry:                 Industrial Goods
+Case Type:     
+Profitability
+Led by:            
+Interviewee
+Case Level: 
+Medium
+
+
+===== PDF p78 =====
+Behavioral Questions
+74
+• Tell me about a time when you experienced failure
+Question 1:
+• Tell me about a time when you had to deal with uncertainty
+Question 2:
+
+
+===== PDF p79 =====
+Trouble in ‘Packaging’ Paradise
+75
+Client is Newpads, an absorbent pads manufacturing company which recently got acquired by 
+OldMoney Investments, a private equity fund. Newpads is a small manufacturing company with the 
+revenue of $200M wit EBIDTA margin of 20%. OldMoney wants to improve the profitability of 
+Newpads in order to increase the valuation of the company. Newpads needs your help in finding the 
+best way to achieve this goal.
+Prompt #1:
+• Following information can be provided to the candidate if asked about it. Candidate should ask 
+about the goal of the company (if asked provide the goal of 20% savings in total spend)
+– Client Goal: Looking to save 5% of EBDITA (candidate should calculate = $8M)
+– Industry/Competition information: The raw material prices depends on different commodity 
+prices in the market like paper and pulp, polypropene, resins, etc. These prices are tracked 
+through various indexes like RISI, etc.
+– Product information: Absorbent pads are used in meat/poultry products packaging in order to 
+absorb the juices to keep them fresh.
+– Value Chain/Revenue information: Client works with multiple suppliers to obtain these raw 
+materials and then the final product is supplied to grocery chains like Walmart.
+• For the interviewer – Here total external spend consists of only raw material procurement spend, 
+provide this information after the framework is created
+Case Background:
+
+
+===== PDF p80 =====
+Trouble in ‘Packaging’ Paradise
+76
+• Candidates should create a cost savings framework (profitability framework is 
+acceptable too) and determine if the selected option is profitable for the company. It 
+is important that the framework cost bucket should have raw material procurement 
+spend (external spend) mentioned in some way.
+Framework Buckets:
+Cost Savings
+External Costs
+Internal Costs
+•
+Procurement costs
+•
+Raw material prices
+•
+Material conversion  
+costs
+•
+Shipping charges
+•
+Special Equipment costs
+•
+Manufacturing costs
+•
+Storage / Warehousing
+•
+Distribution 
+•
+SG&A
+o
+Sales & Marketing
+o
+Corporate 
+functions – HR, IT, 
+Finance etc.
+o
+Admin overhead
+Vertical integration
+•
+Integrating 
+production of some 
+raw materials 
+internally
+•
+Consolidating 
+shipping and 
+executing internally
+Drive towards raw material costs and volumes
+
+
+===== PDF p81 =====
+Exhibit #1
+0.5
+0.4
+0.2
+0.25
+0.375
+0.32
+0.18
+0.125
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+Pulp
+Nonwoven
+Adhesive
+Films
+Raw Material Prices
+Current Price ($/lb.)
+Corresponding commodity market price ($/lb.)
+32
+30
+25
+32
+0
+5
+10
+15
+20
+25
+30
+35
+Film
+Adhesive
+Nonwoven
+Pulp
+Raw Material Volume
+Volume (in million lb.)
+
+
+===== PDF p82 =====
+Interviewer guidance on Exhibits
+• If the candidate talks about savings through the 
+cost bucket, then share exhibit #1 with the 
+candidate. If not, drive them to the cost bucket
+• Tell the candidate that the client has decided to 
+look at the external procurement spend in order 
+to drive savings
+• Candidate is given the raw material volume and 
+per unit prices (current prices paid by the client 
+and market prices). Candidate should be able to 
+analyze that he/she needs to calculate the total 
+current spend and spend with market prices for 
+each raw material category. If the candidate is 
+not able to understand this on his/her own, then 
+drive them in this direction. 
+• After calculating both the spends they should 
+understand that the savings target of $8M can 
+be achieved by procuring material at the market 
+prices.
+• Once they get to this point, they should be able 
+to tell that by focusing on only pulp and films the 
+savings can be achieved. This is a second level 
+insight.
+• Analysis for the exhibit to have 2 parts –
+– Basic:
+o Getting the total savings if the raw 
+material prices are dropped to the 
+market prices, so changing the 
+procurement strategy is profitable
+– Second order insights:
+o It can be achieved only with Pulp and 
+Films category. So, we should only 
+focus on these two categories.
+o It is important to focus on only fewer 
+materials as conducting multiple 
+negotiations with suppliers or getting 
+new suppliers for all the categories 
+can be difficult. Also, many changes 
+with the current suppliers can cause 
+disruptions in the value chain.
+• Note axis are reversed on exhibit to 
+ensure candidate reads axis properly
+78
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p83 =====
+Exhibit #1 Calculations
+79
+Raw Material
+Volume (in million 
+lb.)
+Current Price 
+($/lb.)
+Current Spend ($ 
+Million)
+Market Price 
+($/lb.)
+Total New Spend 
+(Million $)
+Savings (Million $)
+Pulp
+32
+0.5
+16
+0.375
+12
+4
+Nonwoven
+25
+0.4
+10
+0.32
+8
+2
+Adhesive
+30
+0.2
+6
+0.18
+5.4
+0.6
+Films
+32
+0.25
+8
+0.125
+4
+4
+Total
+119
+40
+29.4
+10.6
+Analysis results:
+Pulp and Films each drive $4M of 
+savings. Great candidate will 
+recognize challenges getting all the 
+derived savings given contracts. Great 
+candidate will have additional insights 
+on why certain materials may be 
+easier to cut costs with 
+Raw Material
+Commodity price 
+Difference
+Volume
+Savings (Million $)
+Pulp
+0.125 (1/8) 
+32
+4
+Nonwoven
+0.08 (2/25)
+25
+2
+Adhesive
+0.02 (2/100)
+30
+0.6
+Films
+0.125 (1/8)
+32
+4
+10.6
+Great candidate will recognize shortcut to reach savings:
+Calculations
+
+
+===== PDF p84 =====
+Brainstorming
+• What are some of the strategies that can 
+be used to get lower prices from 
+suppliers?
+• Analysis of brainstorming should be 
+structured
+Example:
+1.
+Negotiating with current suppliers –
+•
+Putting pressure on the suppliers by launching bids 
+in the market
+•
+Using big market players to put pressure on the 
+suppliers
+•
+Combining business of two categories and asking 
+suppliers for discounts
+2.
+Adding new suppliers –
+•
+Launch bids in the market and get new reliable 
+suppliers with lower costs
+•
+Identify oversees suppliers with lower cost raw 
+materials (countries like China and Mexico)
+80
+Prompt:
+Analysis:
+Drive towards exploring various Film suppliers
+
+
+===== PDF p85 =====
+Exhibit #2
+Film Supplier
+Raw material costs 
+($/lb.)
+Shipping costs 
+($/lb.)
+Volume rebate (%)
+Avery Plastics
+0.15
+0.05
+30%
+Global Films
+0.11
+0.02
+8%
+Allpoint Films
+0.10
+0.10
+11%
+* Avery Plastics and Global Films are US based companies, Allpoint Films is a China based company
+* Volume rebate is given on raw material price and volume rebate is applicable if the total volume is >30M lb.
+
+
+===== PDF p86 =====
+Exhibit #2 Calculations
+82
+Film Suppliers Volume (Million 
+lb.)
+Raw material 
+costs ($/lb.)
+Shipping costs 
+($/lb.)
+Volume rebate
+Raw material 
+price with 
+volume rebate 
+($/lb.)
+Total price 
+($/lb.)
+Total New 
+spend (Million 
+$)
+Avery Plastics
+32
+0.15
+0.05
+30%
+0.105
+0.155
+4.96
+Global Films
+32
+0.11
+0.02
+8%
+0.101
+0.121
+3.88
+Allpoint Films
+32
+0.10
+0.10
+11%
+0.09 
+0.19
+6.08
+Analysis results:
+Global Films is lowest spend of new suppliers, but falls short of goal of $4.8M 
+Calculation tips:
+Total price can be rounded to 0.15, 0.12 and 0.2. Interviewer can 
+allow rounding of the numbers according to their discretion and 
+time at hand
+•
+Shortcut for Allpoint is to recognize 11% = 1/9
+Next Steps:
+Candidate should recognize that target goal is not met and 
+recommend additional methods to get additional $4M+ in 
+savings (boost revenue, or cut costs). Prompt candidate to do 
+this if they don’t get to it
+Insights Analysis
+• Basic: Global firms is the most profitable 
+• Advanced: Chinese supplier is most price 
+competitive, but shipping is prohibitive. 
+Recommend strategies to reduce this (get better 
+discount, alternate shipping options)
+Calculations
+
+
+===== PDF p87 =====
+Trouble in ‘Packaging’ Paradise
+83
+• Changing suppliers will create $3.8M in cost savings, however need to find another 
+$4.2M to find goals
+• Alternate ideas could be additional cost savings from negotiation contracts with other 
+materials or ideas to boost revenue
+Recommendation 
+• Candidate can mention risk related to engaging with new supplier for Films – Quality 
+of the material, delivery issues, delays in shipment, etc.
+• Next steps - Testing materials of new suppliers, drawing the right contract terms 
+related to rebates and discounts
+Risks and Next Steps:

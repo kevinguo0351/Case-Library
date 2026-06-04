@@ -1,0 +1,220 @@
+===== PDF p79 =====
+Case # 8 - Frozen Food Co.
+Our client, Frozen Food Co (FFC), is a leading manufacturer of single serve frozen meals. The frozen meals 
+are typically sold in supermarkets, bodegas, gas stations, and cafeterias (such as in airports, hospitals, and 
+other workplace-type cafeterias). The company has asked us to help them determine the cause of the 
+declining profitability over the past two years, and to explore options to reverse the problem.
+Problem Statement Narrative
+Case # 8 : Frozen Food Co.
+The case becomes more specific, but for the initial framework, the interviewee does not need to know much 
+information. S/he can think of FFC as a top player in the frozen meal (tv dinners, essentially) industry, and 
+needs only to consider the US market for now. If asked whether the frozen food market is contracting, at this 
+stage interviewer can just advise interviewee that we do not have that information but that s/he may 
+consider that for the framework. In short, there is really no specific info that the interviewee needs up front. 
+Case Notes
+Industry: 
+Food
+Case Type: 
+Profitability
+• Cost analysis
+• Mental math
+Concepts Tested
+Structure
+Creativity
+Math
+Easy
+Easy
+Easy
+75
+
+
+===== PDF p80 =====
+Sample Framework
+Profitability
+•
+Revenue considerations (price x 
+quantity; could also consider product 
+mix); 
+•
+Cost considerations (packaging, labor, 
+distribution, raw materials, advertising)
+Market
+•
+Competition (who is it? Are we losing 
+market share? Why?) 
+•
+FFC itself (Are our products relevant 
+and attractive? Are we distributing in 
+the right places?)
+•
+Customers (Is there a move away from 
+frozen foods? Are consumers looking for 
+easy meals that are or that seem 
+healthier than frozen foods? Is the rise 
+of food trucks the issue in urban 
+markets? Okay to get creative here)
+Sample Framework
+Encourage the interviewee to think through 
+anything. Ideally, they should reach profitability 
+and market as their main buckets of inquiry.
+Guidance for Interviewer
+See previous slide for notes – the interviewee really 
+does not need a lot of information at this stage. If 
+asked about distribution, packaging, and 
+manufacturing generally, no details are really 
+needed at this point, but interviewee can presume 
+that those are all elements of FFC’s operations and 
+should be considered.
+Clarification Answers if Asked 
+76
+Case # 8 - Frozen Food Co.
+
+
+===== PDF p81 =====
+• Are we in the right places
+• Are we offering the right frozen products
+• Is there dead weight among our products 
+(underperformers that we can get rid of? Hero 
+products that we should build off of?)
+Company
+• Competition
+• Consumer culture with respect to frozen foods
+• Rise of health consciousness 
+Market
+• Consider distribution, raw materials, packaging, 
+advertising, shipping, labor, etc.
+Costs
+• Consider the average price x quantity 
+• Consider whether we are sold in the right places
+Revenues
+Potential Areas for Analysis
+77
+Case # 8 - Frozen Food Co.
+
+
+===== PDF p82 =====
+Question #1
+Who do you think are FFC’s consumers?
+Question #1
+Here, we are asking that the interviewee segment the market and offer justifications for the segmentation. 
+Steer interviewee away from considering the direct customer to FFC (the supermarkets, bodegas, etc.). This 
+question is about the people who are in the market for this product, who ultimately drive demand.
+Can be segmented in a few different ways, but each should basically be a derivative of how frequently the 
+consumer uses a frozen food meal (uses for meals even at time/uses in the office, a couple of times a week, 
+uses only when necessary on the go – at hospital, airport, etc.).
+Solution
+78
+Case # 8 - Frozen Food Co.
+
+
+===== PDF p83 =====
+Question #2
+Give Exhibit 1. We have this information about the size of FFC’s packaging and the amount of ingredients 
+used in each package, as compared to 2 leading competitors. What do you understand from this? 
+Question #2
+•
+FCC’s package is significantly larger than its competitors, could be a significant driver of cost both in 
+terms of packaging materials and shipping costs
+•
+FCC’s product has almost twice as much meat as the next competitor – meat may be the most expensive 
+ingredient in the product and another significant driver of high costs which impact profitability
+•
+FFC’s pricing seems to be off - FFC and Eat Co both sound “standard” frozen food producers, and Eat Co. 
+is significantly less expensive. By contrast, Fresh n Healthy seems to be marketing itself as a healthy 
+product, which usually commands a premium, but it is less expensive than FFC. 
+Solution
+79
+Case # 8 - Frozen Food Co.
+
+
+===== PDF p84 =====
+Question #3
+FCC is considering reducing the size of its package so that it will be the same size as Eat Co’s packages.  
+According to FCC, it’s packaging costs 0.5 cents per square inch. Can you calculate the cost savings by 
+reducing the size of the package? 
+Question #3
+Top and bottom of package
+Old: 15X10 = 150 sq inch
+New: 9X6 = 54 sq inch
+Difference: 96 sq inch
+Difference for both top and bottom: 192 sq inch
+Long sides of package
+Old: 15X4 = 60 sq inch
+New: 9X3 = 27 sq inch
+Difference: 33 sq inch
+Difference for both long sides: 66 sq inch
+Short sides of package
+Old: 10X4 = 40 sq inch
+New: 6X3 = 18 sq inch
+Difference: 22 sq inch
+Difference for both short sides: 44 sq inch
+Total difference: 302 sq inch * 0.5 cents = 151 cents = $1.51 saving per each package
+Solution
+80
+Case # 8 - Frozen Food Co.
+
+
+===== PDF p85 =====
+Conclusion
+• The cost savings from packaging alone will be 
+substantial - ~$1.5 per meal
+• At the same time, we noticed that we put twice as 
+much meat in the product. We did not have cost 
+figures for the meat, but it struck us as another 
+potential area for cost savings.
+Rationale
+• FCC should decrease the size of its package
+• Additional changes to explore upon further 
+examination: decreasing amount of meat in each 
+meal, changing pricing to better compete
+Recommendation
+• Move forward on smaller packaging
+• Working with marketing to make sure our 
+product is still recognizable
+• Explore the meat issue as next area for further 
+cost saving
+• Explore pricing issue to find better pricing 
+strategy
+Next Steps
+• Consumers may not like the change to smaller 
+packaging
+• Smaller packaging requires change in amount of 
+ingredients (could be good thing to save on meat)
+Risks
+81
+Case # 8 - Frozen Food Co.
+
+
+===== PDF p86 =====
+Exhibit #1
+Frozen Food 
+Co.
+Eat Co.
+Fresh & 
+Healthy
+Dimensions of 
+packages 
+(L,W,H)
+15”, 10”, 4”
+9”, 6”, 3”
+8”, 6”, 3”
+Materials (weight in oz.)
+Tomatoes
+8
+4
+6
+Pasta
+8
+8
+4
+Meat
+15
+8
+6
+Retail Price
+$6
+$4
+$5
+Packaging and materials – FFC vs Competitors
+82
+Case # 8 - Frozen Food Co.

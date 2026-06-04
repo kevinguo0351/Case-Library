@@ -1,0 +1,34 @@
+{
+  "case_id": "Stern_2021_28_jimmy-s-dilemma",
+  "school": "Stern",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2021.pdf",
+  "idx": 28,
+  "case_name": "Jimmy's Dilemma",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 313,
+  "pdf_page_end": 323,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    315,
+    316,
+    318,
+    319,
+    321,
+    322,
+    323
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p315.png",
+    "exhibits/exhibit_p316.png",
+    "exhibits/exhibit_p318.png",
+    "exhibits/exhibit_p319.png",
+    "exhibits/exhibit_p321.png",
+    "exhibits/exhibit_p322.png",
+    "exhibits/exhibit_p323.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2021\\28_jimmy-s-dilemma"
+}

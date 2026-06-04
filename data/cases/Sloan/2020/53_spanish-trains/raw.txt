@@ -1,0 +1,117 @@
+===== PDF p207 =====
+Casebook | 2019-20 Edition 
+203 
+ 
+53. Spanish Trains (McKinsey R1, Transportation, New Market, 
+Balanced) 
+ 
+Stem: The railway company of Spain (RENFE), a former monopoly, is now opening to competition. 
+RENFE has been divided into two separate companies: RENFE (train operation) and ADIF (company that 
+manages the tracks, train stations and traffic control). A friend of yours has 90M € and has approached 
+you for advice on starting a new train operation company to compete against the new RENFE. In 
+particular, he wants to start by opening a new high-speed train route between Madrid and Barcelona. 
+Should your friend go ahead and launch the business? 
+Phase 1: Industry Overview 
+Let the candidate to lay out his framework and start brainstorming about the current situation in the 
+industry: competitors, and competitive situation. Give the following information when asked the proper 
+question. Let him or her focus on competition, and the differences between this new venture and the 
+competition. 
+ 
+Provide the following information if asked: 
+ 
+● 
+Main competitors: RENFE and air travel. Evaluate price, time and convenience. 
+● 
+Us vs. RENFE: 
+o 
+We are less expensive 
+o 
+We are more efficiently run (as a former monopoly, RENFE is very inefficient) 
+o 
+Equal travel time 
+o 
+We are equally convenient (same stations and tracks) Us vs. air travel 
+Candidate: As a result of this high-level analysis, it is possible that we have a chance in this market. 
+Now let’s evaluate profitability. 
+ 
+Phase 2: Business Overview 
+ 
+Interviewer: Now that we have identified the main issues in the market, it is time to see whether we can 
+be profitable. How would you evaluate the viability of your friend’s business? What do you think the main 
+costs and revenue streams are? 
+ 
+Candidate: Possible forms of revenue: tickets (main revenue driver), ads in trains, food and drinks, and 
+any others are good for the brainstorming but should be ignored for the calculations. 
+ 
+Costs: Marketing, Operations and maintenance, trains, personnel, IT, etc. 
+ 
+Interviewer: Great. Now, before moving on let me tell you about operations. You can travel by train 
+between Madrid and Barcelona in ~ 3 hrs. Trains run from 8am until 9pm. Taking into account all different 
+factors, we can run two round trips per day. We will need three trains, as well as one for backup in case 
+of breakdown, i.e. total 4 trains and 4 trips per day (per train). 
+ 
+Phase 3: Break-even Calculations 
+ 
+Interviewer: What do you need to calculate expected profits? Keep in mind that the company only has 10 
+years to pay back the investment. 
+ 
+The candidate should ask specifically for all the costs needed. 
+ 
+● 
+Trains: 30M € per train (tell the candidate to think of this only at the end) 
+
+
+===== PDF p208 =====
+Casebook | 2019-20 Edition 
+204 
+ 
+● 
+Marketing: 45M€ per year (for entire company) 
+● 
+Operations/Maintenance: 10M€ per year per train 
+● 
+Train fares: Trains have a capacity of 500 people 
+o 
+If tickets cost 40€ at 95% occupancy 
+o 
+If tickets cost 50€ at 80% occupancy 
+o 
+If tickets cost 60€ at 60% occupancy 
+ 
+Interviewer: Given this data, how much do you think the tickets cost? 
+ 
+Candidate: 
+ 
+● 
+40€ at (.95 * 500) * 40 = 19,000€ per trip 
+● 
+50€ at (.8 * 500) * 50 = 20,000€ per trip 
+● 
+60€ at (.6 * 500) * 60 = 18,000€ per trip 
+Key Insight: It is most profitable to set prices at 50€. 
+ 
+Interviewer: Now figure out the profits per year (assuming above costs are per train) 
+ 
+Candidate: 
+ 
+● 
+365 days * 20,000€ per trip * 4 trips per day = 29.2M€ in revenue per year 
+● 
+29.2M - 25M (marketing and operations) = 4.2M€ profit per year per train 
+o 
+25M is 10M operations per train plus 15M (45M/3) for marketing 
+● 
+Because we on average operate only 3 trains we disregard the cost in opex and maintenance for 
+the fourth train. Total estimated operating profit is therefore 12.6M €. 
+● 
+Key Insight: This does not look great – it would take almost 10 years to recoup the 120M€ 
+investment in 4 trains. 
+ 
+Recommendations 
+ 
+Interviewer: What would you recommend to your friend? What options could you consider to make the 
+business more profitable? 
+ 
+Candidate: He should not invest under the current circumstances, but may also explore options such as 
+leasing trains, additional revenue from onboard sales and advertising, JV with a foreign operator with 
+excess capacity, etc. (ask for brainstorming ideas) 

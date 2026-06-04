@@ -1,0 +1,24 @@
+{
+  "case_id": "Fuqua_2021_04_elm-juice-co",
+  "school": "Fuqua",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2021.pdf",
+  "idx": 4,
+  "case_name": "Elm Juice Co",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Consumer Goods",
+  "difficulty": null,
+  "pdf_page_start": 45,
+  "pdf_page_end": 55,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    52,
+    53
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p052.png",
+    "exhibits/exhibit_p053.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2021\\04_elm-juice-co"
+}

@@ -1,0 +1,306 @@
+===== PDF p176 =====
+© 2020 NYU Stern MCA 
+Adventure Capital
+172
+Case Overview:
+Industry: Archeology
+Case Type: Investment Decision
+Concepts Tested:
+•
+Brainstorming
+•
+Return on Investment
+•
+Valuation
+Overview Information for Interviewer:
+•
+This case is good for testing the interviewees deductive reasoning skills in an 
+incredibly unfamiliar industry
+•
+There is no “correct” answer for this case. A good candidate will identify and 
+weigh factors that are both for and against the investment and decide which 
+decision makes more sense. 
+Case Prompt: 
+Your client is Idaho Johnson, an archeologist/adventurer who specializes in rare artifact recovery. They have just 
+learned about the possibility of an incredibly valuable 6,000 year old crown buried in the Siwa Oasis of 
+Northwestern Egypt. You have been hired to determine whether Idaho should launch an expedition to recover 
+this artifact.
+Authors: Alastair Butler, Nick Pate, & Henry Marsh (Stern ‘20) Firm Style & Round: McKinsey First Round
+[Interviewer-Led]
+Quant: 8
+Structure: 5
+*Quant indicates how much math is involved and Structure represents the 
+level of difficulty around developing frameworks. 1 = Easiest, 10 = Hardest
+
+
+===== PDF p177 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Case Guide
+173
+Clarifying Information: 
+•
+He must self finance the dig, but he finds 
+a buyer ahead of time and strikes the 
+deal pending the recovery
+•
+He learned about the treasure when a 
+colleague came to him with a map she’s 
+willing to sell  to him
+•
+He is currently located in Indiana
+•
+The dig is estimated to take one year (12 
+months)
+•
+He only wants to go on the expedition if 
+he can make an expected ROI of 85%
+•
+He believes he has a 20% chance of 
+success of retrieving the artifact
+•
+He has some equipment but would need 
+to buy more for this expedition
+Interviewer Guide: 
+•
+A Good Framework Will Consider:
+o
+Costs 
+o
+One time costs (travel, permits, equipment)
+o
+Recurring costs (wages for workers, housing) 
+o
+Opportunity costs (teaching salary)
+o
+Artifact Value
+o
+One-time sale or recurring revenue (PV)
+o
+Demand for Artifacts / Market Conditions
+o
+Buyers/Customers
+▪
+Who to sell to
+▪
+Value based on buyer in particular city / country?
+o
+Risks
+o
+Chance of success
+o
+Competition finding artifact first
+o
+Danger associated with expedition
+o
+Alternatives
+o
+Other artifacts
+o
+Safer expeditions
+o
+Film franchise about your adventures
+
+
+===== PDF p178 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Question 1
+174
+Question #1: 
+What costs would be required to embark on this expedition?
+Notes to Interviewer: 
+•
+Interviewee should brainstorm the costs associated with an expedition like this and bucket their answers into 
+something like the below.
+Upfront Costs
+●
+Map
+●
+Travel expenses
+●
+Legal (permits, visa, vaccines)
+●
+Equipment
+Recurring Costs
+●
+Labor
+●
+Lodging
+●
+Food
+Opportunity Costs
+●
+Teaching salary
+●
+Other potential expeditions
+
+
+===== PDF p179 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Question 2
+175
+Question #2: 
+Calculate the total cost of this expedition.
+Math Solution: 
+•
+Once the interviewee has brainstormed all the correct costs, give them Exhibit #1. They should be able to break down the math
+as follows:
+•
+If asked, the interviewer can clarify that the food/lodging # is for the entire group
+One time costs (Map/Equipment + Legal + Travel)
+•
+$12K + $10K + (6 x $1,500 x 2) = 40K
+Recurring costs (Labor + Food/Lodging)
+•
+($4K x 5 x 12) + ($10K x 12) = 360K
+Opportunity Cost = $100K
+Total = $40K + $360K + $100K = $500K 
+
+
+===== PDF p180 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Question 3
+176
+Question #3: 
+There are two buyers interested in purchasing the artifact once recovered: a private collector and the historic Beelong Zynna Museum. The 
+private collector is willing to purchase the artifact for a one-time payment of $4M. The museum has less cash up front, but is willing to pay 
+you as a percent of exhibit ticket sales revenue. How would you practically calculate the value of the museum’s offer, and which offer is 
+better?
+Math Solution: 
+Provide the following information to interviewer:
+•
+Museum Attendance = 900,000 people / year
+•
+% Attendees that Purchase Exhibit Ticket =  50%
+•
+Ticket Cost = $10
+•
+% Owed to Explorer = 10%
+If asked, provide the following information:
+•
+Discount Rate = 15%
+•
+Growth Rate = 5%
+Exhibit Revenue: 900k * 50% * $10 = $4.5M
+Explorer Revenue: $4.5M * 10% = $450K
+Artifact Present Value: $450k / (15% - 5%)  = $4.5M
+The Museum is the Better Deal: $4.5M > $4M
+How to Calculate
+•
+Use comparable data from similar museum (urban, size, # visitors) after acquiring similar artifact
+•
+Use numbers from comparable museum  to calculate exhibit cash flows
+•
+Calculate present value of all future cash flows
+
+
+===== PDF p181 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Question 4
+177
+Question #4: 
+Our client has a mixed success rate of retrieving ancient treasures. Given the following information, what is the expected return on 
+investment?
+Math Solution: 
+Provide the following information to interviewer:
+•
+Chance of Success = 20%
+•
+Chance of Failure =  80%
+Revenue from Success: $4.5M
+Loss from Failure (Cost):$0
+Expected  Revenue Value: (20% * $4.5M) + (80% * 0)= $900K
+Worth Pursuing? $900k > $100k (opportunity cost) but….
+Profit Margin: (900 - 500) / 500 = 400 / 500 < 85% (our required ROI)
+Profit Margin: (900 - 500) / 500 = 400 / 500 = 80%
+How to Calculate
+•
+Expected Value (or ‘weighted average’) of taking on adventure vs. Opportunity Cost (Salary)
+
+
+===== PDF p182 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Recommendation
+178
+Support for Go:
+•
+ROI (80%) is very close to required 
+ROI (85%)
+•
+Additional artifacts could be present 
+(extra revenue)
+•
+Success could lead to additional 
+revenue through synergies (fame and 
+fortune, e.g., future contracts, film 
+franchise, biography, book tour, talk 
+show appearances)
+•
+Idaho lives for the sheer thrill of 
+adventure
+•
+It belongs in a museum
+Bonus: Guide to an excellent case
+•
+Identifies up front that success rate is less than 100% and calculates that in to expected value 
+•
+Always keeps in mind the 85% return on investment
+•
+Factors in the growth rate in the PV valuation of Museum deal
+•
+Considers up front capital risk of self-financing dig
+Support for No Go:
+•
+ROI (80%) < Required ROI (85%)
+•
+Chance of success is only 20%
+•
+Self financed (great personal risk)
+•
+Museum revenue projections could be 
+incorrect
+•
+Object could be cursed
+Next Steps:
+•
+Go
+•
+Plan expedition
+•
+Put together a crew
+•
+Gather supplies
+•
+Book a charter plane
+•
+No Go
+•
+Identify other artifacts or revenue 
+opportunities
+•
+Continue teaching
+•
+Look into buying and selling map 
+for profit
+
+
+===== PDF p183 =====
+© 2020 NYU Stern MCA 
+Adventure Capital: Exhibit 1
+179
+Exhibit #1: Expedition Costs
+Cost Category
+Amount
+Labor (5 employees needed)
+$4,000/mo
+Map/Equipment
+$12,000 total
+Travel*
+$1,500/person
+Legal
+$10,000 total
+Food/Lodging
+$10,000/mo
+Missed Salary
+$100,000/yr
+*Travel Cost listed is only for one 
+direction of travel

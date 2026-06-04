@@ -1,0 +1,141 @@
+===== PDF p58 =====
+HB – Crisco Merger 
+(Tech Consulting)
+54
+Industry: Technology
+Quantitative Level: n/a
+Qualitative Level: Medium
+
+
+===== PDF p59 =====
+Behavioral Questions
+55
+• Tell me about a time where you had to lead from a non-leading role. How did you 
+approach the situation and drive success?
+– Candidate should:
+– Describe an appropriate situation in which he or she was not the leader of the team
+– Discuss how he or she supported the team and its leader without the official title of ‘leader’
+– Discuss the results of the team’s efforts and what he or she learned from the situation
+Question 1:
+• What are three tech trends that you are following?
+– Candidate should:
+– Identify 3 relevant technology trends
+– Describe why these trends are important
+– Be able to discuss their impact on current industries, where applicable
+Question 2:
+
+
+===== PDF p60 =====
+HB – Crisco Merger
+56
+• Howell Blanchard is a multinational enterprise IT company with $40 billion in annual 
+revenue. Founded in 1941, HB is a Silicon Valley cornerstone that focuses on 
+enterprise hardware solutions, such as servers, networking, and storage. As part of 
+the firm’s operating model, annual IT operational expenditure (opex) is budgeted for 
+1.5% of revenue. Currently, the company is hitting that target with an annual IT run 
+rate of $600 million. 
+• Recently, HB announced that it would be merging with rival hardware maker Crisco in 
+a mega-deal to create one of the largest public companies in the U.S. Crisco’s annual 
+revenue is $50 billion, but it has a larger IT spend, at $1 billion, or 2% of revenue. 
+The CEO of HB, who will lead the combined entity, has internal estimates of $95 
+billion in revenue for the combined entity in its first fiscal year and has set the first 
+year IT budget at $1.425 billion. Given this target, the combined entity needs to 
+reduce costs by $175 million through the integration process.
+• Your firm is the lead integration partner for HB, and HB’s CIO has asked the firm 
+Technology M&A partner on the project to develop a strategic plan for HB on 
+consolidation, cost reduction, and integration planning so it can achieve its budget 
+target. As a consultant on the project, you are responsible for putting the initial deck 
+together for review with the partner.
+Prompt:
+
+
+===== PDF p61 =====
+HB – Crisco Merger
+57
+• How would you approach consolidating and rationalizing HB’s and Crisco’s software 
+applications and creating synergistic business processes during integration?
+Question #1:
+• The interviewee should ask for a minute to create a framework for analysis. Grant the 
+interviewee up to 2 minutes to do so.
+• After 2 minutes, ask the interviewee to walk through his or her framework. A sufficient 
+answer would provide a framework such as People / Process / Technology and 
+discuss issues within each area, including the following:
+– People: Discuss the potential business impact of combining systems/removing 
+systems/ramping up employees onto new systems as part of the integration.
+– Process: Discuss how shared business processes (such as finance, operations, sales and 
+marketing) must be evaluated and leveraged during the integration to realize synergies; 
+discuss how the integration provides an opportunity to streamline existing processes and 
+realize benefits.
+– Technology: Describe how applications, labor, and infrastructure would be catalogued, 
+rationalized, and consolidated depending on alignment with HBC’s business goals.
+• Guidance to the interviewee might include prompting on potential impacts of a 
+merger in one of the P/P/T areas. 
+Interviewer Guidance:
+
+
+===== PDF p62 =====
+HB – Crisco Merger
+58
+• What would be some key components to IT cost reduction efforts in order to help HB-
+Crisco reduce its IT spend and meet its target?
+Question #2:
+• If the interviewee asks for a brief time to compose his or her answer, that is 
+acceptable. The interviewee also may begin immediately discussing cost-reduction 
+alternatives.
+• Sufficient answers will include some of the following IT cost reduction strategies:
+– Application rationalization
+– Data center / server / storage / networking consolidation
+– Data center / server / storage / networking optimization
+•
+Cloud strategies (e.g. IaaS via AWS or SaaS via switching to Salesforce) applicable here as well
+– End-user device rationalization (PCs/telephony/mobile)
+– Outsourcing: application maintenance, help desk, development support
+– Vendor contract renegotiation
+• Guidance to the interviewee might include prompting on components of an IT cost 
+structure (e.g. applications, labor, infrastructure).
+Interviewer Guidance:
+
+
+===== PDF p63 =====
+HB – Crisco Merger
+59
+• Additional information: the HB CEO has given a date 10 months out by which the two 
+companies will officially begin operations as ‘HBC’ and be traded on Wall Street as 
+such. Her and the CIO have agreed that all HB systems should be migrated onto 
+Crisco’s systems and that all business activities for the combined entity should 
+originate from Crisco’s systems on Day 1 of the new entity. Currently, both HB and 
+Crisco are running older versions of SAP’s ERP system but would like to upgrade to 
+the new SAP S4/HANA system as part of this integration effort.
+• Given the Day 1 requirements of merger, how would you approach the project efforts 
+to merge and upgrade the two companies’ ERP systems? 
+Question #3:
+• The interviewee may take a minute to create a new framework for answering this question.
+• A sufficient answer will include the phases of the SDLC (identification, planning, analysis, 
+design, implementation, maintenance) for planning this project and will note that a ‘big 
+bang’ implementation methodology is required to meet the Day 1 requirements.
+• Guidance to the interviewee might include prompting on software development 
+methodologies (SDLC vs. Agile) and potential implementation approaches (big bang vs. 
+phased vs. pilot).
+Interviewer Guidance:
+
+
+===== PDF p64 =====
+Evaluation Criteria
+60
+Candidate Level
+Assessment
+Average Candidate
+The candidate fails to use a framework in question 1 
+and requires prompting to deliver cost reduction ideas 
+in question 2 and implementation methodologies in 
+question 3.
+Good Candidate
+The candidate utilizes a framework like P/P/T in 
+question 1, identifies a few cost reduction efforts in 
+question 2, and outlines the SDLC in question 3.
+Excellent Candidate
+The candidate identifies multiple opportunities within 
+the P/P/T framework in question 1, identifies several 
+cost reduction efforts in question 2 and their potential 
+impact, and can discuss the merits of the big bang 
+approach along with describing the SDLC in question 3.

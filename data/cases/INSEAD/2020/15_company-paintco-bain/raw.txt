@@ -1,0 +1,196 @@
+===== PDF p57 =====
+ICC Handbook 2020 
+53 
+ 
+ 
+Difficulty: Medium 
+Quant: Medium 
+Company: Bain 
+ 
+9.15 Company PaintCo 
+ 
+Client Situation 
+• PaintCo, a Major European industrial goods company, focuses 
+mainly on coatings. 
+• The performance coatings division wants to develop a growth 
+strategy while maintaining high margins, by looking at the potential 
+of its different businesses. 
+• One of the businesses which we are looking at now is Vehicle 
+Refinishing, repairing scratches and other paint damage on cars, 
+where our client is #4 globally. 
+• Vehicle Refinishing is currently one of the more profitable 
+businesses in PaintCo’s portfolio, selling premium and commodity 
+refinishing products which come with a wide array of services - 
+from training to free equipment. 
+• The client wants to find out what EBITDA growth it can expect 
+from its Vehicle Refinishing business going forward. 
+ 
+Steps to suggested case solution: 
+1. Split EBITDA growth into market growth, acquisitions and 
+profitability increase 
+2. Estimate market growth bottom up 
+3. Look at potential acquisitions 
+4. Look at profitability increase 
+5. Place refinishing in the portfolio, taking everything into account 
+ 
+ 
+Step 1: Structure the problem 
+EBITDA growth tree 
+• 
+Market growth 
+• 
+Acquisitions 
+• 
+Profitability increase 
+• 
+Mix effects 
+- Price 
+- Cost 
+Alternative: 
+• 
+Revenue increase 
+• 
+Price increase 
+- Price / unit 
+- Mix effects 
+• 
+Volume increase 
+- Acquisition 
+- Market growth 
+• 
+Cost decrease 
+ 
+Step 2: Market Growth 
+Estimate the growth of the refinishing market (rough estimates are 
+sufficient, no need for an exact %) 
+ 
+(Tests creativity by asking details on the potential drivers of each 
+element) 
+ 
+ 
+ 
+ 
+ 
+ 
+Market growth: + 
+Number of cars: + 
+Population: + 
+Cars / person: ++ 
+Car accidents involving paint damage: - 
+Distance travelled / car: = 
+Accidents / km travelled: - 
+Road infrastructure 
+Safety equipment in car 
+% damage repainted: = 
+Insurance coverage: + 
+% insured cars declared total loss: - 
+% non-insured cars repaired: = 
+Paint / car: - 
+# layers: = 
+Thickness of 1 layer: - 
+Price of paint: ++ 
+ 
+Step 3: Potential Acquisition. 
+ 
+(Tests business insight - a plus, but not critical to get this) 
+ 
+We’ve done a screening of some potential targets, but although 
+interesting, the bigger targets have high synergies with their 
+automotive OEM “factory” paints, which we are not selling. 
+Automotive OEM paints have a much lower margin. 
+ 
+OK so we will either need to pay for synergies we won’t have or 
+acquire a lower margin business which will not help our profitability 
+objective. 
+ 
+Step 4: Profitability Increase 
+ 
+(Tests analytical skills) 
+ 
+Drivers are 
+• 
+Prices 
+• 
+Costs 
+- Raw materials 
+- Production 
+- SG&A 
+- R&D 
+- Overhead 
+ 
+Half of our products are premium paints, which sell at 25 EUR 
+/liter, the other half are commodity selling at 15 EUR /liter. We do 
+not expect this mix to change 
+ 
+(Give Figure 1: cost bar slide) 
+
+
+===== PDF p58 =====
+ICC Handbook 2020 
+54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Raw materials and sales are the largest cost elements. 
+Raw material cost is in line with the benchmark, but sales is 
+not. 
+ 
+When you compare costs of premium products to commodity, 
+what do you see? 
+ 
+SG&A is almost as high in commodity as in premium. Couldn’t 
+we cut back services in commodity customers? 
+ 
+(Give Figure 2, customer survey slide) 
+ 
+Premium gives high importance to service. For the others, price 
+is key. It seems feasible that cutting commodity services will 
+have no major impact on its sales. 
+ 
+Suppose we could cut our SG&A costs for commodity products 
+by 50%, what would our new total EBITDA margin be? 
+• Commodity sales cost: 4 €/liter 
+• 50% savings is 2 €/liter 
+• New cost: 11 €/liter 
+• Average cost: 50% * 11 €/liter + 50% * 19 €/liter = 15 €/liter 
+• Average price: 50% * 15 €/liter + 50% * 25 €/liter = 20 €/liter 
+• Margin = 1 - 15 €/liter / 20 €/liter = 5 €/liter / 20 €/liter = 25% 
+Step 5: Recommendation 
+ 
+Given what you know, how would you position the vehicle refinish 
+business in the company’s portfolio? Would you invest, divest or 
+maintain? Why? 
+ 
+Invest if possible, maintain otherwise 
+ 
+(Looking for elements such as: 
+• Good growth & margin 
+• More profitable in PaintCo’s portfolio 
+• #4 position 
+• Acquisitions will be difficult) 
+
+
+===== PDF p59 =====
+ICC Handbook 2020 
+55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 2 
+ 

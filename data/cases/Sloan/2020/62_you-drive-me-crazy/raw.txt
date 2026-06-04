@@ -1,0 +1,178 @@
+===== PDF p234 =====
+Casebook | 2019-20 Edition 
+230 
+ 
+62. You Drive Me Crazy (Other, TMT, Competitive Response, 
+Balanced) 
+ 
+Stem: Our client is a large international software technology provider. News has just surfaced that the US 
+Congress is preparing to pass a bill that will take effect in 6 months and will legalize unmanned, self- 
+driving cars and trucks, as long as the vehicles do not carry any passengers. Our client is one of two 
+vendors that, within this window, will be poised to deliver the Simultaneous Localization and Mapping 
+Technology (SLAM software) which is needed to operate any and all self-driving vehicles. Their only 
+competitive vendor is a large international computer chip manufacturer. While there are many 
+technologies that enable self-driving cars to work, we are only focused on the mapping and car 
+intelligence software, again known as SLAM. SLAM software runs “in the cloud”, meaning that it runs on 
+large servers connected to the internet and not on the vehicles themselves. 
+ 
+The client has contacted us to propose the best go-to-market strategy for their SLAM technology. How 
+would you approach this problem? 
+ 
+(Note for questions: It is not important to know how the SLAM solution works; all the candidate needs to 
+know is that it is a software program that runs on internet servers. All other technologies for self-driving 
+cars, besides SLAM, are also expected to be ready for sale at the time of the legislation passing. The 
+marginal cost to retrofit a vehicle to work with SLAM will be assumed to be negligible discounted over the 
+life of the vehicle.) 
+ 
+Candidate: Okay, I have broken the problem up into three areas: the customers, the competitor, and our 
+client. First for the customers, there are many types of customers from small carrier and delivery 
+companies, to large freight trucking companies. Each of those customers would have different needs, 
+have different number of vehicles, and have different willingness to pay. Next, I would want to understand 
+what their competitor, the large chip manufacturer is doing? What price are the selling the solution for? 
+How many customers can they capture? What are their costs? And finally, I would want to know what our 
+client’s options are for pricing and margins, and how that will affect units sold. To know that I would want 
+to understand the fixed and variables costs associated with their solution. 
+ 
+Interviewer: Great! To start, let’s think about the customers. Who do you think would be the potential 
+customers for this solution right from the start? 
+ 
+Candidate: Well since no people will be in these vehicles, I think the major customer segments are all in 
+logistics: trucking companies, package companies like UPS, food delivery services, store drop-off 
+services, mining and oil companies, and even some construction services like laying road could probably 
+be automated. 
+ 
+Interviewer: And what would you want to know about the customers to begin thinking about how to 
+productize the SLAM technology? 
+ 
+Candidate: Yes, I would like some information on the number of potential customers and how many 
+vehicles each owns. 
+ 
+Interviewer: Great, so our client has broken the customer groups into three segments, Large interstate 
+freight, cross state mail and package delivery services, and last mile drop off services (e.g. delivery from 
+a local warehouse to the end user – think Amazon Fresh!). 
+ 
+Take a look at figure 1 and tell me what you think? 
+
+
+===== PDF p235 =====
+Casebook | 2019-20 Edition 
+231 
+ 
+ 
+ 
+ 
+ 
+Candidate: Okay, we can see that the vast majority of companies have less than 10 cars in total, with a 
+decreasing number of companies in each category as we observe increasing fleet sizes. We can also see 
+that interstate companies have a larger proportion of bigger fleets in comparison with the other two. 
+ 
+Next, I would like to know about what these customers are willing to pay? So, it would be good to 
+understand these companies cost for drivers today. Something like the number of drivers, their working 
+hours and their pay. 
+ 
+Interviewer: Great! Take a look at figure 2 and tell me what you think. 
+ 
+ 
+ 
+Candidate: As expected, the longer route interstate drivers demand higher wages as compared to the 
+last mile drivers who drive less and work fewer hours on average. 
+(Note: the candidate should begin calculating the cost per driver per year based on this data, if not, 
+prompt them to do so) 
+
+
+===== PDF p236 =====
+Casebook | 2019-20 Edition 
+232 
+ 
+Okay, to figure out the willingness to pay, I can calculate the total cost per employee by segment: 
+ 
+ 
+Hours per 
+week 
+Hourly wages 
+($) 
+Weekly wages 
+($) 
+Weeks per 
+year 
+Annual wages 
+($) 
+Last mile 
+30 
+10 
+300 
+50 
+15,000 
+Cross state 
+40 
+15 
+600 
+50 
+30,000 
+Interstate 
+50 
+20 
+1,000 
+50 
+50,000 
+ 
+ 
+Interviewer: Great, now before you continue, I have some competitor information for you. Our client’s 
+competitor, the only other company in the market with a SLAM solution is planning to sell their product to 
+customers for $14.4 million each. Each product can support up to 500 vehicles. Industry experts expect 
+that the hardware will have a shelf life of 4 years. 
+ 
+Candidate: Got it, since it’s only going to be useful for 4 years, the annual cost is $3.6 million. Let me 
+quickly figure out how many cars you would need to have to justify that expense. 
+Last mile 
+$3.6M/$15K = 240 
+Cross state $3.6M/$30K = 120 
+Interstate 
+$3.6M/$50K = 72 
+ 
+So right away we can see the majority of the market is priced out of being able to afford this hardware 
+device. If only the largest players make this purchase, they should only expect to sell a few hundred units 
+to the largest companies. So, this means that there should be a large market opportunity here. Do we 
+know how much our client’s device costs to make? 
+ 
+Interviewer: Yes, we do. Our client’s device costs $14 million to make, but can support up to 1,000 
+vehicles. However, it’s also expected to be have a shelf life of 4 years but only if it’s run at 50% of its total 
+vehicle capacity, and only a 1-year shelf life at 100% capacity. 
+ 
+Candidate: Okay, so if they simply sell the device at cost they are not going to have much of an 
+advantage. Can they sell the individual vehicle spots to companies instead of selling the actual device? 
+ 
+(Note: for a hint, you can remind the candidate that our client is a software company and their competitor 
+is a hardware vendor. So, it makes sense that our client would be able to sell a software license while the 
+competition is only setup to sell hardware.) 
+ 
+Interviewer: Yes absolutely! Since they are a software company and their competitor is a hardware 
+vendor, they can sell support for each device as a yearly software license. That way they never sell the 
+actual server, but instead run it from their datacenter. It would cost them about $1,000 per vehicle to 
+support per year. 
+ 
+Candidate: Great, so the cost to them would be 14M/1K = $14,000 plus the $1,000 for the setup cost for 
+a total cost of $15,000. Given that the cost is not justified for the last mile market, I would not focus on 
+them and instead price it for the cross state and interstate customers. If they priced it just below $30K we 
+could expect them to have a very nice 50% margin and still be attractive to the entire cross state and 
+interstate markets. 
+Interviewer: Great! At that price model, the client would expect to sell 20,000 licenses in the Interstate 
+and cross-state markets. 
+ 
+Candidate: If they sell 20K licenses at $30K each, that’s over $600M in revenue, with $300M as profit! 
+ 
+Interviewer: Okay, there are a lot of numbers to crunch to find the best price and the client is on his way 
+here. We would like use to give them our current thoughts, what’s your recommendation. 
+
+
+===== PDF p237 =====
+Casebook | 2019-20 Edition 
+233 
+ 
+Candidate: I would recommend that the client sell individual vehicle subscriptions for just under $30K 
+each, giving them a margin of 50% and a potential market of over 20K licenses, or over $600M in 
+revenue and 300M in profit. 
+ 
+As a next step, I would like to run some more calculations to find the ideal price and vehicle load per 
+device mix. Also, I would want to look into ways that they could price discriminate in order to extract more 
+value from the different groups willingness to pay. 

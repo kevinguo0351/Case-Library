@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2019_07_wifi-in-the-sky",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 7,
+  "case_name": "WiFi in the Sky",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Airlines",
+  "difficulty": null,
+  "pdf_page_start": 92,
+  "pdf_page_end": 101,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    94,
+    95,
+    96,
+    97,
+    100,
+    101
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p094.png",
+    "exhibits/exhibit_p095.png",
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\07_wifi-in-the-sky"
+}

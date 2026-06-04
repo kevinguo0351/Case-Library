@@ -1,0 +1,151 @@
+===== PDF p147 =====
+Case 20: Bravo Insurance
+Prompt #1
+Your client, Bravo Insurance, is an insurance provider in the US.  Over the last five years, Bravo has 
+grown through acquisitions of four small regional insurance companies.  It has recently completed 
+an integration of a medium sized competitor which was acquired two years earlier.  Due to these 
+acquisitions and growth, Bravo’s market share has increased at a rate of 8% per year.  Furthermore, 
+the product portfolio has been recently optimized and rationalized through a consulting engagement. 
+Finally, extensive research has been done for a new pricing strategy, which has been successfully 
+introduced three months ago.  Profits have been flat the last five years across the industry, however, 
+Bravo profits have decreased over the same period by 4% per annum.  Recent regulatory reform 
+and public attitude towards insurance providers has added increased pressure on the executive 
+team to transform the organization and turn the company around.
+The CEO had asked the CIO of Bravo to put together a roadmap to identify key areas of 
+transformation.  The CIO has hired you to lead the planning and road-mapping exercise for his 
+technology organization.  What project plan or roadmap would you propose for this engagement to 
+sell to the CIO?
+Guidance
+There is no additional data that is required for this case.
+Most (if not all) of the data/information in the prompt is superfluous and is meant to overwhelm the 
+candidate as the final prompt asks for a “roadmap…to sell to the CIO,” which is different from a 
+typical case where the candidate will jump head first into a “framework.”  The most important aspect 
+of the case is to identify the “ask” correctly.  The ask is for a “roadmap” or “project plan,” not a typical 
+“framework.”
+Hints:
+• If the candidate jumps into a typical “framework,” stop him/her and restate that your client is 
+looking for a “roadmap, phases, project plan”; tell the candidate that a “cost framework” may be 
+useful later, but not now
+Specialty 
+143
+
+
+===== PDF p148 =====
+Guidance
+Candidate should develop something along these lines:
+1. Stakeholder Analysis (on both business and technology side)
+2. Business Strategy and Technology Strategy Alignment 
+[the following are for the CIO and the technology organization]
+3. Current State Capability Assessment (CSA)
+4. Future State Capability Assessment (FSA)
+5. Gap Analysis
+6. Project Identification
+7. Project Prioritization
+8. High Level Project Plan/Timelines
+One or two examples or comments about what each of the above mean are expected.
+Performance 
+Evaluation
+Expected:
+• Correctly identify the ask as a “roadmap” and not a typical “framework”
+Good:
+• Current State Capability Assessment
+• Future State Capability Assessment
+• Gap Analysis
+Excellent:
+• Candidate asking if he/she can do a deep dive to investigate if there are any savings opportunities 
+in the IT organization.
+Case 20: Bravo Insurance
+144
+
+
+===== PDF p149 =====
+Case 20: Bravo Insurance
+Prompt #2
+You have identified a hypothesis that will explain some of the key issues the CIO is facing.  Due to 
+Bravo’s growth through acquisitions, the IT infrastructure is fragmented, resulting in increasing 
+costs, redundancies, and inefficiencies, impacting the bottom line.
+What are some of the key issues that the CIO should highlight to his senior management team as 
+opportunities for savings?
+Guidance
+• This is a qualitative assessment, not quantitative; no additional data is required.
+• This is asking to drill down into the Gap Analysis step.  A “typical” cost framework can be used.
+Answers will vary greatly, but they should be structured.  People and systems are good 
+buckets to encourage them  to evaluate if they need help.
+Impact on People:
+• Change organizational structure to eliminate redundancies
+• Change/Update job mandates (e.g. right people doing right jobs)
+• Upgrade people skills (e.g. people doing jobs right)
+• Outsourcing vs. Insourcing
+Impact on Systems and Processes:
+• Outsourcing vs. Insourcing
+• Benchmark system costs to competitors
+• Upgrade systems
+• Retire/merge/consolidate systems (to eliminate redundancies)
+• Consolidate data centers (to eliminate redundancies)
+• Inefficient processes that can be streamlines and reengineered
+Specialty 
+145
+
+
+===== PDF p150 =====
+Guidance
+Answers will vary greatly, but they should be structured.  People and systems are good 
+buckets to encourage them  to evaluate if they need help.
+Impact on People:
+• Change organizational structure to eliminate redundancies
+• Change/Update job mandates (e.g. right people doing right jobs)
+• Upgrade people skills (e.g. people doing jobs right)
+• Outsourcing vs. Insourcing
+• Etc.
+Impact on Systems and Processes:
+• Outsourcing vs. Insourcing
+• Benchmark system costs to competitors
+• Upgrade systems
+• Retire/merge/consolidate systems (to eliminate redundancies)
+• Consolidate data centers (to eliminate redundancies)
+• Inefficient processes that can be streamlines and reengineered
+• Etc.
+Case 20: Bravo Insurance
+Specialty 
+146
+
+
+===== PDF p151 =====
+Case 20: Bravo Insurance
+Prompt #3
+The CIO is on his way to meet with you.  What is your summary of your strategy to solve this issue?
+Guidance
+The candidate should re-use his/her roadmap that was created earlier, followed by a specific 
+recommendation about key cost saving opportunities.
+• Tell the candidate to take a minute.
+• A “Recommendation” and “Risks” are appropriate.  The “roadmap” that was created earlier can be 
+used for “Next Steps”
+Good summary
+• Restate the key hypothesis:  Fragmentation due to acquisitions, resulting in increased costs
+• Recommendation:  Focus on people, process, and system redundancies to turn around the 4% 
+per annum decrease in profits
+• Risks:  People change management, business continuity, hidden costs
+• Show the roadmap and highlight the first two steps, “Stakeholder Analysis,” and “Business 
+Strategy and Technology Strategy Alignment” (no need to go over the full roadmap, but rather 
+highlight the kick off and strategy alignment steps)
+Specialty 
+147
+
+
+===== PDF p152 =====
+Performance 
+Evaluation
+Expected:
+• Ability to complete without getting thrown off by pure strategy nature of case
+• Completes all section with logical recommendations for each
+Good:
+• Develops roadmap and framework when appropriate, and determines how the two tie into one 
+another
+• Comes up with good and structured areas for improving the IT infrastructure, particularly 
+reviewing people and systems
+Excellent:
+• Complete all areas seamlessly without hesitating, and incorporating the roadmap and framework 
+into the CIO recommendation
+Case 20: Bravo Insurance
+Specialty 
+148

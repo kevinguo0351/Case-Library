@@ -1,0 +1,24 @@
+{
+  "case_id": "Wharton_2008_16_bevco",
+  "school": "Wharton",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Wharton\\Wharton_Case Book_2008.pdf",
+  "idx": 16,
+  "case_name": "BevCo",
+  "case_type": "Growth",
+  "round": "2",
+  "industry": "Beverages",
+  "difficulty": null,
+  "pdf_page_start": 115,
+  "pdf_page_end": 118,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    116,
+    118
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p116.png",
+    "exhibits/exhibit_p118.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Wharton\\2008\\16_bevco"
+}

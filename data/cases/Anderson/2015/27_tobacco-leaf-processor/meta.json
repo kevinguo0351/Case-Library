@@ -1,0 +1,22 @@
+{
+  "case_id": "Anderson_2015_27_tobacco-leaf-processor",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 27,
+  "case_name": "Tobacco Leaf Processor",
+  "case_type": "M&A",
+  "round": null,
+  "industry": "Agriculture / Tobacco",
+  "difficulty": "medium",
+  "pdf_page_start": 148,
+  "pdf_page_end": 150,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    148
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p148.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\27_tobacco-leaf-processor"
+}

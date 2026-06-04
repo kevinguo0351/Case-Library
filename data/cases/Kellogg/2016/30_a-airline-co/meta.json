@@ -1,0 +1,28 @@
+{
+  "case_id": "Kellogg_2016_30_a-airline-co",
+  "school": "Kellogg",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2016.pdf",
+  "idx": 30,
+  "case_name": "A+ Airline Co.",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Airline",
+  "difficulty": null,
+  "pdf_page_start": 223,
+  "pdf_page_end": 228,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    224,
+    225,
+    227,
+    228
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p224.png",
+    "exhibits/exhibit_p225.png",
+    "exhibits/exhibit_p227.png",
+    "exhibits/exhibit_p228.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2016\\30_a-airline-co"
+}

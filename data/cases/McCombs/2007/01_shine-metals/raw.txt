@@ -1,0 +1,110 @@
+===== PDF p7 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business 
+Page 4 
+ 
+ 
+ 
+Case 1: Shine Metals 
+Company: Boston Consulting Group 
+ 
+Case Question:  An entrepreneur has recently bought a metal processing factory and wants you to 
+design the supply chain system for the finished goods. You are his consultant and how will you 
+proceed? 
+ 
+Specific objectives:  
+1) We are concerned only about the outbound finished goods. 
+2) Minimize Cost 
+3) Reliable delivery 
+ 
+Suggested structure: 
+For a supply chain design the candidate should be willing to explore the following 
+1) Number of Products 
+2) Number of customers 
+3) Product demand 
+4) Transportation 
+5) Inventory 
+6) Any warehousing decisions 
+7) Location of factory  
+8) Customer location 
+9) Flow of information 
+ 
+The case is essentially a transportation case. After initial structuring ask the candidate to focus only 
+on the transportation part. The focus here is to minimize transportation cost and ensure reliable 
+product delivery.  
+ 
+Provide the following information when asked. But if the candidate doesn’t get here in a few minutes 
+provide this 
+1. The factory has only one customer. All shipments are direct from factory to the customer 
+2. The factory is located in Chicago and customer is in Denver. The distance between the two is 
+1000 miles 
+Question: Ask the candidate about various modes of transportation possible. Finally settle in for 
+trucks 
+3. The customer demand is 40 truck loads per week 
+4. Currently the factory is using freight companies which charge about $3 per mile for a truck 
+load 
+ 
+Question: The client is now considering reducing this cost. How can the client do it? 
+Some possible answers: Negotiate with contractors to reduce cost, look at alternate freight 
+companies, buy trucks on its own, lease trucks, shift the plant location to Denver 
+
+
+===== PDF p8 =====
+Do not reproduce, store or distribute without written permission from the Graduate Consulting Group at McCombs School of Business 
+Page 5 
+ 
+Instruction: Insist on the leasing option. Ask the candidate what information he wants to decide if 
+leasing is a cheaper option. The candidate should ask for the following things 
+- 
+Leasing cost per truck - $1750 per month 
+- 
+Labor cost (Salary of drivers) - $ 0.5 per mile 
+- 
+Fuel cost - $0.3 per mile 
+- 
+Vehicle maintenance cost - $ 0.4 per mile 
+- 
+Loading and unloading cost – negligible 
+- 
+Assume 4 weeks per month 
+- 
+The lease provider pays the insurance cost 
+- 
+A truck can make only 2 round trips per week 
+ 
+What is the total monthly cost? 
+ 
+Current system by using Freight Company:  
+Monthly demand = 4 * 40 = 160 truck loads 
+Total miles traveled = 160 * 1000 = 160000 (Freight companies charge only one way) 
+Total cost = 160000 * $3 per mile = $ 480,000 
+ 
+New system with leasing: 
+Weekly demand = 40 truck loads. We need 20 trucks as a truck can make only 2 round trips a week 
+Leasing charges per month = 20 trucks * 1750 per month = $ 35,000 
+Labor cost per month = 20 trucks * 16000 miles per truck per month * 0.5 = $ 1,60,000 (Here an 
+empty truck returns from Denver to Chicago after making a delivery to the customer and for each 
+delivery a truck travels 2000 miles. Thus in a month a truck travels 16000 miles) 
+Fuel cost per month = 20 * 16000 * 0.25 = $ 80,000 
+Vehicle maintenance cost = 20 * 16000 * 0.4 = $ 128,000 
+ 
+Total cost per month = 35000 + 160000 + 80000 + 128000 = $ 403,000 
+Expected saving = $ 480000 - $ 403000 = $ 77000 per month 
+ 
+Question: What other ways can you suggest to make more money with this transportation system? 
+A good candidate will identify the opportunity to make use of the empty-return truck from Denver to 
+Chicago. They may suggest transporting any raw materials or sell the space to some other trucking 
+company.  
+ 
+Question: What are the negatives of leasing trucks? 
+- 
+Managing the drivers 
+- 
+What if the vehicle meets with an accident? 
+- 
+We have to maintain accounting systems for all the expenses. 
+ 
+Question: Will this system ensure reliable delivery? 
+ 
+Ask the candidate to provide a 30 second summary of his recommendation. 
+ 
+ 

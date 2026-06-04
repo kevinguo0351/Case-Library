@@ -1,0 +1,32 @@
+{
+  "case_id": "Stern_2017_07_enerforce",
+  "school": "Stern",
+  "year": "2017",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2017.pdf",
+  "idx": 7,
+  "case_name": "EnerForce",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Energy",
+  "difficulty": "Medium",
+  "pdf_page_start": 92,
+  "pdf_page_end": 104,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    96,
+    97,
+    98,
+    102,
+    103,
+    104
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p097.png",
+    "exhibits/exhibit_p098.png",
+    "exhibits/exhibit_p102.png",
+    "exhibits/exhibit_p103.png",
+    "exhibits/exhibit_p104.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2017\\07_enerforce"
+}

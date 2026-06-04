@@ -1,0 +1,266 @@
+===== PDF p26 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+22
+Declining Profits at a Fast Food Chain 
+ 
+Opening 
+The business we are talking about is a fast food chain, selling specialty food 
+snacks and desserts. The first store opened 10 years ago, and today it has 
+over 50 locations in 15 of the 50 US states. It continues to expand at a rapid 
+rate. In an effort to increase sales and face increasing competition, the 
+company has introduced a series of new products. While sales have 
+increased in all stores in the country, some locations have experienced 
+decreasing profits.  
+ 
+How would you help the company identify what the problem is? 
+ 
+Background 
+Provide the following information if requested: 
+ 
+• 
+The food chain used to sell only sweet products, mainly purchased as 
+snacks or desserts. The ingredients in these products include fresh 
+produce items such as strawberries, bananas, and other fresh fruits. 
+Increasing competition and stagnant unit and gross sales motivated the 
+company to introduce savory products and increase traffic at off-peak 
+hours (peak hours in this case are afternoons, when people generally 
+have a snack or dessert). 
+• 
+The new products include a set of savory products with ingredients 
+requiring special ordering and handling. These ingredients also include 
+fresh produce such as lettuce, tomatoes, and cheese.  
+• 
+Most of the ingredients in both sweet and savory products include fresh 
+produce 
+ 
+Answer 
+An appropriate structure for this case is the profitability framework 
+ 
+Revenues 
+Revenues = Price * Volume, and in this case even as the new savory 
+products are slightly more expensive than the old ones, customers have 
+reacted positively and have started purchasing them. However, there has 
+been some product cannibalization, and the unit sales of sweet products 
+have experienced some decline. 
+ 
+
+
+===== PDF p27 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+23
+Costs 
+Since revenues are not the main source of the problem, the interviewee 
+should proceed to evaluate the cost side if the equation: Costs = fixed + 
+variable. In this case fixed costs haven’t changed. Most of the stores have 
+been in operation for some years now, and the inclusion of the new products 
+has not affected their operation significantly. Marketing and advertising 
+campaigns have been recently launched to promote the new products, but 
+the costs were evenly spread across all stores and are not of significant 
+value. 
+ 
+The problem is with variable costs. Labor was already in place, and actually 
+the new products increased activity in slow times, but there wasn’t a need to 
+hire additional personnel. The new products are sold mainly at hours were 
+the operation used to be slow in the past and has actually decreased slack 
+time of employees during those hours. 
+ 
+With all other costs being negligible, the main source of the problem is with 
+the food cost. The bottom line of the problem is that since the new products 
+require special handling, the cost of some ingredients is not the same for all 
+store locations. The company has national contracts with its main suppliers, 
+but as stores are located in different geographic locations, seasonality and 
+varying distributing costs has forced suppliers to charge these ingredients at 
+a premium.  
+ 
+ 
+Analysis 2 
+Given the problem is that the food costs are not constant for all stores, and 
+that has decreased profitability at some locations, suggest potential 
+solutions to address this situation. 
+ 
+Answer 
+• 
+Exercise bargaining power over suppliers: Since the company has several 
+locations throughout the country and has signed national contracts with 
+suppliers, it could try to negotiate discounted prices for “troubled” 
+locations. 
+• 
+Look for alternate local suppliers: Evaluate the possibility of purchasing 
+certain products from local and smaller suppliers, generally selling at 
+lower prices.  
+• 
+Look for alternate and cheaper ingredients. This sounds risky because it 
+could lower the quality of the food sold.  
+• 
+Reduce the volume used. For the same reason, this sounds risky because 
+it would change product recipes.  
+• 
+Introduce alternate items at certain locations: This is also very risky, as it 
+would take away uniformity from the chain and may upset some 
+
+
+===== PDF p28 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+24
+customers. On the other hand, the company could take advantage of local 
+food preferences and offer unique creations to cater local markets. 
+• 
+Change the product mix: The total food cost is the sum of the individual 
+food costs for each of the items sold. Promoting products with higher 
+margins would reduce the overall food cost and contribute to increase 
+profitability. 
+• 
+Combos and promotions: Grouping low and high cost items in combo 
+meals (e.g. entrée + beverage + dessert) could motivate clients to 
+purchase more products and ultimately reduce the food cost by 
+promoting a more efficient product mix. Also, through discounts and 
+promotions of products with higher margins the company could improve 
+the product mix. 
+ 
+ 
+Analysis 3 
+Let’s suppose that you decide that you want to launch a campaign to 
+promote higher margin products and improve profitability on troubled stores. 
+You are provided with the following information: 
+ 
+Before New Products were included: 
+Product Type 
+Average Price 
+Average Cost 
+Average Weekly 
+Units Sold 
+Sweet 
+$ 5.00 
+$ 1.00 
+4,000 
+ 
+ 
+After New Products were included: 
+Product Type 
+Average Price 
+Average Cost 
+Average Weekly 
+Units Sold 
+Sweet 
+$ 5.00 
+$ 1.00 
+3,000 
+Savory 
+$ 6.00 
+$ 3.00 
+1,250 
+ 
+Assuming that food cost is the only significant cost, what should be the 
+product mix the company should sell, including the new products, to return 
+to at least the same level of profitability without losing the increase in 
+revenue due to new products?  
+ 
+
+
+===== PDF p29 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+25
+Answer 
+Old Profit = Total Old Revenues – Total Old Costs 
+Old Profit = 4,000 x $ 5.00 – 4,000 x $ 1.00 
+Old Profit = $ 16,000 
+ 
+New Gross Sales = $ 5.00 x 3,000 + $ 6.00 x 1,250 
+New Gross Sales = $ 22,500 
+ 
+Define Variables 
+X = Sweet products sold 
+Y = Savory products sold 
+ 
+New Profit = Total New Revenues – Total New Costs = Old Profit  
+New Profit = ($5.00 X + $6.00 Y) – ($1.00 X - $3.00 Y) = $ 16,000 
+New Profit = $ 4.00 X + + $ 3.00 Y = $ 16,000 
+ 
+ 
+ 
+(1) 
+ 
+New Gross Sales = $ 5.00 X + $ 6.00 Y = $ 22,500  
+ 
+ 
+(2) 
+ 
+Solving for X and Y using equations 1 and 2, you get that the company 
+should sell 3,167 sweet products and 1,111 savory products. 
+ 
+ 
+Analysis 4 
+How does the total food cost under this new product mix compare to that 
+under the less profitable scenario? 
+ 
+Answer 
+Old Food Cost = $ 1.00 x 3,000 + $ 3.00 x 1,250 
+Old Food Cost = $ 6,750  
+ 
+As a % of Sales = $ 6,750 / $ 22,500 = 30% 
+ 
+New Food Cost = $ 1.00 x 3,167 + $ 3.00 x 1,111 
+New Food Cost = $ 6,500 
+ 
+As a % of Sales = $ 6,500 / $ 22,500 = 28.9% 
+ 
+Change in Food Cost = (New Food Cost–Old Food Cost)/(Old Food Cost)x100 
+Change in Food Cost = ($ 6,500 - $ 6,750) / ($ 6,750) x 100 
+Change in Food Cost = 3.7% 
+
+
+===== PDF p30 =====
+This edition is provided for the exclusive use by only the Haas Consulting Club and its members. 
+ 
+ 
+ 
+Copyright © 2006 by the Leonard N. Stern School of Business Management Consulting Club. 
+Do not reproduce or distribute without the permission of the Stern MCA. 
+26
+ 
+Analysis 5 
+If the company wants to negotiate the prices of new ingredients with its 
+suppliers to reach the improved profitability levels with the old price mix, 
+what should be the price discount it should ask for? 
+ 
+Answer 
+Total Target Savings = $ 6,750 - $ 6,500 = $ 250 
+ 
+Unit Savings = $ 250 / 1,250 = $ 0.20 
+ 
+Discount = $ 0.20 / $ 3.00 x 100 = 6.67% 
+ 
+ 
+Conclusion 
+The interviewee should have identified that this is a profitability problem 
+focused on the cost side rather than on the revenue side of the formula. 
+After addressing the main cost items, he/she should have been more 
+extensive in asking questions about the different cost items and should have 
+identified that the problem was with the food cost. 
+ 
+As the interviewee prepares to wrap up, he/she should be able to recap the 
+situation and cite a couple of the potential solutions to the problem. Further, 
+he/she could use the numbers to provide some insight about the situation, 
+mentioning how the new products have a higher food cost and how can 
+some of the solutions could be translated into tangible results.  
+ 

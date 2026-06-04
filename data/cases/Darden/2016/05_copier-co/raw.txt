@@ -1,0 +1,221 @@
+===== PDF p71 =====
+CASE 5:
+Copier, Co.
+Firm Style
+Interview Round
+BCG
+1
+Clarifying information (provide only if corresponding questions are asked) 
+Sales Process – The company actually bids on contracts; contracts are typically awarded to the lowest 
+bidder.  The bid consists of a per copier cost which includes 1 year of maintenance as part of sales 
+price. Salesmen have free reign to determine bid price and are compensated based on commission 
+(% of overall sales)
+Competition – One major competitor (American Copiers), but a new, low-cost competitor (Bottom 
+Dollar Copier) has recently entered the market.  These three companies are distributors and service 
+technicians, NOT manufacturers.
+Product – This case will focus on one identical copier sold/distributed by multiple firms
+Case Question
+Copier, Co. is a national distributor of office equipment, particularly commercial-grade 
+copiers.  The firm sells the equipment directly to companies for use in their offices, as 
+well as provides regular service including maintenance, repairs, and replacing disposable 
+parts.  Recently, the company has experienced declining profit margins; we have been 
+hired to determine why this is happening and what to do to reverse the trend.
+
+
+===== PDF p72 =====
+Copier, Co.
+• Question #1 - Framework/Structure
+A profitability framework will serve the candidate well, but they should also consider 
+other factors to attempt to diagnose WHY profitability is declining.  
+Financial: Profit = Revenue – Costs
+Revenue: 
+Volume: Number of copiers sold/contracts awarded
+Price: Average copier sale price/bid price
+Costs:
+FC: Sales force (base), warehousing, overhead
+VC: Service/labor costs, COGS, transportation, sales force (commission)
+Non-Financial: These should address some of the clarifying questions/information and 
+how it helps solve the problem
+Competition: Size and share of competitors (AC, BDC), bidding process
+Product: Product quality and characteristics, 
+Customer: Changing customer preferences, different markets
+Company: Salesforce compensation, product mix
+
+
+===== PDF p73 =====
+Copier, Co. – Exhibit 1
+• Question 2 - Examining declining profit margins
+The candidate should begin by asking for data related to revenue and costs to help 
+determine why profitability is declining.  Let the candidate probe until they ask for 
+information regarding unit price and copier quantity.  Then, show them Exhibit 1 and ask 
+for reactions.
+Good response: Candidate should realize that there is a negative correlation – the more 
+copiers in the contract, the lower per copier bid price (price wars for more contribution).  
+A candidate should hypothesize why that may be so - perhaps the salespeople may be 
+lowering bid price in effort to increase commission (due to higher sales from larger 
+quantity contracts) or looking to increase overall profit while overall margins are smaller.
+Great response: Candidate should point out that there are a few contracts with high bid 
+prices.  With the information about the new competitor in hand, candidate should ask for 
+information for average sales price based on the competitors for the contract.
+Let candidate probe until they ask for information relevant to Exhibit 2.  If candidate is 
+struggling, ask about those high bid price points on Exhibit 1 and why they might be 
+happening.
+
+
+===== PDF p74 =====
+Exhibit 1: Copier, Co.
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+5500
+6000
+5
+10
+15
+20
+25
+30
+35
+Average Bid Price per Copier
+Number of Copiers in Order
+Copiers in Order vs. Bid Price for Copier Co
+
+
+===== PDF p75 =====
+Copier, Co. – Exhibit 2
+• Question 3 – Determine margin based on different competitors
+The candidate should start by determining profit for bids against American Copier only –
+if he/she does not immediately begin the profit calculation, prompt them to do so.  
+Common pitfalls will be failing to realize the pages printed are provided in months (needs 
+to multiply by 12 months to get annual) and that service is only included for one year.
+After the candidate calculates profit for bids against American Copier, ask them whether 
+the other bidding scenarios are profitable.  If candidate begins by laying out the math 
+similarly to their American Copier calcs, ask them to just answer without doing the entire 
+extent of the math.
+Good response: Candidate should recognize that bids against Bottom Dollar Copier are 
+profitable (but less so) and that bids against all three competitors are generally not 
+profitable, due to a contribution margin of zero.  A good candidate would do profit 
+calculations on a contribution basis (rather than total revenue and total cost).
+Great response: Candidate should transition into possible solutions to the problem 
+(Question #4)
+
+
+===== PDF p76 =====
+Exhibit 2: Copier Co.
+Copier Co Successful 
+Bid Info
+Competing against 
+American Copier 
+ONLY
+Competing against 
+Bottom Dollar Copier 
+ONLY
+Competing against 
+both A.C. and B.D.C.
+Average Bid Price
+$5,000 
+$4,000 
+$3,000 
+Average Copiers in Order
+20
+25
+30
+Cost of Copier
+$3,000 
+$3,000 
+$3,000 
+Service cost* (per page printed)
+$0.05 
+$0.05 
+$0.05 
+Average pages printed per copier 
+(per month)
+1,000 
+1,000 
+1,000 
+*Service for 1 year included
+
+
+===== PDF p77 =====
+Exhibit 2: Copier Co. (Solutions)
+Copier Co Successful 
+Bid Info
+Competing against 
+American Copier 
+ONLY
+Competing against 
+Bottom Dollar Copier 
+ONLY
+Competing against 
+both A.C. and B.D.C.
+Average Bid Price
+$5,000 
+$4,000 
+$3,000 
+Average Copiers in Order
+20
+25
+30
+Cost of Copier
+$3,000 
+$3,000 
+$3,000 
+Service cost* (per page printed)
+$0.05 
+$0.05 
+$0.05 
+Average pages printed per copier 
+(per month)
+1,000 
+1,000 
+1,000 
+*Service for 1 year included
+Contribution per copier
+$2,000 
+$1,000 
+$0 
+Service cost per copier
+$600 
+$600 
+$600 
+Profit per copier
+$1,400 
+$400 
+($600)
+Total Profit
+$28,000 
+$10,000 
+($18,000)
+
+
+===== PDF p78 =====
+Copier, Co.
+• Question 4 – Solutions to small margins (Brainstorming)
+Have the candidate brainstorm solutions to the low bid issue.  Don’t allow the 
+candidate to stop with ‘don’t bid on contracts with all three competitors’.  Let 
+them know that the firm’s management wants to bid on all contracts and they 
+need to come up with creative solutions to solving the profitability problem in 
+those scenarios.  
+Possible answers include:
+-Minimum allowable bid prices for sales people
+-Change compensation structure
+-Offer different packages (no service component, multi-year service contracts)
+-Negotiate better pricing for copiers
+-Offer complementary products to copier sales (paper, other equipment, etc)
+-Joint Venture with competitors on large orders
+
+
+===== PDF p79 =====
+Copier, Co.
+• Question 5 – Recommendation
+The CEO is anxiously awaiting your analysis a recommendation – what answers 
+do you have for Copier Co?
+Candidate should succinctly identify that the new competitor and commission 
+based compensation structure is resulting in lower bid prices and thus lower 
+margins. That candidate should identify one or two actionable solutions they 
+generated from Question #4 and elaborate on how they would instigate those 
+changes tomorrow.

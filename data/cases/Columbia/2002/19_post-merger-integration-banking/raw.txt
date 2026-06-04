@@ -1,0 +1,86 @@
+===== PDF p87 =====
+Business Type Cases (full answers) 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+83 
+We just finished a post merger integration project between two mid-sized pharmaceutical 
+companies.  Each of them has broad product portfolios consisting of only branded or patented 
+prescription drugs; neither company sells OTC drugs.  The combined company’s sales are the 
+largest in the world, comprising 10% of the pharmaceutical drug market.  All organizational 
+aspects of the merger are complete (new positions have been assigned and assumed).  The new 
+Head of Development comes to us and asks if we can analyze the combined Development 
+Portfolio.  He is certain that some of the projects in Development can be eliminated; others he 
+feels are blockbusters and should be fast tracked; others are middle of the road type products that 
+may be successful and can continue through the normal development process.  He wants our 
+team to identify the appropriate product portfolio.  FYI, here is what the development process 
+looks like: 
+ 
+R&D     $     Pre-clinical      $      Clinical       $       FDA Approval       $      Launch 
+ 
+Each step in this process can take months or years to complete.  Additionally, the number of 
+products in each stage also decreases.  For example, there may be 200 products in R&D, 75 in 
+Pre-Clinical, 50 in Clinical, 20 in FDA approval and 5 in Launch. 
+ 
+To identify the ideal portfolio, I would analyze consumer demand, competition, and the expected 
+profits and risk of each product in development. 
+ 
+First, I would identify what ailment the product is for and try to determine the total number of 
+people facing this illness.  I would determine the current market size for the illness and project it 
+out to the appropriate number of year(s) the product requires before it can be launched.  This will 
+give us an understanding of the total market size for each product. 
+ 
+Next, I also want to look at what the competition is doing.  In the pharmaceutical industry, being 
+the “first” to offer a particular drug can give a company a competitive edge; once physicians 
+begin to use a drug, I would assume it is more difficult to make them switch to a new drug unless 
+it offered other benefits as well.  Therefore, it is important to concentrate on what the client’s 
+competitors have in their development pipeline and their timeline of release relative to ours.  I 
+would also want to try to understand the potential reactions of competitors to our client’s 
+portfolio decisions.   
+ 
+!"Ok, let’s say we’ve looked at the market size and the competitors, what’s next? 
+   
+Well, we want to identify the profit potential of each of the products as well as their riskiness.  
+Based upon the availability, reputation and pricing of competitive products, I would determine 
+the market share our client could expect for each product.  I would then make pricing 
+assumptions based upon the costs incurred and competitors’ prices to forecast revenue streams 
+for each product. 
+ 
+!"What are the different costs involved? 
+ 
+Well, there are all research, development and testing costs incurred prior to launch.  Once a 
+product is approved by the FDA for launch,…well, let’s go through the value chain: 
+ 
+
+
+===== PDF p88 =====
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+84 
+Please do not duplicate, copy, print or photocopy 
+ 
+Approval  $  Manufacturing Costs  $  Sales & Marketing Expenses (training/education of 
+physicians)  $  Distribution   $  Customer service 
+ 
+The costs for each product can then be subtracted from the revenue to determine profits for each 
+year.  Then, we must take the present value of the profit streams to determine the total profit 
+potential, using an appropriate rate that considers the riskiness of the product. 
+ 
+!"Ok, let’s say we’ve done all the research and have an enormous Excel spreadsheet that has 
+total costs and revenues by product.  What would you do?  How do you make your decisions? 
+ 
+Well, we can calculate profits as total revenues less costs.  One missing factor to consider, as I 
+mentioned earlier, is the riskiness of the product.  I would speak with the scientists working on 
+each product to determine the probability of the product actually being launched.  Then, I would 
+calculate the expected profit; that is, (Probability of success) * (Profit Potential) + (Probability of 
+Failure) * (Potential Loss).  The potential loss is the total of the costs incurred prior to launching 
+the product.  [I actually drew a decision tree here showing the two branches of failure or success.  
+BCG loves graphs, charts, etc.!]  I would then select the top expected profit products, considering 
+competitive positioning and timelines as we discussed earlier. 

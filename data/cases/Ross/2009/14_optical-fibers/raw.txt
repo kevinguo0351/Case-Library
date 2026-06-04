@@ -1,0 +1,135 @@
+===== PDF p68 =====
+The client is a fiber optical manufacturer.  (Fiber optics 
+are wires that transmit data)
+The CEO of this fiber optical firm is new and is trying to 
+assess the firm’s business situation. At a surface levels, 
+she knows the firm is experiencing a 50% decline in 
+revenues, but has hired BCG to dig further.
+- Data types transmitted over these wires are internet, TV, 
+phone, etc. . 
+- The client specifically sells these wires to big firms like 
+AT&T and Sprint and they put them underground and
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+Optical Fibers (1 of 5)
+BCG, Round 2
+She has 3 specific questions:
+-Why is the firm experiencing this revenue decline?
+-When will the firm rebound?
+-How does the firm relate to its competition?
+AT&T and Sprint and they put them underground and 
+use them to transmit data over long distances.
+
+
+===== PDF p69 =====
+1. Why is the firm 
+experiencing this 
+revenue decline?
+The answer to this question is qualitative in nature. The industry as a whole is suffering because 4 
+years ago more optical fibers were put in the ground then their was demand for. Each fiber optical 
+cable can support about 1 tera bit of information, and the demand per second (unit of time we’ll 
+use) is less than 1 tera bit per hour.
+The student should be looking for data that will help them see when the market or demand for 
+these cables will come back. 
+Student should tackle each one of the three questions in this order:
+Optical Fibers (2 of 5)
+BCG, Round 2
+2. When will the firm 
+rebound?
+When prompted, the interviewer will reveal:
+-Candidate should use the market of fibers between D.C. and NY as representative of the world for 
+the purposes of this case
+-There are 1000 fibers between these two cities and  the peak of demand is 100 terabits/sec. 
+-Every year the peak demand doubles. Use time zero of demand as 100 terabits, year 1 as 200 and 
+so on. 
+Candidate should 
+determine that:
+Demand will exceed capacity in year 4 so somewhere between year 3 and year 4, there fore more 
+cables will have to be installed and the company can rebound. This is sufficient for this part of the 
+case (don’t need to get into how much of that market they can capture, etc.)
+
+
+===== PDF p70 =====
+3. How does the firm 
+relate to its 
+competition?
+Ask the candidate what they would look at to compare this firm to the competition. Don’t let them 
+go until they’ve exhausted most of the things on the list below. First have them list all things, then 
+give them information on the firm as it relates to each category on their list.
+Category
+Information on Firm
+Price
+Commodity good - same price as everyone else
+Product Quality
+Not relevant to customers, commodity market
+Manufacturing Capacity
+Largest capacity, most idle capacity
+Cost Structure
+Lowest cost structure/best profits
+Optical Fibers (3 of 5)
+BCG, Round 2
+Candidate should 
+identify that:
+Some of these are things you would always look at, but some of them are important to this case. 
+For example, capacity matters because the firm with idle capacity will be able to grab the new 
+business when the market picks up again. Also the firm with cash on hand and no debt will be able 
+to get through tough times when the market is slow.
+Share of Market
+#1 in market, have scale benefits
+Customer Base
+Sell to the major companies in market like AT&T and Sprint
+Geographic Footprint/Distribution
+Same as competitors
+Cash/Assets (Balance Sheet)
+Lot of cash on hand, no debt
+
+
+===== PDF p71 =====
+After answering the 3 
+initial questions:
+Tell the candidate that he/she’s done a good job getting through the 3 questions put forth, but you 
+still have one more. Someone on the CEO’s team wants to get a quick sense of the firm’s variable 
+and fixed costs. This is an ad hoc question they want a quick answer on.
+Provide this data:
+Two months of data:
+Month 1
+Month 2
+Produce 3MM km of fiber
+Produce 2MM km of fiber
+Optical Fibers (4 of 5)
+BCG, Round 2
+oduce 3
+o
+be
+oduce
+o
+be
+Costs are $50MM
+Costs are $40MM
+Candidate should 
+determine that:
+1MM km fiber costs $10MM (difference between Month 1 & 2 costs)
+Thus fixed costs are $20MM per month
+
+
+===== PDF p72 =====
+Lastly: 
+Tell the candidate that the CEO has a couple minutes between meetings and is looking for a quick 
+summary and recommendation. They should use this opportunity to update on questions 1, 2 and 
+3 (not the variable/fixed question). 
+)
+f
+Optical Fibers (5 of 5)
+BCG, Round 2
+Candidate should 
+respond with:
+1)
+Your revenues have declined because the industry as a whole has declined. The current fiber 
+optic supply exceeds demand.
+2)
+The market demand will bounce back in 3 years 
+3)
+You’re in a great position to capture the new demand (excess capacity, largest player, stellar 
+customer base) and weather the market slow down (have cash on hand, no debt.)
+Student can also offer next steps or risks, but this is not critical.

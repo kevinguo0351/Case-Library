@@ -1,0 +1,162 @@
+===== PDF p45 =====
+Unknown Round
+Case 7: Chemical Brothers Int.
+Prompt
+Your client Chemical Brothers International (CHEMBRO), is a major chemical producer, has
+retained  your  firm’s  services  to  evaluate  the  feasibility  of  acquiring  another  major  player  in  the
+industry, Plastics of America (POA). Both companies are bulk commodity chemical producers.
+Your  task  is  to  analyze  the  future  prospects  of  POA’s  major  product  line,  a  chemical  used  in  the
+production of plastics. Should Chembro acquire POA?
+Guidance
+There are two issues in this case that should be addressed separately in the suggested order:
+1. What issues need to be addressed in  evaluating an M&A proposal? Qualitative
+2. What is the valuation?  Quantitative
+Prompt –
+Part II
+What strategic issues need to be addressed in evaluating an M&A proposal?
+Guidance
+The  idea  here  is  to  get  a  sense  of  the  candidates’  business  judgment  and  whether  or  not  he/she  is  
+able to apply correct frameworks to diagnose the issue at hand.
+A strong candidate will recognize that this case deals with internal factors (synergies and economies 
+of scale) as well as some external factors (opportunity costs and industry attractiveness). The 
+candidate should include some of the following elements in his framework:
+
+Market Attractiveness / Industry Potential
+
+Operational Analysis (Synergies/Economies of Scale/ Network Externalities)
+
+Organizational and cultural compatibility
+
+Capability to enact acquisition: Financial, legal, and perceptual barriers
+Valuation
+DMCC
+41
+
+
+===== PDF p46 =====
+42
+Analysis
+The candidates framework should cover the following buckets. Allow the candidate to ask for 
+information about the major categories before giving the information. If the candidate is missing one 
+of the buckets, prompt them with a question to get them on track.
+Market Analysis
+
+End-users come primarily from the automotive industry
+
+Market size has been slowly declining over the last five years
+
+Within the last couple of years, prices have declined rapidly
+Competition / Industry Analysis
+
+There are 10 major producers; the largest one with a 35% share; number two has 25%, and POA 
+is third with 20%; the remaining share is divided amongst others
+
+The two largest competitors earn a small return; POA is slightly above break-even; the rest are 
+operating at break-even or at a loss
+
+Relative capacity utilization in the industry is 60 to 70 % and has been so for the last 3 years. 
+POA is also currently working at 75% of capacity
+
+The two largest competitors are highly diversified with this particular product line representing no 
+more than 20% of their revenues
+
+Highly regulated industry with expensive pollution control equipment
+
+High barriers to entry because of the low profits and high investments required
+Product value proposition / brand portfolio
+
+The price has been driven by self-destructive cuts from the leaders to gain temporary share 
+points
+
+We do not foresee the development of any significant byproducts.
+
+Other possible uses: None.
+
+Complementary  Assets:  50%  of  POA’s  sales  are  to  the  automobile  industry
+Unknown Round
+Valuation
+DMCC
+Case 7: Chemical Brothers Int.
+
+
+===== PDF p47 =====
+43
+Analysis
+Finance and Operations
+
+Cost is based on size/efficiency/age of plant, etc. Within the industry, POA is in an above average 
+position.
+
+There are several operational improvements that could be implemented, and management has 
+not been aggressive in its pursuit of quality and cost controls.
+
+Great economies of scale exist in marketing and transportation. (Not quantifiable)
+
+Operational synergies could represent an additional $30 million in profits
+Prompt –
+Part III
+After discussing the above-mentioned qualitative aspects in some detail, provide the candidate with 
+Exhibit 1 when the conversation shifts to the topic of valuation. 
+Ask candidate to compute the present value of acquisition.
+Guidance
+You may allow the candidate to use 10% rate of return and not 9% (12% Return on Capital – 3% 
+Growth Rate) if requested. However ask him the effect on NPV of a higher vs. lower discount rate, 
+to gauge his understanding of the concept.  Answer: Higher discount rate means lower valuation.
+Analysis
+NPV analysis: Based on the information from Exhibit A, the net present value of the target company 
+is = $90M / (10%) = $900 million (assume perpetuity), which is less than the
+purchase price tag of $950 million. 
+Industry Attractiveness: not particularly attractive, unless the larger competitor can use economies of 
+scale and dominant position for economic gain.
+Unknown Round
+Valuation
+DMCC
+Case 7: Chemical Brothers Int.
+
+
+===== PDF p48 =====
+44
+Performance 
+Evaluation
+Expected: Candidate identifies that the purchase price is higher than the NPV.  Recommendation
+wrap-up  should  clearly  include  a  “go  /  no  go”  decision  followed  by  quantitative  (valuation)  and  
+qualitative (industry and compatibility analysis) facts..
+Good: A strong candidate will recognize that this case deals with internal factors (synergies and 
+economies of scale) as well as some external factors (opportunity costs and industry attractiveness).
+Excellent: An excellent candidate will include some of the following additional insights.
+A more comprehensive NPV would include the new cash flow from synergies, as well as
+the previously calculated NPV. Therefore the $900 million + [Synergies 30M/(12%-3%) =
+333M] = $1,233M value of target > 950 price tag.
+In addition to the cash flows expected from synergies, the potential economies of scale and tax 
+advantages from funding the acquisition with debt could be seen as other sources of revenue. 
+These considerations further improve the deal.
+Competitive and regulatory responses to block the merger are reasonable to assume due to 
+concerns over industry concentration. 
+Benchmarking the value of the POA acquisition to other similar M&A in the industry.
+Consider what multiple of operating profits other acquisitions been valued at? 
+Unknown Round
+Valuation
+DMCC
+Case 7: Chemical Brothers Int.
+
+
+===== PDF p49 =====
+45
+Purchase Price 
+$950 M
+Annual operating income before tax
+$90 M
+Cash 
+$30 M
+No. of employees
+2000
+Return of capital
+12%
+Market risk premium
+7%
+Growth rate
+3%
+Tax rate
+40%
+Exhibit 1
+Case 7: Chemical Brothers Int.

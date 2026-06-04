@@ -1,0 +1,180 @@
+===== PDF p158 =====
+CASE 15:  
+MINER’S DILEMMA 
+Case Question: 
+Your client is in the mining industry. They have just purchased a mountain that has high 
+concentrations of a valuable metal ore.  Unfortunately, the mountain is made up of an 
+unusually hard type of rock and none of the commercially available drills are able to 
+penetrate the mountain’s surface. Your client’s engineers have built a prototype of a 
+drill that could be used to extract the metal from the mountain.  The client is not sure 
+about whether to manufacture the drill and has doubts regarding profitably mining at 
+the mountain. Help the client think through the issue. 
+Firm Style 
+Interview Round 
+BCG, Bain 
+1 
+Clarifying Questions & Answers 
+Provide the following answers only if the interviewee asks the corresponding questions. 
+Question 
+Answer 
+Is there any way to mine without having to manufacture 
+the drill? 
+No 
+Is it possible to manufacture the drill that the client has 
+prototyped? 
+Yes, the client can manufacturer the 
+drill in-house. 
+Is it possible to outsource the production of the drill to 
+one of our suppliers or other manufactures? 
+Yes, there is a supplier who is capable 
+and willing to manufacture the drill. 
+
+
+===== PDF p159 =====
+MINER’S DILEMMA 
+Framework / Structure 
+This is a cost-analysis and profitability case.  
+Phase I – Understand more about the client’s plan for the mine  
+•
+Can you tell me more about the useful life of the mine and the extraction rates the 
+client is hoping to pursue?  
+•
+The client plans to extract ore from the mine for 20 years from the date drilling 
+commences. After that the mine will be retired with no salvage value. 
+•
+Additionally the client is concerned about flooding the market and will cap 
+annual extraction as per the following schedule: 
+•
+Years 1 – 5: < 10% of total US production 
+•
+Years 6 – 10: < 15% of total US production 
+•
+Years 10 – 15: < 20% of total US production 
+•
+Years 15 – 20: < 25% of total US production 
+•
+For logistical reasons (transportation, etc.) they must also cap annual extraction 
+to 12,000 tons. 
+•
+What is the annual US production?  
+•
+The annual US production is 64,000 tons. 
+ 
+
+
+===== PDF p160 =====
+MINER’S DILEMMA 
+Phase II - Determine which of two drill options is more cost effective. 
+ Manufacture Drills In-House  
+•
+What are the costs to the client if they decide to manufacture their own drills?  
+•
+There will be a $30MM fixed setup cost and a variable cost of $100,000 per drill. 
+•
+How many drills will the client need if they produce their own drills?  
+•
+Using their own design, each drill will be able to mine 500 tons of ore per year. b.   
+Each drill that the client produces will last 4 years at the given rate of mining. 
+ 
+Outsource Drill Production 
+•
+What are the costs to the client if they outsource production of drills?  
+•
+Each drill will cost the client $250,000 but there will be no setup cost. 
+•
+How many drills will the client need if they buy from a supplier? 
+•
+The manufacturer estimates that each drill of their design will be able to mine 
+400 tons of ore per year. 
+•
+The manufacturer estimates a 2.5 year lifespan for their drills at the given rate of 
+mining. 
+ 
+Phase III - Determine which option is more profitable. 
+•
+Can you tell me more about the ore? How much is it worth? 
+•
+For every ton of ore extracted the client will realize $325 in revenue. 
+•
+How much does the mine cost to operate?  
+•
+$1MM per year. 
+
+
+===== PDF p161 =====
+MINER’S DILEMMA 
+Strong Plan 
+The candidate has successfully identified both the issues in the case – drill cost 
+effectiveness and profitability of mining at the mountain. The candidate also asked 
+questions about the client’s mining plan and associated constraints. 
+ 
+Weak Plan 
+The candidate makes basic assumptions about the size of the mine and number of 
+drills typically needed. He starts working to a solution without considering the 
+outsourcing option. 
+ 
+Calculations 
+Total amount of ore to be mined over the life of the mountain:  
+• Years 1 – 5: 10% of 64,000 tons = 6,400 tons per year  
+• Years 6 – 10: 15% of 64,000 tons = 9,600 tons per year 
+• Years 11 – 15: 20% of 64,000 tons = 12,800 tons per year, but client is 
+constrained to a maximum of 12,000 tons per year 
+• Years 16 – 20: 25% of 64,000 tons = 16,000 tons per year, but client is 
+constrained to a maximum of 12,000 tons per year 
+• Total to be mined over 20 years: (6,400 x 5) + (9,600 x 5) + (12,000 x 10) = 
+200,000 tons 
+
+
+===== PDF p162 =====
+MINER’S DILEMMA 
+Number of drills needed if manufactured by client: 
+(200,000 tons) / (4 years per drill x 500 tons per drill per year) = 100 drills 
+ 
+Number of drills needed if outsourced:  
+(200,000 tons) / (2.5 years per drill x 400 tons per drill per year) = 200 drills 
+ 
+Total cost if client manufactures drills: 
+$30MM fixed cost + $100,000 variable cost per drill x 100 drills = $40MM 
+ 
+Total cost if client outsources drills:  
+$0 fixed cost + $250,000 variable cost per drill x 200 drills = $50MM 
+ 
+Total revenue from mining activities: 
+200,000 tons x $325 revenue per ton = $65MM 
+ 
+Profitability if client manufactures drills:  
+$65MM in revenue - $1MM operating cost per year x 20 years - $40M drill cost = $5MM 
+ 
+Profitability if client outsources drills:  
+$65MM in revenue - $1MM operating cost per year x 20 years - $50M drill cost = $-5MM 
+ 
+
+
+===== PDF p163 =====
+MINER’S DILEMMA 
+Recommendation 
+The recommendation should include the following: 
+•
+The client should manufacture their own drills to make the operation profitable. 
+Over the life of the project, outsourced drills cost $10MM more than drills 
+manufactured in-house.  
+•
+Risks or considerations  
+•
+There is a risk of cost overrun in setting up in-house manufacturing facility. It will 
+be important to secure the $30MM construction cost with the contractors. 
+•
+Additionally, our client may want to pursue the sale of drills to other mining 
+companies that own property with the same geologic makeup. 
+ 
+Questions to Further Challenge to Interviewee 
+•
+Do you think it may strain relations with the client’s drill supplier if they begin to 
+manufacture their own drills? What can the client do to mitigate this possibility? 
+•
+Do you think there might be a third solution?  What about working with the supplier 
+to have them manufacture the drills that your client’s engineers have designed? 
+How could that be good for your client?  
+•
+Based on what you’ve calculated, what could change that would make 
+outsourcing more optimal? 

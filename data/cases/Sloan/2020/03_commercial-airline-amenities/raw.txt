@@ -1,0 +1,183 @@
+===== PDF p71 =====
+Casebook | 2019-20 Edition 
+67 
+ 
+3. Commercial Airline Amenities (Bain R1, Transportation, New 
+Product, Balanced) 
+Stem: Our client is a commercial airline that is planning to upgrade their on-board amenities during the 
+next round of plane purchases. They have already decided to provide on-board wi-fi for their passengers 
+and are considering adding individual entertainment screens for each passenger. They have asked Bain 
+to evaluate the proposal. 
+ 
+Phase 1: Framework 
+ 
+Interviewer: What would you consider in your evaluation? 
+ 
+Candidate: Before I proceed, can I clarify what is the goal of the upgrade? Is it purely profit-driven? 
+ 
+Interviewer: Well, that is a main goal. What other drivers would you think would cause the airline to 
+consider such a project? 
+ 
+Candidate: The airline could consider it as an additional revenue stream on its own, or to provide the 
+service at cost to differentiate themselves from the competition and increase overall number of tickets 
+sold. 
+ 
+Interviewer: That’s good. Let’s see where the analysis will take us. How would you think about the 
+project? 
+ 
+Candidate: Since we’re considering profitability, I would like to consider the project on its own: 
+ 
+- 
+Revenues: 
+o 
+Quantity 
+▪ 
+Increase in total passengers 
+▪ 
+Number of passengers who would purchase the additional entertainment 
+(dependent on length/time of flight? Class of service?) 
+o 
+Price 
+▪ 
+Proposed price of entertainment service 
+- 
+Cost 
+o 
+Fixed Cost 
+▪ 
+Fixed Cost of installing entertainment system 
+▪ 
+Depreciation period (or period before a replacement is needed) 
+o 
+Variable Cost 
+▪ 
+Subscription costs to provide entertainment 
+ 
+ 
+In addition, I would like to consider the project in relation to the firm and its competition: 
+ 
+- 
+Company 
+o 
+Synergies? (with wi-fi to be added, or existing services – possibilities for bundling?) 
+o 
+Other alternatives to provide entertainment? 
+- 
+Competition 
+o 
+Other companies offering similar service? Customers expect similar or lowing pricing? 
+ 
+ 
+ 
+Interviewer: That’s good. Where would you like to start? 
+
+
+===== PDF p72 =====
+Casebook | 2019-20 Edition 
+68 
+ 
+Candidate: I’d like to examine if there would be demand for the proposed entertainment system – both in 
+terms of the existing customers, as well as the competition from other airlines flying the same routes. For 
+example, a short flight of less than 1 hour or red-eye flights would probably not have passengers who 
+would care to pay for in-flight entertainment. Also, if there are competitors flying the same route, this may 
+be an important feature to help the client differentiate. 
+ 
+[At this point the interviewer may ask how the candidate would choose a route to pilot the service. 
+Alternatively, the interviewer may also ask alternatives for how to monetize the service – higher price in 
+tickets or pay-per-use, as well as the pros and cons of each. In either case, the interviewer would proceed 
+with the following.] 
+ 
+Interviewer: Let’s examine one route as an example – it’s a 4-hour direct flight along the East Coast. 
+There are 4 flights a day, seven days a week. Luckily, there is no direct competition for our client along 
+this route. 
+ 
+Candidate: So that would mean that the added system is not going to be bringing in a significant number 
+of new customers, but existing customers may be enticed to pay for the service. The overall goal then is 
+to potentially use this as a new revenue stream for the airline. 
+ 
+Phase 2: Analysis 
+ 
+Interviewer: I’d like to have you do the calculations for one plane. The cost of installing the Wi-Fi per 
+plane is $100,000. Cost of providing Wi-Fi is $50 per flight. Cost to install the in-flight entertainment 
+system is $15,000 per seat. Both systems will fully depreciate after 10 years. Subscription for the 
+programming is $90,000 per plane per year. You may assume a negligible discount rate. The average 
+capacity of each plane is 300 seats. Each plane flies 4 flights a day. 
+ 
+In addition, here’s some data from a customer survey that the client did last month about the proposed 
+on-board amenities. What can you tell me about how the client should price the proposed service? 
+ 
+Candidate: You’ve mentioned that the capacity of each plane is 300. What’s the average occupancy for 
+each flight? 
+ 
+Interviewer: Good question. You may assume that each flight is 80% full. 
+
+
+===== PDF p73 =====
+Casebook | 2019-20 Edition 
+69 
+ 
+Candidate: 
+ 
+- 
+Ignore cost of Wi-Fi since the client has already decided to go ahead with it 
+- 
+Fixed cost per plane per year is (Depreciation) 300*$15,000/10 + $90,000 = $540,000/plane/year 
+- 
+Average number of passengers per flight = 0.8*300 = 240 
+- 
+Assume 50 weeks per year (candidate should ask if this is acceptable) 
+- 
+Table calculates profit for a single plane per year 
+Price 
+# customers 
+Total Rev/flight 
+Total Rev/year 
+Profit/yr 
+Free 
+204 
+$0 
+$0 
+-$540,000 
+$2 
+168 
+$336 
+$470,400 
+-$69,600 
+$5 
+108 
+$540 
+$756,000 
+$216,000 
+$8 
+48 
+$384 
+$537,600 
+-$2,400 
+From the calculations, it can be seen that the optimal price would be $5/flight. 
+ 
+Note: If the candidate did not mention alternatives to the in-seat entertainment system, the interviewer 
+would have either ended the interview at this point and asked for a summary, or would have asked for 
+other considerations in the pricing. 
+ 
+Phase 3: Alternatives/Conclusions 
+ 
+Interviewer: I’d like to examine something you mentioned earlier about alternatives. What options do you 
+think the company should consider? 
+ 
+Candidate: iPads plus an app to stream entertainment. The objective is a way for the airline to provide 
+entertainment you can charge for. The airline is already providing Wi-Fi. Passengers then can either rent 
+an iPad for the entertainment with a bundled pricing to get Wi-Fi as well, or you could have frequent flyers 
+get the app on their iPads for free which would allow you an additional avenue to reward frequent flyers. 
+The iPads would be cheaper to install and replace (~$600 per iPad, versus $15,000 per seat; if there is a 
+need to replace or repair, much easier to replace a single iPad than to fix something that is physically 
+attached to the plane) 
+ 
+Interviewer: Right, we’re going to meet the CEO who has asked for an update. What do you tell her? 
+ 
+Candidate: I recommend that the inflight entertainment system be implemented, not by the proposed in- 
+seat entertainment system, but by iPad rentals, coupled with the proposed Wi-Fi installation, leading to 
+significant cost-savings, and increased potential profits. 
+ 
+Note: The candidate impressed the interviewer with a unique alternative that was not within the original 
+proposal and backed it up with strong reasoning, while tying it back to the original aim of the client, which 
+was to increase profits. 

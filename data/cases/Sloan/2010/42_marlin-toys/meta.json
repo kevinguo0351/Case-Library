@@ -1,0 +1,24 @@
+{
+  "case_id": "Sloan_2010_42_marlin-toys",
+  "school": "Sloan",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Sloan\\Sloan_Case Book_2010.pdf",
+  "idx": 42,
+  "case_name": "Marlin Toys",
+  "case_type": "M&A",
+  "round": "2",
+  "industry": "Consumer Goods / Toys",
+  "difficulty": null,
+  "pdf_page_start": 143,
+  "pdf_page_end": 145,
+  "n_pages": 3,
+  "exhibit_pdf_pages": [
+    144,
+    145
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p144.png",
+    "exhibits/exhibit_p145.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Sloan\\2010\\42_marlin-toys"
+}

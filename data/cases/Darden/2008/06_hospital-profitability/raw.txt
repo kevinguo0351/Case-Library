@@ -1,0 +1,309 @@
+===== PDF p40 =====
+ 
+37
+C O N S U L T I N G  C A S E  I N T E R V I E W  
+(Hospital Profitability) 
+ 
+ 
+ 
+ 
+ 
+ 
+Level of Difficulty (Select level of difficulty) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PDF p41 =====
+ 
+38
+Question 
+A hospital group has been experiencing growing pains and has asked our firm for help 
+Note 
+This case is similar to a case that a student may receive in a first round interview with BCG 
+Clarifying Questions and Answers 
+Provide the following answers only if the interviewee asks the corresponding question. 
+Question 
+Answer 
+1. What do you mean by growing pains? 
+The hospital group originally consisted of 
+one hospital and then it acquired 3 other 
+hospitals, and its profits are going down. 
+2. Any other change in organization? 
+Yes the CEO of the main hospital changed; 
+it was originally an MD doctor now it is a 
+business experience MBA. 
+3. Any other changes or events impacting 
+the hospital group? 
+None 
+4. Any external market condition 
+changing? 
+No 
+ 
+ 
+ 
+Plan 
+This is a profitability case with lots of twists and turns.  The analysis may include, but is not limited 
+to, the following areas: 
+Phase 1 
+14. Identify the root cause of profitability decline. 
+If the candidate makes an assumption that the acquisition led to profitability decline, steer 
+candidate away by stating that the acquired hospital did not experience any decline in profits. 
+Key expected response/insight: So the main hospital is experiencing profit decline 
+15. Identify the root cause of the profitability decline in the main hospital 
+Costs – No change 
+Revenue – Decline 
+Key expected response/insight: So the primary reason for profits to decline is that 
+the revenue for the main hospital is going down. 
+16. Explore the revenue decline 
+
+
+===== PDF p42 =====
+ 
+39
+If the interviewee asks the revenue stream for the hospital, this should be the 
+response: 
+The hospital treats patients and mainly collects payments from the insurance companies 
+based on the service provided. 
+Key facts to be provided to the interviewee if asked: 
+Volume of patient change: No 
+Any change in mix of services performed by the hospital (lower of number of surgeries etc): 
+No 
+ 
+Key Expected Insight: In some way the revenue per patient on average is decreasing, 
+which implies that the patient mix is changing in terms of revenue 
+Which implies that the patient mix in terms of insurance they cover is changing 
+ 
+If patient asks to explain the insurance coverage, provide the following facts: 
+Primarily the patients can be categorized into the following categories: 
+Private Insurance Covered Patients 
+Public Insurance Covered Patients 
+No Insurance Covered Patients (Usually homeless people) 
+ 
+Payments from private insurance is greater than public insurance. 
+ 
+ 
+So expect some insight from candidate 
+Key Insight Expected: Looks like then the patient mix for the hospital is shifted, 
+with less patients with private insurance coming to the hospital. 
+             
+On providing the insight, ask the candidate what does the candidate wants to do with this 
+information. 
+ 
+Key Question Expected: What are the key drivers to getting people with private 
+insurance to the hospital.( Note to the interviewer: Guide the person to explore the 
+driver) 
+For the key drivers that drive the patients with private insurance to the hospital is referral by 
+private physicians. 
+ 
+Phase II 
+Interviewer should prompt the candidate to make some hypothesis with regard to lower 
+number of patients with private insurance coming to the hospital. 
+
+
+===== PDF p43 =====
+ 
+40
+ 
+The key expected hypothesis: 
+Because of change of management the perception of physicians may have changed –
+vely resulting in lower number of referrals of patients with private insurance. 
+Interviewer should guide the candidate to make the hypothesis. 
+ 
+Interviewer should then ask the candidate how he/she can test the hypothesis. 
+Key expected answer: Survey of physicians who normally refer patients. 
+ 
+Direct the candidate to the exhibits 1 and 2 for survey results 
+Key Insight expected: Majority of doctors are indifferent about the hospital which 
+may not be good news when it comes to referrals. One of the major issues plaguing 
+the doctors is complex billing. 
+ 
+Interviewer should then prompt the candidate as to what should be the next course of action 
+given some of the insights. 
+Key Insight Expected: Candidate should try to highlight the need to strengthen 
+relationships with physicians and “complex billing” may be an opportunity.  
+ 
+Interviewer should then highlight that the hospital has a outsourcing billing service which it 
+does not aggressively market to the physicians. Pose the question how will judge whether 
+this is a viable service for the physicians. 
+Expected question from candidate: What is the cost of the service to the physicians 
+and the economics of the physicians office. 
+Interviewer to provide the following data: 
+Price of the service: $50,000 
+Physician Annual Profit: $175,000 
+Physician time: 
+75% on patient care, 15% on billing, 10% on administrative overhead 
+Ask the candidate to provide a plan for the approach before calculation: 
+Key Insight expected: 
+1. If physician outsources the billing to the hospital, then what benefit does it 
+derive. 
+2. To derive the benefit, I assume that for 15% of the time the physician is not 
+involved in billing he/she can see patients. 
+3. So the candidate should ask for the revenue number: 
+
+
+===== PDF p44 =====
+ 
+41
+ONLY IF THE CANDIDATE ASKS FOR REVENUE, PROVIDE IT, IF NOT 
+TRY TO GUIDE THE CANDIDATE TO THE REVENUE NUMBER. 
+Revenue of the doctor’s office : $425,000 
+4. The candidate should either clearly ask whether the physician incurs additional 
+cost when he or she adds 15% additional physician time  
+Interviewer state that no additional cost is incurred. 
+ 
+Now the interviewer should guide the candidate to perform the cost benefit analysis: 
+Refer to the calculations section 
+Ask the candidate to calculate ROI, New Profit, Increase In profit % 
+Revenue 
+ $                    
+425,000  
+Profit 
+ $                    
+175,000  
+Cost 
+ $                    
+250,000  
+Patient Care 
+75% 
+Billing 
+15% 
+Administrative 
+10% 
+Revenue earned if billing 
+outsourced 
+ $                       
+85,000  
+(425000*15%/75%) 
+Cost of Outsourcing 
+ $                       
+50,000  
+Return on Investment 
+70% (85000-50000)/50000 
+New Profit 
+ $                    
+210,000  
+((425000 + 
+85000)(Revenue) - 
+(250000 + 50000)(Cost)) 
+Increase In profit 
+20% 
+(210000-
+175000)/(175000) 
+ 
+ 
+ 
+
+
+===== PDF p45 =====
+ 
+42
+Strong Plan 
+· Candidate clarifies key terminology – “growing pain” 
+· Candidate quickly focuses on the profitability of the main hospital 
+· Candidate keeps exploring reasons for revenue decline for main hospital 
+and takes hints from the interviewer 
+· Candidate keeps asking questions or states assumptions aloud 
+· Candidate clearly establishes hypothesis linking revenue decline and change of management 
+· Candidate clearly articulates the plan, asks for the revenue to calculate the cost benefit 
+analysis and gives some insight after calculations 
+ 
+ 
+Weak Plan 
+· Candidate keeps getting distracted and ask questions about acquisition 
+· Candidate starts focusing on cost instead of revenue decline 
+· Candidate fails to identify change in patient mix with regard to insurance 
+coverage 
+· Candidate fails to clearly state the hypothesis of lower referrals with physician dissatisfaction 
+with management change 
+· Candidate does not ask about the revenue when calculating cost benefit analysis 
+ 
+ 
+ 
+Recommendation 
+The recommendation should include the following: 
+· The hospital is facing revenue decline because of lower number of patients with private 
+insurance which may be due to a change in perception of private physicians after 
+management change. 
+· To reverse the revenue decline the main hospital needs to establish strong relationship with 
+the physicians by aggressively marketing the billing outsourcing service as it provides 70% 
+return on investment within one year and increases profits of physicians by 20%. 
+ 
+ 
+C!
+D!
+
+
+===== PDF p46 =====
+ 
+43
+ 
+Exhibit 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Positive Opinion
+No Opinion
+Negative Opinion
+Survey of Doctors regarding hospital
+Survey of Doctors 
+regarding hospital
+
+
+===== PDF p47 =====
+ 
+44
+ 
+Exhibit 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Liability 
+Insurance
+Billing 
+Complexity
+Administrative 
+Costs
+Other Issues
+Issues Impacting Doctors
+Issues Impacting Doctors

@@ -1,0 +1,196 @@
+===== PDF p51 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 6: LifeVac 
+Your client is a large pharmaceutical company, LifeVac Corp., specializing in vaccines.  As part of its strategy to expand into emerging 
+markets, the company is considering applying for a vaccine protocol program in Brazil.  The protocols are government managed programs 
+designed to vaccinate infants against prevalent childhood diseases.  Companies can only apply for one vaccine protocol. If LifeVac is 
+chosen, it would have exclusive rights to provide vaccines to the government for a five-year period.  However, as a prerequisite to applying, 
+the Brazilian government requires all applicants to build a manufacturing plant in the country.  You have been hired to assess whether or not 
+LifeVac should apply for a vaccination protocol, and if so which vaccine it should apply with. 
+This is a candidate-led case that requires the candidate to drive the structure and flow of the case. However, the interviewer should guide the 
+candidate if he/she is not addressing the key components described on the following pages, as many candidates’ initial frameworks will not lead 
+them to the desired analysis. The core of the case is about evaluating which of LifeVac’s vaccines should be put forward for the protocol. All three 
+options are profitable, so the initial question of whether to proceed at all becomes secondary. The first piece of analysis is to understand the 
+potential profitability of each vaccine. The second is to factor in the probability that an application for each vaccine would be accepted. The 
+third, optional piece is to think about how to influence or learn more about that probability. 
+ 
+A stronger candidate will move towards the expected value analysis without much prompting after learning that the probability of having the 
+application accepted varies by vaccine. Although the interviewer will likely need to steer the candidate back on course from time to time, a strong 
+candidate will take the interviewer’s cues and proactively seek to regain control and drive the case.  
+Case Prompt 
+(to be read to the candidate) 
+47 
+Interviewer Guide 
+•Candidate led 
+•Strategy 
+•Pharmaceutical industry 
+Easy  
+Normal 
+Hard 
+
+
+===== PDF p52 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+• Vaccine 1 
+• Initial investment (plant cost): $45M 
+• Projected unit sale price: $20 
+• Profit margin: 75% 
+• Vaccine 2 
+• Initial investment (plant cost): $30M 
+• Projected unit sale price: $15 
+• Profit margin: 80% 
+• Vaccine 3 
+• Initial investment (plant cost): $25M 
+• Projected unit sale price: $10 
+• Profit margin: 90% 
+• As stated in the case prompt, if LifeVac’s application is not 
+accepted the company will lose its initial investment 
+ 
+Case 6: LifeVac 
+Continued… (page 2 of 6) 
+Background Information 
+(to be provided when requested by candidate) 
+• The interviewer can either provide the following information or have 
+the candidate make the necessary assumptions 
+• Est. Population of Brazil: 200M 
+• Birth Rate: 20 per 1,000 
+• Vaccination Rate: 75% 
+• Vaccines are all used for one-time vaccinations of infants only 
+ 
+ 
+ 
+ 
+Market 
+Revenue and Costs 
+Probability of Acceptance 
+• Probability of acceptance can vary by vaccine. LifeVac does not 
+have any information on the probability for each vaccine 
+• If time permits, ask the candidate to brainstorm ideas to 
+gauge/increase the chance of having the application accepted 
+(see sample analysis on p.5 of case) 
+Operations 
+• The manufacturing plant can only be used for manufacturing one 
+vaccine 
+• For all vaccines under consideration, sufficient capacity already 
+exists at plants in other countries, therefore the vaccines 
+manufactured in Brazil will not be shipped overseas, however 
+there is scope for further expansion in Latin America if LifeVac 
+goes ahead with this move 
+48 
+
+
+===== PDF p53 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 6: LifeVac 
+Continued… (page 3 of 6) 
+Sample Analysis 
+• Profitability of vaccine if application accepted: ((sales price) x 
+(profit margin) x (market size) x (# years)) - (initial investment) 
+• Vaccine 1: 
+• $20 x 75% = $15 
+• $15 x 3M = $45M/yr 
+• $45M x 5yrs = $225M 
+• $225M - $45M = $180M 
+• Vaccine 2: 
+• $15M x 80% = $12 
+• $12 x 3M = $36M/yr 
+• $36M x 5yrs = $180M 
+• $180M - $30M = $150M 
+• Vaccine 3:  
+• $10 x 90% = $9 
+• $9 x 3M = $27M/yr 
+• $27M x 5yrs = $135M 
+• $135M - $25M = $110M 
+ 
+ 
+ 
+ 
+Potential Profitability of Each Vaccine 
+Market sizing 
+• Est. Population of Brazil: 200M 
+• Birth Rate: 20 per 1,000 
+• Vaccination Rate: 75%  
+• 200M X (20/1000) X 0.75 = 3M 
+ 
+ 
+Key takeaway:  Vaccine 1 offers the highest potential profitability 
+Once the candidate has begun to explore the 3 vaccines available they should evaluate the potential profitability of each. The next step will be to 
+factor in the probability that the application will be accepted, which can vary by vaccine. 
+49 
+
+
+===== PDF p54 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 6: LifeVac 
+Continued… (page 4 of 6) 
+Sample Analysis 
+Expected Value Analysis 
+• For each vaccine the initial investment is a certain and unrecoverable cost; revenues however are all subject to application approval, 
+which has a varying but unknown probability for each vaccine.  
+• The candidate must determine what acceptance probability would make each investment expected value positive; the lower the 
+acceptance probability required to make the investment viable, the better 
+• What % probability creates an expected value of 0? Anything better than this will be ‘viable’ (i.e. ignore cost of capital/required return)  
+• Set expected value at zero and solve for % probability. Expected value = (% probability) x (revenue) – (investment cost).  If expected 
+value is 0 then (% probability) x (revenue) - (initial investment cost) = 0. This is the same as (% probability) = (investment cost) / (revenue) 
+• Solve for (% probability) for each vaccine:  
+• Vaccine 1: (% probability) = 45/225 = 20% 
+• Vaccine 2: (% probability) = 30/180 = 16.7% 
+• Vaccine 3: (% probability) = 25/135 = 18.5% 
+ 
+The fact that each vaccine may have a different probability of being accepted creates the need for expected value analysis. It is not enough to 
+know which option is potentially the most profitable; if that application is not successful the company will lose its investment entirely. Give the 
+candidate an opportunity to reach this analysis independently, however if necessary guide him/her here. 
+Key takeaway:  Vaccine 2 requires the lowest probability of acceptance in order to be viable 
+50 
+
+
+===== PDF p55 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 6: LifeVac 
+Continued… (page 5 of 6) 
+Sample Analysis 
+• Gauge competitors’ interest in applying 
+• Explore partnership opportunities 
+Competition 
+Government 
+• Meet with government officials 
+• Analyze past applicants picked 
+• Understand political structure and forecast potential changes 
+ 
+ 
+Gauging / Increasing Probability of Acceptance 
+Given that the probability of acceptance makes such a difference to which choice LifeVac should make, a further important piece of analysis 
+would be to see if LifeVac can get more information about these probabilities in order to inform its decision. It is also reasonable to think about 
+whether LiveVac can influence the decision at all in order to increase the probability of acceptance for any or all of the options. If you asked the 
+candidate to brainstorm ideas on this earlier in the case (see ‘Background Information’) then the following are some good areas the candidate 
+could explore: 
+51 
+
+
+===== PDF p56 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+• The candidate could make a good case for either Vaccine 1 or Vaccine 2, depending on 
+the goals and risk tolerance of the organization. The key is to make a clear 
+recommendation based on an evaluation supported by analysis from the case 
+• Sample recommendation: LifeVac Corp. should build a plant in Brazil and apply for the 
+protocol for vaccine 1 for three reasons: 
+• Vaccine 1 is the most profitable, with $180M in profits over the 5-yr period 
+• LifeVac only requires a 20% chance of acceptance for this to be expected value 
+positive 
+• The investment would give the firm access to the Brazilian market and potentially 
+other Latin American markets 
+    
+52 
+Sample Conclusions & Recommendations 
+Case 6: LifeVac 
+Continued… (page 6 of 6) 
+Recommendations 
+• LifeVac should look to increase the probability of the application being accepted by 
+making contacts with key government officials 
+• LifeVac should seed to better understand the probability of acceptance for each vaccine 
+by analyzing past applications and gauging the competition 
+• LifeVac should perform further competitive analysis to develop a deeper understanding of 
+long-term profitability for each vaccine 
+ 
+ 
+Other  

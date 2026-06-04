@@ -1,0 +1,367 @@
+===== PDF p130 =====
+126
+Lonely Gas Station
+BCG | Final Round | Retail/Oil & Gas
+
+
+===== PDF p131 =====
+127
+BCG | Round 2 | Retail/Oil & Gas
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+LONELY GAS STATION
+B E HAVI O R A L  
+I NT E R VI E W  
+Q UE S T I O N:
+1 .  Te l l  m e  a b o u t  
+a  t i m e  y o u ’ v e  
+f a i l e d  a s  a  
+l e a d e r.
+2 . W h a t  wo u l d  
+y o u r  l e a r n i n g  
+t e a m  t e l l  m e  
+a b o u t  y o u ?
+UVA Darden School of Business 2018-19 Casebook
+Clarifying Information:
+Note: Provide this only if corresponding questions are asked.
+• There are no other gas stations in town A or B
+• Gas is 75% of revenue (10% profit margin) and the gas station also offers car washes (25% of 
+revenue, 20% profit margin)
+• Criteria for “making sense” – 1) making profit, 2) having a better chance to hold off new 
+competitors enter the market, 3) diversifying income
+• The gas stations current customers are residents of town A and B; there are no other customersc
+Prompt:
+Our client is the owner of a gas station between towns A and B – 10 miles to each 
+town. He is wondering if it would make sense to add a convenience store to the gas 
+station.
+This is intentionally open-ended. The interviewee will have to ask multiple questions to frame the 
+problem and gather the information necessary.
+
+
+===== PDF p132 =====
+128
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+•
+Revenue/profit of current and potential business
+•
+Gas station business
+•
+Convenience store business
+•
+Potential revenues, costs, up-front investment
+•
+Would adding the convenience store bring in addition gas station customers?
+•
+Market/Competition
+•
+Market size
+•
+Other convenience stores?
+•
+Growth in town A and/or B?
+•
+Changes in preference for gas (electric cars? Public transportation?
+•
+Product and client capabilities
+•
+Knowledge of retail/convenience stores
+•
+Supplier contacts
+•
+Management experience; potential to contract an external party to run convenience store
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+UVA Darden School of Business 2018-19 Casebook
+
+
+===== PDF p133 =====
+129
+QUESTION 1
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+UVA Darden School of Business 2018-19 Casebook
+How profitable is the current business?
+The interviewee should structure a logical approach to market sizing on their own; provide these numbers only after they identify that they need 
+the information
+Market information:
+•
+1000 people in each town
+•
+80% of population owns a car
+•
+50% of car owners get gas from client
+Math:
+•
+Per town: 1000 * 80% = 800; 800 * 50% = 400
+•
+Total: 400 * 2 = 800 person customer base
+Math:
+•
+800 customers * $50 * 50 weeks/year = 2M on gas per year
+•
+2M * 40% of purchases made at client = $800K client revenue
+•
+75% of revenue is gas: $800K * 75% = $600K * 10% profit 
+margin = $60K profit
+•
+25% of revenue is other: $800K * 25% = $200K * 20% profit 
+margin = $40K profit
+•
+$60K + $40K = $100K profit per year
+Profitability information:
+•
+Customers get gas on average 1x/week
+•
+Can tell interviewee to round down to 50 weeks/yr
+•
+Spend $50 each time
+•
+Customers make 40% of all gas purchases at the client’s station
+Interviewee should have already asked about gas station 
+revenue (clarifying questions) and learned that gas makes up 
+75% of revenue (10% profit margin) and other purchases are 
+25% (20% profit margin). Prompt if not: Do you think the 
+entire purchase is gas each time?
+
+
+===== PDF p134 =====
+130
+QUESTION 2
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+UVA Darden School of Business 2018-19 Casebook
+How profitable would the convenience store be on an ongoing basis?
+Information on convenience store:
+Gasoline customers will spend an additional $20 at the convenience 
+store per purchase, but will not increase frequency of purchases
+Recurring costs for convenience store are:
+•
+Labor: $75K/year
+•
+Utilities: $5K/month
+•
+COGS: 50% of revenue
+ONLY PROVIDE IF ASKED: 50% of town population who currently are 
+not customers (the remaining 1200 non-customers, not just the 80% 
+car owners) will spend $5 per week at the convenience store
+Math:
+•
+Revenue – existing customers:
+•
+800 customers * 50 weeks * 1 purchase/week * 40% 
+purchases made at our gas station = 16K total purchases
+•
+16K purchases * $20 = $320K addlrevenue
+•
+Revenue – new customers:
+•
+1200 non-customers * 50% * $5 per week * 50 weeks = 
+$150K
+•
+Total revenue: $320 + $150 = $470K
+•
+Costs
+•
+COGS: $470K revenue * 50% = $235K
+•
+Labor: $75K
+•
+Utilities: 12 months * $5K = $60K
+•
+Profit:
+•
+$470K - $235K - $75K - $60K = $100K/year
+
+
+===== PDF p135 =====
+131
+QUESTION 2B
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+UVA Darden School of Business 2018-19 Casebook
+Given that, what is the NPV of opening a gas station?
+Interviewee should ask for:
+•
+Up-front investment cost: $1M
+•
+Client’s Discount rate: 10%
+•
+Town population growth rate: 0%
+•
+Expected life: perpetuity
+Calculation:
+•
+$100K annual profit/10% discount rate = $1M
+•
+Investment cost of $1M
+•
+NPV = 0
+
+
+===== PDF p136 =====
+132
+QUESTION 2C
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+What does the NPV of 0 mean for our client?
+A strong interviewee would have moved to these insights after calculating that NPV = 0. if not, prompt with this question.
+The interviewee can provide a recommendation either for or against the convenience store as long as it recognizes the NPV of 0 and is backed 
+up by logic.
+Possible Answer:
+For investment:
+•
+Diversification
+•
+Gain new customers who may start purchasing gas/potentially 
+increase frequency of visits of current customers to store
+Against investment:
+•
+NPV of 0
+•
+Could be even worse in reality
+•
+High investment cost
+UVA Darden School of Business 2018-19 Casebook
+
+
+===== PDF p137 =====
+133
+QUESTION 2D
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+UVA Darden School of Business 2018-19 Casebook
+What happens to the NPV if a convenience store competitor enters the market?
+The interviewee should recognize that a competitor entering the market would make the situation less attractive for our client.
+Should also mention that a competitors likely has a 0 NPV at best given our client is an established brand in the market with an established 
+customer base, so it seems unlikely that a competitor would want to enter.
+Strong interviewees could take initiative to discuss ways to improve NPV if a competitor enters the market.
+
+
+===== PDF p138 =====
+134
+QUESTION 3
+0 8  |  C A S E S :  L O NE LY G A S  S TAT I O N
+UVA Darden School of Business 2018-19 Casebook
+The client also asked us to provide him with a list of things to consider in this decision. What would you tell 
+him?
+Looking for a qualitative discussion of things to consider; a balanced answer will indicated both potential benefits and threats to widening the 
+client’s business.
+The interviewee can ask for a minute to brainstorm; a strong interviewee will have a structured approach
+Possible answer:
+Current Customers
+•
+Greater convenience
+•
+Higher revenue
+•
+Increasing frequency of visit
+•
+Longer wait times
+New Customers
+•
+Converted to buy gasoline
+•
+Potential to attract customers from 
+other cities
+Competition
+•
+New entrants
+•
+Supermarkets/restaurants/other 
+similar offerings
+•
+Differentiate with week/night hours 
+or something similar
+Other
+•
+Is there enough space to add 
+a store?
+•
+Are there any regulatory 
+issues?
+
+
+===== PDF p139 =====
+135
+I NT E R VI E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Framework
+
+Logical approach
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Notes:
+
+Quantitative Ability
+
+Accuracy
+
+Speed
+
+Analytical Approach
+
+Errors / Guidance
+1
+2     3     4     5
+Notes:
+
+Business Acumen
+
+Insightful
+
+Implementable 
+
+Business Judgment
+
+Creative Brainstorm
+1
+2     3     4     5
+Notes:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Notes:
+Communication:
+
+Case Materials
+
+Organized Page Layout
+
+Recognition of Errors
+
+Resource References
+1
+2     3     4     5
+Notes:
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Strengths:
+Opportunities:
+Case Execution:  ___ / 15
+Communication:  ___ / 10
+Behavioral:           ___ / 15
+Total Score:          ___ / 40
+Total Time: _____: ______
+Behavioral:
+
+Overall Performance
+
+Quality of Answers
+
+Relevance
+
+Clarity & Time
+1
+2     3     4     5
+1      2     3     4     5
+1      2     3     4     5

@@ -1,0 +1,236 @@
+===== PDF p37 =====
+33
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Case Prompt
+In the face of increasing healthcare costs and decreasing margins our client, the board of 
+trustees for St. Scorekeepers Hospital, is exploring whether a merger would combat market 
+forces.  Another local health system also located in Washtenaw county, Mount Ricks Hospital, is 
+a potential target and our client would like to evaluate whether a merger would be beneficial to 
+both parties to combat market forces.  What are your thoughts?
+Interviewer Guidance
+The case will be focused on identifying what the current NOI of each hospital is, and whether 
+by coming together the joint system can hit the target NOI.
+Interviewer guidance may be necessary to help provide context and explanation on healthcare 
+related concepts. However, a superior candidate will not need such guidance.
+Concepts Tested
+General industry knowledge, M&A synergies, and heavy quantitative
+
+
+===== PDF p38 =====
+34
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Clarifying Information
+•
+Both hospitals have 2 different hospital facilities, all 
+of which are in Washtenaw county
+•
+St. Scorekeepers Hospital has the following 
+departments: emergency, cardiology, OBGYN, and 
+orthopedics 
+•
+Mount Ricks Hospital has the following departments: 
+emergency, radiology, dermatology and oncology
+•
+Brainstorm: Variable costs and fixed costs
+-
+FCs: capital expenditures, employee salaries 
+and benefits, building maintenance, and 
+utilities.
+-
+VCs: health care worker supplies, patient care 
+supplies, diagnostic and therapeutic supplies, 
+and medications
+-
+Overhead: legal, IT, HR, and finance 
+departments
+Calculation Assumptions
+Revenue
+•
+SK saw a total of 150,000 patients last year, RI saw 
+of 200,000 patients
+•
+Avg. revenue/patient – SK=$150 and RI = $100
+•
+Total Revenue (SK) = 150,000 x $150 = $22.5M
+•
+Total Revenue (RI) = 200,000 x $100 = $20M
+Costs
+•
+VC: Scorekeepers and Ricks is both X% of average 
+revenue per patient
+•
+SK = 150,000 x ($150 x 20%) = $4.5M
+•
+RI = 200,000 x ($100 x 15%) = $3M
+•
+FC: Scorekeepers and Ricks is both X% of average 
+revenue per patient
+•
+SK = 150,000 x ($150 x 40%) = $9M
+•
+RI = 200,000 x ($100 x 30%) = $6M
+•
+Overhead: SK = $4.5M and Ricks = $9.25M
+•
+NOI
+-
+SK = $TR – (VC + FC + OH) = $4.5M
+-
+RI = $TR – (VC + FC + OH) = $1.75M 
+
+
+===== PDF p39 =====
+35
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Exhibit 1 – Historical Revenue per patient
+$50 
+$100 
+$150 
+$200 
+$250 
+$300 
+1998
+2003
+2008
+2013
+2018
+St. Scorekeepers Hospital
+Mount Ricks Hospital
+Regional Competitor
+National Trend
+
+
+===== PDF p40 =====
+36
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Exhibit 2 – Hospital Facilities
+Note: The red shaded area represents Washtenaw county
+St. Scorekeepers 
+Hospital
+Mount Ricks 
+Hospital
+Legend
+Competitor –
+BTB Health 
+System
+
+
+===== PDF p41 =====
+37
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Exhibit 3 – Service Line Breakdown by Hospital
+Emergency
+Emergency
+Cardiology
+OBGYN
+Orthopedics
+Radiology
+Dermatology
+Oncology
+0%
+20%
+40%
+60%
+80%
+100%
+St. Scorekeepers Hospital
+Mount Ricks Hospital
+
+
+===== PDF p42 =====
+38
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+St. Scorekeepers and Mount Ricks Hospital Income Statement (Not to show candidate)
+Cost Saving Opportunities
+•
+Revenue would increase by 10% overall due to ability to collectively meet more patients needs by having a wider range 
+of departments.  Increased ability to cross-refer patients to other facilities 
+•
+Economies of scale would bring down variable costs (i.e. materials) by 15%
+•
+By consolidating facilities/functions (i.e. HR, IT, Finance, legal etc.), will save 30% on 
+•
+No impact to fixed costs would be realized
+
+
+===== PDF p43 =====
+39
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Insights – Exhibit 1
+Insights – Exhibit 2
+Insights – Exhibit 3
+•
+Average revenue has been decreasing both at a 
+regional level and national therefore NO ONE 
+is immune to market forces
+•
+Should push candidate to want to further 
+explore merger potential
+•
+While two of the hospitals are spread out, two 
+are very close to each other, presenting 
+potential overlapping patient populations
+•
+Candidate may hypothesize that proximity of 
+two hospitals might also provide opportunity 
+provide potential opportunity to consolidate 
+some facilities
+•
+There is overlap between the services that each hospital system offers, but ONLY in the emergency 
+department
+•
+The candidate should infer that there may additional revenue generated if the two hospitals came 
+together due to being able to offer a wider range of services and thereby retaining more patients
+
+
+===== PDF p44 =====
+40
+Case 2: Hospital Mega Merger
+Healthcare | M&A
+Recommendations
+Risks
+Next Steps
+Recommend merger for the St. 
+Scorekeepers Hospital and Mount 
+Ricks Hospital systems.  The new 
+health system would represent a 
+$9.5M in cost saving synergies and 
+a new health system generating 
+$15.75M in net operating profit.
+•
+Regulation roadblocks 
+meaning merger might not 
+receive approval
+•
+Ability to logistically pull 
+complicated merger 
+•
+Erosion of brand equity
+•
+Potential for culture class 
+between employees and 
+clinicians of the two health 
+systems
+•
+Does not include transaction 
+costs
+•
+Announce merger and prepare 
+for regulatory review
+•
+Reach out to insurance 
+companies (i.e. payors) to try 
+to negotiate a better 
+reimbursement rate
+•
+Develop branding and 
+marketing strategy to inform 
+patients of new enhanced 
+future-state health system

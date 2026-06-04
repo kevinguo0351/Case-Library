@@ -1,0 +1,447 @@
+===== PDF p105 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+101 
+Author: Jeremy Wimmer and Alan Voyles (Stern ‘15)  
+Case Style: Interviewer Led  
+Difficulty: Medium 
+Case Overview: 
+Industry: Airlines 
+ 
+Case Type: Industry Analysis 
+ 
+Concepts Tested: 
+•
+Brainstorming 
+•
+Profitability Calculations 
+ 
+ 
+ 
+Overview Information for Interviewer: 
+The interviewer should take charge with the questions that follow once the 
+candidate relays his or her framework. The interviewer should provide the 
+candidate with all the charts at once.  
+ 
+The candidate should pick and choose the charts that are relevant to 
+answer each question.  
+ 
+This case ends with the final question and there is no need to ask for a 
+final recommendation. 
+Case Prompt: 
+While the market for long-haul jet manufacturers is a duopoly between Boeing and Airbus, the 
+market for regional jet manufacturers is currently a duopoly between Bombardier of Canada and 
+Embraer of Brazil. However, the market appears to be in for a period of transition due to at least two 
+new entrants, Competitor “R” of Russia and Competitor “C” of China.  
+ 
+What do you think will happen to the international market for regional jet manufacturers in the next 
+five years? 
+Regional Jet Market 
+
+
+===== PDF p106 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+102 
+Clarifying Information: 
+ 
+  
+Interviewer Guide: 
+A Good Framework Will: 
+•
+Factor in market trends: 
+•
+Growth/decline 
+•
+Demand/size 
+•
+Regulations 
+•
+Take into account new entrants: 
+•
+Competitive structure (present and future) 
+•
+Impact on supply 
+•
+Changes in relevant Porter’s Five Forces (buyer 
+power, supplier power, rivalry) 
+•
+Examine the products: 
+•
+Any competitive advantage? (commodity/specialized 
+product) 
+•
+Examine financials: 
+•
+Impact on revenue/profitability of industry and firms 
+ 
+A strong candidate will be able to swiftly pick the information from 
+charts that is required to respond to the various questions.  
+ 
+If the candidate is taking too long the interviewer can refer the 
+candidate to the specific chart that contains the required information. 
+ 
+ 
+ 
+  
+Regional Jet Market: Case Guide 
+
+
+===== PDF p107 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+103 
+Question #1: 
+What advantages and disadvantages would you expect Russian and Chinese jet manufacturers to have 
+compared to their competitors?  
+ 
+  
+Notes to Interviewer: 
+•
+Interviewer should probe the candidate to go beyond these lists. Interviewer should be looking for the 
+candidate’s ability to draw on his/her general business acumen to develop these lists.  
+ 
+•
+Additionally the candidate should put some structure to the response. A basic structure is to talk through 
+advantages first, and then move to disadvantages. 
+ 
+•
+Sample response:  
+ 
+ 
+Advantages 
+Disadvantages 
+•
+State backing  
+•
+Lower cost of production  
+•
+Access to home markets which may be 
+growing faster than developed markets  
+•
+Poorer reputation for safety  
+•
+Trouble with certification in developed 
+countries  
+•
+Lack of R&D strength  
+ 
+Regional Jet Market: Question 1 
+
+
+===== PDF p108 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+104 
+Question #2: 
+What is the expected cost per plane for each manufacturer in 2014?   
+  
+Notes to Interviewer: 
+•
+Candidate should use Exhibits #1, #2, and #3  
+•
+Candidate should recognize that labor and parts are variable costs and should be allocated as a % of full capacity  
+•
+SG&A and Advertising should be fully allocated  
+•
+Candidate should recognize that a manufacturer cannot produce more than its capacity  
+ 
+ 
+ 
+ 
+ 
+Variables  
+Source (given in case unless stated) 
+Bombardier 
+Embraer 
+R 
+C 
+Labor 
+(demand)/(capacity) x (Cost) 
+1.0 
+0.5 
+0.6 
+0.15 
+Parts 
+(demand)/(capacity) x (Cost) 
+1.5 
+1.0 
+0.4 
+0.1 
+SG&A 
+Copied from Exhibit #3 
+1.2 
+1.2 
+0.5 
+0.75 
+Advertising 
+Coped from Exhibit #3 
+1.3 
+1.05 
+0.9 
+1.0 
+Total Cost ($B) 
+(labor) + (parts) + (SG&A) + (advertising) 
+5.0 
+3.75 
+2.4 
+2.0 
+Cost per plane ($B) 
+(total cost)/(annual demand) 
+0.05 
+0.05 
+0.06 
+0.1 
+VC 
+FC 
+Regional Jet Market: Question 2 
+
+
+===== PDF p109 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+105 
+Question #3: 
+What is the expected cost per plane for each manufacturer in 2017?   
+  
+Notes to Interviewer: 
+•
+Candidate should use Exhibits #1, #2, and #3  
+•
+The candidate should sum up cost at full capacity for each manufacturer (Exhibit #3)  
+•
+The candidate should then divide this by the number of planes at capacity (Exhibit #1) to obtain cost per plane 
+ 
+ 
+ 
+ 
+ 
+Variables 
+Source (given in case unless stated) 
+Bombardier 
+Embraer 
+R 
+C 
+Labor 
+(demand)/(capacity) x (Cost) 
+1.0 
+0.6 
+0.75 
+0.375 
+Parts 
+(demand)/(capacity) x (Cost) 
+1.5 
+1.2 
+0.5 
+0.25 
+SG&A 
+Copied from Exhibit #3 
+1.2 
+1.2 
+0.5 
+0.75 
+Advertising 
+Copied from Exhibit #3 
+1.3 
+1.05 
+0.9 
+1.0 
+Total Cost ($B) 
+(labor) + (parts) + (SG&A) + (advertising) 
+5.0 
+4.05 
+2.65 
+2.375 
+Cost per plane ($B) 
+(total cost)/(annual demand) 
+0.05 
+0.045 
+0.053 
+0.0475 
+VC 
+FC 
+Regional Jet Market: Question 3 
+
+
+===== PDF p110 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+106 
+Question #4: 
+What can you interpret from the current and future cost per plane of the Chinese and Russian 
+competitors? 
+  
+Notes to Interviewer: 
+•
+Currently, the new entrants cannot compete on a cost per plane basis due to a lock of demand 
+necessary to sufficiently amortize fixed costs 
+ 
+•
+It may be possible that their governments are providing subsidies and tax breaks that are not 
+being taken into account 
+ 
+•
+By 2017, their cost per plane is much more in line with the current market conditions 
+ 
+Regional Jet Market: Question 4 
+
+
+===== PDF p111 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+107 
+Question #5: 
+Assume you are advising Bombardier. They are considering entering the larger long-haul jet market to 
+fuel bottom-line growth. What are the risks with this strategy? 
+  
+Notes to Interviewer: 
+•
+Saturated market 
+ 
+•
+Need to develop different technology 
+ 
+•
+Competitive response (perhaps Airbus or Boeing enter regional jet market) 
+ 
+•
+Capacity constraints 
+ 
+Regional Jet Market: Question 5 
+
+
+===== PDF p112 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+108 
+Question #6: 
+What do you see being the drivers of demand for future growth in the airline manufacturing industry? 
+  
+Notes to Interviewer: 
+New Technology: 
+•
+Fuel efficiency 
+•
+Range 
+•
+Safety 
+New Regulations: 
+•
+Existing planes are retired quicker 
+•
+Environmental regulations 
+•
+Subsidies to make any part of the air travel value chain cheaper 
+•
+Subsidies for airplane manufacturing 
+New Demand: 
+•
+Customers from emerging countries having more disposable income 
+•
+Increase in the price of substitutes such as trains 
+•
+General economic growth causing more consumption from developed countries 
+ 
+Regional Jet Market: Question 6 
+
+
+===== PDF p113 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+Exhibit #1: Capacity (# of jets) 
+2013 
+2014 
+2015 
+2016 
+2017 
+Bombardier 
+100 
+100 
+100 
+100 
+100 
+Embraer 
+90 
+90 
+90 
+90 
+90 
+R 
+60 
+60 
+60 
+60 
+60 
+C 
+100 
+100 
+100 
+100 
+100 
+109 
+Regional Jet Market: Exhibt #1 
+
+
+===== PDF p114 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+Exhibit #2: Projected Annual Demand (# of jets) 
+2013 
+2014 
+2015 
+2016 
+2017 
+Bombardier 
+100 
+105 
+105 
+100 
+100 
+Embraer 
+70 
+75 
+85 
+75 
+90 
+R 
+5 
+40 
+50 
+50 
+50 
+C 
+10 
+20 
+30 
+35 
+50 
+110 
+Regional Jet Market: Exhibt #2 
+
+
+===== PDF p115 =====
+© 2017 NYU | Stern MCA – All Rights Reserved  
+Exhibit #3: Cost Breakdown ($B) 
+Cost breakdown at full 
+capacity 
+Bombardier 
+Embraer 
+R 
+C 
+Labor 
+1.0 
+0.6 
+0.9 
+0.75 
+Parts 
+1.5 
+1.2 
+0.6 
+0.5 
+SG&A 
+1.2 
+1.2 
+0.5 
+0.75 
+Advertising 
+1.3 
+1.05 
+0.9 
+1.0 
+Total 
+5.00 
+4.05 
+2.40 
+3.00 
+111 
+Regional Jet Market: Exhibt #3 

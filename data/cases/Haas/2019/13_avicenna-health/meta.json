@@ -1,0 +1,24 @@
+{
+  "case_id": "Haas_2019_13_avicenna-health",
+  "school": "Haas",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Haas\\HAAS_Case Book_2019.pdf",
+  "idx": 13,
+  "case_name": "Avicenna Health",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 148,
+  "pdf_page_end": 152,
+  "n_pages": 5,
+  "exhibit_pdf_pages": [
+    149,
+    150
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p149.png",
+    "exhibits/exhibit_p150.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Haas\\2019\\13_avicenna-health"
+}

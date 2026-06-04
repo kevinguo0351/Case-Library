@@ -1,0 +1,206 @@
+===== PDF p27 =====
+Tuck Consulting Club
+23
+Refrigerated Food Company (RFC)
+Our client, Multinational Refrigerated Food Company (RFC) , is contemplating the introduction of a refrigerated pizza product
+to the US market. Several years ago, RFC entered the refrigerated food market introducing the Pasta and toppings concept, 
+which was very successful earning sales over $200mln in two years. Now the marketing management of RFC plans to extend 
+it’s product line into pizza, and has hired McKinsey to help them assess the new market opportunity and advice whether they 
+should launch or not the new product.
+Case Prompt
+Clarifying Information
+If asked by the candidate:
+1) Management’s KPI for a successful product launch is $80 mln in revenues in the first year of sales.
+2) There are no competitors within the refrigerated pizza concept. 
+3) Overall the pizza market is dominated by delivery/takeout chains and restaurants. 
+4) The management is looking to choose between two concepts of the product: a pizza “kit” (when toppings for pizza are 
+sold separately) and a pre-assembled heat-and-eat pizza. 
+This is an interviewer-led type of case, so after reading the prompt ask the candidate if he/she has any clarifying questions 
+and proceed with Q1.
+Case Commentary (Notes to Interviewer)
+Type: Market Entry
+Author: Fedor Volkov T’17
+
+
+===== PDF p28 =====
+Tuck Consulting Club
+24
+Part 1: Problem Structuring 
+What factors should we investigate to determine whether RFC should expand its brand into a new product line? 
+Question 1
+This is a classic first question for a “McKinsey style” case interview. In this case the candidate is asked to list the factors that 
+the team needs to investigate to conclude whether extending the product line to a pizza concept is a good idea or not. After 
+asking 1-2 clarifying questions and summarizing the prompt a good candidate will take 1-2 minutes to draw a framework and 
+walk the interviewer through his ideas. 
+Guidance
+A good framework to approach this problem has to include, but not limited to:
+- Understanding the market and it’s size (this includes the major players on the market – customers, competitors and 
+suppliers);
+- Estimating the financial aspects of the entry (test against the objective);
+- Understanding the company’s capabilities to make the move into the new segment; 
+- Outlining some of the major risks for our client with this extension. 
+An great candidate will note that:
+- there may be different concepts of the pizza product line extension (pizza “kit” and heat-and-eat pizza as mentioned in Q1) 
+- the absence of direct competition may give our client a first-mover advantage;
+- brand awareness is important in estimating the potential market size of the new product line, as users of the pasta concept 
+that liked the product may be more eager to try the new concept.
+Candidate Insights
+
+
+===== PDF p29 =====
+Tuck Consulting Club
+25
+Part 2: Marketing Survey Analysis
+The marketing department has some additional information for us. They have just finalized a marketing survey for two pizza 
+concepts that they were contemplating to launch. 
+Without making any calculations, what insight can you see in the following exhibit? (Turn to Exhibit 1 to the candidate) 
+Question 2
+The candidate should always be focused on the main objective of the case – to launch the product or not, and if the answer is 
+to launch, then what concept should the firm launch. 
+Guidance
+A good answer will mention the following insights:
+- Users and Non-users of RFC’s products have different purchase intents and the number of Users/Non-users will 
+significantly influence the sales estimation. 
+- Non of the concepts hit the industry average on the top box for non-user. Warning signal for launching any of the products.
+- Making a decision towards one of the concepts having only this information is risky. 
+A great answer will also elaborate on the following insights and follow-ups:
+- The information in the exhibit will help us to calculate the total trial volume of sales for two products. Knowing the retail
+price, the targeted population, it will be possible to calculate the sales figure.
+- The purchase intent across different groups varies significantly (e.g. “probably would buy” for “Non-users”), it would be 
+wise to double check the figures and figure out why that is the case.
+- The marketing survey about purchase intent will not accurately be translated into actual sales, as people that answered the 
+survey may actually not buy the product. 
+Candidate Insights
+
+
+===== PDF p30 =====
+Tuck Consulting Club
+26
+Part 3: Calculating Total Sales
+Now let’s try to calculate the total sales for both concepts. What information would you need to do that? (pause here)
+For simplicity let’s ignore that different toppings may have different price tags, let’s assume the pizza only price is 7$/pizza, and the pizza and toppings 
+concept price is 5$/pizza. We also know that those customers that say will definitely buy the product in the end only 70% actually buy the product and 
+those that say will probably buy the product in the end only 20% actually buy the product. Targeted households = 120 mln, RFC penetration rate = 
+50%. Average units purchased per trial = 2
+Please calculate the first year sales of the two pizzas concepts. 
+Question 3
+This is a complex math question and the candidate needs to be very structured to do it right and fast. Rounding is allowed. If the candidate takes too much time tell him 
+the final answers and ask for intermediate conclusion. Do the same if the candidate has laid down a proper structure and calculated sales volume for one of the 
+concepts. There is no need to do all the math here.  
+The answers are below:
+1) Total Sales = Pizza & Toppings sales ($) + Pizza only sales ($)
+1.1) Pizza & Toppings sales ($) = Pizza & Toppings sales (RFC users) ($) + Pizza & Toppings sales ($) (Non-users)
+1.2 ) Pizza & Toppings sales (RFC users) ($) = (Targeted households)*(RFC penetration rate)*Awarness*ACV*(Def would buyRFC%*70% + Prob would buyRFC% * 
+20%)*Average units purchased per trial*Pizza and Toppings price/unit = 100mln*50%*60%*60%*(30%*70%+60%*20%)*2*5$
+Same calculations for other groups and concept. Final answer Pizza&Topping sales = 80,64 mln $  (Users = 71.28 mln$, non-users = 9.36 mln$) Pizza Only =118,69 
+mln $ (users = 83.16 mln$, non-users = 35.53 mln$).
+Guidance
+A good candidate will tell that the information missing to make the calculations is targeted population, broken down by RFC users and non-users, price 
+for both concepts.
+A great candidate will notice that total sales will consist of the trial sales and repeat sales, thus repeat rate is also a piece of information that is required. 
+Also a great candidate will ask for average trial units purchased per occasion. For simplicity purposes, if asked, ignore the repeat sales, but give a 
+positive feedback for mentioning that.
+Conclusion –concept 2 will generate sales beyond 80 mln $. The management shall proceed with Pizza only concept, if marketing survey is accurate.  
+Candidate Insights
+
+
+===== PDF p31 =====
+Tuck Consulting Club
+27
+Part 4: Perceptual Map
+Bonus question – if you have time. The management decided to make some more studies around the Pizza only concept. As 
+you may know the only competitors on the market are delivery restaurants (like Dominos and Pizza hut) and frozen pizza 
+producers. After a careful analysis of customer’s perceptions the following perceptual map was made by the marketing team. 
+What insights can you bring to the case from this exhibit (hand Exhibit 2 to candidate). 
+Question 4
+This is a relatively simple perceptual map that should raise some additional concerns about our product. There is not much 
+guidance here, just observe what insights the candidate will bring. 
+Guidance
+The candidate should mention that there is a risk that our product will not be well accepted on the market. The main reason is 
+that the quality is not enough to beat the Restaurant/Delivery pizza segment, and it’s impossible to compete on price with the 
+frozen pizza segment. The client should focus more on increasing the convenience of their product (quality or speed of 
+cooking) to attract more customers from the Restaurant/Delivery segment. Decreasing the price will be a hard avenue to 
+follow, as the dough and ingredients should be fresh. 
+Candidate Insights
+
+
+===== PDF p32 =====
+The Client should launch the pizza concept and should focus on the Pizza only concept for the following reasons:
+- The success with the Pasta concept has created a loyal customer base that will ensure stable sales for the pizza product; 
+Overall awareness for the product among users is 60%.
+- Sales figure for the Pizza concept will amount to approximately 118 mln $ during the first year of sales (almost 60 mln $ 
+more than for the Pizza and Toppings concept.
+- The Client needs to ensure that the information in the marketing survey is accurate and complete;
+- Take into account the results of the perceptual map, showing that the product is not well positioned against the 
+Restaurant/Delivery segment.
+- Make more accurate sales calculations taking into account the repeat rate of purchase. 
+- Evaluate further actions on how to position the product to gain share from the Restaurant/Delivery segment. 
+- Come up to management with more detailed recommendations.
+Tuck Consulting Club
+28
+Refrigerated Foods Company Wrap-Up
+Recommendation
+Risks
+Next Steps
+
+
+===== PDF p33 =====
+Exhibit 1 – Marketing department information
+29
+1 ACV (all commodity volume) is a measure of distribution reach. 50% ACV, for example, means that a product is 
+distributed in stores which represent 50% of sales volume of all food products sold in that area.
+Pizza & Toppings
+Pizza Only
+Awareness: 
+RFC’s Users
+60%
+60%
+Non-users
+20%
+30%
+ACV1
+60%
+60%
+Pizza & toppings
+Pizza Only
+Industry 
+average
+RFC’s Users
+Non-users
+RFC’s Users
+Non-users
+Definitely
+would buy
+30%
+10%
+25%
+15%
+20%
+Probably would 
+buy
+60% 
+30%
+50%
+65%
+41%
+Top two boxes
+90%
+40%
+75%
+80%
+61%
+Part A) Awareness and ACV data
+Part B) Marketing survey results
+
+
+===== PDF p34 =====
+Exhibit 2 – Perceptual map of Pizza only concept
+30
+Convenience
+Quality
+Area = price
+Restaurant/Delivery 
+pizza
+Frozen pizza
+RFC’s pizza 
+concept

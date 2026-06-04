@@ -1,0 +1,348 @@
+===== PDF p138 =====
+Nat’s Nuts
+134
+Industry: CPG
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p139 =====
+Behavioral Questions
+135
+• Have you had any mentors? What have they taught you? 
+Question 1:
+• Tell me two things you liked and disliked about your last job before business school. 
+Question 2:
+
+
+===== PDF p140 =====
+Nat’s Nuts
+136
+•
+Nat’s Nuts is a private company based in Wichita, Kansas. The company has been family-owned for 3 generations 
+and got its start when Old Nat Nicholson sold his signature salty nuts outside Wichita Wingnuts baseball games. 
+•
+Over the past decade, Nat’s Nuts has experienced tremendous growth after introducing high quality trail mix 
+products. Taking advantage of consumers’ movement towards healthy snacking, Nat’s has managed to capture 
+the top market share in the U.S. trail mix category, surpassing even the largest conglomerate-owned brands. 
+•
+Despite its recent exponential growth, Nat’s still has a small-company mentality and has not taken steps to 
+become more efficient. 
+•
+Nat’s has come to you for help in improving its bottom line. 
+Prompt #1:
+Additional information to provide if asked: 
+•
+Nat’s Nuts has two brands of trail mixes: Value and premium. The value line is larger, but premium line is growing faster. 
+•
+Nat’s sales team has a great track record, with strong sales growth each year. The Director of Sales strongly believes that 
+they should not change product prices, nor should they play with their marketing plans, which continue to be very 
+successful. (i.e. the candidate should focus on costs). This info can be stated after the framework, too. 
+•
+Nat’s Nuts relies on a handful of incumbent suppliers for its ingredients, packaging, and freight needs. Nat’s roasts most of
+the nuts at its Wichita factory, and combines ingredients into trail mix products. 
+•
+~90% of Nat’s costs are on ingredients, like peanuts, raisins, almonds, chocolate candies, and sunflower seeds.  
+Framework: 
+•
+A good framework could include 1) supplier relationships (i.e. sourcing ingredients, packaging material, freight, etc, through 
+a competitive bidding process; futures; long-term contracts), and 2) opportunities to change to lower-cost ingredient specs.
+•
+If framework focuses on revenues, interviewer should steer the candidate towards costs.
+Interviewer Guidance:
+
+
+===== PDF p141 =====
+Nat’s Nuts
+137
+•
+Nat’s Nuts has decided to initially focus on optimizing ingredient specifications (specs), and product composition. 
+•
+What are some ways that Nat’s Nuts can reduce its spending on ingredient specs and composition?
+•
+OPTIONAL: If the candidate’s initial framework left costs very broad, interviewer could instead ask: “Nat’s Nuts 
+has decided to initially focus on cost efficiencies. What are some ways Nat’s nuts can reduce its costs?”  
+Prompt #2:
+Possible Answers:
+•
+Size
+•
+Grade 
+•
+Number of scratches / split pieces
+•
+Variety / Type 
+•
+Roasted vs. raw 
+•
+Wholesale replacement of one ingredient for another similar ingredient (a good candidate will note risk of doing this) 
+•
+Ratios (i.e. increase proportion of cheap ingredients in a product, decrease proportion of expensive ingredients)
+After this brainstorm, a good candidate will drive the case by recommending next steps. Interviewer can also ask for next steps.
+Next steps could include: 
+•
+Analyze competitor trail mix products to see if lower-cost specs are prevalent
+•
+Research costs for alternative ingredient specs (potentially by outreaching to existing suppliers), to ascertain a cost delta
+•
+Assess volumes of top ingredients used by client (when combined with cost delta, this will indicate total savings)
+Provide Exhibit 1. If candidate suggests ratio changes in the brainstorm, also provide Exhibit 2. 
+Interviewer Guidance:
+
+
+===== PDF p142 =====
+Exhibit #1
+138
+Ingredient
+Spec Change Idea 
+Ingredient Volume 
+(Million Lbs / Yr)
+Current Spec Cost 
+($ / lb)
+Alternative Spec  
+Cost ($ / lb)
+Almond
+Switch to smaller size
+2.5
+2.61
+2.56
+Peanuts
+Include 50% wholes 
+and 50% splits 
+12.3
+0.70
+0.63
+Raisin
+Switch to cheaper 
+variety 
+8.1
+1.23
+1.10
+Sunflower seeds
+Switch to smaller size 
+6.0
+0.82
+0.73
+Peanuts
+Switch to smaller size
+12.3 
+0.70
+0.68
+Pecans
+Replace pecans with 
+walnuts
+0.3
+6.20
+5.92
+Almond
+Switch to cheaper 
+variety
+2.5
+2.61
+2.55
+Top spec change ideas generated after analysis of competitor products:
+
+
+===== PDF p143 =====
+Nat’s Nuts
+• Explain to candidate: “After analyzing 
+competitor products’ ingredients, we have 
+come up with the following opportunities for 
+optimizing specs.” 
+• If Candidate asks: Only one peanut idea can 
+be applied (either the 50% splits idea, or the 
+smaller size idea). 
+• If Candidate asks: The two almond ideas are 
+additive. The two cost deltas can each be 
+multiplied by the 2.5 MM lbs volume, and then 
+added together. 
+• Candidate should deduce that he/she needs to 
+find the delta in cost per lb, then multiply by 
+ingredient volume. 
+• A good candidate will realize that only 50% of 
+the peanut volume for the split peanuts idea can 
+be applied. 
+• A good candidate will ask if the duplicate ideas 
+(peanut and almond) are additive or mutually 
+exclusive.
+• A great candidate will realize that the total 
+savings for switching from pecan to walnut is 
+less than $100K (the smallest $ amount), and a 
+wholesale ingredient change has the highest 
+risk to consumer perception and biggest 
+logistical burden (labeling on package, SKU 
+registration, etc.), so the candidate may suggest 
+eliminating this idea. 
+After completion of Exhibit 1 analysis, provide 
+Exhibit 2. 
+139
+Exhibit #1 Guidance:
+Exhibit #1 Analysis:
+
+
+===== PDF p144 =====
+Nat’s Nuts
+140
+Exhibit #1 Guidance:
+Ingredient
+Spec Idea
+Volume 
+(MM Lbs/Yr)
+Current 
+Cost $ / lb
+Alternative 
+Cost  $ / lb
+Cost Delta
+Total Savings 
+($MM)
+Almonds
+Switch to smaller size
+2.5
+2.61
+2.56
+0.05
+2.5 x 0.05 = 0.13
+Peanuts
+Include 50% wholes 
+and 50% splits 
+12.3
+0.70
+0.63
+0.07
+12.3 x 0.07 = 0.43
+Raisins
+Switch to cheaper 
+variety 
+8.1
+1.23
+1.10
+0.13
+8.1 x 0.13 = 1.05
+Sunflower 
+seeds
+Switch to smaller size 
+6.0
+0.82
+0.73
+0.09
+6.0 x 0.09 = 0.54
+Peanuts
+Switch to smaller size
+12.3 
+0.70
+0.68
+0.02
+0.246
+Pecans
+Replace pecans with 
+walnuts
+.3
+6.20
+5.92
+0.28
+0.084
+Almonds
+Switch to cheaper 
+variety
+2.5
+2.61
+2.55
+0.06
+2.5 x 0.06 = 0.15
+• Total, assuming exclusion of duplicate peanut size idea: $2.4 MM 
+• Total, assuming exclusion of duplicate peanut size idea and pecan idea: $2.3 MM 
+
+
+===== PDF p145 =====
+Exhibit #2
+141
+Top-Selling Trail Mix Product in Premium Line
+Total Sales Volume, 2016: 8 Million lbs
+Ingredient
+Cost, $ / lb
+Ingredient Ratio 
+Dark Chocolate 
+Espresso Chips
+1.60
+33%
+Cashews
+5.72
+24%
+Dried Cherries
+4.35
+29%
+Pistachios 
+7.54
+14%
+
+
+===== PDF p146 =====
+Nat’s Nuts
+142
+Exhibit #2 Guidance:
+•
+Explain to candidate: “Now that we’ve looked at spec changes, we also want to look at composition changes.”
+•
+If candidate asks: For ratios, the client does not want to consider changing out one ingredient for another. 
+•
+It is not important that the candidate arrives at a specific savings number here; it is more important that the candidate uses a
+reasonable constraint for the ratio adjustment. For example: max 3% total change (i.e. from 20% to 23%); or max 20% variation
+from original percentage (i.e. from 10% to 12%). A great candidate could note that both constraints together would be ideal to 
+produce reasonable ratio changes (but this is not required). 
+•
+A good candidate could caution against decreasing both cashews and pistachios, since that could reduce the overall “nutty” flavor.
+•
+The example below uses a max 1% total change constraint for each ingredient. 
+•
+A great candidate will note this is just one product’s ratio changes; further savings can be found in Nat’s other products, especially 
+since the value line is larger than the premium line
+Ratios: Top-Selling Product in Premium Line (Total Sales Volume: 8 Million lbs) 
+Ingredient
+Cost / lb
+Current Ratio
+New Ratio 
+Savings / Delta
+Dark Chocolate 
+Espresso Chips
+$1.60
+33%
+34%
++1% x 1.60 = 0.02
+Cashews
+$5.72
+24%
+23%
+-1% x 5.72 = -0.06
+Dried Cherries
+$4.35
+29%
+30%
++1% x 4.35 = 0.04
+Pistachios 
+$7.54
+14%
+13%
+-1% x 7.54 = -0.08
+Total cost / lb
+$4.22
+$4.14
+-$0.08
+Total $ Savings: $0.08 x 8 MM lbs = $0.64 MM
+
+
+===== PDF p147 =====
+Nat’s Nuts 
+143
+Recommendation could include the following points:
+• Spec changes result in ~2.3MM in savings; ratio changes result in further savings of (based on 
+candidate’s calculations)
+• Client should further validate these ideas through consumer testing 
+• Ratio adjustments can be applied to other products for additional savings
+• A great recommendation could also provide thoughts on implementation (regional rollout, national 
+rollout, further market pilot testing, etc) 
+Recommendation 
+• Candidate should note the risks of spec / ratio changes regarding consumer perception and 
+potential fall in sales. Consumer testing can mitigate, but not completely remove, this risk. 
+• Candidate could also discuss potential resistance from the client. If Nat’s Nuts has grown by 
+providing products with high quality ingredients, the client may balk at reducing quality level. 
+Interviewer Guidance:

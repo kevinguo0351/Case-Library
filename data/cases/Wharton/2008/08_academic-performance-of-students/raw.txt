@@ -1,0 +1,125 @@
+===== PDF p78 =====
+Establishing the case
+Case8 : Academic Performance of Students
+McKinsey:  Round 1
+A public school system in a city has 130,000 students in 
+total. The average score of the students in a state wide 
+exam is much lower than the scores of the students from 
+the rest of the state. The key question is “how do you 
+improve the academic performance of the students in 
+the city?”
+Problem statement narrative
+There are in total 13 grades in the public school system
+Elementary: KG to 6th grade
+Junior High: 7th and 8th
+High School: 9th to 12th
+Guidance for interviewer and information to be 
+provided on request
+74
+
+
+===== PDF p79 =====
+Sample solution element – issue tree & qualitative analysis
+Candidate may propose analysis / action in:
+Question:  What are the key areas 
+you would explore to identify the 
+causes for decline in academic 
+performance?
+School: Teachers and Support 
+System, Quality of teachers, What 
+kind of support system does the 
+school have?
+School
+Student: Time required to study, 
+availability of study materials such 
+as text books, Lesson plan and 
+syllabus consistent with the exam
+Student
+External factors such as private 
+coaching, parental assistance etc:  
+Do students need extra coaching 
+from parents?  Are there more 
+distractions in the city as opposed to 
+the rest of the state?
+External Factors
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+Support System in school comprises 
+of Admin, Warehouse for storing 
+textbooks and special education 
+(private coaching) How will you 
+identify from these three areas 
+where the problem could be?
+There are same number of students 
+in each class. Each student orders 2 
+books, 75% arrive on time, 
+inefficiency due to warehousing and 
+online orders.
+For the purpose of this case lets 
+assume this is not a problem.
+75
+
+
+===== PDF p80 =====
+Sample solution element – Math
+Each student orders 2 math books, There are equal number of students in each grade. The inefficiency 
+is contributed 75% due to warehousing and 25% due to online orders. Due to improvements suggested 
+by McKinsey, new warehouse model would improved the efficiency by 50% and online orders would 
+improve by 80%. How many additional math books should Junior High school get on-time with the 
+improved efficiency in the system?
+Math Question
+<There are in total 130,000 students
+Junior high school comprises of two grades. 10,000 students 
+in each grade. Therefore 20,000 students order 2 math 
+books which is 40,000
+25% of the inefficiency = 25% of 40,000
+= 10,000
+75% of inefficiency due to warehousing = 75% of 10,000
+= 7500
+Inefficiency due to online orders             = 2500
+Improvements in warehousing                  = 50% of 7500
+= 3750
+Improvements in online orders                  =80% of 2500
+= 2000
+Therefore new additional math books
+That arrive on time                                  = 5750 
+(3000+2750) >
+Overall approach, good shortcuts & solution
+Everything except that the number of students per grade is 
+equal
+Information to provide up front
+Number of students per grade  is equally distributed
+Provide information if asked
+76
+
+
+===== PDF p81 =====
+Sample solution element – recommendation et al.
+Given the bonus question, what are immediate steps you would take to move 6th graders to junior high?
+1.Estimate the junior high schools that have lower capacity utilization since you don‟t want to build 
+additional capacity which could be expensive
+2.Re-distribute teachers to maintain the same or better teacher to student ratio
+Recommendation
+Junior high may not have capacity utilization
+Underutilized capacity in elementary schools may lead to unnecessary maintenance over head
+Might need to spend extra money to maintain the support system in junior high>
+Risks
+Evaluate these risks 
+Next Steps
+We decided to move the 6th grade from elementary to 
+junior high school. What are the implications of that?
+Capacity Utilization, costs associated.  The current 
+capacity utilization is 80%. Currently the elementary 
+schools can host 6000 students. However only 4800 
+students are enrolled. 600 students are 6th grade 
+(given only if the candidate asks). What is the new 
+capacity utilization by moving 6th graders to junior 
+high. It will be 4200/6000 = 70%.  What is the % 
+change in capacity utilization (10% - since 80 to 70) 
+What are the implications of this?
+BONUS
+77

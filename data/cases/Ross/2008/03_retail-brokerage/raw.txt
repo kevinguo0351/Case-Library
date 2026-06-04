@@ -1,0 +1,191 @@
+===== PDF p19 =====
+Case 3: Retail Brokerage 
+-hard- 
+McKinsey&Company, Round 1 
+14 
+ 
+ (Source: Case Interview from McKinsey&Company, Round 1) 
+ 
+Context: 
+Our client is a retail Brokerage firm with annual revenues of $5B.  They are operating throughout the 
+US with 200 branches opened. Half of these branches are corporate and half are franchised. 
+ 
+Interviewer: What are the economics of this business? 
+A good answer will identify the followings: 
+In order to analyze the economics of the business I need to find more information about their revenues 
+and costs. Then I would like to look into what competition is doing on the market, how segmented the 
+market is and who are the consumers and what are their needs. 
+- 
+On the revenue side
+- 
+, I need to understand where their revenues are coming from and then break it 
+into the two components price and quantity 
+On the cost side
+o Fixed costs: 
+, I would like to look at the fixed and variable costs: 
+ 
+SG&A 
+ 
+IT system 
+ 
+Marketing 
+o Variable costs: 
+ 
+Labor 
+ 
+Other cost related to commissions, fees 
+- 
+Next thing that I would like to look into is what competition
+- 
+We also need to understand how the overall market is doing: is it growing or shrinking; how 
+segmented the market is and if there are specificities related to regions 
+ is doing: how many competitors do we 
+have, are there new competitors in the market, have they stolen share from us, are they offering 
+services that we are not 
+- 
+Further, the consumer: who are they, what do they want how our client’s products meet their needs 
+ 
+Information to be provided upon request: 
+ 
+Revenues come from 2 different divisions: 
+- 
+Trading : $3B 
+- 
+Asset Management: $2B 
+ 
+Trading means that brokers do specific transactions as per their customer’s requests. The revenue in 
+this division would come from a fixed fee of $10 per transaction. 
+In the Asset Management division, the firm is administering the customer’s money and the revenues 
+come from a percentage from the total amount administered assets which is 1% 
+ 
+Costs: 
+Fixed costs: $1B 
+$800M – IT ( $700M from Trading and $100M from AM) 
+$100M – Marketing 
+$100M – SG&A 
+ 
+ 
+ 
+
+
+===== PDF p20 =====
+Case 3:Retail Brokerage 
+-hard- 
+McKinsey&Company, Round 1 
+15 
+ 
+Variable costs: 
+Trading: 
+ 
+Commission to brokers: 40% of revenues 
+ 
+Other costs: $2 per transaction 
+Asset Management: 
+ 
+Commission to brokers: 40% of revenues 
+ 
+Fee to an outsourcing firm that is managing the assets: 0.4% 
+ 
+Profits = Revenues – Costs 
+Interviewee should now do the calculations for the profits: 
+ 
+Trading division: 
+Revenues = $3B 
+Fixed Costs = $700M(IT) +$60M(Mkt.-pro rated from the revenues) + $60M(SG&A-pro rated from the 
+revenues) = $820M 
+Variable costs
+Commission: 40% of the $10 fee = $4 per transaction 
+: 
+Other = $2 per transaction 
+Number of transactions = $3B / $10 = 300M 
+Variable costs = $6 * 300,000 = $1.8B 
+ 
+Asset management division: 
+Revenues = $2B 
+Fixed Costs = $100M(IT) +$40M(Mkt.-pro rated from the revenues) + $40M(SG&A-pro rated from the 
+revenues) = $180M 
+Variable costs
+Commission: 40% of the $2B revenue = $800M 
+: 
+Fee for the outsourcing company = 0.4% of the $200B total administered assets = $800M 
+Total assets = $2B / 1% = $200B 
+Variable costs
+ 
+ = $1.6B 
+Profits: 
+Trading profits = $3B - $1.8B - $0.82 = $380M (12.66%) 
+Asset Management profits = $2B - $180M - $1.6B = $220M (11%) 
+A good candidate will also observe that Asset Management is slightly more profitable than trading. 
+ 
+Interviewer: Now we are almost in an economic depression. What would happen to this firm if an 
+economic recession would happen next year? Calculate by how much they need to increase the 
+number of transactions/ assets managed now in order to breakeven in each division in case of 
+recession. 
+ 
+In order to do that I need to know what happened with this firm at the last recession in order to try to 
+benchmark the effects. 
+(if the interviewee does not ask for past recession effects ask to brainstorm on how they can estimate 
+the effects of the incoming recession till they get to this answer) 
+ 
+ 
+
+
+===== PDF p21 =====
+Case 3:Retail Brokerage 
+-hard- 
+McKinsey&Company, Round 1 
+16 
+ 
+Interviewer:  
+Number of transaction decreased by 50% 
+Assets managed decreased by 15% 
+ 
+For Trading: 
+If x = number of transaction needed now 
+#transaction * revenue per transaction = fixed costs + #transaction*variable cost per transaction 
+(50% * x) * $10 = $820M + (50% * x )*$6 
+x = 410M  
+They will need to increase the number of transaction by ~35% [(410M-300M)/300M]. I don’t think this is 
+feasible in a short period of time, especially just before a recession. 
+ 
+For Asset management: 
+If y= amounts of assets needed now 
+Amount of assets*% of assets = fixed costs for asset management + variable costs for asset management 
+(80% * y )* 1% = $180M + [(40% *1% *y*80%) + (0.4% *y*80%)] 
+y = $112.5B  
+There is no risk of becoming unprofitable in this division. 
+ 
+Interviewer: How can they address the risk of the recession (how can they keep the profitability at 
+current levels)? 
+ 
+They can either try to increase the revenues or decrease the costs: 
+ 
+Increase revenues: 
+- 
+Change the product mix – get more asset management business because it is more profitable 
+o Advertise 
+o Incentivize brokers to get more assets 
+o Offer more benefits for customers coming to us instead of competition 
+o Extend office locations 
+o Offer new products for current customers 
+o Put in place a field sales team of brokers to get more assets or trade customers either by 
+attracting more and richer customers or by making the current ones put more money in 
+- 
+Get more, richer customers 
+- 
+Increase the fee per transaction or the percentage for the asset management 
+- 
+Segment the market and differentiate depending on customer 
+ 
+Decrease costs: 
+- 
+Fixed costs: 
+o IT seems to be the highest: outsource it because it can also bring some other benefits like 
+expertise from an IT firm, risk dispersion if it breaks down 
+o Use cheaper systems, less qualified labor 
+- 
+Variable costs: 
+o Decrease the commission for brokers 
+o Get the asset management in house 
+o Link the commission of the brokers to the performance; create an incentive system to 
+actually make them bring more business 

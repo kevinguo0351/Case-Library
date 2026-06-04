@@ -1,0 +1,79 @@
+===== PDF p72 =====
+Establishing the case
+Case6 :  Hospital Administrative Software
+Booz & Company:  Round 1
+•Our client sells software that runs on hospital operating 
+systems across the nation.  The software is used for 
+administrative tasks, such as back-office operations and 
+clinical record-keeping.  
+•The company used to be a market leader, but its share has 
+steadily been declining.  Specifically, sales have dropped.
+•Our client has engaged our consulting firm to find out why 
+sales have dropped and to provide recommendations that 
+will address this issue.  
+Before diving into the case, ask the candidate to  size the 
+market.  Information to be given upon request:
+•Replacement rate is every 10 years
+•A software sale is worth $9M each, but because it takes 3 
+years to install, the company receives the money in three 
+installments of $3M each year.  
+•Only one software product is needed for each hospital.
+Problem Statement Narrative
+After sizing the market, candidate should find out why sales 
+have been declining. Information to be given upon request:  
+•The market is growing at 15%
+•Competition can install their products within 2 years.
+•The sales force says that the product is hard to sell to 
+hospitals.  Installments can be delayed and can take 
+sometimes up to 4 years to complete installation.
+•When installations are delayed, software “patches” have to 
+be developed in order to make the software function 
+properly in the meantime.  This can be costly in terms of 
+programming and training costs.     
+•Customers prefers simple products that are easy to use and 
+navigate
+•Customers feel that the client‟s product has more features 
+than needed.  Makes it complex and lengthens installation 
+time. 
+•R&D unit often adds features to the product without any 
+market research first.  
+Guidance For Interviewer
+68
+
+
+===== PDF p73 =====
+Sample solution element – Math
+Sizing the Market (sample solution): We have one hospital that serves the 50,000 people within in my community.  
+We can use this as a rule of thumb.  If there‟s 300M people in the US, then there‟s 6,000 hospitals in the nation 
+(300M /50,000).  Every 10 years, a hospital will replace its software, so demand is 600 new software per year 
+(6,000 hospitals/10 years).  600 software units demanded x 9M = $5.4B in revenue per year    
+Math Question
+After sizing the market, the candidate should find out why 
+sales have been declining.  
+Start by looking at the external environment.  This should 
+include asking about the growth rate of the market, about 
+any changes in the industry landscape, new legislation or 
+technology,  the products of competitors, and customer 
+preferences.
+Afterwards, look internally.  Find out whether the client‟s 
+product is meeting customer standards. Ask about the 
+price– how does it compare to competitor‟s products?  Find 
+out about the client‟s capabilities, such as research and 
+development and its sales force– are they being 
+compensated fairly? Sales and marketing are ultimately 
+responsible for top-line growth, so that‟s an area to touch 
+on.       
+Overall Approach
+I would recommend that our client simplify its product 
+features in order to make it easier to use for our client‟s 
+customers.  This will also reduce the time it takes to 
+implement the software, bring down the costs associated 
+with delayed implementation, and put our client on par with 
+its competitors in terms of implementation time.  
+Additionally, I would look into creating control policies 
+within the research and development department in order 
+to provide structure to adding new product features.  Doing 
+so will help reduce unnecessary research and development 
+costs.  
+Recommendation
+69

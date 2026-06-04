@@ -1,0 +1,410 @@
+===== PDF p141 =====
+Housing Authority Goes Green
+Difficulty: Medium
+Industry: Government/Public Service
+Case Type: Investment
+Written by Jessie Goldman ‘22
+Concepts Tested
+Case #14 : Housing Authority Goes Green
+• Mental math
+• Cost and breakeven analysis
+• Creativity
+You’re working with the local city government in a major urban area. Your client manages housing developments spread 
+across 3 neighborhoods that are collectively home to 400,000 residents. All residents receive health care services at the 
+local hospital, also funded and managed by your client. The client received a grant from a major foundation and is 
+considering using that money to remodel some of the city’s housing developments to feature more green space. Your job is 
+to help the client think through whether this is a good idea and, if so, which sites to focus on first. 
+Problem Statement Narrative
+This is designed to be an interviewer-led case. Because the client is a city government, it will be important for the 
+candidate to recognize that economic benefits are just one piece of the equation. Still, the interviewer should recognize 
+that the case overall should be treated like an investment decision. This is a long case (5 total questions, including the 
+framework); if running short on time, interviewer can skip the final question and still arrive at a reasonable conclusion. 
+Case Notes
+137
+
+
+===== PDF p142 =====
+Housing Authority Goes Green
+Question #1 / Framework 
+How would you evaluate whether the city should invest in green spaces?
+1.
+Costs
+a.
+Upfront investment
+i.
+Permitting
+ii.
+Construction
+i.
+Labor
+ii.
+Materials
+iii.
+Landscaping
+b.
+Ongoing costs
+i.
+Maintenance/upkeep – supplies
+ii.
+Maintenance/upkeep – labor
+c.
+Opportunity costs
+2.
+Benefits
+a.
+Social
+i.
+Enhance vibrancy of public housing 
+ii.
+Reduce crime
+b.
+Economic
+i.
+Improve residents’ physical health
+ii.
+Improve residents’ mental health
+3.
+Risks
+a.
+Limited resources –could see greater benefit elsewhere
+b.
+Create disparities across sites and make some sites 
+much more desirable than others
+c.
+Negative externalities: noise/disturbance, pollution 
+from construction
+Sample Framework
+The candidate should start by outlining a framework that 
+analyzes potential costs, benefits, and risks of the 
+investment. Once he/she walks through the framework, 
+let them know that they will start by exploring one 
+perceived benefit – the impact of green space on hospital 
+expenses
+Guidance for Interviewer
+•
+The client has 4M to invest. If they don’t use the 
+money on green spaces, they can use it for other city 
+maintenance/improvement projects. 
+•
+Other than remaining within the $4M constraint, the 
+city wants to see a positive ROI in 6 years or less
+•
+It’s safe to assume that if the government decides to 
+move forward, they’ll be able to break ground 
+immediately
+Clarification Answers if  Asked 
+138
+
+
+===== PDF p143 =====
+Question #2
+Question
+Solution
+One reason that the housing authority is interested in adding green space is that greenery can reduce asthma rates. Right 
+now, 10% of people with asthma are hospitalized one time per year at an average cost of $200 per hospitalization. Based 
+on Exhibit 1, what is the annual cost of treating asthma patients that live in housing developments right now? 
+Housing Authority Goes Green
+Residents
+Current Asthma 
+Incidence
+Current Residents with 
+Asthma
+(Residents * Incidence)
+Hospitalized 
+Residents
+(10% of Residents 
+with Asthma)
+Annual Cost of 
+Hospitalization
+(Hospitalized Residents * 
+Cost per hospitalization)
+Neighborhood A
+150
+30%
+75,000
+7,500
+$1.5M
+Neighborhood B
+200
+15%
+30,000
+3,000
+$600K
+Neighborhood C
+50
+25%
+12,500
+1,250
+$250K
+Total Cost = Cost A + Cost B + Cost C = $1.5M + 600K + 250K = $2.4M
+139
+
+
+===== PDF p144 =====
+Question #3
+Question
+Solution
+The city estimates that it costs $600K to build 1000 square feet of green space. What do you think are the largest cost 
+drivers and how the city might consider reducing the cost of building green space? 
+Housing Authority Goes Green
+Fixed Costs
+Variable Costs
+1.
+Labor (an outstanding candidate would bring in 
+the fact that city employees may be union-
+affiliated)
+2.
+Construction and gardening machinery
+Reduction Opportunities
+•
+Share cap-ex across city departments
+•
+Consider equipment purchase/rental opportunities
+•
+Open negotiations with the union
+1.
+Soil, trees, seeds, and other plants
+2.
+Lighting, benches and other accessories that will 
+enhance the green space
+Reduction Opportunities
+•
+Re-negotiate with greenery suppliers; look for 
+opportunities to buy in bulk, potentially leverage 
+economies of scale in other city departments
+This is a brainstorming question that does not require any calculation. However, the interviewer should write down 
+the $600k/1000 sq feet because it will be required in the next question
+Note: Fixed and variable costs are just one sample way to brainstorm
+140
+
+
+===== PDF p145 =====
+Question #4 
+Question
+Solution
+Given the client’s limited budget, they need to pick one neighborhood to begin with as a proof of concept. The city will 
+start to see savings one year after breaking ground (i.e., in year 2). From Exhibit 2, which neighborhood would you start 
+with and why? Assume that the cost reduction efforts from the last question have not been implemented
+Housing Authority Goes Green
+Note: Cost to build was given in question 3. If candidate asks for the number, first remind him/her that it was already 
+provided. If necessary, reiterate that it’s $600k/1000 square feet
+Answer: Site C has the shortest payback period of 5.5 years and the city would therefore see a positive ROI in the shortest 
+time frame. The candidate could make a case for starting with Site A because the payback period is just 6 months longer 
+and it generates the most savings per year. Both fall within the initial constraint of positive ROI in no more than 6 yrs
+Neighborhood
+Annual savings 
+generated (after 
+year 2)
+Planned Green 
+Space (in 
+square footage)
+Time to Build 
+(years)
+Cost to build 
+Green space * 
+price per sq foot
+Payback period 
+(from point of  
+breaking 
+ground)
+A
+$600K
+5000
+5
+600K * 5 = $3M
+(3M/600k)+1
+6 years
+B
+$400K
+4000
+4
+600K * 4 = 
+$2.4M
+(2.4M/400k)+1
+7 years
+C
+$200K
+1500
+2
+600K * 1.5 = 
+$900K
+(900k/200k)+1
+5.5 years
+141
+
+
+===== PDF p146 =====
+Question #5
+Question
+Solution
+Before announcing the new investment, the city surveyed residents across each neighborhood. Responses are shown in 
+Exhibit 3. How would you interpret the information? How, if at all, does it change your site recommendation?
+Housing Authority Goes Green
+Average Candidate
+Strong Candidate
+1.
+Explains key insights:
+a.
+Residents in neighborhoods A are most excited 
+about green space, believe it’s a worthwhile 
+investment but are also most likely to be 
+bothered by construction
+b.
+Residents in neighborhood B are least excited 
+about green space, least likely to believe it’s a 
+worthwhile investment, but also least concerned 
+about the disruption
+c.
+Residents in neighborhood C are overall excited 
+about green space, believe it to be a worthwhile 
+investment but, like A, are concerned about 
+disruption 
+2.  Recognizes that Sites A and C are still most desirable  
+3.  Notes n-size
+In addition to commends from “average candidate”
+1.
+Comments on small n-size relative to the number of 
+residents living in the city housing developments (120 
+people surveyed of 400,000 total residents); questions 
+whether it’s a reliable sample
+2.
+Begins to offer a recommendation that mitigates risks 
+that are underscored by the exhibit. For example, if 
+they go forward with neighborhood A or C, find ways 
+to minimize disruption
+3.
+Uses information to defend or change earlier 
+recommendation – many answers could be acceptable, 
+including desire to mitigate disruption, desire to focus 
+on those that are most bought in, etc
+Candidate could make a compelling case for either Site A or C (which may involve changing prior recommendation)
+142
+
+
+===== PDF p147 =====
+•
+Yes, the city should invest in green space and should 
+pilot with either neighborhood A or C
+Recommendation
+•
+Satisfies criteria of positive ROI within 6 years, and 
+that’s only considering one dimension of benefit
+•
+Neighborhood A can be justified as generating the 
+highest annual savings (after the payback period)
+•
+Neighborhood C can be justified as the shortest 
+payback period (which will also mean less disruption 
+time)
+Rationale
+•
+Other investments may generate even higher 
+savings/benefits to the community; the money is not 
+earmarked to green spaces
+•
+Current budget will only allow for one site to be 
+renovated; city runs the risk of improving one site and 
+making others look worse as a result
+•
+Construction could be a considerable disruption and 
+cause ill will among residents
+Risks
+•
+Shortlist other priority investments that can be made 
+with the 4M and assess savings/benefits as a result
+•
+Assess impact of enhancing one neighborhood on 
+other neighborhoods behaviors 
+•
+Run more detailed analysis of residents’ opinions 
+about construction disturbances and opportunities to 
+mitigate those disturbances
+Next Steps
+Housing Authority Goes Green
+Conclusion
+143
+
+
+===== PDF p148 =====
+Exhibit #1
+Housing Authority Goes Green
+Neighborhood
+Total Residents 
+(in thousands)
+Current Asthma 
+Incidence
+Planned Green 
+Space (in square 
+footage)
+A
+150
+30%
+300
+B
+200
+15%
+400
+C
+50
+25%
+150
+144
+
+
+===== PDF p149 =====
+Exhibit #2
+Savings, Planned Green Space, and Time to Build
+Housing Authority Goes Green
+Neighborhood
+Annual savings 
+generated 
+(beginning in 
+year 2)
+Planned Green 
+Space (square 
+feet)
+Time to Build 
+(years)
+A
+$600,000
+5000
+5
+B
+$400,000
+4000
+4
+C
+$200,000
+1500
+2
+145
+
+
+===== PDF p150 =====
+Housing Authority Goes Green
+Exhibit #3
+*Assume that survey included 40 residents from each site
+**Scale where 1 = strongly disagree, 3 = neutral, 5 = strongly agree
+4.3
+4
+4
+3
+3.2
+2.5
+3.8
+3.9
+3.5
+I would be more excited to live
+in a housing development that
+had green space
+I think that greenspace is a
+worthwhile investment for the
+city government
+Construction will be highly
+disruptive to my day-to-day life
+Results from Resident Pulse-Check Survey
+n=120*
+Neighborhood A
+Neighborhood B
+Neighborhood C
+146

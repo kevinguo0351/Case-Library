@@ -1,0 +1,225 @@
+===== PDF p97 =====
+Case: Big Yellow Bus 
+Bain, Round 1
+Your client is a private equity fund considering the acquisition of Big Yellow Bus Co, one of the leading manufacturers of school 
+buses in the US.  The client has engaged Bain to help determine whether or not to proceed with the investment.  
+Problem statement narrative
+93
+This is a classic go/no-go investment case which should use a 
+command & control format if the candidate does not hit the 
+right path quickly.  The candidate should first develop a 
+framework, which will ideally include assessing the market, 
+the company, and the transaction.  As part of the market 
+discussion the case tests the candidate’s math with a market 
+sizing question.  After this point the case should move on to 
+the competitive landscape, which will test the candidate’s 
+business intuition.  Exhibit 1 should be provided to the 
+candidate when the case moves to this juncture.    
+Case Type: Investment (Go/No-Go)
+Overview for interviewer
+• BYB is the #1 player in the market by revenue, #2 by 
+volume.
+• There are only 3 competitors in the market with relatively 
+equal share but BYB was the clear leader 5 years ago.
+• BYB’s prices are 20% higher than its competitors
+• The market has a fairly steady long-term 3% growth rate 
+driven by GDP / population growth.
+• Market growth has been 6% over the last two years as 
+local towns rush to buy buses prior to new emissions 
+regulations coming into place.
+• The customers are almost exclusively local cities and towns 
+in the US.
+Information to be provided upon request
+
+
+===== PDF p98 =====
+Case: Big Yellow Bus 
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+• How sizable is the market for school 
+busses?
+• What is the growth potential?
+• What does the competitive 
+landscape look like?
+Market
+• How does BYB stack up relative to 
+peers?
+• How is the financial performance?
+• How do BYB’s trends look relative to 
+peers?
+Company
+• What is the likely pricing?  Will it meet 
+our client’s return hurdles?
+• Can the transaction be financed?
+• Why are we the right buyer?
+Transaction
+94
+landscape look like?
+peers?
+• Is the company well-positioned?
+• How effective is management?
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+• Have the candidate size the market 
+(see next slide).
+• After sizing the market talk about 
+growth potential (hopefully 
+candidate addresses it directly).  Talk 
+through the recent growth 
+acceleration and whether it is likely 
+to persist.
+• As part of competitive landscape 
+discussion revel the Market Financial 
+Summary and wait for the 
+candidate’s reactions.  
+• If necessary direct the discussion to 
+reveal that:
+• BYB is the high-price option
+• Competitors have 
+considerable procurement 
+advantage given ownership 
+• Case will not focus here, although 
+consider whether the private equity 
+fund owns similar businesses that might 
+have overlapping needs (such as other 
+heavy equipment / auto manufacturing 
+companies in the portfolio.
+• Assume pricing can be attained at 
+reasonable levels – focus on strategic 
+strengths / weaknesses.
+
+
+===== PDF p99 =====
+Case: Big Yellow Bus 
+Question 1 – Market Sizing
+Overall approach, good shortcuts & solution
+If candidate begins down the wrong path, redirect to 
+population proxy.  This is meant to test basic math skills.
+Information to provide up front
+Math Question
+How large is the market for school busses in the US?        Follow-up: Is the market attractive?
+US Population
+~320M people
+Lif E
+80
+95
+Candidate can make his own assumptions or ask for inputs.  
+• ~33% of schoolchildren take buses to school
+• ~50 students ride each bus
+• Ancillary busing needs (sporting events, field trips, etc) 
+are absorbed almost entirely by the normal fleet
+Attractive market?
+• Market growth is traditionally GDP/population-driven 
+at 3% per year; last 2 years have seen 6% growth
+• Pull-through demand ahead of changing 
+emissions regulation
+Provide information if asked
+Life Expectancy
+~80 years
+People per Decade
+~40M people
+School Age Commuters
+(~15 years)
+~60M children
+% Taking Buses
+33%
+School-Age Children Taking Buses
+~20M children
+Children per Bus
+~50
+Buses Required
+400K buses
+Average Life of Bus
+10 years
+Buses Sold per Year
+40K buses
+
+
+===== PDF p100 =====
+Case: Big Yellow Bus 
+Exhibit 1 – Competitive Landscape in US Bus Market
+Big Yellow Bus Co
+Competitor A
+Competitor B
+Market Share Analysis
+Market Share ($)
+38%
+34%
+28%
+96
+Market Share (units)
+34%
+36%
+30%
+Margin Analysis
+Revenue
+100%
+100%
+100%
+Gross Margin
+25%
+35%
+36%
+Operating Margin
+15%
+25%
+26%
+
+
+===== PDF p101 =====
+Case: Big Yellow Bus 
+Question 2 - Competitive Landscape
+There are two major takeaways:
+1)
+BYB’s share of revenue is higher than its share of volume
+• Why?  Its prices are higher than peers by 20%
+• Does this matter? – YES
+• Commodity product and highly price-sensitive customer (local cities & towns)
+• 5 years ago BYB’s market share was 60%
+What does the Competitive Landscape Data imply?
+97
+• 5 years ago BYB s market share was 60%
+• Low-cost competitors are gaining share…
+2)
+BYB’s cost structure is high relative to peers
+• Why?  
+• Gross margin is the big differentiator
+• Candidate should address COGS for bus company
+• Materials, labor are largest (not just commodity metals – specialty machinery 
+components)
+• BYB has significant materials procurement disadvantage
+• Competitor A & B are not stand-alone firms – they are owned by large industrial 
+trucking firms with some chassis and engine overlap
+
+
+===== PDF p102 =====
+Case: Big Yellow Bus 
+Sample Recommendation
+We do not recommend proceeding with the investment of BYB.  Even if pricing of transaction is 
+attractive BYB is in a difficult competitive position. BYB is losing share to two lower-cost competitors with 
+significant built-in cost advantages given their ownership structures.  Further, cost is the biggest driver in 
+the market as buses become increasingly commoditized and local cities & towns become more price 
+sensitive in the face of budget deficits. Overall, not an attractive investment. 
+Recommendation
+Economic decline / immigration patterns could actually accelerate demand beyond 3% growth going 
+f
+d b t
+i thi
+BYB i
+till
+t
+t di
+d
+t
+Risks
+98
+forward, but even in this case BYB is still at a cost disadvantage.
+Risks
+Make sure PE fund does not own related portfolio companies that might allow for procurement 
+synergies with BYB along the lines of what is achieved by competition.  Assuming there are none, move 
+on.
+Next Steps

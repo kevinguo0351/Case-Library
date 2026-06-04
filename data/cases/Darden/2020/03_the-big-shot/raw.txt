@@ -1,0 +1,482 @@
+===== PDF p67 =====
+63
+The Big Shot
+Bain | Round 1 | Media/Entertainment
+
+
+===== PDF p68 =====
+64
+Bain | Round 1 | Media/Entertainment
+0 3  |  C A S E :  T H E  B I G  S H O T
+THE BIG SHOT
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  D e s c r i b e  t h e  
+b e s t  l e a d e r  
+y o u ' v e w o r k e d  
+w i t h .
+2 .  Te l l  m e  a b o u t  
+a  t i m e  w h e n  y o u  
+d e a l t  w i t h  
+a m b i g u i t y  a t  
+w o r k p l a c e .
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. What is LCA’s business model? LCA is a production house in the US but release movies across major global 
+markets. They have a distribution network of domestic and international theatres and get a share of the ticket sales.
+2. What movies do they produce? They've been in the business for the past decade and have a good mix of movies 
+across different genres.
+3. What happened over summer? The COVID-19 pandemic has wreaked havoc on the movie industry.
+4. What is the financial situation of the company? Even though the company did not have a major hit over summer, 
+the company has ample cash reserves from investors. The board has indicated, however, that they expect a hit soon, 
+or else the CEO will be looking for a new job.
+5. Do they have any financial target? The board is concerned about ROI after the recent flops and has classified a hit 
+as a movie that has an ROI > 50%.
+Prompt:
+Our client, Lights Camera Action Entertainment (LCA), is a major movie 
+production house. After a disappointing summer filled with numerous box 
+office flops, the CEO of LCA has approached us to decide which movie the 
+company should release next.
+
+
+===== PDF p69 =====
+65
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 3  |  C A S E :  T H E  B I G  S H O T
+How to Move Forward:
+The candidate should recognize that this is a profitability case. Good candidates will also realize that there are other factors 
+that determine the success of movies. 
+A good understanding of the breakdown of tickets sales at a theatre level is key to moving forward – the interviewer should 
+push candidates to get granular while calculating revenue (theaters * seats * fill rate * ticket sales). 
+Once you get to this point, hand the student Exhibit 1 and 2.
+Revenues
+•
+Number of theaters at 
+release
+•
+Price of tickets
+•
+Fill rate at theater
+•
+Merchandise licensing
+•
+Sequel potential
+Costs
+• Actors
+• Sets
+• Special effects
+• Advertising
+• Editing
+• Sound
+• Production Design
+Internal
+• Sequel of prior hit
+• Saturation of series
+• Expertise in a genre
+• Exclusive deals with actors
+• Adaption from popular novels/books
+UVA Darden School of Business 2019-20 case book
+External
+• Macroeconomic trends
+• Actor popularity
+• Genre reach
+• Trending theme for the season/pop culture
+• Clashes with other movie release dates
+• Competition from Netflix and other 
+streaming media
+Financial
+Non-Financial
+
+
+===== PDF p70 =====
+66
+EXHIBIT 1
+0 3  |  C A S E :  T H E  B I G  S H O T
+UVA Darden School of Business 2019-20 case book
+Movie Name​
+Genre​
+Total Production Costs 
+(Millions $)​
+Forecasted Theatre 
+Attendance (%)​
+Project Huntington
+Comedy​
+50​
+80​
+Life at Ivy
+Drama​
+100​
+60​
+Case Wars
+Action​
+75​
+75​
+Paws at Pav
+Animation​
+90​
+80​
+LCA movie options
+
+
+===== PDF p71 =====
+67
+EXHIBIT 2
+0 3  |  C A S E :  T H E  B I G  S H O T
+UVA Darden School of Business 2019-20 case book
+Global Movie Industry Statistics
+0
+500
+1000
+1500
+2000
+2500
+Animated
+Action
+Drama
+Comedy
+Anticipated Theater Demand By Genre*
+Domestic
+International
+*Average theater run of 30 days 
+
+
+===== PDF p72 =====
+68
+Question 1
+•
+Which of the genres is the most profitable option for the production house?
+0 3  |  C A S E :  T H E  B I G  S H O T
+Exhibit or Question Guidance:
+Hand the student Exhibits 1 and 2. The candidate should realize that they cannot do a profitability analysis without number of seats in a 
+theatre and price of a ticket. Provide Exhibit 3, when the candidate asks for the above information.
+Provide only when asked – Assume 30 days of revenue.
+LCA revenue from each theatre type:
+UVA Darden School of Business 2019-20 case book
+Theatre type
+LCA 
+revenues/ticket
+No. of 
+shows/day
+No. of 
+seats/show
+Monthly earnings
+International
+$1
+5
+400
+$1 * 5 * 400 * 30 = $60,000
+Domestic
+$1.5
+10
+200
+$1.5 * 10 * 200 * 30 = $90,000
+
+
+===== PDF p73 =====
+69
+EXHIBIT 3
+0 3  |  C A S E :  T H E  B I G  S H O T
+Global Theatres Statistics
+UVA Darden School of Business 2019-20 case book
+Theatre type​
+LCA revenues/ticket​
+No. of shows/day​
+No. of seats/show​
+International
+$1
+5​
+400​
+Domestic
+$1.5​
+10​
+200​
+
+
+===== PDF p74 =====
+70
+0 3  |  C A S E :  T H E  B I G  S H O T
+Exhibit/Question Solution Guidance:
+Total Monthly earnings
+UVA Darden School of Business 2019-20 case book
+Genres​
+International
+Domestic
+Total
+Comedy​
+80%*1,000*60,000 = 
+48,000,000 ​
+80%*1,500*90,000 = 
+108,000,000​
+48M + 108M = 156M​
+Drama​
+60%*500*60,000 = 
+18,000​,000
+60%*1000*90,000 = 
+54,000​,000
+18M + 54M = 72M​
+Action​
+75%*1,500*60,000 = 
+67,500,000​
+75%*2,000*90,000 = 
+135,000,000​
+67.5M + 135M = 202.5M
+Animation​
+80%*750*60,000 = 
+36,000,000​
+80%*1,000*90,000 = 
+72,000​,000
+36M + 72M = 108M​
+
+
+===== PDF p75 =====
+71
+0 3  |  C A S E :  T H E  B I G  S H O T
+Exhibit or Question Guidance:
+Profit for one month:
+UVA Darden School of Business 2019-20 case book
+Genre
+Revenue ($)
+Costs ($)
+Profit ($)
+Comedy
+156,000,000
+50,000,000
+106,000,000
+Drama
+72,000,000
+100,000,000
+-28,000,000
+Action
+202,500,000
+75,000,000
+127,500,000
+Animation
+108,000,000
+90,000,000
+18,000,000
+ROI for each genre:
+Genre
+ROI (Millions $)
+Comedy
+106/50 = 2.12
+Drama
+-28/100 = -0.28
+Action
+127.5/75 = 1.7
+Animation
+18/90 = 0.2
+Exhibit Analysis:
+Good candidates should not calculate the profitability for all the 4 movies. From 
+the Exhibit 1, it is clear that “Life at Ivy” will be the least successful and can be 
+disregarded.
+From Exhibit 2, a great candidate should disregard “Paws at Pav” as it is 
+screened at fewer theatres.
+After calculations:
+2 movies stand out – however, even though the comedy movie makes less profits, 
+it has a greater ROI which is what LCA needs.
+
+
+===== PDF p76 =====
+72
+Release Timing:
+•
+Strategic release dates to coincide with 
+holidays/popular events, such as romcom during 
+Valentine’s weekend, Holiday films over Christmas
+•
+Avoiding clashes with other popular movies or large 
+sporting events during the release
+0 3  |  C A S E :  T H E  B I G  S H O T
+UVA Darden School of Business 2019-20 case book
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Monetization:
+•
+Merchandise sales from these movie category, 
+e.g.: water tumblers, limited edition gadgets, t-
+shirts etc.
+•
+Potential for movie sequels based on popularity
+•
+Releasing the movie on other platforms such as 
+Netflix, Hulu, and obtaining television streaming 
+rights.
+•
+Impact of initial reviews on the theatre fill rates 
+for subsequent weeks.
+BRAINSTORMING
+Other than the profitability analysis, what are the other strategic decisions that LCA should consider 
+for the success of their next movie?
+Content/Marketing:
+•
+Using the marketing budget to drive 
+awareness and buzz for the movie using 
+appropriate channels
+•
+Casting the right actors, production and 
+direction, sound crew
+•
+Theme/story of the movie to align with 
+ongoing social and pop culture, macro-
+economic trends
+
+
+===== PDF p77 =====
+73
+CONCLUSION
+0 3  |  C A S E :  T H E  B I G  S H O T
+UVA Darden School of Business 2010-20 case book
+To conclude, the interviewee should provide the following:
+Recommendation:
+•
+Recommend “Project Huntington”
+•
+Analysis to support the recommendation – walk through the math, and recognize the lower cost to produce and higher 
+ROI
+Risks:
+Any concerns with the plan, example:
+•
+The impact of the critics and popular reviews on the theatre fill rates for subsequent periods.
+•
+Audience preferences might change, and theatres might change their genre preferences
+Next Steps:
+•
+Investing in releasing the movie from the category selected, choosing an appropriate release date and launching an ad 
+campaign.
+•
+Analyzing the scope of the future revenues from sequels or partners for sale of merchandise.
+
+
+===== PDF p78 =====
+74
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p79 =====
+75
+EXHIBIT 1
+0 3  |  C A S E :  T H E  B I G  S H O T  - A P P E N D I X
+UVA Darden School of Business 2019-20 case book
+Movie Name​
+Genre​
+Total Production Costs 
+(Millions $)​
+Forecasted Theatre 
+Attendance (%)​
+Project Huntington
+Comedy​
+50​
+80​
+Life at Ivy
+Drama​
+100​
+60​
+Case Wars
+Action​
+75​
+75​
+Paws at Pav
+Animation​
+90​
+80​
+LCA movie options
+
+
+===== PDF p80 =====
+76
+EXHIBIT 2
+0 3  |  C A S E :  T H E  B I G  S H O T  - A P P E N D I X
+UVA Darden School of Business 2019-20 case book
+Global Movie Industry Statistics
+0
+500
+1000
+1500
+2000
+2500
+Animated
+Action
+Drama
+Comedy
+Anticipated Theater Demand By Genre*
+Domestic
+International
+*Average theater run of 30 days 
+
+
+===== PDF p81 =====
+77
+EXHIBIT 3
+0 3  |  C A S E :  T H E  B I G  S H O T  - A P P E N D I X
+Global Theatres Statistics
+UVA Darden School of Business 2019-20 case book
+Theatre type​
+LCA revenues/ticket​
+No. of shows/day​
+No. of seats/show​
+International
+$1
+5​
+400​
+Domestic
+$1.5​
+10​
+200​

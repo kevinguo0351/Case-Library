@@ -1,0 +1,108 @@
+===== PDF p73 =====
+A private equity firm has approached 
+BCG about their views of an 
+acquisition of a pay phone business. 
+How would you advise the PE firm?
+• Pay phones are located throughout the US in all metropolitan areas
+• There are 1 million installed pay phones
+• The average pay phone produces $75 in revenue. There is great variation in the 
+revenue by phone.
+• The use of payphones has been declining 3-5% per year over the last several 
+years. It is 2008 (i.e. cell phone penetration in the US is nearly 100%). 
+• Gross margin is about 1/3 of revenue
+• Costs are 60% fixed, 40% variable
+Problem statement narrative
+Guidance for interviewer and 
+information provided upon request
+Pay Phone Company Acquisition (1 of 2)
+BCG, Round 2
+• There are no potential synergies between this potential acquisition and other 
+holdings of the PE firm
+(1) If detailed exhibits exist, they will be referenced in this box, 
+and included in full on the following slide(s)
+Private equity firms make their money by improving the performance of the business (i.e. profitability/cash flow) and then 
+making an exit.  Therefore, the way to think about this question is whether there is an opportunity to increase profitability
+and eventually exit.  A structure need not be more than cost and revenue.  A strong candidate can also recognize the 
+possibility of synergies with other businesses and that reversing the decline in usage is very unlikely.
+Revenue: How could you increase revenue? 
+1) Increase usage; 
+2) Raise rates; 
+3) Utilize the space- advertising is 80% of the pay phone revenue in Manhattan
+Costs: Major costs are repairs, maintenance, collection of money, line costs, etc. There is not too much opportunity for 
+improvement here.
+Suggested Solution and Structure
+
+
+===== PDF p74 =====
+1.
+Based on your suggestion, we decide to 
+shut down half of the existing lines. How 
+should we determine what lines to close?
+2.
+Let’s assume that we close 50% of the 
+lines, choosing at random (i.e. not 
+selecting those that are losing money 
+first). What is the effect on our profitability 
+Analytics & Summary
+1.
+Close the lines that are losing money and don’t 
+seem to offer enhanced revenue potential (such 
+as advertising) that would make them profitable.
+2.
+We will no longer be profitable and will lose 
+$2.5 mn per month.
+Solution guide
+Today
+After Cuts
+Lines (mn)
+1 given
+0.5
+Pay Phone Company Acquisition (2 of 2)
+BCG, Round 2
+)
+p
+y
+per month?
+3.
+How would advise the CEO?
+3.
+While the Pay Phone business offers significant 
+opportunity to increase profitability by closing 
+lackluster lines, I would be cautious about 
+investing. Pay phones are a shrinking and 
+increasingly obsolete business and therefore 
+increasing or finding an equivalent exit multiple 
+will likely be difficult.
+(
+)
+g
+Revenue ($75 per line)
+75 given
+37.5
+Gross Margin
+0.67
+          
+given
+Total Cost
+50
+             
+2/3 of Rev
+Fixed Cost (.6 * 50)
+30.0
+          
+.6 * Cost
+30.0
+          
+stays constant
+Variable Cost
+20.0
+          
+.4 * Cost
+10 reduced by half
+ b/c of line 
+reduction
+Profit (mn)
+25
+             
+(2.5)
+           

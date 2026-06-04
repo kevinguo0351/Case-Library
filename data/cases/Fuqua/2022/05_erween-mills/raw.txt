@@ -1,0 +1,346 @@
+===== PDF p72 =====
+Erween Mills
+57
+Industry:
+Manufacturing
+Case Type:
+Operations / Profitability
+Led by:
+Interviewee
+Case Level:
+Medium
+
+
+===== PDF p73 =====
+Behavioral Questions
+58
+What drives you?
+Question 1:
+What are your core values and why?
+Question 2:
+
+
+===== PDF p74 =====
+Erween Mills
+59
+• Your client, Erween Mills, is a palm oil mill based out of Guatemala. The mill is 
+facing profitability problems for the past couple of years. Erween Mills needs your 
+help in identifying the root cause(s) and improving the mill’s profitability.
+Prompt #1:
+•
+Background information to be divided into these categories (Please mark N/A if information is not provided)–
+–
+What is a palm oil mill? A palm oil mill extracts crude oil from fresh palm fruit and then sells it in the 
+commodity market.
+–
+Industry/Competition information: the client competes with a nearby mill for palm fruit. The producer sells the 
+fruit to the highest bidder.
+–
+The mill has steady revenue, but capacity utilization has been decreasing YoY
+–
+Product information: Palm Oil is edible vegetable oil. It trades as a commodity. Palm oil is the only product 
+currently sold by the mill
+–
+Value Chain/Revenue information: The mill buys fresh palm fruit from producers around the area, extracts 
+the oil, and sells it in the commodity market.
+–
+The mill is struggling financially and needs a solution ASAP.
+Case Background:
+
+
+===== PDF p75 =====
+Erween Mills
+60
+• MECE Framework for the prompt (high level buckets can be mentioned – details 
+under each bucket are optional)
+Framework Buckets:
+Revenues
+Costs
+Market & 
+Regulations
+•
+Delta in Units Sold
+•
+Delta in price
+•
+Change in product 
+mix – grades of palm 
+oil sold
+•
+Change in COGS
+•
+Change in costs 
+across the value 
+chain
+•
+Change in machinery 
+efficiency / 
+maintenance costs
+•
+Change in fixed costs 
+– rent, SG&A
+•
+Change in tax 
+rates, additional 
+duties paid
+•
+Regulatory changes 
+making quality 
+checks more 
+stringent
+•
+Political volatility 
+leading to shifts and 
+demand and supply
+•
+Palm oil substitutes 
+being scaled and 
+commercialized
+•
+Small mills popping 
+up and creating local 
+monopolies
+
+
+===== PDF p76 =====
+61
+Exhibit #1
+Operating Expenses ($M)
+4
+5
+6
+5
+5
+4
+7
+6
+13
+22
+35
+36
+5
+9
+10
+12
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+2020
+2018
+2019
+2021
+Machinery Operations
+SG&A
+Raw Materials
+Labor
+
+
+===== PDF p77 =====
+Interviewer guidance on Exhibit #1
+• Post framework discussion, push 
+candidate towards Costs / Operating 
+Expenses
+• Good candidate – Will observe that raw 
+material cost is increasing rapidly
+• Excellent candidate – Will also like to 
+investigate PP&E post solving for raw 
+material cost increase
+• Ask candidate what might lead to high 
+raw material cost – push candidate 
+towards supplier selection
+• Raw material costs have increased to ~3x 
+the 2018 levels – maybe due to poor 
+supplier mix, increase in supplier power, 
+etc.
+• PP&E expenses have increased to ~2x 
+the 2018 levels – Reduced throughput, 
+increase in maintenance costs, etc.
+• Labor and SG&A are relatively steady
+62
+Exhibit #1 Guidance:
+Analysis:
+Exhibit #2 - Which Supplier should EM select?
+
+
+===== PDF p78 =====
+Exhibit #2
+Palm Fruit Supplier Map
+Supplier A
+- Material Cost - $175 per ton
+Supplier B
+- Material Cost - $140 per ton
+Supplier C
+- Material Cost - $112 per ton
+- Import Duty – 5%
+Supplier D
+- Material Cost - $124 per ton
+Mills
+50 miles
+75 miles
+105 miles
+220 miles
+
+
+===== PDF p79 =====
+Interviewer guidance on Exhibit #2
+• Prompt candidate that Erween Mills wants to choose a new supplier for crude palm oil –
+how should they proceed?
+• Candidate should approach this problem by calculating total cost of raw material per ton 
+(supplier + transportation + taxes/duties)
+• Give the following info (only when candidate asks, or is stuck)
+–
+Last year's supply was 1,500 tons
+–
+Shiping cost is $1.6 per ton per mile
+–
+VAT is 12.5% for each location, to be added to raw material cost only
+–
+Import duty for Supplier C is 5%; to be added to overall cost
+64
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p80 =====
+
+
+===== PDF p81 =====
+Exhibit #3
+66
+Prompt #3:
+To reduce machinery operations cost, the firm is considering two options:
+– 1) Purchasing a new equipment ($500K investment)
+– 2) Overhauling the old equipment ($300K investment)
+How would you make a choice, what will be your choice, and why?
+Current
+New
+Overhaul
+Production Volume (tons)
+50,000
+50,000
+50,000
+Raw Material Cost per ton ($)
+35
+35
+35
+Raw Material savings (% per 
+ton)
+-
+20%
+15%
+Maintenance Cost ($)
+10,000
+5,000
+6,000
+Maintenance Frequency (times 
+per year)
+3
+3
+4
+For the current machine, assume raw material to finished product ratio to be 1:1
+
+
+===== PDF p82 =====
+Current
+New
+Overhaul
+Production Volume (tons)
+50,000 
+50,000 
+50,000 
+Raw Material Cost per ton ($)
+35 
+35 
+35 
+Raw Material savings (% per ton)
+-
+20% 
+15% 
+Total Raw Material Cost ($)
+1,750,000 
+1,400,000 
+1,487,500 
+Maintenance Cost ($)
+10,000 
+5,000 
+6,000 
+Maintenance Frequency (times per year)
+3 
+3 
+4 
+Total Maintenance Cost ($)
+30,000 
+15,000 
+24,000 
+Total Cost ($)
+1,780,000 
+1,415,000 
+1,511,500 
+Cost Savings ($)
+-
+365,000 
+268,500 
+Investment($)
+500,000 
+300,000 
+ROI (3 years)
+-
+119%
+169%
+Interviewer guidance on Exhibit #3
+• How – Candidate should point towards ROI
+• What – After calculating the cost savings for 
+each scenario and the corresponding 
+investments, candidate should calculate ROI (if 
+asked, tell them to calculate ROI for 3 years)
+• Overhaul has a higher ROI and should be the 
+primary choice
+• Throughput for all three scenarios will be the 
+same at 50,000 tons
+• The savings is in the amount of raw material 
+needed for producing 50,000 tons of palm oil
+• Calculate total cost (raw material + 
+maintenance) for each scenario
+– Multiply maintenance cost * frequency
+– Multiple $35*(Raw material needed)
+•
+Current – $35*50k
+•
+New Equipment - $35*80%*50k
+•
+Overhaul - $35*85%*50k
+• Calculate ROI for Scenario 2 and 3
+– ROI = (Cost Savings – Investment)/Investment
+67
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p83 =====
+Erween Mills
+68
+• Recommendation is to go ahead and start contract with Supplier D to reduce raw 
+material costs
+• Also, overhauling machinery will reduce machinery operations cost with a 3-year ROI 
+of ~170%
+Recommendation 
+• Risks
+– Quality, reliability issues in Supplier D
+– Overhaul implementation risks, delays, leading to lower throughput
+– Demand volatility of palm oil
+• Next Steps
+•
+Move 10%-15% of sourcing to Suppler D and test quality and reliability
+•
+Build robust execution plan for fast overhaul of mill machinery
+Risks and Next Steps:

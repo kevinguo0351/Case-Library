@@ -1,0 +1,177 @@
+===== PDF p42 =====
+38
+Rotisserie Ranch
+Case tracker
+▪Industry:  Consumer Goods
+▪Case format: Developing a new product
+▪Concepts being tested:
+- Microeconomics
+- Elasticity
+- Customer strategy
+Case Question
+▪Our client is Rotisserie Ranch, a poultry farming company that specializes in growing chickens for rotisserie 
+roasting. Its primary customer segment is comprised of large grocery chains that buy its chickens to fresh roast 
+in the meat departments of their grocery stores. Market research has revealed to Rotisserie Ranch that more 
+and more consumers have begun buying flavored rotisserie chickens recently. 
+▪Rotisserie Ranch is thinking of pre-flavoring some of its chickens for grocers, what would you consider in 
+making this recommendation?
+Guide to interviewer
+▪This case is similar in style to a McKinsey & 
+Company 1st round case in that the Interviewer 
+should drive the case.
+▪The case is primarily tests the ideas behind a new 
+product introduction and forces the interviewee to 
+consider market testing, profitability, etc. before 
+rolling out a new product.
+▪Because this is a “Market Introduction” case, the 
+interviewee SHOULD ask questions about 
+competition.
+▪For the purposes of this case, assume that 
+Rotisserie Ranch will only compete against 
+existing Private Label brands at grocery stores.
+By: Brian Fox (Kellogg Class of ‘04), Edited By: Adam Louras (Kellogg Class of ‘11)
+Interviewer-Led Case
+Quant: 6
+Structure: 5 
+Industry: CPG
+Framework: Market Entry/ 
+New Product
+
+
+===== PDF p43 =====
+39
+Clarifying answers and case guide 
+Interviewer Guide to case and handouts
+Case Structure – Interviewee’s structure should include:
+- Value to customers (grocery chains) – Will they buy it?
+- Revenue and Cost implications of new venture
+- Cost increase to client is offset by price increase to
+grocers
+- Competition
+- None. Competition freezes chicken so can’t be pre-
+seasoned.
+After Interviewee walks through structure, ask them:
+- Prompt 1: Do you think that grocery retailers would be
+interested in pre-seasoned chickens from Rotisserie Ranch?
+- Prompt 2: After several interviews, it turns out that the
+grocers are very interested in Rotisserie Ranch’s proposed new 
+product, but first they want to be sure that the Rotisserie
+Ranch chickens will sell well. Suggestions?
+- Prompt 3: After discussing Prompt 2, discuss the results of the
+market test.
+Clarifying answers to provide if Asked
+Industry Characteristics/Product Details
+- Perishability: Predicting demand for cooked chickens is
+difficult for grocers; any leftover cooked chickens at
+the end of the day are thrown out; unthawed chickens
+cannot be re-frozen
+Client Characteristics
+- Competitive Advantage: Client has patented process
+for sterilely packaging chicken, so that it will remain
+fresh for 30 days, making freezing unnecessary
+- Client is currently the industry market share leader in
+rotisserie-ready chicken
+- Four New “Flavored” Products to be introduced 
+concurrently: Barbecue, lemon herb, tandori and
+teriyaki
+Competitive Dynamics
+- No competition in new product market due to
+patented process
+
+
+===== PDF p44 =====
+40
+Prompt 1 – Value to Grocers
+Prompt 1 - Value to Grocers
+▪Do you think that grocery retailers would be interested in pre-seasoned chickens from Rotisserie Ranch?
+Prompt 1 - Sample Answers
+▪There is not correct answer here, what you should be looking for is how well reasoned the recommendation is:
+▪Sample “YES” response:
+▪Labor Cost Reduction: Meat department workers; don’t need to spend time seasoning the chickens. 
+▪Economies of Scale: Seasoning centralization; lower cost.
+▪Product Consistency: Centrally managed; able to spend more on R&D.
+▪Sample “No” response:
+▪Loss of Differentiation: Grocery chains differentiate by value-added .
+▪Attune to Local Needs: Likely to be better at gauging consumer tastes.
+▪Increases Inventory & SKUs.
+
+
+===== PDF p45 =====
+41
+Prompt 2 – Market Testing
+Prompt 2 - Market Testing
+▪After several interviews, grocers are interested in Rotisserie Ranch’s proposed new product, but first they want to be sure that the
+chickens will sell well. How would you make sure?
+Prompt 2 - Sample Answer
+▪The correct answer is to run a test market for the new products.
+▪The candidate may begin going into detail on how this test would be run. Cut him or her off as soon as you are comfortable that
+they understand that:
+▪
+A pilot test should be run.
+▪
+The pilot needs to have some control or comparison group.
+
+
+===== PDF p46 =====
+42
+Prompt 3 – Demand Elasticity
+Prompt 3 - Demand Elasticity
+▪A test market launch for the new Rotisserie Ranch BBQ chicken was administered (Hand interviewee Exhibit 1).
+▪What is the overall profit for both Store A and B from the test market?
+Prompt 3 - Sample Answer and Notes on Exhibit 1
+Using Exhibit 1, interviewee should calculate:
+▪
+Retailer profit for Seasoned Chicken compared to Standard Chicken
+▪
+Retailer profit = # of chickens sold * (price per chicken * retailer margin per chicken)
+Standard Chicken (total profit for retailers = $300 + $600 = $900/week)
+• Store A:
+• $1,000 (weekly sales) * 30% (retailer margin) = $300 overall profit
+• Store B:
+• $2,000 (weekly sales) * 30% (retailer margin) = $600 overall profit
+Test Market BBQ Seasoned Chicken (total profit for retailers = $400+ $675= $1,075/week)
+• Store C:
+• $1,600 (weekly sales) * 25% (retailer margin) = $400 overall profit
+• Store D:
+• $2,700 (weekly sales) * 25%* (retailer margin) = $675 overall profit
+
+
+===== PDF p47 =====
+43
+Solution and recommendations
+Solution & Recommendations
+▪Overall, our client should launch the Pre-Seasoned BBQ Chicken product and test other products because:
+▪Competitive Necessity: Consumers are spending more money on seasoned rotisserie chicken than traditional rotisserie
+chicken and the market is shifting in this direction
+▪Benefit to Grocers: Assuming test market was representative, Grocers can expect to earn $175 more gross profit using
+our client’s product relative to the standard rotisserie chicken
+▪Potential scale benefits to our Client over time as more pre-seasoned chickens are sold
+
+
+===== PDF p48 =====
+44
+Exhibit #1: Store sales
+Standard Rotisserie
+BBQ Seasoned Rotisserie
+Store
+A
+B
+C
+D
+Weekly
+Sales
+$1,000
+$2,000
+$1,600
+$2,700
+Retail Price
+$3.33
+$2.50
+$4.00
+$3.00
+Retailer
+Margin
+30%
+30%
+25%
+25%

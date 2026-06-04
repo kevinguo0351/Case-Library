@@ -1,0 +1,32 @@
+{
+  "case_id": "Tuck_2008_10_kicks",
+  "school": "Tuck",
+  "year": "2008",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Tuck\\Tuck_Case Book_2008.pdf",
+  "idx": 10,
+  "case_name": "Kicks",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Consumer Goods",
+  "difficulty": null,
+  "pdf_page_start": 64,
+  "pdf_page_end": 72,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    64,
+    65,
+    66,
+    68,
+    71,
+    72
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p064.png",
+    "exhibits/exhibit_p065.png",
+    "exhibits/exhibit_p066.png",
+    "exhibits/exhibit_p068.png",
+    "exhibits/exhibit_p071.png",
+    "exhibits/exhibit_p072.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Tuck\\2008\\10_kicks"
+}

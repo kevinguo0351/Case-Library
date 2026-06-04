@@ -1,0 +1,754 @@
+{
+"school": "Darden",
+"file": "Darden_Case Book_2003.pdf",
+"rel_path": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Darden\\Darden_Case Book_2003.pdf",
+"page_count": 98,
+"bookmarks": [
+{
+"level": 1,
+"title": "Acknowledgements",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Behavioral Interviews",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "The Case Interview",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Why do I need a framework?",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "What is a framework?",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": " ",
+"pdf_page": 1
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "The (Simplified) Profit Model",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "The Implied Logic of the Profit Model",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "When do I use a framework?",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "How do I use a framework?",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Warning",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Overview of Frameworks",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "The Profit Model Framework",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Internal Factors - External Factors",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": " ",
+"pdf_page": 1
+},
+{
+"level": 3,
+"title": " ",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "Internal Factors",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "Model A: Core Business vs. Overhead",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "Overhead",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "Model B: 7S",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "The Hard Triangle",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "The Soft Square",
+"pdf_page": 1
+},
+{
+"level": 4,
+"title": "External Factors",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Value Chain",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Porter's Diamond",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Industry Attractiveness – Competitive Position Ma",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Manufacturing Order-Winning Criteria",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "The 5C’s Method",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "The 4P’s or The Elements of Strategy",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Michael Porter’s “Five Forces”",
+"pdf_page": 1
+},
+{
+"level": 1,
+"title": "Michael Porter’s “Five Forces” \\(continued\\)",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "PROFIT IMPROVEMENT CASES – GENERAL DESCRIPTION",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "INDUSTRY ANALYSIS CASES – GENERAL DESCRIPTION",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "MARKET EXPANSION CASES – GENERAL DESCRIPTION",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "PRICING CASES – GENERAL DESCRIPTION",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "INVESTMENT CASES – GENERAL DESCRIPTION",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "WILDCARD CASES – GENERAL DESCRIPTION",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "Profit Improvement Cases",
+"pdf_page": 6
+},
+{
+"level": 3,
+"title": "OFFICE SUPPLY CHAIN MANAGEMENT",
+"pdf_page": 6
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 6
+},
+{
+"level": 5,
+"title": "Solution:",
+"pdf_page": 6
+},
+{
+"level": 3,
+"title": "LAUNDROMAT",
+"pdf_page": 8
+},
+{
+"level": 3,
+"title": "FOLDING CARTONS",
+"pdf_page": 9
+},
+{
+"level": 3,
+"title": "SPECIALITY CHEMICALS PROFITABILITY",
+"pdf_page": 11
+},
+{
+"level": 3,
+"title": "STEAM BOILER HOSES",
+"pdf_page": 12
+},
+{
+"level": 3,
+"title": "FRUIT JUICE PRODUCERS",
+"pdf_page": 13
+},
+{
+"level": 3,
+"title": "FLORIDA  JUICE COMPANY",
+"pdf_page": 14
+},
+{
+"level": 3,
+"title": "UNIFORM RENTAL COMPANY",
+"pdf_page": 15
+},
+{
+"level": 3,
+"title": "FREQUENT FLYER",
+"pdf_page": 16
+},
+{
+"level": 3,
+"title": "HEALTH REFORMS",
+"pdf_page": 17
+},
+{
+"level": 3,
+"title": "NEWSPAPER COMPANY",
+"pdf_page": 18
+},
+{
+"level": 3,
+"title": "CANDY COMPANY",
+"pdf_page": 19
+},
+{
+"level": 3,
+"title": "COSMETIC COMPANY IN EUROPE",
+"pdf_page": 20
+},
+{
+"level": 3,
+"title": "SKI RESORT",
+"pdf_page": 22
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 22
+},
+{
+"level": 5,
+"title": "Solution:",
+"pdf_page": 22
+},
+{
+"level": 3,
+"title": "SCHOOL CAFETERIA",
+"pdf_page": 23
+},
+{
+"level": 3,
+"title": "GOING UP",
+"pdf_page": 24
+},
+{
+"level": 3,
+"title": "HOSPITAL PAYMENT SYSTEM",
+"pdf_page": 26
+},
+{
+"level": 3,
+"title": "BICYCLES LTD",
+"pdf_page": 27
+},
+{
+"level": 3,
+"title": "PLUGS",
+"pdf_page": 29
+},
+{
+"level": 3,
+"title": "HUNT & FISHING MAGAZINE",
+"pdf_page": 30
+},
+{
+"level": 3,
+"title": "SMALL BANK",
+"pdf_page": 31
+},
+{
+"level": 3,
+"title": "EUROPHONE",
+"pdf_page": 32
+},
+{
+"level": 2,
+"title": "Industry Analysis Cases",
+"pdf_page": 33
+},
+{
+"level": 3,
+"title": "VIDEO GAMES",
+"pdf_page": 33
+},
+{
+"level": 3,
+"title": "FURNITURE MANUFACTURER",
+"pdf_page": 35
+},
+{
+"level": 3,
+"title": "MERGER CANDIDATE IN THE CHEMICAL INDUSTRY",
+"pdf_page": 37
+},
+{
+"level": 3,
+"title": "AIRPLANE MANUFACTURER",
+"pdf_page": 38
+},
+{
+"level": 3,
+"title": "AGRICULTURAL EQUIPMENT MANUFACTURER",
+"pdf_page": 39
+},
+{
+"level": 3,
+"title": "AIRLINE V. BABY FOOD",
+"pdf_page": 41
+},
+{
+"level": 3,
+"title": "TAIWAN",
+"pdf_page": 42
+},
+{
+"level": 3,
+"title": "BOOK PUBLISHER",
+"pdf_page": 43
+},
+{
+"level": 3,
+"title": "INTRA-OCULAR LENSES",
+"pdf_page": 44
+},
+{
+"level": 3,
+"title": "SPARK PLUGS",
+"pdf_page": 45
+},
+{
+"level": 3,
+"title": "PETROL STATIONS",
+"pdf_page": 46
+},
+{
+"level": 3,
+"title": "RETAIL CHAIN",
+"pdf_page": 47
+},
+{
+"level": 3,
+"title": "CAR MANUFACTURER",
+"pdf_page": 48
+},
+{
+"level": 2,
+"title": "Market Expansion Cases",
+"pdf_page": 49
+},
+{
+"level": 3,
+"title": "CO-BRANDED CREDIT CARDS",
+"pdf_page": 49
+},
+{
+"level": 3,
+"title": "TIRE MANUFACTURER.COM",
+"pdf_page": 50
+},
+{
+"level": 3,
+"title": "MEDICAL PRODUCTS MANUFACTURER",
+"pdf_page": 52
+},
+{
+"level": 3,
+"title": "FEEDING THE ARMY",
+"pdf_page": 53
+},
+{
+"level": 3,
+"title": "ACQUIRING NEW AIRLINE ROUTE",
+"pdf_page": 55
+},
+{
+"level": 3,
+"title": "BABY BELL DIVERSIFYING",
+"pdf_page": 56
+},
+{
+"level": 3,
+"title": "PAYROLL PROCESSING",
+"pdf_page": 57
+},
+{
+"level": 3,
+"title": "LONG LIFE BULBS",
+"pdf_page": 58
+},
+{
+"level": 3,
+"title": "UTILITIES",
+"pdf_page": 58
+},
+{
+"level": 3,
+"title": "50-YEAR LIGHT BULB",
+"pdf_page": 60
+},
+{
+"level": 3,
+"title": "NYC BANKING DEMAND",
+"pdf_page": 61
+},
+{
+"level": 3,
+"title": "WIRELESS SERVICE IN MEXICO",
+"pdf_page": 62
+},
+{
+"level": 2,
+"title": "New Product Cases",
+"pdf_page": 63
+},
+{
+"level": 3,
+"title": "NEW CAN",
+"pdf_page": 63
+},
+{
+"level": 3,
+"title": "REPLACING ALUMINIUM",
+"pdf_page": 65
+},
+{
+"level": 3,
+"title": "ISRAELI TRAVEL AGENCY",
+"pdf_page": 66
+},
+{
+"level": 3,
+"title": "GROCERY STORE BANKING",
+"pdf_page": 67
+},
+{
+"level": 3,
+"title": "CONSULTING FIRM",
+"pdf_page": 68
+},
+{
+"level": 3,
+"title": "SELECTIVE BINDING",
+"pdf_page": 69
+},
+{
+"level": 2,
+"title": "Pricing Cases",
+"pdf_page": 71
+},
+{
+"level": 3,
+"title": "PHARMACY OUTLETS",
+"pdf_page": 71
+},
+{
+"level": 3,
+"title": "EYESIGHT DRUG",
+"pdf_page": 73
+},
+{
+"level": 3,
+"title": "ELECTRICITY POOL",
+"pdf_page": 74
+},
+{
+"level": 2,
+"title": "Investment Decision Cases",
+"pdf_page": 76
+},
+{
+"level": 3,
+"title": "NEW GLASS PLANT",
+"pdf_page": 76
+},
+{
+"level": 3,
+"title": "ENVIRONMENTAL SOLUTIONS FOR PAPER",
+"pdf_page": 77
+},
+{
+"level": 3,
+"title": "CHINA CO.",
+"pdf_page": 78
+},
+{
+"level": 3,
+"title": "LUMBER COMPANY",
+"pdf_page": 80
+},
+{
+"level": 3,
+"title": "GLASS CONTAINERS",
+"pdf_page": 80
+},
+{
+"level": 3,
+"title": "MANUFACTURING PLANT",
+"pdf_page": 83
+},
+{
+"level": 3,
+"title": "COMPANY ACQUISITION",
+"pdf_page": 84
+},
+{
+"level": 2,
+"title": "Wild Card and Miscellaneous Cases",
+"pdf_page": 85
+},
+{
+"level": 3,
+"title": "AUSTRALIAN SKI SALES",
+"pdf_page": 85
+},
+{
+"level": 3,
+"title": "FRIDGE LIGHT",
+"pdf_page": 86
+},
+{
+"level": 3,
+"title": "MOUNT FUJI",
+"pdf_page": 87
+},
+{
+"level": 4,
+"title": " ",
+"pdf_page": 87
+},
+{
+"level": 5,
+"title": " ",
+"pdf_page": 87
+},
+{
+"level": 6,
+"title": "Approach:",
+"pdf_page": 87
+},
+{
+"level": 3,
+"title": "U.S. GAS STATIONS",
+"pdf_page": 89
+},
+{
+"level": 3,
+"title": "HEATHROW PASSENGERS",
+"pdf_page": 90
+},
+{
+"level": 3,
+"title": "MILLIONAIRE",
+"pdf_page": 91
+},
+{
+"level": 3,
+"title": "CRUISE SHIP LOGISTICS",
+"pdf_page": 92
+},
+{
+"level": 3,
+"title": "CONSTRUCTION COMPANY",
+"pdf_page": 93
+},
+{
+"level": 3,
+"title": "REDEFINING A BUSINESS UNIT DIVISION",
+"pdf_page": 95
+},
+{
+"level": 1,
+"title": "! MTC PowerPoint Logo.pdf",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "Slide Number 1",
+"pdf_page": 98
+},
+{
+"level": 1,
+"title": "! MTC PowerPoint Logo.pdf",
+"pdf_page": 1
+},
+{
+"level": 2,
+"title": "Slide Number 1",
+"pdf_page": 1
+}
+],
+"toc_pages": [
+18
+],
+"toc_text": {
+"18": "EXAMPLE CASES BY TYPE \nPROFIT IMPROVEMENT  \n \nNEWSPAPER COMPANY \n \n \nQuestion: \n \nA newspaper publisher has been experiencing declining readership and as a result, declining profitability. What \nshould it do? \n \n \nApproach: \n \n4\u00004\u00004\u00004\u00004\u0000It is important to recognize that advertisements are the major source of revenue for newspapers. But this \nrevenue is totally dependent on readership. \n \nIt turns out that all newspaper publishers share the same plight and TV is the main culprit. To fight this, the \nclient can, at best, study other markets where TV is prevalent but newspaper readership is high (like Japan) \nand use any knowledge they gain to promote readership in the U.S. They could share costs via newspaper \npublisher associations. \n \nTo compete with other newspapers and periodicals, the client can determine customer preferences and tailor \ncontents to them. But any differentiation created will quickly neutralized by the competition. \n \nThe best course of action is to build mechanisms to continually adapt to changing reader tastes.  This could be \naccomplished by market studies, flexible and versatile staff, etc. \n \nAlso, the client should focus on cost rationalization to increase profitability.  This would mean consolidating \noperations and reengineering them. Consolidation would help in deriving economies of scale whereas re-\nentering would increase operational efficiencies. \n \nThe Consulting Club at The Darden School of Business  \n \n Page 44 \n \n"
+},
+"page_index": [
+"p1\t[47.4] Darden Casebook 2003\tCareer Consulting Darden Casebook 2003 Casebook\t",
+"p2\t[24.6] TURNING POINT CAREER CONSULTING\t1 Copyright 2020 by Turning Point Career Consulting All righ\t",
+"p3\t[21.0] Turning Point provides systematic methodology and real \t2 Copyright 2020 by Turning Point Career Consulting All righ\timg3",
+"p4\t[19.0] Contact Us\t12 Copyright 2020 by Turning Point Career Consulting All rig\timg9",
+"p5\t[36.0] D\tDARDEN CONSULTING CLUB INTERVIEW GUIDE 2003-2004 Our Sponsor\timg76",
+"p6\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT Profit Improvement \t",
+"p7\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT of he product? Taxe\t",
+"p8\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT LAUNDROMAT Question\t",
+"p9\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT FOLDING CARTONS Que\t",
+"p10\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT Identify biggest dr\t",
+"p11\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT SPECIALITY CHEMICAL\t",
+"p12\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT STEAM BOILER HOSES \t",
+"p13\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT FRUIT JUICE PRODUCE\t",
+"p14\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT FLORIDA JUICE COMPA\t",
+"p15\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT UNIFORM RENTAL COMP\t",
+"p16\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT FREQUENT FLYER Ques\t",
+"p17\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT HEALTH REFORMS Ques\t",
+"p18\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT NEWSPAPER COMPANY Q\t",
+"p19\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT CANDY COMPANY Quest\t",
+"p20\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT COSMETIC COMPANY IN\t",
+"p21\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT Cons: 4\u00004\u00004\u0000More co\t",
+"p22\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT SKI RESORT Question\t",
+"p23\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT SCHOOL CAFETERIA Qu\t",
+"p24\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT GOING UP Question: \t",
+"p25\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT YELLOW PAGES Questi\t",
+"p26\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT HOSPITAL PAYMENT SY\t",
+"p27\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT BICYCLES LTD Questi\t",
+"p28\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT Conclusion: At the \t",
+"p29\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT PLUGS Question: We \t",
+"p30\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT HUNT & FISHING MAGA\t",
+"p31\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT SMALL BANK Question\t",
+"p32\t[12.0] E\tEXAMPLE CASES BY TYPE PROFIT IMPROVEMENT EUROPHONE Question:\t",
+"p33\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS Industry Analysis Ca\t",
+"p34\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS If the candidate beg\t",
+"p35\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS FURNITURE MANUFACTUR\t",
+"p36\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS 4\u00004\u00004\u00004\u00004\u00004\u00004\u0000 Who d\t",
+"p37\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS MERGER CANDIDATE IN \t",
+"p38\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS AIRPLANE MANUFACTURE\t",
+"p39\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS AGRICULTURAL EQUIPME\t",
+"p40\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS Solution: It turns o\t",
+"p41\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS AIRLINE V. BABY FOOD\t",
+"p42\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS TAIWAN Question: You\t",
+"p43\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS BOOK PUBLISHER Quest\t",
+"p44\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS INTRA-OCULAR LENSES \t",
+"p45\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS SPARK PLUGS Question\t",
+"p46\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS PETROL STATIONS Ques\t",
+"p47\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS RETAIL CHAIN Questio\t",
+"p48\t[12.0] E\tEXAMPLE CASES BY TYPE INDUSTRY ANALYSIS CAR MANUFACTURER Que\t",
+"p49\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION Market Expansion Case\t",
+"p50\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION TIRE MANUFACTURER.COM\t",
+"p51\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION • What investment is \t",
+"p52\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION MEDICAL PRODUCTS MANU\t",
+"p53\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION FEEDING THE ARMY A fo\t",
+"p54\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION delivered each day by\t",
+"p55\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION ACQUIRING NEW AIRLINE\t",
+"p56\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION BABY BELL DIVERSIFYIN\t",
+"p57\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION PAYROLL PROCESSING Qu\t",
+"p58\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION LONG LIFE BULBS Quest\t",
+"p59\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION UTILITIES Question: W\t",
+"p60\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION 50-YEAR LIGHT BULB Qu\t",
+"p61\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION NYC BANKING DEMAND Qu\t",
+"p62\t[12.0] E\tEXAMPLE CASES BY TYPE MARKET EXPANSION WIRELESS SERVICE IN M\t",
+"p63\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT New Product Cases NEW CAN \t",
+"p64\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT • Large positives with new\t",
+"p65\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT REPLACING ALUMINIUM Questi\t",
+"p66\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT ISRAELI TRAVEL AGENCY Ques\t",
+"p67\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT GROCERY STORE BANKING Ques\t",
+"p68\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT CONSULTING FIRM Question: \t",
+"p69\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT SELECTIVE BINDING Question\t",
+"p70\t[12.0] E\tEXAMPLE CASES BY TYPE NEW PRODUCT Thus, New ad revenue per p\t",
+"p71\t[12.0] E\tEXAMPLE CASES BY TYPE PRICING Pricing Cases PHARMACY OUTLETS\t",
+"p72\t[12.0] E\tEXAMPLE CASES BY TYPE PRICING higher cost, “maintenance” med\t",
+"p73\t[12.0] E\tEXAMPLE CASES BY TYPE PRICING EYESIGHT DRUG Question: A mark\t",
+"p74\t[12.0] E\tEXAMPLE CASES BY TYPE PRICING ELECTRICITY POOL Question: Our\t",
+"p75\t[12.0] E\tEXAMPLE CASES BY TYPE PRICING The market clears at P*, as yo\t",
+"p76\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION Investment Decisio\t",
+"p77\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION ENVIRONMENTAL SOLU\t",
+"p78\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION CHINA CO. Question\t",
+"p79\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION MANUFACTURING 4\u00004\u0000\t",
+"p80\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION LUMBER COMPANY Que\t",
+"p81\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION GLASS CONTAINERS Q\t",
+"p82\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION • Explore various \t",
+"p83\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION MANUFACTURING PLAN\t",
+"p84\t[12.0] E\tEXAMPLE CASES BY TYPE INVESTMENT DECISION COMPANY ACQUISITIO\t",
+"p85\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS Wild Card \t",
+"p86\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS FRIDGE LIG\t",
+"p87\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS MOUNT FUJI\t",
+"p88\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS RECYCLED A\t",
+"p89\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS U.S. GAS S\t",
+"p90\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS HEATHROW P\t",
+"p91\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS MILLIONAIR\t",
+"p92\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS CRUISE SHI\t",
+"p93\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS CONSTRUCTI\t",
+"p94\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS 4\u0000Next foc\t",
+"p95\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS REDEFINING\t",
+"p96\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS Company 3 \t",
+"p97\t[12.0] E\tEXAMPLE CASES BY TYPE WILD CARD AND MISCELLANEOUS The Consul\t",
+"p98\t[0.0] \t\t"
+]
+}

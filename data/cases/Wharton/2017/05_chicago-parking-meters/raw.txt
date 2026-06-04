@@ -1,0 +1,282 @@
+===== PDF p46 =====
+KNOWLEDGE FOR ACTION
+Chicago 
+Parking Meters
+
+
+===== PDF p47 =====
+KNOWLEDGE FOR ACTION
+Chicago Parking Meters
+Level of Difficulty: Medium
+Case Similar to Cases at Firms: Not sure
+Topics Tested: mathematical calculation, marketing brainstorm, market sizing, etc.
+Prompt: The city of Chicago is planning to sell the rights to all of its parking meters for 20 years to a private
+company. The idea is that in exchange for a lump sum, the city of Chicago would turn over the operation and
+revenue stream of its ~40,000 parking spaces to a private operator.
+The deal will bring in a big amount of cash for a cash-strapped city and relieve it of the responsibility of
+maintaining meters – something it isn’t very good at. The city is planning to use a competitive bidding process
+with the highest bidder winning the contract. Bidders will be expected to set the prices for their parking meters
+and should be aware that they bear the risk of consumer demand for parking spaces and should factor that in
+when pricing their bids. Additionally, the contract also requires a high-tech upgrade replacing the old coin-
+based meters with new machines that accept cash, credit or debit cards, which is a service enhancement that
+should be incorporated in the bid.
+Your consulting firm has been hired by the Company Parking GenNext to give a reasonable price for the
+rights to collect all money* from Chicago’s meters over a 20 year timeframe to win the competitive bid. How
+would you go about estimating it?
+*Money collected on parking tickets goes to the city, not the company. 
+Wharton Casebook 2017
+CASE 5
+43
+
+
+===== PDF p48 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions
+Wharton Casebook 2017
+Sample of Strong Framework:
+In this question, the candidate should think about the following 
+During Stage 1, the candidate will do a relatively simple estimate based on future revenues and expenses 
+(classic revenue / expense framework)
+During Stage 2, as a follow-up to the answer in Stage 1, the candidates can be asked to think more creatively 
+of other considerations, e.g., alternative pricing strategies, concerns on quality (brainstorming portion)
+As long as the candidate uses a framework that includes the things above, it should be considered strong
+Sample Clarifying Questions and Answers
+Questions on usage and revenue assumptions
+See slides 46, 47
+Questions on growth and discount rate
+See slide 50
+Questions on one-time and recurring cost assumptions
+See slide 48, 49
+Sample numerical solution
+See slide 51, 52, 53
+Sample brainstorming answers
+See slide 54
+CASE 5
+44
+
+
+===== PDF p49 =====
+KNOWLEDGE FOR ACTION
+Motivation for the Case
+Wharton Casebook 2017
+In 2008, Chicago sold the rights to all of its parking meters for 75 years to a private 
+company for $1.15 billion. Info can be found here:
+http://chicagometers.com/fact-sheet.aspx
+CASE 5
+45
+
+
+===== PDF p50 =====
+KNOWLEDGE FOR ACTION
+Revenue and Usage Assumptions (1 of 2)
+Wharton Casebook 2017
+The candidate should make assumptions on the price per hour per meter, usage and growth / 
+decline over a 20-year period to come up with an overall revenue estimate.  In the interest of 
+time and if the interviewer so desires, the following information / table can be provided:
+Number and Price of Meters
+In Chicago, there are ~40,000 metered spaces. And there is a three-ring structure when setting 
+meter rates in Chicago; information is summarized below:
+Ring
+Description
+Price per Hour
+% Meters
+I
+Downtown Loop
+3
+3%
+II
+Central Business District
+2
+16%
+III
+Suburbs + Others
+1
+81%
+100%
+Total number of meters
+40,000 
+CASE 5
+46
+
+
+===== PDF p51 =====
+KNOWLEDGE FOR ACTION
+Revenue and Usage Assumptions (2 of 2)
+Wharton Casebook 2017
+Usage of Meters
+• Assume Ring I usage is 12 hours per day, Ring II 8 hours per day, Ring III4 hours 
+per day
+• Assume weekend / weekday usage are same (ask them what do they think if you
+want to assess creativity but then for the math, ask them to assume it’s the
+same)
+• Assume 30 days a month, 12 months a year
+CASE 5
+47
+
+
+===== PDF p52 =====
+KNOWLEDGE FOR ACTION
+Cost Assumptions (1 of 2)
+Wharton Casebook 2017
+Beyond estimating the value of the revenues from parking meters, the candidate should explain 
+what costs are necessary to enforce the system. This should include:
+• One-time investment to upgrade the parking meters to accept cash, credit and debit cards. 
+For simplicity, we can assume that the newly installed meters will have a life of 20 years and 
+the bidder will not be expected to change them during the period.
+• Recurring operating expenses – labor costs, maintenance costs, etc. 
+One-time investment
+• 40,000 parking spaces ≠ 40,000 new parking meters.  
+• We can assume (or help lead the candidate to assume) that the 40,000 old single-space coin-
+operated meters will be replaced  5,000 new meters (such that each meter is capable of 
+handling 8 spaces)
+• Unit cost for one parking meter could be assumed to be in $20K, including installation costs
+Recurring expenses
+• Candidates should be expected to estimate how many people will be required, the hourly 
+wage per worker, ongoing maintenance costs, etc.
+CASE 5
+48
+
+
+===== PDF p53 =====
+KNOWLEDGE FOR ACTION
+Cost Assumptions (2 of 2)
+Wharton Casebook 2017
+Recurring expenses
+• Candidates should be expected to estimate how many people will be required, the hourly
+wage per worker, ongoing maintenance costs, etc.
+• If candidate is stuck you can give the following:
+• Assume on average one person needed to monitor 10 new machines or 80 spaces
+• Assume on average a wage of $10 an hour for 8 hours a day for 300 days a year
+• Assume maintenance cost of $200 per machine per month. 
+CASE 5
+49
+
+
+===== PDF p54 =====
+KNOWLEDGE FOR ACTION
+Discount Rate and Growth Rate Assumptions
+Wharton Casebook 2017
+• A multi-year estimation also brings in time value of money, which potentially complicates the
+analysis, but we could always tell candidates to ignore that for purposes of this case (after
+seeing if they even thought about it).
+• Candidates should be expected to put some thought into the risks to consumer demand
+when estimating revenues and how it would impact the growth / decline. A few
+considerations include changes in population, changes in preferences (consumers preferring
+to bike), economic activity, advancements in technology (driverless cars, alternatives to
+parking meters, etc.)
+• For numerical calculations they can assume that the growth rate is zero
+CASE 5
+50
+
+
+===== PDF p55 =====
+KNOWLEDGE FOR ACTION
+Sample Numerical Solution (1 of 3)
+Wharton Casebook 2017
+20-yr Revenue
+Hours per day 
+(a)
+Number of Meters 
+(b)
+Price per hour 
+(c)
+Annual revenue 
+a x b x c x 
+30 days x 12 months
+Downtown Loop
+12
+1200
+3
+15,552,000 
+CBD
+8
+6400
+2
+36,864,000 
+Suburbs + 
+Others
+4
+32400
+1
+46,656,000 
+1-year revenue
+99,072,000 
+20-year revenue
+1,981,440,000 
+or ~2 
+billion
+Assuming zero growth
+CASE 5
+51
+
+
+===== PDF p56 =====
+KNOWLEDGE FOR ACTION
+Sample Numerical Solution (2 of 3)
+Wharton Casebook 2017
+20-yr Cost
+One-time Investment
+Number of new machines (40000 / 8) - (a)
+5,000 
+Cost per machine
+20,000 
+Total one time cost
+100,000,000 
+Recurring Expense
+Monthly per machine maintenance cost - (b)
+200 
+Annual Maintenance Cost - (a) x (b) x 12 months
+12,000,000 
+Hourly Wage - (c) 
+10 
+Number of People - (40,000 / 80) - (d)
+500 
+Annual Wage - (a) x (d) x 8 hours x 30 days 
+12,000,000 
+Total annual recurring costs
+24,000,510 
+20-year recurring costs
+480,010,200 
+Total cost
+580,010,200 
+or ~600 million
+CASE 5
+52
+
+
+===== PDF p57 =====
+KNOWLEDGE FOR ACTION
+Sample Numerical Solution (3 of 3)
+Wharton Casebook 2017
+NPV
+20-yr Revenue
+1,981,440,000 
+20-yr Costs
+580,010,200 
+PV of Free Cash Flows (ignoring everything else)
+1,401,429,800 
+or ~ 1.4 billion
+CASE 5
+53
+
+
+===== PDF p58 =====
+KNOWLEDGE FOR ACTION
+Sample Brainstorming Answers
+Wharton Casebook 2017
+NPV
+• In this more creative component of the case, we can ask the candidate to think of some of the other
+considerations that will test how innovative they are in their problem-solving approach.
+• One idea is to have them think of alternative pricing strategies. These could include variable pricing schemes
+(e.g. surge pricing for busier times of the day) and potentially leasing of parking spots to specific people, or
+whatever else the candidate can come up with , keeping in mind that there are 20 years for executing these
+schemes. Think MGEC!
+• Candidates could also be asked to think of the different kinds of technological advancements along the way
+that would help the bidding company stay competitive and boost revenue. For example, the bidding
+company could consider launching mobile apps that would inform customers of parking availability if they
+are near a parking meter and would also send alerts if the time is expiring.
+• Depending on how the question goes, the interviewer can also ask questions on reputation and image. For
+example, in any privatization, the public expects that the quality of service will improve. So what would be
+the strategy that the candidate would suggest to ensure that?
+CASE 5
+54

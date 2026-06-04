@@ -1,0 +1,289 @@
+===== PDF p118 =====
+114
+Transportation Tech Co.
+Parthenon | Round 1 | Technology
+
+
+===== PDF p119 =====
+115
+Parthenon | Round 1 | Technology
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+TRANSPORTATION TECH CO.
+B E HAVI O R A L  
+I NT E R VI E W  
+Q UE S T I O N:
+1 .  Te l l  m e  a b o u t  
+a  t i m e  y o u  h a d  
+t o  m o t i v a t e  a  
+t e a m m a t e  t o  d o  
+s o m e t h i n g  
+h e / s h e  d i d n ’ t  
+wa n t  t o  d o .
+2 .  Te l l  m e  a b o u t  
+a  t i m e  wh e n  y o u  
+we n t  b e y o n d  
+y o u r  
+r e s p o n s i b i l i t i e s  
+t o  a c h i e v e  a  
+g o a l .
+UVA Darden School of Business 2018-19 Casebook
+Clarifying Information:
+Note: Provide this only if corresponding questions are asked
+• Product – The device transmits location and ETA info to schools and parents/legal guardians. Parents, bus 
+drivers, and school administrators access transmitted data and messages via a proprietary phone/tablet 
+application
+• Objective – The client’s primary goal is to figure out the best context/industry in which this product should be 
+rolled out. Success is defined as profit maximization.
+• Business model – Our client will generate revenues by (1) initial sales of the devices and (2) technology service 
+plans. For purposes of this case, we are primarily focused on (1).
+• Life span – The product would have a 5-year life span.
+Prompt:
+Our client, Transportation Tech Co., is a key player in the transportation 
+technology space. Recently, the client developed an innovative GPS fleet 
+tracking device which it believes could prove valuable to K-12 schools in the 
+US. We have been engaged to help our client determine whether this product 
+should be rolled out as a school bus tracking device.
+
+
+===== PDF p120 =====
+116
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+•
+Customers – who would our client be selling to in a school bus context?
+•
+Competitors – What, if any, similar products are being used?
+•
+Financial considerations – (2) Potential market size and (2) profit tree
+•
+Candidate should think about the potential sources and drivers of revenues and costs associated with the product. These should be 
+case/industry specific!
+•
+Push the candidate to think through the buying process. If the candidate asks, you can tell them that purchasing decisions are made by 
+different decision-making units across school settings (i.e. district-level, school-level, bus drivers, etc.
+•
+If they don’t do so on their own, push candidates to consider the specific benefits which could be derived from this product,for specific 
+key stakeholders (i.e. schools, bus drivers, students, parents, etc.)
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+How to Move Forward:
+To get to the next portion of the case, the interviewee should ask to explore:
+•
+Market sizing
+
+
+===== PDF p121 =====
+117
+QUESTION 1
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+.
+UVA Darden School of Business 2018-19 Casebook
+What is the potential addressable year 1 market size for this device in the US school bus space?
+Guidance:
+Tip: Candidates should begin market-sizing by verbalizing their formula/approach to size the market. For each variable laid out, candidates should verbalize what information would 
+be needed to solve for that variable (i.e. sometimes there will be multiple layers) and then confirm that the approach is reasonable to the interviewer. The candidate should then ask 
+for the relevant info as they tackle each variable in solving the market-sizing problem.
+1. # School buses in the US = (# K-12 students in the US * % students riding bus)/(# students per bus)
+a. Assume school-aged kids are 4-18; assume 320M people in the US, evenly distributed across ages, with life expectancy of 80 yers (i.e. 4M/year) = 15 * 4M = 
+60M
+b. Assume 60% of students aged 4-13 ride and 30% of students aged 14-18 ride = (10/15 * 60%) + (5/15 * 30%) = 120%/3 + 30%/3 = 150%/3 = 50%
+c. Assume average bus has roughly 13 rows on each side and can seat 2 students per row = 13 * 2 * 2 = 53 students per bus (appropriate to round to 50 or 60)
+d. ((a) * (b) / (c)) = (60M * 50%) / 50 = 600K buses
+2. # units per bus = 2 (give to candidate once they ask)
+3. Selling price per unit = $200 (give to candidate once they ask)
+Total potential addressable year 1 market size: (1) * (2) * (3) = 600K * 2 * $200 = $240M
+
+
+===== PDF p122 =====
+118
+QUESTION 2
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+If the client were to enter the school bus market, what do you think its year 1 new device sales would be?
+Guidance:
+• Year 1 revenues = Potential year 1 market size * year 1 product adoption percentage
+There is no correct response to this question. Here the interviewer should be looking for the candidate to 
+demonstrate business acumen and support his/her response. For example, most schools are very resource-
+constrained, so year 1 adoption of 10% might be reasonable. Whatever the case, the interviewer should push 
+the candidate for supporting rationale for the product adoption % chosen.
+
+
+===== PDF p123 =====
+119
+QUESTION 3
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+What would you expect to be the annual revenues (in terms of new product sales) in year 5?
+Guidance:
+• If they ask, candidates can assume that the overall market will not grow
+• Year 5 revenues = (Potential year 1 market size – year 1 revenues – year 2 revenues – year 3 revenues –
+year 4 revenues) * year 5 product adoption percentage
+• Here the key is to remember that the product has a 5-year life span, so any school purchasing the device in 
+years 1-4 would be “out” of the market in year 5
+• Candidates should state their assumptions about adoption rates for years 2-5
+
+
+===== PDF p124 =====
+120
+QUESTION 4
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+What are some other sectors and outlets that could make sense for this new technology?
+Guidance:
+• Push the candidate to brainstorm
+• Some examples might include commercial freight, shipping, public transportation, flight, cruise ships, rescue 
+boats, tour buses, drone fleets, etc.
+
+
+===== PDF p125 =====
+121
+QUESTION 5
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+Looking at the following data, which additional outlets do you think appear attractive? Why?
+
+
+===== PDF p126 =====
+122
+EXHIBIT 1
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+Note: Colors 
+represent 
+competitor 
+companies. 
+Letters represent 
+products.
+
+
+===== PDF p127 =====
+123
+Exhibit Guidance:
+•
+The candidate should avoid getting confused by the large amount of detail included in the exhibit. They 
+should quickly drive to insights once they understand the data presented
+•
+The key insights are: 
+•
+Commercial freighters and cruise liners are the two largest markets and lack dominant competitors (highly 
+fragmented)
+•
+High growth rate in the commercial drone segment is not compelling enough to merit entry as annual segment 
+sales would only reach $120M in 5 years (using the rule of 72, sales wouldn’t double for 7.2 years), still making it 
+the smallest segment.
+•
+Thus, commercial freighters and cruise liners would be the two most attractive additional segments from the exhibit. 
+This does not necessarily mean, however, that the client should enter these markets
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+
+
+===== PDF p128 =====
+124
+CONCLUSION
+0 7  |  C A S E :  T R A NS P O R TAT I O N T E C H C O .
+UVA Darden School of Business 2018-19 Casebook
+How should the client proceed?
+To conclude, the interviewee should provide the following:
+Summary
+•
+Recap the objective and important data and insights from the case
+Recommendation:
+•
+Make a recommendation about whether the client should enter the school bus segment and why
+•
+Address any other segments that might be attractive for the client
+Risks
+Next Steps
+
+
+===== PDF p129 =====
+125
+I NT E R VI E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Framework
+
+Logical approach
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Notes:
+
+Quantitative Ability
+
+Accuracy
+
+Speed
+
+Analytical Approach
+
+Errors / Guidance
+1
+2     3     4     5
+Notes:
+
+Business Acumen
+
+Insightful
+
+Implementable 
+
+Business Judgment
+
+Creative Brainstorm
+1
+2     3     4     5
+Notes:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Notes:
+Communication:
+
+Case Materials
+
+Organized Page Layout
+
+Recognition of Errors
+
+Resource References
+1
+2     3     4     5
+Notes:
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Strengths:
+Opportunities:
+Case Execution:  ___ / 15
+Communication:  ___ / 10
+Behavioral:           ___ / 15
+Total Score:          ___ / 40
+Total Time: _____: ______
+Behavioral:
+
+Overall Performance
+
+Quality of Answers
+
+Relevance
+
+Clarity & Time
+1
+2     3     4     5
+1      2     3     4     5
+1      2     3     4     5

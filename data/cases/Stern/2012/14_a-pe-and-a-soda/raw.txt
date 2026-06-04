@@ -1,0 +1,211 @@
+===== PDF p95 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+Case 14: A PE and a Soda 
+Your client is a private equity firm that has recently purchased a plastic materials manufacturer that makes products such as plastic soda 
+bottles. The client is looking to cash out of their investment within 5 years and wants you to help improve the profitability of the manufacturer. 
+In this case the candidate will be required to relay a thorough framework and conduct a quantitative comparison of the two products, after which 
+the interviewer will take charge and ask the questions mentioned in the case.  
+ 
+A superior candidate will run through calculations in an organized manner while keeping the interviewer aware of what he/she is trying to 
+achieve. Candidates can make the case easier by referring back to a framework which outlines various costs associated with the bottling industry 
+and understanding the importance of capacity constraints in the manufacturing industry. Otherwise, the case is relatively straightforward but 
+allows for a superior candidate to shine at the end by offering a robust synthesis of the choices facing the PE firm and the risks which are 
+necessary to consider in the recommended strategy.  
+Case Prompt 
+(to be read to the candidate) 
+91 
+Interviewer Guide 
+• Interviewer Led  
+• Profitability 
+• Private Equity 
+Easy  
+Normal 
+Hard 
+
+
+===== PDF p96 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+92 
+Case 14: A PE and a Soda 
+Continued… (page 2 of 6) 
+Information  
+(to be provided when requested by the candidate) 
+Operations 
+Market 
+• Bottling market size – can be calculated by revenues later 
+• Bottling market is growing at 10% a year in North America 
+• The firm has 30% share of the bottling market 
+• The firm’s bottling sales have been growing at 15% a year, 
+projected 15% growth for each of the next two years 
+• The firm has two plants: 
+• One plant in southeast US that manufactures only bottles 
+with capacity of 1.5B bottles 
+• Another plant in Canada that can produce both bottles 
+and non-bottling materials with capacity of 500M 
+products. Currently producing non-bottling 
+• Assumptions: 
+• No downtime, plants are fully utilized 
+• Plants are using new, highly efficient machinery 
+Revenues and Costs 
+Product Mix 
+• The firm manufactures two types of products - bottles and non-
+bottling goods 
+• The bottles are delivered locally to the clients, large bottlers 
+such as Coke or Pepsi 
+• Non-bottling products (such as advertising displays for stores) 
+are delivered directly to the establishments that will use them, 
+such as gas stations 
+• Bottles are made to spec whereas the non-bottling goods are 
+not 
+• Firm has higher quality products and manufactures at lower costs 
+due to more efficient machinery 
+• Bottles sell for 5 cents each 
+• Non-Bottling generates $20M in revenues 
+• Bottles costs: 
+• COGS (plastic) – 2 cents per bottle 
+• Machinery – 1 cent per bottle 
+• Labor - 0.5 cent per bottle 
+• Non-bottling has total variable costs of $18M 
+• SG&A across the entire firm is $20M 
+
+
+===== PDF p97 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+93 
+Sample Analysis 
+(not to be shown to candidate) 
+Case 14: A PE and a Soda 
+Continued… (page 3 of 6) 
+Candidate should conduct a comparison of the two products 
+Variables 
+Source (given in case unless stated) 
+Calculations – Bottling 
+Calculations –  
+Non-Bottling 
+Manufacturing capacity 
+1.5 B 
+0.5 B 
+Revenues 
+5 cents per bottle 
+$20M 
+COGS 
+2 cents per bottle 
+- 
+Machinery 
+1 cent per bottle 
+Labor 
+0.5 cent per bottle 
+Total variable costs 
+Bottling: (COGS) + (machinery) + (labor) 
+3.5 cents per bottle 
+$18M 
+Total profit  
+Bottling: (manufacturing capacity) x  
+                 ((total revenues) – (total variable cost)) 
+Non-bottling: (total revenues – total costs) 
+$22.5M 
+$2M 
+Profit margins  
+(total profit) / (total revenues) 
+30% 
+10% 
+Key Takeaway: Bottling products have higher profit margins 
+
+
+===== PDF p98 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+94 
+Continued… (page 4 of 6) 
+Sample Response 
+Should the firm convert the non-bottling production to bottling in its Canada plant? (cost - $3M) 
+Case 14: A PE and a Soda 
+Question #1 
+Key Takeaway: The conversion could potentially add $5.5M in annual profit, if the firm can sell 
+the entire capacity. Breakeven is in the 1st year 
+• Cost of conversion: $3M 
+• Assumption – the firm has sufficient cash on hand to finance this project 
+• Current profit in Canada (previously calculated): 
+• $2M, 10% margin 
+• Projected profit from conversion if the firm can sell the entire capacity: 
+Variables 
+Source (given in case unless stated) 
+Calculations 
+Number of additional bottles 
+0.5 B 
+Profit per bottle 
+Previously calculated 
+1.5 cents 
+Projected profit from conversion 
+(# of additional bottles) x (profit per bottle) 
+$7.5M 
+
+
+===== PDF p99 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+95 
+Continued… (page 5 of 6) 
+Sample Response 
+How much additional market share should the firm gain in the next 2 years in order to sell the extra bottles? 
+Case 14: A PE and a Soda 
+Question #2 
+Key Takeaway: Gaining ~3% market share in 2 years seams feasible 
+Variables 
+Source (given in case unless stated) 
+Calculations 
+Number of bottles currently manufactured 
+1.5 B 
+Firm’s current market share 
+30% 
+Bottling market size  
+(# of bottles manufactured) / (market share) 
+5 B 
+• Bottling market is growing at 10% per year in North America (given) 
+• The firm’s sales are growing at 15% per year (given) 
+Variables 
+Source (given in case unless stated) 
+Year 0 (now) 
+Year 1 
+Year 2 
+Firms sales 
+Each year, multiply by the firm’s sales growth rate 
+1.5B 
+1.72B  
+1.98B  
+Bottling market size 
+Each year, multiply by the bottling market growth rate 
+5 B 
+5.5 B  
+6.05 B  
+Required market share 
+(firm sales) / (bottling market size) 
+30% 
+31.36% ** 
+32.72%  
+
+
+===== PDF p100 =====
+© 2012 NYU Stern MCA – All Rights Reserved 
+• The manufacturer should convert the non-bottling manufacturing in Canada to bottling, as it 
+offers better margins, assuming that the firm can maintain sales growth 
+• The additional capacity is needed to match next year’s anticipated demand, although the 
+firm won’t need the entire capacity in the first year after expansion (only 0.22M) 
+• If market and sales grow according to projections, the firm will run out of capacity at the 
+end of the second year 
+• The market might not continue growing at the same rate or may enter a period of decline 
+• It may be difficult for the company to continue to grow faster than the market 
+• The non-bottling market and firm’s sales might be growing at a faster rate (no information 
+was given) and therefore capital may be better spend on that part of the business 
+96 
+Sample Conclusions & Recommendations 
+Case 14: A PE and a Soda 
+Continued… (page 6 of 6) 
+Recommendations 
+Risks 
+Other 
+• Consider adding another plant or expanding existing plants to keep pace with the sales 
+growth. Expansion plans should fit within the PE firm’s goal of exiting within 5 years 
+• Renting out additional capacity from other plants may be a feasible option which ties up 
+less capital and allows an easier reversal of the strategy if market trends sour 
+• Negotiate with suppliers / customers may improve the profitability of the business 
+• Increase prices due to higher quality products may be possible but lost market share due 
+to a price increase may be difficult to make up in a five year time horizon 

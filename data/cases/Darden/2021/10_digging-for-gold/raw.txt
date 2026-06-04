@@ -1,0 +1,246 @@
+===== PDF p126 =====
+122
+Digging for Gold
+Round 2 | Mining
+
+
+===== PDF p127 =====
+123
+Round 2 | Mining
+1 0  |  C A S E :  D IG G ING  F O R  G O L D
+DIGGING FOR GOLD
+B E HAVIO R A L  
+INT E R VIE W  
+Q UE S T IO N:
+1 .  W h y  d o  y o u  
+wa n t  t o  p u r s u e  a  
+c a r e e r  in  
+c o n s u lt in g ?
+Clarifying Information:
+Note: Provide this only if corresponding questions are asked.
+Are there are any company criteria to approve projects? What typically constitutes success? Board typically approves 
+projects with payback in less than 5 years. You can use payback with no discounting for your math
+Geography related question… Mine is adjacent to the original mine
+How is the market expected to grow? Consider that the market will remain flat at 1500 tons per year for the foreseeable 
+future
+How much upfront investment will be required for this project? Prompt to wait until we dive into case ($750M)
+What is the cost of this new volume of production? Are there cost synergies or is this a more expensive mine? Prompt 
+to wait until we dive into case (same, $1000/oz)
+How does the competitive landscape look like? You can choose to give Exhibit A, but may throw them off receiving before 
+framework
+Our client is an Australian mining company, whose main product is Gold, which it sells 
+exclusively to China. This company is the largest producer in volume in the Chinese 
+market with 200 tons sold each year. It is also the lowest cost producer at $1000 per 
+ounce of production costs. We estimate the total Chinese demand for Gold today to be 
+around 1500 tons per year. Our client has won a concession to mine a new site 
+adjacent to its biggest mine, and increases production to 300 tons per year (i.e. 100 
+additional tons per year). Is this worth doing? 
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p128 =====
+124
+•Undiscounted Cash Flow
+•
+(plus) Incremental Revenues (volumes 
+increase, but would $/ton go down since 
+it is a commodity
+•
+(Minus) Direct Operating Costs 
+(candidate should list some possible 
+options)
+-
+Labor, Repairs & Maintenance, 
+Royalties, Production Taxes, Freight 
+(land & ocean) Processing/Cleaning 
+Costs, Fuel, Utilities
+•
++/- incremental indirect (synergies from 
+shared overhead or additional semi-
+variable costs
+•
+(minus) Upfront Investment 
+How to Move Forward:
+To get to the next portion of the case, the interviewee should ask to explore: Current price/ton and how much that would change with the increased supply
+•
+Macro risk Factors
+-
+China
+•
+Trade Relations
+•
+GDP slow down
+-
+Supply Shifts
+•
+Competitor Reaction
+•
+M&A Activity
+-
+Shipping Cost Shifts
+-
+Mining/Environmental Regulatory 
+Changes
+•
+Operational Challenges
+-
+Skilled labor Supply
+-
+Purchasing
+-
+Distribution
+-
+Royalty Negotiation with Australia
+-
+Safety stock for key machinery
+F R A M E W OR K  G U I D A N C E  N OT E : T H E R E  A R E  M A N Y  P O S S I B L E  A L T E R N A T I V E S  T O  T H I S  
+F R A M E W O R K .  T H E S E  A R E  O N L Y  P R O V I D E D  A S  P O S S I B L E  S U G G E S T I O N S
+UVA Darden School of Business 2021-22 Casebook
+1 0  |  C A S E :  D IG G ING  F O R  G O L D
+
+
+===== PDF p129 =====
+125
+E X HIB IT  1  – C HINA’ S  G O L D  C O S T  C UR VE  ( INC L UD E S  R O YA LT IE S  A ND  F R E I G HT )
+1 0  |  C A S E :  D IG G ING  F O R  G O L D
+US$/oz
+Supply (in tons as delivered)
+Client A
+Competitor B
+$1000
+$1025
+$1250
+$1050
+$1075
+$1100
+$1110
+$1125
+$1150
+$1200
+$1225
+200
+200 
+80
+180
+180
+180
+160
+150
+150
+120
+100
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p130 =====
+126
+Exhibit Guidance:
+The interviewee should notice and verbally acknowledge the following in Exhibit 1. This is where you insert question and the answers to the question
+Expected Insights: 
+1.Increasing capacity pushes out the supply curve lowering the sales price per ton
+2. In commodity market, the price is set at the cost of the last ton demanded in the market. (I.e. ton 1,500 cost $1,200). Adding 100 more tons of supply moves that to 
+$1,150
+3.We need to understand if the increase volume is offset by lower price and investment cost 
+1 0  |  C A S E :  D IG G ING  F O R  G O L D
+How to Move Forward:
+They should prompt to calculate payback period of investment. Interviewer should ask for the following
+Oz to ton conversion: 15 oz/lb, 2000 lb/ton
+Investment cost: $750M
+Calculate
+Before: $1,200 ($/oz) - $1,000 (cost/oz) = $200 profit/oz * 15 oz/lb * 2000lb/ton * 200 tons = $1.2B profit/year
+After: $1,150 ($/oz) - $1,000 (cost/oz) = $150 profit/oz * 15 oz/lb * 2000lb/ton * 300 tons = $1.35B profit/year
+Incremental Profit: $1.35B - $1.2B = $150M. $750M/$150M = 5 year payback
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p131 =====
+127
+1 0  |  C A S E :  D IG G ING  F O R  G O L D
+BRAINSTORM
+Question 2: If you were competitor B, how would your react?
+Interviewee should assess that competitor B will lose $50 margin ($1200 - $1150 price drop), and therefore a total of $50 * 
+200 tons * 15 oz/lb * 2000 lb/ton = $300M per year. 
+• Interviewee should consider a few options that competitor B has: 
+• Competitor B can increase his production if they have access to new mines (price will drop even further, but perhaps 
+volume increase will compensate) 
+• Competitor B can temporarily reduce production to make prices go up again 
+• Competitor B can work to reduce costs
+• Competitor B can assess M&A options (e.g. Higher cost players that are looking to sell, and can potentially have 
+synergies with B’s current operations)
+A great answer would point out that competitor B needs to expand by another 150M tons (75% increase in capacity before 
+the price would drop lower). Therefore, we are not as concerned about their reaction.
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p132 =====
+128
+CONCLUSION
+1 0  |  C A S E :  D IG G ING  F O R  G O L D
+You can go either way with the conclusion, but recommend expansion option
+Expand 
+Recommend client expand ~150M incremental profit will payback in 5 years. The larger scale will give us more 
+scale for supplier power and flexibility to bring on/take off supply advantageously.
+Concern and Next Steps (just one example of many options)
+Shortage of skilled labor force – Partner to build a attraction and retention labor force strategy
+UVA Darden School of Business 2021-22 Casebook
+
+
+===== PDF p133 =====
+129
+INT E R VIE W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20

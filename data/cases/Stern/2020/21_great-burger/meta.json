@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2020_21_great-burger",
+  "school": "Stern",
+  "year": "2020",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2020.pdf",
+  "idx": 21,
+  "case_name": "Great Burger",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Food & Beverage/Restaurant",
+  "difficulty": null,
+  "pdf_page_start": 238,
+  "pdf_page_end": 248,
+  "n_pages": 11,
+  "exhibit_pdf_pages": [
+    241,
+    242,
+    245,
+    247,
+    248
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p241.png",
+    "exhibits/exhibit_p242.png",
+    "exhibits/exhibit_p245.png",
+    "exhibits/exhibit_p247.png",
+    "exhibits/exhibit_p248.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2020\\21_great-burger"
+}

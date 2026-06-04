@@ -1,0 +1,192 @@
+===== PDF p14 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 10 - 
+Case 2: New York to Boston Buses 
+ 
+ 
+BACKGROUND 
+ 
+Firm: L.E.K. 
+Round: 2008 Summer, First Round 
+Content: Quantitative 
+ 
+CASE QUESTION 
+ 
+Our client is a transportation company, operating buses daily from New York City to 
+Boston.  They operate with buses leaving every hour from 7AM – 10PM, inclusive 
+(meaning buses leave at 7AM and 10PM and all other hours in between), from both 
+locations.   
+ 
+There are 3 questions that you should answer for this case: 
+1) What is the minimum # of buses the company needs to operate? 
+2) What are some ways the company can increase profits? 
+3) How would you value the company? 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: This is an analytical case asking the candidate three specific 
+questions to answer in succession.  Below is a rough outline for solving each question. 
+ 
+1) The interviewee should realize that a bus leaves the first shift from NY & BOS at 
+7AM and will be able to make the return trip at 11.  This pattern repeats and you 
+only need 8 buses total. 
+2) The interviewer was looking for brainstorming potential solutions here.  
+Interviewee should give a list of recommendations to increase profits. 
+3) In valuing the company, the interviewer is looking for the broad approach, not the 
+actual number.  Interviewee should first walk through a P&L then the method for 
+a FCF valuation. 
+ 
+Key facts:   
+Facts that are disclosed during the course of the case 
+ It takes 4 hrs to make the trip NY to BOS (assume the bus can leave right away to 
+make the return) 
+ 1-way ticket costs $15 (no round trip packages) 
+ 40 seats per bus, operating at capacity 
+ 
+ 
+
+
+===== PDF p15 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 11 - 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: How would you approach figuring out the number of busses required? 
+ 
+Interviewee:  First I would need to know how long the trip takes between NY & Boston.  
+I believe it takes roughly 3-4 hours, is this correct? 
+ 
+Interviewer: Yes, you can assume 4 hours.   
+ 
+Interviewee:  What about the time it takes to unload and load passengers and refuel 
+before making the return trip? 
+ 
+Interviewer: Lets assume that’s negligible. 
+ 
+Interviewee:  OK.  So assuming the first bus leaves NY at 7am, it can return from BOS 
+at 11am, leave NY at 3PM, and so on.  I’ve drawn a diagram to help outline how this 
+would work.  We need 4 buses from each location leaving at 7, 8, 9, and 10am.  The 
+11am bus in each location will be the next trip for the 7am bus that arrives there.  Thus 
+we need 8 buses total. 
+ 
+ 
+ 
+New York
+Boston
+7:00 AM
+7:00 AM
+8:00 AM
+8:00 AM
+9:00 AM
+9:00 AM
+10:00 AM
+10:00 AM
+11:00 AM
+11:00 AM
+12:00 PM
+12:00 PM
+1:00 PM
+1:00 PM
+2:00 PM
+2:00 PM
+3:00 PM
+3:00 PM
+4:00 PM
+4:00 PM
+5:00 PM
+5:00 PM
+6:00 PM
+6:00 PM
+7:00 PM
+7:00 PM
+8:00 PM
+8:00 PM
+9:00 PM
+9:00 PM
+10:00 PM
+10:00 PM
+11:00 PM
+11:00 PM
+12:00 AM
+12:00 AM
+1:00 AM
+1:00 AM
+2:00 AM
+2:00 AM
+
+
+===== PDF p16 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 12 - 
+Interviewer: Good.  So now can you brainstorm some ways to increase profits for this 
+bus company? 
+ 
+Interviewee: Yes, but first I want to know a few additional points about the company.  
+Are we currently operating at capacity?  Additionally what is the competition like? 
+ 
+Interviewer: Yes, assume all buses are 100% filled.  Additionally we are in a highly 
+competitive market and raising prices would be unwise. 
+ 
+Interviewee:  OK.  So in brainstorming ways to raise profits, I want to think about ways 
+to increase revenues, reduce costs, or both.  First with revenues, we can possibly add 
+additional services such as selling snacks or magazines on the buses or in the terminal.  
+We could also add more departures to the schedule, however I’m not sure people would 
+be interested in taking buses that arrive later than 2AM.  Finally we can think about an 
+acquisition to boost profits.  Potentially with an acquisition we might be in a better 
+position to increase prices because we’ll have more pricing power. 
+ 
+Interviewer: That’s all very good.  What about the cost side? 
+ 
+Interviewee: Well first with the acquisition case I mentioned before we have potential to 
+reduce overall costs given operational synergies such as equipment, repairs, and cost of 
+other services we offer.  Besides that, we can look at our buses and potentially upgrade 
+our fleet to more fuel-efficient vehicles, or vehicles that will have a longer useful life or 
+require fewer repairs.  We would have to do cost-benefit analysis on such options.  Also I 
+would want to review other cost areas such as marketing, labor, and so forth, to see 
+whether we can reduce those. 
+ 
+Interviewer: That’s good.  Now before you tell me how to value the company, starting 
+with revenues can you walk through the major components of the P&L starting with 
+revenues?   
+ 
+Interviewee: Sure, after revenues would be all gross costs including fixed & variable 
+costs.  Subtracting these costs would give you EBITDA.  Now we can use this metric to 
+value the company via comparable multiples if we know of any other recent transactions 
+with bus companies.  However, I assume this isn’t common so we will need to proceed 
+further and value the company using free cash flows. 
+ 
+Interviewer: Very good observation.  How do you get to free cash flows from EBITDA? 
+ 
+Interviewee: Well, first we need to Net Income.  We subtract out any depreciation and 
+amortization to get EBIT.  Finally we apply the company’s tax rate to get NI.  Now 
+assuming there is no interest expense, we can use NI to get to FCF.  If there is interest 
+expense we need to get Net Operating Profit after tax which removes the tax effected 
+interest expense from NI. 
+
+
+===== PDF p17 =====
+ 
+Management Consulting Association Case Book 2008 
+ 
+- 13 - 
+ 
+(interviewer can interject and ask what would make up D & A – depreciation on 
+buildings and buses, amortization on other potential acquired intangibles like goodwill) 
+ 
+Interviewer: Very good.  Let’s assume no interest expense here and start with Net 
+Income. 
+ 
+Interviewee: OK, so FCF = Net Income - NFA - Net Working Investment.  The first 
+term, change in net fixed assets is Capital Expenditures (e.g. new buses or real estate we 
+purchased) minus Depreciation (on any PP&E).  The other term represents working 
+current assets (Necessary cash, A/R, Inventory, other current assets) – Automatic Sources 
+(Accts payable, anything accrued, other non-interest bearing liabilities). 
+ 
+Interviewer: Excellent.  Thank you. 
+ 

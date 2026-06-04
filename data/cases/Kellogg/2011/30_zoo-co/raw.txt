@@ -1,0 +1,220 @@
+===== PDF p210 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+206
+Case tracker
+Fit Questions
+Industry: 
+Financial Services
+Level of Difficulty: 
+Medium
+Case Format:            
+M&A
+Concepts Tested:
+- Investments
+- Break-even Analysis
+- Basic NPV
+Case Question
+Our client is a zoo that is thinking about acquiring a famous zebra from an African preserve.
+It’s  a  huge  investment,  but  they  believe  the  new  zebra  would  be  a  great  contribution  to  their  animal  community.  You  have  
+been engaged to help decide whether this is a good idea. What would you consider when trying to help your client make 
+this decision?
+Spend  first 15 min on fit
+Describe a recent 
+unpopular decision you 
+made.  What was the 
+result?
+Tell me about  a 
+successful business 
+relationship you built 
+with a client, boss, or 
+peer in your previous 
+job. 
+Guide to interviewer
+Even though the client is a Zoo, we're undertaking a 
+similar process to what is done when underwriting an 
+insurance policy.  The case evaluates basic concepts, but 
+involves many calculations and use of financial and 
+assessment techniques.
+Key case objectives:
+1. Investment Valuation – Walk through the 
+valuation process for an asset 
+2. Breakeven Analysis – Determine the revenue 
+increase needed for a positive NPV
+3. Risk Assessment – Should the zoo should use an 
+insurance contract to hedge downside risk?
+
+Rounding numbers is generally okay but should not be 
+done to the extreme as it will alter the results
+Case 30: Zoo Co.
+Quants.
+7
+Structure
+5
+Invest.
+B/E
+Basic NPV
+By:    Aneri  Jambusaria  (Kellogg  Class  of  ’11),  Edited  By:    Peter  Manoogian  (Kellogg  Class  of  ‘12)
+
+
+===== PDF p211 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+207
+Zoo Co: Clarifying answers and case guide
+Guide to case / Guide to handouts
+• The interviewee should think about performing a break even 
+and a sensibility analysis.  Afterwards, they need to think about 
+performing a risk assessment (only when you reach this point 
+you should deliver exhibit 1)
+• They should start by asking about the benefits and costs 
+associated with zebra acquisition (Left)– Share with interviewee 
+after probing questions are received
+• Using the data on the left to calculate benefit to zoo from 
+acquisition – Determine whether or not this zebra purchase 
+makes financial sense for the zoo, using the NPV value
+• Using the cost and benefit data provided, the interviewee 
+should calculate the NPV of the acquisition 
+• Assume that attendance benefits are realized immediately and 
+maintained thereafter
+- Annual benefits = (300K)*($15)*(0.08) = $360K
+- Upfront costs = $235K + $850K + $110K = $1.195M
+- Annual costs = $90K
+- NPV = -$1,195K+(($360K - $90K)/0.20) = $155K
+• Continue by asking questions in next page
+Clarifying answers to provide
+Data to provide when asked
+- 300K people visit the zoo yearly 
+- Admission is $15 
+- Benefits from acquisition could lead to 
+increased attendance.  Another zoo that 
+acquired a similar zebra had an 8% 
+increase
+Costs from zebra acquisition 
+- Immediate costs: acquisition fees, 
+transportation costs, and new facilities.
+- Food, health costs and additional trainers 
+are part of annual maintenance costs 
+- Acquisition cost: $235K 
+- New facilities: $850K 
+- Transportation: $110K 
+- Annual maintenance: $90K 
+- Discount rate = 20% Assume that 
+immediate cost are paid today, and 
+annual costs and benefits are realized 
+beginning next year and sustained into 
+perpetuity, even thought the Zebra will 
+not live on to perpetuity
+
+
+===== PDF p212 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+208
+Zoo Co: Key elements to analyze
+Break-even analysis
+Zoo  Co.  is  concerned  about  using  the  other  zoo’s  
+attendance benefits as a proxy. They think that 
+attendance could increase by less than 8%.  What 
+analysis could you perform to address their 
+concerns? What is the breakeven attendance 
+increase required? 
+Risk assessment
+Since the zoo is very risk-averse,  they’re  interested  in  
+hedging some of their downside risk. An insurance 
+company has offered to provide the Zoo with a constant 
+revenue to increase revenue to $250,000 per year if 
+attendance increases are less than or equal to 5% (if 
+revenue is $135K, the insurance will give the Zoo, $115K.   
+In exchange, the insurance company wants the zoo to pay 
+0.1%  of  the  zoo’s  total  annual  revenues  as  a  premium.  
+What might you do to determine if this was a good deal? 
+Notes to interviewer
+The interviewee should determine that a sensitivity / 
+breakeven analysis of the NPV calculation with lower 
+attendance increases will help confirm that the 
+project still makes sense 
+See calculations page
+Notes to interviewer
+The interviewee should recognize that additional 
+information is needed, and that a market research study 
+could aid in this process 
+Hand out Exhibit 1 after the interviewee identifies this 
+notion
+The interviewee should use the market research to 
+determine the probable attendance increase
+
+
+===== PDF p213 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+209
+Math questions
+1.
+What is the breakeven attendance increase required? 
+2.
+Do you think the insurance company is providing a good deal to the zoo?
+Calculations
+1.
+Break-even:    
+= -$1,195,000+((revenue-$90,000)/0.20) 
+($1,195,000)x .20 = revenue-$90,000 
+revenue = $239,000 + $90,000 = $329,000 (*required additional revenue to break even)
+$329,000 = (300,000) x (15) x (% increase)
+% increase =  ($329,000 / $4.5M) = 7.3%
+After handing over exhibit 1
+2.
+Annual cost to zoo:     
+0.1% of total zoo revenues = (0.001)*($4,752,000) = $47,520 
+Annual expected benefit to zoo = ($250,000 - $225,000)*(0.20) + ($250,000 – 135,000)*(0.40) = $33,000 
+Costs > Benefits, so this is not a good deal 
+Zoo Co: Calculations
+
+
+===== PDF p214 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+210
+Solution & Recommendations
+It is unlikely that the zebra acquisition is a good idea for the zoo to undertake given the information provided. At 
+other zoos, attendance has gone up substantially due to a new zebra; however, based upon our market research, it 
+seems less likely that we can breakeven on the investment through increased attendance. We have received an 
+insurance contract to help mitigate some of the downside risk; however, it is too expensive to create value. 
+In order to make the investment more palatable, we may consider negotiating with the insurance company to either 
+increase the revenue benefits provided or decrease the premium cost.
+Bonus/Guide to an Excellent Case
+Excellent cases will: 
+Identify that we can use another zoo's attendance increases as a proxy for estimating our own attendance increases
+Notice in Exhibit 1 that it is unlikely that attendance will increase sufficiently enough for the zoo to break even
+Notice that the insurance company's premiums and benefits are both impacted by attendance increases; so if 
+attendance increases are always greater than 5%, the zoo will be paying even more but getting no benefit 
+Notice that the insurance company's contract is essentially an option; so a different structure to the contract may be 
+more suitable for the zoo
+Zoo Co: Solution and recommendations
+
+
+===== PDF p215 =====
+© 2011 Kellogg Consulting Club  -- All Rights Reserved
+Exhibit 1: Market research findings
+211
+Exhibit 1: Market Research Findings
+3% Increase
+$135,000
+20%
+5% Increase
+$225,000
+40%
+7% Increase
+$315,000
+30%
+9% Increase
+$405,000
+10%
+Expected Additional 
+Annual Revenue
+$252,000
+Plus: Current Annual 
+Revenue
+$4,500,000
+Expected Total  Annual 
+Revenue
+$4,752,000
+Possible Attendance 
+Increases
+Probability
+Annual Revenue

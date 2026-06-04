@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2014_23_healthy-foods-co",
+  "school": "Kellogg",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2014.pdf",
+  "idx": 23,
+  "case_name": "Healthy Foods Co.",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "CPG",
+  "difficulty": null,
+  "pdf_page_start": 161,
+  "pdf_page_end": 167,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    162,
+    163,
+    165,
+    166,
+    167
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p162.png",
+    "exhibits/exhibit_p163.png",
+    "exhibits/exhibit_p165.png",
+    "exhibits/exhibit_p166.png",
+    "exhibits/exhibit_p167.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2014\\23_healthy-foods-co"
+}

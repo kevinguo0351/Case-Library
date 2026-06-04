@@ -1,0 +1,322 @@
+===== PDF p59 =====
+55 
+PE Gym 
+ 
+Our client is a private equity firm that is looking to invest into a gym chain. They are looking at two potential acquisitions and 
+are trying to determine which one is more attractive.  
+ 
+Walk me through how the private equity firm should evaluate the gyms. 
+Problem Statement Narrative 
+Company:  
+Bain, Round 1 
+Difficulty:  
+Moderate/Difficult  
+Industry:  
+Gyms 
+Case Type:  
+Private Equity 
+Written by John Doe ‘14 
+• Mental math 
+• Creativity 
+• Break-even 
+• Capacity utilization 
+Concepts Tested 
+Case: Gym - PE 
+•
+The difficulty of this case depends on how it is given by the interviewer. If data is easily provided, then the breakeven 
+and the case are fairly straightforward.  
+•
+However, in the actual Bain interview, the interviewer did 3 things to make this case much more challenging:  
+•
+Asked the candidate to draw out the framework on a whiteboard without any time to prep 
+•
+Asked the candidate to do all the math without paper (rounding was acceptable) 
+•
+Did not provide any additional information until prompted 
+ 
+Case Notes 
+
+
+===== PDF p60 =====
+56 
+Sample Framework 
+•
+Profitability 
+•
+Revenue 
+•
+Volume 
+•
+# of gym members 
+•
+Price 
+•
+Monthly/ annual membership dues 
+•
+Activation fees 
+•
+Concessions (beverages, apparel, etc.) 
+•
+Cost 
+•
+Fixed 
+•
+Gym equipment 
+•
+Maintenance 
+•
+Lease 
+•
+Variable 
+•
+Labor 
+•
+Services (e.g. towel cleaning) 
+•
+Changes over time 
+•
+Growth in members/ gym 
+•
+Opening new gyms 
+•
+Utilization 
+•
+Average annual 
+•
+Peak vs. off-peak 
+•
+Competitive environment 
+•
+Market share of 2 targets (by region and segment) 
+•
+Market attractiveness (growth, concentration, etc.) 
+ 
+Sample Framework 
+ 
+•
+Profitability tree should be detailed – drill in to ensure 
+most of the P&L line items are captured 
+•
+Ensure interviewee captures that this is a high fixed-cost 
+business 
+•
+Make sure candidate mentioned utilization 
+ 
+Guidance for Interviewer 
+•
+Each gym has 150 gyms in U.S. across all geographies 
+•
+Assume no market growth 
+•
+Fragmented market 
+•
+Assume both are premium gyms and price themselves 
+the same 
+•
+Assume both gyms are nationwide in same geographies 
+•
+Assume capital structure of PE deal is same for both; 
+the price of both gyms will be good for PE 
+•
+Management is skilled and happy to sell to PE 
+ 
+Clarification Answers if Asked  
+PE Gym 
+
+
+===== PDF p61 =====
+57 
+• What are drivers of users growth?  
+•
+Seasonality (summer vs. winter) 
+•
+Annual contracts expiring 
+• 2 key metrics are:  
+•
+Churn – rate of churn and drivers of 
+churn 
+•
+Acquisition cost/ rate – why people might 
+sign up at different times of year 
+User growth 
+• Fixed costs are a substantial portion of the 
+business 
+• Utilization is key 
+Costs 
+• Discuss daily utilization 
+•
+Peak before work/ after work 
+•
+Gym is structured to not support all 
+members at one time, but need to 
+understand capacity at peak periods 
+• Even if gym has lots of average excess capacity, if 
+it is over capacity during peak periods, members 
+will churn away  
+Capacity/ utilization 
+Potential Areas for Analysis 
+PE Gym 
+
+
+===== PDF p62 =====
+58 
+Question #1 
+Assume we are only going to look at the economics of a single gym from each company. What are the P&L line items? 
+[After P&L line items are discussed, show Exhibit 1]. Tell me what you see here – which gym is more attractive? (assume 
+each gym is representative of all 150 gyms in each chain) 
+Question #1 
+NOTE: To make this more difficult, ask the candidate to not use paper. Furthermore, guide the candidate to 
+arrive at a profit gap by using the % difference between each gym to make the calculations easier.  
+1.
+Candidate should identify that the difference in costs is greater than the difference in revenues 
+2.
+Intuitively, candidate should identify that Stallone is making lower margins than Arnie 
+Solution 
+Gym Arnie 
+Gym Stallone 
+Difference 
+Annual lease  
+$180,000  
+$225,000  
+25% 
+Maintenance 
+$35,000  
+$50,000  
+43% 
+SG&A 
+$10,000  
+$25,000  
+150% 
+Staff 
+$120,000  
+$150,000  
+25% 
+# of members 
+600 
+720 
+20% 
+Annual fees/ member 
+$600  
+$600  
+Monthly consession concession/ member 
+$5  
+$5  
+Annual concession revenue/ member 
+$60  
+$60  
+Total Annual Revenue per member 
+$660  
+$660  
+Total Revenue 
+$396,000  
+$475,200  
+20% 
+Total Costs 
+$345,000  
+$450,000  
+30% 
+Profit 
+$51,000  
+$25,200  
+Margin 
+12.9% 
+5.3% 
+PE Gym 
+
+
+===== PDF p63 =====
+59 
+Question #2 
+Is there anything else that we need to know? [press interviewee] Answer: user growth rates! If we assume 
+that Arnie is not growing, but Stallone is growing at 10%, which one is more attractive? How many members 
+would Stallone need to be as attractive as Arnie? 
+Question #2 
+Try not to give away the answer that we need to know capacity of each gym/ user growth unless absolutely 
+necessary.  
+1.
+63 users to break even; Follow up: what % growth is that? – 8.7% - lower than 10% expected growth 
+2.
+Final follow up questions – Is that achievable? Why or why not? 
+-
+Yes – attractive – but need to know capacity of Stallone 
+-
+Would also need to know capacity during peak hours to ensure that we don’t churn away members 
+-
+Need to have marketing plan/ good understanding of cost of acquisition 
+-
+Any incremental variable costs?  
+ 
+Solution 
+Members required to make margin same 
+62.6 
+Total Profit required  25,200 + 660*62.6 
+$66,516 
+Incremental profit  66,516 – 25,200 
+$41,316 
+% growth in members 
+8.7% 
+PE Gym 
+25,200 + 660x  
+475,200 + 660x  
+= 12.9% 
+25,200 + 660x = 61,200 + 85x  
+575x = 36,000 
+x = 62.6 
+Profit + Revenue per member * # of members  
+Revenue + Revenue per member * # of  members = 12.9% 
+
+
+===== PDF p64 =====
+60 
+Conclusion 
+• Stallone has excess capacity that we can better 
+utilize to ultimately be more profitable 
+Rationale 
+• PE client should acquire Stallone assuming the 
+economics of 1 gym apply to all gyms and that we 
+will in fact increase membership by 10% without 
+increasing our costs or hitting capacity 
+constraints 
+Recommendation 
+• Conduct deeper due diligence on peak capacity 
+times 
+• Conduct deeper due diligence to ensure that 10% 
+growth figures can be achieved 
+ 
+Next Steps 
+• Excess capacity reached at peak times 
+• Lemons – there may be reasons why Stallone is 
+unable to operate at capacity (e.g. lower quality 
+equipment, poor marketing, etc.) 
+Risks 
+PE Gym 
+
+
+===== PDF p65 =====
+61 
+Exhibit #1 
+Gym Arnie 
+Gym Stallone 
+Annual lease  
+$180,000  
+$225,000  
+Maintenance 
+$35,000  
+$50,000  
+SG&A 
+$10,000  
+$25,000  
+Staff 
+$120,000  
+$150,000  
+# of members 
+600 
+720 
+Annual membership fees per member 
+$600  
+$600  
+Monthly concession revenue per member 
+$5  
+$5  
+Select figures for 1 average gym from each chain 
+PE Gym 

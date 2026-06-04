@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2012_16_great-burger-mckinsey",
+  "school": "Stern",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2012.pdf",
+  "idx": 16,
+  "case_name": "Great Burger (McKinsey)",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Food & Beverage",
+  "difficulty": null,
+  "pdf_page_start": 107,
+  "pdf_page_end": 115,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    109,
+    110,
+    111,
+    113,
+    114
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p109.png",
+    "exhibits/exhibit_p110.png",
+    "exhibits/exhibit_p111.png",
+    "exhibits/exhibit_p113.png",
+    "exhibits/exhibit_p114.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2012\\16_great-burger-mckinsey"
+}

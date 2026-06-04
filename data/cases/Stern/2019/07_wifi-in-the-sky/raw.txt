@@ -1,0 +1,323 @@
+===== PDF p92 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+Case Overview:
+Industry: Airline
+Case Type: Market Entry
+Concepts Tested:
+•
+New Product Launch
+•
+Breakeven
+Overview Information for Interviewer:
+• Candidates are likely to spend the bulk of their time on break-even 
+analysis
+• The difficulty in the case lies in recognizing the implications of 
+different business models, and thinking creatively about how to 
+triangulate data to uncover critical information
+• Candidates should not get caught up on the specifics of WiFi
+technology or how it works, but rather consider high-level 
+implications of investing in nascent technology 
+Case Prompt:
+Your firm has won an RFP to help a domestic airline carrier examine their in-flight connectivity (IFC) 
+strategy. With 80% of US-based aircraft already outfitted with IFC technology and competitive 
+pressures rising, offering WiFi service is becoming table-stakes. Your client has yet to enter the 
+game, but they know it’s something they need to consider to stay competitive. What are some of the 
+key things the client should think about when assessing their go-to-market strategy for IFC?
+88
+Author: Jasmine Dyba (Stern ‘18)
+Case Style: Interviewer Led
+Difficulty: Medium
+WiFi in the Sky
+
+
+===== PDF p93 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+89
+Clarifying Info: 
+•
+Th airline flies primarily 
+domestic routes within the 
+continental US, as well as 
+select flights to Canada, 
+Mexico, and the Caribbean
+•
+IFC includes only WiFi
+connectivity. In-flight 
+entertainment (IFE) is 
+delivered via an on-board 
+server through a separate 
+system, but the two can be 
+integrated into one user 
+experience
+•
+The airline’s main objective 
+is to stay competitive
+•
+RFP = request for proposal
+•
+Airline has 90 planes and 
+services ~30K flights per 
+year
+Interviewer Guide: 
+•
+A good framework will consider:
+o ROI and/or profitability
+o Price and pricing model (free, ad-supported, pay per data usage, pay 
+per time, pay by speed tier, subscription service, etc.)
+o Market demand (take rate, market segments)
+o Costs (upfront investment, ongoing costs)
+o Vendor contract structure (revenue/business model, split of investment 
+costs and OpEx, branding, contract length, technology) 
+o Product/user experience (built-in screens v. BYO-screen, white-label v. 
+vendor-branding, speeds available, interoperability with in-flight 
+entertainment, add-on services like calling or texting)
+o Technology (speed, bandwidth, latency, availability when flying over water)
+o GTM (rollout timing, marketing, crew training, ad sales)
+•
+Necessary Information that should be given only when specifically asked 
+for by interviewee: 
+o IFC is typically installed and managed by an outside vendor, either through a 
+branded service (e.g., GoGoAir) or a wholesale, white label solution (e.g., 
+Row44). Contracts are typically 10+ years long.
+o Different vendors use different technologies, which vary in quality
+o Total bandwidth is shared across passengers, so the more passengers buy 
+a session, the slower the service (some carriers intentionally charge high 
+prices to limit usage and ensure better service)
+WiFi in the Sky: Case Guide
+
+
+===== PDF p94 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+90
+Question #1: 
+There is a wide range of potential business models and your client wants to better understand them 
+before making a vendor decision. Your analyst pulled these benchmarks on what two competitors are 
+doing today. What are your thoughts on these two models? [Give Exhibit 1]
+Notes to Interviewer:
+•
+Candidate should recognize that these are not the only two possible models, and good candidates will consider other 
+possible structures. Further, candidates should not limit themselves to discussing only the elements listed in the exhibit 
+- strong candidates will consider other critical features of the model (see examples below)
+•
+A simple way to assess these models is to discuss the pros and cons of each:
+•
+Competitor 1’s Model
+•
+Pros: less operational burden on airline, potential for customer experience continuity (e.g., allow 
+subscriptions across airline carriers), limited costs
+•
+Cons: limited control over pricing (high price could drive low take rates and anger customers), 
+brand fit considerations
+•
+Competitor 2’s Model
+•
+Pros: control over pricing, control over user experience, potential for better ROI, easier to integrate 
+with airline’s other products (e.g., in-flight entertainment system)
+•
+Cons: more operational burden on airline, higher costs
+•
+Other considerations: who will pay for the initial investment, what is the ongoing cost structure, potential 
+to adopt more than one model across the fleet, technology limitations (vendors don’t come equal)
+WiFi in the Sky: Question 1
+
+
+===== PDF p95 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+91
+Notes to Interviewer: 
+• Clarifications (if candidate asks):
+• Assume 1 session buys a passenger WiFi connectivity for the duration of the flight
+•The Exhibit is intentionally missing critical information (e.g., cost structure, technology, product 
+features, interoperability with in-flight entertainment system). If candidate limits discussion to the 
+elements in the table, ask the candidate if they think there are any other important 
+considerations.
+WiFi in the Sky: Interviewer Guide to Exhibit 1
+
+
+===== PDF p96 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+92
+Question #2 (Math Question): 
+After some initial analysis, the client has decided to partner with a white-label IFC vendor to outfit all 90 of its planes. The
+airline and vendor will share the initial investment, and then the airline will pay the vendor a per-session fee to cover 
+operating expenses. The airline wants you to figure out what percentage of their passengers need to purchase a session 
+for the airline to break even in 2 years. They have provided you with some useful data. [Give Exhibit 2]
+Math Solution: 
+Math Information: 
+• To calculate the initial investment:
+•
+Airline share of investment = $250K x 40% = $100K per plane
+•
+Total investment = $9M (solution below):
+•
+Wide body = 10 planes x $100K/plane = $1M
+•
+Narrow body = 80 planes x $100K/plane = $8M
+•
+Total = $1M + $8M = $9M
+• To determine total passengers in 2 years:
+•
+Wide body = 300 seats x 2,500 flights/yr x 2 yrs = 1.5M passengers
+•
+Narrow body = 100 seats x 27,500 flights/yr x 2 yrs = 5.5M 
+passengers
+•
+Total = 1.5M + 5.5M = 7M passengers in 2 yrs
+• To determine % take rate needed:
+•
+Set up the following equation and solve for [take rate]:
+•
+7M passengers x [take rate] x $10/session = $9M
+•
+[Take rate] = 12.9% (A strong candidate will express a reaction to 
+this outcome and offer implications)
+Wait for the candidate to ask for 
+these data-points:
+• Capex = $250K per plane (airline 
+will cover 40% of it)
+• Margins = $10 per session
+Assumptions:
+• Seat occupancy rate* = 100%
+• All aircraft will be outfitted at the 
+same time*
+• Ad revenues already baked in to 
+the margin figures
+• 1 WiFi session covers entire flight
+*Advanced candidates will bring 
+these up on their own
+WiFi in the Sky: Question 2
+
+
+===== PDF p97 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+93
+Notes to Interviewer: 
+• Wide body = aircraft large enough to accommodate two passenger aisles
+• Narrow body = a single-aisle aircraft
+WiFi in the Sky: Interviewer Guide to Exhibit 2
+
+
+===== PDF p98 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+94
+Question #3: 
+Market research tells us that take rates are only between 5 and 10% today for paid connectivity, so your 
+client is concerned about being able to hit the break-even targets. What do you think are the key drivers of 
+IFC take rate?
+Notes to Interviewer: 
+•
+This is a correlation question, not a causation question. So the case is essentially asking: what variables 
+might be correlated with higher take rates?
+•
+Sample take rate drivers: 
+•
+Flight characteristics: flight length, flight time (red-eye vs daytime), other entertainment systems
+•
+Product characteristics: price, speeds available, quality of service, number of connected devices
+•
+Passenger characteristics: age, gender, income, cabin class, business/leisure
+•
+Push the candidate to brainstorm as many drivers as they can and to hypothesize which way the variable 
+would have to swing to drive higher take rate
+WiFi in the Sky: Question 3
+
+
+===== PDF p99 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+95
+Recommendation:
+•
+The airline should partner with a 
+wholesale, white-label vendor to 
+retain control over pricing and 
+the user experience
+•
+Roll-out across aircraft should 
+be gradual, with a potential pilot 
+program to optimize pricing, 
+user experience, etc.
+•
+Roll-out should prioritize newer 
+planes that cover routes with 
+high expected take rates
+Bonus: Guide to an excellent case
+•
+Recognize the tradeoffs around vendor selection (e.g., the vendor who agrees to your business model 
+may have inferior WiFi technology)
+•
+Consider user experience, technological limitations, implications of long contract renewal cycles, and 
+operational complexity of rolling out IFC
+•
+Incorporate knowledge of the airline industry such as load factor
+•
+Complete the break-even exercise quickly enough to get through all 4 case questions
+Risks:
+•
+Due to large upfront investment, 
+contract is likely to be 10+ years 
+long, so smart vendor selection 
+is very critical
+•
+Difficult to strike balance 
+between maximizing revenue 
+and maintaining sufficiently low 
+take rate to ensure higher 
+speeds
+•
+Technology is still nascent, 
+potential for poor user 
+experience
+Next Steps:
+•
+Vendor selection and 
+contract negotiation
+•
+Aircraft prioritization
+•
+Pilot launch
+WiFi in the Sky: Recommendation
+
+
+===== PDF p100 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+96
+Competitor 1
+Competitor 2
+Airline description
+Major domestic and 
+international carrier with 
+65% fleet IFC coverage
+Domestic discount carrier 
+with 90% fleet IFC 
+coverage
+IFC Branding
+Vendor-branded
+Airline-branded
+Pricing (for customers)
+Determined by vendor, 
+average $25/session
+Determined by airline, 
+Free
+Revenue model
+Revenue share
+Wholesale
+WiFi in the Sky: Exhibit 1
+Competitive Benchmarking
+
+
+===== PDF p101 =====
+© 2019 NYU | Stern MCA – All Rights Reserved 
+97
+Wide body
+Narrow body
+Fleet Size
+10
+80
+Seats per Aircraft
+300
+100
+Flights per Year
+2,500
+27,500
+Air Fleet Statistics
+WiFi in the Sky: Exhibit 2

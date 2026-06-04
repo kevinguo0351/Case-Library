@@ -1,0 +1,101 @@
+===== PDF p68 =====
+Casebook | 2019-20 Edition 
+64 
+ 
+2. Tiger (Bain Mock, Private Equity, M&A, Balanced) 
+Stem: Our client is a PE firm that is interested in potentially acquiring a company called Tiger. Tiger is a 
+fashion hair products company who has seen strong EBITDA growth for the past 5 years. Tiger’s internal 
+team anticipates strong topline growth for the next few years to come. Should our client purchase Tiger? 
+ 
+Candidate: Are there any secondary considerations that we should be taking into account when 
+determining whether our client should purchase Tiger? 
+ 
+Interviewer: Yes. The client is looking to minimize capital expenditures. 
+Phase 1: Framework 
+Candidate: Would you mind if I took a moment to structure my thoughts on the matter? 
+ 
+Interviewer: Not at all! Take your time. 
+ 
+The candidate should create a framework that includes specifics about the company’s financial and 
+operating performance, the overall market for fashion hair products, and overall risks of acquiring this 
+company. 
+ 
+Phase 2: Analysis 
+ 
+Candidate: I would like to start by looking at the company. Do we have any data on the company’s 
+EBITDA? 
+ 
+Interviewer: Yes, we do! 
+ 
+(Interviewer shows first graph) 
+ 
+EBITDA: 
+9% 
+10% 
+12% 
+14% 
+9% 
+ 
+ 
+ 
+ 
+Candidate: It seems as though the EBITDA has dropped off in 2010. I would love to dive in further to see 
+what the root cause of this decline was. 
+ 
+Interviewer: That sounds like a great idea. Let’s first examine the market though. 
+
+
+===== PDF p69 =====
+Casebook | 2019-20 Edition 
+65 
+ 
+ 
+ 
+ 
+Candidate: Interesting, so it seems that Salons, while historically the biggest distribution channel for hair 
+products, has plateaued over the last 5 years. If possible, I would like to examine some issues with the 
+decline in EBITDA margin and see how these distribution channels might be related. 
+ 
+Interviewer: That makes sense. 
+ 
+(Hand graph of distribution channels for Tiger as well as the cost breakdown) 
+(in M) 
+
+
+===== PDF p70 =====
+Casebook | 2019-20 Edition 
+66 
+ 
+ 
+ 
+ 
+ 
+ 
+Candidate: Wow. The price has a 33% haircut in Drug stores. I would like to run a breakeven analysis for 
+drug stores to see if this 10M unit increase in that channel has created the EBITDA decline for TIGER. 
+ 
+Price / bottle = $5.00 
+VC / bottle = $4.50 
+Contribution / bottle = $0.50 
+ 
+Quantity of bottles at Drug Stores = 10M 
+Contribution before Fixed Cost = $5M 
+Fixed Cost = 5M 
+Client is currently breaking even at Drug Stores 
+ 
+Interviewer: Very good. I think that might just be the root of the problem. What are some ways you can 
+think of to improve EBITDA? 
+ 
+Candidate should focus on revenue improvements and cost. An appropriate breakdown is as follows. 
+ 
+Revenue side: Enter grocery stores because it has 5% CAGR. Also add marketing to salons. Could also 
+raise prices in drug stores if low price sensitivity. 
+ 
+Cost side: Abandon Drug Stores. Could also cut Sales and marketing within drug stores to increase the 
+margin. Improve technology to optimize processes. 
+ 
+Phase 3: Recommendation 
+ 
+Do not buy the company, because the overall status of Tiger is negative. The Salon market is stagnant 
+and that has been the cause for most of the growth in EBITDA so far. Also, pursuing revenue options 
+such as entering grocery stores requires much capital expenditure, which our client is trying to avoid. 

@@ -1,0 +1,230 @@
+===== PDF p55 =====
+- 50 - 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 
+ 
+Our client, Dr. Rossman, has invented an amazing 
+product.  He has discovered the chemical formula for  
+Magic Eye Drops.  One drop in each eye will cure 
+short- or long-sightedness in any patient.  But Dr. 
+Rossman is a scientist, not a businessman, and he 
+has come to our firm because he wants to sell the 
+rights to his Magic Eye Drops to a business that will 
+commercialize the invention.  What should his asking 
+price be? 
+ 
+
+ Dr. Rossman has secured an exclusive, 
+worldwide patent for the next 20 years.  After the 
+patent expires, generic versions will quickly be 
+developed.  
+
+ Obstacles to regulatory approval are not 
+foreseen    
+
+ The Magic Eye Drops have no known side 
+effects or risks. 
+
+ Give the candidate bonus points for identifying 
+laser surgery as the closest competitor, but tell 
+him to focus only on corrective lenses (glasses 
+and contacts) as competitors for the purposes of 
+this case. 
+
+ Direct the candidate to focus only on the US 
+market. 
+ 
+Problem statement narrative 
+Guidance for interviewer and  
+information provided upon request  
+Difficulty: Easy   
+ 
+Industry: Pharma/Med.Devices  
+Type: Pricing/Valuation 
+
+
+===== PDF p56 =====
+- 51 - 
+An interviewer should allow the candidate to build a framework 
+Help candidate understand that this is a valuation problem.  The candidate will develop a 
+structure to estimate the NPV of future expected revenues and costs. 
+To develop revenue projections, the candidate will have to estimate the market size and the 
+optimal price.  An illustrative example of market sizing is given on slide 2 and an estimate of 
+revenue, including pricing, is given on slide 3. 
+ Make the candidate brainstorm cost drivers.  Once the candidate has listed cost drivers, provide 
+him with the figures listed on slide 4. 
+ 
+Solution Overview 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 
+
+
+===== PDF p57 =====
+- 52 - 
+Solution Guide: Market Sizing 
+Age Group 
+Pop. 
+Rate of Sight 
+Problems 
+Rate of Adoption 
+Market Size 
+0-15 
+50M 
+20% 
+10% 
+1M 
+16-30 
+50M 
+30% 
+50% 
+7.5M 
+31-40 
+50M 
+40% 
+50% 
+10M 
+41-60 
+50M 
+50% 
+50% 
+12.5M 
+61-75 
+50M 
+60% 
+40% 
+12M 
+75+ 
+50M 
+75% 
+20% 
+7.5M 
+Total = ~50M 
+Give candidate bonus points for thoughtful and creative explanations of the assumed rate of sight 
+problems and assumed rate of adoption within each segment (e.g., adoption among young and old 
+patients will be lower because parents will be unwilling to test out a new technology on young 
+children whose eyes are still changing and elderly patients with fewer years to live will realize 
+fewer years of savings from not having to purchase new corrective lenses). 
+Give candidate bonus points for recognizing that the market will grow over the course of the 20 
+year patent.  If the candidate raises this point, provide a projected annual growth rate of 3.5%.  By 
+the rule of 70, this  means that the market will double before the patent expires, resulting in a true 
+market estimate of 100M consumers. 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 
+
+
+===== PDF p58 =====
+- 53 - 
+Solution Guide: Pricing & Revenue 
+The candidate should weigh different pricing strategies: competitive, cost based and value based. 
+One pricing strategy is to use competitive pricing, using corrective lenses as the relevant 
+competition.  Based on personal experience, general knowledge or interviewer-provided 
+information, the candidate should assume an annual cost of corrective lenses at about $200. 
+Revenue over the life of the patent can be calculated as shown below: 
+ Market Size *  Annual Value of Magic Eye Drops * Patent Life= Total Revenue 
+~100M * $200 * 20 = $400B 
+ 
+    
+The candidate may suggest factors that alter the price point – such as convenience (suggesting a 
+higher price point) and riskiness (suggesting a lower price point).  The interviewer should accept 
+reasonable alterations.  
+The solution’s assumption of 20 years of revenue assumes that all customers will purchase as 
+soon as the product comes on the market.  The candidate may reasonably adjust the years of 
+revenue downward to account for some customers waiting several years before purchasing. 
+Make sure that the candidate understands that we will disregard discount rates for the 
+purposes of this case.  In other words, assume a discount rate of 0%. 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 
+
+
+===== PDF p59 =====
+- 54 - 
+Costs 
+Exhibit 1: Costs 
+Driver 
+Cost 
+ 
+Management/Overhead 
+ 
+Operating Costs 
+ 
+33% of operating costs  
+Marketing 
+$150M per year for first 10 years 
+$50M per year for last 10 years 
+Production 
+$20 per drop 
+Distribution 
+$100M per year 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 
+
+
+===== PDF p60 =====
+- 55 - 
+Driver 
+Cost 
+Math 
+Total 
+Management/ 
+Overhead 
+33% of operating costs 
+(i.e. 33% of Marketing 
++ Production+ 
+Distribution) 
+1/3 * 6B 
+2B 
+Marketing 
+$150M per year for 
+first 10 years 
+$50M per year for last 
+10 years 
+$100M * 20 yrs 
+2B 
+Production 
+$20 per drop 
+$20 * 2 eyes * 50M 
+customers 
+2B 
+Distribution 
+$100M per year 
+$100M * 20 yrs 
+2B 
+Total = 8B 
+Solution Guide: Costs 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 
+
+
+===== PDF p61 =====
+- 56 - 
+Dr. Rossman should put the invention up for 
+sale at ~ $392 B (400B Revenues-8 B in 
+Costs). Sales could however continue even 
+after expiry of the patent. 
+ 
+This solution has been simplified  by assuming 
+a discount rate of zero, because calculating the 
+NPV for this case  by hand would be overly 
+complicated. 
+ 
+ 
+ 
+ 
+Recommendation 
+Solicit buyers 
+Focus on strategic acquirers 
+Attempt to start a bidding war 
+Speak at conferences extolling the value 
+ 
+Next Steps 
+Conclusion 
+ 
+Dr. Rossman’s Magic Eye Drops 
+Bain, 1st Round 
+ 

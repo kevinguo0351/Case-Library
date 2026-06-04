@@ -1,0 +1,353 @@
+===== PDF p98 =====
+Case 8: Hamm’s University
+Higher Ed / Non-Profit| Profitability Improvement
+94
+
+
+===== PDF p99 =====
+Case 8: Hamm’s University
+Higher Ed / Non-Profit | Profitability Improvement
+Case Prompt
+Our client, Hamm’s University, is a mid-size not for profit private university in the Midwest of 
+the United States, well-known for its liquid gold colored sports uniforms. Over the last few 
+years, Hamm’s University has received less state and federal aid, leading to a negative net margin. 
+However, other Universities near us have overcome this issue and haven’t seen margin erosion. 
+The Board of Regents has engaged our firm to help the University strengthen its position.
+Information provided upon request:
+•
+Hamm’s University is located near a city with a population size of ~450,000 in a state with a 
+population of ~7M. A majority of students are from the same state or surrounding states
+•
+There are 2 other private universities and a large state school within an hour of Hamm’s
+•
+Hamm’s University has sports teams in the Division II league
+•
+There are several graduate schools, with programs for Medicine, Law, Dentistry, Business, 
+Psychology and Engineering
+•
+Psychology & Econ departments are highly ranked in faculty prowess & research
+•
+The Board wants to increase net income by 25M/year within 2 years (was -5M last year)
+Concepts Tested
+Financial Statement Analysis, Setting up calculations, Brainstorming
+95
+
+
+===== PDF p100 =====
+Case 8: Hamm’s University
+Higher Ed / Non-Profit| Profitability Improvement
+Case Guidance
+Case Guidance:
+Through exhibits 1 & 2, the interviewee should note that both private schools 1 and 2 are 
+relatively similar to our school, but private school 2 has a revenue structure that we can more 
+easily replicate. 
+Reason to not replicate private school 1: Endowment and gift campaigns are difficult to 
+replicate, especially given our lower starting endowment and less active alumni donor base. 
+Starting a campaign to make our alumni more active can be difficult to do and wouldn’t 
+necessarily have a high success factor.
+Reason to replicate private school 2: University grants for research are generally a function of 
+how successful that school is at research and how many faculty research staff and grant writing 
+staff they employ. Given the already prestigious nature of Hamm’s University psychology 
+department, Hamm’s university should look to increase grant revenue by hiring more staff. 
+96
+
+
+===== PDF p101 =====
+Framework
+A solid framework would include detail on the financials of the University and an examination 
+of the other universities in our area. Points to consider are included below.
+Case 8: Hamm’s University
+Higher Ed / Non-Profit| Profitability Improvement
+Costs
+•
+Instruction
+•
+Research
+•
+Operations (+ depr)
+•
+Scholarships
+•
+Administration
+•
+Materials + Supplies
+Revenue
+•
+Undergrad tuition 
+(including R&B),
+by students and tuition
+rates
+•
+Federal & State Aid
+•
+Grants & Contracts
+•
+Endowment Income
+•
+Athletics
+•
+Gifts (for immediate 
+use)
+Industry
+•
+Public
+•
+Private
+•
+Financial Statement 
+Analysis
+•
+Student body composition
+•
+Learn from how they 
+improved
+97
+
+
+===== PDF p102 =====
+Case 1: Hamm’s University
+Financial Services | Profitability Improvement
+Exhibit 1
+YOY Statement of Activities (2017 & 2018) and KPIs
+All $ in MM
+2018
+2017
+Total Revenue
+$545
+$580
+• Net Tuition (incl. Scholarships + Room and 
+Board)
+• Federal and State Aid
+• Grants and Contracts
+• Endowment Income
+• Athletics
+• Alumni Gifts
+404
+65
+30
+11
+21
+14
+350
+100
+80
+15
+20
+15
+Total Cost
+$550
+$530
+•
+Instruction
+•
+Research
+•
+Operations
+•
+Administration
+•
+Materials + Supplies
+222
+20.5
+97.5
+112
+98
+200
+20
+100
+110
+100
+Net Margin
+$ -5
+$ 50
+Selected KPIs
+•
+Undergraduate attendance
+•
+Graduate attendance
+•
+Faculty Researchers
+•
+Grants Awarded
+•
+Endowment Balance
+•
+Active Alumni Donors
+13,800
+2,150
+50
+85
+$195M
+20,000
+13,500
+2,200
+50
+84
+$200M
+20,00098
+
+
+===== PDF p103 =====
+Case 1: Hamm’s University
+Financial Services | Profitability Improvement
+Exhibit 2
+Schools Comparison (2018 Data)
+All $ in MM
+Public 1
+Private 1
+Private 2
+Total Revenue
+1,765
+580
+571
+• Net Tuition (incl. Scholarships + 
+Room and Board)
+• Federal and State Aid
+• Grants and Contracts
+• Endowment Income
+• Athletics
+• Alumni Gifts
+1,100
+200
+180
+90
+110
+85
+380
+60
+30
+60
+15
+35
+320
+55
+150
+20
+15
+11
+Total Cost
+1,685
+555
+536
+•
+Instruction
+•
+Research
+•
+Operations
+•
+Administration
+•
+Materials + Supplies
+640
+65
+311
+357
+312
+211
+22
+102
+118
+103
+204
+35
+92
+105
+99
+Net Margin
+80
+25
+35
+Selected KPIs
+•
+Undergraduate attendance
+•
+Graduate attendance
+•
+Faculty Researchers
+•
+Grants Awarded
+•
+Endowment Balance
+•
+Active Alumni Donors
+24,500
+8,000
+110
+195
+$3B
+100,000
+16,000
+0
+50
+85
+$1.1B
+35,000
+11,000
+2,000
+85
+145
+$300M
+18,000
+99
+
+
+===== PDF p104 =====
+Case 8: Hamm’s University
+Higher Ed / Non-Profit| Profitability Improvement
+Additional Math Problem
+Addt’l Problem / Math:
+The interviewee should note that research revenue is roughly $1M per grant awarded and grants 
+are awarded at a roughly 1.6 grants / researcher rate. Each researcher at Hamm’s costs roughly 
+$400,000, and there is also an additional 50,000 in administration costs / researcher. Tell them 
+to assume these are fixed numbers.
+“Assuming these numbers hold true and grants are awarded on average 1 year after 
+application, how many faculty researchers do we need to hire to achieve our goal?”
+25M NI Goal = (Researchers to Hire) * 1.6 * 1M – (Researcher to Hire) * 450K
+25M NI Goal = Researchers to Hire * 1.15M average Margin
+25 / 1.15 = ~22 more faculty researchers to achieve 25M NI Goal
+100
+
+
+===== PDF p105 =====
+Case 8: Hamm’s University
+Higher Ed / Non-Profit| Profitability Improvement
+101
+Recommendations
+Risks
+Next Steps
+Recommendation:
+Hamm’s University should hire at
+least
+22
+more
+researchers
+to
+increase it’s NI to make up for
+State and Federal Aid shortfalls
+Risks include:
+1.
+New researcher’s won’t be as 
+successful as historical
+2.
+Total grant market isn’t big 
+enough to support receiving 
+this much money
+3.
+Potential dilution of brand 
+image from hiring more 
+researchers
+Hamm’s University should:
+1.
+Potentially hire more than 22 
+researchers, explore space 
+constraints at University
+2.
+Market research on how big 
+total Psychology grant 
+market is and if we can 
+increase share in that market
+3.
+Begin setting up hiring team 
+to start identifying which 
+candidates to interview

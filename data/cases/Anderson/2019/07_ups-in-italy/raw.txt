@@ -1,0 +1,171 @@
+===== PDF p69 =====
+7 / UPS in Italy 
+Your client is a startup in a small village in Italy that provides the local delivery of packages sent to this village through UPS’s next-
+day-delivery service. The CEO of this firm has hired you to help them decide how many trucks to lease. There are different models
+available, but our client has been told that they will need to have a consistent fleet (they can only lease one model type) and so we will
+also need to identify what model they should lease.
+Let me provide a quick overview of how the company operates: (i) They receive every package at 5pm from UPS, (ii) a bunch of
+people then sort the packages and (iii) load them on a truck where they are stored overnight, and (iv) then deliver them starting at 9am
+for 10 hours. How would you suggest approaching the client’s problem?
+Overview for Interviewer
+Industry: Logistics
+Case Format: Operations
+Concepts Tested: Bottlenecks
+Notes
+• This case is interviewer guided/lead.
+• This case tests a candidate's ability to analyze how many packages must be delivered and to
+see if the bottleneck is the time or the truck size.
+• Not all information is provided up front to the candidate; he/she should be aware of this and
+must identify additional data that will allow him/her to solve the case.
+
+
+===== PDF p70 =====
+Core Case Question 1
+1 / Framework 
+How would you go about analyzing this problem? (This is the spot for the framework – a potential answer is below)
+Ideal 
+responses
+Interviewee: I’d like to understand a few things to evaluate this decision. First, I would like to start by analyzing the
+demand. I would like to know how many packages we have to deliver and how long, on average, it would take us to
+deliver a single package. Then, I would like to analyze the numbers in the context of the three truck models our client can
+lease.
+
+
+===== PDF p71 =====
+Core Case Question 2
+Given the following information, which truck option should the client select and how many trucks will you need to satisfy the
+demand?
+Notes to Interviewer
+Information to be given:
+• Packages delivered per day: 1,000
+• Dimension of package (envelope) is 1x1x1.
+• Operates five days a week.
+• It takes 8 minutes, on average, to deliver a single
+package and to be ready for the next one (“assume
+they deliver one every 8 minutes”).
+• Drivers, fuel, etc. are not considered and do not
+make a material difference to the analysis (for sake
+of simplicity).
+Least amount of trucks needed (based on 8 min delivery constraint) needed =
+Time to delivery all packages / time in the day
+(8mins * 1000 packages) / (10 hours * 60 mins) = 13.3 trucks
+When assessing each truck, we multiply 1,000 (total packages for all trucks)
+by 1*1*1 (average package size) and divide by the truck capacity to
+determine how many trucks we will need. Given the constraint on minimum
+number of trucks calculated above, calculate the cost per day based on the
+number of trucks required and cost per truck per day.
+Solutio
+n
+2 / Overview
+Truck
+Cost per 
+day
+Dimensions
+A
+$150
+3*4*5
+B
+$40
+9*2*1
+C
+$130
+6*8*10
+Truck
+Cost 
+per day
+Dimensions
+Demand 
+per day
+Capacity
+/ Truck
+Trucks/day 
+(rounded)
+Trucks 
+(min)
+Total cost 
+per day
+A
+$150
+3*4*5
+1,000
+60
+17
+17
+$2,550
+B
+$40
+9*2*1
+1,000
+18
+56
+56
+$2,240
+C
+$130
+6*8*10
+1,000
+480
+3
+14
+$1,820
+
+
+===== PDF p72 =====
+Core Case Question 3
+Question 
+3
+Ok, it seems a good idea. Let’s move on. Now imagine 6 months have passed and your recommendation was pretty successful.
+Now the CEO want us to investigate any potential risks that he/she should be assessing/considering.
+Notes to Interviewer
+Potential structure for analyzing risks
+Internal
+External
+• Need for extra drivers (e.g. people get sick) – do we 
+have enough employees
+• Unionized drivers may shift labor cost up in the future
+• Need to lease more trucks because trucks can break 
+down causing late delivery
+• Insurance costs
+• More fine tickets than forecasted because drivers want 
+to deliver on time
+• Only one supplier (UPS) – we are captive to UPS
+• Adoption of new technology (e-mail) might reduce the 
+need for sending packages
+• Government regulation
+• New competition in the city – there are no real barriers 
+to entry, since UPS would likely partner with any 
+carrier who can deliver on customer service metrics at 
+a cheaper cost
+• No association with our brand, this our supplier can 
+switch to our competitors or start its own operation
+
+
+===== PDF p73 =====
+Core Case Question 4
+4 / Another Scenario
+Let’s think of another scenario. Now we have to investigate sources for profit growth for this company with one restriction, we
+can neither add new truck leases nor change the existing ones. ( Push for out of the box solutions – no formal wrap up here)
+Notes to Interviewer
+Costs
+• Evaluate the route of each truck to reduce time or usage of fuel
+• Improve technology usage in the sorting and loading packages;
+may reduce number of people at the factory
+• Re-negotiate leasing terms for trucks
+• Move warehouse to a cheaper place
+Revenue
+• Extend hours: the trucks are already paid for the day, if we
+extend the delivery time after 7pm we can deliver more of UPS
+or from other companies, even local companies.
+• Different packages: we may recommend to UPS to sell different
+(more robust) packages to some clients and get part of it.
+• Pick packages: every time we leave a package we make space to
+pick a package and deliver it to another part of the village or to
+give it back to UPS to send it to another place
+• Get contract with a new operator: see whether we can deliver
+stuff to other company who is in the delivery business but does
+not compete directly with UPS. Thought we can not add new
+trucks we can think about utilization of current trucks
+• Advertisement: are the trucks painted with UPS logos? We can
+sell advertisement to them or to other companies. Those trucks
+are all day in the street.
+• Insurance: offer insurance of packages to clients.

@@ -1,0 +1,24 @@
+{
+  "case_id": "Kellogg_2016_05_portkey-inc",
+  "school": "Kellogg",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2016.pdf",
+  "idx": 5,
+  "case_name": "Portkey Inc.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Transportation",
+  "difficulty": null,
+  "pdf_page_start": 52,
+  "pdf_page_end": 55,
+  "n_pages": 4,
+  "exhibit_pdf_pages": [
+    53,
+    55
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p053.png",
+    "exhibits/exhibit_p055.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2016\\05_portkey-inc"
+}

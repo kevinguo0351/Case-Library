@@ -1,0 +1,30 @@
+{
+  "case_id": "Columbia_2021_30_alkaline-ash",
+  "school": "Columbia",
+  "year": "2021",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Columbia\\CBS_Case Book_2021.pdf",
+  "idx": 30,
+  "case_name": "Alkaline Ash",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Chemicals",
+  "difficulty": "Medium",
+  "pdf_page_start": 273,
+  "pdf_page_end": 279,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    274,
+    276,
+    277,
+    278,
+    279
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p274.png",
+    "exhibits/exhibit_p276.png",
+    "exhibits/exhibit_p277.png",
+    "exhibits/exhibit_p278.png",
+    "exhibits/exhibit_p279.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Columbia\\2021\\30_alkaline-ash"
+}

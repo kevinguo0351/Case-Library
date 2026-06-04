@@ -1,0 +1,185 @@
+===== PDF p119 =====
+21. Health care Acquisition (BCG) 
+Stem 
+Your client is a hospital company in a state that has a "Certificate of Need" program, or CON for 
+shmt. The client wants you to evaluate the significance of the CON program on its business, and 
+then to dete1111ine the price to pay for an acquisition target. 
+1st phase: Why do states enact CON programs? 
+Behind the scenes: This section requires the interviewee to brainst01111 about the sigiJ.ificance of 
+the CON program, and to think about the misalignment of incentives of payor/provider 
+relationships. It is helpful to understand the current issues in healthcare, but the interviewee 
+should be comfortable with exploring industty dynamics in general. 
+Interviewer: 36 states have implemented a CON program. This program requires that hospitals 
+gain a special "certificate" every time they want to invest or pw-chase more than $1 million 
+worth of equipment, such as MRI machines or new operating rooms. States limit the number of 
+certificates they issue annually. Why would states enact such a program? 
+Interviewee: Do states pay for healthcare costs? 
+Interviewer: Yes. Medicaid is a program to insure low income people, and it is funded and 
+operated at the state level. 
+Interviewee: Well, let's think about the relevant parties. There are patients, providers, and 
+payors. Patients have little say in their treattnent, and usually leave the decision-making up to 
+physicians, medical staff, and hospitals in general. 
+Physicians are usually reimbursed based on the number of procedures and tests, as well as the 
+complexity of conditions. Physicians incentives are to 1 - make sure that the cover their 
+liabilities in tetms of providing comprehensive care, and 2- depending on the situation, order 
+excessive procedures and tests that result in higher reimbursement. Thus, physicians are incented 
+to bill excessive number of procedures. 
+Finally, payors like Medicaid do care about deliveting quality outcomes, but they want to limit 
+their costs in doing so. Thus, there is a misalignment of incentives between providers, and payors 
+in tetms of costs serving patients. The CON program is designed to manage this misalignment 
+of incentives by capping expenditures by hospitals. 
+Interviewer: And how do non-goverrnnent agencies, such as private insurers, fit into this 
+equation? 
+Interviewee: Private insurers have the same dilemma as the state, but they do not have an ability 
+to directly regulate providers. Insurers will take steps to manage reimbursement processes and 
+otherwise incent doctors to manage costs while still delivering quality outcomes. 
+2008-2009 Case Book 
+112 
+
+
+===== PDF p120 =====
+2"d phase: Exploring an Acquisition 
+Behind the scenes: This phase is a traditional quantitative analysis component of a case, as well 
+as an understanding of company valuations. 
+Interviewer: The client wants to expand, and because of the CON program, they can only 
+expand via acquisition. They have identified a small, local hospital that has 4 standcalone 
+operating rooms. How might they value such as acquisition? 
+Interviewee: [May offer different appi'oaches, but these should include a multiples-and-comps 
+method]. Companies are often valued based on a multiple of eamings, and the multiple usually is 
+based on the market values of comparable companies (comps). 
+Interviewer: Here is some data about the acquisition target company's mix of services. 
+CmTently, the target hospital only conducts low acuity procedures, which are very basic 
+procedures, and they only accept cash payments from customers. 
+Contribution Margin ($M) 
+Client 
+Acuity: 
+Cash 
+Medicaid 
+HMO 
+Target Hospital 
+Hospital 
+High Acuity (Heart Transplants) 
+14 
+8 
+6 
+0 
+Moderate Acuity (Appendix removal) 
+10 
+5 
+3 
+0 
+Low Acuity (Biopsies) 
+5 
+4 
+2 
+100% 
+EBITDA / CM= 0.4 (Client Hospital) 
+Give additional data as 1t is asked for: 
+e 
+Contribution margin is similar to gross margin, but it is shown here on a per-operating 
+room basis 
+e 
+The hospital's patients are split 50/50 between Medicaid and HMO, and will be the same 
+if they acquire the company 
+• 
+The client will be able to utilize the operating rooms at their cuJTent mix of se1vices 
+(50%, 20%, 30%) 
+• 
+The operating rooms are at 100% utilization, and will continue to be so if acquimd 
+• 
+The EBITDA/CM ratio given takes into account all possible synergies 
+• 
+We don't have EBITDA/CM infonnation for the target hospital, but it is likely lower than 
+our client's ratio. 
+• 
+There are no additional costs for integration, etc 
+Possible Answers: Well, the target company's current contribution margin is simply $5M per 
+room. However, if the client acquires and integrates them, then their contribution margin per 
+room would become: 
+50%* ((8 + 6) I 2)+ 20% * ( (5 + 3) /2)+ 30% * ( (4 + 2) /2) = 
+SO% 
+20% 
+'30% 
+
+
+===== PDF p121 =====
+-< 
+50%* 7 + 20% * 4 + 30% * 3 = 3.5 + 0.8 + 0.9 = 5 
+Thus, the contribution margin of these operating does not change under the ownership structure. 
+However, given that our client has a larger EBITDA/CM ratio, the hospital rooms will yield a 
+higher EBITDA once integrated relative to its stand-alone status. 
+Interviewer: And how much is this in tenus ofEBITDA? 
+Interviewee: Well, we know that the ratio ofEBITDA I CM = 0.4, and there are also 4 operating 
+rooms, thus 
+EBITDA = CM * 0.4 * 4 rooms= 5 * 0.4 * 4 = $8M 
+3rd phase: <description, note that you can have more than 3 phases> 
+Behind the scenes: This section is geared towards interpreting charis and data. There is a lot of 
+leeway in terms of how the interviewee can interpret the data. 
+Interviewer: Here is some data about acquisitions in this space. Based on this information, what 
+multiple ofEBITDA would you pick? 
+70% 
+60% 
+50% 
+40% 
+30% 
+20% 
+10% 
+0% 
+l_ 
+·----------, 
+EBITDA Multiples for Recent: 
+Hospital Acquisitions 
+64%66% 
+23% 
+2.5-Sx 
+5.1-6.9x 
+7x or more 
+,,j 2005 
+.:12006 
+2oo7 1 
+EBITDA Multiples of Publicly Traded Hospitals over last 12 months 
+Low 
+High 
+Last 
+Company A 
+6.9 
+7.4 
+6.9 
+Company B 
+10.8 
+11.4 
+11.2 
+Company c 
+8.2 
+9.5 
+9.1 
+Company o 
+5.9 
+8.2 
+6.7 
+2008-2009 Case Book 
+1 1 A 
+
+
+===== PDF p122 =====
+--------· ------ ----
+Premium Paid to Acquire 
+Hospitals in CON States 
+Possible Answer: From the first chart, we see that the EBITDA multiples have been going up 
+over the last three years. From the last chart, we see that the CON pro gram limits the supply of 
+hospital acquisition targets, and this causes buyers to pay higher prices. The middle exhibit gives 
+a reference to comps for publicly traded companies. However, I think that the fu·st and third 
+exhibits are most relevant for our analysis. 
+Based on these charts, I might pick a relatively high multiple, perhaps 7. 
+Interviewer: So what price should they offer? 
+Intel"l'iewee: The price would be the EBITDA times the multiple, or 
+$8M * 7 =$56M 
+Interviewer: Is there anything else that the client should consider in acquiring the target? 
+Possible Answers: 
+o 
+Integration risks (mix of acuities, mix ofpayors, physicians) 
+0 
+Find maximum piice to pay for acquisition (BATNA) 
+Wrap-Up 
+Interviewer: So what would you tell the client? 
+Interviewee: [Provides a concise and well-structured answer! ... ] 

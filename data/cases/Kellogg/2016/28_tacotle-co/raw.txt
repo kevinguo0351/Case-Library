@@ -1,0 +1,477 @@
+===== PDF p203 =====
+199
+Tacotle Co.
+Case Question
+Your client is Tacotle Co., a leading national fast casual restaurant with $420M in revenue in 2014.  Over the five years 
+proceeding 2014, Tacotle has experienced steady revenue growth and industry leading profitability.  For the first time in its 15
+year history, Tacotle has experienced three straight quarters of EBITDA erosion.  Tacotle’s CEO has hired you to explore 
+what is causing profits to drop and what can be done to reverse the tide.
+Clarifying answers to provide
+A model framework should include the following
+Declining
+EBITDA
+Market 
+Conditions
+Tacotle
+Operations
+Shrinking 
+market?
+Customer 
+preferences?
+Revenue?
+Volume?
+Costs?
+Fixed
+Candidate reflections / initial hypothesis should include
+-
+This case is designed to be interviewee led
+-
+Case Goal: Profitability (no specific milestones, looking 
+for positive annual profit growth in the short term)
+-
+If asked about market conditions, defer until after the 
+framework presentation
+-
+Ensure interviewee understands what EBITDA is
+After framework review, Candidate should:
+-
+Understand that the problem could originate from 
+market conditions or company operations
+-
+Discuss the basis profitability framework with some 
+focus on anticipated fixed and variable cost drivers for 
+Tacotle
+Increased 
+competition?
+Variable
+-MKTG, 
+Labor, PP&E, SG&A
+-COGS
+-Distribution
+Price?
+Change in 
+Product Mix?
+By: Ryan Sullivan (Kellogg ’16)
+Quant: 6
+Structure: 5 
+Industry: Restaurant
+Framework: Profitability
+
+
+===== PDF p204 =====
+200
+Guide to Interviewer
+Situation
+This information is provided for interviewer use only to help guide this interviewee-led case interview.
+• Tacotle is an industry leading national fast casual restaurant that specializes in selling tacos and 
+burritos
+• At the end of 2013 Tacotle implemented a new menu after analysing the results from a customer 
+satisfaction survey (Exhibits D and E)
+• This menu change increased the selection of toppings and level of customization available to 
+customers and improved the quality of all toppings
+• The following were the effects on Tacotle following the implementation the menu changes:
+• Tacotle raised prices anticipating the increased costs (COGS) associated with the menu 
+change
+• The increased prices led to an immediate spike in revenue for 1Q14 (Exhibits A and B)
+• COGS nearly doubled, though, leading to an EBITDA margin decrease (Exhibit A and C)
+• Customer satisfaction decreased overall driven by increased wait times and decreased 
+menu item consistency (Exhibit E) 
+• Although there was an initial spike in revenue, EBITDA remained flat due to the offset of 
+decreased EBITDA margin (Exhibit A)
+• This spike was driven solely by the price increase (Calculation Section)
+• Total units sold actually decreased (Calculation Section)
+• Over the last three quarters of 2014, revenue and  EBITDA both decreased as number of 
+units sold decreased driven primarily by customer dissatisfaction (Exhibit A)
+
+
+===== PDF p205 =====
+201
+Market Conditions
+If asked about any changes in the 
+competitive nature of the market:
+•
+No major competitors have entered or 
+exited
+•
+No new substitutes introduced
+•
+Tacotle currently has a 30% market 
+share (by revenue) which it has 
+maintained
+Competition
+Candidate insights – Competition
+If asked about the market’s growth and 
+maturity:
+•
+Market is growing at the same rate as 
+GDP
+•
+Mature market
+Market Growth and Maturity
+The profitability issue is not one that is 
+market wide.  The problem seems to be 
+specific to Tacotle
+Candidate insights – Growth and Maturity
+When asked about customers:
+•
+Customers are beginning to stress the 
+importance of ingredient quality and 
+order customization
+Customer Preferences
+Candidate insights – Customer
+The change in customer preferences 
+doesn’t seem like it is directly driving 
+decreased profits but it may have 
+influenced decisions made within Tacotle
+There are no major competition related 
+factors that are driving the decreased 
+profitability. The issue is most likely 
+related to a change within Tacotle
+Summary - Market Conditions
+•
+The interviewee should at some point want to discuss the market to verify that the decreased profits aren’t due to conditions affecting all 
+companies in the market.  After a quick conversation regarding the market, the interviewee should look at operations within Tacotle.
+
+
+===== PDF p206 =====
+202
+Profitability and Revenue
+Profitability
+Candidate insights – Profitability
+•
+Once interviewee has hypothesized potential drivers of 
+increased revenue, provide Exhibit B
+•
+After interviewee has stated that price increased, 
+interviewee should recognize that a change in price could 
+lead to a change in quantity. Interviewee should ask “How 
+did quantity of units sold change in 2014?” – provide 
+Exhibit C
+(See next page for quantitative solution)
+Revenue/Quantitative Proof
+Exhibit B
+•
+A good interviewee will quickly identify that Tacotle 
+increased the average price of their orders.
+•
+It should initially be ambiguous whether units sold 
+increased or decreased. A good interviewee will not rush to 
+a conclusion
+Exhibit C
+•
+Interviewee should evaluate the entire slide then attempt to 
+answer the question posed regarding units sold in 2014
+•
+Interviewee should refer back to the exhibit and notice that 
+COGS nearly doubled from 2013 to 2014
+Candidate insights – Revenue
+•
+Spike in revenue in Q1 ’14 with relatively flat EBITDA and 
+large decrease in EBITDA %. Followed by steady revenue 
+decline
+•
+Good response will hypothesize what could cause this, with 
+the conclusion that either prices and/or purchases 
+increased with costs increasing more than the additional 
+revenue
+•
+A good interviewee will take a deep dive into the profitability 
+framework looking to determine why:
+1) Revenue spiked then declined over the following quarters
+2) Profitability (EBITDA) did not follow revenue
+•
+Provide Exhibit A once the interviewee requests 
+information regarding Tacotle revenue or profitability
+•
+Ensure that the interviewee is clear what EBITDA is
+•
+What are potential drivers of:
+• Revenue spike? (Increase in price or units sold)
+• EBITDA erosion? (Increase in cost, decrease in rev.)
+• EBITDA % decline? (Decrease in margin)
+
+
+===== PDF p207 =====
+203
+Revenue Calculation
+How did total number of orders sold change from 2013 to 2014?
+Units sold in 2013:
+Units sold = Revenue / (Avg. price per unit)
+2013 Revenue = $377M (Round to 380M) (From Ex. C)
+2013 Avg. price per unit = $4.05 (Round to $4) (From Ex. B)
+Units sold = $380M / $4 = 95 M units sold
+Units sold in 2014:
+Units sold = Revenue / (Avg. price per unit)
+2013 Revenue = $420M (From Ex. C)
+2013 Avg. price per unit = $5.25 (Don’t round) (From Ex. B)
+Units sold = $420M / $5.25 = 80 M units sold
+Conclusion:
+1) Although revenue increased sharply, the total number of orders decreased.
+2) As revenue continued to decline over the last three quarters of 2014, prices remained the same. Therefore, a decrease in the quantity sold is
+responsible for the eroding revenues and EBITDA
+A good interviewee should have follow up questions to the above conclusions:
+•
+Why did Tacotle increase prices?
+•
+Why did units sold continue to decrease throughout 2014?
+***Provide the interviewee with Exhibit D***
+
+
+===== PDF p208 =====
+204
+Costs and Operations
+Costs
+Candidate insights – Costs
+Ensure that before moving into “operations” the interviewee 
+has analysed Exhibits A,B and C and has received Exhibit 
+D.
+Interviewee should provide hypothesises for all observations 
+discussed in both exhibits
+Operations (Exhibit D)
+•
+Graph illustrates Tacotle’s performance against customer 
+preferences
+•
+Tacotle lags with regards to quality but is on par or 
+exceeding expectations for all other categories
+•
+Interviewee should conclude that Tacotle did something 
+that was aimed to increase quality which most likely caused 
+COGS and revenue to increase
+Candidate insights – Operations (Exhibit D)
+•
+A good interviewee will be creative and will be able to list at 
+least 5 industry specific cost drivers broken down by fixed 
+and variable costs
+•
+Interviewee should conclude that COGS (in the fast casual 
+industry) is mainly comprised of ingredients
+Exhibit C
+•
+COGS nearly doubled
+•
+All other costs flat
+•
+COGS increase is the root cause of EBITDA erosion
+•
+Why did COGS increase?
+Ask the interviewee to list cost drivers specific to the industry
+If the interviewee does not refer back to Exhibit C, guide 
+him/her to revisit the Income Statement for a breakdown of 
+costs
+After interviewee has speculated on potential operational 
+changes Tacotle could have implemented, inform them that 
+Tacotle introduced a new menu focused on allowing the 
+consumer to customize their orders more and higher quality 
+and selection of ingredients
+*** Provide Exhibit E***
+Additional Information
+
+
+===== PDF p209 =====
+205
+Operations
+Operations (Exhibit E)
+Candidate insights – Operations (Exhibit E)
+•
+Interviewee should recognize that Exhibit E is the same survey as Exhibit D but for the next year (post menu upgrade)
+•
+Interviewee should also recognize that the order of attributes has changed
+•
+“Speed of Service” is now Tacotle’s weakest attribute
+•
+This is due to the new menu which added complexity to food preparation
+•
+“Consistency of Service” has also dropped below customer expectations due to the added complexity of food preparation
+•
+Although Tacotle has met expectations with regard to “Quality”, the decline of ratings in “Speed of Service” and “Consistency of Service” have 
+more than cancelled it out, resulting in a net decrease in customer satisfaction
+•
+The menu change was not effective
+•
+Once presented with Exhibit E interviewee should review and elaborate on the differences between Exhibits E and D
+•
+If asked for, the average time to serve a customer increased from ~1 minute to ~3.5 minutes.
+
+
+===== PDF p210 =====
+206
+Suggested conclusion
+Conclusion
+Risks
+Next steps
+Recommendation: Scale back the menu changes that were implemented during 2014.
+Reasons:
+1) The menu change led to a significant increase in COGS which decreased EBITDA %
+2) The menu change led to overall customer dissatisfaction, degrading brand equity
+3) The customer dissatisfaction lead to decreasing unit sales (quarter over quarter) which is driving the EBITDA erosion
+•
+Scaling back the menu too much could lead to decrease in customer satisfaction for “Quality”
+•
+Implementing a scale back could disrupt relationships with suppliers and could require divesting assets that were 
+purchased for the initial menu change at a loss
+•
+A scale back that does not focus on margin improvement could lead to smaller revenues and profits, effectively 
+downsizing the company.
+•
+Perform more detailed and focused customer surveys to gage what Tacotle customers expect from the chain
+•
+Perform a scale back on the menu size that focuses on cost cutting balanced with customer needs
+•
+Follow-on menu changes should be implemented on a smaller/trial basis at a small number of individual restaurants
+
+
+===== PDF p211 =====
+207
+Exhibit A
+$0
+$20
+$40
+$60
+$80
+$100
+$120
+$140
+Q1 2012
+Q2 2012
+Q3 2012
+Q4 2012
+Q1 2013
+Q2 2013
+Q3 2013
+Q4 2013
+Q1 2014
+Q2 2014
+Q3 2014
+Q4 2014
+Millions
+Revenue
+EBITDA
+Tacotle Co. quarterly revenue and EBITDA
+EBITDA
+%
+44%
+45%
+44%
+46%
+45%
+45%
+44%
+46%
+39%
+40%
+39%
+40%  
+
+
+===== PDF p212 =====
+208
+Exhibit B
+$3.00
+$3.50
+$4.00
+$4.50
+$5.00
+$5.50
+Avg. revenue per order
+Tacotle Co. avg. revenue per order
+
+
+===== PDF p213 =====
+209
+Exhibit C
+2012
+2013
+2014
+Revenue ($M)
+$364.0
+$377.0
+$420.0
+Expenses ($M)
+     COGS
+$51.0
+$54.0
+$96.0
+     Wages
+$96.0
+$99.0
+$101.0
+     Corp SG&A
+$11.0
+$10.0
+$10.0
+     Fixed Overhead
+$43.0
+$44.0
+$44.0
+EBITDA ($M)
+$163.0
+$170.0
+$169.0
+Tacotle Co. income statement
+
+
+===== PDF p214 =====
+Exhibit D
+4.8
+4.7
+4.5
+4.5
+3.4
+3.3
+3.1
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Quality
+Speed of Service
+Consistency of
+Product
+Has a drive
+through
+Restaurant
+Cleanliness
+Friendliness of
+Staff
+Ample Seating
+Importance
+Performance
+Results of 2013 Tacotle Co. customer survey
+On a scale of 0-5, how important are the following characteristics when dining at fast casual restaurants?
+On a scale of 0-5, how well does Tacotle Co. perform against the following characteristics?
+
+
+===== PDF p215 =====
+Exhibit E
+4.8
+4.7
+4.6
+4.5
+3.5
+3.4
+3.1
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+Speed of Service
+Quality
+Has a drive
+through
+Consistency of
+product
+Restaurant
+Cleanliness
+Friendliness of
+Staff
+Ample Seating
+Importance
+Performance
+Results of 2014 Tacotle Co. customer survey
+On a scale of 0-5, how important are the following characteristics when dining at fast casual restaurants?
+On a scale of 0-5, how well does Tacotle Co. perform against the following characteristics?

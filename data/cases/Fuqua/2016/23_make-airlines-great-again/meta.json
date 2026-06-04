@@ -1,0 +1,38 @@
+{
+  "case_id": "Fuqua_2016_23_make-airlines-great-again",
+  "school": "Fuqua",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2016.pdf",
+  "idx": 23,
+  "case_name": "Make Airlines Great Again",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Transportation/Leisure",
+  "difficulty": "Difficult",
+  "pdf_page_start": 248,
+  "pdf_page_end": 260,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p251.png",
+    "exhibits/exhibit_p252.png",
+    "exhibits/exhibit_p253.png",
+    "exhibits/exhibit_p254.png",
+    "exhibits/exhibit_p255.png",
+    "exhibits/exhibit_p256.png",
+    "exhibits/exhibit_p257.png",
+    "exhibits/exhibit_p258.png",
+    "exhibits/exhibit_p259.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2016\\23_make-airlines-great-again"
+}

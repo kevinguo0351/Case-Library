@@ -1,0 +1,345 @@
+===== PDF p131 =====
+Case 10: LabCo 
+•
+Type: Growth 
+•
+Difficulty: Hard 
+•
+Industry: Private Equity 
+•
+Firm Format: Bain & Co 
+ 
+
+
+===== PDF p132 =====
+128 
+LabCo 
+RCC Original 
+Information Provided Upon Request 
+Our client is a private equity firm interested in 
+acquiring LabCo, a company that manufacturers 
+specialty epoxy countertops for use in 
+laboratories. 
+ 
+Our PE client expects the overall laboratory 
+countertop market to grow at 10% per year and 
+would like you to assess the threat of material 
+substitutes stealing market share. 
+ 
+ 
+Problem Statement 
+Client: 
+• This PE firm invests in a variety of 
+construction materials but no synergies 
+exist between LabCo and other portfolio 
+companies 
+• The PE firm is look to hold the company 5 
+years 
+LabCo: 
+• LabCo manufacturers only epoxy 
+countertops.  Other materials include 
+phenolic, laminate, and ceramic 
+• LabCo is currently the only manufacturer 
+of epoxy countertops 
+• LabCo has a manufacturing facility in the 
+US and current sells in North America and 
+China (focus for this case) 
+Difficulty: Hard 
+Industry: Private Equity 
+Type: Growth 
+
+
+===== PDF p133 =====
+129 
+Exhibit 1 
+Lab Countertop Material Market Share  
+0%
+20%
+40%
+60%
+80%
+100%
+US
+China
+Ceramic
+Laminate
+Phenolic
+Epoxy
+2M ft2  
+0.5M ft2 
+
+
+===== PDF p134 =====
+130 
+0
+1
+2
+3
+4
+5
+Chemical
+Resistance
+Heat
+Resistance
+Hardness
+Cost
+Design
+Features
+Importance
+Epoxy
+Phenolic
+Ceramic
+Laminate
+Exhibit 2 
+Material Attributes 
+Attribute Importance 
+
+
+===== PDF p135 =====
+131 
+Exhibit 3 
+Customer Feedback 
+Customer Survey (n=120) 
+“In general, what is the best 
+laboratory countertop material?” 
+0%
+20%
+40%
+60%
+80%
+100%
+>50%
+30-50%
+10-30%
+<10%
+Customer Survey (n=120) 
+“At what price discount would you 
+choose to use phenolic instead of epoxy” 
+0%
+20%
+40%
+60%
+80%
+100%
+Laminate
+Ceramic
+Phenolic
+Epoxy
+
+
+===== PDF p136 =====
+132 
+US Price 
+($) 
+China Price 
+(¥) 
+Epoxy 
+15 
+120 
+Phenolic 
+12 
+70 
+Ceramic 
+21 
+240 
+Laminate 
+7.5 
+48 
+Exhibit 4 
+Material Pricing 
+Note: 6:1 ¥:$ conversion rate 
+
+
+===== PDF p137 =====
+133 
+Note: All epoxy is currently manufactured in the US at a single facility 
+$15 
+$20 
+27% 
+20% 
+7% 
+30% 
+7% 
+5% 
+27% 
+20% 
+33% 
+25% 
+0%
+20%
+40%
+60%
+80%
+100%
+US
+China
+Profit
+Labor
+SG&A
+Shipping
+Materials
+Exhibit 5 
+LabCo Epoxy Cost Structure 
+
+
+===== PDF p138 =====
+134 
+Model answer and interview guidance 
+High level model answer 
+1. Identify current market position (Exhibit1)  
+–
+Recognize significant differences between US and China markets 
+–
+Market share difference may be caused by different use requirements, 
+pricing differences, customer preferences… 
+Additional guidance 
+1. Current market position 
+–
+Market size numbers are annual 
+sales for all laboratory countertops 
+–
+Market has been stable for several 
+years and is not expected to grow 
+ 
+2. Customer preferences (Exhibit 2 and Exhibit 3) 
+– Identify Epoxy as a strong performer across most customer preferences.  
+– Identify that Epoxy and Phenolic are closest in material attributes, 
+Phenolic poses the greatest threat of material substitute 
+– Recognize that although most customers identify epoxy as the best 
+material, it does not have full market penetration, meaning customers are 
+making price-performance trade-offs. 
+ 
+2. Customer preferences 
+– Customers are building contractors 
+for high schools, universities, and 
+industrial labs 
+ 
+
+
+===== PDF p139 =====
+135 
+Model answer and interview guidance 
+High level model answer 
+3. Pricing (Exhibit 4 and Exhibit 5) 
+– Calculate price ratio between epoxy and phenolic, recognize US 
+customers are unlikely to select phenolic while Chinese customers are 
+very likely to choose phenolic based on Exhibit 3. (see math solution) 
+– High shipping costs result increasing epoxy cost in China. 
+– All other manufacturing costs are the same – all product is manufactured 
+in a single factory 
+– Opportunities  exist to reduce cost for the Chinese market by 
+manufacturing in China 
+– Estimate share gain made possible by cost reduction, Exhibit 1 can be 
+used as a reference 
+– An excellent  final recommendation should focus on the whether the PE 
+firm should invest or not.  LabCo is the acquisition target, not the client. 
+Additional guidance 
+3. Pricing 
+– Company requires $5/sq. ft. profit 
+– LabCo has investigated moving 
+manufacturing operations to China 
+and would expect to see a 25% 
+decrease in labor cost. 
+– A new facility in China would cost 
+$15M 
+– Local shipping costs for product 
+made in China is $1/sq. ft. 
+– Assume a discount rate of 10% and 
+value as a perpetuity 
+ 
+
+
+===== PDF p140 =====
+136 
+Solution 
+Made 
+Sold 
+US 
+US 
+US 
+China 
+China 
+China 
+China 
+US 
+Profit 
+$5 
+$5 
+$5 
+$5 
+Labor 
+$4 
+$4 
+$3 
+$3 
+SG&A 
+$1 
+$1 
+$1 
+$1 
+Shipping 
+$1 
+$6 
+$1 
+$6 
+Material 
+$4 
+$4 
+$4 
+$4 
+Local Price 
+$15 
+120¥ 
+$14*6=84¥ 
+$19 
+Phenolic Price 
+Discount vs Epoxy 
+(15-12)/15 = 
+- 20% 
+(120-70)/120  =  
+- 40% 
+(84-70)/84= 
+ - 16% 
+No need to 
+calculate 
+[Increase in Chinese market share] x [total market size (sq ft)] x [profit/sq ft] = annual return 
+[45%-5%]   x  [0.5M]  x  [$5]  =  $1M per year 
+$15M investment, $1M per year / 10% discount rate = $10M – DO NOT INVEST 
+
+
+===== PDF p141 =====
+137 
+Conclusion 
+Next Steps 
+Recommendation 
+Recommendation 
+– Proceed with the acquisition of LabCo if 
+market growth of 10% is sufficient to justify 
+investment 
+– Epoxy relative secure in US market with 
+strong material performance and customer 
+perception 
+– Limited opportunity exists to grow revenue 
+in China by reducing cost through local 
+manufacturing 
+Risk 
+– Phenolic manufacturers could reduce 
+manufacturing costs, creating a wider price 
+gap, causing customers to select over 
+epoxy 
+ 
+Investigate Phenolic cost structure to assess 
+threat of future price reductions 
+Investigate epoxy growth potential in other 
+markets 
+Look for cost reduction opportunities in epoxy 
+manufacturing process 
+Investigate adjacencies in other laboratory 
+surfaces where epoxy could be used 
+(shelving, cabinets, desks, etc.) 
+Further due diligence on management team, 
+organizational structure 
+Investigate cross selling opportunities with 
+other portfolio companies 
+ 
+ 

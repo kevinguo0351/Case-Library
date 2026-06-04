@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2014_25_salty-sole-shoe-co",
+  "school": "Kellogg",
+  "year": "2014",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2014.pdf",
+  "idx": 25,
+  "case_name": "Salty Sole Shoe Co.",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Retail",
+  "difficulty": null,
+  "pdf_page_start": 176,
+  "pdf_page_end": 182,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    177,
+    178,
+    179,
+    181,
+    182
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p177.png",
+    "exhibits/exhibit_p178.png",
+    "exhibits/exhibit_p179.png",
+    "exhibits/exhibit_p181.png",
+    "exhibits/exhibit_p182.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2014\\25_salty-sole-shoe-co"
+}

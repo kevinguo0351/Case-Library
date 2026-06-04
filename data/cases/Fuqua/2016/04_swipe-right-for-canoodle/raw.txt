@@ -1,0 +1,189 @@
+===== PDF p49 =====
+Swipe Right for Canoodle
+45
+Industry: 
+Technology
+Quantitative Level: Easy
+Qualitative Level: Medium
+
+
+===== PDF p50 =====
+Behavioral Questions
+46
+• What is your biggest weakness?
+Question 1:
+• Describe a time when you created personal impact
+Question 2:
+
+
+===== PDF p51 =====
+Swipe Right for Canoodle
+47
+• Your client is Canoodle, a revolutionary mobile dating service which utilizes swipe 
+technology allowing users to easily select mates based on their online profiles. 
+Canoodle was started 2 years ago and now operates  across the United States. 
+Despite its success and mass popularity, Canoodle has remained unprofitable, and 
+investors are starting to put pressure on the CEO, Stevie McDreamy, to turn the 
+business around. McDreamy has come to you to help out Canoodle. What should 
+they do? 
+Prompt #1:
+• Canoodle only operates within the United States with ambitions to expand internationally
+• The app is free to download off all mobile application stores. Canoodle’s main source of 
+revenue so far has been through ad sales
+• The company must show a profit within 2 years
+• Canoodle is already an LGBT friendly dating app and caters to the sexual orientation of all 
+its users
+• The market for dating applications consists of ~4 major national competitors. Most users 
+typically have 1-3 dating apps, and all 4 competitors have roughly the same number of 
+users within the United States
+• Canoodle does not consider traditional online dating websites in the same market
+Interviewer Guidance:
+
+
+===== PDF p52 =====
+Exhibit #1: Canoodle’s Previous Performance
+48
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1,000
+1,100
+1,200
+1,300
+1,400
+1,500
+3QFY2014
+4QFY2014
+1QFY2015
+2QFY2015
+3QFY2015
+4QFY2015
+1QFY2014
+2QFY2014
+Revenue ($ 000’s)
+User Base (000’s)
+Total Expenses ($ 000’s)
+
+
+===== PDF p53 =====
+Exhibit #1: Explanation
+49
+• Interviewee should pick up on the fact that revenues have fallen with the 
+slower growth in the user base. Additionally, costs have stabilized. This is a 
+Revenue problem
+• Ask Candidate to brainstorm sources of revenue:
+– Selling user demographic data (risk of potential privacy issues)
+– Selling outside services (i.e. emojis/stickers)
+– Selling a premium upgrade to its users
+– Charging on the application store
+Interviewer Guidance:
+
+
+===== PDF p54 =====
+Swipe Right for Canoodle
+50
+• Upon hearing your suggestions, McDreamy is inclined to pursue a 
+“premium” service for consumers to use. The development teams 
+estimates costs at $500,000 and would take 6 months to develop. 
+What factors should McDreamy consider before committing to the 
+investment? 
+Prompt #2:
+• Candidate should pick up on difficulties entering new market:
+– Price
+– Market size
+– Adoption rate
+– Marketing
+• Bonus points if they pick up on the following:
+– Customer churn/impacts on current customer base
+– Transaction costs
+– Implementation timeline and competitive response
+Interviewer Guidance:
+
+
+===== PDF p55 =====
+Swipe Right for Canoodle
+51
+• Due to staff and server capacity issues, McDreamy has decided that 
+he would like to launch in just one city this year before rolling out 
+nationwide. Which city would be the best for CanoodlePremium to 
+launch in? 
+Prompt #3:
+• Provide candidate with exhibit. If the candidate asks, the price for the premium 
+service per month is $3. Candidate should know to ask what the price per month 
+would be. 
+• McDreamy wants the initiative to breakeven within 6 months of launching
+Interviewer Guidance:
+
+
+===== PDF p56 =====
+Exhibit #2: Projected performance of CanoodlePremium
+52
+City
+User base (thousands of users)
+Adoption rate
+New York
+300
+9%
+Los Angeles
+350
+8%
+Chicago 
+200
+10%
+Houston
+175
+9%
+Washington 
+D.C.
+230
+7%
+
+
+===== PDF p57 =====
+Exhibit 2: Guidance
+City
+User base (thousands of users)
+Adoption rate
+(6 mo revenue)
+New York
+300
+9% $           486.00 
+Los Angeles
+350
+8% $           504.00 
+Chicago 
+200
+10% $           360.00 
+Houston
+175
+9% $           283.50 
+Washington 
+D.C.
+230
+7% $           289.80 
+• LA is the only city that breaks even in 6 months
+53
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p58 =====
+Swipe Right for Canoodle
+54
+• Canoodle should launch a premium service in Los Angeles 
+Recommendation 
+• Concerns: 
+– Sensitivity around adoption rate
+– Risk of launching in one city versus all at once 
+– Extra maintenance costs for premium service
+– Competitive response
+• Next Steps
+– Development (in house or contracted) 
+Interviewer Guidance:

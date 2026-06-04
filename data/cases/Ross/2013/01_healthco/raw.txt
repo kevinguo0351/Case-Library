@@ -1,0 +1,175 @@
+===== PDF p57 =====
+Case 1: HealthCo 
+•
+Type : Market Entry 
+•
+Difficulty: Medium 
+•
+Industry: Healthcare 
+•
+Firm Format: N/A 
+ 
+
+
+===== PDF p58 =====
+54 
+HealthCo Market Entry 
+RCC Original 
+Information Provided Upon Request 
+Your client is HealthCo, a software company 
+that has developed an innovative software 
+solution for hospitals.  The software is used 
+for tracking patient outcomes and utilizes an 
+extensive database and proprietary analytics 
+to recommend  procedures based on patient 
+comorbidities. 
+HealthCo is preparing to go to market and is 
+seeking our advice on how to maximize 
+revenue. 
+Problem Statement 
+Difficulty: Medium 
+Industry: Healthcare 
+Type: Market Entry 
+Software is provided to hospitals for a 
+fixed annual fee, independent of the 
+number of patients served or doctors 
+using it 
+Client is focused on maximizing revenue 
+Software is patented and there are 
+currently no competitors in the market 
+ 
+
+
+===== PDF p59 =====
+55 
+Exhibit 1 
+Hospital distribution by size 
+11.1% 
+33.3% 
+55.6% 
+0.0%
+20.0%
+40.0%
+60.0%
+80.0%
+100.0%
+Small
+Medium
+Large
+5400 
+Number of hospitals 
+
+
+===== PDF p60 =====
+56 
+Model answer and interview guidance 
+High level model answer 
+Interviewee should recognize that this is a Market Entry/Pricing case 
+prompt. 
+Interviewee should identify that pricing should be based on the value the 
+software brings to the hospital 
+A strong candidate will  recognize that the value provided to the hospital will 
+depend on the hospital  size.  In this case, the software provides less value 
+to large hospitals because they see more patients and can use that sample 
+size to recommend treatments. 
+The interviewee should correctly calculate the number of hospitals in each 
+segment and the maximum willingness to pay based on the ―Additional 
+guidance‖ to the right 
+Next, the candidate should calculate the revenue generated at each of the 
+three price points calculated above ($150k, $250k, $300k). 
+– 150k: Small, Medium, & Large hospitals all purchase :150k*5400=$810M 
+– 250k: Small and Medium hospitals purchase: 250k*(3000+1800)=1.2B 
+– 300k: Only Medium hospitals purchase: 300k*1800=540M 
+An excellent candidate will notice that software value is significantly based 
+on total number of users (multiple hospitals), there are significant benefits 
+of a ―network effect‖ provided by a larger data set.  There may be a 
+possibility for a pricing increase after a large base is established. 
+Additional guidance 
+Software is provided to hospitals as a 
+fixed annual fee, independent of the 
+number of patients served or doctors 
+using it 
+Annually patients served per hospital: 
+– Small: 5000 
+– Medium: 10,000 
+– Large: 15,000 
+Annual value of software to hospital 
+per patient: 
+– Small: $50/patient 
+– Medium: $30/patient 
+– Large: $10/patient 
+Cost are based on a per hospital basis 
+ 
+ 
+
+
+===== PDF p61 =====
+57 
+Solution 
+Small 
+Medium 
+Large 
+Patients per Hospital 
+5000 
+10,000 
+15,000 
+Value / patient 
+$50 
+$30 
+$10 
+Maximum 
+willingness to pay 
+5k*$50= 
+$250k 
+10k*$30= 
+$300k 
+15k*$10= 
+$150k 
+Size 
+# of Hospitals 
+Small 
+3000 
+Medium 
+1800 
+Large 
+600 
+Total 
+Revenue 
+Priced at $150k 
+$450M 
+$270M 
+$90M 
+$810M 
+Priced at $250k 
+$750M 
+$450M 
+- 
+$1,200M 
+Priced at $300k 
+- 
+$540M 
+- 
+$540M 
+Maximize revenue by multiplying willingness to pay by # of hospitals participating.  Hospitals will not purchase if 
+price is above their maximum willingness to pay. 
+Calculate willingness to pay by hospital size: 
+
+
+===== PDF p62 =====
+58 
+Conclusion 
+Next Steps 
+Recommendation 
+Hire and train a sales team 
+Develop marketing pitch to demonstrate 
+value for hospitals 
+Develop software for other patient service 
+institutions such as physical therapy, 
+primary physicians, etc. 
+Recommendation 
+– Price software at $250k per hospital to 
+achieve maximum revenue of  $1.2B 
+Risks 
+– Insufficient adoption, hospitals unable to 
+achieve maximum value 
+ 

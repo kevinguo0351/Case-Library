@@ -1,0 +1,205 @@
+===== PDF p14 =====
+9 
+Notes to the interviewer 
+TechCo Geographic Expansion 
+Problem Statement Narrative 
+ 
+Info/Data (To be provided upon request) 
+ A technology company, TechCo, is considering expanding sales of its phones and computers to the island of 
+Paradise. They‟re trying to determine the best way to go about doing so and currently have three strategies on the 
+table: (1) opening retail storefronts, (2) selling products via the web, and (3) distributing through existing Mom-and-
+Pop shops on the island. Should they expand into Paradise, and, if so, which approach should they pursue? 
+ 
+The goal of this case is to, first, have the 
+interviewee determine if there‟s a 
+sufficiently compelling case for entering 
+Paradise. 
+ 
+The interviewee should consider each entry 
+strategy thoroughly; a good interviewee 
+should bring to bear at least some outside 
+knowledge of Apple, its brand, operations, 
+and marketing. 
+ 
+The interviewee should focus exclusively 
+on the viability of the phone and computer 
+business lines, but the final 
+recommendation can factor in the 
+possibilities of selling a broader product 
+suite.   
+ 
+• Paradise: 
+• Population 3M, with the main (and only) city on the island 
+very densely populated (nearly all locals live there, tourist 
+operations are on the outskirts of the island) 
+• Inhabitants generally wealthy (and wealth is well-distributed) 
+• Island enjoys broadband and wireless access – in general, 
+good infrastructure 
+• Main industry: high-end tourism 
+• Right now, the island‟s inhabitants cannot purchase any Apple 
+products (there are no regulatory hurdles preventing them from doing 
+so, it‟s just that Apple and the various service providers have not 
+decided to pursue the opportunity to date) 
+• The island has an unreliable shipping system (often problems 
+getting products from multi-nationals imported) 
+• Paradise „tuned into‟ mainstream media, so well aware of Apple 
+brand 
+• Currently, there is one Mom-and-Pop style local manufacturer 
+selling all of the island‟s electronics and appliances; „utilitarian‟ in its 
+approach (functional focus over style) 
+Case: TechCo Geographic Expansion 
+Case Type: Go/No-Go Decision, Business Planning 
+ 
+ 
+
+
+===== PDF p15 =====
+10 
+Sample Candidate Framework 
+First, I‟d like to consider whether expanding onto the island makes sense: 
+• Is their a market of desiring buyers? Can these buyers afford phones and computers? (Customers) 
+• Is it strategically sound for Apple to consider geographic expansion in the first place? (Company 
+Capacity) 
+• How strong is the competition that currently sells electronics on the island? How realistic is the goal of 
+carving out a profitable position in the market? (Competition) 
+ 
+ 
+ 
+Then, I‟d like to evaluate the three proposed strategies: 
+• (1) Retail Storefronts: 
+• Pros 
+• Cons/Risks 
+• Associated Costs 
+• (2) Web-based sales: 
+• Pros 
+• Cons/Risks 
+• Associated Costs 
+• (3) Distribution through Mom-and-Pop storefronts: 
+• Pros 
+• Cons/Risks 
+• Associated Costs 
+ 
+ 
+Sample Framework 
+(This is one approach, remember that there are other potential frameworks) 
+ 
+TechCo Geographic Expansion 
+
+
+===== PDF p16 =====
+11 
+Sample Candidate Problem Solving: Economics 
+Interviewer: Sounds like a great framework. Let‟s address your first question around whether expanding onto the island 
+makes sense. You should know that Apple has an internal hurdle rate it must believe it can clear before expanding into a new 
+market – an average net margin of 10%.  
+ 
+Interviewee should ask if there’s available data on Apple’s margins per product. 
+ 
+Company plans to sell phones for $200, which will lead to a 5% net margin, and computers for $1,000, with a 20% net margin. 
+This pricing is consistent with what the company offers in other developed markets.  
+ 
+Interviewee should ask whether Apple can make reliable forecasts as to what they’ll manage to sell, or at least what the mix 
+between phones and computers will be.  
+ 
+Apple anticipates that first-year sales will be 90% phones, 10% computers. 
+ 
+Interviewee should go about calculating whether the anticipated sales mix will clear the blended margin hurdle.  
+• Phones: 5% net margin on $200 equals $10 return per sale ($200*0.05). 
+• Computers: 20% net margin on $1,000 equals $200 return per sale ($1,000*0.2). 
+• Multiple approaches can be take to solve. Plug approach: 
+• If Apple sells 100 products on the island, then 90 of these are phones and 10 are computers, which 
+would imply $28,000 in revenue. 
+• The blended margin would be: 
+• Phones: $900 return ($10*90) 
+• Computers: $2,000 return ($200*10) 
+• Aggregate return: $2,900 on $28,000 in sales  $2,900/$28,000 = 10.357% 
+• Clears hurdle rate! 
+ 
+ 
+Quantitative Problem Solving 
+ 
+TechCo Geographic Expansion 
+
+
+===== PDF p17 =====
+12 
+Sample Candidate Problem Solving: Entry Approach (not exhaustive) 
+Retail storefront: 
+• Pros:  
+• Consistent with current model in most developed markets, in-store experience is key component of brand image (“Genius Bar,” 
+sleek design, etc)  
+• Since Paradise‟s population is very concentrated, one store could theoretically address whole market 
+• [Interviewer may ask if a store is justified, given the size of the market. Interviewee can take various approaches to 
+rationalize here – e.g., Paradise has a population of 3M, NYC has a population of 8M and multiple stores just in Manhattan, 
+so, yes, it seems justified.] 
+• More seamless mechanism for introducing new products to customers, easier to get customer feedback 
+• Cons 
+• More upfront investment required 
+• If market doesn‟t bear fruit, more expensive to exit 
+• Associated Costs: 
+• Real estate purchase or rental (interviewee can talk out logic here) 
+• Employees 
+Via website: 
+• Pros: Low-cost way to test market 
+• Cons 
+• People tend to want to test out phones, feel them in their hands, etc. (possibly less of a concern for laptops, e.g., Dell has had 
+success with online order model) 
+• Apple tends to sell a „lifestyle,‟ this is more difficult to convey just through a website 
+• Island has traditionally had difficulty with international shipments. Would Apple need to develop its own delivery process? How 
+expensive would developing a partner with a FedEx or UPS be? 
+• Associated Costs: 
+• Delivery, otherwise minimal 
+Via Mom-and-Pop shops (current local player) 
+• Pro 
+• Sales infrastructure exists 
+• Customers are comfortable with these outlets and the store owners know the local market very well 
+• Might make it easier to make agreement with local service provider/carrier 
+• Cons 
+• Could be difficult to form relationships with each mom-and-pop player (if interviewer hasn‟t shared that there‟s only one big 
+electronics player on the island); once that info is shared  local player could squeeze Apple‟s margin, may have sales reps 
+placing greater emphasis on the locally manufactured products 
+ 
+ 
+ 
+Qualitative Problem Solving 
+ 
+TechCo Geographic Expansion 
+
+
+===== PDF p18 =====
+13 
+ 
+ 
+Recommendation 
+ 
+Risks 
+ 
+If you get through the case quickly and have extra time… 
+o If interviewee has made compelling case for Web-based sales, could go in that direction, but, more likely… 
+o Apple should proceed with entering Paradise because the island‟s citizens fit into the mold of the company‟s target market (affluent, well-
+connected) and because existing, sole competitor offers a product that‟s compelling on price rather than design. Give the firm‟s 
+projections, the product sales mix will allow them to clear their internal hurdle rate. Given the importance of distinguishing between Apple 
+and the cheaper, functional alternatives, Apple should open a retail store, which would be consistent with the firm‟s approach in other 
+markets, allow them to create the holistic brand experience, and pave the way for more upselling and cross-selling of other products. 
+ 
+o Hurdle rate contingent on soundness of company‟s projections 
+o If other sleek tech providers (Android devices, etc) partner with the existing local franchise, the competitive dynamics change, 
+possibly rendering the recommended strategy less attractive. 
+Scenario: Apple has decided to invest in a presence on the online and has built a retail store. The official opening/launch is this coming 
+Saturday. It turns out the local player has secretly been developing a similar phone and laptop and it intends to announce the new 
+products on Friday. General consensus is that the competitor‟s products are not as high-quality as Apple‟s, but the move upstream is of 
+concern since it may threaten Apple‟s anticipate market share. The local player will be offering their phone at $100 and laptop at $600.  
+An outside consultant has floated the idea of decreasing Apple‟s launch prices in response – dropping the phone to $150 and the 
+computer to $800. Is that the right move? 
+Goal here is to get the interviewee to switch directions quickly with a new problem and see how consistent his/her approach to the 
+business is. If the candidate has contended throughout that Apple’s competitive advantage is design/quality over price, then the 
+appropriate response is that Apple should focus on its marketing and product differentiation rather than pricing schemes. Additionally, 
+interviewee should cite that such price decreases would affect the net margin calculations/conclusion. Recommendations on 
+advertising/marketing messaging can be brainstormed. NB: if a strong candidate gets here quickly, the interviewer might ask if Apple 
+should consider INCREASING its prices. Interviewee should note that it was previously mentioned that Paradise’s inhabitants are well-
+connected to outside media and would be aware of the price discrimination, and accordingly resent it. This could hurt Apple’s long-term 
+prospects on the island.  
+ 
+Conclusion 
+ 
+TechCo Geographic Expansion 

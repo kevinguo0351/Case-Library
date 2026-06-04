@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2018_02_made-to-measure",
+  "school": "Stern",
+  "year": "2018",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2018.pdf",
+  "idx": 2,
+  "case_name": "Made to Measure",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Manufacturing",
+  "difficulty": "Easy",
+  "pdf_page_start": 36,
+  "pdf_page_end": 42,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    37,
+    38,
+    39,
+    41,
+    42
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p037.png",
+    "exhibits/exhibit_p038.png",
+    "exhibits/exhibit_p039.png",
+    "exhibits/exhibit_p041.png",
+    "exhibits/exhibit_p042.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2018\\02_made-to-measure"
+}

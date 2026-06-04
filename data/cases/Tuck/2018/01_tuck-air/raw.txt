@@ -1,0 +1,182 @@
+===== PDF p8 =====
+Tuck Consulting Club
+4
+Tuck Air
+Tuck Air is a Central American airline with a hub in Guatemala City.  It runs a hub and spoke system, meaning all flights 
+connect through it’s Guatemala Airport location. The airline serves both regional routes and long distance routes.
+Historically, the airline has been one of the highest margin airlines in the world, but has seen significant profitability 
+declines in the last year.  The airline’s management team would like to understand what is causing this profitability decline
+and how to address it. 
+Case Prompt
+Clarifying Information
+-Macroeconomic conditions remain unchanged 
+-There have been no changes to cost structure (e.g. price of fuel, labor, etc)
+-Tuck Air is in fact one of the most operationally efficient airlines in the world and will be unable to significantly cut costs
+further
+-The airline has made no operational changes (e.g. destinations, new aircraft, etc)
+-The airline has made no pricing changes
+-Attracted by Tuck Air’s historically high margins, two competitors have recently entered the Central American airline market
+Allow candidate to talk through variety of possible causes for profitability decline.  Once he or she identifies entrance of 
+competitors as cause, proceed to the first question. 
+Case Commentary (Notes to Interviewer)
+Type: Profitability
+Author: Matt Schrimper T’16
+
+
+===== PDF p9 =====
+Tuck Consulting Club
+5
+A changing competitive landscape
+Exhibit 1 shows business class and economy class load factors for Tuck Air.  Load factor shows the percentage of available 
+seats that are filled on an airplane.  Average load factor for the industry is 80%.  What do you discern from Tuck Air’s load
+factor data from the last year?   
+Question 1
+The exhibit shows historical load factors above industry average, reflective of the comfortable competitive positioning Tuck Air
+enjoyed.  The recent drop has been most pronounced in the economy cabin.  What does this suggest?  What type of 
+competitors is Tuck Air facing?  How should this inform Tuck Air’s response? 
+Guidance
+The two new entrants are both low cost carriers, undercutting Tuck Air on price on economy class tickets.  The problem Tuck 
+Air faces is clearly a revenue generation one, and any solution must include increasing economy cabin load factor and must 
+include a change in ticket pricing strategy.   
+Candidate Insights
+
+
+===== PDF p10 =====
+50
+60
+70
+80
+90
+100
+Business Capacity
+Economy Capacity
+Exhibit 1: Load factor 
+
+
+===== PDF p11 =====
+Tuck Consulting Club
+7
+Revenue target 
+Tuck Air’s leadership team has decided it must increase revenue to a level consistent with an 80% load factor in economy 
+class (in line with the industry average).  It would like to maintain its current 85% load factor in business class. 
+Tuck Air only flies 737-700 aircraft.  They fly 215,000 flights per year.   Business class has 8 seats with an average ticket price 
+of $400.  Economy class has 144 seats with an average ticket price of $200.  
+If Tuck Air could achieve its 80% load factor target in economy class, how much of an increase in revenue would this 
+represent?   
+Question 1
+Current business class revenue:  8 seats x $400 x 85% load factor= $2,720
+Current economy class revenue:  144 seats x $200 x 60% load factor= $17,280 
+Total current revenue= 20,000 per plan x 215,000 flights= $4.3B in annual revenue 
+Increasing economy class load factor to 80% and holding business class at 80% yields revenue of $5,538,400,000, or an 
+increase of  $1,238,400,000.   Does this seem doable?   What levers are available to Tuck Air to regain this revenue? 
+Guidance
+The math problem is a relatively simple one, but the candidate should be organized in recording the data and in his/ her 
+calculations. 
+The candidate should note that regaining $1.2b in revenue will be a big challenge.  Levers available to Tuck Air include 
+changing pricing, charging for bags, charging for food, charging for wifi, etc.  Allow the candidate to brainstorm through 
+ideas.  
+Candidate Insights
+
+
+===== PDF p12 =====
+Tuck Consulting Club
+8
+Customer feedback 
+Now that we’ve discussed the options available to Tuck Air to regain lost revenue, how would you decide which levers will 
+have the greatest impact? 
+Question 2
+The candidate should identify understanding customer preferences as the first step in determining the impact of each option. 
+Customer focus groups, questionnaires, etc. will be useful for this data collection.  
+Provide the candidate with Exhibit 2. 
+After the insights below, the candidate should determine that the best course of action is to segment customers within the 
+cabin:  Business class, premium economy and economy.  Ticket prices and level of service should vary by cabin.
+Guidance
+The candidate should see key themes emerge from the customer feedback:  
+Some customers are expecting very little out of their air travel experience (David, Linda); some expect more but are unwilling 
+to pay a substantial premium (Paul); some expect more and are willing to pay a premium (Sarah).
+Can Tuck Air really be all things to all people?  What options exist to simultaneously address the needs of these important 
+customer segments?  
+Candidate Insights
+
+
+===== PDF p13 =====
+Exhibit 2: Economy customer feedback 
+“The meal was terrible!    I didn’t expect anything beyond peanuts and water with an economy 
+ticket so wish they hadn’t even bothered with the garbage they served us.”           -David, 28
+“Screaming babies, no wifi and cheap wine.  I wish my company would just let me fly business 
+class but it’s just too expensive.”     -Paul, 53 
+“Why would I pay $200 for a ticket when I could fly Kellogg Air for 20% less?  Every dollar 
+counts, especially on  a family vacation.”     -Linda, 48
+“I don’t mind paying a little more for a comfortable seat and some in-flight entertainment, 
+especially on longer flights.  For these reasons I usually prefer flying Wharton Air.”             -
+Sarah, 37
+
+
+===== PDF p14 =====
+Tuck Consulting Club
+10
+Plan of action 
+Acting on your customer segmentation recommendations, the Tuck Air leadership team has decided to redesign its cabin as 
+shown in Exhibit 3.  Additionally, the following changes will be introduced:
+-A bag fee of $25 for traditional economy fliers.  70% of traditional economy fliers will check 1 bag per flight. 
+-Traditional economy fliers will now be charged for food or drinks.  Premium economy will receive a free snack and drink.  The
+net revenue gain from charging traditional economy fliers is $200 per flight. 
+-Free wifi has been added for the entire plane.  The cost of the equipment and the decline in fuel efficiency from the new 
+equipment will cost Tuck Air $100 per flight.  The airline has decided to not charge customers for this service.   
+Given these changes, what is Tuck Air’s expected annual revenue?  Does this meet their target? 
+Question 3
+Revenue from cabin reconfiguration:  $24,540 per flight
+Revenue from bag fees:  $25 x 126 seats x 70% flying with bags x 80% load factor= $1,764 per flight 
+Net revenue from food sales (+$200) and cost of wifi installation ($-100)= $100
+Total revenue per flight:  $26,404
+Total revenue per year:  215,000 flights x $26,404=  $5,676,860,000, exceeding the target of $5.5B
+Asks the candidate what risks he or she sees in this plan?  How would you begin implementing it? 
+Guidance
+Candidate should be organized with data and calculations.
+See wrap-up page for key risks. 
+Candidate Insights
+
+
+===== PDF p15 =====
+Airplane configuration
+Boeing 737-700
+Total flights per year:  215,000
+Seats
+Average Price
+Load factor
+Revenue
+Business
+8
+$400
+80%
+$2,560
+Premium Economy
+18
+$300
+80%
+$4,320
+Economy 
+126
+$175
+80%
+$17,640
+Business
+Premium Economy
+Economy
+Exhibit 3: Cabin redesign
+
+
+===== PDF p16 =====
+Final recommendation should include affirmation of plan to segment cabin based on customer preferences.  Matching pricing 
+with customer willingness to pay and services with customer expectations will increase load factor, drive revenue and allow 
+Tuck Air to meet its profitability goal.   
+Risks include: competitors redesigning cabin to offset Tuck Air’s advantages, further cuts in competitor pricing, negative 
+customer reaction to fees and challenges of implementation. 
+Candidate could suggest trialing the changes on certain routes before rolling out to the entire network or other approaches to 
+test customer responses to changes. 
+Tuck Consulting Club
+12
+Tuck Air Wrap-Up
+Recommendation
+Risks
+Next Steps

@@ -1,0 +1,43 @@
+===== PDF p119 =====
+Game show Cases 
+ 
+Columbia Business School  
+Management Consulting Association 
+Guidebook 2002 
+ 
+ 
+Please do not duplicate, copy, print or photocopy  
+115 
+What is 78 times 82? (no paper permitted) 
+ 
+It’s about 80 times 80, which is 6,400. 
+ 
+More precise answer [what he was looking for]: It’s a binomial so you can solve it as 
+(80+2)*(80-2) which simplifies to 80-squared minus 2-squared or 6,396. 
+ 
+ 
+ 
+ 
+How many handshakes will eight people have to exchange when they are leaving the room? 
+ 
+The first person will have to shake seven hands, the second person will shake six hands, the third 
+will shake five hands...etc. 
+ 
+7 + 6 + 5 + 4 + 3 + 2 + 1 = 28 
+ 
+ 
+ 
+ 
+You have a board of 64 squares of equal size (8 squares by 8 squares). You eliminate two of the 
+board’s corners that are diagonally opposed to one another. You are given a limitless number of 
+dominos, which are each composed of two squares (same size as those of the board). Can you fill 
+the board with dominos so that each remaining square is covered? (you may not juxtapose 
+dominos) 
+ 
+No.  Think of the board as a chessboard.  Think of each domino as a rectangle of one black 
+square and one white square.  If you eliminate two diagonally opposed corners of a chess board, 
+these corners will be of the same color (either both will be white or both will be black).  Since 
+you are eliminating two squares of the same color, you are eliminating two halves of two 
+dominos instead of eliminating two squares of different color that could have been covered by 
+one domino. 
+ 

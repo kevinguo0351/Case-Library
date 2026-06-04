@@ -1,0 +1,159 @@
+===== PDF p135 =====
+Market Entry 
+BCG 
+Round 2 
+Case 28: Stew’s Connections 
+Prompt 
+Our client is a start-up with the ability to deliver broadband internet to commercial airlines. How 
+would you help them think about their offering? 
+Guidance 
+About the case: This is a market entry case where candidate are required to evaluate the feasibility 
+of a new product in conjunction with the airline industry. The candidate should use a comprehensive 
+framework, walk the interviewer through it and be prepared for analytical detours throughout the flow 
+of the case.  
+ 
+The calculations represented here are only one approach and interviewees may take other 
+approaches, depending on the assumptions made. The interviewer should be mindful of this and 
+allow for flexibility. 
+ 
+Industry & Market Size Discussion:  The interviewee should  have mentioned this as a major bucket 
+in his/her framework.   
+ 
+Use the information below to provide guidance as necessary. 
+ 
+Broadband for the airlines 
+There is general interest in broadband internet from the airline industry. The start up would have to 
+invest relatively little up front and would keep most of the revenues. They would charge the 
+customers on a per flight pricing model. 
+ 
+Size of the Market 
+Ask the candidate to estimate the market size and hand over Exhibit 1.   Inform the candidate that 
+there are 3,000 planes.   Full answer in chart below 
+ 
+Pricing 
+In order to finish the market size, the candidate should ask for the price per 
+flight. Hand out Exhibit 2 and ask candidate to set the price. 
+131 
+
+
+===== PDF p136 =====
+132 
+Market Entry 
+BCG 
+Round 2 
+Case 28: Stew’s Connections 
+Analysis 
+Class 
+First 
+Coach 
+Seats/Plane 
+20 
+180 
+Load Factor 
+.75 
+.75 
+Full seats/plane 
+15 
+135 
+Biz Travelers 
+100% 
+30% 
+Laptop users/plane 
+15 
+40.5 
+Total laptop users/plane 
+55.5 
+3000 planes x 2000 legs/plane x ~50 laptop users/plane = 300,000,000 approximate annual 
+potential user-legs. 
+
+
+===== PDF p137 =====
+133 
+Analysis 
+Assume 100 passengers (for ease) at the various price/penetration combinations. 
+ 
+30 users at $5=$150/flight 
+ 
+25 users at $10=$250/flight 
+ 
+20 users at $15=$300/flight 
+ 
+10 users at $20=$200/flight 
+ 
+5 users at $25=$125/flight 
+ 
+Set price at $15. 
+Guidance 
+Breakeven Analysis  
+Given the information already revealed in the case and the information below the candidate should 
+calculate a break-even point.  
+ 
+Information to be given if asked: 
+The company has discovered that if they can generate $250,000 per plane in annual 
+revenue, they will be profitable installing the technology on that plane. 
+Analysis 
+250,000/2,000 legs/plane = $125/leg 
+ 
+$125/$15 about 8 users/leg 
+ 
+50 laptop users/leg, and at $15, there‘s a penetration rate of 20%, so we estimate 10 users/leg. 
+ 
+Response: Yes, they should break even. 
+Market Entry 
+BCG 
+Round 2 
+Case 28: Stew’s Connections 
+
+
+===== PDF p138 =====
+134 
+Guidance 
+Other factors 
+Probe the candidate for breadth and understanding of new market entry. Ask him/her about the 
+following aspects of this project. 
+Analysis 
+Competition 
+The interviewer should probe deeper into the competition especially with regard to  Intellectual 
+Property.  For this case, the company has the patent on the high speed connection. 
+ 
+What about low-speed internet connections? 
+ 
+Risks  
+Ask the candidate which risks are associated with the business model. Use your 
+judgment when considering their answers. 
+Performance 
+Evaluation 
+Candidate should provide a crisp recommendation – A crisp recommendation should be roughly 30 -
+45 seconds long and should include clear bullet points that support an overall recommendation.  For 
+example, ―Enter the market for reasons 1, 2 and 3‖ 
+ 
+Expected: Accurate arithmetic with solid profitability and breakeven calculations. 
+ 
+Good:  Candidate provides a framework that includes exploration of all possible options and offers a 
+clear recommendation that summarizes key findings in under 30 seconds. 
+ 
+Excellent:  Candidate considered sufficient number of other factors while maintaining poise through 
+―what else‖ line of questioning at the end of the case. 
+ 
+Market Entry 
+BCG 
+Round 2 
+Case 28: Stew’s Connections 
+
+
+===== PDF p139 =====
+135 
+Market Entry 
+BCG 
+Round 2 
+Exhibit 1 
+Case 28: Stew’s Connections 
+
+
+===== PDF p140 =====
+136 
+Market Entry 
+BCG 
+Round 2 
+Exhibit 2 
+Case 28: Stew’s Connections 

@@ -1,0 +1,32 @@
+{
+  "case_id": "Fuqua_2019_16_goodbye-horses",
+  "school": "Fuqua",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2019.pdf",
+  "idx": 16,
+  "case_name": "Goodbye Horses",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": "Medium",
+  "pdf_page_start": 199,
+  "pdf_page_end": 207,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p201.png",
+    "exhibits/exhibit_p202.png",
+    "exhibits/exhibit_p203.png",
+    "exhibits/exhibit_p204.png",
+    "exhibits/exhibit_p205.png",
+    "exhibits/exhibit_p206.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2019\\16_goodbye-horses"
+}

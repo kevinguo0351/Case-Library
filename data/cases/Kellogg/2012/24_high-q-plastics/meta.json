@@ -1,0 +1,30 @@
+{
+  "case_id": "Kellogg_2012_24_high-q-plastics",
+  "school": "Kellogg",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2012.pdf",
+  "idx": 24,
+  "case_name": "High Q Plastics",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Manufacturing/Automotive",
+  "difficulty": null,
+  "pdf_page_start": 182,
+  "pdf_page_end": 189,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    183,
+    185,
+    187,
+    188,
+    189
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p183.png",
+    "exhibits/exhibit_p185.png",
+    "exhibits/exhibit_p187.png",
+    "exhibits/exhibit_p188.png",
+    "exhibits/exhibit_p189.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2012\\24_high-q-plastics"
+}

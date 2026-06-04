@@ -1,0 +1,235 @@
+===== PDF p216 =====
+SeaBag Marina
+Difficulty: Medium
+Industry: Nautical
+Case Type: Profitability 
+Concepts Tested
+Case #23 : SeaBag Marina
+• Profitability
+• Math Organization
+• Framework for a lesser known subject
+A recent Columbia MBA graduate, Finn Russo, is exploring entrepreneurial opportunities and has decided he would like to 
+open up a private boating marina near Sullivan’s Island, South Carolina. With limited knowledge of the region apart from 
+celebrating a bachelor party in the Charleston area and some online research, Finn has chosen a potential location and has 
+come to you for guidance on how to proceed. He has one financial partner (his father) who is contributing $2,000,000 to 
+the project interest free to be paid back in the 3rd year of operation. Should Finn open up a marina?
+Problem Statement Narrative
+This seems like a straightforward profitability issue, but there are many open variables to think about
+Feel free to guide the candidate to think of a marina like they would a hotel business
+Case Notes
+212
+
+
+===== PDF p217 =====
+SeaBag Marina
+Question #1 / Framework 
+What points would you consider when evaluating this investment decision?
+1.
+Profitability 
+a.
+Revenue
+i.
+# of slips
+ii.
+# of Moorings
+iii.
+Demand for each / # of boats
+iv.
+Price
+v.
+Occupancy Rate
+b.
+Costs
+i.
+Development costs
+ii.
+Wages
+iii.
+Maintenance
+iv.
+Storefront Real Estate (buying space)
+2.
+Market 
+a.
+Size
+b.
+Type of Customer / Boats
+c.
+Seasonality (Warm Months vs. Cold Months)
+3.
+Other 
+a.
+Regulatory
+b.
+Insurance
+c.
+Security
+d.
+Weather Risks
+e.
+Purchase existing marina?
+Sample Framework
+The candidate might not be familiar with the marina 
+business so feel free to support as much as needed
+Guidance for Interviewer
+•
+Primary source of revenue comes from providing 
+docking and mooring. Docking prices are often 
+charged based on length of the boat.
+•
+Docking- wet slips or docking space near shore 
+usually complete with electrical power supplied will be 
+charged based on $/Feet of length of the boat. 
+•
+Mooring- permanent anchor spot in the water some 
+distance from short (mostly used for much larger 
+boats and sailboats)
+•
+Alternative Sources of Revenue:
+•
+Sell boating supplies and equipment
+•
+Repairs on boats 
+•
+Sell fuel for boats
+•
+The marina will be offering both monthly and daily 
+moorings and slips
+•
+Finn has no experience in boating or running a 
+marina. 
+Clarification Answers if  Asked 
+213
+
+
+===== PDF p218 =====
+Question #2
+Question
+Solution
+Finn has found a potential location and put together the following pricing chart (hand out exhibit 1). The potential Marina 
+can hold 40 slips and 50 moorings based on market analysis and wants help understanding potential revenue in Year 1. 
+(elaborate what slips and moorings are at this point if not previously discussed) 
+SeaBag Marina
+After seeing exhibit 1, candidate should ask about demand next. Hand exhibit 2.
+Bonus points if the candidate notices a larger discount for monthly users
+Tell candidate to assume that a year has 300 days if computing daily and 10 months if computing monthly
+Daily
+Monthly
+Slip revenue
+40 Slips* 50% daily use* 40ft boat 
+*$2 per foot *300 days = 
+$480,000
+40 slips* 40ft *$40*50%*10months = 
+$320,000
+Mooring revenue
+50 moorings*25% daily 
+use*$60*300days=$225,000 
+50 moorings*75% monthly use* $1000*10 
+months= $375,000
+Total Revenue: $480,000+ $320,000+$225,000+$375,000 = $1,400,000
+214
+
+
+===== PDF p219 =====
+Question #3
+Question
+Solution
+What will SeaBag Marina’s profitability be in 3 years? 
+Hand out Exhibit 3 
+SeaBag Marina
+Notes to Interviewer: 
+•
+Candidate should ask for costs and ask if we can assume that revenue is staying constant
+•
+Tell candidate to assume revenue grows 10% annually but costs remain flat
+•
+Candidate should remember that he received a $2,000,000 loan and should not count as a charge in addition to the 
+$3,000,000 set up cost
+Revenue:
+Year 1 $1,400,000 + Year 2 $1,540,000 ($1,400,000*110%) + Year 3 $1,694,000 ($154,000,000*110%) = $4,634,000
+Costs:
+$2,000,000 onetime loan
+$1,000,000 initial setup ($3,000,000-$2,000,000 loan)
+Annual $500,000 x 3 years = $1,500,000
+Total costs = $4,500,000
+3 Year Total profit = $134,000 
+215
+
+
+===== PDF p220 =====
+•
+Yes, Finn should open up the marina as he will be 
+profitable within 3 years
+Recommendation
+•
+Although the timeline for when Finn would like to be 
+profitable was not explicitly stated, the candidate can 
+defend the position that the Marina is generating far 
+more revenue than ongoing costs. The longer the 
+Marina stays open the higher the profit
+Rationale
+•
+Weather in the area and if it’s a safe spot given 
+hurricanes or other possible events
+•
+Can the marina bring in fuel as that is usually a 
+common offering
+•
+Since Finn has no marina experience is he suited to 
+run this establishment himself
+Risks
+•
+Dig further into the exact location Finn has chosen 
+since he has done minimal research
+•
+Do a competitive analysis around the area to ensure 
+demand is as expected
+•
+Look into insurance and regulations to get started
+Next Steps
+SeaBag Marina
+Conclusion
+216
+
+
+===== PDF p221 =====
+SeaBag Marina
+Exhibit #1 : Marina Pricing Chart 
+* Price per Foot
+Amount
+Daily
+Monthly
+Slips
+40
+$2*
+$40*
+Moorings
+50
+$60
+$1000
+217
+
+
+===== PDF p222 =====
+SeaBag Marina
+Exhibit #2 : Occupancy and Use
+Daily
+Monthly
+Slips Used
+50%
+50%
+Moorings Used
+25%
+75%
+Average boat size is 40ft
+Annual Occupancy for Slips & Moorings is 100% 
+218
+
+
+===== PDF p223 =====
+SeaBag Marina
+Exhibit #3 : Marina Costs
+Initial Setup cost (real estate + development): $3,000,000
+Ongoing annual maintenance cost: $300,000
+Annual Wages: $200,000
+219

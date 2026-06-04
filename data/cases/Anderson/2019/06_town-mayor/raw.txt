@@ -1,0 +1,190 @@
+===== PDF p60 =====
+6 / Town Mayor 
+The client has just been elected to be the mayor of a town of 500,000 people in the United States. The town has experienced some hard
+economic times recently and there has been a slight decline in population. The mayor’s election platform was centered on a message
+of economic revival with a plan to be launched in the first 100-days of office. The mayor has hired you to help develop the plan. What
+information would you like to know about the city and what is your plan?
+Overview for Interviewer
+Industry: Government
+Case Format: Growth
+Concepts Tested:
+• Conceptual problem solving
+• Structure
+• Creativity
+Notes
+This is an interviewer-led case with the following objectives:
+•
+To see if the candidate can come up with a comprehensive
+framework to get to a solution
+•
+To see if the candidate can complete some quantitative analysis
+•
+To see if the candidate can demonstrate creativity
+•
+Ask the question in the prompt and see the framework example on
+the next page
+
+
+===== PDF p61 =====
+Framework Example
+Candidate should start by providing a framework to analyze the town…
+Revenue 
+trends
+• Income taxes (by income 
+bracket)
+• Sales tax
+• Property tax
+• Corporate tax
+• Other taxes (e.g. vehicle 
+license)
+Cost trends
+• Education
+• Subsidized health care
+• Public transportation
+• Public services (e.g. police & 
+fire)
+• Other (e.g. public assistance)
+Population trends
+• Population segment
+• Employment / employers
+• Lifestyle
+
+
+===== PDF p62 =====
+Core Case Question 1
+1 / Brainstorming 
+Question 1: What could’ve caused the population and economic decline?
+Notes to Interviewer
+Possible answers could include…
+• Poor macro conditions
+• Tax increases
+• Aging population
+• Deteriorating infrastructure
+• Surrounding cities are in economic decline
+• Increasing crime rates
+• Major airlines cut numerous flights to and from the city
+Exceptional Candidates Will Mention…
+More structured responses by breaking down the problem
+into levers.
+Population decline
+-
+Leaving the area
+-
+Mortality rates
+-
+Aging population
+Economic downturn
+-
+Lower spending – because of decreasing population or
+higher taxes
+-
+Over-reliance on one industry etc
+
+
+===== PDF p63 =====
+Core Case Question 2 
+Question 2: Unemployment is currently 8%. The mayor would like to increase the population by 5% and decrease
+unemployment to 5%. How many new companies does the town need?
+Notes to Interviewer
+To be provided to interviewer upon request:
+•
+60% of the population can work
+•
+The average company size is 500 employees
+•
+Original prompt said population is 500K
+Solution:
+1. Identify current working and employed population
+Population that can work = total population X % who can work = 500K * 60% = 300K
+Current total employed workers = working population * (1 – unemployment rate) = 300K * (1 - 8%) = 276K
+2. Calculate net additional employed workers needed in mayor’s desired future state
+Mayor would like to decrease unemployment to 5% (i.e 95% employed) and increase the population by 5%
+Future population that can work = 300K*1.05 = 315K
+Future total employed workers (95%) = 315K*95% = 299.25K
+Increase in workers = Future – current = 299.25K – 276K = 23.25K
+3. Total companies needed
+Total companies needed= increase in workers / # employees hired per company = 23.25K/0.5K = 46.5 companies ~ 47 companies
+2 / Unemployment Overview
+
+
+===== PDF p64 =====
+Core Case Question 3
+3 / Other Options (Present Exhibit 1 + 2 ) 
+According the graphs, which companies should be pursued by the mayor?
+Notes to Interviewer
+There is really no right answer to this question, but the candidate should recognize the following things:
+•
+Highest age distribution is 40-50
+•
+18-30 age distribution is relatively low
+•
+The right mix of companies is a combination of potential growth, risk and which age distribution to go into. It is OK to
+choose the high growth high risk company as long as it is paired with other lower risk options. A reasonable portfolio
+would be pursued possibly.
+•
+Example answer: 8,3,4,1 – took the high risk/high potential due to the upcoming generation from 10-18 while mitigating
+the greater risk by choosing 1.
+
+
+===== PDF p65 =====
+Core Case Question 4
+4 / Other Options
+The state is considering putting a university in the town – what concerns do you have with this proposal?
+Notes to Interviewer
+Possible concerns:
+• The town is older (retirement community) and not ready for this
+• No central location geographically to put a large university
+• How will the university be funded? What will the cities role be?
+• What is the time frame?
+• Will progress be able to be made before the next elections come up?
+• What taxes would the university pay?
+• Would students and/or staff live in the city?
+
+
+===== PDF p66 =====
+Conclusion
+4 / In conclusion… 
+Please provide an overview of the issue at hand, and a concise recommendation as to how we should proceed.
+Space left open for overall notes
+
+
+===== PDF p67 =====
+Exhibit 1
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Age Groups
+Age group distribution
+0-18
+18-30
+30-45
+45-60
+60-75
+70
+18
+Low
+High
+Potential for growth Industry
+Company Avg. Age 
+(years)
+8
+1
+3
+4
+6
+2
+5
+7
+Exhibit 2
+Bubble size: risk of industry growth
+Average employee age in industry by growth 
+potential and risk
+9

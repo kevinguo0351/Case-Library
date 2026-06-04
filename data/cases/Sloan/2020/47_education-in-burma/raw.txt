@@ -1,0 +1,185 @@
+===== PDF p188 =====
+Casebook | 2019-20 Edition 
+184 
+ 
+47. Education in Burma (McKinsey R1, Other, Growth Strategy, 
+Quantitative) 
+Interviewer: Our client is the minister of education in Burma (Myanmar). School attendance rates have 
+decreased approximately 10% over the past five years and the minister has been charged with reversing 
+this trend. Through a combination of public funds, grants, and donations, the education budget has 
+increased by an additional 150MM MMK (local currency) this year. The minister has hired McKinsey to 
+help him allocate these funds to improve both the attendance and quality of the country’s schools. What 
+are some areas you would first explore to determine why attendance rates have been decreasing? 
+ 
+Note: Candidate should develop a MECE structure. One possible structure is as follows: 
+ 
+1) Customer / Demographics 
+a. % of population that is of school age (possible that overall school-age population is 
+decreasing) 
+b. Child employment rates (families could be opting to have their children work rather than 
+attend school) 
+c. 
+Crime rates (possible that crime/gang prevalence has increased) 
+d. Drug usage rates 
+2) Infrastructure 
+a. Transportation issues (there could be a lack of access to schools) 
+b. # of schools (school closures could prevent access) 
+c. 
+Teacher/administration quality 
+3) School conditions 
+a. Number and quality of teachers 
+b. Student/teacher ratio 
+c. 
+Extracurricular and tutoring options 
+d. School lunch offerings 
+ 
+Interviewer: That’s a great list of ideas. You touched on an interesting point about child employment 
+rates. In fact, we’ve learned that child employment has increased over the past few years due to higher 
+overall unemployment rates. Families are in tough situations and therefore need their children to 
+contribute to the household incomes. One idea we have discussed in problem solving is to incentivize 
+families with a cash voucher per student which would be sent to homes at the end of the month if a 
+student reaches an attendance goal. We’d like for you to assess whether or not this is a good idea. First, 
+let me give me you some important information. 
+ 
+Population of school aged children: 10MM 
+ 
+Current population regularly attending school: 6MM 
+Assume that students are in school an average of 10 months each year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We tested the voucher system on a sample set of schools and found the following results: 
+
+
+===== PDF p189 =====
+Casebook | 2019-20 Edition 
+185 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Candidate: I’d like to calculate the total cost of each voucher program as well as the overall impact on 
+attendance rate. 
+ 
+Impact on overall attendance rate and total cost 
+Current attendance rate: 6/10 = 60% 
+$1 voucher calculations: 
+Additional students attending: 20% × 4MM = 0.8M 
+New attendance rate: 6.8/10 = 68% (8% increase) 
+Total cost = 6.8MM * $1 * 10 months = $68MM 
+ 
+$2 voucher calculations: 
+ 
+Additional students attending: 30% × 4MM = 1.2M 
+New attendance rate: 7.2/10 = 72% (12% increase) 
+Total cost = 7.2MM * $2 * 10 months = $144MM 
+ 
+$3 voucher calculations: 
+ 
+Additional students attending: 35% × 4MM = 1.4M 
+New attendance rate: 7.4/10 = 74% (14% increase) 
+Total cost = 7.4MM * $3 * 10 months = $222MM 
+ 
+Overall, the $1 voucher seems to have the best ROI (can argue intuitively based on data or calculate cost 
+per incremental student = $85/student per 10-month period, lowest of all three options) 
+ 
+There are definite pros and cons to each of these programs. The pros are that attendance rates increase 
+significantly – this could reverse the trend moving forward. 
+ 
+Cons: Difficult to implement and distribute funds, long-term sustainability is questionable, total cost is 
+quite high over 10-month period, quality of education is not necessarily improved, many students being 
+paid are already attending school 
+ 
+So far, I would not recommend the $2 or $3 voucher as they are very expensive relative to the budget. I 
+would consider the $1 voucher, but would do so in combination with other investments. 
+Impact of voucher program on truants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+Voucher amount per student (MMK) 
+3 
+Increase in attendance rate 
+
+
+===== PDF p190 =====
+Casebook | 2019-20 Edition 
+186 
+ 
+Interviewer: Got it, OK. Now that you mentioned it, what other additional areas would you consider for 
+potential investments? 
+ 
+Candidate: I would definitely make investments at the actual school level. Here’s a way we can think 
+about this list 
+ 
+Note: candidate should have a MECE list of investments. One possible solution is below, however, there 
+are many other possibilities. 
+ 
+1) Classroom related 
+a. Teacher training 
+b. Teacher salary increases or overtime for outreach 
+c. 
+Additional school supplies or equipment (SMART boards, projectors, etc) 
+d. Books 
+2) Non-classroom related related 
+a. Outreach programs 
+b. Logistics (bus services for children) 
+c. 
+Meal plans for schools (important for children who live in poverty) 
+ 
+Interviewer: Great list. We actually identified a few of the same investments and did a pilot in a similar 
+sample size of schools. Here’s what we found in terms of attendance rates. 
+ 
+Making a one-time investment to schools of $10 per child who currently attends school results in a 50% 
+decrease in the truant population. You can assume that the proportion of truants/non-truants holds at the 
+school level. 
+ 
+What do you think about this plan relative to the cash voucher program? 
+ 
+Candidate: Let’s do a few calculations first to determine what the impact of this program will be overall. 
+Cost of program = 6MM * $10 = $60MM 
+Current number of truant students = 4MM 
+Increase in students attending from investment = 4MM × 50% = 2MM 
+Total # of students attending = 2MM + 6MM = 8MM 
+New attendance rate = 8/10 = 80% 
+Benefit = 80% - 60% = 20% increase 
+ 
+It looks like this program is definitely better than the cash voucher system. With a smaller overall 
+investment ($60M vs $68M), you get a 20% increase in student attendance as opposed to an 8%  
+increase with the $1 voucher system. In addition, since you are directly investing in schools and 
+infrastructure, you will likely get a higher quality of education. I would definitely recommend going with this 
+investment program instead of the cash voucher. Moving forward, I would look into other types of 
+investments I could make with the remaining $70MM in budget. Examples relate to my initial list, such as 
+logistics, or perhaps co-op program where students can earn household income while attending school. 
+ 
+Interviewer: Great. The client just walked in, how would you summarize your recommendation? 

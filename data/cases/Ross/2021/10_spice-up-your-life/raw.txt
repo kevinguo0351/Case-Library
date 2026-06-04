@@ -1,0 +1,328 @@
+===== PDF p107 =====
+103
+Ratings:
+Quant - 2
+Qual - 1
+Overall - 2
+Spice Up Your Life
+Private Equity, Food/Retail | M&A, Valuation, Chart Analysis
+Interviewee Led
+Case 10
+
+
+===== PDF p108 =====
+104
+Case 10 – Spice Up Your Life
+Our client, Seasoned Investors (SI), is a private equity firm that has just launched a new fund focused on 
+investments in the food industry. For their first investment, they are considering acquiring Favored Flavors (FF), 
+a spice company specializing in premium organic spices. 
+Favored Flavors is asking for $75M, and the offer is final. Should Seasoned Investors pursue this acquisition?
+Prompt
+•	 Financial Targets: SI seeks a Multiple of Invested Capital (MOIC) of 2x (i.e. it seeks to earn double the value of its investment by the end of the 
+holding period).
+•	 The fund has a holding period of 4 years, at which point the fund will sell the business.  SI is confident that they will be able to sell the business 
+at 10x EBITDA.
+•	 FF does not have any debt.
+•	 FF sells primarily to grocery store wholesalers (not an important part of this case).
+•	 A couple SI managing directors have significant experience in this industry, but SI does not currently have any other portfolio companies in the 
+food/beverage market.
+Clarifying Information
+
+
+===== PDF p109 =====
+105
+Case 10 – Spice Up Your Life
+Interviewer Information
+•	Exhibit 1: 2020 Income Statement and Industry Comparison
+•	Exhibit 2: Revenue Projections
+Exhibit 1: 2020 Income Statement and Industry Comparison
+•	Provide this when the candidate asks about the company’s profitability.
+Exhibit 2: Product Mix
+•	Provide this when the candidate asks about costs or revenues by product.
+Exhibit 3: Revenue Growth
+•	Provide this when the candidate asks about growth rates or projections.
+•	MOIC does not involve time value of money, so a discounted cash flow analysis is not needed. 
+(If the interviewee begins to discuss a DCF and/or discount rate)
+Notes/Advice to Interview
+Exhibit Summary
+
+
+===== PDF p110 =====
+106
+Case 10 – Spice Up Your Life
+Profitability/Cash Flow Analysis
+•	Revenue 
+•	Price
+•	Quantity
+•	Cost
+•	Variable:
+•	Raw Materials
+•	Packaging
+•	Shipping
+•	Fixed:
+•	Manufacturing Plant
+•	Labor
+•	Other SG&A Costs
+•	Company Leadership/
+Capabilities
+•	Cash flow during holding 
+period
+•	Exit value
+•	Multiples
+•	Market Growth
+•	Market Size
+•	Competition
+•	Trends:
+•	ESG: Fair wages for 
+farmers, ethically 
+sourced spices, 
+sustainability in 
+packaging
+•	Customer trends: 
+desire for more exotic 
+foods, healthier eating, 
+more online grocery 
+purchases
+•	Regulations:
+•	Trade restrictions, 
+import/export 
+regulations
+•	Fund objectives
+•	Synergies/Improvements
+•	Future bolt-on 
+acquisitions
+•	Investment-light revenue 
+growth opportunities
+•	Cost optimization
+•	Firm expertise in industry
+•	Fund restrictions
+•	Financing the acquisition
+•	Exit strategy
+Market
+Valuation
+PE Firm
+Company
+Potential Framework
+Note/Advice to Interviewer/
+How to move forward
+•	 Handover exhibits 1 and 2 after 
+candidate asks for relevant 
+information
+•	 A strong candidate will set up an 
+equation to evaluate the 
+transaction, such as: 
+2*Purchase Price ≤ Sum of FCFs 
++ Sale of Business
+
+
+===== PDF p111 =====
+107
+Case 10 – Spice Up Your Life
+Exhibit 1
+ Revenue ($M)
+COGS ($M)
+SG&A* (% of revenue)
+EBITDA 
+(Revenue – COGS – SG&A) ($M)
+Free Cash Flow (% of EBITDA)
+ 
+50
+33
+23%
+5
+62.5%
+*SG&A includes labor, marketing, R&D, and other costs
+EBIT
+COGS**
+Depreciation & Amortization
+Other
+R&D
+Labor
+Marketing
+**Industry average breakdown for COGS
+ is 90% raw material and 10% packaging.
+FF 2020 Income Statement
+Industry Average Cost Breakdown
+
+
+===== PDF p112 =====
+108
+Case 10 – Spice Up Your Life
+Exhibit 1 Guidance
+“Favored Flavors provided us with a summary of their most recent annual income statement. Your consulting 
+team also pulled some industry average cost data for comparison. What insights do you get from this data?”
+Candidates should recognize:
+•	 FF’s EBITDA is 4% less than the industry average of 14% (EBIT of 11% + Depreciation and Amortization of 3%)
+•	FF’s COGS (33/50=66%) is 8% higher than the industry average. This could be because of the higher quality 
+of the spices, but there may still be opportunities to optimize. 
+•	FF’s SG&A (11.5/50=23%) is 4% less than the industry average, which could be a competitive advantage.
+From here, candidates should drive the case forward by asking for more information on COGS. 
+•	If the candidate has questions around net income or free cash flow, explain that free cash flow is the cash flow 
+available to funding providers (i.e. the amount the PE firm will receive from the business each year)
+•	If candidate asks for the company’s EBIT or Depreciation and Amortization expense, simply state that FF did not 
+provide those line items.
+Questions for Candidates
+Notes/Advice to Interviewer:
+
+
+===== PDF p113 =====
+109
+Case 10 – Spice Up Your Life
+Exhibit 2
+Product Mix
+26
+20
+6
+5
+7
+8
+12
+5
+9
+4
+8
+6
+16
+11
+11
+8
+8
+15
+4
+5
+6
+Revenue
+$50M
+$33M
+Packaging
+Black Pepper
+Cloves
+Coriander
+Cumin
+Oregano
+Paprika
+Saffron
+Sage
+Thyme
+Other
+Cost
+
+
+===== PDF p114 =====
+110
+Case 10 – Spice Up Your Life
+Exhibit 2 Guidance
+Product Mix
+Ask the candidate if they have any insights on the exhibit.
+•	Candidates should also note that packaging is significant at 16% of total cost, which is higher than the industry 
+average of 10%. If necessary, prompt the candidate to calculate the cost savings that would come from 
+bringing the packaging cost down to the industry average.
+•	Solution: 6% * 33M = $1.98M (rounding to $2M is fine)
+•	Candidates should also note that Saffron is currently losing money ($50M * 5% = $2.5M in revenue, $33 * 9% = 
+$2.97M in costs (tell the candidate they can round to $3M in cost). Once the candidate reaches this insight, 
+share that your team believes this cost can be reduced by 1/3rd.
+•	Solution: 9% * (1/3) = 3% change. 3% * $33M = $0.99M (rounding to $1M is fine)
+•	Total gain in profit/EBITDA = $3M. Prompt the candidate to calculate the free cash flow for 2020 if these changes 
+were made if the candidate does not automatically do so.
+•	Solution: $5M + $3M = $8M in EBITDA.  8 * 62.5% (or 5/8) = $5M. Strong candidates will note that EBITDA is 
+now 16%, higher than the industry average, and that FCF is 10% of revenue.
+Questions for Candidates about Exhibit that the Interview should ask:
+
+
+===== PDF p115 =====
+111
+Case 10 – Spice Up Your Life
+Exhibit 3
+Projected Revenue Growth
+80
+75
+70
+65
+60
+55
+0
+2020
+50
+55
+61
+69
+80
+2021
+Revenue ($M)
+2022
+2023
+2024
+
+
+===== PDF p116 =====
+112
+Case 10 – Spice Up Your Life
+Exhibit 3 Guidance
+Projected Revenue Growth
+•	Candidates should use this graph to calculate the future free cash flows for the business, using the new profit 
+margins that they calculated from Exhibits 1 and 2.
+•	When the candidate asks about the value of the business at the sale or terminal value, mention that SI 
+believes they will be able to sell the company at 10x EBITDA in 2024.
+•	By adding each year’s FCF and the terminal value, the total projected value of the business should be $154.50, 
+which is greater than the 2x MOIC requirement of $150. Once the candidate has reached this point, ask the 
+candidate to prepare a conclusion for the client.
+Question/Exhibit Guidance
+2021
+Revenue
+EBITDA (16% of revenue)
+EV/EBITDA multiple of 10x
+FCF (10% of Rev)
+Total Projected Value ($M)
+Total FCF
+*Note: no discounting needed. If candidate asks about discounting, remind them 
+of the 2x MOIC requirement
+Free Cash Flow Analysis
+Exit Value Analysis
+$26.50
+$154.50
+2022
+2023
+2024
+55
+5.5
+61
+6.1
+69
+6.9
+12.8
+$128
+80
+8
+
+
+===== PDF p117 =====
+113
+Case 10 – Spice Up Your Life
+Conclusion
+•	Candidates could list a variety 
+of risks, including but not limited 
+to any of the factors included 
+on the framework slide. Strong 
+candidates will briefly mention a 
+couple of the most salient risks 
+and include potential mitigating 
+strategies.
+•	Seasoned Investors should move 
+forward with the acquisition of 
+Favored Flavors, as the projected 
+value of $154.50M is greater than 
+twice the investment cost of $75M.
+•	Next Steps should either directly 
+relate to mitigating risks or to 
+exploring additional workstreams 
+identified in the framework that 
+were not covered in the case.
+Recommendation
+Risks
+Next Steps
+•	This case tests quantitative skills but also the candidate’s ability to remain organized as data from one exhibit often 
+needs to be compared to another for important insights. Strong candidates will be using their notes to not have to 
+ask the interviewer constantly to re-show an exhibit.
+•	The case topic should be easily relatable for most candidates, so pay attention to the candidate’s soft skills and 
+ability to be conversational.
+Notes for Interviewer:

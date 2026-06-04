@@ -1,0 +1,310 @@
+===== PDF p99 =====
+Stale Chips
+95
+Industry:                  Consumer Goods
+Case Type:     
+Market Entry
+Led by:            
+Interviewee
+Case Level: 
+Medium
+This case contains must know consulting math
+
+
+===== PDF p100 =====
+Behavioral Questions
+96
+• Tell me a time that you failed and what you learned from it?
+Question 1:
+• Why do you want to work at this firm?
+Question 2:
+
+
+===== PDF p101 =====
+Stale Chips
+97
+• Bill’s Chips is a multination producer of snacks. Their largest snack by total sales volume are 
+potato chips. Currently, they are losing market share to their competitors in certain regions of the 
+world. The are attempting to determine which market is the best to enter with a goal to maximize 
+profitability in year 3. They have hired you to help with their assessment. 
+Prompt #1:
+– Headquartered in Durham, NC. They have an extremely established brand with high 
+customer loyalty
+– Industry is highly competitive. Consumers largest driver of choice is taste preference
+– Sell chips globally across all segments 
+– Customers are grocery stores who resale to consumers 
+– There is no profitability margin they are seeking. Aiming to maximize profit over 3 years.
+Case Background:
+
+
+===== PDF p102 =====
+Stale Chips
+98
+•
+MARKET
+•
+Competition
+–
+Is the market highly fragmented or are there several large players?
+–
+What is the anticipated penetration of the market?
+•
+Size
+–
+How large is the market in terms of population and value?
+•
+Growth
+–
+Is the market anticipated to grow or to contract over 5 years? 
+•
+PROFITABILITY
+•
+Revenue
+–
+Price of Chips
+•
+What is the market rate for chips?
+–
+Are they above or below the market rate? Do they need to adjust their price to remain competitive?
+–
+Quantity of Chips
+•
+What size bags do they buy the chips in? Do they offer multiple size options?
+•
+Cost
+–
+Fixed Cost
+•
+Factories, Fixed Contracts
+–
+Variable Cost
+•
+Inputs: Potato’s, Ingredients, Employee Wages
+•
+EXTERNAL FACTORS
+–
+Geopolitical- tariffs between countries 
+–
+Rise in commodity prices due to supply chain, scarcity, etc. 
+–
+Labor strikes. Highly unionized industry
+Framework Buckets:
+Drive towards market sizes and growth trends
+
+
+===== PDF p103 =====
+Exhibit #1
+99
+Brazil
+Market Size: 100M
+Current Penetration: 3%
+Annual Growth: 20%
+Western Canada
+Market Size: 30M
+Current Penetration: 20%
+Annual Growth: 10%
+Western Europe
+Market Size: 50M
+Current Penetration: 15%
+Annual Growth: 5%
+Australia 
+Market Size: 30M
+Current Penetration: 3%
+Annual Growth: 5%
+
+
+===== PDF p104 =====
+Interviewer guidance on Exhibits
+• This exhibit covers the total market size. In the 
+problem the interviewee should be inclined to 
+calculate the total market size after 3-year 
+growth. The exhibit covers market size, 
+penetration, and 3-year growth. If interviewee 
+does not drive the case towards calculating 
+profitability prompt the interviewee to do so. The 
+interviewee should determine that Western 
+Europe is the ideal market to enter. 
+• Note that these are units sold
+• * Calculations are on next slide. Figures in 
+millions dollars (great candidate will clarify 
+currency)
+– Candidate should recognize that Australia is 
+smallest market size, penetration and 
+growth and ignore it
+– Interviewee calculates the total market size 
+and proceeds forward based on the total 
+market size, choosing the largest one. Next 
+the interviewee will move towards 
+calculating total profitability. 
+– Great candidate will provide higher level 
+insights why certain markets are bigger, 
+growing faster, etc.
+100
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p105 =====
+Exhibit Math
+101
+Western Canada
+Brazil
+Western Europe
+Year 0
+30M x 20% = 6M
+100M x 3% = 3M
+50M * 15% = 7.5M
+Year 1
+(10% x 6M) + 6M = 6.6M
+(20% x 3M) + 3M = 3.6M
+(5% x 7.5M) + 7.5M = 7.87M
+Year 2
+(10% x 6.6M) + 6.6M =7.26M
+(20% x 3.6M) + 3.6M = 4.3M
+(5% x 7.87M) + 7.87M =  8.26M
+Year 3
+(10% x 7.3) + 7.3 = 8.0M
+(20% x 4.3M) + 4.3M = 5.16M
+(5% x 8.3M) + 8.3M = 8.7M
+A great candidate will calculate the growth rate to year 3 using shortcuts: 
+10% = 1.1 x 1.1 
+1.2 x 1.1 
+1.3 x 6M (10% of 30M) =  7.8M 
+20% = 1.2 x 1.2 
+1.4 x 1.2 
+1.7 x 3M (3% of 100M) =  5.1M 
+5% = 1.05 x 1.05 
+1.1 x 1.05 
+1.15 x 7.5M (15% of 50M) =  8.6M 
+Note the trick of multiplying by digits ending in 5:
+•
+105 x 105 (drop the 5) 10 x 11 (10+1) 110 append (5x5) = 11,025 (note 4 decimal places)
+Note: Rounding is okay within 0.1M 
+
+
+===== PDF p106 =====
+Exhibit #2
+102
+Flavor
+Beer 
+Battered 
+Cod
+Tuscan Wine
+Lime Kiwi
+Sales Price
+$3.00
+$3.00
+$2.50
+COSTS
+Manufacturing
+$0.50
+$0.25
+$0.10
+Ingredients
+$1.00
+$1.50
+$0.40
+
+
+===== PDF p107 =====
+Interviewer guidance on Exhibits
+• Interviewee should calculate total profit per unit 
+of chips and then multiple that by the 
+appropriate market to calculate total profitability. 
+The interviewee should determine that Lime 
+Kiwi is the most profitable in the European 
+market.
+• The interviewee should determine that  Lime 
+Kiwi is the most profitable in the European 
+market. 
+• The interviewee should hypothesis of why the 
+profitable is different per chip. Second level 
+insights could be the distributor of the raw 
+materials (packaging materials, flavors, potato's)
+103
+Exhibit #1 Guidance:
+Analysis:
+Western Europe
+Year 1
+7.8M x $2.00 = $15.6M
+Year 2
+8.2M x $2.00 = $16.4M
+Year 3
+8.6M x $2.00 = $17.2-17.4M
+Beer 
+Battered 
+Cod
+Tuscan 
+Wine
+Lime Kiwi
+Profit per 
+Bag
+$1.50
+$1.25
+$2.00
+Year 3 profit opportunity = 8.6-8.7M x $2 
+= $17.2 – 17.4M
+If candidate calculates annual revenue, 
+they should determine total value of 
+~$49-51M 
+Great candidate 
+will calculate 
+profit margins
+50%
+~40%
+80%
+
+
+===== PDF p108 =====
+Brainstorming
+Bill’s Chips is concerned about rising costs -
+what can they do to minimize and/or 
+stabilize costs? 
+To further test candidates: 
+Ask about setting up manufacturing in 
+Europe or using existing logistics (note no 
+right answer here) 
+Brainstorm should be structured (eg. Value 
+chain, fixed vs variable, etc.):
+Sample:
+• Internal
+–
+Reallocate personnel to optimize performance and 
+costs: Headcount
+–
+Optimize manufacturing process. Identify overlap in 
+the processes to cut out unnecessary process 
+–
+Increase efficiency and probability of inspection 
+pass for chip quality checks
+• External 
+–
+Minimize distance in supply chain via local farmers
+–
+Secure extended contracts for raw materials at a 
+fixed price 
+–
+Minimize storage space required for raw materials 
+to reduce storage costs
+104
+Prompt:
+Analysis:
+
+
+===== PDF p109 =====
+Conclusion
+105
+• The CEO of Bill’s Chips is looking for your recommendation on how to increase profitability for the 
+company. Please provide your best recommendation.
+Recommendation 
+• Strong recommendations include the following items or similar reasoning:
+Bill’s Chips should enter the Western European market with the Lime Kiwi Flavor Chips, by 
+doing so Bill’s Chips can generate approximately $17.2M in 3-years
+• Risks: 
+– Changing consumer trends for flavor preferences
+– Competitive pressure cause Bill’s Chips to reduce prices and generate less profit 
+• Next Steps/Mitigation:
+– Begin production process of the desired chip flavor to prototype it to gain consumer feedback 
+in the desired market
+– Perform further analysis to confirm market research
+Risks and Next Steps:

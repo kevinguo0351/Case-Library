@@ -1,0 +1,154 @@
+===== PDF p165 =====
+Case 13: InvestCo  
+•
+Type: Profitability 
+•
+Difficulty: Medium 
+•
+Industry: Financial Services 
+•
+Firm Format: N/A 
+ 
+
+
+===== PDF p166 =====
+162 
+InvestCo 
+Information Provided Upon Request 
+A large investment company, InvestCo, is 
+considering expansion of its product line to include 
+precious metals investments. The company has 
+hired our firm to provide guidance on this decision. 
+ 
+Problem Statement 
+Primary customer segments include retail 
+investors and institutional investors. Customers 
+are interested in portfolio diversification. 
+Sales of these investments are predicted to be 
+$150MM in year 1 and double each year for the 
+next 3 years. 
+InvestCo collects 100 basis points in revenue (1 
+bps = 1/100th of 1%) 
+InvestCo will need to hire 2 new Portfolio 
+Managers ($1.5 MM per year each) and 6 new 
+Research Analysts ($250k per year each). 
+InvestCo will require a technology upgrade of 
+$1MM with $500k ongoing upkeep per year.  
+Assume cost of capital is irrelevant for this 
+decision. 
+A key competitor has recently expanded into 
+precious metals. The competitor hired 2 new PMs 
+and 3 new RAs at a total cost of $2.75 MM per 
+year. Tech investment is the same. 
+Difficulty: Medium 
+Industry: Financial Services 
+Type: Profitability 
+
+
+===== PDF p167 =====
+163 
+Analysis 
+Profitability 
+Year 1
+Year 2
+Year 3
+Year 4
+Sales ($MM)
+150
+$          
+300
+$          
+600
+$          
+1,200
+$       
+Revenue ($MM)
+1.5
+$          
+3.0
+$          
+6.0
+$          
+12.0
+$         
+Costs ($MM):
+   Portfolio Managers (2)
+3.0
+$          
+3.0
+$          
+3.0
+$          
+3.0
+$          
+   Research Analysts (6)
+1.5
+$          
+1.5
+$          
+1.5
+$          
+1.5
+$          
+   Technology
+1.0
+$          
+0.50
+$         
+0.50
+$         
+0.50
+$         
+Profit
+(4)
+$            
+(2)
+$            
+1
+$             
+7
+$             
+Profitability
+(4)
+$            
+(6)
+$            
+(5)
+$            
+2
+$             
+
+
+===== PDF p168 =====
+164 
+Conclusion 
+Next Steps 
+InvestCo should expand product line to include 
+precious metals investments. 
+
+While not profitable in the first three years, 
+break-even occurs in Year 3, and the company 
+is profitable by Year 4 assuming sales trend 
+continues. 
+
+Key competitor already offers this solution for its 
+customers, and customer switching costs are 
+low. InvestCo needs to stave off this competitive 
+threat by offering its own solution. 
+
+The competition has a lower cost structure for 
+personnel ($1.75 MM per year). If InvestCo 
+could improve its cost structure, it could be 
+profitable by Year 3. 
+Recommendation 
+InvestCo should conduct a benchmarking study to 
+evaluate personnel needs required to offer this 
+solution and to understand how the competitor 
+offers the solution at a lower personnel cost. 
+InvestCo should design this solution as soon as 
+possible to begin marketing efforts and prevent 
+customers from considering switching to the 
+competitor. 
+InvestCo should begin the technology upgrades 
+that are required to ensure the infrastructure is in 
+place when the new PMs and RAs are hired. 

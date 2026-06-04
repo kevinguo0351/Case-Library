@@ -1,0 +1,34 @@
+{
+  "case_id": "Haas_2019_15_vestimenta",
+  "school": "Haas",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Haas\\HAAS_Case Book_2019.pdf",
+  "idx": 15,
+  "case_name": "Vestimenta",
+  "case_type": "Market Entry",
+  "round": null,
+  "industry": "Retail / Apparel",
+  "difficulty": null,
+  "pdf_page_start": 166,
+  "pdf_page_end": 177,
+  "n_pages": 12,
+  "exhibit_pdf_pages": [
+    166,
+    167,
+    169,
+    170,
+    171,
+    172,
+    173
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p166.png",
+    "exhibits/exhibit_p167.png",
+    "exhibits/exhibit_p169.png",
+    "exhibits/exhibit_p170.png",
+    "exhibits/exhibit_p171.png",
+    "exhibits/exhibit_p172.png",
+    "exhibits/exhibit_p173.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Haas\\2019\\15_vestimenta"
+}

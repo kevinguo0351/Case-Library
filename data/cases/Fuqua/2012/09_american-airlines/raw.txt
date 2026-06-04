@@ -1,0 +1,315 @@
+===== PDF p74 =====
+Case 9: American Airlines 
+Prompt 
+As a part of its recovery plan, American Airlines (AA) has asked your firm to propose a plan to 
+increase the number of passengers per flight.  
+ 
+How would you approach figuring out the bottom line of increasing one passenger per 
+aircraft in their domestic flights? 
+ 
+Guidance 
+This case has a lot of calculations and information that may mislead the candidate. This information 
+is included on purpose and the candidate should know what he/she have to use and what can be 
+ignored. 
+ 
+The goal here is to calculate the additional profit of adding one passenger per flight (domestic flights 
+only). After the candidate presents the framework and ask questions about cost and fares, provide 
+Exhibit 1. If you want to make this case harder, do not provide the exhibit. Give the exhibit’s 
+information upon request. 
+ 
+Profitability 
+McKinsey & Company 
+70 
+
+
+===== PDF p75 =====
+Case 9: American Airlines 
+Profitability 
+McKinsey & Company 
+71 
+Aircraft Model	  
+# of aircrafts	  
+Capacity  
+(# Passengers)	  
+Type of Routes	   Fixed Cost1	  
+Boeing 737-800	  
+180	  
+160	  
+Domestic	  
+$10,000	  
+Boeing 757-200	  
+125	  
+190	  
+Domestic	  
+$9,750	  
+Boeing 767	  
+73	  
+300	  
+International	  
+$9,200	  
+Boeing 777-200ER	  
+47	  
+370	  
+International	  
+$9,000	  
+McDonnell Douglas MD-80 series	  
+195	  
+140	  
+Domestic	  
+$10,500	  
+2: Variable costs are represented as a percentage of the round trip fare 
+Table 1: Aircraft models and capacity 
+Type of Flight	  
+Avg. Load Factor	  
+Avg. Round trip fare	  
+Avg. time in air	  
+Avg. time on land 	  
+Domestic	  
+80%	  
+$200 	  
+2 hours	  
+30 minutes	  
+International	  
+70%	  
+$900 	  
+7 hours 	  
+1 hour	  
+Table 2: Average  load factor, fares and time per flight 
+Table 3: Variable costs2 
+Domestic	  
+International	  
+Travel agency commission	  
+10%	  
+10%	  
+Airport fees	  
+10%	  
+10%	  
+Inboard and check-in services	  
+5%	  
+12%	  
+1:Fixed cost per 1000 mile flight distance 
+Exhibit 1: 
+
+
+===== PDF p76 =====
+Case 9: American Airlines 
+Guidance 
+Table 1: 
+•  # of aircrafts: how many aircrafts AA has in its fleet 
+•  Capacity: number of passengers that each aircraft can fly 
+•  Fixed cost: fuel, maintenance and flight crew 
+Table 2: 
+•  Avg. load factor: avg. number of passengers/aircraft capacity 
+•  Avg. round trip fare: this average includes first, business and coach classes 
+•  Avg. time on air: time that the aircraft is actually flying 
+•  Avg. time on land: avg. time to clean, refuel, and board the passengers 
+Note that the total time per flight is the avg. time on air + avg. time on land 
+ 
+Table 3: 
+•  All variable costs are a % of the round trip fare. That is, the variable cost for a domestic flight is 
+25% x $200 = $50 ! variable cost per flight = $50 / 2 = $25 
+There is some useless information. The candidate should ignore: 
+•  All data regarding International flights ! the case is about domestic flights 
+•  Fixed Cost ! the plane is flying anyway so the profit of an extra passenger should not consider 
+the fixed cost 
+ 
+The candidate should calculate the additional profit in dollars. Therefore, he/she may also ignore the 
+aircraft capacity, and load factor. He/she can solve this case by using only the number of domestic 
+aircrafts, avg. time on air, avg. time on land, variable costs, and round trip fares. 
+ 
+Profitability 
+McKinsey & Company 
+72 
+
+
+===== PDF p77 =====
+Case 9: American Airlines 
+Guidance 
+Assumption: the company operates 24 hours a day, and 360 days per year. 
+ 
+The easiest way to calculate the additional profit is calculating how many domestic flights AA 
+operates per year and the profit per flight that the additional passenger brings. 
+ 
+Calculating the number of flights per year: 
+# of aircrafts (domestic only): 180 + 125 + 195 = 500 
+Avg. time per flight = avg. time on air + avg. time on land = 2 + 0.5 = 2.5 hours 
+Avg. flights per day per aircraft = 24 hours / 2.5 hours = 9.6 (can be rounded to 10 per day) 
+Total flights per year = # of aircrafts x avg. flights per day x 360 = 500 x 10 x 360 = 1,800,000 flights 
+ 
+Calculating the additional profit per flight that an additional passenger brings: 
+Avg. fare per flight = round trip fare / 2 = $200 / 2 = $100 
+Variable Cost = (10% + 10% + 5%) x $100 = $25 
+Additional Profit per passenger = Revenue – Variable Cost = $100 - $25 = $75 
+ 
+Additional profit per year = $75 x 1,800,000 = $135,000,000 = $135 M 
+ 
+There are other ways to reach the same result. The calculations above show the easiest way. Help 
+the candidate only if he/she gets stuck with the numbers. 
+ 
+Profitability 
+McKinsey & Company 
+73 
+
+
+===== PDF p78 =====
+Case 9: American Airlines 
+Prompt 
+Now that we know the impact of adding one passenger per flight, what can we do to achieve 
+this goal? What else can be done to increase AA’s profitability? 
+ 
+Guidance 
+This is a regular “what else” question. The candidate should mention some of the ideas bellow: 
+•  Increase the # of passengers: 
+•  Change pricing strategy 
+•  Offer a better customer service 
+•  Offer a better “frequent flyer” program (AA Advantage program) 
+Increase overall profitability: 
+•  Negotiate fuel prices (fuel represents 30% of the operational cost) 
+•  Negotiate with labor unions to reduce salaries/benefits for new hires 
+•  Focus on the most profitable routes 
+•  Discontinue unprofitable routes 
+ 
+This case does not require a final recommendation. 
+ 
+Profitability 
+McKinsey & Company 
+74 
+
+
+===== PDF p79 =====
+Case 9: American Airlines 
+Profitability 
+McKinsey & Company 
+75 
+Performance 
+Evaluation 
+Expected: 
+• 
+Had a good structure/action plan to calculate the additional profit 
+• 
+Correctly calculates the additional profit, but needed some assistance 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Correctly identifies the irrelevant data 
+• 
+Could list at least 3 ideas to increase the number of passengers and 3 to increase the overall 
+profitability 
+• 
+Could keep the interviewer engaged during the calculations 
+ 
+Excellent: 
+• 
+Completes all “Good“ requirements 
+• 
+Showed some knowledge of this market 
+• 
+Could list at least 5 ideas to increase the number of passengers and 5 to increase the overall 
+profitability 
+• 
+Could drive the case and solve it without much help 
+
+
+===== PDF p80 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+76 

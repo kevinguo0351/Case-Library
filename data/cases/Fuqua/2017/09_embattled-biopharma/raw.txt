@@ -1,0 +1,384 @@
+===== PDF p105 =====
+Embattled Biopharma
+101
+Industry: Biopharma
+Quantitative Level: Medium
+Qualitative Level: Medium
+
+
+===== PDF p106 =====
+Behavioral Questions
+102
+• What is something that you would change about the last company that you worked 
+for?
+Question 1:
+• What is your favorite leadership role that you have taken on and why?
+Question 2:
+
+
+===== PDF p107 =====
+Embattled Biopharma
+103
+• Your client is the CEO of Embattled Biopharma, a leading biopharmaceutical 
+company based in the US whose recent strategic priorities include focusing on 
+oncology and expanding their presence in emerging markets.
+• The CEO is under pressure from her board to turn around the recent trend in 
+decreasing revenues. She has hired you to ensure that she can deliver on the 
+promise she made to her board of increasing annual revenues by 50% by 2020.
+Prompt #1:
+•
+The candidate should pull out the following additional information
+–
+FY17 Revenue: $23B – from this they should identify the target FY20 revenue as $34.5B
+–
+They make a wide-range of products spanning multiple therapeutic areas including, oncology, respiratory, and 
+cardiovascular.
+–
+The majority of their sales are in the US and Europe, but they do have a small presence in Africa and Asia.
+•
+The candidate’s framework could be structured a few different ways, but given the short timeline, and the long 
+time to market for biopharma products, they ideally set it up as organic and inorganic growth opportunities. 
+–
+Optional: This could be a good opportunity to experience a free-flowing, conversational “partner level” framework 
+where nothing is written down
+–
+Note: The info on strategies is for later in the case. If the candidate starts probing, simply tell them it’s good that they 
+noted the strategy, let’s come back to it.
+•
+Guide them towards analyzing what is currently in the pipeline to determine if they can meet the goal through 
+organic growth. Give them Exhibit 1.
+Interviewer Guidance:
+
+
+===== PDF p108 =====
+Exhibit #1
+104
+20
+17.5
+10
+20
+10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0
+5
+10
+15
+20
+25
+Willowbark
+(Stage 1)*
+Nightshade
+(Stage 1)**
+Dreamwine
+(Stage 2)**
+Milk of the
+Poppy
+(Stage 3)*
+Myrish Fire
+(Stage 3)**
+Embattled Biopharma’s Pipeline
+FY18 Market Size ($B)
+Years to Commercialization
+Likeliness of 
+Commercial 
+Success
+Stage 1
+10%
+Stage 2
+25%
+Stage 3
+80%
+*Expected YoY Market Growth: 10%
+**Expected YoY Market Growth: 20%
+
+
+===== PDF p109 =====
+Interviewer guidance on Exhibits
+• Years until commercialization means the 
+number of years before the firm can expect to 
+begin generating revenue.
+–
+Note: It is currently FY17, meaning a drug with two 
+years until commercialization would hit the market 
+in FY19. Make sure this is clear before the 
+candidate starts doing math.
+• If the candidate misses applying any of the 
+factors that will affect their FY20 revenue 
+calculation, the interviewer can either probe 
+them before they start doing math or after, but 
+should make sure all of the below are included:
+1. Market Growth - Given
+2. Likelihood of commercial success - Given
+3. Expected market capture: Tell the candidate that in 
+the first year of commercialization (FY19) the firm 
+can expect to gain a 10% market share, and in the 
+second year of commercialization (FY20), they can 
+expect to gain 25% market share. The candidate 
+should pick up that he or she only needs the 
+number for FY20.
+•
+If the candidate asks, tell them to use FY17 
+revenue ($23B) as a basis for revenue in future 
+years and add their pipeline calculations 
+• The candidate must recognize that only the two 
+Stage 3 pharmaceuticals will help them reach 
+their goal of increasing revenue by FY20.  
+• Therefore, only Milk of the Poppy and Myrish
+Fire will be ready in time to help meet the CEO’s 
+stated goal of increasing revenues by 50% by 
+FY20.
+• Once the candidate ID’s the two drugs that will 
+help the frim reach their revenue goal, they 
+need to perform the following calculations:
+–
+The candidate needs to grow the market size from 
+the given FY18 numbers by the percentages in the 
+footer to get to FY20 expected market size
+–
+Then they need to factor in the 80% chance of 
+commercial success from Stage 3.
+–
+The candidate also needs to identify the expected 
+penetration rate (not given), by pulling it out of the 
+interviewer
+–
+Note: Given that these are all multiplication 
+calculations, it doesn’t matter what order they want 
+to do them in.
+•
+They will be $3.78B short of their goal.
+105
+Exhibit #1 Guidance:
+Analysis:
+
+
+===== PDF p110 =====
+Interviewer guidance on Exhibit 1
+106
+FY18 
+Market 
+Size
+FY19 
+Market 
+Size
+FY20 
+Market 
+Size
+Likeliness of 
+Commercial 
+Success (80%)
+FY20 Market
+Share (25%)
+Milk of the Poppy
+(YoY Growth = 10%)
+$20B
+=20*1.1
+=22
+=22*1.1
+=24.2
+=24.2*.8
+=19.36
+=21.78*.25
+=4.84
+Myrish Fire
+(YoY Growth = 20%)
+$10B
+=10*1.2
+=12
+=12*1.2
+=14.4
+=14.4*.8
+=11.52
+=11.52*.25
+=2.88
+Total FY20 Revenue 
+Generated by the 
+Pipeline
+=4.84+2.88
+=7.72B
+Baseline FY17 
+Revenue
+$23B
+Total FY20 Organic 
+Revenue
+=23+7.72
+$30.72B
+Gap to Target FY20 
+Revenue
+=34.5-30.72
+=$3.78B
+
+
+===== PDF p111 =====
+Case Title
+107
+• Given that they are still $3.78B short of their revenue target for FY20, what else can 
+the firm do to ensure that they reach their goal?
+Prompt #2:
+• This doesn’t need to be read as an official prompt. Hopefully the candidate realizes 
+that they need to consider another option and they can earn points by pushing the 
+conversation forward towards other growth strategies.
+• This would be a great time for the candidate to reference their framework, where they 
+hopefully had a potential acquisition listed.
+• If they want to brainstorm orally, or in an organized manner on paper, both are fine.
+• Ideally they will request to take a look at some information on potential targets. If so 
+give them Exhibit 2. If not, guide them towards considering an acquisition and give 
+them Exhibit 2.
+Interviewer Guidance:
+
+
+===== PDF p112 =====
+Exhibit #2
+108
+Target
+Therapeutic 
+Focus
+Geographic 
+Focus
+# of Drugs 
+in Stage 3
+Employees
+Projected 
+FY20 
+Revenue*
+Essosi Elixirs
+Respiratory & 
+Oncology
+US & China
+4
+750
+$3.8B
+Highgarden’s 
+Hope
+Respiratory & 
+Oncology
+US
+5
+600
+$2.4B
+Oldtown 
+Oncology
+Oncology & 
+Cardiovascular
+Europe & India
+3
+1,250
+$5.5B
+Bravossi
+Biopharma
+Respiratory & 
+Cardiovascular
+Europe
+1
+1,500
+$6.5B
+*Assume that likeliness of commercialization is already factored in
+
+
+===== PDF p113 =====
+Interviewer guidance on Exhibits
+• This is meant to be a relatively quick exercise 
+with no calculations
+• The candidate should use the remaining 
+targeted revenue and think back to the prompt  
+and use all of the information throughout the 
+case to execute a process of elimination
+• The best choice is Oldtown Oncology
+• If they aren’t arriving there ask some probing 
+questions utilizing the analysis information
+• Note: The employees column means nothing. 
+Steer them away from using it in their analysis.
+• The first consideration is the targeted additional 
+revenue of $3.78B – this eliminates 
+Highgarden’s Hope as an option
+• The candidate should think back to the initial 
+prompt and remember that the firm’s strategy 
+revolves around Oncology and entering 
+emerging markets.
+• While Bravossi Biopharma has the highest 
+projected revenue, it does not meet either 
+strategic goal of the firm and should be 
+eliminated. Bonus points if the candidate 
+mentions that they only have one Stage 3 drug 
+in the pipeline, and are therefore subject to 
+higher risk of failure due to a lack of 
+diversification.
+• While both Essosi Elixirs and Oldtown Oncology 
+meet all of the necessary criteria, the additional 
+breathing room above the revenue target that 
+Oldtown accounts for make it the best choice.
+109
+Exhibit #2 Guidance:
+Analysis:
+
+
+===== PDF p114 =====
+Case Title
+110
+• The CEO is walking in the room and wants to know where we stand.  What is the 
+plan?
+Recommendation 
+• A great answer will quickly get to the point that we should look to acquire Oldtown Oncology 
+because our pipeline will leave us short of our revenue target of $34.5B in FY20. The firm will 
+ensure we hit our target while advancing strategic objectives of focusing on oncology and 
+emerging markets.
+• Risks: Current and / or acquired pipeline drugs fail to reach commercialization, market growth and 
+penetration rates are overestimated, acquisition risks (failure to close a deal, failure to integrate –
+cultures, convoluted supply chain increasing costs, etc.)
+• Next Steps: Engage Oldtown Oncology in deal negotiations and begin due diligence, investigate 
+the balance sheet to determine if we need to raise capital for the acquisition, devote more 
+resources to the Milk of the Poppy and Myrish Fire launch teams to ensure a successful FY19 
+launch
+Interviewer Guidance:
+
+
+===== PDF p115 =====
+Evaluation Criteria
+111
+Candidate Level
+Assessment
+Average Candidate
+•
+Doesn’t identify the revenue target as the key
+•
+Incorrect or slow calculations – failure to recognize 
+all necessary calculations
+•
+Doesn’t pull information forward to drive the case
+•
+Needs to be steered towards the correct target
+Good Candidate
+•
+Framework covers all growth strategies
+•
+Identifies Milk of the Poppy & Myrish Fire as 
+contributors to revenue growth by FY20
+•
+Needs some prompting to include all calculations
+•
+Identifies the necessity of an acquisition
+•
+Choses Oldtown Oncology with little prompting
+Excellent Candidate
+•
+Immediately identifies revenue target of $34.5B
+•
+Organizes framework in a sensible, MECE way
+•
+Identifies Milk of the Poppy & Myrish Fire as 
+contributors to revenue growth by FY20
+•
+Identifies all necessary calculations (market growth, 
+likelihood of commercialization, and market 
+penetration) with no prompting
+•
+Pulls forward information about the firm’s strategy 
+and identifies Oldtown Oncology as the best target

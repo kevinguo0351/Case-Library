@@ -1,0 +1,256 @@
+===== PDF p111 =====
+Case: EasyNav
+McKinsey, Mock Interview
+EasyNAV is a multi-national third-party fund accounting company based in New York.  Asset managers, such as Fidelity or other 
+smaller investment shops, often outsource the calculation of their daily fund prices to third-parties such as EasyNAV.  These fund 
+prices, called Net Asset Values, or “NAVs,” represent the per-share price of the fund, which then becomes published to the general 
+public, e.g., in the Wall Street Journal.  Given the high financial stakes, asset managers require EasyNAV to be both highly accurate 
+and timely in their NAV calculations.   This is still a highly manual process due to the number of data sources required to collect this 
+information and inconsistency in data formats delivered to EasyNAV.  Although business growth has been strong over the last five 
+years, EasyNAV has seen its costs rising more quickly than its revenues.  At the current trajectory, costs will exceed revenues within 
+Wh
+h
+f
+NA ’
+d
+h
+b d
+d
+h
+?
+Problem statement narrative
+107
+The initial problem statement specifically asks the candidate 
+to explore EasyNav’s rising costs.  Therefore, the candidate 
+should ignore typical Profitability frameworks that explore 
+Revenues in addition to Costs.
+After the candidate develops a framework the interviewer 
+should move on to the subsequent questions.
+Case Type: Profitability / Operations
+Case Style: Command & Control
+Overview for interviewer
+Steps EasyNav uses to calculate NAVs:
+1. Verify the number of shares of each security that is held 
+within the fund
+2. Verify the number of outstanding shares of the fund itself
+3. Receive and confirm the market-close prices of each 
+security in the fund (must wait) for the equity markets to 
+close; 4pm EST)
+4. Use all available data to calculate NAV and send to 
+requisite publishers – Wall Street Journal, Financial 
+Times, etc. (must submit by 6pm EST)
+Information to be provided upon request
+the next decade, and something must be done.  What are the causes of EasyNAV’s rising costs, and what can be done to reduce them?
+
+
+===== PDF p112 =====
+Case: EasyNav
+Potential Issue Tree & Approach to Solving the Case
+Key elements of analysis to solve the case
+How does EasyNAV operate? 
+•Workflow process
+• Balance of labor
+Company
+Who are they? 
+• Influx of small asset managers
+• Shift in customer mix
+Customer
+What are the industry trends & norms?   
+• Shift to wider range (and complex) 
+investment products 
+• Technology adoption rates
+Industry
+108
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance 
+to interviewer
+Possible follow-up and guidance to 
+interviewer
+• Bottleneck of waiting for market-close 
+prices will cause EasyNAV to have to 
+staff to this peak period of capacity 
+demand, leaving periods of time 
+earlier in the day that are left with 
+slack capacity.
+• Dedicated fund accountants who 
+process each account from start to finish 
+are more costly than functionalizing 
+roles along the value chain.
+• Smaller asset managers have simpler 
+systems leading to ad hoc/manual 
+methods of delivering data to 
+EasyNAV, which increases labor & cost
+• Greater business from new customers 
+vs existing customers requires greater 
+expense in initial account setup.
+• Shift from typical mutual funds to 
+derivatives add to complexity and are 
+more difficult to price.
+• Few third-party fund accounting 
+companies relying on technology to 
+calculate NAVs resulting in high labor 
+costs.
+
+
+===== PDF p113 =====
+Case: EasyNav
+Question 1 – Cost Reduction
+Question
+EasyNAV has 125 fund accountants today (the FTEs who calculate NAVs) who typically are assigned 3-6 funds each, which they work 
+with from morning until end of business.  These fund accountants tend to be very busy during the end of the day in order to meet
+submission deadlines.  Separately, EasyNAV also has a staff of 25 fund administrators who deal mainly with the publishing of 
+quarterly and annual prospectuses (i.e. a report of fund performance).  In addition to its operations in upstate New York, EasyNAV
+has fund accounting operations in Melbourne, Australia, which handles some internationally domiciled funds.  What are some possible 
+ways for EasyNAV to improve their workflow and reduce costs?
+109
+None
+Information to provide up front
+None
+Provide information if asked
+Possible solutions:
+-- Functionalize pieces of the value chain to properly align resources with 
+work load.  For example, instead of one fund accountant following a fund 
+from beginning to end, break up the steps to calculating a NAV.
+-- Rebalance funds across different fund accountants to ensure that the most 
+complex funds are handled by the best fund accountants (load balancing).
+-- Utilize the fund administrators group to help process funds during the 
+peak end-of-day period.  Since their work output is on a quarterly basis, 
+they may have capacity to assist the fund accountants during crunch time.
+-- Utilize all locations (U.S., London, India) to better load balance work 
+through time zone arbitrage.  For example, end-of-day activities for 
+London would take place during quieter morning/noon times for the U.S., so 
+excess capacity in the U.S. could be used to help London during peak times.
+-- Utilize potential low-cost regions of the globe for additional offshoring.
+-- Increase use of technology to reduce manual processes
+Overall approach, good shortcuts & solution
+
+
+===== PDF p114 =====
+Case: EasyNav
+Question 2 – Productivity Loss
+Math Question
+Due to market changes, the team believes that productivity per FTE has dropped over the past five years.  Because more complex 
+funds take more manpower to process, EasyNAV normalizes the difficulty of each fund by assigning funds a “complexity point score,” 
+which allows a fair fund-to-fund comparison (e.g., a fund with complexity score 15 takes three times as long to process as a fund with 
+complexity score 5).  The team needs to determine the level of severity of this productivity drop.  To do this, data in Exhibit 1 has 
+been collected.  Using this data and any other data you might deem necessary, what is the percentage drop in productivity over the 
+past five years, where “productivity” can be expressed as complexity points per FTE?
+110
+Exhibit 1 should be provided after problem statement is read.  
+Information to provide up front
+- Large funds have an average of 10 complexity points each 
+- Small funds have an average of 20 complexity points each
+- Number of large funds has grown 25% over the last five years
+- Number of small funds has grown 120% over the last five years
+- Number of fund accountant FTEs has grown 150% the past five year
+Provide information if asked
+Solution: 20% drop in productivity
+Overall approach, good shortcuts & solution
+
+
+===== PDF p115 =====
+Case: EasyNav
+Question 3 – Resource Allocation
+Math Question
+After meeting with EasyNAV management, the team is asked to explore potential savings by utilizing fund accountant downtime in one geography to assist 
+another geography during their peak time between 4-6pm.  Specifically, they would like us to examine how the Melbourne location could assist the New York 
+location.  Additional information uncovered:
+-- Melbourne is 16 hours ahead of New York
+-- Due to natural variances in workload per day, a location’s average 
+-- FTEs are paid an equivalent of USD $50,000 per year
+utilization cannot exceed 80% of the total available FTEs.  That is, an
+-- New York has 100 FTEs staffed throughout the day, Melbourne has 60 FTEs
+average safety cushion of 20% FTEs is required all times of the day to
+-- Utilization of FTEs varies throughout the day based on the amount 
+allow for very busy days.  Both location’s full-staffing levels reflect 
+of work required at that time of day. Avg utilization in Exhibit 2.
+the necessary staffing to meet this requirement (e.g. 100 employees in
+111
+Exhibit  2 should be provided after problem statement is read.  
+Information to provide up front
+Utilization is a measure of how much of a location’s total available 
+FTE resources are being used (demanded) at any given time, e.g., if a 
+location has 5 FTEs on hand, and the utilization is 60% at noon, then 
+the demand for work is 3 FTEs at that time.
+Provide information if asked
+of work required at that time of day.  Avg utilization in Exhibit 2.
+the necessary staffing to meet this requirement (e.g. 100 employees in 
+New York to meet the average need of 80 employees in peak hours).
+If all available slack capacity in Australia could be diverted to help work on New York-processed funds during their peak activity period of 4-6pm, how much 
+could be saved in labor expense by reducing the New York staffing requirement?
+See following slide.
+Overall approach, good shortcuts & solution
+
+
+===== PDF p116 =====
+Case: EasyNav
+Question 3 – Solution
+Math Solution
+Solution:  EasyNAV will save $750,000/yr, or about 15% of total New York FTE spend
+- Time zone conversion: 4-6pm peak period in NY is 8-10am in Melbourne
+- Available resources in Melbourne: 
+-From the exhibit, average utilization in Melbourne from 8-10am is 60%, therefore there is 20% capacity before reaching the 80% 
+threshold (average utilization cannot exceed 80% during any period of the day)
+-Therefore, 20%*60 FTE = 12 FTEs available to assist NY
+-New resource requirement in NY by utilizing Melbourne: 
+-During the peak time of 4-6pm, NY has an average of 80% FTE utilization, meaning that 80%*100 FTEs = 80 FTEs needed/working 
+112
+g
+p
+p ,
+g
+,
+g
+/
+g
+during this time
+-By utilizing Melbourne, EasyNAV can reduce the 80 FTE demand by 12: 80-12 = 68 FTEs required in New York
+-Savings due to reduction of FTE requirements in NY:
+-EasyNAV can reduce staff in NY so that the 68 FTEs required during the peak time represent 80% staffing requirements
+-Therefore, 68 FTEs/80% = 85 FTEs
+-FTE savings of 100-85 = 15 FTEs
+-Dollar savings of 15 FTEs*$50,000 = $750,0000
+
+
+===== PDF p117 =====
+Case: EasyNav
+EasyNAV Exhibit 1
+113
+
+
+===== PDF p118 =====
+Case: EasyNav
+EasyNAV Exhibit 2
+114
+
+
+===== PDF p119 =====
+Case: EasyNav
+Sample Recommendation
+EasyNav’s primary cost driver is the mismatch between FTE resources and demand.  The client can 
+reduce these costs by utilizing slack capacities between New York and Melbourne.  Such an 
+arrangement will allow EasyNAV to reduce its labor by 6 FTE, a savings of $300,000/year. 
+Recommendation
+Trade-offs to maximum efficiency (e.g.  potential loss of quality or less-skilled labor in offshore 
+agreements, loss of ownership, etc) 
+Risks
+EasyNAV may benefit from greater automation of manual processes and, in addition, can work with its 
+li
+t t
+d t
+t
+d
+di
+d d t
+b i i
+t
+t
+li
+NAV
+l
+l ti
+Next Steps
+115
+clients to mandate standardized data submissions to streamline NAV calculations.
+Next Steps

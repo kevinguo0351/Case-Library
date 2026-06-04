@@ -1,0 +1,279 @@
+===== PDF p135 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+131
+Author: Andrew Gouge (Stern ’15)
+Case Style: Interviewee Led
+Difficulty: Medium
+Case Overview:
+Industry: Utilities
+Case Type: Profitability
+Concepts Tested:
+•
+Profitability calculations
+•
+Breakeven analysis
+Overview Information for Interviewer:
+This case is a cost efficiency problem - an upfront fixed investment results in lower 
+operating cost.
+1.
+Provide ONLY Exhibits 1 and 2 up front and read case prompt to 
+interviewee.
+2.
+Candidate may only view the Exhibits, no other case material.
+3.
+Answer clarifying questions with information provided. All other information 
+is “Unknown”
+4.
+Provide Exhibit 3 only when asked about the cost or price of coal.
+Encourage the candidate to do additional brainstorming on risks & benefits of the 
+project.
+Case Prompt:
+You are a consultant who has been engaged by Sunshine Power, owner of a coal power station on the 
+Sunshine Coast of Australia. Six year’s ago Sunshine Power commenced a pilot project with SunSteam, 
+a solar tech company.  SunSteam technology allows your client to reduce the quantity of coal it 
+consumes by using sunlight as an additional heat source. 
+The $3.5M AUD pilot, involving one SunSteam array, experienced many technical difficulties at first but 
+has just broken even. Recently, SunSteam proposed to expand the pilot by constructing four additional 
+SunSteam arrays. Your client has very specific project investment criteria and is not sure if they should 
+accept the SunSteam proposal.
+Sunshine Power
+
+
+===== PDF p136 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+132
+Clarifying Information:
+Cost of expansion?
+•
+Unknown – make assumption based 
+on case prompt ($3.5M per array)
+Output of One SunSteam Array?
+•
+Steam produced by array equated to 
+0.2% saving in annual coal quantity 
+consumed on average
+Annual Consumption of Thermal Coal?
+•
+Plant operates 24hours a day at 
+100% output capacity. Prior to pilot 
+plant consumed 4 million metric tons 
+of Thermal Coal per Annum
+Array Operating costs?
+•
+SunSteam is easy to maintain, and 
+is maintained by existing on-site 
+staff (assume Op Cost = $0)
+Client Investment Criteria?
+•
+Payback must be less than 5 years, 
+based on internal cost savings only
+Interviewer Guide:
+Exhibit 1 – SunShine Power Station Plan
+•
+Simple sketch of SunShine Power Station site showing proposed 
+plans for expansion of SunSteam array
+Exhibit 2 – SunSteam Technology
+•
+Illustrates SunSteam technology, note inputs and outputs
+•
+SunSteam technology is actually very simple, using mirrors to 
+focus sunlight to boil water and create steam. Usually coal is 
+burnt in a boiler to create steam
+Exhibit 3 – Price of Thermal Coal Last 5 years
+•
+Spot Price of Thermal Coal over last 5 years
+Sunshine Power: Case Guide
+
+
+===== PDF p137 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+133
+Question #1:
+After the interviewee presents their framework, push them to assess the potential risks and benefits of the 
+SunSteam expansion from a qualitative point of view.
+Notes to Interviewer:
+•
+The interviewee should brainstorm about potential risks and benefits associated with the expansion. This should be conversational with the 
+interviewer challenging the interviewee on assumptions and strategic reasoning
+•
+The interviewee should drive this conversation while maintaining a structured approach
+•
+Some potential answers include:
+•
+Financial
+•
+Coal price volatility exposure
+•
+Capital budgeting and alternative investment projects
+•
+Financing costs
+•
+Strategic
+•
+Exclusivity with SunSteam vs alternative technologies
+•
+CSR benefits
+•
+Regulatory 
+•
+Carbon credits
+•
+Pre-empt “cleaner coal” regulations
+•
+Implementation
+•
+Increased technical difficulties 
+•
+Increased organizational capabilities
+•
+After the interviewee has sufficiently brainstormed and mentioned coal price volatility risk, give them Exhibit 3 and ask them to calculate the 
+breakeven price of coal for the expansion project.
+Sunshine Power: Qualitative Assessment
+
+
+===== PDF p138 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+134
+Fixed Investment Costs:
+•
+Construction cost of one array = 
+$3.5M AUD (assumed)
+•
+Construction cost of four arrays 
+= $14M AUD
+•
+Total Fixed Cost to be repaid 
+over 5 years = $14M AUD
+Volume of Coal Saved:
+•
+One Array = 0.2% Coal Saving
+•
+Four Arrays = 0.8% Coal Saving
+•
+Annual Consumption of Coal = 
+4,000,000 Metric Tons.
+•
+Quantity Saving = 4,000,000 x 
+0.008 = 32,000 Tons per year
+Breakeven Price of Coal:
+•
+Total for 5 years: fixed cost 
+divided by coal quantity saved in 
+total.
+•
+14,000,000 / (32,000 x 5) = 
+$87.50
+•
+OR: Per Year saving 
+requirement divided by quantity 
+saved.
+•
+2,800,000 / 32,000 = $87.50
+Notes to Interviewer:
+•
+Calculating fixed investment per 
+year for the 5 years is also 
+possible:
+•
+$14M / 5yr = $2.8M per year
+•
+Therefore Cost Saving must be 
+greater than $2.8M per year.
+Notes to Interviewer:
+• The interviewee should not 
+consider the cost savings from 
+the pilot array in assessing the 
+breakeven for the expansion 
+project
+• Math Shortcut: candidate can 
+calculate 0.1% then double 3 
+times.
+Notes to Interviewer:
+•
+Note: that $87.50 is the break 
+even price.
+•
+Alternately candidate can pick a 
+price of coal e.g. $90 and 
+demonstrate positive return.
+•
+If candidate asks for discount 
+rate, assume no discount rate  
+Sunshine Power: Quantitative Assessment 
+
+
+===== PDF p139 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+135
+Recommendation:
+•
+Based on current price of coal 
+(Approx. $83) achieving 
+payback will not be possible.
+•
+Payback time criteria is satisfied 
+based on a calculated break 
+even price of coal of $87.50.
+•
+If coal prices are expected to 
+rise above $87.50 over 5 years 
+on average, as seen over 4 of 
+the 5  past years, then payback 
+criteria will be achieved.
+Bonus: Guide to an excellent case
+•
+Identifies that sunlight is free, but also identifies the limits of the potential growth (e.g., coal consumption can only be cut to a 
+maximum of 50% due to 24 hour nature of power plant operation.
+•
+Notices declining trend in coal price and the pilot project payback of 6 years to deduce that significant “technical difficulties” 
+must account for 6 year payback when coal was at higher prices
+•
+Identifies possible external gains from the project such as, carbon credit or tax exemptions, and corporate responsibility 
+bonuses for the client.
+Risks:
+•
+Price volatility of coal is the 
+fundamental risk in achieving 
+payback criteria. The higher the 
+price of coal the faster the 
+payback on the project.
+•
+Technical difficulties with new 
+array could delay payback time 
+as they did with the pilot.
+Next Steps:
+•
+Mitigate coal price risk by 
+hedging or locking in option 
+contract.
+•
+Negotiate down construction 
+cost of expansion. Case 
+assumed a $3.5M AUD cost per 
+array. If fixed cost of 
+construction was to drop to 
+$3.3M AUD per array then the 
+project would meet payback 
+criteria based on the current 
+coal price.
+Sunshine Power: Recommendation
+
+
+===== PDF p140 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+Sunshine Power Station Site Plan
+136
+Sunshine Power: Exhibit 1
+
+
+===== PDF p141 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+SunSteam Technology Flow Chart
+Sunshine Power: Exhibit 2
+
+
+===== PDF p142 =====
+© 2018 NYU | Stern MCA – All Rights Reserved 
+Spot Price of Thermal Coal (Last 5 Years)
+138
+Sunshine Power: Exhibit 3

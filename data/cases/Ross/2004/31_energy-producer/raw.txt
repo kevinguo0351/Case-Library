@@ -1,0 +1,115 @@
+===== PDF p74 =====
+Table of Contents 
+ 
+70
+Practice Case 31: Energy producer  
+(BCG - Round 1) 
+ 
+I. Case scope provided by interviewer:   
+ 
+Our client is in the energy business and makes electricity.  The 
+CEO is deciding on making a capital investment to expand 
+capacity.  How should we advise him? 
+ 
+II. Additional information provided after relevant questions:   
+ 
+• 
+$100M investment to produce 2,000 units/week (units are 
+Megawatts of electricity). 
+• 
+Client uses natural gas fired generators.   
+• 
+Variable costs are gas and labor, gas costs $40/unit and labor is 
+$10/unit. 
+• 
+Market price is $100/unit.   
+ 
+III. Sample Solution 
+ 
+What are the fixed costs involved in the investment?  
+ 
+$100M investment to produce 2,000 units/week (units are Megawatts of 
+electricity). 
+ 
+Before assessing the fixed costs, I want to know what are the major 
+inputs (i.e. raw materials) used in generating electricity.   
+ 
+Our client uses natural gas fired generators.   
+ 
+Ok, so, I think that the major variable costs involved would be the 
+following: 
+Natural Gas  
+Labor  
+Distribution ñ infrastructure to connect utility grid 
+What are the actual costs for each of these buckets of costs? 
+ 
+Letís say that the variable costs are gas and labor, gas costs $40/unit and 
+labor is $10/unit. 
+ 
+Ok, so now that we have looked at both the fixed and variable costs 
+involved, I would like to assess the potential revenue that may be 
+generated from this investment. 
+Given that electricity is a commodity product, I would like to know the 
+current market price of electricity in our clientís market.   
+
+
+===== PDF p75 =====
+Table of Contents 
+ 
+71
+ 
+$100/unit.  Given the data you have now, will this investment be 
+profitable in the long-run and how long would it take to pay-back? 
+ 
+Calculate contribution margin and assuming they are able to sell the full 
+capacity of 2,000 units/week. 
+ 
+Revenue = 2,000 units/week * $100/unit = $200,000/week 
+Variable Cost = $50/unit * 2000 units/week = $100,000/week 
+ So, they would make a profit of $100,000/week or $5,200,000/yr 
+ 
+So, the payback period for this investment is $100M/$5.2M ~ 20 yrs 
+ 
+How would you evaluate whether this was an appropriate investment? 
+ 
+Based on the payback period of 20 years, I would compare the payback 
+period to the useful life of the new plant.  
+ 
+The useful life is approximately 30 years.  What else could you do? 
+Look at the payback period of similar investments our company has made 
+to determine if this was in-line with this payback period of those 
+investments.  I could also use industry benchmarks.   
+ 
+Good.  The payback period for similar investments is between 15-20 
+years.  What else should you consider in assessing this investment. 
+ 
+Since this analysis assumed 100% capacity utilization, I would want to do 
+further sensitivity analysis to test that assumption.  For example, what 
+would be the impact on our model if revenue if there was not enough 
+demand to justify the new capacity? 
+ 
+Thatís a good point, how would you go about estimating new demand for 
+electricity. 
+ 
+So, the things that drive new electricity demand would be new home 
+starts, business growth ñ i.e. industrial complexes, growth in consumer 
+devices that use electricity, such as white goods. 
+ 
+What other trends or areas would you look at? 
+ 
+I would look at consumption trends such as the move towards low energy 
+appliances and how that might impact the projections. 
+I would also look at the moves that competitors are making, i.e. the 
+impact that new capacity from competitors might have on my ability to 
+set prices. 
+ 
+
+
+===== PDF p76 =====
+Table of Contents 
+ 
+72
+Synthesis and Recommendation: Given that the payback period is within 
+same range as similar investments, I would recommend that the CEO go 
+ahead with the investment after considering some of the risks mentioned 
+(the sensitivity of demand and potential competitor moves). 

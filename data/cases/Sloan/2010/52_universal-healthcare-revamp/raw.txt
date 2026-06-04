@@ -1,0 +1,191 @@
+===== PDF p173 =====
+52.) Universal Healthcare Revamp (McKinsey, Round 2) 
+Stem: Our client is the health minister of a small country. The country is small and on the upper 
+end of the GDP spectrum for countries of its size. The country's health system is completely free 
+to its citizens, and is funded by taxpayer money. The way that the health care system works is 
+that patients can visit one of 30 clinics spread throughout the country for a primary care visit, and 
+then get referred to one of 2 larger hospitals if n10re intensive procedures are required. There are 
+a few private systems for the richest citizens, but they are so small in comparison to the public 
+system that they won't be considered at all in our study. The GDP, and thus the tax returns for 
+the country have been growing at a 5% rate. However, the healthcare budget has required 10% 
+growth to keep up with demand. The health minister of the country is concerned that at this rate, 
+the healthcare system will become unsustainable. The health minister has hired us to figure out 
+why the healthcare budget is requiring this level of growth and what can be done to reduce it. 
+Phase 1: Examining possible reasons for budget growth 
+Interviewer: What factors do you believe are going into the budget growth? 
+The candidate should come up with a jralnework that should explore: 
+• 
+Demand-driven growth reasons such as 
+o 
+demographic changes leading to a larger number of people visiting hospitals 
+o 
+changes in health perception or awareness in the population such that citizens go 
+to the doctor in response to problems for which they formerly staid home 
+o the incentive systems of doctors and hospitals who may be encouraging patients 
+to come in so that they get paid more for more visits or who may be referring 
+more patients to the 2 bigger hospitals than is necessary 
+• 
+Supply-side effects such as 
+o 
+shortage of doctors or resources bidding up prices for the same services 
+o 
+a lack of preventative care services making patients less healthy and thus needing 
+of more healthcare when they actually do get ill 
+Interviewer: Now that you have identified some reasons for budget growth, let us address how 
+we can cut costs. What are some of the things they could do and what would be the potential 
+risks associated with those? 
+Possible answers that the candidate can come up with include: 
+• 
+Transparency: if physicians don't currently know what various treatments cost, making 
+them aware and helping them take that information into account would be a first step 
+• 
+QuotaslRules: We can require that physicians prescribe a certain amount of generic drugs 
+rather than branded, or that simpler, outpatient procedures be used when possible rather 
+than allowing people to stay several nights in the hospital 
+..... Management 
+1111111111 Consulting 
+~~~~;~::.~ Club 
+2010-2011 1st Year Case Book 
+219 
+
+
+===== PDF p174 =====
+• 
+Risks: We need to ensure that the rules don't reduce the quality of care overall, so 
+physicians need to be involved in crafting the rules. 
+Phase 2: Forecasting Healthcare Needs Growth 
+Interviewer: The client's census bureau has printe,d out some information. What do you make of 
+this? 
+Age 
+0/0 of population today 
+% of population in 10 years 
+Average HC cost 
+per person per year 
+0-21 
+20 
+10 
+$1000 
+22-65 
+70 
+70 
+$500 
+65+ 
+10 
+20 
+$4000 
+The candidate should come to the conclusion that the population will be redistributed with a 
+larger percentage becoming older, and thus, costing lnore money to the healthcare system. This 
+means that it seems like the healthcare spend will increase by an even greater rate than it 
+currently is, which spells bad news for the health minister. It would be helpful to figure out how 
+bad the problen1 will become. 
+Interviewer: Could you figure out how much the country currently spends on health care, and 
+how much they are projecting to spend in 10 years? 
+To calculate current spending, a weighted average of the average spend per citizen can be taken 
+from today's data. The calculation of future spending needs to factor in change due to shifting 
+demographic as well as the greater number of citizens in the future due to increase in population 
+Do not give the candidate the information about population change unless they ask for it. If they 
+do not realize it and include it in their calculations~ guide them to it. The population is currently 
+1M, and the census estimates see it growing by 300/0 in 10 years. 
+Calculation of current average spending: 
+(0.20 (0-21 years) * 1000 + 0.70(22-65 years) * 500 + 0.10(65+ years) * 4000) * IMillion 
+(population level) = 950M in current spend 
+Calculation of future average spending: 
+First, the population change needs to be taken into effect: 130% * 1M = 1.3M 
+Next, this must be incorporated into a weighted average 
+...... Management 
+1111111111 Consulting 
+~~~~I~,~~ Club 
+2010-2011 1 sty ear Case Book 
+220 
+
+
+===== PDF p175 =====
+0.10 (0-21 years) * 1000 + 0.70(21-65 years) * 500 + 0.20(65+ years) * 4000 * 1.3Million 
+(population level) = 1.62~B in future spend 
+Finding out the percent change: 
+1.625B(future spend) - 950M(current spent) = 675M 
+Divide that by the current spend yields a 71 % increase in spending, which is a huge increase. It is 
+also ok if the candidate rounds 950M to IB and then the percent increase becomes 62.5%, which 
+is equally significant. (Ensure that the candidate calculates the percent change in spending and 
+reacts to it. ) 
+Phase 3: Copayment Idea 
+Interviewer: Before we started on this project, the health minister was toying with the idea of 
+beginning a $5 per visit copayment. This would cover all individual visits regardless of specialty. 
+Currently, the average citizen goes through the healthcare system 5 times a year, at an average 
+cost of $50 a visit. What do you think would be the impact of the copayment? 
+The candidate should theorize that first, with $5, the cost would go down to $45, and then also, if 
+the visits are no longer free, patients will be choosier about when they go to the doctor and there 
+will be fewer visits per citizens. When the candidate gets to that point, let them know that the 
+estimate is that there will be 4.5 visits per year as a result. The candidate should now realize, or 
+be coaxed into figuring out what percent of the budget will be saved by this change: 
+First, the candidate should figure out the current cost to the system for all of the visits: 
+5 (visits per year) * $50 (per visit) * IM(citizens in the country) = $250M 
+Then, under the plan: 
+4.5 (visits per year) * $45 (per visit) * 1M (citizens in the country = $202.5M 
+Subtracting the two gets a difference of roughly $50M saved with the copayment, which would 
+reduce the total cost of routine visits by roughly 20% (Make sure the candidate remembers that 
+total health care spending is $950M, so this plan would constitute a 5% reduction off of the 
+total). 
+Phase 4: Copayment Risks 
+Interviewer: Although the copayment seems like a good idea, do you think that there are any 
+risks to the idea? How could those risks be alleviated? Are there any other ideas that come to 
+mind aside from a copayment that could help out the situation? 
+Here are some suggestions. Importantly, the candidate should remain structured: 
+Risks: 
+~-
+~ -- -
+-~-
+~ 
+........ 
+Management 
+1111111111 Consulting 
+~~;~I~~.~ Club 
+2010-2011 1st Year Case Book 
+221 
+
+
+===== PDF p176 =====
+• 
+Looking out for the poorest citizens - perhaps they can't afford the $5 copay. Care should 
+be taken to make sure that it's affordable for all, and perhaps, there can be a sliding scale 
+based on per capita income 
+• 
+Public unhappiness in response to the copayment - The public will probably be unhappy 
+with this change, which could have political repercussions for the health minister's party. 
+Perhaps a survey could be taken to gauge how unpopular this idea would be. 
+• 
+Will the copayment be enough to affect anyone who may abuse the system - Is $5 
+enough of a deterrent for people who go to see the doctor for superfluous visits? Perhaps 
+there should also be a sliding scale based on acuity or visit type. 
+• 
+Emergency attention - Could the $5 copayment make it difficult to obtain care in an 
+emergency? Perhaps the fee should be waived in emergency situations. 
+Alternatives to copayment system 
+• 
+Limiting types of visits - Some regulation could be put in place for types of visits that 
+really only need to take place once a year, like eye exams. 
+• 
+Increasing spending on preventative care - If people lead healthier lives, they will need 
+less healthcare. More attention could be placed on encouraging preventative care habits 
+for the general population. 
+Phase 5: Recommendation 
+Interviewer: Ok, wrapping up, what should we tell the healthcare minister? 
+In this answer, the most important thing is for the candidate to be structured and concise. 
+Possible answer: 
+We've looked at the healthcare spending situation, and we estimate that there will be a 70% 
+increase over the next 10 years, driven by two factors 
+o Population increase 
+o Population aging 
+Copayment is a good place to start to immediately address the healthcare spending situation as it 
+could decrease costs this year for starters by roughly 5% from initial estimates. However, more 
+analysis needs to be done to make sure that the copayment will not have adverse effects quality 
+of care delivered, and that it will be politically feasible. 
+From a long-term perspective, the population's healthcare needs will grow substantially, and 
+more thought must be taken to figure out how to maintain the systenl' s sustainability. Initiating 
+visit type regulations and focusing on preventative care are two good places to start to make sure 
+that the healthcare system can continue to meet the needs of the popUlation at a reasonable cost. 
+_...... Management 
+1111111111 Consulting 
+~~;~I~,~~ Club 
+2010-2011 1 st Year Case Book 
+222 

@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2019_12_telco-towers",
+  "school": "Fuqua",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2019.pdf",
+  "idx": 12,
+  "case_name": "Telco Towers",
+  "case_type": "Growth",
+  "round": null,
+  "industry": "Telecommunications",
+  "difficulty": null,
+  "pdf_page_start": 154,
+  "pdf_page_end": 162,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    158,
+    159,
+    162
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p158.png",
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p162.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2019\\12_telco-towers"
+}

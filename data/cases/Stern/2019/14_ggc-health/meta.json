@@ -1,0 +1,30 @@
+{
+  "case_id": "Stern_2019_14_ggc-health",
+  "school": "Stern",
+  "year": "2019",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2019.pdf",
+  "idx": 14,
+  "case_name": "GGC Health",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Healthcare",
+  "difficulty": null,
+  "pdf_page_start": 152,
+  "pdf_page_end": 160,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    154,
+    155,
+    157,
+    159,
+    160
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p154.png",
+    "exhibits/exhibit_p155.png",
+    "exhibits/exhibit_p157.png",
+    "exhibits/exhibit_p159.png",
+    "exhibits/exhibit_p160.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2019\\14_ggc-health"
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "Kellogg_2013_28_money-bank-call-center",
+  "school": "Kellogg",
+  "year": "2013",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2013.pdf",
+  "idx": 28,
+  "case_name": "Money Bank Call Center",
+  "case_type": "Operations",
+  "round": null,
+  "industry": "Banking / Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 231,
+  "pdf_page_end": 236,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    233,
+    236
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p233.png",
+    "exhibits/exhibit_p236.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2013\\28_money-bank-call-center"
+}

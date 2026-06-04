@@ -1,0 +1,297 @@
+===== PDF p26 =====
+22
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Case Prompt
+Our client is a small auto-parts manufacturer (Name: APM Co.) with roughly $350M in revenue 
+and operations on two continents. The company has experienced extreme growth in recent 
+years, and the CEO is becoming pressured to improve profit margins to be more in line with 
+competitors. She want us to help identify and implement improvements.
+How would you approach this problem?
+Interviewer Guidance
+This will be an interviewer led case. After prompt, let interviewee ask questions and then probe 
+for hypotheses on next steps.
+After that, move into Exhibit 1.
+Candidate strength can be measured by number of savings initiatives they work through. 
+Additionally, handling financials will be a key skill in this case.
+Concepts Tested
+Accounting, Operations, Business Judgement, Mental Math
+
+
+===== PDF p27 =====
+23
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Clarifying Information
+•
+Prices & quantities are contractually set in advance. 
+Company has little-to-no ability to improve top line 
+in short run.
+•
+Do not have a financial target for improving margins, 
+want as much as possible as fast as possible
+•
+Company has grown through both organic and 
+inorganic means. Because company has grown so 
+quickly, staff have had limited time to share best 
+practices and analyze operations for flaws. They are 
+rushing to get orders out.
+•
+Company has plants in Michigan, Tennessee, and 
+Tianjin China. MI + TN sell directly to OEMs. CN 
+does some such sales, but mostly still building smaller 
+components that are sold to manufacturers.
+•
+Primary customers are major US OEMs for MI + 
+TN, and Tier 1 or Tier 2 suppliers for CN. 
+•
+Typically a product will run at contractual levels for 5 
+years. After company produces small batches for 
+warranty.
+Possible Framework
+Given that this is a cost reduction case, possible 
+framework could look at operational buckets and 
+problems within those buckets. For example,
+Manufacturing:
+•
+Maintenance/Downtime, 
+•
+Scrap Rates
+•
+Materials/Sourcing
+Logistics:
+•
+Non-optimized order quantities
+•
+Redundant supply routes (i.e.. not consolidated)
+•
+Selection of expensive routes and modes
+Procurement:
+•
+Expensive sourcing
+•
+Poor demand forecasting
+•
+Lack of balance between inventory and freight costs
+
+
+===== PDF p28 =====
+24
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Interviewer Guidance
+This is an interviewer led case. You should ask the candidate to brainstorm and test their knowledge before confirming 
+which is the right direction. The case has the following flow.
+•
+Into & Build framework
+•
+Present high level financials
+-
+Candidate should identify which plant they want to pursue. A strong candidate will have ideas of where they want 
+to focus in that plant right away.
+-
+If candidate wants to focus on MI Plant, push them to see if they notice R&D. If not redirect to TN.
+-
+Ask candidates to calculate Gross Margin and Net Margin if desired.
+•
+Present financials for TN plant if needed.
+-
+Candidate should note four main areas for improvement: scrap, freight, overhead, workers comp/safety. If they 
+want to focus on labor, overhead, or workers comp, just note that it will take a few years to adjust due to union 
+negotiations.
+•
+Present either scrap (Ex3) or freight (Ex4) exhibit depending on where candidate wants to start. Note more scrap has 
+the higher “sticker price” so it is a logical place to start.
+-
+Further guidance for those exhibits is provided on the slide directly after the exhibit.
+A very strong candidate will get through both scrap and freight problems. An extremely strong candidate will also bring in 
+the OH and Workers Comp issues.
+
+
+===== PDF p29 =====
+25
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 1 – Company Financials by Manufacturing Facility
+
+
+===== PDF p30 =====
+26
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 1 – Notes for interviewer
+Note plant is in China, hence lower labor 
+costs and lower overhead. US branches have 
+more robust marketing & admin.
+These four items together highlight a plant 
+struggling relative to others. This will be the 
+bulk of the case. Ask for ideas before giving 
+next exhibits.
+Note this plant is the primary R&D center, 
+so while “profits” may be lowest, this plant 
+actually performs relatively well when you 
+factor out the R&D, which is critical for the 
+company.
+Intended to make it easier for the interviewer to 
+see the key disparities between the plants.
+
+
+===== PDF p31 =====
+27
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 2 – Financials for Tennessee facility by line
+
+
+===== PDF p32 =====
+28
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 3 – Cumulative Scrap Rate by Manufacturing Step
+Coat
+Cure
+Trim
+Attach
+Re-form
+Clean
+Simplified Manufacturing Process for Line A
+2.5M
+2.5M
+1.5M
+5.5M
+4.0M
+N/A
+Investment to Reduce Scrap Spend by 80%
+2.5%
+3.75%
+1.25%
+90%
+2.5%
+0%
+Contribution to Total Line Scrap by Step
+
+
+===== PDF p33 =====
+29
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 3 – Interviewer Guidance
+Clear to see that the “Attach” step is causing issue. If the interviewer desires to add context for interviewee, they can say...
+“In the attach process we attach a fragile part to another subassembly. Dong so requires a precise amount of pressure. The 
+machine we use to do this is becoming less precise, so the applied pressure varies and results in high scrap. That 5.5M 
+represents the purchase price for a new machine. Given the high price tag, is it a good idea?”
+Math to calculate…
+Product is in year 1 of 5. No discount rates.
+Attach accounts for 90% of Line A scrap = .9 * 3.7M = 3.33 M
+If invest, it would reduce this scrap by 80%. Now 3.33*.8 = 2.66 M
+Payback period = 5.5M/2.66M = 2.07 years or just over 2 years
+This is a good investment. Should move forward. 
+
+
+===== PDF p34 =====
+30
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 4 – Tennessee Line A: Supply Chain Network & Spend by Segment
+$1,800k
+$460k
+$380k
+$170k
+$320k
+$80k
+Tennessee Facility
+Supplier
+*Chinese route accounts for 100% of 1.1M expedited freight for Line A
+
+
+===== PDF p35 =====
+31
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Exhibit 4 – Interviewer Guidance & Data
+When interviewee digs into the China to Tennessee segment provide…
+•
+Factory in China is a relatively new JV and supplies a component for Line A
+•
+High spend is because products are shipped by expedited air (think overnight shipping)
+•
+Line is currently running “hand to mouth” – they produce and ship right away because the line barely has capacity to 
+meet demand. Accounts for 100% of expedited freight.
+Then ask how interviewee would think about reacting to this? Possible answers include
+•
+Increase capacity
+•
+Resource to another facility (If they ask… Can’t - Takes too long – OEM’s have to approve)
+•
+Increase hours worked by employees (If they ask… Can’t - Already working close to 24/7)
+•
+Outsource to another facility to cover excess demand (If they ask…  possible but client concerned about IP)
+After brainstorming, provide the following options to increase capacity and reduce freight spend. 
+When they ask, inventory holding cost is 20% and (again) product just finished year 1 of 5. Assume investment has no lead 
+time. Math is 12*Change Monthly Spend + .2*AvgInv. Rounding acceptable. 
+(150,000-40,000)*12 - .2*(2,500,000 – 50,000) = ~1.3M - ~.5M = ~ 8M / year
+Note: inventory levels increase because 
+shipping frequency goes down. Current 
+every 2 days, Air Scenario every 1-2 
+weeks, Sea Scenario every 1-2 months.
+
+
+===== PDF p36 =====
+32
+Case 1: Pressing Parts Problems
+Industrial Goods | Operations & Cost Reduction
+Recommendations
+Risks
+Next Steps
+APMC can immediately enact 
+changes to improve margins on 
+Line A in Tennessee by …
+1.
+Investing in a new “attach 
+machine” which will reduce 
+scrap by $2.6M a year
+2.
+Investing in capacity at their 
+Chinese JV so as to reduce 
+expedited freight and switch 
+to sea shipments, saving 
+$.83M a year.
+Risks include
+1.
+Movement to sea shipments 
+on China line increase 
+inventory, increasing the risk 
+of mark downs or 
+obsolescence
+2.
+Sea shipments could increase 
+the risk of lost or damaged 
+goods
+3.
+Wide spread problems at 
+Tennessee could indicate 
+leadership challenges, 
+suggesting these are only 
+short term fixes (note OH & 
+Workers Comp = indicator 
+of very strong candidate)
+APMC should:
+1.
+Complete “attach machine” 
+purchase
+2.
+Invest in Chinese JV capacity 
+to make switch
+3.
+Ensure shipping insurance in 
+place
+4.
+Explore TN management 
+training (or improvements)
+5.
+Examine opportunities to cut 
+overhead in TN
+6.
+Examine extremely high 
+workers comp numbers at 
+TN

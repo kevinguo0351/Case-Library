@@ -1,0 +1,366 @@
+===== PDF p52 =====
+48
+National Logistics Trucking
+Bain | Round 1 | Transportation
+
+
+===== PDF p53 =====
+49
+Bain | Round 1 | Transportation
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+NATIONAL LOGISTICS
+B E HAVI O R A L  
+I NT E R VI E W  
+Q UE S T I O N:
+1 .  W h a t  d o  y o u  
+c o n s i d e r  t o  b e  
+y o u r  g r e a t e s t  
+a c c o m p l i s h m e n t  
+s o  f a r  a n d  wh y ?
+2 .  Te l l  m e  a b o u t  
+a  t i m e  wh e n  y o u  
+h a d  t o  wo r k  wi t h   
+a  d i f f i c u l t  c l i e n t  
+o r  t e a m  m e m b e r.  
+Ho w d i d  y o u  
+h a n d l e  t h e  
+s i t u a t i o n ?
+UVA Darden School of Business 2018-19 Casebook
+Clarifying Information:
+Note: Provide this only if corresponding questions are asked.
+What is the client’s primary goal? National express is looking to boost profitability by any means
+Are other competitors facing the same issue? Yes, the entire transportation industry is feeling the wage pressure
+Does the client have a profitability target? No, the client just wants to improve profitability from their current state
+Are there other costs that have been influencing profitability? Yes, steadily rising fuel prices have also been 
+hampering the company’s profits
+Is the company running at full capacity? Yes, the only thing limiting the company’s revenue growth is finding drivers to 
+drive their trucks
+Has revenue also been in decline? No, revenue has been rising steadily over the last 5 years but is only capped by lack 
+of drivers to fulfill deliveries
+Prompt:
+Your client is National Logistics; a large transportation and logistics company 
+that delivers freight to all areas of North America. Over the last five years, the 
+company has experienced rising costs due to increases in wages resulting 
+from a shortage of truckers. The client is now looking to reduce operational 
+costs in the business. How would you advise the client?
+
+
+===== PDF p54 =====
+50
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+UVA Darden School of Business 2018-19 Casebook
+How to Move Forward:
+The candidate should mention “more fuel efficient trucks” (or something similar) in his/her framework. If they don’t, press them until they 
+mention it. Once included in the framework, mention that: the client was interested in exploring that option. Move on to question 1.
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are a few considerations that the interviewee should include in their framework
+Profitability
+Revenue:
+•
+Prices: Can we 
+raise them?
+•
+Delivery Mix: 
+Prioritize more 
+expensive freight?
+•
+Use double trailers 
+per delivery instead 
+of single trailers
+Costs:
+•
+Fuel: What are fuel 
+prices? Can we hedge?
+•
+Depreciation: What are 
+the depreciation life-span 
+on trucks?
+•
+Overhead: Can we 
+reduce admin staff?
+•
+Outsource: Contract labor
+•
+Load per Truck: How full 
+are the loads per 
+delivery?
+Investments
+•
+Buy new fuel efficient 
+trucks
+•
+Add energy saving 
+technology e.g. spoilers, 
+speed limiters, drag 
+resistant wheels, etc.
+•
+Purchase a low cost-
+leader transportation 
+company
+•
+Develop drone delivery 
+capabilities
+•
+Explore autonomous 
+trucks
+Other
+•
+Explore other high margin 
+markets e.g. airfreight, 
+shipping, railways, etc.
+Innovate
+
+
+===== PDF p55 =====
+51
+Question 1: 
+The client is interested in purchasing more fuel efficient hybrid truck fleets that use both batteries and 
+diesel fuel. What are some of the cost considerations the client should be aware of in making this 
+decision?
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+UVA Darden School of Business 2018-19 Casebook
+Answer:
+The candidate can list any number of factors to consider, but it is crucial for the candidate to list these five cost considerations below. Press 
+the candidate if he / she is missing any of the following five factors.
+1.
+Price/cost of truck
+2.
+Maintenance
+3.
+Insurance
+4.
+(Fuel usage) miles per gallon (MPG)
+5.
+Depreciation
+Bonus Question:
+What costs do you believe would increase if National Express were to use hybrid trucks? 
+Guidance: This question tests a candidate’s business judgement. The price of the truck, maintenance, and insurance are good answers 
+because the hybrid models have more technology and are more complex than a standard truck. Hand the candidate Exhibit 1.
+
+
+===== PDF p56 =====
+52
+EXHIBIT 1: COST OF OPERATING EACH SEMI
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+UVA Darden School of Business 2018-19 Casebook
+*National Express pays an average $3.00 per gallon for fuel
+Financial Metrics
+Standard Truck
+Hybrid Truck
+Purchase Price
+$100,000
+$150,000
+Maintenance / Yr.
+$5,000
+$8,000
+Insurance / Yr.
+$2,000
+$3,000
+Avg. Miles Driven / Yr. 
+60,000
+60,000
+MPG
+10
+20
+Vehicle Lifespan
+10 Years
+10 Years
+
+
+===== PDF p57 =====
+53
+Question 2: 
+We ran two cost scenarios for the client to compare the cost of operating a hybrid truck vs. a standard 
+diesel truck. What are the potential cost savings (if any) from switching to a hybrid truck?
+Candidate should ask about the depreciation schedule: Answer –National express uses straight-line depreciation for all of 
+their trucks. All trucks will have a $0 salvage value at the end of their lifespan.
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+UVA Darden School of Business 2018-19 Casebook
+Answer:
+Standard Semi:
+Maintenance + Insurance = $7,000; Depreciation = $100k / 10 years = $10,000; Fuel = 60,000 Miles / 10 MPG = 6,000 x $3.00 per gallon 
+= $7,000 + $10,000 + $18,000 = $35,000 Annually per truck
+Hybrid Semi: 
+Maintenance + Insurance = $11,000; Depreciation = $150k / 10 years = $15,000; Fuel = 60,000 Miles / 20 MPG = 3,000 x $3.00 per gallon 
+= $11,000 + $15,000 + $9,000 = $35,000 Annually per truck
+There are no annual savings
+Move on to question 3 
+
+
+===== PDF p58 =====
+54
+Question 3: 
+Given the results of the analysis, would you recommend for National Logistics to invest in hybrid 
+trucks? Why or why not?
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+UVA Darden School of Business 2018-19 Casebook
+Guidance:
+There is no right or wrong answer (except “I don’t know”). This question is meant to judge how well a candidate can make a decision and 
+justify their decision during moments of ambiguity.
+Possible answers could include:
+Yes. Possible rationales: The savings can be even more if gas prices continue to rise; the company can extend the useful life of the hybrid 
+trucks to reduce depreciation expense; the company can explore negotiating maintenance costs down; Hybrid trucks are better for the 
+environment and may have tax reduction implications; Switch insurance providers or negotiate on costs
+No. Possible Rationales: Gas prices may fall, this making the standard trucks cheaper to operate; the purchase doesn’t meet the company’s 
+primary goal of reducing costs; tying up resources in new trucks creates an opportunity cost against more potentially profitable projects
+Many more sound rationales can be used to explain the candidate’s choice. It is up to the interviewer to judge whether the candidate’s 
+judgement I sound
+
+
+===== PDF p59 =====
+55
+BRAINSTORM
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+The client also wants to get our thoughts on how they can reduce their shortage of truckers. Brainstorm some 
+ways National Logistics can reduce their shortage.
+Internal
+Pay & Benefits (call out that these reduce profitability)
+•
+Offer starting bonuses 
+•
+Increase salaries
+•
+Offer more vacation
+•
+More Flexible hours
+•
+Better healthcare coverage
+Reduce employment restrictions
+•
+Lower education restrictions
+•
+Low work experience
+Get help internally
+•
+Have overhead employees drive during peak 
+seasons
+External
+•
+Hire contract drivers part-time during peak seasons
+•
+Sponsor international drivers with visas
+•
+Invest in autonomous truck technology
+•
+Form delivery partnerships with competitors
+•
+Lookinto heavy duty drones for short routes
+Guidance: Internal options are plentiful. The most creative candidates will come up with innovative solutions that are 
+external to the company. (Buckets don’t have to be internal vs. external) 
+
+
+===== PDF p60 =====
+56
+CONCLUSION
+0 1  |  C A S E :  NAT I O NA L  L O G I S T I C S
+UVA Darden School of Business 2018-19 Casebook
+To conclude, the interviewee should provide the following:
+Recommendation: 
+•
+Should National Logistics invest in new trucks? (Yes/ No) and why? 
+•
+(If not) what other cost saving initiatives can they explore (from framework)?
+Risks:
+•
+Fuel prices will impact savings
+•
+Maintenance costs may vary
+•
+Driver wages may continue to rise in strong economy
+Next Steps:
+•
+Explore other cost savings alternatives like… (refer to framework)
+•
+Look for ways to reduce hybrid truck insurance or maintenance costs, etc..
+
+
+===== PDF p61 =====
+57
+I NT E R VI E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Framework
+
+Logical approach
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Notes:
+
+Quantitative Ability
+
+Accuracy
+
+Speed
+
+Analytical Approach
+
+Errors / Guidance
+1
+2     3     4     5
+Notes:
+
+Business Acumen
+
+Insightful
+
+Implementable 
+
+Business Judgment
+
+Creative Brainstorm
+1
+2     3     4     5
+Notes:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Notes:
+Communication:
+
+Case Materials
+
+Organized Page Layout
+
+Recognition of Errors
+
+Resource References
+1
+2     3     4     5
+Notes:
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Strengths:
+Opportunities:
+Case Execution:  ___ / 15
+Communication:  ___ / 10
+Behavioral:           ___ / 15
+Total Score:          ___ / 40
+Total Time: _____: ______
+Behavioral:
+
+Overall Performance
+
+Quality of Answers
+
+Relevance
+
+Clarity & Time
+1
+2     3     4     5
+1      2     3     4     5
+1      2     3     4     5

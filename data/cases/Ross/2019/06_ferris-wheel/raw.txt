@@ -1,0 +1,248 @@
+===== PDF p80 =====
+Case 6: Ferris Wheel
+Entertainment | New Investment Analysis
+76
+
+
+===== PDF p81 =====
+Case 6: Ferris Wheel
+Industry: Entertainment| New Investment Analysis
+Case Prompt
+A friend of mine is super rich and is always looking into interesting investment opportunities. To raise funds 
+for renovation, Ferris Wheel management in Chicago is considering inviting bids from High Net Worth 
+Individuals (HNIs) to let them run the Wheel for a whole year, 7 years later.
+As a fan of Chicago and the Wheel, my friend wants to bid on this opportunity and wants to know how to 
+go thinking about this.
+Interviewer Guidance
+
+Level: Easy, Round 1 Case
+
+Interviewee led case 
+
+No charts/graphs
+Concepts Tested
+Brainstorming, Setting up calculations, Math 
+77
+
+
+===== PDF p82 =====
+Clarifying Information
+•
+Desired ROI : 10%
+•
+If the bid is won, the friend would be CEO of 
+the company and run the operations
+•
+The friend also has some interesting 
+investments in the food and beverage space
+•
+No funding limitations
+Good Framework
+
+Good framework could include:
+
+Revenue analysis
+
+Ticket sales
+
+Other revenues
+
+Cost analysis
+
+Salaries
+
+Marketing
+
+Rent, Energy and Maintenance
+
+Insurance
+
+Other aspects
+
+Capabilities to operate
+
+Risks of not knowing 7-year future
+
+Synergies from F&B businesses
+
+Funding for bid amount
+
+Opportunity cost
+Case 6: Ferris Wheel
+Industry: Entertainment| New Investment Analysis
+Interviewer Guidance
+•
+After framework development, let the 
+candidate drive the case but course correct if 
+necessary: 
+1.
+Brainstorm and calculate revenues
+2.
+Brainstorm costs
+3.
+Calculate margin, discount for NPV and 
+maximum Bid amount
+4.
+Recommendation to friend
+78
+
+
+===== PDF p83 =====
+Case 6: Ferris Wheel
+Industry: Entertainment| New Investment Analysis
+Brainstorm and calculate revenues
+1.
+Ask candidate to brainstorm how we’d calculate ticket revenues
+•
+Should settle on Price of tickets, capacity of the wheel, # of days ride operates, # of hours a day
+2.
+Ask candidate how they would think about pricing the tickets? 
+•
+Good factors to consider would be peak pricing on holidays and weekends
+•
+Seasonal variation due to being in Chicago – less footfall in winter, heavy crowds in summer
+•
+Push the candidate for more pricing ideas (combined packages, multi-ride pass, corporate rates)
+3.
+Finally ask the candidates what are some other/alternate revenues that could be earning?
+•
+Good answers would include Food & Beverage, photo memories, private cabins, memorabilia, 
+advertising partnerships, synergy benefits etc.
+Interviewer Guidance
+1.
+This section to entirely facilitate brainstorming for the candidates
+2.
+Creativity in pricing and alternate revenue streams is encouraged (can also be drawn from candidates 
+personal experiences)
+3.
+Can push candidates with the “What else?”
+79
+
+
+===== PDF p84 =====
+Case 6: Ferris Wheel
+Industry: Entertainment| New Investment Analysis
+Ticket Sale Revenue Calculation
+1.
+Provide the candidate these numbers to run the calculations:
+•
+Runs 52 weeks, 11 hours/day, capacity: 200 people/hour, $15 tickets (weekend 30% premium)
+•
+Utilization: Spring/Summer/Fall weekdays (80%) and weekends (100%) | Winter weekdays (50%) 
+and weekends (75%)
+•
+Other revenues + synergy benefits : $4.5M
+2.
+Good candidate will lay out the math in a 2 by 2 matrix (Summer & Winter, Weekend & Weekday)
+3.
+If a candidate does 2 buckets of calculation quickly – you can give them revenues from other 2 buckets
+Assume 26 weeks each (it's Chicago after all)
+Spring/Summer/Fall
+Winter
+Weekday
+- # of days = 26 weeks*5 = 130 days
+- # of hours working = 130 days*11 = 1430 hours
+- Utilization (80%) = 1144 hours
+- Total People = 1144 hours *200 = 228,800
+- Sales = 228,800*$15/ticket = $3.432M
+- # of days = 26 weeks*5 = 130 days
+- # of hours working = 130 days*11 = 1430 hours
+- Utilization (50%) = 715 hours
+- Total People = 715 hours *200 = 143,000
+- Sales = 143,000*$15/ticket = $2.145M
+Weekend
+- # of days = 26 weeks*2 = 52
+- # of hours working = 52 days*11 = 572 hours
+- Utilization (100%) = 572 hours
+- Total People = 572 hours *200 = 114,400
+- Sales = 114,400*$20/ticket = $2.288M
+- # of days = 26 weeks*2 = 52
+- # of hours working = 52 days*11 = 572 hours
+- Utilization (75%) = 429 hours
+- Total People = 429 hours *200 = 85,800
+- Sales = 85,800*$20/ticket = $1.716M
+Total from ticket sales: $9.521M + Other $4.5M = Total Revenues is $14M
+80
+
+
+===== PDF p85 =====
+Case 6: Ferris Wheel
+Industry: Entertainment| New Investment Analysis
+Brainstorm costs and calculate margin + bid amount
+1.
+Let the candidate suggest that now let’s look at the costs of running the Ferris Wheel
+2.
+Ask candidate to brainstorm some of the those costs:
+•
+Good answers include: Salaries/Labor, Marketing, Rent, Energy, Maintenance, Insurance, etc.
+•
+Provide the candidates total costs needed for a year : $3M 
+3.
+Good candidates would proceed to calculating margin / net income (if not, guide them to this):
+•
+Revenues – Costs = $14M - $3M = $11M Net Income
+4.
+Good candidates would consider time value of money, since this margin would be earned 7 years later
+•
+Rule of 72 discounting: 72/rate of return (10%) = ~7 years to double money or NPV is half
+•
+Therefore, net income in today’s value = $11M/2 = $5.5M
+•
+If candidates are unaware to consider discounting  or how to discount – do prompt and guide
+5.
+Good candidates will proceed to calculate maximum bid amount for today:
+•
+Max bid amount for 10% ROI = $5.5M/110% = $5M
+6.
+Ask candidate to make a recommendation
+81
+
+
+===== PDF p86 =====
+Case 6: Ferris Wheel
+Industry: Entertainment| New Investment Analysis
+Recommendation
+Risks
+Next Steps
+•
+Make a bid for a 
+maximum amount of $5M 
+to ensure an ROI of 10% 
+would be achieved for 
+NPV of $5.5M
+•
+Any lower bid would 
+increase ROI to >10% 
+Risks include:
+1.
+These projections may 
+not stay constant for over 
+7 years and we should 
+consider possible changes 
+in market trends / 
+competition
+2.
+With no prior experience 
+in managing such a 
+venture previously, there 
+may be hiccups and your 
+friend should consider 
+hiring a CEO to run this
+3.
+Are opportunity costs of 
+other investments >10%?
+Your friend should:
+1.
+Ensure appropriate liquid 
+funds are available to bid
+2.
+Plan a bidding strategy to 
+help succeed in the 
+auction by wining it with 
+a less than <$5M bid
+3.
+Think of other synergy 
+benefitting investments 
+could be made over next 
+few years
+82

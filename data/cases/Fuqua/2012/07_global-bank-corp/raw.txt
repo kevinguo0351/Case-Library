@@ -1,0 +1,408 @@
+===== PDF p57 =====
+53 
+Prompt 
+Your client is a large multi-national financial services company. A drop in financial activity as well as 
+increasing regulation has caused its profitability to drop for 2 years in a row 
+ 
+How would you recommend that the client reverse this trend? 
+ 
+Guidance 
+If the candidate asks for more information on the type of financial institution, mention that it focuses 
+mainly on asset servicing and asset management. 
+ 
+The candidate should outline a standard profitability framework (P*Q- (FC+VC*Q)) and mention that he/
+she wants to dig deeper into current revenues and costs. The candidate may also bring up other factors, 
+such as looking at ways to decrease regulation, or the potential of exploring M&A. Steer them towards 
+exploring revenues and costs and show them Exhibit 1, then ask how he/she would like to proceed.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Profitability 
+Case 7: Global Bank Corp. 
+Exhibit 1: Client Revenues and Expenses 
+2010 
+2011 
+Total Revenue 
+$1200 MM 
+$1205 MM 
+Total Expenses 
+$890 MM 
+$910 MM 
+
+
+===== PDF p58 =====
+54 
+Guidance 
+If the candidate asks to start with revenues, mention that the client believes it has already exhausted all 
+possible avenues of increase. When the candidate asks about the major costs, ask him/her to 
+brainstorm the major types, then show them Exhibit 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Profitability 
+Case 7: Global Bank Corp. 
+Exhibit 2: Costs as a Percentage of Total Expenses (2011)  
+40% 
+27% 
+8% 
+3% 
+22% 
+42% 
+16% 
+8% 
+4% 
+30% 
+0% 
+10% 
+20% 
+30% 
+40% 
+50% 
+Client 
+Industry Average 
+
+
+===== PDF p59 =====
+55 
+Guidance 
+The candidate should focus on IT Hardware and Software and note that there is a significant gap 
+between the client’s costs and the industry average.  
+ 
+Note: The candidate may ask to focus on labor before IT hardware and software, since it is by far the 
+largest cost. Mention that the company recently laid off about 5% of its staff and has capped 
+compensation and does not believe it can reduce labor expense any further. 
+ 
+If the candidate doesn’t automatically calculate the potential savings that would result from bringing IT 
+costs down to the industry average, prompt them to. Savings at 2011 expense levels are equal to: 
+(27%*910 MM)-(16%*910 MM) = 100.1 MM 
+ 
+If the candidate does not also calculate what percent increase in profit that would mean, ask them to. 
+Increase in Profit = 100.1 MM/(1205 MM - 910 MM) = 33.9% 
+ 
+Profitability 
+Case 7: Global Bank Corp. 
+
+
+===== PDF p60 =====
+56 
+Prompt 
+Could you provide some reasons as to why your client’s costs might be higher than competitors 
+and what the client can do to bring costs down? 
+ 
+Guidance 
+Possible reasons include: 
+ 
+•  The client is paying higher prices than its competitors on the same hardware and software 
+•  The client is buying higher performance hardware and therefore paying more (perhaps opening up an 
+opportunity to reduce specifications) 
+•  The client is buying more hardware or software—perhaps they give employees multiple computers or 
+have not maximized utilization of their servers 
+ 
+Profitability 
+Case 7: Global Bank Corp. 
+
+
+===== PDF p61 =====
+57 
+Prompt 
+The client completed a major merger in 2005, following which, it renegotiated many of its contracts, and 
+it has not renegotiated any major contract since then. 
+ 
+How much would the client save if they renegotiate the IT hardware contracts to the industry 
+average level? 
+Guidance 
+Provide the candidate with Exhibit 3 for them to do calculations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Profitability 
+Case 7: Global Bank Corp. 
+Exhibit 3: IT Hardware Costs (2011) 
+Category 
+Client 
+Industry 
+Average 
+Annual 
+Quantity 
+Purchased 
+Desktops 
+$883 
+$826 
+14,500 
+Laptops 
+$1,225 
+$1,173 
+6,000 
+Servers 
+$7,201 
+$6,760 
+5,500 
+Routers 
+$7,527 
+$7,200 
+900 
+Switches 
+$3,068 
+$2,705 
+1,300 
+
+
+===== PDF p62 =====
+58 
+Guidance 
+The candidate should perform the following calculations (if they ask to round, that’s ok unless you’d like 
+to challenge their math): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Profitability 
+Case 7: Global Bank Corp. 
+Category 
+Client 
+Industry 
+Average 
+Difference 
+(Client – 
+Industry Avg) 
+Annual 
+Quantity 
+Purchased 
+Annual Savings at 
+industry average 
+(Difference x 
+Annual Purchases) 
+Desktops 
+883 
+826 
+883–826 = 57 
+14,500 
+57x14,500=826,500 
+Laptops 
+1,225 
+1,173 
+52 
+6,000 
+312,000 
+Servers 
+7,201 
+6,760 
+441 
+5,500 
+2,425,500 
+Routers 
+7,527 
+7,200 
+327 
+900 
+294,300 
+Switches 
+3,068 
+2,705 
+363 
+1,300 
+471,900 
+Total Savings 
+4,330,200 
+Exhibit 3: IT Hardware Costs (2011) 
+
+
+===== PDF p63 =====
+59 
+Prompt 
+Please wrap up the case and make your final recommendations to the client. 
+Guidance 
+The recommendation should include the following: 
+•  The pricing of IT hardware contracts should meet the industry average 
+•  The client should investigate the possibility of reducing specifications on the equipment for further 
+savings 
+•  Next steps should include looking at other types of contracts they may be able to renegotiate, as other 
+savings are possible 
+Profitability 
+Case 7: Global Bank Corp. 
+
+
+===== PDF p64 =====
+Case 7: Global Bank Corp. 
+Performance 
+Evaluation 
+Expected: 
+• 
+Provides a MECE framework 
+• 
+Correctly answers all questions 
+• 
+Analyzes the exhibits with minimum assistance 
+ 
+Good: 
+• 
+Completes all “Expected” requirements 
+• 
+Correctly calculates the potential cost savings 
+• 
+Provides a direct recommendation based on the facts analyzed during the case 
+ 
+Excellent: 
+• 
+Completes all “Good “ requirements 
+• 
+After the second prompt, quickly draws a framework to support the brainstorming part 
+• 
+Keeps the interviewer engaged and demonstrates great communication skills 
+Profitability 
+60 
+
+
+===== PDF p65 =====
+Case Interview feedback form 
+Case _______________________  Case type ______________ Interviewer ____________________ 
+Execution 
+• Structure  
+ 
+  
+" Logical approach 
+" MECE 
+" Appropriate drive to solution 
+• Quantitative Ability 
+" Speed 
+" Accuracy 
+" Comfort, reaction to mistakes 
+• Business intuition 
+" Practical 
+" Insightful 
+" Breadth & depth across multiple functions 
+" Creativity 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Communication 
+• Professionalism
+ 
+ 
+  
+" Poise 
+" Confident-Persuasive 
+" Articulate-concise 
+" Client ready 
+• Written 
+" Clarity  of writing and page layout 
+" Ability to refer back 
+" Comfort, reaction to mistakes 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+1  2  3  4  5 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Case start time   __:__ 
+Case end time   ___:____ 
+Framework development  ______ min 
+Framework explanation 
+ ______ min 
+Case discussion
+ ______ min 
+Behavioral (optional) 
+• Quality of star stories
+ 1  2  3  4  5
+             Comments:  
+• Length
+ 
+ 1  2  3  4  5 
+• Clarity
+ 
+ 1  2  3  4  5 
+• Relevance 
+ 
+ 1  2  3  4  5 
+Strengths  
+Weaknesses 
+Overall Rating:  1  2  3  4  5 
+Key: 1=Bottom 10%, 2= 10th-25th percentile, 
+3= middle 50%, 4= 75th-90th percentile, 5=Top 
+10% 
+61 

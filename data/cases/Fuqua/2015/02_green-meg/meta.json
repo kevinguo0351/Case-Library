@@ -1,0 +1,26 @@
+{
+  "case_id": "Fuqua_2015_02_green-meg",
+  "school": "Fuqua",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Fuqua\\Fuqua_Case Book_2015.pdf",
+  "idx": 2,
+  "case_name": "Green MEG",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Chemicals",
+  "difficulty": null,
+  "pdf_page_start": 35,
+  "pdf_page_end": 43,
+  "n_pages": 9,
+  "exhibit_pdf_pages": [
+    38,
+    39,
+    40
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p038.png",
+    "exhibits/exhibit_p039.png",
+    "exhibits/exhibit_p040.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Fuqua\\2015\\02_green-meg"
+}

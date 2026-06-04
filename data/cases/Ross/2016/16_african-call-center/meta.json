@@ -1,0 +1,26 @@
+{
+  "case_id": "Ross_2016_16_african-call-center",
+  "school": "Ross",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2016.pdf",
+  "idx": 16,
+  "case_name": "African Call Center",
+  "case_type": "Operations",
+  "round": "1",
+  "industry": "Banking / Financial Services",
+  "difficulty": null,
+  "pdf_page_start": 195,
+  "pdf_page_end": 204,
+  "n_pages": 10,
+  "exhibit_pdf_pages": [
+    198,
+    203,
+    204
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p198.png",
+    "exhibits/exhibit_p203.png",
+    "exhibits/exhibit_p204.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2016\\16_african-call-center"
+}

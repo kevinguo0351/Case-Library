@@ -1,0 +1,22 @@
+{
+  "case_id": "Ross_2010_02_gas-station",
+  "school": "Ross",
+  "year": "2010",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2010.pdf",
+  "idx": 2,
+  "case_name": "Gas Station",
+  "case_type": "Market Entry",
+  "round": "2",
+  "industry": "Retail / Gas",
+  "difficulty": "null",
+  "pdf_page_start": 20,
+  "pdf_page_end": 26,
+  "n_pages": 7,
+  "exhibit_pdf_pages": [
+    21
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p021.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2010\\02_gas-station"
+}

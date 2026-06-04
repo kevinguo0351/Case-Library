@@ -1,0 +1,26 @@
+{
+  "case_id": "Stern_2011_13_drugstop-co",
+  "school": "Stern",
+  "year": "2011",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Stern\\Stern_Case Book_2011.pdf",
+  "idx": 13,
+  "case_name": "DrugStop Co.",
+  "case_type": "Other",
+  "round": null,
+  "industry": "Healthcare/Pharma",
+  "difficulty": null,
+  "pdf_page_start": 109,
+  "pdf_page_end": 114,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    110,
+    111,
+    112
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p110.png",
+    "exhibits/exhibit_p111.png",
+    "exhibits/exhibit_p112.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Stern\\2011\\13_drugstop-co"
+}

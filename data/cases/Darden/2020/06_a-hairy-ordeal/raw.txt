@@ -1,0 +1,425 @@
+===== PDF p106 =====
+102
+A Hairy Ordeal
+Bain | Round 2 | Consumer
+
+
+===== PDF p107 =====
+103
+Bain | Round 1 | Retail
+0 6  |  C A S E :  A H A I RY  O R D E A L
+A HAIRY ORDEAL
+B E H AV I O R A L  
+I N T E R V I E W  
+Q U E S T I O N :
+1 .  W h a t  i s  t h e  
+g r e a t e s t  a s s e t  
+t h a t  y o u  w i l l  
+b r i n g  t o  o u r  
+f i r m ?
+UVA Darden School of Business 2019-20 case book
+Clarifying Information: Note: Provide this only if corresponding questions are asked.
+1. What is balayage? Balayage is a technique that “paints” the hair to achieve a more natural looking hair dye 
+experience.
+2. What Is Salon Deluxe’s business model? The salon is a high-end hair salon that specializes in balayage. The 
+business has two segments, services and products. Appointments are booked centrally, through the salon’s booking 
+portal, and clients see 1 of 4 contractor employee stylists. 
+3. What does a balayage appointment consist of? A balayage appointment has 3 parts: hair & product prep (10 
+mins), hair painting (90 minutes), drying & styling (50 minutes)
+4. Does Megan have specific metrics or goals related to this project? Her goal is primarily to evaluate which 
+business has the greatest NPV.
+Prompt: 
+Your friend Megan Black calls you to ask for your advice. Megan had been working in 
+the beauty industry as an independent hair stylist for 2 years when the owner of Salon 
+Deluxe approached her and asked her to buy the salon. It has always been her dream 
+to own a hair salon, but she isn’t sure if she should do it, or focus on her current 
+business, Megan Black Balayage (MBB). She wants your help to figure out what she 
+should do.
+
+
+===== PDF p108 =====
+104
+Framework Guidance:
+Note: There are many possible alternatives to this framework. These are only provided as possible suggestions.
+0 6  |  C A S E :  A H A I RY  O R D E A L
+How to Move Forward:
+To move forward, the interviewee should talk about wanting to understand the client’s current business. If the candidate asks about the new Salon (Salon Deluxe) tell
+them that the client is still collecting data on Salon Deluxe, and we can review the information later.
+NPV Meg Black Balayage
+•
+Profit
+•
+# of clients
+•
+Average price/service
+•
+Product Sales
+•
+Product Costs
+•
+Rent
+•
+Labor
+•
+Discount rate
+NPV Salon Deluxe
+• Profit
+• Selling Price/Service
+• # of chairs
+• Avg. Revenue/stylist
+• Product Sales
+• Rent
+• Inventory
+• Interest
+• Discount rate
+Other Considerations (Internal)
+• Buy vs build new salon
+• Initiatives to improve NPV
+• Grow clientele through 
+physical 
+expansion/marketing
+• Increased efficiencies, 
+/lower costs
+• Megan’s risk profile
+• Managerial experience
+• Culture fit with new team and 
+clients
+UVA Darden School of Business 2019-20 case book
+Other Considerations 
+(External)
+• Local competition
+• Customer preferences
+• Local talent pool
+
+
+===== PDF p109 =====
+105
+Services Revenue
+Product Prices
+0 6  |  C A S E :  A H A I R Y  O R D E A L
+EXHIBIT 1: MEGAN BLACK BALAYAGE P&L
+# of clients
+200
+Visit frequency
+Quarterly
+Average spend per visit
+$150
+Services Margin
+60%
+Rent
+$500 monthly
+60
+55
+0
+10
+20
+30
+40
+50
+60
+70
+Products
+Shampoo
+Conditioner
+*Product margins all 50%
+
+
+===== PDF p110 =====
+106
+Question 1 (The location of these question slides in your case is completely up to you)
+•
+What is MBB’s (Megan Black Balayage’s) NPV?
+0 6  |  C A S E :  A H A I RY  O R D E A L
+Exhibit or Question Guidance:
+Exhibit 1 provides revenue and margin details for the services and product segments of the existing business. The candidate should perform the calculations to find 
+out the client’s bottom line. Provide missing information when prompted by candidates:
+Services:
+200 clients X 4 visits per year (quarterly) = 800 X $150 per visit = 120,000 X 60% margins = $72,000
+Products:
+The candidate does not have enough information to solve the question. Great candidates will recognize this and ask how many units of the products are sold, or the 
+percentage penetration on average. When prompted, provide the following figures:
+Shampoo: 25%, Conditioner: 20%, Hurdle rate: 5%
+Calculations:
+Shampoo: 800 visits (200 X 4) X 25% = 200 bottles X $60/bottle = $12,000 X 50% margin = $6,000
+Conditioner: 800 visits X 20% = 160 bottles X $55/bottle = $8,800 X 50% margin = $4,400
+Total product profit = $10,400
+Sum total: $72,000 + $10,400 - $6,000 (rent) = 76,400
+NPV: $76,400/.05 = $1,52,800 OR $1.52MM
+So what?: Candidates should recognize that the current net income serves only as a benchmark against the value of the potential acquisition. Proceed to exh. 2
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p111 =====
+107
+Question 2 
+•
+What is the NPV of owning Salon Deluxe?
+0 6  |  C A S E :  A H A I RY  O R D E A L
+Exhibit or Question Guidance:
+When the candidate asks for information about the salon, provide BOTH parts of exhibit 2 and ask them to tell you what they think. Many candidates will be drawn to 
+the second exhibit, exceptional candidates will note that the floor plan shows unused space within the salon that could be used to increase revenues. Other 
+observations may include the difference in profit from product sales, or the difference in rent between the 2 businesses (8X). Note: If candidate asks what happens to 
+Megan’s current customers, tell them she will need to give up her clients to focus on operating the Salon Deluxe
+NPV Calculation: Service Profit + Product Profit/Discount Rate
+Services:
+(Salon Capacity x Occupancy Rate x Rev. per appt x Profit Margin) – Rent
+- To determine salon capacity and occupancy rate, candidate will need to perform calculations from the information given. For salon capacity:
+8 hours per day / 2.5 hours per appt = 3.2 appt/day (on average) x 250 days = 800 appt per year x 4 stylists = 3200 appt capacity
+- For occupancy rate: 6,000 appt > 3200 appts OR 100% capacity
+- Rev. per appt x profit margin – ($150 x 35% margin)
+- Services total – (3200 x $150 x 35% - 48,000 (4,000 x 12 months)) = $120,000
+Products
+$10,000
+NPV Calculation
+$120k + $10k / 10% = $1.3M
+The candidate should note that the current NPV of the business is lower than that of the original business. The candidate should also note that there may be 
+opportunities to improve the NPV of the business. If the candidate does not, prompt them to think about what they might do next. Excellent candidates will note that 
+requested appointments are nearly 2x the current capacity, which would nearly double NPV by repurposing storage rooms.
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p112 =====
+108
+EXHIBIT 2: SALON DELUXE FLOOR PLAN
+0 6  |  C A S E :  A H A I RY  O R D E A L
+UVA Darden School of Business 2019-20 case book
+STORAGE
+STORAGE
+WAITING 
+AREA/RECEPTION
+HAIR STATIONS
+BREAK ROOM
+
+
+===== PDF p113 =====
+109
+EXHIBIT 2 CONTINUED: SELECTED SALON 
+INFORMATION
+0 6  |  C A S E :  A H A I RY  O R D E A L
+UVA Darden School of Business 2019-20 case book
+Salon Hours
+10 AM – 7 PM*, 5 days per week
+Average appt. duration
+2.5 hours
+Average spend per appt
+$150
+Stylist Revenue Share
+65% of service revenue
+*Stylists take daily 1 hour break 
+Total requested appts
+6,000
+Rent
+$4k/month
+Net Profit from Product Sales
+$10k/year
+Salon Discount Rate
+10%
+
+
+===== PDF p114 =====
+110
+Increase Service Revenue
+•
+Increase salon capacity
+•
+Loyalty program (more frequent 
+visits)
+•
+Raise prices (more spend per visit)
+•
+Build or buy 2nd salon
+0 6  |  C A S E :  A H A I RY  O R D E A L
+UVA Darden School of Business 2019-20 case book
+Best candidates display:
+The best candidates will examine the levers with the largest potential impact. This would include increasing revenues and decreasing costs for 
+the service portion of the business. Good candidates should look at renegotiating rent prices, increasing salon capacity to fit more customers, 
+and great candidates will mention looking at borrowing rates, to see if the salon can lower its interest expense.
+Brainstorming Guidance:
+Note: This is just one possible set of categories and answers. Many more are possible, and interviewers should assess both the volume and relevance of answers.
+Decrease Service Costs
+•
+Cut low margin services
+•
+New product vendor (lower COGS)
+•
+Renegotiate rent prices
+•
+Evaluate profit share labor costs
+Increase Product Profitability
+•
+Discounts (more sales)
+•
+Add complementary 
+products/bundle (hairspray, styling 
+creams)
+•
+Smaller bottle sizes (lower costs)
+•
+New vendors (lower costs)
+•
+Website SEO investments
+Financing
+•
+Pay down debt
+•
+Refinance at lower rate
+BRAINSTORMING
+What are some levers we could pull to make Salon Deluxe a more attractive business? Which of these 
+ideas might have the largest impact?
+
+
+===== PDF p115 =====
+111
+Question 3 (optional)
+•
+What are some levers we could pull to make Salon Deluxe a more attractive business?
+0 6  |  C A S E :  A H A I RY  O R D E A L
+Exhibit or Question Guidance:
+Engage in a conversation about which levers the client could pull to make it more profitable. Here are a few ideas, and potential responses:
+- Decreasing costs, Rent, Margin, etc. Response: We’re locked into a long-term contract, we will not be able to consider it at this time
+- Increasing Service revenues, Price. Response: This is a competitive marketplace, and we believe will be difficult in the market.
+- Increasing Service revenues, quantity: Response: Salon Deluxe is currently turning away clients, and does not feel it makes sense to increase marketing, offer 
+discounts for more frequent appts, offer loyalty programs, etc.
+The candidate should realize that the salon is currently offering services at its full capacity, and cannot accommodate more customers. If the candidate does not 
+inquire about unused space in the salon, guide them to mention it. When the candidate mentions utilizing the excess space, tell them the following:
+•
+Our client believes she can transform the unused space to create a drying and styling station. This will allow stylists to perform the prep and painting portions of 
+the appointment, before sending their customers to the drying station to wait. After their hair dries, the clients are styled by an assistant, before finishing the 
+appointment. She projects this change will allow each stylist to increase capacity by 37.5%. She estimates it will cost $100k to renovate the space and hire an 
+assistant for styling. 
+•
+Question 4: What is the new projected NPV of the business?
+- $168k (service revenue) x 1.375 = $231k + $10k (product profit) - $10k (interest) - $48k (rent) = $183k / 10% = $1.83M - $100k = $1.73M
+- BONUS: $1.73M - $1.52M = $210k (Maximum price that she should pay for the salon)
+UVA Darden School of Business 2019-20 case book
+
+
+===== PDF p116 =====
+112
+I N T E R V I E W E R  F E E D B A C K  F O R M
+Case Execution:
+
+Clarifying Questions + Framework
+
+Good Questions
+
+Structured
+
+MECE
+
+Creativity
+1
+2     3     4     5
+Case Name _________________________ Interviewer ___________________________  
+Case Book ____________________ Case Type ____________ Difficulty ____________
+Feedback:
+
+Exhibits + Quantitative Ability
+
+Accuracy
+
+Speed
+
+Insights Presented
+
+Errors / Guidance Needed
+1
+2     3     4     5
+Feedback:
+
+Brainstorm + Conclusion
+
+Creative & Structured
+
+Good Business Judgment
+
+Recommendation Strength
+1
+2     3     4     5
+Feedback:
+
+Presence & Non-Verbal
+
+Confidence
+
+Poise / Posture
+
+Clear & Concise
+
+Body Language
+
+Coachability
+1
+2     3     4     5
+Feedback:
+Total: _____ / 20
+
+
+===== PDF p117 =====
+113
+Services Revenue
+Product Prices
+0 6  |  C A S E :  A H A I R Y  O R D E A L  - A P P E N D I X
+EXHIBIT 1: MEGAN BLACK BALAYAGE P&L
+# of clients
+200
+Visit frequency
+Quarterly
+Average spend per visit
+$150
+Services Margin
+60%
+Rent
+$500 monthly
+60
+55
+0
+10
+20
+30
+40
+50
+60
+70
+Products
+Shampoo
+Conditioner
+*Product margins all 50%
+
+
+===== PDF p118 =====
+114
+EXHIBIT 2: SALON DELUXE FLOOR PLAN
+0 6  |  C A S E :  A H A I RY  O R D E A L  - A P P E N D I X
+UVA Darden School of Business 2019-20 case book
+STORAGE
+STORAGE
+WAITING 
+AREA/RECEPTION
+HAIR STATIONS
+BREAK ROOM
+
+
+===== PDF p119 =====
+115
+EXHIBIT 2 CONTINUED: SELECTED SALON 
+INFORMATION
+0 6  |  C A S E :  A H A I RY  O R D E A L  - A P P E N D I X
+UVA Darden School of Business 2019-20 case book
+Salon Hours
+10 AM – 7 PM*, 5 days per week
+Average appt. duration
+2.5 hours
+Average spend per appt
+$150
+Stylist Revenue Share
+65% of service revenue
+*Stylists take daily 1 hour break 
+Total requested appts
+6,000
+Rent
+$4k/month
+Net Profit from Product Sales
+$10k/year
+Salon Discount Rate
+10%

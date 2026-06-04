@@ -1,0 +1,37 @@
+===== PDF p11 =====
+Consulting Case Interview Question 
+ 
+Case No.: BRAIN6              
+Firm:    
+Type of Case:  
+Brain Teaser  (Why are manhole covers round?) 
+ 
+Initial Facts offered by interviewer:  [Please relate the facts the interviewer gave to set up the 
+question/problem. Provide sufficient information so the case can be adequately understood!] 
+There are 3 doors:  A, B and C.  Behind one of them, there's gold.  First, you pick one door.  
+For example, you pick door A.  Then the game host will open one of the other two doors 
+that does not have gold, for example, door B. Now you have a chance to change your mind, 
+to pick door C.  Or you can stick to your first choice of door A.  
+The Question(s): 
+Would you change your choice?  
+(It is said that this quiz first appeared in TIME magazine, and many readers had replied with 
+wrong answers, including one certain MIT math professor.  It's not a hard problem, but is 
+NOT so intuitive, either.) 
+Suggested Solution 
+ 
+Outline of Your Answer - Important questions asked, additional information divulged, 
+assumptions, and logic:  [Walk us through how you arrived at your answer in detail.] 
+Yes, you should change your choice! 
+The probability that you will win the gold if you stick to your initial choice is 1/3. The 
+probability to win if you change your choice is 2/3. This is because the only case that you 
+will lose if you change your choice is that you initially picked up the CORRECT door that 
+has the probability of 1/3. 
+ 
+ 
+62 
+ 
+ 
+ 
+Management Consulting Club 
+ 
+2001-2002 Case Book and Interview Guide 

@@ -1,0 +1,187 @@
+===== PDF p74 =====
+Case 1: The Fruit Cart Vendor 
+Type of Case: Profitability 
+Difficulty: High 
+You find out you have a long-lost uncle, and he is a fruit cart vendor at a street corner in downtown Boston.  He sells his fruit only on 
+weekdays to morning and evening commuters, as well as downtowners going on lunch breaks.   Your uncle realized that you are a 
+business school student, and he thinks you might be able to make his business more profitable.  He wants to increase his profit during 
+this summer by 10%, which would be $1,000 over last year’s profits, and he will plow these profits back into the business. In order to do 
+this, your uncle wants to expand into selling vegetables.  He is known for having high-quality fruits, which he gets from his buddy who is a 
+wholesaler.  He plans to use similar high-quality suppliers for his vegetables. Your uncle operates in a really good location:  a well-
+trafficked spot in the business district near a busy train station.   
+   
+He wants your help to determine if he can reach his goal of increasing profit by $1,000 next year.  
+This case is a basic profitability analysis.  The interviewee should spend most of their time exploring all the revenue sources and costs 
+associated with entering the vegetable market.  The interviewee should calculate the expected profit and make a recommendation based 
+on their calculations.  They should also include other considerations such as competitor response, changes in customer types, the uncle’s 
+knowledge of vegetables, etc. 
+Interviewer Guide 
+Opening 
+(to be said to the interviewee) 
+70 
+
+
+===== PDF p75 =====
+Background Information 
+(to be provided when requested by interviewee) 
+Profitability 
+Revenues: 
+•
+By talking to customers, he has estimated a potential demand 
+of 20 vegetables per day 
+•
+He expects to sell each vegetable for $1 
+•
+Cross-selling to certain customers is expected to generate an 
+additional 5% in revenues 
+Costs: 
+•
+The annual cost of his permit to operate is $1000 
+•
+If he sells vegetables, the permit costs will increase by 20% 
+•
+The cost of each vegetable is 75 cents 
+•
+Cannibalization will decrease fruit sales by 5% 
+Customers 
+•
+Your uncle generally serves 3 types of customers:  morning 
+commuters, evening commuters, and downtowners on lunch 
+breaks 
+•
+He sees more morning and lunch customers but evening 
+customers tend to buy for home so he sells roughly equal 
+proportions of his fruits to each type of customer 
+•
+There are no competing vegetable vendors nearby 
+•
+Fruit customers generally get their vegetables from 
+supermarkets near their home 
+•
+You uncle has been in the fruit business for 20 years and his 
+customers appreciate that he knows the peak seasons for the 
+fruits that he sells 
+•
+He is a master at picking out the best fruit for his customers 
+•
+His knowledge in these respects is very limited for vegetables 
+Competition 
+Competencies 
+71 
+
+
+===== PDF p76 =====
+Analysis 
+(NOT to be shown to the interviewee) 
+Variables (** - calculation required) 
+Source/Formula 
+Calculations 
+Fruit profit per year 
+Given 
+$10,000 
+Desired profit increase 
+Given 
+10% 
+Desired profit increase amount ** 
+(Fruit profit/yr * % profit increase) 
+$1,000 
+Revenue per vegetable 
+Given 
+$1.00 
+Cost per vegetable 
+Given 
+$0.75 
+Profit margin per vegetable ** 
+(Revenue – Cost) 
+$0.25 
+Vegetables per day 
+Given 
+20 
+Profit per day ** 
+(Profit/veg)*(Veg/Day) 
+$5.00 
+Days per week 
+Given 
+5 
+Weeks per year 
+Assumed 
+52 
+Profit per year ** 
+(Profit/day * Days/wk * Weeks/yr) 
+$1,300 
+Basic profit calculation: 
+72 
+
+
+===== PDF p77 =====
+Variables  (** - calculation required) 
+Source/Formula 
+Calculations 
+Cross-selling additional sales 
+Given 
+5% 
+Original fruit sales profit 
+Given 
+$10,000 
+Change in fruit profit ** 
+(Additional sales * Original profit) 
+$500 
+Cannibalization of fruit sales 
+Given 
+5% 
+Original fruit sales profit 
+Given 
+$10,000 
+Change in fruit profit ** 
+(Cannibalization* Original profit) 
+-$500 
+Original annual permit cost 
+Given 
+$1000 
+Permit cost increase 
+Given 
+20% 
+Additional permit cost ** 
+(Original permit cost * Cost increase) 
+$200 
+Vegetable profit per year 
+Previously calculated 
+$1,300 
+Cross-selling fruit profit 
+Previously calculated 
+$500 
+Cannibalization of fruit profit 
+Previously calculated 
+-$500 
+Additional permit cost 
+Previously calculated 
+-$200 
+Profit per year ** 
+(Profit/day * Days/wk * Weeks/yr) 
+$1,100 
+Key Takeaway:  Calculated profit $1,100 > Desired profit increase of $1,000 
+Analysis 
+(NOT to be shown to the interviewee) 
+Additional profit considerations: 
+73 
+
+
+===== PDF p78 =====
+Recommendation 
+Risks 
+•
+At current estimated demand levels, your uncle would be able to surpass his projected 
+profit target of $1,000 by $100 next year.  He may want to do informal surveys of his 
+customers to determine which vegetables would be more preferable, which could increase 
+daily demand.  
+•
+Since he will just make his target by $100, he must be confident that his lack of expertise 
+with vegetables will not affect his relationships with his customers.  
+•
+He must also be aware that his lack of expertise may lead to spoilage rates that could 
+eat into his profits to a degree that he did not anticipate  
+•
+It is also important that he is comfortable that he can find the additional cash (at least 
+$200 to finance the additional permit costs for carrying vegetables)  
+Case Closing 
+74 

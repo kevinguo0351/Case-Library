@@ -1,0 +1,262 @@
+===== PDF p191 =====
+Case #17: Te(ch)trix
+Quantitative level: Medium
+Qualitative level: Medium
+186
+
+
+===== PDF p192 =====
+Behavioral Questions
+188
+• What is the toughest problem you have solved?
+• Candidate should
+– provide relevant context to help interviewer understand the complexity of the problem
+– appear enthusiastic about walking through the several steps of solving the problem
+– great answers include a creative solution and talk about the “human element” (i.e. impact on 
+people) of the problem
+• What draws you to the office you’re applying to?
+• Candidate should give an authentic response involving reasons that are personal 
+(e.g. existing and newly made connections with the office, significant others, family, 
+etc.) and professional (e.g. an industry or function that is/are the office’s strengths).
+Question 1:
+Question 2:
+
+
+===== PDF p193 =====
+Te(ch)trix
+189
+• An enterprise technology company (that builds applications for businesses) outsourced large 
+parts of its organization, thereby reducing its employee base by 60%. Yet, they are spending 
+$1.8B, $150M more than industry benchmarks [Provide Exhibit 1 now]. Tensions among 
+employees are high with fears of more lay-offs, and there is immense pressure on the CEO, your 
+client, to close the gap to industry benchmarks. How would you advise the client? 
+Prompt #1:
+• Having looked at the chart, a good candidate should zero in quickly on the payroll problem, and 
+the case framework should be about further reducing payroll cost and/or why they haven’t realized 
+projected cost reductions yet. Do not let the candidate develop a framework till you are convinced 
+she is focused on the payroll problem, else the framework will be wasted effort.
+– Many frameworks would work, but simply put, payroll = # employees x $ salary / employee. A 
+good framework will address the following: a) does the client have the right number of people, 
+or can it be lower?; b) could we lower compensation for (some or all) employees, and how?
+– A good plan will also include post-outsourcing change management related issues (refer 
+tensions in the organization), but related to the original goal of cost reduction (e.g. cost 
+optimization from training on new processes, etc.)
+• Probe any other, unrelated questions the candidate asks. If they ask about the client’s products, 
+or customers, etc., that information is unavailable, but ask why they think that’s relevant to know. 
+If they ask about any other cost categories, ask them what impact they could have there.
+• Also, you do not need the candidate to drive to the next prompt. When a candidate discusses the 
+payroll issue in sufficient depth through her framework , go to the next prompt [McKinsey often 
+adopts this style].
+Interviewer Guidance:
+
+
+===== PDF p194 =====
+Te(ch)trix - Exhibit #1
+190
+500
+500
+450
+500
+300
+450
+250
+200
+150
+150
+500
+500
+500
+450
+450
+300
+200
+250
+150
+150
+1,650
+Software licenses
+Administrative and other
+1,800
+Actual spend, 2014
+Projected spend per 
+industry benchmarks, 2014
+Outsourced services
+Payroll (incl. benefits)
+Hardware
+
+
+===== PDF p195 =====
+Te(ch)trix
+191
+• The client has actually understood that “centralizing” certain functions could help reduce payroll 
+cost. Centralizing [for this case] implies dispersed employees are shifted to one location. Between 
+Development, Support and Admin, which function(s) could be centralized? Currently, each 
+function is present in 7 countries, where the business has customers.
+Prompt #2:
+• Explanations of the functions, to be released when asked: Development – team creates and 
+improves products as per business needs, mostly comprised of highly skilled software engineers; 
+Support – team is the first point of contact with customers, relays customer needs to 
+Development; resolves some basic issues directly, but escalate more complex ones to 
+Development; Admin – administrative functions incl. HR, procurement, finance, etc.
+• A good answer could suggest some of the following factors, and assess the functions as follows:
+– [Most important] Customer relationship management – closer you need to be the customer, 
+harder it is to be centralized. In this case Development does not need to be close to 
+customers since it has Support as a link, and so can likely be centralized.
+– Standardized global services – good candidates should probe further about Admin. Some, not 
+all, functions included in OAS (e.g. finance, procurement) could be central.
+– Other potential risks – good candidates will talk about time zones, plus new regulation and 
+availability of talent in the new central location potentially lead to challenges.
+• Good candidates would drive the problem to talk about the opportunity of shifting all resources in 
+Development and some in Admin to a central location, and about identifying that new location. A 
+good conclusion could including a request for more data on number of employees in Development 
+by location.
+Interviewer Guidance:
+
+
+===== PDF p196 =====
+Te(ch)trix
+192
+• The client agrees that centralizing Development and 50% of Admin staff is feasible. Will making 
+these changes be sufficient to close the gap to industry benchmarks? [Provide Exhibit 2]
+Prompt #3:
+• Additional information to be provided when asked: cost for Developers in high-cost locations is 
+$250k / FTE, and in low cost locations is $100k / FTE; cost for Admin in high-cost locations is 
+$200k / FTE and in low cost locations is $50k / FTE.
+• A simple math framework like the one below makes it easy to follow:
+• Good candidates should power through the math fairly quickly, but more importantly conclude that 
+these changes will be insufficient to cover the $150M gap. This should be a natural prompt to look 
+elsewhere for savings, expecting the candidate to creativity brainstorm other cost reduction areas 
+that might have been missed, potentially referring back to the original payroll cost reduction 
+framework they had suggested. Great candidates might also suggest that such changes in large 
+organizations involve several costs themselves (e.g. severance payments, relocation payments, 
+etc.)
+Interviewer Guidance:
+Dev
+Admin
+Number of employees in high-cost locations
+500
+420
+Number of employees possible to shift
+500
+210
+Cost differential from high to low cost country ($)
+150,000
+150,000
+Total cost reduction impact ($M)
+75.0
+31.5
+106.5
+
+
+===== PDF p197 =====
+Te(ch)trix - Exhibit #2
+193
+(# FTEs)
+Develop-
+ment
+Support
+Total ex-
+Admin
+Admin
+Total
+Type of 
+location
+India
+300
+500
+800
+200
+1,000
+Low-cost
+Germany
+100
+500
+600
+200
+800
+High-cost
+United States
+300
+150
+450
+150
+600
+High-cost
+Philippines
+50
+400
+450
+100
+550
+Low-cost
+Mexico
+50
+240
+290
+60
+350
+Low-cost
+United Kingdom
+100
+60
+160
+70
+230
+High-cost
+China
+50
+50
+100
+25
+125
+Low-cost
+Total
+950
+1,900
+2,850
+805
+3,655
+
+
+===== PDF p198 =====
+Te(ch)trix
+194
+• Given the client cannot reach the projections by shifting resources from high-cost to low-cost 
+locations, how else can they cover the remaining gap to their $150M goal? What risks do you see 
+with this plan, and what do you propose the client do next?
+Recommendation 
+• No quantitative analysis is required at this point.
+• A strong closing would refer back to the original framework created for the prompt, and discuss 
+some ideas to further reduce payroll spend that were left behind then.
+• One of the most important takeaways is that 2/3rd of the $150M gap can be achieved by relocating 
+resources – not firing them, which was a source of anxiety within the organization originally.
+• Any creative ideas are welcome here, as long as they are backed by sound logic. It’s OK even if 
+the candidate’s logical process rejects some ideas originally on paper.
+Interviewer Guidance:
+
+
+===== PDF p199 =====
+Evaluation Criteria
+Candidate Level
+Assessment
+Average Candidate
+•
+Quickly zeroes in on payroll problem
+•
+Comfortable with simple math in prompt #3
+Good Candidate
+•
+Lays out a conceptual framework for prompt #2, and 
+solves the problem with limited guidance
+•
+Drives the case from prompt #2 to prompt #3
+Excellent Candidate
+•
+Creative ideas in framework and recommendation
+•
+Understands and refers to tensions at the company, 
+and refers to the outsourcing context
+•
+Brings in past experiences somewhat related to the 
+problem to make educated guesses
+195

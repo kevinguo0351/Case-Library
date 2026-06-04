@@ -1,0 +1,68 @@
+===== PDF p58 =====
+Establishing the case
+Case3 : Caskets
+LEK:  Round 1
+A casket company is considering buying another 
+company. What factors would you consider in assessing 
+how much they should pay?
+Lets ignore synergies and financing-specifically, how we 
+would put a value on this company.
+Problem statement narrative
+• Acquirer is market leader
+• Target has 10% of market
+Guidance for interviewer and information to be 
+provided on request
+54
+
+
+===== PDF p59 =====
+Sample solution element – issue tree & qualitative analysis
+Candidate may propose analysis / action in:
+We would need to estimate 
+deaths/year and then % that use 
+caskets and what % of the market 
+the target has.
+We could use our pricing to estimate 
+theirs.
+Revenue-Size the market
+We could use our costs to estimate 
+theirs.
+Costs
+55
+
+
+===== PDF p60 =====
+Sample solution element – Math
+Q: How many deaths per year are there on average in the US? 
+Math Question
+If the average life expectancy is 80 years old and if there 
+are 300mm people in the US, then every year 1/80 of the 
+US pop is dying and so it must be 300mm/80=3.75mm. 
+Overall approach, good shortcuts & solution
+It turns out the answer is 2.4mm. How could this be true if 
+your numbers were correct? 
+Follow up Question:
+The distribution of ages in the US is not uniform so we are 
+not losing 1/80 of our population as the fattier part of the 
+curve is in their 50s and 60s. Right now we are losing less 
+than 1/80, but soon we will lose more.
+Answer
+56
+
+
+===== PDF p61 =====
+Sample solution element – recommendation et al.
+Lets say you found out NI, what would you do to put a 
+value on the company:
+• Add back non-cash expenses like Depreciation and 
+amortization.
+• Take out Capex and changes in working capital.
+• Add back interest expense.
+• Project out a reasonable amount of years-5-7
+• Come up with terminal value using perpetuity 
+formula and assumed growth and discount rates.
+• Discount the cash flows and TV using appropriate 
+discount rate that considers the asset risk and capital 
+structure.
+DCF
+57

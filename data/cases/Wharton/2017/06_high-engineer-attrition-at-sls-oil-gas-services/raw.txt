@@ -1,0 +1,345 @@
+===== PDF p59 =====
+KNOWLEDGE FOR ACTION
+SLS 
+Oil & Gas Services
+
+
+===== PDF p60 =====
+KNOWLEDGE FOR ACTION
+High engineer attrition at SLS Oil & Gas Services
+Level of Difficulty: Hard
+Case Similar to Cases at Firms: Bain and BCG Final Round cases
+Topics Tested: Operations and General Management
+Prompt: Our client SLS is one of the world’s largest oil and gas services provider
+operating in 85 countries and employing about 100,000 people from over 140
+countries. They help find, scope and drill as much oil and gas as possible for their
+clients – which range from major international oil companies to petrostates such
+as Saudi Arabia and Russia.
+Of late they are seeing a very high attrition rate among their Field Engineer
+(FE) population across several offices globally, the Mumbai office in India being
+one of the most affected. The CEO is concerned and has asked you for advice
+specifically for the Mumbai office. She hopes that if the problem can be fixed in
+Mumbai, similar fix can be implemented everywhere else. It is indeed a matter of
+grave urgency for SLS.
+Wharton Casebook 2017
+56
+CASE 6
+
+
+===== PDF p61 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions (1 of 2)
+Wharton Casebook 2017
+Overview for the Interviewer
+The case is mainly about three things – (1) Clearly understanding the business and the life of an FE in Mumbai
+(2) Identifying the reasons for high attrition in Mumbai (3) Coming up with specific and actionable
+recommendations for Mumbai
+This case is heavy on brainstorming and is relatively difficult to structure. It is also more qualitative than
+quantitative. Leave it up to the interviewee to structure as (s)he wishes and give them information only if
+requested. Since this case is from an industry and function that people might not be familiar with, it is
+important to understand the context clearly before diving deeper. If the interviewee gets stuck at any point
+during the case, feel free to direct them towards what needs to be evaluated.
+Sample Clarifying Questions and Answers
+What does a Field Engineer do?
+Field Engineers work with specialized oilfield equipment which they lower inside a 
+well, and then record and analyze data to identify whether and how much oil and 
+gas is buried in the ground. They spend a considerable amount of time working on 
+oil rigs. All oil rigs in Mumbai are offshore i.e. at sea (see Exhibit 1 that shows two 
+types of offshore oil rigs in Mumbai) Most offshore rigs are bad with poor food, 
+poor internet and poor accommodation.
+How is attrition rate defined?
+(No. of FEs quitting in a year / Avg. no. of FEs in that year) %
+Where are FEs going?
+Mostly going to do Masters or moving to a completely different industry
+How high is the attrition rate?
+28% in 2016 in Mumbai (similarly high in several other offices globally)
+What has the CEO requested?
+Identify the cause(s) of high attrition and make recommendations on fixing it
+57
+CASE 6
+
+
+===== PDF p62 =====
+KNOWLEDGE FOR ACTION
+Framework and Clarifying Questions (2 of 2)
+Wharton Casebook 2017
+Sample of Strong Framework
+1. Business in Mumbai and the life of an FE
+a. What does SLS do in Mumbai?
+b. What exactly do FEs do and what is a day in the life of an FE like?
+i. Background of the FE
+ii. Work-Life balance
+ii. Relationship with Managers
+2. Identifying the reasons for high attrition
+a. What information to collect and how to collect it
+i. Face to face interviews with managers, FEs, HR etc.
+ii. Anonymous questionnaires and feedback forms
+b. Analyze the information – potential reasons for high attrition
+i. Internal (SLS related) reasons
+ii. External (non-SLS related) reasons
+3. Recommendations for fixing attrition
+a. Short-term
+i. Give more Time-off/Vacation
+ii. Team-building activities
+iii. Get More engineers
+b. Long-term
+i. Revamp Offshore Staffing Model
+ii. Hire FEs compatible with Schlumberger culture
+iii. Relook at compensation
+58
+CASE 6
+
+
+===== PDF p63 =====
+KNOWLEDGE FOR ACTION
+Key Discussion Points (1 of 4)
+Wharton Casebook 2017
+59
+1. Business in Mumbai and the life of an FE (Provide information if asked)
+a. What does SLS do in Mumbai?
+> Help major oil and gas companies scope, drill and extract oil and gas from Mumbai offshore
+> Sends equipment and FEs offshore to rigs (that are owned and managed by clients), where the FEs work with
+SLS equipment to meet client’s objectives
+b. What exactly do FEs do and what is a day in the life of an FE like?
+> FEs are hired after undergrad from the best engineering schools around the world
+> SLS has historically offered an unconventional, fast-paced, challenging and extremely rewarding career
+> Two key differentiators for the FEs has been compensation and opportunity for global travel!
+> FEs are hired as Juniors and after ~2 yrs. become Seniors. 1 FE (Sr. or Jr.) stand-by on rig, 2nd FE sent during
+operations; both make bonus when offshore. Optimal time an FE likes to spend offshore before swap is 3 wks.
+> FE would either be offshore (on the rig) stand-by or managing operations, in the office, or on vacation
+Exhibit 2 is data for Mumbai office. Ask interviewee for observations. Following should be pointed out –
+> # of engineers has been constant (Has activity been constant? Yes – 25 rigs for the last 5 yrs.)
+> # quit has been going up – answering why and how to resolve is what the case is about!
+> # transferred out went down to 0 – management decision could be demotivating engineers!
+> # transferred in has gone up – is anything being done to improve team-spirit among new and old engineers?
+Exhibit 3 shows utilization (% of FEs not on vacation) and effective utilization (% of FEs offshore) trends. Wait
+for interviewee to ask about relevant information – otherwise show this and ask for observations.
+> Gap widening between the two – fewer FEs on vacation and more FEs sitting in office not making bonus!
+> Managers not using FEs efficiently (Why?) – only 1 or 2 FEs required in the office on any given day.
+CASE 6
+
+
+===== PDF p64 =====
+KNOWLEDGE FOR ACTION
+Key Discussion Points (2 of 4)
+Wharton Casebook 2017
+60
+Math Question
+This question is not difficult but requires a very good understanding of the FE staffing model at SLS, which the
+interviewee should have gotten clarified by now. If not, help her/him proceed.
+a. Based on Exhibits 2 & 3, calculate the no. of FEs expected to be in the office any given day.
+b. Now given that on any given day only 2 FEs are needed in the office, 1 standby FE for each of the 25 rigs
+and 36% of the rigs have operations on-going, how high can effective utilization be taken and how many FEs
+can be sent on vacation?
+a.
+50 FEs with a utilization of 80% and effective utilization of 60%.
+40 FEs (50*80%) are at work and 30FEs (50*60%) are on the rig. This translates to 10 FEs being in the office on
+any given day, and 10 on vacation.
+b.
+25 (1*25) standby FEs for each rig + 9 (1*25*36%) FEs on rigs due to operations – This information about 2nd FE
+sent to rig during operations was given earlier to the interviewee in Slide 4. If they miss this, remind them again.
+34 FEs are therefore needed offshore which translates into an effective utilization of 68% (34/50).
+Given only 2 FEs are needed in the base besides this, 14 FEs can be sent on vacation.
+CASE 6
+
+
+===== PDF p65 =====
+KNOWLEDGE FOR ACTION
+Wharton Casebook 2017
+61
+Key Discussion Points (3 of 4)
+2. Identifying the reasons for high attrition
+a. What information to collect and how to collect it (Ask this Question if interviewee doesn’t)
+> FEs should be interviewed first before managers and HR - in person meeting preferred over a questionnaire
+> Ask about managers, motivation, reasons for their peers quitting, if SLS is meeting their expectations
+b. Potential reasons for high attrition (Ask this Question if interviewee doesn’t. Following are the FACTS
+– agree or disagree with the interviewee as (s)he mentions these)
+> Internal (SLS-related) reasons
+> Management change in 2014 – risk-averse; keeping more people on reserve rather than on vacation
+> Fewer vacations/days-off for FEs and more days in the office – no bonus
+> Those FEs which are offshore are spending a lot of time offshore
+Exhibit 4 showing Level Loading should be shared once the above point has been made (or not). This shows
+the % of FE population spending different amount of time offshore at a single stretch. Remember 3 wks. is
+optimal. Interviewee should drill deeper and enquire about segmentation of this data.
+Exhibit 5 shows that Sr. FEs are ‘suffering’ longer runs offshore and Jr. FEs are consequently making lesser
+bonus – both are unhappy! Interviewee should question why this might be happening (otherwise ask them).
+Reason is that the new risk-averse management is not confident with Jr. FEs’ competency.
+> No transfer outs – demotivating FEs stuck in the same office for years
+> More new recruits – inadequate cohesion within the group
+> External (non-SLS related) reasons
+> FEs are quitting and going for Masters or switching industries – is SLS recruiting the right people?
+> Compensation difference decreasing between SLS and other companies that require similar skillset
+> Booming start-up culture in India – plenty of exit opportunities
+CASE 6
+
+
+===== PDF p66 =====
+KNOWLEDGE FOR ACTION
+Wharton Casebook 2017
+62
+Key Discussion Points (4 of 4)
+3. Recommendations for fixing attrition (Interviewee should list most or all of these)
+a. Short-term
+> Train Management – Make the offshore staffing system process-driven rather than people-driven
+> Increase vacation/time-off by reducing utilization but offset by increasing effective utilization
+> Swap FEs predictably after they spend ~3 wks. offshore on the rig
+> Make offshore life more enjoyable by sending food, games etc. from town
+> Improve level loading by improving competency of Jr. FEs – track competency and train as required
+> Introduce team-building activities to improve team-spirit
+> Increase vacation/time-off by reducing utilization but offset by increasing effective utilization
+> Swap FEs predictably after they spend ~3 wks. offshore on the rig
+> Make offshore life more enjoyable by sending food, video games etc. from town
+b. Long-term
+> Keep transfer-out rates reasonably healthy as before, or send FEs on short-term assignments outside
+Mumbai
+> Recruit the right talent – set expectations correctly during employer info sessions
+> Relook at the compensation structure to make it competitive again
+> Internal or External (i.e. on-campus) marketing to promote the unique work-culture at SLS
+> Hire more engineers (but it will increase cost)
+CASE 6
+
+
+===== PDF p67 =====
+KNOWLEDGE FOR ACTION
+Exhibit 1
+Wharton Casebook 2017
+< Semi-submersible a.k.a. semi-sub
+< Deepwater drillship
+63
+CASE 6
+
+
+===== PDF p68 =====
+KNOWLEDGE FOR ACTION
+Exhibit 2
+Wharton Casebook 2017
+2012
+2013
+2014
+2015
+2016
+# Engineers (start)
+50
+52
+55
+51
+50
+# Engineers (end)
+52
+55
+51
+50
+50
+# Hired
+6
+6
+5
+2
+6
+# Fired
+1
+2
+1
+0
+0
+# Quit
+2
+3
+7
+10
+14
+# Transferred Out
+4
+3
+1
+0
+0
+# Transferred In
+3
+5
+0
+7
+8
+Attrition %
+3.9
+5.6
+13.2
+19.8
+28.0
+64
+CASE 6
+
+
+===== PDF p69 =====
+KNOWLEDGE FOR ACTION
+Exhibit 3
+Wharton Casebook 2017
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+2012
+2013
+2014
+2015
+2016
+Utilization & Effective Utilization
+Utilization
+Effective Utilization
+65
+CASE 6
+
+
+===== PDF p70 =====
+KNOWLEDGE FOR ACTION
+Exhibit 4
+Wharton Casebook 2017
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+< 1 week
+1 - 2 weeks
+2 - 3 weeks
+3 - 4 weeks
+> 4 weeks
+Level Loading
+66
+CASE 6
+
+
+===== PDF p71 =====
+KNOWLEDGE FOR ACTION
+Exhibit 5
+Wharton Casebook 2017
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+< 1 week
+1 - 2 weeks
+2 - 3 weeks
+3 - 4 weeks
+> 4 weeks
+Level Loading vs Seniority
+Sr.
+Jr.
+67
+CASE 6

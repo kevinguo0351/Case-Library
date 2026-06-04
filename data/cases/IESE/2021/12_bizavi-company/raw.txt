@@ -1,0 +1,442 @@
+===== PDF p158 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+By CB12
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+154
+
+
+===== PDF p159 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Prompt
+Due to recent downturn in the Brazilian
+economy, BizAvi Company is currently seeking
+to diversify its portfolio of products and
+improve profitability. The Maintenance BU
+currently supports third party clients and the
+company’s owned business jets, which are
+operated by the Aircraft Chartering Unit.
+BizAvi Company has recently acquired three
+new units of Embraer aircraft, and currently
+outsources the maintenance services to the
+manufacturer.
+The CEO sees in the Embraer models also an
+opportunity for the Maintenance Business
+Unit, and has asked your help to assess the
+quality of this project.
+Clarifying points (if asked)
+- The company operates in Brazil, and most of its clients are also Brazilian;
+- The maintenance service consists in providing technical support to aircraft preventive and corrective maintenance, 
+which includes the supply of specialized labor and parts;
+- The main objective of the CEO is to increase financial gain;
+- The Aircraft Chartering Unit currently outsources the service to the aircraft manufacturer’ service center;
+- The company currently owns and operates three Embraer aircraft, with no plans to change the size of the fleet;
+- BizAvi Company company is a very renowed company in the country, and is well known by the technical expertise of 
+its maintenance personnel;
+- The company has a VP for the Maintenance BU and a VP for the Air Chartering Unit;
+- A repair station holds a licence to work on a list of determined aicraft models. This list is dependant upon having the 
+appropriate resources to conduct the service (such as trained labor, specialized equipment and technical publications)
+Case guidance
+This case has been designed to test the candidate’s ability on providing a relevant framework to a new 
+product launch.
+After drawing the structure the candidate will have to process a big amount of information and choose 
+what’s relevant to solve the case.
+The case will also test his/her ability to synthetize this information in a coherent conclusion.
+155
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p160 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Interviewer guidance - Structure
+156
+Suggested items to consider are:
+-
+Strategy: What’s the impact of insourcing this new model? Is it aligned with the company’s long-term vision? Does this certification strengthen the
+position of the Air chartering business unit? How many third-party aircrafts could be serviced? Does the company have money to fund this investment?
+-
+Market (instead of Strategy): How attractive is this Market? What’s the size? How does BizAvi Company performs compared to its competitors?
+-
+Financials: What’s the necessary investment to develop this project? What are the estimated revenues? What are the costs? What’s the NPV?
+-
+Internal capabilities: Does BizAvi Company currently have the resources to proceed with this project? If not, are they available in the market?
+-
+Risks/Alternatives: What could go wrong with this project? Does any of the parts bear more risk (Air-Chartering unit or Maintenance Unit)?
+If the candidate asks information about the market, handle him/her Exhibit 2;
+If the candidate asks about the financials, handle the information provided in the “Investment Analysis” section;
+If the candidate asks information about strategy alignment, handle him/her Exhibit 1;
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p161 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Exhibit 1: BizAvi Company Portfolio
+157
+Model
+HH / aircraft
+$ / HH
+COGS
+Markup
+Days in hangar
+Spots used in the hangar
+Total market
+Current Market share
+Embraer*
+300
+50
+$40.000,00
+10%
+20
+1
+150
+0%
+Model 1
+200
+40
+$20.000,00
+20%
+10
+1
+20
+50%
+Model 2
+500
+90
+$90.000,00
+20%
+21
+2
+15
+70%
+Model 3
+300
+50
+$30.000,00
+25%
+10
+1
+5
+100%
+*The Embraer model has not been included in the portfolio yet
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p162 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Interviewer guidance – Exhibit 1
+158
+Give some time for the candidate analyze the information provided. If
+he/she doesn’t raise concerns about the Contribution Margin of this new
+model, ask him/her how does the CM compare with the other models that
+BizAvi Company currently supports.
+Expected Calculations
+Interviewer guidance
+The candidate should realize that the Embraer model is worse than
+the models in the current portfolio of the company, and he/she
+should speculate on the viability of this project.
+A good candidate should remember from the prompt that the
+company owns 3 aircraft of that model, and still it could make
+sense to go ahead with this project. If he/she asks information on
+the Market, go to Exhibit 2. If he/she asks to see the financials, go
+to “Investment Analysis”.
+Model
+Contribution Margin
+Contribution Margin / Spot* / 
+Day
+Embraer
+$50*300 + 10%*$40.000,00 = $19.000,00
+$19.000,00 / 20 = $950,00
+Model 1
+$40*200 + 20%*$20.000,00 = $12.000,00
+$12.000,00 / 10 = $1.200,00
+Model 2
+$90*500 + 20%*$90.000,00 = $63.000,00
+$63.000,00 / 21 / 2 = $1.500,00
+Model 3
+$50*300 + 25%*$30.000,00 = $22.500,00
+$22.500,00 = $2.250,00
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+*Spot is the place in the hangar in which the aircraft is parked during maintenance
+
+
+===== PDF p163 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Exhibit 2: Embraer aircraft - Maintenance Market in Brazil
+159
+Service provider
+Price charged per hour*
+Markup on parts**
+Embraer Service Center
+$50
+10%
+Service Center 1
+$45
+8%
+Service Center 2
+$40
+10%
+Service Center 3
+$45
+10%
+80%
+10%
+7%
+3%
+Embraer models Market Share
+Embraer Service Center
+Service Center 1
+Service Center 2
+Service Center 3
+*Each aircraft uses on average 400HH / year
+**Markup is how much one should add to COGS to calculate the customer’s final price
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p164 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Brainstorming
+160
+What do you believe to be the client’s main drivers when choosing a 
+maintenance provider?
+Expected Brainstorming
+Interviewer guidance
+The answer should include some of the following:
+Technical
+-
+Quality of service provided (no reworks, for example);
+-
+Minimum aircraft downtime (the smallest, the better and no delays)
+Non technical
+-
+Price;
+-
+Availability of technicians in emergency situations;
+-
+Customer support;
+-
+Location of the service center;
+-
+Warranty on parts;
+-
+Branding;
+The candidate should soon realize that price is not the main driver in
+this market, and an entry would pose difficult challenges for BizAvi
+Company.
+A good candidate should remember from the prompt that the
+company owns 3 aircraft of that model, and still it could make sense
+to go ahead with this project. If he/she asks to see the financials, go
+to the next section, “Investment Analysis”;
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p165 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+161
+Revenues
+Price of labor
+$ 50,00 /HH
+Total labor
+400 HH/year/aircraft
+Parts (materials)
+$44.000,00 /year/aircraft
+Number of aircraft in the fleet
+3 aircraft
+Costs
+COGS (materials)
+$40.000,00 /year/aircraft
+Labor costs
+$24.000,00 /year/employee
+Other costs*
+10% of revenues
+*includes training, increase in utilities consumption and all other related costs
+Investment Analysis
+Calculations
+Revenues:
+($50,00 * 400 + $44.000,00)*3  = $64,000 * 3 = $192.000,00 / year
+Costs:
+1st: calculation of how many employes are necessary
+400 * 3 = 1200HH necessary
+Using the productivity of 75%: 1200 / 0,75 = 1600HH
+1600 / 40 / 40 = 1 employee
+2nd: calculation of costs
+$40.000*3 + $24.000 + 0,1*192.000,00 = $ 163.200,00 / year
+Profits:
+=192.000,00 – 163.200,00 = $ 28.800,00 / year
+NPV (expecting the Net profit as a perpetuity):
+$28.800.00/10% - $100.000,00 = $188.000,00 
+Investment
+One time investment
+$ 100.000,00 in Year 0
+Discount rate
+10% /year
+State the following information to the candidate:
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+Note: The candidate should ask how many additional employees are necessary to
+hire. Tell him/her to estimate the number based on the information provided,
+and say that the productivity of an employee is 75%. Each employee effectively
+works only 40 weeks / year due to vacation and mandatory trainings, and each
+week this is made of 40HH;
+
+
+===== PDF p166 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+162
+Clarifying points (if asked)
+-
+The company intends to operate the three aircraft for at least 10 years, and it has been operating some aicraft models for more than 20 years. From
+this comment the candidate should grasp that he can calculate the NPV using the perpetuity formula;
+-
+If the candidate asks for other clients, for simplicity consider only the 3 aircraft in the fleet;
+-
+The Maintenance BU would charge the Air Chartering Unit the same prices of Embraer;
+-
+The company needs to hire additional technicians and acquire some equipment (already accounted in the “One time investment” value). Appart
+from that, no other extra resources are necessary;
+-
+Diregard amortization and taxes;
+Key takeaways
+-
+Payback will be between 3-4 year and NPV is positive, indicating that the company has reasons to pursue this initiave;
+-
+Even though the project is viable, it’s worse than the current aircraft supported by the company. A distinctive candidate that has analyzed Exhibit 1
+will ponder that CM will reduce (in %);
+-
+The company will make more Money with labor than by selling parts. The candidate should especulate on the sensitivity of each parameter and
+how it would affect the profitability of the business;
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p167 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+Brainstorming (optional)
+163
+Right after the candidate finishes his/her calculations, you should state that this project also entails financial risks to other business units.
+In a conversation with the VP of the Air Chartering division, he mentioned the following numbers.
+Expected Brainstorming
+Question 1
+$10.000,00*50%*2*3/2*2 = $30.000,00 / day
+Question 2
+Technical
+- Unforseen maintenance (not scheduled in the regular check);
+- Difficulty when performing a procedure;
+- Lack of tooling or equipment at the moment of the inspection;
+Non-Technical
+- Delay in materials delivery;
+- Delay in quote approval for additional services;
+- Incidents with the technicians that prevents him/her from working;
+Financial data of Embraer models – Air Chartering Unit
+Price per hour
+$10.000,00
+Gross Margin
+50%
+Average duration of flight
+2 hours
+Frequency of flight
+3 flights every 2 days
+Question 1
+What would be the impact of 2 day a delay in the Air Chartering Unit PL?
+Questions 2
+What would you see as the main reasons for a delay in aircraft
+maintenance?
+Aviation
+Product Launch
+Operations
+Easy
+Medium
+Hard
+
+
+===== PDF p168 =====
+IESE CONSULTING CLUB
+IESE CASE BOOK 2021 |
+BizAvi Company
+164
+Industry
+Case Type
+Function
+Easy
+Medium
+Hard
+*includes training, increase in utilities consumption and all other related costs
+Recommendation
+Great, the CEO is about to join us. Can you please provide a final recommendation on the Embraer project? 
+Sample recommendation
+The candidate should sumarize that:
+-
+From the financial point of view, the project is attractive, with an expected NPV of around $190k and a yearly profit of approximately $30k (only 
+considering the owned fleet);
+-
+There’s an opportunity of capturing Third-Party clients on the new model, improving even further the profits and NPV;
+-
+Among the risks, there’s a considerable one on the Air Chartering unit PL due to delays in maintenance. The company should make sure to employ 
+all resources to deliver the aircraft on the same time as Embraer;
+A great candidate will also
+-
+Restate the this new model may possible reduce the Gross Margin (in %) of the Maintenance Business Unit (when comparing to the current 
+portfolio), but this may still be a good solution because of the downturn in the Brazilian economy;
+-
+Compare the CM of this new product and the GM of 2 day of operations to assess the priorities of the company;

@@ -1,0 +1,40 @@
+{
+  "case_id": "Kellogg_2016_28_tacotle-co",
+  "school": "Kellogg",
+  "year": "2016",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Kellogg\\Kellogg_Case Book_2016.pdf",
+  "idx": 28,
+  "case_name": "Tacotle Co.",
+  "case_type": "Profitability",
+  "round": null,
+  "industry": "Restaurant",
+  "difficulty": null,
+  "pdf_page_start": 203,
+  "pdf_page_end": 215,
+  "n_pages": 13,
+  "exhibit_pdf_pages": [
+    204,
+    206,
+    207,
+    208,
+    209,
+    211,
+    212,
+    213,
+    214,
+    215
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p204.png",
+    "exhibits/exhibit_p206.png",
+    "exhibits/exhibit_p207.png",
+    "exhibits/exhibit_p208.png",
+    "exhibits/exhibit_p209.png",
+    "exhibits/exhibit_p211.png",
+    "exhibits/exhibit_p212.png",
+    "exhibits/exhibit_p213.png",
+    "exhibits/exhibit_p214.png",
+    "exhibits/exhibit_p215.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Kellogg\\2016\\28_tacotle-co"
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "Ross_2012_19_big-trucks",
+  "school": "Ross",
+  "year": "2012",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Ross\\Ross_Case Book_2012.pdf",
+  "idx": 19,
+  "case_name": "Big Trucks",
+  "case_type": "Operations",
+  "round": "2",
+  "industry": "Manufacturing / Automotive",
+  "difficulty": null,
+  "pdf_page_start": 170,
+  "pdf_page_end": 177,
+  "n_pages": 8,
+  "exhibit_pdf_pages": [
+    172,
+    174
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p172.png",
+    "exhibits/exhibit_p174.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Ross\\2012\\19_big-trucks"
+}

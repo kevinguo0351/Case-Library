@@ -1,0 +1,26 @@
+{
+  "case_id": "Anderson_2015_18_stew-s-connections",
+  "school": "Anderson",
+  "year": "2015",
+  "source_pdf": "C:\\Users\\guowenjie\\Desktop\\Prep\\Top Business School Casebook_2023 Version\\Anderson\\Anderson_Case Book_2015.pdf",
+  "idx": 18,
+  "case_name": "Stew's Connections",
+  "case_type": "Market Entry",
+  "round": "2",
+  "industry": "Transportation / Aviation",
+  "difficulty": "medium",
+  "pdf_page_start": 96,
+  "pdf_page_end": 101,
+  "n_pages": 6,
+  "exhibit_pdf_pages": [
+    96,
+    100,
+    101
+  ],
+  "exhibit_images": [
+    "exhibits/exhibit_p096.png",
+    "exhibits/exhibit_p100.png",
+    "exhibits/exhibit_p101.png"
+  ],
+  "dir": "C:\\Users\\guowenjie\\casebook-drill\\data\\cases\\Anderson\\2015\\18_stew-s-connections"
+}

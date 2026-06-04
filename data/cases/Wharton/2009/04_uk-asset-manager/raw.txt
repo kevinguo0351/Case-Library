@@ -1,0 +1,270 @@
+===== PDF p73 =====
+Case: UK Asset Manager
+Bain, Mock Interview
+Our client is a private equity firm that is looking at a potential acquisition target.  The target is a UK asset management firm that 
+has seen a 33% drop in AUM in the past 18 months.  Outside of a valuation analysis of the target (assume this has been done by 
+the client), we need to determine whether or not this is a good acquisition.
+Problem statement narrative
+69
+The client is a private equity fund that wants you to 
+determine the acquisition prospects of an asset management 
+firm based in the United Kingdom.  The interviewer should 
+allow the interviewee to develop 1) a thorough framework 
+on how they would evaluate the problem, 2) an overall 
+recommendation to the client regarding the acquisition, and 
+3) next steps that offer to either dig deeper in a particular 
+area of analysis or offer ways in which the target company, 
+once acquired, could be improved.
+Case Type: Investment (Go/No-Go)
+Overview for interviewer
+Explain AUM as total assets under management within the 
+asset manager’s portfolio of three broad investment types: 
+retail, institutional, and alternative funds (~75% in retail and 
+institutional funds)
+Specific investments within retail and institutional funds 
+include mutual funds (comprised of equities, bonds, money 
+market funds, and others); alternative funds include hedge 
+funds and private equity investments (show Exhibit 1 here).
+The fund operates predominantly in the UK with a much 
+smaller presence in Germany and Spain.  
+Information to be provided upon request
+
+
+===== PDF p74 =====
+Case: UK Asset Manager
+Potential Issue Tree & Approach to Solving the Case
+One possible framework
+•Market size and how this 
+has changed over time by 
+segment, geography, and 
+product mix
+•Underlying drivers for AUM
+Market
+•Target’s major competitors 
+•Competitor market share 
+and how this has changed 
+over time
+•Reputation, product 
+Competitors
+•Key segments and purchasing 
+criteria
+•Major institutional customers
+•Major channel partners (e.g., 
+banks, financial advisors) 
+Customers/Channels
+•Profitability
+-Fee structure (revenues)
+-Compensation structure 
+(costs)
+•Portion of AUM declines due 
+Company
+70
+•How does this compare 
+across the different business 
+segments
+offering, AUM size, 
+customer mix, geographic 
+focus, etc.
+•Distribution 
+advantages/disadvantages
+•Do customers invest in 
+financial institution or 
+individual investment 
+manager?  
+•Customer stickiness
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+Possible follow-up and 
+guidance to interviewer
+• Total UK asset 
+management market £3.4T
+• AUM driven by: market 
+performance, 
+GDP/wealth, and net 
+capital flows
+• UK funds market: 75% 
+institutional, 25% retail
+•Major competitors include 
+banks, insurance companies, 
+and other fund managers
+•Target is 10th in both inst. 
+and retail and both are 
+highly fragmented markets 
+• No notable differences in 
+reputation, product 
+offering, mix, or distribution
+•Target lost the mandate from 
+a large institutional investor in 
+2008, accounting for much of 
+its capital/AUM outflows for 
+that year
+to market declines vs. fund 
+redemptions? 
+•Asset managers/key 
+personnel
+•Performance against 
+benchmarks/competitors
+Possible follow-up and 
+guidance to interviewer
+• Show Exhibit 2 that shows 
+-greater outflows than the 
+market 
+-about equal performance as 
+the market
+
+
+===== PDF p75 =====
+71
+Case: UK Asset Manager
+Exhibit 1: Target’s Total AUM by Fund Type
+15
+£20B
+15.7
+16.3
+18.1
+WCC Case - 2009 - UK Asset Manager
+Note: Fiscal year ending December 31 except for 2009 data which is as of June 2009
+0
+5
+10
+2005
+2006
+2007
+2008
+12.0
+2009*
+12.1
+Retail
+Institutional
+Alternative
+
+
+===== PDF p76 =====
+72
+400
+£500B 476
+-3.4
+1.9 2.0 4.4
+-114
+367 3.1 6.3
+0.0
+3.4 7.6 402
+UK funds market flow of funds
+(Dec '07- June '09)
+AuM
+Net outflow
+Net inflow
+Market
+~1% capital 
+inflows
+10
+£15B
+13.4
+-0.9 -0.2 0.0 0.0
+Target's flow of funds
+(Dec '07 - June '09)
+AuM
+Net outflow
+Net inflow
+Market
+~25% drop in asset 
+value in 2008
+~24% drop in asset 
+value in 2008
+~8% capital 
+outflows
+Mutual Fund Performance
+Case: UK Asset Manager
+Exhibit 2: AUM Summary
+0
+100
+200
+300
+12/07
+Equities
+Bond
+Money Mkt
+Other
+Market
+12/08
+Equities
+Bond
+Money Mkt
+Other
+Market
+06/09
+~3% capital 
+inflow
+0
+5
+10
+12/07
+Equities
+Bond
+Money Mkt
+Other
+Market
+-3.3
+12/08
+9.0
+Equities
+-0.1
+Bond
+-0.1
+Money Mkt
+-0.1
+Other
+0.1
+Market
+0.2
+06/09
+9.1
+Note: Excludes alternative investments
+~1% capital 
+outflows
+outflows
+
+
+===== PDF p77 =====
+Case: UK Asset Manager
+Question 1 – Math
+The candidate would benefit from knowing the “rule of 72” (ie, 
+Overall approach, good shortcuts & solution
+Annual returns of 4.5%
+Information to provide up front
+Math Question
+Given that the target’s funds under management are averaging 4.5% returns annually, how many years would it take for the funds to 
+double?
+73
+~72 divided by the rate of interest will give approximate 
+period of time needed for initial amount to double)
+OR
+Should realize absolute amount is unimportant (strictly depends 
+on rate)
+------------
+Solution: 72/4.5= ~16 years
+If asked, give current funds AUM of £9.1B
+Provide information if asked
+
+
+===== PDF p78 =====
+Case: UK Asset Manager
+Sample Recommendation
+Assuming no issues with valuation, recommend against client acquiring the target.  The target, on 
+average, has similar financial performance to industry peers but its clients are withdrawing capital 
+faster than the industry average.  While the motivation is unclear, there could be uncovered problems 
+with client service and/or client mix.  
+Recommendation
+Should validate valuation.  The valuation of target may be attractive despite being a poor performer 
+compared to the market.  The redemption problems, largely driven by one key client in 2008, could be 
+behind them.
+Risks
+Analyze alternative investments as well as German and Spanish markets
+74
+Analyze alternative investments as well as German and Spanish markets.
+Analyze performance of fund managers in order to determine which managers can be replaced 
+(compare performance against benchmarks).
+See if overall portfolio’s relative underweighting in institutional versus retail segments matters.
+Next Steps

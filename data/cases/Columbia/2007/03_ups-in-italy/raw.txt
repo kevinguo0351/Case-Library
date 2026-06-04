@@ -1,0 +1,229 @@
+===== PDF p16 =====
+ 
+Management Consulting Association Case Book 2007 
+- 12 - 
+Case 3: UPS in Italy
+Case 3: UPS in Italy
+Case 3: UPS in Italy
+Case 3: UPS in Italy 
+ 
+ 
+BACKGROUND 
+ 
+Firm: McKinsey & Company 
+Round: 2007 Summer, First 
+Content: Quantitative 
+ 
+CASE QUESTION 
+ 
+The CEO of a startup in a small village in Italy has hired McKinsey to help them decide 
+how many trucks to lease.  There are different models available, but our client has been 
+told that he/she will need to have a consistent fleet (they can only lease one model type) 
+and so we will also need to identify what model he/she should lease.  This company 
+provides the local delivery of packages sent to this village through UPS next-day-delivery 
+service.   
+Let me provide a quick overview of how the company operates: (i) They receive every 
+package at 5pm from UPS, (ii) a bunch of people then sort the packages and (iii) load 
+them on a truck where they are stored overnight, and (iv) then deliver them starting at 
+9am for 10 hours.  How would you suggest approaching the client’s problem? 
+ 
+ 
+INTERVIEWER BRIEFING 
+ 
+Recommended approach: This case tests a candidate's ability to analyze how many 
+packages must be delivered and to see if the bottleneck is the time or the truck size. Not 
+all information is provided up front to the candidate; he/she should be aware of this and 
+must identify additional data that will allow him/her to solve the case. 
+ 
+Key facts: 
+ Packages delivered per day: 1,000. 
+ Dimension of package (envelope) is 1x1x1. 
+ Operates five days a week. 
+ It takes 8 minutes, on average, to deliver a single package and to be ready for the next 
+one (“assume they deliver one every 8 minutes”). 
+ Truck A costs $150 per day and its dimensions are 3*4*5. 
+ Truck B costs $40 per day and its dimensions are 9*2*1. 
+ Truck C costs $130 per day and its dimensions are double the size of truck A. 
+ Drivers, fuel, etc. are not considered and do not make a material difference to the 
+analysis (for sake of simplicity). 
+ The case will include additional questions not addressed in the initial scope. 
+ 
+
+
+===== PDF p17 =====
+ 
+Management Consulting Association Case Book 2007 
+- 13 - 
+EXAMPLE DIALOGUE 
+ 
+Interviewer: So, how would you go about analyzing this problem? 
+ 
+Interviewee: I’d like to understand a few things to evaluate this decision. First, I would 
+like to start by analyzing the demand.  I would like to know how many packages we have 
+to deliver and how long, on average, it would take us to deliver a single package.  Then, I 
+would like to analyze the numbers in the context of the three truck models our client can 
+lease.   
+ 
+Interviewer: Ok.  We can satisfy a demand of 1,000 packages / day and it takes 8 minutes 
+on average to deliver each one. 
+ 
+Interviewee: So, 8 minutes per package / 60 minutes per hour * 1,000 packages / 10 
+hours = 13.3 trucks.  So we need at least 14 trucks.  I would like to think about the leases 
+we can consider. 
+ 
+Interviewer: Ok.  Let me show you the information we received from the client: 
+ 
+Truck 
+Cost per day 
+Dimensions 
+A 
+$150 
+3*4*5 
+B 
+$40 
+9*2*1 
+C 
+$130 
+6*8*10 
+ 
+Truck A cost $150 per day and its dimensions (for the packages) are 3*4*5.  Oh, by the 
+way, you did not ask about the average size of an envelope, but our client has told us that 
+the average size is 1*1*1. 
+ 
+Interviewee: Ok, so when assessing Truck A we multiply 1,000 (total packages for all 
+trucks) by 1*1*1 (average package size) and divide by 3*4*5. We will know how many 
+trucks we would need of the Truck A model.  My calculations show 16.6 which would 
+mean we would need 17 of this type of truck.  As 17 is more than the time constraint of 
+14 truck to ensure on-time delivery, we stick with 17.   
+ 
+So, this is the result of performing this analysis for each type of truck: 
+ 
+Truck 
+Cost per 
+day 
+Dimensions 
+# trucks 
+(rounded) 
+# trucks 
+(minimum) 
+Total cost 
+per day 
+A 
+$150 
+3*4*5 
+17 
+17 
+$2,550 
+B 
+$40 
+9*2*1 
+56 
+56 
+$2,240 
+C 
+$130 
+6*8*10 
+3 
+14 
+$1,820 
+ 
+
+
+===== PDF p18 =====
+ 
+Management Consulting Association Case Book 2007 
+- 14 - 
+Now, from a pure financial analysis, I would recommend leasing 14 trucks of the C 
+Model because it will allow our client to minimize the cost while ensuring on-time 
+delivery (customer satisfaction).  On the other hand, we also might consider that there 
+would be plenty of room for delivering other things if they can figure out how in the 
+future. 
+ 
+Interviewer: Ok, it seems a good idea.  Let’s move on.  Now imagine 6 months have 
+passed and your recommendation was pretty successful.  Now the CEO want us to 
+investigate any potential risks that he/she should be assessing/considering. 
+ 
+Interviewee: Can I take a minute to organize my thoughts? 
+ 
+Interviewer: Ok. 
+ 
+Interviewee: So, I would like to go over this problem by analyzing both internal and 
+external factors.  Here there is a list of the things I would think about: 
+ 
+ 
+ 
+Internal 
+ 
+External 
+ 
+ Need for extra drivers (e.g.: people get 
+sick) – do we have enough employees 
+ Unionized drivers may shift labor cost 
+up in the future 
+ Need to lease more trucks because 
+trucks can break down causing late 
+delivery 
+ Insurance costs 
+ Extra fine tickets than forecasted 
+because drivers want to deliver on time 
+ Etc. 
+ 
+ Only one supplier (UPS) – we are captive 
+to UPS 
+ Adoption of new technology (e-mail) 
+might reduce the need for sending 
+packages 
+ Government regulation  
+ New competition in the city – there are no 
+real barriers to entry, since UPS would 
+likely partner with any carrier who can 
+deliver on customer service metrics at a 
+cheaper cost 
+ No association with our brand, thus our 
+supplier can switch to our competitors or 
+start its own operation 
+ Etc. 
+ 
+ 
+Obviously, I could analyze the sorting operation more to make a more profound 
+(exhaustive) analysis but that was not covered on our initial discussion.   
+ 
+
+
+===== PDF p19 =====
+ 
+Management Consulting Association Case Book 2007 
+- 15 - 
+Interviewer: Don’t go that direction.  Let’s think of another scenario.  Now we have to 
+investigate sources for profit growth for this company with one restriction, we can 
+neither add new truck leases nor change the existing ones. 
+ 
+Interviewee: Ok.  Let me think, about increasing revenues:  
+ Extend hours: the trucks are already paid for the day, if we extend the delivery time 
+after 7pm we can deliver more of UPS or from other companies, even local 
+companies.  That would go (impact) directly to profits. 
+ Different packages: we may recommend to UPS to sell different (more robust) 
+packages to some clients and get part of it. 
+ Pick packages: every time we leave a package we make space to pick a package and 
+deliver it to another part of the village or to give it back to UPS to send it to another 
+place 
+ Get contract with a new operator: see whether we can deliver stuff to other company 
+who is in the delivery business but does not compete directly with UPS.  Thought we 
+can not add new trucks we can think about utilization of current trucks 
+ Advertisement: are the trucks painted with UPS logos?  We can sell advertisement to 
+them or to other companies.  Those trucks are all day in the street. 
+ Insurance: offer insurance of packages to clients. 
+ 
+Interviewer: What else? 
+ 
+Interviewee: We can also think about streamlining operations (reducing costs).  I would 
+think about them in terms of fixed and variable costs. 
+ Evaluate the route of each truck to reduce time or usage of gas (fuel) 
+ Improve technology usage in the sorting and loading packages.  May reduce number 
+of people at the factory 
+ Re-negotiate leasing terms for trucks  
+ Move warehouse to a cheaper place 
+ 
+Interviewer:  Ok, we are out of time, but thank you for the list of business challenges that 
+the client should assess, I am sure that some of these will lead to very interesting 
+discussions. 
