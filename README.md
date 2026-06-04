@@ -7,6 +7,7 @@ and exhibits/charts rendered to PNG.
 
 > **Want to practice with it (get an AI to interview you)?** See **[HOW_TO_USE.md](HOW_TO_USE.md)**.
 > **Want the patterns mined from all 2,141 cases** (trigger→action heuristics, per-type frameworks, the math/exhibit playbook, grounded with counts)? See **[PATTERNS.md](PATTERNS.md)**.
+> **Want the first-principles essence** (the 10 laws that generate every heuristic, the single most-rewarding bucket per type, and the exact "money lines")? See **[PRINCIPLES.md](PRINCIPLES.md)**. (中文: [PATTERNS.zh.md](PATTERNS.zh.md) · [PRINCIPLES.zh.md](PRINCIPLES.zh.md))
 > Note: case interviews have **no single right answer** — the `solution` blocks are a reference, not a grading key.
 
 Source corpus: `C:\Users\guowenjie\Desktop\Prep\Top Business School Casebook_2023 Version`
