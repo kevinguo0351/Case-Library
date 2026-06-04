@@ -1,5 +1,8 @@
 # Case-Cracking Pattern Playbook
 
+*中文版见 [PATTERNS.zh.md](PATTERNS.zh.md)*
+
+
 **Mined from all 2,141 cases in this library** — not generic prep advice. Every claim is grounded:
 percentages and "lift" come from a deterministic scan of every `drill.json`; the per-type heuristics
 come from agents that read hundreds of real answer keys. "Lift 1.7×" means *given that trigger, the
