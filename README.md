@@ -5,6 +5,9 @@ into structured, AI-readable **drill JSON** — one self-contained file per prac
 case, with the **prompt (what the candidate sees) split from the solution (answer key)**
 and exhibits/charts rendered to PNG.
 
+> **Want to practice with it (get an AI to interview you)?** See **[HOW_TO_USE.md](HOW_TO_USE.md)**.
+> Note: case interviews have **no single right answer** — the `solution` blocks are a reference, not a grading key.
+
 Source corpus: `C:\Users\guowenjie\Desktop\Prep\Top Business School Casebook_2023 Version`
 (17 schools, ~100 books).
 
